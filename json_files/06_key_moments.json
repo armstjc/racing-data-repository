@@ -1,0 +1,704 @@
+{
+    "laps": {
+        "0": [
+            {
+                "FlagState": 8,
+                "Note": "#5, #11, #19 car chiefs ejected after failing tech multiple times",
+                "NoteID": 41780,
+                "DriverIDs": [
+                    4030,
+                    1361,
+                    3368
+                ]
+            }
+        ],
+        "1": [
+            {
+                "FlagState": 1,
+                "Note": "#5 leads from outside, #9 second inside.  #5 leads but #9 stays with him",
+                "NoteID": 41818,
+                "DriverIDs": [
+                    4030,
+                    4062,
+                    4030,
+                    4062
+                ]
+            }
+        ],
+        "2": [
+            {
+                "FlagState": 1,
+                "Note": "#9 passes #5 exiting turn 2 to take the lead",
+                "NoteID": 41819,
+                "DriverIDs": [
+                    4062,
+                    4030
+                ]
+            }
+        ],
+        "7": [
+            {
+                "FlagState": 1,
+                "Note": "#23 backs into the outside wall in turn 4 from 21st after contact from #7",
+                "NoteID": 41820,
+                "DriverIDs": [
+                    4025,
+                    4096
+                ]
+            }
+        ],
+        "8": [
+            {
+                "FlagState": 2,
+                "Note": "#5 pits from second changes four tires",
+                "NoteID": 41821,
+                "DriverIDs": [
+                    4030
+                ]
+            }
+        ],
+        "12": [
+            {
+                "FlagState": 1,
+                "Note": "Restart #9 leads outside, #24 second inside, #11 third inside second row #5 restarts 31st.  ",
+                "NoteID": 41822,
+                "DriverIDs": [
+                    4062,
+                    4184,
+                    1361,
+                    4030
+                ]
+            }
+        ],
+        "15": [
+            {
+                "FlagState": 1,
+                "Note": "#7 24th spins and hits turn 3 wall after getting pinched by #47, #47 25th also spins but does not make contact with the wall",
+                "NoteID": 41823,
+                "DriverIDs": [
+                    4096,
+                    3888,
+                    3888
+                ]
+            }
+        ],
+        "17": [
+            {
+                "FlagState": 2,
+                "Note": "#12, #2, #42, #3, #5, #34, #17 stay out Leaders pit all take four tires",
+                "NoteID": 41824,
+                "DriverIDs": [
+                    4023,
+                    1816,
+                    4001,
+                    3873,
+                    4030,
+                    3832,
+                    3989
+                ]
+            }
+        ],
+        "21": [
+            {
+                "FlagState": 1,
+                "Note": "Restart #12 leads outside, #2 second inside, #9 9th is the first of the cars that pitted.  #12 leads #5 up to fourth",
+                "NoteID": 41825,
+                "DriverIDs": [
+                    4023,
+                    1816,
+                    4062,
+                    4023,
+                    4030
+                ]
+            }
+        ],
+        "24": [
+            {
+                "FlagState": 1,
+                "Note": "#9 restarted 9th now third, #19 6th and #11 13th",
+                "NoteID": 41826,
+                "DriverIDs": [
+                    4062,
+                    3368,
+                    1361
+                ]
+            }
+        ],
+        "43": [
+            {
+                "FlagState": 1,
+                "Note": "#4 up to second challenging #12 for the lead",
+                "NoteID": 41827,
+                "DriverIDs": [
+                    1416,
+                    4023
+                ]
+            }
+        ],
+        "45": [
+            {
+                "FlagState": 1,
+                "Note": "#12 and #4 battling for the lead has allowed the #9 to catch them, #19 now fourth #5 fifth, #11 sixth",
+                "NoteID": 41828,
+                "DriverIDs": [
+                    4023,
+                    1416,
+                    4062,
+                    3368,
+                    4030,
+                    1361
+                ]
+            }
+        ],
+        "47": [
+            {
+                "FlagState": 1,
+                "Note": "#19 passes #9 for third and the championship lead",
+                "NoteID": 41829,
+                "DriverIDs": [
+                    3368,
+                    4062
+                ]
+            }
+        ],
+        "49": [
+            {
+                "FlagState": 1,
+                "Note": "#4 passes #12 for the lead",
+                "NoteID": 41830,
+                "DriverIDs": [
+                    1416,
+                    4023
+                ]
+            }
+        ],
+        "51": [
+            {
+                "FlagState": 1,
+                "Note": "#19 passes #12 for the lead, #4 by for second",
+                "NoteID": 41831,
+                "DriverIDs": [
+                    3368,
+                    4023,
+                    1416
+                ]
+            }
+        ],
+        "63": [
+            {
+                "FlagState": 1,
+                "Note": "#19 leading by 2 seconds over #4 in second, #9, #5, #11 running 3rd to 5th",
+                "NoteID": 41832,
+                "DriverIDs": [
+                    3368,
+                    1416,
+                    4062,
+                    4030,
+                    1361
+                ]
+            }
+        ],
+        "75": [
+            {
+                "FlagState": 1,
+                "Note": "#19 wins stage 1, #9 3rd, #11 4th, #5 5th",
+                "NoteID": 41833,
+                "DriverIDs": [
+                    3368,
+                    4062,
+                    1361,
+                    4030
+                ]
+            }
+        ],
+        "79": [
+            {
+                "FlagState": 2,
+                "Note": "Leaders pit all take four tires, #9 takes the lead after stops, #19 jack man stumbled going from right to left side of the car and #19 goes to second",
+                "NoteID": 41834,
+                "DriverIDs": [
+                    4062,
+                    3368,
+                    3368
+                ]
+            }
+        ],
+        "84": [
+            {
+                "FlagState": 1,
+                "Note": "#9 leads outside, #19 second inside, ",
+                "NoteID": 41835,
+                "DriverIDs": [
+                    4062,
+                    3368
+                ]
+            }
+        ],
+        "86": [
+            {
+                "FlagState": 1,
+                "Note": "Championship 4 now running top-4 #9 1st, #19 2nd, #5 3rd, #11 4th",
+                "NoteID": 41836,
+                "DriverIDs": [
+                    4062,
+                    3368,
+                    4030,
+                    1361
+                ]
+            }
+        ],
+        "97": [
+            {
+                "FlagState": 1,
+                "Note": "#4 passes #11 for 4th",
+                "NoteID": 41837,
+                "DriverIDs": [
+                    1416,
+                    1361
+                ]
+            }
+        ],
+        "115": [
+            {
+                "FlagState": 1,
+                "Note": "#19 complaining about brake shake",
+                "NoteID": 41838,
+                "DriverIDs": [
+                    3368
+                ]
+            }
+        ],
+        "120": [
+            {
+                "FlagState": 1,
+                "Note": "#19 passes #9 for the lead, 37 laps into the run",
+                "NoteID": 41839,
+                "DriverIDs": [
+                    3368,
+                    4062
+                ]
+            }
+        ],
+        "129": [
+            {
+                "FlagState": 1,
+                "Note": "#00 loses RF tire and hits turn 3 wall",
+                "NoteID": 41840,
+                "DriverIDs": [
+                    4229
+                ]
+            }
+        ],
+        "131": [
+            {
+                "FlagState": 2,
+                "Note": "Leaders pit all take four tires, #9 takes the lead again after stops, #19 falls to fourth after pitting from the lead ",
+                "NoteID": 41841,
+                "DriverIDs": [
+                    4062,
+                    3368
+                ]
+            }
+        ],
+        "136": [
+            {
+                "FlagState": 1,
+                "Note": "Restart #9 leads outside, #4 second inside, #9 worst of the Championship 4 restarting 9th",
+                "NoteID": 41842,
+                "DriverIDs": [
+                    4062,
+                    1416,
+                    4062
+                ]
+            }
+        ],
+        "140": [
+            {
+                "FlagState": 1,
+                "Note": "Caution #47 24th hits the wall in turn 3 after losing a LF tire",
+                "NoteID": 41843,
+                "DriverIDs": [
+                    3888
+                ]
+            }
+        ],
+        "146": [
+            {
+                "FlagState": 1,
+                "Note": "Restart #9 leads outside, #4 second inside, #5 passes #4 for second",
+                "NoteID": 41844,
+                "DriverIDs": [
+                    4062,
+                    1416,
+                    4030,
+                    1416
+                ]
+            }
+        ],
+        "155": [
+            {
+                "FlagState": 1,
+                "Note": "#14 into the wall hard from 12th after LR tires goes flat",
+                "NoteID": 41845,
+                "DriverIDs": [
+                    4228
+                ]
+            }
+        ],
+        "156": [
+            {
+                "FlagState": 1,
+                "Note": "#8, #1, #48, #99 stay out Leaders pit all take four tires, #5 first off pit road after stops, #11 gains four positions up to fifth",
+                "NoteID": 41846,
+                "DriverIDs": [
+                    4065,
+                    453,
+                    4045,
+                    4113,
+                    4030,
+                    1361
+                ]
+            }
+        ],
+        "162": [
+            {
+                "FlagState": 1,
+                "Note": "Restart #8 leads outside, #1 second inside, #5 fifth first of the cars that pit.  #5 takes the lead through the dog leg, #9 into second",
+                "NoteID": 41847,
+                "DriverIDs": [
+                    4065,
+                    453,
+                    4030,
+                    4030,
+                    4062
+                ]
+            }
+        ],
+        "163": [
+            {
+                "FlagState": 1,
+                "Note": "#11 passes #19 for third",
+                "NoteID": 41848,
+                "DriverIDs": [
+                    1361,
+                    3368
+                ]
+            }
+        ],
+        "164": [
+            {
+                "FlagState": 1,
+                "Note": "Championship 4 again running 1st-4th #5, #9, #11, #19",
+                "NoteID": 41849,
+                "DriverIDs": [
+                    4030,
+                    4062,
+                    1361,
+                    3368
+                ]
+            }
+        ],
+        "167": [
+            {
+                "FlagState": 1,
+                "Note": "#9 pressuring #5 for the lead, giving him a bump entering the turn.  Contact from #9 damages right rear quarter panel of #5 giving him a slight areo advantage",
+                "NoteID": 41850,
+                "DriverIDs": [
+                    4062,
+                    4030,
+                    4062,
+                    4030
+                ]
+            }
+        ],
+        "190": [
+            {
+                "FlagState": 1,
+                "Note": "#5 wins stage 2 #9 second, #11 third, #19 fourth",
+                "NoteID": 41851,
+                "DriverIDs": [
+                    4030,
+                    4062,
+                    1361,
+                    3368
+                ]
+            }
+        ],
+        "193": [
+            {
+                "FlagState": 2,
+                "Note": "Leaders pit all take fours tires, #5 first off pit road",
+                "NoteID": 41852,
+                "DriverIDs": [
+                    4030
+                ]
+            }
+        ],
+        "198": [
+            {
+                "FlagState": 1,
+                "Note": "Restart #5 leads outside #9 second inside, #11 third, #19 fourth.  #19 did not get a good restart and #4 is challenging him for 4th",
+                "NoteID": 41853,
+                "DriverIDs": [
+                    4030,
+                    4062,
+                    1361,
+                    3368,
+                    3368,
+                    1416
+                ]
+            }
+        ],
+        "220": [
+            {
+                "FlagState": 1,
+                "Note": "#5 leading, seems to have a faster car following the damage to the right rear corner of the car",
+                "NoteID": 41854,
+                "DriverIDs": [
+                    4030
+                ]
+            }
+        ],
+        "234": [
+            {
+                "FlagState": 1,
+                "Note": "#9 has caught #5 and his battling him for the lead",
+                "NoteID": 41855,
+                "DriverIDs": [
+                    4062,
+                    4030
+                ]
+            }
+        ],
+        "236": [
+            {
+                "FlagState": 1,
+                "Note": "#9 takes the lead, #11 able to close on the top-2 as they battled for the lead",
+                "NoteID": 41856,
+                "DriverIDs": [
+                    4062,
+                    1361
+                ]
+            }
+        ],
+        "240": [
+            {
+                "FlagState": 1,
+                "Note": "#2 pits under green from 9th changes four tires",
+                "NoteID": 41857,
+                "DriverIDs": [
+                    1816
+                ]
+            }
+        ],
+        "245": [
+            {
+                "FlagState": 1,
+                "Note": "#11 passes #5 for second",
+                "NoteID": 41858,
+                "DriverIDs": [
+                    1361,
+                    4030
+                ]
+            }
+        ],
+        "247": [
+            {
+                "FlagState": 1,
+                "Note": "#19 pits from 4th under green, #12, #18, #24, #1 also pit",
+                "NoteID": 41859,
+                "DriverIDs": [
+                    3368,
+                    4023,
+                    454,
+                    4184,
+                    453
+                ]
+            }
+        ],
+        "248": [
+            {
+                "FlagState": 1,
+                "Note": "#38 loses RF tire and hits the turn 2 wall hard",
+                "NoteID": 41860,
+                "DriverIDs": [
+                    4301
+                ]
+            }
+        ],
+        "249": [
+            {
+                "FlagState": 2,
+                "Note": "Caution for #38, #19 was able to stay on the lead lap ",
+                "NoteID": 41861,
+                "DriverIDs": [
+                    4301,
+                    3368
+                ]
+            }
+        ],
+        "251": [
+            {
+                "FlagState": 2,
+                "Note": "#19, #12 stay out on the lead lap, Lead lap cars that had not pit now do so, all take four tires and #11 is the first off pit road.  #5 slightly slower stop falls to fifth",
+                "NoteID": 41862,
+                "DriverIDs": [
+                    3368,
+                    4023,
+                    1361,
+                    4030
+                ]
+            }
+        ],
+        "252": [
+            {
+                "FlagState": 2,
+                "Note": "#19 cycles to the lead, #18, #24, #2, #1, #41 all wave around back to the lead lap",
+                "NoteID": 41863,
+                "DriverIDs": [
+                    3368,
+                    454,
+                    4184,
+                    1816,
+                    453,
+                    4104
+                ]
+            }
+        ],
+        "255": [
+            {
+                "FlagState": 1,
+                "Note": "Restart #19 leads outside, #12 second inside, #11 third first of the cars who pit, #9 5th, #5 6th.  #11 up to second",
+                "NoteID": 41864,
+                "DriverIDs": [
+                    3368,
+                    4023,
+                    1361,
+                    4062,
+                    4030,
+                    1361
+                ]
+            }
+        ],
+        "256": [
+            {
+                "FlagState": 1,
+                "Note": "#9 has passed #12 and #22 and is now third",
+                "NoteID": 41865,
+                "DriverIDs": [
+                    4062,
+                    4023,
+                    3859
+                ]
+            }
+        ],
+        "259": [
+            {
+                "FlagState": 1,
+                "Note": "Championship 4 back to the top-4, #19 1st, #11 2nd, #9 3rd, #5 4th",
+                "NoteID": 41866,
+                "DriverIDs": [
+                    3368,
+                    1361,
+                    4062,
+                    4030
+                ]
+            }
+        ],
+        "272": [
+            {
+                "FlagState": 1,
+                "Note": "#9 third scrapes the wall ",
+                "NoteID": 41867,
+                "DriverIDs": [
+                    4062
+                ]
+            }
+        ],
+        "283": [
+            {
+                "FlagState": 2,
+                "Note": "Caution for debris #13 brake rotor in the dog leg",
+                "NoteID": 41868,
+                "DriverIDs": [
+                    3170
+                ]
+            }
+        ],
+        "285": [
+            {
+                "FlagState": 2,
+                "Note": "Leaders pit all take four tires, #5 gains three spots on pit road and takes the lead after stops, #11 second.  #19 slightly slow change on right rear goes to third",
+                "NoteID": 41869,
+                "DriverIDs": [
+                    4030,
+                    1361,
+                    3368
+                ]
+            }
+        ],
+        "289": [
+            {
+                "FlagState": 1,
+                "Note": "Restart #5 leads outside, #11 second inside, #9 third inside row 2, #19 fourth outside row two,  #19 clears #11 to second, #5 out to lead",
+                "NoteID": 41870,
+                "DriverIDs": [
+                    4030,
+                    1361,
+                    4062,
+                    3368,
+                    3368,
+                    1361,
+                    4030
+                ]
+            }
+        ],
+        "292": [
+            {
+                "FlagState": 1,
+                "Note": "#19 challenging #5 for the lead, within 0.2 seconds of each other",
+                "NoteID": 41871,
+                "DriverIDs": [
+                    3368,
+                    4030
+                ]
+            }
+        ],
+        "297": [
+            {
+                "FlagState": 1,
+                "Note": "#5 leading as #19 challenging him, #9 closing in on both of them",
+                "NoteID": 41872,
+                "DriverIDs": [
+                    4030,
+                    3368,
+                    4062
+                ]
+            }
+        ],
+        "302": [
+            {
+                "FlagState": 1,
+                "Note": "#11 passes #9 for third",
+                "NoteID": 41873,
+                "DriverIDs": [
+                    1361,
+                    4062
+                ]
+            }
+        ],
+        "312": [
+            {
+                "FlagState": 1,
+                "Note": "#5 wins the race and the Championship, #19 second, #11 third, #9 fourth",
+                "NoteID": 41874,
+                "DriverIDs": [
+                    4030,
+                    3368,
+                    1361,
+                    4062
+                ]
+            }
+        ]
+    }
+}

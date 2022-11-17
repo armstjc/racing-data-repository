@@ -1,0 +1,9 @@
+{
+    "status": 200,
+    "message": "Successfully invoked feed: articles",
+    "response": {
+        "news": {
+            "article": []
+        }
+    }
+}
