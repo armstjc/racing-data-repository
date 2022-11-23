@@ -1,0 +1,727 @@
+race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
+5143,53,53,Accident,"#47, 21 Incident Turn 4",34,2
+5143,65,65,Spin,#9 Spin Turn 2,15,2
+5143,75,75,Competition,Stage Conclusion,19,2
+5143,115,115,Unknown,#12 Slow On Track,47,2
+5143,116,116,Accident,"#5, 31 Incident Frontstretch",47,2
+5145,60,60,Accident,"#17, 22, 21, 34 Incident Turn 2",None,2
+5146,42,45,Accident,"#2, 14, 50 Incident Turn 2",16,2
+5146,53,56,Debris,Debris Turn 1,27,2
+5146,64,71,Accident,"#1, 6, 11, 18, 20, 21, 24, 48 Incident Backstretch / Stage 1 Conclusion",16,2
+5146,132,137,Competition,Stage 2 Conclusion,16,2
+5146,152,159,Accident,"#8, 19, 22, 27, 45 Incident Frontstretch",15,2
+5146,192,194,Accident,"#4, 5, 9, 38, 43, 62 Incident Frontstretch [Red: 00:05:32]",7,2
+5146,196,199,Accident,"#6, 17, 47 Incident Frontstretch",77,2
+5147,16,19,Spin,#18 Spin Turn 2 / Competition,None,2
+5147,39,42,Spin,#9 Spin Turn 2,78,2
+5147,54,57,Spin,#77 Spin Turn 2,15,2
+5147,67,73,Competition,Stage 1 Conclusion,9,2
+5147,92,96,Accident,#20 Incident Turn 4,9,2
+5147,112,115,Accident,#17 Incident Turn 2,77,2
+5147,117,121,Accident,"#6, 22 Incident Frontstretch",77,2
+5147,132,136,Competition,Stage 2 Conclusion,77,2
+5147,153,156,Accident,"#8, 24 Incident Turn 2",10,2
+5147,159,165,Accident,"#2, 6, 21, 23 Incident Turn 2",16,2
+5147,173,178,Spin,#1 Spin Turn 4,18,2
+5147,193,196,Spin,#9 Spin Turn 2,18,2
+5148,32,35,Competition,Competition Caution,44,2
+5148,39,42,Spin,#41 Spin in Turn 2,77,2
+5148,44,47,Accident,"#3, 16, 18 and 31 Incident on the Backstretch",41,2
+5148,65,68,Spin,#8 Spin in Turn 4,78,2
+5148,82,87,Competition,Stage 1 Conclusion,15,2
+5148,94,97,Accident,#14 and 99 Incident on the Frontstretch,None,2
+5148,105,109,Accident,#6 and 12 Incident in Turn 4,None,2
+5148,136,139,Accident,"#2, 14 and 21 Incident in Turn 4",16,2
+5148,143,147,Spin,#20 Spin on the Backstretch,2,2
+5148,167,174,Competition,Stage 2 Conclusion,20,2
+5148,222,226,Unknown,#11 Stalled in Turn 2,24,2
+5148,266,272,Accident,#23 and 43 Incident on the Frontstretch,17,2
+5149,27,31,Competition,Competition Caution,51,2
+5149,47,52,Debris,Debris from #7,15,2
+5149,62,69,Competition,Stage 1 Conclusion,78,2
+5149,120,125,Spin,#20 Spin Backstretch,6,2
+5149,187,194,Competition,Stage 2 Conclusion,42,2
+5149,222,229,Accident,#19 Incident Basckstretch,31,2
+5149,287,292,Accident,#43 Incident Backstretch,31,2
+5149,305,309,Spin,#9 Spin Backstretch,16,2
+5150,25,30,Accident,#16 Incident in Turn 2,None,2
+5150,47,51,Competition,Competition Caution,None,2
+5150,96,100,Accident,#1 Incident in Turn 1,51,2
+5150,102,110,Accident,"#3, 14, 18 and 42 Incident on the Frontstretch ",None,2
+5150,146,153,Unknown,"#2, 5, 7, 8, 11, 20, 21, 22, 34. 38, 41, 45, 48 Inisdent on the Frontstretch",1,2
+5150,157,161,Debris,Debris on the Frontstretch from #8,1,2
+5150,202,207,Accident,"#2, 4, 43. 47 and 99 Incident in Turn 4",22,2
+5150,210,216,Accident,"#5, 9 and 11 Incident on the Frontstretch ",48,2
+5150,255,259,Debris,Debris in Turn 3 and 4,15,2
+5150,302,306,Accident,#38 and 51 Incident in Turn 2,4,2
+5150,309,312,Accident,#10 and 99 Incident on the Frontstretch ,4,2
+5151,17,17,Competition,Conclusion of Stage 1,None,2
+5151,32,32,Competition,Conclusion of Stage 2,None,2
+5151,35,36,Debris,Debris on track in Turn 11,None,2
+5151,42,43,Unknown,#43 stopped on the back stretch,20,2
+5151,46,46,Debris,Debris on track in Turn 16,43,2
+5151,55,56,Unknown,#47 stuck on the backstretch,None,2
+5151,59,59,Unknown,Possible fluid on the front stretch ,None,2
+5151,64,65,Unknown,#27 stopped in Turn 3,None,2
+5151,67,67,Accident,"Accident involving the #22, #45 and #5 in Turn 1",None,2
+5152,11,15,Unknown,#45 Stopped on backstretch,31,2
+5152,72,80,Competition,Stage 1 Conclusion,41,2
+5152,232,240,Competition,Stage 2 Conclusion,3,2
+5152,247,252,Accident,"#43, #51, #57 Incident Turn 2",14,2
+5152,258,263,Accident,"#2, #41, #42 Incident Backstretch",None,2
+5153,82,91,Competition,Stage 1 Conclusion,34,2
+5153,182,192,Competition,Stage 2 Conclusion ,38,2
+5153,313,320,Unknown,#11 stalled on frontstretch ,6,2
+5153,395,401,Accident,#38 incident Turn 4,5,2
+5154,15,25,Competition,Competition,10,2
+5154,51,55,Spin,#14 Spin Turn 2,78,2
+5154,76,76,Accident,#77 Incident Turn 3 / Stage 1 Conclusion,4,2
+5154,93,96,Spin,#48 Spin Turn 4,41,2
+5154,99,105,Accident,"#4, 7, 16, 48 Incident Backstretch",51,2
+5154,115,118,Accident,"#3, 6 Incident Turn 2",16,2
+5154,127,131,Debris,Debris Backstretch,10,2
+5154,133,139,Accident,"#7, 21, 23 Incident Backstretch",16,2
+5154,151,151,Competition,Stage 2 Conclusion,16,2
+5154,163,167,Accident,"#9, 47, 51, 99 Incident Turn 3",16,2
+5154,170,175,Accident,#43 Incident Turn 2,51,2
+5154,179,183,Spin,#38 Spin Turn 2,16,2
+5154,204,210,Accident,#47 Incident Turn 2,16,2
+5154,213,226,Accident,"#3, 10, 45 Incident Turn 1 [Red Flag: 00:16:51]",19,2
+5155,58,64,Accident,"#16, 17, 41 Incident Turn 4/Stage 1 Conclusion",1,2
+5155,83,85,Unknown,#44 Stalled Turn 4,6,2
+5155,87,89,Spin,#78 Spin Turn 2,55,2
+5155,91,97,Accident,"#22, 2, 99, 42, 21, 18, 38, 41, 47 Incident Turn 1",77,2
+5155,107,110,Spin,#51 Spin Turn 1,34,2
+5155,122,125,Competition,Stage 2 Conclusion,38,2
+5156,42,45,Competition,Competition Caution ,14,2
+5156,69,83,Weather,Weather- rain,34,2
+5156,88,92,Accident,"#2, #12, #38 Incident Turn 3",41,2
+5156,122,128,Competition,Stage 1 Conclusion,42,2
+5156,157,163,Accident,#5 Incident Frontstretch ,21,2
+5156,190,194,Accident,"#16, #45 Incident Backstretch ",5,2
+5156,197,200,Accident,"#22, #43 Incident Turn 1",20,2
+5156,243,247,Accident,"#11, #51 Incident Frontstretch ",3,2
+5156,252,257,Competition,Stage 2 Conclusion ,8,2
+5156,325,330,Debris,Debris on backstretch,14,2
+5156,335,339,Accident,"#7, #99 Incident Turn 4",41,2
+5156,343,347,Accident,#8 Incident Backstretch,None,2
+5156,400,400,Unknown,,None,2
+5157,4,7,Spin,#6 Spin Backstretch,None,2
+5157,32,35,Competition,Competition Caution,78,2
+5157,56,59,Spin,#5 Spin Turn 4,6,2
+5157,92,96,Competition,Stage 1 Conclusion,78,2
+5157,168,174,Accident,"#18, 6 Incident Turn 2",21,2
+5157,187,194,Competition,Stage 2 Conclusion,31,2
+5157,196,199,Spin,#1 Spin Turn 2,2,2
+5157,256,260,Accident,#48 Incident Turn 2,None,2
+5157,262,267,Accident,"#41, 45, 19, 23, 9, 43, 11, 14, 12 Incident Turn 2",17,2
+5158,7,9,Spin,#14 Spin Frontstretch,None,2
+5158,35,40,Spin,#78 Spin Frontstretch,38,2
+5158,63,67,Accident,#99 Incident Turn 4,31,2
+5158,82,87,Competition,Stage 1 Conclusion,77,2
+5158,127,136,Spin,#4 Spin Turn 1,48,2
+5158,167,173,Competition,Stage 2 Conclusion,38,2
+5158,197,201,Spin,#9 Spin Turn 3,19,2
+5158,230,234,Unknown,Fluid on track,7,2
+5159,20,20,Competition,Stage 1 Conclusion,None,2
+5159,27,31,Accident,#77 Incident Turn 4,None,2
+5159,40,40,Competition,Stage 2 Conclusion,None,2
+5159,42,42,Accident,"#8, 21 Incident Frontstretch",None,2
+5160,25,25,Competition,Stage 1 Conclusion,None,2
+5160,37,43,Accident,#5 Incident Turn 4,23,2
+5160,49,52,Accident,"#1, 9, 18 Incident Frontstretch [Red Flag: 00:14:16]",None,2
+5160,54,54,Competition,Stage 2 Conclusion,None,2
+5160,76,80,Accident,#20 Incident Turn 4,47,2
+5160,82,82,Competition,Stage 3 Conclusion,47,2
+5160,106,111,Accident,#43 Incident Turn 4,23,2
+5160,133,138,Accident,#47 Incident Backstretch,None,2
+5161,19,22,Accident,"#15, 16 and 17 Incident in Turn 4",50,2
+5161,34,38,Spin,#77 Spin in Turn 3,17,2
+5161,47,50,Spin,#18 Spin in Turn 2,16,2
+5161,62,67,Accident,#7 Incident in Turn 4,18,2
+5161,102,107,Competition,Stage 1 Conclusion,21,2
+5161,127,131,Spin,#23 Spin in Turn 4,51,2
+5161,147,151,Spin,#2 Spin in Turn 3 ,23,2
+5161,167,170,Spin,#5 Spin in Turn 4,78,2
+5161,188,191,Accident,#9 Incident in Turn 4,78,2
+5161,193,196,Accident,"#4, 6, 9, 11, 12, 16, 19 21, 23, 24, 34, 38, 45 Incident on the Frontstretch",None,2
+5161,202,208,Competition,Stage 2 Conclusion,50,2
+5161,221,224,Accident,#4 Incident in Turn 2,50,2
+5161,255,258,Spin,#16 Spin in Turn 4,51,2
+5161,302,307,Competition,Stage 3 Conclusion,31,2
+5161,341,345,Debris,Debris in Turn 1 from #8,20,2
+5161,347,352,Accident,"#14, 17, 38 and 99 Incident on the Frontstretch [Red Flag: 11:00]",42,2
+5161,400,404,Spin,#14 Spin in Turn 1 ,21,2
+5161,406,411,Accident,"#1, 3, 5, 19, 22, 41 and 47 Incident in Turn 4",20,2
+5162,47,53,Competition,Stage 1 Conclusion,51,2
+5162,66,69,Accident,"#1, #11 Incident Turn 1",77,2
+5162,96,100,Spin,#12 Spin Turn 2,77,2
+5162,103,106,Accident,"#1, #9, #23 Incident Frontstretch",78,2
+5162,131,134,Accident,"#47, #23 Incident Turn 3",15,2
+5162,142,147,Competition,Stage 2 Conclusion,15,2
+5162,184,189,Spin,#8 Spin Backstretch,77,2
+5162,202,206,Accident,#47 Incident Backstretch,8,2
+5162,223,227,Accident,#41 Incident Turn 1,15,2
+5162,237,243,Accident,#4 Incident Turn 3,78,2
+5163,11,13,Unknown,Possible Fluid On Track From #23,None,2
+5163,27,29,Competition,Stage 1 Conclusion,None,2
+5163,57,60,Competition,Stage 2 Conclusion,20,2
+5163,84,87,Debris,Debris,77,2
+5164,42,47,Debris,Lightning and Debris,41,2
+5164,51,55,Unknown,#48 into turn 2,31,2
+5164,62,65,Unknown,#14 and #42 wrecked into turn 2,7,2
+5164,92,96,Competition,End of stage 1,42,2
+5164,119,124,Weather,Weather - Rain,38,2
+5164,140,150,Weather,Weather - Lightning,23,2
+5164,187,192,Competition,End of stage 2,51,2
+5164,206,209,Unknown,#12 spun into turn 4,2,2
+5164,256,261,Debris,Debris on track.,20,2
+5164,293,296,Unknown,#77 possible fluid leak in turn 4,7,2
+5165,17,17,Competition,Stage 1 Conclusion,7,2
+5165,32,32,Competition,Stage 2 Conclusion,51,2
+5166,27,30,Competition,Competition Caution ,None,2
+5166,62,66,Competition,Stage 1 Conclusion ,15,2
+5166,79,83,Accident,"Nos. 78, 17, 42 incident backstretch",None,2
+5166,92,98,Accident,"Nos. 22, 3, 19, 1, 19, 34, 18, 5, 20 incident turn 2",17,2
+5166,108,112,Accident,No. 17 incident turn 4,5,2
+5166,138,142,Spin,No. 14 spin turn 2,15,2
+5166,160,165,Accident,No. 48 incident turn 4/Stage 2 Conclusion,18,2
+5166,171,176,Accident,"Nos. 15, 42, 8, 24, 38, 23, 6, 5, 77 incident turn 3",22,2
+5166,190,194,Spin,"Nos. 18, 51 spin turn 2",23,2
+5166,237,241,Spin,No. 20 spin frontstretch,34,2
+5166,247,252,Accident,"Nos. 1, 11, 6, 12 incident frontstretch",20,2
+5166,254,257,Accident,"Nos. 22, 11 incident backstretch",18,2
+5166,260,260,Accident,"Nos. 7, 45, 41 incident backstretch",None,2
+5167,6,12,Accident,"#48, 77, 42 , 78, 31 Incident Backstretch",None,2
+5167,72,77,Competition,Stage 1 Conclusion,21,2
+5167,79,83,Spin,#18 Spin Backstretch,7,2
+5167,90,100,Accident,"#34, 21, 7 Incident Turn 2",3,2
+5167,147,151,Accident,#12 Incident Turn 4,31,2
+5167,153,156,Spin,#14 Spin Turn 4,47,2
+5167,164,167,Spin,#18 Spin Frontstretch,34,2
+5167,187,192,Competition,Stage 2 Conclusion,15,2
+5167,206,209,Accident,#38 Incident Turn 4,2,2
+5168,8,12,Spin,#2 Spin Turn 3,None,2
+5168,29,34,Spin,#10 Spin Turn 3/Stage 1 Conclusion,2,2
+5168,37,40,Accident,#77 Incident Turn 1 ,10,2
+5168,42,44,Spin,#11 Spin Turn 2,2,2
+5168,46,48,Accident,"#7, 34 Incident Turn 1",2,2
+5168,84,87,Spin,#42 Spin Turn 2,6,2
+5168,97,100,Competition,Stage 2 Conclusion,42,2
+5168,139,142,Accident,#12 Incident Turn 3,None,2
+5168,144,147,Accident,"#1, 4, 11, 20 Incident Turn 1",51,2
+5169,17,19,Competition,Stage 1 Conclusion,1,2
+5169,37,39,Competition,Stage 2 Conclusion,15,2
+5169,62,64,Accident,"#42, 5 Incident Turn 1",31,2
+5169,78,79,Debris,Debris on Frontstretch,17,2
+5169,81,84,Unknown,#3 Stuck in Gravel Turn 4,6,2
+5170,22,24,Competition,Competition Caution ,None,2
+5170,26,32,Accident,"#2, 10, 15, 18, 21, 34, 38, 45 and 47 Incident in Turn 2",None,2
+5170,47,51,Competition,Stage 1 Conclusion,34,2
+5170,99,105,Accident,#41 Incident on the Backstretch,23,2
+5170,110,113,Accident,#16 Incident in Turn 2,78,2
+5170,122,126,Competition,Stage 2 Conclusion,78,2
+5170,161,165,Accident,#1 and 20 Incident in Turn 4,99,2
+5171,5,7,Spin,No. 8 Spin Turn 4,None,2
+5171,72,78,Competition,Stage 1 Conclusion ,31,2
+5171,232,239,Competition,Stage 2 Conclusion,23,2
+5171,241,245,Accident,"Nos. 18, 1, 43, 19, 16 Incident Turn 4",24,2
+5171,252,256,Spin,No. 20 Spin Turn 4,2,2
+5172,22,23,Competition,Stage 1 Conclusion,24,2
+5172,42,44,Competition,Stage 2 Conclusion,77,2
+5172,46,47,Accident,"#91, 1, 3, 27 Incident Turn 5",11,2
+5172,80,81,Accident,#15 Incident Turn 1,1,2
+5172,84,85,Unknown,#27 Stuck in Gravel,23,2
+5173,32,34,Accident,"#4, 6. 11, 12, 20, 43 Incident on the Backstretch",2,2
+5173,37,40,Competition,Stage 1 Conclusion,12,2
+5173,97,100,Competition,Stage 2 Conclusion,45,2
+5173,103,107,Accident,"1, 7, 8, 17, 19, 23, 24 and 34 Incident on the Backstretch",45,2
+5173,126,130,Accident,"#3, 10, 14, 23, 41 and 48 Incident on the Frontstretch",45,2
+5173,132,134,Accident,#22 and 43 Incident on the Frontstretch,3,2
+5173,139,144,Accident,"#8, 9, 10, 11, 16, 17, 18, 21, 31, 38, 42, 47, 99 Incident in Turn 1 [Red Flag: 3:19:57]",None,2
+5174,6,16,Unknown,Precipitation,99,2
+5174,37,40,Competition,Competition Caution,None,2
+5174,114,121,Accident,"#14, #9 Incident Turn 2 / Stage 1 Conclusion",23,2
+5174,180,185,Spin,#38 Spin Turn 2,23,2
+5174,193,197,Accident,#5 Incident Frontstretch,3,2
+5174,219,223,Spin,#51 Spin Turn 4,10,2
+5174,232,236,Competition,Stage 2 Conclusion,5,2
+5174,277,283,Unknown,#4 Stopped on track,8,2
+5174,341,347,Accident,#51 Incident Turn 2,10,2
+5175,27,31,Competition,Competition Caution,51,2
+5175,35,38,Accident,"#1, 4 and 45 Incident in Turn 4",15,2
+5175,67,71,Accident,#8 Incident in Turn 2,51,2
+5175,82,86,Competition,Stage 1 Conclusion,78,2
+5175,91,95,Accident,#23 Incident in Turn 2,17,2
+5175,111,114,Accident,#47 Incident in Turn 2,17,2
+5175,116,120,Accident,"#7, 10, 21 and 43 Incident in Turn 1",17,2
+5175,139,143,Spin,#18 Spin in Turn 4,47,2
+5175,167,171,Competition,Stage 2 Conclusion,18,2
+5176,43,49,Debris,Debris Backstretch,51,2
+5176,93,99,Accident,#10 Incident Turn 4,51,2
+5176,127,133,Competition,Stage 1 Conclusion,21,2
+5176,140,145,Spin,#21 Spin Frontstretch,77,2
+5176,197,205,Spin,#43 Spin Backstretch,21,2
+5176,235,240,Unknown,#11 Slow On Frontstretch,7,2
+5176,252,259,Competition,Stage 2 Conclusion,42,2
+5176,271,276,Unknown,Possible Fluid On Track,51,2
+5176,278,286,Accident,"#99, 47, 3, 8, 38, 48, 2, 9, 77, 1, 21, 14 Incident Backstretch",43,2
+5176,353,360,Debris,Debris Turn 2,14,2
+5176,437,443,Unknown,#20 Slow On Backstretch,31,2
+5177,41,44,Accident,#19 Incident in Turn 4,77,2
+5177,50,54,Accident,#18 Incident in Turn 4,45,2
+5177,57,60,Accident,#42 and 47 Incident on the Frontstretch,51,2
+5177,79,83,Accident,#20 Incident in Turn 1,15,2
+5177,98,102,Accident,#48 Incident in Turn 4,None,2
+5177,107,111,Competition,Stage 1 Conclusion,None,2
+5177,138,141,Spin,#20 Spin in Turn 4,8,2
+5177,169,177,Accident,#51 Incident in Turn 4,78,2
+5177,185,191,Accident,#9 Incident in Turn 4,21,2
+5177,198,201,Spin,#17 Spin on the Frontstretch ,48,2
+5177,212,223,Competition,Stage 2 Conclusion [Red Flag: 0:56:00],48,2
+5177,243,247,Accident,#17 Incident in Turn 4,48,2
+5177,254,258,Accident,#4 Incident in Turn 3,None,2
+5177,269,276,Accident,#19 Incident in Turn 3,4,2
+5177,301,305,Accident,#2 and 47 Incident on the Backstretch,48,2
+5177,307,310,Accident,#10 Incident in Turn 2,2,2
+5178,9,11,Debris,Debris,None,2
+5178,25,29,Accident,"#2, 21, 22, 23, 31, 47, 48, 62 Incident Turn 1",None,2
+5178,46,49,Accident,#7 Incident Turn 2,62,2
+5178,62,65,Competition,Stage 1 Conclusion,None,2
+5178,122,126,Competition,Stage 2 Conclusion,20,2
+5178,183,186,Unknown,#16 Stopped on Track,6,2
+5179,27,29,Competition,Stage 1 Conclusion,None,2
+5179,52,54,Competition,Stage 2 Conclusion,None,2
+5179,105,106,Debris,Debris,47,2
+5179,109,110,Debris,Debris [Red Flag: 00:06:10],7,2
+5180,79,85,Spin,#18 Spin Turn 4/Stage 1 Conclusion,14,2
+5180,96,102,Accident,"#45, 20, 5 Incident Frontstretch",23,2
+5180,104,107,Accident,"#47, 14 Incident Frontstetch",17,2
+5180,167,171,Competition,Stage 2 Conclusion,38,2
+5180,195,199,Spin,#15 Spin Turn 4,17,2
+5180,229,232,Accident,#12 Incident Turn 2,47,2
+5180,241,245,Spin,#99 Spin Turn 4,None,2
+5180,247,251,Spin,#77 Spin Turn 4,21,2
+5181,31,35,Accident,#45 Incident on the Backstretch,78,2
+5181,82,87,Competition,Stage 1 Conclusion,41,2
+5181,162,170,Debris,Debris in Turn 2,17,2
+5181,212,216,Spin,#12 Spin in Turn 1,22,2
+5181,246,250,Accident,#8 Incident in Turn 2,34,2
+5182,132,139,Competition,Stage 1 Conclusion,24,2
+5182,262,271,Competition,Stage 2 Conclusion,21,2
+5182,274,280,Accident,"#1, 6 Incident Turn 3",24,2
+5182,321,329,Accident,#3 Incident Turn 4,14,2
+5182,394,403,Spin,#15 Spin Turn 3,38,2
+5182,468,476,Accident,#77 Incident Turn 3,34,2
+5183,62,68,Competition,Stage 1 Conclusion,47,2
+5183,86,90,Accident,"#47, 77 Incident Turn 2",42,2
+5183,187,192,Competition,Stage 2 Conclusion,48,2
+5183,194,199,Accident,"#8, 23, 34, 43 Incident Turn 4",41,2
+5183,201,204,Accident," #1, 9 Incident Frontstretch",7,2
+5183,269,279,Accident,"#34, 48 Incident Backstretch",45,2
+5184,15,19,Accident,"#18, 51 Incident Backstretch",07,2
+5184,32,36,Competition,Stage 1 Conclusion,24,2
+5184,62,66,Competition,Stage 2 Conclusion,24,2
+5184,85,90,Debris,Debris Turn 4,34,2
+5184,92,97,Accident,"#02, 11, 24, 34, 35, 38, 44, 53, 78, 92 Incident Frontstretch",23,2
+5184,120,120,Accident,"#31, 5, 48, 44, 23, 27, 10, 54 Incident Backstretch",None,2
+5185,8,13,Unknown,Possible Fluid From #10,21,2
+5185,20,24,Debris,Debris Turn 2,21,2
+5185,37,42,Competition,Stage 1 Conclusion,91,2
+5185,44,48,Accident,"#11, 54 Incident Frontstretch",91,2
+5185,57,60,Accident,#19 Incident Turn 4,36,2
+5185,72,76,Competition,Stage 2 Conclusion,44,2
+5185,104,108,Spin,#68 Spin Turn 2,36,2
+5185,125,128,Accident,#48 Incident Turn 2,68,2
+5185,142,144,Debris,Debris Turn 1,5,2
+5185,147,150,Accident,"#2, 02 Incident Turn 1",16,2
+5185,152,155,Accident,"#11, 19 Incident Turn 2",78,2
+5185,157,163,Accident,"#19, 2, 99 Incident Turn 4 [Red Flag: 00:23:01]",66,2
+5186,5,12,Unknown,Fluid on the Backstretch from #47,None,2
+5186,16,22,Debris,Debris in Turn 1 from #39 [Red Flag: 41:53],None,2
+5186,30,32,Accident,"#02, 2, 39, and 54 Incident in Turn 4",None,2
+5186,47,54,Competition,Stage 1 Conclusion,34,2
+5186,67,70,Spin,#34 Spin in Turn 2,31,2
+5186,75,78,Accident,#07 and 92 Incident in Turn 2,31,2
+5186,85,94,Accident,#5 and 07 Incident on the Backstretch,92,2
+5186,173,180,Accident,"#6, 34 and 99 Incident in Turn 4",02,2
+5186,183,188,Unknown,#1 and 19 in Turn 2,2,2
+5186,190,195,Accident,"#18, 21 and 98 Incident in Turn 4",44,2
+5186,200,200,Unknown,,None,2
+5187,23,33,Accident,#98 Incident Turn 3,35,2
+5187,47,54,Competition,Stage 1 Conclusion,None,2
+5187,56,61,Accident,"#54, 8 Incident Turn 2",23,2
+5187,92,99,Competition,Stage 2 Conclusion,48,2
+5188,22,26,Competition,Competition Caution,None,2
+5188,42,47,Competition,Stage 1 Conclusion,None,2
+5188,82,88,Competition,Stage 2 Conclusion,4,2
+5188,107,112,Accident,"#23, 27, 48 and 51 Incident on the Backstretch",98,2
+5188,114,122,Accident,#07 and 11 Incident in Turn 4,26,2
+5188,130,133,Spin,#1 Spin in Turn 2,None,2
+5188,140,143,Accident,"#2, 8 and 68 Incident in Turn 2",07,2
+5188,154,160,Accident,"#1, 7, 8, 9, 16, 18, 27, 36, 44, 45, 54 and 99 Incident on the Frontstretch",68,2
+5188,162,165,Accident,#31 and 98 Incident in Turn 1,1,2
+5188,167,170,Accident,"#5, 45 and 99 Incident in Turn 1 [Red Flag: 12:03]",1,2
+5189,16,17,Unknown,Possible fluid on the track at Turn 12,None,2
+5189,32,32,Competition,Conclusion of Stage 2,None,2
+5189,34,35,Debris,Debris in Turn 9,38,2
+5189,38,40,Debris,Debris on the backstretch,38,2
+5190,77,85,Competition,Stage 1 Conclusion,51,2
+5190,90,95,Debris,Debris Turn 1,5,2
+5190,152,160,Competition,Stage 2 Conclusion,9,2
+5191,2,13,Unknown,Fluid from the #47,None,2
+5191,40,45,Unknown,#44 stopped Turn 4,34,2
+5191,62,69,Competition,Stage 1 Conclusion ,5,2
+5191,74,79,Spin,#48 spin Turn 4,28,2
+5191,103,107,Accident,"#07, #99 incident Turn 2",66,2
+5191,116,119,Accident,"#23, #26 incident Turn 1",5,2
+5191,122,128,Competition,Stage 2 Conclusion ,None,2
+5191,158,162,Accident,#7 incident Turn 1,07,2
+5191,167,171,Accident,"#18, #36 incident Turn 2",66,2
+5191,173,178,Accident,"#8, #88 incident Turn 3",4,2
+5191,180,186,Accident,"#5, #98 incident Turn 3",28,2
+5191,222,226,Accident,#99 incident Turn 2,7,2
+5191,231,234,Accident,"#11, #21, #39, #88 incident Turn 4",7,2
+5191,238,242,Accident,"#26, #48 incident Turn 1",34,2
+5191,244,250,Accident,"#5, #8, #51, #88 incident Turn 1",None,2
+5191,252,259,Accident,"34, 68, 1, 9, 98, 21, 16, 27, 26, 8, 4, 91, 34, 31, 23 fronstretch incident [Red Flag 00:19:50]",5,2
+5194,12,14,Spin,#44 Spin Turn 2,None,2
+5194,27,30,Competition,Stage 1 Conclusion,44,2
+5194,49,54,Accident,"#91, 8, 66, 26, 02, 44 Incident Backstretch/Stage 2 Conclusion",78,2
+5194,69,71,Debris,Debris Backstretch,None,2
+5194,78,81,Accident,"#54, 19, 08, 44, 11 Incident Backstretch",8,2
+5194,98,101,Accident,#5 Incident Turn 1,19,2
+5194,105,109,Accident,"#19, 31, 18, 07, 68, 48, 6 Incident Turn 1",None,2
+5194,111,113,Accident,"#1, 21 Incident Backstretch",19,2
+5194,115,118,Accident,"#2, 45 Incident Turn 3",None,2
+5194,120,122,Unknown,#51 Car Stopped Turn 2,47,2
+5193,20,26,Accident,"#08, #34, #51 incident frontstretch ",91,2
+5193,47,54,Competition,Stage 1 Conclusion ,13,2
+5193,90,98,Accident,#91 incident Turn 2/Stage 2 Conclusion,34,2
+5193,105,108,Spin,#99 spin Turn 4,68,2
+5193,159,166,Unknown,#4 fluid on track Turn 4,27,2
+5207,11,14,Spin,#13 Spin Frontstretch,None,2
+5207,21,23,Spin,#27 Spin Turn 4,13,2
+5207,47,51,Competition,Stage 1 Conclusion,13,2
+5207,76,79,Accident,#31 Incident Turn 3,13,2
+5207,89,94,Competition,#68 Stalled on Frontstretch/Stage 2 Conclusion,44,2
+5207,122,125,Debris,#36 Debris,13,2
+5207,137,140,Spin,#07 Spin Backstretch,8,2
+5207,143,145,Unknown,#48 Flat Tire Turn 2,44,2
+5197,23,30,Unknown,Possible Fluid On Track From #6,35,2
+5197,33,36,Spin,#38 Spin Turn 2,13,2
+5197,39,46,Spin,#38 Spin Turn 2 / Stage 1 Conclusion,34,2
+5197,58,62,Accident,#2 Incident Turn 4,38,2
+5197,82,87,Competition,Stage 2 Conclusion,38,2
+5197,89,94,Accident,"#5, 8, 9, 19, 54, 78 Incident Turn 2",34,2
+5197,99,103,Accident,#9 Incident Turn 1,13,2
+5197,119,122,Unknown,#7 Slow On Track,13,2
+5197,124,128,Accident,"#07, 08, 36, 39 Incident Turn 3",2,2
+5197,131,134,Accident,#39 Incident Turn 1,2,2
+5197,139,145,Accident,"#08, 23, 34, 35, 36, 44, 66 Incident Frontstretch",02,2
+5195,16,19,Spin,No. 19 Spin in Turn 1,68,2
+5195,21,25,Spin,#13 Spin in Turn 3,68,2
+5195,33,35,Spin,#68 Spin in Turn 4,27,2
+5195,43,49,Accident,"#26, 31, 34 Incident on the Frontstretch",68,2
+5195,76,78,Spin,#27 Spin in Turn 2,36,2
+5195,92,99,Competition,Stage 2 Conclusion,27,2
+5195,105,109,Accident,#98 Incident in Turn 3,9,2
+5195,111,119,Accident,"#07, 23, 39, 45, 48 Incident in Turn 4",99,2
+5196,14,16,Unknown,#1 Slow On Track,16,2
+5196,27,27,Competition,Stage 1 Conclusion,35,2
+5196,29,31,Accident,"#6, #98, #13, #38, #2, #5, #48 Incident Turn 4",66,2
+5196,41,43,Debris,Debris,5,2
+5196,52,52,Competition,Stage 2 Conclusion,None,2
+5196,54,55,Debris,Debris,45,2
+5196,57,62,Unknown,Fluid on Track,07,2
+5196,64,68,Unknown,Fluid on Track,13,2
+5196,70,71,Debris,Debris,78,2
+5198,47,52,Competition,End of stage 1,6,2
+5198,92,96,Competition,End of Stage 2,28,2
+5198,106,109,Unknown,#8 spun into turn 2,51,2
+5198,117,122,Unknown,#26 spun into exit of turn 4,6,2
+5198,125,130,Unknown,"#2, #27, #07 into turn 3",31,2
+5200,9,12,Accident,"#02, 08 and 23 Incident in Turn 5",None,2
+5200,22,23,Competition,Stage 2 Conclusion,02,2
+5200,26,28,Accident,"#02, 4, 08, 9, 10, 11, 26, 31, 44, 45, 48, 51, 68 Incident in Turn 4",1,2
+5200,36,36,Accident,#35 Incident in Turn 12  ,23,2
+5200,45,46,Accident,#07 Incident in Turn 5,23,2
+5201,4,6,Accident,No. 34 incident turn 4,None,2
+5201,13,15,Spin,No. 2 spin backstretch,34,2
+5201,42,46,Competition,Stage 1 Conclusion,13,2
+5201,82,86,Competition,Stage 2 Conclusion,78,2
+5201,89,92,Accident,"No. 19, No.7 incident turn 4",08,2
+5201,108,115,Accident,"No. 1, No. 26 incident turn 3",16,2
+5202,36,41,Accident,"#45, 7 Incident Frontstretch",None,2
+5202,47,52,Competition,Stage 1 Conclusion,44,2
+5202,92,97,Accident,"#9, 11 Incident Turn 4/Stage 2 Conclusion",5,2
+5202,99,103,Accident,"#78, 45 Incident Turn 1",07,2
+5202,107,111,Accident,#11 Incident Turn 3,08,2
+5202,117,121,Spin,#26 Spin Turn 4,88,2
+5202,126,137,Accident,"#31, 8, 39, 27, 2, 98, 19, 1 Incident Turn 2 [Red flag: 00:07:23]",35,2
+5202,144,149,Accident,"#19, 16, 36 Incident Frontstretch",38,2
+5202,175,179,Unknown,Fluid on track from #13 Turn 2,44,2
+5199,4,7,Accident,"#36, 44 Incident Frontstretch",None,2
+5199,22,25,Competition,Stage 1 Conclusion,None,2
+5199,42,45,Competition,Stage 2 Conclusion,1,2
+5199,48,50,Accident,"#26, 27, 48, 51, 77,  Incident Frontstretch [Red Flag: 00:08:28]",66,2
+5199,54,56,Accident,"#10, 18 Incident Turn 1",66,2
+5204,16,18,Accident,"#35, 44 Incident Turn 7",39,2
+5204,22,24,Competition,Stage 1 Conclusion,44,2
+5204,27,28,Debris,Debris Turn 1,None,2
+5204,42,44,Competition,Stage 2 Conclusion,None,2
+5205,32,36,Competition,Stage 1 Conclusion,36,2
+5205,42,45,Accident,#38 and 78 Incident in Turn 2,6,2
+5205,54,58,Accident,#08 Incident on the backstretch,35,2
+5205,62,66,Competition,Stage 2 Conclusion,02,2
+5203,6,8,Accident,#7 Incident Turn 3,None,2
+5203,17,18,Unknown,#38 Stopped on Track,None,2
+5203,22,23,Competition,Stage 1 Conclusion,None,2
+5203,29,29,Unknown,#36 Stopped on Track,31,2
+5203,32,33,Unknown,#68 Stopped on Track,31,2
+5203,42,44,Competition,Stage 2 Conclusion,31,2
+5203,60,67,Accident,#11 Incident Turn 9,21,2
+5203,76,77,Unknown,#92 Stuck in Gravel,21,2
+5206,16,19,Accident,#18 Incident Turn 4,None,2
+5206,22,24,Debris,Debris,None,2
+5206,32,34,Competition,Stage 1 Conclusion,None,2
+5206,62,64,Competition,Stage 2 Conclusion,11,2
+5206,73,76,Spin,#98 Spin Backstretch,2,2
+5206,84,87,Accident,"#2, 07, 26, 68 Incident Backstretch",98,2
+5206,93,96,Accident,"#1, 7, 8, 16, 31, 39, 44 Incident Turn 1",35,2
+5206,99,103,Accident,"#19, 7, 11, 44, 08, 23, 98, 27 Incident Frontstretch",16,2
+5206,105,110,Accident,"#14, 68, 36, 39, 4, 54, 45, 5, 98, 27, 38, 6, 48 Incident Backstretch",7,2
+5206,112,116,Accident,"#9, 02, 11, 16, 10, 31, 54, 78 Incident Backstretch",36,2
+5206,118,118,Unknown,,None,2
+5217,47,53,Competition,Stage 1 Conclusion,51,2
+5217,57,61,Accident,"#68, 98, 31 Incident Turn 2",44,2
+5217,65,77,Unknown,Precipitation [Red Flag: 2:37:23],4,2
+5217,89,97,Competition,#66 Stopped on track / Stage 2 Conclusion,17,2
+5217,129,133,Spin,#19 spin turn 3,38,2
+5214,47,51,Competition,Stage 1 Conclusion,51,2
+5214,71,75,Spin,#51 Spin in Turn 4,02,2
+5214,83,88,Weather,Weather,68,2
+5214,92,93,Competition,Stage 2 Conclusion,51,2
+5209,6,10,Accident,#48 Incident Turn 2,None,2
+5209,14,18,Accident,"#98, 2 Incident Turn 4",None,2
+5209,37,41,Spin,#48 Spin Turn 4,35,2
+5209,46,50,Accident,#5 Incident Backstretch,77,2
+5209,87,94,Competition,Stage 1 Conclusion,38,2
+5209,130,138,Accident,"#2, 54, 9 Incident Turn 2",91,2
+5209,168,179,Accident,"#1, 66 Incident Turn 2 / Stage 2 Conclusion",38,2
+5209,272,280,Accident,"#7, 66 Incident Backstretch",23,2
+5213,20,24,Accident,#26 Incident on the Backstretch,23,2
+5213,38,42,Spin,#38 Spin in Turn 2,4,2
+5213,47,51,Competition,Stage 1 Conclusion,13,2
+5213,79,85,Accident,#08 Incident in Turn 2,None,2
+5213,92,96,Competition,Stage 2 Conclusion,38,2
+5213,105,109,Spin,#13 Spin in Turn 2,38,2
+5213,111,116,Accident,"#10,16, 23, 31, 34, 35, 39 and 68 Incident in Turn 3",02,2
+5213,118,126,Accident,"#07, 6, 7, 11, 18 19, 34, 36 and 91 Incident on the Backstretch",35,2
+5213,128,132,Accident,"#31, 34 and 78 Incident on the Backstretch",68,2
+5211,4,6,Spin,#54 Spin Backstretch,None,2
+5211,27,30,Competition,Stage 1 Conclusion,None,2
+5211,52,55,Competition,Stage 2 Conclusion,91,2
+5212,11,11,Accident,#68 Incident Turn 1,None,2
+5212,22,22,Competition,Stage 1 Conclusion,13,2
+5212,42,43,Competition,Stage 2 Conclusion,26,2
+5212,47,48,Accident,"#23, 27, 48 Incident Turn 6",66,2
+5212,51,52,Unknown,#91 Stopped Turn 11,13,2
+5212,57,58,Debris,Debris,None,2
+5212,60,61,Accident,"#38, 34, 98, 4, 6, 2, 10, 02  Incident Turn 2",35,2
+5212,67,67,Debris,Debris,None,2
+5212,69,70,Unknown,#98 Stopped On Track,07,2
+5210,47,51,Competition,Stage 1 Conclusion,23,2
+5210,92,96,Competition,Stage 2 Conclusion,02,2
+5210,162,166,Spin,#19 Spin Turn 2,23,2
+5208,4,7,Accident,"#08, 27, 66 and 98 Incident on the Backstretch",None,2
+5208,43,50,Spin,#38 Spin in Turn 3,35,2
+5208,92,96,Competition,Stage 2 Conclusion,08,2
+5208,189,195,Accident,"#28, 45 and 48 Incident on the Frontstretch",18,2
+5215,34,41,Accident,"#07, 35 Incident Turn 1",66,2
+5215,62,70,Competition,Stage 1 Conclusion,91,2
+5215,107,112,Accident,#10 Incident Turn 3,91,2
+5215,122,128,Competition,Stage 2 Conclusion,66,2
+5215,163,169,Accident,#66 Incident Turn 3,None,2
+5215,196,202,Accident,"#45, 68 Incident Turn 3",08,2
+5215,205,210,Accident,"#11, 39 Incident Turn 2",08,2
+5215,214,218,Accident,"#21, 51, 78 Incident Backstretch",08,2
+5215,221,227,Accident,"#21, 31, 35, 38, 45, 68, 78, 91 Incident Turn 4",None,2
+5215,236,241,Unknown,#16 Slow On Track,92,2
+5215,244,249,Accident,"#34, 08, 27 Incident Turn 1",16,2
+5215,251,260,Accident,"#18, 19, 54 Incident Turn 4",38,2
+5215,262,267,Accident,"#1, 7, 8 Incident Turn 2",38,2
+5215,269,269,Accident,"#54, 19 Incident Turn 2",None,2
+5216,32,37,Accident,#08 Incident Turn 2,36,2
+5216,47,53,Competition,Stage 1 Conclusion,44,2
+5216,61,65,Accident,"#66, 68 Incident Turn 1",None,2
+5216,92,98,Competition,Stage 2 Conclusion,68,2
+5216,103,108,Accident,"#1, 18, 23, 26, 34, 39 45, 98 Incident Turn 4",91,2
+5216,112,116,Accident,"#18, 34, 35, 91 Incident Turn 2",31,2
+5216,156,164,Unknown,Possible Fluid On Track From #77,68,2
+5216,167,170,Accident,"#9, 19 Incident Turn 2",45,2
+5218,22,26,Competition,Stage 1 Conclusion,43,2
+5218,42,46,Competition,Stage 2 Conclusion,45,2
+5218,65,67,Accident,#24 Incident Backstretch,7,2
+5218,81,84,Accident,#51 Incident Turn 2,44,2
+5218,86,89,Accident,"#44, 33, 30, 20 Incident Turn 4",28,2
+5218,100,104,Accident,"#45, 43, 16, 91, 88, 23, 4, 1, 19, 9, 02, 52, 18, 22, 75, 17, 66 Incident Frontstretch [Red 15:35]",7,2
+5218,106,106,Accident,"#44, 33 Incident Frontstretch",None,2
+5219,23,27,Accident,#9 Incident on the Backstretch,45,2
+5219,29,37,Accident,"#1, 38, 61, 88,  91 Incident in Turn 1",12,2
+5219,56,59,Spin,#62 Spin on the Frontstretch,12,2
+5219,62,66,Competition,Stage 2 Conclusion,45,2
+5219,73,77,Accident,#24 and 61 Incident on the Backstretch,62,2
+5219,91,94,Accident,#62 Incident in Turn 4,46,2
+5219,99,102,Accident,#17 and 42 Incident in Turn 4,46,2
+5219,105,111,Accident,"#17, 66, 98 and 99 Incident on the Frontstretch",33,2
+5219,120,123,Spin,#44 Spin in Turn 2,62,2
+5219,127,131,Accident,#51 and 98 Incident on the Backstretch,62,2
+5220,32,37,Competition,Stage 1 Conclusion,44,2
+5220,51,55,Debris,Debris on the Frontstretch from #20,43,2
+5220,61,66,Competition,Stage 2 Conclusion,12,2
+5220,69,75,Accident,"#40, 45 and 98 Incident in Turn 3",41,2
+5220,81,84,Spin,#30 Spin on the Frontstretch,98,2
+5220,92,97,Accident,"#3, 15 and 30 Incident in Turn 1",24,2
+5220,101,106,Accident,#44 Incident in Turn 3,24,2
+5221,14,14,Competition,Stage 1 Conclusion,22,2
+5221,16,17,Unknown,#40 Stopped on Track,22,2
+5221,22,22,Unknown,#88 Stuck in Turn 19 Gravel Trap,22,2
+5221,28,29,Competition,Stage 2 Conclusion,22,2
+5221,31,32,Unknown,#1 Stopped in Turn 8,37,2
+5221,35,35,Unknown,#25 Stopped on course in Turn 17,None,2
+5221,41,42,Unknown,#46 Stopped on track in Turn 2,37,2
+5221,44,44,Unknown,#2 stuck in the Turn 6 gravel trap,37,2
+5222,9,13,Accident,"#24, #44 Incident Frontstretch ",None,2
+5222,15,23,Unknown,#40 Stopped on track ,43,2
+5222,40,45,Unknown,#12 Stopped on the backstretch,43,2
+5222,52,60,Competition,Stage 1 Conclusion ,12,2
+5222,71,75,Unknown,Stopped truck between Turns 1-2,30,2
+5222,80,85,Spin,"#30, #45 spin Turn 2",43,2
+5222,102,108,Competition,Stage 2 Conclusion ,15,2
+5222,110,116,Spin,"#22, #46 spin Turn 2",None,2
+5222,123,127,Accident,"#20, #44 accident Turn 4",22,2
+5222,134,138,Accident,"#52, #98, #99 accident Turn 4",43,2
+5222,158,164,Accident,"#02, #33, #34 accident Turn 2",43,2
+5223,25,31,Spin,#49 Spin Turn 4,61,2
+5223,41,41,Competition,Stage 1 Conclusion,9,2
+5223,56,61,Spin,#44 Spin Turn 2,24,2
+5223,92,92,Competition,Stage 2 Conclusion,24,2
+5223,97,105,Unknown,"#22, 25 Stopped On Track [Red Flag 00:05:49]",9,2
+5223,113,118,Accident,#43 Incident Turn 2,12,2
+5223,126,132,Accident,"#18, 98 Incident Turn 2",12,2
+5223,140,145,Accident,"#19, 51, 66 Incident Turn 2",45,2
+5223,152,0,Unknown,,None,2
+5224,8,12,Accident,"#43, 33 Incident Turn 2",None,2
+5224,21,24,Spin,#45 Spin Turn 4,33,2
+5224,47,54,Competition,Stage 1 Conclusion,12,2
+5224,59,62,Spin,#62 Spin Backstretch,02,2
+5224,75,78,Spin,#30 Spin Turn 4,45,2
+5224,92,96,Competition,Stage 2 Conclusion,12,2
+5224,99,105,Accident,"#1, 15, 61, 22 Incident Turn 3",None,2
+5224,118,121,Spin,#51 Spin Turn 1,25,2
+5224,126,133,Accident,"#9, 30 Incident Frontstretch",25,2
+5224,143,147,Spin,#99 Spin Turn 2,51,2
+5225,32,36,Competition,Stage 1 Conclusion,45,2
+5225,62,67,Competition,Stage 2 Conclusion,18,2
+5225,92,95,Accident,#44 Incident Turn 2,None,2
+5225,123,126,Spin,#40 Spin Backstretch,1,2
+5226,11,14,Spin,#33 Spin Turn 2,None,2
+5226,37,42,Competition,Stage 1 Conclusion,3,2
+5226,72,77,Competition,Stage 2 Conclusion,30,2
+5226,87,91,Accident,"#19, 66 Incident Turn 2",45,2
+5226,107,111,Accident,"#5, 44 Incident Turn 3",3,2
+5226,129,133,Accident,"#16, 23 Incident Turn 2",9,2
+5226,143,147,Accident,"#15, 99 Incident Backstretch",9,2
+5227,32,36,Competition,Stage 1 Conclusion,1,2
+5227,54,57,Spin,#30 Spin in Turn 4,22,2
+5227,59,65,Accident,#20 and 24 Incident in Turn 1,9,2
+5227,132,135,Accident,#02 and 16 Incident in Turn 3,61,2
+5227,137,141,Accident,#17 and 42 Incident in Turn 4,16,2
+5228,37,43,Competition,Stage 1 Conclusion,56,2
+5228,47,52,Accident,"#17, #66 Incident Turn 2",5,2
+5228,55,59,Accident,"#4, #52, #66, #02, #91, #9 Incident Turn 4",40,2
+5228,63,68,Accident,"#23, #18 Incident Turn 1",30,2
+5228,72,77,Competition,Stage 2 Conclusion,12,2
+5228,95,99,Accident,"#3, #44 Incident Turn 3",33,2
+5228,109,113,Accident,"#88, #42 Incident Turn 2",38,2
+5228,126,129,Accident,#91 Incident Turn 1,38,2
+5228,133,136,Debris,Debris,23,2
+5228,159,163,Accident,#15 Incident Turn 3,None,2
+5228,165,165,Accident,"#19, #42, #5, #22 Incident Turn 2",None,2
+5229,22,25,Competition,Stage 1 Conclusion,42,2
+5229,28,30,Accident,"#4, 98 Incident Turn 8",42,2
+5229,47,49,Competition,Stage 2 Conclusion,None,2
+5229,62,64,Accident,"#25, 52 Incident Turn 11",20,2
+5229,67,68,Accident,#1 Incident Turn 1,56,2
+5229,72,73,Accident,"#7, 30, 52 Incident Turn 1 [Red Flag: 00:12:58]",99,2
+5230,5,8,Accident,"#98, #40 Incident Turn 1",None,2
+5230,32,39,Accident,"#12, #15, #51 Incident Turn 3",61,2
+5230,40,40,Competition,Stage 1 Conclusion,3,2
+5230,58,65,Accident,#62 Incident Turn 4,56,2
+5230,68,72,Unknown,#42 Stopped on track,45,2
+5230,91,91,Competition,Stage 2 Conclusion,45,2
+5230,115,122,Unknown,#46 Slow on track ,99,2
+5230,127,132,Unknown,#15 Stopped on track,56,2
+5230,143,146,Spin,#24 Spin Turn 1,15,2
+5231,9,13,Unknown,#24 into turn 4,15,2
+5231,21,24,Unknown,#30 spun into turn 2,None,2
+5231,47,53,Competition,End of stage 1,12,2
+5231,70,73,Unknown,#4 contact with #42 in the backstretch,47,2
+5231,97,102,Competition,End of Stage 2,12,2
+5231,120,124,Unknown,#62 spun out on frontstretch,4,2
+5231,128,134,Unknown,"#25, #51, and #23 wreck in turn 3",43,2
+5231,136,140,Unknown,#1 spun into #91 on the front stretch,43,2
+5232,9,10,Unknown,No. 46 stopped on track,None,2
+5232,18,19,Unknown,No. 20 stopped at pit exit,None,2
+5232,21,21,Competition,Stage 1 Conclusion ,None,2
+5232,42,42,Competition,Stage 2 Conclusion ,43,2
+5232,52,53,Unknown,No. 41 stopped in turn 4,16,2
+5232,56,59,Unknown,Possible fluid on track,45,2
+5232,62,64,Unknown,No. 51 stopped turn 2,99,2
+5233,2,4,Spin,#24 Spin Turn 2,None,2
+5233,8,10,Accident,#40 Incident Turn 1,None,2
+5233,13,18,Accident,"#1, 5, 9, 24, 62 Incident Turn 1 / Stage 1 Conclusion",40,2
+5233,32,35,Competition,Stage 2 Conclusion,9,2
+5233,43,46,Debris,Debris,5,2
+5234,10,20,Accident,"#12, 33 Incident Turn 1",None,2
+5234,31,37,Spin,#33 Spin Turn 4,35,2
+5234,62,70,Competition,Stage 1 Conclusion,35,2
+5234,74,80,Unknown,#43 Stopped on Track Turn 1,20,2
+5234,108,114,Spin,#4 Spin Turn 2,35,2
+5234,121,128,Spin,#40 Spin Turn 2/Stage 2 Conclusion,62,2
+5234,140,145,Debris,Debris Turn 4,24,2
+5234,149,158,Accident,"#45, 61, 38 Incident Backstretch",40,2
+5234,192,198,Accident,"#42, 91 Incident Frontstretch",9,2
+5234,200,205,Accident,"#17, 4 Incident Turn 4",24,2
+5235,72,80,Competition,Stage 1 Conclusion ,15,2
+5235,142,150,Competition,Stage 2 Conclusion ,42,2
+5235,216,222,Accident,"Nos. 42, 33 Incident Turn 1",61,2
+5236,32,37,Competition,Stage 1 Conclusion,56,2
+5236,57,64,Accident,#30 and 40 Incident on the Backstretch,24,2
+5236,66,69,Spin,#44 Spin on the Frontstretch,02,2
+5236,75,81,Unknown,Fluid on the Track from #22,20,2
+5237,38,47,Accident,"#43, 7, 9 Incident Turn 2",56,2
+5237,57,65,Competition,Stage 1 Conclusion,33,2
+5237,86,91,Spin,#32 Spin Turn 2,33,2
+5237,112,121,Competition,Stage 2 Conclusion,33,2
+5237,152,156,Accident,"#98, 33 Incident Turn 3",24,2
+5237,180,188,Accident,"#40, 15 Incident Turn 3",56,2
+5238,20,26,Accident,#3 Incident Turn 2 / Stage 1 Conclusion,84,2
+5238,28,31,Debris,Debris,84,2
+5238,34,38,Accident,"#28, 42, 45 Incident Turn 3",None,2
+5238,42,45,Competition,Stage 2 Conclusion,None,2
+5238,65,68,Unknown,Loose Tire on Track,None,2
+5238,74,76,Spin,#91 Spin Turn 4,None,2
+5238,80,84,Accident,"#13, 15, 22, 23, 30 Incident Turn 3",None,2
+5238,91,93,Unknown,#42 Stopped on Track,13,2
+5238,95,95,Accident,"#9, 51, 13, 4, 52 Incident Frontstretch",None,2
+5239,32,36,Competition,Stage 1 Conclusion,33,2
+5239,62,66,Competition,Stage 2 Conclusion,33,2
+5240,9,13,Accident,"#33, 20 Incident Turn 3",None,2
+5240,47,53,Competition,Stage 1 Conclusion,19,2
+5240,92,98,Competition,Stage 2 Conclusion,1,2
+5240,100,105,Accident,"#98, 16, 52 Incident Turn 1",42,2
+5240,107,111,Accident,"#17, 7, 62, 19  Incident Turn 1",45,2
+5240,135,140,Accident,#1 Incident Turn 3,40,2
+5240,148,152,Accident,"#66, 38 Incident Backstretch",40,2

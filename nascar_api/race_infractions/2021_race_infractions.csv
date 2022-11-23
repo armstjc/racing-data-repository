@@ -1,0 +1,2222 @@
+race_id,car_number,driver_fullname,driver_id,lap,lap_assessed,penalty,notes
+5006,9,Chase Elliott,4062,0,0,Tail End,Unapproved adjustment
+5006,22,Joey Logano,3859,9,10,Tail End,
+5006,47,Ricky Stenhouse Jr,3888,9,10,Tail End,
+5006,48,Alex Bowman,4045,14,18,Tail End,
+5006,19,Martin Truex Jr,3368,16,18,Tail End,Missed chicane
+5006,47,Ricky Stenhouse Jr,3888,16,18,Tail End,
+5006,47,Ricky Stenhouse Jr,3888,16,18,Tail End,Short cut course
+5006,22,Joey Logano,3859,22,24,Tail End,Improper pit entry
+5006,41,Cole Custer,4104,29,30,Tail End,
+5007,8,Tyler Reddick,4065,0,0,Tail End,Transmission
+5007,52,Josh Bilicki,4213,15,0,Tail End,Garage
+5007,33,Austin Cindric,4180,34,35,Pass Thru,
+5007,51,Cody Ware,4125,35,36,Pass Thru,
+5008,53,Joey Gase,4004,0,0,Tail End,Unapproved adjustment
+5008,15,Derrike Cope,666,33,35,Pass Thru,
+5008,14,Chase Briscoe,4228,36,40,Tail End,
+5008,13,Garrett Smithley,4142,36,40,Tail End,
+5008,16,Kaz Grala,4191,36,40,Tail End,
+5008,78,BJ McLeod,3973,37,0,Tail End,Garage
+5008,2,Brad Keselowski,1816,57,61,Tail End,
+5008,13,Garrett Smithley,4142,57,61,Tail End,
+5009,23,Bubba Wallace,4025,0,0,Tail End,Multiple Inspection Failures
+5009,43,Erik Jones,4059,0,0,Tail End,Engine Change
+5009,19,Martin Truex Jr,3368,0,0,Tail End,Radiator Change
+5009,41,Cole Custer,4104,0,0,Tail End,Back up car
+5009,24,William Byron,4184,0,0,Tail End,Back up car
+5009,42,Ross Chastain,4001,0,0,Tail End,Back up car
+5009,2,Brad Keselowski,1816,0,0,Tail End,Back up car
+5009,14,Chase Briscoe,4228,0,0,Tail End,Back up car
+5009,16,Kaz Grala,4191,0,0,Tail End,Back up car
+5009,38,Anthony Alfredo,4301,0,0,Tail End,Back up car
+5009,12,Ryan Blaney,4023,14,29,Tail End,
+5009,17,Chris Buescher,3989,14,0,Tail End,Garage
+5009,8,Tyler Reddick,4065,14,29,Tail End,
+5009,38,Anthony Alfredo,4301,14,0,Tail End,Garage
+5009,21,Matt DiBenedetto,3916,14,0,Tail End,Garage
+5009,78,BJ McLeod,3973,14,29,Tail End,
+5009,99,Daniel Suarez,4113,14,0,Tail End,Garage
+5009,24,William Byron,4184,14,29,Tail End,
+5009,77,Jamie McMurray,2208,14,29,Tail End,
+5009,19,Martin Truex Jr,3368,14,29,Tail End,
+5009,22,Joey Logano,3859,27,29,Tail End,
+5009,24,William Byron,4184,34,36,Other - See Notes,Pit- Repair damage
+5009,24,William Byron,4184,66,71,Tail End,
+5009,47,Ricky Stenhouse Jr,3888,112,117,Tail End,
+5009,20,Christopher Bell,4153,112,117,Tail End,
+5009,7,Corey Lajoie,4096,112,117,Tail End,
+5009,77,Jamie McMurray,2208,112,117,Tail End,
+5009,16,Kaz Grala,4191,113,117,Tail End,
+5009,78,BJ McLeod,3973,130,136,Tail End,
+5009,5,Kyle Larson,4030,132,136,Tail End,
+5009,1,Kurt Busch,453,132,136,Tail End,
+5009,47,Ricky Stenhouse Jr,3888,134,136,Tail End,
+5009,14,Chase Briscoe,4228,162,165,Pass Thru,
+5020,77,Justin Haley,4172,0,0,Tail End,Multiple Inspection Failures
+5020,53,Garrett Smithley,4142,0,0,Tail End,Unapproved Adjustments
+5020,43,Erik Jones,4059,0,0,Tail End,Engine Change (From the Daytona 500 single engine rule)
+5020,34,Michael McDowell,3832,1,3,Tail End,
+5020,34,Michael McDowell,3832,1,3,Tail End,
+5020,8,Tyler Reddick,4065,12,13,Tail End,Uncontrolled Tire
+5020,24,William Byron,4184,12,13,Tail End,Uncontrolled Tire
+5020,96,Ty Dillon,4013,17,19,Tail End,
+5020,42,Ross Chastain,4001,27,0,Tail End,Garage
+5020,14,Chase Briscoe,4228,28,29,Tail End,Uncontrolled Tire
+5020,16,AJ Allmendinger,3774,35,37,Tail End,
+5020,23,Bubba Wallace,4025,40,41,Pass Thru,
+5020,38,Anthony Alfredo,4301,42,43,Pass Thru,Didn't serve Stop N Go after missing front stretch chicane
+5020,21,Matt DiBenedetto,3916,53,60,Tail End,"Went to garage after missing both chicanes, served penalty upon return"
+5020,16,AJ Allmendinger,3774,59,60,Tail End,
+5020,18,Kyle Busch,454,66,68,Pass Thru,
+5011,11,Denny Hamlin,1361,0,0,Tail End,Unapproved adjustment
+5011,7,Corey Lajoie,4096,0,0,Tail End,Unapproved adjustment
+5011,48,Alex Bowman,4045,0,0,Tail End,Unapproved adjustment
+5011,15,James Davison,4211,0,0,Tail End,Multiple Inspection Failures
+5011,78,BJ McLeod,3973,26,30,Tail End,
+5011,52,Josh Bilicki,4213,27,30,Tail End,
+5011,00,Quin Houff,4229,28,30,Tail End,
+5011,10,Aric Almirola,40,199,207,Tail End,
+5011,12,Ryan Blaney,4023,200,207,Tail End,
+5011,11,Denny Hamlin,1361,200,207,Tail End,
+5011,51,Cody Ware,4125,205,207,Tail End,
+5010,23,Bubba Wallace,4025,27,30,Tail End,
+5010,23,Bubba Wallace,4025,48,51,Tail End,
+5010,14,Chase Briscoe,4228,48,51,Tail End,
+5010,99,Daniel Suarez,4113,48,51,Tail End,
+5010,53,Garrett Smithley,4142,49,51,Tail End,
+5010,15,Joey Gase,4004,50,51,Tail End,
+5010,52,Josh Bilicki,4213,83,87,Tail End,Garage
+5010,8,Tyler Reddick,4065,83,87,Tail End,
+5010,8,Tyler Reddick,4065,86,87,Tail End,
+5010,52,Josh Bilicki,4213,86,87,Tail End,
+5010,00,Quin Houff,4229,133,136,Pass Thru,
+5010,78,BJ McLeod,3973,164,167,Tail End,
+5010,9,Chase Elliott,4062,173,174,Tail End,
+5010,53,Garrett Smithley,4142,173,174,Tail End,
+5010,52,Josh Bilicki,4213,173,174,Tail End,
+5010,10,Aric Almirola,40,179,0,Tail End,Garage
+5010,78,BJ McLeod,3973,182,184,Tail End,
+5010,53,Garrett Smithley,4142,183,184,Tail End,
+5010,52,Josh Bilicki,4213,183,184,Tail End,
+5010,48,Alex Bowman,4045,252,254,Pass Thru,
+5012,53,Garrett Smithley,4142,0,0,Tail End,Driver change
+5012,5,Kyle Larson,4030,0,0,Tail End,Multiple Inspection Failures
+5012,24,William Byron,4184,0,0,Tail End,Multiple Inspection Failures
+5012,51,Cody Ware,4125,0,0,Tail End,Multiple Inspection Failures
+5012,00,Quin Houff,4229,0,0,Tail End,Unapproved adjustment
+5012,9,Chase Elliott,4062,0,0,Tail End,Unapproved adjustment
+5012,5,Kyle Larson,4030,32,36,Tail End,
+5012,38,Anthony Alfredo,4301,35,36,Tail End,
+5012,48,Alex Bowman,4045,47,51,Tail End,
+5012,3,Austin Dillon,3873,47,51,Tail End,
+5012,38,Anthony Alfredo,4301,48,51,Tail End,
+5012,52,Josh Bilicki,4213,50,51,Tail End,
+5012,99,Daniel Suarez,4113,78,83,Tail End,
+5012,77,Justin Haley,4172,78,83,Tail End,
+5012,51,Cody Ware,4125,89,98,Tail End,
+5012,52,Josh Bilicki,4213,96,98,Tail End,
+5012,18,Kyle Busch,454,141,147,Pass Thru,
+5012,5,Kyle Larson,4030,142,145,Pass Thru,
+5012,52,Josh Bilicki,4213,145,147,Pass Thru,
+5012,10,Aric Almirola,40,193,199,Tail End,
+5012,42,Ross Chastain,4001,193,199,Tail End,
+5012,9,Chase Elliott,4062,193,199,Tail End,
+5012,8,Tyler Reddick,4065,251,253,Pass Thru,
+5012,8,Tyler Reddick,4065,262,268,Tail End,
+5012,14,Chase Briscoe,4228,263,268,Tail End,
+5012,34,Michael McDowell,3832,283,287,Tail End,
+5013,9,Chase Elliott,4062,0,0,Tail End,Two Inspection Failures
+5013,00,Quin Houff,4229,0,0,Tail End,Unapproved Adjustments
+5013,66,Timmy Hill,3984,0,1,Pass Thru,Three Inspection Failures
+5013,47,Ricky Stenhouse Jr,3888,27,30,Tail End,
+5013,7,Corey Lajoie,4096,27,30,Tail End,
+5013,00,Quin Houff,4229,27,30,Tail End,
+5013,4,Kevin Harvick,1416,29,30,Tail End,
+5013,42,Ross Chastain,4001,109,112,Tail End,Uncontrolled Tire
+5013,1,Kurt Busch,453,113,0,Tail End,Garage
+5013,52,Josh Bilicki,4213,116,118,Tail End,
+5013,66,Timmy Hill,3984,116,118,Tail End,
+5013,53,Joey Gase,4004,155,161,Pass Thru,
+5013,2,Brad Keselowski,1816,213,217,Tail End,
+5013,9,Chase Elliott,4062,220,0,Tail End,Garage
+5013,18,Kyle Busch,454,221,224,Tail End,
+5013,52,Josh Bilicki,4213,235,238,Pass Thru,
+5013,99,Daniel Suarez,4113,267,269,Pass Thru,
+5013,00,Quin Houff,4229,269,271,Pass Thru,
+5017,5,Kyle Larson,4030,0,0,Tail End,Engine change
+5017,21,Matt DiBenedetto,3916,0,0,Tail End,Unapproved adjustment
+5017,34,Michael McDowell,3832,0,0,Tail End,Unapproved adjustment
+5017,18,Kyle Busch,454,42,45,Tail End,
+5017,15,Chris Windom,4238,50,51,Tail End,Working after time expired
+5017,66,Mike Marlar,4329,50,51,Tail End,Working after time expired
+5017,20,Christopher Bell,4153,53,0,Tail End,Garage
+5017,5,Kyle Larson,4030,53,59,Tail End,
+5017,42,Ross Chastain,4001,53,0,Tail End,Garage
+5017,66,Mike Marlar,4329,57,59,Tail End,
+5017,15,Chris Windom,4238,61,63,Other - See Notes,Pit- Repairs
+5017,52,Josh Bilicki,4213,150,151,Tail End,Working after time expired
+5017,12,Ryan Blaney,4023,153,158,Tail End,
+5017,18,Kyle Busch,454,154,158,Tail End,
+5017,48,Alex Bowman,4045,154,158,Tail End,
+5017,51,Cody Ware,4125,155,158,Tail End,
+5017,53,JJ Yeley,3669,155,158,Tail End,
+5017,18,Kyle Busch,454,161,169,Tail End,
+5017,14,Chase Briscoe,4228,161,169,Tail End,
+5019,8,Tyler Reddick,4065,0,0,Tail End,Unapproved adjustment
+5019,99,Daniel Suarez,4113,0,0,Tail End,Inspection Infraction
+5019,7,Corey Lajoie,4096,0,0,Tail End,Multiple Inspection Failures
+5019,77,Justin Haley,4172,0,0,Tail End,Multiple Inspection Failures
+5019,15,James Davison,4211,0,0,Tail End,Multiple Inspection Failures
+5019,53,JJ Yeley,3669,52,56,Tail End,
+5019,53,JJ Yeley,3669,65,71,Pass Thru,
+5019,78,BJ McLeod,3973,134,140,Tail End,
+5019,51,Cody Ware,4125,242,247,Tail End,
+5019,22,Joey Logano,3859,242,247,Tail End,
+5019,51,Cody Ware,4125,245,247,Tail End,
+5019,21,Matt DiBenedetto,3916,252,258,Tail End,
+5019,53,JJ Yeley,3669,264,269,Tail End,
+5019,77,Justin Haley,4172,277,282,Tail End,
+5019,34,Michael McDowell,3832,279,282,Tail End,
+5019,3,Austin Dillon,3873,291,293,1 Lap,
+5019,2,Brad Keselowski,1816,341,347,Tail End,
+5019,10,Aric Almirola,40,350,355,Tail End,
+5019,18,Kyle Busch,454,387,396,Tail End,
+5019,1,Kurt Busch,453,387,396,Tail End,
+5019,38,Anthony Alfredo,4301,387,396,Tail End,
+5019,15,James Davison,4211,387,396,Tail End,
+5019,17,Chris Buescher,3989,388,396,Tail End,
+5019,42,Ross Chastain,4001,391,396,Tail End,
+5019,14,Chase Briscoe,4228,453,458,Tail End,
+5019,12,Ryan Blaney,4023,454,458,Tail End,
+5038,77,Justin Haley,4172,2,0,Pass Thru,Garage
+5038,99,Daniel Suarez,4113,32,37,Tail End,
+5038,52,Josh Bilicki,4213,34,37,Tail End,
+5038,15,James Davison,4211,35,37,Tail End,
+5038,6,Ryan Newman,2394,141,147,Tail End,
+5038,48,Alex Bowman,4045,240,247,Tail End,
+5038,47,Ricky Stenhouse Jr,3888,240,247,Tail End,
+5038,78,BJ McLeod,3973,293,298,Pass Thru,
+5038,19,Martin Truex Jr,3368,294,296,Pass Thru,
+5038,53,Garrett Smithley,4142,296,298,Pass Thru,
+5038,18,Kyle Busch,454,343,346,Pass Thru,
+5038,4,Kevin Harvick,1416,381,388,Tail End,
+5021,51,Cody Ware,4125,0,0,Tail End,Multiple Inspection Failures
+5021,78,BJ McLeod,3973,0,0,Tail End,Unapproved Adjustments
+5021,11,Denny Hamlin,1361,0,0,Tail End,Unapproved Adjustments
+5021,19,Martin Truex Jr,3368,0,0,Tail End,Unapproved Adjustments
+5021,20,Christopher Bell,4153,0,0,Tail End,Unapproved Adjustments
+5021,23,Bubba Wallace,4025,0,0,Tail End,Unapproved Adjustments
+5021,96,Harrison Burton,4217,0,0,Tail End,Unapproved Adjustments
+5021,96,Harrison Burton,4217,26,30,Tail End,
+5021,19,Martin Truex Jr,3368,26,30,Tail End,
+5021,37,Ryan Preece,4070,26,30,Tail End,
+5021,28,Joey Gase,4004,39,43,Tail End,
+5021,47,Ricky Stenhouse Jr,3888,60,66,Tail End,
+5021,2,Brad Keselowski,1816,60,66,Tail End,
+5021,23,Bubba Wallace,4025,60,66,Tail End,
+5021,14,Chase Briscoe,4228,60,66,Tail End,
+5021,10,Aric Almirola,40,60,66,Tail End,
+5021,99,Daniel Suarez,4113,83,84,Pass Thru,
+5021,42,Ross Chastain,4001,83,84,Pass Thru,
+5021,52,Josh Bilicki,4213,87,96,Pass Thru,
+5021,4,Kevin Harvick,1416,91,92,Pass Thru,
+5021,17,Chris Buescher,3989,91,92,Pass Thru,
+5021,11,Denny Hamlin,1361,92,93,Pass Thru,
+5021,11,Denny Hamlin,1361,93,95,Pass Thru,
+5021,1,Kurt Busch,453,104,0,Tail End,Garage
+5021,47,Ricky Stenhouse Jr,3888,104,109,Tail End,
+5021,4,Kevin Harvick,1416,105,109,Tail End,
+5021,11,Denny Hamlin,1361,119,126,Tail End,
+5021,48,Alex Bowman,4045,120,0,Tail End,Garage
+5021,9,Chase Elliott,4062,120,126,Tail End,
+5021,41,Cole Custer,4104,120,126,Tail End,
+5021,24,William Byron,4184,120,126,Tail End,
+5021,19,Martin Truex Jr,3368,120,126,Tail End,
+5021,00,Quin Houff,4229,154,157,Pass Thru,
+5021,6,Ryan Newman,2394,155,158,Pass Thru,
+5021,6,Ryan Newman,2394,158,159,Pass Thru,
+5021,11,Denny Hamlin,1361,172,176,Tail End,
+5021,37,Ryan Preece,4070,172,176,Tail End,
+5021,11,Denny Hamlin,1361,172,176,Tail End,
+5021,1,Kurt Busch,453,173,176,Tail End,
+5021,19,Martin Truex Jr,3368,185,189,Tail End,
+5021,19,Martin Truex Jr,3368,185,189,Tail End,
+5029,38,Anthony Alfredo,4301,0,0,Tail End,Unapproved Adjustments
+5029,43,Erik Jones,4059,0,0,Tail End,Multiple Inspection Failures
+5029,42,Ross Chastain,4001,0,0,Tail End,Multiple Inspection Failures
+5029,14,Chase Briscoe,4228,26,30,Tail End,
+5029,14,Chase Briscoe,4228,26,30,Tail End,Not single file entering pits
+5029,6,Ryan Newman,2394,35,38,Other - See Notes,Pit- Unapproved body modification
+5029,00,Quin Houff,4229,85,87,Tail End,
+5029,51,Cody Ware,4125,123,126,Pass Thru,
+5029,00,Quin Houff,4229,125,131,Pass Thru,
+5029,52,Josh Bilicki,4213,166,167,Tail End,
+5029,8,Tyler Reddick,4065,212,216,Pass Thru,
+5029,10,Aric Almirola,40,213,220,Pass Thru,
+5029,51,Cody Ware,4125,217,220,Pass Thru,
+5029,51,Cody Ware,4125,217,220,Pass Thru,
+5029,4,Kevin Harvick,1416,230,235,Tail End,
+5029,99,Daniel Suarez,4113,232,235,Tail End,
+5029,7,Corey Lajoie,4096,233,235,Tail End,
+5029,52,Josh Bilicki,4213,234,235,Tail End,
+5029,11,Denny Hamlin,1361,245,249,Tail End,
+5029,33,Austin Cindric,4180,253,257,Tail End,
+5029,47,Ricky Stenhouse Jr,3888,253,257,Tail End,
+5029,37,Ryan Preece,4070,257,0,Tail End,Garage
+5029,20,Christopher Bell,4153,258,265,Tail End,
+5029,33,Austin Cindric,4180,259,265,Tail End,
+5014,10,Aric Almirola,40,0,0,Tail End,Multiple Inspection Failures 
+5014,9,Chase Elliott,4062,0,0,Tail End,Unapproved Adjustments
+5014,1,Kurt Busch,453,10,11,Tail End,
+5014,18,Kyle Busch,454,23,28,Tail End,
+5014,5,Kyle Larson,4030,92,97,Tail End,
+5014,15,James Davison,4211,96,97,Tail End,
+5014,52,Josh Bilicki,4213,103,104,Tail End,
+5014,20,Christopher Bell,4153,110,114,Tail End,
+5014,38,Anthony Alfredo,4301,189,193,Tail End,
+5014,38,Anthony Alfredo,4301,226,229,Pass Thru,
+5014,22,Joey Logano,3859,255,259,Pass Thru,
+5034,77,Josh Berry,4123,0,0,Tail End,Driver Change
+5034,9,Chase Elliott,4062,0,0,Tail End,Multiple Inspection Failures
+5034,6,Ryan Newman,2394,0,0,Tail End,Unapproved Adjustments
+5034,8,Tyler Reddick,4065,37,40,Tail End,
+5034,34,Michael McDowell,3832,37,40,Tail End,
+5034,7,Corey Lajoie,4096,38,40,Tail End,
+5034,34,Michael McDowell,3832,39,40,Tail End,
+5034,15,James Davison,4211,39,40,Tail End,
+5034,14,Chase Briscoe,4228,121,129,Tail End,
+5034,77,Josh Berry,4123,123,129,Tail End,
+5034,15,James Davison,4211,123,129,Tail End,
+5034,15,James Davison,4211,125,129,Tail End,
+5034,77,Josh Berry,4123,172,176,Tail End,
+5034,12,Ryan Blaney,4023,172,176,Tail End,
+5034,12,Ryan Blaney,4023,174,176,Tail End,
+5034,7,Corey Lajoie,4096,174,176,Tail End,Uncontrolled Tire
+5034,51,Cody Ware,4125,243,248,Tail End,
+5034,51,Cody Ware,4125,246,248,Tail End,
+5034,51,Cody Ware,4125,247,248,Tail End,
+5034,47,Ricky Stenhouse Jr,3888,305,308,Tail End,
+5034,53,Garrett Smithley,4142,307,308,Tail End,
+5034,52,Josh Bilicki,4213,307,308,Tail End,
+5034,47,Ricky Stenhouse Jr,3888,315,319,Tail End,
+5034,38,Anthony Alfredo,4301,316,319,Tail End,
+5034,53,Garrett Smithley,4142,329,330,Tail End,
+5034,78,BJ McLeod,3973,344,0,Pass Thru,Garage
+5033,10,Aric Almirola,40,0,0,Tail End,Unapproved Adjustments
+5033,14,Chase Briscoe,4228,0,0,Tail End,Unapproved Adjustments
+5033,17,Chris Buescher,3989,0,0,Tail End,Unapproved Adjustments
+5033,43,Erik Jones,4059,0,0,Tail End,Unapproved Adjustments
+5033,51,Cody Ware,4125,0,0,Tail End,Unapproved Adjustments
+5033,15,James Davison,4211,0,0,Tail End,Unapproved Adjustments
+5033,38,Anthony Alfredo,4301,0,0,Tail End,Unapproved Adjustments
+5033,99,Daniel Suarez,4113,0,0,Tail End,Unapproved Adjustments
+5033,11,Denny Hamlin,1361,0,0,Tail End,Unapproved Adjustments
+5033,12,Ryan Blaney,4023,0,0,Tail End,Unapproved Adjustments
+5033,2,Brad Keselowski,1816,0,0,Tail End,Unapproved Adjustments
+5033,99,Daniel Suarez,4113,7,0,Tail End,Garage
+5033,15,James Davison,4211,8,9,Tail End,On Entry
+5033,24,William Byron,4184,14,18,Tail End,
+5033,41,Cole Custer,4104,16,18,Tail End,
+5033,12,Ryan Blaney,4023,19,24,Tail End,
+5033,47,Ricky Stenhouse Jr,3888,19,24,Tail End,
+5033,4,Kevin Harvick,1416,19,0,Tail End,Garage
+5033,15,James Davison,4211,20,24,Tail End,
+5033,24,William Byron,4184,23,24,Tail End,
+5033,3,Austin Dillon,3873,28,30,Pass Thru,Short Cut Chicane
+5033,3,Austin Dillon,3873,33,35,Tail End,
+5033,00,Quin Houff,4229,39,0,1 Lap,Garage
+5033,99,Daniel Suarez,4113,46,47,Pass Thru,
+5033,99,Daniel Suarez,4113,46,47,1 Lap,
+5033,78,Kyle Tilley,4389,49,50,Pass Thru,
+5015,1,Kurt Busch,453,0,0,Tail End,Unapproved Adjustments
+5015,78,BJ McLeod,3973,0,0,Tail End,Unapproved Adjustments
+5015,00,Quin Houff,4229,104,107,Tail End,Pit Entry Violation - Entered in left lane
+5015,78,BJ McLeod,3973,150,153,Pass Thru,
+5015,1,Kurt Busch,453,172,0,Tail End,Garage
+5015,6,Ryan Newman,2394,296,306,Tail End,
+5015,6,Ryan Newman,2394,296,306,Tail End,
+5015,12,Ryan Blaney,4023,301,306,Tail End,
+5015,23,Bubba Wallace,4025,301,306,Tail End,
+5015,38,Anthony Alfredo,4301,351,352,Pass Thru,
+5042,78,Scott Heckert,4200,0,0,Tail End,Unapproved Adjustments
+5042,38,Anthony Alfredo,4301,0,0,Tail End,"Inspection Violation, Crew Chief Ejected"
+5042,23,Bubba Wallace,4025,17,24,Tail End,
+5042,99,Daniel Suarez,4113,18,24,Tail End,
+5042,3,Austin Dillon,3873,21,24,Tail End,
+5042,99,Daniel Suarez,4113,22,24,Tail End,
+5042,47,Ricky Stenhouse Jr,3888,32,34,Tail End,
+5042,23,Bubba Wallace,4025,39,44,Tail End,
+5042,2,Brad Keselowski,1816,71,74,Tail End,Equipment over the wall too soon
+5042,15,James Davison,4211,81,83,Pass Thru,
+5042,10,Aric Almirola,40,88,90,Tail End,
+5042,10,Aric Almirola,40,88,90,Tail End,
+5042,38,Anthony Alfredo,4301,88,90,Tail End,
+5067,33,Austin Cindric,4180,0,0,Tail End,Multiple Inspection Failures and Unapproved Adjustment
+5067,13,David Starr,3170,0,0,Tail End,Unapproved Adjustment
+5067,42,Ross Chastain,4001,0,0,Tail End,Inspection Violation
+5067,17,Chris Buescher,3989,0,8,Tail End,
+5067,33,Austin Cindric,4180,0,8,Tail End,
+5067,47,Ricky Stenhouse Jr,3888,5,8,Tail End,
+5067,33,Austin Cindric,4180,12,13,Tail End,Choose box
+5067,14,Chase Briscoe,4228,14,18,Tail End,
+5068,18,Kyle Busch,454,62,67,Pass Thru,
+5068,3,Austin Dillon,3873,63,66,Pass Thru,
+5068,3,Austin Dillon,3873,79,80,Tail End,
+5068,3,Austin Dillon,3873,90,91,Tail End,
+5035,00,Quin Houff,4229,0,0,Tail End,Unapproved adjustments
+5035,24,William Byron,4184,0,0,Tail End,Unapproved adjustments
+5035,43,Erik Jones,4059,0,0,Tail End,Unapproved adjustments
+5035,12,Ryan Blaney,4023,0,0,Tail End,Pitting before the green
+5035,42,Ross Chastain,4001,44,52,Tail End,
+5035,41,Cole Custer,4104,45,52,Tail End,
+5035,13,David Starr,3170,51,52,Tail End,
+5035,17,Chris Buescher,3989,78,0,Tail End,
+5035,77,Justin Haley,4172,78,0,Tail End,Garage
+5035,48,Alex Bowman,4045,80,85,Tail End,
+5035,7,Corey Lajoie,4096,81,85,Tail End,
+5035,48,Alex Bowman,4045,82,85,Tail End,
+5035,19,Martin Truex Jr,3368,93,97,Tail End,Not in outside lane
+5035,6,Ryan Newman,2394,94,97,Tail End,
+5035,23,Bubba Wallace,4025,133,138,Tail End,
+5035,19,Martin Truex Jr,3368,134,138,Tail End,
+5035,20,Christopher Bell,4153,134,138,Tail End,
+5035,51,JJ Yeley,3669,135,138,Tail End,
+5035,3,Austin Dillon,3873,137,138,Tail End,
+5035,41,Cole Custer,4104,174,0,Tail End,Garage
+5035,78,BJ McLeod,3973,178,180,Tail End,
+5035,51,JJ Yeley,3669,187,190,Tail End,
+5035,51,JJ Yeley,3669,187,190,Tail End,
+5035,21,Matt DiBenedetto,3916,189,190,Tail End,
+5035,37,Ryan Preece,4070,197,0,Tail End,Garage
+5035,21,Matt DiBenedetto,3916,200,202,Tail End,
+5035,23,Bubba Wallace,4025,221,222,Tail End,
+5035,34,Michael McDowell,3832,221,222,Tail End,
+5035,14,Chase Briscoe,4228,228,0,Tail End,Garage
+5035,14,Chase Briscoe,4228,228,0,Other - See Notes,2 laps under DVP / Garage
+5035,52,Josh Bilicki,4213,231,232,Tail End,
+5035,53,Garrett Smithley,4142,231,232,Tail End,
+5022,41,Cole Custer,4104,0,0,Tail End,Multiple Inspection Failures
+5022,7,Corey Lajoie,4096,10,12,Tail End,
+5022,7,Corey Lajoie,4096,10,12,Tail End,
+5022,53,Garrett Smithley,4142,11,12,Tail End,
+5022,52,Josh Bilicki,4213,11,12,Tail End,
+5022,9,Chase Elliott,4062,14,17,Tail End,
+5022,9,Chase Elliott,4062,14,17,Tail End,
+5022,52,Josh Bilicki,4213,16,17,Tail End,
+5022,6,Ryan Newman,2394,53,57,Tail End,
+5022,51,Cody Ware,4125,54,57,Tail End,
+5022,38,Anthony Alfredo,4301,60,63,Tail End,
+5022,6,Ryan Newman,2394,60,63,Tail End,
+5022,6,Ryan Newman,2394,60,63,Tail End,
+5022,7,Corey Lajoie,4096,60,63,Tail End,
+5022,47,Ricky Stenhouse Jr,3888,63,65,Pass Thru,Restart violation
+5022,38,Anthony Alfredo,4301,69,75,Tail End,
+5022,42,Ross Chastain,4001,71,75,Tail End,
+5022,52,Josh Bilicki,4213,74,75,Tail End,
+5022,6,Ryan Newman,2394,78,81,Tail End,
+5022,66,Timmy Hill,3984,80,81,Tail End,
+5022,3,Austin Dillon,3873,91,93,Pass Thru,
+5022,21,Matt DiBenedetto,3916,91,93,Pass Thru,
+5022,21,Matt DiBenedetto,3916,93,94,Pass Thru,
+5022,21,Matt DiBenedetto,3916,110,111,Tail End,
+5023,5,Kyle Larson,4030,0,0,Tail End,Backup car
+5023,6,Ryan Newman,2394,0,0,Tail End,Backup car
+5023,7,Corey Lajoie,4096,0,0,Tail End,Backup car
+5023,37,Ryan Preece,4070,0,0,Tail End,Backup car
+5023,38,Anthony Alfredo,4301,0,0,Tail End,Backup car
+5023,41,Cole Custer,4104,0,0,Tail End,Backup car
+5023,42,Ross Chastain,4001,0,0,Tail End,Backup car
+5023,77,Justin Allgaier,34,0,0,Tail End,Driver change
+5023,38,Anthony Alfredo,4301,2,6,Tail End,
+5023,38,Anthony Alfredo,4301,33,35,Tail End,Improper pit entry
+5023,52,Josh Bilicki,4213,33,35,Tail End,
+5023,52,Josh Bilicki,4213,34,35,Tail End,
+5023,3,Austin Dillon,3873,85,90,Tail End,
+5023,52,Josh Bilicki,4213,86,90,Tail End,
+5023,15,James Davison,4211,87,90,Tail End,
+5023,18,Kyle Busch,454,89,90,Tail End,
+5023,43,Erik Jones,4059,92,96,Tail End,
+5023,15,James Davison,4211,95,96,Tail End,
+5023,18,Kyle Busch,454,95,96,Tail End,
+5023,99,Daniel Suarez,4113,95,96,Tail End,
+5023,66,Timmy Hill,3984,110,111,Other - See Notes,Fail to meet minimum speed
+5054,77,Justin Haley,4172,0,0,Tail End,Engine Change
+5054,78,Kyle Tilley,4389,0,0,Tail End,Unapproved Adjustments
+5054,37,Ryan Preece,4070,0,0,Tail End,Backup Car
+5054,23,Bubba Wallace,4025,0,0,Tail End,Transmission Change
+5054,18,Kyle Busch,454,0,0,Tail End,Backup Car
+5054,52,Josh Bilicki,4213,0,0,Tail End,Unapproved Adjustments
+5054,00,Quin Houff,4229,0,0,Tail End,Unapproved Adjustments
+5054,3,Austin Dillon,3873,11,16,Tail End,
+5054,34,Michael McDowell,3832,11,16,Tail End,On Entry
+5054,14,Chase Briscoe,4228,11,16,Tail End,On Exit
+5054,78,Kyle Tilley,4389,12,16,Tail End,
+5054,20,Christopher Bell,4153,15,16,Tail End,On Entry
+5054,41,Cole Custer,4104,15,16,Tail End,
+5054,2,Brad Keselowski,1816,15,16,Tail End,
+5054,00,Quin Houff,4229,20,22,Pass Thru,On Exit
+5054,53,Ryan Eversley,4398,23,0,1 Lap,Drove through 5/13 cutout - Garage
+5054,19,Martin Truex Jr,3368,27,32,Tail End,
+5054,47,Ricky Stenhouse Jr,3888,44,45,Tail End,Uncontrolled Tire
+5018,19,Martin Truex Jr,3368,0,0,Tail End,Multiple Inspection Failures
+5018,52,Josh Bilicki,4213,28,29,Tail End,
+5018,37,Ryan Preece,4070,28,29,Tail End,
+5018,99,Daniel Suarez,4113,31,35,Tail End,
+5018,47,Ricky Stenhouse Jr,3888,31,35,Tail End,
+5018,51,Cody Ware,4125,31,35,Tail End,
+5018,99,Daniel Suarez,4113,81,86,Tail End,Garage
+5018,4,Kevin Harvick,1416,85,86,Tail End,
+5018,6,Ryan Newman,2394,124,129,Pass Thru,
+5018,51,Cody Ware,4125,162,170,Tail End,
+5018,11,Denny Hamlin,1361,163,170,Tail End,
+5018,51,Cody Ware,4125,164,170,Tail End,
+5018,5,Kyle Larson,4030,211,212,Pass Thru,
+5030,00,Quin Houff,4229,0,0,Tail End,Multiple Inspection Failures
+5030,7,Corey Lajoie,4096,0,0,Tail End,Multiple Inspection Failures
+5030,37,Ryan Preece,4070,0,0,Tail End,Multiple Inspection Failures
+5030,78,BJ McLeod,3973,0,0,Tail End,Multiple Inspection Failures
+5030,23,Bubba Wallace,4025,0,0,Tail End,Unapproved adjustment
+5030,18,Kyle Busch,454,6,0,Tail End,Garage
+5030,19,Martin Truex Jr,3368,6,23,Tail End,
+5030,22,Joey Logano,3859,8,9,Other - See Notes,2 Laps: Working under red flag
+5030,37,Ryan Preece,4070,20,23,Tail End,
+5030,23,Bubba Wallace,4025,32,38,Tail End,
+5030,38,Anthony Alfredo,4301,33,38,Tail End,
+5030,3,Austin Dillon,3873,128,135,Tail End,
+5030,00,Quin Houff,4229,128,135,Tail End,
+5030,00,Quin Houff,4229,128,135,Tail End,
+5030,17,Chris Buescher,3989,139,144,Tail End,
+5071,9,Chase Elliott,4062,0,0,Tail End,Multiple inspection failures
+5071,9,Chase Elliott,4062,0,0,Tail End,Inspection violation
+5071,20,Christopher Bell,4153,0,0,Tail End,Inspection violation
+5071,51,James Davison,4211,21,22,Tail End,
+5071,51,James Davison,4211,25,0,Tail End,Garage
+5071,7,Corey Lajoie,4096,37,43,Tail End,
+5071,51,James Davison,4211,41,0,Tail End,Garage
+5071,43,Erik Jones,4059,42,43,Tail End,
+5071,41,Cole Custer,4104,42,43,Tail End,
+5071,53,Garrett Smithley,4142,42,43,Tail End,
+5071,52,Josh Bilicki,4213,59,61,Pass Thru,
+5071,15,Rc Enerson,4360,62,64,Pass Thru,
+5074,10,Aric Almirola,40,16,19,Tail End,
+5074,16,AJ Allmendinger,3774,33,39,Tail End,
+5074,38,Anthony Alfredo,4301,36,39,Tail End,
+5074,7,Corey Lajoie,4096,36,39,Tail End,
+5074,21,Matt DiBenedetto,3916,36,39,Tail End,
+5074,10,Aric Almirola,40,40,43,Tail End,
+5074,66,Timmy Hill,3984,42,43,Tail End,
+5074,15,James Davison,4211,78,0,Tail End,Garage
+5074,8,Tyler Reddick,4065,78,88,Tail End,
+5074,18,Kyle Busch,454,78,88,Tail End,
+5074,17,Chris Buescher,3989,78,88,Tail End,
+5074,33,Austin Cindric,4180,79,88,Tail End,
+5074,41,Cole Custer,4104,89,93,Tail End,
+5074,8,Tyler Reddick,4065,89,93,Tail End,
+5074,23,Bubba Wallace,4025,89,93,Tail End,Short cut course
+5074,52,Josh Bilicki,4213,90,93,Tail End,
+5074,14,Chase Briscoe,4228,93,94,NASCAR Discretion,Parked-Short cut course
+5031,7,Josh Berry,4123,0,0,Tail End,Driver change
+5031,15,Joey Gase,4004,0,0,Tail End,Driver change
+5031,47,Ricky Stenhouse Jr,3888,24,25,Tail End,
+5031,22,Joey Logano,3859,65,66,Tail End,
+5031,77,Justin Haley,4172,65,66,Tail End,
+5031,38,Anthony Alfredo,4301,121,0,Tail End,Garage
+5031,51,Cody Ware,4125,123,126,Tail End,
+5031,99,Daniel Suarez,4113,183,186,Tail End,
+5031,42,Ross Chastain,4001,184,186,Tail End,
+5031,99,Daniel Suarez,4113,185,186,Tail End,
+5031,6,Ryan Newman,2394,188,192,Tail End,
+5031,20,Christopher Bell,4153,188,192,Tail End,
+5036,34,Michael McDowell,3832,0,0,Tail End, Inspection Violation
+5036,38,Anthony Alfredo,4301,0,0,Tail End, Inspection Violation
+5036,5,Kyle Larson,4030,0,0,Tail End,Multiple Inspection Failures
+5036,7,Corey Lajoie,4096,0,0,Tail End,Multiple Inspection Failures
+5036,15,Joey Gase,4004,0,0,Tail End,Multiple Inspection Failures
+5036,16,Kaz Grala,4191,0,0,Tail End,Multiple Inspection Failures
+5036,38,Anthony Alfredo,4301,0,1,Pass Thru,Unapproved body adjustment on grid
+5036,37,Ryan Preece,4070,22,25,Tail End,
+5036,38,Anthony Alfredo,4301,23,25,Tail End,
+5036,22,Joey Logano,3859,52,55,Tail End,
+5036,10,Aric Almirola,40,77,81,Tail End,
+5036,10,Aric Almirola,40,77,81,Tail End,
+5036,10,Aric Almirola,40,77,81,Tail End,
+5036,38,Anthony Alfredo,4301,77,81,Tail End,
+5036,48,Alex Bowman,4045,77,81,Tail End,
+5036,6,Ryan Newman,2394,80,81,Tail End,
+5036,51,Cody Ware,4125,102,105,Tail End,
+5036,38,Anthony Alfredo,4301,103,105,Tail End,
+5036,53,Garrett Smithley,4142,141,144,Tail End,
+5036,51,Cody Ware,4125,141,144,Tail End,
+5036,51,Cody Ware,4125,141,144,Tail End,
+5036,15,Joey Gase,4004,141,144,Tail End,
+5036,3,Austin Dillon,3873,141,144,Tail End,
+5036,24,William Byron,4184,146,0,Tail End,Garage
+5036,96,Landon Cassill,3808,146,0,Tail End,Garage
+5036,19,Martin Truex Jr,3368,146,150,Tail End,
+5036,14,Chase Briscoe,4228,146,150,Tail End,
+5036,99,Daniel Suarez,4113,146,150,Tail End,
+5036,38,Anthony Alfredo,4301,146,150,Tail End,
+5036,51,Cody Ware,4125,146,150,Tail End,
+5036,51,Cody Ware,4125,146,150,Tail End,
+5036,2,Brad Keselowski,1816,146,150,Tail End,
+5036,8,Tyler Reddick,4065,146,150,Tail End,
+5036,8,Tyler Reddick,4065,146,150,Tail End,
+5036,47,Ricky Stenhouse Jr,3888,157,163,Tail End,
+5036,20,Christopher Bell,4153,157,0,Tail End,Garage
+5036,41,Cole Custer,4104,157,163,Tail End,
+5036,2,Brad Keselowski,1816,157,0,Tail End,Garage
+5036,11,Denny Hamlin,1361,157,163,Tail End,
+5036,22,Joey Logano,3859,157,163,Tail End,
+5036,37,Ryan Preece,4070,157,163,Tail End,
+5036,21,Matt DiBenedetto,3916,158,163,Tail End,
+5036,9,Chase Elliott,4062,158,163,Tail End,
+5078,3,Austin Dillon,3873,0,0,Tail End,Multiple inspection failures
+5078,48,Alex Bowman,4045,17,19,Tail End,
+5078,9,Chase Elliott,4062,28,29,Tail End,
+5078,52,Josh Bilicki,4213,28,29,Tail End,
+5078,15,Joey Gase,4004,28,29,Tail End,
+5078,48,Alex Bowman,4045,34,35,Tail End,
+5078,53,James Davison,4211,47,0,Tail End,Garage
+5078,42,Ross Chastain,4001,52,53,Tail End,
+5078,48,Alex Bowman,4045,117,122,Tail End,
+5078,51,Cody Ware,4125,126,128,Tail End,
+5078,51,Cody Ware,4125,165,168,Tail End,
+5078,51,Cody Ware,4125,202,205,Tail End,
+5078,12,Ryan Blaney,4023,232,237,Tail End,
+5078,12,Ryan Blaney,4023,319,325,Tail End,
+5078,19,Martin Truex Jr,3368,319,325,Tail End,
+5078,9,Chase Elliott,4062,327,0,Tail End,Garage
+5078,12,Ryan Blaney,4023,327,331,Tail End,
+5078,1,Kurt Busch,453,329,331,Tail End,
+5078,38,Anthony Alfredo,4301,329,331,Tail End,
+5079,5,Kyle Larson,4030,0,0,Tail End,Multiple inspection failures
+5079,41,Cole Custer,4104,0,0,Tail End,Multiple inspection failures
+5079,51,Garrett Smithley,4142,0,0,Tail End,Driver change
+5079,19,Martin Truex Jr,3368,0,2,Pass Thru,
+5079,23,Bubba Wallace,4025,32,36,Tail End,
+5079,41,Cole Custer,4104,32,36,Tail End,
+5079,37,Ryan Preece,4070,32,36,Tail End,
+5079,18,Kyle Busch,454,32,36,Tail End,
+5079,51,Garrett Smithley,4142,33,36,Tail End,
+5079,23,Bubba Wallace,4025,41,47,Tail End,
+5079,00,Quin Houff,4229,46,47,Tail End,
+5079,99,Daniel Suarez,4113,84,88,Tail End,
+5079,53,JJ Yeley,3669,84,88,Tail End,
+5079,34,Michael McDowell,3832,132,136,Pass Thru,
+5079,51,Garrett Smithley,4142,136,142,Pass Thru,
+5079,53,JJ Yeley,3669,181,187,Pass Thru,
+5079,42,Ross Chastain,4001,238,244,Tail End,
+5079,42,Ross Chastain,4001,238,244,Tail End,
+5079,23,Bubba Wallace,4025,250,254,Tail End,
+5079,53,JJ Yeley,3669,252,254,Tail End,
+5079,7,Corey Lajoie,4096,289,294,Pass Thru,
+5079,34,Michael McDowell,3832,295,298,Pass Thru,
+5079,52,Josh Bilicki,4213,297,301,Pass Thru,
+5079,34,Michael McDowell,3832,298,301,Pass Thru,
+5079,18,Kyle Busch,454,344,349,Pass Thru,
+5079,7,Corey Lajoie,4096,350,352,Pass Thru,
+5039,38,Anthony Alfredo,4301,47,48,Tail End,
+5039,9,Chase Elliott,4062,129,135,Tail End,
+5039,15,James Davison,4211,130,135,Tail End,
+5039,52,Josh Bilicki,4213,130,135,Tail End,Equipment over the wall too soon
+5039,21,Matt DiBenedetto,3916,133,135,Tail End,
+5039,6,Ryan Newman,2394,167,181,Tail End,
+5039,6,Ryan Newman,2394,167,181,Tail End,
+5039,41,Cole Custer,4104,167,181,Tail End,
+5039,99,Daniel Suarez,4113,174,181,Tail End,
+5039,10,Aric Almirola,40,176,181,Tail End,
+5039,15,James Davison,4211,177,181,Tail End,
+5039,66,David Starr,3170,177,181,Tail End,
+5039,38,Anthony Alfredo,4301,219,232,Tail End,
+5039,00,Quin Houff,4229,363,370,Tail End,
+5039,66,David Starr,3170,367,370,Tail End,
+5039,66,David Starr,3170,368,370,Tail End,
+5081,10,Aric Almirola,40,0,0,Tail End,2 Inspection Failures
+5081,19,Martin Truex Jr,3368,0,0,Tail End,2 Inspection Failures
+5081,24,William Byron,4184,0,0,Tail End,2 Inspection Failures
+5081,66,JJ Yeley,3669,0,0,Tail End,3 Inspection Failures
+5081,66,JJ Yeley,3669,0,1,Pass Thru,3 Inspection Failures
+5081,99,Daniel Suarez,4113,27,30,Tail End,
+5081,22,Joey Logano,3859,29,30,Tail End,
+5081,66,JJ Yeley,3669,82,0,Tail End,Garage
+5081,20,Christopher Bell,4153,82,87,Tail End,
+5081,10,Aric Almirola,40,83,87,Tail End,
+5081,10,Aric Almirola,40,85,87,Tail End,
+5081,53,Garrett Smithley,4142,96,98,Tail End,
+5081,42,Ross Chastain,4001,97,98,Tail End,
+5081,77,Justin Haley,4172,97,98,Tail End,
+5081,38,Anthony Alfredo,4301,97,98,Tail End,
+5081,53,Garrett Smithley,4142,97,98,Tail End,
+5081,52,Josh Bilicki,4213,97,98,Tail End,
+5081,00,Quin Houff,4229,97,98,Tail End,
+5081,7,Corey Lajoie,4096,165,166,Tail End,
+5081,77,Justin Haley,4172,165,166,Tail End,
+5082,00,Quin Houff,4229,0,0,Tail End,Multi Inspection failures
+5082,53,Joey Gase,4004,0,0,Tail End,Multi Inspection failures
+5082,66,James Davison,4211,0,0,Tail End,Driver change
+5082,5,Kyle Larson,4030,57,64,Tail End,
+5082,37,Ryan Preece,4070,57,64,Tail End,
+5082,14,Chase Briscoe,4228,57,64,Tail End,
+5082,5,Kyle Larson,4030,67,77,Tail End,
+5082,21,Matt DiBenedetto,3916,98,103,Tail End,
+5082,42,Ross Chastain,4001,98,103,Tail End,
+5082,42,Ross Chastain,4001,98,103,Tail End,
+5082,18,Kyle Busch,454,98,103,Tail End,
+5082,00,Quin Houff,4229,98,103,Tail End,
+5082,78,BJ McLeod,3973,98,103,Tail End,
+5082,52,Josh Bilicki,4213,98,103,Tail End,
+5082,37,Ryan Preece,4070,116,0,Tail End,Garage
+5083,53,Garrett Smithley,4142,0,0,Tail End,Multiple Inspection Failures
+5083,53,Garrett Smithley,4142,7,7,Stop & Go,Missed Back Stretch Chicane
+5083,20,Christopher Bell,4153,9,10,Pass Thru,
+5083,10,Aric Almirola,40,12,13,Tail End,
+5083,77,Justin Haley,4172,12,14,Pass Thru,Missed Front Stretch Chicane
+5083,6,Ryan Newman,2394,20,0,Tail End,Garage
+5083,11,Denny Hamlin,1361,21,22,Tail End,
+5083,17,Chris Buescher,3989,21,22,Tail End,
+5083,21,Matt DiBenedetto,3916,23,23,Stop & Go,Missed Back Stretch Chicane
+5083,37,Ryan Preece,4070,23,23,Stop & Go,Missed Front Stretch Chicane
+5083,20,Christopher Bell,4153,24,24,Stop & Go,Missed Back Stretch Chicane
+5083,66,Timmy Hill,3984,28,29,Tail End,Uncontrolled Tire
+5083,23,Bubba Wallace,4025,38,38,Stop & Go,Missed Front Stretch Chicane
+5083,7,Corey Lajoie,4096,39,39,Stop & Go,Missed Front Stretch Chicane
+5083,14,Chase Briscoe,4228,47,47,Stop & Go,Missed Front Stretch Chicane
+5083,48,Alex Bowman,4045,51,53,Tail End,
+5083,43,Erik Jones,4059,52,53,Tail End,
+5083,9,Chase Elliott,4062,55,57,Tail End,
+5083,53,Garrett Smithley,4142,57,59,Pass Thru,Dual Role
+5083,11,Denny Hamlin,1361,68,68,Stop & Go,Missed Back Stretch Chicane
+5083,15,Josh Bilicki,4213,68,68,Stop & Go,Missed Front Stretch Chicane
+5083,14,Chase Briscoe,4228,71,71,Stop & Go,Missed Back Stretch Chicane
+5083,78,Scott Heckert,4200,74,74,Stop & Go,Missed Back Stretch Chicane
+5083,78,Scott Heckert,4200,78,78,Stop & Go,Missed Front Stretch Chicane
+5083,15,Josh Bilicki,4213,79,81,Pass Thru,
+5083,51,Cody Ware,4125,80,81,Pass Thru,
+5083,23,Bubba Wallace,4025,84,84,Stop & Go,Missed Front Stretch Chicane
+5083,48,Alex Bowman,4045,88,89,Tail End,
+5083,24,William Byron,4184,90,90,Stop & Go,Missed Back Stretch Chicane
+5083,51,Cody Ware,4125,90,90,Stop & Go,Missed Back Stretch Chicane
+5083,51,Cody Ware,4125,93,0,Tail End,Garage
+5083,7,Corey Lajoie,4096,93,0,Tail End,Garage
+5083,1,Kurt Busch,453,95,95,Stop & Go,Missed Front Stretch Chicane
+5083,78,Scott Heckert,4200,101,101,Stop & Go,Missed Front Stretch Chicane
+5044,7,Corey Lajoie,4096,0,0,Tail End,Multiple Inspection Failures
+5044,9,Chase Elliott,4062,0,0,Tail End,Multiple Inspection Failures
+5044,14,Chase Briscoe,4228,0,0,Tail End,Multiple Inspection Failures
+5044,15,Garrett Smithley,4142,0,0,Tail End,Multiple Inspection Failures
+5044,51,Cody Ware,4125,0,0,Tail End,Multiple Inspection Failures
+5044,66,David Starr,3170,0,0,Tail End,Multiple Inspection Failures
+5044,77,Justin Haley,4172,0,0,Tail End,Unapproved adjustment
+5044,18,Kyle Busch,454,26,30,Tail End,
+5044,18,Kyle Busch,454,29,30,Tail End,
+5044,34,Michael McDowell,3832,31,39,Tail End,
+5044,38,Anthony Alfredo,4301,31,39,Tail End,
+5044,47,Ricky Stenhouse Jr,3888,31,0,Tail End,Garage
+5044,42,Ross Chastain,4001,31,39,Tail End,
+5044,42,Ross Chastain,4001,31,39,Tail End,
+5044,41,Cole Custer,4104,31,39,Tail End,
+5044,6,Ryan Newman,2394,31,0,Tail End,Garage
+5044,37,Ryan Preece,4070,31,0,Tail End,Garage
+5044,10,Aric Almirola,40,31,39,Tail End,
+5044,48,Alex Bowman,4045,31,39,Tail End,
+5044,51,Cody Ware,4125,31,0,Tail End,Garage
+5044,23,Bubba Wallace,4025,31,39,Tail End,
+5044,23,Bubba Wallace,4025,31,39,Tail End,
+5044,52,Josh Bilicki,4213,31,39,Tail End,
+5044,52,Josh Bilicki,4213,31,39,Tail End,
+5044,66,David Starr,3170,37,39,Tail End,
+5044,13,Timmy Hill,3984,37,39,Tail End,
+5044,48,Alex Bowman,4045,37,39,Tail End,
+5044,18,Kyle Busch,454,37,39,Tail End,
+5044,34,Michael McDowell,3832,37,39,Tail End,
+5044,12,Ryan Blaney,4023,37,39,Tail End,
+5044,1,Kurt Busch,453,37,39,Tail End,
+5044,00,Quin Houff,4229,37,39,Tail End,
+5044,17,Chris Buescher,3989,37,39,Tail End,
+5044,14,Chase Briscoe,4228,37,39,Tail End,
+5044,7,Corey Lajoie,4096,37,39,Tail End,
+5044,2,Brad Keselowski,1816,37,39,Tail End,
+5044,34,Michael McDowell,3832,39,43,Pass Thru,
+5044,00,Quin Houff,4229,39,43,Pass Thru,
+5044,17,Chris Buescher,3989,104,112,Tail End,
+5044,34,Michael McDowell,3832,106,112,Tail End,
+5044,10,Aric Almirola,40,106,112,Tail End,
+5044,10,Aric Almirola,40,106,112,Tail End,
+5044,15,Garrett Smithley,4142,108,112,Tail End,
+5044,7,Corey Lajoie,4096,209,216,Tail End,
+5044,10,Aric Almirola,40,211,216,Tail End,
+5044,10,Aric Almirola,40,211,216,Tail End,
+5044,13,Timmy Hill,3984,212,216,Tail End,
+5044,99,Daniel Suarez,4113,212,216,Tail End,
+5044,14,Chase Briscoe,4228,274,280,Tail End,
+5044,10,Aric Almirola,40,278,280,Tail End,
+5044,78,BJ McLeod,3973,278,280,Tail End,
+5044,42,Ross Chastain,4001,303,304,Tail End,
+5044,13,Timmy Hill,3984,303,304,Tail End,
+5044,15,Garrett Smithley,4142,305,309,Tail End,
+5044,11,Denny Hamlin,1361,314,318,Tail End,
+5044,14,Chase Briscoe,4228,331,332,Tail End,
+5084,14,Chase Briscoe,4228,0,0,Tail End,Unapproved Adjustments
+5084,6,Ryan Newman,2394,0,0,Tail End,Two Inspection Failures
+5084,00,Quin Houff,4229,0,0,Tail End,Three Inspection Failures
+5084,00,Quin Houff,4229,0,1,Pass Thru,Three Inspection Failures
+5084,78,BJ McLeod,3973,13,15,Tail End,
+5084,13,David Starr,3170,14,15,Tail End,
+5084,66,Chad Finchum,4232,14,15,Tail End,
+5084,51,Cody Ware,4125,14,15,Tail End,Running over the Choose Box
+5084,15,Ryan Ellis,4029,14,15,Tail End,Running over the Choose Box
+5084,18,Kyle Busch,454,23,27,Tail End,
+5084,23,Bubba Wallace,4025,24,27,Tail End,Uncontrolled Tire
+5084,47,Ricky Stenhouse Jr,3888,83,86,Tail End,
+5084,00,Quin Houff,4229,84,86,Tail End,
+5084,13,David Starr,3170,84,86,Tail End,Uncontrolled Tire
+5084,14,Chase Briscoe,4228,84,86,Tail End,
+5084,47,Ricky Stenhouse Jr,3888,86,90,Pass Thru,Restart Violation - Under penalty and failed to be in the longest lane
+5084,47,Ricky Stenhouse Jr,3888,147,150,Pass Thru,
+5084,18,Kyle Busch,454,162,167,Tail End,
+5084,42,Ross Chastain,4001,163,167,Tail End,
+5084,14,Chase Briscoe,4228,166,167,Tail End,
+5084,18,Kyle Busch,454,166,167,Tail End,
+5084,13,David Starr,3170,166,167,Tail End,
+5084,42,Ross Chastain,4001,166,170,Pass Thru,Restart Violation - Under penalty and failed to be in the longest lane
+5084,38,Anthony Alfredo,4301,173,0,Tail End,Garage
+5084,23,Bubba Wallace,4025,174,178,Tail End,
+5084,42,Ross Chastain,4001,174,178,Tail End,
+5084,37,Ryan Preece,4070,177,178,Tail End,
+5084,10,Aric Almirola,40,187,190,Pass Thru,
+5084,6,Ryan Newman,2394,218,222,Tail End,
+5084,78,BJ McLeod,3973,220,222,Tail End,
+5084,12,Ryan Blaney,4023,224,0,Tail End,Garage
+5084,51,Cody Ware,4125,226,228,Tail End,
+5060,11,Denny Hamlin,1361,0,0,Tail End,Multiple Inspection Failures
+5060,11,Denny Hamlin,1361,62,67,Tail End,
+5060,6,Ryan Newman,2394,73,76,Tail End,
+5060,38,Anthony Alfredo,4301,132,140,Tail End,
+5060,5,Kyle Larson,4030,135,140,Tail End,
+5060,15,Garrett Smithley,4142,135,140,Tail End,Uncontrolled Tire
+5060,6,Ryan Newman,2394,182,186,Pass Thru,
+5060,3,Austin Dillon,3873,199,203,Tail End,
+5060,8,Tyler Reddick,4065,199,203,Tail End,
+5060,18,Kyle Busch,454,264,269,Tail End,
+5060,23,Bubba Wallace,4025,312,319,Tail End,
+5060,15,Garrett Smithley,4142,312,319,Tail End,
+5060,00,Quin Houff,4229,322,331,Other - See Notes,5 Laps
+5060,52,Josh Bilicki,4213,325,329,Tail End,
+5060,34,Michael McDowell,3832,325,329,Tail End,
+5060,42,Ross Chastain,4001,340,345,Tail End,
+5060,6,Ryan Newman,2394,341,345,Tail End,
+5060,00,Quin Houff,4229,342,345,Tail End,
+5060,5,Kyle Larson,4030,380,384,Tail End,
+5060,21,Matt DiBenedetto,3916,380,384,1 Lap,
+5060,15,Garrett Smithley,4142,438,443,Tail End,
+5060,47,Ricky Stenhouse Jr,3888,462,466,Tail End,
+5060,6,Ryan Newman,2394,475,477,Tail End,
+5087,52,Josh Bilicki,4213,0,0,Tail End,Unapproved adjustments
+5087,66,Timmy Hill,3984,0,0,Tail End,Unapproved adjustments
+5087,53,Joey Gase,4004,7,11,Tail End,
+5087,7,Corey Lajoie,4096,15,20,Tail End,
+5087,66,Timmy Hill,3984,16,20,Tail End,
+5087,1,Kurt Busch,453,130,135,Tail End,
+5087,78,BJ McLeod,3973,131,135,Tail End,
+5087,13,David Starr,3170,131,135,Tail End,
+5087,47,Ricky Stenhouse Jr,3888,140,0,Tail End,Garage
+5087,10,Aric Almirola,40,155,161,Tail End,
+5087,13,David Starr,3170,195,197,Tail End,
+5087,13,David Starr,3170,251,254,Tail End,
+5087,15,Garrett Smithley,4142,286,288,Tail End,
+5088,36,Alex Labbe,4225,4,7,Tail End,
+5088,23,Jason White,3557,5,7,Tail End,
+5088,92,Josh Williams,4106,12,14,Tail End,
+5088,48,Danny Bohn,4323,13,14,Tail End,
+5088,92,Josh Williams,4106,20,23,Tail End,
+5088,99,Stefan Parsons,4285,33,35,Tail End,
+5088,92,Josh Williams,4106,34,35,Tail End,
+5088,07,Joe Graf Jr,4313,61,65,Tail End,
+5088,47,Kyle Weatherman,4187,63,65,Tail End,
+5088,92,Josh Williams,4106,63,65,Tail End,
+5088,99,Stefan Parsons,4285,63,65,Tail End,
+5088,39,Ryan Sieg,3884,75,83,Tail End,
+5088,15,Colby Howard,4344,75,0,Tail End,Garage
+5088,9,Noah Gragson,4224,76,0,Tail End,Garage
+5088,48,Danny Bohn,4323,76,83,Tail End,
+5088,78,Jesse Little,4150,76,83,Tail End,
+5088,6,Ryan Vargas,4320,76,83,Tail End,
+5088,90,Caesar Bacarella,4259,100,103,Tail End,
+5088,68,Brandon Brown,4118,105,112,Tail End,
+5088,10,Jeb Burton,4018,105,112,Tail End,
+5088,98,Riley Herbst,4269,105,0,Tail End,Garage
+5088,18,Daniel Hemric,4093,105,112,Tail End,
+5088,23,Jason White,3557,105,112,Tail End,
+5088,51,Jeremy Clements,595,105,112,Tail End,
+5088,66,Timmy Hill,3984,105,112,Tail End,
+5088,66,Timmy Hill,3984,105,112,Tail End,
+5088,54,Ty Dillon,4013,105,112,Tail End,
+5088,54,Ty Dillon,4013,105,112,Tail End,
+5088,48,Danny Bohn,4323,106,112,Tail End,
+5088,23,Jason White,3557,114,120,Tail End,
+5088,51,Jeremy Clements,595,115,120,Tail End,
+5088,51,Jeremy Clements,595,115,120,Tail End,
+5088,90,Caesar Bacarella,4259,117,120,Tail End,
+5088,54,Ty Dillon,4013,117,120,Tail End,
+5089,18,Daniel Hemric,4093,0,0,Tail End,Multiple Inspection Failures
+5089,9,Noah Gragson,4224,0,0,Tail End,Unapproved Adjustments
+5089,9,Noah Gragson,4224,1,6,Tail End,
+5089,5,Matt Mills,4209,4,6,Tail End,
+5089,5,Matt Mills,4209,4,6,Tail End,
+5089,74,Bayley Currey,4257,5,6,Tail End,
+5089,44,Tommy Joe Martins,3902,12,13,Tail End,
+5089,16,AJ Allmendinger,3774,16,18,Tail End,
+5089,47,Kyle Weatherman,4187,17,18,Tail End,
+5089,36,Alex Labbe,4225,17,18,Tail End,
+5089,66,Timmy Hill,3984,20,34,Tail End,
+5089,16,AJ Allmendinger,3774,21,35,Pass Thru,"Missed front stretch chicane, went to garage and served penalty after re-entering race"
+5089,0,Jeffrey Earnhardt,3894,29,34,Tail End,
+5089,44,Tommy Joe Martins,3902,31,34,Tail End,
+5089,16,AJ Allmendinger,3774,38,40,Tail End,
+5089,48,Jade Buford,4346,38,0,Tail End,Garage
+5089,74,Bayley Currey,4257,39,40,Tail End,
+5089,6,Ryan Vargas,4320,45,48,Pass Thru,
+5089,74,Bayley Currey,4257,50,52,Tail End,
+5089,74,Bayley Currey,4257,50,52,Tail End,
+5089,90,Preston Pardus,4317,50,0,Tail End,Garage
+5089,07,Joe Graf Jr,4313,51,52,Tail End,
+5089,26,Kris Wright,4364,51,52,Tail End,
+5089,51,Jeremy Clements,595,51,52,Tail End,Equipment over the wall too soon
+5090,92,Josh Williams,4106,3,6,Pass Thru,
+5090,68,Brandon Brown,4118,27,30,Tail End,
+5090,68,Brandon Brown,4118,42,47,Tail End,
+5090,26,Santino Ferrucci,4374,49,53,Pass Thru,
+5090,74,Bayley Currey,4257,69,74,Tail End,
+5090,74,Bayley Currey,4257,69,74,Tail End,
+5090,39,Ryan Sieg,3884,69,74,Tail End,
+5090,61,Chad Finchum,4232,83,87,Tail End,
+5090,07,Joe Graf Jr,4313,83,87,Tail End,
+5090,5,Matt Mills,4209,86,87,Tail End,
+5090,7,Justin Allgaier,34,98,0,Tail End,Garage
+5090,68,Brandon Brown,4118,99,102,Tail End,
+5090,74,Bayley Currey,4257,99,102,Tail End,
+5090,47,Kyle Weatherman,4187,99,102,Tail End,
+5090,52,Gray Gaulding,4103,101,102,Tail End,
+5090,52,Gray Gaulding,4103,101,102,Tail End,
+5090,66,Timmy Hill,3984,101,102,Tail End,
+5090,47,Kyle Weatherman,4187,102,103,Pass Thru,Restart violation
+5090,99,Stefan Parsons,4285,114,115,Tail End,
+5090,4,Landon Cassill,3808,168,172,Tail End,Equipment over early
+5090,5,Matt Mills,4209,171,172,Tail End,Choose violation
+5090,52,Gray Gaulding,4103,173,177,Tail End,
+5091,17,Garrett Smithley,4142,0,0,Tail End,Driver Change
+5091,0,Jeffrey Earnhardt,3894,0,0,Tail End,Unapproved Adjustments
+5091,99,Stefan Parsons,4285,17,25,1 Lap,
+5091,74,Bayley Currey,4257,18,25,Tail End,
+5091,61,Chad Finchum,4232,19,25,Tail End,
+5091,52,Gray Gaulding,4103,19,25,Tail End,
+5091,66,Timmy Hill,3984,47,52,Tail End,
+5091,98,Riley Herbst,4269,56,0,Tail End,Garage
+5091,22,Austin Cindric,4180,56,61,Tail End,
+5091,2,Myatt Snider,4223,57,61,Tail End,
+5091,15,Colby Howard,4344,57,61,Tail End,
+5091,39,Ryan Sieg,3884,65,69,Tail End,
+5091,5,Matt Mills,4209,72,0,Tail End,Garage
+5091,5,Matt Mills,4209,72,0,Tail End,Equipment over the wall too soon - Garage
+5091,66,Timmy Hill,3984,92,97,Tail End,
+5091,10,Jeb Burton,4018,153,157,Pass Thru,
+5091,20,Harrison Burton,4217,174,179,Tail End,
+5091,48,Jade Buford,4346,178,179,Tail End,
+5091,47,Kyle Weatherman,4187,178,179,Tail End,
+5091,02,Brett Moffitt,4038,181,0,Tail End,Garage
+5091,17,Garrett Smithley,4142,181,187,Tail End,
+5091,36,Alex Labbe,4225,181,0,Tail End,Garage
+5091,54,Ty Dillon,4013,182,187,Tail End,
+5091,54,Ty Dillon,4013,182,187,Other - See Notes,2 Laps - Under DVP when penalty occurred
+5091,13,David Starr,3170,183,187,Tail End,
+5092,13,Loris Hezemans,4339,0,0,Tail End,Driver Change
+5092,52,Gray Gaulding,4103,23,26,Tail End,Equipment over early
+5092,19,Brandon Jones,4085,50,56,Tail End,
+5092,1,Michael Annett,3861,91,0,Tail End,Garage
+5092,18,Daniel Hemric,4093,125,129,Tail End,
+5092,10,Jeb Burton,4018,125,129,Tail End,
+5092,26,Santino Ferrucci,4374,128,129,Tail End,
+5092,39,Ryan Sieg,3884,133,137,Tail End,
+5092,8,Josh Berry,4123,133,137,Tail End,
+5092,92,Josh Williams,4106,135,137,Tail End,
+5092,47,Kyle Weatherman,4187,143,144,Tail End,
+5092,99,Stefan Parsons,4285,167,171,Tail End,
+5092,36,Alex Labbe,4225,192,197,Tail End,
+5092,36,Alex Labbe,4225,192,197,Other - See Notes,2 laps -DVP
+5093,13,Chad Finchum,4232,0,0,Tail End,Driver Change
+5093,61,David Starr,3170,0,0,Tail End,Driver Change
+5093,16,AJ Allmendinger,3774,0,0,Tail End,Multiple Inspection Failures
+5093,17,Cody Ware,4125,22,24,Tail End,
+5093,90,Dexter Bean,3725,23,24,Tail End,
+5093,13,Chad Finchum,4232,23,24,Tail End,
+5093,90,Dexter Bean,3725,36,39,Tail End,
+5093,5,Matt Mills,4209,38,39,Tail End,
+5093,9,Noah Gragson,4224,40,50,Tail End,
+5093,02,Brett Moffitt,4038,40,0,Tail End,Garage
+5093,66,Timmy Hill,3984,41,50,Tail End,
+5093,61,David Starr,3170,41,50,Tail End,
+5093,16,AJ Allmendinger,3774,41,50,Tail End,
+5093,9,Noah Gragson,4224,42,50,Tail End,
+5093,19,Brandon Jones,4085,42,50,Tail End,
+5093,19,Brandon Jones,4085,42,46,Other - See Notes,2 Laps - Penalty while under DVP
+5093,16,AJ Allmendinger,3774,43,50,Tail End,
+5093,22,Austin Cindric,4180,44,50,Tail End,
+5093,51,Jeremy Clements,595,46,50,Tail End,
+5093,4,Landon Cassill,3808,46,50,Tail End,
+5093,8,Josh Berry,4123,46,50,Tail End,
+5093,9,Noah Gragson,4224,82,88,Tail End,
+5093,36,Alex Labbe,4225,83,88,Tail End,Equipment over the wall too soon
+5093,19,Brandon Jones,4085,84,88,Tail End,
+5093,5,Matt Mills,4209,84,88,Tail End,
+5093,5,Matt Mills,4209,100,103,Pass Thru,
+5093,99,Mason Massey,4315,113,117,Tail End,
+5093,54,Martin Truex Jr,3368,114,117,Tail End,
+5093,18,Daniel Hemric,4093,114,117,Tail End,
+5093,47,Kyle Weatherman,4187,115,117,1 Lap,
+5093,99,Mason Massey,4315,116,117,Tail End,
+5093,10,Jeb Burton,4018,120,123,Tail End,
+5093,74,Bayley Currey,4257,134,137,Tail End,
+5093,5,Matt Mills,4209,135,137,Tail End,
+5093,19,Brandon Jones,4085,135,137,Tail End,
+5094,16,AJ Allmendinger,3774,26,32,Tail End,
+5094,16,AJ Allmendinger,3774,26,32,Tail End,
+5094,02,Brett Moffitt,4038,26,32,Tail End,
+5094,13,Matt Jaskol,4381,29,32,Tail End,
+5094,16,AJ Allmendinger,3774,44,47,Tail End,
+5094,10,Jeb Burton,4018,46,47,Tail End,
+5094,61,David Starr,3170,46,47,Tail End,
+5094,16,AJ Allmendinger,3774,92,96,Tail End,
+5094,68,Brandon Brown,4118,92,96,Tail End,
+5094,74,Bayley Currey,4257,93,96,Tail End,
+5094,15,Colby Howard,4344,95,96,Tail End,
+5094,92,Josh Williams,4106,105,107,1 Lap,
+5094,92,Josh Williams,4106,107,112,Tail End,
+5094,39,Ryan Sieg,3884,126,131,Tail End,
+5094,15,Colby Howard,4344,141,145,Tail End,
+5094,15,Colby Howard,4344,154,159,Tail End,
+5094,23,Blaine Perkins,4376,178,183,Tail End,
+5094,78,Jesse Little,4150,188,192,Pass Thru,
+5095,02,Brett Moffitt,4038,26,29,Tail End,Uncontrolled Tire
+5095,0,Jeffrey Earnhardt,3894,26,29,Tail End,
+5095,52,Gray Gaulding,4103,26,29,Tail End,On Entry
+5095,13,Jason White,3557,51,0,Tail End,Garage
+5095,13,Jason White,3557,51,0,Tail End,Garage
+5095,90,Caesar Bacarella,4259,57,59,Pass Thru,
+5095,15,Colby Howard,4344,73,79,Tail End,
+5095,8,Josh Berry,4123,75,79,Tail End,
+5095,07,Joe Graf Jr,4313,85,90,Tail End,
+5095,54,Ty Dillon,4013,85,0,Tail End,Garage
+5095,90,Caesar Bacarella,4259,85,0,Tail End,Garage
+5095,1,Michael Annett,3861,85,90,Tail End,
+5095,28,Joey Gase,4004,85,90,Tail End,
+5096,17,JJ Yeley,3669,4,7,Tail End,
+5096,26,Brandon Gdovic,4149,5,7,Tail End,
+5096,26,Brandon Gdovic,4149,13,16,Tail End,
+5096,26,Brandon Gdovic,4149,13,16,Tail End,
+5096,15,Colby Howard,4344,24,25,Tail End,
+5096,54,Ty Gibbs,4368,47,52,Tail End,
+5096,48,Jade Buford,4346,48,52,Tail End,
+5096,98,Riley Herbst,4269,49,52,Tail End,
+5096,15,Colby Howard,4344,49,52,Tail End,
+5096,13,Matt Jaskol,4381,50,52,Tail End,
+5096,6,Ryan Vargas,4320,50,52,Tail End,
+5096,47,Kyle Weatherman,4187,74,77,Pass Thru,
+5096,78,Jesse Little,4150,83,87,Tail End,
+5096,26,Brandon Gdovic,4149,83,87,Tail End,
+5096,26,Brandon Gdovic,4149,83,87,Tail End,
+5096,48,Jade Buford,4346,84,87,Tail End,
+5096,18,Daniel Hemric,4093,86,87,Tail End,
+5096,61,David Starr,3170,86,87,Tail End,
+5096,13,Matt Jaskol,4381,90,99,Tail End,
+5096,13,Matt Jaskol,4381,90,99,Tail End,
+5096,48,Jade Buford,4346,91,99,Tail End,
+5096,48,Jade Buford,4346,91,99,Tail End,
+5096,48,Jade Buford,4346,91,99,Tail End,
+5096,51,Jeremy Clements,595,92,99,Tail End,
+5096,15,Colby Howard,4344,92,99,Tail End,
+5096,98,Riley Herbst,4269,126,131,Tail End,
+5096,54,Ty Gibbs,4368,127,131,Tail End,
+5096,44,Tommy Joe Martins,3902,128,131,Tail End,
+5096,2,Myatt Snider,4223,128,131,Tail End,
+5096,48,Jade Buford,4346,128,131,Tail End,
+5096,07,Joe Graf Jr,4313,129,131,Tail End,
+5096,13,Matt Jaskol,4381,129,131,Tail End,
+5096,2,Myatt Snider,4223,130,131,Tail End,
+5096,07,Joe Graf Jr,4313,132,137,Tail End,
+5096,6,Ryan Vargas,4320,142,146,Tail End,
+5097,11,Zane Smith,4272,0,0,Tail End,Driver Change
+5097,02,Brett Moffitt,4038,23,26,Tail End,
+5097,6,Landon Cassill,3808,25,26,Tail End,
+5097,98,Riley Herbst,4269,32,36,Tail End,
+5097,13,Matt Jaskol,4381,35,36,Tail End,
+5097,47,Kyle Weatherman,4187,52,54,Tail End,
+5097,5,Matt Mills,4209,63,64,Tail End,
+5097,19,Brandon Jones,4085,68,0,Tail End,Garage
+5097,5,Matt Mills,4209,69,74,Tail End,
+5097,5,Matt Mills,4209,69,74,Tail End,
+5097,5,Matt Mills,4209,90,96,Tail End,
+5097,5,Matt Mills,4209,90,96,Tail End,
+5097,02,Brett Moffitt,4038,91,96,Tail End,
+5097,52,Gray Gaulding,4103,95,96,Tail End,
+5097,07,Joe Graf Jr,4313,121,125,Pass Thru,
+5097,26,John H. Nemechek,4092,139,0,Tail End,Garage
+5097,26,John H. Nemechek,4092,139,0,Tail End,Garage
+5097,26,John H. Nemechek,4092,139,0,Tail End,Garage
+5097,44,Tommy Joe Martins,3902,142,144,Tail End,
+5097,74,Bayley Currey,4257,143,144,Tail End,
+5097,26,John H. Nemechek,4092,183,186,Pass Thru,
+5098,26,Kris Wright,4364,0,0,Tail End,Engine Change
+5098,39,Ryan Sieg,3884,0,0,Tail End,Engine Change
+5098,18,Daniel Hemric,4093,0,0,Tail End,Transmission Change
+5098,39,Ryan Sieg,3884,0,0,Tail End,Unapproved Adjustments
+5098,07,Ross Chastain,4001,0,0,Pass Thru,Short cut through turn 5-Garage
+5098,18,Daniel Hemric,4093,7,10,Pass Thru,
+5098,18,Daniel Hemric,4093,10,13,Tail End,
+5098,52,Gray Gaulding,4103,11,13,Tail End,
+5098,99,Ryan Ellis,4029,11,13,Tail End,
+5098,11,Justin Haley,4172,12,13,Pass Thru,
+5098,48,Jade Buford,4346,12,13,Tail End,Uncontrolled Tire
+5098,23,Andy Lally,3816,15,17,Tail End,
+5098,39,Ryan Sieg,3884,20,22,Tail End,
+5098,19,Brandon Jones,4085,20,22,Tail End,
+5098,66,Timmy Hill,3984,21,22,Tail End,
+5098,13,Boris Said,2883,31,32,Tail End,
+5098,4,Landon Cassill,3808,31,32,Tail End,Uncontrolled Tire
+5098,51,Jeremy Clements,595,31,32,Tail End,Uncontrolled Tire
+5099,66,Timmy Hill,3984,0,0,Tail End,Unapproved Tire Change
+5099,17,Cody Ware,4125,21,25,Tail End,
+5099,66,Timmy Hill,3984,22,25,Tail End,
+5099,17,Cody Ware,4125,24,25,Tail End,
+5099,2,Myatt Snider,4223,46,52,Tail End,
+5099,36,Alex Labbe,4225,47,52,Tail End,
+5099,66,Timmy Hill,3984,48,52,Tail End,Uncontrolled Tire
+5099,31,Tyler Reddick,4065,48,52,Tail End,
+5099,54,Ty Gibbs,4368,91,97,Tail End,
+5099,2,Myatt Snider,4223,92,97,Tail End,
+5099,98,Riley Herbst,4269,93,97,Tail End,Equipment over the wall too soon
+5099,76,Stefan Parsons,4285,93,97,Tail End,Equipment over the wall too soon
+5099,54,Ty Gibbs,4368,96,97,Tail End,
+5099,5,Matt Mills,4209,99,103,Tail End,
+5099,66,Timmy Hill,3984,100,103,Tail End,
+5099,10,Jeb Burton,4018,119,124,Tail End,
+5099,10,Jeb Burton,4018,119,124,Tail End,On entry
+5099,18,Daniel Hemric,4093,121,124,Tail End,
+5099,17,Cody Ware,4125,123,124,Tail End,
+5099,51,Jeremy Clements,595,146,150,Tail End,
+5099,0,Jeffrey Earnhardt,3894,149,150,Tail End,
+5099,39,Ryan Sieg,3884,151,0,Tail End,Garage
+5099,02,Brett Moffitt,4038,151,159,Tail End,
+5099,99,Chase Briscoe,4228,182,186,Tail End,
+5099,7,Justin Allgaier,34,185,186,Tail End,
+5099,76,Stefan Parsons,4285,185,186,Tail End,
+5099,7,Justin Allgaier,34,185,186,Tail End,
+5099,1,Michael Annett,3861,187,193,Tail End,
+5099,11,Justin Haley,4172,187,193,Tail End,
+5099,9,Noah Gragson,4224,189,0,Tail End,Garage
+5099,98,Riley Herbst,4269,189,193,Tail End,
+5100,99,Ryan Ellis,4029,0,0,Tail End,Unapproved adjustment
+5100,26,Kris Wright,4364,0,0,Tail End,Unapproved adjustment
+5100,74,Bayley Currey,4257,8,0,Tail End,Garage
+5100,20,Harrison Burton,4217,19,0,Pass Thru,Garage
+5100,52,Gray Gaulding,4103,22,30,Tail End,Under minimum pit time
+5100,15,Colby Howard,4344,27,30,Tail End,Over minimum pit time
+5100,99,Ryan Ellis,4029,27,30,Tail End,
+5100,0,Jeffrey Earnhardt,3894,27,30,Tail End,Pitting out of order
+5100,51,Jeremy Clements,595,28,30,Tail End,Over minimum pit time
+5100,68,Brandon Brown,4118,28,30,Tail End,
+5100,74,Bayley Currey,4257,29,30,Tail End,
+5100,78,Jesse Little,4150,33,34,Pass Thru,Under minimum pit time
+5100,51,Jeremy Clements,595,41,43,Tail End,
+5100,26,Kris Wright,4364,46,55,Tail End,
+5100,16,AJ Allmendinger,3774,46,55,Tail End,Under minimum pit time
+5100,17,Cody Ware,4125,46,55,Tail End,Under minimum pit time
+5100,51,Jeremy Clements,595,52,0,Tail End,Garage
+5100,23,Andy Lally,3816,53,55,Tail End,
+5100,48,Jade Buford,4346,53,55,Tail End,Over minimum pit time
+5100,10,Jeb Burton,4018,68,71,Tail End,
+5100,18,Daniel Hemric,4093,70,71,Tail End,
+5100,17,Cody Ware,4125,70,71,Tail End,Pitting out of order
+5100,07,Joe Graf Jr,4313,70,71,Tail End,Pitting out of order
+5100,2,Myatt Snider,4223,72,76,Tail End,
+5101,4,Ryan Vargas,4320,0,0,Tail End,Unapproved adjustment
+5101,47,Kyle Weatherman,4187,42,47,Tail End,
+5101,5,Matt Mills,4209,42,47,Tail End,
+5101,61,Matt Jaskol,4381,43,47,Tail End,
+5101,07,Joe Graf Jr,4313,45,47,Tail End,
+5101,78,Jesse Little,4150,46,47,Tail End,
+5101,10,Jeb Burton,4018,61,66,Tail End,
+5101,10,Jeb Burton,4018,61,66,Tail End,
+5101,26,Brandon Gdovic,4149,64,66,Tail End,
+5101,26,Brandon Gdovic,4149,83,88,Tail End,
+5101,4,Ryan Vargas,4320,83,88,Tail End,
+5101,23,Tanner Berryhill,4022,90,0,Tail End,Garage
+5101,5,Matt Mills,4209,91,97,Tail End,
+5101,90,Ronnie Bassett Jr,4305,92,97,Tail End,
+5101,26,Brandon Gdovic,4149,92,97,Tail End,
+5101,61,Matt Jaskol,4381,96,97,Tail End,
+5101,99,Stefan Parsons,4285,110,0,Tail End,Garage
+5101,99,Stefan Parsons,4285,110,0,Tail End,Garage
+5101,51,Jeremy Clements,595,110,115,Tail End,
+5101,31,Jordan Anderson,4139,111,115,Tail End,
+5101,15,Colby Howard,4344,121,126,Tail End,
+5101,07,Joe Graf Jr,4313,123,126,Tail End,
+5101,44,Tommy Joe Martins,3902,158,162,Tail End,
+5101,8,Josh Berry,4123,158,162,Tail End,
+5101,31,Jordan Anderson,4139,159,162,Tail End,
+5102,16,AJ Allmendinger,3774,48,53,Tail End,
+5102,07,JJ Yeley,3669,48,53,Tail End,
+5102,74,Bayley Currey,4257,50,53,Tail End,
+5102,74,Bayley Currey,4257,50,53,Tail End,
+5102,16,AJ Allmendinger,3774,52,53,Tail End,
+5102,47,Kyle Weatherman,4187,52,53,Tail End,
+5102,66,David Starr,3170,73,75,Tail End,
+5102,78,Jesse Little,4150,74,75,Tail End,
+5102,98,Riley Herbst,4269,93,96,Tail End,
+5102,39,Ryan Sieg,3884,93,96,Tail End,
+5102,92,Josh Williams,4106,93,96,Tail End,
+5102,47,Kyle Weatherman,4187,94,96,Tail End,
+5102,74,Bayley Currey,4257,95,96,Tail End,
+5102,68,Brandon Brown,4118,141,148,Tail End,Garage
+5102,98,Riley Herbst,4269,143,148,Tail End,
+5102,92,Josh Williams,4106,144,148,Tail End,
+5102,48,Jade Buford,4346,154,0,Tail End,Garage
+5102,48,Jade Buford,4346,154,0,Other - See Notes,2 laps under DVP / Garage
+5102,1,Michael Annett,3861,161,168,Tail End,
+5102,18,Daniel Hemric,4093,161,168,Tail End,
+5102,4,Landon Cassill,3808,182,0,Tail End,Garage
+5103,98,Riley Herbst,4269,0,0,Tail End,Unapproved adjustment
+5103,74,Jesse Iwuji,4291,0,0,Tail End,Driver change
+5103,92,Josh Williams,4106,11,0,Tail End,Garage
+5103,39,Ryan Sieg,3884,12,17,Tail End,
+5103,52,Joey Gase,4004,12,17,Tail End,
+5103,99,Mason Massey,4315,12,17,Tail End,
+5103,74,Jesse Iwuji,4291,23,24,Tail End,
+5103,5,Matt Mills,4209,23,24,Tail End,
+5103,99,Mason Massey,4315,23,24,Tail End,
+5103,20,Harrison Burton,4217,35,38,Tail End,
+5103,18,Daniel Hemric,4093,35,38,Tail End,
+5103,5,Matt Mills,4209,43,44,Tail End,
+5103,5,Matt Mills,4209,43,44,Tail End,
+5103,66,David Starr,3170,43,44,Tail End,
+5103,18,Daniel Hemric,4093,70,73,Pass Thru,
+5103,61,Austin Hill,4133,74,77,Pass Thru,
+5103,23,Blaine Perkins,4376,77,0,Pass Thru,Garage
+5103,99,Mason Massey,4315,81,82,Pass Thru,
+5104,9,Noah Gragson,4224,0,0,Tail End,Engine Change
+5104,98,Riley Herbst,4269,0,0,Tail End,Backup Car
+5104,02,Brett Moffitt,4038,0,0,Tail End,Unapproved Adjustments
+5104,23,Natalie Decker,4196,0,0,Tail End,Unapproved Adjustments
+5104,78,Ryan Ellis,4029,0,0,Tail End,Unapproved Adjustments
+5104,6,Spencer Pumpelly,4390,6,0,Tail End,Garage
+5104,17,Cody Ware,4125,7,8,Tail End,
+5104,48,Jade Buford,4346,7,8,Tail End,On Exit
+5104,81,Ty Gibbs,4368,8,12,Tail End,Restart Violation - Changed Lanes
+5104,42,Timmy Hill,3984,8,12,Tail End,
+5104,07,Josh Bilicki,4213,11,12,Tail End,
+5104,13,Stephen Leicht,1965,11,12,Tail End,
+5104,23,Natalie Decker,4196,11,12,Tail End,
+5104,10,Jeb Burton,4018,14,15,Tail End,
+5104,10,Jeb Burton,4018,14,15,Tail End,On Exit
+5104,07,Josh Bilicki,4213,18,22,Tail End,Uncontrolled Tire
+5104,02,Brett Moffitt,4038,18,22,Tail End,
+5104,13,Stephen Leicht,1965,21,22,Tail End,
+5104,78,Ryan Ellis,4029,21,22,Tail End,On Entry
+5104,16,AJ Allmendinger,3774,21,22,Tail End,
+5104,51,Jeremy Clements,595,24,29,Tail End,Garage
+5104,31,Kaz Grala,4191,27,29,Tail End,
+5104,90,Preston Pardus,4317,27,29,Tail End,
+5104,18,Daniel Hemric,4093,27,29,Tail End,
+5104,92,Josh Williams,4106,36,37,Tail End,On Exit
+5104,78,Ryan Ellis,4029,36,37,1 Lap,
+5104,7,Justin Allgaier,34,38,39,Tail End,On Exit
+5105,1,Austin Dillon,3873,0,0,Tail End,Driver Change
+5105,78,Jesse Little,4150,23,24,Tail End,
+5105,66,Cj McLaughlin,4316,23,0,Tail End,Garage
+5105,99,Mason Massey,4315,43,46,Tail End,
+5105,22,Austin Cindric,4180,43,46,Tail End,
+5105,17,Carson Ware,4341,44,46,1 Lap,
+5105,66,Cj McLaughlin,4316,45,46,Tail End,
+5105,61,David Starr,3170,51,0,Tail End,Garage
+5105,31,Josh Berry,4123,62,66,Tail End,
+5105,17,Carson Ware,4341,65,66,Tail End,
+5105,26,Santino Ferrucci,4374,82,86,Tail End,
+5105,16,AJ Allmendinger,3774,83,86,Tail End,
+5105,52,Gray Gaulding,4103,96,101,Tail End,
+5105,74,Bayley Currey,4257,98,101,1 Lap,
+5105,26,Santino Ferrucci,4374,98,101,Tail End,
+5105,5,Matt Mills,4209,100,101,Tail End,
+5105,78,Jesse Little,4150,100,101,Tail End,
+5105,52,Gray Gaulding,4103,100,101,Tail End,
+5105,9,Noah Gragson,4224,101,101,Tail End,
+5105,19,Brandon Jones,4085,118,0,Tail End,Garage
+5105,90,Ronnie Bassett Jr,4305,122,124,Tail End,
+5105,7,Justin Allgaier,34,123,124,Tail End,Choose Zone Violation - Running over choose box
+5105,98,Riley Herbst,4269,148,152,Tail End,
+5105,15,Colby Howard,4344,148,152,Tail End,
+5105,5,Matt Mills,4209,148,152,Tail End,
+5105,39,Ryan Sieg,3884,151,152,Tail End,Choose Zone Violation - Running over choose box
+5105,68,Brandon Brown,4118,153,157,Tail End,
+5105,47,Kyle Weatherman,4187,153,157,Tail End,
+5105,20,Harrison Burton,4217,154,157,Tail End,
+5105,18,Daniel Hemric,4093,158,162,Tail End,
+5106,4,Landon Cassill,3808,0,0,Tail End,Unapproved adjustments
+5106,5,Matt Mills,4209,0,0,Tail End,Unapproved adjustments
+5106,74,Dawson Cram,4256,0,0,Tail End,Driver change
+5106,8,Sam Mayer,4327,26,30,Tail End,
+5106,99,Mason Massey,4315,26,30,Tail End,
+5106,98,Riley Herbst,4269,26,30,Tail End,
+5106,6,Ryan Vargas,4320,47,52,Tail End,
+5106,19,Brandon Jones,4085,50,0,Tail End,Garage
+5106,47,Kyle Weatherman,4187,93,98,Tail End,
+5106,74,Dawson Cram,4256,94,98,Tail End,Equipment over the wall too soon
+5106,31,Jordan Anderson,4139,96,98,Tail End,
+5106,23,Patrick Emerling,4254,149,155,Tail End,
+5106,61,Cj McLaughlin,4316,168,0,Pass Thru,Garage
+5106,74,Dawson Cram,4256,184,199,Pass Thru,
+5106,74,Dawson Cram,4256,184,199,Pass Thru,
+5107,39,Ryan Sieg,3884,0,0,Tail End,Unapproved adjustments
+5107,78,Jesse Little,4150,0,0,Tail End,Unapproved adjustments
+5107,61,Stephen Leicht,1965,4,7,Tail End,
+5107,6,Michael Munley,4404,4,7,Tail End,
+5107,52,Dave Smith,4411,5,7,Tail End,
+5107,52,Dave Smith,4411,5,7,Tail End,
+5107,26,Kris Wright,4364,5,7,Tail End,
+5107,39,Ryan Sieg,3884,11,12,Tail End,
+5107,39,Ryan Sieg,3884,21,24,Tail End,
+5107,39,Ryan Sieg,3884,21,24,Tail End,
+5107,02,Brett Moffitt,4038,22,24,Tail End,
+5107,07,Joe Graf Jr,4313,22,24,Tail End,
+5107,5,Matt Mills,4209,22,24,Tail End,
+5107,19,Brandon Jones,4085,30,31,Pass Thru,
+5107,39,Ryan Sieg,3884,35,36,Tail End,
+5107,6,Michael Munley,4404,35,36,Tail End,
+5107,6,Michael Munley,4404,35,36,Tail End,
+5107,07,Joe Graf Jr,4313,37,43,Tail End,
+5107,8,Sam Mayer,4327,49,50,Tail End,
+5107,98,Riley Herbst,4269,49,50,Tail End,
+5107,61,Stephen Leicht,1965,49,50,Tail End,
+5107,74,Bayley Currey,4257,57,58,Tail End,
+5107,39,Ryan Sieg,3884,65,70,Pass Thru,
+5107,52,Dave Smith,4411,66,70,Tail End,
+5107,6,Michael Munley,4404,69,70,Tail End,
+5107,6,Michael Munley,4404,69,70,Tail End,
+5107,0,Jeffrey Earnhardt,3894,69,70,Tail End,
+5107,6,Michael Munley,4404,76,0,Tail End,Garage
+5108,4,Landon Cassill,3808,0,0,Tail End,Unapproved Adjustment
+5108,8,Sam Mayer,4327,0,0,Tail End,Unapproved Adjustment
+5108,47,Kyle Weatherman,4187,0,0,Tail End,Unapproved Adjustment
+5108,23,Austin Dillon,3873,0,0,Tail End,Unapproved Adjustment
+5108,17,JJ Yeley,3669,0,0,Tail End,Missed driver intros
+5108,39,Ryan Sieg,3884,0,0,Tail End,Missed driver intros
+5108,19,Brandon Jones,4085,0,0,Other - See Notes,Garage- 2 Laps DVP
+5108,07,Josh Bilicki,4213,1,4,Tail End,
+5108,68,Brandon Brown,4118,1,0,Tail End,Garage
+5108,99,Kevin Harvick,1416,1,0,Tail End,Garage
+5108,99,Kevin Harvick,1416,1,0,Tail End,Garage
+5108,19,Brandon Jones,4085,1,0,Tail End,Garage
+5108,07,Josh Bilicki,4213,16,18,Tail End,
+5108,39,Ryan Sieg,3884,16,18,Tail End,
+5108,39,Ryan Sieg,3884,16,18,Tail End,
+5108,20,Harrison Burton,4217,16,18,Tail End,
+5108,20,Harrison Burton,4217,16,18,Tail End,
+5108,26,Kris Wright,4364,17,18,Tail End,
+5108,23,Austin Dillon,3873,17,18,Tail End,
+5108,0,Spencer Pumpelly,4390,20,23,Tail End,
+5108,02,Brett Moffitt,4038,21,0,Tail End,Garage
+5108,44,Tommy Joe Martins,3902,21,23,Tail End,
+5108,07,Josh Bilicki,4213,29,32,Tail End,
+5108,98,Riley Herbst,4269,29,32,Tail End,
+5108,47,Kyle Weatherman,4187,29,32,Tail End,
+5108,31,Sage Karam,4409,37,43,Tail End,
+5108,7,Justin Allgaier,34,38,43,Tail End,
+5108,44,Tommy Joe Martins,3902,41,43,Tail End,
+5108,51,Jeremy Clements,595,41,43,Tail End,
+5108,10,Jeb Burton,4018,61,62,Pass Thru,
+5109,1,Josh Berry,4123,0,0,Tail End,Driver change
+5109,6,Ryan Vargas,4320,21,26,Tail End,
+5109,90,Caesar Bacarella,4259,21,26,Tail End,
+5109,90,Caesar Bacarella,4259,21,26,Tail End,
+5109,39,Ryan Sieg,3884,22,26,Tail End,
+5109,61,Bubba Wallace,4025,23,26,Tail End,
+5109,7,Justin Allgaier,34,23,26,Tail End,
+5109,1,Josh Berry,4123,32,35,Tail End,
+5109,5,Matt Mills,4209,32,35,Tail End,
+5109,6,Ryan Vargas,4320,32,35,Tail End,
+5109,39,Ryan Sieg,3884,34,35,Tail End,
+5109,11,Justin Haley,4172,36,45,Tail End,
+5109,61,Bubba Wallace,4025,36,45,Tail End,
+5109,22,Austin Cindric,4180,36,0,Tail End,Garage
+5109,18,Daniel Hemric,4093,36,0,Tail End,Garage
+5109,68,Brandon Brown,4118,36,0,Tail End,Garage
+5109,2,Myatt Snider,4223,36,45,Tail End,
+5109,07,Joe Graf Jr,4313,36,0,Tail End,Garage
+5109,39,Ryan Sieg,3884,36,45,Tail End,
+5109,2,Myatt Snider,4223,36,37,Other - See Notes,2 laps under DVP
+5109,39,Ryan Sieg,3884,44,45,Tail End,
+5109,15,Colby Howard,4344,63,66,Tail End,
+5109,66,David Starr,3170,63,66,Tail End,
+5109,39,Ryan Sieg,3884,65,66,Tail End,
+5109,74,Bayley Currey,4257,65,66,Tail End,
+5109,74,Bayley Currey,4257,92,98,Pass Thru,
+5109,74,Bayley Currey,4257,92,98,Pass Thru,
+5109,36,Alex Labbe,4225,103,127,Tail End,
+5109,17,Carson Ware,4341,106,108,Pass Thru,
+5109,54,Ty Gibbs,4368,106,109,Pass Thru,
+5109,10,Jeb Burton,4018,116,120,Tail End,
+5109,31,Jordan Anderson,4139,118,120,Tail End,
+5109,15,Colby Howard,4344,120,127,Tail End,
+5109,74,Bayley Currey,4257,122,127,Tail End,
+5109,11,Justin Haley,4172,123,127,Tail End,
+5109,54,Ty Gibbs,4368,133,137,Tail End,
+5109,5,Matt Mills,4209,136,137,Tail End,
+5110,78,Mason Massey,4315,17,21,Tail End,
+5110,22,Austin Cindric,4180,27,0,Tail End,Garage
+5110,8,Sam Mayer,4327,27,33,Tail End,
+5110,18,Daniel Hemric,4093,27,33,Tail End,
+5110,18,Daniel Hemric,4093,27,33,Tail End,
+5110,1,Michael Annett,3861,28,33,Tail End,
+5110,2,Myatt Snider,4223,28,33,Tail End,
+5110,1,Michael Annett,3861,35,39,Tail End,
+5110,26,Colin Garrett,4310,50,52,Tail End,
+5110,66,Jason White,3557,50,52,Tail End,
+5110,68,Brandon Brown,4118,56,64,Tail End,
+5110,18,Daniel Hemric,4093,62,64,Tail End,
+5110,6,Ryan Vargas,4320,62,64,Tail End,
+5110,51,Jeremy Clements,595,62,64,Tail End,
+5110,66,Jason White,3557,62,64,Tail End,
+5110,15,Colby Howard,4344,72,77,Tail End,
+5110,26,Colin Garrett,4310,72,0,Tail End,Garage
+5110,15,Colby Howard,4344,72,77,Tail End,
+5110,02,Brett Moffitt,4038,73,77,Tail End,
+5110,15,Colby Howard,4344,75,77,Tail End,
+5110,48,Jade Buford,4346,83,86,Tail End,
+5110,5,Matt Mills,4209,83,86,Tail End,
+5110,07,Joe Graf Jr,4313,85,86,Tail End,
+5111,02,Ty Dillon,4013,0,0,Tail End,Driver change
+5111,52,Gray Gaulding,4103,0,0,Tail End,Missed driver intros
+5111,7,Justin Allgaier,34,14,15,Tail End,
+5111,61,David Starr,3170,22,25,Tail End,
+5111,26,Colin Garrett,4310,29,30,Pass Thru,
+5111,8,Sam Mayer,4327,43,0,Tail End,Garage
+5111,47,Kyle Weatherman,4187,48,0,Tail End,Garage
+5111,17,Mason Massey,4315,52,53,Tail End,
+5111,19,Brandon Jones,4085,59,64,Tail End,
+5111,99,Ryan Ellis,4029,63,64,Tail End,
+5111,19,Brandon Jones,4085,94,97,Tail End,
+5111,98,Riley Herbst,4269,109,0,Tail End,Garage
+5111,44,Tommy Joe Martins,3902,109,0,Tail End,Garage
+5111,74,Carson Ware,4341,138,142,Tail End,
+5111,54,Denny Hamlin,1361,138,142,Tail End,Equipment over the wall too soon
+5112,52,Akinori Ogata,4138,0,0,Tail End,Missed driver intros
+5112,02,Ty Dillon,4013,0,0,Tail End,Driver change
+5112,15,Bayley Currey,4257,0,0,Tail End,Driver change
+5112,61,Stephen Leicht,1965,29,42,Tail End,
+5112,07,Joe Graf Jr,4313,37,42,Tail End,
+5112,90,Spencer Boyd,4192,39,42,Tail End,
+5112,10,Jeb Burton,4018,40,42,Tail End,
+5112,61,Stephen Leicht,1965,66,67,Other - See Notes,Pit- fail to meet minimum speed
+5112,61,Stephen Leicht,1965,67,91,Tail End,
+5112,61,Stephen Leicht,1965,67,91,Tail End,
+5112,5,Matt Mills,4209,78,84,Tail End,
+5112,74,Cj McLaughlin,4316,79,84,Tail End,
+5112,1,Michael Annett,3861,81,84,Tail End,
+5112,48,Jade Buford,4346,147,158,Tail End,
+5112,48,Jade Buford,4346,151,158,Tail End,
+5112,44,Tommy Joe Martins,3902,154,158,Tail End,
+5112,61,Stephen Leicht,1965,156,158,Tail End,
+5112,48,Jade Buford,4346,171,176,Tail End,
+5112,48,Jade Buford,4346,171,176,Tail End,
+5112,15,Bayley Currey,4257,171,176,Tail End,
+5112,39,Ryan Sieg,3884,171,176,Tail End,
+5112,61,Stephen Leicht,1965,172,176,Tail End,
+5112,52,Akinori Ogata,4138,173,176,Tail End,
+5112,66,David Starr,3170,174,176,Tail End,
+5112,4,Landon Cassill,3808,181,0,Tail End,Garage
+5112,19,Brandon Jones,4085,183,187,Tail End,
+5112,90,Spencer Boyd,4192,186,187,Tail End,Running over choose box
+5112,8,Dale Earnhardt Jr,915,225,230,Tail End,
+5112,10,Jeb Burton,4018,225,230,Tail End,
+5112,23,Patrick Emerling,4254,225,230,Tail End,
+5112,78,Mason Massey,4315,226,230,Tail End,
+5112,44,Tommy Joe Martins,3902,231,0,Tail End,Garage
+5113,1,Josh Berry,4123,0,0,Tail End,Driver change
+5113,17,Carson Ware,4341,11,16,Tail End,
+5113,4,Landon Cassill,3808,41,51,Tail End,
+5113,4,Landon Cassill,3808,41,51,Tail End,
+5113,15,BJ McLeod,3973,42,51,Tail End,
+5113,61,Chad Finchum,4232,43,51,Tail End,Equipment over the wall too soon
+5113,90,Spencer Boyd,4192,44,51,Tail End,
+5113,74,Bayley Currey,4257,49,51,Tail End,
+5113,1,Josh Berry,4123,77,79,Other - See Notes,Pit- repair damage
+5113,5,Stefan Parsons,4285,155,161,Tail End,
+5113,2,Myatt Snider,4223,157,161,Tail End,
+5113,9,Noah Gragson,4224,173,179,Tail End,
+5113,7,Justin Allgaier,34,173,179,Tail End,
+5113,17,Carson Ware,4341,199,204,Tail End,
+5113,66,David Starr,3170,240,247,Tail End,
+5113,23,Ty Dillon,4013,241,247,Tail End,
+5113,48,Jade Buford,4346,300,304,Tail End,
+5114,98,Riley Herbst,4269,31,0,Tail End,Garage
+5114,26,Dylan Lupton,4146,31,0,Tail End,Garage
+5114,8,Sam Mayer,4327,31,0,Tail End,Garage
+5114,51,Jeremy Clements,595,31,0,Tail End,Garage
+5114,07,Joe Graf Jr,4313,31,0,Tail End,Garage
+5114,68,Brandon Brown,4118,31,40,Tail End,
+5114,99,BJ McLeod,3973,31,40,Tail End,
+5114,5,Matt Mills,4209,38,40,Tail End,
+5114,74,Cj McLaughlin,4316,39,40,Tail End,
+5114,39,Ryan Sieg,3884,48,51,Tail End,
+5114,9,Noah Gragson,4224,48,51,Tail End,On Entry
+5114,52,Carson Ware,4341,50,51,Tail End,
+5114,48,Jade Buford,4346,55,59,Tail End,
+5114,74,Cj McLaughlin,4316,56,59,Tail End,
+5114,68,Brandon Brown,4118,89,96,Tail End,
+5114,9,Noah Gragson,4224,93,96,Tail End,
+5114,5,Matt Mills,4209,94,96,Tail End,
+5114,52,Carson Ware,4341,104,125,Tail End,Garage
+5114,68,Brandon Brown,4118,121,125,Tail End,
+5114,0,Jeffrey Earnhardt,3894,149,152,Pass Thru,
+5114,5,Matt Mills,4209,151,154,Pass Thru,
+5114,54,Ty Gibbs,4368,178,182,Pass Thru,
+5115,11,Justin Haley,4172,0,0,Tail End,Inspection violation
+5115,11,Justin Haley,4172,0,1,Pass Thru,Inspection violation
+5115,61,David Starr,3170,24,0,Tail End,Garage
+5115,4,Landon Cassill,3808,50,0,Tail End,Garage
+5115,19,Brandon Jones,4085,51,54,Tail End,
+5115,6,Ryan Vargas,4320,89,0,Tail End,Garage
+5115,52,Joey Gase,4004,89,93,Tail End,
+5115,26,Santino Ferrucci,4374,89,93,Tail End,
+5115,26,Santino Ferrucci,4374,89,93,Tail End,
+5115,02,Brett Moffitt,4038,91,93,Tail End,
+5115,0,Jeffrey Earnhardt,3894,94,0,Pass Thru,Garage
+5115,36,Alex Labbe,4225,102,0,Tail End,
+5115,66,Jason White,3557,102,0,Tail End,
+5115,54,John H. Nemechek,4092,102,0,Tail End,
+5116,1,Michael Annett,3861,0,0,Tail End,Driver Change
+5116,26,Will Rodgers,4321,2,4,Tail End,
+5116,44,Tommy Joe Martins,3902,3,4,Tail End,
+5116,22,Austin Cindric,4180,7,7,Stop & Go,Missed Back Stretch Chicane
+5116,39,Ryan Sieg,3884,9,9,Stop & Go,Missed Back Stretch Chicane
+5116,02,Brett Moffitt,4038,10,0,Tail End,Garage
+5116,47,Kyle Weatherman,4187,11,13,Tail End,
+5116,74,Gray Gaulding,4103,11,0,Tail End,Garage
+5116,44,Tommy Joe Martins,3902,12,13,Tail End,
+5116,39,Ryan Sieg,3884,14,17,Pass Thru,Missed Back Stretch Chicane
+5116,48,Jade Buford,4346,17,22,Tail End,
+5116,5,Matt Mills,4209,20,22,Tail End,
+5116,15,Kris Wright,4364,20,0,Tail End,Garage
+5116,5,Matt Mills,4209,20,22,Tail End,
+5116,47,Kyle Weatherman,4187,21,22,Tail End,
+5116,7,Justin Allgaier,34,21,22,Tail End,Uncontrolled Tire
+5116,66,Loris Hezemans,4339,21,22,Tail End,
+5116,4,Landon Cassill,3808,21,22,Tail End,
+5116,66,Loris Hezemans,4339,30,32,Tail End,
+5116,5,Matt Mills,4209,30,32,Tail End,
+5116,17,Joe Graf Jr,4313,31,32,Tail End,
+5116,5,Matt Mills,4209,32,32,Stop & Go,Missed Front Stretch Chicane
+5116,2,Myatt Snider,4223,42,43,Pass Thru,Restart Violation - Changed Lanes
+5116,39,Ryan Sieg,3884,44,44,Stop & Go,Missed Back Stretch Chicane
+5116,54,Ty Gibbs,4368,47,47,Stop & Go,Missed Back Stretch Chicane
+5116,54,Ty Gibbs,4368,49,49,Stop & Go,Missed Back Stretch Chicane
+5116,9,Noah Gragson,4224,51,51,Stop & Go,Missed Back Stretch Chicane
+5116,66,Loris Hezemans,4339,61,61,Stop & Go,Missed Back Stretch Chicane
+5116,66,Loris Hezemans,4339,62,0,Tail End,Garage
+5116,44,Tommy Joe Martins,3902,63,0,Tail End,Garage
+5116,61,Austin Hill,4133,63,66,Tail End,
+5116,1,Michael Annett,3861,65,66,Tail End,
+5116,8,Sam Mayer,4327,67,67,Stop & Go,Missed Back Stretch Chicane
+5116,31,Sage Karam,4409,67,68,Other - See Notes,Missed Front Stretch Chicane - 30 Second Post Race Penalty
+5116,23,Ty Dillon,4013,67,68,Other - See Notes,Missed Front Stretch Chicane - 30 Second Post Race Penalty
+5117,74,Cj McLaughlin,4316,23,25,Tail End,
+5117,74,Cj McLaughlin,4316,23,25,Tail End,
+5117,74,Cj McLaughlin,4316,24,25,Tail End,
+5117,39,Ryan Sieg,3884,24,25,Tail End,
+5117,39,Ryan Sieg,3884,27,30,Tail End,
+5117,74,Cj McLaughlin,4316,27,30,Tail End,
+5117,74,Cj McLaughlin,4316,42,44,Tail End,
+5117,02,Brett Moffitt,4038,47,51,Tail End,
+5117,39,Ryan Sieg,3884,58,61,Tail End,
+5117,74,Cj McLaughlin,4316,59,61,Tail End,
+5117,11,Justin Haley,4172,92,97,Tail End,
+5117,52,Joey Gase,4004,93,97,Tail End,
+5117,11,Justin Haley,4172,96,97,Tail End,
+5117,26,Dylan Lupton,4146,101,0,Tail End,Garage
+5117,51,Jeremy Clements,595,104,108,Tail End,
+5117,5,Mason Massey,4315,107,108,Tail End,
+5117,47,Kyle Weatherman,4187,108,112,Pass Thru,
+5117,74,Cj McLaughlin,4316,130,137,Pass Thru,
+5117,66,David Starr,3170,142,149,Tail End,
+5117,66,David Starr,3170,142,149,Tail End,
+5117,66,David Starr,3170,142,146,1 Lap,
+5117,74,Cj McLaughlin,4316,143,149,Tail End,
+5117,68,Brandon Brown,4118,143,149,Tail End,
+5117,54,John H. Nemechek,4092,143,149,Tail End,
+5117,36,Alex Labbe,4225,144,149,Tail End,
+5117,52,Joey Gase,4004,147,149,Tail End,
+5117,78,Jesse Little,4150,147,149,Tail End,
+5117,99,Matt Mills,4209,147,149,Tail End,
+5117,74,Cj McLaughlin,4316,147,149,Tail End,
+5117,4,Landon Cassill,3808,173,0,Tail End,Garage
+5117,92,Josh Williams,4106,174,179,Tail End,
+5117,47,Kyle Weatherman,4187,175,179,Tail End,
+5117,47,Kyle Weatherman,4187,175,179,Tail End,
+5118,61,Loris Hezemans,4339,0,0,Tail End,Driver Change
+5118,17,Garrett Smithley,4142,0,0,Tail End,Driver Change
+5118,51,Jeremy Clements,595,22,25,Tail End,
+5118,07,Joe Graf Jr,4313,22,25,Tail End,
+5118,90,Spencer Boyd,4192,23,25,Tail End,Equipment over the wall too soon
+5118,23,Patrick Emerling,4254,24,25,Tail End,
+5118,26,Dylan Lupton,4146,29,37,Tail End,
+5118,23,Patrick Emerling,4254,30,37,Tail End,
+5118,47,Kyle Weatherman,4187,48,51,Tail End,Uncontrolled Tire
+5118,26,Dylan Lupton,4146,49,51,Tail End,
+5118,68,Brandon Brown,4118,50,51,Tail End,
+5118,36,Alex Labbe,4225,92,0,Tail End,Garage
+5118,54,Ty Gibbs,4368,93,96,Tail End,
+5118,78,Jesse Little,4150,94,96,Tail End,
+5118,92,Josh Williams,4106,94,96,Tail End,
+5118,18,Daniel Hemric,4093,97,102,Tail End,
+5118,36,Alex Labbe,4225,98,102,Tail End,
+5118,5,Mason Massey,4315,99,102,Tail End,
+5118,66,David Starr,3170,99,0,Tail End,Garage
+5118,18,Daniel Hemric,4093,101,102,Tail End,
+5118,90,Spencer Boyd,4192,101,102,Tail End,
+5118,78,Jesse Little,4150,101,102,Tail End,
+5118,36,Alex Labbe,4225,106,0,Tail End,Garage
+5118,61,Loris Hezemans,4339,106,107,Tail End,
+5118,66,David Starr,3170,106,107,Tail End,
+5118,5,Mason Massey,4315,137,0,Tail End,Garage
+5118,90,Spencer Boyd,4192,137,140,Tail End,
+5118,0,Jeffrey Earnhardt,3894,138,140,Tail End,
+5118,66,David Starr,3170,138,140,Tail End,
+5118,26,Dylan Lupton,4146,139,140,Tail End,
+5118,07,Joe Graf Jr,4313,155,159,Tail End,
+5118,26,Dylan Lupton,4146,157,159,Tail End,Dual Role Person
+5118,90,Spencer Boyd,4192,157,159,Tail End,Equipment over the wall too soon
+5118,15,Bayley Currey,4257,157,159,Tail End,
+5118,36,Alex Labbe,4225,158,159,Tail End,
+5118,31,Jordan Anderson,4139,180,184,Tail End,Uncontrolled Tire
+5118,17,Garrett Smithley,4142,181,184,Tail End,Uncontrolled Tire
+5118,66,David Starr,3170,182,184,Tail End,
+5119,61,Stephen Leicht,1965,0,0,Tail End,Unapproved Adjustments
+5119,07,Joe Graf Jr,4313,0,0,Tail End,Unapproved Adjustments
+5119,74,Mike Harmon,1392,0,0,Tail End,Driver Change
+5119,74,Mike Harmon,1392,33,35,Tail End,On Exit
+5119,8,Sam Mayer,4327,48,53,Tail End,
+5119,74,Mike Harmon,1392,50,0,Tail End,Garage
+5119,90,Preston Pardus,4317,125,130,Tail End,
+5119,2,Myatt Snider,4223,125,130,Tail End,
+5119,47,Kyle Weatherman,4187,127,130,Tail End,
+5119,26,Colin Garrett,4310,128,130,Tail End,
+5119,99,Ryan Ellis,4029,128,130,Tail End,
+5119,23,Natalie Decker,4196,129,130,Tail End,Laying back during the Choose
+5119,15,Bayley Currey,4257,150,155,Tail End,
+5119,11,Justin Haley,4172,150,155,Tail End,
+5119,07,Joe Graf Jr,4313,152,155,Tail End,
+5119,61,Stephen Leicht,1965,153,155,Tail End,
+5119,39,Ryan Sieg,3884,188,192,Tail End,
+5119,61,Stephen Leicht,1965,189,192,Tail End,
+5119,52,Spencer Boyd,4192,195,200,Tail End,
+5119,10,Jeb Burton,4018,195,0,Tail End,Garage
+5119,5,Matt Mills,4209,195,200,Tail End,
+5119,98,Riley Herbst,4269,196,200,Tail End,
+5119,6,Ryan Vargas,4320,196,200,Tail End,
+5119,11,Justin Haley,4172,196,200,Tail End,
+5119,68,Brandon Brown,4118,202,0,Tail End,Garage
+5119,54,Ty Gibbs,4368,203,207,Tail End,
+5119,20,Harrison Burton,4217,203,207,Tail End,
+5119,20,Harrison Burton,4217,219,224,Tail End,
+5119,61,Stephen Leicht,1965,220,224,Tail End,
+5119,20,Harrison Burton,4217,221,224,Tail End,
+5120,20,Harrison Burton,4217,0,0,Tail End,At track penalty
+5120,66,David Starr,3170,0,0,Tail End,Unapproved adjustment
+5120,07,JJ Yeley,3669,0,0,Tail End,Back up car
+5120,8,Sam Mayer,4327,47,52,Tail End,
+5120,92,Josh Williams,4106,47,52,Tail End,
+5120,92,Josh Williams,4106,48,52,Tail End,
+5120,17,Joe Graf Jr,4313,48,52,Tail End,
+5120,99,Stefan Parsons,4285,61,65,Tail End,
+5120,66,David Starr,3170,95,97,Tail End,
+5120,47,Kyle Weatherman,4187,95,97,Tail End,
+5120,07,JJ Yeley,3669,102,105,Tail End,
+5120,5,Matt Mills,4209,107,113,Tail End,
+5120,78,Sheldon Creed,4204,130,134,Tail End,
+5120,7,Justin Allgaier,34,134,140,Tail End,
+5120,15,Bayley Currey,4257,135,140,Tail End,
+5120,39,Kyle Sieg,4388,189,192,Tail End,
+5120,6,Ryan Vargas,4320,190,192,Tail End,
+5121,19,Derek Kraus,4297,0,0,Tail End,Unapproved adjustment
+5121,19,Derek Kraus,4297,1,5,Tail End,
+5121,56,Gus Dean,4300,1,0,Tail End,Garage
+5121,30,Danny Bohn,4323,2,5,Tail End,
+5121,2,Sheldon Creed,4204,23,26,Tail End,
+5121,9,Codie Rohrbaugh,4287,23,26,Tail End,
+5121,33,Jason M. White,4292,23,26,Tail End,
+5121,88,Matt Crafton,694,23,26,1 Lap,
+5121,19,Derek Kraus,4297,35,38,Tail End,
+5121,9,Codie Rohrbaugh,4287,36,38,Tail End,
+5121,23,Chase Purdy,4295,42,46,Tail End,
+5121,12,Tate Fogleman,4271,43,46,Tail End,Equipment over early
+5121,40,Ryan Truex,3952,53,58,Tail End,
+5121,40,Ryan Truex,3952,53,58,Tail End,
+5121,19,Derek Kraus,4297,53,58,Tail End,
+5121,88,Matt Crafton,694,57,58,Tail End,
+5121,3,Jordan Anderson,4139,61,64,Tail End,
+5121,22,Austin Wayne Self,4189,61,64,Tail End,
+5121,21,Zane Smith,4272,62,64,Tail End,
+5121,40,Ryan Truex,3952,65,69,Tail End,
+5121,33,Jason M. White,4292,65,69,Tail End,
+5121,26,Tyler Ankrum,4296,65,69,Tail End,
+5121,28,Bryan Dauzat,4127,66,69,Tail End,
+5121,12,Tate Fogleman,4271,72,0,Tail End,Garage
+5121,45,Brett Moffitt,4038,73,78,Tail End,
+5121,33,Jason M. White,4292,77,78,Tail End,
+5121,1,Hailie Deegan,4366,81,85,Tail End,
+5121,1,Hailie Deegan,4366,81,85,Tail End,
+5121,33,Jason M. White,4292,82,85,Tail End,
+5121,45,Brett Moffitt,4038,82,85,Tail End,
+5121,45,Brett Moffitt,4038,89,99,Tail End,
+5121,16,Austin Hill,4133,95,99,Tail End,
+5121,23,Chase Purdy,4295,95,99,Tail End,
+5121,26,Tyler Ankrum,4296,95,99,Tail End,
+5121,4,John H. Nemechek,4092,95,99,Tail End,
+5121,42,Carson Hocevar,4326,95,99,Tail End,
+5121,45,Brett Moffitt,4038,95,99,Pass Thru,
+5121,24,Raphael Lessard,4306,95,99,Tail End,
+5121,18,Chandler Smith,4312,95,99,Tail End,
+5121,13,Johnny Sauter,2911,95,99,Tail End,
+5121,25,Timothy Peters,2550,95,99,Tail End,
+5121,33,Jason M. White,4292,97,99,Tail End,
+5122,33,Jason M. White,4292,5,5,Pass Thru,Didn't serve Stop N Go after missing chicane
+5122,33,Jason M. White,4292,5,7,Pass Thru,Serviced Vehicle While Under Penalty
+5122,33,Jason M. White,4292,5,7,Pass Thru,
+5122,33,Jason M. White,4292,7,14,Pass Thru,Garage then served when vehicle returned to race
+5122,10,Jennifer Jo Cobb,608,10,11,Tail End,
+5122,51,Parker Chase,4370,10,11,Tail End,
+5122,38,Todd Gilliland,4231,10,11,Tail End,
+5122,75,Sam Mayer,4327,10,11,Tail End,
+5122,25,Timothy Peters,2550,10,11,Tail End,Equipment over the wall too soon
+5122,34,Lawless Alan,4371,10,11,Tail End,
+5122,75,Sam Mayer,4327,10,14,Tail End,Didn't drop to the rear while under penalty
+5122,23,Chase Purdy,4295,13,14,Tail End,
+5122,6,Norm Benning,214,13,14,Tail End,
+5122,30,Danny Bohn,4323,19,27,Pass Thru,
+5122,8,Camden Murphy,4132,23,27,Tail End,
+5122,8,Camden Murphy,4132,23,27,Tail End,
+5122,4,John H. Nemechek,4092,23,27,Tail End,
+5122,6,Norm Benning,214,23,27,Tail End,
+5122,3,Bobby Reuse,4115,26,27,Tail End,
+5122,8,Camden Murphy,4132,26,27,Tail End,
+5122,25,Timothy Peters,2550,31,35,Tail End,
+5122,42,Carson Hocevar,4326,32,35,Tail End,
+5122,40,Ryan Truex,3952,32,35,Tail End,
+5122,40,Ryan Truex,3952,33,35,Other - See Notes,"2 Lap Penalty, was under DVP"
+5122,16,Austin Hill,4133,33,35,Tail End,
+5122,3,Bobby Reuse,4115,34,35,Tail End,
+5122,16,Austin Hill,4133,40,44,Tail End,
+5122,15,Tanner Gray,4342,42,44,Tail End,
+5122,42,Carson Hocevar,4326,44,47,Tail End,
+5122,24,Raphael Lessard,4306,45,47,Tail End,
+5122,13,Johnny Sauter,2911,48,49,Tail End,
+5123,02,Kris Wright,4364,0,0,Tail End,Unapproved Adjustments
+5123,04,Cory Roper,4262,3,6,Tail End,
+5123,30,Danny Bohn,4323,3,6,Tail End,
+5123,19,Derek Kraus,4297,19,26,Pass Thru,
+5123,56,Tyler Hill,4298,32,36,Tail End,
+5123,19,Derek Kraus,4297,33,36,Tail End,
+5123,33,Jesse Iwuji,4291,34,36,Tail End,Uncontrolled Tire
+5123,34,BJ McLeod,3973,34,36,Tail End,
+5123,21,Zane Smith,4272,44,48,Pass Thru,
+5123,56,Tyler Hill,4298,62,67,Tail End,
+5123,2,Sheldon Creed,4204,62,67,Tail End,
+5123,2,Sheldon Creed,4204,62,67,Tail End,
+5123,32,Bret Holmes,4373,62,67,Tail End,
+5123,18,Chandler Smith,4312,63,67,Tail End,Uncontrolled Tire
+5123,34,BJ McLeod,3973,63,67,Tail End,
+5123,24,Raphael Lessard,4306,63,67,Tail End,
+5123,42,Carson Hocevar,4326,64,67,Tail End,
+5123,33,Jesse Iwuji,4291,64,67,Tail End,
+5123,56,Tyler Hill,4298,69,75,Tail End,
+5123,6,Norm Benning,214,69,75,Tail End,
+5123,2,Sheldon Creed,4204,70,75,Tail End,
+5123,3,Jordan Anderson,4139,82,83,Tail End,
+5123,34,BJ McLeod,3973,82,83,Tail End,
+5123,56,Tyler Hill,4298,82,83,Tail End,
+5123,18,Chandler Smith,4312,82,83,Tail End,
+5123,51,Kyle Busch,454,89,95,Tail End,
+5123,2,Sheldon Creed,4204,90,95,Tail End,
+5123,6,Norm Benning,214,91,95,Tail End,
+5123,18,Chandler Smith,4312,92,95,Tail End,
+5123,20,Spencer Boyd,4192,93,95,Tail End,
+5123,24,Raphael Lessard,4306,97,103,Tail End,
+5123,40,Ryan Truex,3952,98,103,Tail End,
+5123,32,Bret Holmes,4373,98,103,Tail End,
+5123,6,Norm Benning,214,100,103,Tail End,
+5123,18,Chandler Smith,4312,100,103,Tail End,
+5123,34,BJ McLeod,3973,101,103,Tail End,
+5123,1,Hailie Deegan,4366,117,121,Tail End,
+5123,2,Sheldon Creed,4204,117,121,Tail End,
+5123,19,Derek Kraus,4297,118,121,Tail End,Uncontrolled Tire
+5123,10,Jennifer Jo Cobb,608,119,121,Tail End,
+5123,3,Jordan Anderson,4139,127,128,Tail End,
+5124,02,Josh Berry,4123,0,0,Tail End,Driver Change
+5124,45,Brett Moffitt,4038,0,0,Tail End,Engine Change
+5124,6,Norm Benning,214,17,20,Tail End,
+5124,25,Timothy Peters,2550,17,20,Tail End,
+5124,33,Akinori Ogata,4138,18,20,Tail End,
+5124,6,Norm Benning,214,19,20,Tail End,
+5124,25,Timothy Peters,2550,19,20,Tail End,
+5124,6,Norm Benning,214,31,37,Tail End,
+5124,40,Ryan Truex,3952,35,37,Tail End,
+5124,20,Spencer Boyd,4192,35,37,Tail End,
+5124,26,Tyler Ankrum,4296,63,67,Tail End,
+5124,22,Austin Wayne Self,4189,63,67,Tail End,
+5124,19,Derek Kraus,4297,63,67,Tail End,
+5124,52,Stewart Friesen,4205,63,67,Tail End,Uncontrolled Tire
+5124,12,Tate Fogleman,4271,66,67,Tail End,
+5124,18,Chandler Smith,4312,84,89,Pass Thru,
+5124,33,Akinori Ogata,4138,101,103,Pass Thru,
+5124,34,Ryan Ellis,4029,111,113,Pass Thru,
+5124,10,Jennifer Jo Cobb,608,113,118,Pass Thru,
+5124,32,Bret Holmes,4373,115,117,Pass Thru,
+5125,10,Jennifer Jo Cobb,608,0,0,Tail End,Unapproved adjusment
+5125,42,Carson Hocevar,4326,27,31,Tail End,
+5125,26,Tyler Ankrum,4296,36,0,Tail End,Garage
+5125,21,Zane Smith,4272,41,42,Tail End,
+5125,13,Johnny Sauter,2911,41,42,Tail End,Working after time expired
+5125,42,Carson Hocevar,4326,41,42,Tail End,Working after time expired
+5125,9,Codie Rohrbaugh,4287,41,42,Tail End,Working after time expired 
+5125,12,Tate Fogleman,4271,41,42,Tail End,Working after time expired
+5125,6,Norm Benning,214,50,57,Tail End,
+5125,6,Norm Benning,214,70,77,NASCAR Discretion,2 Laps
+5125,6,Norm Benning,214,77,0,NASCAR Discretion,Parked
+5125,56,Mike Marlar,4329,99,107,Tail End,
+5125,13,Johnny Sauter,2911,120,125,Tail End,
+5125,10,Jennifer Jo Cobb,608,120,0,Tail End,Garage
+5125,13,Johnny Sauter,2911,120,125,1 Lap,
+5125,49,Andrew Gordon,4375,134,138,Tail End,
+5126,34,Josh Reaume,4102,0,0,Tail End,Unapproved adjustment
+5126,49,Ryan Reed,4049,0,0,Tail End,Driver change
+5126,52,Stewart Friesen,4205,73,79,Tail End,
+5126,20,Spencer Boyd,4192,74,79,Tail End,
+5126,26,Tyler Ankrum,4296,74,79,Tail End,
+5126,20,Spencer Boyd,4192,91,98,Tail End,
+5126,49,Ryan Reed,4049,92,98,Tail End,
+5126,3,Howie Disavino III,4379,101,104,Tail End,
+5126,10,Jennifer Jo Cobb,608,103,104,Tail End,
+5126,16,Austin Hill,4133,144,150,Tail End,
+5126,49,Ryan Reed,4049,146,150,Tail End,
+5126,9,Codie Rohrbaugh,4287,146,150,Tail End,
+5126,19,Derek Kraus,4297,153,158,Tail End,
+5126,34,Josh Reaume,4102,154,158,Tail End,
+5126,23,Chase Purdy,4295,161,164,Tail End,
+5126,10,Jennifer Jo Cobb,608,166,171,Tail End,
+5126,34,Josh Reaume,4102,178,181,Tail End,
+5126,6,Norm Benning,214,178,181,Tail End,
+5126,02,Kris Wright,4364,198,209,Tail End,
+5126,45,Brett Moffitt,4038,198,0,Tail End,Garage
+5126,2,Sheldon Creed,4204,198,209,Tail End,
+5126,04,Cory Roper,4262,198,209,Tail End,
+5126,44,Jett Noland,4369,198,209,Tail End,
+5126,3,Howie Disavino III,4379,214,221,Tail End,
+5127,34,Cj McLaughlin,4316,0,0,Tail End,Driver change
+5127,45,Bayley Currey,4257,0,0,Tail End,Driver change
+5127,56,Timmy Hill,3984,0,5,Pass Thru,
+5127,20,Spencer Boyd,4192,0,6,Pass Thru,
+5127,24,Raphael Lessard,4306,33,37,Tail End,
+5127,34,Cj McLaughlin,4316,33,37,Tail End,
+5127,3,Jordan Anderson,4139,33,37,Tail End,
+5127,3,Jordan Anderson,4139,33,41,Pass Thru,Sped to beat pace car
+5127,56,Timmy Hill,3984,34,37,Tail End,
+5127,12,Tate Fogleman,4271,35,37,Tail End,
+5127,33,Jesse Iwuji,4291,35,45,Pass Thru,
+5127,6,Norm Benning,214,47,48,Other - See Notes,Garage- Fail to meet minimum
+5127,20,Spencer Boyd,4192,52,54,Pass Thru,
+5127,42,Carson Hocevar,4326,62,67,Tail End,
+5127,34,Cj McLaughlin,4316,63,67,Tail End,
+5127,10,Jennifer Jo Cobb,608,63,67,Tail End,
+5127,32,Bret Holmes,4373,71,74,Tail End,
+5127,33,Jesse Iwuji,4291,71,74,Tail End,
+5127,34,Cj McLaughlin,4316,72,74,Tail End,
+5127,41,Dawson Cram,4256,72,74,Tail End,
+5127,3,Jordan Anderson,4139,72,74,Tail End,
+5127,33,Jesse Iwuji,4291,88,90,Other - See Notes,Garage- Fail to meet minimum speed
+5127,15,Tanner Gray,4342,100,102,Pass Thru,
+5127,34,Cj McLaughlin,4316,102,105,Pass Thru,
+5127,34,Cj McLaughlin,4316,105,107,Pass Thru,
+5127,11,Spencer Davis,4260,113,117,Pass Thru,
+5127,41,Dawson Cram,4256,124,133,Tail End,
+5127,32,Bret Holmes,4373,129,133,Tail End,
+5127,2,Sheldon Creed,4204,129,133,Tail End,
+5127,02,Kris Wright,4364,130,133,Tail End,
+5127,41,Dawson Cram,4256,130,133,Tail End,
+5127,19,Derek Kraus,4297,134,138,Tail End,
+5128,34,Akinori Ogata,4138,0,0,Tail End,Missed rookie meeting
+5128,6,Norm Benning,214,14,21,Tail End,
+5128,17,David Gilliland,1202,16,21,Tail End,
+5128,34,Akinori Ogata,4138,18,21,Tail End,
+5128,02,Kris Wright,4364,26,0,Tail End,Garage
+5128,6,Norm Benning,214,28,32,Tail End,
+5128,42,Carson Hocevar,4326,35,36,Tail End,
+5128,6,Norm Benning,214,64,67,Other - See Notes,Garage- Fail to meet minimum
+5128,19,Derek Kraus,4297,83,88,Tail End,
+5128,99,Ben Rhodes,4107,83,88,Tail End,
+5128,34,Akinori Ogata,4138,87,88,Tail End,
+5128,3,Jordan Anderson,4139,94,95,Tail End,
+5128,13,Johnny Sauter,2911,102,106,Tail End,
+5128,13,Johnny Sauter,2911,102,106,Tail End,
+5128,25,Timothy Peters,2550,105,106,Tail End,
+5128,45,Erik Darnell,760,105,106,Tail End,
+5128,56,Timmy Hill,3984,111,117,Tail End,
+5128,4,John H. Nemechek,4092,118,130,Tail End,
+5128,25,Timothy Peters,2550,118,130,Tail End,
+5128,18,Chandler Smith,4312,118,0,Tail End,Garage
+5128,18,Chandler Smith,4312,118,0,Tail End,Garage
+5128,1,Hailie Deegan,4366,118,130,Tail End,
+5128,21,Zane Smith,4272,118,130,Tail End,
+5128,16,Austin Hill,4133,118,130,Tail End,
+5128,51,Corey Heim,4387,118,130,Tail End,
+5128,10,Jennifer Jo Cobb,608,118,130,Tail End,
+5128,10,Jennifer Jo Cobb,608,118,130,Tail End,
+5128,26,Tyler Ankrum,4296,118,130,Tail End,
+5128,44,Bayley Currey,4257,118,130,Tail End,
+5128,19,Derek Kraus,4297,119,130,Tail End,
+5128,19,Derek Kraus,4297,119,130,Tail End,
+5128,20,Spencer Boyd,4192,119,130,Tail End,
+5128,20,Spencer Boyd,4192,119,130,Tail End,
+5128,40,Ryan Truex,3952,119,130,Tail End,
+5128,52,Stewart Friesen,4205,131,0,Tail End,Garage
+5129,15,Tanner Gray,4342,0,0,Tail End,Engine Change
+5129,40,Ryan Truex,3952,0,0,Tail End,Engine Change
+5129,34,Lawless Alan,4371,0,0,Tail End,Transmission Change
+5129,22,Austin Wayne Self,4189,0,0,Tail End,Unapproved Adjustments
+5129,23,Chase Purdy,4295,0,0,Tail End,Unapproved Adjustments
+5129,3,Roger Reuse,4124,5,6,Pass Thru,Short cut through turn 5
+5129,33,Cameron Lawrence,4397,10,14,Tail End,
+5129,66,Paul Menard,2225,12,15,Pass Thru,Did not fall to the rear on the restart
+5129,22,Austin Wayne Self,4189,13,14,Tail End,
+5129,38,Todd Gilliland,4231,13,14,Tail End,
+5129,1,Hailie Deegan,4366,13,14,Tail End,
+5129,4,John H. Nemechek,4092,23,28,Tail End,Uncontrolled Tire
+5129,12,Tate Fogleman,4271,27,28,Tail End,
+5129,3,Roger Reuse,4124,27,28,Tail End,
+5129,25,Timothy Peters,2550,27,28,1 Lap,
+5129,33,Cameron Lawrence,4397,35,0,Pass Thru,
+5130,51,Drew Dollar,4367,0,0,Tail End,Back-Up Truck
+5130,25,Timothy Peters,2550,0,0,Tail End,Back-Up Truck
+5130,14,Trey Hutchens III,4236,34,38,Tail End,
+5130,41,Dawson Cram,4256,34,38,Tail End,
+5130,04,Cory Roper,4262,34,38,Tail End,
+5130,42,Carson Hocevar,4326,36,38,Tail End,
+5130,15,Tanner Gray,4342,53,54,Tail End,
+5130,18,Chandler Smith,4312,53,54,Tail End,
+5130,2,Sheldon Creed,4204,55,0,Tail End,Garage
+5130,23,Chase Purdy,4295,55,59,Tail End,
+5130,04,Cory Roper,4262,57,59,Tail End,
+5130,04,Cory Roper,4262,57,59,Tail End,
+5130,26,Tyler Ankrum,4296,61,68,Tail End,
+5130,22,Austin Wayne Self,4189,62,68,Tail End,
+5130,23,Chase Purdy,4295,62,0,Tail End,Garage
+5130,04,Cory Roper,4262,63,68,Tail End,
+5130,21,Zane Smith,4272,64,68,Tail End,
+5130,66,Ty Majeski,4235,64,68,Tail End,Equipment over the wall too soon
+5130,10,Jennifer Jo Cobb,608,66,68,Tail End,
+5130,21,Zane Smith,4272,67,68,Tail End,
+5130,02,Kris Wright,4364,106,109,Pass Thru,
+5130,3,Keith McGee,4382,108,112,Pass Thru,
+5130,04,Cory Roper,4262,109,111,Pass Thru,
+5130,04,Cory Roper,4262,111,114,Pass Thru,
+5130,3,Keith McGee,4382,112,114,Pass Thru,
+5130,51,Drew Dollar,4367,116,124,Tail End,
+5130,51,Drew Dollar,4367,119,124,Tail End,
+5130,40,Ryan Truex,3952,120,124,Tail End,Equipment over the wall too soon
+5130,20,Spencer Boyd,4192,123,124,Tail End,
+5131,3,Howie Disavino III,4379,0,0,Tail End,Driver change
+5131,2,Sheldon Creed,4204,7,12,Tail End,
+5131,12,Tate Fogleman,4271,7,12,Tail End,
+5131,88,Matt Crafton,694,9,12,Tail End,
+5131,49,Ray Ciccarelli,4240,35,40,Tail End,
+5131,49,Ray Ciccarelli,4240,35,40,Tail End,
+5131,04,Cory Roper,4262,35,40,Tail End,Equpiment over the wall too soon
+5131,12,Tate Fogleman,4271,36,40,Tail End,
+5131,52,Stewart Friesen,4205,52,0,Tail End,Garage
+5131,12,Tate Fogleman,4271,64,65,Tail End,
+5131,56,Tyler Hill,4298,73,77,Tail End,
+5131,6,Norm Benning,214,75,77,Tail End,
+5131,10,Jennifer Jo Cobb,608,75,77,Tail End,
+5131,6,Norm Benning,214,111,116,Pass Thru,
+5131,1,Hailie Deegan,4366,113,117,1 Lap,
+5131,88,Matt Crafton,694,121,128,Pass Thru,
+5131,02,Kris Wright,4364,123,126,Pass Thru,
+5131,99,Ben Rhodes,4107,138,141,1 Lap,
+5132,15,Tanner Gray,4342,0,0,Tail End,Inspection failure
+5132,38,Todd Gilliland,4231,0,0,Tail End,Inspection failure
+5132,56,Timmy Hill,3984,52,53,Tail End,
+5132,27,William Byron,4184,78,0,Tail End,Garage
+5132,38,Todd Gilliland,4231,80,83,Tail End,
+5132,25,Josh Berry,4123,80,83,Tail End,
+5132,04,Cory Roper,4262,81,83,Tail End,
+5132,22,Austin Wayne Self,4189,82,83,Tail End,
+5132,13,Johnny Sauter,2911,99,103,Tail End,
+5132,15,Tanner Gray,4342,99,103,Tail End,
+5132,34,Lawless Alan,4371,116,117,Tail End,
+5133,13,Johnny Sauter,2911,1,4,Tail End,
+5133,13,Johnny Sauter,2911,1,4,Tail End,Equipment over early
+5133,3,Howie Disavino III,4379,1,4,Tail End,
+5133,3,Howie Disavino III,4379,1,4,Tail End,
+5133,28,Bryan Dauzat,4127,3,4,Tail End,Choose violation
+5133,28,Bryan Dauzat,4127,16,19,Tail End,
+5133,26,Tyler Ankrum,4296,16,19,Tail End,
+5133,13,Johnny Sauter,2911,17,19,Tail End,Equipment over early
+5133,33,Josh Reaume,4102,17,19,Tail End,
+5133,34,Lawless Alan,4371,17,19,Tail End,
+5133,20,Spencer Boyd,4192,18,19,Tail End,
+5133,6,Norm Benning,214,18,19,Tail End,
+5133,6,Norm Benning,214,18,19,Tail End,
+5133,45,Bayley Currey,4257,18,19,Tail End,
+5133,21,Zane Smith,4272,28,35,Tail End,
+5133,99,Ben Rhodes,4107,31,35,Tail End,
+5133,56,Tyler Hill,4298,32,35,Tail End,
+5133,28,Bryan Dauzat,4127,33,35,Tail End,
+5133,41,Todd Peck,3997,34,35,Tail End,
+5133,33,Josh Reaume,4102,34,35,Tail End,
+5133,10,Jennifer Jo Cobb,608,34,35,Tail End,
+5133,56,Tyler Hill,4298,34,35,Tail End,
+5133,52,Stewart Friesen,4205,51,54,Tail End,
+5133,41,Todd Peck,3997,51,54,Tail End,
+5134,02,Chris Windom,4238,0,0,Tail End,Driver change
+5134,4,John H. Nemechek,4092,0,0,Tail End,Back-up truck
+5134,4,John H. Nemechek,4092,0,0,Tail End,Back-up truck
+5134,02,Chris Windom,4238,0,0,Tail End,Driver change
+5134,62,Jessica Friesen,4377,67,72,Tail End,
+5134,99,Ben Rhodes,4107,110,114,Other - See Notes,Pit-Repair damage
+5134,02,Chris Windom,4238,131,136,Tail End,
+5134,37,Brett Moffitt,4038,140,145,Tail End,
+5134,25,Josh Berry,4123,154,159,Tail End,
+5134,41,Cody Erickson,4122,154,159,Tail End,
+5134,3,Parker Price-Miller,4399,154,159,Tail End,
+5134,20,Kyle Strickler,4281,161,170,Tail End,
+5134,34,Jake Griffin,4148,161,170,Tail End,
+5134,25,Josh Berry,4123,161,170,Tail End,
+5135,23,AJ Allmendinger,3774,0,0,Tail End,Driver change
+5135,33,Josh Reaume,4102,0,0,Tail End,Pitting before the green
+5135,99,Ben Rhodes,4107,2,4,Pass Thru,
+5135,49,Roger Reuse,4124,9,10,Tail End,
+5135,15,Tanner Gray,4342,9,10,Tail End,
+5135,9,Grant Enfinger,3978,9,10,Tail End,
+5135,6,Norm Benning,214,16,0,Pass Thru,Garage
+5135,88,Matt Crafton,694,16,23,Pass Thru,
+5135,20,Spencer Boyd,4192,17,23,Pass Thru,
+5135,6,Norm Benning,214,19,0,Tail End,Closed pit/Garage
+5135,6,Norm Benning,214,20,0,Tail End,Closed pit/Garage
+5135,10,Jennifer Jo Cobb,608,22,23,Tail End,
+5135,52,Stewart Friesen,4205,22,23,Tail End,
+5135,33,Josh Reaume,4102,22,23,Tail End,
+5135,19,Derek Kraus,4297,28,29,Pass Thru,
+5135,45,Chad Chastain,4410,36,38,Pass Thru,
+5135,45,Chad Chastain,4410,36,38,Pass Thru,
+5135,6,Norm Benning,214,37,40,Pass Thru,
+5135,24,Jack Wood,4391,39,40,Pass Thru,
+5135,45,Chad Chastain,4410,42,49,Pass Thru,
+5135,30,Danny Bohn,4323,45,49,Tail End,
+5135,30,Danny Bohn,4323,45,49,Tail End,
+5135,33,Josh Reaume,4102,46,49,Tail End,
+5135,33,Josh Reaume,4102,46,49,Tail End,
+5135,30,Danny Bohn,4323,47,49,Tail End,
+5135,30,Danny Bohn,4323,47,49,Tail End,
+5135,3,Bobby Reuse,4115,48,49,Tail End,
+5135,51,Corey Heim,4387,52,53,Pass Thru,
+5135,19,Derek Kraus,4297,54,56,Tail End,
+5135,34,Lawless Alan,4371,54,56,Tail End,
+5135,49,Roger Reuse,4124,55,56,Tail End,
+5135,23,AJ Allmendinger,3774,55,56,Tail End,
+5136,10,Jennifer Jo Cobb,608,0,0,Tail End,Unapproved adjustment
+5136,02,Kris Wright,4364,28,29,Tail End,
+5136,12,Tate Fogleman,4271,43,46,Tail End,
+5136,51,Derek Griffith,4407,43,46,Tail End,
+5136,51,Derek Griffith,4407,45,46,Tail End,
+5136,3,Jordan Anderson,4139,53,58,Tail End,
+5136,98,Christian Eckes,4268,113,0,Tail End,Garage
+5136,38,Todd Gilliland,4231,113,120,Tail End,
+5136,16,Austin Hill,4133,113,120,Tail End,
+5136,18,Chandler Smith,4312,113,120,Tail End,
+5136,42,Carson Hocevar,4326,114,120,Tail End,
+5136,41,Dawson Cram,4256,116,120,Tail End,
+5136,18,Chandler Smith,4312,120,123,Pass Thru,
+5136,15,Tanner Gray,4342,156,161,Tail End,
+5136,34,Chris Hacker,4408,156,161,Tail End,
+5137,16,Austin Hill,4133,16,20,Tail End,
+5137,40,Ryan Truex,3952,17,20,Tail End,
+5137,12,Tate Fogleman,4271,22,0,Tail End,Garage
+5137,40,Ryan Truex,3952,23,26,Tail End,
+5137,9,Colby Howard,4344,27,30,Tail End,
+5137,40,Ryan Truex,3952,46,52,Tail End,
+5137,6,Norm Benning,214,49,52,Tail End,
+5137,10,Jennifer Jo Cobb,608,62,65,Other - See Notes,Pit- Fail to meet minimum speed
+5137,6,Norm Benning,214,62,68,Other - See Notes,Pit- Fail to meet minimum speed
+5137,6,Norm Benning,214,68,71,Tail End,
+5137,88,Matt Crafton,694,68,71,Tail End,
+5137,10,Jennifer Jo Cobb,608,84,85,Other - See Notes,Garage- Fail to meet minimum speed
+5137,6,Norm Benning,214,86,90,Other - See Notes,Garage- Fail to meet minimum speed
+5137,51,Dylan Lupton,4146,87,97,Tail End,
+5137,22,Austin Wayne Self,4189,91,97,Tail End,
+5137,99,Ben Rhodes,4107,92,97,Tail End,
+5137,99,Ben Rhodes,4107,92,97,Tail End,
+5137,02,Kris Wright,4364,93,97,Tail End,
+5137,24,Jack Wood,4391,93,97,Tail End,
+5137,15,Tanner Gray,4342,104,110,Tail End,
+5137,99,Ben Rhodes,4107,107,110,Tail End,
+5137,45,Lawless Alan,4371,107,110,Tail End,
+5137,19,Derek Kraus,4297,108,110,Tail End,
+5137,41,Dawson Cram,4256,108,110,Tail End,
+5137,34,Josh Reaume,4102,111,115,Tail End,
+5137,34,Josh Reaume,4102,111,115,Tail End,
+5137,51,Dylan Lupton,4146,111,115,Tail End,
+5138,34,Josh Reaume,4102,3,0,Tail End,Garage
+5138,32,Sam Mayer,4327,4,13,Tail End,
+5138,3,Howie Disavino III,4379,5,13,Tail End,
+5138,04,Cory Roper,4262,6,13,Tail End,
+5138,04,Cory Roper,4262,6,13,Tail End,
+5138,32,Sam Mayer,4327,23,32,Tail End,
+5138,32,Sam Mayer,4327,23,32,Tail End,
+5138,24,Doug Coby III,4405,27,32,Tail End,
+5138,02,Kris Wright,4364,27,32,Tail End,
+5138,33,Cj McLaughlin,4316,35,45,Pass Thru,
+5138,32,Sam Mayer,4327,51,54,Tail End,
+5138,24,Doug Coby III,4405,51,54,Tail End,
+5138,41,Dawson Cram,4256,59,66,Tail End,
+5138,02,Kris Wright,4364,60,66,Tail End,
+5138,10,Jennifer Jo Cobb,608,60,66,Tail End,
+5138,04,Cory Roper,4262,70,79,Tail End,
+5138,30,Danny Bohn,4323,70,0,Tail End,Garage
+5138,20,Spencer Boyd,4192,72,79,Tail End,
+5138,02,Kris Wright,4364,74,0,Tail End,Garage
+5138,02,Kris Wright,4364,74,0,Tail End,Garage
+5138,26,Tyler Ankrum,4296,114,121,Tail End,
+5138,16,Austin Hill,4133,114,121,Tail End,
+5138,33,Cj McLaughlin,4316,115,121,Tail End,
+5138,21,Zane Smith,4272,115,121,Tail End,
+5138,32,Sam Mayer,4327,116,121,Tail End,
+5138,10,Jennifer Jo Cobb,608,117,121,Tail End,
+5138,11,Clay Greenfield,3936,130,136,Tail End,
+5138,11,Clay Greenfield,3936,130,136,Tail End,
+5138,20,Spencer Boyd,4192,132,136,Tail End,
+5138,20,Spencer Boyd,4192,154,0,Tail End,Garage
+5138,10,Jennifer Jo Cobb,608,155,163,Tail End,
+5138,10,Jennifer Jo Cobb,608,155,163,Tail End,
+5138,17,Taylor Gray,4406,156,0,Tail End,Garage
+5138,40,Ryan Truex,3952,160,163,Tail End,
+5138,11,Clay Greenfield,3936,161,163,Tail End,
+5138,75,Parker Kligerman,3914,172,177,Tail End,
+5138,11,Clay Greenfield,3936,173,177,Tail End,
+5139,34,Dylan Lupton,4146,0,0,Tail End,Unapproved Adjustments
+5139,49,Keith McGee,4382,0,0,Tail End,Driver Change
+5139,45,Chris Hacker,4408,4,8,Tail End,
+5139,04,Cory Roper,4262,12,20,Pass Thru,
+5139,49,Keith McGee,4382,28,36,Tail End,
+5139,13,Johnny Sauter,2911,33,36,Tail End,Uncontrolled Tire
+5139,3,Howie Disavino III,4379,34,36,Tail End,
+5139,3,Howie Disavino III,4379,38,45,Tail End,
+5139,21,Zane Smith,4272,41,45,Tail End,
+5139,04,Cory Roper,4262,42,45,Tail End,
+5139,33,Cj McLaughlin,4316,42,45,Tail End,
+5139,10,Jennifer Jo Cobb,608,43,45,Tail End,
+5139,34,Dylan Lupton,4146,43,45,Tail End,Uncontrolled Tire
+5139,3,Howie Disavino III,4379,44,45,Tail End,
+5139,12,Tate Fogleman,4271,64,66,Tail End,
+5139,21,Zane Smith,4272,64,66,Tail End,
+5139,1,Hailie Deegan,4366,71,77,Tail End,
+5139,4,John H. Nemechek,4092,73,77,Tail End,
+5139,32,Bret Holmes,4373,76,77,Tail End,
+5139,3,Howie Disavino III,4379,76,77,Tail End,
+5139,33,Cj McLaughlin,4316,76,77,Tail End,
+5139,23,Chase Purdy,4295,76,77,Tail End,
+5139,1,Hailie Deegan,4366,81,84,Tail End,
+5139,56,Tyler Hill,4298,82,84,Tail End,
+5139,11,Spencer Davis,4260,82,84,Tail End,
+5139,21,Zane Smith,4272,82,84,Tail End,
+5139,33,Cj McLaughlin,4316,83,84,Tail End,
+5139,49,Keith McGee,4382,83,84,Tail End,
+5139,24,Jack Wood,4391,83,84,Tail End,
+5139,10,Jennifer Jo Cobb,608,105,108,Tail End,
+5139,51,Drew Dollar,4367,114,118,Tail End,
+5139,25,Brett Moffitt,4038,120,124,Pass Thru,Equipment over the wall too soon
+5139,42,Carson Hocevar,4326,125,129,1 Lap,
+5139,42,Carson Hocevar,4326,126,130,Tail End,
+5139,25,Brett Moffitt,4038,127,130,Tail End,
+5140,9,Codie Rohrbaugh,4287,0,0,Tail End,Missed driver intros
+5140,28,Bryan Dauzat,4127,0,6,Pass Thru,
+5140,38,Todd Gilliland,4231,22,25,Tail End,
+5140,24,Jack Wood,4391,22,25,Tail End,
+5140,38,Todd Gilliland,4231,29,33,Tail End,
+5140,6,Norm Benning,214,33,34,Pass Thru,
+5140,34,Dylan Lupton,4146,42,47,Tail End,
+5140,34,Dylan Lupton,4146,42,47,Tail End,
+5140,40,Ryan Truex,3952,42,47,Tail End,
+5140,02,Kris Wright,4364,58,0,Tail End,Garage
+5140,11,Clay Greenfield,3936,58,63,Tail End,
+5140,22,Austin Wayne Self,4189,58,63,Tail End,
+5140,33,Jason M. White,4292,58,63,Tail End,
+5140,34,Dylan Lupton,4146,58,63,Tail End,
+5140,19,Derek Kraus,4297,58,63,Tail End,
+5140,1,Hailie Deegan,4366,58,0,Tail End,Garage
+5140,26,Tyler Ankrum,4296,58,63,Tail End,
+5140,13,Johnny Sauter,2911,58,63,Tail End,
+5140,9,Codie Rohrbaugh,4287,58,63,Tail End,
+5140,12,Tate Fogleman,4271,58,63,Tail End,
+5140,18,Chandler Smith,4312,58,63,Tail End,
+5140,56,Tyler Hill,4298,59,63,Tail End,
+5140,34,Dylan Lupton,4146,69,72,Pass Thru,
+5140,34,Dylan Lupton,4146,72,73,Pass Thru,
+5140,98,Grant Enfinger,3978,76,0,Tail End,Garage
+5140,34,Dylan Lupton,4146,76,0,Tail End,Garage
+5140,52,Stewart Friesen,4205,76,0,Tail End,Garage
+5140,23,Chase Purdy,4295,94,97,Tail End,
+5140,18,Chandler Smith,4312,95,97,Tail End,
+5141,75,Parker Kligerman,3914,0,0,Tail End,Unapproved Adjustments
+5141,23,Chase Purdy,4295,34,0,Pass Thru,Garage
+5141,25,Josh Berry,4123,51,56,Tail End,
+5141,9,Colby Howard,4344,51,71,Tail End,
+5141,11,Spencer Davis,4260,55,56,Tail End,
+5141,25,Josh Berry,4123,55,56,Tail End,
+5141,04,Cory Roper,4262,67,71,Tail End,
+5141,04,Cory Roper,4262,69,71,Tail End,
+5141,3,Sage Karam,4409,69,71,Tail End,
+5141,04,Cory Roper,4262,88,95,Tail End,
+5141,40,Ryan Truex,3952,89,95,Tail End,
+5141,10,Jennifer Jo Cobb,608,90,95,Tail End,
+5141,20,Spencer Boyd,4192,90,95,Tail End,
+5141,32,Bret Holmes,4373,93,95,Tail End,
+5141,34,Josh Reaume,4102,102,110,Tail End,
+5141,34,Josh Reaume,4102,102,110,Tail End,
+5141,02,Kris Wright,4364,106,110,Tail End,Uncontrolled Tire
+5141,04,Cory Roper,4262,106,110,Tail End,
+5141,45,Chris Hacker,4408,108,110,Tail End,
+5141,34,Josh Reaume,4102,117,123,Tail End,
+5141,10,Jennifer Jo Cobb,608,132,140,Tail End,
+5141,34,Josh Reaume,4102,133,140,Tail End,
+5141,42,Carson Hocevar,4326,146,154,Tail End,
+5141,3,Sage Karam,4409,149,154,Tail End,
+5141,49,Roger Reuse,4124,152,154,Tail End,
+5141,75,Parker Kligerman,3914,161,163,Tail End,
+5141,45,Chris Hacker,4408,162,163,Tail End,Running over the Choose Box
+5141,13,Johnny Sauter,2911,178,183,Tail End,
+5141,34,Josh Reaume,4102,179,183,Tail End,
+5141,34,Josh Reaume,4102,181,182,1 Lap,
+5141,98,Grant Enfinger,3978,186,192,Tail End,
+5141,41,Dawson Cram,4256,198,202,Tail End,
+5142,26,Tyler Ankrum,4296,0,0,Tail End,Unapproved adjustment
+5142,13,Johnny Sauter,2911,0,0,Tail End,Missed driver intros
+5142,3,Jordan Anderson,4139,0,0,Tail End,Missed driver intros
+5142,04,Cory Roper,4262,0,0,Tail End,Missed driver intros
+5142,02,Kris Wright,4364,13,18,Tail End,
+5142,02,Kris Wright,4364,13,18,Tail End,
+5142,17,Taylor Gray,4406,46,53,Tail End,
+5142,44,Dean Thompson,4414,48,53,Tail End,
+5142,17,Taylor Gray,4406,94,99,Tail End,
+5142,30,Danny Bohn,4323,95,99,Tail End,
+5142,32,Ty Dillon,4013,95,99,Tail End,
+5142,22,Austin Wayne Self,4189,95,99,Tail End,
+5142,15,Tanner Gray,4342,95,0,Tail End,Garage
+5142,4,John H. Nemechek,4092,103,105,Tail End,
