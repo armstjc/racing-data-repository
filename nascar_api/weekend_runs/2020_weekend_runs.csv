@@ -1,0 +1,37 @@
+race_id,weekend_run_id,timing_run_id,run_type,run_name,run_date,run_date_utc,run_id,car_number,vehicle_number,manufacturer,driver_id,driver_name,finishing_position,best_lap_time,best_lap_speed,best_lap_number,laps_completed,comment,delta_leader,disqualified
+4868,4759,6,1,Final Practice,2020-02-08T11:35:00,2020-02-08T16:35:00,4759,20,20,Toyota,4059,Erik Jones,1,45.055,199.756,6,10,,0.0,False
+4868,4759,6,1,Final Practice,2020-02-08T11:35:00,2020-02-08T16:35:00,4759,11,11,Toyota,1361,Denny Hamlin,2,45.06,199.734,6,10,,-0.005,False
+4868,4759,6,1,Final Practice,2020-02-08T11:35:00,2020-02-08T16:35:00,4759,19,19,Toyota,3368,Martin Truex Jr,3,45.067,199.703,6,9,,-0.012,False
+4868,4759,6,1,Final Practice,2020-02-08T11:35:00,2020-02-08T16:35:00,4759,18,18,Toyota,454,Kyle Busch,4,45.08,199.645,7,10,,-0.025,False
+4868,4759,6,1,Final Practice,2020-02-08T11:35:00,2020-02-08T16:35:00,4759,12,12,Ford,4023,Ryan Blaney,5,45.302,198.667,25,27,,-0.247,False
+4868,4759,6,1,Final Practice,2020-02-08T11:35:00,2020-02-08T16:35:00,4759,2,2,Ford,1816,Brad Keselowski,6,45.33,198.544,17,18,,-0.275,False
+4868,4759,6,1,Final Practice,2020-02-08T11:35:00,2020-02-08T16:35:00,4759,22,22,Ford,3859,Joey Logano,7,45.338,198.509,20,21,,-0.283,False
+4868,4759,6,1,Final Practice,2020-02-08T11:35:00,2020-02-08T16:35:00,4759,4,4,Ford,1416,Kevin Harvick,8,45.354,198.439,11,26,,-0.299,False
+4868,4759,6,1,Final Practice,2020-02-08T11:35:00,2020-02-08T16:35:00,4759,14,14,Ford,339,Clint Bowyer,9,45.409,198.199,12,21,,-0.354,False
+4868,4759,6,1,Final Practice,2020-02-08T11:35:00,2020-02-08T16:35:00,4759,10,10,Ford,40,Aric Almirola,10,45.541,197.624,7,25,,-0.486,False
+4868,4759,6,1,Final Practice,2020-02-08T11:35:00,2020-02-08T16:35:00,4759,9,9,Chevrolet,4062,Chase Elliott,11,45.605,197.347,3,16,,-0.55,False
+4868,4759,6,1,Final Practice,2020-02-08T11:35:00,2020-02-08T16:35:00,4759,3,3,Chevrolet,3873,Austin Dillon,12,45.611,197.321,3,16,,-0.556,False
+4868,4759,6,1,Final Practice,2020-02-08T11:35:00,2020-02-08T16:35:00,4759,88,88,Chevrolet,4045,Alex Bowman,13,45.617,197.295,3,25,,-0.562,False
+4868,4759,6,1,Final Practice,2020-02-08T11:35:00,2020-02-08T16:35:00,4759,6,6,Ford,2394,Ryan Newman,14,45.694,196.962,6,9,,-0.639,False
+4868,4759,6,1,Final Practice,2020-02-08T11:35:00,2020-02-08T16:35:00,4759,1,1,Chevrolet,453,Kurt Busch,15,45.864,196.232,11,17,,-0.809,False
+4868,4759,6,1,Final Practice,2020-02-08T11:35:00,2020-02-08T16:35:00,4759,24,24,Chevrolet,4184,William Byron,16,46.497,193.561,4,19,,-1.442,False
+4868,4759,6,1,Final Practice,2020-02-08T11:35:00,2020-02-08T16:35:00,4759,48,48,Chevrolet,1717,Jimmie Johnson,17,46.897,191.91,4,19,,-1.842,False
+4868,4759,6,1,Final Practice,2020-02-08T11:35:00,2020-02-08T16:35:00,4759,42,42,Chevrolet,4030,Kyle Larson,18,47.191,190.714,13,18,,-2.136,False
+4868,4760,12,2,NCS Clash Qualifying,2020-02-09T10:00:00,2020-02-09T15:00:00,4760,6,6,Ford,2394,Ryan Newman,1,0.0,0.0,0,0,,0.0,False
+4868,4760,12,2,NCS Clash Qualifying,2020-02-09T10:00:00,2020-02-09T15:00:00,4760,2,2,Ford,1816,Brad Keselowski,2,0.0,0.0,0,0,,0.0,False
+4868,4760,12,2,NCS Clash Qualifying,2020-02-09T10:00:00,2020-02-09T15:00:00,4760,19,19,Toyota,3368,Martin Truex Jr,3,0.0,0.0,0,0,,0.0,False
+4868,4760,12,2,NCS Clash Qualifying,2020-02-09T10:00:00,2020-02-09T15:00:00,4760,42,42,Chevrolet,4030,Kyle Larson,4,0.0,0.0,0,0,,0.0,False
+4868,4760,12,2,NCS Clash Qualifying,2020-02-09T10:00:00,2020-02-09T15:00:00,4760,10,10,Ford,40,Aric Almirola,5,0.0,0.0,0,0,,0.0,False
+4868,4760,12,2,NCS Clash Qualifying,2020-02-09T10:00:00,2020-02-09T15:00:00,4760,14,14,Ford,339,Clint Bowyer,6,0.0,0.0,0,0,,0.0,False
+4868,4760,12,2,NCS Clash Qualifying,2020-02-09T10:00:00,2020-02-09T15:00:00,4760,24,24,Chevrolet,4184,William Byron,7,0.0,0.0,0,0,,0.0,False
+4868,4760,12,2,NCS Clash Qualifying,2020-02-09T10:00:00,2020-02-09T15:00:00,4760,88,88,Chevrolet,4045,Alex Bowman,8,0.0,0.0,0,0,,0.0,False
+4868,4760,12,2,NCS Clash Qualifying,2020-02-09T10:00:00,2020-02-09T15:00:00,4760,18,18,Toyota,454,Kyle Busch,9,0.0,0.0,0,0,,0.0,False
+4868,4760,12,2,NCS Clash Qualifying,2020-02-09T10:00:00,2020-02-09T15:00:00,4760,4,4,Ford,1416,Kevin Harvick,10,0.0,0.0,0,0,,0.0,False
+4868,4760,12,2,NCS Clash Qualifying,2020-02-09T10:00:00,2020-02-09T15:00:00,4760,9,9,Chevrolet,4062,Chase Elliott,11,0.0,0.0,0,0,,0.0,False
+4868,4760,12,2,NCS Clash Qualifying,2020-02-09T10:00:00,2020-02-09T15:00:00,4760,20,20,Toyota,4059,Erik Jones,12,0.0,0.0,0,0,,0.0,False
+4868,4760,12,2,NCS Clash Qualifying,2020-02-09T10:00:00,2020-02-09T15:00:00,4760,22,22,Ford,3859,Joey Logano,13,0.0,0.0,0,0,,0.0,False
+4868,4760,12,2,NCS Clash Qualifying,2020-02-09T10:00:00,2020-02-09T15:00:00,4760,12,12,Ford,4023,Ryan Blaney,14,0.0,0.0,0,0,,0.0,False
+4868,4760,12,2,NCS Clash Qualifying,2020-02-09T10:00:00,2020-02-09T15:00:00,4760,3,3,Chevrolet,3873,Austin Dillon,15,0.0,0.0,0,0,,0.0,False
+4868,4760,12,2,NCS Clash Qualifying,2020-02-09T10:00:00,2020-02-09T15:00:00,4760,48,48,Chevrolet,1717,Jimmie Johnson,16,0.0,0.0,0,0,,0.0,False
+4868,4760,12,2,NCS Clash Qualifying,2020-02-09T10:00:00,2020-02-09T15:00:00,4760,1,1,Chevrolet,453,Kurt Busch,17,0.0,0.0,0,0,,0.0,False
+4868,4760,12,2,NCS Clash Qualifying,2020-02-09T10:00:00,2020-02-09T15:00:00,4760,11,11,Toyota,1361,Denny Hamlin,18,0.0,0.0,0,0,,0.0,False
