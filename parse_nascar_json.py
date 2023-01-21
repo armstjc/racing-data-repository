@@ -298,8 +298,11 @@ def parse_basic_race_results(season: int):
 		print(race_id)
 		'https://cf.nascar.com/cacher/2021/1/5087/weekend-feed.json',
 		url = f'https://cf.nascar.com/cacher/{race_season}/{race_level}/{race_id}/weekend-feed.json'
-		
-		response = urlopen(url)
+		try:
+			response = urlopen(url)
+		except:
+			time.sleep(5)
+			break
 		json_data = json.loads(response.read())
 		
 		for j in json_data['weekend_race']:
@@ -639,7 +642,7 @@ def parse_live_points(season:int):
 	row_df = pd.DataFrame()
 
 	if season < 2019:
-		raise Exception("NASCAR API does not have live race data before 2018.")
+		raise Exception("\nNASCAR API does not have live race data before 2018.")
 	elif season > datetime.now().year + 1:
 		raise Exception(
 		"You are attempting to get a race that does not exist right now.\nCheck your input for the season.")
@@ -702,6 +705,7 @@ def parse_lap_times(race_id,race_level,race_season):
 	row_df = pd.DataFrame()
 
 	url = f'https://cf.nascar.com/cacher/{race_season}/{race_level}/{race_id}/lap-times.json'
+	
 	response = urlopen(url)
 	json_data = json.loads(response.read())
 
@@ -737,29 +741,30 @@ def parse_lap_times(race_id,race_level,race_season):
 
 def main():
 	current_year = datetime.now().year
-	
-	# df = parse_nascar_schedule(current_year, "all")
-	# df.to_csv(f"nascar_api/schedule/{current_year}_schedule.csv", index=False)
-	# del df
+	for i in tqdm(range(2015,current_year)):
+		df = parse_nascar_schedule(i, "all")
+		df = df.sort_values(by="date_scheduled")
+		df.to_csv(f"nascar_api/schedule/{i}_schedule.csv", index=False)
+		del df
 
-	# #parse_basic_race_results(current_year)
-	# for i in range(2018, 2023):
-	# 	print(f'Getting the NASCAR Schedule for the {i} season.')
-	# 	info_df, results_df, cautions_df, leaders_df,\
-	# 		stage_df,infractions_df, pitstops_df,\
-	# 		 = parse_basic_race_results(i)
+	#parse_basic_race_results(current_year)
+	for i in range(2023, 2024):
+		print(f'\nGetting the NASCAR Schedule for the {i} season.')
+		info_df, results_df, cautions_df, leaders_df,\
+			stage_df,infractions_df, pitstops_df,\
+			 = parse_basic_race_results(i)
 
-	# 	info_df.to_csv(f"nascar_api/race_info/{i}_race_info.csv", index=False)
-	# 	results_df.to_csv(f"nascar_api/race_results/{i}_race_results.csv", index=False)
-	# 	cautions_df.to_csv(f"nascar_api/race_cautions/{i}_race_cautions.csv", index=False)
-	# 	leaders_df.to_csv(f"nascar_api/race_leaders/{i}_race_leaders.csv", index=False)
-	# 	stage_df.to_csv(f"nascar_api/race_stage_results/{i}_race_stage_results.csv", index=False)
-	# 	infractions_df.to_csv(f"nascar_api/race_infractions/{i}_race_infractions.csv", index=False)
-	# 	pitstops_df.to_csv(f"nascar_api/race_pit_stops/{i}_race_pit_stops.csv", index=False)
+		info_df.to_csv(f"nascar_api/race_info/{i}_race_info.csv", index=False)
+		results_df.to_csv(f"nascar_api/race_results/{i}_race_results.csv", index=False)
+		cautions_df.to_csv(f"nascar_api/race_cautions/{i}_race_cautions.csv", index=False)
+		leaders_df.to_csv(f"nascar_api/race_leaders/{i}_race_leaders.csv", index=False)
+		stage_df.to_csv(f"nascar_api/race_stage_results/{i}_race_stage_results.csv", index=False)
+		infractions_df.to_csv(f"nascar_api/race_infractions/{i}_race_infractions.csv", index=False)
+		pitstops_df.to_csv(f"nascar_api/race_pit_stops/{i}_race_pit_stops.csv", index=False)
 		#weekend_runs_df.to_csv(f"nascar_api/weekend_runs/{i}_weekend_runs.csv", index=False)
 
-	for i in range(2020,2023):
-		print(f'Getting the NASCAR Schedule for the {i} season.')
+	for i in range(2023,2024):
+		print(f'\nGetting the NASCAR Schedule for the {i} season.')
 
 		# weekend_runs_df = parse_weekend_runs(i)
 		# weekend_runs_df.to_csv(f"nascar_api/weekend_runs/{i}_weekend_runs.csv", index=False)
