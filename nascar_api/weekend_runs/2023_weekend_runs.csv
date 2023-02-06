@@ -1,0 +1,73 @@
+race_id,weekend_run_id,timing_run_id,run_type,run_name,run_date,run_date_utc,run_id,car_number,vehicle_number,manufacturer,driver_id,driver_name,finishing_position,best_lap_time,best_lap_speed,best_lap_number,laps_completed,comment,delta_leader,disqualified
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,19,19,Toyota,3368,Martin Truex Jr,1,13.361,67.36,59,107,,0.0,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,23,23,Toyota,4025,Bubba Wallace,2,13.371,67.31,60,108,,-0.01,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,14,14,Ford,4228,Chase Briscoe,3,13.383,67.25,67,111,,-0.022,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,48,48,Chevrolet,4045,Alex Bowman,4,13.39,67.214,64,103,,-0.029,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,12,12,Ford,4023,Ryan Blaney,5,13.39,67.214,62,112,,-0.029,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,54,54,Toyota,4368,Ty Gibbs,6,13.394,67.194,32,60,,-0.033,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,1,1,Chevrolet,4001,Ross Chastain,7,13.398,67.174,62,112,,-0.037,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,11,11,Toyota,1361,Denny Hamlin,8,13.403,67.149,56,113,,-0.042,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,38,38,Ford,4231,Todd Gilliland,9,13.407,67.129,66,107,,-0.046,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,31,31,Chevrolet,4172,Justin Haley,10,13.408,67.124,35,113,,-0.047,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,4,4,Ford,1416,Kevin Harvick,11,13.409,67.119,76,116,,-0.048,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,34,34,Ford,3832,Michael McDowell,12,13.441,66.959,32,113,,-0.08,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,8,8,Chevrolet,454,Kyle Busch,13,13.443,66.949,72,113,,-0.082,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,24,24,Chevrolet,4184,William Byron,14,13.444,66.944,63,109,,-0.083,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,10,10,Ford,40,Aric Almirola,15,13.447,66.929,70,112,,-0.086,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,20,20,Toyota,4153,Christopher Bell,16,13.454,66.895,32,114,,-0.093,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,45,45,Toyota,4065,Tyler Reddick,17,13.458,66.875,29,117,,-0.097,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,17,17,Ford,3989,Chris Buescher,18,13.458,66.875,59,106,,-0.097,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,9,9,Chevrolet,4062,Chase Elliott,19,13.46,66.865,30,111,,-0.099,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,41,41,Ford,4070,Ryan Preece,20,13.463,66.85,57,107,,-0.102,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,22,22,Ford,3859,Joey Logano,21,13.476,66.785,35,114,,-0.115,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,3,3,Chevrolet,3873,Austin Dillon,22,13.476,66.785,109,112,,-0.115,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,99,99,Chevrolet,4113,Daniel Suárez,23,13.479,66.77,66,105,,-0.118,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,16,16,Chevrolet,3774,AJ Allmendinger,24,13.484,66.746,61,101,,-0.123,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,7,7,Chevrolet,4096,Corey Lajoie,25,13.502,66.657,44,98,,-0.141,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,5,5,Chevrolet,4030,Kyle Larson,26,13.514,66.598,59,103,,-0.153,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,43,43,Chevrolet,4059,Erik Jones,27,13.538,66.48,53,95,,-0.177,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,47,47,Chevrolet,3888,Ricky Stenhouse Jr,28,13.553,66.406,28,115,,-0.192,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,42,42,Chevrolet,4224,Noah Gragson,29,13.567,66.337,73,115,,-0.206,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,21,21,Ford,4217,Harrison Burton,30,13.604,66.157,26,111,,-0.243,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,2,2,Ford,4180,Austin Cindric,31,13.637,65.997,68,96,,-0.276,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,77,77,Chevrolet,4013,Ty Dillon,32,13.666,65.857,47,92,,-0.305,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,6,6,Ford,1816,Brad Keselowski,33,13.674,65.818,70,110,,-0.313,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,51,51,Ford,4125,Cody Ware,34,13.689,65.746,108,111,,-0.328,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,15,15,Ford,3669,JJ Yeley,35,13.832,65.066,55,112,,-0.471,False
+5259,5272,0,1,Final Practice,2023-02-04T15:00:00,2023-02-04T23:00:00,5272,78,78,Chevrolet,3973,BJ McLeod,36,14.029,64.153,26,70,,-0.668,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,10,10,Ford,40,Aric Almirola,1,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,19,19,Toyota,3368,Martin Truex Jr,2,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,11,11,Toyota,1361,Denny Hamlin,3,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,24,24,Chevrolet,4184,William Byron,4,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,48,48,Chevrolet,4045,Alex Bowman,5,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,8,8,Chevrolet,454,Kyle Busch,6,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,14,14,Ford,4228,Chase Briscoe,7,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,23,23,Toyota,4025,Bubba Wallace,8,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,31,31,Chevrolet,4172,Justin Haley,9,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,3,3,Chevrolet,3873,Austin Dillon,10,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,45,45,Toyota,4065,Tyler Reddick,11,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,1,1,Chevrolet,4001,Ross Chastain,12,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,42,42,Chevrolet,4224,Noah Gragson,13,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,5,5,Chevrolet,4030,Kyle Larson,14,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,12,12,Ford,4023,Ryan Blaney,15,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,41,41,Ford,4070,Ryan Preece,16,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,22,22,Ford,3859,Joey Logano,17,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,4,4,Ford,1416,Kevin Harvick,18,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,99,99,Chevrolet,4113,Daniel Suárez,19,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,43,43,Chevrolet,4059,Erik Jones,20,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,34,34,Ford,3832,Michael McDowell,21,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,9,9,Chevrolet,4062,Chase Elliott,22,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,20,20,Toyota,4153,Christopher Bell,23,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,54,54,Toyota,4368,Ty Gibbs,24,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,38,38,Ford,4231,Todd Gilliland,25,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,16,16,Chevrolet,3774,AJ Allmendinger,26,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,2,2,Ford,4180,Austin Cindric,27,0.0,0.0,0,0,,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,21,21,Ford,4217,Harrison Burton,28,0.0,0.0,0,0,DNQ,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,47,47,Chevrolet,3888,Ricky Stenhouse Jr,29,0.0,0.0,0,0,DNQ,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,6,6,Ford,1816,Brad Keselowski,30,0.0,0.0,0,0,DNQ,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,7,7,Chevrolet,4096,Corey Lajoie,31,0.0,0.0,0,0,DNQ,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,77,77,Chevrolet,4013,Ty Dillon,32,0.0,0.0,0,0,DNQ,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,51,51,Ford,4125,Cody Ware,33,0.0,0.0,0,0,DNQ,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,17,17,Ford,3989,Chris Buescher,34,0.0,0.0,0,0,DNQ,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,78,78,Chevrolet,3973,BJ McLeod,35,0.0,0.0,0,0,DNQ,0.0,False
+5259,5276,1,2,Busch Light Clash at the Coliseum Pole Qualifying,2023-02-04T17:35:00,2023-02-05T01:35:00,5276,15,15,Ford,3669,JJ Yeley,36,0.0,0.0,0,0,DNQ,0.0,False
