@@ -4,7 +4,7 @@ from datetime import datetime
 import time
 from urllib.request import urlopen
 from tqdm import tqdm
-import numpy as np
+#import numpy as np
 
 def nascar_series_identification(series: str):
 	if str.lower(series) == str.lower("series_1") \
@@ -95,7 +95,6 @@ def nascar_series_identification(series: str):
 		return "all"
 	else:
 		raise Exception(f"{series} is not a known series in NASCAR.")
-
 
 def parse_nascar_schedule(season: int, series="Cup"):
 	def parser(section: str, json_data=None):
@@ -262,7 +261,6 @@ def parse_nascar_schedule(season: int, series="Cup"):
 	# print(schedule_df)
 	time.sleep(5)
 	return schedule_df
-
 
 def parse_basic_race_results(season: int):
 	race_info_df = pd.DataFrame()
@@ -546,8 +544,6 @@ def parse_basic_race_results(season: int):
 					)
 
 					del row_df
-
-
 
 	return race_info_df, race_results_df, race_cautions_df, \
 		race_leaders_df, race_stage_results_df, race_infractions_df, \
