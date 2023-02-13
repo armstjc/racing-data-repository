@@ -270,7 +270,6 @@ def parse_basic_race_results(season: int):
 	race_stage_results_df = pd.DataFrame()
 	race_infractions_df = pd.DataFrame()
 	race_pit_reports_df = pd.DataFrame()
-	#weekend_runs_df = pd.DataFrame()
 	row_df = pd.DataFrame()
 
 	if season < 2018:
@@ -287,267 +286,271 @@ def parse_basic_race_results(season: int):
 	for i in tqdm(range(0,len(race_ids_list))):
 		row_df = pd.DataFrame()
 
+		has_race_data = True
 		race_id = int(race_ids_list[i])
 		race_level = int(race_levels_list[i])
 		race_season = int(race_seasons_list[i])
 		'https://cf.nascar.com/cacher/2015/1/4389/weekend-feed.json'
-		print(race_id)
+		print(f'\n{race_id}')
 		'https://cf.nascar.com/cacher/2021/1/5087/weekend-feed.json',
 		url = f'https://cf.nascar.com/cacher/{race_season}/{race_level}/{race_id}/weekend-feed.json'
 		try:
 			response = urlopen(url)
+			has_race_data = True
+			json_data = json.loads(response.read())
+			time.sleep(1)
 		except:
-			time.sleep(5)
-			break
-		json_data = json.loads(response.read())
-		
-		for j in json_data['weekend_race']:
-			row_df = pd.DataFrame(columns=['race_id'], data=[race_id])
-			row_df['series_id'] = race_level
-			row_df['race_season'] = race_season
-			row_df['race_name'] = j['race_name']
-			row_df['race_type_id'] = j['race_type_id']
-			row_df['restrictor_plate'] = j['restrictor_plate']
-			row_df['track_id'] = j['track_id']
-			row_df['track_name'] = j['track_name']
-			row_df['date_scheduled'] = j['date_scheduled']
-			row_df['race_date'] = j['race_date']
-			row_df['qualifying_date'] = j['qualifying_date']
+			time.sleep(3)
+			has_race_data = False
 
-			try:
-				row_df['tunein_date'] = j['tunein_date']
-			except:
-				row_df['tunein_date']= None
-			
-			row_df['scheduled_distance'] = j['scheduled_distance']
-			row_df['actual_distance'] = j['actual_distance']
-			row_df['scheduled_laps'] = j['scheduled_laps']
-			row_df['actual_laps'] = j['actual_laps']
-			row_df['stage_1_laps'] = j['stage_1_laps']
-			row_df['stage_2_laps'] = j['stage_2_laps']
-			row_df['stage_3_laps'] = j['stage_3_laps']
-			
-			try:
-				row_df['stage_4_laps'] = j['stage_4_laps']
-			except:
-				row_df['stage_4_laps'] = None
-			
-			row_df['number_of_cars_in_field'] = j['number_of_cars_in_field']
-			row_df['pole_winner_driver_id'] = j['pole_winner_driver_id']
-			row_df['pole_winner_speed'] = j['pole_winner_speed']
-			row_df['number_of_lead_changes'] = j['number_of_lead_changes']
-			row_df['number_of_leaders'] = j['number_of_leaders']
-			row_df['number_of_cautions'] = j['number_of_cautions']
-			row_df['number_of_caution_laps'] = j['number_of_caution_laps']
-			row_df['average_speed'] = j['average_speed']
-			row_df['total_race_time'] = j['total_race_time']
-			row_df['margin_of_victory'] = j['margin_of_victory']
-			row_df['race_purse'] = j['race_purse']
-			row_df['attendance'] = j['attendance']
-			row_df['radio_broadcaster'] = j['radio_broadcaster']
-			row_df['television_broadcaster'] = j['television_broadcaster']
-			row_df['master_race_id'] = j['master_race_id']
-
-			try:
-				row_df['inspection_complete'] = j['inspection_complete']
-			except:
-				row_df['inspection_complete'] = None
-
-			try:
-				row_df['playoff_round'] = j['playoff_round']
-			except:
-				row_df['playoff_round'] = None
-
-			race_info_df = pd.concat([race_info_df,row_df],ignore_index=True)
-			
-			del row_df
-
-			for k in j['results']:
+		if has_race_data == True:
+			for j in json_data['weekend_race']:
 				row_df = pd.DataFrame(columns=['race_id'], data=[race_id])
 				row_df['series_id'] = race_level
 				row_df['race_season'] = race_season
-				row_df['result_id'] = k['result_id']
-				row_df['finishing_position'] = k['finishing_position']
-				row_df['starting_position'] = k['starting_position']
-				row_df['car_number'] = str(k['car_number'])
-				row_df['driver_fullname'] = k['driver_fullname']
+				row_df['race_name'] = j['race_name']
+				row_df['race_type_id'] = j['race_type_id']
+				row_df['restrictor_plate'] = j['restrictor_plate']
+				row_df['track_id'] = j['track_id']
+				row_df['track_name'] = j['track_name']
+				row_df['date_scheduled'] = j['date_scheduled']
+				row_df['race_date'] = j['race_date']
+				row_df['qualifying_date'] = j['qualifying_date']
 
 				try:
-					row_df['driver_hometown'] = k['driver_hometown']
+					row_df['tunein_date'] = j['tunein_date']
 				except:
-					row_df['driver_hometown'] = None
-
-				row_df['hometown_city'] = k['hometown_city']
-				row_df['hometown_state'] = k['hometown_state']
-
-				try:
-					row_df['hometown_country'] = k['hometown_country']
-				except:
-					row_df['hometown_country'] = None
-
-				row_df['team_id'] = k['team_id']
-				row_df['team_name'] = k['team_name']
-				row_df['qualifying_order'] = k['qualifying_order']
-				row_df['qualifying_position'] = k['qualifying_position']
-				row_df['qualifying_speed'] = k['qualifying_speed']
-				row_df['laps_led'] = k['laps_led']
-				row_df['times_led'] = k['times_led']
-				row_df['car_make'] = k['car_make']
-				row_df['car_model'] = k['car_model']
-				row_df['sponsor'] = k['sponsor']
-				row_df['points_earned'] = k['points_earned']
-
-				try:
-					row_df['playoff_points_earned'] = k['playoff_points_earned']
-				except:
-					row_df['playoff_points_earned'] = None
-
-				row_df['laps_completed'] = k['laps_completed']
-				row_df['finishing_status'] = k['finishing_status']
-				row_df['winnings'] = k['winnings']
-				row_df['series_id'] = k['series_id']
-				row_df['race_season'] = k['race_season']
-				row_df['race_id'] = k['race_id']
-				row_df['owner_fullname'] = k['owner_fullname']
-
-				try:
-					row_df['crew_chief_id'] = k['crew_chief_id']
-				except:
-					row_df['crew_chief_id'] = None
-
-				row_df['crew_chief_fullname'] = k['crew_chief_fullname']
-				row_df['points_position'] = k['points_position']
-				row_df['points_delta'] = k['points_delta']
-				row_df['owner_id'] = k['owner_id']
-				row_df['official_car_number'] = str(k['official_car_number'])
-
-				try:
-					row_df['disqualified'] = k['disqualified']
-				except:
-					row_df['disqualified'] = None
+					row_df['tunein_date']= None
+				
+				row_df['scheduled_distance'] = j['scheduled_distance']
+				row_df['actual_distance'] = j['actual_distance']
+				row_df['scheduled_laps'] = j['scheduled_laps']
+				row_df['actual_laps'] = j['actual_laps']
+				row_df['stage_1_laps'] = j['stage_1_laps']
+				row_df['stage_2_laps'] = j['stage_2_laps']
+				row_df['stage_3_laps'] = j['stage_3_laps']
 				
 				try:
-					row_df['diff_laps'] = k['diff_laps']
+					row_df['stage_4_laps'] = j['stage_4_laps']
 				except:
-					row_df['diff_laps'] = None
+					row_df['stage_4_laps'] = None
+				
+				row_df['number_of_cars_in_field'] = j['number_of_cars_in_field']
+				row_df['pole_winner_driver_id'] = j['pole_winner_driver_id']
+				row_df['pole_winner_speed'] = j['pole_winner_speed']
+				row_df['number_of_lead_changes'] = j['number_of_lead_changes']
+				row_df['number_of_leaders'] = j['number_of_leaders']
+				row_df['number_of_cautions'] = j['number_of_cautions']
+				row_df['number_of_caution_laps'] = j['number_of_caution_laps']
+				row_df['average_speed'] = j['average_speed']
+				row_df['total_race_time'] = j['total_race_time']
+				row_df['margin_of_victory'] = j['margin_of_victory']
+				row_df['race_purse'] = j['race_purse']
+				row_df['attendance'] = j['attendance']
+				row_df['radio_broadcaster'] = j['radio_broadcaster']
+				row_df['television_broadcaster'] = j['television_broadcaster']
+				row_df['master_race_id'] = j['master_race_id']
 
 				try:
-					row_df['diff_time'] = k['diff_time']
+					row_df['inspection_complete'] = j['inspection_complete']
 				except:
-					row_df['diff_time'] = None
+					row_df['inspection_complete'] = None
 
-				race_results_df = pd.concat(
-					[race_results_df,row_df],
-					ignore_index=True
-				)
-				del row_df
+				try:
+					row_df['playoff_round'] = j['playoff_round']
+				except:
+					row_df['playoff_round'] = None
 
-			for k in j['caution_segments']:
-				row_df = pd.DataFrame(columns=['race_id'], data=[race_id])
-				row_df['start_lap'] = k['start_lap']
-				row_df['end_lap'] = k['end_lap']
-				row_df['reason'] = k['reason']
-				row_df['comment'] = k['comment']
-				row_df['beneficiary_car_number'] = str(k['beneficiary_car_number'])
-				row_df['flag_state'] = k['flag_state']
-
-				race_cautions_df = pd.concat(
-					[race_cautions_df,row_df],
-					ignore_index=True
-				)
-
-				del row_df
-
-			for k in j['race_leaders']:
-				row_df = pd.DataFrame(columns=['race_id'], data=[race_id])
-				row_df['start_lap'] = k['start_lap']
-				
-				row_df['end_lap'] = k['end_lap']
-				row_df['car_number'] = str(k['car_number'])
-
-				race_leaders_df = pd.concat(
-					[race_leaders_df,row_df],
-					ignore_index=True
-				)
+				race_info_df = pd.concat([race_info_df,row_df],ignore_index=True)
 				
 				del row_df
 
-			if season >= 2020:
-				try:
-					for k in j['stage_results']:
-						stage_num = k['stage_number']
-						for d in k['results']:
-							row_df = pd.DataFrame(
-								columns=['race_id'],
-								data=[race_id])
-							row_df['stage_number'] = stage_num
-							row_df['driver_fullname'] = d['driver_fullname']
-							row_df['driver_id'] = d['driver_id']
-							row_df['car_number'] = str(d['car_number'])
-							row_df['finishing_position'] = d['finishing_position']
-							row_df['stage_points'] = d['stage_points']
-
-							race_stage_results_df = pd.concat(
-								[race_stage_results_df,row_df],
-								ignore_index=True
-							)
-							del row_df
-				except:
-					pass
-
-			if season >= 2021:
-				for k in j['infractions']:
+				for k in j['results']:
 					row_df = pd.DataFrame(columns=['race_id'], data=[race_id])
+					row_df['series_id'] = race_level
+					row_df['race_season'] = race_season
+					row_df['result_id'] = k['result_id']
+					row_df['finishing_position'] = k['finishing_position']
+					row_df['starting_position'] = k['starting_position']
 					row_df['car_number'] = str(k['car_number'])
 					row_df['driver_fullname'] = k['driver_fullname']
-					row_df['driver_id'] = k['driver_id']
-					row_df['lap'] = k['lap']
-					row_df['lap_assessed'] = k['lap_assessed']
-					row_df['penalty'] = k['penalty']
-					row_df['notes'] = k['notes']
 
-					race_infractions_df = pd.concat([race_infractions_df,row_df],
+					try:
+						row_df['driver_hometown'] = k['driver_hometown']
+					except:
+						row_df['driver_hometown'] = None
+
+					row_df['hometown_city'] = k['hometown_city']
+					row_df['hometown_state'] = k['hometown_state']
+
+					try:
+						row_df['hometown_country'] = k['hometown_country']
+					except:
+						row_df['hometown_country'] = None
+
+					row_df['team_id'] = k['team_id']
+					row_df['team_name'] = k['team_name']
+					row_df['qualifying_order'] = k['qualifying_order']
+					row_df['qualifying_position'] = k['qualifying_position']
+					row_df['qualifying_speed'] = k['qualifying_speed']
+					row_df['laps_led'] = k['laps_led']
+					row_df['times_led'] = k['times_led']
+					row_df['car_make'] = k['car_make']
+					row_df['car_model'] = k['car_model']
+					row_df['sponsor'] = k['sponsor']
+					row_df['points_earned'] = k['points_earned']
+
+					try:
+						row_df['playoff_points_earned'] = k['playoff_points_earned']
+					except:
+						row_df['playoff_points_earned'] = None
+
+					row_df['laps_completed'] = k['laps_completed']
+					row_df['finishing_status'] = k['finishing_status']
+					row_df['winnings'] = k['winnings']
+					row_df['series_id'] = k['series_id']
+					row_df['race_season'] = k['race_season']
+					row_df['race_id'] = k['race_id']
+					row_df['owner_fullname'] = k['owner_fullname']
+
+					try:
+						row_df['crew_chief_id'] = k['crew_chief_id']
+					except:
+						row_df['crew_chief_id'] = None
+
+					row_df['crew_chief_fullname'] = k['crew_chief_fullname']
+					row_df['points_position'] = k['points_position']
+					row_df['points_delta'] = k['points_delta']
+					row_df['owner_id'] = k['owner_id']
+					row_df['official_car_number'] = str(k['official_car_number'])
+
+					try:
+						row_df['disqualified'] = k['disqualified']
+					except:
+						row_df['disqualified'] = None
+					
+					try:
+						row_df['diff_laps'] = k['diff_laps']
+					except:
+						row_df['diff_laps'] = None
+
+					try:
+						row_df['diff_time'] = k['diff_time']
+					except:
+						row_df['diff_time'] = None
+
+					race_results_df = pd.concat(
+						[race_results_df,row_df],
 						ignore_index=True
 					)
-					
 					del row_df
 
-				for k in j['pit_reports']:
+				for k in j['caution_segments']:
 					row_df = pd.DataFrame(columns=['race_id'], data=[race_id])
-					row_df['infraction'] = k['infraction']
-					row_df['vehicle_number'] = str(k['vehicle_number'])
-					row_df['driver_name'] = k['driver_name']
-					row_df['vehicle_manufacturer'] = k['vehicle_manufacturer']
-					row_df['leader_lap'] = k['leader_lap']
-					row_df['lap_count'] = k['lap_count']
-					row_df['pit_in_flag_status'] = k['pit_in_flag_status']
-					row_df['pit_out_flag_status'] = k['pit_out_flag_status']
-					row_df['pit_in_race_time'] = k['pit_in_race_time']
-					row_df['pit_out_race_time'] = k['pit_out_race_time']
-					row_df['total_duration'] = k['total_duration']
-					row_df['box_stop_race_time'] = k['box_stop_race_time']
-					row_df['box_leave_race_time'] = k['box_leave_race_time']
-					row_df['pit_stop_duration'] = k['pit_stop_duration']
-					row_df['in_travel_duration'] = k['in_travel_duration']
-					row_df['out_travel_duration'] = k['out_travel_duration']
-					row_df['pit_stop_type'] = k['pit_stop_type']
-					row_df['left_front_tire_changed'] = k['left_front_tire_changed']
-					row_df['left_rear_tire_changed'] = k['left_rear_tire_changed']
-					row_df['right_front_tire_changed'] = k['right_front_tire_changed']
-					row_df['right_rear_tire_changed'] = k['right_rear_tire_changed']
-					row_df['previous_lap_time'] = k['previous_lap_time']
-					row_df['next_lap_time'] = k['next_lap_time']
-					
-					race_pit_reports_df = pd.concat(
-						[race_pit_reports_df,row_df],
+					row_df['start_lap'] = k['start_lap']
+					row_df['end_lap'] = k['end_lap']
+					row_df['reason'] = k['reason']
+					row_df['comment'] = k['comment']
+					row_df['beneficiary_car_number'] = str(k['beneficiary_car_number'])
+					row_df['flag_state'] = k['flag_state']
+
+					race_cautions_df = pd.concat(
+						[race_cautions_df,row_df],
 						ignore_index=True
 					)
 
 					del row_df
+
+				for k in j['race_leaders']:
+					row_df = pd.DataFrame(columns=['race_id'], data=[race_id])
+					row_df['start_lap'] = k['start_lap']
+					
+					row_df['end_lap'] = k['end_lap']
+					row_df['car_number'] = str(k['car_number'])
+
+					race_leaders_df = pd.concat(
+						[race_leaders_df,row_df],
+						ignore_index=True
+					)
+					
+					del row_df
+
+				if season >= 2020:
+					try:
+						for k in j['stage_results']:
+							stage_num = k['stage_number']
+							for d in k['results']:
+								row_df = pd.DataFrame(
+									columns=['race_id'],
+									data=[race_id])
+								row_df['stage_number'] = stage_num
+								row_df['driver_fullname'] = d['driver_fullname']
+								row_df['driver_id'] = d['driver_id']
+								row_df['car_number'] = str(d['car_number'])
+								row_df['finishing_position'] = d['finishing_position']
+								row_df['stage_points'] = d['stage_points']
+
+								race_stage_results_df = pd.concat(
+									[race_stage_results_df,row_df],
+									ignore_index=True
+								)
+								del row_df
+					except:
+						pass
+
+				if season >= 2021:
+					for k in j['infractions']:
+						row_df = pd.DataFrame(columns=['race_id'], data=[race_id])
+						row_df['car_number'] = str(k['car_number'])
+						row_df['driver_fullname'] = k['driver_fullname']
+						row_df['driver_id'] = k['driver_id']
+						row_df['lap'] = k['lap']
+						row_df['lap_assessed'] = k['lap_assessed']
+						row_df['penalty'] = k['penalty']
+						row_df['notes'] = k['notes']
+
+						race_infractions_df = pd.concat([race_infractions_df,row_df],
+							ignore_index=True
+						)
+						
+						del row_df
+
+					for k in j['pit_reports']:
+						row_df = pd.DataFrame(columns=['race_id'], data=[race_id])
+						row_df['infraction'] = k['infraction']
+						row_df['vehicle_number'] = str(k['vehicle_number'])
+						row_df['driver_name'] = k['driver_name']
+						row_df['vehicle_manufacturer'] = k['vehicle_manufacturer']
+						row_df['leader_lap'] = k['leader_lap']
+						row_df['lap_count'] = k['lap_count']
+						row_df['pit_in_flag_status'] = k['pit_in_flag_status']
+						row_df['pit_out_flag_status'] = k['pit_out_flag_status']
+						row_df['pit_in_race_time'] = k['pit_in_race_time']
+						row_df['pit_out_race_time'] = k['pit_out_race_time']
+						row_df['total_duration'] = k['total_duration']
+						row_df['box_stop_race_time'] = k['box_stop_race_time']
+						row_df['box_leave_race_time'] = k['box_leave_race_time']
+						row_df['pit_stop_duration'] = k['pit_stop_duration']
+						row_df['in_travel_duration'] = k['in_travel_duration']
+						row_df['out_travel_duration'] = k['out_travel_duration']
+						row_df['pit_stop_type'] = k['pit_stop_type']
+						row_df['left_front_tire_changed'] = k['left_front_tire_changed']
+						row_df['left_rear_tire_changed'] = k['left_rear_tire_changed']
+						row_df['right_front_tire_changed'] = k['right_front_tire_changed']
+						row_df['right_rear_tire_changed'] = k['right_rear_tire_changed']
+						row_df['previous_lap_time'] = k['previous_lap_time']
+						row_df['next_lap_time'] = k['next_lap_time']
+						
+						race_pit_reports_df = pd.concat(
+							[race_pit_reports_df,row_df],
+							ignore_index=True
+						)
+
+						del row_df
 
 	return race_info_df, race_results_df, race_cautions_df, \
 		race_leaders_df, race_stage_results_df, race_infractions_df, \
-		race_pit_reports_df #, weekend_runs_df
+		race_pit_reports_df
 
 def parse_weekend_runs(season: int):
 
@@ -750,15 +753,15 @@ def parse_lap_times(race_id,race_level,race_season):
 def main():
 	current_year = datetime.now().year
 
-	for i in tqdm(range(current_year-1,current_year+1)):
+	for i in tqdm(range(current_year,current_year+1)):
 		df = parse_nascar_schedule(i, "all")
 		df = df.sort_values(by="date_scheduled")
 		df.to_csv(f"nascar_api/schedule/{i}_schedule.csv", index=False)
 		del df
 
 	#parse_basic_race_results(current_year)
-	for i in range(current_year-1,current_year+1):
-		print(f'\nGetting the NASCAR Schedule for the {i} season.')
+	for i in range(current_year,current_year+1):
+		print(f'\nGetting the NASCAR race info for the {i} season.')
 		info_df, results_df, cautions_df, leaders_df,\
 			stage_df,infractions_df, pitstops_df,\
 			 = parse_basic_race_results(i)
@@ -772,8 +775,8 @@ def main():
 		pitstops_df.to_csv(f"nascar_api/race_pit_stops/{i}_race_pit_stops.csv", index=False)
 		#weekend_runs_df.to_csv(f"nascar_api/weekend_runs/{i}_weekend_runs.csv", index=False)
 
-	for i in range(current_year-1,current_year+1):
-		print(f'\nGetting the NASCAR Schedule for the {i} season.')
+	for i in range(current_year,current_year+1):
+		print(f'\nGetting the NASCAR weekend runs for the {i} season.')
 
 		weekend_runs_df = parse_weekend_runs(i)
 		weekend_runs_df.to_csv(f"nascar_api/weekend_runs/{i}_weekend_runs.csv", index=False)
@@ -788,9 +791,10 @@ def main():
 			try:
 				race_df = parse_lap_times(race_ids_list[j],race_levels_list[j],race_seasons_list[j])
 				race_df.to_csv(f"nascar_api/lap_times/{race_seasons_list[j]}_{race_ids_list[j]}_lap_times.csv",index=False)
+				time.sleep(1)
 			except:
 				print('Couldn\'t parse the race. Breaking the loop.')
-				break
+				time.sleep(2)
 			#print(race_df)
 
 if __name__ == "__main__":
