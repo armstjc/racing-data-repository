@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 
-def get_racing_reference_standings(season = 2022,series_id = "W"):
+def get_racing_reference_standings(season:int,series_id="W"):
     main_df = pd.DataFrame()
     row_df = pd.DataFrame()
     url = f"https://www.racing-reference.info/season-stats/{season}/{series_id}/"
@@ -67,45 +67,156 @@ def get_racing_reference_standings(season = 2022,series_id = "W"):
     #main_df.to_csv('test.csv',index=False)
     return main_df
 
+def get_racing_reference_race_results(season:int,series_id="W"):
+    """
+    
+    """
+    sched_df = pd.DataFrame()
+    ## Cup series
+    if series_id.upper() == "W":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_cup/schedule/{season}_schedule.csv')
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Cup season.')
+    ## Xfinity (Busch) series
+    elif series_id.upper() == "B":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_busch/schedule/{season}_schedule.csv')
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} Xfinity (Busch) season.')
+    ## Craftsman Truck series
+    elif series_id.upper() == "C":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_trucks/schedule/{season}_schedule.csv')
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} Craftsman Truck season.')
+    ## ARCA series
+    elif series_id.upper() == "C":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_arca/schedule/{season}_schedule.csv')
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} ARCA season.')
+    ## Modified series
+    elif series_id.upper() == "N":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_arca/schedule/{season}_schedule.csv')
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Modified season.')
+    ## IndyCar Series
+    elif series_id.upper() == "O":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_arca/schedule/{season}_schedule.csv')
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} IndyCar season.')
+    else:
+        raise ValueError("The input for series_id is invalid.")
+
+    race_url_arr = sched_df['race_url'].to_list()
+
+    #main_df = pd.DataFrame()
+    race_df = pd.DataFrame()
+    row_df = pd.DataFrame()
+
+    headers = {"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"}
+    for i in tqdm(race_url_arr):
+        url = i
+        response = requests.get(url,headers=headers)
+        soup = BeautifulSoup(response.text, features='lxml')
+
+        # table 0: Race info table.
+        # table 1: Header table (links to stuff like race results, loop data, and pit stop data).
+        html_table = soup.find_all('table',{'class':'tb race-results-tbl'})[0]
+        #print(f"\n{html_table}")
+
+        race_id = str(url).replace("https://www.racing-reference.info/race-results/","").replace(f"/{series_id.upper()}","")
+
+        for j in html_table.find_all('tr'):
+            row_df = pd.DataFrame({'season':season,'series_id':series_id,'race_id':race_id},index=[0])
+            row = j.find_all('td')
+
+            if len(row) < 2:
+                ## If this is less than 2, this is the header.
+                ## We don't need the header.
+                pass
+            else:
+                #print(race_id)
+                row_df['finish_position'] = row[0].text.strip()
+                row_df['starting_position'] = row[1].text.strip()
+                row_df['driver_number'] = str(row[2].text.strip())
+                row_df['driver_nationality'] = str(row[3].find("img").get("src")).replace('//www.racing-reference.info/wp-content/themes/ndms/images/racing-reference/flags/','').replace('.png','')
+                row_df['driver_id'] = str(row[3].find("a").get("href")).replace('https://www.racing-reference.info/driver/','').replace('/','')
+                row_df['driver_name'] = row[3].text.strip()
+                sponsor_owner = row[4].text.strip()
+                row_df['sponsor'] = sponsor_owner.split('   ')[0]
+                try:
+                    row_df['owner_id'] = str(row[4].find("a").get("href")).replace('https://www.racing-reference.info/owner/','')
+                except:
+                    row_df['owner_id'] = None
+                row_df['car'] = row[5].text.strip()
+                row_df['race_laps_run'] = row[6].text.strip()
+                row_df['race_status'] = row[7].text.strip()
+                row_df['race_laps_lead'] = row[8].text.strip()
+                row_df['points_earned'] = row[9].text.strip()
+                try:
+                    row_df['playoff_points_earned'] = row[10].text.strip()
+                except:
+                    row_df['playoff_points_earned'] = None
+                race_df = pd.concat([race_df,row_df],ignore_index=True)
+        #print(race_df)
+        time.sleep(2)
+
+    return race_df
+
 
 def main():
-
-    for i in range(1996,2024):
+    for i in range(1948,2024):
         ## Cup Series
         if i >= 1949:
-            df = get_racing_reference_standings(season=i,series_id="W")
-            if len(df) > 0:
-                df.to_csv(f"racing_reference/nascar_cup/schedule/{i}_schedule.csv",index=False)
+            sched_df = get_racing_reference_standings(season=i,series_id="W")
+            if len(sched_df) > 0:
+                sched_df.to_csv(f"racing_reference/nascar_cup/schedule/{i}_schedule.csv",index=False)
+            
+            results_df = get_racing_reference_race_results(season=i,series_id="W")
+            if len(results_df) > 0:
+                results_df.to_csv(f"racing_reference/nascar_cup/race_results/{i}_race_results.csv",index=False)
 
         ## Xfinity (Busch) Series
         if i >= 1984:
-            df = get_racing_reference_standings(season=i,series_id="B")
-            if len(df) > 0:
-                df.to_csv(f"racing_reference/nascar_busch/schedule/{i}_schedule.csv",index=False)
+            sched_df = get_racing_reference_standings(season=i,series_id="B")
+            if len(sched_df) > 0:
+                sched_df.to_csv(f"racing_reference/nascar_busch/schedule/{i}_schedule.csv",index=False)
+            
+            results_df = get_racing_reference_race_results(season=i,series_id="B")
+            if len(results_df) > 0:
+                results_df.to_csv(f"racing_reference/nascar_busch/race_results/{i}_race_results.csv",index=False)
 
         ## Truck Series
         if i >= 1995:
-            df = get_racing_reference_standings(season=i,series_id="C")
-            if len(df) > 0:
-                df.to_csv(f"racing_reference/nascar_trucks/schedule/{i}_schedule.csv",index=False)
+            sched_df = get_racing_reference_standings(season=i,series_id="C")
+            if len(sched_df) > 0:
+                sched_df.to_csv(f"racing_reference/nascar_trucks/schedule/{i}_schedule.csv",index=False)
+            
+            results_df = get_racing_reference_race_results(season=i,series_id="C")
+            if len(results_df) > 0:
+                results_df.to_csv(f"racing_reference/nascar_trucks/race_results/{i}_race_results.csv",index=False)
 
         ## ARCA Series
         if i >= 1979:
-            df = get_racing_reference_standings(season=i,series_id="A")
-            if len(df) > 0:
-                df.to_csv(f"racing_reference/nascar_arca/schedule/{i}_schedule.csv",index=False)
+            sched_df = get_racing_reference_standings(season=i,series_id="A")
+            if len(sched_df) > 0:
+                sched_df.to_csv(f"racing_reference/nascar_arca/schedule/{i}_schedule.csv",index=False)
 
         ## Modified Series
         if i >= 1948:
-            df = get_racing_reference_standings(season=i,series_id="N")
-            if len(df) > 0:
-                df.to_csv(f"racing_reference/nascar_modified/schedule/{i}_schedule.csv",index=False)
+            sched_df = get_racing_reference_standings(season=i,series_id="N")
+            if len(sched_df) > 0:
+                sched_df.to_csv(f"racing_reference/nascar_modified/schedule/{i}_schedule.csv",index=False)
 
         ## IndyCar Series
         if i >= 1996:
-            df = get_racing_reference_standings(season=i,series_id="O")
-            if len(df) > 0:
-                df.to_csv(f"racing_reference/indycar/schedule/{i}_schedule.csv",index=False)
+            sched_df = get_racing_reference_standings(season=i,series_id="O")
+            if len(sched_df) > 0:
+                sched_df.to_csv(f"racing_reference/indycar/schedule/{i}_schedule.csv",index=False)
 
         time.sleep(5)
 
