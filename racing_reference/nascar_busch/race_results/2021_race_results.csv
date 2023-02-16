@@ -1,0 +1,1297 @@
+season,series_id,race_id,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,1,1,22,usa,Austin_Cindric,Austin Cindric,Verizon 5G,Roger_Penske,Ford,122,running,28,55,5
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,2,15,02,usa,Brett_Moffitt,Brett Moffitt,Fr8 Auctions,Chris_Our,Chevrolet,122,running,6,0,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,3,8,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,122,running,28,37,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,4,7,10,usa,Jeb_Burton,Jeb Burton,Nutrien Ag Solutions,Matt_Kaulig,Chevrolet,122,running,0,33,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,5,31,16,usa,A_J_Allmendinger,A.J. Allmendinger,Ellsworth Advisors,Matt_Kaulig,Chevrolet,122,running,0,32,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,6,14,68,usa,Brandon_Brown,Brandon Brown,Original Larry's Hard Lemonade,Jerry_Brown,Chevrolet,122,running,1,38,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,7,11,2,usa,Myatt_Snider,Myatt Snider,Tax Slayer,Richard_Childress,Chevrolet,122,running,0,33,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,8,39,26,usa,Brandon_Gdovic,Brandon Gdovic,Toyota Racing,Sam_Hunt,Toyota,122,running,0,29,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,9,12,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,122,running,0,33,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,10,40,23,usa,Jason_White_(1),Jason White,A-Game Energy,Rod_Sieg,Ford,122,running,0,27,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,11,18,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",Bucked Up Energy,Bobby_Dotter,Chevrolet,122,running,0,26,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,12,38,90,usa,Caesar_Bacarella,Caesar Bacarella,Maxim / AP Sport Regimen,Mario_Gosselin,Chevrolet,122,running,0,25,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,13,36,99,usa,Stefan_Parsons,Stefan Parsons,Sokal Digital,B_J_McLeod,Chevrolet,122,running,0,24,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,14,32,54,usa,Ty_Dillon,Ty Dillon,Bass Pro Shops / Tracker Boats & ATVs,Joe_Gibbs,Toyota,122,running,2,40,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,15,34,47,usa,Kyle_Weatherman,Kyle Weatherman,Axe Crossbows,Mike_Harmon,Chevrolet,122,running,0,22,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,16,27,5,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Chevrolet,122,running,0,21,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,17,24,78,usa,Jesse_Little,Jesse Little,Shriners Hospitals 4 Children,B_J_McLeod,Chevrolet,122,running,0,20,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,18,21,6,usa,Ryan_Vargas,Ryan Vargas,Swann Communications,Johnny_Davis,Chevrolet,122,running,0,19,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,19,28,48,usa,Danny_Bohn,Danny Bohn,North American Motor Car,Scott_Borchetta,Chevrolet,122,running,0,0,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,20,37,66,usa,Timmy_Hill,Timmy Hill,VSI Racing / Ripper Magoos / Draft Kings,Carl_Long,Ford,121,running,4,17,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,21,17,92,usa,Josh_Williams,Josh Williams,Alloy Employer / Sleep Well,Mario_Gosselin,Chevrolet,120,running,0,16,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,22,16,51,usa,Jeremy_Clements,Jeremy Clements,All South Electric,Jeremy_Clements,Chevrolet,120,running,0,19,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,23,33,4,usa,Landon_Cassill,Landon Cassill,Blue Emu,Johnny_Davis,Chevrolet,114,crash,0,14,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,24,22,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,AAN Adjusters,Tommy_Joe_Martins,Chevrolet,114,crash,0,13,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,25,23,61,usa,Robby_Lyons,Robby Lyons,Carr & Sons Masonry,Shigeaki_Hattori,Toyota,105,crash,0,12,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,26,4,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,105,crash,12,20,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,27,9,8,usa,Josh_Berry,Josh Berry,Filter Time,JR_Motorsports,Chevrolet,104,crash,0,11,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,28,2,7,usa,Justin_Allgaier,Justin Allgaier,Brandt,JR_Motorsports,Chevrolet,104,crash,8,13,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,29,3,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,104,crash,7,15,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,30,26,13,usa,Chad_Finchum,Chad Finchum,Ted Russell Ford Lincoln,Carl_Long,Ford,104,crash,0,7,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,31,13,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing,Rod_Sieg,Ford,81,dvp,23,13,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,32,5,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops True Timber / BRCC,JR_Motorsports,Chevrolet,76,crash,0,13,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,33,30,74,usa,Bayley_Currey,Bayley Currey,Running 4 Heroes,Mike_Harmon,Chevrolet,75,crash,0,0,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,34,35,52,usa,Gray_Gaulding,Gray Gaulding,Panini America,Jimmy_Means,Chevrolet,75,crash,0,3,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,35,20,15,usa,Colby_Howard,Colby Howard,Linder / Project Hope Foundation,Johnny_Davis,Chevrolet,75,crash,0,2,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,36,10,1,usa,Michael_Annett,Michael Annett,PFJ / American Heart Association,JR_Motorsports,Chevrolet,74,crash,0,1,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,37,25,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Forever Lawn,Johnny_Davis,Chevrolet,74,crash,0,1,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,38,6,19,usa,Brandon_Jones,Brandon Jones,Menards / Jeld-Wen,Joe_Gibbs,Toyota,60,crash,3,11,1
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,39,29,17,usa,Cody_Ware,Cody Ware,Jacob Companies,Rick_Ware,Chevrolet,60,crash,0,0,0
+2021,B,2021_Beef_Its_Whats_For_Dinner_300,40,19,36,canada,Alex_Labbe,Alex Labbe,Larue Snow Blowers / Prolon Controls,Mario_Gosselin,Chevrolet,60,crash,0,1,0
+2021,B,2021_Super_Start_Batteries_188,1,15,54,usa,Ty_Gibbs,Ty Gibbs,Monster Energy,Joe_Gibbs,Toyota,56,running,14,50,6
+2021,B,2021_Super_Start_Batteries_188,2,2,22,usa,Austin_Cindric,Austin Cindric,PPG,Roger_Penske,Ford,56,running,29,50,1
+2021,B,2021_Super_Start_Batteries_188,3,5,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,56,running,2,42,0
+2021,B,2021_Super_Start_Batteries_188,4,39,19,usa,Brandon_Jones,Brandon Jones,Menards / Barracuda,Joe_Gibbs,Toyota,56,running,0,37,0
+2021,B,2021_Super_Start_Batteries_188,5,3,10,usa,Jeb_Burton,Jeb Burton,State Water Heaters,Matt_Kaulig,Chevrolet,56,running,2,32,0
+2021,B,2021_Super_Start_Batteries_188,6,4,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,56,running,3,44,0
+2021,B,2021_Super_Start_Batteries_188,7,35,8,brazil,Miguel_Paludo,Miguel Paludo,Brandt,JR_Motorsports,Chevrolet,56,running,0,30,0
+2021,B,2021_Super_Start_Batteries_188,8,7,68,usa,Brandon_Brown,Brandon Brown,Jabs Construction,Jerry_Brown,Chevrolet,56,running,0,34,0
+2021,B,2021_Super_Start_Batteries_188,9,29,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,56,running,0,35,0
+2021,B,2021_Super_Start_Batteries_188,10,18,51,usa,Jeremy_Clements,Jeremy Clements,All South Electric,Jeremy_Clements,Chevrolet,56,running,0,35,0
+2021,B,2021_Super_Start_Batteries_188,11,1,02,usa,Brett_Moffitt,Brett Moffitt,Quartz Hill Records / Nate Barnes,Chris_Our,Chevrolet,56,running,0,0,0
+2021,B,2021_Super_Start_Batteries_188,12,14,4,usa,Landon_Cassill,Landon Cassill,JD Motorsports,Johnny_Davis,Chevrolet,56,running,0,25,0
+2021,B,2021_Super_Start_Batteries_188,13,8,2,usa,Myatt_Snider,Myatt Snider,Tax Slayer,Richard_Childress,Chevrolet,56,running,0,36,0
+2021,B,2021_Super_Start_Batteries_188,14,13,78,usa,Jesse_Little,Jesse Little,B.J. McLeod Motorsports,B_J_McLeod,Chevrolet,56,running,0,23,0
+2021,B,2021_Super_Start_Batteries_188,15,33,1,usa,Michael_Annett,Michael Annett,PFJ / American Heart Association,JR_Motorsports,Chevrolet,56,running,0,22,0
+2021,B,2021_Super_Start_Batteries_188,16,11,47,usa,Kyle_Weatherman,Kyle Weatherman,Picture Perfect,Mike_Harmon,Chevrolet,56,running,0,24,0
+2021,B,2021_Super_Start_Batteries_188,17,22,92,usa,Josh_Williams,Josh Williams,Alloy Employer Services / Sleep Well,Mario_Gosselin,Chevrolet,56,running,0,20,0
+2021,B,2021_Super_Start_Batteries_188,18,19,26,usa,Kris_Wright,Kris Wright,F.N.B. Corporation,Sam_Hunt,Toyota,56,running,0,0,0
+2021,B,2021_Super_Start_Batteries_188,19,10,5,usa,Matt_Mills,Matt Mills,Thompson Electric / J.F. Electric,B_J_McLeod,Toyota,56,running,0,18,0
+2021,B,2021_Super_Start_Batteries_188,20,9,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",Bucked Up Energy,Bobby_Dotter,Chevrolet,56,running,0,17,0
+2021,B,2021_Super_Start_Batteries_188,21,30,52,usa,Gray_Gaulding,Gray Gaulding,Panini Trading Cards,Jimmy_Means,Chevrolet,56,running,1,16,0
+2021,B,2021_Super_Start_Batteries_188,22,36,36,canada,Alex_Labbe,Alex Labbe,Globocam / Prolon Controls,Mario_Gosselin,Chevrolet,56,running,0,15,0
+2021,B,2021_Super_Start_Batteries_188,23,32,15,usa,Colby_Howard,Colby Howard,Project Hope Foundation,Johnny_Davis,Chevrolet,56,running,0,14,0
+2021,B,2021_Super_Start_Batteries_188,24,20,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,Gilreath Farms Red Angus,Tommy_Joe_Martins,Chevrolet,56,running,0,13,0
+2021,B,2021_Super_Start_Batteries_188,25,38,17,usa,Cody_Ware,Cody Ware,Nurtec ODT,Rick_Ware,Ford,56,running,0,12,0
+2021,B,2021_Super_Start_Batteries_188,26,25,7,usa,Justin_Allgaier,Justin Allgaier,Brandt,JR_Motorsports,Chevrolet,56,running,0,18,0
+2021,B,2021_Super_Start_Batteries_188,27,27,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing,Rod_Sieg,Ford,56,running,1,10,0
+2021,B,2021_Super_Start_Batteries_188,28,26,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops True Timber / BRCC,JR_Motorsports,Chevrolet,56,running,0,9,0
+2021,B,2021_Super_Start_Batteries_188,29,34,61,usa,Stephen_Leicht,Stephen Leicht,Jani-King,Shigeaki_Hattori,Toyota,56,running,0,8,0
+2021,B,2021_Super_Start_Batteries_188,30,37,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Forever Lawn,Johnny_Davis,Chevrolet,56,running,0,7,0
+2021,B,2021_Super_Start_Batteries_188,31,24,99,usa,Andy_Lally,Andy Lally,Energy Air / UGC 100,B_J_McLeod,Chevrolet,55,running,0,12,0
+2021,B,2021_Super_Start_Batteries_188,32,31,74,usa,Bayley_Currey,Bayley Currey,Covert Scouting Cameras,Mike_Harmon,Chevrolet,55,running,0,7,0
+2021,B,2021_Super_Start_Batteries_188,33,23,90,usa,Preston_Pardus,Preston Pardus,Chinchor Electric / Danus Utilities,Mario_Gosselin,Chevrolet,49,transmission,0,6,0
+2021,B,2021_Super_Start_Batteries_188,34,17,66,usa,Timmy_Hill,Timmy Hill,Cable Enterprises / CrashClaimsR.us,Carl_Long,Toyota,46,running,0,3,0
+2021,B,2021_Super_Start_Batteries_188,35,6,16,usa,A_J_Allmendinger,A.J. Allmendinger,Ellsworth Advisors,Matt_Kaulig,Chevrolet,43,running,4,2,0
+2021,B,2021_Super_Start_Batteries_188,36,28,48,usa,Jade_Buford,Jade Buford,Big Machine Vodka Spiked Cooler,Scott_Borchetta,Chevrolet,38,suspension,0,1,0
+2021,B,2021_Super_Start_Batteries_188,37,12,6,usa,Ryan_Vargas,Ryan Vargas,The Big Squeezy - Alvin Kamara,Johnny_Davis,Chevrolet,33,running,0,1,0
+2021,B,2021_Super_Start_Batteries_188,38,40,13,usa,David_Starr,David Starr,Whataburger,Carl_Long,Toyota,20,transmission,0,1,0
+2021,B,2021_Super_Start_Batteries_188,39,16,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,15,crash,0,9,0
+2021,B,2021_Super_Start_Batteries_188,40,21,23,usa,Natalie_Decker,Natalie Decker,Red Street Records / Jason Crabb,Rod_Sieg,Chevrolet,3,crash,0,1,0
+2021,B,2021_Contender_Boats_250,1,10,2,usa,Myatt_Snider,Myatt Snider,Tax Slayer,Richard_Childress,Chevrolet,179,running,5,49,5
+2021,B,2021_Contender_Boats_250,2,4,19,usa,Brandon_Jones,Brandon Jones,Toyota Supra,Joe_Gibbs,Toyota,179,running,6,45,0
+2021,B,2021_Contender_Boats_250,3,2,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,179,running,0,42,0
+2021,B,2021_Contender_Boats_250,4,5,10,usa,Jeb_Burton,Jeb Burton,Cheddar's Scratch Kitchen,Matt_Kaulig,Chevrolet,179,running,0,41,0
+2021,B,2021_Contender_Boats_250,5,1,22,usa,Austin_Cindric,Austin Cindric,PPG,Roger_Penske,Ford,179,running,63,42,1
+2021,B,2021_Contender_Boats_250,6,8,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,179,running,5,40,0
+2021,B,2021_Contender_Boats_250,7,6,02,usa,Brett_Moffitt,Brett Moffitt,Our Motorsports,Chris_Our,Chevrolet,179,running,6,0,0
+2021,B,2021_Contender_Boats_250,8,22,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing,Rod_Sieg,Ford,179,running,0,33,0
+2021,B,2021_Contender_Boats_250,9,9,51,usa,Jeremy_Clements,Jeremy Clements,Wealth Accelerators,Jeremy_Clements,Chevrolet,179,running,3,33,0
+2021,B,2021_Contender_Boats_250,10,20,8,usa,Josh_Berry,Josh Berry,Filter Time,JR_Motorsports,Chevrolet,179,running,0,30,0
+2021,B,2021_Contender_Boats_250,11,29,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,179,running,0,33,0
+2021,B,2021_Contender_Boats_250,12,39,17,usa,J_J_Yeley,J.J. Yeley,Work Pro,Rick_Ware,Chevrolet,179,running,0,25,0
+2021,B,2021_Contender_Boats_250,13,18,1,usa,Michael_Annett,Michael Annett,Pilot / Flying J / American Heart Association,JR_Motorsports,Chevrolet,179,running,0,26,0
+2021,B,2021_Contender_Boats_250,14,24,16,usa,A_J_Allmendinger,A.J. Allmendinger,Ellsworth Advisors,Matt_Kaulig,Chevrolet,179,running,45,36,1
+2021,B,2021_Contender_Boats_250,15,25,36,canada,Alex_Labbe,Alex Labbe,Prolon / Rousseau / Silver Wax,Mario_Gosselin,Chevrolet,179,running,0,22,0
+2021,B,2021_Contender_Boats_250,16,33,66,usa,Timmy_Hill,Timmy Hill,CrashClaimsR.us,Carl_Long,Toyota,179,running,0,21,0
+2021,B,2021_Contender_Boats_250,17,32,90,usa,Dexter_Bean,Dexter Bean,Badger Environmental & Earthworks,Mario_Gosselin,Chevrolet,179,running,0,20,0
+2021,B,2021_Contender_Boats_250,18,27,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,Gilreath Farms Red Angus,Tommy_Joe_Martins,Chevrolet,179,running,0,19,0
+2021,B,2021_Contender_Boats_250,19,11,4,usa,Landon_Cassill,Landon Cassill,Swenson Advisors,Johnny_Davis,Chevrolet,179,running,0,19,0
+2021,B,2021_Contender_Boats_250,20,31,48,usa,Jade_Buford,Jade Buford,Big Machine Vodka Spiked Coolers,Scott_Borchetta,Chevrolet,179,running,0,17,0
+2021,B,2021_Contender_Boats_250,21,40,13,usa,David_Starr,David Starr,Whataburger,Carl_Long,Toyota,179,running,0,16,0
+2021,B,2021_Contender_Boats_250,22,36,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,KSDT CPA,Johnny_Davis,Chevrolet,179,running,0,15,0
+2021,B,2021_Contender_Boats_250,23,37,61,usa,Chad_Finchum,Chad Finchum,Ultra Commerical Interiors,Shigeaki_Hattori,Toyota,179,running,0,14,0
+2021,B,2021_Contender_Boats_250,24,35,6,usa,Ryan_Vargas,Ryan Vargas,KSDT CPA,Johnny_Davis,Chevrolet,179,running,0,13,0
+2021,B,2021_Contender_Boats_250,25,12,47,usa,Kyle_Weatherman,Kyle Weatherman,Weicks Media,Mike_Harmon,Chevrolet,179,running,0,12,0
+2021,B,2021_Contender_Boats_250,26,15,92,usa,Josh_Williams,Josh Williams,Starbrite / Star Tron,Mario_Gosselin,Chevrolet,178,running,0,11,0
+2021,B,2021_Contender_Boats_250,27,16,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",Bucked Up Energy,Bobby_Dotter,Chevrolet,178,running,0,10,0
+2021,B,2021_Contender_Boats_250,28,26,52,usa,Gray_Gaulding,Gray Gaulding,Jimmy Means Racing,Jimmy_Means,Chevrolet,178,running,0,9,0
+2021,B,2021_Contender_Boats_250,29,17,5,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Toyota,178,running,0,8,0
+2021,B,2021_Contender_Boats_250,30,21,26,usa,Santino_Ferrucci,Santino Ferrucci,Stillhouse Whiskey,Sam_Hunt,Toyota,177,running,0,7,0
+2021,B,2021_Contender_Boats_250,31,30,99,usa,Stefan_Parsons,Stefan Parsons,Springrates,B_J_McLeod,Toyota,177,running,0,6,0
+2021,B,2021_Contender_Boats_250,32,14,78,usa,Jesse_Little,Jesse Little,David's Electric,B_J_McLeod,Toyota,177,running,0,5,0
+2021,B,2021_Contender_Boats_250,33,23,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops True Timber / BRCC,JR_Motorsports,Chevrolet,165,crash,34,13,0
+2021,B,2021_Contender_Boats_250,34,7,68,usa,Brandon_Brown,Brandon Brown,Brandonbilt Foundatons,Jerry_Brown,Chevrolet,152,overheating,0,3,0
+2021,B,2021_Contender_Boats_250,35,34,74,usa,Bayley_Currey,Bayley Currey,JM Steel / Belmont Classic Cars,Mike_Harmon,Chevrolet,148,power steering,0,2,0
+2021,B,2021_Contender_Boats_250,36,28,15,usa,Colby_Howard,Colby Howard,Project Hope Foundation,Johnny_Davis,Chevrolet,109,rear gear,3,1,0
+2021,B,2021_Contender_Boats_250,37,13,54,usa,Ty_Dillon,Ty Dillon,Bass Pro Shops / Tracker Boats & ATVs,Joe_Gibbs,Toyota,102,radiator,0,1,0
+2021,B,2021_Contender_Boats_250,38,19,7,usa,Justin_Allgaier,Justin Allgaier,Brandt,JR_Motorsports,Chevrolet,98,crash,0,6,0
+2021,B,2021_Contender_Boats_250,39,3,20,usa,Harrison_Burton,Harrison Burton,Hunt Brothers Pizza / Dex Imaging,Joe_Gibbs,Toyota,70,engine,1,8,0
+2021,B,2021_Contender_Boats_250,40,38,23,usa,Tyler_Reddick,Tyler Reddick,RSS Racing,Rod_Sieg,Chevrolet,179,disqualified,8,0,0
+2021,B,2021_Alsco_Uniforms_300,1,10,16,usa,A_J_Allmendinger,A.J. Allmendinger,Ellsworth Advisors,Matt_Kaulig,Chevrolet,200,running,44,56,5
+2021,B,2021_Alsco_Uniforms_300,2,3,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,200,running,74,53,1
+2021,B,2021_Alsco_Uniforms_300,3,4,19,usa,Brandon_Jones,Brandon Jones,Menards / Turtle Wax,Joe_Gibbs,Toyota,200,running,28,47,0
+2021,B,2021_Alsco_Uniforms_300,4,2,22,usa,Austin_Cindric,Austin Cindric,Carquest Auto Parts,Roger_Penske,Ford,200,running,43,44,1
+2021,B,2021_Alsco_Uniforms_300,5,34,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops True Timber / BRCC,JR_Motorsports,Chevrolet,200,running,0,39,0
+2021,B,2021_Alsco_Uniforms_300,6,13,1,usa,Michael_Annett,Michael Annett,Pilot / Flying J,JR_Motorsports,Chevrolet,200,running,0,41,0
+2021,B,2021_Alsco_Uniforms_300,7,9,8,usa,Josh_Berry,Josh Berry,Filter Time,JR_Motorsports,Chevrolet,200,running,0,30,0
+2021,B,2021_Alsco_Uniforms_300,8,6,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,200,running,5,38,0
+2021,B,2021_Alsco_Uniforms_300,9,22,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,200,running,0,31,0
+2021,B,2021_Alsco_Uniforms_300,10,5,10,usa,Jeb_Burton,Jeb Burton,Alsco Uniforms,Matt_Kaulig,Chevrolet,200,running,0,27,0
+2021,B,2021_Alsco_Uniforms_300,11,25,68,usa,Brandon_Brown,Brandon Brown,GreenTech Energy,Jerry_Brown,Chevrolet,200,running,0,28,0
+2021,B,2021_Alsco_Uniforms_300,12,40,23,usa,Tyler_Reddick,Tyler Reddick,Quartz Hill Records / Ben Gallaher,Chris_Our,Chevrolet,200,running,0,0,0
+2021,B,2021_Alsco_Uniforms_300,13,23,26,usa,Santino_Ferrucci,Santino Ferrucci,HydraVes Technologies,Sam_Hunt,Toyota,200,running,0,24,0
+2021,B,2021_Alsco_Uniforms_300,14,37,7,usa,Justin_Allgaier,Justin Allgaier,Brandt,JR_Motorsports,Chevrolet,200,running,4,35,0
+2021,B,2021_Alsco_Uniforms_300,15,21,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,Discover Denton Texas,Tommy_Joe_Martins,Chevrolet,200,running,0,22,0
+2021,B,2021_Alsco_Uniforms_300,16,24,92,usa,Josh_Williams,Josh Williams,Silverton Casino & Hotel,Mario_Gosselin,Chevrolet,200,running,0,21,0
+2021,B,2021_Alsco_Uniforms_300,17,8,51,usa,Jeremy_Clements,Jeremy Clements,First Pacific Funding,Jeremy_Clements,Chevrolet,199,running,0,20,0
+2021,B,2021_Alsco_Uniforms_300,18,26,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",Bucked Up Energy,Bobby_Dotter,Chevrolet,199,running,0,19,0
+2021,B,2021_Alsco_Uniforms_300,19,30,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,KSDT CPA,Johnny_Davis,Chevrolet,199,running,0,18,0
+2021,B,2021_Alsco_Uniforms_300,20,38,15,usa,Colby_Howard,Colby Howard,Project Hope Foundation,Johnny_Davis,Chevrolet,199,running,0,17,0
+2021,B,2021_Alsco_Uniforms_300,21,14,4,usa,Landon_Cassill,Landon Cassill,JD Motorsports,Johnny_Davis,Chevrolet,199,running,0,16,0
+2021,B,2021_Alsco_Uniforms_300,22,39,74,usa,Bayley_Currey,Bayley Currey,Lerner & Rowe,Mike_Harmon,Chevrolet,199,running,0,15,0
+2021,B,2021_Alsco_Uniforms_300,23,35,6,usa,Ryan_Vargas,Ryan Vargas,KSDT CPA,Johnny_Davis,Chevrolet,199,running,0,14,0
+2021,B,2021_Alsco_Uniforms_300,24,15,17,usa,Garrett_Smithley,Garrett Smithley,Trophy Tractor / Texas Strong,Rick_Ware,Chevrolet,199,running,0,13,0
+2021,B,2021_Alsco_Uniforms_300,25,16,90,usa,Dexter_Bean,Dexter Bean,Badger Environmental & Earthworks,Mario_Gosselin,Chevrolet,198,running,0,12,0
+2021,B,2021_Alsco_Uniforms_300,26,32,78,usa,Jesse_Little,Jesse Little,Skuttle Tight,B_J_McLeod,Toyota,198,running,0,11,0
+2021,B,2021_Alsco_Uniforms_300,27,36,52,usa,Gray_Gaulding,Gray Gaulding,SVS Vision,Jimmy_Means,Chevrolet,198,running,0,10,0
+2021,B,2021_Alsco_Uniforms_300,28,29,61,usa,Chad_Finchum,Chad Finchum,LasVegas.net,Shigeaki_Hattori,Toyota,198,running,0,9,0
+2021,B,2021_Alsco_Uniforms_300,29,28,13,usa,David_Starr,David Starr,T-Top Manufacturing,Carl_Long,Ford,198,running,0,8,0
+2021,B,2021_Alsco_Uniforms_300,30,27,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,196,running,0,7,0
+2021,B,2021_Alsco_Uniforms_300,31,20,54,usa,Ty_Dillon,Ty Dillon,Toyota Service Centers / Mobil 1,Joe_Gibbs,Toyota,195,running,2,7,0
+2021,B,2021_Alsco_Uniforms_300,32,1,2,usa,Myatt_Snider,Myatt Snider,Tax Slayer,Richard_Childress,Chevrolet,191,running,0,5,0
+2021,B,2021_Alsco_Uniforms_300,33,19,47,usa,Kyle_Weatherman,Kyle Weatherman,PORAC,Mike_Harmon,Chevrolet,184,running,0,4,0
+2021,B,2021_Alsco_Uniforms_300,34,7,02,usa,Brett_Moffitt,Brett Moffitt,Chevrolet,Chris_Our,Chevrolet,181,crash,0,0,0
+2021,B,2021_Alsco_Uniforms_300,35,17,36,canada,Alex_Labbe,Alex Labbe,Prolon Controls / Rousseau / Silver Wax,Mario_Gosselin,Chevrolet,181,crash,0,2,0
+2021,B,2021_Alsco_Uniforms_300,36,33,99,usa,Stefan_Parsons,Stefan Parsons,Dogecoin / Springrates,B_J_McLeod,Chevrolet,137,fuel line,0,1,0
+2021,B,2021_Alsco_Uniforms_300,37,18,66,usa,Timmy_Hill,Timmy Hill,LasVegas.net,Carl_Long,Toyota,100,engine,0,1,0
+2021,B,2021_Alsco_Uniforms_300,38,11,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing,Rod_Sieg,Ford,73,crash,0,1,0
+2021,B,2021_Alsco_Uniforms_300,39,31,5,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Chevrolet,72,electrical,0,1,0
+2021,B,2021_Alsco_Uniforms_300,40,12,98,usa,Riley_Herbst,Riley Herbst,South Point Hotel & Casino,Stewart_Haas_Racing,Ford,56,crash,0,3,0
+2021,B,2021_Call_811_Before_You_Dig_200,1,3,22,usa,Austin_Cindric,Austin Cindric,Car Shop,Roger_Penske,Ford,200,running,119,57,6
+2021,B,2021_Call_811_Before_You_Dig_200,2,27,54,usa,Ty_Gibbs,Ty Gibbs,PristineAuction.com,Joe_Gibbs,Toyota,200,running,1,38,0
+2021,B,2021_Call_811_Before_You_Dig_200,3,11,68,usa,Brandon_Brown,Brandon Brown,Larry's Hard Pink Lemonade,Jerry_Brown,Chevrolet,200,running,0,34,0
+2021,B,2021_Call_811_Before_You_Dig_200,4,30,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,200,running,0,33,0
+2021,B,2021_Call_811_Before_You_Dig_200,5,4,16,usa,A_J_Allmendinger,A.J. Allmendinger,Ellsworth Advisors,Matt_Kaulig,Chevrolet,200,running,0,36,0
+2021,B,2021_Call_811_Before_You_Dig_200,6,6,10,usa,Jeb_Burton,Jeb Burton,Chevrolet,Matt_Kaulig,Chevrolet,200,running,0,39,0
+2021,B,2021_Call_811_Before_You_Dig_200,7,29,74,usa,Bayley_Currey,Bayley Currey,Lerner & Rowe,Mike_Harmon,Chevrolet,200,running,0,30,0
+2021,B,2021_Call_811_Before_You_Dig_200,8,12,7,usa,Justin_Allgaier,Justin Allgaier,Brandt,JR_Motorsports,Chevrolet,200,running,32,42,0
+2021,B,2021_Call_811_Before_You_Dig_200,9,20,02,usa,Brett_Moffitt,Brett Moffitt,Chevy Certified Service / Spring Tire Event,Chris_Our,Chevrolet,200,running,0,0,0
+2021,B,2021_Call_811_Before_You_Dig_200,10,13,51,usa,Jeremy_Clements,Jeremy Clements,First Pacific Funding,Jeremy_Clements,Chevrolet,200,running,0,27,0
+2021,B,2021_Call_811_Before_You_Dig_200,11,19,2,usa,Myatt_Snider,Myatt Snider,Tax Slayer,Richard_Childress,Chevrolet,200,running,0,26,0
+2021,B,2021_Call_811_Before_You_Dig_200,12,7,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,200,running,0,42,0
+2021,B,2021_Call_811_Before_You_Dig_200,13,33,17,usa,J_J_Yeley,J.J. Yeley,Diamondback Land Surveying,Rick_Ware,Chevrolet,200,running,0,24,0
+2021,B,2021_Call_811_Before_You_Dig_200,14,39,66,usa,Timmy_Hill,Timmy Hill,Interstate Batteries,Carl_Long,Toyota,200,running,0,23,0
+2021,B,2021_Call_811_Before_You_Dig_200,15,14,26,usa,Santino_Ferrucci,Santino Ferrucci,Toyota Racing,Sam_Hunt,Toyota,200,running,0,22,0
+2021,B,2021_Call_811_Before_You_Dig_200,16,24,15,usa,Colby_Howard,Colby Howard,Project Hope Foundation,Johnny_Davis,Chevrolet,200,running,0,21,0
+2021,B,2021_Call_811_Before_You_Dig_200,17,15,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,Diamond Gusset Jeans,Tommy_Joe_Martins,Chevrolet,200,running,0,20,0
+2021,B,2021_Call_811_Before_You_Dig_200,18,35,99,usa,Stefan_Parsons,Stefan Parsons,Sokal Digital,B_J_McLeod,Toyota,200,running,0,19,0
+2021,B,2021_Call_811_Before_You_Dig_200,19,21,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,KSDT CPA,Johnny_Davis,Chevrolet,200,running,0,18,0
+2021,B,2021_Call_811_Before_You_Dig_200,20,32,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,200,running,0,17,0
+2021,B,2021_Call_811_Before_You_Dig_200,21,17,92,usa,Josh_Williams,Josh Williams,DGM Racing / Rusty Crews,Mario_Gosselin,Chevrolet,200,running,0,16,0
+2021,B,2021_Call_811_Before_You_Dig_200,22,18,4,usa,Landon_Cassill,Landon Cassill,511 Auction,Johnny_Davis,Chevrolet,200,running,0,15,0
+2021,B,2021_Call_811_Before_You_Dig_200,23,1,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,200,running,44,31,1
+2021,B,2021_Call_811_Before_You_Dig_200,24,28,23,usa,Blaine_Perkins,Blaine Perkins,Raceline,Chris_Our,Chevrolet,200,running,0,13,0
+2021,B,2021_Call_811_Before_You_Dig_200,25,16,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",Z Grills,Bobby_Dotter,Chevrolet,200,running,0,12,0
+2021,B,2021_Call_811_Before_You_Dig_200,26,5,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,199,crash,0,21,0
+2021,B,2021_Call_811_Before_You_Dig_200,27,34,52,usa,Gray_Gaulding,Gray Gaulding,Panini America,Jimmy_Means,Chevrolet,199,running,0,10,0
+2021,B,2021_Call_811_Before_You_Dig_200,28,37,61,usa,David_Starr,David Starr,Whataburger,Shigeaki_Hattori,Toyota,199,running,0,9,0
+2021,B,2021_Call_811_Before_You_Dig_200,29,22,90,usa,Dexter_Bean,Dexter Bean,Badger Environmental & Earthworks,Mario_Gosselin,Chevrolet,198,running,0,8,0
+2021,B,2021_Call_811_Before_You_Dig_200,30,25,6,usa,Ryan_Vargas,Ryan Vargas,Hose-Man / Advanced Masonry & Concrete,Johnny_Davis,Chevrolet,197,running,0,7,0
+2021,B,2021_Call_811_Before_You_Dig_200,31,40,13,netherlands,Loris_Hezemans,Loris Hezemans,Hezeberg Systems / R1 Indoor Karting,Carl_Long,Chevrolet,195,running,0,6,0
+2021,B,2021_Call_811_Before_You_Dig_200,32,36,36,canada,Alex_Labbe,Alex Labbe,Can-Am,Mario_Gosselin,Chevrolet,194,crash,0,5,0
+2021,B,2021_Call_811_Before_You_Dig_200,33,2,19,usa,Brandon_Jones,Brandon Jones,Toyota,Joe_Gibbs,Toyota,165,crash,2,14,0
+2021,B,2021_Call_811_Before_You_Dig_200,34,26,47,usa,Kyle_Weatherman,Kyle Weatherman,Weicks Media,Mike_Harmon,Chevrolet,164,running,0,3,0
+2021,B,2021_Call_811_Before_You_Dig_200,35,38,5,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Chevrolet,157,running,0,2,0
+2021,B,2021_Call_811_Before_You_Dig_200,36,9,8,usa,Josh_Berry,Josh Berry,Chevrolet Accessories,JR_Motorsports,Chevrolet,146,crash,0,4,0
+2021,B,2021_Call_811_Before_You_Dig_200,37,31,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing,Rod_Sieg,Ford,133,crash,2,1,0
+2021,B,2021_Call_811_Before_You_Dig_200,38,8,1,usa,Michael_Annett,Michael Annett,Pilot / Flying J,JR_Motorsports,Chevrolet,93,engine,0,3,0
+2021,B,2021_Call_811_Before_You_Dig_200,39,10,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops True Timber / BRCC,JR_Motorsports,Chevrolet,67,engine,0,7,0
+2021,B,2021_Call_811_Before_You_Dig_200,40,23,78,usa,Jesse_Little,Jesse Little,Skuttle Tight,B_J_McLeod,Toyota,44,crash,0,1,0
+2021,B,2021_Echo_Park_250,1,6,7,usa,Justin_Allgaier,Justin Allgaier,Axalta / EchoPark Automotive,JR_Motorsports,Chevrolet,163,running,47,57,5
+2021,B,2021_Echo_Park_250,2,18,54,usa,Martin_Truex_Jr,"Martin Truex, Jr.",Stanley Tools,Joe_Gibbs,Toyota,163,running,103,0,0
+2021,B,2021_Echo_Park_250,3,5,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,163,running,0,50,0
+2021,B,2021_Echo_Park_250,4,30,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops True Timber / BRCC,JR_Motorsports,Chevrolet,163,running,0,33,0
+2021,B,2021_Echo_Park_250,5,3,16,usa,A_J_Allmendinger,A.J. Allmendinger,Ellsworth Advisors,Matt_Kaulig,Chevrolet,163,running,0,32,0
+2021,B,2021_Echo_Park_250,6,7,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,163,running,0,37,0
+2021,B,2021_Echo_Park_250,7,27,1,usa,Michael_Annett,Michael Annett,Pilot / Flying J,JR_Motorsports,Chevrolet,163,running,0,41,0
+2021,B,2021_Echo_Park_250,8,13,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,163,running,0,44,0
+2021,B,2021_Echo_Park_250,9,11,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,163,running,0,30,0
+2021,B,2021_Echo_Park_250,10,35,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing,Rod_Sieg,Ford,163,running,0,27,0
+2021,B,2021_Echo_Park_250,11,9,2,usa,Myatt_Snider,Myatt Snider,Tax Slayer,Richard_Childress,Chevrolet,163,running,0,30,0
+2021,B,2021_Echo_Park_250,12,10,51,usa,Jeremy_Clements,Jeremy Clements,Diecast Kings	,Jeremy_Clements,Chevrolet,163,running,0,31,0
+2021,B,2021_Echo_Park_250,13,1,22,usa,Austin_Cindric,Austin Cindric,Car Shop,Roger_Penske,Ford,163,running,6,29,0
+2021,B,2021_Echo_Park_250,14,20,4,usa,Landon_Cassill,Landon Cassill,MaintenX,Johnny_Davis,Chevrolet,163,running,0,23,0
+2021,B,2021_Echo_Park_250,15,12,26,usa,Santino_Ferrucci,Santino Ferrucci,Trust Page,Sam_Hunt,Toyota,163,running,0,22,0
+2021,B,2021_Echo_Park_250,16,19,92,usa,Josh_Williams,Josh Williams,Coolray Heating & AC,Mario_Gosselin,Chevrolet,163,running,0,21,0
+2021,B,2021_Echo_Park_250,17,36,36,canada,Alex_Labbe,Alex Labbe,Prolon / Rousseau / Silver Wax,Mario_Gosselin,Chevrolet,163,running,0,20,0
+2021,B,2021_Echo_Park_250,18,15,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,Gilreath Farms Red Angus,Tommy_Joe_Martins,Chevrolet,163,running,0,19,0
+2021,B,2021_Echo_Park_250,19,26,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Forever Lawn,Johnny_Davis,Chevrolet,163,running,0,18,0
+2021,B,2021_Echo_Park_250,20,17,66,usa,Timmy_Hill,Timmy Hill,Supreme Transportation Group,Carl_Long,Toyota,163,running,0,17,0
+2021,B,2021_Echo_Park_250,21,23,15,usa,Colby_Howard,Colby Howard,Project Hope Foundation,Johnny_Davis,Chevrolet,163,running,3,17,0
+2021,B,2021_Echo_Park_250,22,37,78,usa,Jesse_Little,Jesse Little,Tufco Flooring,B_J_McLeod,Chevrolet,162,running,0,15,0
+2021,B,2021_Echo_Park_250,23,28,17,usa,Cody_Ware,Cody Ware,Nurtec ODT,Rick_Ware,Chevrolet,162,running,0,14,0
+2021,B,2021_Echo_Park_250,24,14,74,usa,Bayley_Currey,Bayley Currey,Lerner & Rowe,Mike_Harmon,Chevrolet,162,running,0,13,0
+2021,B,2021_Echo_Park_250,25,2,10,usa,Jeb_Burton,Jeb Burton,Nutrien Ag Solutions,Matt_Kaulig,Chevrolet,162,running,0,15,0
+2021,B,2021_Echo_Park_250,26,21,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,161,running,0,11,0
+2021,B,2021_Echo_Park_250,27,38,61,usa,David_Starr,David Starr,Whataburger,Shigeaki_Hattori,Toyota,161,running,0,10,0
+2021,B,2021_Echo_Park_250,28,31,47,usa,Kyle_Weatherman,Kyle Weatherman,Weicks Media	,Mike_Harmon,Chevrolet,161,running,0,9,0
+2021,B,2021_Echo_Park_250,29,24,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",Hazeheart.com,Bobby_Dotter,Chevrolet,161,running,0,8,0
+2021,B,2021_Echo_Park_250,30,25,23,usa,Blaine_Perkins,Blaine Perkins,Raceline,Chris_Our,Chevrolet,160,running,0,7,0
+2021,B,2021_Echo_Park_250,31,34,6,usa,Ryan_Vargas,Ryan Vargas,MaintenX,Johnny_Davis,Chevrolet,160,running,0,6,0
+2021,B,2021_Echo_Park_250,32,32,99,usa,Mason_Massey,Mason Massey,Gerber Collision & Glass,B_J_McLeod,Toyota,160,running,0,5,0
+2021,B,2021_Echo_Park_250,33,4,68,usa,Brandon_Brown,Brandon Brown,BrandonBilt Foundations,Jerry_Brown,Chevrolet,160,running,4,5,0
+2021,B,2021_Echo_Park_250,34,39,5,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Chevrolet,156,running,0,3,0
+2021,B,2021_Echo_Park_250,35,29,90,usa,Dexter_Bean,Dexter Bean,Badger Environmental & Earthworks,Mario_Gosselin,Chevrolet,156,running,0,2,0
+2021,B,2021_Echo_Park_250,36,33,52,usa,Gray_Gaulding,Gray Gaulding,SVS Vision,Jimmy_Means,Chevrolet,150,running,0,1,0
+2021,B,2021_Echo_Park_250,37,16,19,usa,Brandon_Jones,Brandon Jones,Menards / Pentair,Joe_Gibbs,Toyota,132,running,0,1,0
+2021,B,2021_Echo_Park_250,38,22,8,usa,Josh_Berry,Josh Berry,Tire Pros,JR_Motorsports,Chevrolet,130,crash,0,4,0
+2021,B,2021_Echo_Park_250,39,40,13,usa,Chad_Finchum,Chad Finchum,LasVegas.net,Carl_Long,Toyota,59,brakes,0,1,0
+2021,B,2021_Echo_Park_250,40,8,02,usa,Brett_Moffitt,Brett Moffitt,Fr8 Auctions,Chris_Our,Chevrolet,39,crash,0,0,0
+2021,B,2021_Cook_Out_250,1,29,8,usa,Josh_Berry,Josh Berry,Chevrolet Accessories,JR_Motorsports,Chevrolet,250,running,95,41,5
+2021,B,2021_Cook_Out_250,2,8,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / True Timber Camo,JR_Motorsports,Chevrolet,250,running,12,54,1
+2021,B,2021_Cook_Out_250,3,4,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,250,running,28,44,1
+2021,B,2021_Cook_Out_250,4,16,54,usa,Ty_Gibbs,Ty Gibbs,AutosByNelson.com,Joe_Gibbs,Toyota,250,running,28,40,0
+2021,B,2021_Cook_Out_250,5,24,19,usa,Brandon_Jones,Brandon Jones,Toyota,Joe_Gibbs,Toyota,250,running,16,32,0
+2021,B,2021_Cook_Out_250,6,6,22,usa,Austin_Cindric,Austin Cindric,Menards / Richmond,Roger_Penske,Ford,250,running,0,40,0
+2021,B,2021_Cook_Out_250,7,1,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,250,running,52,30,0
+2021,B,2021_Cook_Out_250,8,5,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,250,running,0,37,0
+2021,B,2021_Cook_Out_250,9,2,7,usa,Justin_Allgaier,Justin Allgaier,"Walmart ""Fight Hunger""",JR_Motorsports,Chevrolet,250,running,0,28,0
+2021,B,2021_Cook_Out_250,10,10,1,usa,Michael_Annett,Michael Annett,Pilot / Flying J,JR_Motorsports,Chevrolet,250,running,0,34,0
+2021,B,2021_Cook_Out_250,11,13,10,usa,Jeb_Burton,Jeb Burton,Puryear Tank Lines,Matt_Kaulig,Chevrolet,250,running,0,34,0
+2021,B,2021_Cook_Out_250,12,27,02,usa,Brett_Moffitt,Brett Moffitt,Destiny Homes,Chris_Our,Chevrolet,250,running,7,0,0
+2021,B,2021_Cook_Out_250,13,3,16,usa,A_J_Allmendinger,A.J. Allmendinger,Ellsworth Advisors / Hyperice,Matt_Kaulig,Chevrolet,250,running,0,24,0
+2021,B,2021_Cook_Out_250,14,11,51,usa,Jeremy_Clements,Jeremy Clements,First Pacific Funding,Jeremy_Clements,Chevrolet,250,running,0,33,0
+2021,B,2021_Cook_Out_250,15,9,2,usa,Myatt_Snider,Myatt Snider,Tax Slayer,Richard_Childress,Chevrolet,250,running,0,27,0
+2021,B,2021_Cook_Out_250,16,15,92,usa,Josh_Williams,Josh Williams,DGM Racing / Rusty Crews,Mario_Gosselin,Chevrolet,250,running,0,21,0
+2021,B,2021_Cook_Out_250,17,25,26,usa,Brandon_Gdovic,Brandon Gdovic,SnapMobile.Shop,Sam_Hunt,Toyota,250,running,0,20,0
+2021,B,2021_Cook_Out_250,18,37,90,usa,George_Gorham_Jr,"George Gorham, Jr.",Blackburn's BBQ / Francisco's,Mario_Gosselin,Chevrolet,250,running,0,21,0
+2021,B,2021_Cook_Out_250,19,30,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,250,running,0,18,0
+2021,B,2021_Cook_Out_250,20,38,99,usa,Stefan_Parsons,Stefan Parsons,Sokal Digital,B_J_McLeod,Toyota,249,running,0,21,0
+2021,B,2021_Cook_Out_250,21,39,52,usa,Gray_Gaulding,Gray Gaulding,Panini America,Jimmy_Means,Chevrolet,249,running,0,16,0
+2021,B,2021_Cook_Out_250,22,34,61,usa,David_Starr,David Starr,MBM Motorsports,Shigeaki_Hattori,Toyota,249,running,0,15,0
+2021,B,2021_Cook_Out_250,23,12,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing,Rod_Sieg,Ford,249,running,0,14,0
+2021,B,2021_Cook_Out_250,24,33,17,usa,J_J_Yeley,J.J. Yeley,Alcova / DBAutomotivePlus.com,Rick_Ware,Chevrolet,249,running,0,19,0
+2021,B,2021_Cook_Out_250,25,31,47,usa,Kyle_Weatherman,Kyle Weatherman,LOF Defence Systems,Mike_Harmon,Chevrolet,249,running,0,12,0
+2021,B,2021_Cook_Out_250,26,26,74,usa,Bayley_Currey,Bayley Currey,JM Steel / Belmont Classic Cars,Mike_Harmon,Chevrolet,249,running,7,12,0
+2021,B,2021_Cook_Out_250,27,19,68,usa,Brandon_Brown,Brandon Brown,Original Larry's Hard Lemonade,Jerry_Brown,Chevrolet,248,running,0,16,0
+2021,B,2021_Cook_Out_250,28,40,13,usa,Matt_Jaskol,Matt Jaskol,Auto Parts 4 Less,Carl_Long,Toyota,248,running,0,9,0
+2021,B,2021_Cook_Out_250,29,7,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,248,running,0,8,0
+2021,B,2021_Cook_Out_250,30,20,66,usa,Timmy_Hill,Timmy Hill,Lift Kits 4 Less,Carl_Long,Toyota,248,running,0,7,0
+2021,B,2021_Cook_Out_250,31,22,36,canada,Alex_Labbe,Alex Labbe,Larue Industrial Snowblowers,Mario_Gosselin,Chevrolet,248,running,0,6,0
+2021,B,2021_Cook_Out_250,32,21,78,usa,Jesse_Little,Jesse Little,Tufco Flooring,B_J_McLeod,Chevrolet,245,running,0,5,0
+2021,B,2021_Cook_Out_250,33,36,5,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Chevrolet,241,running,0,4,0
+2021,B,2021_Cook_Out_250,34,17,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,Diamond Gusset Jeans,Tommy_Joe_Martins,Chevrolet,231,running,5,8,0
+2021,B,2021_Cook_Out_250,35,32,23,usa,Blaine_Perkins,Blaine Perkins,Raceline,Chris_Our,Chevrolet,226,running,0,2,0
+2021,B,2021_Cook_Out_250,36,18,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,KSDT CPA,Johnny_Davis,Chevrolet,213,suspension,0,3,0
+2021,B,2021_Cook_Out_250,37,14,4,usa,Landon_Cassill,Landon Cassill,511 Auction,Johnny_Davis,Chevrolet,197,engine,0,1,0
+2021,B,2021_Cook_Out_250,38,28,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",Responsible Gold,Bobby_Dotter,Chevrolet,179,crash,0,1,0
+2021,B,2021_Cook_Out_250,39,23,15,usa,Colby_Howard,Colby Howard,Project Hope Foundation,Johnny_Davis,Chevrolet,153,suspension,0,1,0
+2021,B,2021_Cook_Out_250,40,35,6,usa,Ryan_Vargas,Ryan Vargas,SEM Products,Johnny_Davis,Chevrolet,97,crash,0,1,0
+2021,B,2021_Ag-Pro_300,1,9,10,usa,Jeb_Burton,Jeb Burton,LS Tractors,Matt_Kaulig,Chevrolet,90,running,20,49,5
+2021,B,2021_Ag-Pro_300,2,1,22,usa,Austin_Cindric,Austin Cindric,"Snap-On ""Celebrating Makers & Fixers""",Roger_Penske,Ford,90,running,24,50,0
+2021,B,2021_Ag-Pro_300,3,11,16,usa,A_J_Allmendinger,A.J. Allmendinger,Hyperice,Matt_Kaulig,Chevrolet,90,running,0,39,0
+2021,B,2021_Ag-Pro_300,4,19,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,90,running,0,33,0
+2021,B,2021_Ag-Pro_300,5,17,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing,Rod_Sieg,Ford,90,running,1,32,0
+2021,B,2021_Ag-Pro_300,6,4,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / Black Rifle Coffee,JR_Motorsports,Chevrolet,90,running,8,49,1
+2021,B,2021_Ag-Pro_300,7,18,68,usa,Brandon_Brown,Brandon Brown,The Original Larry's Hard Lemonade,Jerry_Brown,Chevrolet,90,running,1,33,0
+2021,B,2021_Ag-Pro_300,8,5,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,90,running,2,39,1
+2021,B,2021_Ag-Pro_300,9,10,2,usa,Myatt_Snider,Myatt Snider,Tax Slayer,Richard_Childress,Chevrolet,90,running,3,33,0
+2021,B,2021_Ag-Pro_300,10,3,20,usa,Harrison_Burton,Harrison Burton,Offerpad,Joe_Gibbs,Toyota,90,running,6,33,0
+2021,B,2021_Ag-Pro_300,11,23,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,AAN Adjusters,Tommy_Joe_Martins,Chevrolet,90,running,0,26,0
+2021,B,2021_Ag-Pro_300,12,2,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,90,running,18,33,0
+2021,B,2021_Ag-Pro_300,13,27,66,usa,Timmy_Hill,Timmy Hill,Auto Parts 4 Less,Carl_Long,Ford,90,running,0,24,0
+2021,B,2021_Ag-Pro_300,14,14,51,usa,Jeremy_Clements,Jeremy Clements,All South Electric,Jeremy_Clements,Chevrolet,90,running,0,23,0
+2021,B,2021_Ag-Pro_300,15,22,26,usa,Colin_Garrett,Colin Garrett,11/11 Project,Sam_Hunt,Toyota,90,running,0,22,0
+2021,B,2021_Ag-Pro_300,16,26,61,usa,David_Starr,David Starr,Whataburger,Shigeaki_Hattori,Toyota,90,running,0,21,0
+2021,B,2021_Ag-Pro_300,17,13,02,usa,Brett_Moffitt,Brett Moffitt,Fr8 Auctions,Chris_Our,Chevrolet,90,running,0,23,0
+2021,B,2021_Ag-Pro_300,18,20,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,90,running,0,19,0
+2021,B,2021_Ag-Pro_300,19,37,15,usa,Colby_Howard,Colby Howard,KSDT CPA,Johnny_Davis,Chevrolet,90,running,3,18,0
+2021,B,2021_Ag-Pro_300,20,32,4,usa,Landon_Cassill,Landon Cassill,JD Motorsports,Johnny_Davis,Chevrolet,90,running,0,17,0
+2021,B,2021_Ag-Pro_300,21,30,36,canada,Alex_Labbe,Alex Labbe,Prolon / Rousseau / Silver Wax,Mario_Gosselin,Chevrolet,90,running,0,16,0
+2021,B,2021_Ag-Pro_300,22,33,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Forever Lawn,Johnny_Davis,Chevrolet,90,running,0,15,0
+2021,B,2021_Ag-Pro_300,23,21,47,usa,Kyle_Weatherman,Kyle Weatherman,Big Frig / Nine Line Apparel,Mike_Harmon,Chevrolet,90,running,0,14,0
+2021,B,2021_Ag-Pro_300,24,38,23,usa,Natalie_Decker,Natalie Decker,Red Street Records / Cade Thompson,Chris_Our,Chevrolet,90,running,0,13,0
+2021,B,2021_Ag-Pro_300,25,36,5,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Toyota,90,running,0,12,0
+2021,B,2021_Ag-Pro_300,26,34,78,usa,Jesse_Little,Jesse Little,Skuttle Tight,B_J_McLeod,Chevrolet,90,running,0,11,0
+2021,B,2021_Ag-Pro_300,27,31,99,usa,Mason_Massey,Mason Massey,Special Olympics Georgia,B_J_McLeod,Toyota,90,running,0,10,0
+2021,B,2021_Ag-Pro_300,28,15,92,usa,Josh_Williams,Josh Williams,Alloy Employer Services,Mario_Gosselin,Chevrolet,90,running,0,9,0
+2021,B,2021_Ag-Pro_300,29,8,7,usa,Justin_Allgaier,Justin Allgaier,Brandt,JR_Motorsports,Chevrolet,90,running,0,18,0
+2021,B,2021_Ag-Pro_300,30,39,6,usa,Ryan_Vargas,Ryan Vargas,MaintenX,Johnny_Davis,Chevrolet,90,running,3,7,0
+2021,B,2021_Ag-Pro_300,31,6,8,usa,Josh_Berry,Josh Berry,Tire Pros,JR_Motorsports,Chevrolet,90,running,0,6,0
+2021,B,2021_Ag-Pro_300,32,12,1,usa,Michael_Annett,Michael Annett,Pilot / Flying J myRewards Plus,JR_Motorsports,Chevrolet,88,running,0,7,0
+2021,B,2021_Ag-Pro_300,33,35,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",Z Grills,Bobby_Dotter,Chevrolet,88,running,0,4,0
+2021,B,2021_Ag-Pro_300,34,24,52,usa,Gray_Gaulding,Gray Gaulding,Panini America / UFC Trading Cards,Jimmy_Means,Chevrolet,87,electrical,0,3,0
+2021,B,2021_Ag-Pro_300,35,16,54,usa,Ty_Dillon,Ty Dillon,Mobil 1,Joe_Gibbs,Toyota,87,crash,0,8,0
+2021,B,2021_Ag-Pro_300,36,29,28,usa,Joey_Gase,Joey Gase,Register Me Davey Allison Tribute,Rick_Ware,Ford,85,running,0,1,0
+2021,B,2021_Ag-Pro_300,37,7,19,usa,Brandon_Jones,Brandon Jones,Menards / Tuscany Faucets,Joe_Gibbs,Toyota,84,crash,0,11,0
+2021,B,2021_Ag-Pro_300,38,28,90,usa,Caesar_Bacarella,Caesar Bacarella,AP Sports Regimen / Maxim,Mario_Gosselin,Chevrolet,84,dvp,0,1,0
+2021,B,2021_Ag-Pro_300,39,40,13,usa,Jason_White_(1),Jason White,A-Game,Carl_Long,Ford,51,suspension,1,1,0
+2021,B,2021_Ag-Pro_300,40,25,74,usa,Bayley_Currey,Bayley Currey,Childrens National,Mike_Harmon,Chevrolet,34,overheating,0,1,0
+2021,B,2021_Steakhouse_Elite_200,1,16,7,usa,Justin_Allgaier,Justin Allgaier,Good Humor Ice Cream,JR_Motorsports,Chevrolet,148,running,10,46,5
+2021,B,2021_Steakhouse_Elite_200,2,24,8,usa,Josh_Berry,Josh Berry,Tire Pros,JR_Motorsports,Chevrolet,148,running,8,42,0
+2021,B,2021_Steakhouse_Elite_200,3,22,19,usa,Brandon_Jones,Brandon Jones,'06 NCWTS Championship,Joe_Gibbs,Toyota,148,running,0,34,0
+2021,B,2021_Steakhouse_Elite_200,4,5,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / Black Rifle Coffee,JR_Motorsports,Chevrolet,148,running,40,51,0
+2021,B,2021_Steakhouse_Elite_200,5,7,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,148,running,38,39,0
+2021,B,2021_Steakhouse_Elite_200,6,12,51,usa,Jeremy_Clements,Jeremy Clements,All South Electric,Jeremy_Clements,Chevrolet,148,running,0,31,0
+2021,B,2021_Steakhouse_Elite_200,7,20,1,usa,Michael_Annett,Michael Annett,Gatorade / Pilot / Flying J,JR_Motorsports,Chevrolet,148,running,0,35,0
+2021,B,2021_Steakhouse_Elite_200,8,13,02,usa,Brett_Moffitt,Brett Moffitt,Destiny Homes,Chris_Our,Chevrolet,148,running,0,30,0
+2021,B,2021_Steakhouse_Elite_200,9,11,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing,Rod_Sieg,Ford,148,running,0,34,0
+2021,B,2021_Steakhouse_Elite_200,10,23,36,canada,Alex_Labbe,Alex Labbe,Larue Industrial Snow Blowers,Mario_Gosselin,Chevrolet,148,running,0,27,0
+2021,B,2021_Steakhouse_Elite_200,11,8,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,148,running,12,44,1
+2021,B,2021_Steakhouse_Elite_200,12,19,4,usa,Landon_Cassill,Landon Cassill,MaintenX,Johnny_Davis,Chevrolet,148,running,0,25,0
+2021,B,2021_Steakhouse_Elite_200,13,1,16,usa,A_J_Allmendinger,A.J. Allmendinger,Hyperice,Matt_Kaulig,Chevrolet,148,running,6,37,0
+2021,B,2021_Steakhouse_Elite_200,14,4,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,148,running,0,23,0
+2021,B,2021_Steakhouse_Elite_200,15,14,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,Capital City Hauling,Tommy_Joe_Martins,Chevrolet,148,running,0,28,0
+2021,B,2021_Steakhouse_Elite_200,16,33,99,usa,Ryan_Ellis,Ryan Ellis,CorvetteParts.net / Keen Parts,B_J_McLeod,Toyota,148,running,0,21,0
+2021,B,2021_Steakhouse_Elite_200,17,17,61,usa,David_Starr,David Starr,Whataburger,Shigeaki_Hattori,Toyota,148,running,0,20,0
+2021,B,2021_Steakhouse_Elite_200,18,29,54,usa,Ty_Gibbs,Ty Gibbs,Interstate Batteries,Joe_Gibbs,Toyota,148,running,0,21,0
+2021,B,2021_Steakhouse_Elite_200,19,10,2,usa,Myatt_Snider,Myatt Snider,Tax Slayer,Richard_Childress,Chevrolet,148,running,0,22,0
+2021,B,2021_Steakhouse_Elite_200,20,3,10,usa,Jeb_Burton,Jeb Burton,Nutrien Ag Solutions,Matt_Kaulig,Chevrolet,148,running,0,22,0
+2021,B,2021_Steakhouse_Elite_200,21,36,23,usa,Tanner_Berryhill,Tanner Berryhill,Realty Connect,Chris_Our,Chevrolet,148,running,0,16,0
+2021,B,2021_Steakhouse_Elite_200,22,35,17,usa,J_J_Yeley,J.J. Yeley,Workpro,Rick_Ware,Chevrolet,148,running,0,15,0
+2021,B,2021_Steakhouse_Elite_200,23,15,66,usa,Timmy_Hill,Timmy Hill,Lift Kits 4 Less,Carl_Long,Ford,148,running,0,0,0
+2021,B,2021_Steakhouse_Elite_200,24,9,68,usa,Brandon_Brown,Brandon Brown,Brandonbilt Motorsports,Jerry_Brown,Chevrolet,148,running,0,13,0
+2021,B,2021_Steakhouse_Elite_200,25,39,74,usa,Bayley_Currey,Bayley Currey,Providing Hope VA,Mike_Harmon,Chevrolet,148,running,0,0,0
+2021,B,2021_Steakhouse_Elite_200,26,38,90,usa,B_J_McLeod,B.J. McLeod,Bucked Up Apparel,Mario_Gosselin,Chevrolet,148,running,0,0,0
+2021,B,2021_Steakhouse_Elite_200,27,34,6,usa,Ryan_Vargas,Ryan Vargas,Monarch Roofing Throwback,Johnny_Davis,Chevrolet,148,running,0,10,0
+2021,B,2021_Steakhouse_Elite_200,28,6,98,usa,Riley_Herbst,Riley Herbst,Henry Repeating Arms,Stewart_Haas_Racing,Ford,148,running,0,9,0
+2021,B,2021_Steakhouse_Elite_200,29,25,15,usa,Colby_Howard,Colby Howard,Project Hope Foundation,Johnny_Davis,Chevrolet,147,crash,0,8,0
+2021,B,2021_Steakhouse_Elite_200,30,2,22,usa,Austin_Cindric,Austin Cindric,Car Shop,Roger_Penske,Ford,147,crash,34,19,1
+2021,B,2021_Steakhouse_Elite_200,31,28,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Forever Lawn Throwback,Johnny_Davis,Chevrolet,146,running,0,6,0
+2021,B,2021_Steakhouse_Elite_200,32,31,78,usa,Jesse_Little,Jesse Little,Tufco Flooring,B_J_McLeod,Chevrolet,146,running,0,5,0
+2021,B,2021_Steakhouse_Elite_200,33,26,47,usa,Kyle_Weatherman,Kyle Weatherman,Pit Viper Sunglasses,Mike_Harmon,Chevrolet,142,running,0,4,0
+2021,B,2021_Steakhouse_Elite_200,34,40,13,usa,Matt_Jaskol,Matt Jaskol,Lift Kits 4 Less,Carl_Long,Toyota,142,running,0,3,0
+2021,B,2021_Steakhouse_Elite_200,35,18,48,usa,Jade_Buford,Jade Buford,Big Machine / All American Rcrs / Hot Wheels,Scott_Borchetta,Chevrolet,140,running,0,2,0
+2021,B,2021_Steakhouse_Elite_200,36,27,26,usa,Brandon_Gdovic,Brandon Gdovic,SnapMobile.shop,Sam_Hunt,Toyota,140,running,0,1,0
+2021,B,2021_Steakhouse_Elite_200,37,30,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",Bucked Up Energy,Bobby_Dotter,Chevrolet,132,crash,0,1,0
+2021,B,2021_Steakhouse_Elite_200,38,37,52,usa,Gray_Gaulding,Gray Gaulding,Panini America,Jimmy_Means,Chevrolet,107,crash,0,1,0
+2021,B,2021_Steakhouse_Elite_200,39,21,92,usa,Josh_Williams,Josh Williams,Starbrite / Alloy Employer,Mario_Gosselin,Chevrolet,48,suspension,0,1,0
+2021,B,2021_Steakhouse_Elite_200,40,32,5,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Chevrolet,44,crash,0,1,0
+2021,B,2021_Drydene_200,1,16,22,usa,Austin_Cindric,Austin Cindric,Car Shop,Roger_Penske,Ford,200,running,51,51,5
+2021,B,2021_Drydene_200,2,6,8,usa,Josh_Berry,Josh Berry,Tire Pros,JR_Motorsports,Chevrolet,200,running,48,54,1
+2021,B,2021_Drydene_200,3,2,7,usa,Justin_Allgaier,Justin Allgaier,Brandt,JR_Motorsports,Chevrolet,200,running,94,53,1
+2021,B,2021_Drydene_200,4,7,16,usa,A_J_Allmendinger,A.J. Allmendinger,Hyperice,Matt_Kaulig,Chevrolet,200,running,0,48,0
+2021,B,2021_Drydene_200,5,14,54,usa,Ty_Gibbs,Ty Gibbs,Joe Gibbs Racing,Joe_Gibbs,Toyota,200,running,0,38,0
+2021,B,2021_Drydene_200,6,5,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,200,running,0,44,0
+2021,B,2021_Drydene_200,7,11,1,usa,Michael_Annett,Michael Annett,Pilot / Flying J / MyRewards Plus,JR_Motorsports,Chevrolet,200,running,0,34,0
+2021,B,2021_Drydene_200,8,12,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing / A-Game,Rod_Sieg,Ford,200,running,0,31,0
+2021,B,2021_Drydene_200,9,1,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,200,running,1,28,0
+2021,B,2021_Drydene_200,10,19,68,usa,Brandon_Brown,Brandon Brown,Brandonbilt Foundations,Jerry_Brown,Chevrolet,200,running,0,27,0
+2021,B,2021_Drydene_200,11,13,10,usa,Jeb_Burton,Jeb Burton,Chevy,Matt_Kaulig,Chevrolet,200,running,0,26,0
+2021,B,2021_Drydene_200,12,8,51,usa,Jeremy_Clements,Jeremy Clements,First Pacific Funding,Jeremy_Clements,Chevrolet,200,running,0,25,0
+2021,B,2021_Drydene_200,13,10,02,usa,Brett_Moffitt,Brett Moffitt,Destiny Homes,Chris_Our,Chevrolet,199,running,0,24,0
+2021,B,2021_Drydene_200,14,31,23,usa,J_J_Yeley,J.J. Yeley,Our Motorsports,Chris_Our,Chevrolet,199,running,0,23,0
+2021,B,2021_Drydene_200,15,3,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / Black Rifle Coffee,JR_Motorsports,Chevrolet,199,running,0,32,0
+2021,B,2021_Drydene_200,16,15,2,usa,Myatt_Snider,Myatt Snider,Tax Slayer,Richard_Childress,Chevrolet,199,running,0,21,0
+2021,B,2021_Drydene_200,17,20,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,198,running,0,21,0
+2021,B,2021_Drydene_200,18,28,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Forever Lawn,Johnny_Davis,Chevrolet,198,running,0,19,0
+2021,B,2021_Drydene_200,19,18,36,canada,Alex_Labbe,Alex Labbe,Prolon / Rousseau / Silver Wax,Mario_Gosselin,Chevrolet,198,running,0,18,0
+2021,B,2021_Drydene_200,20,17,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,Gilreath Farms Red Angus,Tommy_Joe_Martins,Chevrolet,198,running,5,17,0
+2021,B,2021_Drydene_200,21,24,99,usa,B_J_McLeod,B.J. McLeod,W.F. Horn Architect,B_J_McLeod,Chevrolet,198,running,1,0,0
+2021,B,2021_Drydene_200,22,32,47,usa,Kyle_Weatherman,Kyle Weatherman,Thin Blue Line USA / Police Week 2021,Mike_Harmon,Chevrolet,198,running,0,15,0
+2021,B,2021_Drydene_200,23,27,17,usa,Cody_Ware,Cody Ware,Nurtec ODT,Rick_Ware,Chevrolet,197,running,0,14,0
+2021,B,2021_Drydene_200,24,26,74,usa,Bayley_Currey,Bayley Currey,Crafty One Customs,Mike_Harmon,Chevrolet,196,running,0,0,0
+2021,B,2021_Drydene_200,25,37,6,usa,Landon_Cassill,Landon Cassill,Drydene,Johnny_Davis,Chevrolet,196,running,0,12,0
+2021,B,2021_Drydene_200,26,23,4,usa,Ryan_Vargas,Ryan Vargas,Drydene,Johnny_Davis,Chevrolet,195,running,0,11,0
+2021,B,2021_Drydene_200,27,39,5,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Toyota,195,running,0,10,0
+2021,B,2021_Drydene_200,28,25,15,usa,Colby_Howard,Colby Howard,Project Hope Foundation,Johnny_Davis,Chevrolet,194,running,0,9,0
+2021,B,2021_Drydene_200,29,36,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",Z Grills,Bobby_Dotter,Chevrolet,193,running,0,8,0
+2021,B,2021_Drydene_200,30,22,66,usa,Timmy_Hill,Timmy Hill,Alarm Tech Systems,Carl_Long,Toyota,193,running,0,0,0
+2021,B,2021_Drydene_200,31,40,52,usa,Gray_Gaulding,Gray Gaulding,Panini,Jimmy_Means,Chevrolet,192,running,0,6,0
+2021,B,2021_Drydene_200,32,30,26,usa,John_Hunter_Nemechek,John Hunter Nemechek,Acme,Sam_Hunt,Toyota,182,running,0,0,0
+2021,B,2021_Drydene_200,33,34,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,155,engine,0,4,0
+2021,B,2021_Drydene_200,34,35,90,usa,Kyle_Sieg,Kyle Sieg,Independent Metal Strap,Rod_Sieg,Ford,83,crash,0,3,0
+2021,B,2021_Drydene_200,35,4,19,usa,Brandon_Jones,Brandon Jones,Menards / Pelonis,Joe_Gibbs,Toyota,68,crash,0,8,0
+2021,B,2021_Drydene_200,36,9,11,usa,Zane_Smith,Zane Smith,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,67,crash,0,0,0
+2021,B,2021_Drydene_200,37,33,78,usa,Jesse_Little,Jesse Little,Apex Wireless,B_J_McLeod,Chevrolet,57,crash,0,1,0
+2021,B,2021_Drydene_200,38,29,92,usa,Josh_Williams,Josh Williams,Alloy Employer Services,Mario_Gosselin,Chevrolet,57,crash,0,1,0
+2021,B,2021_Drydene_200,39,38,13,usa,Matt_Jaskol,Matt Jaskol,Auto Parts 4 Less,Carl_Long,Toyota,56,crash,0,1,0
+2021,B,2021_Drydene_200,40,21,61,usa,David_Starr,David Starr,Brett Baier Special Report,Shigeaki_Hattori,Toyota,18,overheating,0,1,0
+2021,B,2021_Pit_Boss_250,1,1,54,usa,Kyle_Busch,Kyle Busch,Skittles Gummies,Joe_Gibbs,Toyota,46,running,35,0,0
+2021,B,2021_Pit_Boss_250,2,7,16,usa,A_J_Allmendinger,A.J. Allmendinger,Pit Boss Grills,Matt_Kaulig,Chevrolet,46,running,3,48,1
+2021,B,2021_Pit_Boss_250,3,9,7,usa,Justin_Allgaier,Justin Allgaier,Brandt,JR_Motorsports,Chevrolet,46,running,3,43,0
+2021,B,2021_Pit_Boss_250,4,12,5,usa,Kevin_Harvick,Kevin Harvick,Rush Truck Centers,B_J_McLeod,Ford,46,running,0,0,0
+2021,B,2021_Pit_Boss_250,5,8,22,usa,Austin_Cindric,Austin Cindric,Menards / Richmond,Roger_Penske,Ford,46,running,2,34,0
+2021,B,2021_Pit_Boss_250,6,10,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,46,running,0,31,0
+2021,B,2021_Pit_Boss_250,7,3,17,usa,Cole_Custer,Cole Custer,Production Alliance Group,Rick_Ware,Ford,46,running,0,0,0
+2021,B,2021_Pit_Boss_250,8,5,31,usa,Tyler_Reddick,Tyler Reddick,Bommarito Automotive Group,Jordan_Anderson,Chevrolet,46,running,0,0,0
+2021,B,2021_Pit_Boss_250,9,6,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,46,running,3,38,1
+2021,B,2021_Pit_Boss_250,10,11,10,usa,Jeb_Burton,Jeb Burton,Nutrien Ag Solutions,Matt_Kaulig,Chevrolet,46,running,0,27,0
+2021,B,2021_Pit_Boss_250,11,35,1,usa,Michael_Annett,Michael Annett,Pilot / Flying J / myRewards Plus,JR_Motorsports,Chevrolet,46,running,0,35,0
+2021,B,2021_Pit_Boss_250,12,21,02,usa,Brett_Moffitt,Brett Moffitt,Sokal,Chris_Our,Chevrolet,46,running,0,25,0
+2021,B,2021_Pit_Boss_250,13,17,77,usa,Austin_Dillon,Austin Dillon,Maestro's Classic,Ronnie_Bassett_Jr,Chevrolet,46,running,0,0,0
+2021,B,2021_Pit_Boss_250,14,22,91,usa,Preston_Pardus,Preston Pardus,Chinchor Electric / Danus Utilities,Mario_Gosselin,Chevrolet,46,running,0,23,0
+2021,B,2021_Pit_Boss_250,15,18,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,46,running,0,30,0
+2021,B,2021_Pit_Boss_250,16,29,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,46,running,0,21,0
+2021,B,2021_Pit_Boss_250,17,19,19,usa,Brandon_Jones,Brandon Jones,YeeYee,Joe_Gibbs,Toyota,46,running,0,28,0
+2021,B,2021_Pit_Boss_250,18,13,23,usa,Andy_Lally,Andy Lally,The A Team / MFI Fantasy Racing,Chris_Our,Chevrolet,46,running,0,26,0
+2021,B,2021_Pit_Boss_250,19,16,6,usa,Spencer_Pumpelly,Spencer Pumpelly,Fast Life / Grid Rival,Johnny_Davis,Chevrolet,46,running,0,18,0
+2021,B,2021_Pit_Boss_250,20,4,36,canada,Alex_Labbe,Alex Labbe,Can-Am,Mario_Gosselin,Chevrolet,46,running,0,17,0
+2021,B,2021_Pit_Boss_250,21,23,2,usa,Myatt_Snider,Myatt Snider,Louisiana Hot Sauce,Richard_Childress,Chevrolet,46,running,0,16,0
+2021,B,2021_Pit_Boss_250,22,30,4,usa,Landon_Cassill,Landon Cassill,Voyager,Johnny_Davis,Chevrolet,46,running,0,15,0
+2021,B,2021_Pit_Boss_250,23,33,51,usa,Jeremy_Clements,Jeremy Clements,One Stop / ASE,Jeremy_Clements,Chevrolet,46,running,0,25,0
+2021,B,2021_Pit_Boss_250,24,31,99,usa,Ryan_Ellis,Ryan Ellis,CorvetteParts.net / Keen Parts,B_J_McLeod,Toyota,46,running,0,13,0
+2021,B,2021_Pit_Boss_250,25,34,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing / A-Game,Rod_Sieg,Ford,46,running,0,12,0
+2021,B,2021_Pit_Boss_250,26,14,68,usa,Brandon_Brown,Brandon Brown,Good Sam Club,Jerry_Brown,Chevrolet,46,running,0,11,0
+2021,B,2021_Pit_Boss_250,27,25,52,usa,Gray_Gaulding,Gray Gaulding,Panini America,Jimmy_Means,Chevrolet,46,running,0,10,0
+2021,B,2021_Pit_Boss_250,28,27,15,usa,Colby_Howard,Colby Howard,Project Hope Foundation,Johnny_Davis,Chevrolet,46,running,0,10,0
+2021,B,2021_Pit_Boss_250,29,26,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,46,running,0,8,0
+2021,B,2021_Pit_Boss_250,30,2,07,usa,Ross_Chastain,Ross Chastain,G Coin,Bobby_Dotter,Chevrolet,36,running,0,0,0
+2021,B,2021_Pit_Boss_250,31,24,13,usa,Boris_Said,Boris Said,Whataburger,Carl_Long,Toyota,35,running,0,6,0
+2021,B,2021_Pit_Boss_250,32,36,26,usa,Kris_Wright,Kris Wright,Discus / Boot the Ban,Sam_Hunt,Toyota,29,engine,0,0,0
+2021,B,2021_Pit_Boss_250,33,28,66,usa,Timmy_Hill,Timmy Hill,CrashClaimsR.us,Carl_Long,Toyota,29,engine,0,0,0
+2021,B,2021_Pit_Boss_250,34,15,8,brazil,Miguel_Paludo,Miguel Paludo,Brandt,JR_Motorsports,Chevrolet,25,rear gear,0,4,0
+2021,B,2021_Pit_Boss_250,35,32,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,Diamond Gusset Jeans,Tommy_Joe_Martins,Chevrolet,19,engine,0,2,0
+2021,B,2021_Pit_Boss_250,36,20,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / Black Rifle Coffee,JR_Motorsports,Chevrolet,13,engine,0,1,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,1,8,54,usa,Ty_Gibbs,Ty Gibbs,Joe Gibbs Racing,Joe_Gibbs,Toyota,200,running,20,51,5
+2021,B,2021_Alsco_Uniforms_300_%28May%29,2,4,22,usa,Austin_Cindric,Austin Cindric,Carquest Auto Parts,Roger_Penske,Ford,200,running,2,49,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,3,13,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,200,running,0,42,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,4,32,68,usa,Brandon_Brown,Brandon Brown,Midwest Construction,Jerry_Brown,Chevrolet,200,running,0,33,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,5,16,31,usa,Tyler_Reddick,Tyler Reddick,Bommarito Automotive Group,Jordan_Anderson,Chevrolet,200,running,0,0,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,6,2,99,usa,Chase_Briscoe,Chase Briscoe,Production Alliance Group,B_J_McLeod,Ford,200,running,60,0,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,7,10,23,usa,Ty_Dillon,Ty Dillon,"Gunbroker.com / Ammo, Inc.",Chris_Our,Chevrolet,200,running,0,30,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,8,14,19,usa,Brandon_Jones,Brandon Jones,Menards / Fisher,Joe_Gibbs,Toyota,200,running,0,30,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,9,9,10,usa,Jeb_Burton,Jeb Burton,Nutrien Ag Solutions,Matt_Kaulig,Chevrolet,200,running,0,38,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,10,6,51,usa,Jeremy_Clements,Jeremy Clements,Fire Wall Signs / Absolute Wall,Jeremy_Clements,Chevrolet,200,running,0,27,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,11,26,7,usa,Justin_Allgaier,Justin Allgaier,"Unilever ""United for America""",JR_Motorsports,Chevrolet,200,running,0,28,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,12,1,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,200,running,7,25,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,13,28,6,usa,Landon_Cassill,Landon Cassill,Solomon Plumbing,Johnny_Davis,Chevrolet,200,running,0,24,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,14,33,36,canada,Alex_Labbe,Alex Labbe,Larue Industrial Snowblowers,Mario_Gosselin,Chevrolet,200,running,0,23,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,15,22,13,usa,Chad_Finchum,Chad Finchum,Coble Enterprises,Carl_Long,Toyota,200,running,0,22,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,16,20,4,usa,Ryan_Vargas,Ryan Vargas,Swann Security / Best Buy,Johnny_Davis,Chevrolet,200,running,0,21,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,17,25,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,200,running,0,20,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,18,30,78,usa,Jesse_Little,Jesse Little,Tufco Flooring,B_J_McLeod,Toyota,200,running,0,19,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,19,11,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,200,running,0,18,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,20,31,17,usa,Cody_Ware,Cody Ware,Nurtec ODT,Rick_Ware,Toyota,200,running,0,17,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,21,34,92,usa,Josh_Williams,Josh Williams,Alloy Employer Services,Mario_Gosselin,Chevrolet,199,running,0,16,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,22,17,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Forever Lawn,Johnny_Davis,Chevrolet,199,running,0,15,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,23,21,76,usa,Stefan_Parsons,Stefan Parsons,Sokal Digital,B_J_McLeod,Chevrolet,199,running,0,14,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,24,19,1,usa,Michael_Annett,Michael Annett,Pilot / Flying J / myRewards Plus,JR_Motorsports,Chevrolet,199,running,0,13,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,25,15,02,usa,Brett_Moffitt,Brett Moffitt,Good Sam,Chris_Our,Chevrolet,198,running,0,12,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,26,7,2,usa,Myatt_Snider,Myatt Snider,Tax Slayer,Richard_Childress,Chevrolet,196,running,0,11,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,27,23,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / Black Rifle Coffee,JR_Motorsports,Chevrolet,187,crash,0,22,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,28,3,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,186,crash,105,29,2
+2021,B,2021_Alsco_Uniforms_300_%28May%29,29,27,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,Super Mega,Tommy_Joe_Martins,Chevrolet,186,crash,0,8,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,30,29,15,usa,Colby_Howard,Colby Howard,Linder,Johnny_Davis,Chevrolet,184,running,0,7,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,31,12,39,usa,Ryan_Sieg,Ryan Sieg,CMR Roofing & Construction / A-Game,Rod_Sieg,Ford,151,crash,4,8,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,32,18,8,usa,Josh_Berry,Josh Berry,Tire Pros,JR_Motorsports,Chevrolet,150,crash,0,5,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,33,5,16,usa,A_J_Allmendinger,A.J. Allmendinger,Hyperice,Matt_Kaulig,Chevrolet,128,brakes,2,22,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,34,36,66,usa,Timmy_Hill,Timmy Hill,Carl Long,Carl_Long,Toyota,114,engine,0,0,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,35,24,5,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Chevrolet,103,crash,0,2,0
+2021,B,2021_Alsco_Uniforms_300_%28May%29,36,35,26,usa,Grant_Enfinger,Grant Enfinger,Snap Mobile,Sam_Hunt,Toyota,26,crash,0,0,0
+2021,B,2021_B_and_L_Transport_170,1,12,16,usa,A_J_Allmendinger,A.J. Allmendinger,Ramco Specialties,Matt_Kaulig,Chevrolet,78,running,23,50,6
+2021,B,2021_B_and_L_Transport_170,2,10,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,78,running,7,53,1
+2021,B,2021_B_and_L_Transport_170,3,2,54,usa,Ty_Gibbs,Ty Gibbs,Joe Gibbs Racing,Joe_Gibbs,Toyota,78,running,16,34,0
+2021,B,2021_B_and_L_Transport_170,4,7,19,usa,Brandon_Jones,Brandon Jones,Menards / Swiffer,Joe_Gibbs,Toyota,78,running,0,47,0
+2021,B,2021_B_and_L_Transport_170,5,27,23,usa,Andy_Lally,Andy Lally,UCC / Energy Air,Chris_Our,Chevrolet,78,running,0,32,0
+2021,B,2021_B_and_L_Transport_170,6,6,68,usa,Brandon_Brown,Brandon Brown,The Original Larry's Hard Lemonade,Jerry_Brown,Chevrolet,78,running,0,34,0
+2021,B,2021_B_and_L_Transport_170,7,15,1,usa,Michael_Annett,Michael Annett,Pilot / Flying J / Summer is a Go,JR_Motorsports,Chevrolet,78,running,0,34,0
+2021,B,2021_B_and_L_Transport_170,8,31,31,usa,Josh_Berry,Josh Berry,Bommarito Automotive Group,Jordan_Anderson,Chevrolet,78,running,0,29,0
+2021,B,2021_B_and_L_Transport_170,9,23,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing / A-Game,Rod_Sieg,Ford,78,running,2,28,0
+2021,B,2021_B_and_L_Transport_170,10,24,92,usa,Josh_Williams,Josh Williams,Alloy Employer Services,Mario_Gosselin,Chevrolet,78,running,0,27,0
+2021,B,2021_B_and_L_Transport_170,11,16,36,canada,Alex_Labbe,Alex Labbe,Prolon Controls / Rousseau / Silver Wax,Mario_Gosselin,Chevrolet,78,running,0,34,0
+2021,B,2021_B_and_L_Transport_170,12,11,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,78,running,0,25,0
+2021,B,2021_B_and_L_Transport_170,13,19,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,78,running,0,24,0
+2021,B,2021_B_and_L_Transport_170,14,1,22,usa,Austin_Cindric,Austin Cindric,PPG,Roger_Penske,Ford,78,running,30,38,0
+2021,B,2021_B_and_L_Transport_170,15,21,17,usa,Cody_Ware,Cody Ware,Nurtec ODT,Rick_Ware,Ford,78,running,0,22,0
+2021,B,2021_B_and_L_Transport_170,16,4,10,usa,Jeb_Burton,Jeb Burton,Rocky Boots,Matt_Kaulig,Chevrolet,78,running,0,36,0
+2021,B,2021_B_and_L_Transport_170,17,40,52,usa,Gray_Gaulding,Gray Gaulding,SVS Vision,Jimmy_Means,Chevrolet,78,running,0,20,0
+2021,B,2021_B_and_L_Transport_170,18,17,4,usa,Ryan_Vargas,Ryan Vargas,Celebrating Makenna Karmie,Johnny_Davis,Chevrolet,78,running,0,19,0
+2021,B,2021_B_and_L_Transport_170,19,34,66,usa,Matt_Jaskol,Matt Jaskol,Auto Parts 4 Less,Carl_Long,Toyota,78,running,0,18,0
+2021,B,2021_B_and_L_Transport_170,20,20,6,usa,Landon_Cassill,Landon Cassill,Jarrett Logistics,Johnny_Davis,Chevrolet,78,running,0,17,0
+2021,B,2021_B_and_L_Transport_170,21,9,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,78,running,0,27,0
+2021,B,2021_B_and_L_Transport_170,22,30,15,usa,Colby_Howard,Colby Howard,Project Hope Foundation,Johnny_Davis,Chevrolet,78,running,0,15,0
+2021,B,2021_B_and_L_Transport_170,23,32,5,usa,Matt_Mills,Matt Mills,Thompson Electric / J.F. Electric,B_J_McLeod,Toyota,78,running,0,14,0
+2021,B,2021_B_and_L_Transport_170,24,22,78,usa,Jesse_Little,Jesse Little,Shriners Hospitals for Children,B_J_McLeod,Chevrolet,78,running,0,13,0
+2021,B,2021_B_and_L_Transport_170,25,39,90,usa,Preston_Pardus,Preston Pardus,Chinchor Electric / Danus Utilities,Mario_Gosselin,Chevrolet,78,running,0,12,0
+2021,B,2021_B_and_L_Transport_170,26,35,47,usa,Kyle_Weatherman,Kyle Weatherman,Beau's Beautiful Blessings,Mike_Harmon,Chevrolet,78,running,0,11,0
+2021,B,2021_B_and_L_Transport_170,27,29,8,brazil,Miguel_Paludo,Miguel Paludo,Brandt,JR_Motorsports,Chevrolet,78,running,0,10,0
+2021,B,2021_B_and_L_Transport_170,28,28,99,usa,Ryan_Ellis,Ryan Ellis,Good Sam / CorvetteParts.Net,B_J_McLeod,Toyota,78,running,0,10,0
+2021,B,2021_B_and_L_Transport_170,29,14,2,usa,Myatt_Snider,Myatt Snider,Louisiana Hot Sauce,Richard_Childress,Chevrolet,78,running,0,12,0
+2021,B,2021_B_and_L_Transport_170,30,37,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",G Coin,Bobby_Dotter,Chevrolet,77,running,0,7,0
+2021,B,2021_B_and_L_Transport_170,31,18,02,usa,Brett_Moffitt,Brett Moffitt,Our Motorsports,Chris_Our,Chevrolet,75,fuel pump,0,6,0
+2021,B,2021_B_and_L_Transport_170,32,33,26,usa,Kris_Wright,Kris Wright,America's Auto Auction,Sam_Hunt,Toyota,71,crash,0,0,0
+2021,B,2021_B_and_L_Transport_170,33,8,51,usa,Jeremy_Clements,Jeremy Clements,First Pacific Funding,Jeremy_Clements,Chevrolet,68,running,0,5,0
+2021,B,2021_B_and_L_Transport_170,34,26,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Forever Lawn,Johnny_Davis,Chevrolet,68,running,0,3,0
+2021,B,2021_B_and_L_Transport_170,35,5,7,usa,Justin_Allgaier,Justin Allgaier,Brandt,JR_Motorsports,Chevrolet,67,running,0,8,0
+2021,B,2021_B_and_L_Transport_170,36,36,61,usa,David_Starr,David Starr,Rad Air Complete Car Care,Shigeaki_Hattori,Toyota,66,running,0,1,0
+2021,B,2021_B_and_L_Transport_170,37,38,74,usa,Bayley_Currey,Bayley Currey,Belmont Classic Cars,Mike_Harmon,Chevrolet,30,electrical,0,0,0
+2021,B,2021_B_and_L_Transport_170,38,3,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,19,crash,0,1,0
+2021,B,2021_B_and_L_Transport_170,39,25,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,Gilreath Farms Red Angus,Tommy_Joe_Martins,Chevrolet,7,engine,0,1,0
+2021,B,2021_B_and_L_Transport_170,40,13,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / Black Rifle Coffee,JR_Motorsports,Chevrolet,0,crash,0,1,0
+2021,B,2021_Alsco_Uniforms_250,1,14,54,usa,Kyle_Busch,Kyle Busch,Twix,Joe_Gibbs,Toyota,171,running,94,0,0
+2021,B,2021_Alsco_Uniforms_250,2,16,7,usa,Justin_Allgaier,Justin Allgaier,Dollar Shave Club / Unilever,JR_Motorsports,Chevrolet,171,running,23,44,0
+2021,B,2021_Alsco_Uniforms_250,3,4,22,usa,Austin_Cindric,Austin Cindric,Odyssey Battery,Roger_Penske,Ford,171,running,14,52,1
+2021,B,2021_Alsco_Uniforms_250,4,5,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,171,running,13,51,0
+2021,B,2021_Alsco_Uniforms_250,5,3,19,usa,Brandon_Jones,Brandon Jones,Menards / Pelonis,Joe_Gibbs,Toyota,171,running,16,39,0
+2021,B,2021_Alsco_Uniforms_250,6,1,16,usa,A_J_Allmendinger,A.J. Allmendinger,Hyperice,Matt_Kaulig,Chevrolet,171,running,8,40,0
+2021,B,2021_Alsco_Uniforms_250,7,30,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / Black Rifle Coffee,JR_Motorsports,Chevrolet,171,running,0,37,0
+2021,B,2021_Alsco_Uniforms_250,8,19,02,usa,Brett_Moffitt,Brett Moffitt,Our Motorsports,Chris_Our,Chevrolet,171,running,0,29,0
+2021,B,2021_Alsco_Uniforms_250,9,2,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,171,running,1,34,0
+2021,B,2021_Alsco_Uniforms_250,10,6,1,usa,Michael_Annett,Michael Annett,Pilot / Flying J,JR_Motorsports,Chevrolet,171,running,0,31,0
+2021,B,2021_Alsco_Uniforms_250,11,9,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing / A-Game,Rod_Sieg,Ford,171,running,0,26,0
+2021,B,2021_Alsco_Uniforms_250,12,12,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,171,running,0,27,0
+2021,B,2021_Alsco_Uniforms_250,13,7,68,usa,Brandon_Brown,Brandon Brown,Brandonbilt Motorsports,Jerry_Brown,Chevrolet,171,running,0,24,0
+2021,B,2021_Alsco_Uniforms_250,14,20,51,usa,Jeremy_Clements,Jeremy Clements,Straitline,Jeremy_Clements,Chevrolet,171,running,0,23,0
+2021,B,2021_Alsco_Uniforms_250,15,22,6,usa,Landon_Cassill,Landon Cassill,Solomon Plumbing,Johnny_Davis,Chevrolet,171,running,0,22,0
+2021,B,2021_Alsco_Uniforms_250,16,13,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,171,running,0,21,0
+2021,B,2021_Alsco_Uniforms_250,17,11,92,usa,Josh_Williams,Josh Williams,Alloy Employer Services / Required Team Gear,Mario_Gosselin,Chevrolet,171,running,0,20,0
+2021,B,2021_Alsco_Uniforms_250,18,10,36,canada,Alex_Labbe,Alex Labbe,Larue Industrial Snowblowers,Mario_Gosselin,Chevrolet,171,running,0,19,0
+2021,B,2021_Alsco_Uniforms_250,19,28,8,usa,Josh_Berry,Josh Berry,Tire Pros,JR_Motorsports,Chevrolet,171,running,0,21,0
+2021,B,2021_Alsco_Uniforms_250,20,31,66,usa,David_Starr,David Starr,Whataburger,Carl_Long,Toyota,171,running,0,17,0
+2021,B,2021_Alsco_Uniforms_250,21,36,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,Discover Denton Texas,Tommy_Joe_Martins,Chevrolet,171,running,0,16,0
+2021,B,2021_Alsco_Uniforms_250,22,38,90,usa,"Ronnie_Bassett,_Jr","Ronnie Bassett, Jr.",Jerry Hunt Supercenter / East Coast Wings,Mario_Gosselin,Chevrolet,171,running,0,15,0
+2021,B,2021_Alsco_Uniforms_250,23,34,26,usa,Brandon_Gdovic,Brandon Gdovic,Snap Mobile,Sam_Hunt,Toyota,171,running,0,14,0
+2021,B,2021_Alsco_Uniforms_250,24,15,4,usa,Ryan_Vargas,Ryan Vargas,Swann Security / Best Buy,Johnny_Davis,Chevrolet,171,running,0,13,0
+2021,B,2021_Alsco_Uniforms_250,25,27,17,usa,Garrett_Smithley,Garrett Smithley,Trophy Tractor,Rick_Ware,Chevrolet,171,running,0,12,0
+2021,B,2021_Alsco_Uniforms_250,26,24,5,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Toyota,171,running,0,11,0
+2021,B,2021_Alsco_Uniforms_250,27,40,61,usa,Matt_Jaskol,Matt Jaskol,Auto Parts 4 Less,Shigeaki_Hattori,Toyota,168,running,0,10,0
+2021,B,2021_Alsco_Uniforms_250,28,26,15,usa,Colby_Howard,Colby Howard,Project Hope Foundation,Johnny_Davis,Chevrolet,167,running,0,9,0
+2021,B,2021_Alsco_Uniforms_250,29,25,78,usa,Jesse_Little,Jesse Little,Apex Wireless,B_J_McLeod,Chevrolet,166,running,0,8,0
+2021,B,2021_Alsco_Uniforms_250,30,18,20,usa,Harrison_Burton,Harrison Burton,Offerpad,Joe_Gibbs,Toyota,163,crash,2,16,0
+2021,B,2021_Alsco_Uniforms_250,31,35,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",G Coin,Bobby_Dotter,Chevrolet,162,running,0,6,0
+2021,B,2021_Alsco_Uniforms_250,32,8,10,usa,Jeb_Burton,Jeb Burton,Titan XC,Matt_Kaulig,Chevrolet,159,running,0,5,0
+2021,B,2021_Alsco_Uniforms_250,33,17,2,usa,Myatt_Snider,Myatt Snider,Tax Slayer,Richard_Childress,Chevrolet,156,crash,0,4,0
+2021,B,2021_Alsco_Uniforms_250,34,32,31,usa,Jordan_Anderson,Jordan Anderson,Bommarito Automotive Group,Jordan_Anderson,Chevrolet,120,running,0,0,0
+2021,B,2021_Alsco_Uniforms_250,35,37,99,usa,Stefan_Parsons,Stefan Parsons,Sokal Digital,B_J_McLeod,Chevrolet,110,crash,0,2,0
+2021,B,2021_Alsco_Uniforms_250,36,33,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Forever Lawn,Johnny_Davis,Chevrolet,107,crash,0,1,0
+2021,B,2021_Alsco_Uniforms_250,37,29,47,usa,Kyle_Weatherman,Kyle Weatherman,Duke & Boone Hunting Supply,Mike_Harmon,Chevrolet,100,fuel pump,0,1,0
+2021,B,2021_Alsco_Uniforms_250,38,23,52,usa,Gray_Gaulding,Gray Gaulding,Panini America,Jimmy_Means,Chevrolet,89,crash,0,1,0
+2021,B,2021_Alsco_Uniforms_250,39,21,23,usa,Tanner_Berryhill,Tanner Berryhill,Eclipse Claims Consulting,Chris_Our,Chevrolet,88,crash,0,1,0
+2021,B,2021_Alsco_Uniforms_250,40,39,74,usa,Bayley_Currey,Bayley Currey,Electric Fence Reel,Mike_Harmon,Chevrolet,0,electrical,0,0,0
+2021,B,2021_Tennessee_Lottery_250,1,1,54,usa,Kyle_Busch,Kyle Busch,M&M's,Joe_Gibbs,Toyota,189,running,122,0,0
+2021,B,2021_Tennessee_Lottery_250,2,11,7,usa,Justin_Allgaier,Justin Allgaier,Unilever / Dollar General LF,JR_Motorsports,Chevrolet,189,running,11,50,0
+2021,B,2021_Tennessee_Lottery_250,3,3,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,189,running,0,48,0
+2021,B,2021_Tennessee_Lottery_250,4,22,8,usa,Josh_Berry,Josh Berry,iRacing,JR_Motorsports,Chevrolet,189,running,0,40,0
+2021,B,2021_Tennessee_Lottery_250,5,5,16,usa,A_J_Allmendinger,A.J. Allmendinger,Hyperice,Matt_Kaulig,Chevrolet,189,running,0,36,0
+2021,B,2021_Tennessee_Lottery_250,6,7,19,usa,Brandon_Jones,Brandon Jones,Menards / Delta Faucets,Joe_Gibbs,Toyota,189,running,0,40,0
+2021,B,2021_Tennessee_Lottery_250,7,6,10,usa,Jeb_Burton,Jeb Burton,Nutrien Ag Solutions,Matt_Kaulig,Chevrolet,189,running,0,33,0
+2021,B,2021_Tennessee_Lottery_250,8,10,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / Black Rifle Coffee,JR_Motorsports,Chevrolet,189,running,2,30,0
+2021,B,2021_Tennessee_Lottery_250,9,15,61,usa,Austin_Hill,Austin Hill,AISIN,Shigeaki_Hattori,Toyota,189,running,0,0,0
+2021,B,2021_Tennessee_Lottery_250,10,20,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,189,running,0,27,0
+2021,B,2021_Tennessee_Lottery_250,11,23,51,usa,Jeremy_Clements,Jeremy Clements,All South Electric,Jeremy_Clements,Chevrolet,189,running,0,26,0
+2021,B,2021_Tennessee_Lottery_250,12,21,1,usa,Michael_Annett,Michael Annett,Pilot / Flying J,JR_Motorsports,Chevrolet,189,running,0,31,0
+2021,B,2021_Tennessee_Lottery_250,13,4,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,189,running,1,40,0
+2021,B,2021_Tennessee_Lottery_250,14,14,26,usa,Will_Rodgers,Will Rodgers,Good RX,Sam_Hunt,Toyota,189,running,0,23,0
+2021,B,2021_Tennessee_Lottery_250,15,17,31,usa,Tyler_Reddick,Tyler Reddick,Bommarito Automotive Group,Jordan_Anderson,Chevrolet,189,running,0,0,0
+2021,B,2021_Tennessee_Lottery_250,16,13,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing / A-Game,Rod_Sieg,Ford,189,running,0,21,0
+2021,B,2021_Tennessee_Lottery_250,17,29,36,canada,Alex_Labbe,Alex Labbe,Ripper Magoos / Fanatics,Mario_Gosselin,Chevrolet,189,running,0,20,0
+2021,B,2021_Tennessee_Lottery_250,18,28,6,usa,Ryan_Vargas,Ryan Vargas,MaintenX,Johnny_Davis,Chevrolet,189,running,0,19,0
+2021,B,2021_Tennessee_Lottery_250,19,12,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,189,running,0,20,0
+2021,B,2021_Tennessee_Lottery_250,20,19,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,AAN Adjusters,Tommy_Joe_Martins,Chevrolet,189,running,0,17,0
+2021,B,2021_Tennessee_Lottery_250,21,26,92,usa,Josh_Williams,Josh Williams,Peg Leg Porker,Mario_Gosselin,Chevrolet,189,running,0,16,0
+2021,B,2021_Tennessee_Lottery_250,22,31,07,usa,J_J_Yeley,J.J. Yeley,Smart Sanitizer,Bobby_Dotter,Chevrolet,189,running,0,15,0
+2021,B,2021_Tennessee_Lottery_250,23,18,02,usa,Brett_Moffitt,Brett Moffitt,Our Motorsports,Chris_Our,Chevrolet,188,running,0,14,0
+2021,B,2021_Tennessee_Lottery_250,24,34,66,usa,David_Starr,David Starr,Whataburger,Carl_Long,Toyota,187,running,0,13,0
+2021,B,2021_Tennessee_Lottery_250,25,32,5,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Chevrolet,187,running,0,12,0
+2021,B,2021_Tennessee_Lottery_250,26,36,23,usa,Natalie_Decker,Natalie Decker,Red Street Records,Chris_Our,Chevrolet,187,running,0,11,0
+2021,B,2021_Tennessee_Lottery_250,27,35,78,usa,Jesse_Little,Jesse Little,Shriners Hospitals for Children,B_J_McLeod,Toyota,187,running,0,10,0
+2021,B,2021_Tennessee_Lottery_250,28,27,47,usa,Kyle_Weatherman,Kyle Weatherman,Replenish Foundation,Mike_Harmon,Chevrolet,187,running,0,9,0
+2021,B,2021_Tennessee_Lottery_250,29,25,4,usa,Landon_Cassill,Landon Cassill,Voyager,Johnny_Davis,Chevrolet,182,crash,0,8,0
+2021,B,2021_Tennessee_Lottery_250,30,30,74,usa,Bayley_Currey,Bayley Currey,Reel,Mike_Harmon,Chevrolet,177,running,0,0,0
+2021,B,2021_Tennessee_Lottery_250,31,8,2,usa,Myatt_Snider,Myatt Snider,Crosley Furniture,Richard_Childress,Chevrolet,165,running,0,7,0
+2021,B,2021_Tennessee_Lottery_250,32,2,22,usa,Austin_Cindric,Austin Cindric,Car Shop,Roger_Penske,Ford,160,crash,53,18,1
+2021,B,2021_Tennessee_Lottery_250,33,9,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,153,crash,0,4,0
+2021,B,2021_Tennessee_Lottery_250,34,33,17,usa,Joe_Graf_Jr,"Joe Graf, Jr.",G Coin,Bobby_Dotter,Chevrolet,152,crash,0,3,0
+2021,B,2021_Tennessee_Lottery_250,35,16,68,usa,Brandon_Brown,Brandon Brown,KickinTheTires.net / Brandon Davis Music,Jerry_Brown,Chevrolet,140,brakes,0,2,0
+2021,B,2021_Tennessee_Lottery_250,36,24,99,usa,Stefan_Parsons,Stefan Parsons,Springrates / Dogecoin,B_J_McLeod,Toyota,69,crash,0,1,0
+2021,B,2021_Pocono_Green_225,1,13,22,usa,Austin_Cindric,Austin Cindric,Car Shop,Roger_Penske,Ford,90,running,26,52,5
+2021,B,2021_Pocono_Green_225,2,14,54,usa,Ty_Gibbs,Ty Gibbs,Joe Gibbs Racing,Joe_Gibbs,Toyota,90,running,11,50,1
+2021,B,2021_Pocono_Green_225,3,2,7,usa,Justin_Allgaier,Justin Allgaier,Hellmann's 100% Recycled,JR_Motorsports,Chevrolet,90,running,10,43,0
+2021,B,2021_Pocono_Green_225,4,7,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / Black Rifle Coffee,JR_Motorsports,Chevrolet,90,running,1,46,0
+2021,B,2021_Pocono_Green_225,5,3,16,usa,A_J_Allmendinger,A.J. Allmendinger,Hyperice,Matt_Kaulig,Chevrolet,90,running,0,41,0
+2021,B,2021_Pocono_Green_225,6,6,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,90,running,18,40,0
+2021,B,2021_Pocono_Green_225,7,4,19,usa,Brandon_Jones,Brandon Jones,Menards / Pelonis,Joe_Gibbs,Toyota,90,running,0,38,0
+2021,B,2021_Pocono_Green_225,8,5,10,usa,Jeb_Burton,Jeb Burton,Chevy,Matt_Kaulig,Chevrolet,90,running,0,36,0
+2021,B,2021_Pocono_Green_225,9,33,31,usa,Josh_Berry,Josh Berry,Bommarito Automotive Group,Jordan_Anderson,Chevrolet,90,running,0,31,0
+2021,B,2021_Pocono_Green_225,10,19,2,usa,Myatt_Snider,Myatt Snider,Crosley Furniture,Richard_Childress,Chevrolet,90,running,0,34,0
+2021,B,2021_Pocono_Green_225,11,17,02,usa,Brett_Moffitt,Brett Moffitt,Sokal,Chris_Our,Chevrolet,90,running,0,26,0
+2021,B,2021_Pocono_Green_225,12,8,1,usa,Michael_Annett,Michael Annett,Pilot / Flying J,JR_Motorsports,Chevrolet,90,running,0,25,0
+2021,B,2021_Pocono_Green_225,13,9,51,usa,Jeremy_Clements,Jeremy Clements,Booze Pops,Jeremy_Clements,Chevrolet,90,running,2,24,0
+2021,B,2021_Pocono_Green_225,14,26,26,usa,Santino_Ferrucci,Santino Ferrucci,Moery / Manatawny Still Works,Sam_Hunt,Toyota,90,running,0,23,0
+2021,B,2021_Pocono_Green_225,15,24,68,usa,Brandon_Brown,Brandon Brown,The Garrett Companies,Jerry_Brown,Chevrolet,90,running,0,22,0
+2021,B,2021_Pocono_Green_225,16,16,36,canada,Alex_Labbe,Alex Labbe,Can-Am,Mario_Gosselin,Chevrolet,90,running,1,21,0
+2021,B,2021_Pocono_Green_225,17,12,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing / A-Game,Rod_Sieg,Ford,90,running,0,20,0
+2021,B,2021_Pocono_Green_225,18,20,8,usa,Sam_Mayer,Sam Mayer,Tire Pros,JR_Motorsports,Chevrolet,89,running,0,19,0
+2021,B,2021_Pocono_Green_225,19,29,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,89,running,0,18,0
+2021,B,2021_Pocono_Green_225,20,18,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,Diamond Gusset Jeans,Tommy_Joe_Martins,Chevrolet,89,running,0,17,0
+2021,B,2021_Pocono_Green_225,21,23,4,usa,Landon_Cassill,Landon Cassill,Voyager,Johnny_Davis,Chevrolet,89,running,0,16,0
+2021,B,2021_Pocono_Green_225,22,38,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Forever Lawn,Johnny_Davis,Chevrolet,89,running,0,15,0
+2021,B,2021_Pocono_Green_225,23,27,5,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Chevrolet,89,running,0,14,0
+2021,B,2021_Pocono_Green_225,24,37,15,usa,Colby_Howard,Colby Howard,Save America Now PAC,Johnny_Davis,Chevrolet,89,running,0,13,0
+2021,B,2021_Pocono_Green_225,25,15,61,usa,Austin_Hill,Austin Hill,Toyota Tsusho,Shigeaki_Hattori,Toyota,89,running,0,0,0
+2021,B,2021_Pocono_Green_225,26,30,47,usa,Kyle_Weatherman,Kyle Weatherman,Axe Crossbows,Mike_Harmon,Chevrolet,89,running,0,11,0
+2021,B,2021_Pocono_Green_225,27,39,90,netherlands,Loris_Hezemans,Loris Hezemans,Hezeberg Systems,Mario_Gosselin,Chevrolet,89,running,0,10,0
+2021,B,2021_Pocono_Green_225,28,32,17,usa,Carson_Ware,Carson Ware,Jacob Construction,Rick_Ware,Chevrolet,88,running,0,9,0
+2021,B,2021_Pocono_Green_225,29,28,78,usa,Jesse_Little,Jesse Little,B.J. McLeod,B_J_McLeod,Toyota,88,running,0,8,0
+2021,B,2021_Pocono_Green_225,30,36,99,usa,Mason_Massey,Mason Massey,Gerber Collision & Glass,B_J_McLeod,Toyota,88,running,0,7,0
+2021,B,2021_Pocono_Green_225,31,34,74,usa,Jesse_Iwuji,Jesse Iwuji,Reel,Mike_Harmon,Chevrolet,88,running,0,0,0
+2021,B,2021_Pocono_Green_225,32,35,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",G Coin,Bobby_Dotter,Chevrolet,88,running,0,5,0
+2021,B,2021_Pocono_Green_225,33,25,66,usa,David_Starr,David Starr,Alarm Tech Systems,Carl_Long,Toyota,87,running,0,4,0
+2021,B,2021_Pocono_Green_225,34,31,23,usa,Blaine_Perkins,Blaine Perkins,Raceline,Chris_Our,Chevrolet,78,suspension,0,3,0
+2021,B,2021_Pocono_Green_225,35,10,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,45,crash,0,8,0
+2021,B,2021_Pocono_Green_225,36,40,52,usa,Joey_Gase,Joey Gase,Jimmy Means,Jimmy_Means,Chevrolet,42,clutch,0,1,0
+2021,B,2021_Pocono_Green_225,37,1,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,36,crash,21,11,1
+2021,B,2021_Pocono_Green_225,38,11,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,24,crash,0,3,0
+2021,B,2021_Pocono_Green_225,39,21,6,usa,Ryan_Vargas,Ryan Vargas,Every Life Is Worth Saving,Johnny_Davis,Chevrolet,24,crash,0,1,0
+2021,B,2021_Pocono_Green_225,40,22,92,usa,Josh_Williams,Josh Williams,Sleep Well / Alloy,Mario_Gosselin,Chevrolet,11,crash,0,1,0
+2021,B,2021_Henry_180,1,5,54,usa,Kyle_Busch,Kyle Busch,M&M's Ice Cream,Joe_Gibbs,Toyota,45,running,5,0,0
+2021,B,2021_Henry_180,2,4,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,45,running,3,48,0
+2021,B,2021_Henry_180,3,12,1,usa,Michael_Annett,Michael Annett,Allstate Peterbilt Group 50th Anniversary,JR_Motorsports,Chevrolet,45,running,0,37,0
+2021,B,2021_Henry_180,4,3,16,usa,A_J_Allmendinger,A.J. Allmendinger,Hyperice,Matt_Kaulig,Chevrolet,45,running,12,53,2
+2021,B,2021_Henry_180,5,10,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,45,running,0,34,0
+2021,B,2021_Henry_180,6,20,99,usa,Kevin_Harvick,Kevin Harvick,Henry Repeating Arms,B_J_McLeod,Ford,45,running,0,0,0
+2021,B,2021_Henry_180,7,34,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,45,running,0,32,0
+2021,B,2021_Henry_180,8,2,22,usa,Austin_Cindric,Austin Cindric,Menards / Richmond,Roger_Penske,Ford,45,running,10,41,0
+2021,B,2021_Henry_180,9,36,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / Black Rifle Coffee,JR_Motorsports,Chevrolet,45,running,4,34,0
+2021,B,2021_Henry_180,10,13,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,45,running,0,41,0
+2021,B,2021_Henry_180,11,19,68,usa,Brandon_Brown,Brandon Brown,Sim Seats,Jerry_Brown,Chevrolet,45,running,0,26,0
+2021,B,2021_Henry_180,12,6,7,usa,Justin_Allgaier,Justin Allgaier,Brandt,JR_Motorsports,Chevrolet,45,running,5,38,0
+2021,B,2021_Henry_180,13,15,5,usa,Andy_Lally,Andy Lally,Alpha Prime Regimen,B_J_McLeod,Toyota,45,running,0,24,0
+2021,B,2021_Henry_180,14,8,10,usa,Jeb_Burton,Jeb Burton,Nutrien Ag Solutions,Matt_Kaulig,Chevrolet,45,running,0,31,0
+2021,B,2021_Henry_180,15,33,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,Gilreath Farms Red Angus,Tommy_Joe_Martins,Chevrolet,45,running,0,22,0
+2021,B,2021_Henry_180,16,16,90,usa,Preston_Pardus,Preston Pardus,Chinchor Electric / Danus Utilities,Mario_Gosselin,Chevrolet,45,running,0,21,0
+2021,B,2021_Henry_180,17,30,92,usa,Josh_Williams,Josh Williams,Alloy Employer Services,Mario_Gosselin,Chevrolet,45,running,0,20,0
+2021,B,2021_Henry_180,18,7,31,usa,Kaz_Grala,Kaz Grala,Ruedebusch.com,Jordan_Anderson,Chevrolet,45,running,0,0,0
+2021,B,2021_Henry_180,19,21,19,usa,Brandon_Jones,Brandon Jones,Toyota,Joe_Gibbs,Toyota,45,running,4,23,0
+2021,B,2021_Henry_180,20,29,42,usa,Timmy_Hill,Timmy Hill,Carl Long,Carl_Long,Toyota,45,running,0,0,0
+2021,B,2021_Henry_180,21,22,36,canada,Alex_Labbe,Alex Labbe,Can-Am,Mario_Gosselin,Chevrolet,45,running,0,16,0
+2021,B,2021_Henry_180,22,26,39,usa,Ryan_Sieg,Ryan Sieg,CMR Constructions & Roofing / A-Game,Rod_Sieg,Ford,45,running,0,15,0
+2021,B,2021_Henry_180,23,27,2,usa,Myatt_Snider,Myatt Snider,Shore Lunch,Richard_Childress,Chevrolet,45,running,0,14,0
+2021,B,2021_Henry_180,24,17,17,usa,Cody_Ware,Cody Ware,Nurtec ODT,Rick_Ware,Ford,45,running,0,13,0
+2021,B,2021_Henry_180,25,25,26,usa,Kris_Wright,Kris Wright,Wright Automotive,Sam_Hunt,Toyota,45,running,0,0,0
+2021,B,2021_Henry_180,26,31,13,usa,Stephen_Leicht,Stephen Leicht,Jani-King,Carl_Long,Toyota,45,running,0,11,0
+2021,B,2021_Henry_180,27,32,4,usa,Landon_Cassill,Landon Cassill,Voyager,Johnny_Davis,Chevrolet,45,running,0,10,0
+2021,B,2021_Henry_180,28,9,51,usa,Jeremy_Clements,Jeremy Clements,Whitetail Smokeless,Jeremy_Clements,Chevrolet,44,running,0,9,0
+2021,B,2021_Henry_180,29,14,07,usa,Josh_Bilicki,Josh Bilicki,Insurance King / Ditec,Bobby_Dotter,Chevrolet,42,crash,0,0,0
+2021,B,2021_Henry_180,30,28,78,usa,Ryan_Ellis,Ryan Ellis,Rich Mar Florist,B_J_McLeod,Toyota,42,crash,0,7,0
+2021,B,2021_Henry_180,31,24,02,usa,Brett_Moffitt,Brett Moffitt,Our Motorsports,Chris_Our,Chevrolet,41,crash,0,6,0
+2021,B,2021_Henry_180,32,35,23,usa,Natalie_Decker,Natalie Decker,Nerd Focus,Chris_Our,Chevrolet,38,crash,0,5,0
+2021,B,2021_Henry_180,33,1,81,usa,Ty_Gibbs,Ty Gibbs,Monster Energy,Joe_Gibbs,Toyota,34,transmission,2,8,0
+2021,B,2021_Henry_180,34,11,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,16,suspension,0,3,0
+2021,B,2021_Henry_180,35,23,8,usa,Sam_Mayer,Sam Mayer,QPS Employment Group,JR_Motorsports,Chevrolet,12,crash,0,2,0
+2021,B,2021_Henry_180,36,18,6,usa,Spencer_Pumpelly,Spencer Pumpelly,JD Motorsports,Johnny_Davis,Chevrolet,11,crash,0,1,0
+2021,B,2021_Credit_Karma_Money_250,1,1,54,usa,Kyle_Busch,Kyle Busch,Extra Gum,Joe_Gibbs,Toyota,164,running,97,0,0
+2021,B,2021_Credit_Karma_Money_250,2,11,10,usa,Jeb_Burton,Jeb Burton,Nutrien Ag Solutions,Matt_Kaulig,Chevrolet,164,running,1,35,0
+2021,B,2021_Credit_Karma_Money_250,3,9,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / Black Rifle Coffee,JR_Motorsports,Chevrolet,164,running,5,48,0
+2021,B,2021_Credit_Karma_Money_250,4,7,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,164,running,0,38,0
+2021,B,2021_Credit_Karma_Money_250,5,30,23,usa,Ty_Dillon,Ty Dillon,Childress Vineyard,Chris_Our,Chevrolet,164,running,4,35,0
+2021,B,2021_Credit_Karma_Money_250,6,20,02,usa,Brett_Moffitt,Brett Moffitt,Concrete Supply,Chris_Our,Chevrolet,164,running,0,40,0
+2021,B,2021_Credit_Karma_Money_250,7,8,7,usa,Justin_Allgaier,Justin Allgaier,Hellowater Defense,JR_Motorsports,Chevrolet,164,running,4,37,0
+2021,B,2021_Credit_Karma_Money_250,8,19,51,usa,Jeremy_Clements,Jeremy Clements,All South Electric,Jeremy_Clements,Chevrolet,164,running,0,29,0
+2021,B,2021_Credit_Karma_Money_250,9,22,8,usa,Sam_Mayer,Sam Mayer,QPS Employment Group,JR_Motorsports,Chevrolet,164,running,0,28,0
+2021,B,2021_Credit_Karma_Money_250,10,4,22,usa,Austin_Cindric,Austin Cindric,Car Shop,Roger_Penske,Ford,164,running,0,27,0
+2021,B,2021_Credit_Karma_Money_250,11,6,1,usa,Austin_Dillon,Austin Dillon,PFJ Spicy Chicken Sandwich,JR_Motorsports,Chevrolet,164,running,0,0,0
+2021,B,2021_Credit_Karma_Money_250,12,16,39,usa,Ryan_Sieg,Ryan Sieg,CMR Constructions & Roofing / A-Game,Rod_Sieg,Ford,164,running,0,25,0
+2021,B,2021_Credit_Karma_Money_250,13,3,16,usa,A_J_Allmendinger,A.J. Allmendinger,Hyperice,Matt_Kaulig,Chevrolet,164,running,2,42,0
+2021,B,2021_Credit_Karma_Money_250,14,32,6,usa,Ryan_Vargas,Ryan Vargas,MaintenX,Johnny_Davis,Chevrolet,164,running,0,23,0
+2021,B,2021_Credit_Karma_Money_250,15,17,36,canada,Alex_Labbe,Alex Labbe,Larue Industrial Snow Blowers,Mario_Gosselin,Chevrolet,164,running,0,26,0
+2021,B,2021_Credit_Karma_Money_250,16,14,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,Diamond Gusset Jeans,Tommy_Joe_Martins,Chevrolet,164,running,0,21,0
+2021,B,2021_Credit_Karma_Money_250,17,27,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,164,running,0,20,0
+2021,B,2021_Credit_Karma_Money_250,18,18,92,usa,Josh_Williams,Josh Williams,Coolray Heating & AC,Mario_Gosselin,Chevrolet,164,running,0,19,0
+2021,B,2021_Credit_Karma_Money_250,19,10,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,164,running,0,18,0
+2021,B,2021_Credit_Karma_Money_250,20,36,15,usa,Colby_Howard,Colby Howard,Project Hope Foundation,Johnny_Davis,Chevrolet,164,running,0,17,0
+2021,B,2021_Credit_Karma_Money_250,21,15,2,usa,Myatt_Snider,Myatt Snider,Crosley Furniture,Richard_Childress,Chevrolet,164,running,0,16,0
+2021,B,2021_Credit_Karma_Money_250,22,37,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Superstratum,Johnny_Davis,Chevrolet,164,running,0,15,0
+2021,B,2021_Credit_Karma_Money_250,23,28,31,usa,Josh_Berry,Josh Berry,Bommarito.com / Lucas Oil,Jordan_Anderson,Chevrolet,164,running,0,14,0
+2021,B,2021_Credit_Karma_Money_250,24,5,20,usa,Harrison_Burton,Harrison Burton,"Offerpad ""Awesome Different""",Joe_Gibbs,Toyota,164,running,3,26,0
+2021,B,2021_Credit_Karma_Money_250,25,33,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",Z Grills,Bobby_Dotter,Chevrolet,164,running,0,12,0
+2021,B,2021_Credit_Karma_Money_250,26,24,5,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Chevrolet,164,running,0,11,0
+2021,B,2021_Credit_Karma_Money_250,27,29,90,usa,"Ronnie_Bassett,_Jr","Ronnie Bassett, Jr.",Mario Gosselin,Mario_Gosselin,Chevrolet,164,running,0,10,0
+2021,B,2021_Credit_Karma_Money_250,28,31,78,usa,Jesse_Little,Jesse Little,B.J. McLeod,B_J_McLeod,Toyota,164,running,0,9,0
+2021,B,2021_Credit_Karma_Money_250,29,23,99,usa,Mason_Massey,Mason Massey,Anderson Power Services,B_J_McLeod,Toyota,164,running,0,8,0
+2021,B,2021_Credit_Karma_Money_250,30,2,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,164,running,45,20,0
+2021,B,2021_Credit_Karma_Money_250,31,12,68,usa,Brandon_Brown,Brandon Brown,Baby Dogecoin,Jerry_Brown,Chevrolet,163,crash,0,6,0
+2021,B,2021_Credit_Karma_Money_250,32,38,47,usa,Kyle_Weatherman,Kyle Weatherman,Axe Crossbows,Mike_Harmon,Chevrolet,162,crash,3,5,0
+2021,B,2021_Credit_Karma_Money_250,33,25,26,usa,Santino_Ferrucci,Santino Ferrucci,Manatawny Still Works,Sam_Hunt,Toyota,162,running,0,4,0
+2021,B,2021_Credit_Karma_Money_250,34,39,74,usa,Bayley_Currey,Bayley Currey,Fort Worth Screen Printing,Mike_Harmon,Chevrolet,162,running,0,0,0
+2021,B,2021_Credit_Karma_Money_250,35,40,52,usa,Gray_Gaulding,Gray Gaulding,Panini America,Jimmy_Means,Chevrolet,160,running,0,2,0
+2021,B,2021_Credit_Karma_Money_250,36,26,17,usa,Carson_Ware,Carson Ware,Jacob Companies,Rick_Ware,Chevrolet,139,crash,0,1,0
+2021,B,2021_Credit_Karma_Money_250,37,34,66,usa,C_J_McLaughlin,C.J. McLaughlin,SA Recycling / Sci Aps,Carl_Long,Ford,139,running,0,0,0
+2021,B,2021_Credit_Karma_Money_250,38,21,4,usa,Landon_Cassill,Landon Cassill,Voyager,Johnny_Davis,Chevrolet,128,running,0,1,0
+2021,B,2021_Credit_Karma_Money_250,39,13,19,usa,Brandon_Jones,Brandon Jones,Toyota,Joe_Gibbs,Toyota,118,crash,0,3,0
+2021,B,2021_Credit_Karma_Money_250,40,35,61,usa,David_Starr,David Starr,Whataburger,Shigeaki_Hattori,Toyota,50,crash,0,1,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,1,14,54,usa,Christopher_Bell,Christopher Bell,DeWalt,Joe_Gibbs,Toyota,200,running,151,0,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,2,5,7,usa,Justin_Allgaier,Justin Allgaier,Brandt,JR_Motorsports,Chevrolet,200,running,0,46,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,3,13,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,200,running,0,48,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,4,4,22,usa,Austin_Cindric,Austin Cindric,Car Shop,Roger_Penske,Ford,200,running,0,49,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,5,10,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,200,running,0,43,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,6,2,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,200,running,0,40,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,7,16,2,usa,Myatt_Snider,Myatt Snider,Crosley Furniture,Richard_Childress,Chevrolet,200,running,0,30,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,8,21,1,usa,Josh_Berry,Josh Berry,PFJ Spicy Chicken Sandwich,JR_Motorsports,Chevrolet,200,running,0,35,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,9,7,02,usa,Brett_Moffitt,Brett Moffitt,Robert B Our Co.,Chris_Our,Chevrolet,200,running,0,28,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,10,12,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,200,running,0,27,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,11,1,10,usa,Jeb_Burton,Jeb Burton,LS Tractors,Matt_Kaulig,Chevrolet,200,running,16,30,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,12,6,16,usa,A_J_Allmendinger,A.J. Allmendinger,Hyperice,Matt_Kaulig,Chevrolet,200,running,29,41,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,13,11,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing / A-Game,Rod_Sieg,Ford,200,running,0,24,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,14,3,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / Black Rifle Coffee,JR_Motorsports,Chevrolet,200,running,0,25,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,15,8,51,usa,Jeremy_Clements,Jeremy Clements,First Pacific Funding,Jeremy_Clements,Chevrolet,200,running,0,23,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,16,32,26,usa,Brandon_Gdovic,Brandon Gdovic,SnapMobile.shop,Sam_Hunt,Toyota,200,running,0,21,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,17,22,68,usa,Brandon_Brown,Brandon Brown,Jabs Construction,Jerry_Brown,Chevrolet,200,running,4,20,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,18,18,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,198,running,0,19,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,19,34,47,usa,Kyle_Weatherman,Kyle Weatherman,Axe Crossbows,Mike_Harmon,Chevrolet,198,running,0,18,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,20,38,66,usa,David_Starr,David Starr,Vodkyte,Carl_Long,Toyota,198,running,0,17,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,21,17,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,AAN Adjusters,Tommy_Joe_Martins,Chevrolet,197,running,0,16,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,22,20,92,usa,Josh_Williams,Josh Williams,Sleep Well / ANE Electric,Mario_Gosselin,Chevrolet,197,running,0,15,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,23,36,17,usa,J_J_Yeley,J.J. Yeley,Nurtec ODT,Rick_Ware,Chevrolet,197,running,0,14,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,24,30,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",Bucked Up Energy,Bobby_Dotter,Chevrolet,197,running,0,13,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,25,31,4,usa,Landon_Cassill,Landon Cassill,Voyager,Johnny_Davis,Chevrolet,197,running,0,12,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,26,26,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,In Memory of Latane Key,Johnny_Davis,Chevrolet,197,running,0,11,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,27,37,90,usa,Dexter_Bean,Dexter Bean,DGM Racing,Mario_Gosselin,Chevrolet,197,running,0,10,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,28,28,78,usa,Jesse_Little,Jesse Little,B.J. McLeod,B_J_McLeod,Toyota,197,running,0,9,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,29,19,6,usa,Ryan_Vargas,Ryan Vargas,JD Motorsports,Johnny_Davis,Chevrolet,196,running,0,8,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,30,25,15,usa,Colby_Howard,Colby Howard,Project Hope Foundation,Johnny_Davis,Chevrolet,196,running,0,7,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,31,24,23,usa,Patrick_Emerling,Patrick Emerling,Spirit Snorkeling,Chris_Our,Chevrolet,196,running,0,6,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,32,27,5,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Chevrolet,195,running,0,5,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,33,40,52,usa,Spencer_Boyd,Spencer Boyd,Freedom Warranty,Jimmy_Means,Chevrolet,194,running,0,0,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,34,33,31,usa,Jordan_Anderson,Jordan Anderson,Bommarito.com,Jordan_Anderson,Chevrolet,194,running,0,0,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,35,35,74,usa,Dawson_Cram,Dawson Cram,Crafty One Customs,Mike_Harmon,Chevrolet,184,running,0,0,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,36,15,36,canada,Alex_Labbe,Alex Labbe,Prolon / Rousseau /Silver Wax,Mario_Gosselin,Chevrolet,174,running,0,1,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,37,39,61,usa,C_J_McLaughlin,C.J. McLaughlin,Sci Aps,Shigeaki_Hattori,Toyota,164,electrical,0,0,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,38,23,19,usa,Brandon_Jones,Brandon Jones,Menards / Jeld-Wen,Joe_Gibbs,Toyota,102,radiator,0,1,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,39,9,8,usa,Sam_Mayer,Sam Mayer,JR Motorsports,JR_Motorsports,Chevrolet,28,crash,0,1,0
+2021,B,2021_Ambetter_Get_Vaccinated+200,40,29,99,usa,Mason_Massey,Mason Massey,Brunt Workwear,B_J_McLeod,Chevrolet,26,crash,0,1,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,1,15,54,usa,Ty_Gibbs,Ty Gibbs,Monster Energy,Joe_Gibbs,Toyota,82,running,43,49,5
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,2,6,16,usa,A_J_Allmendinger,A.J. Allmendinger,Hyperice,Matt_Kaulig,Chevrolet,82,running,6,54,1
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,3,2,22,usa,Austin_Cindric,Austin Cindric,Car Shop,Roger_Penske,Ford,82,running,22,52,1
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,4,1,7,usa,Justin_Allgaier,Justin Allgaier,Hellowater Defense,JR_Motorsports,Chevrolet,82,running,0,40,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,5,4,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,82,running,3,39,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,6,21,19,usa,Brandon_Jones,Brandon Jones,Menards / Magicwood Vanities,Joe_Gibbs,Toyota,82,running,1,34,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,7,11,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / True Timber / BRCC,JR_Motorsports,Chevrolet,82,running,0,40,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,8,8,10,usa,Jeb_Burton,Jeb Burton,Nutrien Ag Solutions,Matt_Kaulig,Chevrolet,82,running,0,35,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,9,5,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,82,running,0,33,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,10,23,8,usa,Sam_Mayer,Sam Mayer,JR Motorsports,JR_Motorsports,Chevrolet,82,running,0,32,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,11,18,1,usa,Michael_Annett,Michael Annett,PFJ Spicy Chicken Sandwich,JR_Motorsports,Chevrolet,82,running,0,29,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,12,14,68,usa,Brandon_Brown,Brandon Brown,Armor Guard,Jerry_Brown,Chevrolet,82,running,0,25,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,13,10,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,82,running,0,31,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,14,19,92,usa,Josh_Williams,Josh Williams,Alloy Employer Services,Mario_Gosselin,Chevrolet,82,running,0,23,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,15,7,2,usa,Myatt_Snider,Myatt Snider,Louisiana Hot Sauce,Richard_Childress,Chevrolet,82,running,0,22,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,16,12,51,usa,Jeremy_Clements,Jeremy Clements,Kevin Whitaker Chevrolet,Jeremy_Clements,Chevrolet,82,running,0,21,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,17,24,26,usa,Kris_Wright,Kris Wright,Wright Automotive Group,Sam_Hunt,Toyota,82,running,0,0,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,18,13,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing / A-Game,Rod_Sieg,Ford,82,running,0,19,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,19,17,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,Gilreath Farms Red Angus,Tommy_Joe_Martins,Chevrolet,82,running,0,18,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,20,20,4,usa,Landon_Cassill,Landon Cassill,Voyager,Johnny_Davis,Chevrolet,82,running,0,17,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,21,16,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,82,running,0,16,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,22,3,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,82,running,7,24,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,23,35,90,usa,Preston_Pardus,Preston Pardus,Danus Utilities,Mario_Gosselin,Chevrolet,82,running,0,14,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,24,30,17,usa,Josh_Bilicki,Josh Bilicki,Insurance King,Rick_Ware,Chevrolet,82,running,0,0,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,25,28,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Forever Lawn,Johnny_Davis,Chevrolet,82,running,0,12,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,26,9,02,usa,Brett_Moffitt,Brett Moffitt,Our Motorsports,Chris_Our,Chevrolet,82,running,0,11,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,27,27,78,usa,Jesse_Little,Jesse Little,B.J. McLeod,B_J_McLeod,Chevrolet,82,running,0,10,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,28,40,61,usa,Stephen_Leicht,Stephen Leicht,Jani-King,Shigeaki_Hattori,Toyota,82,running,0,9,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,29,32,66,usa,Timmy_Hill,Timmy Hill,Mercy Flight Central,Carl_Long,Chevrolet,81,running,0,0,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,30,25,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",G Coin,Bobby_Dotter,Chevrolet,81,running,0,7,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,31,31,15,usa,Colby_Howard,Colby Howard,Project Hope Foundation,Johnny_Davis,Chevrolet,81,running,0,6,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,32,39,74,usa,Bayley_Currey,Bayley Currey,Belmont Classic Cars,Mike_Harmon,Chevrolet,81,running,0,0,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,33,38,52,usa,Dave_Smith_(2),Dave Smith,Sonoma Harvest,Jimmy_Means,Chevrolet,80,running,0,4,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,34,22,47,usa,Kyle_Weatherman,Kyle Weatherman,Runnings Outdoor,Mike_Harmon,Chevrolet,75,electrical,0,3,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,35,34,6,usa,Michael_Munley,Michael Munley,Gutterman Services,Johnny_Davis,Chevrolet,74,suspension,0,2,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,36,36,31,usa,Erik_Jones,Erik Jones,Bommarito Automotive Group,Jordan_Anderson,Chevrolet,66,crash,0,0,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,37,33,23,usa,Austin_Dillon,Austin Dillon,Mayhem Athlete,Chris_Our,Chevrolet,53,chassis,0,0,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,38,29,5,usa,Matt_Mills,Matt Mills,Thompson Electric,B_J_McLeod,Toyota,47,crash,0,1,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,39,26,36,canada,Alex_Labbe,Alex Labbe,Globocam / Prolon Controls,Mario_Gosselin,Chevrolet,28,rear gear,0,1,0
+2021,B,2021_Skrewball_Peanut_Butter_Whiskey_200,40,37,99,uk,Kyle_Tilley,Kyle Tilley,ERA Motorsport,B_J_McLeod,Chevrolet,20,dvp,0,0,0
+2021,B,2021_Pennzoil_150,1,2,22,usa,Austin_Cindric,Austin Cindric,PPG,Roger_Penske,Ford,62,running,29,47,5
+2021,B,2021_Pennzoil_150,2,1,16,usa,A_J_Allmendinger,A.J. Allmendinger,Hyperice,Matt_Kaulig,Chevrolet,62,running,8,45,1
+2021,B,2021_Pennzoil_150,3,3,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,62,running,18,53,1
+2021,B,2021_Pennzoil_150,4,25,1,usa,Chase_Elliott,Chase Elliott,Allstate Peterbilt Group,JR_Motorsports,Chevrolet,62,running,0,0,0
+2021,B,2021_Pennzoil_150,5,7,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / True Timber / BRCC,JR_Motorsports,Chevrolet,62,running,0,45,0
+2021,B,2021_Pennzoil_150,6,19,23,usa,Austin_Dillon,Austin Dillon,K&L Ready Mix,Chris_Our,Chevrolet,62,running,0,0,0
+2021,B,2021_Pennzoil_150,7,8,2,usa,Myatt_Snider,Myatt Snider,Louisiana Hot Sauce,Richard_Childress,Chevrolet,62,running,0,30,0
+2021,B,2021_Pennzoil_150,8,6,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,62,running,3,40,0
+2021,B,2021_Pennzoil_150,9,11,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,62,running,0,28,0
+2021,B,2021_Pennzoil_150,10,26,78,usa,Andy_Lally,Andy Lally,B.J. McLeod Motorsports,B_J_McLeod,Chevrolet,62,running,0,33,0
+2021,B,2021_Pennzoil_150,11,4,7,usa,Justin_Allgaier,Justin Allgaier,Brandt,JR_Motorsports,Chevrolet,62,running,0,26,0
+2021,B,2021_Pennzoil_150,12,13,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,62,running,0,29,0
+2021,B,2021_Pennzoil_150,13,21,36,canada,Alex_Labbe,Alex Labbe,Globocam / Prolon Controls,Mario_Gosselin,Chevrolet,62,running,0,24,0
+2021,B,2021_Pennzoil_150,14,20,51,usa,Jeremy_Clements,Jeremy Clements,Wings Etc. Grill & Pub,Jeremy_Clements,Chevrolet,62,running,0,30,0
+2021,B,2021_Pennzoil_150,15,31,92,usa,Josh_Williams,Josh Williams,Alloy Employer Services,Mario_Gosselin,Chevrolet,62,running,0,23,0
+2021,B,2021_Pennzoil_150,16,27,47,usa,Kyle_Weatherman,Kyle Weatherman,PORAC,Mike_Harmon,Chevrolet,62,running,0,21,0
+2021,B,2021_Pennzoil_150,17,33,4,usa,Landon_Cassill,Landon Cassill,Voyager,Johnny_Davis,Chevrolet,62,running,0,20,0
+2021,B,2021_Pennzoil_150,18,34,5,australia,James_Davison,James Davison,ERA Motorsport,B_J_McLeod,Toyota,62,running,0,0,0
+2021,B,2021_Pennzoil_150,19,5,54,usa,Ty_Gibbs,Ty Gibbs,Sport Clips Haircuts,Joe_Gibbs,Toyota,62,running,4,26,0
+2021,B,2021_Pennzoil_150,20,15,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,62,running,0,17,0
+2021,B,2021_Pennzoil_150,21,32,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,Market Rebellion,Tommy_Joe_Martins,Chevrolet,62,running,0,19,0
+2021,B,2021_Pennzoil_150,22,36,17,usa,J_J_Yeley,J.J. Yeley,Nurtec ODT,Rick_Ware,Chevrolet,62,running,0,15,0
+2021,B,2021_Pennzoil_150,23,23,10,usa,Jeb_Burton,Jeb Burton,Alsco Uniforms,Matt_Kaulig,Chevrolet,62,running,0,27,0
+2021,B,2021_Pennzoil_150,24,29,0,usa,Spencer_Pumpelly,Spencer Pumpelly,Forever Lawn,Johnny_Davis,Chevrolet,60,ignition,0,13,0
+2021,B,2021_Pennzoil_150,25,22,07,usa,Josh_Bilicki,Josh Bilicki,CNC Swiss,Bobby_Dotter,Chevrolet,60,running,0,0,0
+2021,B,2021_Pennzoil_150,26,18,31,usa,Sage_Karam,Sage Karam,Montage Mountain,Jordan_Anderson,Chevrolet,59,electrical,0,17,0
+2021,B,2021_Pennzoil_150,27,24,8,usa,Sam_Mayer,Sam Mayer,JR Motorsports,JR_Motorsports,Chevrolet,44,crash,0,10,0
+2021,B,2021_Pennzoil_150,28,9,24,usa,Will_Rodgers,Will Rodgers,Good RX / Race To End Hep-C,Sam_Hunt,Toyota,37,brakes,0,9,0
+2021,B,2021_Pennzoil_150,29,28,61,usa,Austin_Hill,Austin Hill,Aisin,Shigeaki_Hattori,Toyota,27,steering box,0,0,0
+2021,B,2021_Pennzoil_150,30,30,26,usa,Kris_Wright,Kris Wright,iHeart Radio,Sam_Hunt,Toyota,23,crash,0,0,0
+2021,B,2021_Pennzoil_150,31,17,02,usa,Brett_Moffitt,Brett Moffitt,Our Motorsports,Chris_Our,Chevrolet,21,axle,0,6,0
+2021,B,2021_Pennzoil_150,32,35,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing / A-Game,Rod_Sieg,Ford,14,suspension,0,5,0
+2021,B,2021_Pennzoil_150,33,16,99,usa,Kevin_Harvick,Kevin Harvick,Unibet Official Sportsbook,B_J_McLeod,Ford,1,power steering,0,0,0
+2021,B,2021_Pennzoil_150,34,14,68,usa,Brandon_Brown,Brandon Brown,BMS,Jerry_Brown,Chevrolet,1,crash,0,3,0
+2021,B,2021_Pennzoil_150,35,10,90,usa,Preston_Pardus,Preston Pardus,Chinchor Electric / Danus,Mario_Gosselin,Chevrolet,1,crash,0,2,0
+2021,B,2021_Pennzoil_150,36,12,19,usa,Brandon_Jones,Brandon Jones,Menards / Atlas,Joe_Gibbs,Toyota,0,crash,0,1,0
+2021,B,2021_New_Holland_250,1,2,16,usa,A_J_Allmendinger,A.J. Allmendinger,Ramco Specialties,Matt_Kaulig,Chevrolet,139,running,70,58,6
+2021,B,2021_New_Holland_250,2,24,19,usa,Brandon_Jones,Brandon Jones,Young Supply Co.,Joe_Gibbs,Toyota,139,running,0,42,0
+2021,B,2021_New_Holland_250,3,4,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / TrueTimber / BRCC,JR_Motorsports,Chevrolet,139,running,0,45,0
+2021,B,2021_New_Holland_250,4,17,1,usa,Josh_Berry,Josh Berry,Pilot / Flying J / TMAF,JR_Motorsports,Chevrolet,139,running,24,38,0
+2021,B,2021_New_Holland_250,5,6,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,139,running,0,44,0
+2021,B,2021_New_Holland_250,6,5,7,usa,Justin_Allgaier,Justin Allgaier,Brandt,JR_Motorsports,Chevrolet,139,running,9,38,0
+2021,B,2021_New_Holland_250,7,8,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,139,running,0,31,0
+2021,B,2021_New_Holland_250,8,20,02,usa,Brett_Moffitt,Brett Moffitt,Our Motorsports,Chris_Our,Chevrolet,139,running,0,31,0
+2021,B,2021_New_Holland_250,9,19,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,139,running,0,28,0
+2021,B,2021_New_Holland_250,10,36,61,usa,Bubba_Wallace,Bubba Wallace,Aisin,Shigeaki_Hattori,Toyota,139,running,0,0,0
+2021,B,2021_New_Holland_250,11,11,51,usa,Jeremy_Clements,Jeremy Clements,Booze Pops,Jeremy_Clements,Chevrolet,139,running,0,26,0
+2021,B,2021_New_Holland_250,12,23,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing / A-Game,Rod_Sieg,Ford,139,running,0,25,0
+2021,B,2021_New_Holland_250,13,10,54,usa,Ty_Gibbs,Ty Gibbs,Sport Clips Haircuts,Joe_Gibbs,Toyota,139,running,1,42,0
+2021,B,2021_New_Holland_250,14,27,5,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Chevrolet,139,running,0,23,0
+2021,B,2021_New_Holland_250,15,31,31,usa,Jordan_Anderson,Jordan Anderson,Bommarito Automotive Group,Jordan_Anderson,Chevrolet,138,running,0,0,0
+2021,B,2021_New_Holland_250,16,22,23,usa,Tyler_Reddick,Tyler Reddick,Ohio Logistics,Chris_Our,Chevrolet,138,running,0,0,0
+2021,B,2021_New_Holland_250,17,3,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,138,running,0,21,0
+2021,B,2021_New_Holland_250,18,14,92,usa,Josh_Williams,Josh Williams,General Formulations,Mario_Gosselin,Chevrolet,138,running,0,19,0
+2021,B,2021_New_Holland_250,19,18,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,AAN Adjusters,Tommy_Joe_Martins,Chevrolet,138,running,0,18,0
+2021,B,2021_New_Holland_250,20,29,26,usa,Colin_Garrett,Colin Garrett,11/11 Project,Sam_Hunt,Toyota,138,running,0,17,0
+2021,B,2021_New_Holland_250,21,35,6,usa,Ryan_Vargas,Ryan Vargas,ExperienceJackson.com,Johnny_Davis,Chevrolet,138,running,0,16,0
+2021,B,2021_New_Holland_250,22,37,66,usa,David_Starr,David Starr,Sinex Transport,Carl_Long,Toyota,137,running,0,15,0
+2021,B,2021_New_Holland_250,23,30,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Brooklyn Products International,Johnny_Davis,Chevrolet,137,running,0,14,0
+2021,B,2021_New_Holland_250,24,21,47,usa,Kyle_Weatherman,Kyle Weatherman,Axe Crossbows,Mike_Harmon,Chevrolet,137,running,0,13,0
+2021,B,2021_New_Holland_250,25,38,15,usa,Colby_Howard,Colby Howard,JD Motorsports,Johnny_Davis,Chevrolet,137,running,0,12,0
+2021,B,2021_New_Holland_250,26,15,4,usa,Landon_Cassill,Landon Cassill,Voyager,Johnny_Davis,Chevrolet,137,running,0,11,0
+2021,B,2021_New_Holland_250,27,40,52,usa,Gray_Gaulding,Gray Gaulding,SVS Vision,Jimmy_Means,Chevrolet,137,running,0,10,0
+2021,B,2021_New_Holland_250,28,28,17,usa,Carson_Ware,Carson Ware,Jacob Companies,Rick_Ware,Chevrolet,136,running,0,9,0
+2021,B,2021_New_Holland_250,29,12,10,usa,Jeb_Burton,Jeb Burton,Nutrien Ag Solutions,Matt_Kaulig,Chevrolet,135,running,23,14,0
+2021,B,2021_New_Holland_250,30,26,78,usa,Mason_Massey,Mason Massey,Gerber Collison & Glass,B_J_McLeod,Toyota,125,crash,0,7,0
+2021,B,2021_New_Holland_250,31,13,36,canada,Alex_Labbe,Alex Labbe,Can-Am,Mario_Gosselin,Chevrolet,123,running,0,6,0
+2021,B,2021_New_Holland_250,32,33,99,usa,Jesse_Little,Jesse Little,B.J. McLeod,B_J_McLeod,Toyota,120,crash,0,5,0
+2021,B,2021_New_Holland_250,33,16,8,usa,Sam_Mayer,Sam Mayer,QPS Employment Group,JR_Motorsports,Chevrolet,114,running,0,4,0
+2021,B,2021_New_Holland_250,34,39,74,usa,Bayley_Currey,Bayley Currey,Fort Worth Screen Printing,Mike_Harmon,Chevrolet,103,crash,0,0,0
+2021,B,2021_New_Holland_250,35,34,90,usa,Caesar_Bacarella,Caesar Bacarella,AP Sports Regimen / Maxim,Mario_Gosselin,Chevrolet,45,dvp,0,2,0
+2021,B,2021_New_Holland_250,36,9,2,usa,Myatt_Snider,Myatt Snider,Superior Essex,Richard_Childress,Chevrolet,45,dvp,0,8,0
+2021,B,2021_New_Holland_250,37,1,22,usa,Austin_Cindric,Austin Cindric,Menards / NIBCO,Roger_Penske,Ford,41,dvp,12,11,1
+2021,B,2021_New_Holland_250,38,32,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",Power Weld,Bobby_Dotter,Chevrolet,37,dvp,0,1,0
+2021,B,2021_New_Holland_250,39,7,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,36,crash,0,6,0
+2021,B,2021_New_Holland_250,40,25,68,usa,Brandon_Brown,Brandon Brown,Baby Dogecoin,Jerry_Brown,Chevrolet,35,crash,0,1,0
+2021,B,2021_Wawa_250,1,9,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,100,running,5,58,6
+2021,B,2021_Wawa_250,2,1,16,usa,A_J_Allmendinger,A.J. Allmendinger,Hyperice,Matt_Kaulig,Chevrolet,100,running,29,53,0
+2021,B,2021_Wawa_250,3,4,7,usa,Justin_Allgaier,Justin Allgaier,Brandt,JR_Motorsports,Chevrolet,100,running,0,43,0
+2021,B,2021_Wawa_250,4,13,10,usa,Jeb_Burton,Jeb Burton,Cheddar's Scratch Kitchen,Matt_Kaulig,Chevrolet,100,running,8,51,1
+2021,B,2021_Wawa_250,5,21,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,100,running,0,36,0
+2021,B,2021_Wawa_250,6,15,54,usa,Christopher_Bell,Christopher Bell,Reser's Fine Foods,Joe_Gibbs,Toyota,100,running,23,0,0
+2021,B,2021_Wawa_250,7,2,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / True Timber / BRCC,JR_Motorsports,Chevrolet,100,running,16,39,0
+2021,B,2021_Wawa_250,8,23,2,usa,Myatt_Snider,Myatt Snider,Crosley Furniture,Richard_Childress,Chevrolet,100,running,0,29,0
+2021,B,2021_Wawa_250,9,5,20,usa,Harrison_Burton,Harrison Burton,Offerpad,Joe_Gibbs,Toyota,100,running,0,29,0
+2021,B,2021_Wawa_250,10,6,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,100,running,9,34,0
+2021,B,2021_Wawa_250,11,7,02,usa,Brett_Moffitt,Brett Moffitt,Fr8 Auctions,Chris_Our,Chevrolet,100,running,0,31,0
+2021,B,2021_Wawa_250,12,22,8,usa,Sam_Mayer,Sam Mayer,People Ready / True Blue,JR_Motorsports,Chevrolet,100,running,1,26,0
+2021,B,2021_Wawa_250,13,34,17,usa,J_J_Yeley,J.J. Yeley,Figgers Wireless,Rick_Ware,Chevrolet,100,running,0,24,0
+2021,B,2021_Wawa_250,14,32,61,usa,David_Starr,David Starr,Whataburger,Shigeaki_Hattori,Toyota,100,running,0,23,0
+2021,B,2021_Wawa_250,15,35,66,usa,Jason_White_(1),Jason White,A-Game / CMR Construction,Carl_Long,Ford,100,running,0,22,0
+2021,B,2021_Wawa_250,16,11,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing / A-Game,Rod_Sieg,Ford,100,running,0,21,0
+2021,B,2021_Wawa_250,17,17,92,usa,Josh_Williams,Josh Williams,Alloy Employer Services,Mario_Gosselin,Chevrolet,100,running,0,20,0
+2021,B,2021_Wawa_250,18,12,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,AAN Adjusters,Tommy_Joe_Martins,Chevrolet,100,running,0,19,0
+2021,B,2021_Wawa_250,19,37,99,usa,Chase_Briscoe,Chase Briscoe,HaasTooling.com,B_J_McLeod,Ford,100,running,0,0,0
+2021,B,2021_Wawa_250,20,27,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Azalea Gynecology,Johnny_Davis,Chevrolet,100,running,0,17,0
+2021,B,2021_Wawa_250,21,26,4,usa,Landon_Cassill,Landon Cassill,Voyager,Johnny_Davis,Chevrolet,100,running,0,16,0
+2021,B,2021_Wawa_250,22,18,31,usa,Jordan_Anderson,Jordan Anderson,Bommarito Automotive Group,Jordan_Anderson,Chevrolet,100,running,0,0,0
+2021,B,2021_Wawa_250,23,29,23,usa,Blaine_Perkins,Blaine Perkins,Race Line,Chris_Our,Chevrolet,100,running,0,14,0
+2021,B,2021_Wawa_250,24,8,51,usa,Jeremy_Clements,Jeremy Clements,One Stop / ASE,Jeremy_Clements,Chevrolet,100,running,0,13,0
+2021,B,2021_Wawa_250,25,30,78,usa,Mason_Massey,Mason Massey,Brunt Workwear,B_J_McLeod,Toyota,100,running,0,12,0
+2021,B,2021_Wawa_250,26,33,15,usa,Colby_Howard,Colby Howard,KSDT CPA,Johnny_Davis,Chevrolet,100,running,0,11,0
+2021,B,2021_Wawa_250,27,24,6,usa,Ryan_Vargas,Ryan Vargas,MaintenX,Johnny_Davis,Chevrolet,100,running,0,10,0
+2021,B,2021_Wawa_250,28,10,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,100,running,0,9,0
+2021,B,2021_Wawa_250,29,40,74,usa,Tim_Viens,Tim Viens,Barnes Law,Mike_Harmon,Chevrolet,100,running,0,0,0
+2021,B,2021_Wawa_250,30,19,1,usa,Michael_Annett,Michael Annett,Pilot / Flying J / Thank A Trucker,JR_Motorsports,Chevrolet,100,running,0,7,0
+2021,B,2021_Wawa_250,31,25,36,canada,Alex_Labbe,Alex Labbe,Can-Am,Mario_Gosselin,Chevrolet,100,running,0,6,0
+2021,B,2021_Wawa_250,32,28,47,usa,Kyle_Weatherman,Kyle Weatherman,Axe Crossbows	,Mike_Harmon,Chevrolet,98,running,0,5,0
+2021,B,2021_Wawa_250,33,16,5,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Toyota,98,running,0,4,0
+2021,B,2021_Wawa_250,34,31,68,usa,Brandon_Brown,Brandon Brown,Original Larry's Hard Lemonade,Jerry_Brown,Chevrolet,97,running,9,5,0
+2021,B,2021_Wawa_250,35,39,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",G Coin,Bobby_Dotter,Chevrolet,88,crash,0,2,0
+2021,B,2021_Wawa_250,36,36,90,usa,Caesar_Bacarella,Caesar Bacarella,AP Regimen / AP Prime Bites,Mario_Gosselin,Chevrolet,82,crash,0,4,0
+2021,B,2021_Wawa_250,37,20,26,usa,Colin_Garrett,Colin Garrett,Stillhouse,Sam_Hunt,Toyota,71,crash,0,1,0
+2021,B,2021_Wawa_250,38,38,52,usa,Spencer_Boyd,Spencer Boyd,Wheelhouse Bicycle,Jimmy_Means,Chevrolet,71,engine,0,0,0
+2021,B,2021_Wawa_250,39,14,22,usa,Austin_Cindric,Austin Cindric,Car Shop,Roger_Penske,Ford,27,crash,0,1,0
+2021,B,2021_Wawa_250,40,3,19,usa,Brandon_Jones,Brandon Jones,Menards / Patriot Lighting,Joe_Gibbs,Toyota,17,engine,0,1,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,1,8,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / True Timber / BRCC,JR_Motorsports,Chevrolet,152,running,40,59,6
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,2,6,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,152,running,0,44,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,3,24,22,usa,Austin_Cindric,Austin Cindric,Snap-On Tools,Roger_Penske,Ford,152,running,1,46,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,4,3,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,152,running,4,42,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,5,5,10,usa,Jeb_Burton,Jeb Burton,Dynagro Seed,Matt_Kaulig,Chevrolet,152,running,0,32,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,6,4,7,usa,Justin_Allgaier,Justin Allgaier,Breyer's / Food Lion Feeds,JR_Motorsports,Chevrolet,152,running,19,39,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,7,28,23,usa,Tyler_Reddick,Tyler Reddick,Robert B. Our Co.,Chris_Our,Chevrolet,152,running,0,0,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,8,15,51,usa,Jeremy_Clements,Jeremy Clements,R.E. Goodson Construction / Fox Sports 98.3,Jeremy_Clements,Chevrolet,152,running,0,29,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,9,9,2,usa,Myatt_Snider,Myatt Snider,Crosley Furniture	,Richard_Childress,Chevrolet,152,running,0,31,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,10,22,36,canada,Alex_Labbe,Alex Labbe,Globocam / Workpro Tools,Mario_Gosselin,Chevrolet,152,running,0,27,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,11,12,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing / A-Game,Rod_Sieg,Ford,152,running,0,26,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,12,14,54,usa,Denny_Hamlin,Denny Hamlin,Sport Clips Haircuts,Joe_Gibbs,Toyota,152,running,43,0,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,13,10,02,usa,Ty_Dillon,Ty Dillon,Fr8 Auctions,Chris_Our,Chevrolet,152,running,0,24,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,14,19,1,usa,Michael_Annett,Michael Annett,Pilot / Flying J / Thank A Trucker,JR_Motorsports,Chevrolet,152,running,0,23,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,15,16,92,usa,Josh_Williams,Josh Williams,Workpro Tools,Mario_Gosselin,Chevrolet,152,running,0,22,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,16,17,4,usa,Landon_Cassill,Landon Cassill,Voyager,Johnny_Davis,Chevrolet,152,running,0,21,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,17,31,26,usa,Colin_Garrett,Colin Garrett,Mohawk Matt,Sam_Hunt,Toyota,152,running,0,20,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,18,26,17,usa,Mason_Massey,Mason Massey,Anderson Power / Gerber C&G,Rick_Ware,Chevrolet,152,running,0,19,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,19,32,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",Bucked Up Energy,Bobby_Dotter,Chevrolet,152,running,0,18,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,20,2,16,usa,A_J_Allmendinger,A.J. Allmendinger,Hyperice,Matt_Kaulig,Chevrolet,152,running,24,30,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,21,20,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers	,Scott_Borchetta,Chevrolet,152,running,0,16,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,22,39,90,usa,B_J_McLeod,B.J. McLeod,DGM Racing,Mario_Gosselin,Chevrolet,152,running,0,0,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,23,33,5,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Chevrolet,152,running,0,14,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,24,1,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,152,running,18,29,1
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,25,27,6,usa,Ryan_Vargas,Ryan Vargas,Monarch Roofing,Johnny_Davis,Chevrolet,152,running,0,12,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,26,21,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,KSDT CPA / Local Boy Outfitters,Johnny_Davis,Chevrolet,152,running,0,11,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,27,30,15,usa,Colby_Howard,Colby Howard,Project Hope Foundation,Johnny_Davis,Chevrolet,152,running,0,10,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,28,23,68,usa,Brandon_Brown,Brandon Brown,TradeTheChain.com,Jerry_Brown,Chevrolet,151,running,0,9,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,29,35,31,usa,Austin_Dillon,Austin Dillon,Swann Security,Jordan_Anderson,Chevrolet,151,running,0,0,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,30,18,61,usa,David_Starr,David Starr,Whataburger,Shigeaki_Hattori,Toyota,151,running,0,7,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,31,38,74,usa,Carson_Ware,Carson Ware,Jacob Companies,Mike_Harmon,Chevrolet,151,running,0,6,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,32,34,78,usa,Jesse_Little,Jesse Little,Shriners Hospitals 4 Children,B_J_McLeod,Chevrolet,150,running,0,5,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,33,25,19,usa,Brandon_Jones,Brandon Jones,Menards / Bali,Joe_Gibbs,Toyota,146,running,0,7,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,34,37,47,usa,Kyle_Weatherman,Kyle Weatherman,NWTF / Big Frig,Mike_Harmon,Chevrolet,134,running,0,3,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,35,36,99,usa,Ryan_Ellis,Ryan Ellis,CorvetteParts.net / Keen Parts	,B_J_McLeod,Toyota,133,running,0,2,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,36,29,66,usa,Timmy_Hill,Timmy Hill,Carl Long,Carl_Long,Ford,116,crash,3,0,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,37,13,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,Capital City Hauling,Tommy_Joe_Martins,Chevrolet,108,crash,0,1,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,38,7,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,107,crash,0,1,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,39,11,8,usa,Sam_Mayer,Sam Mayer,QPS Employment Group,JR_Motorsports,Chevrolet,45,brakes,0,1,0
+2021,B,2021_Sport_Clips_VFW_Help_a_Hero_200,40,40,52,usa,Gray_Gaulding,Gray Gaulding,Panini America,Jimmy_Means,Chevrolet,2,electrical,0,1,0
+2021,B,2021_Go_Bowling_250,1,3,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / True Timber / BRCC,JR_Motorsports,Chevrolet,250,running,22,50,5
+2021,B,2021_Go_Bowling_250,2,4,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,250,running,0,35,0
+2021,B,2021_Go_Bowling_250,3,27,26,usa,John_Hunter_Nemechek,John Hunter Nemechek,Safeway,Sam_Hunt,Toyota,250,running,0,0,0
+2021,B,2021_Go_Bowling_250,4,5,7,usa,Justin_Allgaier,Justin Allgaier,Brandt,JR_Motorsports,Chevrolet,250,running,0,33,0
+2021,B,2021_Go_Bowling_250,5,20,98,usa,Riley_Herbst,Riley Herbst,Go Bowling,Stewart_Haas_Racing,Ford,250,running,0,35,0
+2021,B,2021_Go_Bowling_250,6,12,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,250,running,17,41,0
+2021,B,2021_Go_Bowling_250,7,15,54,usa,Ty_Gibbs,Ty Gibbs,Monster Energy,Joe_Gibbs,Toyota,250,running,67,47,1
+2021,B,2021_Go_Bowling_250,8,17,68,usa,Brandon_Brown,Brandon Brown,TradeTheChain.com,Jerry_Brown,Chevrolet,250,running,0,29,0
+2021,B,2021_Go_Bowling_250,9,2,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,250,running,43,41,0
+2021,B,2021_Go_Bowling_250,10,6,10,usa,Jeb_Burton,Jeb Burton,State Water Heaters,Matt_Kaulig,Chevrolet,250,running,0,27,0
+2021,B,2021_Go_Bowling_250,11,19,02,usa,Ty_Dillon,Ty Dillon,Fr8 Auctions,Chris_Our,Chevrolet,250,running,0,26,0
+2021,B,2021_Go_Bowling_250,12,38,99,usa,Sam_Mayer,Sam Mayer,QPS Employment Group,B_J_McLeod,Chevrolet,250,running,7,29,0
+2021,B,2021_Go_Bowling_250,13,11,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing / A-Game,Rod_Sieg,Ford,250,running,0,26,0
+2021,B,2021_Go_Bowling_250,14,30,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.","Unilever ""United For America""",JR_Motorsports,Chevrolet,250,running,0,23,0
+2021,B,2021_Go_Bowling_250,15,32,47,usa,Kyle_Weatherman,Kyle Weatherman,12 Hour Auctions / Big Frig,Mike_Harmon,Chevrolet,250,running,0,22,0
+2021,B,2021_Go_Bowling_250,16,1,22,usa,Austin_Cindric,Austin Cindric,Car Shop,Roger_Penske,Ford,250,running,50,34,0
+2021,B,2021_Go_Bowling_250,17,34,78,usa,Mason_Massey,Mason Massey,Gerber Collision & Glass,B_J_McLeod,Toyota,250,running,0,20,0
+2021,B,2021_Go_Bowling_250,18,8,16,usa,A_J_Allmendinger,A.J. Allmendinger,Hyperice,Matt_Kaulig,Chevrolet,250,running,39,38,1
+2021,B,2021_Go_Bowling_250,19,13,36,canada,Alex_Labbe,Alex Labbe,Prolon / Rousseau / Silver Wax,Mario_Gosselin,Chevrolet,250,running,0,18,0
+2021,B,2021_Go_Bowling_250,20,16,19,usa,Brandon_Jones,Brandon Jones,Menards / Atlas,Joe_Gibbs,Toyota,250,running,0,17,0
+2021,B,2021_Go_Bowling_250,21,21,5,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Chevrolet,250,running,0,16,0
+2021,B,2021_Go_Bowling_250,22,10,1,usa,Michael_Annett,Michael Annett,"Pilot / Flying J ""Thank A Trucker""",JR_Motorsports,Chevrolet,250,running,0,15,0
+2021,B,2021_Go_Bowling_250,23,14,92,usa,Josh_Williams,Josh Williams,Workpro Tools,Mario_Gosselin,Chevrolet,250,running,0,14,0
+2021,B,2021_Go_Bowling_250,24,33,31,usa,Josh_Berry,Josh Berry,Bommarito.com / Solid Rock Carriers,Jordan_Anderson,Chevrolet,250,running,0,13,0
+2021,B,2021_Go_Bowling_250,25,9,2,usa,Myatt_Snider,Myatt Snider,Superior Essex,Richard_Childress,Chevrolet,250,running,0,12,0
+2021,B,2021_Go_Bowling_250,26,7,51,usa,Jeremy_Clements,Jeremy Clements,One Stop Convenience Store,Jeremy_Clements,Chevrolet,250,running,0,11,0
+2021,B,2021_Go_Bowling_250,27,28,15,usa,Bayley_Currey,Bayley Currey,JD Motorsports,Johnny_Davis,Chevrolet,250,running,0,0,0
+2021,B,2021_Go_Bowling_250,28,37,66,usa,David_Starr,David Starr,Sharelife Vacations / Helluva Ranch,Carl_Long,Toyota,249,running,0,9,0
+2021,B,2021_Go_Bowling_250,29,29,17,usa,J_J_Yeley,J.J. Yeley,Thundercat Technology,Rick_Ware,Chevrolet,248,running,0,14,0
+2021,B,2021_Go_Bowling_250,30,26,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Life GR 9/11 Tribute,Johnny_Davis,Chevrolet,248,running,0,7,0
+2021,B,2021_Go_Bowling_250,31,23,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",Bucked Up Energy,Bobby_Dotter,Chevrolet,248,running,0,6,0
+2021,B,2021_Go_Bowling_250,32,22,23,usa,Patrick_Emerling,Patrick Emerling,Spirit Snorkeling,Chris_Our,Chevrolet,248,running,0,6,0
+2021,B,2021_Go_Bowling_250,33,35,90,usa,Spencer_Boyd,Spencer Boyd,Mini Doge,Mario_Gosselin,Chevrolet,248,running,0,0,0
+2021,B,2021_Go_Bowling_250,34,40,52,japan,Akinori_Ogata,Akinori Ogata,Kyowa Precision,Jimmy_Means,Chevrolet,247,running,0,0,0
+2021,B,2021_Go_Bowling_250,35,25,6,usa,Ryan_Vargas,Ryan Vargas,Rich Mar Florist,Johnny_Davis,Chevrolet,246,running,0,2,0
+2021,B,2021_Go_Bowling_250,36,18,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,246,running,0,1,0
+2021,B,2021_Go_Bowling_250,37,24,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,Alpha Prime,Tommy_Joe_Martins,Chevrolet,227,crash,5,10,0
+2021,B,2021_Go_Bowling_250,38,36,61,usa,Stephen_Leicht,Stephen Leicht,Jani-King,Shigeaki_Hattori,Toyota,220,running,0,1,0
+2021,B,2021_Go_Bowling_250,39,31,4,usa,Landon_Cassill,Landon Cassill,JD Motorsports,Johnny_Davis,Chevrolet,179,ignition,0,1,0
+2021,B,2021_Go_Bowling_250,40,39,74,usa,C_J_McLaughlin,C.J. McLaughlin,Sci Aps,Mike_Harmon,Chevrolet,111,crash,0,0,0
+2021,B,2021_Food_City_300,1,10,16,usa,A_J_Allmendinger,A.J. Allmendinger,Barger Precast,Matt_Kaulig,Chevrolet,306,running,1,50,5
+2021,B,2021_Food_City_300,2,9,22,usa,Austin_Cindric,Austin Cindric,Menards / Richmond,Roger_Penske,Ford,306,running,75,45,0
+2021,B,2021_Food_City_300,3,8,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,306,running,0,34,0
+2021,B,2021_Food_City_300,4,2,7,usa,Justin_Allgaier,Justin Allgaier,Brandt,JR_Motorsports,Chevrolet,306,running,92,52,1
+2021,B,2021_Food_City_300,5,16,19,usa,Brandon_Jones,Brandon Jones,Yee Yee,Joe_Gibbs,Toyota,306,running,0,38,0
+2021,B,2021_Food_City_300,6,5,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,306,running,0,45,0
+2021,B,2021_Food_City_300,7,6,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,306,running,0,31,0
+2021,B,2021_Food_City_300,8,17,2,usa,Myatt_Snider,Myatt Snider,Crosley Furniture,Richard_Childress,Chevrolet,306,running,0,29,0
+2021,B,2021_Food_City_300,9,22,8,usa,Sam_Mayer,Sam Mayer,Tire Pros,JR_Motorsports,Chevrolet,306,running,49,34,0
+2021,B,2021_Food_City_300,10,4,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,306,running,78,46,1
+2021,B,2021_Food_City_300,11,3,54,usa,Ty_Gibbs,Ty Gibbs,Monster Energy / Joe Gibbs Racing,Joe_Gibbs,Toyota,306,running,0,32,0
+2021,B,2021_Food_City_300,12,1,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / True Timber / BRCC,JR_Motorsports,Chevrolet,306,running,4,41,0
+2021,B,2021_Food_City_300,13,13,51,usa,Jeremy_Clements,Jeremy Clements,All South Electric,Jeremy_Clements,Chevrolet,306,running,0,24,0
+2021,B,2021_Food_City_300,14,11,68,usa,Brandon_Brown,Brandon Brown,Jabs Construction,Jerry_Brown,Chevrolet,306,running,0,23,0
+2021,B,2021_Food_City_300,15,31,23,usa,Ty_Dillon,Ty Dillon,Home Town Lenders,Chris_Our,Chevrolet,305,running,0,22,0
+2021,B,2021_Food_City_300,16,32,31,usa,Sage_Karam,Sage Karam,Montage Mountain,Jordan_Anderson,Chevrolet,305,running,0,21,0
+2021,B,2021_Food_City_300,17,36,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",KeepItSecure.net,Bobby_Dotter,Chevrolet,305,running,0,20,0
+2021,B,2021_Food_City_300,18,39,52,usa,Gray_Gaulding,Gray Gaulding,Panini American / UFC Prizm,Jimmy_Means,Chevrolet,305,running,0,19,0
+2021,B,2021_Food_City_300,19,14,36,canada,Alex_Labbe,Alex Labbe,Prolon / Rousseau / Silver Wax,Mario_Gosselin,Chevrolet,305,running,0,18,0
+2021,B,2021_Food_City_300,20,18,92,usa,Josh_Williams,Josh Williams,Workpro Tools,Mario_Gosselin,Chevrolet,305,running,0,17,0
+2021,B,2021_Food_City_300,21,21,26,usa,Brandon_Gdovic,Brandon Gdovic,Snap Mobile.Shop Alternate,Sam_Hunt,Toyota,305,running,0,16,0
+2021,B,2021_Food_City_300,22,27,5,usa,Stefan_Parsons,Stefan Parsons,Sokal Digital,B_J_McLeod,Toyota,304,running,0,15,0
+2021,B,2021_Food_City_300,23,23,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,AAN Adjusters,Tommy_Joe_Martins,Chevrolet,304,running,0,14,0
+2021,B,2021_Food_City_300,24,7,10,usa,Jeb_Burton,Jeb Burton,Nutrien Ag Solutions,Matt_Kaulig,Chevrolet,303,running,7,14,0
+2021,B,2021_Food_City_300,25,29,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Forever Lawn,Johnny_Davis,Chevrolet,303,running,0,12,0
+2021,B,2021_Food_City_300,26,37,15,usa,B_J_McLeod,B.J. McLeod,JD Motorsports,Johnny_Davis,Chevrolet,303,running,0,0,0
+2021,B,2021_Food_City_300,27,30,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,302,running,0,10,0
+2021,B,2021_Food_City_300,28,25,78,usa,Jesse_Little,Jesse Little,David's Electric,B_J_McLeod,Chevrolet,302,running,0,9,0
+2021,B,2021_Food_City_300,29,19,47,usa,Kyle_Weatherman,Kyle Weatherman,Axe Crossbows,Mike_Harmon,Chevrolet,301,running,0,8,0
+2021,B,2021_Food_City_300,30,24,66,usa,David_Starr,David Starr,Whataburger,Carl_Long,Toyota,300,running,0,7,0
+2021,B,2021_Food_City_300,31,33,90,usa,Spencer_Boyd,Spencer Boyd,Alloy / Beerpongtoss,Mario_Gosselin,Chevrolet,298,running,0,0,0
+2021,B,2021_Food_City_300,32,34,17,usa,Carson_Ware,Carson Ware,Pounds Property Management,Rick_Ware,Chevrolet,297,running,0,5,0
+2021,B,2021_Food_City_300,33,38,61,usa,Chad_Finchum,Chad Finchum,Black Oak Contracting,Shigeaki_Hattori,Toyota,282,running,0,4,0
+2021,B,2021_Food_City_300,34,12,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing / A-Game,Rod_Sieg,Ford,259,fuel pump,0,5,0
+2021,B,2021_Food_City_300,35,15,1,usa,Josh_Berry,Josh Berry,"Pilot / Flying J ""Thank A Trucker""",JR_Motorsports,Chevrolet,215,running,0,2,0
+2021,B,2021_Food_City_300,36,26,99,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Chevrolet,108,crash,0,1,0
+2021,B,2021_Food_City_300,37,28,6,usa,Ryan_Vargas,Ryan Vargas,JD Motorsports,Johnny_Davis,Chevrolet,94,brakes,0,1,0
+2021,B,2021_Food_City_300,38,40,74,usa,Bayley_Currey,Bayley Currey,Date Mining / JM Steel,Mike_Harmon,Chevrolet,53,brakes,0,0,0
+2021,B,2021_Food_City_300,39,35,4,usa,Landon_Cassill,Landon Cassill,Voyager,Johnny_Davis,Chevrolet,40,electrical,0,1,0
+2021,B,2021_Food_City_300,40,20,02,usa,Brett_Moffitt,Brett Moffitt,Fr8 Auctions,Chris_Our,Chevrolet,9,crash,0,1,0
+2021,B,2021_Alsco_Uniforms_302,1,15,1,usa,Josh_Berry,Josh Berry,"Pilot / Flying J ""Thank A Trucker""",JR_Motorsports,Chevrolet,201,running,38,47,5
+2021,B,2021_Alsco_Uniforms_302,2,3,7,usa,Justin_Allgaier,Justin Allgaier,Brandt,JR_Motorsports,Chevrolet,201,running,90,45,1
+2021,B,2021_Alsco_Uniforms_302,3,9,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / True Timber / BRCC,JR_Motorsports,Chevrolet,201,running,1,47,0
+2021,B,2021_Alsco_Uniforms_302,4,1,22,usa,Austin_Cindric,Austin Cindric,Odyssey Battery,Roger_Penske,Ford,201,running,33,49,0
+2021,B,2021_Alsco_Uniforms_302,5,7,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,201,running,0,47,0
+2021,B,2021_Alsco_Uniforms_302,6,8,19,usa,Brandon_Jones,Brandon Jones,Menards / Jeld-Wen,Joe_Gibbs,Toyota,201,running,0,34,0
+2021,B,2021_Alsco_Uniforms_302,7,2,16,usa,A_J_Allmendinger,A.J. Allmendinger,Hyperice,Matt_Kaulig,Chevrolet,201,running,20,42,1
+2021,B,2021_Alsco_Uniforms_302,8,28,31,usa,Ty_Dillon,Ty Dillon,South Point Hotel & Casino,Jordan_Anderson,Chevrolet,201,running,17,38,0
+2021,B,2021_Alsco_Uniforms_302,9,4,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,201,running,2,29,0
+2021,B,2021_Alsco_Uniforms_302,10,5,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,201,running,0,32,0
+2021,B,2021_Alsco_Uniforms_302,11,6,54,usa,Ty_Gibbs,Ty Gibbs,Interstate Batteries,Joe_Gibbs,Toyota,200,running,0,37,0
+2021,B,2021_Alsco_Uniforms_302,12,27,02,usa,Brett_Moffitt,Brett Moffitt,Our Motorsports,Chris_Our,Chevrolet,200,running,0,29,0
+2021,B,2021_Alsco_Uniforms_302,13,36,15,usa,Bayley_Currey,Bayley Currey,JD Motorsports,Johnny_Davis,Chevrolet,200,running,0,0,0
+2021,B,2021_Alsco_Uniforms_302,14,19,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,Market Rebellion,Tommy_Joe_Martins,Chevrolet,200,running,0,23,0
+2021,B,2021_Alsco_Uniforms_302,15,12,2,usa,Myatt_Snider,Myatt Snider,Alsco Uniforms,Richard_Childress,Chevrolet,200,running,0,22,0
+2021,B,2021_Alsco_Uniforms_302,16,37,4,usa,Landon_Cassill,Landon Cassill,Voyager,Johnny_Davis,Chevrolet,200,running,0,21,0
+2021,B,2021_Alsco_Uniforms_302,17,20,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing / A-Game,Rod_Sieg,Ford,199,running,0,24,0
+2021,B,2021_Alsco_Uniforms_302,18,26,47,usa,Kyle_Weatherman,Kyle Weatherman,PORAC,Mike_Harmon,Chevrolet,199,running,0,19,0
+2021,B,2021_Alsco_Uniforms_302,19,31,6,usa,Ryan_Vargas,Ryan Vargas,KSDT,Johnny_Davis,Chevrolet,199,running,0,18,0
+2021,B,2021_Alsco_Uniforms_302,20,24,23,usa,Blaine_Perkins,Blaine Perkins,Raceline,Chris_Our,Chevrolet,198,running,0,17,0
+2021,B,2021_Alsco_Uniforms_302,21,38,61,usa,David_Starr,David Starr,Angry Crab Shack,Shigeaki_Hattori,Toyota,197,running,0,16,0
+2021,B,2021_Alsco_Uniforms_302,22,16,68,usa,Brandon_Brown,Brandon Brown,TradeTheChain.com,Jerry_Brown,Chevrolet,197,running,0,15,0
+2021,B,2021_Alsco_Uniforms_302,23,30,78,usa,Mason_Massey,Mason Massey,Gerber Collision & Glass,B_J_McLeod,Toyota,197,running,0,14,0
+2021,B,2021_Alsco_Uniforms_302,24,18,92,usa,Josh_Williams,Josh Williams,Silverton Hotel & Casino,Mario_Gosselin,Chevrolet,196,running,0,13,0
+2021,B,2021_Alsco_Uniforms_302,25,32,90,usa,Spencer_Boyd,Spencer Boyd,Mini Doge,Mario_Gosselin,Chevrolet,196,running,0,0,0
+2021,B,2021_Alsco_Uniforms_302,26,23,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers	,Scott_Borchetta,Chevrolet,195,running,0,11,0
+2021,B,2021_Alsco_Uniforms_302,27,34,66,usa,Matt_Jaskol,Matt Jaskol,Autoparts4less.com,Carl_Long,Toyota,195,running,0,10,0
+2021,B,2021_Alsco_Uniforms_302,28,29,5,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Chevrolet,194,running,0,9,0
+2021,B,2021_Alsco_Uniforms_302,29,22,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,K9 Grass by Forever Lawn,Johnny_Davis,Chevrolet,194,running,0,8,0
+2021,B,2021_Alsco_Uniforms_302,30,39,99,usa,B_J_McLeod,B.J. McLeod,B.J. McLeod,B_J_McLeod,Chevrolet,193,running,0,0,0
+2021,B,2021_Alsco_Uniforms_302,31,35,52,usa,Carson_Ware,Carson Ware,KeepItSecure.net,Jimmy_Means,Toyota,113,electrical,0,6,0
+2021,B,2021_Alsco_Uniforms_302,32,40,74,usa,C_J_McLaughlin,C.J. McLaughlin,Sci Aps,Mike_Harmon,Chevrolet,100,overheating,0,5,0
+2021,B,2021_Alsco_Uniforms_302,33,10,98,usa,Riley_Herbst,Riley Herbst,South Point,Stewart_Haas_Racing,Ford,31,crash,0,4,0
+2021,B,2021_Alsco_Uniforms_302,34,11,8,usa,Sam_Mayer,Sam Mayer,Big Machine / Carly Pearce,JR_Motorsports,Chevrolet,31,crash,0,3,0
+2021,B,2021_Alsco_Uniforms_302,35,25,26,usa,Dylan_Lupton,Dylan Lupton,Marques General Engineering	,Sam_Hunt,Toyota,31,crash,0,0,0
+2021,B,2021_Alsco_Uniforms_302,36,14,10,usa,Jeb_Burton,Jeb Burton,Nutrien Ag Solutions	,Matt_Kaulig,Chevrolet,30,crash,0,1,0
+2021,B,2021_Alsco_Uniforms_302,37,33,17,usa,J_J_Yeley,J.J. Yeley,Parler,Rick_Ware,Chevrolet,30,crash,0,1,0
+2021,B,2021_Alsco_Uniforms_302,38,17,36,canada,Alex_Labbe,Alex Labbe,Larue Industrial Snowblowers,Mario_Gosselin,Chevrolet,30,crash,0,1,0
+2021,B,2021_Alsco_Uniforms_302,39,13,51,usa,Jeremy_Clements,Jeremy Clements,First Pacific Funding,Jeremy_Clements,Chevrolet,30,crash,0,1,0
+2021,B,2021_Alsco_Uniforms_302,40,21,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",Bucked Up Energy,Bobby_Dotter,Chevrolet,30,crash,0,1,0
+2021,B,2021_Sparks_300,1,19,68,usa,Brandon_Brown,Brandon Brown,Original Larry's Hard Lemonade,Jerry_Brown,Chevrolet,107,running,8,40,5
+2021,B,2021_Sparks_300,2,7,19,usa,Brandon_Jones,Brandon Jones,Menards / Little Hugs,Joe_Gibbs,Toyota,107,running,12,38,0
+2021,B,2021_Sparks_300,3,1,7,usa,Justin_Allgaier,Justin Allgaier,Brandt,JR_Motorsports,Chevrolet,107,running,7,44,0
+2021,B,2021_Sparks_300,4,6,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,107,running,0,34,0
+2021,B,2021_Sparks_300,5,29,31,usa,Jordan_Anderson,Jordan Anderson,Bommarito Automotive Group,Jordan_Anderson,Chevrolet,107,running,0,0,0
+2021,B,2021_Sparks_300,6,8,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,107,running,0,34,0
+2021,B,2021_Sparks_300,7,14,10,usa,Jeb_Burton,Jeb Burton,Nutrien Ag Solutions,Matt_Kaulig,Chevrolet,107,running,7,44,0
+2021,B,2021_Sparks_300,8,2,22,usa,Austin_Cindric,Austin Cindric,Carquest Auto Parts,Roger_Penske,Ford,107,running,10,38,0
+2021,B,2021_Sparks_300,9,3,1,usa,Josh_Berry,Josh Berry,TMC Transportation,JR_Motorsports,Chevrolet,107,running,3,28,0
+2021,B,2021_Sparks_300,10,40,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",G Coin,Bobby_Dotter,Chevrolet,107,running,1,27,0
+2021,B,2021_Sparks_300,11,17,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing / A-Game,Rod_Sieg,Ford,107,running,0,26,0
+2021,B,2021_Sparks_300,12,26,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,107,running,0,25,0
+2021,B,2021_Sparks_300,13,23,23,usa,Blaine_Perkins,Blaine Perkins,Circle B Diecast,Chris_Our,Chevrolet,107,running,2,36,1
+2021,B,2021_Sparks_300,14,24,92,usa,Josh_Williams,Josh Williams,Star Brite / Star Tron,Mario_Gosselin,Chevrolet,107,running,0,23,0
+2021,B,2021_Sparks_300,15,39,52,usa,Joey_Gase,Joey Gase,Sparks Energy / Cross Eyed Owl,Jimmy_Means,Ford,107,running,0,22,0
+2021,B,2021_Sparks_300,16,38,99,usa,J_J_Yeley,J.J. Yeley,Figgers Wireless,B_J_McLeod,Chevrolet,107,running,0,21,0
+2021,B,2021_Sparks_300,17,33,26,usa,Santino_Ferrucci,Santino Ferrucci,Hy-Vee,Sam_Hunt,Toyota,107,running,0,20,0
+2021,B,2021_Sparks_300,18,18,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,AAN Adjusters,Tommy_Joe_Martins,Chevrolet,107,running,0,19,0
+2021,B,2021_Sparks_300,19,35,17,usa,Garrett_Smithley,Garrett Smithley,Black Draft Farm,Rick_Ware,Chevrolet,107,running,0,18,0
+2021,B,2021_Sparks_300,20,25,47,usa,Kyle_Weatherman,Kyle Weatherman,BowhuntersUnited.com,Mike_Harmon,Chevrolet,107,running,0,17,0
+2021,B,2021_Sparks_300,21,32,36,canada,Alex_Labbe,Alex Labbe,Can-Am,Mario_Gosselin,Chevrolet,107,running,1,16,0
+2021,B,2021_Sparks_300,22,11,54,usa,John_Hunter_Nemechek,John Hunter Nemechek,Sport Clips Haircuts	,Joe_Gibbs,Toyota,107,running,8,0,0
+2021,B,2021_Sparks_300,23,30,5,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Toyota,106,running,0,14,0
+2021,B,2021_Sparks_300,24,15,51,usa,Jeremy_Clements,Jeremy Clements,All South Electric,Jeremy_Clements,Chevrolet,104,running,0,13,0
+2021,B,2021_Sparks_300,25,9,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,101,crash,2,22,0
+2021,B,2021_Sparks_300,26,16,02,usa,Brett_Moffitt,Brett Moffitt,Fr8 Auctions,Chris_Our,Chevrolet,101,crash,3,20,0
+2021,B,2021_Sparks_300,27,13,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,101,crash,26,25,0
+2021,B,2021_Sparks_300,28,34,66,usa,Jason_White_(1),Jason White,CMR Construction & Roofing / A-Game,Carl_Long,Ford,101,crash,0,9,0
+2021,B,2021_Sparks_300,29,31,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Absaroka,Johnny_Davis,Chevrolet,93,crash,0,8,0
+2021,B,2021_Sparks_300,30,4,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / True Timber / BRCC,JR_Motorsports,Chevrolet,88,crash,8,8,0
+2021,B,2021_Sparks_300,31,10,2,usa,Myatt_Snider,Myatt Snider,Tax Slayer,Richard_Childress,Chevrolet,88,crash,0,11,0
+2021,B,2021_Sparks_300,32,37,90,usa,Caesar_Bacarella,Caesar Bacarella,AP Regimen / AP Primebites,Mario_Gosselin,Chevrolet,88,crash,0,5,0
+2021,B,2021_Sparks_300,33,22,6,usa,Ryan_Vargas,Ryan Vargas,MaintenX,Johnny_Davis,Chevrolet,88,crash,0,4,0
+2021,B,2021_Sparks_300,34,36,74,usa,C_J_McLaughlin,C.J. McLaughlin,Integrated Recycling Tech,Mike_Harmon,Chevrolet,88,crash,0,3,0
+2021,B,2021_Sparks_300,35,27,78,usa,Mason_Massey,Mason Massey,Gerber Collision & Glass,B_J_McLeod,Toyota,88,crash,4,2,0
+2021,B,2021_Sparks_300,36,20,15,usa,Bayley_Currey,Bayley Currey,JD Motorsports,Johnny_Davis,Chevrolet,73,driveshaft,2,0,0
+2021,B,2021_Sparks_300,37,21,4,usa,Landon_Cassill,Landon Cassill,Voyager,Johnny_Davis,Chevrolet,50,engine,0,1,0
+2021,B,2021_Sparks_300,38,12,8,usa,Sam_Mayer,Sam Mayer,QPS Employment Group,JR_Motorsports,Chevrolet,24,crash,0,1,0
+2021,B,2021_Sparks_300,39,5,16,usa,A_J_Allmendinger,A.J. Allmendinger,Gold Fish Casino Slots,Matt_Kaulig,Chevrolet,24,crash,3,1,0
+2021,B,2021_Sparks_300,40,28,61,usa,David_Starr,David Starr,Whataburger,Shigeaki_Hattori,Toyota,20,engine,0,1,0
+2021,B,2021_Drive_For_the_Cure_250,1,14,16,usa,A_J_Allmendinger,A.J. Allmendinger,Hyperice,Matt_Kaulig,Chevrolet,68,running,21,49,5
+2021,B,2021_Drive_For_the_Cure_250,2,1,22,usa,Austin_Cindric,Austin Cindric,Menards / Richmond,Roger_Penske,Ford,68,running,22,35,0
+2021,B,2021_Drive_For_the_Cure_250,3,3,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,68,running,17,54,2
+2021,B,2021_Drive_For_the_Cure_250,4,5,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,68,running,0,48,0
+2021,B,2021_Drive_For_the_Cure_250,5,6,19,usa,Brandon_Jones,Brandon Jones,Toyota,Joe_Gibbs,Toyota,68,running,0,42,0
+2021,B,2021_Drive_For_the_Cure_250,6,10,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / True Timber / BRCC,JR_Motorsports,Chevrolet,68,running,1,46,0
+2021,B,2021_Drive_For_the_Cure_250,7,37,90,usa,Preston_Pardus,Preston Pardus,Chinchor Electric / Danus,Mario_Gosselin,Chevrolet,68,running,0,30,0
+2021,B,2021_Drive_For_the_Cure_250,8,13,2,usa,Myatt_Snider,Myatt Snider,Tax Slayer,Richard_Childress,Chevrolet,68,running,0,37,0
+2021,B,2021_Drive_For_the_Cure_250,9,2,7,usa,Justin_Allgaier,Justin Allgaier,Brandt,JR_Motorsports,Chevrolet,68,running,0,28,0
+2021,B,2021_Drive_For_the_Cure_250,10,15,8,usa,Sam_Mayer,Sam Mayer,QPS Employment Group,JR_Motorsports,Chevrolet,68,running,0,28,0
+2021,B,2021_Drive_For_the_Cure_250,11,17,92,usa,Josh_Williams,Josh Williams,Workpro Tools,Mario_Gosselin,Chevrolet,68,running,0,26,0
+2021,B,2021_Drive_For_the_Cure_250,12,11,51,usa,Jeremy_Clements,Jeremy Clements,All South Electric,Jeremy_Clements,Chevrolet,68,running,0,32,0
+2021,B,2021_Drive_For_the_Cure_250,13,7,10,usa,Jeb_Burton,Jeb Burton,Radiate Next,Matt_Kaulig,Chevrolet,68,running,0,28,0
+2021,B,2021_Drive_For_the_Cure_250,14,20,36,canada,Alex_Labbe,Alex Labbe,Prolon / Globocam / GBI,Mario_Gosselin,Chevrolet,68,running,0,23,0
+2021,B,2021_Drive_For_the_Cure_250,15,8,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,68,running,0,29,0
+2021,B,2021_Drive_For_the_Cure_250,16,19,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,68,running,0,21,0
+2021,B,2021_Drive_For_the_Cure_250,17,35,4,usa,Landon_Cassill,Landon Cassill,Voyager,Johnny_Davis,Chevrolet,68,running,0,20,0
+2021,B,2021_Drive_For_the_Cure_250,18,40,61,usa,Austin_Hill,Austin Hill,AISIN,Shigeaki_Hattori,Toyota,68,running,0,0,0
+2021,B,2021_Drive_For_the_Cure_250,19,23,99,usa,J_J_Yeley,J.J. Yeley,UBCF,B_J_McLeod,Chevrolet,68,running,0,18,0
+2021,B,2021_Drive_For_the_Cure_250,20,32,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Azalea Gynecology,Johnny_Davis,Chevrolet,68,running,0,17,0
+2021,B,2021_Drive_For_the_Cure_250,21,12,54,usa,Ty_Gibbs,Ty Gibbs,Monster Energy,Joe_Gibbs,Toyota,68,running,7,26,0
+2021,B,2021_Drive_For_the_Cure_250,22,16,68,usa,Brandon_Brown,Brandon Brown,American Petrolog,Jerry_Brown,Chevrolet,68,running,0,15,0
+2021,B,2021_Drive_For_the_Cure_250,23,24,47,usa,Kyle_Weatherman,Kyle Weatherman,Axe Crossbows,Mike_Harmon,Chevrolet,68,running,0,14,0
+2021,B,2021_Drive_For_the_Cure_250,24,36,78,usa,Stefan_Parsons,Stefan Parsons,Sokal,B_J_McLeod,Chevrolet,68,running,0,13,0
+2021,B,2021_Drive_For_the_Cure_250,25,28,31,usa,Sage_Karam,Sage Karam,Black Ops by Ric Prado,Jordan_Anderson,Chevrolet,68,running,0,12,0
+2021,B,2021_Drive_For_the_Cure_250,26,25,23,usa,Ty_Dillon,Ty Dillon,Koucar Management,Chris_Our,Chevrolet,68,running,0,11,0
+2021,B,2021_Drive_For_the_Cure_250,27,4,1,usa,Michael_Annett,Michael Annett,TMC Transportation,JR_Motorsports,Chevrolet,68,running,0,10,0
+2021,B,2021_Drive_For_the_Cure_250,28,30,17,usa,Joe_Graf_Jr,"Joe Graf, Jr.",Arrowhead Brass,Rick_Ware,Chevrolet,67,running,0,9,0
+2021,B,2021_Drive_For_the_Cure_250,29,29,26,usa,Will_Rodgers,Will Rodgers,Good RX / Race To End Hep C,Sam_Hunt,Toyota,67,running,0,8,0
+2021,B,2021_Drive_For_the_Cure_250,30,26,5,usa,Matt_Mills,Matt Mills,Thompson Electric,B_J_McLeod,Toyota,67,running,0,7,0
+2021,B,2021_Drive_For_the_Cure_250,31,33,52,usa,Spencer_Boyd,Spencer Boyd,Rimtyme,Jimmy_Means,Chevrolet,67,running,0,0,0
+2021,B,2021_Drive_For_the_Cure_250,32,18,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing / A-Game,Rod_Sieg,Ford,66,running,0,5,0
+2021,B,2021_Drive_For_the_Cure_250,33,21,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,AAN Adjusters,Tommy_Joe_Martins,Chevrolet,63,crash,0,4,0
+2021,B,2021_Drive_For_the_Cure_250,34,9,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,61,suspension,0,7,0
+2021,B,2021_Drive_For_the_Cure_250,35,34,66,netherlands,Loris_Hezemans,Loris Hezemans,Hezeberg Systems,Carl_Long,Toyota,59,electrical,0,2,0
+2021,B,2021_Drive_For_the_Cure_250,36,27,6,usa,Ryan_Vargas,Ryan Vargas,MaintenX,Johnny_Davis,Chevrolet,47,axle,0,1,0
+2021,B,2021_Drive_For_the_Cure_250,37,22,02,usa,Brett_Moffitt,Brett Moffitt,Home Town Lenders,Chris_Our,Chevrolet,30,crash,0,1,0
+2021,B,2021_Drive_For_the_Cure_250,38,31,07,usa,Josh_Bilicki,Josh Bilicki,Cover Seal,Bobby_Dotter,Chevrolet,28,crash,0,1,0
+2021,B,2021_Drive_For_the_Cure_250,39,38,15,usa,Kris_Wright,Kris Wright,First National Bank,Johnny_Davis,Toyota,19,suspension,0,0,0
+2021,B,2021_Drive_For_the_Cure_250,40,39,74,usa,Gray_Gaulding,Gray Gaulding,GPS Tab,Mike_Harmon,Chevrolet,10,rear gear,0,1,0
+2021,B,2021_Andys_Frozen_Custard_335,1,10,54,usa,John_Hunter_Nemechek,John Hunter Nemechek,Romco Equipment,Joe_Gibbs,Toyota,200,running,92,0,0
+2021,B,2021_Andys_Frozen_Custard_335,2,3,18,usa,Daniel_Hemric,Daniel Hemric,Craftsman,Joe_Gibbs,Toyota,200,running,55,44,0
+2021,B,2021_Andys_Frozen_Custard_335,3,5,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / True Timber / BRCC,JR_Motorsports,Chevrolet,200,running,0,45,0
+2021,B,2021_Andys_Frozen_Custard_335,4,6,7,usa,Justin_Allgaier,Justin Allgaier,Hellmann's / Sam's Club,JR_Motorsports,Chevrolet,200,running,0,43,0
+2021,B,2021_Andys_Frozen_Custard_335,5,2,22,usa,Austin_Cindric,Austin Cindric,Snap-On,Roger_Penske,Ford,200,running,34,42,1
+2021,B,2021_Andys_Frozen_Custard_335,6,1,16,usa,A_J_Allmendinger,A.J. Allmendinger,Andy's Frozen Custard,Matt_Kaulig,Chevrolet,200,running,13,40,0
+2021,B,2021_Andys_Frozen_Custard_335,7,4,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,200,running,0,41,0
+2021,B,2021_Andys_Frozen_Custard_335,8,8,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,200,running,6,33,0
+2021,B,2021_Andys_Frozen_Custard_335,9,9,1,usa,Michael_Annett,Michael Annett,Allstate Peterbilt Group,JR_Motorsports,Chevrolet,200,running,0,38,0
+2021,B,2021_Andys_Frozen_Custard_335,10,7,19,usa,Brandon_Jones,Brandon Jones,Century AC Supply,Joe_Gibbs,Toyota,200,running,0,27,0
+2021,B,2021_Andys_Frozen_Custard_335,11,13,10,usa,Jeb_Burton,Jeb Burton,Ferguson,Matt_Kaulig,Chevrolet,200,running,0,33,0
+2021,B,2021_Andys_Frozen_Custard_335,12,20,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,200,running,0,30,0
+2021,B,2021_Andys_Frozen_Custard_335,13,11,8,usa,Sam_Mayer,Sam Mayer,QPS Employment Group,JR_Motorsports,Chevrolet,200,running,0,32,0
+2021,B,2021_Andys_Frozen_Custard_335,14,22,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing / A-Game,Rod_Sieg,Ford,200,running,0,23,0
+2021,B,2021_Andys_Frozen_Custard_335,15,32,31,usa,Kaz_Grala,Kaz Grala,Bommarito.com / Easy Care,Jordan_Anderson,Chevrolet,200,running,0,0,0
+2021,B,2021_Andys_Frozen_Custard_335,16,26,02,usa,Brett_Moffitt,Brett Moffitt,Home Town Lenders,Chris_Our,Chevrolet,200,running,0,23,0
+2021,B,2021_Andys_Frozen_Custard_335,17,39,15,usa,Bayley_Currey,Bayley Currey,Fort Worth Screen Printing,Johnny_Davis,Chevrolet,200,running,0,0,0
+2021,B,2021_Andys_Frozen_Custard_335,18,24,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,Market Rebellion,Tommy_Joe_Martins,Chevrolet,200,running,0,19,0
+2021,B,2021_Andys_Frozen_Custard_335,19,15,92,usa,Josh_Williams,Josh Williams,Workpro Tools,Mario_Gosselin,Chevrolet,200,running,0,18,0
+2021,B,2021_Andys_Frozen_Custard_335,20,21,61,usa,Austin_Hill,Austin Hill,Toyota Tsusho,Shigeaki_Hattori,Toyota,199,running,0,0,0
+2021,B,2021_Andys_Frozen_Custard_335,21,12,2,usa,Myatt_Snider,Myatt Snider,Crosley Furniture,Richard_Childress,Chevrolet,199,running,0,16,0
+2021,B,2021_Andys_Frozen_Custard_335,22,30,6,usa,Ryan_Vargas,Ryan Vargas,Swann Communications,Johnny_Davis,Chevrolet,199,running,0,15,0
+2021,B,2021_Andys_Frozen_Custard_335,23,23,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Forever Lawn,Johnny_Davis,Chevrolet,199,running,0,14,0
+2021,B,2021_Andys_Frozen_Custard_335,24,16,36,canada,Alex_Labbe,Alex Labbe,Can-Am,Mario_Gosselin,Chevrolet,199,running,0,13,0
+2021,B,2021_Andys_Frozen_Custard_335,25,25,47,usa,Kyle_Weatherman,Kyle Weatherman,Rage,Mike_Harmon,Chevrolet,199,running,0,12,0
+2021,B,2021_Andys_Frozen_Custard_335,26,38,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",Market,Bobby_Dotter,Chevrolet,198,running,0,11,0
+2021,B,2021_Andys_Frozen_Custard_335,27,35,5,usa,Mason_Massey,Mason Massey,Gerber Collision & Glass,B_J_McLeod,Toyota,196,running,0,10,0
+2021,B,2021_Andys_Frozen_Custard_335,28,28,90,usa,Spencer_Boyd,Spencer Boyd,Mini Doge,Mario_Gosselin,Chevrolet,196,running,0,0,0
+2021,B,2021_Andys_Frozen_Custard_335,29,14,51,usa,Jeremy_Clements,Jeremy Clements,Straitline,Jeremy_Clements,Chevrolet,196,running,0,11,0
+2021,B,2021_Andys_Frozen_Custard_335,30,37,52,usa,Joey_Gase,Joey Gase,Donate Life Texas,Jimmy_Means,Chevrolet,195,running,0,7,0
+2021,B,2021_Andys_Frozen_Custard_335,31,34,78,usa,Jesse_Little,Jesse Little,Apex Wireless,B_J_McLeod,Chevrolet,195,running,0,6,0
+2021,B,2021_Andys_Frozen_Custard_335,32,31,99,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Chevrolet,193,running,0,5,0
+2021,B,2021_Andys_Frozen_Custard_335,33,18,68,usa,Brandon_Brown,Brandon Brown,DFKitCar.com	,Jerry_Brown,Chevrolet,171,crash,0,5,0
+2021,B,2021_Andys_Frozen_Custard_335,34,36,66,usa,David_Starr,David Starr,Whataburger,Carl_Long,Toyota,152,engine,0,3,0
+2021,B,2021_Andys_Frozen_Custard_335,35,40,74,usa,C_J_McLaughlin,C.J. McLaughlin,Sci Aps,Mike_Harmon,Chevrolet,145,suspension,0,2,0
+2021,B,2021_Andys_Frozen_Custard_335,36,19,4,usa,Landon_Cassill,Landon Cassill,Voyager,Johnny_Davis,Chevrolet,108,electrical,0,1,0
+2021,B,2021_Andys_Frozen_Custard_335,37,27,23,usa,Tanner_Berryhill,Tanner Berryhill,Eclipse Claims Consulting,Chris_Our,Chevrolet,100,crash,0,1,0
+2021,B,2021_Andys_Frozen_Custard_335,38,29,26,usa,Dylan_Lupton,Dylan Lupton,Toyota Racing,Sam_Hunt,Toyota,100,crash,0,1,0
+2021,B,2021_Andys_Frozen_Custard_335,39,17,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,81,crash,0,1,0
+2021,B,2021_Andys_Frozen_Custard_335,40,33,17,usa,J_J_Yeley,J.J. Yeley,DFW Security,Rick_Ware,Chevrolet,37,engine,0,1,0
+2021,B,2021_Kansas_Lottery_300,1,10,54,usa,Ty_Gibbs,Ty Gibbs,Monster Energy,Joe_Gibbs,Toyota,200,running,14,56,5
+2021,B,2021_Kansas_Lottery_300,2,2,22,usa,Austin_Cindric,Austin Cindric,Odyssey Battery,Roger_Penske,Ford,200,running,151,53,1
+2021,B,2021_Kansas_Lottery_300,3,5,16,usa,A_J_Allmendinger,A.J. Allmendinger,Hyperice,Matt_Kaulig,Chevrolet,200,running,10,49,1
+2021,B,2021_Kansas_Lottery_300,4,6,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,200,running,0,36,0
+2021,B,2021_Kansas_Lottery_300,5,14,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing / A-Game,Rod_Sieg,Ford,200,running,0,32,0
+2021,B,2021_Kansas_Lottery_300,6,16,02,usa,Brett_Moffitt,Brett Moffitt,Concrete Supply,Chris_Our,Chevrolet,200,running,0,31,0
+2021,B,2021_Kansas_Lottery_300,7,8,1,usa,Michael_Annett,Michael Annett,Pilot / Flying J,JR_Motorsports,Chevrolet,200,running,0,31,0
+2021,B,2021_Kansas_Lottery_300,8,12,8,usa,Sam_Mayer,Sam Mayer,QPS Employment Group,JR_Motorsports,Chevrolet,200,running,0,31,0
+2021,B,2021_Kansas_Lottery_300,9,3,7,usa,Justin_Allgaier,Justin Allgaier,Brandt,JR_Motorsports,Chevrolet,200,running,0,37,0
+2021,B,2021_Kansas_Lottery_300,10,15,2,usa,Myatt_Snider,Myatt Snider,Louisiana Hot Sauce / Hy-Vee,Richard_Childress,Chevrolet,200,running,1,38,0
+2021,B,2021_Kansas_Lottery_300,11,9,19,usa,Brandon_Jones,Brandon Jones,Menards / Patriot Lighting,Joe_Gibbs,Toyota,200,running,0,29,0
+2021,B,2021_Kansas_Lottery_300,12,11,10,usa,Jeb_Burton,Jeb Burton,DynaGro Seed,Matt_Kaulig,Chevrolet,200,running,0,25,0
+2021,B,2021_Kansas_Lottery_300,13,13,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,200,running,0,24,0
+2021,B,2021_Kansas_Lottery_300,14,23,68,usa,Brandon_Brown,Brandon Brown,TradeTheChain.com,Jerry_Brown,Chevrolet,200,running,0,23,0
+2021,B,2021_Kansas_Lottery_300,15,1,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,200,running,15,39,0
+2021,B,2021_Kansas_Lottery_300,16,22,15,usa,Bayley_Currey,Bayley Currey,Fort Worth Screen Printing,Johnny_Davis,Chevrolet,200,running,0,0,0
+2021,B,2021_Kansas_Lottery_300,17,19,51,usa,Jeremy_Clements,Jeremy Clements,First Pacific Funding,Jeremy_Clements,Chevrolet,200,running,0,20,0
+2021,B,2021_Kansas_Lottery_300,18,39,17,usa,Garrett_Smithley,Garrett Smithley,Jacob Companies,Rick_Ware,Toyota,200,running,0,19,0
+2021,B,2021_Kansas_Lottery_300,19,38,4,usa,Landon_Cassill,Landon Cassill,Voyager,Johnny_Davis,Chevrolet,200,running,0,18,0
+2021,B,2021_Kansas_Lottery_300,20,27,31,usa,Jordan_Anderson,Jordan Anderson,Bommarito Automotive Group,Jordan_Anderson,Chevrolet,200,running,0,0,0
+2021,B,2021_Kansas_Lottery_300,21,25,47,usa,Kyle_Weatherman,Kyle Weatherman,Big Frig,Mike_Harmon,Chevrolet,200,running,0,16,0
+2021,B,2021_Kansas_Lottery_300,22,20,6,usa,Ryan_Vargas,Ryan Vargas,Swann Communications,Johnny_Davis,Chevrolet,200,running,0,15,0
+2021,B,2021_Kansas_Lottery_300,23,17,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,Alpha Prime,Tommy_Joe_Martins,Chevrolet,199,running,0,14,0
+2021,B,2021_Kansas_Lottery_300,24,34,23,usa,Patrick_Emerling,Patrick Emerling,Spirit Snorkeling,Chris_Our,Chevrolet,199,running,0,13,0
+2021,B,2021_Kansas_Lottery_300,25,31,99,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Chevrolet,199,running,0,12,0
+2021,B,2021_Kansas_Lottery_300,26,18,92,usa,Josh_Williams,Josh Williams,Workpro Tools,Mario_Gosselin,Chevrolet,198,running,0,11,0
+2021,B,2021_Kansas_Lottery_300,27,28,26,usa,Dylan_Lupton,Dylan Lupton,Toyota Racing,Sam_Hunt,Toyota,198,running,0,10,0
+2021,B,2021_Kansas_Lottery_300,28,24,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,JD Motorsports,Johnny_Davis,Chevrolet,198,running,0,9,0
+2021,B,2021_Kansas_Lottery_300,29,30,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",Eat Sleep Race,Bobby_Dotter,Chevrolet,198,running,0,8,0
+2021,B,2021_Kansas_Lottery_300,30,29,78,usa,Jesse_Little,Jesse Little,Shriners Hospital,B_J_McLeod,Chevrolet,197,running,0,7,0
+2021,B,2021_Kansas_Lottery_300,31,32,90,usa,Spencer_Boyd,Spencer Boyd,Mini Doge,Mario_Gosselin,Chevrolet,196,running,0,0,0
+2021,B,2021_Kansas_Lottery_300,32,36,61,netherlands,Loris_Hezemans,Loris Hezemans,Autoparts4less.com,Shigeaki_Hattori,Toyota,192,running,0,5,0
+2021,B,2021_Kansas_Lottery_300,33,21,36,canada,Alex_Labbe,Alex Labbe,Everest Coin / Prolon Controls	,Mario_Gosselin,Chevrolet,191,running,0,4,0
+2021,B,2021_Kansas_Lottery_300,34,7,20,usa,Harrison_Burton,Harrison Burton,Morton Buildings / Dex Imaging,Joe_Gibbs,Toyota,178,crash,0,7,0
+2021,B,2021_Kansas_Lottery_300,35,4,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / True Timber / BRCC,JR_Motorsports,Chevrolet,178,crash,9,13,0
+2021,B,2021_Kansas_Lottery_300,36,33,66,usa,David_Starr,David Starr,Brett Baier,Carl_Long,Ford,152,running,0,1,0
+2021,B,2021_Kansas_Lottery_300,37,26,5,usa,Mason_Massey,Mason Massey,Gerber Collision & Glass,B_J_McLeod,Toyota,133,crash,0,1,0
+2021,B,2021_Kansas_Lottery_300,38,35,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers	,Scott_Borchetta,Chevrolet,28,crash,0,1,0
+2021,B,2021_Kansas_Lottery_300,39,40,74,usa,Gray_Gaulding,Gray Gaulding,Findlay Cadillac,Mike_Harmon,Chevrolet,13,engine,0,1,0
+2021,B,2021_Kansas_Lottery_300,40,37,52,usa,Joey_Gase,Joey Gase,Donate Life Texas,Jimmy_Means,Chevrolet,2,electrical,0,1,0
+2021,B,2021_Dead_On_Tools_250,1,9,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / True Timber / BRCC,JR_Motorsports,Chevrolet,257,running,153,54,6
+2021,B,2021_Dead_On_Tools_250,2,1,22,usa,Austin_Cindric,Austin Cindric,CarQuest Auto Parts,Roger_Penske,Ford,257,running,64,51,1
+2021,B,2021_Dead_On_Tools_250,3,7,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,257,running,18,48,0
+2021,B,2021_Dead_On_Tools_250,4,11,8,usa,Sam_Mayer,Sam Mayer,Big Machine / John 5,JR_Motorsports,Chevrolet,257,running,0,33,0
+2021,B,2021_Dead_On_Tools_250,5,5,7,usa,Justin_Allgaier,Justin Allgaier,Hellmann's Fridge Hunters,JR_Motorsports,Chevrolet,257,running,0,40,0
+2021,B,2021_Dead_On_Tools_250,6,8,19,usa,Brandon_Jones,Brandon Jones,Menards / Dupont Air Filtration,Joe_Gibbs,Toyota,257,running,0,31,0
+2021,B,2021_Dead_On_Tools_250,7,3,16,usa,A_J_Allmendinger,A.J. Allmendinger,Hyperice,Matt_Kaulig,Chevrolet,257,running,0,41,0
+2021,B,2021_Dead_On_Tools_250,8,25,36,canada,Alex_Labbe,Alex Labbe,Rousseau / Prolon Controls / Globocam,Mario_Gosselin,Chevrolet,257,running,0,29,0
+2021,B,2021_Dead_On_Tools_250,9,18,51,usa,Jeremy_Clements,Jeremy Clements,Spartan Waste / Fox Sports,Jeremy_Clements,Chevrolet,257,running,0,30,0
+2021,B,2021_Dead_On_Tools_250,10,16,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,257,running,0,30,0
+2021,B,2021_Dead_On_Tools_250,11,22,92,usa,Josh_Williams,Josh Williams,Alloy / Sleep Well / StarTron,Mario_Gosselin,Chevrolet,257,running,0,26,0
+2021,B,2021_Dead_On_Tools_250,12,23,4,usa,Landon_Cassill,Landon Cassill,Voyager,Johnny_Davis,Chevrolet,257,running,0,25,0
+2021,B,2021_Dead_On_Tools_250,13,12,2,usa,Myatt_Snider,Myatt Snider,Tax Slayer,Richard_Childress,Chevrolet,257,running,0,25,0
+2021,B,2021_Dead_On_Tools_250,14,30,26,usa,Colin_Garrett,Colin Garrett,Veterans Grow America,Sam_Hunt,Toyota,257,running,0,23,0
+2021,B,2021_Dead_On_Tools_250,15,32,07,usa,Joe_Graf_Jr,"Joe Graf, Jr.",Cover Seal,Bobby_Dotter,Chevrolet,257,running,0,22,0
+2021,B,2021_Dead_On_Tools_250,16,28,17,usa,J_J_Yeley,J.J. Yeley,Alcova Mortgage,Rick_Ware,Chevrolet,257,running,0,23,0
+2021,B,2021_Dead_On_Tools_250,17,31,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,257,running,0,20,0
+2021,B,2021_Dead_On_Tools_250,18,38,90,usa,Preston_Pardus,Preston Pardus,Danus Utilities,Mario_Gosselin,Chevrolet,257,running,0,19,0
+2021,B,2021_Dead_On_Tools_250,19,13,02,usa,Brett_Moffitt,Brett Moffitt,Dead On Tools,Chris_Our,Chevrolet,257,running,0,19,0
+2021,B,2021_Dead_On_Tools_250,20,10,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,257,running,2,26,0
+2021,B,2021_Dead_On_Tools_250,21,37,61,usa,Stephen_Leicht,Stephen Leicht,"Jani-King ""The King of Clean""",Shigeaki_Hattori,Toyota,257,running,0,16,0
+2021,B,2021_Dead_On_Tools_250,22,27,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Combat Waterfowl,Johnny_Davis,Chevrolet,257,running,0,15,0
+2021,B,2021_Dead_On_Tools_250,23,34,99,usa,Ryan_Ellis,Ryan Ellis,Keen Parts,B_J_McLeod,Chevrolet,257,running,0,14,0
+2021,B,2021_Dead_On_Tools_250,24,36,66,usa,David_Starr,David Starr,BretBaier.com / Books,Carl_Long,Toyota,257,running,0,13,0
+2021,B,2021_Dead_On_Tools_250,25,26,23,usa,Natalie_Decker,Natalie Decker,The Manson Brothers,Chris_Our,Chevrolet,257,running,0,12,0
+2021,B,2021_Dead_On_Tools_250,26,33,78,japan,Akinori_Ogata,Akinori Ogata,Pneumatic Tools,B_J_McLeod,Toyota,257,running,0,0,0
+2021,B,2021_Dead_On_Tools_250,27,2,54,usa,Ty_Gibbs,Ty Gibbs,Smile Coin,Joe_Gibbs,Toyota,257,running,16,18,0
+2021,B,2021_Dead_On_Tools_250,28,29,31,usa,Josh_Berry,Josh Berry,Bommarito.com / Solid Rock Carriers,Jordan_Anderson,Chevrolet,256,running,0,15,0
+2021,B,2021_Dead_On_Tools_250,29,35,5,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Chevrolet,255,running,0,8,0
+2021,B,2021_Dead_On_Tools_250,30,39,52,usa,Spencer_Boyd,Spencer Boyd,Sparrow Dynamics,Jimmy_Means,Chevrolet,254,running,4,0,0
+2021,B,2021_Dead_On_Tools_250,31,14,39,usa,Ryan_Sieg,Ryan Sieg,CMR Construction & Roofing / A-Game,Rod_Sieg,Ford,253,running,0,11,0
+2021,B,2021_Dead_On_Tools_250,32,21,6,usa,Ryan_Vargas,Ryan Vargas,Swann Communications,Johnny_Davis,Chevrolet,249,running,0,5,0
+2021,B,2021_Dead_On_Tools_250,33,4,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,222,brakes,0,4,0
+2021,B,2021_Dead_On_Tools_250,34,24,47,usa,Kyle_Weatherman,Kyle Weatherman,Daa Bin,Mike_Harmon,Chevrolet,221,running,0,3,0
+2021,B,2021_Dead_On_Tools_250,35,20,15,usa,Bayley_Currey,Bayley Currey,JD Motorsports,Johnny_Davis,Chevrolet,212,running,0,0,0
+2021,B,2021_Dead_On_Tools_250,36,17,68,usa,Brandon_Brown,Brandon Brown,Larry's Lemonade,Jerry_Brown,Chevrolet,204,crash,0,1,0
+2021,B,2021_Dead_On_Tools_250,37,15,10,usa,Jeb_Burton,Jeb Burton,Nutrien Ag Solutions,Matt_Kaulig,Chevrolet,194,crash,0,8,0
+2021,B,2021_Dead_On_Tools_250,38,6,1,usa,Michael_Annett,Michael Annett,PFJ Veterans Salute,JR_Motorsports,Chevrolet,192,crash,0,4,0
+2021,B,2021_Dead_On_Tools_250,39,40,74,usa,Mike_Harmon,Mike Harmon,Findlay Cadillac / Lerner & Rowe Attorneys,Mike_Harmon,Chevrolet,38,overheating,0,1,0
+2021,B,2021_Dead_On_Tools_250,40,19,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,Gilreath Farms Red Angus,Tommy_Joe_Martins,Chevrolet,36,rear gear,0,1,0
+2021,B,2021_Xfinity_Series_Championship_Race,1,4,18,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Joe_Gibbs,Toyota,204,running,48,40,6
+2021,B,2021_Xfinity_Series_Championship_Race,2,1,22,usa,Austin_Cindric,Austin Cindric,Car Shop,Roger_Penske,Ford,204,running,113,35,1
+2021,B,2021_Xfinity_Series_Championship_Race,3,36,20,usa,Harrison_Burton,Harrison Burton,Dex Imaging,Joe_Gibbs,Toyota,204,running,0,37,0
+2021,B,2021_Xfinity_Series_Championship_Race,4,5,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,204,running,0,36,0
+2021,B,2021_Xfinity_Series_Championship_Race,5,8,11,usa,Justin_Haley,Justin Haley,Leaf Filter Gutter Protection,Matt_Kaulig,Chevrolet,204,running,0,37,0
+2021,B,2021_Xfinity_Series_Championship_Race,6,2,54,usa,John_Hunter_Nemechek,John Hunter Nemechek,Mobil 1,Joe_Gibbs,Toyota,204,running,39,0,0
+2021,B,2021_Xfinity_Series_Championship_Race,7,6,19,usa,Brandon_Jones,Brandon Jones,Menards / Pelonis,Joe_Gibbs,Toyota,204,running,0,35,0
+2021,B,2021_Xfinity_Series_Championship_Race,8,20,02,usa,Brett_Moffitt,Brett Moffitt,Destiny Homes,Chris_Our,Chevrolet,204,running,0,29,0
+2021,B,2021_Xfinity_Series_Championship_Race,9,3,7,usa,Justin_Allgaier,Justin Allgaier,Brandt,JR_Motorsports,Chevrolet,204,running,0,42,0
+2021,B,2021_Xfinity_Series_Championship_Race,10,10,78,usa,Sheldon_Creed,Sheldon Creed,Global Industrial,B_J_McLeod,Chevrolet,204,running,0,0,0
+2021,B,2021_Xfinity_Series_Championship_Race,11,13,1,usa,Michael_Annett,Michael Annett,Pilot / Flying J Veterans Salute,JR_Motorsports,Chevrolet,204,running,1,31,0
+2021,B,2021_Xfinity_Series_Championship_Race,12,7,9,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops / True Timber / BRCC,JR_Motorsports,Chevrolet,204,running,3,25,0
+2021,B,2021_Xfinity_Series_Championship_Race,13,11,8,usa,Sam_Mayer,Sam Mayer,Tire Pros,JR_Motorsports,Chevrolet,204,running,0,24,0
+2021,B,2021_Xfinity_Series_Championship_Race,14,12,16,usa,A_J_Allmendinger,A.J. Allmendinger,Hyperice,Matt_Kaulig,Chevrolet,204,running,0,23,0
+2021,B,2021_Xfinity_Series_Championship_Race,15,32,26,usa,Dylan_Lupton,Dylan Lupton,Marques General Engineering,Sam_Hunt,Toyota,204,running,0,22,0
+2021,B,2021_Xfinity_Series_Championship_Race,16,21,23,usa,Blaine_Perkins,Blaine Perkins,Raceline,Chris_Our,Chevrolet,204,running,0,21,0
+2021,B,2021_Xfinity_Series_Championship_Race,17,14,38,usa,Ryan_Sieg,Ryan Sieg,CMRoofing.com / A-Game,Rod_Sieg,Ford,204,running,0,20,0
+2021,B,2021_Xfinity_Series_Championship_Race,18,22,51,usa,Jeremy_Clements,Jeremy Clements,First Pacific Funding,Jeremy_Clements,Chevrolet,204,running,0,19,0
+2021,B,2021_Xfinity_Series_Championship_Race,19,17,2,usa,Myatt_Snider,Myatt Snider,Tax Slayer,Richard_Childress,Chevrolet,204,running,0,18,0
+2021,B,2021_Xfinity_Series_Championship_Race,20,19,68,usa,Brandon_Brown,Brandon Brown,TradeTheChain.com,Jerry_Brown,Chevrolet,204,running,0,17,0
+2021,B,2021_Xfinity_Series_Championship_Race,21,27,66,usa,David_Starr,David Starr,Whataburger,Carl_Long,Toyota,204,running,0,16,0
+2021,B,2021_Xfinity_Series_Championship_Race,22,29,07,usa,J_J_Yeley,J.J. Yeley,Firman Power Equipment,Bobby_Dotter,Chevrolet,204,running,0,15,0
+2021,B,2021_Xfinity_Series_Championship_Race,23,9,10,usa,Jeb_Burton,Jeb Burton,Nutrien Ag Solutions,Matt_Kaulig,Chevrolet,204,running,0,14,0
+2021,B,2021_Xfinity_Series_Championship_Race,24,23,44,usa,Tommy_Joe_Martins,Tommy Joe Martins,AAN Adjusters,Tommy_Joe_Martins,Chevrolet,204,running,0,13,0
+2021,B,2021_Xfinity_Series_Championship_Race,25,33,31,usa,Sage_Karam,Sage Karam,Montage Mountain,Jordan_Anderson,Chevrolet,204,running,0,12,0
+2021,B,2021_Xfinity_Series_Championship_Race,26,24,47,usa,Kyle_Weatherman,Kyle Weatherman,Daa Bin,Mike_Harmon,Chevrolet,204,running,0,11,0
+2021,B,2021_Xfinity_Series_Championship_Race,27,18,39,usa,Kyle_Sieg,Kyle Sieg,CMR Construction & Roofing / A-Game,Rod_Sieg,Ford,204,running,0,10,0
+2021,B,2021_Xfinity_Series_Championship_Race,28,30,6,usa,Ryan_Vargas,Ryan Vargas,Swann Communications,Johnny_Davis,Chevrolet,204,running,0,9,0
+2021,B,2021_Xfinity_Series_Championship_Race,29,35,5,usa,Matt_Mills,Matt Mills,J.F. Electric,B_J_McLeod,Chevrolet,204,running,0,8,0
+2021,B,2021_Xfinity_Series_Championship_Race,30,26,36,canada,Alex_Labbe,Alex Labbe,Rousseau / Prolon Controls,Mario_Gosselin,Chevrolet,202,running,0,7,0
+2021,B,2021_Xfinity_Series_Championship_Race,31,25,15,usa,Bayley_Currey,Bayley Currey,KSDT CPA,Johnny_Davis,Chevrolet,200,running,0,0,0
+2021,B,2021_Xfinity_Series_Championship_Race,32,16,92,usa,Josh_Williams,Josh Williams,Josh Williams Hospital Tour,Mario_Gosselin,Chevrolet,194,crash,0,5,0
+2021,B,2021_Xfinity_Series_Championship_Race,33,15,48,usa,Jade_Buford,Jade Buford,Big Machine Spiked Coolers,Scott_Borchetta,Chevrolet,193,crash,0,4,0
+2021,B,2021_Xfinity_Series_Championship_Race,34,28,99,usa,Stefan_Parsons,Stefan Parsons,Rich Mar Florist / Springrates,B_J_McLeod,Chevrolet,123,engine,0,3,0
+2021,B,2021_Xfinity_Series_Championship_Race,35,34,17,usa,Joe_Graf_Jr,"Joe Graf, Jr.",Model Electronics,Rick_Ware,Chevrolet,97,crash,0,2,0
+2021,B,2021_Xfinity_Series_Championship_Race,36,31,0,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Forever Lawn,Johnny_Davis,Chevrolet,57,crash,0,1,0

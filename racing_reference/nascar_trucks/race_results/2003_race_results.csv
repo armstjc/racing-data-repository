@@ -1,0 +1,892 @@
+season,series_id,race_id,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
+2003,C,2003_Florida_Dodge_Dealers_250,1,19,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,106,84585,running,49,185
+2003,C,2003_Florida_Dodge_Dealers_250,2,7,16,usa,Travis_Kvapil,Travis Kvapil,IWX Motor Freight,Steve_Coulter,Chevrolet,106,53725,running,4,175
+2003,C,2003_Florida_Dodge_Dealers_250,3,2,59,usa,Robert_Pressley,Robert Pressley,Harris Trucking,James_Harris,Dodge,106,39440,running,2,170
+2003,C,2003_Florida_Dodge_Dealers_250,4,13,4,usa,Bobby_Hamilton,Bobby Hamilton,Square D,Bobby_Hamilton_Racing,Dodge,106,26000,running,30,165
+2003,C,2003_Florida_Dodge_Dealers_250,5,20,15,usa,Andy_Houston,Andy Houston,Spondivits Food & Spirits,Billy_Ballew,Ford,106,23725,running,0,155
+2003,C,2003_Florida_Dodge_Dealers_250,6,9,52,usa,Mike_Wallace,Mike Wallace,Federated Auto Parts,Ken_Schrader,Chevrolet,106,20150,running,2,155
+2003,C,2003_Florida_Dodge_Dealers_250,7,18,46,usa,Dennis_Setzer,Dennis Setzer,Acxiom / Computer Associates,Rob_Morgan_David_Dollar,Chevrolet,106,19150,running,0,146
+2003,C,2003_Florida_Dodge_Dealers_250,8,16,50,usa,Jon_Wood,Jon Wood,U.S. Navy,Jack_Roush,Ford,106,18150,running,0,142
+2003,C,2003_Florida_Dodge_Dealers_250,9,5,29,usa,Terry_Cook,Terry Cook,Power Stroke Diesel,Bob_Keselowski,Ford,106,17150,running,1,143
+2003,C,2003_Florida_Dodge_Dealers_250,10,11,62,usa,Brendan_Gaughan,Brendan Gaughan,Orleans Hotel & Casino,Michael_Gaughan,Dodge,106,17200,running,14,139
+2003,C,2003_Florida_Dodge_Dealers_250,11,10,08,usa,Bobby_Dotter,Bobby Dotter,People Against Drugs,Gene_Christensen,Chevrolet,106,16400,running,0,130
+2003,C,2003_Florida_Dodge_Dealers_250,12,21,88,usa,Matt_Crafton,Matt Crafton,Menards,Duke_Thorson,Chevrolet,106,15865,running,0,127
+2003,C,2003_Florida_Dodge_Dealers_250,13,4,6,usa,Ed_Berrier,Ed Berrier,Duke's Mayonnaise / Dollar General,Kevin_Harvick,Chevrolet,105,14765,running,0,124
+2003,C,2003_Florida_Dodge_Dealers_250,14,17,53,usa,Randy_Briggs,Randy Briggs,ToolBoxGrill.com / Canine's Choice,Mary_Ward,Ford,105,14415,running,0,121
+2003,C,2003_Florida_Dodge_Dealers_250,15,14,10,usa,Andy_Hillenburg,Andy Hillenburg,Dealer Dodge / Fast Track,Andy_Hillenburg,Dodge,105,13765,running,0,118
+2003,C,2003_Florida_Dodge_Dealers_250,16,36,89,usa,Stan_Boyd,Stan Boyd,Bars Leaks / NGK,James_Liguori,Chevrolet,105,15865,running,0,115
+2003,C,2003_Florida_Dodge_Dealers_250,17,6,18,usa,Chad_Chaffin,Chad Chaffin,Dickies,Bobby_Hamilton_Racing,Dodge,103,13015,running,0,112
+2003,C,2003_Florida_Dodge_Dealers_250,18,8,8,usa,Bill_Lester,Bill Lester,Dodge Motorsports,Bobby_Hamilton_Racing,Dodge,97,15165,crash,0,109
+2003,C,2003_Florida_Dodge_Dealers_250,19,15,07,usa,Rich_Bickle,Rich Bickle,People Against Drugs,Gene_Christensen,Chevrolet,97,15065,crash,0,106
+2003,C,2003_Florida_Dodge_Dealers_250,20,22,86,usa,Lance_Hooper,Lance Hooper,Lane Automotive,Phil_Bonifield,Chevrolet,93,15065,crash,0,103
+2003,C,2003_Florida_Dodge_Dealers_250,21,28,28,usa,L_W_Miller,L.W. Miller,FDNY / Service Directories,Jim_Rosenblum,Chevrolet,92,12615,crash,0,100
+2003,C,2003_Florida_Dodge_Dealers_250,22,24,31,usa,Tina_Gordon,Tina Gordon,3M Post It / Microtel,Bob_Brevak,Dodge,89,12515,crash,0,97
+2003,C,2003_Florida_Dodge_Dealers_250,23,34,51,usa,G_J_Mennen_Jr,"G.J. Mennen, Jr.",Ware Racing Enterprises,Rick_Ware,Dodge,88,14640,electrical,0,94
+2003,C,2003_Florida_Dodge_Dealers_250,24,29,99,usa,Carl_Edwards,Carl Edwards,Roush Racing,Jack_Roush,Ford,76,12290,crash,3,96
+2003,C,2003_Florida_Dodge_Dealers_250,25,26,27,usa,Doug_Keller,Doug Keller,Van Am Tools & Engineering,Doug_Keller,Chevrolet,57,12190,valve,0,88
+2003,C,2003_Florida_Dodge_Dealers_250,26,32,21,usa,Morgan_Shepherd,Morgan Shepherd,Racing With Jesus / Revival Soy,Morgan_Shepherd,Ford,56,13340,crash,0,85
+2003,C,2003_Florida_Dodge_Dealers_250,27,35,63,usa,Ronnie_Hornaday,Ronnie Hornaday,Summer Bay Resort / Porter Truck,Mike_Mittler,Ford,56,12990,engine,0,82
+2003,C,2003_Florida_Dodge_Dealers_250,28,25,54,usa,Brian_Sockwell,Brian Sockwell,Lowdermilk Electric,Dennis_Sockwell,Chevrolet,47,11890,crash,0,79
+2003,C,2003_Florida_Dodge_Dealers_250,29,3,1,usa,Ted_Musgrave,Ted Musgrave,Mopar Performance,Jim_Smith,Dodge,41,12790,crash,0,76
+2003,C,2003_Florida_Dodge_Dealers_250,30,1,2,usa,Jason_Leffler,Jason Leffler,Team ASE / Carquest,Jim_Smith,Dodge,41,14190,crash,1,78
+2003,C,2003_Florida_Dodge_Dealers_250,31,27,93,usa,Michael_Dokken,Michael Dokken,LesCare Kitchens,Lonnie_Troxell,Chevrolet,41,12640,crash,0,70
+2003,C,2003_Florida_Dodge_Dealers_250,32,30,72,canada,Randy_MacDonald,Randy MacDonald,PDQ! / TheGoal.com,Doc_MacDonald,Chevrolet,28,12590,crash,0,67
+2003,C,2003_Florida_Dodge_Dealers_250,33,31,66,usa,Randy_Renfrow,Randy Renfrow,W.P. Rose Supply,Rodney_Smith,Dodge,28,12540,engine,0,64
+2003,C,2003_Florida_Dodge_Dealers_250,34,23,23,usa,Phil_Bonifield,Phil Bonifield,Red Line Synthetic Oil,Tom_Mazzuchi,Chevrolet,18,11490,overheating,0,61
+2003,C,2003_Florida_Dodge_Dealers_250,35,33,5,usa,Jerry_Hill,Jerry Hill,Revival Soy,Rick_Ware,Dodge,11,11440,engine,0,58
+2003,C,2003_Florida_Dodge_Dealers_250,36,12,75,usa,David_Starr,David Starr,Spears Manufacturing,Wayne_Spears,Chevrolet,1,11340,crash,0,55
+2003,C,2003_Craftsman_200,1,14,4,usa,Bobby_Hamilton,Bobby Hamilton,Square D,Bobby_Hamilton_Racing,Dodge,147,39075,running,16,180
+2003,C,2003_Craftsman_200,2,3,1,usa,Ted_Musgrave,Ted Musgrave,Mopar Performance,Jim_Smith,Dodge,147,27300,running,90,180
+2003,C,2003_Craftsman_200,3,9,62,usa,Brendan_Gaughan,Brendan Gaughan,Orleans Hotel & Casino,Michael_Gaughan,Dodge,147,18450,running,2,170
+2003,C,2003_Craftsman_200,4,1,16,usa,Travis_Kvapil,Travis Kvapil,IWX Motor Freight,Steve_Coulter,Chevrolet,147,12525,running,11,165
+2003,C,2003_Craftsman_200,5,7,18,usa,Chad_Chaffin,Chad Chaffin,Dickies,Bobby_Hamilton_Racing,Dodge,147,9175,running,1,160
+2003,C,2003_Craftsman_200,6,4,2,usa,Jason_Leffler,Jason Leffler,Team ASE / Carquest,Jim_Smith,Dodge,147,10075,running,1,155
+2003,C,2003_Craftsman_200,7,2,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,147,10175,running,0,146
+2003,C,2003_Craftsman_200,8,8,29,usa,Terry_Cook,Terry Cook,Power Stroke Diesel,Bob_Keselowski,Ford,147,9975,running,0,142
+2003,C,2003_Craftsman_200,9,5,75,usa,David_Starr,David Starr,Spears Manufacturing,Wayne_Spears,Chevrolet,146,9825,running,0,138
+2003,C,2003_Craftsman_200,10,26,59,usa,Robert_Pressley,Robert Pressley,Harris Trucking,James_Harris,Dodge,146,10175,running,0,134
+2003,C,2003_Craftsman_200,11,13,88,usa,Matt_Crafton,Matt Crafton,Menards,Duke_Thorson,Chevrolet,146,9600,running,0,130
+2003,C,2003_Craftsman_200,12,15,8,usa,Bill_Lester,Bill Lester,Honey Nut Cheerios / Dodge,Bobby_Hamilton_Racing,Dodge,144,9465,running,0,127
+2003,C,2003_Craftsman_200,13,32,53,usa,Randy_Briggs,Randy Briggs,Midwest Can,Mary_Ward,Ford,143,9665,running,0,124
+2003,C,2003_Craftsman_200,14,33,57,usa,Brian_Rose,Brian Rose,stocktrader.com,Howard_Carpenter,Dodge,142,7115,running,0,121
+2003,C,2003_Craftsman_200,15,23,89,usa,Stan_Boyd,Stan Boyd,County Building Centers,James_Liguori,Chevrolet,142,8765,running,0,118
+2003,C,2003_Craftsman_200,16,27,28,usa,L_W_Miller,L.W. Miller,FDNY / Service Directories,Jim_Rosenblum,Chevrolet,139,7015,running,0,115
+2003,C,2003_Craftsman_200,17,28,27,usa,Doug_Keller,Doug Keller,Keller Motorsports,Doug_Keller,Chevrolet,137,6965,running,0,112
+2003,C,2003_Craftsman_200,18,30,31,usa,Tina_Gordon,Tina Gordon,3M Post It / Microtel,Bob_Brevak,Dodge,135,6915,running,0,109
+2003,C,2003_Craftsman_200,19,10,50,usa,Jon_Wood,Jon Wood,U.S. Navy,Jack_Roush,Ford,134,9115,overheating,0,106
+2003,C,2003_Craftsman_200,20,19,5,usa,Jerry_Hill,Jerry Hill,Revival Soy,Rick_Ware,Dodge,132,9165,overheating,0,103
+2003,C,2003_Craftsman_200,21,12,15,usa,Andy_Houston,Andy Houston,Vokal Clothing,Billy_Ballew,Ford,121,8990,crash,0,100
+2003,C,2003_Craftsman_200,22,18,72,canada,Randy_MacDonald,Randy MacDonald,LesCare Kitchens,Doc_MacDonald,Chevrolet,117,8940,running,0,97
+2003,C,2003_Craftsman_200,23,31,99,usa,Carl_Edwards,Carl Edwards,Roush Racing,Jack_Roush,Ford,95,6590,overheating,0,94
+2003,C,2003_Craftsman_200,24,24,21,usa,Morgan_Shepherd,Morgan Shepherd,Racing With Jesus / Red Line Oil,Morgan_Shepherd,Ford,95,7740,handling,0,91
+2003,C,2003_Craftsman_200,25,11,08,usa,Jody_Lavender,Jody Lavender,Hartsville Community Bank,Gene_Christensen,Chevrolet,82,8640,handling,0,88
+2003,C,2003_Craftsman_200,26,25,6,usa,Kevin_Harvick,Kevin Harvick,"Kevin Harvick, Inc.",Kevin_Harvick,Chevrolet,79,6290,valve,26,90
+2003,C,2003_Craftsman_200,27,29,36,usa,Geoffrey_Bodine,Geoffrey Bodine,Alvin Thompson,Alvin_Thompson,Ford,55,6190,engine,0,82
+2003,C,2003_Craftsman_200,28,6,46,usa,Dennis_Setzer,Dennis Setzer,Acxiom / Computer Associates,Rob_Morgan_David_Dollar,Chevrolet,21,8340,engine,0,79
+2003,C,2003_Craftsman_200,29,20,86,usa,Phil_Bonifield,Phil Bonifield,Red Line Synthetic Oil,Phil_Bonifield,Chevrolet,14,6990,vibration,0,76
+2003,C,2003_Craftsman_200,30,21,93,canada,Teri_MacDonald,Teri MacDonald,LesCare Kitchens,Lonnie_Troxell,Chevrolet,9,6890,handling,0,73
+2003,C,2003_Craftsman_200,31,16,66,usa,Randy_Renfrow,Randy Renfrow,W.P. Rose Supply,Rodney_Smith,Dodge,8,6865,handling,0,70
+2003,C,2003_Craftsman_200,32,17,07,usa,Bobby_Dotter,Bobby Dotter,Green Light Racing,Gene_Christensen,Chevrolet,7,6840,steering,0,67
+2003,C,2003_Craftsman_200,33,34,47,usa,Joe_Varde,Joe Varde,Acxiom / Computer Associates,Rob_Morgan_David_Dollar,Chevrolet,3,5815,transmission,0,0
+2003,C,2003_Craftsman_200,34,22,23,usa,Dana_White,Dana White,Motor State Performance,Tom_Mazzuchi,Chevrolet,2,6790,electrical,0,61
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,1,12,46,usa,Dennis_Setzer,Dennis Setzer,Acxiom / Computer Associates,Rob_Morgan_David_Dollar,Chevrolet,255,35950,running,113,185
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,2,5,50,usa,Jon_Wood,Jon Wood,U.S. Navy,Jack_Roush,Ford,255,20475,running,18,175
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,3,7,62,usa,Brendan_Gaughan,Brendan Gaughan,Orleans Hotel & Casino,Michael_Gaughan,Dodge,255,15275,running,32,170
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,4,2,4,usa,Bobby_Hamilton,Bobby Hamilton,Square D,Bobby_Hamilton_Racing,Dodge,255,9650,running,4,165
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,5,1,1,usa,Ted_Musgrave,Ted Musgrave,Mopar Performance,Jim_Smith,Dodge,255,11550,running,35,160
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,6,13,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,255,9025,running,0,150
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,7,30,2,usa,Jason_Leffler,Jason Leffler,Team ASE / Carquest,Jim_Smith,Dodge,255,10325,running,14,151
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,8,6,6,usa,Brandon_Miller,Brandon Miller,Lucas Oil,Kevin_Harvick,Chevrolet,255,7675,running,0,142
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,9,8,75,usa,David_Starr,David Starr,Spears Manufacturing,Wayne_Spears,Chevrolet,255,8525,running,0,138
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,10,9,29,usa,Terry_Cook,Terry Cook,Power Stroke Diesel,Bob_Keselowski,Ford,255,9875,running,0,134
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,11,4,59,usa,Robert_Pressley,Robert Pressley,Harris Trucking,James_Harris,Dodge,255,7375,running,8,135
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,12,17,15,usa,Andy_Houston,Andy Houston,Vokal Clothing,Billy_Ballew,Ford,255,8240,running,0,127
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,13,23,8,usa,Bill_Lester,Bill Lester,Dodge Motorsports,Bobby_Hamilton_Racing,Dodge,255,8190,running,0,124
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,14,20,33,usa,Andy_Petree,Andy Petree,Monaco Coaches,Andy_Petree,Chevrolet,255,5890,running,0,121
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,15,3,99,usa,Carl_Edwards,Carl Edwards,Roush Racing,Jack_Roush,Ford,255,6040,running,27,123
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,16,11,16,usa,Travis_Kvapil,Travis Kvapil,IWX Motor Freight,Steve_Coulter,Chevrolet,254,8290,running,0,115
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,17,28,31,usa,Tina_Gordon,Tina Gordon,3M Post It / Microtel,Bob_Brevak,Dodge,254,5740,running,0,112
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,18,18,86,usa,T_J_Bell,T.J. Bell,Special Wish Foundation,Phil_Bonifield,Chevrolet,254,7940,running,0,109
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,19,15,38,usa,Brandon_Whitt,Brandon Whitt,IPS / In-sink-erator / Simpson,Daniel_Whitt,Chevrolet,253,5615,running,0,106
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,20,27,18,usa,Chad_Chaffin,Chad Chaffin,Dickies,Bobby_Hamilton_Racing,Dodge,253,5665,running,0,103
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,21,21,39,usa,Jason_Small,Jason Small,Sunshine Metal Clad,Jason_Small,Chevrolet,253,7765,running,0,100
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,22,36,65,usa,Nathan_Wulff,Nathan Wulff,Davis Stone,Ken_Davis,Ford,253,5480,running,0,97
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,23,14,72,canada,Randy_MacDonald,Randy MacDonald,TheGoal.com,Doc_MacDonald,Chevrolet,250,7690,running,0,94
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,24,34,5,usa,Jerry_Hill,Jerry Hill,Ware Racing Enterprises,Rick_Ware,Dodge,250,7640,running,0,91
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,25,16,07,usa,Bobby_Dotter,Bobby Dotter,Support Our Troops,Gene_Christensen,Chevrolet,248,7565,crash,0,88
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,26,29,20,usa,Ken_Weaver,Ken Weaver,1-800-4-A-Phone,Ken_Weaver,Chevrolet,248,5265,running,0,85
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,27,19,08,usa,Jody_Lavender,Jody Lavender,Hartsville Community Bank,Gene_Christensen,Chevrolet,248,6195,running,0,82
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,28,31,27,usa,Doug_Keller,Doug Keller,Keller Motorsports,Doug_Keller,Chevrolet,246,5090,running,0,79
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,29,10,88,usa,Matt_Crafton,Matt Crafton,Menards,Duke_Thorson,Chevrolet,236,5990,engine,4,81
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,30,33,66,usa,Stephen_Rhodes,Stephen Rhodes,W.P. Rose Supply,Rodney_Smith,Dodge,230,5890,running,0,73
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,31,24,54,usa,Tim_Woods,Tim Woods,Chino Hills Ford,Tim_Woods,Ford,211,4790,crash,0,0
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,32,26,67,usa,Gary_Higgs,Gary Higgs,Howard Johnson's,Dan_Higgs,Ford,199,4690,running,0,67
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,33,35,23,usa,Dana_White,Dana White,Red Line Oil / Port-A-Fence,Tom_Mazzuchi,Chevrolet,136,5565,engine,0,64
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,34,22,53,usa,Randy_Briggs,Randy Briggs,Versachem,Mary_Ward,Dodge,126,4540,handling,0,61
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,35,32,94,usa,Dennis_Hannel,Dennis Hannel,Hands On Racing,Dennis_Hannel,Chevrolet,79,4515,crash,0,58
+2003,C,2003_Lucas_Oil_250_Presented_by_Glidden,36,25,93,canada,Trevor_Boys,Trevor Boys,Ideal Racing,Lonnie_Troxell,Chevrolet,76,4494,overheating,0,55
+2003,C,2003_Advance_Auto_Parts_250,1,5,46,usa,Dennis_Setzer,Dennis Setzer,Acxiom / Computer Associates,Rob_Morgan_David_Dollar,Chevrolet,250,42810,running,52,180
+2003,C,2003_Advance_Auto_Parts_250,2,1,1,usa,Ted_Musgrave,Ted Musgrave,Mopar Performance,Jim_Smith,Dodge,250,26875,running,26,175
+2003,C,2003_Advance_Auto_Parts_250,3,13,6,usa,Kevin_Harvick,Kevin Harvick,"Kevin Harvick, Inc.",Kevin_Harvick,Chevrolet,250,15840,running,0,165
+2003,C,2003_Advance_Auto_Parts_250,4,10,99,usa,Carl_Edwards,Carl Edwards,Roush Racing,Jack_Roush,Ford,250,11650,running,0,160
+2003,C,2003_Advance_Auto_Parts_250,5,2,4,usa,Bobby_Hamilton,Bobby Hamilton,Square D,Bobby_Hamilton_Racing,Dodge,250,9075,running,76,160
+2003,C,2003_Advance_Auto_Parts_250,6,7,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,250,10450,running,0,150
+2003,C,2003_Advance_Auto_Parts_250,7,12,17,usa,Darrell_Waltrip,Darrell Waltrip,Tide,Michael_Waltrip,Chevrolet,250,7800,running,0,146
+2003,C,2003_Advance_Auto_Parts_250,8,18,9,usa,Rich_Bickle,Rich Bickle,Fasscore Motorsports,Christopher_Beckington,Ford,250,7900,running,0,142
+2003,C,2003_Advance_Auto_Parts_250,9,16,29,usa,Terry_Cook,Terry Cook,Power Stroke Diesel,Bob_Keselowski,Ford,250,9950,running,0,138
+2003,C,2003_Advance_Auto_Parts_250,10,4,33,usa,Andy_Petree,Andy Petree,Monaco Coaches,Andy_Petree,Chevrolet,250,8700,running,0,134
+2003,C,2003_Advance_Auto_Parts_250,11,25,2,usa,Jason_Leffler,Jason Leffler,Team ASE / Carquest,Jim_Smith,Dodge,250,11550,running,0,130
+2003,C,2003_Advance_Auto_Parts_250,12,6,75,usa,David_Starr,David Starr,Spears Manufacturing,Wayne_Spears,Chevrolet,250,9865,running,0,127
+2003,C,2003_Advance_Auto_Parts_250,13,14,88,usa,Matt_Crafton,Matt Crafton,Menards,Duke_Thorson,Chevrolet,250,9665,running,0,124
+2003,C,2003_Advance_Auto_Parts_250,14,9,52,usa,Ken_Schrader,Ken Schrader,Federated Auto Parts,Ken_Schrader,Chevrolet,250,8615,running,0,121
+2003,C,2003_Advance_Auto_Parts_250,15,21,15,usa,Andy_Houston,Andy Houston,Vokal Clothing,Billy_Ballew,Ford,250,9740,running,0,118
+2003,C,2003_Advance_Auto_Parts_250,16,11,62,usa,Brendan_Gaughan,Brendan Gaughan,Orleans Hotel & Casino,Michael_Gaughan,Dodge,250,9715,running,0,115
+2003,C,2003_Advance_Auto_Parts_250,17,8,59,usa,Robert_Pressley,Robert Pressley,Harris Trucking,James_Harris,Dodge,250,8415,running,0,112
+2003,C,2003_Advance_Auto_Parts_250,18,3,16,usa,Travis_Kvapil,Travis Kvapil,IWX Motor Freight,Steve_Coulter,Chevrolet,250,9365,running,16,114
+2003,C,2003_Advance_Auto_Parts_250,19,17,8,usa,Bill_Lester,Bill Lester,Dodge Motorsports,Bobby_Hamilton_Racing,Dodge,250,9315,running,0,106
+2003,C,2003_Advance_Auto_Parts_250,20,24,72,canada,Randy_MacDonald,Randy MacDonald,TheGoal.com,Doc_MacDonald,Chevrolet,248,9365,running,0,103
+2003,C,2003_Advance_Auto_Parts_250,21,32,66,usa,Stephen_Rhodes,Stephen Rhodes,W.P. Rose Supply,Rodney_Smith,Dodge,248,9240,running,0,100
+2003,C,2003_Advance_Auto_Parts_250,22,22,50,usa,Jon_Wood,Jon Wood,U.S. Navy,Jack_Roush,Ford,247,9215,running,0,97
+2003,C,2003_Advance_Auto_Parts_250,23,15,08,usa,Jody_Lavender,Jody Lavender,Lavender's Discount Carpets,Gene_Christensen,Chevrolet,247,9190,running,0,94
+2003,C,2003_Advance_Auto_Parts_250,24,28,57,usa,Brian_Rose,Brian Rose,nocer.com / RC Products,Howard_Carpenter,Dodge,247,6915,running,0,91
+2003,C,2003_Advance_Auto_Parts_250,25,29,54,usa,Tim_Woods,Tim Woods,Vokal Clothing,Tim_Woods,Ford,246,6865,running,0,88
+2003,C,2003_Advance_Auto_Parts_250,26,23,18,usa,Chad_Chaffin,Chad Chaffin,Dickies,Bobby_Hamilton_Racing,Dodge,245,6865,fuel pump,80,95
+2003,C,2003_Advance_Auto_Parts_250,27,27,28,usa,L_W_Miller,L.W. Miller,FDNY / Service Directories,Jim_Rosenblum,Chevrolet,245,6815,running,0,82
+2003,C,2003_Advance_Auto_Parts_250,28,35,86,usa,T_J_Bell,T.J. Bell,Special Wish Foundation,Phil_Bonifield,Chevrolet,245,9040,running,0,79
+2003,C,2003_Advance_Auto_Parts_250,29,31,00,usa,Ryan_McGlynn,Ryan McGlynn,Buyers Choice Auto Warranties,Raynard_McGlynn,Chevrolet,206,6740,transmission,0,76
+2003,C,2003_Advance_Auto_Parts_250,30,26,78,usa,Charlie_Bradberry,Charlie Bradberry,Bradberry Motorsports,Charles_Bradberry,Chevrolet,151,6715,crash,0,73
+2003,C,2003_Advance_Auto_Parts_250,31,30,91,usa,J_C_Stout,J.C. Stout,Burt's Lumber,Donald_Stout,Chevrolet,138,6265,crash,0,70
+2003,C,2003_Advance_Auto_Parts_250,32,33,5,usa,Jerry_Hill,Jerry Hill,Ware Racing Enterprises,Rick_Ware,Dodge,130,7240,engine,0,67
+2003,C,2003_Advance_Auto_Parts_250,33,34,51,usa,Rusty_Alton,Rusty Alton,Ware Racing Enterprises,Rick_Ware,Dodge,103,7215,engine,0,64
+2003,C,2003_Advance_Auto_Parts_250,34,19,07,usa,Bobby_Dotter,Bobby Dotter,Support Our Troops,Gene_Christensen,Chevrolet,78,7190,engine,0,61
+2003,C,2003_Advance_Auto_Parts_250,35,20,21,usa,Morgan_Shepherd,Morgan Shepherd,Racing With Jesus / Red Line Oil,Morgan_Shepherd,Ford,12,6165,overheating,0,58
+2003,C,2003_Advance_Auto_Parts_250,36,36,93,usa,Dana_White,Dana White,Coverall Carports,Lonnie_Troxell,Chevrolet,0,7140,clutch,0,0
+2003,C,2003_Hardee%27s_200,1,8,1,usa,Ted_Musgrave,Ted Musgrave,Mopar Performance,Jim_Smith,Dodge,136,49500,running,28,180
+2003,C,2003_Hardee%27s_200,2,9,62,usa,Brendan_Gaughan,Brendan Gaughan,Orleans Hotel & Casino,Michael_Gaughan,Dodge,136,29675,running,0,170
+2003,C,2003_Hardee%27s_200,3,11,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,136,23025,running,8,170
+2003,C,2003_Hardee%27s_200,4,16,16,usa,Travis_Kvapil,Travis Kvapil,IWX Motor Freight,Steve_Coulter,Chevrolet,136,14800,running,0,160
+2003,C,2003_Hardee%27s_200,5,3,6,usa,Kevin_Harvick,Kevin Harvick,Sonic,Kevin_Harvick,Chevrolet,136,11800,running,70,165
+2003,C,2003_Hardee%27s_200,6,12,07,usa,Jeremy_Mayfield,Jeremy Mayfield,American Tire Distributors,Jim_Smith,Dodge,136,11925,running,3,155
+2003,C,2003_Hardee%27s_200,7,5,4,usa,Bobby_Hamilton,Bobby Hamilton,Square D,Bobby_Hamilton_Racing,Dodge,136,11325,running,17,151
+2003,C,2003_Hardee%27s_200,8,10,18,usa,Chad_Chaffin,Chad Chaffin,Dickies,Bobby_Hamilton_Racing,Dodge,136,11075,running,0,142
+2003,C,2003_Hardee%27s_200,9,19,88,usa,Matt_Crafton,Matt Crafton,Menards,Duke_Thorson,Chevrolet,136,10950,running,0,138
+2003,C,2003_Hardee%27s_200,10,24,15,usa,Rich_Bickle,Rich Bickle,Fasscore / Vokal Clothing,Billy_Ballew,Ford,136,12250,running,0,134
+2003,C,2003_Hardee%27s_200,11,21,52,usa,Ken_Schrader,Ken Schrader,Federated Auto Parts,Ken_Schrader,Chevrolet,136,8175,running,0,130
+2003,C,2003_Hardee%27s_200,12,6,99,usa,Carl_Edwards,Carl Edwards,Roush Racing,Jack_Roush,Ford,136,11240,running,0,127
+2003,C,2003_Hardee%27s_200,13,33,31,usa,Tina_Gordon,Tina Gordon,Microtel Inn & Suites,Bob_Brevak,Dodge,135,11640,running,0,124
+2003,C,2003_Hardee%27s_200,14,14,29,usa,Terry_Cook,Terry Cook,Power Stroke Diesel,Bob_Keselowski,Ford,135,10040,running,0,121
+2003,C,2003_Hardee%27s_200,15,1,8,usa,Bill_Lester,Bill Lester,Dodge Motorsports,Bobby_Hamilton_Racing,Dodge,135,11890,running,0,118
+2003,C,2003_Hardee%27s_200,16,13,03,usa,Eric_Jones,Eric Jones,Team EJP,Steve_Prescott,Chevrolet,135,7590,running,0,115
+2003,C,2003_Hardee%27s_200,17,7,75,usa,David_Starr,David Starr,Spears Manufacturing,Wayne_Spears,Chevrolet,135,9790,running,0,112
+2003,C,2003_Hardee%27s_200,18,20,08,usa,Jody_Lavender,Jody Lavender,Lavender's Discount Carpets,Gene_Christensen,Chevrolet,134,9740,crash,0,109
+2003,C,2003_Hardee%27s_200,19,30,72,canada,Randy_MacDonald,Randy MacDonald,Mansion Motorsports,Doc_MacDonald,Dodge,134,9690,crash,0,106
+2003,C,2003_Hardee%27s_200,20,27,28,usa,L_W_Miller,L.W. Miller,FDNY / Service Directories,Jim_Rosenblum,Chevrolet,134,9740,crash,0,103
+2003,C,2003_Hardee%27s_200,21,2,2,usa,Jason_Leffler,Jason Leffler,Team ASE / Carquest,Jim_Smith,Dodge,134,9590,running,10,105
+2003,C,2003_Hardee%27s_200,22,4,50,usa,Jon_Wood,Jon Wood,Roush Racing,Jack_Roush,Ford,133,8290,running,0,97
+2003,C,2003_Hardee%27s_200,23,15,46,usa,Dennis_Setzer,Dennis Setzer,Acxiom / Computer Associates,Rob_Morgan_David_Dollar,Chevrolet,133,8265,running,0,94
+2003,C,2003_Hardee%27s_200,24,23,54,usa,Brian_Sockwell,Brian Sockwell,Lowdermilk Electric,Dennis_Sockwell,Chevrolet,133,7240,running,0,91
+2003,C,2003_Hardee%27s_200,25,36,66,usa,Donnie_Neuenberger,Donnie Neuenberger,Truck Outfitters,Rodney_Smith,Dodge,133,7215,running,0,88
+2003,C,2003_Hardee%27s_200,26,25,87,usa,Conrad_Burr,Conrad Burr,National Peening,James_Burr,Chevrolet,132,7190,running,0,85
+2003,C,2003_Hardee%27s_200,27,31,01,usa,Lance_Hooper,Lance Hooper,Lucas Oil,Lance_Hooper,Ford,58,7165,vibration,0,82
+2003,C,2003_Hardee%27s_200,28,35,5,usa,Jerry_Hill,Jerry Hill,Ware Racing Enterprises,Rick_Ware,Dodge,56,7140,crash,0,79
+2003,C,2003_Hardee%27s_200,29,28,21,usa,Morgan_Shepherd,Morgan Shepherd,Racing With Jesus / Red Line Oil,Morgan_Shepherd,Ford,46,7115,handling,0,76
+2003,C,2003_Hardee%27s_200,30,22,9,usa,Andy_Houston,Andy Houston,Spondivits Bar & Grill,Christopher_Beckington,Ford,40,7090,engine,0,73
+2003,C,2003_Hardee%27s_200,31,17,59,usa,Robert_Pressley,Robert Pressley,Harris Trucking,James_Harris,Dodge,21,7065,engine,0,70
+2003,C,2003_Hardee%27s_200,32,26,63,usa,Ronnie_Hornaday,Ronnie Hornaday,Summer Bay Resort,Mike_Mittler,Ford,6,7040,engine,0,67
+2003,C,2003_Hardee%27s_200,33,32,58,usa,Chris_Horn,Chris Horn,Horn Auto Racing,Fred_Horn,Chevrolet,5,7015,crash,0,64
+2003,C,2003_Hardee%27s_200,34,18,53,usa,Randy_Briggs,Randy Briggs,Race Shops For Rent,Mary_Ward,Ford,5,6990,crash,0,61
+2003,C,2003_Hardee%27s_200,35,34,86,usa,Dana_White,Dana White,White Guard Kennels / Port-A-Fence,Phil_Bonifield,Chevrolet,4,6965,crash,0,58
+2003,C,2003_Hardee%27s_200,36,29,25,usa,Jamie_Aube,Jamie Aube,Motor State Performance,Phil_Bonifield,Chevrolet,3,6942,crash,0,55
+2003,C,2003_MBNA_Armed_Forces_Family_200,1,10,2,usa,Jason_Leffler,Jason Leffler,Team ASE / Carquest,Jim_Smith,Dodge,200,52485,running,57,180
+2003,C,2003_MBNA_Armed_Forces_Family_200,2,1,4,usa,Bobby_Hamilton,Bobby Hamilton,Square D,Bobby_Hamilton_Racing,Dodge,200,31550,running,14,175
+2003,C,2003_MBNA_Armed_Forces_Family_200,3,16,75,usa,David_Starr,David Starr,Spears Manufacturing,Wayne_Spears,Chevrolet,200,23515,running,0,165
+2003,C,2003_MBNA_Armed_Forces_Family_200,4,11,50,usa,Jon_Wood,Jon Wood,Roush Racing,Jack_Roush,Ford,200,18150,running,0,160
+2003,C,2003_MBNA_Armed_Forces_Family_200,5,5,16,usa,Travis_Kvapil,Travis Kvapil,IWX Motor Freight,Steve_Coulter,Chevrolet,200,17000,running,0,155
+2003,C,2003_MBNA_Armed_Forces_Family_200,6,23,52,usa,Ken_Schrader,Ken Schrader,Federated Auto Parts,Ken_Schrader,Chevrolet,200,14825,running,0,150
+2003,C,2003_MBNA_Armed_Forces_Family_200,7,12,18,usa,Chad_Chaffin,Chad Chaffin,Dickies,Bobby_Hamilton_Racing,Dodge,200,15375,running,7,151
+2003,C,2003_MBNA_Armed_Forces_Family_200,8,2,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,200,14825,running,70,152
+2003,C,2003_MBNA_Armed_Forces_Family_200,9,6,46,usa,Dennis_Setzer,Dennis Setzer,Acxiom / Computer Associates,Rob_Morgan_David_Dollar,Chevrolet,200,14325,running,0,138
+2003,C,2003_MBNA_Armed_Forces_Family_200,10,9,59,usa,Robert_Pressley,Robert Pressley,Harris Trucking,James_Harris,Dodge,200,15375,running,0,134
+2003,C,2003_MBNA_Armed_Forces_Family_200,11,15,8,usa,Bill_Lester,Bill Lester,Dodge Motorsports,Bobby_Hamilton_Racing,Dodge,198,13750,running,0,130
+2003,C,2003_MBNA_Armed_Forces_Family_200,12,21,86,usa,T_J_Bell,T.J. Bell,Speed Motorsports Management,Phil_Bonifield,Chevrolet,196,14465,running,0,127
+2003,C,2003_MBNA_Armed_Forces_Family_200,13,17,08,usa,Jody_Lavender,Jody Lavender,Acme Markets,Gene_Christensen,Chevrolet,194,13365,running,0,124
+2003,C,2003_MBNA_Armed_Forces_Family_200,14,20,72,canada,Randy_MacDonald,Randy MacDonald,Greenfield Truck Center,Doc_MacDonald,Chevrolet,194,13265,running,0,121
+2003,C,2003_MBNA_Armed_Forces_Family_200,15,30,87,usa,Conrad_Burr,Conrad Burr,National Peening,James_Burr,Chevrolet,189,11365,running,0,118
+2003,C,2003_MBNA_Armed_Forces_Family_200,16,22,53,usa,Randy_Briggs,Randy Briggs,Race Shops For Rent,Mary_Ward,Ford,186,13165,running,0,115
+2003,C,2003_MBNA_Armed_Forces_Family_200,17,31,20,usa,Ken_Weaver,Ken Weaver,1-800-4-A-Phone,Ken_Weaver,Chevrolet,162,10715,crash,0,112
+2003,C,2003_MBNA_Armed_Forces_Family_200,18,4,62,usa,Brendan_Gaughan,Brendan Gaughan,The Orleans Hotel,Michael_Gaughan,Dodge,159,12865,crash,0,109
+2003,C,2003_MBNA_Armed_Forces_Family_200,19,18,31,usa,Tina_Gordon,Tina Gordon,Scotch Transparent Duct Tape,Bob_Brevak,Dodge,156,12765,crash,0,106
+2003,C,2003_MBNA_Armed_Forces_Family_200,20,7,29,usa,Terry_Cook,Terry Cook,Power Stroke Diesel / Oil Mate,Bob_Keselowski,Ford,152,12765,radiator,0,103
+2003,C,2003_MBNA_Armed_Forces_Family_200,21,3,1,usa,Ted_Musgrave,Ted Musgrave,Mopar Performance,Jim_Smith,Dodge,144,12565,engine,52,105
+2003,C,2003_MBNA_Armed_Forces_Family_200,22,14,88,usa,Matt_Crafton,Matt Crafton,Menards / Enzyme Solutions,Duke_Thorson,Chevrolet,130,11215,crash,0,97
+2003,C,2003_MBNA_Armed_Forces_Family_200,23,32,32,usa,Jerry_Miller_(1),Jerry Miller,CVGA / Auto Trim Design,Jerry_Miller,Dodge,127,10115,transmission,0,94
+2003,C,2003_MBNA_Armed_Forces_Family_200,24,24,28,usa,L_W_Miller,L.W. Miller,FDNY / Service Directories,Jim_Rosenblum,Chevrolet,57,11015,engine,0,91
+2003,C,2003_MBNA_Armed_Forces_Family_200,25,26,66,usa,Randy_Renfrow,Randy Renfrow,MLB Motorsports,Rodney_Smith,Dodge,45,9915,electrical,0,88
+2003,C,2003_MBNA_Armed_Forces_Family_200,26,27,21,usa,Morgan_Shepherd,Morgan Shepherd,Racing With Jesus / Red Line Oil,Morgan_Shepherd,Ford,41,9815,brakes,0,85
+2003,C,2003_MBNA_Armed_Forces_Family_200,27,29,93,usa,Michael_Dokken,Michael Dokken,Troxell Racing,Lonnie_Troxell,Chevrolet,41,9715,engine,0,82
+2003,C,2003_MBNA_Armed_Forces_Family_200,28,19,07,usa,Stan_Boyd,Stan Boyd,Acme Markets,Gene_Christensen,Chevrolet,37,9615,rear end,0,79
+2003,C,2003_MBNA_Armed_Forces_Family_200,29,28,23,usa,Phil_Bonifield,Phil Bonifield,Red Line Synthetic Oil,Tom_Mazzuchi,Chevrolet,23,9515,fuel pump,0,76
+2003,C,2003_MBNA_Armed_Forces_Family_200,30,33,35,usa,Jason_White_(1),Jason White,Sof Sole,Mary_Ward,Ford,17,9415,transmission,0,0
+2003,C,2003_MBNA_Armed_Forces_Family_200,31,25,5,usa,Jerry_Hill,Jerry Hill,Ware Racing Enterprises,Rick_Ware,Dodge,16,9315,engine,0,70
+2003,C,2003_MBNA_Armed_Forces_Family_200,32,8,15,usa,Rich_Bickle,Rich Bickle,Vokal Clothing,Billy_Ballew,Ford,5,9265,crash,0,67
+2003,C,2003_MBNA_Armed_Forces_Family_200,33,13,99,usa,Carl_Edwards,Carl Edwards,Roush Racing,Jack_Roush,Ford,5,9240,crash,0,64
+2003,C,2003_OReilly_400K,1,5,62,usa,Brendan_Gaughan,Brendan Gaughan,The Orleans Hotel,Michael_Gaughan,Dodge,167,63700,running,16,180
+2003,C,2003_OReilly_400K,2,16,99,usa,Carl_Edwards,Carl Edwards,Roush Racing,Jack_Roush,Ford,167,45225,running,37,175
+2003,C,2003_OReilly_400K,3,9,50,usa,Jon_Wood,Jon Wood,Roush Racing,Jack_Roush,Ford,167,31175,running,20,170
+2003,C,2003_OReilly_400K,4,3,16,usa,Travis_Kvapil,Travis Kvapil,IWX Motor Freight,Steve_Coulter,Chevrolet,167,20850,running,0,160
+2003,C,2003_OReilly_400K,5,6,46,usa,Dennis_Setzer,Dennis Setzer,Acxiom / Computer Associates,Rob_Morgan_David_Dollar,Chevrolet,167,16100,running,0,155
+2003,C,2003_OReilly_400K,6,12,75,usa,David_Starr,David Starr,Spears Manufacturing,Wayne_Spears,Chevrolet,167,14675,running,0,150
+2003,C,2003_OReilly_400K,7,1,4,usa,Bobby_Hamilton,Bobby Hamilton,Square D,Bobby_Hamilton_Racing,Dodge,167,14450,running,71,156
+2003,C,2003_OReilly_400K,8,10,18,usa,Chad_Chaffin,Chad Chaffin,Dickies,Bobby_Hamilton_Racing,Dodge,167,13900,running,0,142
+2003,C,2003_OReilly_400K,9,8,29,usa,Terry_Cook,Terry Cook,Power Stroke Diesel / Oil Mate,Bob_Keselowski,Ford,167,13700,running,0,138
+2003,C,2003_OReilly_400K,10,15,88,usa,Matt_Crafton,Matt Crafton,Menards / Enzyme Solutions,Duke_Thorson,Chevrolet,167,14850,running,0,134
+2003,C,2003_OReilly_400K,11,27,03,usa,Eric_Jones,Eric Jones,Team EJP,Steve_Prescott,Chevrolet,167,12600,running,0,130
+2003,C,2003_OReilly_400K,12,13,8,usa,Bill_Lester,Bill Lester,Dodge Motorsports,Bobby_Hamilton_Racing,Dodge,167,13165,running,0,127
+2003,C,2003_OReilly_400K,13,4,1,usa,Ted_Musgrave,Ted Musgrave,Mopar Performance,Jim_Smith,Dodge,167,13065,running,0,124
+2003,C,2003_OReilly_400K,14,2,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,165,12965,running,23,126
+2003,C,2003_OReilly_400K,15,17,08,usa,Jody_Lavender,Jody Lavender,Albertson's,Gene_Christensen,Chevrolet,165,13315,running,0,118
+2003,C,2003_OReilly_400K,16,19,72,canada,Randy_MacDonald,Randy MacDonald,U.S. Security,Doc_MacDonald,Chevrolet,164,12765,running,0,115
+2003,C,2003_OReilly_400K,17,29,19,usa,Ricky_Sanders,Ricky Sanders,Sanders Racing,William_Lee,Ford,162,10415,running,0,112
+2003,C,2003_OReilly_400K,18,32,49,usa,Shawna_Robinson,Shawna Robinson,Aaron's,Mike_Starr,Chevrolet,162,10315,running,0,109
+2003,C,2003_OReilly_400K,19,33,11,usa,Aaron_Daniel,Aaron Daniel,Team Chick Motorsports,Steve_Chick,Ford,161,10215,running,0,106
+2003,C,2003_OReilly_400K,20,22,53,usa,Randy_Briggs,Randy Briggs,Race Shops For Rent,Mary_Ward,Ford,160,12465,running,0,103
+2003,C,2003_OReilly_400K,21,24,5,usa,Jerry_Hill,Jerry Hill,Ware Racing Enterprises,Rick_Ware,Dodge,159,12265,running,0,100
+2003,C,2003_OReilly_400K,22,18,31,usa,Tina_Gordon,Tina Gordon,Microtel Inn & Suites,Bob_Brevak,Dodge,159,12165,running,0,97
+2003,C,2003_OReilly_400K,23,31,81,usa,Johnny_Borneman_III,"Johnny Borneman, III",Red Line Oil,John_Borneman,Ford,156,9815,running,0,94
+2003,C,2003_OReilly_400K,24,14,15,usa,Rich_Bickle,Rich Bickle,Vokal Clothing,Billy_Ballew,Ford,144,10715,running,0,91
+2003,C,2003_OReilly_400K,25,23,66,usa,Donnie_Neuenberger,Donnie Neuenberger,97.1 The Eagle,Rodney_Smith,Dodge,116,10615,engine,0,88
+2003,C,2003_OReilly_400K,26,11,59,usa,Robert_Pressley,Robert Pressley,Harris Trucking / S-Line Products,James_Harris,Dodge,105,9515,running,0,85
+2003,C,2003_OReilly_400K,27,7,2,usa,Jason_Leffler,Jason Leffler,Team ASE / Carquest,Jim_Smith,Dodge,58,9415,engine,0,82
+2003,C,2003_OReilly_400K,28,21,86,usa,Phil_Bonifield,Phil Bonifield,Embassy Suites / Landlock Marine Transport,Phil_Bonifield,Chevrolet,53,9315,transmission,0,79
+2003,C,2003_OReilly_400K,29,20,07,usa,Stan_Boyd,Stan Boyd,Albertson's / Lavenders Discount Carpets,Gene_Christensen,Chevrolet,42,9215,handling,0,76
+2003,C,2003_OReilly_400K,30,28,58,usa,Chris_Horn,Chris Horn,Horn Auto Racing,Fred_Horn,Chevrolet,31,9115,electrical,0,73
+2003,C,2003_OReilly_400K,31,36,0,usa,Patrick_Lawler,Patrick Lawler,Intensitee Custom Racewear,Larry_Richardson,Chevrolet,8,8990,transmission,0,0
+2003,C,2003_OReilly_400K,32,30,35,usa,L_W_Miller,L.W. Miller,Sof Sole,Mary_Ward,Ford,7,8890,brakes,0,67
+2003,C,2003_OReilly_400K,33,25,23,usa,Jamie_Aube,Jamie Aube,Red Line Synthetic Oil,Tom_Mazzuchi,Chevrolet,5,8790,driveshaft,0,64
+2003,C,2003_OReilly_400K,34,26,93,usa,Michael_Dokken,Michael Dokken,Troxell Construction,Lonnie_Troxell,Chevrolet,4,8765,rear end,0,61
+2003,C,2003_OReilly_400K,35,34,9,usa,Lance_Hooper,Lance Hooper,Fasscore Motorsports,Christopher_Beckington,Ford,1,8740,vibration,0,0
+2003,C,2003_OReilly_400K,36,35,25,usa,Wayne_Edwards_(1),Wayne Edwards,Lane Automotive,Phil_Bonifield,Chevrolet,1,8715,vibration,0,0
+2003,C,2003_OReilly_200,1,3,1,usa,Ted_Musgrave,Ted Musgrave,Mopar Performance,Jim_Smith,Dodge,200,46875,running,102,185
+2003,C,2003_OReilly_200,2,4,16,usa,Travis_Kvapil,Travis Kvapil,IWX Motor Freight,Steve_Coulter,Chevrolet,200,31250,running,2,175
+2003,C,2003_OReilly_200,3,9,46,usa,Dennis_Setzer,Dennis Setzer,Acxiom / Computer Associates,Rob_Morgan_David_Dollar,Chevrolet,200,22500,running,16,170
+2003,C,2003_OReilly_200,4,1,50,usa,Jon_Wood,Jon Wood,Roush Racing,Jack_Roush,Ford,200,17875,running,62,165
+2003,C,2003_OReilly_200,5,5,99,usa,Carl_Edwards,Carl Edwards,Roush Racing,Jack_Roush,Ford,200,14500,running,0,155
+2003,C,2003_OReilly_200,6,7,2,usa,Jason_Leffler,Jason Leffler,Team ASE / Carquest,Jim_Smith,Dodge,200,11625,running,0,150
+2003,C,2003_OReilly_200,7,8,4,usa,Bobby_Hamilton,Bobby Hamilton,Square D,Bobby_Hamilton_Racing,Dodge,200,11825,running,11,151
+2003,C,2003_OReilly_200,8,11,62,usa,Brendan_Gaughan,Brendan Gaughan,The Orleans Hotel,Michael_Gaughan,Dodge,200,11400,running,0,142
+2003,C,2003_OReilly_200,9,10,29,usa,Terry_Cook,Terry Cook,Power Stroke Diesel / Oil Mate,Bob_Keselowski,Ford,200,11550,running,0,138
+2003,C,2003_OReilly_200,10,12,88,usa,Matt_Crafton,Matt Crafton,Menards / Enzyme Solutions,Duke_Thorson,Chevrolet,200,12750,running,7,139
+2003,C,2003_OReilly_200,11,6,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,200,11100,running,0,130
+2003,C,2003_OReilly_200,12,17,15,usa,Rich_Bickle,Rich Bickle,Vokal Clothing,Billy_Ballew,Dodge,200,10865,running,0,127
+2003,C,2003_OReilly_200,13,20,08,usa,Jody_Lavender,Jody Lavender,Lavender's Discount Carpets,Gene_Christensen,Chevrolet,199,10815,running,0,124
+2003,C,2003_OReilly_200,14,18,66,usa,Michael_Dokken,Michael Dokken,RDS Motorsports,Rodney_Smith,Dodge,198,10765,running,0,121
+2003,C,2003_OReilly_200,15,21,75,usa,Hank_Parker_Jr,"Hank Parker, Jr.",Spears Manufacturing,Wayne_Spears,Chevrolet,197,10915,running,0,118
+2003,C,2003_OReilly_200,16,19,78,usa,Charlie_Bradberry,Charlie Bradberry,Bradberry Motorsports,Charles_Bradberry,Chevrolet,197,8665,running,0,115
+2003,C,2003_OReilly_200,17,31,53,usa,Randy_Briggs,Randy Briggs,Race Shops For Rent,Mary_Ward,Ford,195,12065,running,0,112
+2003,C,2003_OReilly_200,18,27,87,usa,Conrad_Burr,Conrad Burr,National Peening,James_Burr,Chevrolet,195,9465,running,0,109
+2003,C,2003_OReilly_200,19,35,65,usa,Nathan_Wulff,Nathan Wulff,davisstone.com,Ken_Davis,Ford,195,8190,running,0,106
+2003,C,2003_OReilly_200,20,33,5,usa,Jerry_Hill,Jerry Hill,Ware Racing Enterprises,Rick_Ware,Dodge,194,10515,running,0,103
+2003,C,2003_OReilly_200,21,26,92,usa,Jeremy_Thompson,Jeremy Thompson,Thompson,Donald_Thompson,Chevrolet,194,8140,running,0,100
+2003,C,2003_OReilly_200,22,32,36,canada,Trevor_Boys,Trevor Boys,James Western Star Sterling,Ron_Rhodes,Dodge,193,8115,running,0,97
+2003,C,2003_OReilly_200,23,29,86,usa,Phil_Bonifield,Phil Bonifield,Lane Automotice / Motor State Performance,Phil_Bonifield,Chevrolet,192,9090,running,0,94
+2003,C,2003_OReilly_200,24,36,7,usa,Jay_Sherston,Jay Sherston,Conely Racing,John_Conely,Chevrolet,190,8065,running,0,91
+2003,C,2003_OReilly_200,25,23,63,usa,David_Stover,David Stover,Summer Bay Resort,Mike_Mittler,Ford,154,8015,running,0,88
+2003,C,2003_OReilly_200,26,14,8,usa,Bill_Lester,Bill Lester,Dodge Motorsports,Bobby_Hamilton_Racing,Dodge,128,8990,running,0,85
+2003,C,2003_OReilly_200,27,34,02,usa,Kelly_Sutton,Kelly Sutton,Team Copaxone,Ed_Sutton,Chevrolet,125,7965,transmission,0,82
+2003,C,2003_OReilly_200,28,2,18,usa,Chad_Chaffin,Chad Chaffin,Dickies,Bobby_Hamilton_Racing,Dodge,76,8940,engine,0,79
+2003,C,2003_OReilly_200,29,25,04,usa,Shane_Wallace,Shane Wallace,Wallace Motorsports,Darren_Shaw,Ford,67,7915,transmission,0,76
+2003,C,2003_OReilly_200,30,30,93,usa,Roland_Isaacs,Roland Isaacs,Troxell-MacDonald Racing,Lonnie_Troxell,Chevrolet,49,7890,brakes,0,73
+2003,C,2003_OReilly_200,31,28,07,usa,Blake_Mallory,Blake Mallory,Green Light Racing,Gene_Christensen,Chevrolet,44,7865,engine,0,70
+2003,C,2003_OReilly_200,32,25,01,usa,Lance_Hooper,Lance Hooper,Fans Motorsports,Lance_Hooper,Ford,23,7840,overheating,0,67
+2003,C,2003_OReilly_200,33,26,21,usa,Morgan_Shepherd,Morgan Shepherd,Racing With Jesus / Red Line Oil,Morgan_Shepherd,Ford,20,7815,handling,0,64
+2003,C,2003_OReilly_200,34,13,23,usa,Jamie_Aube,Jamie Aube,Red Line Synthetic Oil,Tom_Mazzuchi,Chevrolet,12,7790,handling,0,61
+2003,C,2003_OReilly_200,35,24,9,usa,Kenny_Hendrick,Kenny Hendrick,Fasscore Motorsports,Christopher_Beckington,Ford,2,7765,engine,0,58
+2003,C,2003_OReilly_200,36,22,72,canada,Randy_MacDonald,Randy MacDonald,U.S. Security,Doc_MacDonald,Chevrolet,1,7740,engine,0,55
+2003,C,2003_GNC_200,1,2,62,usa,Brendan_Gaughan,Brendan Gaughan,The Orleans Hotel,Michael_Gaughan,Dodge,200,48560,running,56,185
+2003,C,2003_GNC_200,2,11,2,usa,Jason_Leffler,Jason Leffler,Team ASE / Carquest,Jim_Smith,Dodge,200,29625,running,38,175
+2003,C,2003_GNC_200,3,6,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,200,22865,running,23,170
+2003,C,2003_GNC_200,4,8,1,usa,Ted_Musgrave,Ted Musgrave,Mopar Performance,Jim_Smith,Dodge,200,14125,running,13,165
+2003,C,2003_GNC_200,5,4,46,usa,Dennis_Setzer,Dennis Setzer,Acxiom / Computer Associates,Rob_Morgan_David_Dollar,Chevrolet,200,14100,running,29,160
+2003,C,2003_GNC_200,6,12,16,usa,Travis_Kvapil,Travis Kvapil,IWX Motor Freight,Steve_Coulter,Chevrolet,200,11675,running,0,150
+2003,C,2003_GNC_200,7,1,29,usa,Terry_Cook,Terry Cook,Power Stroke Diesel / Oil Mate,Bob_Keselowski,Ford,200,12925,running,41,151
+2003,C,2003_GNC_200,8,9,75,usa,Hank_Parker_Jr,"Hank Parker, Jr.",Spears Manufacturing,Wayne_Spears,Chevrolet,200,11075,running,0,142
+2003,C,2003_GNC_200,9,13,88,usa,Matt_Crafton,Matt Crafton,Menards / Enzyme Solutions,Duke_Thorson,Chevrolet,200,11100,running,0,138
+2003,C,2003_GNC_200,10,5,50,usa,Jon_Wood,Jon Wood,Roush Racing,Jack_Roush,Ford,200,12250,running,0,134
+2003,C,2003_GNC_200,11,17,33,usa,Paul_Menard,Paul Menard,Turtle Wax,Andy_Petree,Chevrolet,198,9400,running,0,130
+2003,C,2003_GNC_200,12,23,8,usa,Bill_Lester,Bill Lester,Dodge Motorsports,Bobby_Hamilton_Racing,Dodge,198,10215,running,0,127
+2003,C,2003_GNC_200,13,7,18,usa,Chad_Chaffin,Chad Chaffin,Dickies,Bobby_Hamilton_Racing,Dodge,196,10115,running,0,124
+2003,C,2003_GNC_200,14,24,72,canada,Randy_MacDonald,Randy MacDonald,U.S. Security,Doc_MacDonald,Chevrolet,196,10015,running,0,121
+2003,C,2003_GNC_200,15,3,99,usa,Carl_Edwards,Carl Edwards,Roush Racing,Jack_Roush,Ford,196,11115,running,0,118
+2003,C,2003_GNC_200,16,27,04,usa,Shane_Wallace,Shane Wallace,Wallace Motorsports,Darren_Shaw,Ford,196,7815,running,0,115
+2003,C,2003_GNC_200,17,19,03,usa,Eric_Jones,Eric Jones,Team EJP,Steve_Prescott,Chevrolet,195,8765,running,0,112
+2003,C,2003_GNC_200,18,30,63,usa,David_Stover,David Stover,Summer Bay Resort,Mike_Mittler,Ford,194,10165,running,0,109
+2003,C,2003_GNC_200,19,25,91,usa,J_C_Stout,J.C. Stout,Burt's Lumber,Donald_Stout,Chevrolet,194,7365,running,0,106
+2003,C,2003_GNC_200,20,31,53,usa,Randy_Briggs,Randy Briggs,cuptire.com,Mary_Ward,Ford,194,9665,running,0,103
+2003,C,2003_GNC_200,21,10,52,usa,Ken_Schrader,Ken Schrader,Federated Auto Parts,Ken_Schrader,Chevrolet,193,7265,running,0,100
+2003,C,2003_GNC_200,22,36,9,usa,Steadman_Marlin,Steadman Marlin,Fasscore / Vokal Clothing,Christopher_Beckington,Ford,192,7215,running,0,0
+2003,C,2003_GNC_200,23,34,5,usa,Jerry_Hill,Jerry Hill,Ware Racing Enterprises,Rick_Ware,Dodge,192,8165,running,0,94
+2003,C,2003_GNC_200,24,18,08,usa,Jody_Lavender,Jody Lavender,Lavender's Discount Carpets,Gene_Christensen,Chevrolet,188,8140,rear end,0,91
+2003,C,2003_GNC_200,25,33,31,usa,Tina_Gordon,Tina Gordon,Scotch Transparent Duct Tape,Bob_Brevak,Dodge,188,8115,running,0,88
+2003,C,2003_GNC_200,26,22,66,canada,Trevor_Boys,Trevor Boys,James Western Star Sterling,Rodney_Smith,Dodge,176,8090,running,0,85
+2003,C,2003_GNC_200,27,14,15,usa,Rich_Bickle,Rich Bickle,Vokal Clothing,Billy_Ballew,Dodge,175,8065,transmission,0,82
+2003,C,2003_GNC_200,28,21,86,usa,T_J_Bell,T.J. Bell,Defiant Clothing,Phil_Bonifield,Chevrolet,169,7040,running,0,79
+2003,C,2003_GNC_200,29,15,4,usa,Bobby_Hamilton,Bobby Hamilton,Square D,Bobby_Hamilton_Racing,Dodge,124,7015,engine,0,76
+2003,C,2003_GNC_200,30,20,07,usa,Bobby_Dotter,Bobby Dotter,Green Light Racing,Gene_Christensen,Chevrolet,52,6990,rear end,0,73
+2003,C,2003_GNC_200,31,29,93,usa,Roland_Isaacs,Roland Isaacs,Troxell-MacDonald Racing,Lonnie_Troxell,Chevrolet,24,6965,brakes,0,70
+2003,C,2003_GNC_200,32,32,23,usa,Phil_Bonifield,Phil Bonifield,Red Line Synthetic Oil,Tom_Mazzuchi,Chevrolet,16,6940,overheating,0,67
+2003,C,2003_GNC_200,33,26,21,usa,Morgan_Shepherd,Morgan Shepherd,Racing With Jesus / Red Line Oil,Morgan_Shepherd,Ford,13,6915,handling,0,0
+2003,C,2003_GNC_200,34,35,20,usa,Ken_Weaver,Ken Weaver,1-800-4-A-Phone,Ken_Weaver,Chevrolet,11,6890,engine,0,61
+2003,C,2003_GNC_200,35,16,6,usa,Kevin_Harvick,Kevin Harvick,Snap-On Tools,Kevin_Harvick,Chevrolet,5,6865,engine,0,58
+2003,C,2003_GNC_200,36,28,51,usa,Stan_Boyd,Stan Boyd,Ware Racing Enterprises,Rick_Ware,Dodge,5,6840,water pump,0,55
+2003,C,2003_OReilly_Auto_Parts_250,1,3,50,usa,Jon_Wood,Jon Wood,Graham for President,Jack_Roush,Ford,167,49050,running,67,185
+2003,C,2003_OReilly_Auto_Parts_250,2,16,99,usa,Carl_Edwards,Carl Edwards,Roush Racing,Jack_Roush,Ford,167,33325,running,3,175
+2003,C,2003_OReilly_Auto_Parts_250,3,12,46,usa,Dennis_Setzer,Dennis Setzer,Acxiom / Computer Associates,Rob_Morgan_David_Dollar,Chevrolet,167,23240,running,0,165
+2003,C,2003_OReilly_Auto_Parts_250,4,9,16,usa,Travis_Kvapil,Travis Kvapil,IWX Motor Freight,Steve_Coulter,Chevrolet,167,15550,running,0,160
+2003,C,2003_OReilly_Auto_Parts_250,5,18,59,usa,Robert_Pressley,Robert Pressley,Harris Trucking,James_Harris,Dodge,167,13900,running,0,155
+2003,C,2003_OReilly_Auto_Parts_250,6,7,03,usa,Eric_Jones,Eric Jones,Team EJP,Steve_Prescott,Chevrolet,167,12025,running,0,150
+2003,C,2003_OReilly_Auto_Parts_250,7,6,2,usa,Jason_Leffler,Jason Leffler,Team ASE / Carquest,Jim_Smith,Dodge,167,12625,running,22,151
+2003,C,2003_OReilly_Auto_Parts_250,8,15,33,usa,Paul_Menard,Paul Menard,Purex,Andy_Petree,Chevrolet,167,11575,running,0,142
+2003,C,2003_OReilly_Auto_Parts_250,9,11,62,usa,Brendan_Gaughan,Brendan Gaughan,The Orleans Hotel,Michael_Gaughan,Dodge,167,12500,running,11,143
+2003,C,2003_OReilly_Auto_Parts_250,10,2,8,usa,Bill_Lester,Bill Lester,Dodge Motorsports,Bobby_Hamilton_Racing,Dodge,167,14000,running,0,134
+2003,C,2003_OReilly_Auto_Parts_250,11,21,75,usa,Hank_Parker_Jr,"Hank Parker, Jr.",Spears Manufacturing,Wayne_Spears,Chevrolet,167,12400,running,0,130
+2003,C,2003_OReilly_Auto_Parts_250,12,14,29,usa,Terry_Cook,Terry Cook,Power Stroke Diesel / Oil Mate,Bob_Keselowski,Ford,167,12265,running,0,127
+2003,C,2003_OReilly_Auto_Parts_250,13,27,15,usa,Rich_Bickle,Rich Bickle,Vokal Clothing,Billy_Ballew,Dodge,166,12190,running,0,124
+2003,C,2003_OReilly_Auto_Parts_250,14,1,18,usa,Chad_Chaffin,Chad Chaffin,Dickies,Bobby_Hamilton_Racing,Dodge,166,13640,running,9,126
+2003,C,2003_OReilly_Auto_Parts_250,15,4,1,usa,Ted_Musgrave,Ted Musgrave,Mopar Performance,Jim_Smith,Dodge,166,12540,running,52,123
+2003,C,2003_OReilly_Auto_Parts_250,16,5,4,usa,Bobby_Hamilton,Bobby Hamilton,Square D,Bobby_Hamilton_Racing,Dodge,166,12015,running,2,120
+2003,C,2003_OReilly_Auto_Parts_250,17,34,72,canada,Randy_MacDonald,Randy MacDonald,U.S. Security,Doc_MacDonald,Chevrolet,165,11940,running,0,112
+2003,C,2003_OReilly_Auto_Parts_250,18,26,5,usa,Jerry_Hill,Jerry Hill,Ware Racing Enterprises,Rick_Ware,Dodge,165,11890,running,0,109
+2003,C,2003_OReilly_Auto_Parts_250,19,10,88,usa,Matt_Crafton,Matt Crafton,Menards / Enzyme Solutions,Duke_Thorson,Chevrolet,162,10590,engine,0,106
+2003,C,2003_OReilly_Auto_Parts_250,20,33,08,usa,Jody_Lavender,Jody Lavender,Lavender's Discount Carpets,Gene_Christensen,Chevrolet,162,10640,running,0,103
+2003,C,2003_OReilly_Auto_Parts_250,21,35,53,usa,Randy_Briggs,Randy Briggs,Mr. Goodcents,Mary_Ward,Ford,158,12015,running,0,100
+2003,C,2003_OReilly_Auto_Parts_250,22,8,58,usa,Chris_Horn,Chris Horn,Horn Auto Racing,Fred_Horn,Chevrolet,118,9490,oil pressure,0,97
+2003,C,2003_OReilly_Auto_Parts_250,23,13,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,106,10465,engine,1,99
+2003,C,2003_OReilly_Auto_Parts_250,24,36,66,canada,Trevor_Boys,Trevor Boys,MLB Motorsports,Rodney_Smith,Dodge,95,9440,engine,0,91
+2003,C,2003_OReilly_Auto_Parts_250,25,25,86,usa,T_J_Bell,T.J. Bell,Defiant Clothing,Phil_Bonifield,Chevrolet,93,9415,crash,0,88
+2003,C,2003_OReilly_Auto_Parts_250,26,20,38,usa,Brandon_Whitt,Brandon Whitt,McMillin Realty / GS3 / Simpson,Daniel_Whitt,Chevrolet,84,9390,fatigue,0,85
+2003,C,2003_OReilly_Auto_Parts_250,27,23,63,usa,David_Stover,David Stover,Summer Bay Resort,Mike_Mittler,Ford,75,9365,handling,0,82
+2003,C,2003_OReilly_Auto_Parts_250,28,32,23,usa,Phil_Bonifield,Phil Bonifield,Red Line Synthetic Oil,Tom_Mazzuchi,Chevrolet,53,9340,fuel pump,0,79
+2003,C,2003_OReilly_Auto_Parts_250,29,28,36,usa,Michael_Dokken,Michael Dokken,MLB Motorsports,Rodney_Smith,Dodge,45,9295,engine,0,76
+2003,C,2003_OReilly_Auto_Parts_250,30,30,19,usa,Ricky_Sanders,Ricky Sanders,Sanders Racing,William_Lee,Ford,39,9265,crash,0,73
+2003,C,2003_OReilly_Auto_Parts_250,31,29,31,usa,Tina_Gordon,Tina Gordon,Microtel Inn & Suites,Bob_Brevak,Dodge,25,9240,crash,0,70
+2003,C,2003_OReilly_Auto_Parts_250,32,17,01,usa,Lance_Hooper,Lance Hooper,Fans Motorsports,Lance_Hooper,Ford,22,9215,vibration,0,67
+2003,C,2003_OReilly_Auto_Parts_250,33,24,51,usa,Stan_Boyd,Stan Boyd,Ware Racing Enterprises,Rick_Ware,Dodge,16,9195,rear end,0,64
+2003,C,2003_OReilly_Auto_Parts_250,34,19,21,usa,Morgan_Shepherd,Morgan Shepherd,Racing With Jesus / Red Line Oil,Morgan_Shepherd,Ford,14,9165,oil pressure,0,61
+2003,C,2003_OReilly_Auto_Parts_250,35,31,93,usa,Jason_White_(1),Jason White,Troxell-MacDonald Racing,Lonnie_Troxell,Chevrolet,11,9140,overheating,0,58
+2003,C,2003_OReilly_Auto_Parts_250,36,22,9,usa,Kenny_Hendrick,Kenny Hendrick,Fasscore Motorsports,Christopher_Beckington,Ford,1,9115,transmission,0,55
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,1,5,99,usa,Carl_Edwards,Carl Edwards,Roush Racing,Jack_Roush,Ford,150,77500,running,40,80
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,2,6,1,usa,Ted_Musgrave,Ted Musgrave,Mopar Performance,Jim_Smith,Dodge,150,52325,running,0,170
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,3,13,46,usa,Dennis_Setzer,Dennis Setzer,Acxiom / Computer Associates,Rob_Morgan_David_Dollar,Chevrolet,150,31125,running,0,165
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,4,1,50,usa,Jon_Wood,Jon Wood,Graham for President,Jack_Roush,Ford,150,28150,running,0,160
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,5,4,2,usa,Jason_Leffler,Jason Leffler,Team ASE / Carquest,Jim_Smith,Dodge,150,22250,running,18,160
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,6,14,16,usa,Travis_Kvapil,Travis Kvapil,IWX Motor Freight,Steve_Coulter,Chevrolet,150,18825,running,3,155
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,7,8,88,usa,Matt_Crafton,Matt Crafton,Menards / Enzyme Solutions,Duke_Thorson,Chevrolet,150,18125,running,0,146
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,8,11,59,usa,Robert_Pressley,Robert Pressley,Harris Trucking,James_Harris,Dodge,150,17075,running,0,142
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,9,12,29,usa,Terry_Cook,Terry Cook,Power Stroke Diesel / Oil Mate,Bob_Keselowski,Ford,150,15975,running,1,143
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,10,17,75,usa,Hank_Parker_Jr,"Hank Parker, Jr.",Spears Manufacturing,Wayne_Spears,Chevrolet,150,16625,running,0,134
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,11,16,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,150,15125,running,0,130
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,12,9,8,usa,Bill_Lester,Bill Lester,Dodge Motorsports,Bobby_Hamilton_Racing,Dodge,150,14940,running,0,127
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,13,10,15,usa,Mike_Skinner,Mike Skinner,Fasscore Motorsports,Billy_Ballew,Ford,149,14840,running,3,129
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,14,15,58,usa,Chris_Horn,Chris Horn,Horn Auto Racing,Fred_Horn,Chevrolet,149,12490,running,0,121
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,15,35,11,usa,Aaron_Daniel,Aaron Daniel,Team Chick Motorsports,Steve_Chick,Ford,148,14340,running,0,118
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,16,31,72,canada,Randy_MacDonald,Randy MacDonald,U.S. Security,Doc_MacDonald,Chevrolet,148,14440,running,0,115
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,17,33,53,usa,Randy_Briggs,Randy Briggs,Mr. Goodcents,Mary_Ward,Ford,147,14340,running,0,112
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,18,2,4,usa,Bobby_Hamilton,Bobby Hamilton,Square D,Bobby_Hamilton_Racing,Dodge,146,14240,running,11,114
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,19,36,19,usa,Ricky_Sanders,Ricky Sanders,Sanders Racing,William_Lee,Ford,142,11890,running,0,106
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,20,29,0,usa,Loni_Richardson,Loni Richardson,Intensitee Custom Racewear,Larry_Richardson,Chevrolet,124,11940,engine,0,103
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,21,25,31,usa,Tina_Gordon,Tina Gordon,Microtel Inn & Suites,Bob_Brevak,Dodge,115,14040,running,0,100
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,22,7,62,usa,Brendan_Gaughan,Brendan Gaughan,The Orleans Hotel,Michael_Gaughan,Dodge,110,13990,engine,66,107
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,23,28,93,usa,Jonathon_Price,Jonathon Price,Troxell-MacDonald Racing,Lonnie_Troxell,Chevrolet,75,12690,ignition,0,94
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,24,24,08,usa,Jody_Lavender,Jody Lavender,Lavender's Discount Carpets,Gene_Christensen,Chevrolet,74,12640,engine,1,96
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,25,27,23,usa,Phil_Bonifield,Phil Bonifield,Red Line Synthetic Oil,Tom_Mazzuchi,Chevrolet,54,11590,engine,0,88
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,26,3,18,usa,Chad_Chaffin,Chad Chaffin,Dickies,Bobby_Hamilton_Racing,Dodge,50,11540,engine,0,85
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,27,21,07,usa,Johnny_Chapman,Johnny Chapman,Green Light Racing,Gene_Christensen,Chevrolet,44,11490,engine,0,82
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,28,20,21,usa,Morgan_Shepherd,Morgan Shepherd,Racing With Jesus / Red Line Oil,Morgan_Shepherd,Ford,37,11390,overheating,7,84
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,29,32,86,usa,T_J_Bell,T.J. Bell,Defiant Clothing,Phil_Bonifield,Chevrolet,31,11290,clutch,0,76
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,30,19,38,usa,Brandon_Whitt,Brandon Whitt,Moen Faucets / McMillin Homes,Daniel_Whitt,Chevrolet,28,11190,engine,0,73
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,31,18,01,usa,Lance_Hooper,Lance Hooper,Fans Motorsports,Lance_Hooper,Ford,26,11090,oil pressure,0,70
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,32,34,66,canada,Trevor_Boys,Trevor Boys,James Western Star Sterling,Rodney_Smith,Dodge,18,10990,overheating,0,67
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,33,22,5,usa,Jerry_Hill,Jerry Hill,Ware Racing Enterprises,Rick_Ware,Dodge,16,10890,rear end,0,64
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,34,26,51,usa,Stan_Boyd,Stan Boyd,Ware Racing Enterprises,Rick_Ware,Dodge,15,10790,suspension,0,61
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,35,30,00,usa,Ryan_McGlynn,Ryan McGlynn,Buyers Choice Auto Warranties,Raynard_McGlynn,Chevrolet,5,10690,vibration,0,58
+2003,C,2003_Built_Ford_Tough_225_Pres._by_Greater_Cincinnati_Ford_Dlrs.,36,23,9,usa,Kenny_Hendrick,Kenny Hendrick,Fasscore Motorsports,Christopher_Beckington,Ford,4,10590,transmission,0,55
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,1,4,62,usa,Brendan_Gaughan,Brendan Gaughan,Casino Queen Hotel,Michael_Gaughan,Dodge,160,52460,running,112,185
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,2,8,2,usa,Jason_Leffler,Jason Leffler,Team ASE / Carquest,Jim_Smith,Dodge,160,35325,running,0,170
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,3,1,16,usa,Travis_Kvapil,Travis Kvapil,IWX Motor Freight,Steve_Coulter,Chevrolet,160,28790,running,0,165
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,4,11,99,usa,Carl_Edwards,Carl Edwards,Roush Racing,Jack_Roush,Ford,160,22025,running,0,160
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,5,6,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,160,18775,running,0,155
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,6,10,75,usa,David_Starr,David Starr,Spears Manufacturing,Wayne_Spears,Chevrolet,160,15400,running,0,150
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,7,2,1,usa,Ted_Musgrave,Ted Musgrave,Mopar Performance,Jim_Smith,Dodge,160,13925,running,48,151
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,8,3,46,usa,Dennis_Setzer,Dennis Setzer,Acxiom / Computer Associates,Rob_Morgan_David_Dollar,Chevrolet,160,13225,running,0,142
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,9,9,29,usa,Terry_Cook,Terry Cook,Power Stroke Diesel / Oil Mate,Bob_Keselowski,Ford,160,12475,running,0,138
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,10,12,88,usa,Matt_Crafton,Matt Crafton,Menards / Enzyme Solutions,Duke_Thorson,Chevrolet,160,13625,running,0,134
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,11,7,50,usa,Jon_Wood,Jon Wood,Graham for President,Jack_Roush,Ford,160,11475,running,0,130
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,12,15,15,usa,Mike_Skinner,Mike Skinner,Vokal Clothing / Fasscore,Billy_Ballew,Dodge,160,11290,running,0,127
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,13,13,18,usa,Chad_Chaffin,Chad Chaffin,Dickies,Bobby_Hamilton_Racing,Dodge,160,11240,running,0,124
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,14,5,4,usa,Bobby_Hamilton,Bobby Hamilton,Square D,Bobby_Hamilton_Racing,Dodge,159,11190,running,0,121
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,15,35,04,usa,Shane_Wallace,Shane Wallace,Wallace Motorsports,Darren_Shaw,Ford,159,10840,running,0,118
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,16,16,08,usa,Jody_Lavender,Jody Lavender,Lavender's Discount Carpets,Gene_Christensen,Chevrolet,158,10840,running,0,115
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,17,17,72,canada,Randy_MacDonald,Randy MacDonald,U.S. Security,Doc_MacDonald,Chevrolet,155,10790,running,0,112
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,18,33,11,usa,Aaron_Daniel,Aaron Daniel,Team Chick Motorsports,Steve_Chick,Ford,155,8365,running,0,109
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,19,34,20,usa,Ken_Weaver,Ken Weaver,1-800-4-A-Phone,Ken_Weaver,Chevrolet,150,8265,running,0,106
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,20,31,19,usa,Ricky_Sanders,Ricky Sanders,Pitboxes.com,William_Lee,Ford,149,9590,running,0,103
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,21,25,33,usa,Paul_Menard,Paul Menard,Turtle Wax,Andy_Petree,Chevrolet,141,10465,crash,0,100
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,22,14,8,usa,Bill_Lester,Bill Lester,Dodge Motorsports,Bobby_Hamilton_Racing,Dodge,141,9190,crash,0,97
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,23,22,07,usa,Ryan_Hanson,Ryan Hanson,Prairie Ave. Concrete,Gene_Christensen,Chevrolet,140,9165,crash,0,94
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,24,21,66,usa,Blake_Mallory,Blake Mallory,Mallory Screenprint & Embroidery,Rodney_Smith,Dodge,136,9140,water pump,0,91
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,25,18,53,usa,Randy_Briggs,Randy Briggs,Arrow Truck Sales,Mary_Ward,Ford,123,8115,engine,0,88
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,26,26,63,usa,David_Stover,David Stover,Mittler Machine / Porter Truck Sales,Mike_Mittler,Ford,115,8090,engine,0,85
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,27,29,27,usa,Doug_Keller,Doug Keller,Keller Motorsports,Doug_Keller,Chevrolet,104,8065,brakes,0,82
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,28,19,86,usa,T_J_Bell,T.J. Bell,Defiant Clothing,Phil_Bonifield,Chevrolet,86,8040,crash,0,79
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,29,20,5,usa,Jerry_Hill,Jerry Hill,Ware Racing Enterprises,Rick_Ware,Dodge,53,8015,engine,0,76
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,30,23,23,usa,Phil_Bonifield,Phil Bonifield,Red Line Synthetic Oil,Tom_Mazzuchi,Chevrolet,50,7995,fatigue,0,73
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,31,30,58,usa,Chris_Horn,Chris Horn,Horn Auto Racing,Fred_Horn,Chevrolet,45,7985,brakes,0,70
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,32,24,93,usa,Jon_Lemke,Jon Lemke,Troxell-MacDonald Racing,Lonnie_Troxell,Chevrolet,26,7975,crash,0,67
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,33,32,01,usa,Lance_Hooper,Lance Hooper,DJ Safety,Lance_Hooper,Ford,19,7965,engine,0,64
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,34,36,25,usa,Michael_Dokken,Michael Dokken,Red Line Synthetic Oil,Phil_Bonifield,Chevrolet,9,7955,transmission,0,0
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,35,28,9,usa,Kenny_Hendrick,Kenny Hendrick,Fasscore / Vokal Clothing,Christopher_Beckington,Ford,6,7945,transmission,0,58
+2003,C,2003_Missouri-Illinois_Dodge_Dealers_Ram_Tough_200,36,27,51,usa,Stan_Boyd,Stan Boyd,Ware Racing Enterprises,Rick_Ware,Dodge,3,7935,handling,0,55
+2003,C,2003_Sears_200,1,6,62,usa,Brendan_Gaughan,Brendan Gaughan,The Orleans Hotel,Michael_Gaughan,Dodge,100,47850,running,48,185
+2003,C,2003_Sears_200,2,3,1,usa,Ted_Musgrave,Ted Musgrave,Mopar Performance,Jim_Smith,Dodge,100,31475,running,10,175
+2003,C,2003_Sears_200,3,2,18,usa,Chad_Chaffin,Chad Chaffin,Dickies,Bobby_Hamilton_Racing,Dodge,100,22975,running,0,165
+2003,C,2003_Sears_200,4,1,2,usa,Jason_Leffler,Jason Leffler,Team ASE / Carquest,Jim_Smith,Dodge,100,16100,running,6,165
+2003,C,2003_Sears_200,5,4,99,usa,Carl_Edwards,Carl Edwards,Roush Racing,Jack_Roush,Ford,100,14600,running,22,160
+2003,C,2003_Sears_200,6,7,50,usa,Jon_Wood,Jon Wood,Bob Graham for President,Jack_Roush,Ford,100,12625,running,7,155
+2003,C,2003_Sears_200,7,18,16,usa,Travis_Kvapil,Travis Kvapil,IWX Motor Freight,Steve_Coulter,Chevrolet,100,12475,running,1,151
+2003,C,2003_Sears_200,8,15,46,usa,Dennis_Setzer,Dennis Setzer,Acxiom / Computer Associates,Rob_Morgan_David_Dollar,Chevrolet,100,12700,running,0,142
+2003,C,2003_Sears_200,9,9,29,usa,Terry_Cook,Terry Cook,Power Stroke Diesel / Oil Mate,Bob_Keselowski,Ford,100,12600,running,0,138
+2003,C,2003_Sears_200,10,11,4,usa,Bobby_Hamilton,Bobby Hamilton,Square D,Bobby_Hamilton_Racing,Dodge,100,13875,running,0,134
+2003,C,2003_Sears_200,11,5,8,usa,Bill_Lester,Bill Lester,Strauss Auto Parts / The Club,Bobby_Hamilton_Racing,Dodge,100,12275,running,2,135
+2003,C,2003_Sears_200,12,14,14,usa,Rick_Crawford,Rick Crawford,Craftsman,Tom_Mitchell,Ford,100,12140,running,0,127
+2003,C,2003_Sears_200,13,8,75,usa,David_Starr,David Starr,Spears Manufacturing,Wayne_Spears,Chevrolet,100,12065,running,0,124
+2003,C,2003_Sears_200,14,12,59,usa,Robert_Pressley,Robert Pressley,Melling Automotive Products,James_Harris,Dodge,100,12015,running,0,121
+2003,C,2003_Sears_200,15,10,15,usa,Mike_Skinner,Mike Skinner,Vokal Clothing / Fasscore,Billy_Ballew,Dodge,99,12415,running,0,118
+2003,C,2003_Sears_200,16,30,53,usa,Randy_Briggs,Randy Briggs,Arrow Truck Sales,Mary_Ward,Ford,98,11940,running,0,115
+2003,C,2003_Sears_200,17,21,58,usa,Chris_Horn,Chris Horn,Horn Auto Racing,Fred_Horn,Chevrolet,98,10840,running,0,112
+2003,C,2003_Sears_200,18,13,03,usa,Eric_Jones,Eric Jones,Team EJP,Steve_Prescott,Chevrolet,97,10815,running,0,109
+2003,C,2003_Sears_200,19,35,27,usa,Doug_Keller,Doug Keller,Keller Motorsports,Doug_Keller,Chevrolet,96,11015,running,0,106
+2003,C,2003_Sears_200,20,25,5,usa,Jerry_Hill,Jerry Hill,EPH Tools & Machining,Rick_Ware,Dodge,96,10590,running,0,103
+2003,C,2003_Sears_200,21,28,0,usa,Loni_Richardson,Loni Richardson,Intensitee Custom Racewear,Larry_Richardson,Chevrolet,95,9465,running,0,100
+2003,C,2003_Sears_200,22,36,19,usa,Ricky_Sanders,Ricky Sanders,Pitboxes.com,William_Lee,Ford,94,9415,running,0,97
+2003,C,2003_Sears_200,23,23,08,usa,Jody_Lavender,Jody Lavender,Hartsville Community Bank,Gene_Christensen,Chevrolet,93,10390,running,0,94
+2003,C,2003_Sears_200,24,33,86,usa,Jamie_Aube,Jamie Aube,Red Line Synthetic Oil,Phil_Bonifield,Chevrolet,73,10365,ignition,0,91
+2003,C,2003_Sears_200,25,16,88,usa,Matt_Crafton,Matt Crafton,Menards / Enzyme Magic,Duke_Thorson,Chevrolet,66,10340,engine,0,88
+2003,C,2003_Sears_200,26,19,07,usa,Johnny_Chapman,Johnny Chapman,U.S. Restoration,Gene_Christensen,Chevrolet,40,9315,rear end,0,85
+2003,C,2003_Sears_200,27,17,01,usa,Lance_Hooper,Lance Hooper,RAS Concrete Construction,Lance_Hooper,Ford,35,9290,transmission,4,87
+2003,C,2003_Sears_200,28,29,72,canada,Randy_MacDonald,Randy MacDonald,Greenfield Truck Center,Doc_MacDonald,Chevrolet,27,9265,engine,0,79
+2003,C,2003_Sears_200,29,22,89,usa,Stan_Boyd,Stan Boyd,Pitcan.com,James_Liguori,Dodge,25,9240,engine,0,0
+2003,C,2003_Sears_200,30,26,93,usa,Jonathon_Price,Jonathon Price,Troxell-MacDonald Racing,Lonnie_Troxell,Chevrolet,21,9215,transmission,0,73
+2003,C,2003_Sears_200,31,27,00,usa,Ryan_McGlynn,Ryan McGlynn,Buyers Choice Auto Warranties,Raynard_McGlynn,Chevrolet,10,9190,overheating,0,70
+2003,C,2003_Sears_200,32,24,23,usa,Phil_Bonifield,Phil Bonifield,Motor State Performance,Tom_Mazzuchi,Chevrolet,7,9165,water pump,0,67
+2003,C,2003_Sears_200,33,31,51,usa,G_J_Mennen_Jr,"G.J. Mennen, Jr.",Ware Racing Enterprises,Rick_Ware,Dodge,4,9140,handling,0,64
+2003,C,2003_Sears_200,34,20,9,usa,Kenny_Hendrick,Kenny Hendrick,Fasscore / Vokal Clothing,Christopher_Beckington,Ford,2,9115,engine,0,61
+2003,C,2003_Sears_200,35,32,11,usa,Aaron_Daniel,Aaron Daniel,Team Chick Motorsports,Steve_Chick,Ford,2,9090,vibration,0,58
+2003,C,2003_Sears_200,36,34,66,usa,Rick_Ware,Rick Ware,IWX Motor Freight,Rodney_Smith,Chevrolet,0,9065,clutch,0,55
+2003,C,2003_Power_Stroke_Diesel_200,1,5,99,usa,Carl_Edwards,Carl Edwards,Roush Racing,Jack_Roush,Ford,200,51660,running,119,185
+2003,C,2003_Power_Stroke_Diesel_200,2,9,16,usa,Travis_Kvapil,Travis Kvapil,IWX Motor Freight,Steve_Coulter,Chevrolet,200,28325,running,0,170
+2003,C,2003_Power_Stroke_Diesel_200,3,16,4,usa,Bobby_Hamilton,Bobby Hamilton,Square D,Bobby_Hamilton_Racing,Dodge,200,21890,running,0,165
+2003,C,2003_Power_Stroke_Diesel_200,4,6,62,usa,Brendan_Gaughan,Brendan Gaughan,Casino Queen Hotel,Michael_Gaughan,Dodge,200,14300,running,0,160
+2003,C,2003_Power_Stroke_Diesel_200,5,11,50,usa,Jon_Wood,Jon Wood,Graham for President,Jack_Roush,Ford,200,13575,running,0,155
+2003,C,2003_Power_Stroke_Diesel_200,6,4,1,usa,Ted_Musgrave,Ted Musgrave,Mopar Performance,Jim_Smith,Dodge,200,11500,running,0,150
+2003,C,2003_Power_Stroke_Diesel_200,7,13,52,usa,Ken_Schrader,Ken Schrader,Federated Auto Parts,Ken_Schrader,Chevrolet,200,10975,running,0,146
+2003,C,2003_Power_Stroke_Diesel_200,8,18,46,usa,Dennis_Setzer,Dennis Setzer,Acxiom / Computer Associates,Rob_Morgan_David_Dollar,Chevrolet,200,11100,running,0,142
+2003,C,2003_Power_Stroke_Diesel_200,9,1,29,usa,Terry_Cook,Terry Cook,Power Stroke Diesel / Oil Mate,Bob_Keselowski,Ford,200,12475,running,41,143
+2003,C,2003_Power_Stroke_Diesel_200,10,20,88,usa,Matt_Crafton,Matt Crafton,Menards / Enzyme Solutions,Duke_Thorson,Chevrolet,200,12225,running,0,134
+2003,C,2003_Power_Stroke_Diesel_200,11,12,75,usa,David_Starr,David Starr,Spears Manufacturing,Wayne_Spears,Chevrolet,200,10625,running,0,130
+2003,C,2003_Power_Stroke_Diesel_200,12,3,18,usa,Chad_Chaffin,Chad Chaffin,Dickies,Bobby_Hamilton_Racing,Dodge,199,10515,running,0,127
+2003,C,2003_Power_Stroke_Diesel_200,13,32,72,canada,Randy_MacDonald,Randy MacDonald,Dormia Mattress,Doc_MacDonald,Chevrolet,199,11990,running,0,124
+2003,C,2003_Power_Stroke_Diesel_200,14,8,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,199,10465,running,0,121
+2003,C,2003_Power_Stroke_Diesel_200,15,2,2,usa,Jason_Leffler,Jason Leffler,Team ASE / Carquest,Jim_Smith,Dodge,198,10865,ignition,40,123
+2003,C,2003_Power_Stroke_Diesel_200,16,22,04,usa,Shane_Wallace,Shane Wallace,Wallace Motorsports,Darren_Shaw,Ford,198,7865,running,0,115
+2003,C,2003_Power_Stroke_Diesel_200,17,34,53,usa,Randy_Briggs,Randy Briggs,Arrow Truck Sales,Mary_Ward,Ford,198,10065,running,0,112
+2003,C,2003_Power_Stroke_Diesel_200,18,28,59,usa,Robert_Pressley,Robert Pressley,Melling Automotive Products,James_Harris,Dodge,198,10015,running,0,109
+2003,C,2003_Power_Stroke_Diesel_200,19,24,54,usa,Brian_Sockwell,Brian Sockwell,Lowdermilk Electric,Dennis_Sockwell,Chevrolet,198,7715,running,0,106
+2003,C,2003_Power_Stroke_Diesel_200,20,19,33,usa,Andy_Petree,Andy Petree,Monaco Coaches,Andy_Petree,Chevrolet,197,10015,running,0,103
+2003,C,2003_Power_Stroke_Diesel_200,21,33,08,usa,Jody_Lavender,Jody Lavender,Hartsville Community Bank,Gene_Christensen,Chevrolet,197,8365,running,0,100
+2003,C,2003_Power_Stroke_Diesel_200,22,7,15,usa,Mike_Skinner,Mike Skinner,Vokal Clothing / Fasscore,Billy_Ballew,Dodge,196,8315,running,0,97
+2003,C,2003_Power_Stroke_Diesel_200,23,29,35,usa,Tim_Sauter,Tim Sauter,Keller Motorsports,Gary_Keller,Ford,196,7265,running,0,0
+2003,C,2003_Power_Stroke_Diesel_200,24,15,70,usa,Andy_Ponstein,Andy Ponstein,Bailey Excavating,John_Bailey,Ford,196,7215,running,0,91
+2003,C,2003_Power_Stroke_Diesel_200,25,35,86,usa,T_J_Bell,T.J. Bell,Defiant Clothing,Phil_Bonifield,Chevrolet,195,7190,running,0,88
+2003,C,2003_Power_Stroke_Diesel_200,26,31,23,germany,Alex_Mueller,Alex Mueller,Recaro Seats,Tom_Mazzuchi,Chevrolet,194,7140,running,0,85
+2003,C,2003_Power_Stroke_Diesel_200,27,36,5,usa,Jerry_Hill,Jerry Hill,Ware Racing Enterprises,Rick_Ware,Dodge,193,7115,running,0,82
+2003,C,2003_Power_Stroke_Diesel_200,28,23,8,usa,Bill_Lester,Bill Lester,Dodge Motorsports,Bobby_Hamilton_Racing,Dodge,191,7090,running,0,79
+2003,C,2003_Power_Stroke_Diesel_200,29,17,17,usa,Darrell_Waltrip,Darrell Waltrip,Tide / Give Kids The World,Michael_Waltrip,Chevrolet,147,7065,suspension,0,76
+2003,C,2003_Power_Stroke_Diesel_200,30,25,89,usa,Stan_Boyd,Stan Boyd,Pitcan.com,James_Liguori,Chevrolet,143,7045,fatigue,0,73
+2003,C,2003_Power_Stroke_Diesel_200,31,10,9,usa,Kenny_Hendrick,Kenny Hendrick,Fasscore / Vokal Clothing,Christopher_Beckington,Ford,135,7035,crash,0,70
+2003,C,2003_Power_Stroke_Diesel_200,32,30,27,usa,Tracy_Hines,Tracy Hines,Mopar Performance,Jim_Smith,Dodge,110,7025,crash,0,67
+2003,C,2003_Power_Stroke_Diesel_200,33,26,78,usa,Charlie_Bradberry,Charlie Bradberry,Bradberry Motorsports,Charles_Bradberry,Chevrolet,57,7015,engine,0,64
+2003,C,2003_Power_Stroke_Diesel_200,34,14,21,usa,Morgan_Shepherd,Morgan Shepherd,Racing With Jesus / Red Line Oil,Morgan_Shepherd,Ford,35,7005,handling,0,61
+2003,C,2003_Power_Stroke_Diesel_200,35,27,63,usa,David_Stover,David Stover,Porter Truck Sales,Mike_Mittler,Ford,32,6720,crash,0,58
+2003,C,2003_Power_Stroke_Diesel_200,36,21,07,usa,Johnny_Chapman,Johnny Chapman,Green Light Racing,Gene_Christensen,Chevrolet,11,6685,vibration,0,55
+2003,C,2003_Federated_Auto_Parts_200,1,6,99,usa,Carl_Edwards,Carl Edwards,Roush Racing,Jack_Roush,Ford,150,47665,running,76,185
+2003,C,2003_Federated_Auto_Parts_200,2,4,1,usa,Ted_Musgrave,Ted Musgrave,Mopar Performance,Jim_Smith,Dodge,150,27125,running,13,175
+2003,C,2003_Federated_Auto_Parts_200,3,11,14,usa,Rick_Crawford,Rick Crawford,Town & Country / Circle Bar Truck Corral,Tom_Mitchell,Ford,150,20665,running,0,165
+2003,C,2003_Federated_Auto_Parts_200,4,13,75,usa,David_Starr,David Starr,Spears Manufacturing,Wayne_Spears,Chevrolet,150,12175,running,0,160
+2003,C,2003_Federated_Auto_Parts_200,5,2,62,usa,Brendan_Gaughan,Brendan Gaughan,The Orleans Hotel,Michael_Gaughan,Dodge,150,11075,running,0,155
+2003,C,2003_Federated_Auto_Parts_200,6,1,18,usa,Chad_Chaffin,Chad Chaffin,Dickies,Bobby_Hamilton_Racing,Dodge,150,11950,running,18,155
+2003,C,2003_Federated_Auto_Parts_200,7,9,50,usa,Jon_Wood,Jon Wood,Graham for President,Jack_Roush,Ford,150,9250,running,20,151
+2003,C,2003_Federated_Auto_Parts_200,8,14,46,usa,Dennis_Setzer,Dennis Setzer,Acxiom / Computer Associates,Rob_Morgan_David_Dollar,Chevrolet,150,9450,running,1,147
+2003,C,2003_Federated_Auto_Parts_200,9,10,16,usa,Travis_Kvapil,Travis Kvapil,IWX Motor Freight,Steve_Coulter,Chevrolet,150,9100,running,0,138
+2003,C,2003_Federated_Auto_Parts_200,10,12,88,usa,Matt_Crafton,Matt Crafton,Menards / Enzyme Solutions,Duke_Thorson,Chevrolet,150,10625,running,0,134
+2003,C,2003_Federated_Auto_Parts_200,11,3,4,usa,Bobby_Hamilton,Bobby Hamilton,Square D,Bobby_Hamilton_Racing,Dodge,150,9000,running,0,130
+2003,C,2003_Federated_Auto_Parts_200,12,19,52,usa,Mike_Wallace,Mike Wallace,Federated Auto Parts,Ken_Schrader,Chevrolet,149,8890,running,0,127
+2003,C,2003_Federated_Auto_Parts_200,13,21,31,usa,Tina_Gordon,Tina Gordon,Microtel Inn & Suites,Bob_Brevak,Chevrolet,149,8840,running,0,124
+2003,C,2003_Federated_Auto_Parts_200,14,8,29,usa,Terry_Cook,Terry Cook,Power Stroke Diesel / Oil Mate,Bob_Keselowski,Ford,148,8815,running,0,121
+2003,C,2003_Federated_Auto_Parts_200,15,15,59,usa,Robert_Pressley,Robert Pressley,Harris Trucking,James_Harris,Dodge,148,9190,running,0,118
+2003,C,2003_Federated_Auto_Parts_200,16,7,8,usa,Bill_Lester,Bill Lester,Strauss Auto Parts / The Club,Bobby_Hamilton_Racing,Dodge,148,8640,running,15,120
+2003,C,2003_Federated_Auto_Parts_200,17,24,07,usa,Johnny_Chapman,Johnny Chapman,Green Light Racing,Gene_Christensen,Chevrolet,148,8590,running,0,112
+2003,C,2003_Federated_Auto_Parts_200,18,22,08,usa,Jody_Lavender,Jody Lavender,Hartsville Community Bank,Gene_Christensen,Chevrolet,148,8540,running,0,109
+2003,C,2003_Federated_Auto_Parts_200,19,28,53,usa,Randy_Briggs,Randy Briggs,Shop At Home Network,Mary_Ward,Ford,147,8740,running,0,106
+2003,C,2003_Federated_Auto_Parts_200,20,17,15,usa,Ryan_Hemphill,Ryan Hemphill,Vokal Clothing / Fasscore,Billy_Ballew,Dodge,146,7290,running,0,103
+2003,C,2003_Federated_Auto_Parts_200,21,29,72,canada,Randy_MacDonald,Randy MacDonald,U.S. Security,Doc_MacDonald,Chevrolet,145,5865,running,0,100
+2003,C,2003_Federated_Auto_Parts_200,22,20,51,usa,Chase_Montgomery,Chase Montgomery,Wilson Bank & Trust,Rick_Ware,Chevrolet,142,5815,running,0,97
+2003,C,2003_Federated_Auto_Parts_200,23,26,66,usa,Blake_Mallory,Blake Mallory,Mallory Screenprint & Embroidery,Rodney_Smith,Dodge,141,5765,running,0,94
+2003,C,2003_Federated_Auto_Parts_200,24,5,2,usa,Jason_Leffler,Jason Leffler,Team ASE / Carquest,Jim_Smith,Dodge,122,5715,engine,7,96
+2003,C,2003_Federated_Auto_Parts_200,25,16,21,usa,Morgan_Shepherd,Morgan Shepherd,Racing With Jesus / Red Line Oil,Morgan_Shepherd,Ford,35,5690,handling,0,0
+2003,C,2003_Federated_Auto_Parts_200,26,27,86,usa,T_J_Bell,T.J. Bell,Speed Motorsports Management,Phil_Bonifield,Chevrolet,25,5640,crash,0,85
+2003,C,2003_Federated_Auto_Parts_200,27,31,19,usa,Ricky_Sanders,Ricky Sanders,Pitboxes.com,William_Lee,Ford,16,5615,engine,0,82
+2003,C,2003_Federated_Auto_Parts_200,28,32,23,usa,Phil_Bonifield,Phil Bonifield,Meguiar's / Red Line Synthetic Oil,Tom_Mazzuchi,Chevrolet,14,5590,overheating,0,79
+2003,C,2003_Federated_Auto_Parts_200,29,30,5,usa,Jerry_Hill,Jerry Hill,Ware Racing Enterprises,Rick_Ware,Dodge,14,5565,ignition,0,76
+2003,C,2003_Federated_Auto_Parts_200,30,25,93,usa,Roland_Isaacs,Roland Isaacs,Troxell-MacDonald Racing,Lonnie_Troxell,Chevrolet,10,5545,vibration,0,73
+2003,C,2003_Federated_Auto_Parts_200,31,23,81,usa,Doug_Keller,Doug Keller,Ware Racing Enterprises,Rick_Ware,Dodge,8,5535,fuel pump,0,70
+2003,C,2003_Federated_Auto_Parts_200,32,18,9,usa,Kenny_Hendrick,Kenny Hendrick,Fasscore / Vokal Clothing,Christopher_Beckington,Ford,4,5525,rear end,0,67
+2003,C,2003_Federated_Auto_Parts_200,33,33,83,usa,Willie_Green,Willie Green,Quaker Steak & Lube,Greg_Sarff,Ford,0,5515,ignition,0,64
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,1,12,16,usa,Travis_Kvapil,Travis Kvapil,IWX Motor Freight,Steve_Coulter,Chevrolet,200,42310,running,2,180
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,2,13,59,usa,Robert_Pressley,Robert Pressley,Melling Engine Parts,James_Harris,Dodge,200,25875,running,0,170
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,3,9,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,200,18640,running,0,165
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,4,2,62,usa,Brendan_Gaughan,Brendan Gaughan,The Orleans Hotel,Michael_Gaughan,Dodge,200,12300,running,14,165
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,5,15,46,usa,Dennis_Setzer,Dennis Setzer,Acxiom / Computer Associates,Rob_Morgan_David_Dollar,Chevrolet,200,11625,running,0,155
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,6,5,88,usa,Matt_Crafton,Matt Crafton,Menards / Enzyme Solutions,Duke_Thorson,Chevrolet,200,10350,running,0,150
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,7,7,18,usa,Chad_Chaffin,Chad Chaffin,Dickies,Bobby_Hamilton_Racing,Dodge,200,10050,running,0,146
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,8,3,50,usa,Jon_Wood,Jon Wood,Graham for President,Jack_Roush,Ford,200,10000,running,0,142
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,9,17,2,usa,Jason_Leffler,Jason Leffler,Team ASE / Carquest,Jim_Smith,Dodge,200,9950,running,0,138
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,10,10,6,usa,Kevin_Harvick,Kevin Harvick,Victory Junction Gang,Kevin_Harvick,Chevrolet,199,7650,crash,124,144
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,11,8,99,usa,Carl_Edwards,Carl Edwards,Superchips,Jack_Roush,Ford,199,12250,running,0,130
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,12,11,4,usa,Bobby_Hamilton,Bobby Hamilton,Square D,Bobby_Hamilton_Racing,Dodge,199,9715,running,0,127
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,13,14,52,usa,Ken_Schrader,Ken Schrader,Federated Auto Parts,Ken_Schrader,Chevrolet,199,9665,running,0,124
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,14,20,35,usa,Tim_Sauter,Tim Sauter,Keller Motorsports,Gary_Keller,Ford,198,7365,running,0,121
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,15,1,1,usa,Ted_Musgrave,Ted Musgrave,Mopar Performance,Jim_Smith,Dodge,197,11490,running,60,123
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,16,25,86,usa,Brad_Teague,Brad Teague,Ramey Ford / Hobart Food Equipment,Phil_Bonifield,Ford,197,10965,running,0,115
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,17,24,63,usa,David_Stover,David Stover,Summer Bay Resort,Mike_Mittler,Ford,196,8415,running,0,112
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,18,6,75,usa,David_Starr,David Starr,Spears Manufacturing,Wayne_Spears,Chevrolet,195,9365,running,0,109
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,19,18,8,usa,Bill_Lester,Bill Lester,Strauss Auto Parts / The Club,Bobby_Hamilton_Racing,Dodge,195,9315,running,0,106
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,20,27,72,canada,Randy_MacDonald,Randy MacDonald,Red Diamond Iced Tea,Doc_MacDonald,Chevrolet,194,9365,running,0,103
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,21,16,33,usa,Paul_Menard,Paul Menard,Turtle Wax,Andy_Petree,Chevrolet,191,7990,running,0,100
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,22,30,08,usa,Jody_Lavender,Jody Lavender,Hartsville Community Bank,Gene_Christensen,Chevrolet,188,7965,running,0,97
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,23,29,19,usa,Wayne_Edwards_(1),Wayne Edwards,Red Line Synthetic Oil,Scott_Upshaw,Ford,179,6940,running,0,94
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,24,28,53,usa,Randy_Briggs,Randy Briggs,Shop At Home Network,Mary_Ward,Ford,122,7915,rear end,0,91
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,25,23,9,usa,Johnny_Sauter,Johnny Sauter,Bugles,Christopher_Beckington,Ford,74,6865,engine,0,88
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,26,22,01,usa,Lance_Hooper,Lance Hooper,Fans Motorsports,Lance_Hooper,Ford,57,6840,clutch,0,85
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,27,4,29,usa,Terry_Cook,Terry Cook,Power Stroke Diesel / Oil Mate,Bob_Keselowski,Ford,57,6815,crash,0,82
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,28,21,15,usa,Ryan_Hemphill,Ryan Hemphill,Vokal Clothing / Fasscore,Billy_Ballew,Dodge,43,6790,crash,0,79
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,29,19,21,usa,Morgan_Shepherd,Morgan Shepherd,Red Line Synthetic Oil,Morgan_Shepherd,Ford,23,6740,ignition,0,76
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,30,26,07,usa,Johnny_Chapman,Johnny Chapman,Green Light Racing,Gene_Christensen,Chevrolet,23,6715,ignition,0,73
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,31,34,93,usa,Roland_Isaacs,Roland Isaacs,Troxell-MacDonald Racing,Lonnie_Troxell,Chevrolet,17,6265,engine,0,70
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,32,32,25,usa,Jamie_Aube,Jamie Aube,Red Line Oil / Lane Automotive,Phil_Bonifield,Chevrolet,9,6240,steering,0,67
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,33,35,51,usa,Doug_Keller,Doug Keller,Ware Racing Enterprises,Rick_Ware,Dodge,6,6215,vibration,0,64
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,34,31,5,usa,Jerry_Hill,Jerry Hill,Ware Racing Enterprises,Rick_Ware,Dodge,6,6190,clutch,0,61
+2003,C,2003_OReilly_200_Presented_by_Valvoline_Maxlife,35,33,23,usa,Phil_Bonifield,Phil Bonifield,Red Line Oil / Motor State Perf.,Tom_Mazzuchi,Chevrolet,4,6165,ignition,0,58
+2003,C,2003_Virginia_Is_For_Lovers_200,1,27,33,usa,Tony_Stewart,Tony Stewart,Monaco Coaches / Diamond Rio,Andy_Petree,Chevrolet,200,35600,running,32,180
+2003,C,2003_Virginia_Is_For_Lovers_200,2,17,59,usa,Robert_Pressley,Robert Pressley,Harris Trucking / Melling Engine Parts,James_Harris,Dodge,200,26375,running,0,170
+2003,C,2003_Virginia_Is_For_Lovers_200,3,3,1,usa,Ted_Musgrave,Ted Musgrave,Mopar Performance,Jim_Smith,Dodge,200,17925,running,89,175
+2003,C,2003_Virginia_Is_For_Lovers_200,4,6,50,usa,Jon_Wood,Jon Wood,Graham for President,Jack_Roush,Ford,200,12425,running,0,160
+2003,C,2003_Virginia_Is_For_Lovers_200,5,4,46,usa,Dennis_Setzer,Dennis Setzer,Acxiom / Computer Associates,Rob_Morgan_David_Dollar,Chevrolet,200,10500,running,0,155
+2003,C,2003_Virginia_Is_For_Lovers_200,6,5,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,200,9650,running,0,150
+2003,C,2003_Virginia_Is_For_Lovers_200,7,2,62,usa,Brendan_Gaughan,Brendan Gaughan,The Orleans Hotel,Michael_Gaughan,Dodge,200,8975,running,4,151
+2003,C,2003_Virginia_Is_For_Lovers_200,8,7,4,usa,Bobby_Hamilton,Bobby Hamilton,Square D,Bobby_Hamilton_Racing,Dodge,200,8950,running,74,147
+2003,C,2003_Virginia_Is_For_Lovers_200,9,1,16,usa,Travis_Kvapil,Travis Kvapil,IWX Motor Freight,Steve_Coulter,Chevrolet,200,8900,running,0,138
+2003,C,2003_Virginia_Is_For_Lovers_200,10,28,9,usa,Johnny_Sauter,Johnny Sauter,Bugles,Christopher_Beckington,Ford,200,9250,running,0,134
+2003,C,2003_Virginia_Is_For_Lovers_200,11,12,18,usa,Chad_Chaffin,Chad Chaffin,Dickies,Bobby_Hamilton_Racing,Dodge,200,8800,running,0,130
+2003,C,2003_Virginia_Is_For_Lovers_200,12,22,07,usa,Mark_McFarland,Mark McFarland,Progeny Solutions,Gene_Christensen,Chevrolet,200,8665,running,0,127
+2003,C,2003_Virginia_Is_For_Lovers_200,13,36,80,usa,Bryan_Reffner,Bryan Reffner,Emerson,Bryan_Reffner,Chevrolet,200,6365,running,0,124
+2003,C,2003_Virginia_Is_For_Lovers_200,14,13,88,usa,Matt_Crafton,Matt Crafton,Menards / Enzyme Magic,Duke_Thorson,Chevrolet,200,8565,running,0,121
+2003,C,2003_Virginia_Is_For_Lovers_200,15,15,15,usa,Ryan_Hemphill,Ryan Hemphill,Vokal Clothing / Fasscore,Billy_Ballew,Dodge,198,8965,running,0,118
+2003,C,2003_Virginia_Is_For_Lovers_200,16,10,29,usa,Terry_Cook,Terry Cook,Power Stroke Diesel / Oil Mate,Bob_Keselowski,Ford,197,8190,running,0,115
+2003,C,2003_Virginia_Is_For_Lovers_200,17,35,97,usa,Jason_York,Jason York,Royal Transport,Ken_Hunt,Chevrolet,197,5790,running,0,0
+2003,C,2003_Virginia_Is_For_Lovers_200,18,18,72,canada,Randy_MacDonald,Randy MacDonald,Bone Suckin' Sauce,Doc_MacDonald,Chevrolet,196,7990,engine,0,109
+2003,C,2003_Virginia_Is_For_Lovers_200,19,16,08,usa,Jody_Lavender,Jody Lavender,Hartsville Community Bank,Gene_Christensen,Chevrolet,196,8940,running,0,106
+2003,C,2003_Virginia_Is_For_Lovers_200,20,31,78,usa,Charlie_Bradberry,Charlie Bradberry,Bradberry Racing,Charles_Bradberry,Chevrolet,196,5740,running,0,103
+2003,C,2003_Virginia_Is_For_Lovers_200,21,19,53,usa,Tim_Sauter,Tim Sauter,Pipe Eyes / Keller Motorsports,Mary_Ward,Ford,195,7865,running,0,100
+2003,C,2003_Virginia_Is_For_Lovers_200,22,33,70,usa,Andy_Ponstein,Andy Ponstein,Bailey Excavating,John_Bailey,Ford,195,5590,running,0,97
+2003,C,2003_Virginia_Is_For_Lovers_200,23,21,5,usa,Jerry_Hill,Jerry Hill,EPH Tools & Machining,Rick_Ware,Dodge,193,7815,running,0,94
+2003,C,2003_Virginia_Is_For_Lovers_200,24,32,95,usa,Wayne_Edwards_(1),Wayne Edwards,NRG Cases / Hi Tech Engines,Scott_Upshaw,Ford,192,5540,running,0,91
+2003,C,2003_Virginia_Is_For_Lovers_200,25,9,99,usa,Carl_Edwards,Carl Edwards,Superchips,Jack_Roush,Ford,186,6515,crash,0,88
+2003,C,2003_Virginia_Is_For_Lovers_200,26,24,31,usa,Tina_Gordon,Tina Gordon,Microtel Inn & Suites,Bob_Brevak,Chevrolet,179,6490,crash,0,85
+2003,C,2003_Virginia_Is_For_Lovers_200,27,34,7,usa,Tyler_Walker,Tyler Walker,Mopar Performance,Jim_Smith,Dodge,165,5465,crash,0,82
+2003,C,2003_Virginia_Is_For_Lovers_200,28,30,87,usa,Conrad_Burr,Conrad Burr,Wendy's / National Peening,James_Burr,Chevrolet,157,5440,crash,0,79
+2003,C,2003_Virginia_Is_For_Lovers_200,29,8,2,usa,Jimmy_Spencer,Jimmy Spencer,Team ASE / Carquest,Jim_Smith,Dodge,154,5390,crash,1,81
+2003,C,2003_Virginia_Is_For_Lovers_200,30,14,8,usa,Bill_Lester,Bill Lester,Strauss Auto Parts / The Club,Bobby_Hamilton_Racing,Dodge,143,6365,crash,0,73
+2003,C,2003_Virginia_Is_For_Lovers_200,31,29,01,usa,Lance_Hooper,Lance Hooper,Fans Motorsports,Lance_Hooper,Ford,108,5315,rear end,0,70
+2003,C,2003_Virginia_Is_For_Lovers_200,32,11,75,usa,David_Starr,David Starr,Spears Manufacturing,Wayne_Spears,Chevrolet,105,5315,engine,0,67
+2003,C,2003_Virginia_Is_For_Lovers_200,33,25,52,usa,Ken_Schrader,Ken Schrader,Federated Auto Parts,Ken_Schrader,Chevrolet,96,5290,electrical,0,64
+2003,C,2003_Virginia_Is_For_Lovers_200,34,26,93,usa,Roland_Isaacs,Roland Isaacs,Troxell-MacDonald Racing,Lonnie_Troxell,Chevrolet,25,5265,brakes,0,61
+2003,C,2003_Virginia_Is_For_Lovers_200,35,20,86,usa,Phil_Bonifield,Phil Bonifield,Speed Motorsports Management,Phil_Bonifield,Chevrolet,13,5240,clutch,0,58
+2003,C,2003_Virginia_Is_For_Lovers_200,36,23,23,usa,Jamie_Aube,Jamie Aube,Motor State Performance / Red Line Oil,Tom_Mazzuchi,Chevrolet,10,5215,brakes,0,55
+2003,C,2003_New_Hampshire_200,1,1,2,usa,Jimmy_Spencer,Jimmy Spencer,Team ASE / Carquest,Jim_Smith,Dodge,200,59300,running,124,185
+2003,C,2003_New_Hampshire_200,2,4,99,usa,Carl_Edwards,Carl Edwards,Superchips,Jack_Roush,Ford,200,35925,running,0,170
+2003,C,2003_New_Hampshire_200,3,3,4,usa,Bobby_Hamilton,Bobby Hamilton,Square D,Bobby_Hamilton_Racing,Dodge,200,26890,running,0,165
+2003,C,2003_New_Hampshire_200,4,19,46,usa,Dennis_Setzer,Dennis Setzer,Acxiom / Computer Associates,Rob_Morgan_David_Dollar,Chevrolet,200,17800,running,8,165
+2003,C,2003_New_Hampshire_200,5,2,62,usa,Brendan_Gaughan,Brendan Gaughan,The Orleans Hotel,Michael_Gaughan,Dodge,200,13700,running,0,155
+2003,C,2003_New_Hampshire_200,6,7,18,usa,Chad_Chaffin,Chad Chaffin,Dickies,Bobby_Hamilton_Racing,Dodge,200,12875,running,0,150
+2003,C,2003_New_Hampshire_200,7,11,16,usa,Travis_Kvapil,Travis Kvapil,IWX Motor Freight,Steve_Coulter,Chevrolet,200,11675,running,2,151
+2003,C,2003_New_Hampshire_200,8,6,75,usa,David_Starr,David Starr,Spears Manufacturing,Wayne_Spears,Chevrolet,200,11625,running,0,142
+2003,C,2003_New_Hampshire_200,9,10,50,usa,Jon_Wood,Jon Wood,Graham for President,Jack_Roush,Ford,200,11525,running,0,138
+2003,C,2003_New_Hampshire_200,10,13,88,usa,Matt_Crafton,Matt Crafton,Menards / Enzyme Magic,Duke_Thorson,Chevrolet,200,12375,running,0,134
+2003,C,2003_New_Hampshire_200,11,5,52,usa,Ken_Schrader,Ken Schrader,Federated Auto Parts,Ken_Schrader,Chevrolet,200,7925,running,0,130
+2003,C,2003_New_Hampshire_200,12,8,1,usa,Ted_Musgrave,Ted Musgrave,Mopar Performance,Jim_Smith,Dodge,200,10065,running,65,132
+2003,C,2003_New_Hampshire_200,13,12,8,usa,Bill_Lester,Bill Lester,Strauss Auto Parts / The Club,Bobby_Hamilton_Racing,Dodge,200,10040,running,0,124
+2003,C,2003_New_Hampshire_200,14,15,59,usa,Robert_Pressley,Robert Pressley,Harris Trucking / Melling Engine Parts,James_Harris,Dodge,200,9990,running,0,121
+2003,C,2003_New_Hampshire_200,15,9,29,usa,Terry_Cook,Terry Cook,Power Stroke Diesel / Oil Mate,Bob_Keselowski,Ford,200,10390,running,0,118
+2003,C,2003_New_Hampshire_200,16,24,08,usa,Shane_Sieg,Shane Sieg,Racing Finishes / Auto Air,Gene_Christensen,Chevrolet,200,9815,running,0,115
+2003,C,2003_New_Hampshire_200,17,23,86,usa,Jamie_Aube,Jamie Aube,Lane Automotice / Motor State Performance,Phil_Bonifield,Chevrolet,198,9740,running,0,112
+2003,C,2003_New_Hampshire_200,18,14,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,197,9690,running,0,109
+2003,C,2003_New_Hampshire_200,19,21,97,usa,Jason_York,Jason York,coachfranp.com,Ken_Hunt,Chevrolet,196,7390,running,1,0
+2003,C,2003_New_Hampshire_200,20,36,09,usa,Doug_Mahlik,Doug Mahlik,Mahlik Motorsports,Arnie_Mahlik,Chevrolet,195,8940,running,0,103
+2003,C,2003_New_Hampshire_200,21,33,5,usa,Jerry_Hill,Jerry Hill,Quality Metric,Rick_Ware,Dodge,195,9365,running,0,100
+2003,C,2003_New_Hampshire_200,22,27,00,usa,Ryan_McGlynn,Ryan McGlynn,Buyers Choice Auto Warranties,Raynard_McGlynn,Chevrolet,194,7090,running,0,97
+2003,C,2003_New_Hampshire_200,23,35,02,usa,Kelly_Sutton,Kelly Sutton,Team Copaxone,Ed_Sutton,Chevrolet,193,7065,running,0,94
+2003,C,2003_New_Hampshire_200,24,17,7,usa,Stuart_Kirby,Stuart Kirby,Dodge Motorsports,Jim_Smith,Dodge,178,7040,crash,0,91
+2003,C,2003_New_Hampshire_200,25,31,15,usa,Robby_Benton,Robby Benton,Vokal Clothing / Fasscore,Billy_Ballew,Ford,150,9265,oil pump,0,88
+2003,C,2003_New_Hampshire_200,26,26,03,usa,Eric_Jones,Eric Jones,Team EJP,Steve_Prescott,Chevrolet,131,6990,engine,0,85
+2003,C,2003_New_Hampshire_200,27,25,98,usa,Jarod_Robie,Jarod Robie,Iron Horse / Miller Fall Protect,Scott_Williams,Chevrolet,101,6965,engine,0,82
+2003,C,2003_New_Hampshire_200,28,28,72,canada,Randy_MacDonald,Randy MacDonald,Racing for Cancer / Foxwoods,Doc_MacDonald,Chevrolet,99,7940,engine,0,79
+2003,C,2003_New_Hampshire_200,29,20,07,usa,Bobby_Dotter,Bobby Dotter,Green Light Racing,Gene_Christensen,Chevrolet,94,7915,ignition,0,76
+2003,C,2003_New_Hampshire_200,30,29,01,usa,Lance_Hooper,Lance Hooper,Fans Motorsports,Lance_Hooper,Ford,44,6895,rear end,0,73
+2003,C,2003_New_Hampshire_200,31,30,91,usa,J_C_Stout,J.C. Stout,Burt's Lumber,Donald_Stout,Chevrolet,38,6885,transmission,0,70
+2003,C,2003_New_Hampshire_200,32,34,23,usa,Phil_Bonifield,Phil Bonifield,Red Line Synthetic Oil,Tom_Mazzuchi,Chevrolet,37,6875,suspension,0,67
+2003,C,2003_New_Hampshire_200,33,16,21,usa,Morgan_Shepherd,Morgan Shepherd,Racing With Jesus / Red Line Oil,Morgan_Shepherd,Ford,35,6865,engine,0,64
+2003,C,2003_New_Hampshire_200,34,22,93,usa,Roland_Isaacs,Roland Isaacs,Troxell-MacDonald Racing,Lonnie_Troxell,Chevrolet,24,6855,ignition,0,61
+2003,C,2003_New_Hampshire_200,35,18,9,usa,Kenny_Hendrick,Kenny Hendrick,Fasscore / Vokal Clothing,Christopher_Beckington,Ford,8,6720,overheating,0,58
+2003,C,2003_New_Hampshire_200,36,32,51,usa,Carl_Long,Carl Long,Ware Racing Enterprises,Rick_Ware,Dodge,4,6685,rear end,0,55
+2003,C,2003_American_Racing_Wheels_200,1,10,1,usa,Ted_Musgrave,Ted Musgrave,Mopar Performance,Jim_Smith,Dodge,100,53935,running,18,180
+2003,C,2003_American_Racing_Wheels_200,2,1,62,usa,Brendan_Gaughan,Brendan Gaughan,The Orleans Hotel,Michael_Gaughan,Dodge,100,36500,running,66,180
+2003,C,2003_American_Racing_Wheels_200,3,5,46,usa,Dennis_Setzer,Dennis Setzer,Acxiom / Computer Associates,Rob_Morgan_David_Dollar,Chevrolet,100,26565,running,0,165
+2003,C,2003_American_Racing_Wheels_200,4,2,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,100,19475,running,0,160
+2003,C,2003_American_Racing_Wheels_200,5,4,75,usa,David_Starr,David Starr,Spears Manufacturing,Wayne_Spears,Chevrolet,100,16025,running,2,160
+2003,C,2003_American_Racing_Wheels_200,6,8,2,usa,Andy_Houston,Andy Houston,Team ASE / Carquest,Jim_Smith,Dodge,100,14525,running,9,155
+2003,C,2003_American_Racing_Wheels_200,7,3,99,usa,Carl_Edwards,Carl Edwards,Superchips,Jack_Roush,Ford,100,15200,running,3,151
+2003,C,2003_American_Racing_Wheels_200,8,12,16,usa,Travis_Kvapil,Travis Kvapil,IWX Motor Freight,Steve_Coulter,Chevrolet,100,14000,running,1,147
+2003,C,2003_American_Racing_Wheels_200,9,6,50,usa,Jon_Wood,Jon Wood,Graham for President,Jack_Roush,Ford,100,13700,running,0,138
+2003,C,2003_American_Racing_Wheels_200,10,22,39,usa,Jason_Small,Jason Small,JRS Motorsports,Jason_Small,Chevrolet,99,14400,running,0,134
+2003,C,2003_American_Racing_Wheels_200,11,9,59,usa,Robert_Pressley,Robert Pressley,Harris Trucking / Melling Engine Parts,James_Harris,Dodge,99,13350,running,0,130
+2003,C,2003_American_Racing_Wheels_200,12,13,29,usa,Terry_Cook,Terry Cook,Power Stroke Diesel / Oil Mate,Bob_Keselowski,Ford,99,13015,running,0,127
+2003,C,2003_American_Racing_Wheels_200,13,16,38,usa,Brandon_Whitt,Brandon Whitt,McMillin Homes-Realty / GS3,Daniel_Whitt,Chevrolet,99,10715,running,0,124
+2003,C,2003_American_Racing_Wheels_200,14,11,88,usa,Matt_Crafton,Matt Crafton,Menards / Enzyme Magic,Duke_Thorson,Chevrolet,99,12715,running,0,121
+2003,C,2003_American_Racing_Wheels_200,15,23,20,usa,Ken_Weaver,Ken Weaver,1-800-4-A-Phone,Ken_Weaver,Chevrolet,98,10815,out of gas,0,118
+2003,C,2003_American_Racing_Wheels_200,16,15,4,usa,Bobby_Hamilton,Bobby Hamilton,Square D,Bobby_Hamilton_Racing,Dodge,98,12340,running,1,120
+2003,C,2003_American_Racing_Wheels_200,17,17,18,usa,Chad_Chaffin,Chad Chaffin,Dickies,Bobby_Hamilton_Racing,Dodge,98,12215,running,0,112
+2003,C,2003_American_Racing_Wheels_200,18,21,04,usa,Shane_Wallace,Shane Wallace,Wallace Motorsports,Darren_Shaw,Ford,97,9940,running,0,109
+2003,C,2003_American_Racing_Wheels_200,19,19,07,usa,Johnny_Chapman,Johnny Chapman,Green Light Racing,Gene_Christensen,Chevrolet,97,12165,running,0,106
+2003,C,2003_American_Racing_Wheels_200,20,25,89,usa,Stan_Boyd,Stan Boyd,Engineered Victories,James_Liguori,Chevrolet,97,9990,running,0,103
+2003,C,2003_American_Racing_Wheels_200,21,34,72,canada,Randy_MacDonald,Randy MacDonald,Bone Suckin' Sauce,Doc_MacDonald,Chevrolet,97,12115,running,0,100
+2003,C,2003_American_Racing_Wheels_200,22,29,08,usa,Bobby_Dotter,Bobby Dotter,Albertson's,Gene_Christensen,Chevrolet,97,12090,running,0,97
+2003,C,2003_American_Racing_Wheels_200,23,36,51,usa,Randy_Briggs,Randy Briggs,Amerisuites,Rick_Ware,Dodge,97,11065,running,0,94
+2003,C,2003_American_Racing_Wheels_200,24,20,95,usa,Wayne_Edwards_(1),Wayne Edwards,NRG Cases / HiTech Engines,Scott_Upshaw,Ford,97,9790,running,0,91
+2003,C,2003_American_Racing_Wheels_200,25,33,15,usa,Robby_Benton,Robby Benton,Vokal Clothing / Fasscore,Billy_Ballew,Dodge,96,9765,running,0,0
+2003,C,2003_American_Racing_Wheels_200,26,14,68,usa,Brandon_Miller,Brandon Miller,Lucas Oil Products,Bradford_Miller,Chevrolet,96,9740,running,0,85
+2003,C,2003_American_Racing_Wheels_200,27,28,5,usa,Jerry_Hill,Jerry Hill,Ware Racing / La Quinta Inn,Rick_Ware,Dodge,90,10715,running,0,82
+2003,C,2003_American_Racing_Wheels_200,28,7,8,usa,Bill_Lester,Bill Lester,Strauss Auto Parts / The Club,Bobby_Hamilton_Racing,Dodge,85,10690,suspension,0,79
+2003,C,2003_American_Racing_Wheels_200,29,31,36,canada,Trevor_Boys,Trevor Boys,James Western Star Sterling,Ron_Rhodes,Dodge,70,9665,engine,0,76
+2003,C,2003_American_Racing_Wheels_200,30,24,53,usa,T_J_Bell,T.J. Bell,Freedom Cycle / Defiant Clothing,Mary_Ward,Chevrolet,50,10645,running,0,73
+2003,C,2003_American_Racing_Wheels_200,31,30,86,usa,Phil_Bonifield,Phil Bonifield,Lane Automotice / Motor State Performance,Phil_Bonifield,Chevrolet,47,9635,ignition,0,70
+2003,C,2003_American_Racing_Wheels_200,32,18,01,usa,Lance_Hooper,Lance Hooper,Sunrise,Lance_Hooper,Ford,38,9625,vibration,0,67
+2003,C,2003_American_Racing_Wheels_200,33,35,23,usa,Dana_White,Dana White,Red Line Synthetic Oil,Tom_Mazzuchi,Chevrolet,32,9615,vibration,0,64
+2003,C,2003_American_Racing_Wheels_200,34,26,70,usa,Rick_Bogart,Rick Bogart,Bogart Racing Wheels,Rick_Bogart,Dodge,23,9605,transmission,0,61
+2003,C,2003_American_Racing_Wheels_200,35,32,9,usa,Kenny_Hendrick,Kenny Hendrick,Fasscore / Vokal Clothing,Christopher_Beckington,Ford,9,9570,brakes,0,0
+2003,C,2003_American_Racing_Wheels_200,36,27,0,usa,Loni_Richardson,Loni Richardson,Fire Spec / Toyota of Paris,Larry_Richardson,Chevrolet,6,9535,engine,0,55
+2003,C,2003_Las_Vegas_350,1,1,62,usa,Brendan_Gaughan,Brendan Gaughan,Orleans Hotel / Dodge,Michael_Gaughan,Dodge,146,56700,running,106,185
+2003,C,2003_Las_Vegas_350,2,2,75,usa,David_Starr,David Starr,Spears Manufacturing,Wayne_Spears,Chevrolet,146,26125,running,2,175
+2003,C,2003_Las_Vegas_350,3,11,46,usa,Dennis_Setzer,Dennis Setzer,Acxiom,Rob_Morgan_David_Dollar,Chevrolet,146,20875,running,0,165
+2003,C,2003_Las_Vegas_350,4,6,16,usa,Travis_Kvapil,Travis Kvapil,IWX Motor Freight,Steve_Coulter,Chevrolet,146,14750,running,0,160
+2003,C,2003_Las_Vegas_350,5,8,11,usa,Jack_Sprague,Jack Sprague,IWX Motor Freight,David_Fuge,Chevrolet,146,10900,running,0,155
+2003,C,2003_Las_Vegas_350,6,12,2,usa,Andy_Houston,Andy Houston,Team ASE / Carquest,Jim_Smith,Dodge,146,11425,running,0,150
+2003,C,2003_Las_Vegas_350,7,15,29,usa,Terry_Cook,Terry Cook,Power Stroke Diesel / Oil Mate,Bob_Keselowski,Ford,146,11225,running,0,146
+2003,C,2003_Las_Vegas_350,8,4,1,usa,Ted_Musgrave,Ted Musgrave,Mopar Performance,Jim_Smith,Dodge,146,10725,running,18,147
+2003,C,2003_Las_Vegas_350,9,16,88,usa,Matt_Crafton,Matt Crafton,Menards / Enzyme Magic,Duke_Thorson,Chevrolet,146,10925,running,0,138
+2003,C,2003_Las_Vegas_350,10,19,4,usa,Bobby_Hamilton,Bobby Hamilton,Square D,Bobby_Hamilton_Racing,Dodge,146,12175,running,0,134
+2003,C,2003_Las_Vegas_350,11,13,59,usa,Robert_Pressley,Robert Pressley,Harris Trucking / Melling Engine Parts,James_Harris,Dodge,145,10575,running,0,130
+2003,C,2003_Las_Vegas_350,12,14,61,usa,Scott_Lynch,Scott Lynch,Orleans Hotel / Dodge,Michael_Gaughan,Dodge,145,8190,running,0,127
+2003,C,2003_Las_Vegas_350,13,18,6,usa,Randy_LaJoie,Randy LaJoie,"Kevin Harvick, Inc.",Kevin_Harvick,Chevrolet,145,8140,running,0,124
+2003,C,2003_Las_Vegas_350,14,17,68,usa,Brandon_Miller,Brandon Miller,Lucas Oil Products,Bradford_Miller,Chevrolet,145,8090,running,0,121
+2003,C,2003_Las_Vegas_350,15,31,08,usa,Shane_Sieg,Shane Sieg,Racing Finishes / Auto Air,Gene_Christensen,Chevrolet,145,12190,running,0,118
+2003,C,2003_Las_Vegas_350,16,21,03,usa,Eric_Jones,Eric Jones,Team EJP,Steve_Prescott,Chevrolet,144,7890,running,0,115
+2003,C,2003_Las_Vegas_350,17,25,07,usa,Bobby_Dotter,Bobby Dotter,Albertson's,Gene_Christensen,Chevrolet,144,10040,running,1,117
+2003,C,2003_Las_Vegas_350,18,5,18,usa,Chad_Chaffin,Chad Chaffin,Dickies,Bobby_Hamilton_Racing,Dodge,144,9940,running,0,109
+2003,C,2003_Las_Vegas_350,19,9,50,usa,Jon_Wood,Jon Wood,Graham for President,Jack_Roush,Ford,144,9840,running,0,106
+2003,C,2003_Las_Vegas_350,20,10,8,usa,Bill_Lester,Bill Lester,Strauss Auto Parts / The Club,Bobby_Hamilton_Racing,Dodge,142,9890,running,0,103
+2003,C,2003_Las_Vegas_350,21,22,7,usa,Tyler_Walker,Tyler Walker,Mopar Performance,Jim_Smith,Dodge,142,7370,running,0,100
+2003,C,2003_Las_Vegas_350,22,33,15,usa,Robby_Benton,Robby Benton,Vokal Clothing / Fasscore,Billy_Ballew,Ford,140,9540,running,0,97
+2003,C,2003_Las_Vegas_350,23,34,53,usa,T_J_Bell,T.J. Bell,Special Wish Foundation,Mary_Ward,Ford,139,10440,running,0,94
+2003,C,2003_Las_Vegas_350,24,28,72,canada,Randy_MacDonald,Randy MacDonald,Greenfield Truck Center,Doc_MacDonald,Chevrolet,138,9340,parked,0,91
+2003,C,2003_Las_Vegas_350,25,35,5,usa,Jerry_Hill,Jerry Hill,Ware Racing Enterprises,Rick_Ware,Dodge,137,8065,running,0,88
+2003,C,2003_Las_Vegas_350,26,20,38,usa,Brandon_Whitt,Brandon Whitt,McMillin Homes-Realty,Daniel_Whitt,Chevrolet,119,7040,engine,0,85
+2003,C,2003_Las_Vegas_350,27,3,99,usa,Carl_Edwards,Carl Edwards,Superchips,Jack_Roush,Ford,106,8015,engine,19,87
+2003,C,2003_Las_Vegas_350,28,30,95,usa,Wayne_Edwards_(1),Wayne Edwards,NRG Cases / Hi Tech Engines,Scott_Upshaw,Ford,81,6990,transmission,0,79
+2003,C,2003_Las_Vegas_350,29,24,49,usa,Shawna_Robinson,Shawna Robinson,Aaron's,Mike_Starr,Chevrolet,70,6965,engine,0,76
+2003,C,2003_Las_Vegas_350,30,27,27,usa,Doug_Keller,Doug Keller,Sahara Hotel,Doug_Keller,Chevrolet,64,6940,engine,0,73
+2003,C,2003_Las_Vegas_350,31,32,86,usa,Phil_Bonifield,Phil Bonifield,Lane Automotice / Motor State Performance,Phil_Bonifield,Chevrolet,49,6915,ignition,0,70
+2003,C,2003_Las_Vegas_350,32,36,23,usa,Dana_White,Dana White,Red Line Oil,Tom_Mazzuchi,Chevrolet,35,6890,overheating,0,67
+2003,C,2003_Las_Vegas_350,33,26,01,usa,Lance_Hooper,Lance Hooper,fansmotorsports.com,Lance_Hooper,Ford,22,6865,battery,0,64
+2003,C,2003_Las_Vegas_350,34,29,93,usa,Jerry_Allec_Jr,"Jerry Allec, Jr.",Troxell-MacDonald Racing,Lonnie_Troxell,Chevrolet,19,6840,engine,0,61
+2003,C,2003_Las_Vegas_350,35,23,25,usa,Jamie_Aube,Jamie Aube,Red Line Oil,Phil_Bonifield,Chevrolet,13,6815,oil pressure,0,58
+2003,C,2003_Las_Vegas_350,36,7,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,3,6790,engine,0,55
+2003,C,2003_John_Boy_And_Billy_250,1,5,46,usa,Dennis_Setzer,Dennis Setzer,Acxiom,Rob_Morgan_David_Dollar,Chevrolet,253,44950,running,100,185
+2003,C,2003_John_Boy_And_Billy_250,2,4,16,usa,Travis_Kvapil,Travis Kvapil,IWX Motor Freight,Steve_Coulter,Chevrolet,253,25550,running,0,170
+2003,C,2003_John_Boy_And_Billy_250,3,3,1,usa,Ted_Musgrave,Ted Musgrave,Mopar Performance,Jim_Smith,Dodge,253,18275,running,0,165
+2003,C,2003_John_Boy_And_Billy_250,4,2,50,usa,Jon_Wood,Jon Wood,Graham for President,Jack_Roush,Ford,253,11900,running,66,165
+2003,C,2003_John_Boy_And_Billy_250,5,10,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,253,11050,running,0,155
+2003,C,2003_John_Boy_And_Billy_250,6,14,2,usa,Andy_Houston,Andy Houston,Team ASE / Carquest,Jim_Smith,Dodge,253,9575,running,48,155
+2003,C,2003_John_Boy_And_Billy_250,7,6,99,usa,Carl_Edwards,Carl Edwards,Superchips,Jack_Roush,Ford,253,9975,running,0,146
+2003,C,2003_John_Boy_And_Billy_250,8,7,4,usa,Bobby_Hamilton,Bobby Hamilton,Square D,Bobby_Hamilton_Racing,Dodge,253,9175,running,0,142
+2003,C,2003_John_Boy_And_Billy_250,9,13,75,usa,David_Starr,David Starr,Spears Manufacturing,Wayne_Spears,Chevrolet,253,8825,running,0,138
+2003,C,2003_John_Boy_And_Billy_250,10,12,59,usa,Robert_Pressley,Robert Pressley,Harris Trucking / Melling Engine Parts,James_Harris,Dodge,252,10350,running,0,134
+2003,C,2003_John_Boy_And_Billy_250,11,8,07,usa,Bobby_Dotter,Bobby Dotter,People Against Drugs,Gene_Christensen,Chevrolet,252,8725,running,0,130
+2003,C,2003_John_Boy_And_Billy_250,12,19,15,usa,Rich_Bickle,Rich Bickle,Vokal Clothing,Billy_Ballew,Ford,252,8615,running,0,127
+2003,C,2003_John_Boy_And_Billy_250,13,16,18,usa,Chad_Chaffin,Chad Chaffin,Dickies,Bobby_Hamilton_Racing,Dodge,252,8565,running,0,124
+2003,C,2003_John_Boy_And_Billy_250,14,23,84,usa,Nick_Woodward,Nick Woodward,Twizzlers,Robert_Long,Ford,252,6290,running,0,121
+2003,C,2003_John_Boy_And_Billy_250,15,1,62,usa,Brendan_Gaughan,Brendan Gaughan,Orleans Hotel,Michael_Gaughan,Dodge,252,10415,running,39,123
+2003,C,2003_John_Boy_And_Billy_250,16,9,88,usa,Matt_Crafton,Matt Crafton,Menards / Enzyme Magic,Duke_Thorson,Chevrolet,251,8365,running,0,115
+2003,C,2003_John_Boy_And_Billy_250,17,22,11,usa,Clay_Brown,Clay Brown,IWX Motor Freight,David_Fuge,Chevrolet,251,6065,running,0,112
+2003,C,2003_John_Boy_And_Billy_250,18,15,29,usa,Terry_Cook,Terry Cook,Power Stroke Diesel / Oil Mate,Bob_Keselowski,Ford,251,8265,running,0,109
+2003,C,2003_John_Boy_And_Billy_250,19,33,08,usa,Jody_Lavender,Jody Lavender,Hartsville Community Bank,Gene_Christensen,Chevrolet,250,9715,running,0,106
+2003,C,2003_John_Boy_And_Billy_250,20,17,7,usa,Stuart_Kirby,Stuart Kirby,Troxell-MacDonald Racing,Lonnie_Troxell,Chevrolet,250,6040,running,0,103
+2003,C,2003_John_Boy_And_Billy_250,21,29,33,usa,Paul_Menard,Paul Menard,Pit Bull,Andy_Petree,Chevrolet,250,7865,running,0,100
+2003,C,2003_John_Boy_And_Billy_250,22,21,68,usa,Jay_Godley,Jay Godley,MRD Motorsports,Dave_Malcolmson,Chevrolet,249,5565,running,0,97
+2003,C,2003_John_Boy_And_Billy_250,23,24,8,usa,Bill_Lester,Bill Lester,Strauss Auto Parts / The Club,Bobby_Hamilton_Racing,Dodge,248,6515,running,0,94
+2003,C,2003_John_Boy_And_Billy_250,24,11,78,usa,Charlie_Bradberry,Charlie Bradberry,Bradberry Motorsports,Charles_Bradberry,Chevrolet,247,5465,running,0,91
+2003,C,2003_John_Boy_And_Billy_250,25,20,72,canada,Randy_MacDonald,Randy MacDonald,Greenfield Truck Center,Doc_MacDonald,Chevrolet,247,6440,running,0,88
+2003,C,2003_John_Boy_And_Billy_250,26,31,31,usa,Tommy_Pistone,Tommy Pistone,Tiger Tom Pistone Race Cars & Parts,Bob_Brevak,Ford,245,5390,running,0,85
+2003,C,2003_John_Boy_And_Billy_250,27,32,13,usa,Ron_Polodna,Ron Polodna,RT Motorsports,Rick_Tennis,Chevrolet,242,5365,running,0,82
+2003,C,2003_John_Boy_And_Billy_250,28,34,5,usa,Jerry_Hill,Jerry Hill,Ware Racing Enterprises,Rick_Ware,Dodge,235,5340,running,0,79
+2003,C,2003_John_Boy_And_Billy_250,29,25,82,usa,Gilbert_King,Gilbert King,Ninetynine Racing,Kevin_Jones,Chevrolet,152,5315,engine,0,76
+2003,C,2003_John_Boy_And_Billy_250,30,30,86,usa,Phil_Bonifield,Phil Bonifield,Lane Automotice / Motor State Performance,Phil_Bonifield,Chevrolet,149,5290,throttle,0,73
+2003,C,2003_John_Boy_And_Billy_250,31,18,01,usa,Lance_Hooper,Lance Hooper,fansmotorsports.com,Lance_Hooper,Ford,100,5265,brakes,0,70
+2003,C,2003_John_Boy_And_Billy_250,32,35,73,usa,Craig_Wood,Craig Wood,BC Auto / Gestetner,Craig_Wood,Ford,61,5240,handling,0,67
+2003,C,2003_John_Boy_And_Billy_250,33,27,00,usa,Ryan_McGlynn,Ryan McGlynn,Buyers Choice Auto Warranties,Raynard_McGlynn,Chevrolet,52,5215,engine,0,64
+2003,C,2003_John_Boy_And_Billy_250,34,28,23,usa,Jamie_Aube,Jamie Aube,Red Line Oil,Tom_Mazzuchi,Chevrolet,19,5190,suspension,0,61
+2003,C,2003_John_Boy_And_Billy_250,35,26,93,usa,Roland_Isaacs,Roland Isaacs,Troxell-MacDonald Racing,Lonnie_Troxell,Chevrolet,17,5165,oil pressure,0,58
+2003,C,2003_John_Boy_And_Billy_250,36,36,47,usa,Scotty_Sands,Scotty Sands,Eiklor Flames,Bobby_Sands,Dodge,0,5140,electrical,0,55
+2003,C,2003_Silverado_350,1,7,62,usa,Brendan_Gaughan,Brendan Gaughan,Orleans Hotel / Dodge,Michael_Gaughan,Dodge,146,60630,running,60,185
+2003,C,2003_Silverado_350,2,11,16,usa,Travis_Kvapil,Travis Kvapil,IWX Motor Freight,Steve_Coulter,Chevrolet,146,41600,running,1,175
+2003,C,2003_Silverado_350,3,10,1,usa,Ted_Musgrave,Ted Musgrave,Mopar Performance,Jim_Smith,Dodge,146,28695,running,19,170
+2003,C,2003_Silverado_350,4,3,99,usa,Carl_Edwards,Carl Edwards,Superchips,Jack_Roush,Ford,146,19070,running,8,165
+2003,C,2003_Silverado_350,5,1,2,usa,Andy_Houston,Andy Houston,Team ASE / Carquest,Jim_Smith,Dodge,146,14670,running,18,160
+2003,C,2003_Silverado_350,6,5,50,usa,Jon_Wood,Jon Wood,Graham for President,Jack_Roush,Ford,146,12245,running,8,155
+2003,C,2003_Silverado_350,7,6,29,usa,Terry_Cook,Terry Cook,Power Stroke Diesel / Oil Mate,Bob_Keselowski,Ford,146,12245,running,0,146
+2003,C,2003_Silverado_350,8,13,46,usa,Dennis_Setzer,Dennis Setzer,Acxiom / Computer Associates,Rob_Morgan_David_Dollar,Chevrolet,146,11545,running,0,142
+2003,C,2003_Silverado_350,9,8,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,146,11395,running,32,143
+2003,C,2003_Silverado_350,10,19,4,usa,Bobby_Hamilton,Bobby Hamilton,Square D,Bobby_Hamilton_Racing,Dodge,145,12595,running,0,134
+2003,C,2003_Silverado_350,11,4,7,usa,Tracy_Hines,Tracy Hines,Dodge Motorsports,Jim_Smith,Dodge,144,8695,running,0,130
+2003,C,2003_Silverado_350,12,14,88,usa,Matt_Crafton,Matt Crafton,Menards / Enzyme Magic,Duke_Thorson,Chevrolet,144,10760,running,0,127
+2003,C,2003_Silverado_350,13,15,59,usa,Robert_Pressley,Robert Pressley,Harris Trucking / Melling Engine Parts,James_Harris,Dodge,144,10660,running,0,124
+2003,C,2003_Silverado_350,14,16,03,usa,Eric_Jones,Eric Jones,Team EJP,Steve_Prescott,Chevrolet,144,9560,running,0,121
+2003,C,2003_Silverado_350,15,9,18,usa,Chad_Chaffin,Chad Chaffin,Dickies,Bobby_Hamilton_Racing,Dodge,144,10910,running,0,118
+2003,C,2003_Silverado_350,16,30,08,usa,Jody_Lavender,Jody Lavender,Hartsville Community Bank,Gene_Christensen,Chevrolet,143,11860,running,0,115
+2003,C,2003_Silverado_350,17,22,35,usa,Randy_Briggs,Randy Briggs,Arrow Truck Sales,Mary_Ward,Ford,143,8020,running,0,0
+2003,C,2003_Silverado_350,18,21,15,usa,Patrick_Lawler,Patrick Lawler,San Antonio Auto Auction / Vokal,Billy_Ballew,Ford,143,10185,running,0,109
+2003,C,2003_Silverado_350,19,20,07,usa,Shane_Sieg,Shane Sieg,Auto Air Colors,Gene_Christensen,Chevrolet,142,10085,running,0,106
+2003,C,2003_Silverado_350,20,33,5,usa,Jerry_Hill,Jerry Hill,Ware Racing Enterprises,Rick_Ware,Dodge,141,10085,running,0,103
+2003,C,2003_Silverado_350,21,31,89,usa,Stan_Boyd,Stan Boyd,Engineered Victories,James_Liguori,Chevrolet,140,7635,running,0,0
+2003,C,2003_Silverado_350,22,27,95,usa,Wayne_Edwards_(1),Wayne Edwards,NRG Cases / Hi Tech Engines,Scott_Upshaw,Ford,140,7535,running,0,97
+2003,C,2003_Silverado_350,23,32,72,canada,Randy_MacDonald,Randy MacDonald,U.S. Security,Doc_MacDonald,Chevrolet,140,8435,running,0,94
+2003,C,2003_Silverado_350,24,29,51,usa,Blake_Mallory,Blake Mallory,Ware Racing Enterprises,Rick_Ware,Dodge,139,7335,running,0,91
+2003,C,2003_Silverado_350,25,17,58,usa,Chris_Horn,Chris Horn,SeaFoamSales.com,Fred_Horn,Chevrolet,136,7235,running,0,88
+2003,C,2003_Silverado_350,26,25,86,usa,Shane_Wallace,Shane Wallace,Lane Automotive / Motor State Performance,Phil_Bonifield,Ford,133,8135,running,0,85
+2003,C,2003_Silverado_350,27,28,53,usa,T_J_Bell,T.J. Bell,Special Wish Foundation,Mary_Ward,Ford,116,8035,crash,0,82
+2003,C,2003_Silverado_350,28,12,8,usa,Bill_Lester,Bill Lester,Strauss Auto Parts / The Club,Bobby_Hamilton_Racing,Dodge,114,6935,running,0,79
+2003,C,2003_Silverado_350,29,24,49,usa,Shawna_Robinson,Shawna Robinson,Aaron's Sales & Leasing,Mike_Starr,Chevrolet,113,6835,engine,0,76
+2003,C,2003_Silverado_350,30,26,63,usa,David_Stover,David Stover,Dave Porter Truck Sales / Enerpac,Mike_Mittler,Ford,78,6735,engine,0,73
+2003,C,2003_Silverado_350,31,2,75,usa,David_Starr,David Starr,Spears Manufacturing,Wayne_Spears,Chevrolet,63,6605,engine,0,70
+2003,C,2003_Silverado_350,32,34,23,usa,Phil_Bonifield,Phil Bonifield,Red Line Synthetic Oil,Tom_Mazzuchi,Chevrolet,53,6635,ignition,0,67
+2003,C,2003_Silverado_350,33,23,01,usa,Lance_Hooper,Lance Hooper,RAS Concrete Construction,Lance_Hooper,Ford,50,6625,vibration,0,64
+2003,C,2003_Silverado_350,34,18,38,usa,Brandon_Whitt,Brandon Whitt,McMillin Homes,Daniel_Whitt,Chevrolet,31,6615,overheating,0,61
+2003,C,2003_Silverado_350,35,36,9,usa,Kenny_Hendrick,Kenny Hendrick,Fasscore / Vokal Clothing,Christopher_Beckington,Ford,14,6605,vibration,0,58
+2003,C,2003_Silverado_350,36,35,93,usa,Jonathon_Price,Jonathon Price,Icy Splash,Lonnie_Troxell,Chevrolet,7,6600,engine,0,55
+2003,C,2003_Advance_Auto_Parts_200,1,2,50,usa,Jon_Wood,Jon Wood,Jack Roush,Jack_Roush,Ford,200,40510,running,79,180
+2003,C,2003_Advance_Auto_Parts_200,2,1,99,usa,Carl_Edwards,Carl Edwards,Superchips,Jack_Roush,Ford,200,23025,running,3,175
+2003,C,2003_Advance_Auto_Parts_200,3,3,46,usa,Dennis_Setzer,Dennis Setzer,Acxiom / Computer Associates,Rob_Morgan_David_Dollar,Chevrolet,200,17590,running,118,175
+2003,C,2003_Advance_Auto_Parts_200,4,16,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,200,11625,running,0,160
+2003,C,2003_Advance_Auto_Parts_200,5,12,4,usa,Bobby_Hamilton,Bobby Hamilton,Square D,Bobby_Hamilton_Racing,Dodge,200,10925,running,0,155
+2003,C,2003_Advance_Auto_Parts_200,6,15,2,usa,Jimmy_Spencer,Jimmy Spencer,Team ASE / Carquest,Jim_Smith,Dodge,200,6750,running,0,150
+2003,C,2003_Advance_Auto_Parts_200,7,13,17,usa,Darrell_Waltrip,Darrell Waltrip,Aaron's,Michael_Waltrip,Chevrolet,200,6600,running,0,146
+2003,C,2003_Advance_Auto_Parts_200,8,7,52,usa,Ken_Schrader,Ken Schrader,Federated Auto Parts,Ken_Schrader,Chevrolet,200,8860,running,0,142
+2003,C,2003_Advance_Auto_Parts_200,9,23,75,usa,David_Starr,David Starr,Spears Manufacturing,Wayne_Spears,Chevrolet,200,10250,running,0,138
+2003,C,2003_Advance_Auto_Parts_200,10,10,1,usa,Ted_Musgrave,Ted Musgrave,Mopar Performance,Jim_Smith,Dodge,200,9250,running,0,134
+2003,C,2003_Advance_Auto_Parts_200,11,4,62,usa,Brendan_Gaughan,Brendan Gaughan,Orleans Hotel,Michael_Gaughan,Dodge,200,9100,running,0,130
+2003,C,2003_Advance_Auto_Parts_200,12,5,15,usa,Rich_Bickle,Rich Bickle,Vokal Clothing,Billy_Ballew,Ford,200,8765,running,0,127
+2003,C,2003_Advance_Auto_Parts_200,13,22,7,usa,Tracy_Hines,Tracy Hines,Dodge Motorsports,Jim_Smith,Dodge,200,6215,running,0,124
+2003,C,2003_Advance_Auto_Parts_200,14,8,18,usa,Chad_Chaffin,Chad Chaffin,Dickies,Bobby_Hamilton_Racing,Dodge,200,8565,running,0,121
+2003,C,2003_Advance_Auto_Parts_200,15,18,55,usa,Mark_McFarland,Mark McFarland,Dean Motorsports,Jim_Dean,Dodge,200,6440,running,0,118
+2003,C,2003_Advance_Auto_Parts_200,16,11,16,usa,Travis_Kvapil,Travis Kvapil,IWX Motor Freight,Steve_Coulter,Chevrolet,200,8265,running,0,115
+2003,C,2003_Advance_Auto_Parts_200,17,14,96,usa,Matt_Carter,Matt Carter,heavytruckdealers.com,Carl_Long,Dodge,200,5965,running,0,112
+2003,C,2003_Advance_Auto_Parts_200,18,9,33,usa,Andy_Petree,Andy Petree,Monaco Coaches,Andy_Petree,Chevrolet,199,8165,running,0,109
+2003,C,2003_Advance_Auto_Parts_200,19,19,29,usa,Terry_Cook,Terry Cook,Power Stroke Diesel / Oil Mate,Bob_Keselowski,Ford,199,8115,running,0,106
+2003,C,2003_Advance_Auto_Parts_200,20,27,68,usa,Jay_Godley,Jay Godley,MRD Motorsports,Dave_Malcolmson,Chevrolet,198,5815,running,0,103
+2003,C,2003_Advance_Auto_Parts_200,21,28,56,usa,Matt_McCall,Matt McCall,Denver Marine / Hot Wheels,Danny_McCall,Chevrolet,198,5790,running,0,100
+2003,C,2003_Advance_Auto_Parts_200,22,25,8,usa,Bill_Lester,Bill Lester,Strauss Auto Parts / The Club,Bobby_Hamilton_Racing,Dodge,198,8015,running,0,97
+2003,C,2003_Advance_Auto_Parts_200,23,30,72,canada,Randy_MacDonald,Randy MacDonald,Bone Suckin' Sauce,Doc_MacDonald,Chevrolet,196,7990,running,0,94
+2003,C,2003_Advance_Auto_Parts_200,24,34,86,usa,Jamie_Aube,Jamie Aube,Lane Automotice / Motor State Performance,Phil_Bonifield,Chevrolet,195,7965,running,0,91
+2003,C,2003_Advance_Auto_Parts_200,25,33,07,germany,Alex_Mueller,Alex Mueller,Recaro Seats,Gene_Christensen,Chevrolet,195,7915,running,0,88
+2003,C,2003_Advance_Auto_Parts_200,26,32,08,usa,Jody_Lavender,Jody Lavender,Hartsville Community Bank,Gene_Christensen,Chevrolet,194,7140,running,0,85
+2003,C,2003_Advance_Auto_Parts_200,27,6,59,usa,Robert_Pressley,Robert Pressley,Harris Trucking / Melling Engine Parts,James_Harris,Dodge,132,6615,running,0,82
+2003,C,2003_Advance_Auto_Parts_200,28,20,88,usa,Matt_Crafton,Matt Crafton,Menards / Enzyme Magic,Duke_Thorson,Chevrolet,111,5590,brakes,0,79
+2003,C,2003_Advance_Auto_Parts_200,29,24,21,usa,Morgan_Shepherd,Morgan Shepherd,Racing With Jesus / Red Line Oil,Morgan_Shepherd,Ford,106,5540,electrical,0,76
+2003,C,2003_Advance_Auto_Parts_200,30,17,84,usa,Elliott_Sadler,Elliott Sadler,Combos,Robert_Long,Ford,82,5515,radiator,0,73
+2003,C,2003_Advance_Auto_Parts_200,31,31,5,usa,Brian_Sockwell,Brian Sockwell,Lowdermilk Electric,Rick_Ware,Chevrolet,54,5065,crash,0,70
+2003,C,2003_Advance_Auto_Parts_200,32,26,01,usa,Lance_Hooper,Lance Hooper,lancewho.com,Lance_Hooper,Ford,37,5040,rear end,0,67
+2003,C,2003_Advance_Auto_Parts_200,33,36,31,usa,Wayne_Edwards_(1),Wayne Edwards,Prestige Building / BSS,Bob_Brevak,Ford,35,5020,brakes,0,64
+2003,C,2003_Advance_Auto_Parts_200,34,29,93,usa,Roland_Isaacs,Roland Isaacs,icy splash / Amerisuites,Lonnie_Troxell,Chevrolet,31,4995,brakes,0,61
+2003,C,2003_Advance_Auto_Parts_200,35,35,23,usa,Phil_Bonifield,Phil Bonifield,Red Line Synthetic Oil,Tom_Mazzuchi,Chevrolet,19,4970,ignition,0,58
+2003,C,2003_Advance_Auto_Parts_200,36,21,9,usa,Kenny_Hendrick,Kenny Hendrick,Fasscore / Vokal Clothing,Christopher_Beckington,Ford,14,4943,brakes,0,55
+2003,C,2003_Chevy_Silverado_150,1,2,6,usa,Kevin_Harvick,Kevin Harvick,Looney Tunes Back In Action,Kevin_Harvick,Chevrolet,150,41315,running,80,185
+2003,C,2003_Chevy_Silverado_150,2,1,1,usa,Ted_Musgrave,Ted Musgrave,Mopar Performance,Jim_Smith,Dodge,150,31385,running,58,175
+2003,C,2003_Chevy_Silverado_150,3,11,46,usa,Dennis_Setzer,Dennis Setzer,Acxiom / Computer Associates,Rob_Morgan_David_Dollar,Chevrolet,150,17550,running,0,165
+2003,C,2003_Chevy_Silverado_150,4,9,99,usa,Carl_Edwards,Carl Edwards,Superchips,Jack_Roush,Ford,150,16875,running,0,160
+2003,C,2003_Chevy_Silverado_150,5,7,4,usa,Bobby_Hamilton,Bobby Hamilton,Square D,Bobby_Hamilton_Racing,Dodge,150,12125,running,0,155
+2003,C,2003_Chevy_Silverado_150,6,6,75,usa,David_Starr,David Starr,Spears Manufacturing,Wayne_Spears,Chevrolet,150,10575,running,0,150
+2003,C,2003_Chevy_Silverado_150,7,10,50,usa,Jon_Wood,Jon Wood,Roush Racing,Jack_Roush,Ford,150,10525,running,0,146
+2003,C,2003_Chevy_Silverado_150,8,16,59,usa,Robert_Pressley,Robert Pressley,Harris Trucking / Melling Engine Parts,James_Harris,Dodge,150,10625,running,0,142
+2003,C,2003_Chevy_Silverado_150,9,8,16,usa,Travis_Kvapil,Travis Kvapil,IWX Motor Freight,Steve_Coulter,Chevrolet,150,10425,running,6,143
+2003,C,2003_Chevy_Silverado_150,10,3,2,usa,Andy_Houston,Andy Houston,Team ASE / Carquest,Jim_Smith,Dodge,150,11400,running,0,134
+2003,C,2003_Chevy_Silverado_150,11,5,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,150,10525,running,0,130
+2003,C,2003_Chevy_Silverado_150,12,14,62,usa,Brendan_Gaughan,Brendan Gaughan,Orleans Hotel,Michael_Gaughan,Dodge,150,10040,running,6,132
+2003,C,2003_Chevy_Silverado_150,13,22,7,usa,Tracy_Hines,Tracy Hines,Mopar Performance,Jim_Smith,Dodge,150,8990,running,0,124
+2003,C,2003_Chevy_Silverado_150,14,18,88,usa,Matt_Crafton,Matt Crafton,Menards / Enzyme Magic,Duke_Thorson,Chevrolet,150,9940,running,0,121
+2003,C,2003_Chevy_Silverado_150,15,12,31,usa,Mike_Wallace,Mike Wallace,Scotch Transparent Duct Tape,Bob_Brevak,Dodge,150,8090,running,0,118
+2003,C,2003_Chevy_Silverado_150,16,13,29,usa,Terry_Cook,Terry Cook,Power Stroke Diesel / Oil Mate,Bob_Keselowski,Ford,150,9840,running,0,115
+2003,C,2003_Chevy_Silverado_150,17,4,52,usa,Ken_Schrader,Ken Schrader,Federated Auto Parts,Ken_Schrader,Chevrolet,149,9790,running,0,112
+2003,C,2003_Chevy_Silverado_150,18,20,18,usa,Chad_Chaffin,Chad Chaffin,Dickies,Bobby_Hamilton_Racing,Dodge,149,9740,running,0,109
+2003,C,2003_Chevy_Silverado_150,19,19,68,usa,Brandon_Miller,Brandon Miller,Robby Gordon Off-Road,Bradford_Miller,Chevrolet,149,7440,running,0,106
+2003,C,2003_Chevy_Silverado_150,20,15,8,usa,Bill_Lester,Bill Lester,Strauss Auto Parts / The Club,Bobby_Hamilton_Racing,Dodge,149,9740,running,0,103
+2003,C,2003_Chevy_Silverado_150,21,23,07,usa,Bobby_Dotter,Bobby Dotter,Windmill Inn,Gene_Christensen,Chevrolet,149,9565,running,0,100
+2003,C,2003_Chevy_Silverado_150,22,33,08,usa,Jody_Lavender,Jody Lavender,Hartsville Community Bank,Gene_Christensen,Chevrolet,149,9765,running,0,97
+2003,C,2003_Chevy_Silverado_150,23,27,39,usa,Jason_Small,Jason Small,Sunshine Metal / MP Environmental,Jason_Small,Chevrolet,148,7165,running,0,94
+2003,C,2003_Chevy_Silverado_150,24,24,01,usa,Lance_Hooper,Lance Hooper,lancewho.com,Lance_Hooper,Ford,148,7065,running,0,91
+2003,C,2003_Chevy_Silverado_150,25,26,72,canada,Randy_MacDonald,Randy MacDonald,Greenfield Truck Center,Doc_MacDonald,Chevrolet,146,7965,running,0,88
+2003,C,2003_Chevy_Silverado_150,26,34,86,usa,Jamie_Aube,Jamie Aube,Lane Automotice / Motor State Performance,Phil_Bonifield,Chevrolet,146,7865,running,0,85
+2003,C,2003_Chevy_Silverado_150,27,36,82,usa,A_J_Fike,A.J. Fike,Ray Farms,Kevin_Jones,Chevrolet,144,6765,running,0,82
+2003,C,2003_Chevy_Silverado_150,28,31,95,usa,Wayne_Edwards_(1),Wayne Edwards,NRG Cases / Hi Tech Engines,Scott_Upshaw,Ford,144,6665,running,0,79
+2003,C,2003_Chevy_Silverado_150,29,35,23,usa,Phil_Bonifield,Phil Bonifield,Red Line Synthetic Oil,Tom_Mazzuchi,Chevrolet,142,6565,running,0,76
+2003,C,2003_Chevy_Silverado_150,30,29,93,usa,Roland_Isaacs,Roland Isaacs,Troxell-MacDonald Racing,Lonnie_Troxell,Chevrolet,142,6465,running,0,73
+2003,C,2003_Chevy_Silverado_150,31,32,70,usa,Rick_Bogart,Rick Bogart,Bogart Racing Wheels,Rick_Bogart,Dodge,134,6440,running,0,70
+2003,C,2003_Chevy_Silverado_150,32,28,04,usa,Shane_Wallace,Shane Wallace,2nd Chance Parts / Great Cars & Trucks,Darren_Shaw,Ford,129,6415,oil pressure,0,67
+2003,C,2003_Chevy_Silverado_150,33,25,15,usa,Rich_Bickle,Rich Bickle,Vokal Clothing / Fasscore,Billy_Ballew,Ford,114,6390,running,0,64
+2003,C,2003_Chevy_Silverado_150,34,17,9,usa,Kenny_Hendrick,Kenny Hendrick,Fasscore / Vokal Clothing,Christopher_Beckington,Ford,85,6365,crash,0,61
+2003,C,2003_Chevy_Silverado_150,35,30,02,usa,Kelly_Sutton,Kelly Sutton,Team Copaxone,Ed_Sutton,Chevrolet,82,6340,crash,0,58
+2003,C,2003_Chevy_Silverado_150,36,21,21,usa,Morgan_Shepherd,Morgan Shepherd,Racing With Jesus / Red Line Oil,Morgan_Shepherd,Ford,24,6315,overheating,0,55
+2003,C,2003_Ford_200,1,1,4,usa,Bobby_Hamilton,Bobby Hamilton,Square D,Bobby_Hamilton_Racing,Dodge,134,54200,running,67,185
+2003,C,2003_Ford_200,2,7,14,usa,Rick_Crawford,Rick Crawford,Newspaper in Education,Tom_Mitchell,Ford,134,29575,running,50,175
+2003,C,2003_Ford_200,3,12,75,usa,David_Starr,David Starr,Spears Manufacturing,Wayne_Spears,Chevrolet,134,21125,running,12,170
+2003,C,2003_Ford_200,4,3,2,usa,Andy_Houston,Andy Houston,Team ASE / Carquest,Jim_Smith,Dodge,134,17075,running,0,160
+2003,C,2003_Ford_200,5,21,11,usa,Jack_Sprague,Jack Sprague,IWX Motor Freight,David_Fuge,Chevrolet,134,15350,running,0,155
+2003,C,2003_Ford_200,6,4,16,usa,Travis_Kvapil,Travis Kvapil,IWX Motor Freight,Steve_Coulter,Chevrolet,134,15125,running,0,150
+2003,C,2003_Ford_200,7,11,46,usa,Dennis_Setzer,Dennis Setzer,Acxiom / Computer Associates,Rob_Morgan_David_Dollar,Chevrolet,134,15175,running,0,146
+2003,C,2003_Ford_200,8,9,50,usa,Jon_Wood,Jon Wood,Roush Racing,Jack_Roush,Ford,134,14725,running,2,147
+2003,C,2003_Ford_200,9,14,27,usa,P_J_Jones,P.J. Jones,Ultra Wheels,Jim_Smith,Dodge,134,12275,running,0,138
+2003,C,2003_Ford_200,10,2,18,usa,Chad_Chaffin,Chad Chaffin,Dickies,Bobby_Hamilton_Racing,Dodge,134,15875,running,0,134
+2003,C,2003_Ford_200,11,5,29,usa,Terry_Cook,Terry Cook,Power Stroke Diesel / Oil Mate,Bob_Keselowski,Ford,134,14225,running,0,130
+2003,C,2003_Ford_200,12,25,61,usa,Scott_Lynch,Scott Lynch,Orleans Hotel,Michael_Gaughan,Dodge,134,11790,running,0,127
+2003,C,2003_Ford_200,13,10,1,usa,Ted_Musgrave,Ted Musgrave,Mopar Performance,Jim_Smith,Dodge,134,13915,running,0,124
+2003,C,2003_Ford_200,14,29,03,usa,Eric_Jones,Eric Jones,Team EJP,Steve_Prescott,Chevrolet,133,12815,running,0,121
+2003,C,2003_Ford_200,15,17,98,usa,Matt_Crafton,Matt Crafton,Menards / Enzyme Magic,Duke_Thorson,Chevrolet,133,11465,running,0,118
+2003,C,2003_Ford_200,16,28,08,usa,Jody_Lavender,Jody Lavender,Hartsville Community Bank,Gene_Christensen,Chevrolet,132,15065,running,0,115
+2003,C,2003_Ford_200,17,20,07,usa,Shane_Sieg,Shane Sieg,Green Light Racing,Gene_Christensen,Chevrolet,132,13515,running,0,112
+2003,C,2003_Ford_200,18,8,8,usa,Bill_Lester,Bill Lester,Strauss Auto Parts / The Club,Bobby_Hamilton_Racing,Dodge,131,13415,running,0,109
+2003,C,2003_Ford_200,19,27,02,usa,Kelly_Sutton,Kelly Sutton,Team Copaxone,Ed_Sutton,Chevrolet,131,11065,running,0,106
+2003,C,2003_Ford_200,20,33,88,usa,Buddy_Rice,Buddy Rice,Menards / Enzyme Magic,Duke_Thorson,Chevrolet,131,13315,running,0,103
+2003,C,2003_Ford_200,21,22,31,usa,Mike_Wallace,Mike Wallace,Microtel Inn & Suites,Bob_Brevak,Dodge,129,10765,running,0,100
+2003,C,2003_Ford_200,22,34,15,usa,Rich_Bickle,Rich Bickle,Vokal Clothing / Fasscore,Billy_Ballew,Ford,129,12790,running,0,97
+2003,C,2003_Ford_200,23,26,7,usa,Tyler_Walker,Tyler Walker,Dodge Motorsports,Jim_Smith,Dodge,128,11665,running,0,94
+2003,C,2003_Ford_200,24,35,72,canada,Randy_MacDonald,Randy MacDonald,Greenfield Truck Center,Doc_MacDonald,Chevrolet,128,12365,running,0,91
+2003,C,2003_Ford_200,25,36,86,usa,Phil_Bonifield,Phil Bonifield,Lane Automotice / Motor State Performance,Phil_Bonifield,Chevrolet,126,10915,running,0,88
+2003,C,2003_Ford_200,26,15,59,usa,Robert_Pressley,Robert Pressley,Harris Trucking / Melling Engine Parts,James_Harris,Dodge,125,10715,running,0,85
+2003,C,2003_Ford_200,27,23,99,usa,Carl_Edwards,Carl Edwards,Superchips,Jack_Roush,Ford,120,10515,transmission,3,87
+2003,C,2003_Ford_200,28,24,69,usa,Frank_Kimmel,Frank Kimmel,Advance Auto Parts / Pork,Jeff_Spraker,Ford,117,9315,engine,0,79
+2003,C,2003_Ford_200,29,13,62,usa,Brendan_Gaughan,Brendan Gaughan,Orleans Hotel,Michael_Gaughan,Dodge,101,10115,crash,0,76
+2003,C,2003_Ford_200,30,18,10,usa,Marty_Houston,Marty Houston,Team ASE / Carquest,Jim_Smith,Dodge,100,8390,crash,0,73
+2003,C,2003_Ford_200,31,16,80,usa,Bryan_Reffner,Bryan Reffner,Emerson,Bryan_Reffner,Chevrolet,100,8365,crash,0,70
+2003,C,2003_Ford_200,32,19,52,usa,Ken_Schrader,Ken Schrader,Federated Auto Parts,Ken_Schrader,Chevrolet,88,8340,engine,0,67
+2003,C,2003_Ford_200,33,31,9,usa,Johnny_Sauter,Johnny Sauter,Apple Bottoms / Vokal Clothing,Christopher_Beckington,Ford,32,8315,engine,0,64
+2003,C,2003_Ford_200,34,30,55,usa,Mark_McFarland,Mark McFarland,Dean Motorsports,Jim_Dean,Dodge,29,8290,ignition,0,61
+2003,C,2003_Ford_200,35,6,38,usa,Brandon_Whitt,Brandon Whitt,Cure Autism Now,Daniel_Whitt,Chevrolet,20,8265,engine,0,58
+2003,C,2003_Ford_200,36,32,21,usa,Morgan_Shepherd,Morgan Shepherd,Racing With Jesus / Red Line Oil,Morgan_Shepherd,Ford,12,8240,engine,0,55

@@ -1,0 +1,1044 @@
+season,series_id,race_id,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
+1985,W,1985_Daytona_500,1,1,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,200,185500,running,136,185
+1985,W,1985_Daytona_500,2,14,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,200,85705,running,2,175
+1985,W,1985_Daytona_500,3,3,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,199,79350,running,0,165
+1985,W,1985_Daytona_500,4,7,88,usa,Buddy_Baker,Buddy Baker,Liquid Wrench,Buddy_Baker_Danny_Schiff,Oldsmobile,199,53075,running,0,160
+1985,W,1985_Daytona_500,5,9,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft / Camelot Motor Corp.,Bud_Moore,Ford,199,52900,running,0,155
+1985,W,1985_Daytona_500,6,13,51,usa,Greg_Sacks,Greg Sacks,Bill's Bar-B-Q / TAP Engine Parts,Arnie_Sacks,Chevrolet,199,44695,running,2,155
+1985,W,1985_Daytona_500,7,17,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,198,42025,running,0,146
+1985,W,1985_Daytona_500,8,22,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,197,34275,running,0,142
+1985,W,1985_Daytona_500,9,38,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Stavola_Brothers,Chevrolet,197,24950,running,0,138
+1985,W,1985_Daytona_500,10,19,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,195,33415,engine,22,139
+1985,W,1985_Daytona_500,11,24,90,usa,Ken_Schrader,Ken Schrader,Ultra Seal,Junie_Donlavey,Ford,195,25980,running,0,130
+1985,W,1985_Daytona_500,12,29,84,usa,Mike_Alexander,Mike Alexander,Sims Brothers Racing,Sims_Brothers,Chevrolet,194,19800,running,0,127
+1985,W,1985_Daytona_500,13,26,74,usa,Bobby_Wawak,Bobby Wawak,Superior Piping,Bobby_Wawak,Chevrolet,192,18305,running,0,124
+1985,W,1985_Daytona_500,14,25,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors / Down The Hatch,Jimmy_Means,Chevrolet,192,20435,running,0,121
+1985,W,1985_Daytona_500,15,36,67,usa,Morgan_Shepherd,Morgan Shepherd,Jim Peacock Dodge,Buddy_Arrington,Chrysler,190,15300,running,0,118
+1985,W,1985_Daytona_500,16,20,95,usa,Sterling_Marlin,Sterling Marlin,Native Tan,Sadler_Brothers,Chevrolet,188,16180,oil pump,0,115
+1985,W,1985_Daytona_500,17,32,4,usa,Joe_Ruttman,Joe Ruttman,Folger's Coffee,Larry_McClure,Chevrolet,185,16735,transmission,0,112
+1985,W,1985_Daytona_500,18,39,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King Ford & Honda,Elmo_Langley,Ford,182,14805,running,0,109
+1985,W,1985_Daytona_500,19,27,48,usa,Lennie_Pond,Lennie Pond,Burger King / Pepsi,James_Hylton,Chevrolet,178,14975,crash,0,106
+1985,W,1985_Daytona_500,20,40,31,usa,Slick_Johnson,Slick Johnson,Sheehan Pontiac / GMC Trucks,Henley_Gray,Chevrolet,175,11210,running,0,103
+1985,W,1985_Daytona_500,21,37,17,usa,Ken_Ragan,Ken Ragan,Hesco Exhaust / McCord,Roger_Hamby,Chevrolet,172,13000,running,0,100
+1985,W,1985_Daytona_500,22,11,1,usa,Dick_Brooks,Dick Brooks,Pearah / Bernstein,Petty_Enterprises,Ford,171,14725,wheel,0,97
+1985,W,1985_Daytona_500,23,28,89,usa,Jim_Sauter,Jim Sauter,Dairyland Transport / Midstate Corp.,Mueller_Brothers,Pontiac,161,10845,running,0,94
+1985,W,1985_Daytona_500,24,21,71,usa,Dave_Marcis,Dave Marcis,AEL Rentals,Dave_Marcis,Chevrolet,156,13205,clutch,0,91
+1985,W,1985_Daytona_500,25,31,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,154,18735,engine,2,93
+1985,W,1985_Daytona_500,26,10,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,124,18130,engine,1,90
+1985,W,1985_Daytona_500,27,35,98,canada,Trevor_Boys,Trevor Boys,McCaig Racing,Ron_Benfield,Chevrolet,103,10630,rear end,0,82
+1985,W,1985_Daytona_500,28,4,21,usa,David_Pearson,David Pearson,Chattanooga Chew,Hoss_Ellington,Chevrolet,98,19270,engine,0,79
+1985,W,1985_Daytona_500,29,12,66,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Leo_Jackson_Richard_Jackson,Chevrolet,91,10565,engine,0,76
+1985,W,1985_Daytona_500,30,16,14,usa,A_J_Foyt,A.J. Foyt,Gilmore-Foyt,A.J._Foyt,Oldsmobile,90,10010,engine,0,73
+1985,W,1985_Daytona_500,31,5,55,usa,Benny_Parsons,Benny Parsons,Copenhagen,Leo_Jackson_Richard_Jackson,Chevrolet,84,14755,engine,0,70
+1985,W,1985_Daytona_500,32,18,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,84,17150,engine,0,67
+1985,W,1985_Daytona_500,33,34,22,usa,Bobby_Allison,Bobby Allison,Miller,Di_Gard,Buick,82,14845,engine,1,69
+1985,W,1985_Daytona_500,34,8,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,80,18040,clutch,2,66
+1985,W,1985_Daytona_500,35,33,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,66,9220,crash,0,58
+1985,W,1985_Daytona_500,36,2,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Ford,62,33530,engine,32,60
+1985,W,1985_Daytona_500,37,6,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,58,15625,engine,0,52
+1985,W,1985_Daytona_500,38,15,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,45,9670,camshaft,0,49
+1985,W,1985_Daytona_500,39,23,10,usa,Doug_Heveron,Doug Heveron,Syracuse Classic,Tom_Heveron,Chevrolet,44,8460,engine,0,46
+1985,W,1985_Daytona_500,40,30,0,usa,Delma_Cowart,Delma Cowart,Heyward Grooms Construction,H.L._Waters,Chevrolet,38,7900,oil leak,0,43
+1985,W,1985_Miller_High_Life_400,1,4,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,400,33625,running,95,180
+1985,W,1985_Miller_High_Life_400,2,2,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,400,22165,running,0,170
+1985,W,1985_Miller_High_Life_400,3,1,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,400,21110,running,110,175
+1985,W,1985_Miller_High_Life_400,4,8,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,400,9530,running,0,160
+1985,W,1985_Miller_High_Life_400,5,7,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,399,12120,running,1,160
+1985,W,1985_Miller_High_Life_400,6,9,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,399,11685,running,0,150
+1985,W,1985_Miller_High_Life_400,7,10,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,399,6045,running,0,146
+1985,W,1985_Miller_High_Life_400,8,16,71,usa,Dave_Marcis,Dave Marcis,AEL Rentals,Dave_Marcis,Oldsmobile,399,5555,running,0,142
+1985,W,1985_Miller_High_Life_400,9,14,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,399,5140,running,103,143
+1985,W,1985_Miller_High_Life_400,10,11,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,398,5570,running,0,134
+1985,W,1985_Miller_High_Life_400,11,20,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Stavola_Brothers,Chevrolet,395,1890,running,0,130
+1985,W,1985_Miller_High_Life_400,12,18,41,usa,Ronnie_Thomas,Ronnie Thomas,Thomas Racing,Ronnie_Thomas,Chevrolet,389,1820,running,0,127
+1985,W,1985_Miller_High_Life_400,13,15,48,usa,Lennie_Pond,Lennie Pond,Dominion,James_Hylton,Chevrolet,387,4220,running,0,124
+1985,W,1985_Miller_High_Life_400,14,23,90,usa,Ken_Schrader,Ken Schrader,Ultra Seal,Junie_Donlavey,Ford,387,4590,running,0,121
+1985,W,1985_Miller_High_Life_400,15,25,17,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Roger_Hamby,Chevrolet,380,4260,running,0,118
+1985,W,1985_Miller_High_Life_400,16,5,22,usa,Bobby_Allison,Bobby Allison,Miller American,Di_Gard,Buick,379,6790,running,7,120
+1985,W,1985_Miller_High_Life_400,17,29,67,usa,Phil_Good,Phil Good,Arrington Racing,Buddy_Arrington,Chrysler,362,1470,running,0,112
+1985,W,1985_Miller_High_Life_400,18,24,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King Ford & Honda,Elmo_Langley,Ford,355,3590,crash,0,109
+1985,W,1985_Miller_High_Life_400,19,17,16,usa,Butch_Lindley,Butch Lindley,Carolina Tool,Bobby_Hawkins,Chevrolet,352,1365,lug bolt,0,
+1985,W,1985_Miller_High_Life_400,20,27,70,usa,J_D_McDuffie,J.D. McDuffie,Restore,J.D._McDuffie,Pontiac,349,1480,oil pressure,0,103
+1985,W,1985_Miller_High_Life_400,21,22,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Chevrolet,346,3400,oil leak,0,100
+1985,W,1985_Miller_High_Life_400,22,13,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,332,8260,crash,0,97
+1985,W,1985_Miller_High_Life_400,23,3,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,239,3715,crash,84,99
+1985,W,1985_Miller_High_Life_400,24,26,98,canada,Trevor_Boys,Trevor Boys,McCaig Racing,Ron_Benfield,Chevrolet,182,2870,rear end,0,91
+1985,W,1985_Miller_High_Life_400,25,21,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,108,7155,engine,0,88
+1985,W,1985_Miller_High_Life_400,26,12,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,107,6340,crash,0,85
+1985,W,1985_Miller_High_Life_400,27,6,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,89,3655,crash,0,82
+1985,W,1985_Miller_High_Life_400,28,28,20,usa,Rick_Newsom,Rick Newsom,Newsom Racing,Rick_Newsom,Chevrolet,70,1050,oil leak,0,79
+1985,W,1985_Miller_High_Life_400,29,19,88,usa,Buddy_Baker,Buddy Baker,Liquid Wrench,Buddy_Baker_Danny_Schiff,Oldsmobile,36,1015,electrical,0,76
+1985,W,1985_Miller_High_Life_400,30,30,51,usa,Cecil_Gordon,Cecil Gordon,Sacks & Sons,Arnie_Sacks,Chevrolet,7,2640,steering,0,
+1985,W,1985_Carolina_500,1,4,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,492,35505,running,96,180
+1985,W,1985_Carolina_500,2,7,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,492,26330,running,172,175
+1985,W,1985_Carolina_500,3,1,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,492,23310,running,208,175
+1985,W,1985_Carolina_500,4,8,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,492,11360,running,0,160
+1985,W,1985_Carolina_500,5,10,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,491,10520,running,0,155
+1985,W,1985_Carolina_500,6,18,4,usa,Joe_Ruttman,Joe Ruttman,Folger's Coffee,Larry_McClure,Chevrolet,491,6710,running,0,150
+1985,W,1985_Carolina_500,7,15,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Ford,491,4660,running,0,146
+1985,W,1985_Carolina_500,8,13,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,491,10810,running,0,142
+1985,W,1985_Carolina_500,9,6,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,491,8675,running,0,138
+1985,W,1985_Carolina_500,10,11,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,491,16300,running,13,139
+1985,W,1985_Carolina_500,11,20,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,490,9065,running,0,130
+1985,W,1985_Carolina_500,12,5,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,485,11610,running,0,127
+1985,W,1985_Carolina_500,13,24,51,usa,Greg_Sacks,Greg Sacks,Sacks & Sons,Arnie_Sacks,Chevrolet,482,6645,running,0,124
+1985,W,1985_Carolina_500,14,19,48,usa,Lennie_Pond,Lennie Pond,Hylton Racing,James_Hylton,Chevrolet,475,6285,running,0,121
+1985,W,1985_Carolina_500,15,34,05,usa,Slick_Johnson,Slick Johnson,Spohn Racing,Ron_Spohn,Ford,472,3460,running,0,
+1985,W,1985_Carolina_500,16,33,67,usa,Buddy_Arrington,Buddy Arrington,West Penn Auto Sales,Buddy_Arrington,Dodge,468,5675,running,0,115
+1985,W,1985_Carolina_500,17,35,68,usa,Mike_Potter,Mike Potter,Walker Enterprises,Jimmy_Walker,Ford,457,2610,running,0,112
+1985,W,1985_Carolina_500,18,2,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,454,13910,rear end,2,114
+1985,W,1985_Carolina_500,19,25,17,usa,Phil_Parsons,Phil Parsons,Skoal,Roger_Hamby,Chevrolet,448,5015,running,0,106
+1985,W,1985_Carolina_500,20,17,1,usa,Dick_Brooks,Dick Brooks,Petty Enterprises,Petty_Enterprises,Ford,445,3555,engine,0,103
+1985,W,1985_Carolina_500,21,38,32,usa,Jonathan_Lee_Edwards,Jonathan Lee Edwards,Edwards Racing,Jonathan_Lee_Edwards,Buick,439,2045,running,0,100
+1985,W,1985_Carolina_500,22,37,50,usa,Jim_Southard,Jim Southard,U.S. Racing,Jim_Southard,Buick,431,1970,running,0,
+1985,W,1985_Carolina_500,23,30,6,usa,Eddie_Bierschwale,Eddie Bierschwale,U.S. Racing,D.K._Ulrich,Chevrolet,412,1895,crash,0,94
+1985,W,1985_Carolina_500,24,22,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Stavola_Brothers,Chevrolet,394,1870,engine,0,91
+1985,W,1985_Carolina_500,25,26,88,usa,Buddy_Baker,Buddy Baker,Liquid Wrench,Buddy_Baker_Danny_Schiff,Oldsmobile,385,1895,valve,0,88
+1985,W,1985_Carolina_500,26,23,71,usa,Dave_Marcis,Dave Marcis,AEL Rentals,Dave_Marcis,Oldsmobile,372,3995,running,0,85
+1985,W,1985_Carolina_500,27,32,74,usa,Bobby_Wawak,Bobby Wawak,Superior Piping,Bobby_Wawak,Buick,287,1645,crash,0,82
+1985,W,1985_Carolina_500,28,28,70,usa,J_D_McDuffie,J.D. McDuffie,Restore,J.D._McDuffie,Pontiac,283,1595,oil pump,0,79
+1985,W,1985_Carolina_500,29,14,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,281,9845,crash,0,76
+1985,W,1985_Carolina_500,30,31,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Pontiac,263,3760,engine,0,73
+1985,W,1985_Carolina_500,31,9,22,usa,Bobby_Allison,Bobby Allison,Miller American,Di_Gard,Buick,262,7925,clutch,1,75
+1985,W,1985_Carolina_500,32,3,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,162,7975,engine,0,67
+1985,W,1985_Carolina_500,33,12,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,162,3580,crash,0,64
+1985,W,1985_Carolina_500,34,36,41,usa,Ronnie_Thomas,Ronnie Thomas,Kingrey Brothers Excavation,Ronnie_Thomas,Chevrolet,128,1275,rear end,0,61
+1985,W,1985_Carolina_500,35,40,93,usa,Maurice_Randall,Maurice Randall,Sparks Tune-Up,Maurice_Randall,Chrysler,102,1225,engine,0,58
+1985,W,1985_Carolina_500,36,39,20,usa,Rick_Newsom,Rick Newsom,Tucker Construction,Rick_Newsom,Buick,96,1200,crash,0,55
+1985,W,1985_Carolina_500,37,29,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King,Elmo_Langley,Ford,68,3410,engine,0,52
+1985,W,1985_Carolina_500,38,27,23,usa,Morgan_Shepherd,Morgan Shepherd,Bahre Racing,Dick_Bahre,Chevrolet,61,1150,engine,0,49
+1985,W,1985_Carolina_500,39,21,98,canada,Trevor_Boys,Trevor Boys,McCaig Racing,Ron_Benfield,Chevrolet,60,3200,engine,0,46
+1985,W,1985_Carolina_500,40,16,90,usa,Ken_Schrader,Ken Schrader,Ultra Seal,Junie_Donlavey,Ford,55,2605,engine,0,43
+1985,W,1985_Coca-Cola_500,1,3,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,328,59800,running,129,185
+1985,W,1985_Coca-Cola_500,2,12,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,328,29800,running,2,175
+1985,W,1985_Coca-Cola_500,3,1,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,328,23700,running,47,170
+1985,W,1985_Coca-Cola_500,4,5,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,327,15825,running,30,165
+1985,W,1985_Coca-Cola_500,5,14,22,usa,Bobby_Allison,Bobby Allison,Miller American,Di_Gard,Buick,327,15000,running,2,160
+1985,W,1985_Coca-Cola_500,6,23,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,327,16225,running,2,155
+1985,W,1985_Coca-Cola_500,7,11,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,327,9930,running,2,151
+1985,W,1985_Coca-Cola_500,8,17,55,usa,Benny_Parsons,Benny Parsons,Copenhagen,Leo_Jackson_Richard_Jackson,Chevrolet,327,5225,running,0,142
+1985,W,1985_Coca-Cola_500,9,8,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,326,12125,running,0,138
+1985,W,1985_Coca-Cola_500,10,19,51,usa,Greg_Sacks,Greg Sacks,Sacks & Sons,Arnie_Sacks,Chevrolet,325,9070,running,0,134
+1985,W,1985_Coca-Cola_500,11,15,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,322,7300,running,0,130
+1985,W,1985_Coca-Cola_500,12,22,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Stavola_Brothers,Chevrolet,319,3325,running,0,127
+1985,W,1985_Coca-Cola_500,13,23,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,319,9625,running,0,124
+1985,W,1985_Coca-Cola_500,14,16,07,usa,Randy_LaJoie,Randy LaJoie,Snellman Construction,Kaj_Snellman,Chevrolet,319,2925,running,0,121
+1985,W,1985_Coca-Cola_500,15,37,6,usa,Eddie_Bierschwale,Eddie Bierschwale,U.S. Racing,D.K._Ulrich,Chevrolet,318,3780,running,0,118
+1985,W,1985_Coca-Cola_500,16,21,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,317,13350,engine,0,115
+1985,W,1985_Coca-Cola_500,17,36,90,usa,Ken_Schrader,Ken Schrader,Ultra Seal,Junie_Donlavey,Ford,317,6090,running,0,112
+1985,W,1985_Coca-Cola_500,18,32,67,usa,Buddy_Arrington,Buddy Arrington,West Penn Auto Sales,Buddy_Arrington,Chrysler,315,5855,running,0,109
+1985,W,1985_Coca-Cola_500,19,26,49,usa,Don_Hume,Don Hume,Cleaner Hands Formula,James_Hylton,Chevrolet,314,2275,running,0,106
+1985,W,1985_Coca-Cola_500,20,39,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King Ford & Honda,Elmo_Langley,Ford,306,5835,running,0,103
+1985,W,1985_Coca-Cola_500,21,40,05,usa,Slick_Johnson,Slick Johnson,Newsom Motors,Ron_Spohn,Ford,292,2050,engine,0,100
+1985,W,1985_Coca-Cola_500,22,4,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Ford,273,1950,engine,111,102
+1985,W,1985_Coca-Cola_500,23,38,70,usa,J_D_McDuffie,J.D. McDuffie,Restore,J.D._McDuffie,Chevrolet,262,5025,rear end,0,94
+1985,W,1985_Coca-Cola_500,24,6,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,258,10250,engine,1,96
+1985,W,1985_Coca-Cola_500,25,28,95,usa,Sterling_Marlin,Sterling Marlin,Auto Shack,Sadler_Brothers,Chevrolet,227,1760,running,0,88
+1985,W,1985_Coca-Cola_500,26,30,4,usa,Joe_Ruttman,Joe Ruttman,Folger's Coffee,Larry_McClure,Chevrolet,204,1625,engine,0,85
+1985,W,1985_Coca-Cola_500,27,10,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,196,5510,engine,0,82
+1985,W,1985_Coca-Cola_500,28,27,52,usa,Jimmy_Means,Jimmy Means,Ashley Motor Company,Jimmy_Means,Chevrolet,185,4270,engine,0,79
+1985,W,1985_Coca-Cola_500,29,7,21,usa,David_Pearson,David Pearson,Chattanooga Chew,Hoss_Ellington,Chevrolet,183,1535,clutch,0,76
+1985,W,1985_Coca-Cola_500,30,2,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,177,4050,engine,2,78
+1985,W,1985_Coca-Cola_500,31,34,48,usa,Lennie_Pond,Lennie Pond,Days Inn,James_Hylton,Chevrolet,144,3755,crash,0,70
+1985,W,1985_Coca-Cola_500,32,29,42,usa,Tom_Sneva,Tom Sneva,Curb Racing,Mike_Curb,Pontiac,138,1455,engine,0,67
+1985,W,1985_Coca-Cola_500,33,31,17,usa,Ken_Ragan,Ken Ragan,McCord Gaskets,Roger_Hamby,Chevrolet,138,3695,engine,0,64
+1985,W,1985_Coca-Cola_500,34,13,84,usa,Mike_Alexander,Mike Alexander,Sims Brothers Racing,Sims_Brothers,Chevrolet,115,1405,suspension,0,61
+1985,W,1985_Coca-Cola_500,35,35,36,usa,H_B_Bailey,H.B. Bailey,Almeda Auto Parts,H.B._Bailey,Pontiac,112,1385,lug stud,0,58
+1985,W,1985_Coca-Cola_500,36,33,14,usa,A_J_Foyt,A.J. Foyt,Gilmore-Foyt,A.J._Foyt,Oldsmobile,93,1365,handling,0,55
+1985,W,1985_Coca-Cola_500,37,20,71,usa,Dave_Marcis,Dave Marcis,AEL Rentals,Dave_Marcis,Chevrolet,72,3600,engine,0,52
+1985,W,1985_Coca-Cola_500,38,41,1,usa,Dick_Brooks,Dick Brooks,Petty Enterprises,Petty_Enterprises,Ford,67,2060,rear end,0,49
+1985,W,1985_Coca-Cola_500,39,25,88,usa,Buddy_Baker,Buddy Baker,Liquid Wrench,Buddy_Baker_Danny_Schiff,Oldsmobile,57,1310,transmission,0,46
+1985,W,1985_Coca-Cola_500,40,9,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,47,2795,engine,0,43
+1985,W,1985_Coca-Cola_500,41,18,66,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Leo_Jackson_Richard_Jackson,Chevrolet,39,1295,engine,0,40
+1985,W,1985_Valleydale_500,1,12,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,500,31525,running,214,185
+1985,W,1985_Valleydale_500,2,6,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft / Camelot,Bud_Moore,Ford,500,18050,running,163,175
+1985,W,1985_Valleydale_500,3,4,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,498,16625,running,0,165
+1985,W,1985_Valleydale_500,4,18,88,usa,Buddy_Baker,Buddy Baker,Liquid Wrench,Buddy_Baker_Danny_Schiff,Oldsmobile,498,4470,running,2,165
+1985,W,1985_Valleydale_500,5,17,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,497,8230,running,28,160
+1985,W,1985_Valleydale_500,6,11,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,495,6030,running,14,155
+1985,W,1985_Valleydale_500,7,5,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,495,5310,running,0,146
+1985,W,1985_Valleydale_500,8,15,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,495,7450,running,0,142
+1985,W,1985_Valleydale_500,9,21,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Stavola_Brothers,Chevrolet,495,2050,running,1,143
+1985,W,1985_Valleydale_500,10,16,90,usa,Ken_Schrader,Ken Schrader,Ultra Seal,Junie_Donlavey,Ford,489,5750,running,0,134
+1985,W,1985_Valleydale_500,11,8,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,485,8750,running,0,130
+1985,W,1985_Valleydale_500,12,25,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Chevrolet,483,4680,running,0,127
+1985,W,1985_Valleydale_500,13,2,22,usa,Bobby_Allison,Bobby Allison,Miller American,Di_Gard,Buick,477,7700,running,54,129
+1985,W,1985_Valleydale_500,14,23,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King Ford & Honda,Elmo_Langley,Ford,477,3870,running,0,121
+1985,W,1985_Valleydale_500,15,22,6,usa,Eddie_Bierschwale,Eddie Bierschwale,U.S. Racing,D.K._Ulrich,Chevrolet,465,4010,running,0,118
+1985,W,1985_Valleydale_500,16,30,49,usa,Don_Hume,Don Hume,Cleaner Hands Formula,James_Hylton,Chevrolet,457,3510,running,0,115
+1985,W,1985_Valleydale_500,17,7,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,440,3360,running,0,112
+1985,W,1985_Valleydale_500,18,10,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,408,7980,running,1,114
+1985,W,1985_Valleydale_500,19,3,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,364,6640,running,0,106
+1985,W,1985_Valleydale_500,20,1,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,362,9950,running,22,108
+1985,W,1985_Valleydale_500,21,28,41,usa,Ronnie_Thomas,Ronnie Thomas,Thomas Racing,Ronnie_Thomas,Chevrolet,314,1060,engine,0,100
+1985,W,1985_Valleydale_500,22,24,95,usa,Sterling_Marlin,Sterling Marlin,Auto Shack,Sadler_Brothers,Chevrolet,220,1020,crash,1,102
+1985,W,1985_Valleydale_500,23,9,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,178,8380,engine,0,94
+1985,W,1985_Valleydale_500,24,20,71,usa,Dave_Marcis,Dave Marcis,AEL Rentals,Dave_Marcis,Oldsmobile,174,3420,engine,0,91
+1985,W,1985_Valleydale_500,25,26,67,usa,Buddy_Arrington,Buddy Arrington,Arrington Racing,Buddy_Arrington,Chrysler,157,2690,oil pressure,0,88
+1985,W,1985_Valleydale_500,26,27,68,usa,Mike_Potter,Mike Potter,Walker Enterprises,Jimmy_Walker,Ford,61,870,engine,0,85
+1985,W,1985_Valleydale_500,27,29,70,usa,J_D_McDuffie,J.D. McDuffie,Rumple Furniture,J.D._McDuffie,Pontiac,58,2520,crash,0,82
+1985,W,1985_Valleydale_500,28,19,17,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Roger_Hamby,Chevrolet,40,2480,engine,0,79
+1985,W,1985_Valleydale_500,29,14,4,usa,Joe_Ruttman,Joe Ruttman,Folger's Coffee,Larry_McClure,Chevrolet,38,1780,crash,0,76
+1985,W,1985_Valleydale_500,30,13,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,36,2410,crash,0,73
+1985,W,1985_TranSouth_500,1,1,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,367,42900,running,146,185
+1985,W,1985_TranSouth_500,2,13,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,367,26550,running,61,175
+1985,W,1985_TranSouth_500,3,15,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,367,15860,running,4,170
+1985,W,1985_TranSouth_500,4,3,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,366,17105,running,2,165
+1985,W,1985_TranSouth_500,5,20,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,365,11800,running,0,155
+1985,W,1985_TranSouth_500,6,7,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,365,11775,running,15,155
+1985,W,1985_TranSouth_500,7,11,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,365,12870,running,4,151
+1985,W,1985_TranSouth_500,8,16,66,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Leo_Jackson_Richard_Jackson,Chevrolet,364,4325,running,1,147
+1985,W,1985_TranSouth_500,9,5,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,364,8050,running,4,143
+1985,W,1985_TranSouth_500,10,23,22,usa,Bobby_Allison,Bobby Allison,Miller American,Di_Gard,Buick,364,10900,running,0,134
+1985,W,1985_TranSouth_500,11,17,4,usa,Joe_Ruttman,Joe Ruttman,Folger's Coffee,Larry_McClure,Chevrolet,363,3225,running,0,130
+1985,W,1985_TranSouth_500,12,22,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,362,6665,running,0,127
+1985,W,1985_TranSouth_500,13,25,90,usa,Ken_Schrader,Ken Schrader,Ultra Seal,Junie_Donlavey,Ford,359,7330,running,0,124
+1985,W,1985_TranSouth_500,14,12,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,351,11200,running,0,121
+1985,W,1985_TranSouth_500,15,32,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Pontiac,351,6415,running,0,118
+1985,W,1985_TranSouth_500,16,6,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,349,5595,running,0,115
+1985,W,1985_TranSouth_500,17,36,67,usa,Buddy_Arrington,Buddy Arrington,Arrington Racing,Buddy_Arrington,Ford,347,5230,running,0,112
+1985,W,1985_TranSouth_500,18,24,1,usa,Morgan_Shepherd,Morgan Shepherd,Petty Enterprises,Petty_Enterprises,Ford,345,3415,engine,0,109
+1985,W,1985_TranSouth_500,19,35,6,usa,Eddie_Bierschwale,Eddie Bierschwale,U.S. Racing,D.K._Ulrich,Chevrolet,335,4650,running,0,106
+1985,W,1985_TranSouth_500,20,19,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Stavola_Brothers,Chevrolet,329,2350,running,0,103
+1985,W,1985_TranSouth_500,21,34,49,usa,Don_Hume,Don Hume,Cleaner Hands Formula,James_Hylton,Chevrolet,323,4195,crash,0,100
+1985,W,1985_TranSouth_500,22,38,35,usa,Dick_May,Dick May,Ultra Seal,Wayne_Beahr,Ford,297,1840,engine,0,
+1985,W,1985_TranSouth_500,23,26,84,usa,Mike_Alexander,Mike Alexander,Sims Brothers Racing,Sims_Brothers,Chevrolet,295,1760,rear end,0,94
+1985,W,1985_TranSouth_500,24,8,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,293,9180,engine,130,96
+1985,W,1985_TranSouth_500,25,9,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,249,8200,crash,0,88
+1985,W,1985_TranSouth_500,26,33,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King Ford & Honda,Elmo_Langley,Ford,207,3810,engine,0,85
+1985,W,1985_TranSouth_500,27,10,88,usa,Buddy_Baker,Buddy Baker,Liquid Wrench,Buddy_Baker_Danny_Schiff,Oldsmobile,185,3745,crash,0,82
+1985,W,1985_TranSouth_500,28,2,21,usa,David_Pearson,David Pearson,Chattanooga Chew,Hoss_Ellington,Chevrolet,184,1585,crash,0,79
+1985,W,1985_TranSouth_500,29,27,98,canada,Trevor_Boys,Trevor Boys,McCaig Racing,Ron_Benfield,Chevrolet,181,1380,crash,0,76
+1985,W,1985_TranSouth_500,30,21,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Ford,164,1975,engine,0,73
+1985,W,1985_TranSouth_500,31,14,71,usa,Dave_Marcis,Dave Marcis,AEL Rentals,Dave_Marcis,Oldsmobile,148,3555,valve,0,70
+1985,W,1985_TranSouth_500,32,4,55,usa,Benny_Parsons,Benny Parsons,Copenhagen,Leo_Jackson_Richard_Jackson,Chevrolet,123,1290,steering,0,67
+1985,W,1985_TranSouth_500,33,18,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,121,7760,engine,0,64
+1985,W,1985_TranSouth_500,34,37,74,usa,Bobby_Wawak,Bobby Wawak,Superior Piping,Bobby_Wawak,Chevrolet,116,1230,crash,0,61
+1985,W,1985_TranSouth_500,35,31,99,usa,Connie_Saylor,Connie Saylor,Ball Racing,Ralph_Ball,Chevrolet,112,1200,engine,0,58
+1985,W,1985_TranSouth_500,36,28,05,usa,Slick_Johnson,Slick Johnson,Newsom Racing,Ron_Spohn,Ford,102,1170,engine,0,55
+1985,W,1985_TranSouth_500,37,29,17,usa,Ken_Ragan,Ken Ragan,Hesco Exhaust Systems,Roger_Hamby,Chevrolet,99,2645,engine,0,52
+1985,W,1985_TranSouth_500,38,40,96,usa,Eldon_Dotson,Eldon Dotson,Stoner Racing,James_Stoner,Chevrolet,94,1130,flagged,0,49
+1985,W,1985_TranSouth_500,39,30,70,usa,J_D_McDuffie,J.D. McDuffie,Rumple Furniture,J.D._McDuffie,Pontiac,19,2615,engine,0,46
+1985,W,1985_TranSouth_500,40,39,53,usa,Jeff_Hooker,Jeff Hooker,Smith's Auto Service,Jeff_Hooker,Oldsmobile,11,1100,engine,0,
+1985,W,1985_Northwestern_Bank_400,1,5,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,400,30025,running,214,185
+1985,W,1985_Northwestern_Bank_400,2,1,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,400,27500,running,54,175
+1985,W,1985_Northwestern_Bank_400,3,3,22,usa,Bobby_Allison,Bobby Allison,Miller American,Di_Gard,Buick,400,12965,running,124,170
+1985,W,1985_Northwestern_Bank_400,4,13,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,400,9870,running,0,160
+1985,W,1985_Northwestern_Bank_400,5,9,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,400,11955,running,3,160
+1985,W,1985_Northwestern_Bank_400,6,10,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,399,9935,running,0,150
+1985,W,1985_Northwestern_Bank_400,7,2,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,399,10735,running,0,146
+1985,W,1985_Northwestern_Bank_400,8,8,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,398,8340,running,1,147
+1985,W,1985_Northwestern_Bank_400,9,14,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,398,5165,running,0,138
+1985,W,1985_Northwestern_Bank_400,10,15,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,397,9535,running,0,134
+1985,W,1985_Northwestern_Bank_400,11,18,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,397,4635,running,0,130
+1985,W,1985_Northwestern_Bank_400,12,4,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,396,4340,running,0,127
+1985,W,1985_Northwestern_Bank_400,13,6,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,395,4030,running,0,124
+1985,W,1985_Northwestern_Bank_400,14,21,90,usa,Ken_Schrader,Ken Schrader,Ultra Seal,Junie_Donlavey,Ford,394,4380,running,4,126
+1985,W,1985_Northwestern_Bank_400,15,16,17,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Roger_Hamby,Chevrolet,394,4050,running,0,118
+1985,W,1985_Northwestern_Bank_400,16,17,71,usa,Dave_Marcis,Dave Marcis,Transmissions Unlimited,Dave_Marcis,Oldsmobile,394,3540,running,0,115
+1985,W,1985_Northwestern_Bank_400,17,23,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Pontiac,393,3405,running,0,112
+1985,W,1985_Northwestern_Bank_400,18,20,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King Ford & Honda,Elmo_Langley,Ford,392,3270,running,0,109
+1985,W,1985_Northwestern_Bank_400,19,19,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Stavola_Brothers,Chevrolet,390,1105,running,0,106
+1985,W,1985_Northwestern_Bank_400,20,24,67,usa,Buddy_Arrington,Buddy Arrington,Vinton Motors,Buddy_Arrington,Ford,390,3210,running,0,103
+1985,W,1985_Northwestern_Bank_400,21,11,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,389,6235,running,0,100
+1985,W,1985_Northwestern_Bank_400,22,7,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,386,3725,running,0,97
+1985,W,1985_Northwestern_Bank_400,23,26,49,usa,Don_Hume,Don Hume,Cleaner Hands Formula,James_Hylton,Chevrolet,386,2665,running,0,94
+1985,W,1985_Northwestern_Bank_400,24,22,70,usa,J_D_McDuffie,J.D. McDuffie,Rumple Furniture,J.D._McDuffie,Pontiac,382,2605,running,0,91
+1985,W,1985_Northwestern_Bank_400,25,30,23,usa,Dick_May,Dick May,Bahre Racing,Dick_Bahre,Buick,368,985,running,0,
+1985,W,1985_Northwestern_Bank_400,26,29,00,usa,Ed_Sanger,Ed Sanger,Helen Rae Special,Helen_Rae_Smith,Chevrolet,358,910,running,0,85
+1985,W,1985_Northwestern_Bank_400,27,27,25,usa,Bobby_Gerhart,Bobby Gerhart,Frederick,Bobby_Gerhart_Billy_Gerhart,Chevrolet,338,860,engine,0,82
+1985,W,1985_Northwestern_Bank_400,28,28,72,usa,Brent_Elliott,Brent Elliott,Elliott Auto Parts,Kermit_Elliott,Buick,294,860,handling,0,79
+1985,W,1985_Northwestern_Bank_400,29,25,6,usa,Eddie_Bierschwale,Eddie Bierschwale,U.S. Racing,D.K._Ulrich,Chevrolet,59,2470,brakes,0,76
+1985,W,1985_Northwestern_Bank_400,30,12,88,usa,Buddy_Baker,Buddy Baker,Liquid Wrench,Buddy_Baker_Danny_Schiff,Oldsmobile,54,1810,brakes,0,73
+1985,W,1985_Sovran_Bank_500,1,13,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,500,38525,running,193,185
+1985,W,1985_Sovran_Bank_500,2,7,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,500,22450,running,1,175
+1985,W,1985_Sovran_Bank_500,3,2,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,500,19825,running,67,170
+1985,W,1985_Sovran_Bank_500,4,16,22,usa,Bobby_Allison,Bobby Allison,Miller American,Di_Gard,Buick,500,12050,running,160,165
+1985,W,1985_Sovran_Bank_500,5,5,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,500,10550,running,0,155
+1985,W,1985_Sovran_Bank_500,6,15,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,498,11900,running,1,155
+1985,W,1985_Sovran_Bank_500,7,20,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,498,8400,running,0,146
+1985,W,1985_Sovran_Bank_500,8,10,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,497,5630,running,0,142
+1985,W,1985_Sovran_Bank_500,9,21,17,usa,Phil_Parsons,Phil Parsons,Skoal,Roger_Hamby,Chevrolet,496,5480,running,0,138
+1985,W,1985_Sovran_Bank_500,10,14,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,496,6680,running,0,134
+1985,W,1985_Sovran_Bank_500,11,6,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,495,4720,running,0,130
+1985,W,1985_Sovran_Bank_500,12,17,88,usa,Buddy_Baker,Buddy Baker,Bull Frog Knits / Liquid Wrench,Buddy_Baker_Danny_Schiff,Oldsmobile,495,4500,running,0,127
+1985,W,1985_Sovran_Bank_500,13,8,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,493,8820,running,0,124
+1985,W,1985_Sovran_Bank_500,14,19,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Pontiac,492,4190,running,0,121
+1985,W,1985_Sovran_Bank_500,15,23,67,usa,Buddy_Arrington,Buddy Arrington,Buddy's Used Cars,Buddy_Arrington,Ford,492,4380,running,0,118
+1985,W,1985_Sovran_Bank_500,16,22,90,usa,Ken_Schrader,Ken Schrader,Ultra Seal,Junie_Donlavey,Ford,492,4845,running,0,115
+1985,W,1985_Sovran_Bank_500,17,26,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King,Elmo_Langley,Ford,487,3720,running,0,112
+1985,W,1985_Sovran_Bank_500,18,25,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Stavola_Brothers,Chevrolet,486,1555,running,0,109
+1985,W,1985_Sovran_Bank_500,19,30,49,usa,Don_Hume,Don Hume,Cleaner Hands Formula,James_Hylton,Chevrolet,479,3505,running,0,106
+1985,W,1985_Sovran_Bank_500,20,27,6,usa,Eddie_Bierschwale,Eddie Bierschwale,U.S. Racing,D.K._Ulrich,Chevrolet,475,3340,running,0,103
+1985,W,1985_Sovran_Bank_500,21,12,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,455,3495,running,0,100
+1985,W,1985_Sovran_Bank_500,22,29,72,usa,Brent_Elliott,Brent Elliott,Elliott Racing,Kermit_Elliott,Buick,448,1205,running,0,97
+1985,W,1985_Sovran_Bank_500,23,1,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,423,11595,engine,77,99
+1985,W,1985_Sovran_Bank_500,24,28,70,usa,J_D_McDuffie,J.D. McDuffie,Rumple Furniture,J.D._McDuffie,Pontiac,393,2855,rear end,0,91
+1985,W,1985_Sovran_Bank_500,25,4,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,345,8975,engine,1,93
+1985,W,1985_Sovran_Bank_500,26,24,71,usa,Dave_Marcis,Dave Marcis,AEL Rentals,Dave_Marcis,Oldsmobile,320,2825,engine,0,85
+1985,W,1985_Sovran_Bank_500,27,3,16,usa,Morgan_Shepherd,Morgan Shepherd,Carolina Tool,Bobby_Hawkins,Chevrolet,139,2155,crash,0,82
+1985,W,1985_Sovran_Bank_500,28,9,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,108,2145,crash,0,79
+1985,W,1985_Sovran_Bank_500,29,11,84,usa,Mike_Alexander,Mike Alexander,Sims Brothers Racing,Sims_Brothers,Chevrolet,69,1635,rear end,0,76
+1985,W,1985_Sovran_Bank_500,30,18,41,usa,Ronnie_Thomas,Ronnie Thomas,Thomas Racing,Ronnie_Thomas,Chevrolet,1,1125,engine,0,73
+1985,W,1985_Winston_500,1,1,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,188,60500,running,60,180
+1985,W,1985_Winston_500,2,4,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,188,34905,running,9,175
+1985,W,1985_Winston_500,3,2,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Ford,188,37750,running,97,175
+1985,W,1985_Winston_500,4,17,22,usa,Bobby_Allison,Bobby Allison,Miller American,Di_Gard,Buick,187,23075,running,3,165
+1985,W,1985_Winston_500,5,15,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,187,21025,running,0,155
+1985,W,1985_Winston_500,6,32,88,usa,Buddy_Baker,Buddy Baker,Bull Frog Knits,Buddy_Baker_Danny_Schiff,Oldsmobile,185,20245,running,0,150
+1985,W,1985_Winston_500,7,3,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,185,20100,running,2,151
+1985,W,1985_Winston_500,8,18,71,usa,Dave_Marcis,Dave Marcis,AEL Rentals,Dave_Marcis,Chevrolet,185,12575,running,0,142
+1985,W,1985_Winston_500,9,7,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Stavola_Brothers,Chevrolet,184,7800,running,0,138
+1985,W,1985_Winston_500,10,20,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,183,11215,running,0,134
+1985,W,1985_Winston_500,11,14,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,182,14290,running,0,130
+1985,W,1985_Winston_500,12,24,52,usa,Jimmy_Means,Jimmy Means,Broadway Auto Parts,Jimmy_Means,Chevrolet,181,9195,running,0,127
+1985,W,1985_Winston_500,13,22,38,usa,Morgan_Shepherd,Morgan Shepherd,Shepherd Racing,Morgan_Shepherd,Chevrolet,180,5340,running,0,124
+1985,W,1985_Winston_500,14,28,67,usa,Buddy_Arrington,Buddy Arrington,Vinton Motors,Buddy_Arrington,Ford,175,8275,running,0,121
+1985,W,1985_Winston_500,15,38,70,usa,J_D_McDuffie,J.D. McDuffie,Rumple Furniture,J.D._McDuffie,Pontiac,174,8265,running,0,118
+1985,W,1985_Winston_500,16,27,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,171,7255,running,0,115
+1985,W,1985_Winston_500,17,37,17,usa,Bosco_Lowe,Bosco Lowe,Hesco Exhaust Systems,Roger_Hamby,Chevrolet,171,6825,running,0,
+1985,W,1985_Winston_500,18,39,79,usa,Dick_Skillen,Dick Skillen,Truss Builders,Tom_Goff,Chevrolet,167,3920,running,0,109
+1985,W,1985_Winston_500,19,31,6,usa,Eddie_Bierschwale,Eddie Bierschwale,U.S. Racing,D.K._Ulrich,Chevrolet,161,6765,engine,0,106
+1985,W,1985_Winston_500,20,21,90,usa,Ken_Schrader,Ken Schrader,Ultra Seal,Junie_Donlavey,Ford,159,6645,running,0,103
+1985,W,1985_Winston_500,21,13,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,155,11410,engine,12,105
+1985,W,1985_Winston_500,22,26,99,usa,Connie_Saylor,Connie Saylor,Ball Racing,Ralph_Ball,Chevrolet,155,3210,ignition,0,97
+1985,W,1985_Winston_500,23,29,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King,Elmo_Langley,Ford,150,5335,ignition,0,94
+1985,W,1985_Winston_500,24,5,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,137,11745,piston,1,96
+1985,W,1985_Winston_500,25,10,95,usa,Sterling_Marlin,Sterling Marlin,Sadler Racing,Sadler_Brothers,Chevrolet,113,2970,engine,0,88
+1985,W,1985_Winston_500,26,12,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,106,9420,water leak,1,90
+1985,W,1985_Winston_500,27,9,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,94,9370,valve,1,87
+1985,W,1985_Winston_500,28,19,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,85,4975,suspension,0,79
+1985,W,1985_Winston_500,29,16,55,usa,Benny_Parsons,Benny Parsons,Copenhagen,Leo_Jackson_Richard_Jackson,Chevrolet,74,2770,driveshaft,2,81
+1985,W,1985_Winston_500,30,6,4,usa,Joe_Ruttman,Joe Ruttman,Folger's Coffee,Larry_McClure,Chevrolet,70,2620,transmission,0,73
+1985,W,1985_Winston_500,31,23,84,usa,Mike_Alexander,Mike Alexander,Sims Brothers Racing,Sims_Brothers,Chevrolet,70,2525,engine,0,70
+1985,W,1985_Winston_500,32,34,74,usa,Bobby_Wawak,Bobby Wawak,Superior Piping,Bobby_Wawak,Chevrolet,61,2500,wheel,0,67
+1985,W,1985_Winston_500,33,36,49,usa,Don_Hume,Don Hume,Cleaner Hands Formula,James_Hylton,Chevrolet,35,4710,vibration,0,64
+1985,W,1985_Winston_500,34,11,66,usa,Phil_Parsons,Phil Parsons,Skoal,Leo_Jackson_Richard_Jackson,Chevrolet,33,2450,wheel bearing,0,61
+1985,W,1985_Winston_500,35,33,00,usa,Phil_Barkdoll,Phil Barkdoll,Helen Rae Special,Helen_Rae_Smith,Chevrolet,33,2425,engine,0,58
+1985,W,1985_Winston_500,36,8,21,usa,David_Pearson,David Pearson,Chattanooga Chew,Hoss_Ellington,Chevrolet,26,2400,carburetor,0,55
+1985,W,1985_Winston_500,37,35,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,7,4875,engine,0,52
+1985,W,1985_Winston_500,38,25,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,7,10850,engine,0,49
+1985,W,1985_Winston_500,39,30,98,canada,Trevor_Boys,Trevor Boys,McCaig Racing,Ron_Benfield,Chevrolet,6,2325,engine,0,46
+1985,W,1985_Budweiser_500,1,4,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,500,44500,running,336,185
+1985,W,1985_Budweiser_500,2,2,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,499,29950,running,0,170
+1985,W,1985_Budweiser_500,3,12,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,499,19055,running,0,165
+1985,W,1985_Budweiser_500,4,5,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,498,15375,running,0,160
+1985,W,1985_Budweiser_500,5,16,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,497,15975,running,0,155
+1985,W,1985_Budweiser_500,6,8,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,497,9820,running,0,150
+1985,W,1985_Budweiser_500,7,7,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,494,11600,running,0,146
+1985,W,1985_Budweiser_500,8,3,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,494,11200,running,20,147
+1985,W,1985_Budweiser_500,9,19,71,usa,Dave_Marcis,Dave Marcis,AEL Rentals,Dave_Marcis,Oldsmobile,488,7775,running,0,138
+1985,W,1985_Budweiser_500,10,18,90,usa,Ken_Schrader,Ken Schrader,Ultra Seal,Junie_Donlavey,Ford,487,8615,running,0,134
+1985,W,1985_Budweiser_500,11,6,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,485,11700,running,142,135
+1985,W,1985_Budweiser_500,12,31,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Stavola_Brothers,Chevrolet,477,3100,running,0,127
+1985,W,1985_Budweiser_500,13,11,22,usa,Bobby_Allison,Bobby Allison,Miller American,Di_Gard,Buick,476,8850,running,0,124
+1985,W,1985_Budweiser_500,14,29,60,usa,Bob_Riley,Bob Riley,Riley Racing,Bob_Riley,Pontiac,449,2100,running,0,
+1985,W,1985_Budweiser_500,15,28,85,usa,Tommie_Crozier,Tommie Crozier,Leonard Racing,Bill_Leonard,Pontiac,442,2500,running,0,118
+1985,W,1985_Budweiser_500,16,1,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,437,14050,engine,2,120
+1985,W,1985_Budweiser_500,17,27,76,usa,Phil_Good,Phil Good,Good Racing,Phil_Good,Chrysler,434,1850,running,0,112
+1985,W,1985_Budweiser_500,18,10,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,431,6255,running,0,109
+1985,W,1985_Budweiser_500,19,23,96,usa,Jerry_Bowman,Jerry Bowman,Milford Fertilizer,Jerry_Bowman,Ford,393,1750,running,0,106
+1985,W,1985_Budweiser_500,20,13,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,346,5285,engine,0,103
+1985,W,1985_Budweiser_500,21,25,20,usa,Rick_Newsom,Rick Newsom,Newsom Racing,Rick_Newsom,Chevrolet,330,1650,engine,0,100
+1985,W,1985_Budweiser_500,22,14,88,usa,Buddy_Baker,Buddy Baker,Bull Frog Knits,Buddy_Baker_Danny_Schiff,Oldsmobile,282,4775,oil pump,0,97
+1985,W,1985_Budweiser_500,23,21,67,usa,Buddy_Arrington,Buddy Arrington,West Penn Auto Sales,Buddy_Arrington,Ford,231,4965,flywheel,0,94
+1985,W,1985_Budweiser_500,24,15,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,227,4205,fan blade,0,91
+1985,W,1985_Budweiser_500,25,9,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,219,9050,engine,0,88
+1985,W,1985_Budweiser_500,26,22,49,usa,James_Hylton,James Hylton,Cleaner Hands Formula,James_Hylton,Chevrolet,201,3945,ignition,0,
+1985,W,1985_Budweiser_500,27,30,68,usa,Jimmy_Walker,Jimmy Walker,Walker Enterprises,Jimmy_Walker,Ford,180,1350,valve,0,82
+1985,W,1985_Budweiser_500,28,17,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King Ford & Honda,Elmo_Langley,Ford,158,2575,engine,0,79
+1985,W,1985_Budweiser_500,29,32,17,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Roger_Hamby,Chevrolet,150,3515,engine,0,76
+1985,W,1985_Budweiser_500,30,20,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Pontiac,115,3455,valve,0,73
+1985,W,1985_Budweiser_500,31,26,70,usa,J_D_McDuffie,J.D. McDuffie,Lockhart Ford-Mercury,J.D._McDuffie,Ford,115,3385,valve,0,70
+1985,W,1985_Budweiser_500,32,24,6,usa,Eddie_Bierschwale,Eddie Bierschwale,U.S. Racing,D.K._Ulrich,Chevrolet,73,2600,engine,0,67
+1985,W,1985_Coca-Cola_World_600,1,4,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,400,90733,running,91,180
+1985,W,1985_Coca-Cola_World_600,2,2,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,400,49300,running,82,175
+1985,W,1985_Coca-Cola_World_600,3,16,22,usa,Bobby_Allison,Bobby Allison,Miller American,Di_Gard,Buick,400,30900,running,15,170
+1985,W,1985_Coca-Cola_World_600,4,5,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,399,49238,running,97,170
+1985,W,1985_Coca-Cola_World_600,5,18,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,398,24000,running,0,155
+1985,W,1985_Coca-Cola_World_600,6,25,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,397,16055,running,0,150
+1985,W,1985_Coca-Cola_World_600,7,28,4,usa,Joe_Ruttman,Joe Ruttman,Folger's,Larry_McClure,Chevrolet,396,10600,running,0,146
+1985,W,1985_Coca-Cola_World_600,8,15,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,396,14695,running,0,142
+1985,W,1985_Coca-Cola_World_600,9,6,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,394,12575,running,1,143
+1985,W,1985_Coca-Cola_World_600,10,31,1,usa,Dick_Brooks,Dick Brooks,Exxon,Rick_Hendrick,Chevrolet,393,9000,running,0,
+1985,W,1985_Coca-Cola_World_600,11,22,71,usa,Dave_Marcis,Dave Marcis,Transmissions Unlimited,Dave_Marcis,Oldsmobile,392,10940,running,0,130
+1985,W,1985_Coca-Cola_World_600,12,41,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",All Pro Auto Parts,Stavola_Brothers,Chevrolet,392,8970,running,0,127
+1985,W,1985_Coca-Cola_World_600,13,17,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,391,13255,running,0,124
+1985,W,1985_Coca-Cola_World_600,14,11,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,391,9830,running,0,121
+1985,W,1985_Coca-Cola_World_600,15,13,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,388,13085,running,0,118
+1985,W,1985_Coca-Cola_World_600,16,3,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,384,16450,running,32,120
+1985,W,1985_Coca-Cola_World_600,17,32,05,usa,Slick_Johnson,Slick Johnson,Spohn Racing,Ron_Spohn,Ford,383,5100,running,0,112
+1985,W,1985_Coca-Cola_World_600,18,1,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,379,46783,running,81,114
+1985,W,1985_Coca-Cola_World_600,19,42,6,usa,Eddie_Bierschwale,Eddie Bierschwale,U.S. Racing,D.K._Ulrich,Chevrolet,379,7975,running,0,106
+1985,W,1985_Coca-Cola_World_600,20,27,18,usa,Tommy_Ellis,Tommy Ellis,Eric Freedlander,Eric_Freedlander,Chevrolet,375,4650,transmission,0,103
+1985,W,1985_Coca-Cola_World_600,21,40,82,usa,Mark_Stahl,Mark Stahl,Auto Bell Car Wash,Mark_Stahl,Ford,375,3800,running,0,100
+1985,W,1985_Coca-Cola_World_600,22,34,67,usa,Buddy_Arrington,Buddy Arrington,Vinton Motors,Buddy_Arrington,Ford,367,6465,rear end,0,97
+1985,W,1985_Coca-Cola_World_600,23,35,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King Ford & Honda,Elmo_Langley,Ford,362,6005,running,0,94
+1985,W,1985_Coca-Cola_World_600,24,30,84,usa,Mike_Alexander,Mike Alexander,Sims Brothers Construction,Sims_Brothers,Chevrolet,353,3050,running,0,91
+1985,W,1985_Coca-Cola_World_600,25,10,00,usa,Morgan_Shepherd,Morgan Shepherd,Helen Rae Special,Helen_Rae_Smith,Chevrolet,341,3100,oil leak,0,88
+1985,W,1985_Coca-Cola_World_600,26,29,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,310,9050,engine,0,85
+1985,W,1985_Coca-Cola_World_600,27,8,21,usa,David_Pearson,David Pearson,Chattanooga Chew,Hoss_Ellington,Chevrolet,286,2500,ignition,0,82
+1985,W,1985_Coca-Cola_World_600,28,24,23,usa,Michael_Waltrip,Michael Waltrip,Mell-Gear,Dick_Bahre,Chevrolet,278,2050,transmission,0,
+1985,W,1985_Coca-Cola_World_600,29,23,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,270,4495,engine,0,76
+1985,W,1985_Coca-Cola_World_600,30,36,17,usa,Lennie_Pond,Lennie Pond,McCord Gaskets,Roger_Hamby,Chevrolet,261,4125,engine,1,78
+1985,W,1985_Coca-Cola_World_600,31,39,89,usa,Jim_Sauter,Jim Sauter,Evinrude,Mueller_Brothers,Pontiac,208,1750,rear end,0,70
+1985,W,1985_Coca-Cola_World_600,32,37,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Pontiac,148,3965,oil pressure,0,67
+1985,W,1985_Coca-Cola_World_600,33,21,66,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Leo_Jackson_Richard_Jackson,Chevrolet,129,1650,engine,0,64
+1985,W,1985_Coca-Cola_World_600,34,20,95,usa,Sterling_Marlin,Sterling Marlin,Native Tan,Sadler_Brothers,Chevrolet,129,1600,steering,0,61
+1985,W,1985_Coca-Cola_World_600,35,19,49,usa,Greg_Sacks,Greg Sacks,Cleaner Hands Formula,James_Hylton,Chevrolet,125,3805,engine,0,
+1985,W,1985_Coca-Cola_World_600,36,33,09,usa,Dick_Trickle,Dick Trickle,Matthews Racing,Billy_Matthews,Chevrolet,115,1550,oil leak,0,
+1985,W,1985_Coca-Cola_World_600,37,26,88,usa,Buddy_Baker,Buddy Baker,Bull Frog Knits / Liquid Wrench,Buddy_Baker_Danny_Schiff,Oldsmobile,59,3685,oil leak,0,52
+1985,W,1985_Coca-Cola_World_600,38,12,90,usa,Ken_Schrader,Ken Schrader,Ultra Seal,Junie_Donlavey,Ford,29,3125,engine,0,49
+1985,W,1985_Coca-Cola_World_600,39,38,70,usa,J_D_McDuffie,J.D. McDuffie,Rumple Furniture,J.D._McDuffie,Pontiac,21,2900,ignition,0,46
+1985,W,1985_Coca-Cola_World_600,40,7,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Ford,19,1575,engine,0,43
+1985,W,1985_Coca-Cola_World_600,41,14,98,canada,Trevor_Boys,Trevor Boys,McCaig Racing,Ron_Benfield,Chevrolet,10,1575,valve,0,40
+1985,W,1985_Coca-Cola_World_600,42,9,55,usa,Benny_Parsons,Benny Parsons,Copenhagen,Leo_Jackson_Richard_Jackson,Chevrolet,8,1575,engine,0,37
+1985,W,1985_Budweiser_400,1,2,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,95,39200,running,41,185
+1985,W,1985_Budweiser_400,2,3,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,95,23450,running,8,175
+1985,W,1985_Budweiser_400,3,17,22,usa,Bobby_Allison,Bobby Allison,Miller American,Di_Gard,Buick,95,15900,running,4,170
+1985,W,1985_Budweiser_400,4,5,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,95,11825,running,0,160
+1985,W,1985_Budweiser_400,5,7,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,95,9330,running,2,160
+1985,W,1985_Budweiser_400,6,12,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,95,11450,running,11,155
+1985,W,1985_Budweiser_400,7,20,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,95,9200,running,1,151
+1985,W,1985_Budweiser_400,8,1,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,95,13575,running,13,147
+1985,W,1985_Budweiser_400,9,4,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,95,6270,running,15,143
+1985,W,1985_Budweiser_400,10,24,90,usa,Ken_Schrader,Ken Schrader,Ultra Seal,Junie_Donlavey,Ford,94,7200,running,0,134
+1985,W,1985_Budweiser_400,11,26,18,usa,Glen_Steurer,Glen Steurer,Stick Only,Glen_Steurer,Chevrolet,93,1975,running,0,130
+1985,W,1985_Budweiser_400,12,11,71,usa,Dave_Marcis,Dave Marcis,Marcis Racing,Dave_Marcis,Oldsmobile,93,5440,running,0,127
+1985,W,1985_Budweiser_400,13,15,78,usa,Jim_Robinson,Jim Robinson,Hammer Security,Lois_Williams,Oldsmobile,92,5205,running,0,124
+1985,W,1985_Budweiser_400,14,32,83,usa,Sumner_McKnight,Sumner McKnight,Aero Wash,Sumner_McKnight,Ford,91,3985,running,0,121
+1985,W,1985_Budweiser_400,15,22,07,usa,Derrike_Cope,Derrike Cope,7-Eleven,George_Jefferson,Ford,90,4200,running,0,118
+1985,W,1985_Budweiser_400,16,35,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King Ford & Honda,Elmo_Langley,Ford,90,4440,running,0,115
+1985,W,1985_Budweiser_400,17,19,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Stavola_Brothers,Chevrolet,90,2680,running,0,112
+1985,W,1985_Budweiser_400,18,39,6,usa,Eddie_Bierschwale,Eddie Bierschwale,San Antonio Raceway,D.K._Ulrich,Chevrolet,90,3970,running,0,109
+1985,W,1985_Budweiser_400,19,42,94,usa,John_Soares_Jr,"John Soares, Jr.",R.P.M. / Red Garter,John_Soares_Jr.,Pontiac,87,1875,running,0,106
+1985,W,1985_Budweiser_400,20,37,03,usa,Glenn_Francis,Glenn Francis,Full Moon Machine Shop,Trent_Francis,Pontiac,84,1665,running,0,103
+1985,W,1985_Budweiser_400,21,33,16,usa,Bill_Osborne_(2),Bill Osborne,Hackmankars,Bill_Osborne,Buick,83,1265,running,0,100
+1985,W,1985_Budweiser_400,22,9,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,81,9315,running,0,97
+1985,W,1985_Budweiser_400,23,18,32,usa,Ruben_Garcia,Ruben Garcia,Suncrest Motorhomes,Fred_Stoke,Chevrolet,79,2440,running,0,94
+1985,W,1985_Budweiser_400,24,21,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,77,4880,running,0,91
+1985,W,1985_Budweiser_400,25,10,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,77,3420,running,0,88
+1985,W,1985_Budweiser_400,26,41,91,usa,John_Krebs,John Krebs,KC Racing,John_Krebs,Oldsmobile,73,2250,running,0,85
+1985,W,1985_Budweiser_400,27,8,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,72,7475,ignition,0,82
+1985,W,1985_Budweiser_400,28,16,98,usa,Jim_Bown,Jim Bown,Wholesale Truck Parts,Johnny_Kieper,Buick,68,1440,suspension,0,79
+1985,W,1985_Budweiser_400,29,14,04,usa,Hershel_McGriff,Hershel McGriff,Mark C. Bloome,Gary_Smith,Pontiac,64,1410,crash,0,76
+1985,W,1985_Budweiser_400,30,34,63,usa,Dale_Perry,Dale Perry,Petris Racing,Terry_Petris,Buick,57,880,head gasket,0,73
+1985,W,1985_Budweiser_400,31,29,67,usa,Buddy_Arrington,Buddy Arrington,Arrington Racing,Buddy_Arrington,Chrysler,50,2350,oil leak,0,70
+1985,W,1985_Budweiser_400,32,6,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,49,2315,valve,0,67
+1985,W,1985_Budweiser_400,33,38,17,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Roger_Hamby,Chevrolet,42,2290,engine,0,64
+1985,W,1985_Budweiser_400,34,25,73,usa,Bill_Schmitt,Bill Schmitt,California Cooler,Bill_Schmitt,Chevrolet,40,1265,engine,0,61
+1985,W,1985_Budweiser_400,35,30,88,usa,Buddy_Baker,Buddy Baker,Bull Frog Knits,Buddy_Baker_Danny_Schiff,Oldsmobile,33,1245,suspension,0,58
+1985,W,1985_Budweiser_400,36,31,49,usa,Greg_Sacks,Greg Sacks,Cleaner Hands Formula,James_Hylton,Chevrolet,28,1245,engine,0,
+1985,W,1985_Budweiser_400,37,27,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Chevrolet,27,1245,crash,0,52
+1985,W,1985_Budweiser_400,38,36,99,usa,Blair_Aiken,Blair Aiken,Stoke Racing,Fred_Stoke,Chevrolet,24,745,engine,0,49
+1985,W,1985_Budweiser_400,39,40,93,usa,Norm_Palmer,Norm Palmer,Palmer Homes,Norm_Palmer,Dodge,22,745,oil leak,0,46
+1985,W,1985_Budweiser_400,40,13,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,19,8240,engine,0,43
+1985,W,1985_Budweiser_400,41,23,45,usa,Rick_McCray,Rick McCray,JPW Racing,Rick_McCray,Chevrolet,10,740,valve,0,
+1985,W,1985_Budweiser_400,42,28,70,usa,J_D_McDuffie,J.D. McDuffie,Rumple Furniture,J.D._McDuffie,Pontiac,3,2240,valve,0,37
+1985,W,1985_Van_Scoy_Diamond_Mine_500,1,1,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,200,44525,running,32,180
+1985,W,1985_Van_Scoy_Diamond_Mine_500,2,2,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,200,27675,running,5,175
+1985,W,1985_Van_Scoy_Diamond_Mine_500,3,3,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,200,23100,running,9,170
+1985,W,1985_Van_Scoy_Diamond_Mine_500,4,5,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,200,28325,running,154,170
+1985,W,1985_Van_Scoy_Diamond_Mine_500,5,8,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,199,15525,running,0,155
+1985,W,1985_Van_Scoy_Diamond_Mine_500,6,7,55,usa,Benny_Parsons,Benny Parsons,Copenhagen,Leo_Jackson_Richard_Jackson,Chevrolet,199,6750,running,0,150
+1985,W,1985_Van_Scoy_Diamond_Mine_500,7,9,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,198,12130,running,0,146
+1985,W,1985_Van_Scoy_Diamond_Mine_500,8,19,88,usa,Buddy_Baker,Buddy Baker,Bull Frog Knits,Buddy_Baker_Danny_Schiff,Oldsmobile,198,9215,running,0,142
+1985,W,1985_Van_Scoy_Diamond_Mine_500,9,11,22,usa,Bobby_Allison,Bobby Allison,Miller American,Di_Gard,Buick,198,11140,running,0,138
+1985,W,1985_Van_Scoy_Diamond_Mine_500,10,14,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,198,9115,running,0,134
+1985,W,1985_Van_Scoy_Diamond_Mine_500,11,10,66,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Leo_Jackson_Richard_Jackson,Chevrolet,197,3950,running,0,130
+1985,W,1985_Van_Scoy_Diamond_Mine_500,12,20,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,197,7405,running,0,127
+1985,W,1985_Van_Scoy_Diamond_Mine_500,13,21,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,197,9575,engine,0,124
+1985,W,1985_Van_Scoy_Diamond_Mine_500,14,23,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,196,7470,running,0,121
+1985,W,1985_Van_Scoy_Diamond_Mine_500,15,22,90,usa,Ken_Schrader,Ken Schrader,Ultra Seal,Junie_Donlavey,Ford,195,7680,running,0,118
+1985,W,1985_Van_Scoy_Diamond_Mine_500,16,24,49,usa,Greg_Sacks,Greg Sacks,Cleaner Hands Formula,James_Hylton,Chevrolet,195,6300,running,0,115
+1985,W,1985_Van_Scoy_Diamond_Mine_500,17,25,17,usa,Lennie_Pond,Lennie Pond,McCord Gaskets,Roger_Hamby,Chevrolet,195,5835,running,0,112
+1985,W,1985_Van_Scoy_Diamond_Mine_500,18,15,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Spirit of Wyoming Valley,Stavola_Brothers,Chevrolet,193,3920,running,0,109
+1985,W,1985_Van_Scoy_Diamond_Mine_500,19,27,67,usa,Buddy_Arrington,Buddy Arrington,West Penn Auto Sales,Buddy_Arrington,Ford,192,5100,running,0,106
+1985,W,1985_Van_Scoy_Diamond_Mine_500,20,26,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King Ford & Honda,Elmo_Langley,Ford,192,4075,running,0,103
+1985,W,1985_Van_Scoy_Diamond_Mine_500,21,34,68,usa,Mike_Potter,Mike Potter,Walker Enterprises,Jimmy_Walker,Ford,188,2345,running,0,
+1985,W,1985_Van_Scoy_Diamond_Mine_500,22,30,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Pontiac,183,4505,running,0,97
+1985,W,1985_Van_Scoy_Diamond_Mine_500,23,33,74,usa,Bobby_Wawak,Bobby Wawak,Superior Piping,Bobby_Wawak,Chevrolet,181,2135,crash,0,94
+1985,W,1985_Van_Scoy_Diamond_Mine_500,24,13,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Ford,176,2080,valve,0,91
+1985,W,1985_Van_Scoy_Diamond_Mine_500,25,38,70,usa,J_D_McDuffie,J.D. McDuffie,Rumple Furniture,J.D._McDuffie,Pontiac,174,4380,running,0,88
+1985,W,1985_Van_Scoy_Diamond_Mine_500,26,37,31,usa,Steve_Gray,Steve Gray,Gray Racing,Henley_Gray,Chevrolet,151,1970,engine,0,
+1985,W,1985_Van_Scoy_Diamond_Mine_500,27,17,71,usa,Dave_Marcis,Dave Marcis,AEL Rentals,Dave_Marcis,Oldsmobile,148,4650,ball joint,0,82
+1985,W,1985_Van_Scoy_Diamond_Mine_500,28,6,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,109,11510,engine,0,79
+1985,W,1985_Van_Scoy_Diamond_Mine_500,29,12,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,105,3305,camshaft,0,76
+1985,W,1985_Van_Scoy_Diamond_Mine_500,30,39,76,usa,Phil_Good,Phil Good,Good Racing,Phil_Good,Chrysler,105,1750,oil leak,0,73
+1985,W,1985_Van_Scoy_Diamond_Mine_500,31,28,25,usa,Bobby_Gerhart,Bobby Gerhart,Frederick,Bobby_Gerhart_Billy_Gerhart,Chevrolet,86,1695,rear end,0,70
+1985,W,1985_Van_Scoy_Diamond_Mine_500,32,36,53,usa,Bill_Scott_(3),Bill Scott,Smith's Auto Service,Wayne_Smith_(2),Chevrolet,71,1615,rear end,0,
+1985,W,1985_Van_Scoy_Diamond_Mine_500,33,16,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,67,8060,valve,0,64
+1985,W,1985_Van_Scoy_Diamond_Mine_500,34,29,6,usa,Eddie_Bierschwale,Eddie Bierschwale,U.S. Racing,D.K._Ulrich,Chevrolet,47,3005,oil pump,0,61
+1985,W,1985_Van_Scoy_Diamond_Mine_500,35,18,4,usa,Joe_Ruttman,Joe Ruttman,Folger's,Larry_McClure,Chevrolet,27,1450,crank,0,58
+1985,W,1985_Van_Scoy_Diamond_Mine_500,36,32,1,usa,Charles_Poalillo,Charles Poalillo,Gray Racing,Henley_Gray,Chevrolet,22,1395,crank,0,
+1985,W,1985_Van_Scoy_Diamond_Mine_500,37,31,96,usa,Jerry_Bowman,Jerry Bowman,Milford Fertilizer,Jerry_Bowman,Ford,11,1375,engine,0,52
+1985,W,1985_Van_Scoy_Diamond_Mine_500,38,35,20,usa,Rick_Newsom,Rick Newsom,Selcam Enterprises,Rick_Newsom,Buick,10,1345,oil pump,0,49
+1985,W,1985_Van_Scoy_Diamond_Mine_500,39,4,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,3,8700,engine,0,46
+1985,W,1985_Van_Scoy_Diamond_Mine_500,40,40,41,usa,Ronnie_Thomas,Ronnie Thomas,92 WXTU,Ronnie_Thomas,Chevrolet,1,1175,engine,0,43
+1985,W,1985_Miller_400,1,1,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,200,48600,running,66,180
+1985,W,1985_Miller_400,2,4,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,200,32100,running,76,180
+1985,W,1985_Miller_400,3,27,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Ford,200,16900,running,0,165
+1985,W,1985_Miller_400,4,11,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,200,15630,running,11,165
+1985,W,1985_Miller_400,5,14,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,200,17925,running,19,160
+1985,W,1985_Miller_400,6,7,22,usa,Bobby_Allison,Bobby Allison,Miller American,Di_Gard,Buick,200,14850,running,0,150
+1985,W,1985_Miller_400,7,5,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,199,13900,running,0,146
+1985,W,1985_Miller_400,8,8,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,199,13150,running,2,147
+1985,W,1985_Miller_400,9,18,71,usa,Dave_Marcis,Dave Marcis,Transmissions Unlimited,Dave_Marcis,Chevrolet,199,10045,running,2,143
+1985,W,1985_Miller_400,10,28,55,usa,Benny_Parsons,Benny Parsons,Copenhagen,Leo_Jackson_Richard_Jackson,Chevrolet,198,6350,running,0,134
+1985,W,1985_Miller_400,11,3,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,198,13150,running,1,135
+1985,W,1985_Miller_400,12,9,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,198,8375,running,0,127
+1985,W,1985_Miller_400,13,22,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,198,7915,running,0,124
+1985,W,1985_Miller_400,14,10,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,198,7455,running,0,121
+1985,W,1985_Miller_400,15,19,88,usa,Buddy_Baker,Buddy Baker,Liquid Wrench,Buddy_Baker_Danny_Schiff,Oldsmobile,198,7535,running,0,118
+1985,W,1985_Miller_400,16,6,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,197,12410,running,20,120
+1985,W,1985_Miller_400,17,32,21,usa,David_Pearson,David Pearson,Chattanooga Chew,Hoss_Ellington,Chevrolet,197,3200,running,0,112
+1985,W,1985_Miller_400,18,23,17,usa,Lennie_Pond,Lennie Pond,McCord Gaskets,Roger_Hamby,Chevrolet,197,6165,running,0,109
+1985,W,1985_Miller_400,19,31,66,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Leo_Jackson_Richard_Jackson,Chevrolet,196,2780,running,0,106
+1985,W,1985_Miller_400,20,37,89,usa,Jim_Sauter,Jim Sauter,Evinrude,Mueller_Brothers,Pontiac,196,2870,running,0,103
+1985,W,1985_Miller_400,21,34,18,usa,Tommy_Ellis,Tommy Ellis,Eric Freedlander,Eric_Freedlander,Chevrolet,195,2435,running,0,100
+1985,W,1985_Miller_400,22,2,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,195,11875,running,0,97
+1985,W,1985_Miller_400,23,17,67,usa,Buddy_Arrington,Buddy Arrington,Tom Prange Leasing,Buddy_Arrington,Ford,195,5130,running,0,94
+1985,W,1985_Miller_400,24,24,49,canada,Trevor_Boys,Trevor Boys,Cleaner Hands Formula,James_Hylton,Chevrolet,194,4810,running,0,91
+1985,W,1985_Miller_400,25,20,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King Ford & Honda,Elmo_Langley,Ford,194,4640,running,0,88
+1985,W,1985_Miller_400,26,13,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,194,5635,running,0,85
+1985,W,1985_Miller_400,27,33,74,usa,Bobby_Wawak,Bobby Wawak,Superior Piping,Bobby_Wawak,Buick,190,1850,running,0,82
+1985,W,1985_Miller_400,28,12,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Stavola_Brothers,Chevrolet,190,2555,running,0,79
+1985,W,1985_Miller_400,29,25,6,usa,Eddie_Bierschwale,Eddie Bierschwale,U.S. Racing,D.K._Ulrich,Chevrolet,190,4485,running,0,76
+1985,W,1985_Miller_400,30,16,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,158,8170,engine,3,78
+1985,W,1985_Miller_400,31,26,70,usa,J_D_McDuffie,J.D. McDuffie,Rumple Furniture,J.D._McDuffie,Pontiac,113,3855,oil pressure,0,70
+1985,W,1985_Miller_400,32,29,23,usa,Jim_Hull,Jim Hull,Hull Fan Club,Dick_Bahre,Chevrolet,68,1570,crash,0,67
+1985,W,1985_Miller_400,33,36,85,usa,Tommie_Crozier,Tommie Crozier,Crozier Racing,Bill_Leonard,Pontiac,44,1520,engine,0,64
+1985,W,1985_Miller_400,34,15,90,usa,Ken_Schrader,Ken Schrader,Ultra Seal,Junie_Donlavey,Ford,32,2945,oil pressure,0,61
+1985,W,1985_Miller_400,35,21,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Pontiac,18,2910,engine,0,58
+1985,W,1985_Miller_400,36,35,80,usa,Edward_Cooper,Edward Cooper,Refrigeration Sales,Edward_Cooper,Buick,7,1375,valve,0,55
+1985,W,1985_Miller_400,37,30,93,usa,Maurice_Randall,Maurice Randall,Randall Racing,Maurice_Randall,Chrysler,1,1375,ignition,0,52
+1985,W,1985_Pepsi_Firecracker_400,1,9,10,usa,Greg_Sacks,Greg Sacks,Gardner R&D,Di_Gard,Chevrolet,160,45350,running,33,180
+1985,W,1985_Pepsi_Firecracker_400,2,1,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,160,41900,running,103,180
+1985,W,1985_Pepsi_Firecracker_400,3,19,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,160,26100,running,0,165
+1985,W,1985_Pepsi_Firecracker_400,4,13,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,160,16730,running,0,160
+1985,W,1985_Pepsi_Firecracker_400,5,10,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,160,15570,running,2,160
+1985,W,1985_Pepsi_Firecracker_400,6,32,88,usa,Buddy_Baker,Buddy Baker,Bull Frog Knits,Buddy_Baker_Danny_Schiff,Oldsmobile,160,12475,running,0,150
+1985,W,1985_Pepsi_Firecracker_400,7,3,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,160,14500,running,0,146
+1985,W,1985_Pepsi_Firecracker_400,8,4,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,159,16550,running,2,147
+1985,W,1985_Pepsi_Firecracker_400,9,18,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,159,13400,running,0,138
+1985,W,1985_Pepsi_Firecracker_400,10,12,21,usa,David_Pearson,David Pearson,Chattanooga Chew,Hoss_Ellington,Chevrolet,159,6150,running,0,134
+1985,W,1985_Pepsi_Firecracker_400,11,20,55,usa,Benny_Parsons,Benny Parsons,Copenhagen,Leo_Jackson_Richard_Jackson,Chevrolet,159,5250,running,5,135
+1985,W,1985_Pepsi_Firecracker_400,12,11,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,159,11100,running,7,132
+1985,W,1985_Pepsi_Firecracker_400,13,34,84,usa,Mike_Alexander,Mike Alexander,Sims Brothers Racing,Sims_Brothers,Chevrolet,159,4300,running,0,124
+1985,W,1985_Pepsi_Firecracker_400,14,5,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,159,12250,running,0,121
+1985,W,1985_Pepsi_Firecracker_400,15,25,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Stavola_Brothers,Chevrolet,159,6515,running,0,118
+1985,W,1985_Pepsi_Firecracker_400,16,16,67,usa,Buddy_Arrington,Buddy Arrington,Jim Peacock Leasing,Buddy_Arrington,Ford,158,7155,running,0,115
+1985,W,1985_Pepsi_Firecracker_400,17,17,18,usa,Tommy_Ellis,Tommy Ellis,Eric Freedlander,Eric_Freedlander,Chevrolet,157,3500,running,0,112
+1985,W,1985_Pepsi_Firecracker_400,18,27,22,usa,Bobby_Allison,Bobby Allison,Miller American,Di_Gard,Buick,156,9800,running,0,109
+1985,W,1985_Pepsi_Firecracker_400,19,36,17,usa,Lennie_Pond,Lennie Pond,Hesco Exhaust Systems,Roger_Hamby,Chevrolet,155,6610,running,2,111
+1985,W,1985_Pepsi_Firecracker_400,20,41,70,usa,J_D_McDuffie,J.D. McDuffie,Rumple Furniture,J.D._McDuffie,Chevrolet,150,6425,running,0,103
+1985,W,1985_Pepsi_Firecracker_400,21,21,90,usa,Ken_Schrader,Ken Schrader,Ultra Seal,Junie_Donlavey,Ford,148,6915,engine,0,100
+1985,W,1985_Pepsi_Firecracker_400,22,37,29,usa,Grant_Adcox,Grant Adcox,Herb Adcox,Herb_Adcox,Chevrolet,148,2750,running,0,97
+1985,W,1985_Pepsi_Firecracker_400,23,30,71,usa,Dave_Marcis,Dave Marcis,AEL Rentals,Dave_Marcis,Chevrolet,132,5380,running,0,94
+1985,W,1985_Pepsi_Firecracker_400,24,15,33,usa,Harry_Gant,Harry Gant,Skoal,Hal_Needham,Chevrolet,112,10975,engine,0,91
+1985,W,1985_Pepsi_Firecracker_400,25,31,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King Ford & Honda,Elmo_Langley,Ford,86,5020,engine,0,88
+1985,W,1985_Pepsi_Firecracker_400,26,39,49,canada,Trevor_Boys,Trevor Boys,Cleaner Hands Formula,James_Hylton,Chevrolet,84,4550,ignition,0,85
+1985,W,1985_Pepsi_Firecracker_400,27,14,66,usa,Phil_Parsons,Phil Parsons,Skoal,Leo_Jackson_Richard_Jackson,Chevrolet,65,2175,driveshaft,0,82
+1985,W,1985_Pepsi_Firecracker_400,28,29,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,64,4440,crash,1,84
+1985,W,1985_Pepsi_Firecracker_400,29,8,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,64,9475,crash,0,76
+1985,W,1985_Pepsi_Firecracker_400,30,6,14,usa,A_J_Foyt,A.J. Foyt,Copenhagen,A.J._Foyt,Oldsmobile,54,1875,axle,1,78
+1985,W,1985_Pepsi_Firecracker_400,31,35,6,usa,Eddie_Bierschwale,Eddie Bierschwale,U.S. Racing,D.K._Ulrich,Chevrolet,50,4080,valve,0,70
+1985,W,1985_Pepsi_Firecracker_400,32,26,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Chevrolet,43,4035,engine,0,67
+1985,W,1985_Pepsi_Firecracker_400,33,23,95,usa,Sterling_Marlin,Sterling Marlin,Sadler Racing,Sadler_Brothers,Chevrolet,39,1775,clutch,0,64
+1985,W,1985_Pepsi_Firecracker_400,34,28,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,34,3250,engine,0,61
+1985,W,1985_Pepsi_Firecracker_400,35,7,4,usa,Joe_Ruttman,Joe Ruttman,Folger's,Larry_McClure,Chevrolet,28,1725,flywheel,0,58
+1985,W,1985_Pepsi_Firecracker_400,36,2,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Ford,24,2500,transmission,4,60
+1985,W,1985_Pepsi_Firecracker_400,37,40,74,usa,Bobby_Wawak,Bobby Wawak,Superior Piping,Bobby_Wawak,Chevrolet,13,1675,piston,0,52
+1985,W,1985_Pepsi_Firecracker_400,38,38,23,usa,Eldon_Dotson,Eldon Dotson,Bahre / Stoner,Dick_Bahre,Chevrolet,10,1675,valve,0,49
+1985,W,1985_Pepsi_Firecracker_400,39,33,00,usa,Morgan_Shepherd,Morgan Shepherd,Helen Rae,Helen_Rae_Smith,Chevrolet,6,1625,crash,0,46
+1985,W,1985_Pepsi_Firecracker_400,40,22,99,usa,Connie_Saylor,Connie Saylor,Ball Racing,Ralph_Ball,Chevrolet,6,1600,crash,0,43
+1985,W,1985_Pepsi_Firecracker_400,41,24,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,2,4100,engine,0,40
+1985,W,1985_Summer_500,1,2,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,200,41750,running,58,180
+1985,W,1985_Summer_500,2,21,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,200,38450,running,72,180
+1985,W,1985_Summer_500,3,1,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,200,25375,running,3,170
+1985,W,1985_Summer_500,4,22,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,200,18325,running,29,165
+1985,W,1985_Summer_500,5,7,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,200,17425,running,6,160
+1985,W,1985_Summer_500,6,4,55,usa,Benny_Parsons,Benny Parsons,Copenhagen,Leo_Jackson_Richard_Jackson,Chevrolet,200,6800,running,1,155
+1985,W,1985_Summer_500,7,24,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,200,9735,running,0,146
+1985,W,1985_Summer_500,8,17,66,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Leo_Jackson_Richard_Jackson,Chevrolet,199,4640,running,0,142
+1985,W,1985_Summer_500,9,8,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,199,9055,running,0,138
+1985,W,1985_Summer_500,10,18,88,usa,Buddy_Baker,Buddy Baker,Liquid Wrench / Bull Frog Knits,Buddy_Baker_Danny_Schiff,Oldsmobile,199,8795,running,0,134
+1985,W,1985_Summer_500,11,16,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,198,7515,running,0,130
+1985,W,1985_Summer_500,12,23,22,usa,Bobby_Allison,Bobby Allison,Miller American,Bobby_Allison,Buick,198,3530,running,1,132
+1985,W,1985_Summer_500,13,25,17,usa,Lennie_Pond,Lennie Pond,McCord Gaskets,Roger_Hamby,Chevrolet,198,6965,running,0,124
+1985,W,1985_Summer_500,14,10,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,197,9765,running,0,121
+1985,W,1985_Summer_500,15,20,90,usa,Ken_Schrader,Ken Schrader,Sunny King / Ultra Seal,Junie_Donlavey,Ford,197,7180,running,0,118
+1985,W,1985_Summer_500,16,29,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King Ford & Honda,Elmo_Langley,Ford,195,6100,running,0,115
+1985,W,1985_Summer_500,17,30,6,usa,Eddie_Bierschwale,Eddie Bierschwale,Poco-North Resort,D.K._Ulrich,Chevrolet,195,5735,running,0,112
+1985,W,1985_Summer_500,18,27,67,usa,Buddy_Arrington,Buddy Arrington,Vinton Motors,Buddy_Arrington,Ford,195,5420,running,0,109
+1985,W,1985_Summer_500,19,31,51,usa,Doug_Heveron,Doug Heveron,Crozier War Eagle / Cleaner Hands Formula,Doug_Spohn,Ford,194,2555,running,0,0
+1985,W,1985_Summer_500,20,28,49,canada,Trevor_Boys,Trevor Boys,Cleaner Hands Formula,James_Hylton,Chevrolet,193,5345,running,0,103
+1985,W,1985_Summer_500,21,38,20,usa,Rick_Newsom,Rick Newsom,Selcam Enterprises,Rick_Newsom,Buick,191,2345,running,0,100
+1985,W,1985_Summer_500,22,35,96,usa,Jerry_Bowman,Jerry Bowman,Milford Fertilizer,Jerry_Bowman,Ford,190,2240,running,0,97
+1985,W,1985_Summer_500,23,34,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Pontiac,190,4410,running,0,94
+1985,W,1985_Summer_500,24,32,25,usa,Bobby_Gerhart,Bobby Gerhart,Frederick,Bobby_Gerhart_Billy_Gerhart,Chevrolet,190,2080,running,0,91
+1985,W,1985_Summer_500,25,36,74,usa,Bobby_Wawak,Bobby Wawak,Superior Piping,Bobby_Wawak,Buick,187,2125,running,0,88
+1985,W,1985_Summer_500,26,5,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,186,11620,running,0,85
+1985,W,1985_Summer_500,27,15,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,178,8415,engine,0,82
+1985,W,1985_Summer_500,28,40,65,usa,Joe_Booher,Joe Booher,Booher Farms,Joe_Booher,Buick,170,1860,running,0,79
+1985,W,1985_Summer_500,29,9,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Stavola_Brothers,Chevrolet,163,2570,engine,0,76
+1985,W,1985_Summer_500,30,6,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,158,4005,crash,7,78
+1985,W,1985_Summer_500,31,3,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Ford,127,2195,engine,18,75
+1985,W,1985_Summer_500,32,37,87,usa,Mike_Stolarcyk,Mike Stolarcyk,Stolarcyk Chevrolet,Mike_Stolarcyk,Buick,116,1615,engine,0,67
+1985,W,1985_Summer_500,33,13,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,112,4795,engine,0,64
+1985,W,1985_Summer_500,34,12,77,usa,Greg_Sacks,Greg Sacks,Miller American,Di_Gard,Buick,95,8005,engine,1,
+1985,W,1985_Summer_500,35,14,21,usa,David_Pearson,David Pearson,Chattanooga Chew,Hoss_Ellington,Chevrolet,82,1450,tie rod,2,63
+1985,W,1985_Summer_500,36,19,18,usa,Tommy_Ellis,Tommy Ellis,Freedlander,Eric_Freedlander,Chevrolet,70,1395,fuel pump,0,55
+1985,W,1985_Summer_500,37,33,48,usa,Don_Hume,Don Hume,Hume Racing,Jerry_Holden,Chevrolet,63,1370,steering,0,52
+1985,W,1985_Summer_500,38,26,71,usa,Dave_Marcis,Dave Marcis,AEL Rentals,Dave_Marcis,Chevrolet,58,2845,piston,2,54
+1985,W,1985_Summer_500,39,11,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,11,8700,engine,0,46
+1985,W,1985_Summer_500,40,39,70,usa,J_D_McDuffie,J.D. McDuffie,Lockhart Ford / Rumple Furniture,J.D._McDuffie,Ford,10,2675,engine,0,43
+1985,W,1985_Talladega_500,1,2,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Ford,188,48655,running,41,180
+1985,W,1985_Talladega_500,2,16,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,188,34250,running,20,175
+1985,W,1985_Talladega_500,3,24,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,188,23205,running,5,170
+1985,W,1985_Talladega_500,4,1,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,188,29475,running,100,170
+1985,W,1985_Talladega_500,5,4,14,usa,A_J_Foyt,A.J. Foyt,Copenhagen,A.J._Foyt,Oldsmobile,187,11625,running,1,
+1985,W,1985_Talladega_500,6,29,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,187,15600,running,0,150
+1985,W,1985_Talladega_500,7,21,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,187,16300,running,1,151
+1985,W,1985_Talladega_500,8,40,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,187,10245,running,0,142
+1985,W,1985_Talladega_500,9,25,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,186,14100,running,0,138
+1985,W,1985_Talladega_500,10,22,1,usa,Davey_Allison,Davey Allison,Lancaster Tobacco,Hoss_Ellington,Chevrolet,186,6025,running,0,
+1985,W,1985_Talladega_500,11,18,90,usa,Ken_Schrader,Ken Schrader,Ultra Seal,Junie_Donlavey,Ford,186,9945,running,0,130
+1985,W,1985_Talladega_500,12,10,95,usa,Sterling_Marlin,Sterling Marlin,Sadler Racing,Sadler_Brothers,Chevrolet,186,4500,running,0,127
+1985,W,1985_Talladega_500,13,17,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,186,7845,running,0,124
+1985,W,1985_Talladega_500,14,19,88,usa,Buddy_Baker,Buddy Baker,Bull Frog Knits,Buddy_Baker_Danny_Schiff,Oldsmobile,184,7565,running,0,121
+1985,W,1985_Talladega_500,15,30,77,usa,Greg_Sacks,Greg Sacks,Miller American,Di_Gard,Buick,184,10980,running,0,118
+1985,W,1985_Talladega_500,16,8,67,usa,Buddy_Arrington,Buddy Arrington,Vinton Motors,Buddy_Arrington,Ford,184,7155,running,1,120
+1985,W,1985_Talladega_500,17,23,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,183,7860,running,0,112
+1985,W,1985_Talladega_500,18,12,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,180,11050,running,0,109
+1985,W,1985_Talladega_500,19,35,17,usa,Lennie_Pond,Lennie Pond,Hesco Exhaust Systems,Roger_Hamby,Chevrolet,178,6355,running,0,106
+1985,W,1985_Talladega_500,20,31,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King Ford & Honda,Elmo_Langley,Ford,177,6375,running,0,103
+1985,W,1985_Talladega_500,21,39,54,usa,Bobby_Wawak,Bobby Wawak,Henley Gray Racing,Henley_Gray,Chevrolet,175,3210,running,0,100
+1985,W,1985_Talladega_500,22,27,00,usa,Phil_Barkdoll,Phil Barkdoll,Helen Rae Special,Helen_Rae_Smith,Chevrolet,167,3100,running,0,97
+1985,W,1985_Talladega_500,23,6,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,160,11090,crash,2,99
+1985,W,1985_Talladega_500,24,14,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,156,11080,running,8,96
+1985,W,1985_Talladega_500,25,5,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,151,5465,running,0,88
+1985,W,1985_Talladega_500,26,33,71,usa,Dave_Marcis,Dave Marcis,AEL Rentals,Dave_Marcis,Chevrolet,145,4980,piston,0,85
+1985,W,1985_Talladega_500,27,38,22,usa,Bobby_Allison,Bobby Allison,Miller American,Bobby_Allison,Chevrolet,142,2635,running,1,87
+1985,W,1985_Talladega_500,28,42,70,usa,J_D_McDuffie,J.D. McDuffie,Rumple Furniture,J.D._McDuffie,Chevrolet,140,4840,piston,0,79
+1985,W,1985_Talladega_500,29,32,74,usa,Rick_Wilson,Rick Wilson,Superior Piping,Bobby_Wawak,Chevrolet,111,2515,oil pump,0,
+1985,W,1985_Talladega_500,30,15,18,usa,Tommy_Ellis,Tommy Ellis,Eric Freedlander,Eric_Freedlander,Chevrolet,102,2455,oil leak,0,
+1985,W,1985_Talladega_500,31,20,66,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Leo_Jackson_Richard_Jackson,Chevrolet,92,3195,crash,0,70
+1985,W,1985_Talladega_500,32,41,49,canada,Trevor_Boys,Trevor Boys,Cleaner Hands Formula,James_Hylton,Chevrolet,91,4790,driveshaft,3,72
+1985,W,1985_Talladega_500,33,7,4,usa,Joe_Ruttman,Joe Ruttman,Folger's Coffee,Larry_McClure,Chevrolet,84,2275,clutch,5,69
+1985,W,1985_Talladega_500,34,36,6,usa,Eddie_Bierschwale,Eddie Bierschwale,U.S. Racing,D.K._Ulrich,Chevrolet,73,4450,engine,0,61
+1985,W,1985_Talladega_500,35,3,21,usa,David_Pearson,David Pearson,Chattanooga Chew,David_Pearson,Ford,54,2355,transmission,0,58
+1985,W,1985_Talladega_500,36,13,55,usa,Benny_Parsons,Benny Parsons,Copenhagen,Leo_Jackson_Richard_Jackson,Chevrolet,53,2090,driveshaft,0,55
+1985,W,1985_Talladega_500,37,34,0,usa,Delma_Cowart,Delma Cowart,Heyward Grooms Construction,H.L._Waters,Chevrolet,33,2030,crank,0,52
+1985,W,1985_Talladega_500,38,11,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Stavola_Brothers,Chevrolet,33,1965,engine,0,49
+1985,W,1985_Talladega_500,39,9,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,24,11555,crash,0,46
+1985,W,1985_Talladega_500,40,37,29,usa,Grant_Adcox,Grant Adcox,Herb Adcox,Herb_Adcox,Chevrolet,21,1840,oil pressure,0,43
+1985,W,1985_Talladega_500,41,26,99,usa,Connie_Saylor,Connie Saylor,Ball Racing,Ralph_Ball,Chevrolet,11,1840,engine,0,40
+1985,W,1985_Talladega_500,42,28,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Pontiac,10,3340,engine,0,37
+1985,W,1985_Champion_Spark_Plug_400,1,1,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,200,57600,running,90,180
+1985,W,1985_Champion_Spark_Plug_400,2,5,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,200,29050,running,92,180
+1985,W,1985_Champion_Spark_Plug_400,3,11,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,200,23100,running,3,170
+1985,W,1985_Champion_Spark_Plug_400,4,14,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,200,13780,running,10,165
+1985,W,1985_Champion_Spark_Plug_400,5,8,55,usa,Benny_Parsons,Benny Parsons,Copenhagen,Leo_Jackson_Richard_Jackson,Chevrolet,199,8575,running,0,155
+1985,W,1985_Champion_Spark_Plug_400,6,22,66,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Leo_Jackson_Richard_Jackson,Chevrolet,199,7550,running,0,150
+1985,W,1985_Champion_Spark_Plug_400,7,26,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,199,11395,running,0,146
+1985,W,1985_Champion_Spark_Plug_400,8,19,10,usa,Dick_Trickle,Dick Trickle,DiGard R&D,Di_Gard,Pontiac,199,5850,running,0,142
+1985,W,1985_Champion_Spark_Plug_400,9,20,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,199,14900,running,0,138
+1985,W,1985_Champion_Spark_Plug_400,10,15,67,usa,Buddy_Arrington,Buddy Arrington,Tom Prange Leasing,Buddy_Arrington,Ford,199,9425,running,0,134
+1985,W,1985_Champion_Spark_Plug_400,11,6,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,198,10950,running,3,135
+1985,W,1985_Champion_Spark_Plug_400,12,27,71,usa,Dave_Marcis,Dave Marcis,Transmissions Unlimited,Dave_Marcis,Chevrolet,198,7715,running,0,127
+1985,W,1985_Champion_Spark_Plug_400,13,13,95,usa,Mike_Alexander,Mike Alexander,Sadler Racing,Sadler_Brothers,Chevrolet,198,3850,running,0,124
+1985,W,1985_Champion_Spark_Plug_400,14,28,88,usa,Buddy_Baker,Buddy Baker,Bull Frog Knits,Buddy_Baker_Danny_Schiff,Oldsmobile,198,7005,running,0,121
+1985,W,1985_Champion_Spark_Plug_400,15,30,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Pontiac,197,7135,running,0,118
+1985,W,1985_Champion_Spark_Plug_400,16,25,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,196,6225,running,0,115
+1985,W,1985_Champion_Spark_Plug_400,17,38,17,usa,Ken_Ragan,Ken Ragan,McCord Gaskets,Roger_Hamby,Chevrolet,196,5765,running,0,
+1985,W,1985_Champion_Spark_Plug_400,18,31,23,usa,Michael_Waltrip,Michael Waltrip,Hedman Header,Dick_Bahre,Chevrolet,194,2650,running,0,
+1985,W,1985_Champion_Spark_Plug_400,19,32,41,usa,Ronnie_Thomas,Ronnie Thomas,Central Radio,Ronnie_Thomas,Chevrolet,194,2450,running,0,106
+1985,W,1985_Champion_Spark_Plug_400,20,24,90,usa,Ken_Schrader,Ken Schrader,Ultra Seal,Junie_Donlavey,Ford,194,5805,running,0,103
+1985,W,1985_Champion_Spark_Plug_400,21,34,6,usa,Eddie_Bierschwale,Eddie Bierschwale,U.S. Racing,D.K._Ulrich,Chevrolet,193,4670,running,0,100
+1985,W,1985_Champion_Spark_Plug_400,22,12,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,191,9525,running,0,97
+1985,W,1985_Champion_Spark_Plug_400,23,2,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,190,10325,flywheel,1,99
+1985,W,1985_Champion_Spark_Plug_400,24,35,65,usa,Joe_Booher,Joe Booher,Booher Farms,Joe_Booher,Chevrolet,188,1825,running,0,91
+1985,W,1985_Champion_Spark_Plug_400,25,36,25,usa,Bobby_Gerhart,Bobby Gerhart,Frederick,Bobby_Gerhart_Billy_Gerhart,Chevrolet,187,1825,running,0,88
+1985,W,1985_Champion_Spark_Plug_400,26,16,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Stavola_Brothers,Chevrolet,186,2425,running,0,85
+1985,W,1985_Champion_Spark_Plug_400,27,39,74,usa,Bobby_Wawak,Bobby Wawak,Superior Piping,Bobby_Wawak,Buick,174,1800,engine,0,82
+1985,W,1985_Champion_Spark_Plug_400,28,40,04,usa,Rick_Baldwin,Rick Baldwin,Schlitz,Rick_Baldwin,Chrysler,142,1550,engine,0,79
+1985,W,1985_Champion_Spark_Plug_400,29,33,70,usa,J_D_McDuffie,J.D. McDuffie,Rumple Furniture,J.D._McDuffie,Pontiac,137,3765,engine,0,76
+1985,W,1985_Champion_Spark_Plug_400,30,21,49,canada,Trevor_Boys,Trevor Boys,Cleaner Hands Formula,James_Hylton,Chevrolet,135,3705,engine,0,73
+1985,W,1985_Champion_Spark_Plug_400,31,4,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,128,8035,oil line,0,70
+1985,W,1985_Champion_Spark_Plug_400,32,9,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Ford,118,1370,engine,1,72
+1985,W,1985_Champion_Spark_Plug_400,33,7,77,usa,Greg_Sacks,Greg Sacks,Miller American,Di_Gard,Buick,111,7830,oil leak,0,64
+1985,W,1985_Champion_Spark_Plug_400,34,37,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King Ford & Honda,Elmo_Langley,Ford,102,4000,crash,0,61
+1985,W,1985_Champion_Spark_Plug_400,35,23,00,usa,Morgan_Shepherd,Morgan Shepherd,Helen Rae Special,Helen_Rae_Smith,Chevrolet,100,1240,clutch,0,58
+1985,W,1985_Champion_Spark_Plug_400,36,17,22,usa,Bobby_Allison,Bobby Allison,Miller American,Bobby_Allison,Ford,85,1225,crash,0,55
+1985,W,1985_Champion_Spark_Plug_400,37,18,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,79,6725,engine,0,52
+1985,W,1985_Champion_Spark_Plug_400,38,29,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,79,3725,engine,0,49
+1985,W,1985_Champion_Spark_Plug_400,39,10,21,usa,David_Pearson,David Pearson,Chattanooga Chew,David_Pearson,Ford,14,1225,piston,0,46
+1985,W,1985_Champion_Spark_Plug_400,40,3,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,3,2950,engine,0,43
+1985,W,1985_Busch_500,1,1,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,500,34675,running,343,185
+1985,W,1985_Busch_500,2,2,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,500,19230,running,36,175
+1985,W,1985_Busch_500,3,4,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,500,13900,running,12,170
+1985,W,1985_Busch_500,4,10,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,500,12500,running,87,165
+1985,W,1985_Busch_500,5,9,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,499,11350,running,16,160
+1985,W,1985_Busch_500,6,15,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,498,10500,running,0,150
+1985,W,1985_Busch_500,7,12,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,497,5880,running,0,146
+1985,W,1985_Busch_500,8,24,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,496,7650,running,0,142
+1985,W,1985_Busch_500,9,6,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,495,7450,running,0,138
+1985,W,1985_Busch_500,10,18,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,490,5610,running,1,139
+1985,W,1985_Busch_500,11,13,88,usa,Buddy_Baker,Buddy Baker,Bull Frog Knits,Buddy_Baker_Danny_Schiff,Oldsmobile,488,4550,running,0,130
+1985,W,1985_Busch_500,12,21,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,487,5380,running,0,127
+1985,W,1985_Busch_500,13,14,4,usa,Joe_Ruttman,Joe Ruttman,Folger's Coffee,Larry_McClure,Chevrolet,484,1700,running,0,124
+1985,W,1985_Busch_500,14,23,41,usa,Ronnie_Thomas,Ronnie Thomas,Wilder's Bolts & Nuts,Ronnie_Thomas,Chevrolet,483,1600,running,0,121
+1985,W,1985_Busch_500,15,30,67,usa,Buddy_Arrington,Buddy Arrington,Vinton Motors,Buddy_Arrington,Ford,481,4320,running,0,118
+1985,W,1985_Busch_500,16,17,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,479,3960,running,0,115
+1985,W,1985_Busch_500,17,28,49,canada,Trevor_Boys,Trevor Boys,Cleaner Hands Formula,James_Hylton,Chevrolet,478,3600,running,0,112
+1985,W,1985_Busch_500,18,29,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King Ford & Honda,Elmo_Langley,Ford,462,3440,running,0,109
+1985,W,1985_Busch_500,19,22,90,usa,Ken_Schrader,Ken Schrader,Sunny King / Ultra Seal,Junie_Donlavey,Ford,446,3730,suspension,0,106
+1985,W,1985_Busch_500,20,26,6,usa,Eddie_Bierschwale,Eddie Bierschwale,U.S. Racing,D.K._Ulrich,Chevrolet,443,3040,running,0,103
+1985,W,1985_Busch_500,21,8,17,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Roger_Hamby,Chevrolet,434,2840,running,0,100
+1985,W,1985_Busch_500,22,16,22,usa,Bobby_Allison,Bobby Allison,Miller American,Bobby_Allison,Buick,430,1130,crash,4,102
+1985,W,1985_Busch_500,23,19,71,usa,Dave_Marcis,Dave Marcis,Transmissions Unlimited,Dave_Marcis,Oldsmobile,408,2780,running,0,94
+1985,W,1985_Busch_500,24,25,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Stavola_Brothers,Chevrolet,378,1750,crash,0,91
+1985,W,1985_Busch_500,25,3,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,362,7950,crash,0,88
+1985,W,1985_Busch_500,26,20,95,usa,Mike_Alexander,Mike Alexander,Sadler Racing,Sadler_Brothers,Chevrolet,236,1050,oil leak,0,85
+1985,W,1985_Busch_500,27,31,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Pontiac,224,2030,steering,0,82
+1985,W,1985_Busch_500,28,5,77,usa,Greg_Sacks,Greg Sacks,Miller American,Di_Gard,Buick,204,6210,crash,0,79
+1985,W,1985_Busch_500,29,7,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,165,9090,engine,1,81
+1985,W,1985_Busch_500,30,11,18,usa,Tommy_Ellis,Tommy Ellis,Eric Freedlander,Eric_Freedlander,Chevrolet,115,970,engine,0,73
+1985,W,1985_Busch_500,31,27,68,usa,Mike_Potter,Mike Potter,Eagle Snacks,Jimmy_Walker,Ford,91,970,engine,0,70
+1985,W,1985_Southern_500,1,1,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,367,1053725,running,100,180
+1985,W,1985_Southern_500,2,22,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Ford,367,22050,running,25,175
+1985,W,1985_Southern_500,3,17,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,367,21975,running,5,170
+1985,W,1985_Southern_500,4,21,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,366,17425,running,0,160
+1985,W,1985_Southern_500,5,19,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,366,13330,running,1,160
+1985,W,1985_Southern_500,6,11,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,366,13450,running,0,150
+1985,W,1985_Southern_500,7,9,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,365,15500,running,0,146
+1985,W,1985_Southern_500,8,3,55,usa,Benny_Parsons,Benny Parsons,Copenhagen,Leo_Jackson_Richard_Jackson,Chevrolet,365,5800,running,0,142
+1985,W,1985_Southern_500,9,4,4,usa,Joe_Ruttman,Joe Ruttman,Folger's Coffee,Larry_McClure,Chevrolet,364,5350,running,0,138
+1985,W,1985_Southern_500,10,25,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,364,9995,running,0,134
+1985,W,1985_Southern_500,11,8,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,364,8505,running,0,130
+1985,W,1985_Southern_500,12,24,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,364,10860,running,0,127
+1985,W,1985_Southern_500,13,20,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Stavola_Brothers,Chevrolet,362,6255,running,1,129
+1985,W,1985_Southern_500,14,32,90,usa,Ken_Schrader,Ken Schrader,Ultra Seal,Junie_Donlavey,Ford,362,8475,running,0,121
+1985,W,1985_Southern_500,15,16,88,usa,Buddy_Baker,Buddy Baker,Bull Frog Knits,Buddy_Baker_Danny_Schiff,Oldsmobile,358,8085,engine,2,123
+1985,W,1985_Southern_500,16,18,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,358,6865,running,0,115
+1985,W,1985_Southern_500,17,7,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,355,12205,running,0,112
+1985,W,1985_Southern_500,18,33,67,usa,Buddy_Arrington,Buddy Arrington,Vinton Motors,Buddy_Arrington,Ford,353,6290,running,0,109
+1985,W,1985_Southern_500,19,5,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans / 1-800-FARMAID,Richard_Childress,Chevrolet,349,12835,engine,147,116
+1985,W,1985_Southern_500,20,39,17,usa,Ken_Ragan,Ken Ragan,McCord Gaskets,Roger_Hamby,Chevrolet,349,6080,running,0,103
+1985,W,1985_Southern_500,21,6,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,336,12340,engine,84,105
+1985,W,1985_Southern_500,22,29,1,usa,Pancho_Carter,Pancho Carter,Lancaster Tobacco,Hoss_Ellington,Chevrolet,336,2755,running,0,97
+1985,W,1985_Southern_500,23,27,71,usa,Dave_Marcis,Dave Marcis,AEL Rentals,Dave_Marcis,Chevrolet,271,5240,vibration,2,99
+1985,W,1985_Southern_500,24,35,23,usa,Michael_Waltrip,Michael Waltrip,Jim Testa,Dick_Bahre,Chevrolet,266,2535,engine,0,91
+1985,W,1985_Southern_500,25,26,14,usa,A_J_Foyt,A.J. Foyt,Copenhagen,A.J._Foyt,Oldsmobile,248,2675,brakes,0,88
+1985,W,1985_Southern_500,26,37,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King Ford & Honda,Elmo_Langley,Ford,237,4595,crash,0,85
+1985,W,1985_Southern_500,27,36,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Chevrolet,236,4480,camshaft,0,82
+1985,W,1985_Southern_500,28,40,68,usa,Mike_Potter,Mike Potter,Eagle Snacks,Jimmy_Walker,Ford,186,2110,engine,0,79
+1985,W,1985_Southern_500,29,38,51,usa,Slick_Johnson,Slick Johnson,Rozier War Eagle,Doug_Spohn,Ford,184,2005,oil pressure,0,76
+1985,W,1985_Southern_500,30,23,22,usa,Bobby_Allison,Bobby Allison,Miller American,Bobby_Allison,Ford,162,1950,engine,0,73
+1985,W,1985_Southern_500,31,30,49,canada,Trevor_Boys,Trevor Boys,Fleet Service / R.L. Monroe,James_Hylton,Chevrolet,134,4100,crash,0,70
+1985,W,1985_Southern_500,32,34,6,usa,Eddie_Bierschwale,Eddie Bierschwale,U.S. Racing,D.K._Ulrich,Chevrolet,108,4025,engine,0,67
+1985,W,1985_Southern_500,33,12,18,usa,Tommy_Ellis,Tommy Ellis,Eric Freedlander,Eric_Freedlander,Chevrolet,101,1735,transmission,0,64
+1985,W,1985_Southern_500,34,31,36,usa,H_B_Bailey,H.B. Bailey,Almeda Auto Parts / Naitonal Motors,H.B._Bailey,Pontiac,94,1680,crash,0,61
+1985,W,1985_Southern_500,35,10,77,usa,Greg_Sacks,Greg Sacks,Miller American,Di_Gard,Buick,60,8400,crash,0,58
+1985,W,1985_Southern_500,36,28,32,usa,Tommy_Houston,Tommy Houston,Houston Racing,Paul_Ingle,Chevrolet,47,1645,engine,0,55
+1985,W,1985_Southern_500,37,15,16,usa,Morgan_Shepherd,Morgan Shepherd,Carolina Tool,Bobby_Hawkins,Chevrolet,22,1490,engine,0,52
+1985,W,1985_Southern_500,38,14,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,21,3880,crash,0,49
+1985,W,1985_Southern_500,39,13,66,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Leo_Jackson_Richard_Jackson,Chevrolet,21,1435,crash,0,46
+1985,W,1985_Southern_500,40,2,21,usa,David_Pearson,David Pearson,Chattanooga Chew,David_Pearson,Ford,17,2625,engine,0,43
+1985,W,1985_Wrangler_Sanfor-Set_400,1,22,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,400,35300,running,84,180
+1985,W,1985_Wrangler_Sanfor-Set_400,2,4,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,400,23850,running,87,180
+1985,W,1985_Wrangler_Sanfor-Set_400,3,19,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,400,14625,running,83,170
+1985,W,1985_Wrangler_Sanfor-Set_400,4,9,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,400,12050,running,24,165
+1985,W,1985_Wrangler_Sanfor-Set_400,5,3,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,400,9900,running,53,160
+1985,W,1985_Wrangler_Sanfor-Set_400,6,2,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,400,11275,running,0,150
+1985,W,1985_Wrangler_Sanfor-Set_400,7,1,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,399,12400,running,31,151
+1985,W,1985_Wrangler_Sanfor-Set_400,8,10,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,399,5960,running,38,147
+1985,W,1985_Wrangler_Sanfor-Set_400,9,23,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,398,8625,running,0,138
+1985,W,1985_Wrangler_Sanfor-Set_400,10,16,18,usa,Tommy_Ellis,Tommy Ellis,Eric Freedlander,Eric_Freedlander,Chevrolet,398,2875,running,0,134
+1985,W,1985_Wrangler_Sanfor-Set_400,11,13,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,398,4905,running,0,130
+1985,W,1985_Wrangler_Sanfor-Set_400,12,5,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,398,8755,running,0,127
+1985,W,1985_Wrangler_Sanfor-Set_400,13,11,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,397,5495,running,0,124
+1985,W,1985_Wrangler_Sanfor-Set_400,14,15,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,395,4215,running,0,121
+1985,W,1985_Wrangler_Sanfor-Set_400,15,18,90,usa,Ken_Schrader,Ken Schrader,Ultra Seal,Junie_Donlavey,Ford,395,4975,running,0,118
+1985,W,1985_Wrangler_Sanfor-Set_400,16,20,88,usa,Buddy_Baker,Buddy Baker,Bull Frog Knits,Buddy_Baker_Danny_Schiff,Oldsmobile,394,3895,running,0,115
+1985,W,1985_Wrangler_Sanfor-Set_400,17,24,71,usa,Dave_Marcis,Dave Marcis,AEL Rentals,Dave_Marcis,Chevrolet,394,3715,running,0,112
+1985,W,1985_Wrangler_Sanfor-Set_400,18,7,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,392,4285,running,0,109
+1985,W,1985_Wrangler_Sanfor-Set_400,19,25,32,usa,Alan_Kulwicki,Alan Kulwicki,Hardee's,Bill_Terry,Ford,392,1250,running,0,106
+1985,W,1985_Wrangler_Sanfor-Set_400,20,6,77,usa,Greg_Sacks,Greg Sacks,Miller American,Di_Gard,Buick,392,6565,running,0,103
+1985,W,1985_Wrangler_Sanfor-Set_400,21,12,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Stavola_Brothers,Chevrolet,392,2270,running,0,100
+1985,W,1985_Wrangler_Sanfor-Set_400,22,27,67,usa,Buddy_Arrington,Buddy Arrington,Vinton Motors,Buddy_Arrington,Ford,389,3075,running,0,97
+1985,W,1985_Wrangler_Sanfor-Set_400,23,17,52,usa,Jimmy_Means,Jimmy Means,Nichols,Jimmy_Means,Pontiac,381,2750,running,0,94
+1985,W,1985_Wrangler_Sanfor-Set_400,24,28,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King,Elmo_Langley,Ford,379,2705,running,0,91
+1985,W,1985_Wrangler_Sanfor-Set_400,25,26,49,usa,Lennie_Pond,Lennie Pond,McCord Gasket,James_Hylton,Chevrolet,376,2810,running,0,
+1985,W,1985_Wrangler_Sanfor-Set_400,26,30,70,usa,J_D_McDuffie,J.D. McDuffie,Rumple Furniture,J.D._McDuffie,Pontiac,372,2615,oil pump,0,85
+1985,W,1985_Wrangler_Sanfor-Set_400,27,14,17,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Roger_Hamby,Chevrolet,270,1920,engine,0,82
+1985,W,1985_Wrangler_Sanfor-Set_400,28,8,22,usa,Bobby_Allison,Bobby Allison,Miller American,Bobby_Allison,Buick,222,885,crash,0,79
+1985,W,1985_Wrangler_Sanfor-Set_400,29,29,6,usa,Eddie_Bierschwale,Eddie Bierschwale,U.S. Racing,D.K._Ulrich,Chevrolet,215,1900,crash,0,76
+1985,W,1985_Wrangler_Sanfor-Set_400,30,21,00,usa,Morgan_Shepherd,Morgan Shepherd,Helen Rae Special,Helen_Rae_Smith,Chevrolet,28,1515,crash,0,73
+1985,W,1985_Delaware_500,1,4,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,500,44950,running,216,185
+1985,W,1985_Delaware_500,2,10,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,500,29750,running,10,175
+1985,W,1985_Delaware_500,3,7,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,499,31450,running,55,170
+1985,W,1985_Delaware_500,4,19,22,usa,Bobby_Allison,Bobby Allison,Miller American,Bobby_Allison,Ford,496,9975,running,45,165
+1985,W,1985_Delaware_500,5,5,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,496,14275,running,0,155
+1985,W,1985_Delaware_500,6,22,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,496,9980,running,0,150
+1985,W,1985_Delaware_500,7,8,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,496,12600,running,0,146
+1985,W,1985_Delaware_500,8,6,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,494,8595,running,0,142
+1985,W,1985_Delaware_500,9,13,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,492,10600,running,1,143
+1985,W,1985_Delaware_500,10,17,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,491,8225,running,0,134
+1985,W,1985_Delaware_500,11,27,67,usa,Buddy_Arrington,Buddy Arrington,Arrington Racing,Buddy_Arrington,Ford,484,6695,running,0,130
+1985,W,1985_Delaware_500,12,23,17,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Roger_Hamby,Chevrolet,483,6055,running,0,127
+1985,W,1985_Delaware_500,13,28,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Pontiac,481,5865,running,0,124
+1985,W,1985_Delaware_500,14,31,96,usa,Jerry_Bowman,Jerry Bowman,JB Auto Machine / Milford Fertilizer,Jerry_Bowman,Ford,465,2100,running,0,121
+1985,W,1985_Delaware_500,15,16,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,463,7725,transmission,0,118
+1985,W,1985_Delaware_500,16,25,90,usa,Ken_Schrader,Ken Schrader,Ultra Seal,Junie_Donlavey,Ford,462,5815,running,0,115
+1985,W,1985_Delaware_500,17,37,74,usa,Bobby_Wawak,Bobby Wawak,Superior Piping,Bobby_Wawak,Buick,458,1850,running,0,112
+1985,W,1985_Delaware_500,18,34,76,usa,Phil_Good,Phil Good,Allied Automotive,Phil_Good,Chrysler,438,1800,running,0,109
+1985,W,1985_Delaware_500,19,15,71,usa,Dave_Marcis,Dave Marcis,AEL Rentals,Dave_Marcis,Chevrolet,435,4455,running,0,106
+1985,W,1985_Delaware_500,20,1,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,430,13350,running,173,108
+1985,W,1985_Delaware_500,21,30,32,usa,Alan_Kulwicki,Alan Kulwicki,Hardee's,Bill_Terry,Ford,412,1650,ignition,0,100
+1985,W,1985_Delaware_500,22,12,00,usa,Morgan_Shepherd,Morgan Shepherd,Helen Rae,Helen_Rae_Smith,Chevrolet,381,1600,transmission,0,97
+1985,W,1985_Delaware_500,23,18,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Stavola_Brothers,Chevrolet,347,3095,ignition,0,94
+1985,W,1985_Delaware_500,24,2,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,313,11550,push rod,0,91
+1985,W,1985_Delaware_500,25,3,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,309,9750,engine,0,88
+1985,W,1985_Delaware_500,26,9,18,usa,Tommy_Ellis,Tommy Ellis,Freedlander,Eric_Freedlander,Chevrolet,268,1400,engine,0,85
+1985,W,1985_Delaware_500,27,24,6,usa,Eddie_Bierschwale,Eddie Bierschwale,U.S. Racing,D.K._Ulrich,Chevrolet,260,3625,engine,0,82
+1985,W,1985_Delaware_500,28,32,70,usa,J_D_McDuffie,J.D. McDuffie,Hanover Printing,Wayne_Beahr,Ford,203,3565,engine,0,79
+1985,W,1985_Delaware_500,29,11,77,usa,Greg_Sacks,Greg Sacks,Miller American,Di_Gard,Buick,159,7750,crash,0,76
+1985,W,1985_Delaware_500,30,29,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King Honda,Elmo_Langley,Ford,141,3455,engine,0,73
+1985,W,1985_Delaware_500,31,21,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,137,4365,engine,0,70
+1985,W,1985_Delaware_500,32,35,20,usa,Rick_Newsom,Rick Newsom,Selcam Enterprises,Rick_Newsom,Buick,137,1100,brakes,0,67
+1985,W,1985_Delaware_500,33,20,4,usa,Joe_Ruttman,Joe Ruttman,Folger's Coffee,Larry_McClure,Chevrolet,104,1050,engine,0,64
+1985,W,1985_Delaware_500,34,26,49,canada,Trevor_Boys,Trevor Boys,Hylton Racing,James_Hylton,Chevrolet,85,2500,engine,0,61
+1985,W,1985_Delaware_500,35,14,88,usa,Buddy_Baker,Buddy Baker,Bull Frog Knits,Buddy_Baker_Danny_Schiff,Oldsmobile,83,2400,crash,0,58
+1985,W,1985_Delaware_500,36,36,01,usa,Earle_Canavan,Earle Canavan,Wynn's,Earle_Canavan,Oldsmobile,53,875,brakes,0,55
+1985,W,1985_Delaware_500,37,33,85,usa,Tommie_Crozier,Tommie Crozier,Universal Steel,Bill_Leonard,Pontiac,30,875,overheating,0,52
+1985,W,1985_Delaware_500,38,38,63,usa,Chuck_Walton,Chuck Walton,Williams Racing,,Chevrolet,5,875,handling,0,49
+1985,W,1985_Delaware_500,39,39,93,usa,Maurice_Randall,Maurice Randall,MRE Racing,Maurice_Randall,Chrysler,1,850,overheating,0,46
+1985,W,1985_Goody%27s_500,1,11,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,500,37725,running,58,180
+1985,W,1985_Goody%27s_500,2,3,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,500,24650,running,121,175
+1985,W,1985_Goody%27s_500,3,10,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,499,18225,running,5,170
+1985,W,1985_Goody%27s_500,4,5,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,499,12350,running,0,160
+1985,W,1985_Goody%27s_500,5,6,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,498,8430,running,0,155
+1985,W,1985_Goody%27s_500,6,8,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,498,6930,running,1,155
+1985,W,1985_Goody%27s_500,7,17,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,498,6060,running,159,156
+1985,W,1985_Goody%27s_500,8,21,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Stavola_Brothers,Chevrolet,495,4500,running,0,142
+1985,W,1985_Goody%27s_500,9,2,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,495,9550,running,0,138
+1985,W,1985_Goody%27s_500,10,15,22,usa,Bobby_Allison,Bobby Allison,Miller American,Bobby_Allison,Buick,494,3320,running,0,134
+1985,W,1985_Goody%27s_500,11,31,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,491,4600,running,0,130
+1985,W,1985_Goody%27s_500,12,25,49,canada,Trevor_Boys,Trevor Boys,Hylton Racing,James_Hylton,Chevrolet,489,4340,running,0,127
+1985,W,1985_Goody%27s_500,13,24,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Pontiac,485,4130,running,0,124
+1985,W,1985_Goody%27s_500,14,18,77,usa,Greg_Sacks,Greg Sacks,Miller American,Di_Gard,Buick,484,6870,running,0,121
+1985,W,1985_Goody%27s_500,15,27,70,usa,J_D_McDuffie,J.D. McDuffie,Rumple Furniture,J.D._McDuffie,Pontiac,482,4220,running,0,118
+1985,W,1985_Goody%27s_500,16,28,74,usa,Bobby_Wawak,Bobby Wawak,Superior Piping,Bobby_Wawak,Buick,471,1555,running,0,115
+1985,W,1985_Goody%27s_500,17,9,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,467,8530,running,0,112
+1985,W,1985_Goody%27s_500,18,29,6,usa,Eddie_Bierschwale,Eddie Bierschwale,U.S. Racing,D.K._Ulrich,Chevrolet,467,4145,running,0,109
+1985,W,1985_Goody%27s_500,19,26,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King Ford & Honda,Elmo_Langley,Ford,456,3455,running,0,106
+1985,W,1985_Goody%27s_500,20,20,17,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Roger_Hamby,Chevrolet,391,3290,running,0,103
+1985,W,1985_Goody%27s_500,21,22,67,usa,Buddy_Arrington,Buddy Arrington,Vinton Motors,Buddy_Arrington,Ford,389,2895,running,0,100
+1985,W,1985_Goody%27s_500,22,14,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,334,6405,transmission,0,97
+1985,W,1985_Goody%27s_500,23,23,71,usa,Dave_Marcis,Dave Marcis,AEL Rentals,Dave_Marcis,Chevrolet,310,2865,piston,0,94
+1985,W,1985_Goody%27s_500,24,1,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,288,10285,engine,155,96
+1985,W,1985_Goody%27s_500,25,7,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,266,3935,engine,0,88
+1985,W,1985_Goody%27s_500,26,16,90,usa,Ken_Schrader,Ken Schrader,Ultra Seal,Junie_Donlavey,Ford,171,2665,engine,0,85
+1985,W,1985_Goody%27s_500,27,4,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,117,9755,engine,0,82
+1985,W,1985_Goody%27s_500,28,30,72,usa,Brent_Elliott,Brent Elliott,Morris Mini Mart,Kermit_Elliott,Buick,95,1145,ignition,0,
+1985,W,1985_Goody%27s_500,29,13,00,usa,Morgan_Shepherd,Morgan Shepherd,Helen Rae Special,Helen_Rae_Smith,Chevrolet,72,1135,brakes,1,81
+1985,W,1985_Goody%27s_500,30,12,18,usa,Tommy_Ellis,Tommy Ellis,Eric Freedlander,Eric_Freedlander,Chevrolet,43,1125,brakes,0,73
+1985,W,1985_Goody%27s_500,31,19,88,usa,Buddy_Baker,Buddy Baker,Bull Frog Knits,Buddy_Baker_Danny_Schiff,Oldsmobile,24,2125,brakes,0,70
+1985,W,1985_Holly_Farms_400,1,11,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,400,32025,running,294,185
+1985,W,1985_Holly_Farms_400,2,1,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,400,25000,running,44,175
+1985,W,1985_Holly_Farms_400,3,6,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,400,15860,running,0,165
+1985,W,1985_Holly_Farms_400,4,7,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,400,10960,running,37,165
+1985,W,1985_Holly_Farms_400,5,2,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,399,9500,running,0,155
+1985,W,1985_Holly_Farms_400,6,20,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,398,5695,running,0,150
+1985,W,1985_Holly_Farms_400,7,3,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,398,6395,running,0,146
+1985,W,1985_Holly_Farms_400,8,22,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,398,7295,running,0,142
+1985,W,1985_Holly_Farms_400,9,18,71,usa,Dave_Marcis,Dave Marcis,Transmissions Unlimited,Dave_Marcis,Chevrolet,397,5150,running,24,143
+1985,W,1985_Holly_Farms_400,10,12,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,397,9540,running,0,134
+1985,W,1985_Holly_Farms_400,11,14,18,usa,Tommy_Ellis,Tommy Ellis,Eric Freedlander,Eric_Freedlander,Chevrolet,397,1510,running,0,130
+1985,W,1985_Holly_Farms_400,12,13,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,395,4060,running,0,127
+1985,W,1985_Holly_Farms_400,13,21,17,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Roger_Hamby,Chevrolet,393,3915,running,0,124
+1985,W,1985_Holly_Farms_400,14,4,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,393,8745,running,1,126
+1985,W,1985_Holly_Farms_400,15,19,90,usa,Ken_Schrader,Ken Schrader,Ultra Seal,Junie_Donlavey,Ford,392,4555,running,0,118
+1985,W,1985_Holly_Farms_400,16,9,77,usa,Greg_Sacks,Greg Sacks,Miller American,Di_Gard,Buick,391,6385,running,0,115
+1985,W,1985_Holly_Farms_400,17,24,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Stavola_Brothers,Chevrolet,389,2570,running,0,112
+1985,W,1985_Holly_Farms_400,18,26,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King Ford & Honda,Elmo_Langley,Ford,388,3385,running,0,109
+1985,W,1985_Holly_Farms_400,19,28,6,usa,Eddie_Bierschwale,Eddie Bierschwale,U.S. Racing,D.K._Ulrich,Chevrolet,384,3300,running,0,106
+1985,W,1985_Holly_Farms_400,20,31,74,usa,Bobby_Wawak,Bobby Wawak,Superior Piping,Bobby_Wawak,Buick,384,1235,running,0,103
+1985,W,1985_Holly_Farms_400,21,27,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Pontiac,383,2995,running,0,100
+1985,W,1985_Holly_Farms_400,22,23,49,canada,Trevor_Boys,Trevor Boys,Hylton Racing,James_Hylton,Chevrolet,373,2680,running,0,97
+1985,W,1985_Holly_Farms_400,23,29,67,usa,Buddy_Arrington,Buddy Arrington,Vinton Motors,Buddy_Arrington,Ford,365,2645,rear end,0,94
+1985,W,1985_Holly_Farms_400,24,30,25,usa,Bobby_Gerhart,Bobby Gerhart,Bobby Gerhart / Billy Gerhart,Bobby_Gerhart_Billy_Gerhart,Chevrolet,365,940,running,0,91
+1985,W,1985_Holly_Farms_400,25,15,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,362,3710,running,0,88
+1985,W,1985_Holly_Farms_400,26,16,95,usa,Mike_Alexander,Mike Alexander,Sadler Racing,Sadler_Brothers,Chevrolet,337,890,running,0,85
+1985,W,1985_Holly_Farms_400,27,17,00,usa,Morgan_Shepherd,Morgan Shepherd,Helen Rae Special,Helen_Rae_Smith,Chevrolet,304,915,engine,0,82
+1985,W,1985_Holly_Farms_400,28,10,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,285,2500,engine,0,79
+1985,W,1985_Holly_Farms_400,29,25,88,usa,Buddy_Baker,Buddy Baker,Bull Frog Knits,Buddy_Baker_Danny_Schiff,Oldsmobile,121,1815,quit,0,76
+1985,W,1985_Holly_Farms_400,30,5,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,118,7865,transmission,0,73
+1985,W,1985_Holly_Farms_400,31,8,22,usa,Bobby_Allison,Bobby Allison,Miller American,Bobby_Allison,Buick,36,815,engine,0,70
+1985,W,1985_Miller_High_Life_500,1,7,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Ford,334,51600,running,49,180
+1985,W,1985_Miller_High_Life_500,2,4,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,334,65400,running,107,175
+1985,W,1985_Miller_High_Life_500,3,6,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,334,33625,running,0,165
+1985,W,1985_Miller_High_Life_500,4,12,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,333,23450,running,1,165
+1985,W,1985_Miller_High_Life_500,5,14,4,usa,Joe_Ruttman,Joe Ruttman,Folger's,Larry_McClure,Chevrolet,333,12400,running,0,155
+1985,W,1985_Miller_High_Life_500,6,2,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,333,22155,running,34,155
+1985,W,1985_Miller_High_Life_500,7,16,16,usa,Morgan_Shepherd,Morgan Shepherd,Carolina Tool,Bobby_Hawkins,Chevrolet,332,7780,running,0,146
+1985,W,1985_Miller_High_Life_500,8,18,88,usa,Buddy_Baker,Buddy Baker,Bull Frog Knits,Buddy_Baker_Danny_Schiff,Oldsmobile,332,10095,running,0,142
+1985,W,1985_Miller_High_Life_500,9,11,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",All Pro Auto Parts,Stavola_Brothers,Chevrolet,331,7925,running,0,138
+1985,W,1985_Miller_High_Life_500,10,23,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,330,12450,running,0,134
+1985,W,1985_Miller_High_Life_500,11,13,77,usa,Greg_Sacks,Greg Sacks,Miller American,Di_Gard,Buick,330,11250,running,0,130
+1985,W,1985_Miller_High_Life_500,12,19,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,329,7865,running,0,127
+1985,W,1985_Miller_High_Life_500,13,24,38,usa,Alan_Kulwicki,Alan Kulwicki,Hardee's,Bill_Terry,Ford,324,4200,running,0,124
+1985,W,1985_Miller_High_Life_500,14,21,22,usa,Bobby_Allison,Bobby Allison,Miller American,Bobby_Allison,Ford,323,4100,running,0,121
+1985,W,1985_Miller_High_Life_500,15,8,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,320,11350,running,0,118
+1985,W,1985_Miller_High_Life_500,16,42,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King Ford & Honda,Elmo_Langley,Ford,319,7155,running,0,115
+1985,W,1985_Miller_High_Life_500,17,28,67,usa,Buddy_Arrington,Buddy Arrington,Motorsports Design,Buddy_Arrington,Ford,318,6935,running,0,112
+1985,W,1985_Miller_High_Life_500,18,32,95,usa,Mike_Alexander,Mike Alexander,Action Vans,Sadler_Brothers,Chevrolet,310,3500,running,0,109
+1985,W,1985_Miller_High_Life_500,19,17,1,usa,Davey_Allison,Davey Allison,Lancaster Tobacco,Hoss_Ellington,Chevrolet,301,3600,engine,0,106
+1985,W,1985_Miller_High_Life_500,20,5,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,301,12050,running,0,103
+1985,W,1985_Miller_High_Life_500,21,31,6,usa,Eddie_Bierschwale,Eddie Bierschwale,U.S. Racing,D.K._Ulrich,Chevrolet,285,6575,running,0,100
+1985,W,1985_Miller_High_Life_500,22,20,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,265,5515,running,0,97
+1985,W,1985_Miller_High_Life_500,23,34,49,canada,Trevor_Boys,Trevor Boys,Hylton Racing,James_Hylton,Chevrolet,262,5005,clutch,0,94
+1985,W,1985_Miller_High_Life_500,24,1,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,254,42100,engine,142,101
+1985,W,1985_Miller_High_Life_500,25,10,90,usa,Ken_Schrader,Ken Schrader,Ultra Seal,Junie_Donlavey,Ford,240,4815,ignition,0,88
+1985,W,1985_Miller_High_Life_500,26,37,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,238,4075,crash,0,85
+1985,W,1985_Miller_High_Life_500,27,26,66,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Leo_Jackson_Richard_Jackson,Chevrolet,237,1600,crash,0,82
+1985,W,1985_Miller_High_Life_500,28,39,10,usa,Ken_Ragan,Ken Ragan,DiGard R&D,Di_Gard,Ford,224,1475,crash,0,79
+1985,W,1985_Miller_High_Life_500,29,33,00,usa,Sterling_Marlin,Sterling Marlin,Helen Rae Special,Helen_Rae_Smith,Chevrolet,219,1350,flywheel,0,
+1985,W,1985_Miller_High_Life_500,30,25,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,210,4540,engine,0,73
+1985,W,1985_Miller_High_Life_500,31,36,23,usa,Michael_Waltrip,Michael Waltrip,Hawaiian Punch,Dick_Bahre,Chevrolet,183,1300,engine,0,70
+1985,W,1985_Miller_High_Life_500,32,30,14,usa,A_J_Foyt,A.J. Foyt,Gilmore / Copenhagen,A.J._Foyt,Oldsmobile,177,1180,tie rod,0,67
+1985,W,1985_Miller_High_Life_500,33,15,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,163,11060,crank,1,69
+1985,W,1985_Miller_High_Life_500,34,38,71,usa,Dave_Marcis,Dave Marcis,Transmissions Unlimited,Dave_Marcis,Chevrolet,161,3395,crash,0,61
+1985,W,1985_Miller_High_Life_500,35,29,53,usa,Donny_Paul,Donny Paul,Paul Racing,Donny_Paul,Chevrolet,156,1120,engine,0,58
+1985,W,1985_Miller_High_Life_500,36,35,09,usa,Dick_Trickle,Dick Trickle,Matthews Racing,Billy_Matthews,Chevrolet,138,1250,engine,0,55
+1985,W,1985_Miller_High_Life_500,37,9,21,usa,David_Pearson,David Pearson,Chattanooga Chew,David_Pearson,Ford,118,1330,rear end,0,52
+1985,W,1985_Miller_High_Life_500,38,40,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Pontiac,114,3295,piston,0,49
+1985,W,1985_Miller_High_Life_500,39,41,17,usa,Lennie_Pond,Lennie Pond,McCord Gaskets,Roger_Hamby,Chevrolet,87,2540,engine,0,46
+1985,W,1985_Miller_High_Life_500,40,22,18,usa,Tommy_Ellis,Tommy Ellis,Eric Freedlander,Eric_Freedlander,Chevrolet,84,1020,handling,0,43
+1985,W,1985_Miller_High_Life_500,41,3,55,usa,Benny_Parsons,Benny Parsons,Copenhagen,Leo_Jackson_Richard_Jackson,Chevrolet,51,4020,fuel pump,0,40
+1985,W,1985_Miller_High_Life_500,42,27,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,11,7520,engine,0,37
+1985,W,1985_Nationwise_500,1,20,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,492,40900,running,73,180
+1985,W,1985_Nationwise_500,2,16,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,492,21055,running,68,175
+1985,W,1985_Nationwise_500,3,11,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,492,20900,running,0,165
+1985,W,1985_Nationwise_500,4,12,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,492,15675,running,1,165
+1985,W,1985_Nationwise_500,5,13,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,492,14400,running,17,160
+1985,W,1985_Nationwise_500,6,10,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,492,9915,running,4,155
+1985,W,1985_Nationwise_500,7,9,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,492,11150,running,0,146
+1985,W,1985_Nationwise_500,8,15,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,489,11800,running,32,147
+1985,W,1985_Nationwise_500,9,14,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,489,8775,running,0,138
+1985,W,1985_Nationwise_500,10,4,77,usa,Greg_Sacks,Greg Sacks,Miller American,Di_Gard,Buick,488,11350,running,0,134
+1985,W,1985_Nationwise_500,11,24,88,usa,Buddy_Baker,Buddy Baker,Bull Frog Knits,Buddy_Baker_Danny_Schiff,Oldsmobile,487,7265,running,0,130
+1985,W,1985_Nationwise_500,12,1,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,484,25125,running,134,132
+1985,W,1985_Nationwise_500,13,21,17,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Roger_Hamby,Chevrolet,484,7305,running,0,124
+1985,W,1985_Nationwise_500,14,18,71,usa,Dave_Marcis,Dave Marcis,AEL Rentals,Dave_Marcis,Chevrolet,482,6410,running,0,121
+1985,W,1985_Nationwise_500,15,8,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,481,9825,running,0,118
+1985,W,1985_Nationwise_500,16,30,67,usa,Buddy_Arrington,Buddy Arrington,Vinton Motors,Buddy_Arrington,Ford,481,5900,running,0,115
+1985,W,1985_Nationwise_500,17,31,6,usa,Eddie_Bierschwale,Eddie Bierschwale,U.S. Racing,D.K._Ulrich,Chevrolet,480,5990,running,0,112
+1985,W,1985_Nationwise_500,18,38,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Pontiac,473,5105,running,0,109
+1985,W,1985_Nationwise_500,19,22,90,usa,Ken_Schrader,Ken Schrader,Ultra Seal,Junie_Donlavey,Ford,469,4845,running,0,106
+1985,W,1985_Nationwise_500,20,27,49,canada,Trevor_Boys,Trevor Boys,Fleet Service,James_Hylton,Chevrolet,464,4725,running,0,
+1985,W,1985_Nationwise_500,21,34,87,usa,Randy_Baker,Randy Baker,Baker Driving School,Buck_Baker,Buick,453,2025,running,0,
+1985,W,1985_Nationwise_500,22,37,68,usa,Mike_Potter,Mike Potter,Eagle Snacks,Jimmy_Walker,Ford,451,1950,running,0,97
+1985,W,1985_Nationwise_500,23,33,0,usa,Jeff_McDuffie,Jeff McDuffie,Rumple Furniture,J.D._McDuffie,Pontiac,445,1875,running,0,
+1985,W,1985_Nationwise_500,24,28,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King Ford & Honda,Elmo_Langley,Ford,441,4065,running,0,91
+1985,W,1985_Nationwise_500,25,19,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Stavola_Brothers,Chevrolet,433,2580,running,0,88
+1985,W,1985_Nationwise_500,26,36,70,usa,J_D_McDuffie,J.D. McDuffie,Rumple Furniture,J.D._McDuffie,Chevrolet,408,3910,running,0,85
+1985,W,1985_Nationwise_500,27,25,38,usa,Alan_Kulwicki,Alan Kulwicki,Hardee's,Bill_Terry,Ford,398,1625,transmission,0,82
+1985,W,1985_Nationwise_500,28,5,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Ford,391,2075,crash,149,89
+1985,W,1985_Nationwise_500,29,2,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,390,3275,crash,0,76
+1985,W,1985_Nationwise_500,30,3,18,usa,Tommy_Ellis,Tommy Ellis,Eric Freedlander,Eric_Freedlander,Chevrolet,384,1575,crash,0,73
+1985,W,1985_Nationwise_500,31,6,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,367,2900,running,0,70
+1985,W,1985_Nationwise_500,32,40,65,usa,D_K_Ulrich,D.K. Ulrich,Ulrich Racing,D.K._Ulrich,Buick,286,1350,rear end,0,
+1985,W,1985_Nationwise_500,33,23,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,282,7800,engine,14,69
+1985,W,1985_Nationwise_500,34,35,74,usa,Bobby_Wawak,Bobby Wawak,Superior Piping,Bobby_Wawak,Buick,268,1250,engine,0,61
+1985,W,1985_Nationwise_500,35,29,96,usa,Jerry_Bowman,Jerry Bowman,Milford Fertilizer,Jerry_Bowman,Ford,267,1200,engine,0,58
+1985,W,1985_Nationwise_500,36,39,40,usa,Jonathan_Lee_Edwards,Jonathan Lee Edwards,Edwards Racing,Jonathan_Lee_Edwards,Buick,194,1175,engine,0,55
+1985,W,1985_Nationwise_500,37,32,08,usa,Craig_Spetman,Craig Spetman,Carl Anderson's,Carl_Anderson,Chevrolet,188,1150,crash,0,52
+1985,W,1985_Nationwise_500,38,17,22,usa,Bobby_Allison,Bobby Allison,Miller American,Bobby_Allison,Buick,143,1100,rear end,0,49
+1985,W,1985_Nationwise_500,39,26,35,usa,Morgan_Shepherd,Morgan Shepherd,Hanover Printing,Wayne_Beahr,Ford,123,1075,engine,0,46
+1985,W,1985_Nationwise_500,40,7,4,usa,Joe_Ruttman,Joe Ruttman,Folger's Coffee,Larry_McClure,Chevrolet,9,1055,crash,0,43
+1985,W,1985_Atlanta_Journal_500,1,3,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,328,57650,running,175,185
+1985,W,1985_Atlanta_Journal_500,2,9,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Ford,328,29600,running,137,175
+1985,W,1985_Atlanta_Journal_500,3,6,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,328,21125,running,2,170
+1985,W,1985_Atlanta_Journal_500,4,13,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,328,15300,running,0,160
+1985,W,1985_Atlanta_Journal_500,5,14,16,usa,Morgan_Shepherd,Morgan Shepherd,Carolina Tool,Bobby_Hawkins,Chevrolet,327,7150,running,0,155
+1985,W,1985_Atlanta_Journal_500,6,4,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,327,15025,running,0,150
+1985,W,1985_Atlanta_Journal_500,7,20,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,327,8805,running,0,146
+1985,W,1985_Atlanta_Journal_500,8,1,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Chevrolet,327,15675,running,14,147
+1985,W,1985_Atlanta_Journal_500,9,15,77,usa,Greg_Sacks,Greg Sacks,Miller American,Di_Gard,Buick,327,10150,running,0,138
+1985,W,1985_Atlanta_Journal_500,10,5,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,326,10675,running,0,134
+1985,W,1985_Atlanta_Journal_500,11,2,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,326,10915,running,0,130
+1985,W,1985_Atlanta_Journal_500,12,27,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,326,9005,running,0,127
+1985,W,1985_Atlanta_Journal_500,13,17,88,usa,Buddy_Baker,Buddy Baker,Bull Frog Knits,Buddy_Baker_Danny_Schiff,Oldsmobile,326,6490,running,0,124
+1985,W,1985_Atlanta_Journal_500,14,29,66,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Leo_Jackson_Richard_Jackson,Chevrolet,325,2385,running,0,121
+1985,W,1985_Atlanta_Journal_500,15,26,90,usa,Ken_Schrader,Ken Schrader,Sunny King Ford & Honda,Junie_Donlavey,Ford,325,6560,running,0,118
+1985,W,1985_Atlanta_Journal_500,16,11,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,325,5730,running,0,115
+1985,W,1985_Atlanta_Journal_500,17,21,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,324,7510,running,0,112
+1985,W,1985_Atlanta_Journal_500,18,31,21,usa,Rick_Wilson,Rick Wilson,Ellington Insulation,Hoss_Ellington,Chevrolet,321,1945,running,0,109
+1985,W,1985_Atlanta_Journal_500,19,10,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Stavola_Brothers,Chevrolet,320,3670,running,0,106
+1985,W,1985_Atlanta_Journal_500,20,16,67,usa,Buddy_Arrington,Buddy Arrington,Motorsports Design,Buddy_Arrington,Ford,319,5250,running,0,103
+1985,W,1985_Atlanta_Journal_500,21,34,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,317,5560,engine,0,100
+1985,W,1985_Atlanta_Journal_500,22,25,38,usa,Alan_Kulwicki,Alan Kulwicki,Hardee's,Bill_Terry,Ford,317,1565,running,0,97
+1985,W,1985_Atlanta_Journal_500,23,28,45,usa,Rick_Baldwin,Rick Baldwin,Morris Racing,Bob_Morris,Pontiac,316,1485,running,0,94
+1985,W,1985_Atlanta_Journal_500,24,39,6,usa,Eddie_Bierschwale,Eddie Bierschwale,V-R Racing,D.K._Ulrich,Chevrolet,314,4110,running,0,91
+1985,W,1985_Atlanta_Journal_500,25,36,31,usa,Chet_Fillip,Chet Fillip,Circle Bar Truck Corral,Tom_Mitchell,Ford,308,1425,running,0,88
+1985,W,1985_Atlanta_Journal_500,26,24,22,usa,Bobby_Allison,Bobby Allison,Miller American,Bobby_Allison,Buick,305,1295,running,0,85
+1985,W,1985_Atlanta_Journal_500,27,40,70,usa,J_D_McDuffie,J.D. McDuffie,Rumple Furniture,J.D._McDuffie,Pontiac,305,3810,running,0,82
+1985,W,1985_Atlanta_Journal_500,28,38,71,usa,Dave_Marcis,Dave Marcis,AEL Rentals,Dave_Marcis,Chevrolet,272,4010,running,0,79
+1985,W,1985_Atlanta_Journal_500,29,23,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,267,3970,crash,0,76
+1985,W,1985_Atlanta_Journal_500,30,30,72,usa,Sammy_Swindell,Sammy Swindell,Sizzler,Raymond_Beadle,Chevrolet,242,1175,crash,0,73
+1985,W,1985_Atlanta_Journal_500,31,7,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,208,7650,piston,0,70
+1985,W,1985_Atlanta_Journal_500,32,12,4,usa,Joe_Ruttman,Joe Ruttman,Folger's Decaffeinated,Larry_McClure,Chevrolet,198,1125,valve,0,67
+1985,W,1985_Atlanta_Journal_500,33,8,55,usa,Benny_Parsons,Benny Parsons,Copenhagen,Leo_Jackson_Richard_Jackson,Chevrolet,190,1200,axle,0,64
+1985,W,1985_Atlanta_Journal_500,34,37,17,usa,Ken_Ragan,Ken Ragan,McCord Gaskets,Roger_Hamby,Chevrolet,181,3335,engine,0,61
+1985,W,1985_Atlanta_Journal_500,35,18,99,usa,Connie_Saylor,Connie Saylor,Ball Racing,Ralph_Ball,Chevrolet,172,1065,oil pump,0,58
+1985,W,1985_Atlanta_Journal_500,36,35,18,usa,Tommy_Ellis,Tommy Ellis,Eric Freedlander,Eric_Freedlander,Chevrolet,164,1050,engine,0,55
+1985,W,1985_Atlanta_Journal_500,37,42,49,canada,Trevor_Boys,Trevor Boys,McCaig Racing,James_Hylton,Chevrolet,135,3270,engine,0,52
+1985,W,1985_Atlanta_Journal_500,38,22,14,usa,A_J_Foyt,A.J. Foyt,Copenhagen,A.J._Foyt,Oldsmobile,117,1020,crash,0,49
+1985,W,1985_Atlanta_Journal_500,39,19,23,usa,Michael_Waltrip,Michael Waltrip,Hawaiian Punch,Dick_Bahre,Chevrolet,92,1005,crash,0,46
+1985,W,1985_Atlanta_Journal_500,40,41,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King Ford & Honda,Elmo_Langley,Ford,90,2490,crash,0,43
+1985,W,1985_Atlanta_Journal_500,41,33,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Pontiac,64,2490,engine,0,40
+1985,W,1985_Atlanta_Journal_500,42,32,1,usa,Davey_Allison,Davey Allison,Lancaster Premium,Hoss_Ellington,Chevrolet,52,990,engine,0,37
+1985,W,1985_Winston_Western_500,1,4,15,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Bud_Moore,Ford,119,37875,running,27,180
+1985,W,1985_Winston_Western_500,2,1,44,usa,Terry_Labonte,Terry Labonte,Piedmont Airlines,Billy_Hagan,Chevrolet,119,38375,running,78,180
+1985,W,1985_Winston_Western_500,3,13,12,usa,Neil_Bonnett,Neil Bonnett,Budweiser,Junior_Johnson,Chevrolet,119,18550,running,3,170
+1985,W,1985_Winston_Western_500,4,8,33,usa,Harry_Gant,Harry Gant,Skoal,Hal_Needham,Chevrolet,119,16225,running,1,165
+1985,W,1985_Winston_Western_500,5,7,3,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Richard_Childress,Chevrolet,119,13175,running,6,160
+1985,W,1985_Winston_Western_500,6,11,5,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,119,12150,running,2,155
+1985,W,1985_Winston_Western_500,7,3,11,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Junior_Johnson,Chevrolet,119,12350,running,1,151
+1985,W,1985_Winston_Western_500,8,21,43,usa,Richard_Petty,Richard Petty,STP,Mike_Curb,Pontiac,119,9900,running,0,142
+1985,W,1985_Winston_Western_500,9,12,75,usa,Lake_Speed,Lake Speed,Nationwise Auto Parts,Rahmoc_Enterprises,Pontiac,118,7255,running,1,143
+1985,W,1985_Winston_Western_500,10,10,47,usa,Ron_Bouchard,Ron Bouchard,Valvoline,Jack_Beebe,Buick,118,7845,running,0,134
+1985,W,1985_Winston_Western_500,11,15,18,usa,Glen_Steurer,Glen Steurer,Stick Only / Hooper's,Glen_Steurer,Chevrolet,118,4875,running,0,130
+1985,W,1985_Winston_Western_500,12,16,78,usa,Jim_Robinson,Jim Robinson,Hammer Security,Lois_Williams,Oldsmobile,117,5615,running,0,127
+1985,W,1985_Winston_Western_500,13,20,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Stavola Brothers,Stavola_Brothers,Chevrolet,117,4305,running,0,124
+1985,W,1985_Winston_Western_500,14,18,32,usa,Ruben_Garcia,Ruben Garcia,Suncrest Motorhomes,Fred_Stoke,Chevrolet,117,4085,running,0,121
+1985,W,1985_Winston_Western_500,15,31,73,usa,Bill_Schmitt,Bill Schmitt,California Cooler,Bill_Schmitt,Chevrolet,117,4375,running,0,118
+1985,W,1985_Winston_Western_500,16,14,98,usa,Jim_Bown,Jim Bown,Wholesale Truck Parts,Johnny_Kieper,Chevrolet,117,3420,running,0,115
+1985,W,1985_Winston_Western_500,17,6,22,usa,Bobby_Allison,Bobby Allison,Miller,Bobby_Allison,Buick,117,1955,running,0,112
+1985,W,1985_Winston_Western_500,18,19,71,usa,Dave_Marcis,Dave Marcis,Dave Marcis,Dave_Marcis,Oldsmobile,116,4610,running,0,109
+1985,W,1985_Winston_Western_500,19,35,07,usa,Derrike_Cope,Derrike Cope,7-Eleven,George_Jefferson,Ford,116,2900,running,0,106
+1985,W,1985_Winston_Western_500,20,26,52,usa,Jimmy_Means,Jimmy Means,Barnicle Oil Co.,Jimmy_Means,Pontiac,116,4430,running,0,103
+1985,W,1985_Winston_Western_500,21,24,77,usa,Greg_Sacks,Greg Sacks,Miller,Di_Gard,Buick,116,8255,transmission,0,100
+1985,W,1985_Winston_Western_500,22,33,67,usa,Buddy_Arrington,Buddy Arrington,Buddy Arrington,Buddy_Arrington,Ford,115,3970,running,0,97
+1985,W,1985_Winston_Western_500,23,28,90,usa,Ken_Schrader,Ken Schrader,Sunny King,Junie_Donlavey,Ford,115,4410,running,0,94
+1985,W,1985_Winston_Western_500,24,36,16,usa,Bill_Osborne_(2),Bill Osborne,Hackmankars,Bill_Osborne,Buick,115,2340,running,0,91
+1985,W,1985_Winston_Western_500,25,23,70,usa,J_D_McDuffie,J.D. McDuffie,Rumple Furniture,J.D._McDuffie,Pontiac,114,3155,running,0,88
+1985,W,1985_Winston_Western_500,26,17,04,usa,Hershel_McGriff,Hershel McGriff,WAL Auction,Gary_Smith,Pontiac,114,1425,running,0,85
+1985,W,1985_Winston_Western_500,27,9,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Wood_Brothers,Ford,113,2875,running,0,82
+1985,W,1985_Winston_Western_500,28,37,64,usa,Clark_Dwyer,Clark Dwyer,Sunny King,Elmo_Langley,Ford,112,2825,running,0,79
+1985,W,1985_Winston_Western_500,29,34,99,usa,Blair_Aiken,Blair Aiken,Fred Stoke Racing,Fred_Stoke,Chevrolet,111,1275,running,0,76
+1985,W,1985_Winston_Western_500,30,38,94,usa,John_Soares_Jr,"John Soares, Jr.",R.P.M.,John_Soares_Jr.,Pontiac,105,1225,running,0,73
+1985,W,1985_Winston_Western_500,31,5,9,usa,Bill_Elliott,Bill Elliott,Coors,Harry_Melling,Ford,96,10000,running,0,70
+1985,W,1985_Winston_Western_500,32,39,6,usa,Eddie_Bierschwale,Eddie Bierschwale,U.S. Racing,D.K._Ulrich,Chevrolet,88,2675,engine,0,67
+1985,W,1985_Winston_Western_500,33,30,17,usa,Phil_Parsons,Phil Parsons,Skoal,Roger_Hamby,Chevrolet,86,2650,engine,0,64
+1985,W,1985_Winston_Western_500,34,29,29,usa,Scott_Autrey,Scott Autrey,McIntosh Ranch,Dick_Midgley,Chevrolet,79,1125,transmission,0,61
+1985,W,1985_Winston_Western_500,35,22,88,usa,Buddy_Baker,Buddy Baker,Bull Frog Knits / Liquid Wrench,Buddy_Baker_Danny_Schiff,Oldsmobile,78,2600,tie rod,0,58
+1985,W,1985_Winston_Western_500,36,25,2,usa,Rusty_Wallace,Rusty Wallace,Alugard,Cliff_Stewart,Pontiac,70,3500,engine,0,55
+1985,W,1985_Winston_Western_500,37,2,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,46,2475,crash,0,52
+1985,W,1985_Winston_Western_500,38,40,35,usa,Bud_Hickey,Bud Hickey,Vee-Lee / Stick Only,Pat_Mintey,Chevrolet,40,950,shocks,0,49
+1985,W,1985_Winston_Western_500,39,41,45,usa,Rick_McCray,Rick McCray,Erlich Motors,Rick_McCray,Chevrolet,37,925,engine,0,46
+1985,W,1985_Winston_Western_500,40,32,24,canada,Trevor_Boys,Trevor Boys,Jim Testa,Buddie_Boys,Chevrolet,14,925,steering,0,43
+1985,W,1985_Winston_Western_500,41,27,49,usa,Ron_Esau,Ron Esau,McDonald's,James_Hylton,Chevrolet,10,2925,engine,0,40

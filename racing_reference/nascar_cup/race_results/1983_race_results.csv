@@ -1,0 +1,1077 @@
+season,series_id,race_id,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
+1983,W,1983_Daytona_500,1,8,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Pontiac,200,119600,running,23,180
+1983,W,1983_Daytona_500,2,17,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,200,66425,running,6,175
+1983,W,1983_Daytona_500,3,5,21,usa,Buddy_Baker,Buddy Baker,Valvoline,Wood_Brothers,Ford,200,59650,running,35,170
+1983,W,1983_Daytona_500,4,11,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Chevrolet,200,55980,running,57,170
+1983,W,1983_Daytona_500,5,10,90,usa,Dick_Brooks,Dick Brooks,Sunny King Ford & Honda / Burger King,Junie_Donlavey,Ford,199,44545,running,15,160
+1983,W,1983_Daytona_500,6,41,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,199,33175,running,0,150
+1983,W,1983_Daytona_500,7,22,53,usa,Tom_Sneva,Tom Sneva,Simoniz BodyGard,Bay_Darnell,Chevrolet,199,27900,running,0,146
+1983,W,1983_Daytona_500,8,15,16,usa,David_Pearson,David Pearson,Chattanooga Chew,Bobby_Hawkins,Chevrolet,198,25100,running,0,142
+1983,W,1983_Daytona_500,9,35,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Chevrolet,198,29400,running,0,138
+1983,W,1983_Daytona_500,10,18,84,usa,Jody_Ridley,Jody Ridley,Cumberland Mills,Robert_McEntyre,Buick,197,20900,running,0,134
+1983,W,1983_Daytona_500,11,9,14,usa,A_J_Foyt,A.J. Foyt,Valvoline,A.J._Foyt,Chevrolet,197,20000,running,0,130
+1983,W,1983_Daytona_500,12,39,51,usa,Lennie_Pond,Lennie Pond,Native Tan,Tom_Beck,Buick,197,15000,running,0,127
+1983,W,1983_Daytona_500,13,32,66,usa,Phil_Parsons,Phil Parsons,Skoal,Johnny_Hayes,Buick,196,13700,running,0,124
+1983,W,1983_Daytona_500,14,42,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Buick,196,15965,running,0,121
+1983,W,1983_Daytona_500,15,27,89,usa,Dean_Roper,Dean Roper,Evinrude Motors,Mueller_Brothers,Pontiac,194,12800,running,0,118
+1983,W,1983_Daytona_500,16,34,67,usa,Buddy_Arrington,Buddy Arrington,Arrington Racing,Buddy_Arrington,Chrysler,194,14055,running,0,115
+1983,W,1983_Daytona_500,17,36,41,usa,Ronnie_Thomas,Ronnie Thomas,Advance Auto Parts,Ronnie_Thomas,Pontiac,192,10500,running,0,112
+1983,W,1983_Daytona_500,18,20,6,usa,Jim_Sauter,Jim Sauter,Ulrich Racing,D.K._Ulrich,Chevrolet,191,13735,running,0,109
+1983,W,1983_Daytona_500,19,28,26,usa,Ronnie_Hopkins,Ronnie Hopkins,Food Country USA,Charlie_Henderson,Buick,191,9400,running,0,106
+1983,W,1983_Daytona_500,20,30,04,usa,Rick_Baldwin,Rick Baldwin,Baldwin Racing,Rick_Baldwin,Dodge,188,8900,running,0,103
+1983,W,1983_Daytona_500,21,40,10,usa,Clark_Dwyer,Clark Dwyer,Kings Inn,Roger_Hamby,Chevrolet,188,7100,running,0,100
+1983,W,1983_Daytona_500,22,4,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,187,32400,running,9,102
+1983,W,1983_Daytona_500,23,29,48,usa,James_Hylton,James Hylton,Palatine Auto Parts,James_Hylton,Chevrolet,184,9400,running,0,94
+1983,W,1983_Daytona_500,24,1,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,182,16515,cam,1,96
+1983,W,1983_Daytona_500,25,16,1,usa,Lake_Speed,Lake Speed,UNO,Hoss_Ellington,Chevrolet,178,7550,engine,0,88
+1983,W,1983_Daytona_500,26,23,47,usa,Ron_Bouchard,Ron Bouchard,Foster Grant,Jack_Beebe,Buick,162,9205,engine,0,85
+1983,W,1983_Daytona_500,27,25,64,usa,Tommy_Gale,Tommy Gale,Sunny King Ford & Honda,Elmo_Langley,Ford,149,8795,engine,0,82
+1983,W,1983_Daytona_500,28,12,2,usa,Mark_Martin,Mark Martin,Valvring,Jim_Stacy,Buick,136,15000,crash,0,79
+1983,W,1983_Daytona_500,29,37,70,usa,J_D_McDuffie,J.D. McDuffie,Wilder's,J.D._McDuffie,Pontiac,132,7375,engine,0,76
+1983,W,1983_Daytona_500,30,2,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,106,12065,engine,14,78
+1983,W,1983_Daytona_500,31,38,0,usa,Delma_Cowart,Delma Cowart,Coastal Transmissions,H.L._Waters,Buick,102,4300,crash,0,70
+1983,W,1983_Daytona_500,32,21,71,usa,Dave_Marcis,Dave Marcis,Transmissions Unlimited,Dave_Marcis,Chevrolet,100,13650,piston,0,67
+1983,W,1983_Daytona_500,33,7,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,99,19666,engine,9,69
+1983,W,1983_Daytona_500,34,33,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Chevrolet,69,6485,piston,0,61
+1983,W,1983_Daytona_500,35,3,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,63,37011,engine,2,63
+1983,W,1983_Daytona_500,36,31,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi Challenger,Junior_Johnson,Chevrolet,62,16100,crash,0,55
+1983,W,1983_Daytona_500,37,13,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,56,14050,engine,0,52
+1983,W,1983_Daytona_500,38,6,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,47,22600,engine,29,54
+1983,W,1983_Daytona_500,39,26,32,usa,Bosco_Lowe,Bosco Lowe,Clinomint,Bill_Terry,Buick,36,5350,crash,0,46
+1983,W,1983_Daytona_500,40,19,23,usa,Elliott_Forbes-Robinson,Elliott Forbes-Robinson,Yurika Foods,Dick_Bahre,Buick,36,5550,engine,0,43
+1983,W,1983_Daytona_500,41,24,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,24,5350,engine,0,40
+1983,W,1983_Daytona_500,42,14,55,usa,Benny_Parsons,Benny Parsons,Skoal,Johnny_Hayes,Buick,8,5950,push rod,0,37
+1983,W,1983_Richmond_400,1,6,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Chevrolet,400,23725,running,117,180
+1983,W,1983_Richmond_400,2,8,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,400,16575,running,81,175
+1983,W,1983_Richmond_400,3,13,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,400,9975,running,1,170
+1983,W,1983_Richmond_400,4,7,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,399,8445,running,1,165
+1983,W,1983_Richmond_400,5,12,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,399,11260,running,6,160
+1983,W,1983_Richmond_400,6,18,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,398,5660,running,0,150
+1983,W,1983_Richmond_400,7,2,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Buick,398,8075,running,161,156
+1983,W,1983_Richmond_400,8,10,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,398,7210,running,0,142
+1983,W,1983_Richmond_400,9,16,71,usa,Dave_Marcis,Dave Marcis,Hudson,Dave_Marcis,Chevrolet,397,8360,running,0,138
+1983,W,1983_Richmond_400,10,19,21,usa,Buddy_Baker,Buddy Baker,Valvoline,Wood_Brothers,Ford,396,2510,running,0,134
+1983,W,1983_Richmond_400,11,21,01,usa,Butch_Lindley,Butch Lindley,Miller Time,Emanuel_Zervakis,Buick,396,2485,running,7,135
+1983,W,1983_Richmond_400,12,5,47,usa,Ron_Bouchard,Ron Bouchard,Foster Grant,Jack_Beebe,Buick,396,3940,running,0,127
+1983,W,1983_Richmond_400,13,17,90,usa,Dick_Brooks,Dick Brooks,Chameleon Sunglasses,Junie_Donlavey,Ford,395,3600,running,0,124
+1983,W,1983_Richmond_400,14,31,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,395,3410,running,0,121
+1983,W,1983_Richmond_400,15,11,1,usa,Lake_Speed,Lake Speed,UNO,Hoss_Ellington,Chevrolet,395,1530,running,0,118
+1983,W,1983_Richmond_400,16,28,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Chevrolet,393,3140,running,0,115
+1983,W,1983_Richmond_400,17,27,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,392,1320,running,0,112
+1983,W,1983_Richmond_400,18,25,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Pontiac,391,3520,running,0,109
+1983,W,1983_Richmond_400,19,15,6,usa,Jim_Sauter,Jim Sauter,Ulrich Racing,D.K._Ulrich,Buick,389,2665,running,0,106
+1983,W,1983_Richmond_400,20,32,67,usa,Buddy_Arrington,Buddy Arrington,Jim Peacock,Buddy_Arrington,Dodge,380,2400,running,0,103
+1983,W,1983_Richmond_400,21,23,48,usa,James_Hylton,James Hylton,Palatine Auto Parts,James_Hylton,Chevrolet,372,2705,running,0,100
+1983,W,1983_Richmond_400,22,3,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,359,1710,running,0,97
+1983,W,1983_Richmond_400,23,20,41,usa,Ronnie_Thomas,Ronnie Thomas,Advance Auto Parts,Ronnie_Thomas,Pontiac,356,1015,running,0,94
+1983,W,1983_Richmond_400,24,9,2,usa,Mark_Martin,Mark Martin,Valvring,Jim_Stacy,Buick,344,7270,running,0,91
+1983,W,1983_Richmond_400,25,29,70,usa,J_D_McDuffie,J.D. McDuffie,Bailey Excavating,J.D._McDuffie,Pontiac,298,1425,running,0,88
+1983,W,1983_Richmond_400,26,26,92,usa,Joe_Fields,Joe Fields,Fields Racing,Joe_Fields,Buick,284,880,running,0,85
+1983,W,1983_Richmond_400,27,22,18,usa,Slick_Johnson,Slick Johnson,The Pioneer,Leon_Satterfield,Buick,247,1000,engine,0,82
+1983,W,1983_Richmond_400,28,1,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,177,3615,engine,26,84
+1983,W,1983_Richmond_400,29,4,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi Challenger,Junior_Johnson,Chevrolet,149,9295,rear end,0,76
+1983,W,1983_Richmond_400,30,14,29,usa,Dave_Dion,Dave Dion,Champion Buses,Dave_Dion,Ford,50,700,crash,0,73
+1983,W,1983_Richmond_400,31,24,35,usa,Morgan_Shepherd,Morgan Shepherd,Beahr Racing,Wayne_Beahr,Ford,50,850,head gasket,0,0
+1983,W,1983_Richmond_400,32,30,02,usa,Tommy_Gale,Tommy Gale,Midlothian Texaco,Bud_Reeder,Buick,50,1200,crash,0,67
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,1,12,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,492,24150,running,48,180
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,2,6,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,492,14990,running,10,175
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,3,11,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi Challenger,Junior_Johnson,Chevrolet,492,17760,running,3,170
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,4,17,1,usa,Lake_Speed,Lake Speed,UNO,Hoss_Ellington,Chevrolet,489,5110,running,0,160
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,5,7,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,489,12335,running,0,155
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,6,1,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,489,8465,running,30,155
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,7,13,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,488,3235,running,2,151
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,8,19,90,usa,Dick_Brooks,Dick Brooks,Chameleon Sunglasses,Junie_Donlavey,Ford,486,6645,running,1,147
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,9,5,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Chevrolet,486,7335,running,161,148
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,10,3,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Chevrolet,484,10695,running,21,139
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,11,8,2,usa,Mark_Martin,Mark Martin,Valvring,Jim_Stacy,Buick,484,8510,running,0,130
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,12,2,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,483,5155,rear end,153,132
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,13,27,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Pontiac,477,5190,running,0,124
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,14,29,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Pontiac,473,4480,running,0,121
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,15,15,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,468,4370,running,0,118
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,16,34,74,usa,Bobby_Wawak,Bobby Wawak,Superior Piping,Bobby_Wawak,Buick,466,1840,running,0,115
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,17,23,26,usa,Ronnie_Hopkins,Ronnie Hopkins,Food Country USA,Charlie_Henderson,Buick,457,1785,running,0,112
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,18,32,02,usa,D_K_Ulrich,D.K. Ulrich,Price Racing,Bud_Reeder,Buick,416,3900,running,0,109
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,19,18,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,401,4750,crash,57,111
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,20,9,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,395,3550,running,0,103
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,21,28,64,usa,Tommy_Gale,Tommy Gale,Sunny King Ford & Honda,Elmo_Langley,Ford,382,3195,crash,0,100
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,22,31,67,usa,Buddy_Arrington,Buddy Arrington,Arrington Racing,Buddy_Arrington,Chrysler,355,3145,rear end,0,97
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,23,20,18,usa,Slick_Johnson,Slick Johnson,Satterfield Racing,Leon_Satterfield,Buick,307,1425,rear end,0,94
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,24,14,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,279,3055,engine,0,91
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,25,26,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.","Bobby Hillin, Sr.",Bobby_Hillin_Sr,Buick,250,1345,rear end,0,88
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,26,24,6,usa,Jim_Sauter,Jim Sauter,Ulrich Racing,D.K._Ulrich,Buick,238,2965,oil pump,0,85
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,27,25,41,usa,Ronnie_Thomas,Ronnie Thomas,Advance Auto Parts,Ronnie_Thomas,Pontiac,219,1265,engine,0,82
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,28,33,20,usa,Rick_Newsom,Rick Newsom,Bull Frog Knits,Rick_Newsom,Chevrolet,199,1225,engine,0,79
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,29,10,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Buick,176,3685,crash,0,76
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,30,30,70,usa,J_D_McDuffie,J.D. McDuffie,Bailey Excavating,J.D._McDuffie,Pontiac,157,2145,engine,0,73
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,31,21,48,usa,Lennie_Pond,Lennie Pond,Palatine Auto Parts,James_Hylton,Pontiac,141,2655,engine,0,70
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,32,16,21,usa,Buddy_Baker,Buddy Baker,Valvoline,Wood_Brothers,Ford,108,1390,engine,0,67
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,33,4,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,73,8000,crash,6,69
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,34,22,71,usa,Dave_Marcis,Dave Marcis,Hudson,Dave_Marcis,Chevrolet,38,8410,engine,0,61
+1983,W,1983_Warner_W._Hodgdon_Carolina_500,35,35,06,usa,Ernie_Cline,Ernie Cline,Brochure Furniture,Ernie_Cline,Pontiac,35,910,crash,0,58
+1983,W,1983_Coca-Cola_500,1,22,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Chevrolet,328,33300,running,78,180
+1983,W,1983_Coca-Cola_500,2,6,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,328,34530,running,83,180
+1983,W,1983_Coca-Cola_500,3,2,21,usa,Buddy_Baker,Buddy Baker,Valvoline,Wood_Brothers,Ford,328,12125,running,0,165
+1983,W,1983_Coca-Cola_500,4,5,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Buick,328,13620,running,10,165
+1983,W,1983_Coca-Cola_500,5,11,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,328,12650,running,76,160
+1983,W,1983_Coca-Cola_500,6,14,90,usa,Dick_Brooks,Dick Brooks,Simoniz,Junie_Donlavey,Ford,328,8575,running,18,155
+1983,W,1983_Coca-Cola_500,7,12,2,usa,Mark_Martin,Mark Martin,Valvring,Jim_Stacy,Buick,328,12400,running,0,146
+1983,W,1983_Coca-Cola_500,8,9,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,328,7265,running,0,142
+1983,W,1983_Coca-Cola_500,9,16,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,327,5000,running,0,138
+1983,W,1983_Coca-Cola_500,10,20,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,326,6805,running,0,134
+1983,W,1983_Coca-Cola_500,11,19,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,326,10475,running,0,130
+1983,W,1983_Coca-Cola_500,12,15,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,325,5360,running,0,127
+1983,W,1983_Coca-Cola_500,13,29,71,usa,Dave_Marcis,Dave Marcis,Atlantic Building System,Dave_Marcis,Chevrolet,324,9800,running,0,124
+1983,W,1983_Coca-Cola_500,14,17,55,usa,Benny_Parsons,Benny Parsons,Skoal,Johnny_Hayes,Buick,323,2300,engine,11,126
+1983,W,1983_Coca-Cola_500,15,26,1,usa,Lake_Speed,Lake Speed,UNO,Hoss_Ellington,Chevrolet,323,2375,running,0,118
+1983,W,1983_Coca-Cola_500,16,24,67,usa,Buddy_Arrington,Buddy Arrington,Reid's Trailer Sales / Landmark Dodge,Buddy_Arrington,Chrysler,323,4725,running,1,120
+1983,W,1983_Coca-Cola_500,17,23,84,usa,Jody_Ridley,Jody Ridley,Cumberland Mills,Robert_McEntyre,Buick,320,1965,running,0,112
+1983,W,1983_Coca-Cola_500,18,33,74,usa,Bobby_Wawak,Bobby Wawak,Superior Piping,Bobby_Wawak,Buick,320,1830,running,0,109
+1983,W,1983_Coca-Cola_500,19,35,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",B.J. Racing,Bobby_Hillin_Sr,Buick,318,2225,running,0,106
+1983,W,1983_Coca-Cola_500,20,36,86,usa,Darryl_Sage,Darryl Sage,Sage Racing,Lee_Sage,Chevrolet,318,1620,running,0,103
+1983,W,1983_Coca-Cola_500,21,31,26,usa,Ronnie_Hopkins,Ronnie Hopkins,Food Country USA,Charlie_Henderson,Buick,315,1515,running,0,100
+1983,W,1983_Coca-Cola_500,22,37,36,usa,H_B_Bailey,H.B. Bailey,Almeda Auto Parts,H.B._Bailey,Pontiac,315,1410,running,0,97
+1983,W,1983_Coca-Cola_500,23,13,64,usa,Tommy_Gale,Tommy Gale,Sunny King Ford & Honda,Elmo_Langley,Ford,312,3770,running,0,94
+1983,W,1983_Coca-Cola_500,24,41,41,usa,Ronnie_Thomas,Ronnie Thomas,Advance Auto Parts,Ronnie_Thomas,Pontiac,311,1300,running,0,91
+1983,W,1983_Coca-Cola_500,25,4,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,303,9270,engine,0,88
+1983,W,1983_Coca-Cola_500,26,39,03,usa,Eddie_Bierschwale,Eddie Bierschwale,Indian Hill Park,Don_Bierschwale,Buick,289,1240,engine,0,85
+1983,W,1983_Coca-Cola_500,27,40,57,usa,Ken_Ragan,Ken Ragan,Clinomint,Marvin_Ragan,Buick,281,1210,crash,0,82
+1983,W,1983_Coca-Cola_500,28,25,80,usa,Bob_Senneker,Bob Senneker,Elk Vans,Terry_Marra,Pontiac,277,1180,crash,0,79
+1983,W,1983_Coca-Cola_500,29,27,6,usa,Jim_Sauter,Jim Sauter,Ulrich Racing,D.K._Ulrich,Chevrolet,275,3400,crash,0,76
+1983,W,1983_Coca-Cola_500,30,3,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,272,3165,engine,0,73
+1983,W,1983_Coca-Cola_500,31,28,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Chevrolet,270,2880,crash,0,70
+1983,W,1983_Coca-Cola_500,32,38,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Buick,270,2855,crash,0,67
+1983,W,1983_Coca-Cola_500,33,8,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,246,8075,engine,34,69
+1983,W,1983_Coca-Cola_500,34,18,18,usa,Slick_Johnson,Slick Johnson,Leon Satterfield,Leon_Satterfield,Buick,242,1060,running,0,61
+1983,W,1983_Coca-Cola_500,35,21,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,204,2800,oil pump,1,63
+1983,W,1983_Coca-Cola_500,36,34,19,usa,J_D_McDuffie,J.D. McDuffie,Bojangles',Henley_Gray,Buick,177,1030,valve,0,55
+1983,W,1983_Coca-Cola_500,37,30,54,usa,David_Simko,David Simko,Mound Steel,Elmer_Simko,Oldsmobile,154,1315,engine,0,52
+1983,W,1983_Coca-Cola_500,38,10,14,usa,A_J_Foyt,A.J. Foyt,Foyt Enterprises,A.J._Foyt,Chevrolet,139,1000,valve,0,49
+1983,W,1983_Coca-Cola_500,39,32,24,usa,Jim_Vandiver,Jim Vandiver,J.S. Dismuke,Cecil_Gordon,Chrysler,79,1985,crash,0,46
+1983,W,1983_Coca-Cola_500,40,7,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi Challenger,Junior_Johnson,Chevrolet,40,10920,engine,0,43
+1983,W,1983_Coca-Cola_500,41,1,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,18,5905,valve,16,45
+1983,W,1983_TranSouth_500,1,5,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,367,30050,running,2,180
+1983,W,1983_TranSouth_500,2,2,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi Challenger,Junior_Johnson,Chevrolet,367,24525,running,70,175
+1983,W,1983_TranSouth_500,3,10,2,usa,Mark_Martin,Mark Martin,ACM Equipment Sales,Jim_Stacy,Buick,367,17530,running,1,170
+1983,W,1983_TranSouth_500,4,8,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,366,9905,running,0,160
+1983,W,1983_TranSouth_500,5,12,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,365,9225,running,0,155
+1983,W,1983_TranSouth_500,6,14,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Chevrolet,365,5050,running,0,150
+1983,W,1983_TranSouth_500,7,13,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,363,7610,running,4,151
+1983,W,1983_TranSouth_500,8,9,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,359,12450,running,22,147
+1983,W,1983_TranSouth_500,9,3,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,353,11375,crash,205,148
+1983,W,1983_TranSouth_500,10,28,6,usa,D_K_Ulrich,D.K. Ulrich,Ulrich Racing,D.K._Ulrich,Buick,353,7130,running,0,134
+1983,W,1983_TranSouth_500,11,35,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Chevrolet,352,7185,running,0,130
+1983,W,1983_TranSouth_500,12,31,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Pontiac,349,5910,running,0,127
+1983,W,1983_TranSouth_500,13,17,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,348,7890,engine,2,129
+1983,W,1983_TranSouth_500,14,26,64,usa,Tommy_Gale,Tommy Gale,Sunny King Ford & Honda,Elmo_Langley,Ford,344,4900,running,0,121
+1983,W,1983_TranSouth_500,15,34,46,usa,Travis_Tiller,Travis Tiller,Morgan-McClure,Travis_Tiller,Buick,337,2750,running,0,118
+1983,W,1983_TranSouth_500,16,23,74,usa,Bobby_Wawak,Bobby Wawak,Bridgetender Inn,Bobby_Wawak,Buick,336,2480,ignition,0,115
+1983,W,1983_TranSouth_500,17,30,70,usa,J_D_McDuffie,J.D. McDuffie,McDuffie Racing,J.D._McDuffie,Pontiac,320,4490,running,0,112
+1983,W,1983_TranSouth_500,18,11,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,318,4230,running,0,109
+1983,W,1983_TranSouth_500,19,20,90,usa,Dick_Brooks,Dick Brooks,Sunny King Ford & Honda/Chameleon Sunglasses,Junie_Donlavey,Ford,314,3840,engine,0,106
+1983,W,1983_TranSouth_500,20,4,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Buick,307,3730,valve,61,108
+1983,W,1983_TranSouth_500,21,32,02,usa,Dick_May,Dick May,Price Racing,Bud_Reeder,Buick,301,1670,running,0,100
+1983,W,1983_TranSouth_500,22,16,16,usa,David_Pearson,David Pearson,Chattanooga Chew,Bobby_Hawkins,Chevrolet,294,1850,engine,0,97
+1983,W,1983_TranSouth_500,23,27,67,usa,Buddy_Arrington,Buddy Arrington,Arrington Racing,Buddy_Arrington,Dodge,288,2870,engine,0,94
+1983,W,1983_TranSouth_500,24,33,41,usa,Ronnie_Thomas,Ronnie Thomas,Advance Auto Parts,Ronnie_Thomas,Pontiac,275,1700,engine,0,91
+1983,W,1983_TranSouth_500,25,18,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,269,7675,crash,0,88
+1983,W,1983_TranSouth_500,26,29,24,usa,Morgan_Shepherd,Morgan Shepherd,Lynch's Auto Sales,Cecil_Gordon,Chrysler,263,1650,ignition,0,0
+1983,W,1983_TranSouth_500,27,15,84,usa,Jody_Ridley,Jody Ridley,Cumberland Mills,Robert_McEntyre,Buick,214,1630,valve,0,82
+1983,W,1983_TranSouth_500,28,6,1,usa,Lake_Speed,Lake Speed,UNO,Hoss_Ellington,Chevrolet,194,1610,clutch,0,79
+1983,W,1983_TranSouth_500,29,24,18,usa,Slick_Johnson,Slick Johnson,Satterfield Racing,Leon_Satterfield,Buick,110,1590,crash,0,76
+1983,W,1983_TranSouth_500,30,36,26,usa,Ronnie_Hopkins,Ronnie Hopkins,Food Country USA,Charlie_Henderson,Chevrolet,82,1570,engine,0,73
+1983,W,1983_TranSouth_500,31,22,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,81,3210,cylinder head,0,70
+1983,W,1983_TranSouth_500,32,21,21,usa,Buddy_Baker,Buddy Baker,Valvoline,Wood_Brothers,Ford,29,2530,steering,0,67
+1983,W,1983_TranSouth_500,33,25,71,usa,Dave_Marcis,Dave Marcis,Hudson,Dave_Marcis,Chevrolet,4,8810,crash,0,64
+1983,W,1983_TranSouth_500,34,19,55,usa,Benny_Parsons,Benny Parsons,Skoal,Johnny_Hayes,Buick,1,1390,crash,0,61
+1983,W,1983_TranSouth_500,35,1,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,0,2945,engine,0,58
+1983,W,1983_TranSouth_500,36,7,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,0,2350,crash,0,55
+1983,W,1983_Northwestern_Bank_400,1,10,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi Challenger,Junior_Johnson,Chevrolet,400,28075,running,245,185
+1983,W,1983_Northwestern_Bank_400,2,4,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,400,16975,running,2,175
+1983,W,1983_Northwestern_Bank_400,3,8,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,400,12885,running,26,170
+1983,W,1983_Northwestern_Bank_400,4,1,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,400,10995,running,89,165
+1983,W,1983_Northwestern_Bank_400,5,3,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,400,7070,running,36,160
+1983,W,1983_Northwestern_Bank_400,6,5,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,399,4750,running,0,150
+1983,W,1983_Northwestern_Bank_400,7,2,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Buick,399,7440,running,0,146
+1983,W,1983_Northwestern_Bank_400,8,13,1,usa,Lake_Speed,Lake Speed,UNO,Hoss_Ellington,Chevrolet,398,1950,running,0,142
+1983,W,1983_Northwestern_Bank_400,9,16,71,usa,Dave_Marcis,Dave Marcis,Hudson,Dave_Marcis,Chevrolet,398,7700,running,0,138
+1983,W,1983_Northwestern_Bank_400,10,23,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,398,6510,running,1,139
+1983,W,1983_Northwestern_Bank_400,11,12,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,396,3170,running,0,130
+1983,W,1983_Northwestern_Bank_400,12,24,48,usa,Lennie_Pond,Lennie Pond,Palatine Auto Parts / Wilder's,James_Hylton,Buick,394,3010,running,0,127
+1983,W,1983_Northwestern_Bank_400,13,27,6,usa,D_K_Ulrich,D.K. Ulrich,Mastin Pool,D.K._Ulrich,Buick,392,2875,running,0,124
+1983,W,1983_Northwestern_Bank_400,14,29,52,usa,Jimmy_Means,Jimmy Means,Racoon Mountain Syrups Special,Jimmy_Means,Chevrolet,391,2655,running,0,121
+1983,W,1983_Northwestern_Bank_400,15,26,67,usa,Buddy_Arrington,Buddy Arrington,Arrington Racing,Buddy_Arrington,Chrysler,390,2600,running,0,118
+1983,W,1983_Northwestern_Bank_400,16,21,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",B.J. Racing,Bobby_Hillin_Sr,Buick,388,1645,running,0,115
+1983,W,1983_Northwestern_Bank_400,17,28,41,usa,Ronnie_Thomas,Ronnie Thomas,Advance Auto Parts,Ronnie_Thomas,Pontiac,386,1050,running,0,112
+1983,W,1983_Northwestern_Bank_400,18,22,35,usa,Joe_Millikan,Joe Millikan,Hanover Printing,Wayne_Beahr,Ford,384,1075,running,0,109
+1983,W,1983_Northwestern_Bank_400,19,30,64,usa,Tommy_Gale,Tommy Gale,Sunny King Ford & Honda,Elmo_Langley,Ford,381,2325,running,0,106
+1983,W,1983_Northwestern_Bank_400,20,17,90,usa,Dick_Brooks,Dick Brooks,Sunny King Ford & Honda / Tire Medic,Junie_Donlavey,Ford,369,2150,running,0,103
+1983,W,1983_Northwestern_Bank_400,21,9,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,357,2100,running,1,105
+1983,W,1983_Northwestern_Bank_400,22,20,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Pontiac,331,1470,running,0,97
+1983,W,1983_Northwestern_Bank_400,23,25,08,usa,Rick_McCray,Rick McCray,Coors,Rick_McCray,Pontiac,306,900,engine,0,94
+1983,W,1983_Northwestern_Bank_400,24,19,26,usa,Ronnie_Hopkins,Ronnie Hopkins,Food Country USA,Charlie_Henderson,Chevrolet,219,925,engine,0,91
+1983,W,1983_Northwestern_Bank_400,25,18,18,usa,Slick_Johnson,Slick Johnson,Seamless Gutter Machine,Leon_Satterfield,Buick,190,900,oil pump,0,88
+1983,W,1983_Northwestern_Bank_400,26,6,2,usa,Mark_Martin,Mark Martin,ACM Equipment Sales,Jim_Stacy,Buick,163,7200,transmission,0,85
+1983,W,1983_Northwestern_Bank_400,27,7,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,59,1875,crash,0,82
+1983,W,1983_Northwestern_Bank_400,28,14,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,55,825,oil leak,0,79
+1983,W,1983_Northwestern_Bank_400,29,11,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,40,6450,engine,0,76
+1983,W,1983_Northwestern_Bank_400,30,15,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,19,1275,oil cooler,0,73
+1983,W,1983_Virginia_National_Bank_500,1,3,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi Challenger,Junior_Johnson,Chevrolet,500,35225,running,296,185
+1983,W,1983_Virginia_National_Bank_500,2,8,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,500,20200,running,1,175
+1983,W,1983_Virginia_National_Bank_500,3,6,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,500,15780,running,33,170
+1983,W,1983_Virginia_National_Bank_500,4,4,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Buick,500,8870,running,0,160
+1983,W,1983_Virginia_National_Bank_500,5,1,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,500,9670,running,100,160
+1983,W,1983_Virginia_National_Bank_500,6,7,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,499,5600,running,0,150
+1983,W,1983_Virginia_National_Bank_500,7,12,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,497,4980,running,0,146
+1983,W,1983_Virginia_National_Bank_500,8,16,90,usa,Dick_Brooks,Dick Brooks,Sunny King Ford & Honda,Junie_Donlavey,Ford,495,4095,running,0,142
+1983,W,1983_Virginia_National_Bank_500,9,22,67,usa,Buddy_Arrington,Buddy Arrington,Reid Trailer Sales,Buddy_Arrington,Dodge,493,3760,running,0,138
+1983,W,1983_Virginia_National_Bank_500,10,23,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Chevrolet,491,3550,running,0,134
+1983,W,1983_Virginia_National_Bank_500,11,26,7,usa,Kyle_Petty,Kyle Petty,"7-Eleven ""Shamrock""",Petty_Enterprises,Pontiac,491,3240,running,0,130
+1983,W,1983_Virginia_National_Bank_500,12,19,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Pontiac,488,3930,running,0,127
+1983,W,1983_Virginia_National_Bank_500,13,32,6,usa,D_K_Ulrich,D.K. Ulrich,Sunny King Ford & Honda,Elmo_Langley,Ford,487,2745,running,0,124
+1983,W,1983_Virginia_National_Bank_500,14,20,48,usa,Lennie_Pond,Lennie Pond,Palatine Auto Parts,James_Hylton,Chevrolet,485,2400,running,0,121
+1983,W,1983_Virginia_National_Bank_500,15,18,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,485,1775,running,58,123
+1983,W,1983_Virginia_National_Bank_500,16,13,75,usa,Neil_Bonnett,Neil Bonnett,National Engineering,Rahmoc_Enterprises,Chevrolet,480,2350,engine,0,115
+1983,W,1983_Virginia_National_Bank_500,17,9,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,434,5875,crash,1,117
+1983,W,1983_Virginia_National_Bank_500,18,29,41,usa,Ronnie_Thomas,Ronnie Thomas,Advance Auto Parts,Ronnie_Thomas,Pontiac,428,1150,crash,0,109
+1983,W,1983_Virginia_National_Bank_500,19,25,71,usa,Dave_Marcis,Dave Marcis,Hudson,Dave_Marcis,Chevrolet,425,7225,running,0,106
+1983,W,1983_Virginia_National_Bank_500,20,31,02,usa,Rick_Newsom,Rick Newsom,Reeder Racing,Bud_Reeder,Buick,420,1600,running,0,103
+1983,W,1983_Virginia_National_Bank_500,21,17,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,417,1590,running,0,100
+1983,W,1983_Virginia_National_Bank_500,22,27,64,usa,Tommy_Gale,Tommy Gale,Ulrich Racing,D.K._Ulrich,Buick,390,1580,engine,0,97
+1983,W,1983_Virginia_National_Bank_500,23,14,1,usa,Lake_Speed,Lake Speed,UNO / Bull Frog Knits,Hoss_Ellington,Chevrolet,378,1170,brakes,0,94
+1983,W,1983_Virginia_National_Bank_500,24,24,08,usa,Rick_McCray,Rick McCray,Coors,Rick_McCray,Pontiac,359,1060,rear end,0,91
+1983,W,1983_Virginia_National_Bank_500,25,2,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,351,4550,crash,11,93
+1983,W,1983_Virginia_National_Bank_500,26,11,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,351,7240,crash,0,85
+1983,W,1983_Virginia_National_Bank_500,27,10,2,usa,Mark_Martin,Mark Martin,ACM Equipment Sales,Jim_Stacy,Buick,301,7330,rear end,0,82
+1983,W,1983_Virginia_National_Bank_500,28,28,18,usa,Slick_Johnson,Slick Johnson,Havoline,Leon_Satterfield,Buick,240,1020,overheating,0,79
+1983,W,1983_Virginia_National_Bank_500,29,30,49,canada,Trevor_Boys,Trevor Boys,Palatine Auto Parts,James_Hylton,Chevrolet,204,1010,oil leak,0,76
+1983,W,1983_Virginia_National_Bank_500,30,21,26,usa,Ronnie_Hopkins,Ronnie Hopkins,Food Country USA,Charlie_Henderson,Buick,129,1000,engine,0,73
+1983,W,1983_Virginia_National_Bank_500,31,5,21,usa,Buddy_Baker,Buddy Baker,Valvoline,Wood_Brothers,Ford,95,1500,crash,0,70
+1983,W,1983_Virginia_National_Bank_500,32,15,01,usa,Morgan_Shepherd,Morgan Shepherd,Zervakis Racing,Emanuel_Zervakis,Buick,8,1000,oil leak,0,67
+1983,W,1983_Winston_500,1,15,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,188,46650,running,52,185
+1983,W,1983_Winston_500,2,12,55,usa,Benny_Parsons,Benny Parsons,Skoal,Johnny_Hayes,Buick,188,24575,running,1,175
+1983,W,1983_Winston_500,3,10,1,usa,Lake_Speed,Lake Speed,UNO,Hoss_Ellington,Chevrolet,188,18975,running,13,170
+1983,W,1983_Winston_500,4,21,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,188,22425,running,2,165
+1983,W,1983_Winston_500,5,6,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,188,15905,running,2,160
+1983,W,1983_Winston_500,6,7,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,188,16295,running,0,150
+1983,W,1983_Winston_500,7,41,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Buick,188,12275,running,2,151
+1983,W,1983_Winston_500,8,4,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,187,10665,running,0,142
+1983,W,1983_Winston_500,9,32,71,usa,Dave_Marcis,Dave Marcis,Transmissions Unlimited,Dave_Marcis,Chevrolet,187,13875,running,2,143
+1983,W,1983_Winston_500,10,19,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,186,14475,running,0,134
+1983,W,1983_Winston_500,11,2,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Chevrolet,184,9130,engine,10,135
+1983,W,1983_Winston_500,12,36,77,usa,Ken_Ragan,Ken Ragan,Clinomint,Marvin_Ragan,Buick,184,9950,running,0,127
+1983,W,1983_Winston_500,13,31,64,usa,Tommy_Gale,Tommy Gale,Sunny King Ford & Honda,Elmo_Langley,Ford,182,7520,running,0,124
+1983,W,1983_Winston_500,14,20,90,usa,Dick_Brooks,Dick Brooks,Chameleon Sunglasses,Junie_Donlavey,Ford,181,7160,running,0,121
+1983,W,1983_Winston_500,15,5,75,usa,Neil_Bonnett,Neil Bonnett,Team America,Rahmoc_Enterprises,Chevrolet,181,6975,running,0,118
+1983,W,1983_Winston_500,16,28,24,usa,Cecil_Gordon,Cecil Gordon,Gordon Racing,Cecil_Gordon,Chrysler,178,4085,running,0,115
+1983,W,1983_Winston_500,17,27,2,usa,Morgan_Shepherd,Morgan Shepherd,ACM Equipment Sales,Jim_Stacy,Buick,175,11485,engine,0,112
+1983,W,1983_Winston_500,18,30,89,usa,Dean_Roper,Dean Roper,Mueller Sales & Service,Mueller_Brothers,Pontiac,170,3685,running,0,109
+1983,W,1983_Winston_500,19,24,48,usa,Lennie_Pond,Lennie Pond,Palatine Auto Parts,James_Hylton,Chevrolet,169,5835,engine,0,106
+1983,W,1983_Winston_500,20,23,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,148,6280,engine,10,108
+1983,W,1983_Winston_500,21,3,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,132,13460,engine,40,105
+1983,W,1983_Winston_500,22,38,73,usa,Steve_Moore,Steve Moore,C & H Enterprises,Steve_Moore,Pontiac,124,3285,ignition,0,97
+1983,W,1983_Winston_500,23,40,67,usa,Buddy_Arrington,Buddy Arrington,Arrington Racing,Buddy_Arrington,Chrysler,121,4900,engine,0,94
+1983,W,1983_Winston_500,24,17,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,120,10035,brakes,1,96
+1983,W,1983_Winston_500,25,11,21,usa,Buddy_Baker,Buddy Baker,Valvoline,Wood_Brothers,Ford,94,3935,engine,0,88
+1983,W,1983_Winston_500,26,37,76,usa,Lowell_Cowell,Lowell Cowell,Larry's Nightclub,Mike_Potter,Oldsmobile,93,3335,engine,0,85
+1983,W,1983_Winston_500,27,8,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,72,3335,crash,10,87
+1983,W,1983_Winston_500,28,9,66,usa,Phil_Parsons,Phil Parsons,Skoal Brother,Johnny_Hayes,Pontiac,71,2635,crash,0,79
+1983,W,1983_Winston_500,29,1,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Chevrolet,71,5885,crash,43,81
+1983,W,1983_Winston_500,30,18,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,71,4290,crash,0,73
+1983,W,1983_Winston_500,31,16,16,usa,David_Pearson,David Pearson,Chattanooga Chew,Bobby_Hawkins,Chevrolet,71,2485,crash,0,70
+1983,W,1983_Winston_500,32,29,84,usa,Jody_Ridley,Jody Ridley,Cumberland Mills,Robert_McEntyre,Buick,71,2435,crash,0,67
+1983,W,1983_Winston_500,33,14,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi Challenger,Junior_Johnson,Chevrolet,70,12285,crash,0,64
+1983,W,1983_Winston_500,34,13,14,usa,A_J_Foyt,A.J. Foyt,Valvoline,A.J._Foyt,Chevrolet,70,1935,crash,0,61
+1983,W,1983_Winston_500,35,42,41,usa,Ronnie_Thomas,Ronnie Thomas,Advance Auto Parts,Ronnie_Thomas,Pontiac,69,2235,cam,0,58
+1983,W,1983_Winston_500,36,25,6,usa,Mark_Martin,Mark Martin,Jim Magill,D.K._Ulrich,Chevrolet,65,3920,engine,0,55
+1983,W,1983_Winston_500,37,34,62,usa,Rick_Wilson,Rick Wilson,Wilson Racing,Rick_Wilson,Buick,55,2135,cylinder head,0,52
+1983,W,1983_Winston_500,38,39,99,usa,Philip_Duffie,Philip Duffie,U.S. Duffie Sand & Gravel,Philip_Duffie,Buick,50,2085,brakes,0,49
+1983,W,1983_Winston_500,39,26,10,usa,Clark_Dwyer,Clark Dwyer,Kings Inn Daytona,Roger_Hamby,Chevrolet,30,2035,oil pan,0,46
+1983,W,1983_Winston_500,40,33,4,usa,Connie_Saylor,Connie Saylor,Morgan-McClure,Larry_McClure,Oldsmobile,22,1985,engine,0,43
+1983,W,1983_Winston_500,41,22,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Chevrolet,20,2985,engine,0,40
+1983,W,1983_Winston_500,42,35,96,usa,Rick_Baldwin,Rick Baldwin,White Crown Engineering,Will_Cronkrite,Buick,7,1985,engine,0,37
+1983,W,1983_Marty_Robbins_420,1,1,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi Challenger,Junior_Johnson,Chevrolet,420,25650,running,382,185
+1983,W,1983_Marty_Robbins_420,2,11,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,419,13650,running,38,175
+1983,W,1983_Marty_Robbins_420,3,5,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,419,11285,running,0,165
+1983,W,1983_Marty_Robbins_420,4,12,2,usa,Morgan_Shepherd,Morgan Shepherd,ACM Equipment Sales,Jim_Stacy,Buick,418,9000,running,0,0
+1983,W,1983_Marty_Robbins_420,5,10,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,416,4520,running,0,155
+1983,W,1983_Marty_Robbins_420,6,18,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,415,6800,running,0,150
+1983,W,1983_Marty_Robbins_420,7,8,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Buick,415,4020,running,0,146
+1983,W,1983_Marty_Robbins_420,8,6,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,414,3650,running,0,142
+1983,W,1983_Marty_Robbins_420,9,15,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,414,3390,running,0,138
+1983,W,1983_Marty_Robbins_420,10,4,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,412,1710,running,0,134
+1983,W,1983_Marty_Robbins_420,11,13,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Pontiac,412,3665,running,0,130
+1983,W,1983_Marty_Robbins_420,12,25,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Chevrolet,411,2960,running,0,127
+1983,W,1983_Marty_Robbins_420,13,2,75,usa,Neil_Bonnett,Neil Bonnett,National Engineering / Hodgdon,Rahmoc_Enterprises,Chevrolet,411,3330,running,0,124
+1983,W,1983_Marty_Robbins_420,14,3,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,410,2540,running,0,121
+1983,W,1983_Marty_Robbins_420,15,22,41,usa,Ronnie_Thomas,Ronnie Thomas,Advance Auto Parts,Ronnie_Thomas,Pontiac,408,1075,running,0,118
+1983,W,1983_Marty_Robbins_420,16,19,67,usa,Buddy_Arrington,Buddy Arrington,Arrington Racing,Buddy_Arrington,Chrysler,407,2450,running,0,115
+1983,W,1983_Marty_Robbins_420,17,17,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,406,2250,running,0,112
+1983,W,1983_Marty_Robbins_420,18,26,70,usa,J_D_McDuffie,J.D. McDuffie,Wilder's,J.D._McDuffie,Pontiac,404,2025,running,0,109
+1983,W,1983_Marty_Robbins_420,19,24,48,canada,Trevor_Boys,Trevor Boys,Palatine Auto Parts,James_Hylton,Chevrolet,400,1975,running,0,106
+1983,W,1983_Marty_Robbins_420,20,9,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,359,2350,running,0,103
+1983,W,1983_Marty_Robbins_420,21,14,6,usa,Mark_Martin,Mark Martin,Jim Magill,D.K._Ulrich,Buick,350,1825,crash,0,100
+1983,W,1983_Marty_Robbins_420,22,29,19,usa,Steve_Gray,Steve Gray,Gray Racing,Henley_Gray,Buick,296,800,handling,0,97
+1983,W,1983_Marty_Robbins_420,23,28,02,usa,Rick_Newsom,Rick Newsom,Reeder Racing,Bud_Reeder,Buick,280,1225,rear end,0,94
+1983,W,1983_Marty_Robbins_420,24,7,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,258,6450,engine,0,91
+1983,W,1983_Marty_Robbins_420,25,21,90,usa,Dick_Brooks,Dick Brooks,Sunny King Ford & Honda,Junie_Donlavey,Ford,120,2025,engine,0,88
+1983,W,1983_Marty_Robbins_420,26,20,86,usa,Darryl_Sage,Darryl Sage,Sage Racing,Lee_Sage,Chevrolet,111,720,engine,0,85
+1983,W,1983_Marty_Robbins_420,27,16,71,usa,Dave_Marcis,Dave Marcis,W.H. Bolin,Dave_Marcis,Chevrolet,94,6815,clutch,0,82
+1983,W,1983_Marty_Robbins_420,28,23,64,usa,Tommy_Gale,Tommy Gale,Sunny King Ford & Honda,Elmo_Langley,Ford,30,1210,engine,0,79
+1983,W,1983_Marty_Robbins_420,29,27,26,usa,Ronnie_Hopkins,Ronnie Hopkins,Food Country USA,Charlie_Henderson,Chevrolet,11,705,engine,0,76
+1983,W,1983_Mason-Dixon_500,1,10,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,500,28500,running,256,185
+1983,W,1983_Mason-Dixon_500,2,4,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi Challenger,Junior_Johnson,Chevrolet,500,20425,running,158,175
+1983,W,1983_Mason-Dixon_500,3,1,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Buick,499,13565,running,51,170
+1983,W,1983_Mason-Dixon_500,4,6,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,498,8655,running,1,165
+1983,W,1983_Mason-Dixon_500,5,19,21,usa,Buddy_Baker,Buddy Baker,Valvoline,Wood_Brothers,Ford,497,4550,running,0,155
+1983,W,1983_Mason-Dixon_500,6,9,2,usa,Morgan_Shepherd,Morgan Shepherd,ACM Equipment Sales,Jim_Stacy,Buick,493,11000,running,1,155
+1983,W,1983_Mason-Dixon_500,7,14,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,493,9000,running,1,151
+1983,W,1983_Mason-Dixon_500,8,17,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,491,10500,running,28,147
+1983,W,1983_Mason-Dixon_500,9,16,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,490,10200,running,0,138
+1983,W,1983_Mason-Dixon_500,10,26,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Pontiac,483,6260,running,0,134
+1983,W,1983_Mason-Dixon_500,11,15,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,482,5060,running,1,135
+1983,W,1983_Mason-Dixon_500,12,30,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Pontiac,474,4680,running,0,127
+1983,W,1983_Mason-Dixon_500,13,27,58,usa,Jerry_Bowman,Jerry Bowman,Aberdeen Travel Center,Jerry_Bowman,Ford,468,2000,running,0,124
+1983,W,1983_Mason-Dixon_500,14,33,02,usa,Rick_Newsom,Rick Newsom,Reeder Racing,Bud_Reeder,Chevrolet,467,4370,running,0,121
+1983,W,1983_Mason-Dixon_500,15,18,90,usa,Dick_Brooks,Dick Brooks,Chameleon Sunglasses,Junie_Donlavey,Ford,466,4160,running,0,118
+1983,W,1983_Mason-Dixon_500,16,20,71,usa,Dave_Marcis,Dave Marcis,W.H. Bolin,Dave_Marcis,Chevrolet,457,9100,engine,3,120
+1983,W,1983_Mason-Dixon_500,17,31,87,usa,Jimmy_Ingalls,Jimmy Ingalls,Red Diamond Lines,Jimmy_Ingalls,Buick,454,1600,running,0,112
+1983,W,1983_Mason-Dixon_500,18,29,6,usa,D_K_Ulrich,D.K. Ulrich,Jim Magill,D.K._Ulrich,Buick,438,3750,oil leak,0,109
+1983,W,1983_Mason-Dixon_500,19,24,67,usa,Buddy_Arrington,Buddy Arrington,Direct Connection,Buddy_Arrington,Chrysler,436,3540,running,0,106
+1983,W,1983_Mason-Dixon_500,20,36,96,usa,John_Callis,John Callis,Bob Gailey Excavating,John_Callis,Pontiac,428,1325,running,0,103
+1983,W,1983_Mason-Dixon_500,21,34,24,usa,Cecil_Gordon,Cecil Gordon,Delaware Trans-Am,Cecil_Gordon,Chrysler,402,1200,engine,0,100
+1983,W,1983_Mason-Dixon_500,22,11,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Chevrolet,350,1150,overheating,0,97
+1983,W,1983_Mason-Dixon_500,23,28,70,usa,J_D_McDuffie,J.D. McDuffie,McDuffie Racing,J.D._McDuffie,Pontiac,329,3080,engine,0,94
+1983,W,1983_Mason-Dixon_500,24,2,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,277,3140,engine,0,91
+1983,W,1983_Mason-Dixon_500,25,21,41,usa,Ronnie_Thomas,Ronnie Thomas,Advance Auto Parts,Ronnie_Thomas,Pontiac,251,1500,engine,0,88
+1983,W,1983_Mason-Dixon_500,26,23,26,usa,Ronnie_Hopkins,Ronnie Hopkins,Food Country USA,Charlie_Henderson,Chevrolet,244,975,crash,0,85
+1983,W,1983_Mason-Dixon_500,27,25,64,usa,Tommy_Gale,Tommy Gale,Sunny King Ford & Honda,Elmo_Langley,Ford,235,2630,transmission,0,82
+1983,W,1983_Mason-Dixon_500,28,13,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,218,2595,water pump,0,79
+1983,W,1983_Mason-Dixon_500,29,12,55,usa,Benny_Parsons,Benny Parsons,Skoal,Johnny_Hayes,Buick,190,900,engine,0,76
+1983,W,1983_Mason-Dixon_500,30,3,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,104,2636,crash,0,73
+1983,W,1983_Mason-Dixon_500,31,5,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,97,1850,engine,0,70
+1983,W,1983_Mason-Dixon_500,32,22,48,canada,Trevor_Boys,Trevor Boys,Palatine Auto Parts,James_Hylton,Chevrolet,91,1840,engine,0,67
+1983,W,1983_Mason-Dixon_500,33,35,35,usa,Dick_May,Dick May,Hanover Printing,Wayne_Beahr,Ford,66,830,engine,0,64
+1983,W,1983_Mason-Dixon_500,34,7,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,60,1820,engine,0,61
+1983,W,1983_Mason-Dixon_500,35,8,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,46,2810,crash,0,58
+1983,W,1983_Mason-Dixon_500,36,32,63,usa,Jocko_Maggiacomo,Jocko Maggiacomo,Tele-Video Computer Systems,Jim_Rosenblum,Oldsmobile,39,800,crash,0,55
+1983,W,1983_Valleydale_500,1,13,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi Challenger,Junior_Johnson,Chevrolet,500,29965,running,288,185
+1983,W,1983_Valleydale_500,2,12,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,500,16955,running,50,175
+1983,W,1983_Valleydale_500,3,6,2,usa,Morgan_Shepherd,Morgan Shepherd,ACM Equipment Sales,Jim_Stacy,Buick,499,13260,running,0,165
+1983,W,1983_Valleydale_500,4,1,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,499,7700,running,25,165
+1983,W,1983_Valleydale_500,5,11,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,498,7930,running,0,155
+1983,W,1983_Valleydale_500,6,2,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,498,5450,running,21,155
+1983,W,1983_Valleydale_500,7,8,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,496,4480,running,0,146
+1983,W,1983_Valleydale_500,8,14,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,495,4070,running,0,142
+1983,W,1983_Valleydale_500,9,5,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,495,7930,running,116,143
+1983,W,1983_Valleydale_500,10,7,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,494,4000,running,0,134
+1983,W,1983_Valleydale_500,11,16,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,488,3890,running,0,130
+1983,W,1983_Valleydale_500,12,15,71,usa,Dave_Marcis,Dave Marcis,W.H. Bolin,Dave_Marcis,Chevrolet,488,7430,running,0,127
+1983,W,1983_Valleydale_500,13,23,6,usa,D_K_Ulrich,D.K. Ulrich,Ulrich Racing,D.K._Ulrich,Buick,479,3080,running,0,124
+1983,W,1983_Valleydale_500,14,22,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Chevrolet,477,2870,running,0,121
+1983,W,1983_Valleydale_500,15,18,41,usa,Ronnie_Thomas,Ronnie Thomas,Advance Auto Parts,Ronnie_Thomas,Pontiac,476,1030,running,0,118
+1983,W,1983_Valleydale_500,16,25,67,usa,Buddy_Arrington,Buddy Arrington,Direct Connection,Buddy_Arrington,Chrysler,475,2585,running,0,115
+1983,W,1983_Valleydale_500,17,24,26,usa,Ronnie_Hopkins,Ronnie Hopkins,Food Country USA,Charlie_Henderson,Buick,472,1380,running,0,112
+1983,W,1983_Valleydale_500,18,19,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Pontiac,471,2300,running,0,109
+1983,W,1983_Valleydale_500,19,28,02,usa,Rick_Newsom,Rick Newsom,Reeder Racing,Bud_Reeder,Buick,470,2430,running,0,106
+1983,W,1983_Valleydale_500,20,20,64,usa,Tommy_Gale,Tommy Gale,Sunny King Ford & Honda,Elmo_Langley,Ford,466,1905,running,0,103
+1983,W,1983_Valleydale_500,21,17,90,usa,Dick_Brooks,Dick Brooks,Chameleon Sunglasses,Junie_Donlavey,Ford,459,1230,running,0,100
+1983,W,1983_Valleydale_500,22,21,48,canada,Trevor_Boys,Trevor Boys,Hylton-McCaig,James_Hylton,Chevrolet,458,1205,running,0,97
+1983,W,1983_Valleydale_500,23,10,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Pontiac,456,1180,rear end,0,94
+1983,W,1983_Valleydale_500,24,26,70,usa,J_D_McDuffie,J.D. McDuffie,McDuffie Racing,J.D._McDuffie,Pontiac,450,1155,running,0,91
+1983,W,1983_Valleydale_500,25,9,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,397,2130,running,0,88
+1983,W,1983_Valleydale_500,26,3,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,393,1120,engine,0,85
+1983,W,1983_Valleydale_500,27,4,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,317,7110,rear end,0,82
+1983,W,1983_Valleydale_500,28,27,76,usa,Mike_Potter,Mike Potter,Larry's Nightclub,Mike_Potter,Buick,50,400,rear end,0,79
+1983,W,1983_World_600,1,5,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,400,50405,running,69,180
+1983,W,1983_World_600,2,17,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,400,31450,running,4,175
+1983,W,1983_World_600,3,13,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,400,61925,running,188,175
+1983,W,1983_World_600,4,14,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi Challenger,Junior_Johnson,Chevrolet,399,23425,running,0,160
+1983,W,1983_World_600,5,3,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,399,28700,running,55,160
+1983,W,1983_World_600,6,32,1,usa,Lake_Speed,Lake Speed,UNO,Hoss_Ellington,Chevrolet,398,10825,running,0,150
+1983,W,1983_World_600,7,1,21,usa,Buddy_Baker,Buddy Baker,Valvoline,Wood_Brothers,Ford,398,27645,running,0,146
+1983,W,1983_World_600,8,21,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,395,10845,running,1,147
+1983,W,1983_World_600,9,22,2,usa,Morgan_Shepherd,Morgan Shepherd,ACM Equipment Sales,Jim_Stacy,Buick,392,14350,running,0,138
+1983,W,1983_World_600,10,29,71,usa,Dave_Marcis,Dave Marcis,Transmissions Unlimited,Dave_Marcis,Chevrolet,390,13500,running,0,134
+1983,W,1983_World_600,11,40,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Dan'elle Jeans,Bobby_Hillin_Sr,Buick,388,6200,running,0,130
+1983,W,1983_World_600,12,19,67,usa,Buddy_Arrington,Buddy Arrington,Motorsports Designs,Buddy_Arrington,Chrysler,388,8125,running,0,127
+1983,W,1983_World_600,13,23,77,usa,Dean_Combs,Dean Combs,Best Products,Irv_Sanderson,Buick,388,4450,running,0,124
+1983,W,1983_World_600,14,6,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Chevrolet,388,7515,running,0,121
+1983,W,1983_World_600,15,35,32,usa,Tommy_Ellis,Tommy Ellis,Big Daddy's,Bill_Terry,Buick,386,4350,running,0,118
+1983,W,1983_World_600,16,2,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,384,13355,running,47,120
+1983,W,1983_World_600,17,18,97,usa,Ken_Ragan,Ken Ragan,Clinomint,Marvin_Ragan,Buick,381,3625,running,0,112
+1983,W,1983_World_600,18,38,74,usa,Bobby_Wawak,Bobby Wawak,Superior Piping,Bobby_Wawak,Chevrolet,378,3425,running,0,109
+1983,W,1983_World_600,19,30,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Chevrolet,377,6160,running,0,106
+1983,W,1983_World_600,20,33,48,canada,Trevor_Boys,Trevor Boys,Hylton-McCaig,James_Hylton,Chevrolet,376,6150,running,0,103
+1983,W,1983_World_600,21,34,24,usa,Jim_Vandiver,Jim Vandiver,Western Carolina Forklift,Cecil_Gordon,Chrysler,369,2825,running,0,100
+1983,W,1983_World_600,22,37,36,usa,H_B_Bailey,H.B. Bailey,Monroe RV / Almeda Auto Parts,H.B._Bailey,Pontiac,369,2700,running,0,97
+1983,W,1983_World_600,23,24,6,usa,D_K_Ulrich,D.K. Ulrich,Ulrich Racing,D.K._Ulrich,Chevrolet,366,4965,running,0,94
+1983,W,1983_World_600,24,26,18,usa,Slick_Johnson,Slick Johnson,Leon Satterfield,Leon_Satterfield,Buick,359,2350,running,0,91
+1983,W,1983_World_600,25,8,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,352,10250,running,2,93
+1983,W,1983_World_600,26,39,70,usa,J_D_McDuffie,J.D. McDuffie,Wilder's,J.D._McDuffie,Pontiac,344,4135,running,0,85
+1983,W,1983_World_600,27,28,80,usa,Bob_Senneker,Bob Senneker,Elk Vans,Terry_Marra,Pontiac,326,1690,battery,0,82
+1983,W,1983_World_600,28,12,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Chevrolet,321,6765,engine,31,84
+1983,W,1983_World_600,29,20,01,usa,Mark_Martin,Mark Martin,Enduro by Activision,Emanuel_Zervakis,Chevrolet,279,1640,crash,0,76
+1983,W,1983_World_600,30,31,99,usa,Philip_Duffie,Philip Duffie,U.S. Duffie Sand & Gravel,Philip_Duffie,Buick,277,1745,overheating,0,73
+1983,W,1983_World_600,31,41,02,usa,Rick_Newsom,Rick Newsom,Louise Smith Special,Bud_Reeder,Chevrolet,261,3595,running,0,70
+1983,W,1983_World_600,32,9,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,245,3425,running,0,67
+1983,W,1983_World_600,33,15,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,231,3290,oil pump,3,69
+1983,W,1983_World_600,34,7,55,usa,Benny_Parsons,Benny Parsons,Skoal,Johnny_Hayes,Buick,201,1550,rear end,0,61
+1983,W,1983_World_600,35,25,64,usa,Tommy_Gale,Tommy Gale,Sunny King Ford & Honda,Elmo_Langley,Ford,94,3130,engine,0,58
+1983,W,1983_World_600,36,16,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,67,4760,crash,0,55
+1983,W,1983_World_600,37,10,90,usa,Dick_Brooks,Dick Brooks,Chameleon Sunglasses,Junie_Donlavey,Ford,67,2475,crash,0,52
+1983,W,1983_World_600,38,36,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Buick,65,2300,crash,0,49
+1983,W,1983_World_600,39,4,16,usa,David_Pearson,David Pearson,Chattanooga Chew,Bobby_Hawkins,Chevrolet,65,2575,crash,0,46
+1983,W,1983_World_600,40,11,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,17,2350,engine,0,43
+1983,W,1983_World_600,41,27,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,14,2250,oil seal,0,40
+1983,W,1983_Budweiser_400,1,4,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,95,24530,running,57,185
+1983,W,1983_Budweiser_400,2,19,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,95,14655,running,0,170
+1983,W,1983_Budweiser_400,3,6,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,95,14775,running,3,170
+1983,W,1983_Budweiser_400,4,15,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,95,11475,running,0,160
+1983,W,1983_Budweiser_400,5,20,90,usa,Dick_Brooks,Dick Brooks,Chameleon Sunglasses,Junie_Donlavey,Ford,95,6760,running,0,155
+1983,W,1983_Budweiser_400,6,23,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,95,5450,running,1,155
+1983,W,1983_Budweiser_400,7,1,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi Challenger,Junior_Johnson,Chevrolet,95,13950,running,5,151
+1983,W,1983_Budweiser_400,8,13,2,usa,Morgan_Shepherd,Morgan Shepherd,ACM Equipment Sales,Jim_Stacy,Buick,95,9900,running,0,142
+1983,W,1983_Budweiser_400,9,17,73,usa,Bill_Schmitt,Bill Schmitt,Mountain Dew,Bill_Schmitt,Chevrolet,94,3680,running,0,138
+1983,W,1983_Budweiser_400,10,8,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,93,8250,running,0,134
+1983,W,1983_Budweiser_400,11,21,78,usa,Jim_Robinson,Jim Robinson,Hammer Security Systems,Lois_Williams,Oldsmobile,92,3770,running,0,130
+1983,W,1983_Budweiser_400,12,12,71,usa,Dave_Marcis,Dave Marcis,Miller Brothers,Dave_Marcis,Pontiac,92,9100,running,0,127
+1983,W,1983_Budweiser_400,13,11,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,90,7600,running,0,124
+1983,W,1983_Budweiser_400,14,26,03,usa,Glenn_Francis,Glenn Francis,Guy-Co Tools,Trent_Francis,Pontiac,90,1550,running,0,121
+1983,W,1983_Budweiser_400,15,37,83,usa,Sumner_McKnight,Sumner McKnight,Chuck E. Cheese,Sumner_McKnight,Chevrolet,90,2860,running,0,118
+1983,W,1983_Budweiser_400,16,28,6,usa,D_K_Ulrich,D.K. Ulrich,Ulrich Racing,D.K._Ulrich,Buick,90,3700,running,0,115
+1983,W,1983_Budweiser_400,17,34,67,usa,Buddy_Arrington,Buddy Arrington,Direct Connection,Buddy_Arrington,Chrysler,90,3540,running,0,112
+1983,W,1983_Budweiser_400,18,33,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Chevrolet,89,3330,running,0,109
+1983,W,1983_Budweiser_400,19,35,94,usa,Bob_Kennedy_(2),Bob Kennedy,Erlich Motors,Phil_Kord,Chevrolet,89,1990,running,0,106
+1983,W,1983_Budweiser_400,20,24,38,usa,Don_Waterman,Don Waterman,St. John's Auto Parts,Don_Waterman,Buick,88,1930,engine,0,103
+1983,W,1983_Budweiser_400,21,25,13,usa,Doug_Wheeler,Doug Wheeler,W & W Machine,Matt_Puskarich,Buick,88,1870,running,0,100
+1983,W,1983_Budweiser_400,22,10,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,87,9150,running,0,97
+1983,W,1983_Budweiser_400,23,7,96,usa,Jim_Bown,Jim Bown,Wholesale Turck Parts,Bill_Morehart,Buick,81,1100,crank,0,94
+1983,W,1983_Budweiser_400,24,27,70,usa,J_D_McDuffie,J.D. McDuffie,McDuffie Racing,J.D._McDuffie,Pontiac,74,2710,rear end,0,91
+1983,W,1983_Budweiser_400,25,30,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Pontiac,73,2500,engine,0,88
+1983,W,1983_Budweiser_400,26,18,04,usa,Hershel_McGriff,Hershel McGriff,Antioch Speedway,Gary_Smith,Buick,72,950,oil pump,0,85
+1983,W,1983_Budweiser_400,27,14,08,usa,Rick_McCray,Rick McCray,Coors,Rick_McCray,Pontiac,66,900,running,0,82
+1983,W,1983_Budweiser_400,28,2,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,65,2375,oil line,8,84
+1983,W,1983_Budweiser_400,29,5,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,64,2850,suspension,15,81
+1983,W,1983_Budweiser_400,30,22,51,usa,Scott_Miller,Scott Miller,J.W. Mitchell,Scott_Miller,Pontiac,61,825,clutch,0,73
+1983,W,1983_Budweiser_400,31,3,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,51,1800,crash,0,70
+1983,W,1983_Budweiser_400,32,31,48,canada,Trevor_Boys,Trevor Boys,Hylton-McCaig,James_Hylton,Chevrolet,50,1775,crash,1,72
+1983,W,1983_Budweiser_400,33,32,41,usa,Ronnie_Thomas,Ronnie Thomas,Advance Auto Parts,Ronnie_Thomas,Pontiac,41,750,engine,0,64
+1983,W,1983_Budweiser_400,34,9,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Buick,40,1725,engine,5,66
+1983,W,1983_Budweiser_400,35,29,66,usa,Ron_Esau,Ron Esau,Lee & Humphries,Jack_Lee,Buick,38,700,crank,0,58
+1983,W,1983_Budweiser_400,36,16,64,usa,Randy_Becker,Randy Becker,J-L Machine Shop,Robert_Palmer,Buick,23,1700,crash,0,55
+1983,W,1983_Budweiser_400,37,36,35,usa,Pat_Mintey,Pat Mintey,Grimes & Son,Pat_Mintey,Pontiac,3,700,overheating,0,52
+1983,W,1983_Van_Scoy_Diamond_Mine_500,1,7,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,200,31100,running,143,185
+1983,W,1983_Van_Scoy_Diamond_Mine_500,2,1,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi Challenger,Junior_Johnson,Chevrolet,200,25950,running,3,175
+1983,W,1983_Van_Scoy_Diamond_Mine_500,3,10,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,200,17225,running,21,170
+1983,W,1983_Van_Scoy_Diamond_Mine_500,4,14,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,199,10580,running,9,165
+1983,W,1983_Van_Scoy_Diamond_Mine_500,5,11,55,usa,Benny_Parsons,Benny Parsons,Skoal,Johnny_Hayes,Buick,199,7100,running,0,155
+1983,W,1983_Van_Scoy_Diamond_Mine_500,6,17,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,199,8730,running,1,155
+1983,W,1983_Van_Scoy_Diamond_Mine_500,7,6,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,199,10700,running,6,151
+1983,W,1983_Van_Scoy_Diamond_Mine_500,8,9,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,199,11200,running,0,142
+1983,W,1983_Van_Scoy_Diamond_Mine_500,9,4,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,199,6950,running,1,143
+1983,W,1983_Van_Scoy_Diamond_Mine_500,10,12,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Pontiac,198,6600,running,1,139
+1983,W,1983_Van_Scoy_Diamond_Mine_500,11,19,71,usa,Dave_Marcis,Dave Marcis,Hudson,Dave_Marcis,Chevrolet,197,10800,running,0,130
+1983,W,1983_Van_Scoy_Diamond_Mine_500,12,13,1,usa,Lake_Speed,Lake Speed,UNO / Bull Frog Knits,Hoss_Ellington,Chevrolet,197,3200,running,0,127
+1983,W,1983_Van_Scoy_Diamond_Mine_500,13,16,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,197,5580,running,0,124
+1983,W,1983_Van_Scoy_Diamond_Mine_500,14,22,48,canada,Trevor_Boys,Trevor Boys,Hylton-McCaig,James_Hylton,Chevrolet,195,5770,running,0,121
+1983,W,1983_Van_Scoy_Diamond_Mine_500,15,15,2,usa,Morgan_Shepherd,Morgan Shepherd,ACM Equipment Sales,Jim_Stacy,Buick,194,10300,running,0,118
+1983,W,1983_Van_Scoy_Diamond_Mine_500,16,24,6,usa,D_K_Ulrich,D.K. Ulrich,Coffee's,D.K._Ulrich,Buick,194,4960,running,0,115
+1983,W,1983_Van_Scoy_Diamond_Mine_500,17,26,67,usa,Buddy_Arrington,Buddy Arrington,Direct Connection,Buddy_Arrington,Dodge,193,4750,running,0,112
+1983,W,1983_Van_Scoy_Diamond_Mine_500,18,8,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,191,10700,running,2,114
+1983,W,1983_Van_Scoy_Diamond_Mine_500,19,27,70,usa,J_D_McDuffie,J.D. McDuffie,McDuffie Racing,J.D._McDuffie,Pontiac,190,4440,running,0,106
+1983,W,1983_Van_Scoy_Diamond_Mine_500,20,31,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Chevrolet,190,4180,running,0,103
+1983,W,1983_Van_Scoy_Diamond_Mine_500,21,38,41,usa,Ronnie_Thomas,Ronnie Thomas,Advance Auto Parts,Ronnie_Thomas,Pontiac,188,2100,running,0,100
+1983,W,1983_Van_Scoy_Diamond_Mine_500,22,35,76,usa,Mike_Potter,Mike Potter,Larry's Nightclub,Mike_Potter,Buick,187,2000,running,0,97
+1983,W,1983_Van_Scoy_Diamond_Mine_500,23,32,24,usa,Cecil_Gordon,Cecil Gordon,Gordon Racing,Cecil_Gordon,Chrysler,181,1950,running,0,94
+1983,W,1983_Van_Scoy_Diamond_Mine_500,24,25,10,usa,Steve_Gray,Steve Gray,Gray Racing,Henley_Gray,Buick,181,1900,running,0,91
+1983,W,1983_Van_Scoy_Diamond_Mine_500,25,28,64,usa,Tommy_Gale,Tommy Gale,Sunny King Ford & Honda,Elmo_Langley,Ford,167,3540,engine,0,88
+1983,W,1983_Van_Scoy_Diamond_Mine_500,26,23,26,usa,Ronnie_Hopkins,Ronnie Hopkins,Food Country USA,Charlie_Henderson,Chevrolet,165,1800,engine,0,85
+1983,W,1983_Van_Scoy_Diamond_Mine_500,27,5,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Chevrolet,150,1750,oil pan,0,82
+1983,W,1983_Van_Scoy_Diamond_Mine_500,28,18,90,usa,Dick_Brooks,Dick Brooks,Chameleon Sunglasses,Junie_Donlavey,Ford,148,3380,transmission,0,79
+1983,W,1983_Van_Scoy_Diamond_Mine_500,29,20,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Pontiac,138,3320,engine,0,76
+1983,W,1983_Van_Scoy_Diamond_Mine_500,30,3,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,116,4260,ball joint,5,78
+1983,W,1983_Van_Scoy_Diamond_Mine_500,31,2,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,100,2550,engine,8,75
+1983,W,1983_Van_Scoy_Diamond_Mine_500,32,36,60,usa,Bob_Riley,Bob Riley,Riley Racing,Bob_Riley,Pontiac,98,1500,rear end,0,67
+1983,W,1983_Van_Scoy_Diamond_Mine_500,33,37,56,usa,John_Callis,John Callis,Gailey Excavating,John_Callis,Chevrolet,97,1450,ignition,0,64
+1983,W,1983_Van_Scoy_Diamond_Mine_500,34,21,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,91,2900,engine,0,61
+1983,W,1983_Van_Scoy_Diamond_Mine_500,35,34,63,usa,Jocko_Maggiacomo,Jocko Maggiacomo,Tele-Video,Jim_Rosenblum,Buick,91,1350,engine,0,58
+1983,W,1983_Van_Scoy_Diamond_Mine_500,36,30,58,usa,Jerry_Bowman,Jerry Bowman,Bel Air Datsun,Jerry_Bowman,Ford,91,1300,oil pump,0,55
+1983,W,1983_Van_Scoy_Diamond_Mine_500,37,29,96,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Hillin Racing,Bobby_Hillin_Sr,Buick,47,1275,engine,0,52
+1983,W,1983_Van_Scoy_Diamond_Mine_500,38,33,19,usa,Bobby_Gerhart,Bobby Gerhart,Gray Racing,Henley_Gray,Buick,44,1250,engine,0,49
+1983,W,1983_Gabriel_400,1,9,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Chevrolet,200,24170,running,37,180
+1983,W,1983_Gabriel_400,2,16,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,200,23800,running,38,175
+1983,W,1983_Gabriel_400,3,7,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,200,16310,running,7,170
+1983,W,1983_Gabriel_400,4,4,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi Challenger,Junior_Johnson,Chevrolet,200,19825,running,47,165
+1983,W,1983_Gabriel_400,5,1,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,200,16595,running,69,165
+1983,W,1983_Gabriel_400,6,14,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,200,10075,running,0,150
+1983,W,1983_Gabriel_400,7,13,21,usa,Buddy_Baker,Buddy Baker,Valvoline,Wood_Brothers,Ford,200,6100,running,0,146
+1983,W,1983_Gabriel_400,8,8,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,200,13250,running,0,142
+1983,W,1983_Gabriel_400,9,3,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,200,9365,running,0,138
+1983,W,1983_Gabriel_400,10,12,2,usa,Morgan_Shepherd,Morgan Shepherd,ACM Equipment Sales,Jim_Stacy,Buick,200,12250,running,0,134
+1983,W,1983_Gabriel_400,11,19,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,200,10050,running,0,130
+1983,W,1983_Gabriel_400,12,18,90,usa,Dick_Brooks,Dick Brooks,Chameleon Sunglasses/Sunny King Ford & Honda,Junie_Donlavey,Ford,199,6755,running,0,127
+1983,W,1983_Gabriel_400,13,11,55,usa,Benny_Parsons,Benny Parsons,Skoal,Johnny_Hayes,Buick,199,3575,running,0,124
+1983,W,1983_Gabriel_400,14,22,80,usa,Bob_Senneker,Bob Senneker,Elk Vans,Terry_Marra,Pontiac,199,3850,running,0,121
+1983,W,1983_Gabriel_400,15,15,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,198,10125,running,0,118
+1983,W,1983_Gabriel_400,16,23,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,198,5635,running,0,115
+1983,W,1983_Gabriel_400,17,24,26,usa,Ronnie_Hopkins,Ronnie Hopkins,Food Country USA,Charlie_Henderson,Chevrolet,196,3090,running,0,112
+1983,W,1983_Gabriel_400,18,26,48,canada,Trevor_Boys,Trevor Boys,Hylton-McCaig,James_Hylton,Chevrolet,196,5155,running,0,109
+1983,W,1983_Gabriel_400,19,31,1,usa,Lake_Speed,Lake Speed,UNO / Bull Frog Knits,Hoss_Ellington,Chevrolet,194,2370,engine,0,106
+1983,W,1983_Gabriel_400,20,28,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Pontiac,193,4925,running,0,103
+1983,W,1983_Gabriel_400,21,34,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Buick,193,4355,running,0,100
+1983,W,1983_Gabriel_400,22,27,6,usa,D_K_Ulrich,D.K. Ulrich,Ulrich Racing,D.K._Ulrich,Chevrolet,193,4085,running,0,97
+1983,W,1983_Gabriel_400,23,35,73,usa,Steve_Moore,Steve Moore,C & H Enterprises,Steve_Moore,Pontiac,192,1930,running,0,94
+1983,W,1983_Gabriel_400,24,32,41,usa,Ronnie_Thomas,Ronnie Thomas,Advance Auto Parts,Ronnie_Thomas,Pontiac,190,1820,running,0,91
+1983,W,1983_Gabriel_400,25,2,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,174,4535,running,0,88
+1983,W,1983_Gabriel_400,26,37,64,usa,Tommy_Gale,Tommy Gale,Sunny King Ford & Honda,Elmo_Langley,Ford,158,3465,running,0,85
+1983,W,1983_Gabriel_400,27,17,4,usa,Mark_Martin,Mark Martin,Morgan-McClure,Larry_McClure,Oldsmobile,154,1640,engine,0,82
+1983,W,1983_Gabriel_400,28,5,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,147,3335,hub,2,84
+1983,W,1983_Gabriel_400,29,21,67,usa,Buddy_Arrington,Buddy Arrington,Prange Chrysler-Plymouth,Buddy_Arrington,Chrysler,143,3255,engine,0,76
+1983,W,1983_Gabriel_400,30,29,71,usa,Dave_Marcis,Dave Marcis,Throttle's Food & Fuel,Dave_Marcis,Chevrolet,123,8860,engine,0,73
+1983,W,1983_Gabriel_400,31,20,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,94,7400,engine,0,70
+1983,W,1983_Gabriel_400,32,36,53,usa,Tom_Sneva,Tom Sneva,Simoniz BodyGard,Bay_Darnell,Chevrolet,75,1840,transmission,0,67
+1983,W,1983_Gabriel_400,33,6,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Buick,72,2280,engine,0,64
+1983,W,1983_Gabriel_400,34,30,70,usa,J_D_McDuffie,J.D. McDuffie,Bailey Excavating / Wilder's,J.D._McDuffie,Pontiac,70,2220,engine,0,61
+1983,W,1983_Gabriel_400,35,10,16,usa,David_Pearson,David Pearson,Chattanooga Chew,Bobby_Hawkins,Chevrolet,60,1165,engine,0,58
+1983,W,1983_Gabriel_400,36,33,04,usa,Rick_Baldwin,Rick Baldwin,B & N Roofing,Rick_Baldwin,Chrysler,34,1120,overheating,0,55
+1983,W,1983_Gabriel_400,37,25,74,usa,Bobby_Wawak,Bobby Wawak,Superior Piping,Bobby_Wawak,Buick,22,1120,wheel bearing,0,52
+1983,W,1983_Firecracker_400,1,8,21,usa,Buddy_Baker,Buddy Baker,Valvoline,Wood_Brothers,Ford,160,32950,running,45,185
+1983,W,1983_Firecracker_400,2,31,2,usa,Morgan_Shepherd,Morgan Shepherd,ACM Equipment Sales,Jim_Stacy,Buick,160,27175,running,2,175
+1983,W,1983_Firecracker_400,3,15,16,usa,David_Pearson,David Pearson,Chattanooga Chew,Bobby_Hawkins,Chevrolet,160,13275,running,0,165
+1983,W,1983_Firecracker_400,4,10,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,160,13380,running,8,165
+1983,W,1983_Firecracker_400,5,3,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,160,13545,running,43,160
+1983,W,1983_Firecracker_400,6,5,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,159,9625,running,0,150
+1983,W,1983_Firecracker_400,7,14,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,159,7965,running,0,146
+1983,W,1983_Firecracker_400,8,21,84,usa,Jody_Ridley,Jody Ridley,Cumberland Mills,Robert_McEntyre,Buick,158,5100,running,0,142
+1983,W,1983_Firecracker_400,9,7,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,158,11900,running,19,143
+1983,W,1983_Firecracker_400,10,37,51,usa,Lennie_Pond,Lennie Pond,Burger King,Tom_Beck,Buick,157,3550,running,3,139
+1983,W,1983_Firecracker_400,11,25,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,157,11300,running,0,130
+1983,W,1983_Firecracker_400,12,23,77,usa,Ken_Ragan,Ken Ragan,Clinomint,Marvin_Ragan,Chevrolet,157,3400,running,0,127
+1983,W,1983_Firecracker_400,13,26,71,usa,Dave_Marcis,Dave Marcis,Transmissions Unlimited,Dave_Marcis,Chevrolet,156,10600,running,0,124
+1983,W,1983_Firecracker_400,14,13,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,156,11250,running,5,126
+1983,W,1983_Firecracker_400,15,40,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Hillin Racing,Bobby_Hillin_Sr,Buick,155,3500,running,0,118
+1983,W,1983_Firecracker_400,16,28,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Chevrolet,155,5555,running,0,115
+1983,W,1983_Firecracker_400,17,32,48,canada,Trevor_Boys,Trevor Boys,Hylton-McCaig,James_Hylton,Chevrolet,153,5235,running,0,112
+1983,W,1983_Firecracker_400,18,17,6,usa,Connie_Saylor,Connie Saylor,Native Tan,D.K._Ulrich,Chevrolet,153,4875,running,0,109
+1983,W,1983_Firecracker_400,19,16,4,usa,Mark_Martin,Mark Martin,Morgan-McClure,Larry_McClure,Oldsmobile,153,2100,running,0,106
+1983,W,1983_Firecracker_400,20,24,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi Challenger,Junior_Johnson,Chevrolet,152,11950,running,0,103
+1983,W,1983_Firecracker_400,21,6,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,149,4315,running,0,100
+1983,W,1983_Firecracker_400,22,35,24,usa,Cecil_Gordon,Cecil Gordon,Native Tan,Cecil_Gordon,Chrysler,148,1800,running,0,97
+1983,W,1983_Firecracker_400,23,39,64,usa,Tommy_Gale,Tommy Gale,Sunny King Ford & Honda,Elmo_Langley,Ford,148,3905,running,0,94
+1983,W,1983_Firecracker_400,24,27,41,usa,Ronnie_Thomas,Ronnie Thomas,Advance Auto Parts,Ronnie_Thomas,Pontiac,147,1725,running,0,91
+1983,W,1983_Firecracker_400,25,29,10,usa,Clark_Dwyer,Clark Dwyer,Kings Inn,Roger_Hamby,Chevrolet,147,1650,running,0,88
+1983,W,1983_Firecracker_400,26,4,55,usa,Benny_Parsons,Benny Parsons,Copenhagen,Johnny_Hayes,Chevrolet,145,2250,engine,16,90
+1983,W,1983_Firecracker_400,27,33,74,usa,Bobby_Wawak,Bobby Wawak,Bridgetender Inn,Bobby_Wawak,Chevrolet,128,1500,running,0,82
+1983,W,1983_Firecracker_400,28,9,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,124,7450,running,0,79
+1983,W,1983_Firecracker_400,29,19,1,usa,Lake_Speed,Lake Speed,UNO / Bull Frog Knits,Hoss_Ellington,Chevrolet,115,1400,engine,0,76
+1983,W,1983_Firecracker_400,30,18,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,112,3395,engine,0,73
+1983,W,1983_Firecracker_400,31,11,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,102,3075,ignition,0,70
+1983,W,1983_Firecracker_400,32,12,90,usa,Dick_Brooks,Dick Brooks,Chameleon Sunglasses,Junie_Donlavey,Ford,78,3765,crash,16,72
+1983,W,1983_Firecracker_400,33,30,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,78,7225,crash,0,64
+1983,W,1983_Firecracker_400,34,20,67,usa,Buddy_Arrington,Buddy Arrington,Jim Peacock,Buddy_Arrington,Chrysler,74,2905,engine,0,61
+1983,W,1983_Firecracker_400,35,34,0,usa,Delma_Cowart,Delma Cowart,Coastal Transmissions,H.L._Waters,Buick,69,1125,piston,0,58
+1983,W,1983_Firecracker_400,36,38,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Buick,69,2835,engine,0,55
+1983,W,1983_Firecracker_400,37,2,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Chevrolet,30,2675,engine,2,57
+1983,W,1983_Firecracker_400,38,22,5,usa,Greg_Sacks,Greg Sacks,Sacks & Sons,Arnie_Sacks,Chevrolet,19,1150,engine,0,49
+1983,W,1983_Firecracker_400,39,36,39,usa,Blackie_Wangerin,Blackie Wangerin,Wangerin Racing,Blackie_Wangerin,Ford,9,1025,engine,0,46
+1983,W,1983_Firecracker_400,40,1,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Chevrolet,5,3250,engine,1,48
+1983,W,1983_Busch_Nashville_420,1,3,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,420,23125,running,212,185
+1983,W,1983_Busch_Nashville_420,2,2,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi Challenger,Junior_Johnson,Chevrolet,420,16425,running,129,175
+1983,W,1983_Busch_Nashville_420,3,13,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,419,8030,running,0,165
+1983,W,1983_Busch_Nashville_420,4,11,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,419,9400,running,24,165
+1983,W,1983_Busch_Nashville_420,5,6,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,417,4770,running,0,155
+1983,W,1983_Busch_Nashville_420,6,4,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,417,6800,running,50,155
+1983,W,1983_Busch_Nashville_420,7,9,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,416,3850,running,0,146
+1983,W,1983_Busch_Nashville_420,8,10,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,416,8200,running,0,142
+1983,W,1983_Busch_Nashville_420,9,7,71,usa,Dave_Marcis,Dave Marcis,W.H. Bolin,Dave_Marcis,Chevrolet,416,7600,running,5,143
+1983,W,1983_Busch_Nashville_420,10,8,2,usa,Morgan_Shepherd,Morgan Shepherd,ACM Equipment Sales,Jim_Stacy,Buick,414,8010,running,0,134
+1983,W,1983_Busch_Nashville_420,11,15,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,412,3190,running,0,130
+1983,W,1983_Busch_Nashville_420,12,21,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Chevrolet,412,3020,running,0,127
+1983,W,1983_Busch_Nashville_420,13,23,48,canada,Trevor_Boys,Trevor Boys,Hylton-McCaig,James_Hylton,Chevrolet,411,3360,running,0,124
+1983,W,1983_Busch_Nashville_420,14,20,90,usa,Dick_Brooks,Dick Brooks,Chameleon Sunglasses,Junie_Donlavey,Ford,411,2800,running,0,121
+1983,W,1983_Busch_Nashville_420,15,18,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Pontiac,409,3315,running,0,118
+1983,W,1983_Busch_Nashville_420,16,14,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,406,3950,running,0,115
+1983,W,1983_Busch_Nashville_420,17,24,70,usa,J_D_McDuffie,J.D. McDuffie,McDuffie Racing,J.D._McDuffie,Pontiac,399,2250,running,0,112
+1983,W,1983_Busch_Nashville_420,18,26,6,usa,Al_Elmore,Al Elmore,World Cup,D.K._Ulrich,Buick,393,2025,running,0,109
+1983,W,1983_Busch_Nashville_420,19,16,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,392,5575,running,0,106
+1983,W,1983_Busch_Nashville_420,20,12,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,389,1950,running,0,103
+1983,W,1983_Busch_Nashville_420,21,28,19,usa,Steve_Gray,Steve Gray,Gray Racing,Henley_Gray,Buick,376,825,running,0,100
+1983,W,1983_Busch_Nashville_420,22,5,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Pontiac,348,1300,running,0,97
+1983,W,1983_Busch_Nashville_420,23,22,41,usa,Ronnie_Thomas,Ronnie Thomas,Advance Auto Parts,Ronnie_Thomas,Pontiac,344,775,running,0,94
+1983,W,1983_Busch_Nashville_420,24,30,67,usa,Buddy_Arrington,Buddy Arrington,Arrington Racing,Buddy_Arrington,Chrysler,269,1250,engine,0,91
+1983,W,1983_Busch_Nashville_420,25,27,18,usa,Don_Satterfield,Don Satterfield,Satterfield Racing,Leon_Satterfield,Buick,227,725,engine,0,88
+1983,W,1983_Busch_Nashville_420,26,17,86,usa,Darryl_Sage,Darryl Sage,Sage Racing,Lee_Sage,Chevrolet,209,720,engine,0,85
+1983,W,1983_Busch_Nashville_420,27,1,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,148,2415,engine,0,82
+1983,W,1983_Busch_Nashville_420,28,29,64,usa,Tommy_Gale,Tommy Gale,Sunny King Ford & Honda,Elmo_Langley,Ford,77,1210,engine,0,79
+1983,W,1983_Busch_Nashville_420,29,19,96,usa,Jimmy_Walker,Jimmy Walker,Cronkrite Racing,Will_Cronkrite,Ford,50,705,overheating,0,76
+1983,W,1983_Busch_Nashville_420,30,25,02,usa,D_K_Ulrich,D.K. Ulrich,Reeder Racing,Bud_Reeder,Buick,3,1200,piston,0,73
+1983,W,1983_Like_Cola_500,1,1,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,200,27430,running,39,180
+1983,W,1983_Like_Cola_500,2,3,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi Challenger,Junior_Johnson,Chevrolet,200,23375,running,50,175
+1983,W,1983_Like_Cola_500,3,12,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,200,21950,running,56,175
+1983,W,1983_Like_Cola_500,4,4,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,200,16525,running,25,165
+1983,W,1983_Like_Cola_500,5,2,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,200,14700,running,15,160
+1983,W,1983_Like_Cola_500,6,8,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,200,9630,running,2,155
+1983,W,1983_Like_Cola_500,7,6,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,200,7460,running,0,146
+1983,W,1983_Like_Cola_500,8,19,71,usa,Dave_Marcis,Dave Marcis,Fun Seasons,Dave_Marcis,Chevrolet,200,11500,running,3,147
+1983,W,1983_Like_Cola_500,9,13,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Buick,200,6350,running,0,138
+1983,W,1983_Like_Cola_500,10,9,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,200,9750,running,5,139
+1983,W,1983_Like_Cola_500,11,14,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,199,5880,running,0,130
+1983,W,1983_Like_Cola_500,12,5,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,199,6370,running,2,132
+1983,W,1983_Like_Cola_500,13,15,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,198,5260,running,0,124
+1983,W,1983_Like_Cola_500,14,17,48,canada,Trevor_Boys,Trevor Boys,Hylton-McCaig,James_Hylton,Chevrolet,197,5450,running,0,121
+1983,W,1983_Like_Cola_500,15,16,90,usa,Dick_Brooks,Dick Brooks,Chameleon Sunglasses,Junie_Donlavey,Ford,196,4740,running,0,118
+1983,W,1983_Like_Cola_500,16,22,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock / Camper Stores,Bobby_Hillin_Sr,Buick,196,2500,running,0,115
+1983,W,1983_Like_Cola_500,17,27,02,usa,D_K_Ulrich,D.K. Ulrich,Reeder Racing,Bud_Reeder,Pontiac,195,4380,running,0,112
+1983,W,1983_Like_Cola_500,18,20,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Pontiac,195,3990,running,0,109
+1983,W,1983_Like_Cola_500,19,18,2,usa,Morgan_Shepherd,Morgan Shepherd,ACM Equipment Sales,Jim_Stacy,Buick,193,9800,engine,0,106
+1983,W,1983_Like_Cola_500,20,33,41,usa,Ronnie_Thomas,Ronnie Thomas,Yopaka Kennels,Ronnie_Thomas,Pontiac,193,2100,running,1,108
+1983,W,1983_Like_Cola_500,21,31,76,usa,Mike_Potter,Mike Potter,Cam Farm,Mike_Potter,Oldsmobile,192,2000,running,0,100
+1983,W,1983_Like_Cola_500,22,30,6,usa,Al_Elmore,Al Elmore,Ulrich Racing,D.K._Ulrich,Buick,191,3580,running,0,97
+1983,W,1983_Like_Cola_500,23,36,24,usa,Cecil_Gordon,Cecil Gordon,Boat Exchange,Cecil_Gordon,Chrysler,189,1850,running,0,94
+1983,W,1983_Like_Cola_500,24,24,64,usa,Tommy_Gale,Tommy Gale,Sunny King Ford & Honda,Elmo_Langley,Ford,188,3470,running,0,91
+1983,W,1983_Like_Cola_500,25,39,70,usa,J_D_McDuffie,J.D. McDuffie,McDuffie Racing,J.D._McDuffie,Pontiac,183,4410,running,0,88
+1983,W,1983_Like_Cola_500,26,38,63,usa,Jocko_Maggiacomo,Jocko Maggiacomo,Tele-Video,Jim_Rosenblum,Oldsmobile,182,1700,running,0,85
+1983,W,1983_Like_Cola_500,27,25,74,usa,Bobby_Wawak,Bobby Wawak,Superior Piping,Bobby_Wawak,Buick,175,1650,running,0,82
+1983,W,1983_Like_Cola_500,28,37,58,usa,Jerry_Bowman,Jerry Bowman,Bel Air Datsun,Jerry_Bowman,Ford,152,1600,oil pressure,0,79
+1983,W,1983_Like_Cola_500,29,21,5,usa,Greg_Sacks,Greg Sacks,Sacks & Sons,Arnie_Sacks,Chevrolet,128,2050,crash,0,76
+1983,W,1983_Like_Cola_500,30,10,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,71,8500,engine,0,73
+1983,W,1983_Like_Cola_500,31,7,55,usa,Benny_Parsons,Benny Parsons,Copenhagen,Johnny_Hayes,Chevrolet,71,1450,engine,2,75
+1983,W,1983_Like_Cola_500,32,23,67,usa,Buddy_Arrington,Buddy Arrington,Arrington Racing,Buddy_Arrington,Dodge,62,2400,crank,0,67
+1983,W,1983_Like_Cola_500,33,40,13,usa,Dick_May,Dick May,Halverson Racing,Jeff_Halverson,Buick,34,1350,rear end,0,64
+1983,W,1983_Like_Cola_500,34,26,19,usa,Bobby_Gerhart,Bobby Gerhart,Gray Racing,Henley_Gray,Buick,25,1300,crash,0,61
+1983,W,1983_Like_Cola_500,35,28,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Pontiac,25,2250,crash,0,58
+1983,W,1983_Like_Cola_500,36,35,65,usa,Glenn_Jarrett,Glenn Jarrett,Spohn's Body Shop,Ron_Spohn,Ford,24,1200,crash,0,55
+1983,W,1983_Like_Cola_500,37,29,18,usa,Slick_Johnson,Slick Johnson,Seamless Gutter Machine / USA,Leon_Satterfield,Buick,21,1175,engine,0,52
+1983,W,1983_Like_Cola_500,38,32,60,usa,Bob_Riley,Bob Riley,Riley Racing,Bob_Riley,Pontiac,10,1150,engine,0,49
+1983,W,1983_Like_Cola_500,39,11,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,7,3125,engine,0,46
+1983,W,1983_Like_Cola_500,40,34,10,usa,Clark_Dwyer,Clark Dwyer,Kings Inn,Roger_Hamby,Chevrolet,6,1100,oil pressure,0,43
+1983,W,1983_Talladega_500,1,4,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,188,46950,running,41,185
+1983,W,1983_Talladega_500,2,10,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi / Burger King,Junior_Johnson,Chevrolet,188,32965,running,21,175
+1983,W,1983_Talladega_500,3,18,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,188,20680,running,41,175
+1983,W,1983_Talladega_500,4,12,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,188,17475,running,3,165
+1983,W,1983_Talladega_500,5,23,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,188,17650,running,0,155
+1983,W,1983_Talladega_500,6,9,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,188,12445,running,2,155
+1983,W,1983_Talladega_500,7,5,90,usa,Dick_Brooks,Dick Brooks,Chameleon Sunglasses,Junie_Donlavey,Ford,187,9575,running,0,146
+1983,W,1983_Talladega_500,8,2,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,187,8445,running,0,142
+1983,W,1983_Talladega_500,9,24,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,186,12925,running,8,143
+1983,W,1983_Talladega_500,10,8,4,usa,Mark_Martin,Mark Martin,Jim Magill,Larry_McClure,Chevrolet,186,5775,running,0,134
+1983,W,1983_Talladega_500,11,13,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,186,7205,running,0,130
+1983,W,1983_Talladega_500,12,19,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,185,6860,running,0,127
+1983,W,1983_Talladega_500,13,31,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Bobby_Hillin_Sr,Buick,184,5300,running,0,124
+1983,W,1983_Talladega_500,14,29,77,usa,Ken_Ragan,Ken Ragan,Clinomint,Marvin_Ragan,Chevrolet,183,3575,running,0,121
+1983,W,1983_Talladega_500,15,21,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Chevrolet,182,7125,running,0,118
+1983,W,1983_Talladega_500,16,17,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,182,5750,running,0,115
+1983,W,1983_Talladega_500,17,26,48,canada,Trevor_Boys,Trevor Boys,Hylton-McCaig,James_Hylton,Chevrolet,181,5510,lug bolts,0,112
+1983,W,1983_Talladega_500,18,25,67,usa,Buddy_Arrington,Buddy Arrington,Arrington Racing,Buddy_Arrington,Chrysler,178,5315,running,0,109
+1983,W,1983_Talladega_500,19,33,6,usa,Al_Elmore,Al Elmore,Ulrich Racing,D.K._Ulrich,Chevrolet,174,4785,running,0,106
+1983,W,1983_Talladega_500,20,37,41,usa,Ronnie_Thomas,Ronnie Thomas,McCord Gaskets,Ronnie_Thomas,Pontiac,173,3000,running,0,103
+1983,W,1983_Talladega_500,21,22,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Chevrolet,167,5555,engine,0,100
+1983,W,1983_Talladega_500,22,3,55,usa,Benny_Parsons,Benny Parsons,Copenhagen,Johnny_Hayes,Chevrolet,151,2880,ignition,1,102
+1983,W,1983_Talladega_500,23,38,70,usa,J_D_McDuffie,J.D. McDuffie,Bailey Excavating,J.D._McDuffie,Pontiac,144,4325,running,0,94
+1983,W,1983_Talladega_500,24,1,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Chevrolet,140,5820,engine,21,96
+1983,W,1983_Talladega_500,25,15,16,usa,David_Pearson,David Pearson,Chattanooga Chew,Bobby_Hawkins,Chevrolet,127,2450,valve,0,88
+1983,W,1983_Talladega_500,26,11,1,usa,Lake_Speed,Lake Speed,UNO / Bull Frog Knits,Hoss_Ellington,Chevrolet,90,2390,piston,0,85
+1983,W,1983_Talladega_500,27,32,2,usa,Morgan_Shepherd,Morgan Shepherd,ACM Equipment Sales,Jim_Stacy,Buick,78,9930,engine,0,82
+1983,W,1983_Talladega_500,28,6,21,usa,Buddy_Baker,Buddy Baker,Valvoline,Wood_Brothers,Ford,69,3770,brakes,30,84
+1983,W,1983_Talladega_500,29,7,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,64,5045,crank,20,81
+1983,W,1983_Talladega_500,30,35,76,usa,Mike_Potter,Mike Potter,Cam Farm / Larry's,Mike_Potter,Oldsmobile,60,2150,overheating,0,73
+1983,W,1983_Talladega_500,31,20,84,usa,Jody_Ridley,Jody Ridley,Cumberland Mills,Robert_McEntyre,Chevrolet,37,2090,oil pressure,0,70
+1983,W,1983_Talladega_500,32,36,71,usa,Dave_Marcis,Dave Marcis,Hudson / Transmissions Unlimited,Dave_Marcis,Chevrolet,22,9430,push rod,0,67
+1983,W,1983_Talladega_500,33,28,24,usa,Cecil_Gordon,Cecil Gordon,Talladega Short Track,Cecil_Gordon,Chrysler,13,2020,ignition,0,64
+1983,W,1983_Talladega_500,34,27,74,usa,Bobby_Wawak,Bobby Wawak,Superior Piping,Bobby_Wawak,Chevrolet,5,1935,crash,0,61
+1983,W,1983_Talladega_500,35,14,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,1,8350,engine,0,58
+1983,W,1983_Talladega_500,36,16,29,usa,Grant_Adcox,Grant Adcox,Adcox Racing,Herb_Adcox,Chevrolet,1,1790,crash,0,55
+1983,W,1983_Talladega_500,37,30,31,usa,Billie_Harvey,Billie Harvey,Gray Racing,Henley_Gray,Buick,1,1730,crash,0,52
+1983,W,1983_Talladega_500,38,34,64,usa,Tommy_Gale,Tommy Gale,Sunny King Ford & Honda,Elmo_Langley,Ford,1,2670,crash,0,49
+1983,W,1983_Talladega_500,39,40,46,usa,Travis_Tiller,Travis Tiller,Intermtn. Video Stms.,Travis_Tiller,Chevrolet,1,1610,crash,0,46
+1983,W,1983_Talladega_500,40,39,78,usa,Dick_Skillen,Dick Skillen,Truss Builders,Tom_Goff,Pontiac,1,1450,crash,0,43
+1983,W,1983_Champion_Spark_Plug_400,1,7,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Chevrolet,200,26100,running,85,185
+1983,W,1983_Champion_Spark_Plug_400,2,11,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi / Burger King,Junior_Johnson,Chevrolet,200,23775,running,3,175
+1983,W,1983_Champion_Spark_Plug_400,3,2,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,200,17205,running,10,170
+1983,W,1983_Champion_Spark_Plug_400,4,1,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,200,13245,running,59,165
+1983,W,1983_Champion_Spark_Plug_400,5,8,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,200,10205,running,1,160
+1983,W,1983_Champion_Spark_Plug_400,6,20,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,200,11640,running,3,155
+1983,W,1983_Champion_Spark_Plug_400,7,13,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,200,12140,running,0,146
+1983,W,1983_Champion_Spark_Plug_400,8,24,1,usa,Lake_Speed,Lake Speed,UNO / Bull Frog Knits,Hoss_Ellington,Chevrolet,199,4640,running,0,142
+1983,W,1983_Champion_Spark_Plug_400,9,6,16,usa,David_Pearson,David Pearson,Chattanooga Chew,Bobby_Hawkins,Chevrolet,199,4140,running,0,138
+1983,W,1983_Champion_Spark_Plug_400,10,18,21,usa,Buddy_Baker,Buddy Baker,Valvoline,Wood_Brothers,Ford,199,4340,running,3,139
+1983,W,1983_Champion_Spark_Plug_400,11,21,71,usa,Dave_Marcis,Dave Marcis,Throttle's Food & Fuel,Dave_Marcis,Chevrolet,199,11240,running,9,135
+1983,W,1983_Champion_Spark_Plug_400,12,4,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,198,6530,running,0,127
+1983,W,1983_Champion_Spark_Plug_400,13,10,55,usa,Benny_Parsons,Benny Parsons,Copenhagen,Johnny_Hayes,Chevrolet,198,3140,running,0,124
+1983,W,1983_Champion_Spark_Plug_400,14,29,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,197,5895,running,0,121
+1983,W,1983_Champion_Spark_Plug_400,15,22,84,usa,Jody_Ridley,Jody Ridley,Cumberland Mills,Robert_McEntyre,Chevrolet,197,2740,running,0,118
+1983,W,1983_Champion_Spark_Plug_400,16,33,80,usa,Bob_Senneker,Bob Senneker,Elk Custom Vans,Terry_Marra,Pontiac,196,2440,running,0,115
+1983,W,1983_Champion_Spark_Plug_400,17,27,5,usa,Greg_Sacks,Greg Sacks,Sacks & Sons,Arnie_Sacks,Chevrolet,195,2740,running,0,112
+1983,W,1983_Champion_Spark_Plug_400,18,35,4,usa,Mark_Martin,Mark Martin,Morgan-McClure,Larry_McClure,Oldsmobile,195,3140,running,0,109
+1983,W,1983_Champion_Spark_Plug_400,19,23,48,canada,Trevor_Boys,Trevor Boys,Hylton-McCaig,James_Hylton,Chevrolet,195,5375,running,0,106
+1983,W,1983_Champion_Spark_Plug_400,20,30,77,usa,Dean_Combs,Dean Combs,Best Products,Irv_Sanderson,Buick,194,2090,running,0,103
+1983,W,1983_Champion_Spark_Plug_400,21,12,90,usa,Dick_Brooks,Dick Brooks,Chameleon Sunglasses,Junie_Donlavey,Ford,193,4515,running,3,105
+1983,W,1983_Champion_Spark_Plug_400,22,28,52,usa,Lennie_Pond,Lennie Pond,Broadway Motors,Jimmy_Means,Chevrolet,193,4155,running,0,97
+1983,W,1983_Champion_Spark_Plug_400,23,19,67,usa,Buddy_Arrington,Buddy Arrington,Prange Chrysler-Plymouth,Buddy_Arrington,Chrysler,192,3845,running,0,94
+1983,W,1983_Champion_Spark_Plug_400,24,17,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Chevrolet,192,3585,running,0,91
+1983,W,1983_Champion_Spark_Plug_400,25,26,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Bobby_Hillin_Sr,Buick,191,1490,running,0,88
+1983,W,1983_Champion_Spark_Plug_400,26,36,03,usa,Eddie_Bierschwale,Eddie Bierschwale,Mission Ice / Lone Star,Don_Bierschwale,Buick,189,1440,running,0,85
+1983,W,1983_Champion_Spark_Plug_400,27,9,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,188,3165,running,0,82
+1983,W,1983_Champion_Spark_Plug_400,28,37,64,usa,Tommy_Gale,Tommy Gale,Sunny King Ford & Honda,Elmo_Langley,Ford,186,3105,running,0,79
+1983,W,1983_Champion_Spark_Plug_400,29,25,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Chevrolet,175,3045,running,0,76
+1983,W,1983_Champion_Spark_Plug_400,30,16,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,171,9040,running,0,73
+1983,W,1983_Champion_Spark_Plug_400,31,5,66,usa,Phil_Parsons,Phil Parsons,Skoal,Johnny_Hayes,Chevrolet,169,1190,engine,0,70
+1983,W,1983_Champion_Spark_Plug_400,32,32,70,usa,J_D_McDuffie,J.D. McDuffie,Bailey Excavating,J.D._McDuffie,Pontiac,164,2875,overheating,0,67
+1983,W,1983_Champion_Spark_Plug_400,33,34,02,usa,D_K_Ulrich,D.K. Ulrich,Reeder Racing,Bud_Reeder,Pontiac,158,2090,engine,0,64
+1983,W,1983_Champion_Spark_Plug_400,34,15,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,137,9040,engine,3,66
+1983,W,1983_Champion_Spark_Plug_400,35,14,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,133,6995,piston,0,58
+1983,W,1983_Champion_Spark_Plug_400,36,3,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,92,3635,push rod,21,60
+1983,W,1983_Champion_Spark_Plug_400,37,31,2,usa,Morgan_Shepherd,Morgan Shepherd,ACM Equipment Sales,Jim_Stacy,Buick,63,8560,valve,0,52
+1983,W,1983_Busch_500,1,2,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi / Burger King,Junior_Johnson,Chevrolet,419,30400,running,215,185
+1983,W,1983_Busch_500,2,6,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,419,15725,running,197,175
+1983,W,1983_Busch_500,3,13,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,419,13360,running,0,165
+1983,W,1983_Busch_500,4,9,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,418,7370,running,0,160
+1983,W,1983_Busch_500,5,5,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,418,5770,running,1,155
+1983,W,1983_Busch_500,6,8,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,418,8875,running,1,155
+1983,W,1983_Busch_500,7,7,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,418,4450,running,2,151
+1983,W,1983_Busch_500,8,11,2,usa,Morgan_Shepherd,Morgan Shepherd,ACM Equipment Sales,Jim_Stacy,Buick,410,8200,running,0,142
+1983,W,1983_Busch_500,9,14,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,407,6400,running,0,138
+1983,W,1983_Busch_500,10,15,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,405,6660,crash,0,139
+1983,W,1983_Busch_500,11,19,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,405,3590,running,0,130
+1983,W,1983_Busch_500,12,28,41,usa,Ronnie_Thomas,Ronnie Thomas,McCord Gaskets,Ronnie_Thomas,Pontiac,402,1350,running,0,127
+1983,W,1983_Busch_500,13,20,67,usa,Buddy_Arrington,Buddy Arrington,Arrington Racing,Buddy_Arrington,Chrysler,399,3320,running,0,124
+1983,W,1983_Busch_500,14,4,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,396,3110,running,0,121
+1983,W,1983_Busch_500,15,23,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Pontiac,394,3475,running,0,118
+1983,W,1983_Busch_500,16,24,6,usa,Al_Elmore,Al Elmore,Ulrich Racing,D.K._Ulrich,Buick,393,2765,running,0,115
+1983,W,1983_Busch_500,17,18,48,canada,Trevor_Boys,Trevor Boys,Hylton-McCaig,James_Hylton,Chevrolet,389,2705,running,0,112
+1983,W,1983_Busch_500,18,1,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Pontiac,380,3620,running,0,109
+1983,W,1983_Busch_500,19,27,18,usa,Don_Satterfield,Don Satterfield,Satterfield Racing,Leon_Satterfield,Buick,368,925,running,0,106
+1983,W,1983_Busch_500,20,12,71,usa,Dave_Marcis,Dave Marcis,Hudson,Dave_Marcis,Chevrolet,353,7000,running,0,103
+1983,W,1983_Busch_500,21,17,90,usa,Dick_Brooks,Dick Brooks,Chameleon Sunglasses,Junie_Donlavey,Ford,314,2325,valve,0,100
+1983,W,1983_Busch_500,22,3,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,271,2000,crash,3,102
+1983,W,1983_Busch_500,23,22,64,usa,Tommy_Gale,Tommy Gale,Sunny King Ford & Honda,Elmo_Langley,Ford,254,1325,crash,0,94
+1983,W,1983_Busch_500,24,25,02,usa,Mike_Potter,Mike Potter,Reeder Racing,Bud_Reeder,Pontiac,253,1300,running,0,91
+1983,W,1983_Busch_500,25,26,70,usa,J_D_McDuffie,J.D. McDuffie,McDuffie Racing,J.D._McDuffie,Pontiac,198,1275,running,0,88
+1983,W,1983_Busch_500,26,21,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Chevrolet,147,1250,rear end,0,85
+1983,W,1983_Busch_500,27,10,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,135,1225,clutch,0,82
+1983,W,1983_Busch_500,28,16,26,usa,Ronnie_Hopkins,Ronnie Hopkins,Food Country USA,Charlie_Henderson,Chevrolet,67,1200,rear end,0,79
+1983,W,1983_Busch_500,29,29,45,usa,John_McFadden,John McFadden,McFadden Racing,John_McFadden,Buick,44,675,brakes,0,76
+1983,W,1983_Southern_500,1,14,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,367,42050,running,119,185
+1983,W,1983_Southern_500,2,12,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,367,19045,running,3,175
+1983,W,1983_Southern_500,3,7,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi / Burger King,Junior_Johnson,Chevrolet,367,23475,running,30,170
+1983,W,1983_Southern_500,4,1,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,367,19320,running,101,165
+1983,W,1983_Southern_500,5,2,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,367,11045,running,0,155
+1983,W,1983_Southern_500,6,9,21,usa,Buddy_Baker,Buddy Baker,Valvoline,Wood_Brothers,Ford,366,6500,running,18,155
+1983,W,1983_Southern_500,7,15,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Chevrolet,366,4875,running,1,151
+1983,W,1983_Southern_500,8,4,55,usa,Benny_Parsons,Benny Parsons,Copenhagen,Johnny_Hayes,Chevrolet,366,4450,running,0,142
+1983,W,1983_Southern_500,9,19,2,usa,Morgan_Shepherd,Morgan Shepherd,ACM Equipment Sales,Jim_Stacy,Buick,364,11750,running,1,143
+1983,W,1983_Southern_500,10,5,16,usa,David_Pearson,David Pearson,Chattanooga Chew,Bobby_Hawkins,Chevrolet,363,5175,running,18,139
+1983,W,1983_Southern_500,11,17,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,363,11855,running,0,130
+1983,W,1983_Southern_500,12,21,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,363,9700,running,0,127
+1983,W,1983_Southern_500,13,11,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,362,7725,running,0,124
+1983,W,1983_Southern_500,14,23,71,usa,Dave_Marcis,Dave Marcis,Metromont Materials,Dave_Marcis,Chevrolet,361,10800,running,0,121
+1983,W,1983_Southern_500,15,3,1,usa,Lake_Speed,Lake Speed,UNO / Bull Frog Knits,Hoss_Ellington,Chevrolet,359,3650,running,0,118
+1983,W,1983_Southern_500,16,41,6,usa,D_K_Ulrich,D.K. Ulrich,Ulrich Racing,D.K._Ulrich,Buick,353,6155,running,0,115
+1983,W,1983_Southern_500,17,27,4,usa,Mark_Martin,Mark Martin,Morgan-McClure,Larry_McClure,Oldsmobile,351,3275,running,0,112
+1983,W,1983_Southern_500,18,34,67,usa,Buddy_Arrington,Buddy Arrington,Reid Trailer Sales,Buddy_Arrington,Dodge,351,6255,running,0,109
+1983,W,1983_Southern_500,19,25,77,usa,Ken_Ragan,Ken Ragan,Clinomint,Marvin_Ragan,Chevrolet,342,3250,running,0,106
+1983,W,1983_Southern_500,20,26,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Chevrolet,339,5645,running,0,103
+1983,W,1983_Southern_500,21,37,74,usa,Bobby_Wawak,Bobby Wawak,Superior Piping,Bobby_Wawak,Chevrolet,337,3350,running,0,100
+1983,W,1983_Southern_500,22,20,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,330,10075,running,0,97
+1983,W,1983_Southern_500,23,35,35,usa,Dick_May,Dick May,Hanover Printing,Wayne_Beahr,Ford,318,2225,ignition,0,94
+1983,W,1983_Southern_500,24,33,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Pontiac,282,5350,crash,0,91
+1983,W,1983_Southern_500,25,8,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,272,7415,engine,76,93
+1983,W,1983_Southern_500,26,6,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,245,4505,cylinder head,0,85
+1983,W,1983_Southern_500,27,39,18,usa,Slick_Johnson,Slick Johnson,Satterfield Racing,Leon_Satterfield,Buick,217,1750,handling,0,82
+1983,W,1983_Southern_500,28,30,48,canada,Trevor_Boys,Trevor Boys,Hylton-McCaig,James_Hylton,Chevrolet,217,3745,crash,0,79
+1983,W,1983_Southern_500,29,28,64,usa,Tommy_Gale,Tommy Gale,Sunny King Ford & Honda,Elmo_Langley,Ford,207,3450,engine,0,76
+1983,W,1983_Southern_500,30,36,41,usa,Ronnie_Thomas,Ronnie Thomas,McCord Gaskets,Ronnie_Thomas,Pontiac,179,2100,engine,0,73
+1983,W,1983_Southern_500,31,13,90,usa,Dick_Brooks,Dick Brooks,Chameleon Sunglasses,Junie_Donlavey,Ford,142,4015,crash,0,70
+1983,W,1983_Southern_500,32,18,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,117,3255,engine,0,67
+1983,W,1983_Southern_500,33,16,84,usa,Jody_Ridley,Jody Ridley,Cumberland Mills,Robert_McEntyre,Chevrolet,113,1500,brakes,0,64
+1983,W,1983_Southern_500,34,32,99,usa,Philip_Duffie,Philip Duffie,U.S. Duffie Sand & Gravel,Philip_Duffie,Buick,109,1400,engine,0,61
+1983,W,1983_Southern_500,35,22,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,107,3085,crash,0,58
+1983,W,1983_Southern_500,36,38,76,usa,Mike_Potter,Mike Potter,Cam Farm,Mike_Potter,Oldsmobile,98,1300,ignition,0,55
+1983,W,1983_Southern_500,37,40,70,usa,J_D_McDuffie,J.D. McDuffie,Bailey Excavating,J.D._McDuffie,Pontiac,54,2250,engine,0,52
+1983,W,1983_Southern_500,38,10,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Pontiac,34,2200,cylinder head,0,49
+1983,W,1983_Southern_500,39,31,42,usa,Lennie_Pond,Lennie Pond,Sand Dunes Hotel,Billy_Matthews,Buick,25,1150,crash,0,46
+1983,W,1983_Southern_500,40,24,26,usa,Ronnie_Hopkins,Ronnie Hopkins,Food Country USA,Charlie_Henderson,Chevrolet,15,1100,engine,0,43
+1983,W,1983_Southern_500,41,29,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Bobby_Hillin_Sr,Buick,11,1100,engine,0,40
+1983,W,1983_Wrangler_Sanfor-Set_400,1,6,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,400,39925,running,212,185
+1983,W,1983_Wrangler_Sanfor-Set_400,2,13,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,400,19025,running,133,175
+1983,W,1983_Wrangler_Sanfor-Set_400,3,1,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi / Burger King,Junior_Johnson,Chevrolet,399,24010,running,43,170
+1983,W,1983_Wrangler_Sanfor-Set_400,4,7,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,399,8270,running,0,160
+1983,W,1983_Wrangler_Sanfor-Set_400,5,2,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,398,8005,running,0,155
+1983,W,1983_Wrangler_Sanfor-Set_400,6,17,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,396,8080,running,0,150
+1983,W,1983_Wrangler_Sanfor-Set_400,7,15,21,usa,Buddy_Baker,Buddy Baker,Valvoline,Wood_Brothers,Ford,396,2790,running,0,146
+1983,W,1983_Wrangler_Sanfor-Set_400,8,16,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,396,7400,running,12,147
+1983,W,1983_Wrangler_Sanfor-Set_400,9,20,48,canada,Trevor_Boys,Trevor Boys,Hylton-McCaig,James_Hylton,Chevrolet,392,5020,running,0,138
+1983,W,1983_Wrangler_Sanfor-Set_400,10,24,6,usa,D_K_Ulrich,D.K. Ulrich,Ulrich Racing,D.K._Ulrich,Buick,384,5850,running,0,134
+1983,W,1983_Wrangler_Sanfor-Set_400,11,22,70,usa,J_D_McDuffie,J.D. McDuffie,McDuffie Racing,J.D._McDuffie,Pontiac,383,3950,running,0,130
+1983,W,1983_Wrangler_Sanfor-Set_400,12,25,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,353,3710,running,0,127
+1983,W,1983_Wrangler_Sanfor-Set_400,13,8,90,usa,Dick_Brooks,Dick Brooks,Chameleon Sunglasses,Junie_Donlavey,Ford,350,3410,running,0,124
+1983,W,1983_Wrangler_Sanfor-Set_400,14,18,67,usa,Buddy_Arrington,Buddy Arrington,Arrington Racing,Buddy_Arrington,Dodge,333,3200,running,0,121
+1983,W,1983_Wrangler_Sanfor-Set_400,15,19,92,usa,Joe_Fields,Joe Fields,Hobart Sales & Service,Joe_Fields,Buick,321,1550,running,0,118
+1983,W,1983_Wrangler_Sanfor-Set_400,16,5,2,usa,Morgan_Shepherd,Morgan Shepherd,ACM Equipment Sales,Jim_Stacy,Buick,314,7880,engine,0,115
+1983,W,1983_Wrangler_Sanfor-Set_400,17,26,41,usa,Ronnie_Thomas,Ronnie Thomas,McCord Gaskets,Ronnie_Thomas,Pontiac,313,1860,running,0,112
+1983,W,1983_Wrangler_Sanfor-Set_400,18,10,71,usa,Dave_Marcis,Dave Marcis,Jarrell's,Dave_Marcis,Chevrolet,304,7790,engine,0,109
+1983,W,1983_Wrangler_Sanfor-Set_400,19,27,02,usa,Mike_Potter,Mike Potter,Midlothian Texaco,Bud_Reeder,Pontiac,287,2725,running,0,106
+1983,W,1983_Wrangler_Sanfor-Set_400,20,14,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,274,7820,crash,0,103
+1983,W,1983_Wrangler_Sanfor-Set_400,21,3,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,251,3485,rear end,0,100
+1983,W,1983_Wrangler_Sanfor-Set_400,22,9,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,181,6850,rear end,0,97
+1983,W,1983_Wrangler_Sanfor-Set_400,23,4,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,174,2415,cylinder head,0,94
+1983,W,1983_Wrangler_Sanfor-Set_400,24,23,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Chevrolet,144,1730,piston,0,91
+1983,W,1983_Wrangler_Sanfor-Set_400,25,12,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,89,1545,valve,0,88
+1983,W,1983_Wrangler_Sanfor-Set_400,26,21,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Pontiac,68,2195,cylinder head,0,85
+1983,W,1983_Wrangler_Sanfor-Set_400,27,11,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Pontiac,60,1475,sway bar,0,82
+1983,W,1983_Wrangler_Sanfor-Set_400,28,30,51,usa,Lennie_Pond,Lennie Pond,Boulevard Zenith,Tom_Beck,Buick,51,940,rear end,0,79
+1983,W,1983_Wrangler_Sanfor-Set_400,29,29,18,usa,Don_Satterfield,Don Satterfield,Satterfield Racing,Leon_Satterfield,Buick,50,905,ignition,0,76
+1983,W,1983_Wrangler_Sanfor-Set_400,30,28,64,usa,Tommy_Gale,Tommy Gale,Thermo-Guard,Elmo_Langley,Ford,39,1370,engine,0,73
+1983,W,1983_Budweiser_500,1,7,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,500,30985,running,195,185
+1983,W,1983_Budweiser_500,2,4,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,500,16190,running,67,175
+1983,W,1983_Budweiser_500,3,5,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,500,11565,running,97,170
+1983,W,1983_Budweiser_500,4,1,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,499,10470,running,51,165
+1983,W,1983_Budweiser_500,5,14,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi / Burger King,Junior_Johnson,Chevrolet,499,14335,running,0,155
+1983,W,1983_Budweiser_500,6,16,2,usa,Morgan_Shepherd,Morgan Shepherd,ACM Equipment Sales,Jim_Stacy,Buick,499,10985,running,1,155
+1983,W,1983_Budweiser_500,7,8,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,493,8985,running,0,146
+1983,W,1983_Budweiser_500,8,12,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,491,5335,running,29,147
+1983,W,1983_Budweiser_500,9,17,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,491,8385,running,1,143
+1983,W,1983_Budweiser_500,10,27,10,usa,Clark_Dwyer,Clark Dwyer,Hamby Automotive,Roger_Hamby,Chevrolet,480,2685,running,0,134
+1983,W,1983_Budweiser_500,11,21,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Bobby_Hillin_Sr,Buick,479,2655,running,0,130
+1983,W,1983_Budweiser_500,12,25,6,usa,D_K_Ulrich,D.K. Ulrich,Ulrich Racing,D.K._Ulrich,Buick,470,4665,running,0,127
+1983,W,1983_Budweiser_500,13,2,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,467,4855,running,0,124
+1983,W,1983_Budweiser_500,14,24,92,usa,Joe_Fields,Joe Fields,Hobart Sales & Service,Joe_Fields,Buick,459,1885,running,0,121
+1983,W,1983_Budweiser_500,15,36,24,usa,Cecil_Gordon,Cecil Gordon,Delaware Trans-Am,Cecil_Gordon,Chrysler,457,2785,running,0,118
+1983,W,1983_Budweiser_500,16,11,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,452,4045,crash,0,115
+1983,W,1983_Budweiser_500,17,9,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,452,9385,crash,0,112
+1983,W,1983_Budweiser_500,18,28,87,usa,Jimmy_Ingalls,Jimmy Ingalls,Ingalls Construction,Jimmy_Ingalls,Buick,447,1480,running,0,109
+1983,W,1983_Budweiser_500,19,30,38,canada,Laurent_Rioux,Laurent Rioux,Valvoline,Laurent_Rioux,Chevrolet,441,1380,running,0,106
+1983,W,1983_Budweiser_500,20,6,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Pontiac,427,3530,engine,0,103
+1983,W,1983_Budweiser_500,21,26,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Chevrolet,416,3320,running,0,100
+1983,W,1983_Budweiser_500,22,13,71,usa,Dave_Marcis,Dave Marcis,Atlantic Equipment & Leasing,Dave_Marcis,Chevrolet,387,8530,engine,0,97
+1983,W,1983_Budweiser_500,23,23,67,usa,Buddy_Arrington,Buddy Arrington,Arrington Racing,Buddy_Arrington,Dodge,382,3060,spring,0,94
+1983,W,1983_Budweiser_500,24,29,41,usa,Ronnie_Thomas,Ronnie Thomas,McCord Gaskets,Ronnie_Thomas,Pontiac,377,1030,engine,0,91
+1983,W,1983_Budweiser_500,25,10,21,usa,Buddy_Baker,Buddy Baker,Valvoline,Wood_Brothers,Ford,356,980,engine,0,88
+1983,W,1983_Budweiser_500,26,18,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,337,2645,crash,0,85
+1983,W,1983_Budweiser_500,27,22,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Pontiac,285,3110,engine,0,82
+1983,W,1983_Budweiser_500,28,34,02,usa,Tommy_Gale,Tommy Gale,Reeder Racing,Bud_Reeder,Pontiac,255,2575,steering,0,79
+1983,W,1983_Budweiser_500,29,33,69,usa,Bob_Riley,Bob Riley,N.R.S. Carting,Bob_Riley,Pontiac,221,880,ignition,0,76
+1983,W,1983_Budweiser_500,30,32,64,usa,Jerry_Bowman,Jerry Bowman,Bowman Racing,Jerry_Bowman,Ford,139,2515,crash,0,73
+1983,W,1983_Budweiser_500,31,19,48,canada,Trevor_Boys,Trevor Boys,Hylton-McCaig,James_Hylton,Chevrolet,138,1830,engine,0,70
+1983,W,1983_Budweiser_500,32,15,90,usa,Dick_Brooks,Dick Brooks,Chameleon Sunglasses,Junie_Donlavey,Ford,125,1820,engine,0,67
+1983,W,1983_Budweiser_500,33,20,77,usa,Dean_Combs,Dean Combs,Best Products,Irv_Sanderson,Buick,107,810,engine,0,64
+1983,W,1983_Budweiser_500,34,31,60,usa,Natz_Peters,Natz Peters,Mitton Electric / Seminole Mall,Natz_Peters,Buick,103,800,engine,0,61
+1983,W,1983_Budweiser_500,35,3,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,90,7890,head gasket,59,63
+1983,W,1983_Budweiser_500,36,35,70,usa,J_D_McDuffie,J.D. McDuffie,McDuffie Racing,J.D._McDuffie,Pontiac,79,1780,engine,0,55
+1983,W,1983_Goody%27s_500,1,2,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,500,31395,running,380,185
+1983,W,1983_Goody%27s_500,2,6,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,500,19600,running,48,175
+1983,W,1983_Goody%27s_500,3,1,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi / Burger King,Junior_Johnson,Chevrolet,500,20150,running,70,170
+1983,W,1983_Goody%27s_500,4,5,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,499,11200,running,0,160
+1983,W,1983_Goody%27s_500,5,7,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,499,7670,running,0,155
+1983,W,1983_Goody%27s_500,6,11,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,499,8750,running,0,150
+1983,W,1983_Goody%27s_500,7,3,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Buick,499,6100,running,0,146
+1983,W,1983_Goody%27s_500,8,15,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,498,8825,running,0,142
+1983,W,1983_Goody%27s_500,9,10,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,489,6500,running,0,138
+1983,W,1983_Goody%27s_500,10,24,67,usa,Buddy_Arrington,Buddy Arrington,Arrington Racing,Buddy_Arrington,Dodge,487,4290,running,0,134
+1983,W,1983_Goody%27s_500,11,18,48,canada,Trevor_Boys,Trevor Boys,Hylton-McCaig,James_Hylton,Chevrolet,487,4070,running,0,130
+1983,W,1983_Goody%27s_500,12,21,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,480,3260,running,0,127
+1983,W,1983_Goody%27s_500,13,14,70,usa,J_D_McDuffie,J.D. McDuffie,McDuffie Racing,J.D._McDuffie,Pontiac,474,4125,running,0,124
+1983,W,1983_Goody%27s_500,14,16,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,466,2990,engine,1,126
+1983,W,1983_Goody%27s_500,15,22,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Chevrolet,466,2950,running,0,118
+1983,W,1983_Goody%27s_500,16,17,90,usa,Dick_Brooks,Dick Brooks,Chameleon Sunglasses,Junie_Donlavey,Ford,458,2670,running,0,115
+1983,W,1983_Goody%27s_500,17,29,38,canada,Laurent_Rioux,Laurent Rioux,Valvoline,Laurent_Rioux,Chevrolet,443,1175,running,0,112
+1983,W,1983_Goody%27s_500,18,28,6,usa,D_K_Ulrich,D.K. Ulrich,Ulrich Racing,D.K._Ulrich,Buick,431,2300,rear end,0,109
+1983,W,1983_Goody%27s_500,19,23,64,usa,Tommy_Gale,Tommy Gale,Sunny King Ford & Honda,Elmo_Langley,Ford,414,2275,steering,0,106
+1983,W,1983_Goody%27s_500,20,27,02,usa,Mike_Potter,Mike Potter,Reeder Racing,Bud_Reeder,Pontiac,355,1700,running,0,103
+1983,W,1983_Goody%27s_500,21,25,41,usa,Ronnie_Thomas,Ronnie Thomas,McCord Gaskets,Ronnie_Thomas,Pontiac,330,1090,overheating,0,100
+1983,W,1983_Goody%27s_500,22,9,21,usa,Buddy_Baker,Buddy Baker,Valvoline,Wood_Brothers,Ford,290,1080,valve,0,97
+1983,W,1983_Goody%27s_500,23,26,82,usa,Mark_Stahl,Mark Stahl,Auto Bell Car Wash,Mark_Stahl,Ford,256,1070,engine,0,94
+1983,W,1983_Goody%27s_500,24,8,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,169,1560,transmission,1,96
+1983,W,1983_Goody%27s_500,25,12,32,usa,Butch_Lindley,Butch Lindley,Prototype Racing Engines,Bill_Terry,Buick,122,1050,rear end,0,88
+1983,W,1983_Goody%27s_500,26,4,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,80,2040,ignition,0,85
+1983,W,1983_Goody%27s_500,27,13,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Pontiac,57,2530,crash,0,82
+1983,W,1983_Goody%27s_500,28,19,71,usa,Dave_Marcis,Dave Marcis,Hudson,Dave_Marcis,Chevrolet,56,7120,engine,0,79
+1983,W,1983_Goody%27s_500,29,20,2,usa,Morgan_Shepherd,Morgan Shepherd,ACM Equipment Sales,Jim_Stacy,Buick,3,7310,timing chain,0,76
+1983,W,1983_Holly_Farms_400,1,1,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi / Burger King,Junior_Johnson,Chevrolet,400,34800,running,252,185
+1983,W,1983_Holly_Farms_400,2,6,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,400,15500,running,134,175
+1983,W,1983_Holly_Farms_400,3,7,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,400,12855,running,1,170
+1983,W,1983_Holly_Farms_400,4,4,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,400,6345,running,12,165
+1983,W,1983_Holly_Farms_400,5,13,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,399,5820,running,0,155
+1983,W,1983_Holly_Farms_400,6,3,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,399,4675,running,1,155
+1983,W,1983_Holly_Farms_400,7,2,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,398,4240,running,0,146
+1983,W,1983_Holly_Farms_400,8,16,2,usa,Morgan_Shepherd,Morgan Shepherd,ACM Equipment Sales,Jim_Stacy,Buick,398,9200,running,0,142
+1983,W,1983_Holly_Farms_400,9,10,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,398,8100,running,0,138
+1983,W,1983_Holly_Farms_400,10,8,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,398,3545,running,0,134
+1983,W,1983_Holly_Farms_400,11,9,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,397,4110,running,0,130
+1983,W,1983_Holly_Farms_400,12,14,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,396,5950,running,0,127
+1983,W,1983_Holly_Farms_400,13,11,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,396,5875,running,0,124
+1983,W,1983_Holly_Farms_400,14,5,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Buick,394,2850,running,0,121
+1983,W,1983_Holly_Farms_400,15,12,90,usa,Dick_Brooks,Dick Brooks,Chameleon Sunglasses,Junie_Donlavey,Ford,394,2640,running,0,118
+1983,W,1983_Holly_Farms_400,16,15,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,393,2575,running,0,115
+1983,W,1983_Holly_Farms_400,17,19,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Pontiac,391,2875,running,0,112
+1983,W,1983_Holly_Farms_400,18,18,67,usa,Buddy_Arrington,Buddy Arrington,Shockley Motors,Buddy_Arrington,Chrysler,389,2150,running,0,109
+1983,W,1983_Holly_Farms_400,19,24,48,canada,Trevor_Boys,Trevor Boys,Hylton-McCaig,James_Hylton,Chevrolet,388,2100,running,0,106
+1983,W,1983_Holly_Farms_400,20,22,6,usa,D_K_Ulrich,D.K. Ulrich,D.K. Ulrich,D.K._Ulrich,Buick,384,1475,running,0,103
+1983,W,1983_Holly_Farms_400,21,20,41,usa,Ronnie_Thomas,Ronnie Thomas,McCord Gaskets,Ronnie_Thomas,Pontiac,383,950,running,0,100
+1983,W,1983_Holly_Farms_400,22,21,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Chevrolet,381,1425,running,0,97
+1983,W,1983_Holly_Farms_400,23,30,82,usa,Mark_Stahl,Mark Stahl,Auto Bell Car Wash,Mark_Stahl,Ford,366,900,running,0,94
+1983,W,1983_Holly_Farms_400,24,23,64,usa,Tommy_Gale,Tommy Gale,Sunny King Ford & Honda,Elmo_Langley,Ford,365,1375,running,0,91
+1983,W,1983_Holly_Farms_400,25,17,71,usa,Dave_Marcis,Dave Marcis,AEL Rentals,Dave_Marcis,Chevrolet,348,6950,cylinder,0,88
+1983,W,1983_Holly_Farms_400,26,26,70,usa,J_D_McDuffie,J.D. McDuffie,Rumple Furniture,J.D._McDuffie,Pontiac,280,1825,rear end,0,85
+1983,W,1983_Holly_Farms_400,27,25,96,usa,Jimmy_Walker,Jimmy Walker,Walker Enterprises,Will_Cronkrite,Ford,239,800,rear end,0,82
+1983,W,1983_Holly_Farms_400,28,28,45,usa,John_McFadden,John McFadden,Lebe's Tire Service,John_McFadden,Buick,234,775,ignition,0,79
+1983,W,1983_Holly_Farms_400,29,27,02,usa,Mike_Potter,Mike Potter,Reeder Racing,Bud_Reeder,Pontiac,15,1250,valve,0,76
+1983,W,1983_Holly_Farms_400,30,29,68,usa,Ed_Baugess,Ed Baugess,Baugess Racing,Jim_Fowler,Chevrolet,13,725,oil pressure,0,73
+1983,W,1983_Miller_High_Life_500,1,20,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,334,40400,running,23,76
+1983,W,1983_Miller_High_Life_500,2,6,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi / Burger King,Junior_Johnson,Chevrolet,334,34850,running,18,175
+1983,W,1983_Miller_High_Life_500,3,2,55,usa,Benny_Parsons,Benny Parsons,Copenhagen,Johnny_Hayes,Chevrolet,334,43775,running,52,170
+1983,W,1983_Miller_High_Life_500,4,5,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,334,16230,running,31,165
+1983,W,1983_Miller_High_Life_500,5,1,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,334,35195,running,99,165
+1983,W,1983_Miller_High_Life_500,6,3,21,usa,Buddy_Baker,Buddy Baker,Valvoline,Wood_Brothers,Ford,334,8500,running,37,155
+1983,W,1983_Miller_High_Life_500,7,25,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,334,16000,running,3,151
+1983,W,1983_Miller_High_Life_500,8,7,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,334,12875,running,43,147
+1983,W,1983_Miller_High_Life_500,9,13,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,334,8265,running,1,143
+1983,W,1983_Miller_High_Life_500,10,11,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Chevrolet,333,6650,running,10,139
+1983,W,1983_Miller_High_Life_500,11,18,1,usa,Lake_Speed,Lake Speed,UNO / Bull Frog Knits,Hoss_Ellington,Chevrolet,333,6000,running,9,135
+1983,W,1983_Miller_High_Life_500,12,17,84,usa,Jody_Ridley,Jody Ridley,Cumberland Mills,Robert_McEntyre,Chevrolet,333,3850,running,0,127
+1983,W,1983_Miller_High_Life_500,13,10,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Chevrolet,333,7205,running,0,124
+1983,W,1983_Miller_High_Life_500,14,16,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,332,11650,running,6,126
+1983,W,1983_Miller_High_Life_500,15,9,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,331,7085,running,0,118
+1983,W,1983_Miller_High_Life_500,16,27,48,canada,Trevor_Boys,Trevor Boys,Hylton-McCaig,James_Hylton,Chevrolet,331,6525,running,2,120
+1983,W,1983_Miller_High_Life_500,17,39,71,usa,Dave_Marcis,Dave Marcis,American Legion Posts,Dave_Marcis,Oldsmobile,330,11650,running,0,112
+1983,W,1983_Miller_High_Life_500,18,24,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,329,5615,running,0,109
+1983,W,1983_Miller_High_Life_500,19,15,66,usa,Phil_Parsons,Phil Parsons,Skoal,Johnny_Hayes,Chevrolet,329,3650,running,0,106
+1983,W,1983_Miller_High_Life_500,20,35,6,usa,D_K_Ulrich,D.K. Ulrich,Rob's Roost,D.K._Ulrich,Chevrolet,322,5355,running,0,103
+1983,W,1983_Miller_High_Life_500,21,22,02,usa,Jim_Sauter,Jim Sauter,D.E.R. Inc.,Bud_Reeder,Chevrolet,321,4145,running,0,100
+1983,W,1983_Miller_High_Life_500,22,33,12,usa,Rodney_Combs,Rodney Combs,Stroh's,Jim_Stacy,Buick,320,1725,engine,0,97
+1983,W,1983_Miller_High_Life_500,23,40,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Chevrolet,319,3200,running,0,94
+1983,W,1983_Miller_High_Life_500,24,19,31,usa,John_Anderson_(1),John Anderson,Lebe's Tire Service,Henley_Gray,Chevrolet,317,1350,running,0,91
+1983,W,1983_Miller_High_Life_500,25,31,2,usa,Morgan_Shepherd,Morgan Shepherd,My Car,Jim_Stacy,Buick,317,8900,running,0,88
+1983,W,1983_Miller_High_Life_500,26,14,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,317,7775,running,0,85
+1983,W,1983_Miller_High_Life_500,27,29,99,usa,Philip_Duffie,Philip Duffie,U.S. Duffie Sand & Gravel,Philip_Duffie,Buick,314,1250,running,0,82
+1983,W,1983_Miller_High_Life_500,28,4,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,309,5490,engine,0,79
+1983,W,1983_Miller_High_Life_500,29,8,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,301,9500,ignition,0,76
+1983,W,1983_Miller_High_Life_500,30,34,5,usa,Greg_Sacks,Greg Sacks,Uniden,Arnie_Sacks,Chevrolet,293,1175,crash,0,73
+1983,W,1983_Miller_High_Life_500,31,37,64,usa,Tommy_Gale,Tommy Gale,Sunny King Ford & Honda,Elmo_Langley,Ford,285,2905,running,0,70
+1983,W,1983_Miller_High_Life_500,32,26,97,usa,Dean_Combs,Dean Combs,Best Products,Irv_Sanderson,Oldsmobile,283,1125,engine,0,67
+1983,W,1983_Miller_High_Life_500,33,21,4,usa,Mark_Martin,Mark Martin,Morgan-McClure,Larry_McClure,Chevrolet,274,1110,rear end,0,64
+1983,W,1983_Miller_High_Life_500,34,32,67,usa,Buddy_Arrington,Buddy Arrington,Reid Trailer Sales,Buddy_Arrington,Chrysler,252,2810,head gasket,0,61
+1983,W,1983_Miller_High_Life_500,35,38,0,usa,Delma_Cowart,Delma Cowart,Coastal Transmissions,H.L._Waters,Chevrolet,239,1050,engine,0,58
+1983,W,1983_Miller_High_Life_500,36,28,8,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Trap Rock Industries,Bobby_Hillin_Sr,Buick,184,1040,engine,0,55
+1983,W,1983_Miller_High_Life_500,37,23,90,usa,Dick_Brooks,Dick Brooks,Chameleon Sunglasses,Junie_Donlavey,Ford,161,2030,engine,0,52
+1983,W,1983_Miller_High_Life_500,38,36,77,usa,Ken_Ragan,Ken Ragan,Clinomint,Marvin_Ragan,Chevrolet,137,1020,running,0,49
+1983,W,1983_Miller_High_Life_500,39,12,16,usa,David_Pearson,David Pearson,Chattanooga Chew,Bobby_Hawkins,Chevrolet,106,1505,valve,0,46
+1983,W,1983_Miller_High_Life_500,40,30,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Chevrolet,53,2000,engine,0,43
+1983,W,1983_Warner_W._Hodgdon_American_500,1,3,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,492,25505,running,128,180
+1983,W,1983_Warner_W._Hodgdon_American_500,2,11,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,492,18490,running,143,180
+1983,W,1983_Warner_W._Hodgdon_American_500,3,8,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,491,11370,running,57,170
+1983,W,1983_Warner_W._Hodgdon_American_500,4,1,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,490,13410,running,0,160
+1983,W,1983_Warner_W._Hodgdon_American_500,5,5,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi / Burger King,Junior_Johnson,Chevrolet,489,14335,running,1,160
+1983,W,1983_Warner_W._Hodgdon_American_500,6,31,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,486,6085,running,0,150
+1983,W,1983_Warner_W._Hodgdon_American_500,7,33,71,usa,Dave_Marcis,Dave Marcis,Transmissions Unlimited,Dave_Marcis,Chevrolet,486,11435,running,2,151
+1983,W,1983_Warner_W._Hodgdon_American_500,8,25,42,usa,Lennie_Pond,Lennie Pond,Parker Homes,Billy_Matthews,Buick,476,2835,running,0,142
+1983,W,1983_Warner_W._Hodgdon_American_500,9,23,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Chevrolet,475,5215,running,0,138
+1983,W,1983_Warner_W._Hodgdon_American_500,10,24,64,usa,Tommy_Gale,Tommy Gale,Sunny King Ford & Honda,Elmo_Langley,Ford,471,5155,running,0,134
+1983,W,1983_Warner_W._Hodgdon_American_500,11,21,6,usa,D_K_Ulrich,D.K. Ulrich,Ulrich Racing,D.K._Ulrich,Chevrolet,471,4595,running,0,130
+1983,W,1983_Warner_W._Hodgdon_American_500,12,35,67,usa,Buddy_Arrington,Buddy Arrington,Henwood Video,Buddy_Arrington,Dodge,460,4330,running,0,127
+1983,W,1983_Warner_W._Hodgdon_American_500,13,28,04,usa,Rick_Baldwin,Rick Baldwin,Riverside Raceway,Rick_Baldwin,Chrysler,457,1935,running,0,124
+1983,W,1983_Warner_W._Hodgdon_American_500,14,34,70,usa,J_D_McDuffie,J.D. McDuffie,McDuffie Racing,J.D._McDuffie,Pontiac,455,3975,running,0,121
+1983,W,1983_Warner_W._Hodgdon_American_500,15,22,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Pontiac,443,4215,running,0,118
+1983,W,1983_Warner_W._Hodgdon_American_500,16,6,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,437,9635,running,44,120
+1983,W,1983_Warner_W._Hodgdon_American_500,17,16,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,436,9330,engine,14,117
+1983,W,1983_Warner_W._Hodgdon_American_500,18,10,90,usa,Dick_Brooks,Dick Brooks,Chameleon Sunglasses,Junie_Donlavey,Ford,414,3165,engine,55,114
+1983,W,1983_Warner_W._Hodgdon_American_500,19,20,41,usa,Ronnie_Thomas,Ronnie Thomas,McCord Gaskets,Ronnie_Thomas,Pontiac,414,1435,running,0,106
+1983,W,1983_Warner_W._Hodgdon_American_500,20,19,96,usa,Slick_Johnson,Slick Johnson,Precision Tune,Will_Cronkrite,Chevrolet,397,1395,engine,0,103
+1983,W,1983_Warner_W._Hodgdon_American_500,21,9,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,387,3035,running,0,100
+1983,W,1983_Warner_W._Hodgdon_American_500,22,36,35,usa,Dick_May,Dick May,Hanover Printing,Wayne_Beahr,Ford,381,1315,running,0,97
+1983,W,1983_Warner_W._Hodgdon_American_500,23,12,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,350,9075,head gasket,0,94
+1983,W,1983_Warner_W._Hodgdon_American_500,24,13,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,344,2905,valve,0,91
+1983,W,1983_Warner_W._Hodgdon_American_500,25,29,58,usa,Jerry_Bowman,Jerry Bowman,Bowman Racing,Jerry_Bowman,Ford,333,1195,crash,0,88
+1983,W,1983_Warner_W._Hodgdon_American_500,26,17,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,208,7205,crash,0,85
+1983,W,1983_Warner_W._Hodgdon_American_500,27,32,2,usa,Morgan_Shepherd,Morgan Shepherd,My Car,Jim_Stacy,Buick,205,8715,timing chain,0,82
+1983,W,1983_Warner_W._Hodgdon_American_500,28,7,1,usa,Lake_Speed,Lake Speed,UNO / Bull Frog Knits,Hoss_Ellington,Chevrolet,184,1075,wheel bearing,0,79
+1983,W,1983_Warner_W._Hodgdon_American_500,29,14,21,usa,Buddy_Baker,Buddy Baker,Valvoline,Wood_Brothers,Ford,155,1035,ignition,0,76
+1983,W,1983_Warner_W._Hodgdon_American_500,30,4,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Pontiac,139,2655,crash,39,78
+1983,W,1983_Warner_W._Hodgdon_American_500,31,26,02,usa,Mike_Potter,Mike Potter,Reeder Racing,Bud_Reeder,Pontiac,139,1955,rear end,0,70
+1983,W,1983_Warner_W._Hodgdon_American_500,32,18,48,canada,Trevor_Boys,Trevor Boys,Hylton-McCaig,James_Hylton,Chevrolet,54,1940,crash,0,67
+1983,W,1983_Warner_W._Hodgdon_American_500,33,15,88,usa,Geoffrey_Bodine,Geoffrey Bodine,Gatorade,Cliff_Stewart,Pontiac,45,2875,crash,0,64
+1983,W,1983_Warner_W._Hodgdon_American_500,34,27,39,usa,Blackie_Wangerin,Blackie Wangerin,Wangerin Racing,Blackie_Wangerin,Ford,39,835,rear end,0,61
+1983,W,1983_Warner_W._Hodgdon_American_500,35,30,45,usa,John_McFadden,John McFadden,Bean Auto,John_McFadden,Buick,11,810,ignition,0,58
+1983,W,1983_Warner_W._Hodgdon_American_500,36,2,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Chevrolet,10,1035,crash,9,60
+1983,W,1983_Atlanta_Journal_500,1,15,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,328,36975,running,21,180
+1983,W,1983_Atlanta_Journal_500,2,3,21,usa,Buddy_Baker,Buddy Baker,Valvoline,Wood_Brothers,Ford,328,15800,running,6,175
+1983,W,1983_Atlanta_Journal_500,3,8,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,328,31025,running,128,175
+1983,W,1983_Atlanta_Journal_500,4,9,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,327,12955,running,5,165
+1983,W,1983_Atlanta_Journal_500,5,11,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,326,12100,running,1,160
+1983,W,1983_Atlanta_Journal_500,6,7,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,326,8295,running,0,150
+1983,W,1983_Atlanta_Journal_500,7,31,2,usa,Morgan_Shepherd,Morgan Shepherd,My Car,Jim_Stacy,Buick,325,13900,running,0,146
+1983,W,1983_Atlanta_Journal_500,8,23,97,usa,Dean_Combs,Dean Combs,Best Products,Irv_Sanderson,Oldsmobile,324,3800,running,0,142
+1983,W,1983_Atlanta_Journal_500,9,6,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi / Burger King,Junior_Johnson,Chevrolet,323,13150,running,0,138
+1983,W,1983_Atlanta_Journal_500,10,19,84,usa,Jody_Ridley,Jody Ridley,Cumberland Mills,Robert_McEntyre,Chevrolet,323,3500,running,0,134
+1983,W,1983_Atlanta_Journal_500,11,20,48,canada,Trevor_Boys,Trevor Boys,Hylton-McCaig,James_Hylton,Chevrolet,323,6675,running,0,130
+1983,W,1983_Atlanta_Journal_500,12,17,1,usa,Lake_Speed,Lake Speed,UNO / Bull Frog Knits,Hoss_Ellington,Chevrolet,321,2400,running,0,127
+1983,W,1983_Atlanta_Journal_500,13,33,71,usa,Dave_Marcis,Dave Marcis,AEL Rentals,Dave_Marcis,Oldsmobile,321,9675,running,0,124
+1983,W,1983_Atlanta_Journal_500,14,32,67,usa,Buddy_Arrington,Buddy Arrington,Arrington Racing,Buddy_Arrington,Chrysler,320,5240,running,0,121
+1983,W,1983_Atlanta_Journal_500,15,25,80,usa,Bob_Senneker,Bob Senneker,Elk Custom Vans,Terry_Marra,Pontiac,319,2175,running,0,118
+1983,W,1983_Atlanta_Journal_500,16,26,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Chevrolet,319,4925,running,0,115
+1983,W,1983_Atlanta_Journal_500,17,37,77,usa,Ken_Ragan,Ken Ragan,Clinomint,Marvin_Ragan,Chevrolet,319,1875,running,0,112
+1983,W,1983_Atlanta_Journal_500,18,29,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Chevrolet,311,4610,crash,0,109
+1983,W,1983_Atlanta_Journal_500,19,22,64,usa,Tommy_Gale,Tommy Gale,Sunny King Ford & Honda,Elmo_Langley,Ford,310,4350,running,0,106
+1983,W,1983_Atlanta_Journal_500,20,30,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,308,3990,engine,0,103
+1983,W,1983_Atlanta_Journal_500,21,28,6,usa,D_K_Ulrich,D.K. Ulrich,Fligels Uniform,D.K._Ulrich,Chevrolet,303,3655,running,0,100
+1983,W,1983_Atlanta_Journal_500,22,38,02,usa,Mike_Potter,Mike Potter,Reeder Racing,Bud_Reeder,Pontiac,280,3395,crash,0,97
+1983,W,1983_Atlanta_Journal_500,23,4,28,usa,Cale_Yarborough,Cale Yarborough,Hardee's,Harry_Ranier,Chevrolet,258,1800,engine,108,99
+1983,W,1983_Atlanta_Journal_500,24,34,0,usa,Delma_Cowart,Delma Cowart,Coastal Transmissions,H.L._Waters,Buick,233,1275,cylinder head,0,91
+1983,W,1983_Atlanta_Journal_500,25,5,55,usa,Benny_Parsons,Benny Parsons,Copenhagen,Johnny_Hayes,Chevrolet,154,1250,overheating,0,88
+1983,W,1983_Atlanta_Journal_500,26,18,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,148,3000,engine,0,85
+1983,W,1983_Atlanta_Journal_500,27,27,04,usa,Rick_Baldwin,Rick Baldwin,Spirit of Corpus Christi,Rick_Baldwin,Chrysler,132,1200,engine,0,82
+1983,W,1983_Atlanta_Journal_500,28,16,66,usa,Phil_Parsons,Phil Parsons,Skoal,Johnny_Hayes,Chevrolet,122,2675,engine,0,79
+1983,W,1983_Atlanta_Journal_500,29,1,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,120,5115,engine,40,81
+1983,W,1983_Atlanta_Journal_500,30,12,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Pontiac,97,2880,rear end,0,73
+1983,W,1983_Atlanta_Journal_500,31,10,90,usa,Dick_Brooks,Dick Brooks,Chameleon Sunglasses,Junie_Donlavey,Ford,84,2750,engine,0,70
+1983,W,1983_Atlanta_Journal_500,32,35,70,usa,J_D_McDuffie,J.D. McDuffie,Bailey Excavating,J.D._McDuffie,Pontiac,66,2005,engine,0,67
+1983,W,1983_Atlanta_Journal_500,33,2,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,49,7995,clutch,19,69
+1983,W,1983_Atlanta_Journal_500,34,36,03,usa,Eddie_Bierschwale,Eddie Bierschwale,Mission Ice,Don_Bierschwale,Buick,46,985,crash,0,61
+1983,W,1983_Atlanta_Journal_500,35,13,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,30,1975,engine,0,58
+1983,W,1983_Atlanta_Journal_500,36,21,88,usa,Donnie_Allison,Donnie Allison,Gatorade,Cliff_Stewart,Pontiac,21,1965,engine,0,55
+1983,W,1983_Atlanta_Journal_500,37,14,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,21,8775,engine,0,52
+1983,W,1983_Atlanta_Journal_500,38,24,5,usa,Greg_Sacks,Greg Sacks,Uniden Force,Arnie_Sacks,Chevrolet,3,945,crash,0,49
+1983,W,1983_Atlanta_Journal_500,39,39,18,usa,Joe_Booher,Joe Booher,Booher Farms,Leon_Satterfield,Buick,2,935,engine,0,46
+1983,W,1983_Atlanta_Journal_500,40,40,39,usa,Blackie_Wangerin,Blackie Wangerin,Wangerin Racing,Blackie_Wangerin,Ford,0,,did not start,0,
+1983,W,1983_Winston_Western_500,1,10,9,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Harry_Melling,Ford,119,26380,running,5,180
+1983,W,1983_Winston_Western_500,2,5,55,usa,Benny_Parsons,Benny Parsons,Copenhagen,Johnny_Hayes,Chevrolet,119,13225,running,33,175
+1983,W,1983_Winston_Western_500,3,11,75,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,Rahmoc_Enterprises,Chevrolet,119,18375,running,0,165
+1983,W,1983_Winston_Western_500,4,9,15,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,Bud_Moore,Ford,119,13725,running,4,165
+1983,W,1983_Winston_Western_500,5,26,27,usa,Tim_Richmond,Tim Richmond,Old Milwaukee,Raymond_Beadle,Pontiac,119,8930,running,31,160
+1983,W,1983_Winston_Western_500,6,1,11,usa,Darrell_Waltrip,Darrell Waltrip,Pepsi / Burger King,Junior_Johnson,Chevrolet,119,19200,running,34,160
+1983,W,1983_Winston_Western_500,7,3,44,usa,Terry_Labonte,Terry Labonte,Budweiser,Billy_Hagan,Chevrolet,119,6110,running,0,146
+1983,W,1983_Winston_Western_500,8,22,04,usa,Hershel_McGriff,Hershel McGriff,M. Bloome / Antioch Speedway,Gary_Smith,Buick,119,4700,running,0,142
+1983,W,1983_Winston_Western_500,9,6,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Di_Gard,Buick,119,10850,running,1,143
+1983,W,1983_Winston_Western_500,10,8,43,usa,Richard_Petty,Richard Petty,STP,Petty_Enterprises,Pontiac,118,8650,running,10,139
+1983,W,1983_Winston_Western_500,11,16,47,usa,Ron_Bouchard,Ron Bouchard,Race Hill Farm,Jack_Beebe,Buick,118,5030,running,0,130
+1983,W,1983_Winston_Western_500,12,29,71,usa,Dave_Marcis,Dave Marcis,Miller Brothers,Dave_Marcis,Oldsmobile,118,9650,running,0,127
+1983,W,1983_Winston_Western_500,13,32,7,usa,Kyle_Petty,Kyle Petty,7-Eleven,Petty_Enterprises,Pontiac,117,4620,running,0,124
+1983,W,1983_Winston_Western_500,14,20,88,usa,Donnie_Allison,Donnie Allison,Gatorade,Cliff_Stewart,Pontiac,117,4410,running,0,121
+1983,W,1983_Winston_Western_500,15,25,87,usa,Randy_Becker,Randy Becker,Becker Trucking,Randy_Becker,Buick,116,1950,running,0,118
+1983,W,1983_Winston_Western_500,16,40,52,usa,Jimmy_Means,Jimmy Means,Broadway Motors,Jimmy_Means,Chevrolet,115,5125,running,0,115
+1983,W,1983_Winston_Western_500,17,41,17,usa,Sterling_Marlin,Sterling Marlin,Hesco Exhaust,Roger_Hamby,Pontiac,115,4465,running,0,112
+1983,W,1983_Winston_Western_500,18,39,13,usa,Doug_Wheeler,Doug Wheeler,W & W Machine,Matt_Puskarich,Buick,115,2755,running,0,109
+1983,W,1983_Winston_Western_500,19,35,83,usa,Sumner_McKnight,Sumner McKnight,McKnight Racing,Sumner_McKnight,Chevrolet,114,2415,running,0,106
+1983,W,1983_Winston_Western_500,20,15,21,usa,Buddy_Baker,Buddy Baker,Valvoline,Wood_Brothers,Ford,113,1675,running,0,103
+1983,W,1983_Winston_Western_500,21,17,78,usa,Jim_Robinson,Jim Robinson,Hammer Security Systems,Lois_Williams,Oldsmobile,112,2305,running,0,100
+1983,W,1983_Winston_Western_500,22,12,51,usa,Scott_Miller,Scott Miller,MDB Systems,Scott_Miller,Pontiac,112,1575,running,0,97
+1983,W,1983_Winston_Western_500,23,37,67,usa,Buddy_Arrington,Buddy Arrington,Arrington Grocery,Buddy_Arrington,Chrysler,109,3195,wheel,0,94
+1983,W,1983_Winston_Western_500,24,23,48,canada,Trevor_Boys,Trevor Boys,Hylton-McCaig,James_Hylton,Chevrolet,101,3135,drive line,0,91
+1983,W,1983_Winston_Western_500,25,18,38,usa,Don_Waterman,Don Waterman,St. John's Auto Parts,Don_Waterman,Buick,101,1425,running,0,88
+1983,W,1983_Winston_Western_500,26,34,64,usa,D_K_Ulrich,D.K. Ulrich,Sunny King Ford & Honda,Elmo_Langley,Ford,101,2325,differential,0,85
+1983,W,1983_Winston_Western_500,27,31,41,usa,Ronnie_Thomas,Ronnie Thomas,McCord Gaskets,Ronnie_Thomas,Pontiac,96,1275,differential,0,82
+1983,W,1983_Winston_Western_500,28,33,03,usa,Glenn_Francis,Glenn Francis,Francis Race Cars,Trent_Francis,Pontiac,89,1225,shifter,0,79
+1983,W,1983_Winston_Western_500,29,42,35,usa,Pat_Mintey,Pat Mintey,AFR Signs,Pat_Mintey,Chevrolet,73,1175,engine,0,76
+1983,W,1983_Winston_Western_500,30,38,70,usa,J_D_McDuffie,J.D. McDuffie,Wilder's,J.D._McDuffie,Pontiac,66,2150,rocker arm,0,73
+1983,W,1983_Winston_Western_500,31,7,33,usa,Harry_Gant,Harry Gant,Skoal Bandit,Hal_Needham,Buick,61,8925,engine,0,70
+1983,W,1983_Winston_Western_500,32,36,91,usa,John_Krebs,John Krebs,Coca-Cola,John_Krebs,Oldsmobile,60,1100,engine,0,67
+1983,W,1983_Winston_Western_500,33,27,2,usa,Morgan_Shepherd,Morgan Shepherd,My Car,Jim_Stacy,Buick,42,8675,engine,0,64
+1983,W,1983_Winston_Western_500,34,21,90,usa,Dick_Brooks,Dick Brooks,Chameleon Sunglasses,Junie_Donlavey,Ford,38,2050,engine,0,61
+1983,W,1983_Winston_Western_500,35,13,93,usa,Jim_Bown,Jim Bown,Wholesale Truck Parts,Johnny_Kieper,Buick,37,1025,throttle,0,58
+1983,W,1983_Winston_Western_500,36,14,74,canada,Roy_Smith,Roy Smith,Edgett Excavating,John_Edgett,Buick,36,2025,ignition,0,55
+1983,W,1983_Winston_Western_500,37,2,3,usa,Ricky_Rudd,Ricky Rudd,Piedmont Airlines,Richard_Childress,Chevrolet,32,1900,engine,1,57
+1983,W,1983_Winston_Western_500,38,24,66,usa,Ron_Esau,Ron Esau,McDonald's,Jack_Lee,Buick,32,875,ignition,0,49
+1983,W,1983_Winston_Western_500,39,28,08,usa,Rick_McCray,Rick McCray,Coors,Rick_McCray,Pontiac,29,850,engine,0,46
+1983,W,1983_Winston_Western_500,40,30,73,usa,Bill_Schmitt,Bill Schmitt,Mountain Dew,Bill_Schmitt,Chevrolet,13,840,engine,0,43
+1983,W,1983_Winston_Western_500,41,4,98,usa,Joe_Ruttman,Joe Ruttman,Levi Garrett,Ron_Benfield,Pontiac,12,1840,engine,0,40
+1983,W,1983_Winston_Western_500,42,19,12,usa,Jimmy_Insolo,Jimmy Insolo,Miller High Life,Di_Gard,Buick,1,840,quit,0,37

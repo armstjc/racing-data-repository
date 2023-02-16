@@ -1,0 +1,733 @@
+season,series_id,race_id,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
+2015,C,2015_NextEra_Energy_Resources_250,1,3,19,usa,Tyler_Reddick,Tyler Reddick,Draw-Tite,Brad_Keselowski,Ford,100,91804,running,46,48
+2015,C,2015_NextEra_Energy_Resources_250,2,7,4,usa,Erik_Jones,Erik Jones,Toyota,Kyle_Busch,Toyota,100,58057,running,0,42
+2015,C,2015_NextEra_Energy_Resources_250,3,9,20,usa,Scott_Lagasse_Jr,"Scott Lagasse, Jr.",Alert Today FL / Boy Scouts of America,Bob_Newberry,Chevrolet,100,42138,running,0,0
+2015,C,2015_NextEra_Energy_Resources_250,4,4,29,usa,Austin_Theriault,Austin Theriault,Cooper Standard Careers for Veterans,Brad_Keselowski,Ford,100,32221,running,9,31
+2015,C,2015_NextEra_Energy_Resources_250,5,15,07,usa,Ray_Black_Jr,"Ray Black, Jr.",ScubaLife / NASE Worldwide,Bobby_Dotter,Chevrolet,100,26294,running,0,39
+2015,C,2015_NextEra_Energy_Resources_250,6,13,92,usa,David_Gilliland,David Gilliland,BTS Tire & Wheel Distributors / Black's Tire,Ricky_Benton,Ford,100,22729,running,1,0
+2015,C,2015_NextEra_Energy_Resources_250,7,28,99,usa,Bryan_Silas,Bryan Silas,Kapoya Premium Energy Drink,Chris_Baluch,Chevrolet,100,22981,running,0,37
+2015,C,2015_NextEra_Energy_Resources_250,8,31,88,usa,Matt_Crafton,Matt Crafton,Damp Rid / Menards,Duke_Thorson,Toyota,100,22883,running,1,37
+2015,C,2015_NextEra_Energy_Resources_250,9,30,51,mexico,Daniel_Suarez,Daniel Suarez,Arris / Telcel,Kyle_Busch,Toyota,100,20786,running,5,0
+2015,C,2015_NextEra_Energy_Resources_250,10,19,98,usa,Johnny_Sauter,Johnny Sauter,Smokey Mountain Herbal Snuff / Curb Records,Mike_Curb,Toyota,100,20638,running,0,34
+2015,C,2015_NextEra_Energy_Resources_250,11,1,33,usa,Ty_Dillon,Ty Dillon,Rheem / Gemaire,Maury_Gallagher,Chevrolet,100,19673,running,37,0
+2015,C,2015_NextEra_Energy_Resources_250,12,23,08,usa,Korbin_Forrister,Korbin Forrister,Tilted Kilt,Christopher_Long,Chevrolet,100,19430,running,0,32
+2015,C,2015_NextEra_Energy_Resources_250,13,29,02,usa,Tyler_Young,Tyler Young,AKL Insurance/Randco/Young's Building Systems,Randy_Young,Chevrolet,100,19300,running,1,32
+2015,C,2015_NextEra_Energy_Resources_250,14,22,6,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,100,19171,running,0,30
+2015,C,2015_NextEra_Energy_Resources_250,15,2,94,usa,Travis_Kvapil,Travis Kvapil,Chargebacks 911 / MerchantSystems.com,Jay_Robinson,Chevrolet,93,17192,running,0,29
+2015,C,2015_NextEra_Energy_Resources_250,16,21,28,usa,Ryan_Ellis,Ryan Ellis,FDNY 150th Anniversary,Jim_Rosenblum,Chevrolet,87,16798,crash,0,0
+2015,C,2015_NextEra_Energy_Resources_250,17,5,31,usa,James_Buescher,James Buescher,GunBroker.com,Bob_Newberry,Chevrolet,85,16469,running,0,27
+2015,C,2015_NextEra_Energy_Resources_250,18,11,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,Driven2Honor.org,Jennifer_Jo_Cobb,Chevrolet,77,18590,running,0,26
+2015,C,2015_NextEra_Energy_Resources_250,19,16,25,usa,Matt_Tifft,Matt Tifft,Federated Auto Parts,Bill_Venturini,Toyota,64,18461,rear hub,0,25
+2015,C,2015_NextEra_Energy_Resources_250,20,18,8,usa,Joe_Nemechek,Joe Nemechek,D.A.B. Constructors,Joe_Nemechek,Chevrolet,62,18896,running,0,24
+2015,C,2015_NextEra_Energy_Resources_250,21,10,23,usa,Spencer_Gallagher,Spencer Gallagher,Allegiant Travel,Maury_Gallagher,Chevrolet,61,18267,running,0,23
+2015,C,2015_NextEra_Energy_Resources_250,22,26,05,usa,John_Wes_Townley,John Wes Townley,Zaxby's,Tony_Townley,Chevrolet,48,18138,crash,0,22
+2015,C,2015_NextEra_Energy_Resources_250,23,14,13,canada,Cameron_Hayley,Cameron Hayley,Cabinets by Hayley,Duke_Thorson,Toyota,48,18009,crash,0,21
+2015,C,2015_NextEra_Energy_Resources_250,24,32,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,48,16629,crash,0,20
+2015,C,2015_NextEra_Energy_Resources_250,25,8,84,usa,Chris_Fontaine,Chris Fontaine,Glenden Enterprises,Chris_Fontaine,Toyota,48,15650,crash,0,0
+2015,C,2015_NextEra_Energy_Resources_250,26,20,14,usa,Daniel_Hemric,Daniel Hemric,California Clean Power,Bob_Newberry,Chevrolet,48,16435,crash,0,18
+2015,C,2015_NextEra_Energy_Resources_250,27,24,40,usa,Todd_Peck,Todd Peck,Arthritis Foundation,Michael_Peck,Chevrolet,48,15241,crash,0,17
+2015,C,2015_NextEra_Energy_Resources_250,28,6,11,usa,Ben_Kennedy,Ben Kennedy,Local Motors,Tom_DeLoach,Toyota,20,14661,crash,0,16
+2015,C,2015_NextEra_Energy_Resources_250,29,25,54,usa,Justin_Boston,Justin Boston,BitPay,Kyle_Busch,Toyota,18,14550,crash,0,15
+2015,C,2015_NextEra_Energy_Resources_250,30,17,82,usa,Austin_Hill,Austin Hill,Arco Design / Build / A&D Welding,John_Corr,Ford,13,14050,crash,0,0
+2015,C,2015_NextEra_Energy_Resources_250,31,12,1,usa,Donnie_Neuenberger,Donnie Neuenberger,Eagle Convenience Stores,Mark_Beaver,Chevrolet,13,12550,crash,0,13
+2015,C,2015_NextEra_Energy_Resources_250,32,27,35,usa,Justin_Marks,Justin Marks,American Born Moonshine / GoPro Motorplex,Kevin_Cywinski,Toyota,12,11550,crash,0,0
+2015,C,2015_Hyundai_Construction_Equipment_200,1,15,88,usa,Matt_Crafton,Matt Crafton,Fisher Nuts Exactly Snack Bites / Menards,Duke_Thorson,Toyota,130,45285,running,85,48
+2015,C,2015_Hyundai_Construction_Equipment_200,2,14,33,usa,Ty_Dillon,Ty Dillon,Rheem,Maury_Gallagher,Chevrolet,130,26957,running,0,0
+2015,C,2015_Hyundai_Construction_Equipment_200,3,1,11,usa,Ben_Kennedy,Ben Kennedy,Local Motors,Tom_DeLoach,Toyota,130,27620,running,1,42
+2015,C,2015_Hyundai_Construction_Equipment_200,4,4,51,mexico,Daniel_Suarez,Daniel Suarez,Arris / Telcel,Kyle_Busch,Toyota,130,21261,running,1,0
+2015,C,2015_Hyundai_Construction_Equipment_200,5,11,19,usa,Tyler_Reddick,Tyler Reddick,Reese Towpower / Draw-Tite,Brad_Keselowski,Ford,130,18707,running,0,39
+2015,C,2015_Hyundai_Construction_Equipment_200,6,13,98,usa,Johnny_Sauter,Johnny Sauter,Nextant Aerospace / Curb Records,Mike_Curb,Toyota,130,16667,running,0,38
+2015,C,2015_Hyundai_Construction_Equipment_200,7,2,4,usa,Erik_Jones,Erik Jones,Toyota,Kyle_Busch,Toyota,130,17112,running,37,38
+2015,C,2015_Hyundai_Construction_Equipment_200,8,8,31,usa,James_Buescher,James Buescher,NTS Motorsports,Bob_Newberry,Chevrolet,129,13612,running,0,36
+2015,C,2015_Hyundai_Construction_Equipment_200,9,16,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,129,15807,running,0,35
+2015,C,2015_Hyundai_Construction_Equipment_200,10,7,8,usa,Joe_Nemechek,Joe Nemechek,SWM Gun Runner / swmtx.com,Joe_Nemechek,Chevrolet,129,16701,running,0,34
+2015,C,2015_Hyundai_Construction_Equipment_200,11,18,39,usa,Ryan_Sieg,Ryan Sieg,Raceday Nation / Pull-A-Part / Big Green Egg,Rod_Sieg,Chevrolet,129,13446,running,0,0
+2015,C,2015_Hyundai_Construction_Equipment_200,12,5,05,usa,John_Wes_Townley,John Wes Townley,Zaxby's,Tony_Townley,Chevrolet,129,15557,running,0,32
+2015,C,2015_Hyundai_Construction_Equipment_200,13,9,23,usa,Spencer_Gallagher,Spencer Gallagher,Allegiant Travel,Maury_Gallagher,Chevrolet,129,15501,running,0,31
+2015,C,2015_Hyundai_Construction_Equipment_200,14,3,13,canada,Cameron_Hayley,Cameron Hayley,Cabinets by Hayley,Duke_Thorson,Toyota,129,15445,running,0,30
+2015,C,2015_Hyundai_Construction_Equipment_200,15,10,29,usa,Brad_Keselowski,Brad Keselowski,Cooper Standard,Brad_Keselowski,Ford,129,13657,running,6,0
+2015,C,2015_Hyundai_Construction_Equipment_200,16,6,54,usa,Justin_Boston,Justin Boston,Discovering Lucy Angel / AXS TV,Kyle_Busch,Toyota,129,15168,running,0,28
+2015,C,2015_Hyundai_Construction_Equipment_200,17,20,75,usa,Caleb_Holman,Caleb Holman,Food Country USA / Morning Fresh Farms,Charlie_Henderson,Chevrolet,127,12807,running,0,27
+2015,C,2015_Hyundai_Construction_Equipment_200,18,29,63,usa,Garrett_Smithley,Garrett Smithley,HeroBox,Mike_Mittler,Chevrolet,126,14919,running,0,26
+2015,C,2015_Hyundai_Construction_Equipment_200,19,12,14,usa,Daniel_Hemric,Daniel Hemric,California Clean Power,Bob_Newberry,Chevrolet,126,14807,running,0,25
+2015,C,2015_Hyundai_Construction_Equipment_200,20,26,08,usa,Korbin_Forrister,Korbin Forrister,Tilted Kilt,Christopher_Long,Chevrolet,125,15252,running,0,24
+2015,C,2015_Hyundai_Construction_Equipment_200,21,19,99,usa,Bryan_Silas,Bryan Silas,Kapoya Premium Energy Drink,Chris_Baluch,Chevrolet,123,14586,running,0,23
+2015,C,2015_Hyundai_Construction_Equipment_200,22,21,02,usa,Tyler_Young,Tyler Young,Randco Industries / Young's Building Systems,Randy_Young,Chevrolet,123,14475,running,0,22
+2015,C,2015_Hyundai_Construction_Equipment_200,23,28,74,usa,Jordan_Anderson,Jordan Anderson,Auntie Anne's / Tri-Analytics,Mike_Harmon,Chevrolet,123,12085,running,0,21
+2015,C,2015_Hyundai_Construction_Equipment_200,24,24,94,usa,Wendell_Chavous,Wendell Chavous,Vydox Plus,Jay_Robinson,Chevrolet,120,12002,running,0,20
+2015,C,2015_Hyundai_Construction_Equipment_200,25,22,07,usa,Ray_Black_Jr,"Ray Black, Jr.",ScubaLife / NASE Worldwide,Bobby_Dotter,Chevrolet,119,14375,running,0,19
+2015,C,2015_Hyundai_Construction_Equipment_200,26,27,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,Driven2Honor.org,Jennifer_Jo_Cobb,Chevrolet,118,12947,running,0,18
+2015,C,2015_Hyundai_Construction_Equipment_200,27,30,1,usa,Morgan_Shepherd,Morgan Shepherd,Life on the Line / Lilly Trucking,Mark_Beaver,Chevrolet,118,11891,running,0,0
+2015,C,2015_Hyundai_Construction_Equipment_200,28,17,15,usa,Mason_Mingus,Mason Mingus,Billy Boat Performance Exhaust,Billy_Boat,Chevrolet,110,11631,crash,0,16
+2015,C,2015_Hyundai_Construction_Equipment_200,29,25,86,usa,Brandon_Brown,Brandon Brown,BrandonBilt Foundations,Jerry_Brown,Chevrolet,91,11603,oil line,0,15
+2015,C,2015_Hyundai_Construction_Equipment_200,30,23,50,usa,Cody_Ware,Cody Ware,Burnie Grill / Bubba Burger,Mark_Beaver,Chevrolet,48,12103,crash,0,14
+2015,C,2015_Hyundai_Construction_Equipment_200,31,31,6,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,12,9603,rear gear,0,13
+2015,C,2015_Kroger_250,1,1,29,usa,Joey_Logano,Joey Logano,Cooper Standard,Brad_Keselowski,Ford,258,51336,running,150,0
+2015,C,2015_Kroger_250,2,13,88,usa,Matt_Crafton,Matt Crafton,Hormel Pepperoni / Menards,Duke_Thorson,Toyota,258,31542,running,100,43
+2015,C,2015_Kroger_250,3,4,4,usa,Erik_Jones,Erik Jones,Toyota,Kyle_Busch,Toyota,258,25488,running,2,42
+2015,C,2015_Kroger_250,4,9,98,usa,Johnny_Sauter,Johnny Sauter,Smokey Mountain Herbal Snuff / Curb Records,Mike_Curb,Toyota,258,19518,running,0,40
+2015,C,2015_Kroger_250,5,7,19,usa,Tyler_Reddick,Tyler Reddick,Draw-Tite,Brad_Keselowski,Ford,258,18458,running,0,39
+2015,C,2015_Kroger_250,6,11,51,mexico,Daniel_Suarez,Daniel Suarez,Arris / Telcel,Kyle_Busch,Toyota,258,16574,running,0,0
+2015,C,2015_Kroger_250,7,15,31,usa,James_Buescher,James Buescher,ERT Investments,Bob_Newberry,Chevrolet,258,14158,running,0,37
+2015,C,2015_Kroger_250,8,5,05,usa,John_Wes_Townley,John Wes Townley,Zaxby's,Tony_Townley,Chevrolet,258,16352,running,0,36
+2015,C,2015_Kroger_250,9,19,25,usa,Matt_Tifft,Matt Tifft,Clinical RM / Honoring Ebola Fighters,Bill_Venturini,Toyota,258,16297,running,0,35
+2015,C,2015_Kroger_250,10,21,54,usa,Justin_Boston,Justin Boston,Zloop,Kyle_Busch,Toyota,258,17191,running,0,34
+2015,C,2015_Kroger_250,11,3,13,canada,Cameron_Hayley,Cameron Hayley,Cabinets by Hayley,Duke_Thorson,Toyota,258,16186,running,0,33
+2015,C,2015_Kroger_250,12,14,14,usa,Daniel_Hemric,Daniel Hemric,California Clean Power,Bob_Newberry,Chevrolet,258,16046,running,0,32
+2015,C,2015_Kroger_250,13,26,07,usa,Ray_Black_Jr,"Ray Black, Jr.",ScubaLife / NASE Worldwide,Bobby_Dotter,Chevrolet,258,15990,running,0,31
+2015,C,2015_Kroger_250,14,18,23,usa,Spencer_Gallagher,Spencer Gallagher,Allegiant Travel,Maury_Gallagher,Chevrolet,258,15935,running,0,30
+2015,C,2015_Kroger_250,15,6,33,usa,Brandon_Jones,Brandon Jones,Masterforce Tool Storage,Maury_Gallagher,Chevrolet,258,16252,running,0,29
+2015,C,2015_Kroger_250,16,2,00,usa,Cole_Custer,Cole Custer,Haas Automation,JR_Motorsports,Chevrolet,258,15769,running,2,29
+2015,C,2015_Kroger_250,17,12,7,usa,Gray_Gaulding,Gray Gaulding,Krispy Kreme,Tom_DeLoach,Toyota,257,13663,running,0,27
+2015,C,2015_Kroger_250,18,17,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,257,15658,running,0,26
+2015,C,2015_Kroger_250,19,22,11,usa,Ben_Kennedy,Ben Kennedy,Heater.com / Local Motors,Tom_DeLoach,Toyota,257,15602,running,0,25
+2015,C,2015_Kroger_250,20,10,02,usa,Tyler_Young,Tyler Young,Randco Industries / Young's Building Systems,Randy_Young,Chevrolet,257,16019,running,0,24
+2015,C,2015_Kroger_250,21,23,75,usa,Caleb_Holman,Caleb Holman,Food Country USA / Morning Fresh Farms,Charlie_Henderson,Chevrolet,257,13241,running,0,23
+2015,C,2015_Kroger_250,22,20,15,usa,Mason_Mingus,Mason Mingus,Billy Boat Performance Exhaust,Billy_Boat,Chevrolet,256,13213,running,4,23
+2015,C,2015_Kroger_250,23,27,08,usa,Korbin_Forrister,Korbin Forrister,Tilted Kilt,Christopher_Long,Chevrolet,255,15436,running,0,21
+2015,C,2015_Kroger_250,24,31,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,Driven2Honor.org,Jennifer_Jo_Cobb,Chevrolet,250,14130,running,0,20
+2015,C,2015_Kroger_250,25,30,35,usa,Tommy_Regan,Tommy Regan,Blue Diamond Almonds / American Tactical,Christopher_Long,Chevrolet,248,14197,running,0,19
+2015,C,2015_Kroger_250,26,24,63,usa,Jake_Griffin,Jake Griffin,Mittler Bros. Machine & Tool / MFW,Mike_Mittler,Chevrolet,218,12992,handling,0,18
+2015,C,2015_Kroger_250,27,28,50,usa,Cody_Ware,Cody Ware,Burnie Grill,Mark_Beaver,Chevrolet,216,12964,vibration,0,17
+2015,C,2015_Kroger_250,28,29,6,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,174,12716,rear gear,0,16
+2015,C,2015_Kroger_250,29,16,8,usa,John_Hunter_Nemechek,John Hunter Nemechek,SWM Gun Runner / D.A.B. Constructors,Joe_Nemechek,Chevrolet,173,12660,rear gear,0,15
+2015,C,2015_Kroger_250,30,8,92,usa,David_Gilliland,David Gilliland,BTS Tire & Wheel Distributors,Ricky_Benton,Ford,132,12160,brakes,0,0
+2015,C,2015_Kroger_250,31,25,99,usa,Bryan_Silas,Bryan Silas,Kapoya Premium Energy Drink,Chris_Baluch,Chevrolet,120,10660,overheating,0,13
+2015,C,2015_Kroger_250,32,32,1,usa,Travis_Kvapil,Travis Kvapil,Bubba Burger / Kioti Tractors,Mark_Beaver,Chevrolet,83,9660,rear gear,0,12
+2015,C,2015_Toyota_Tundra_250,1,2,88,usa,Matt_Crafton,Matt Crafton,Slim Jim / Menards,Duke_Thorson,Toyota,167,49832,running,6,47
+2015,C,2015_Toyota_Tundra_250,2,4,8,usa,Ryan_Newman,Ryan Newman,D.A.B. Constructors,Joe_Nemechek,Chevrolet,167,33959,running,2,0
+2015,C,2015_Toyota_Tundra_250,3,7,98,usa,Johnny_Sauter,Johnny Sauter,Nextant Aerospace / Curb Records,Mike_Curb,Toyota,167,27351,running,0,41
+2015,C,2015_Toyota_Tundra_250,4,12,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,167,23431,running,0,40
+2015,C,2015_Toyota_Tundra_250,5,8,13,canada,Cameron_Hayley,Cameron Hayley,Cabinets by Hayley,Duke_Thorson,Toyota,167,20652,running,0,39
+2015,C,2015_Toyota_Tundra_250,6,10,51,mexico,Daniel_Suarez,Daniel Suarez,Arris / Telcel,Kyle_Busch,Toyota,167,17277,running,1,0
+2015,C,2015_Toyota_Tundra_250,7,9,54,usa,Justin_Boston,Justin Boston,Zloop,Kyle_Busch,Toyota,166,19064,running,0,37
+2015,C,2015_Toyota_Tundra_250,8,11,31,usa,Scott_Lagasse_Jr,"Scott Lagasse, Jr.",Boy Scouts of America / STEM Scouts,Bob_Newberry,Chevrolet,166,18686,running,0,0
+2015,C,2015_Toyota_Tundra_250,9,13,15,usa,Mason_Mingus,Mason Mingus,Billy Boat Performance Exhaust,Billy_Boat,Chevrolet,166,18602,running,0,35
+2015,C,2015_Toyota_Tundra_250,10,6,14,usa,Daniel_Hemric,Daniel Hemric,California Clean Power,Bob_Newberry,Chevrolet,166,19502,running,0,34
+2015,C,2015_Toyota_Tundra_250,11,1,4,usa,Erik_Jones,Erik Jones,Toyota,Kyle_Busch,Toyota,166,20796,running,151,35
+2015,C,2015_Toyota_Tundra_250,12,15,05,usa,John_Wes_Townley,John Wes Townley,Zaxby's,Tony_Townley,Chevrolet,166,18362,running,0,32
+2015,C,2015_Toyota_Tundra_250,13,22,19,usa,Tyler_Reddick,Tyler Reddick,Broken Bow Records,Brad_Keselowski,Ford,165,18283,running,7,32
+2015,C,2015_Toyota_Tundra_250,14,23,29,usa,Austin_Theriault,Austin Theriault,Cooper Standard,Brad_Keselowski,Ford,165,18228,running,0,30
+2015,C,2015_Toyota_Tundra_250,15,25,63,usa,Tyler_Tanner,Tyler Tanner,Vatterott College,Mike_Mittler,Chevrolet,165,18772,running,0,29
+2015,C,2015_Toyota_Tundra_250,16,24,94,usa,Wendell_Chavous,Wendell Chavous,Vydox Plus,Jay_Robinson,Chevrolet,164,18093,running,0,28
+2015,C,2015_Toyota_Tundra_250,17,14,23,usa,Spencer_Gallagher,Spencer Gallagher,Allegiant Travel,Maury_Gallagher,Chevrolet,163,18015,running,0,27
+2015,C,2015_Toyota_Tundra_250,18,27,74,usa,Jordan_Anderson,Jordan Anderson,Auntie Anne's,Mike_Harmon,Chevrolet,159,15715,running,0,26
+2015,C,2015_Toyota_Tundra_250,19,21,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,Mark One Electric / Grimes Irrigation,Jennifer_Jo_Cobb,Chevrolet,154,17909,running,0,25
+2015,C,2015_Toyota_Tundra_250,20,26,1,usa,Ryan_Ellis,Ryan Ellis,MAKE Motorsports,Mark_Beaver,Chevrolet,154,18330,running,0,24
+2015,C,2015_Toyota_Tundra_250,21,16,07,usa,Ray_Black_Jr,"Ray Black, Jr.",ScubaLife / NASE Worldwide,Bobby_Dotter,Chevrolet,109,17803,engine,0,23
+2015,C,2015_Toyota_Tundra_250,22,19,08,usa,Korbin_Forrister,Korbin Forrister,Tilted Kilt,Christopher_Long,Chevrolet,90,16530,rear gear,0,22
+2015,C,2015_Toyota_Tundra_250,23,17,02,usa,Tyler_Young,Tyler Young,Randco Industries / Young's Building Systems,Randy_Young,Chevrolet,74,16503,crash,0,21
+2015,C,2015_Toyota_Tundra_250,24,29,6,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,69,15474,vibration,0,20
+2015,C,2015_Toyota_Tundra_250,25,28,50,usa,Travis_Kvapil,Travis Kvapil,Burnie Grill,Mark_Beaver,Chevrolet,60,15597,rear gear,0,19
+2015,C,2015_Toyota_Tundra_250,26,5,11,usa,Ben_Kennedy,Ben Kennedy,SpongeBob SquarePants / Local Motors,Tom_DeLoach,Toyota,57,15419,overheating,0,18
+2015,C,2015_Toyota_Tundra_250,27,30,36,usa,Justin_Jennings,Justin Jennings,Mittler Bros. Machine & Tool,Mike_Mittler,Chevrolet,24,15391,brakes,0,17
+2015,C,2015_Toyota_Tundra_250,28,20,45,usa,B_J_McLeod,B.J. McLeod,Tilted Kilt,Christopher_Long,Chevrolet,18,15133,vibration,0,16
+2015,C,2015_Toyota_Tundra_250,29,18,25,usa,Matt_Tifft,Matt Tifft,Clinical RM,Bill_Venturini,Toyota,18,15072,oil leak,0,15
+2015,C,2015_Toyota_Tundra_250,30,3,33,usa,Brandon_Jones,Brandon Jones,Masterforce Tool Storage,Maury_Gallagher,Chevrolet,11,14572,crash,0,14
+2015,C,2015_Toyota_Tundra_250,31,32,03,usa,Mike_Affarano,Mike Affarano,Affarano Motorsports,Mike_Affarano,Chevrolet,6,13072,ignition,0,0
+2015,C,2015_Toyota_Tundra_250,32,31,0,usa,Caleb_Roark,Caleb Roark,Driven2Honor.org,Jennifer_Jo_Cobb,Chevrolet,5,12072,electrical,0,12
+2015,C,2015_North_Carolina_Education_Lottery_200,1,1,00,usa,Kasey_Kahne,Kasey Kahne,Haas Automation,JR_Motorsports,Chevrolet,139,48454,running,21,0
+2015,C,2015_North_Carolina_Education_Lottery_200,2,2,4,usa,Erik_Jones,Erik Jones,Dollar General,Kyle_Busch,Toyota,139,36563,running,88,44
+2015,C,2015_North_Carolina_Education_Lottery_200,3,9,88,usa,Matt_Crafton,Matt Crafton,Great Lakes Wood Floors / Menards,Duke_Thorson,Toyota,139,26622,running,24,42
+2015,C,2015_North_Carolina_Education_Lottery_200,4,7,19,usa,Tyler_Reddick,Tyler Reddick,Broken Bow Records,Brad_Keselowski,Ford,139,22672,running,1,41
+2015,C,2015_North_Carolina_Education_Lottery_200,5,4,29,usa,Brad_Keselowski,Brad Keselowski,Cooper Standard Careers for Veterans,Brad_Keselowski,Ford,139,17402,running,4,0
+2015,C,2015_North_Carolina_Education_Lottery_200,6,11,05,usa,John_Wes_Townley,John Wes Townley,Zaxby's,Tony_Townley,Chevrolet,139,17157,running,0,38
+2015,C,2015_North_Carolina_Education_Lottery_200,7,17,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,139,16592,running,0,37
+2015,C,2015_North_Carolina_Education_Lottery_200,8,3,51,usa,Matt_Tifft,Matt Tifft,ToyotaCare,Kyle_Busch,Toyota,139,16481,running,0,36
+2015,C,2015_North_Carolina_Education_Lottery_200,9,22,54,usa,Justin_Boston,Justin Boston,ROK Mobile,Kyle_Busch,Toyota,139,16342,running,0,35
+2015,C,2015_North_Carolina_Education_Lottery_200,10,18,23,usa,Spencer_Gallagher,Spencer Gallagher,Allegiant Travel,Maury_Gallagher,Chevrolet,139,17182,running,0,34
+2015,C,2015_North_Carolina_Education_Lottery_200,11,16,8,usa,Joe_Nemechek,Joe Nemechek,FoneFuel,Joe_Nemechek,Chevrolet,139,15761,running,0,33
+2015,C,2015_North_Carolina_Education_Lottery_200,12,6,31,usa,Scott_Lagasse_Jr,"Scott Lagasse, Jr.",GunBroker.com,Bob_Newberry,Chevrolet,139,15566,running,0,0
+2015,C,2015_North_Carolina_Education_Lottery_200,13,15,33,usa,Brandon_Jones,Brandon Jones,ProStock HVAC Parts & Supplies,Maury_Gallagher,Chevrolet,139,15427,running,0,31
+2015,C,2015_North_Carolina_Education_Lottery_200,14,13,13,canada,Cameron_Hayley,Cameron Hayley,Carolina Nut Co.,Duke_Thorson,Toyota,139,15316,running,0,30
+2015,C,2015_North_Carolina_Education_Lottery_200,15,19,98,usa,Johnny_Sauter,Johnny Sauter,Smokey Mountain Herbal Snuff / Curb Records,Mike_Curb,Toyota,139,15606,running,0,29
+2015,C,2015_North_Carolina_Education_Lottery_200,16,10,11,usa,Ben_Kennedy,Ben Kennedy,Local Motors,Tom_DeLoach,Toyota,139,15295,running,0,28
+2015,C,2015_North_Carolina_Education_Lottery_200,17,5,14,usa,Daniel_Hemric,Daniel Hemric,California Clean Power,Bob_Newberry,Chevrolet,139,15040,running,0,27
+2015,C,2015_North_Carolina_Education_Lottery_200,18,20,02,usa,Tyler_Young,Tyler Young,Arthur-Krenzel-Lett Insurance Group,Randy_Young,Chevrolet,138,14984,running,0,26
+2015,C,2015_North_Carolina_Education_Lottery_200,19,30,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,POW-MIAFamilies.org / Grimes Irrigation,Jennifer_Jo_Cobb,Chevrolet,137,14929,running,0,25
+2015,C,2015_North_Carolina_Education_Lottery_200,20,29,1,usa,Kyle_Fowler,Kyle Fowler,PowerAll / JoinAPS.com,Mark_Beaver,Chevrolet,136,15373,running,0,0
+2015,C,2015_North_Carolina_Education_Lottery_200,21,23,63,usa,Tyler_Tanner,Tyler Tanner,MB Motorsports,Mike_Mittler,Chevrolet,136,13546,running,0,23
+2015,C,2015_North_Carolina_Education_Lottery_200,22,8,07,usa,Ray_Black_Jr,"Ray Black, Jr.",ScubaLife / NASE Worldwide,Bobby_Dotter,Chevrolet,135,13485,running,0,22
+2015,C,2015_North_Carolina_Education_Lottery_200,23,27,74,usa,Jordan_Anderson,Jordan Anderson,Auntie Anne's / Tri-Analytics,Mike_Harmon,Chevrolet,135,12457,running,0,21
+2015,C,2015_North_Carolina_Education_Lottery_200,24,26,75,usa,Caleb_Holman,Caleb Holman,Gillette Venus Swirl / Food Country USA,Charlie_Henderson,Chevrolet,133,12430,running,0,20
+2015,C,2015_North_Carolina_Education_Lottery_200,25,28,94,usa,Wendell_Chavous,Wendell Chavous,Vydox Plus,Jay_Robinson,Chevrolet,132,12525,engine,0,19
+2015,C,2015_North_Carolina_Education_Lottery_200,26,21,15,usa,Mason_Mingus,Mason Mingus,Billy Boat Motorsports,Billy_Boat,Chevrolet,114,12347,crash,0,18
+2015,C,2015_North_Carolina_Education_Lottery_200,27,14,92,usa,David_Gilliland,David Gilliland,BTS Tire & Wheel Distributors,Ricky_Benton,Ford,84,12318,vibration,0,0
+2015,C,2015_North_Carolina_Education_Lottery_200,28,31,50,usa,Travis_Kvapil,Travis Kvapil,Burnie Grill,Mark_Beaver,Chevrolet,62,12071,crash,0,16
+2015,C,2015_North_Carolina_Education_Lottery_200,29,12,08,usa,Korbin_Forrister,Korbin Forrister,Tilted Kilt / Halcyon,Christopher_Long,Chevrolet,38,12016,steering box,0,15
+2015,C,2015_North_Carolina_Education_Lottery_200,30,24,36,usa,Justin_Jennings,Justin Jennings,Mittler Bros. Machine & Tool,Mike_Mittler,Chevrolet,33,11516,electrical,1,0
+2015,C,2015_North_Carolina_Education_Lottery_200,31,25,45,usa,B_J_McLeod,B.J. McLeod,Tilted Kilt,Christopher_Long,Chevrolet,26,10016,electrical,0,13
+2015,C,2015_North_Carolina_Education_Lottery_200,32,32,6,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,9,9016,suspension,0,12
+2015,C,2015_Lucas_Oil_200,1,4,19,usa,Tyler_Reddick,Tyler Reddick,Broken Bow Records,Brad_Keselowski,Ford,200,55620,running,40,47
+2015,C,2015_Lucas_Oil_200,2,5,51,mexico,Daniel_Suarez,Daniel Suarez,Arris / Telcel,Kyle_Busch,Toyota,200,33106,running,0,0
+2015,C,2015_Lucas_Oil_200,3,2,4,usa,Erik_Jones,Erik Jones,Special Olympics World Games / Toyota,Kyle_Busch,Toyota,200,32003,running,50,42
+2015,C,2015_Lucas_Oil_200,4,19,14,usa,Daniel_Hemric,Daniel Hemric,California Clean Power,Bob_Newberry,Chevrolet,200,23957,running,0,40
+2015,C,2015_Lucas_Oil_200,5,3,88,usa,Matt_Crafton,Matt Crafton,Rip It Energy Fuel / Menards,Duke_Thorson,Toyota,200,23604,running,3,40
+2015,C,2015_Lucas_Oil_200,6,18,11,usa,Ben_Kennedy,Ben Kennedy,Local Motors,Tom_DeLoach,Toyota,200,21965,running,0,38
+2015,C,2015_Lucas_Oil_200,7,1,29,usa,Ryan_Blaney,Ryan Blaney,Cooper Standard,Brad_Keselowski,Ford,200,20663,running,33,0
+2015,C,2015_Lucas_Oil_200,8,12,33,usa,Brandon_Jones,Brandon Jones,AGRA Industries,Maury_Gallagher,Chevrolet,200,20060,running,0,36
+2015,C,2015_Lucas_Oil_200,9,16,98,usa,Johnny_Sauter,Johnny Sauter,Smokey Mountain Herbal Snuff / Curb Records,Mike_Curb,Toyota,200,19612,running,0,35
+2015,C,2015_Lucas_Oil_200,10,25,02,usa,Tyler_Young,Tyler Young,Randco Industries / Young's Building Systems,Randy_Young,Chevrolet,199,20313,running,0,34
+2015,C,2015_Lucas_Oil_200,11,20,07,usa,Ray_Black_Jr,"Ray Black, Jr.",ScubaLife / NASE Worldwide,Bobby_Dotter,Chevrolet,199,19115,running,1,34
+2015,C,2015_Lucas_Oil_200,12,13,23,usa,Spencer_Gallagher,Spencer Gallagher,Allegiant Travel,Maury_Gallagher,Chevrolet,199,18810,running,0,32
+2015,C,2015_Lucas_Oil_200,13,10,00,usa,Cole_Custer,Cole Custer,Haas Automation,JR_Motorsports,Chevrolet,198,16450,running,67,33
+2015,C,2015_Lucas_Oil_200,14,15,86,usa,Brandon_Brown,Brandon Brown,BrandonBilt Foundations / Coastal Carolina U.,Jerry_Brown,Chevrolet,196,16339,running,0,30
+2015,C,2015_Lucas_Oil_200,15,22,94,usa,Timmy_Hill,Timmy Hill,Testoril,Jay_Robinson,Chevrolet,195,18878,running,0,29
+2015,C,2015_Lucas_Oil_200,16,21,82,usa,Austin_Hill,Austin Hill,Empire Racing Group,John_Corr,Ford,192,16317,running,0,28
+2015,C,2015_Lucas_Oil_200,17,27,08,usa,Korbin_Forrister,Korbin Forrister,"McNair, McLemore, Middlebrooks / Tilted Kilt",Christopher_Long,Chevrolet,190,18258,running,0,27
+2015,C,2015_Lucas_Oil_200,18,17,05,usa,John_Wes_Townley,John Wes Townley,Zaxby's,Tony_Townley,Chevrolet,178,18147,running,0,26
+2015,C,2015_Lucas_Oil_200,19,24,50,usa,Travis_Kvapil,Travis Kvapil,Burnie Grill,Mark_Beaver,Chevrolet,178,15786,running,0,25
+2015,C,2015_Lucas_Oil_200,20,14,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,136,18426,crash,5,25
+2015,C,2015_Lucas_Oil_200,21,7,13,canada,Cameron_Hayley,Cameron Hayley,Carolina Nut Co.,Duke_Thorson,Toyota,136,17815,running,1,24
+2015,C,2015_Lucas_Oil_200,22,6,8,usa,John_Hunter_Nemechek,John Hunter Nemechek,MeetBall,Joe_Nemechek,Chevrolet,136,17704,running,0,22
+2015,C,2015_Lucas_Oil_200,23,31,74,usa,Tim_Viens,Tim Viens,RaceDaySponsor.com,Mike_Harmon,Chevrolet,127,17594,rear end,0,21
+2015,C,2015_Lucas_Oil_200,24,28,1,usa,Ryan_Ellis,Ryan Ellis,MAKE Motorsports,Mark_Beaver,Chevrolet,90,17484,crash,0,20
+2015,C,2015_Lucas_Oil_200,25,8,54,usa,Justin_Boston,Justin Boston,ROK Mobile,Kyle_Busch,Toyota,65,16273,crash,0,19
+2015,C,2015_Lucas_Oil_200,26,32,6,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,61,16012,suspension,0,18
+2015,C,2015_Lucas_Oil_200,27,23,45,usa,B_J_McLeod,B.J. McLeod,Tilted Kilt,Christopher_Long,Chevrolet,56,14902,ignition,0,17
+2015,C,2015_Lucas_Oil_200,28,26,63,usa,Justin_Jennings,Justin Jennings,Mittler Bros. Machine & Tool,Mike_Mittler,Chevrolet,33,14570,crash,0,16
+2015,C,2015_Lucas_Oil_200,29,11,15,usa,Mason_Mingus,Mason Mingus,Billy Boat Motorsports,Billy_Boat,Chevrolet,32,14432,crash,0,15
+2015,C,2015_Lucas_Oil_200,30,9,97,usa,Jesse_Little,Jesse Little,Carolina Nut Co.,Jason_Little,Toyota,32,13932,crash,0,14
+2015,C,2015_Lucas_Oil_200,31,29,36,usa,Tyler_Tanner,Tyler Tanner,Mittler Bros. Machine & Tool,Mike_Mittler,Chevrolet,15,12432,vibration,0,13
+2015,C,2015_Lucas_Oil_200,32,30,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,POW-MIAFamilies.org / Driven2Honor.org,Jennifer_Jo_Cobb,Chevrolet,12,11432,crash,0,12
+2015,C,2015_Winstar_World_Casino_And_Resort_400,1,2,88,usa,Matt_Crafton,Matt Crafton,Ideal Door / Menards,Duke_Thorson,Toyota,167,59959,running,77,48
+2015,C,2015_Winstar_World_Casino_And_Resort_400,2,3,51,mexico,Daniel_Suarez,Daniel Suarez,Arris / Telcel,Kyle_Busch,Toyota,167,41559,running,6,0
+2015,C,2015_Winstar_World_Casino_And_Resort_400,3,5,05,usa,John_Wes_Townley,John Wes Townley,Zaxby's,Tony_Townley,Chevrolet,167,34099,running,0,41
+2015,C,2015_Winstar_World_Casino_And_Resort_400,4,4,98,usa,Johnny_Sauter,Johnny Sauter,Nextant Aerospace / Curb Records,Mike_Curb,Toyota,167,24132,running,0,40
+2015,C,2015_Winstar_World_Casino_And_Resort_400,5,6,29,usa,Austin_Theriault,Austin Theriault,Cooper Standard,Brad_Keselowski,Ford,167,20943,running,0,39
+2015,C,2015_Winstar_World_Casino_And_Resort_400,6,10,8,usa,Joe_Nemechek,Joe Nemechek,NEMCO Motorsports / D.A.B. Constructors,Joe_Nemechek,Chevrolet,167,18123,running,0,38
+2015,C,2015_Winstar_World_Casino_And_Resort_400,7,8,13,canada,Cameron_Hayley,Cameron Hayley,Cabinets by Hayley,Duke_Thorson,Toyota,167,17316,running,3,38
+2015,C,2015_Winstar_World_Casino_And_Resort_400,8,11,54,usa,Justin_Boston,Justin Boston,ROK Mobile,Kyle_Busch,Toyota,167,16841,running,1,37
+2015,C,2015_Winstar_World_Casino_And_Resort_400,9,9,14,usa,Daniel_Hemric,Daniel Hemric,California Clean Power,Bob_Newberry,Chevrolet,167,16824,running,0,35
+2015,C,2015_Winstar_World_Casino_And_Resort_400,10,12,11,usa,Ben_Kennedy,Ben Kennedy,Local Motors,Tom_DeLoach,Toyota,167,17709,running,0,34
+2015,C,2015_Winstar_World_Casino_And_Resort_400,11,16,19,usa,Tyler_Reddick,Tyler Reddick,Bulldog / Draw-Tite,Brad_Keselowski,Ford,166,16677,running,1,34
+2015,C,2015_Winstar_World_Casino_And_Resort_400,12,13,23,usa,Spencer_Gallagher,Spencer Gallagher,Allegiant Travel,Maury_Gallagher,Chevrolet,166,16511,running,0,32
+2015,C,2015_Winstar_World_Casino_And_Resort_400,13,15,15,usa,Mason_Mingus,Mason Mingus,Texas 811 - Call Before You Dig,Billy_Boat,Chevrolet,166,16468,running,0,31
+2015,C,2015_Winstar_World_Casino_And_Resort_400,14,19,02,usa,Tyler_Young,Tyler Young,Randco Industries / Young's Building Systems,Randy_Young,Chevrolet,165,16363,running,0,30
+2015,C,2015_Winstar_World_Casino_And_Resort_400,15,1,4,usa,Erik_Jones,Erik Jones,Special Olympics World Games / Toyota,Kyle_Busch,Toyota,165,19165,running,68,30
+2015,C,2015_Winstar_World_Casino_And_Resort_400,16,18,07,usa,Ray_Black_Jr,"Ray Black, Jr.",ScubaLife / NASE Worldwide,Bobby_Dotter,Chevrolet,164,16167,running,1,29
+2015,C,2015_Winstar_World_Casino_And_Resort_400,17,17,63,usa,Tyler_Tanner,Tyler Tanner,Mittler Bros. Machine & Tool,Mike_Mittler,Chevrolet,164,16068,running,5,28
+2015,C,2015_Winstar_World_Casino_And_Resort_400,18,21,08,usa,Korbin_Forrister,Korbin Forrister,Tilted Kilt,Christopher_Long,Chevrolet,160,15969,running,0,26
+2015,C,2015_Winstar_World_Casino_And_Resort_400,19,20,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,POW-MIAFamilies.org / Grimes Irrigation,Jennifer_Jo_Cobb,Chevrolet,157,15817,running,0,25
+2015,C,2015_Winstar_World_Casino_And_Resort_400,20,22,1,usa,Ryan_Ellis,Ryan Ellis,"Shane Duncan Band ""Life's Snooze Bar""",Mark_Beaver,Chevrolet,152,14968,running,0,24
+2015,C,2015_Winstar_World_Casino_And_Resort_400,21,7,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,147,14370,engine,5,24
+2015,C,2015_Winstar_World_Casino_And_Resort_400,22,14,33,usa,Brandon_Jones,Brandon Jones,Century A/C Supply,Maury_Gallagher,Chevrolet,127,13272,running,0,22
+2015,C,2015_Winstar_World_Casino_And_Resort_400,23,24,94,usa,Timmy_Hill,Timmy Hill,Vydox Plus,Jay_Robinson,Chevrolet,49,13173,engine,0,21
+2015,C,2015_Winstar_World_Casino_And_Resort_400,24,25,74,usa,Jordan_Anderson,Jordan Anderson,Knight Fire Protection,Mike_Harmon,Chevrolet,47,13074,engine,0,20
+2015,C,2015_Winstar_World_Casino_And_Resort_400,25,27,6,usa,Norm_Benning,Norm Benning,Boedeker Construction,Norm_Benning,Chevrolet,23,13126,clutch,0,19
+2015,C,2015_Winstar_World_Casino_And_Resort_400,26,23,36,usa,Justin_Jennings,Justin Jennings,Mittler Bros. Machine & Tool,Mike_Mittler,Chevrolet,12,12878,electrical,0,18
+2015,C,2015_Winstar_World_Casino_And_Resort_400,27,26,45,usa,B_J_McLeod,B.J. McLeod,Tilted Kilt,Christopher_Long,Chevrolet,10,12779,electrical,0,0
+2015,C,2015_Winstar_World_Casino_And_Resort_400,28,29,50,usa,Donnie_Neuenberger,Donnie Neuenberger,Burnie Grill,Mark_Beaver,Chevrolet,8,12444,engine,0,16
+2015,C,2015_Winstar_World_Casino_And_Resort_400,29,30,03,usa,Mike_Affarano,Mike Affarano,Affarano Motorsports,Mike_Affarano,Chevrolet,6,12340,vibration,0,0
+2015,C,2015_Winstar_World_Casino_And_Resort_400,30,28,0,usa,Adam_Edwards,Adam Edwards,Driven2Honor.org,Jennifer_Jo_Cobb,Chevrolet,5,11840,rear gear,0,14
+2015,C,2015_Drivin_for_Linemen_200,1,2,00,usa,Cole_Custer,Cole Custer,Haas Automation,JR_Motorsports,Chevrolet,160,45121,running,19,47
+2015,C,2015_Drivin_for_Linemen_200,2,14,23,usa,Spencer_Gallagher,Spencer Gallagher,Allegiant Travel,Maury_Gallagher,Chevrolet,160,30147,running,0,42
+2015,C,2015_Drivin_for_Linemen_200,3,4,98,usa,Johnny_Sauter,Johnny Sauter,Nextant Aerospace / Curb Records,Mike_Curb,Toyota,160,23559,running,4,42
+2015,C,2015_Drivin_for_Linemen_200,4,12,8,usa,John_Hunter_Nemechek,John Hunter Nemechek,D.A.B. Constructors,Joe_Nemechek,Chevrolet,160,21400,running,0,40
+2015,C,2015_Drivin_for_Linemen_200,5,9,13,canada,Cameron_Hayley,Cameron Hayley,Cabinets by Hayley,Duke_Thorson,Toyota,160,18346,running,0,39
+2015,C,2015_Drivin_for_Linemen_200,6,13,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,160,17162,running,0,38
+2015,C,2015_Drivin_for_Linemen_200,7,15,11,usa,Ben_Kennedy,Ben Kennedy,Local Motors,Tom_DeLoach,Toyota,160,16306,running,0,37
+2015,C,2015_Drivin_for_Linemen_200,8,6,19,usa,Tyler_Reddick,Tyler Reddick,Broken Bow Records,Brad_Keselowski,Ford,160,15757,running,4,37
+2015,C,2015_Drivin_for_Linemen_200,9,7,14,usa,Daniel_Hemric,Daniel Hemric,California Clean Power,Bob_Newberry,Chevrolet,160,15701,running,0,35
+2015,C,2015_Drivin_for_Linemen_200,10,10,29,usa,Austin_Theriault,Austin Theriault,Cooper Standard,Brad_Keselowski,Ford,160,16596,running,0,34
+2015,C,2015_Drivin_for_Linemen_200,11,11,05,usa,John_Wes_Townley,John Wes Townley,Zaxby's,Tony_Townley,Chevrolet,160,15591,running,0,33
+2015,C,2015_Drivin_for_Linemen_200,12,5,33,usa,Brandon_Jones,Brandon Jones,Masterforce Tool Storage,Maury_Gallagher,Chevrolet,160,15451,running,0,32
+2015,C,2015_Drivin_for_Linemen_200,13,18,07,usa,Ray_Black_Jr,"Ray Black, Jr.",ScubaLife / NASE Worldwide,Bobby_Dotter,Chevrolet,160,15396,running,0,31
+2015,C,2015_Drivin_for_Linemen_200,14,20,50,usa,Travis_Kvapil,Travis Kvapil,Burnie Grill,Mark_Beaver,Chevrolet,160,15340,running,0,30
+2015,C,2015_Drivin_for_Linemen_200,15,17,02,usa,Tyler_Young,Tyler Young,Randco Industries / Young's Building Systems,Randy_Young,Chevrolet,160,15601,running,0,29
+2015,C,2015_Drivin_for_Linemen_200,16,21,63,usa,Tyler_Tanner,Tyler Tanner,Vatterott College,Mike_Mittler,Chevrolet,159,15262,running,0,28
+2015,C,2015_Drivin_for_Linemen_200,17,28,1,usa,Ryan_Ellis,Ryan Ellis,Altec,Mark_Beaver,Chevrolet,157,14952,running,0,27
+2015,C,2015_Drivin_for_Linemen_200,18,23,94,usa,Timmy_Hill,Timmy Hill,Premium Motorsports,Jay_Robinson,Chevrolet,157,14813,running,0,26
+2015,C,2015_Drivin_for_Linemen_200,19,27,74,usa,Jordan_Anderson,Jordan Anderson,Knight Fire Protection,Mike_Harmon,Chevrolet,156,13452,running,0,25
+2015,C,2015_Drivin_for_Linemen_200,20,25,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,POW-MIAFamilies.org / The Parkway Hotel,Jennifer_Jo_Cobb,Chevrolet,156,13897,running,0,24
+2015,C,2015_Drivin_for_Linemen_200,21,3,88,usa,Matt_Crafton,Matt Crafton,Ideal Door / Menards,Duke_Thorson,Toyota,151,13230,crash,49,24
+2015,C,2015_Drivin_for_Linemen_200,22,24,08,usa,Korbin_Forrister,Korbin Forrister,Tilted Kilt,Christopher_Long,Chevrolet,148,12119,running,0,22
+2015,C,2015_Drivin_for_Linemen_200,23,1,4,usa,Erik_Jones,Erik Jones,Special Olympics World Games / Toyota,Kyle_Busch,Toyota,145,11980,electrical,84,23
+2015,C,2015_Drivin_for_Linemen_200,24,26,45,usa,Tommy_Regan,Tommy Regan,Trijicon / Cope's Distribution,Christopher_Long,Chevrolet,108,11897,electrical,0,20
+2015,C,2015_Drivin_for_Linemen_200,25,8,51,usa,Matt_Tifft,Matt Tifft,ToyotaCare,Kyle_Busch,Toyota,92,12019,crash,0,19
+2015,C,2015_Drivin_for_Linemen_200,26,29,6,usa,Norm_Benning,Norm Benning,Boedeker Construction,Norm_Benning,Chevrolet,56,11841,brakes,0,18
+2015,C,2015_Drivin_for_Linemen_200,27,19,54,usa,Justin_Boston,Justin Boston,ROK Mobile,Kyle_Busch,Toyota,51,11786,crash,0,17
+2015,C,2015_Drivin_for_Linemen_200,28,16,15,usa,Mason_Mingus,Mason Mingus,Billy Boat Motorsports,Billy_Boat,Chevrolet,51,11539,crash,0,16
+2015,C,2015_Drivin_for_Linemen_200,29,22,36,usa,Justin_Jennings,Justin Jennings,Mittler Bros. Machine & Tool,Mike_Mittler,Chevrolet,26,11511,brakes,0,15
+2015,C,2015_Drivin_for_Linemen_200,30,31,03,usa,Mike_Affarano,Mike Affarano,Affarano Motorsports,Mike_Affarano,Chevrolet,13,11011,brakes,0,0
+2015,C,2015_Drivin_for_Linemen_200,31,30,0,usa,Adam_Edwards,Adam Edwards,Driven2Honor.org,Jennifer_Jo_Cobb,Chevrolet,6,9511,brakes,0,0
+2015,C,2015_Drivin_for_Linemen_200,32,32,57,usa,Joey_Gattina,Joey Gattina,Norm Benning Racing,Norm_Benning,Chevrolet,0,8511,engine,0,0
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,1,1,4,usa,Erik_Jones,Erik Jones,Special Olympics World Games / Toyota,Kyle_Busch,Toyota,200,48421,running,112,48
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,2,4,33,usa,Brandon_Jones,Brandon Jones,AGRA Industries,Maury_Gallagher,Chevrolet,200,29147,running,4,43
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,3,3,19,usa,Tyler_Reddick,Tyler Reddick,Broken Bow Records,Brad_Keselowski,Ford,200,27459,running,0,41
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,4,9,88,usa,Matt_Crafton,Matt Crafton,Chi-Chi's / Menards,Duke_Thorson,Toyota,200,21600,running,33,41
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,5,10,51,usa,Christopher_Bell,Christopher Bell,Toyota Certified Used Vehicles,Kyle_Busch,Toyota,200,18646,running,0,39
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,6,16,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,200,16562,running,0,38
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,7,14,23,usa,Spencer_Gallagher,Spencer Gallagher,Allegiant Travel,Maury_Gallagher,Chevrolet,200,16006,running,0,37
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,8,13,14,usa,Daniel_Hemric,Daniel Hemric,California Clean Power,Bob_Newberry,Chevrolet,200,15757,running,0,36
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,9,7,00,usa,Cole_Custer,Cole Custer,Haas Automation,JR_Motorsports,Chevrolet,200,15701,running,0,35
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,10,12,05,usa,John_Wes_Townley,John Wes Townley,Zaxby's,Tony_Townley,Chevrolet,200,16596,running,0,34
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,11,11,54,usa,Justin_Boston,Justin Boston,ROK Mobile,Kyle_Busch,Toyota,200,15591,running,0,33
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,12,18,29,usa,Austin_Theriault,Austin Theriault,Cooper Standard,Brad_Keselowski,Ford,200,15451,running,0,32
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,13,8,11,usa,Ben_Kennedy,Ben Kennedy,Local Motors,Tom_DeLoach,Toyota,200,15396,running,0,31
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,14,6,75,usa,Caleb_Holman,Caleb Holman,Food Country USA,Charlie_Henderson,Chevrolet,200,13090,running,0,30
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,15,23,07,usa,Ray_Black_Jr,"Ray Black, Jr.",ScubaLife / NASE Worldwide,Bobby_Dotter,Chevrolet,199,15801,running,0,29
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,16,17,15,usa,Mason_Mingus,Mason Mingus,Billy Boat Motorsports,Billy_Boat,Chevrolet,199,15062,running,0,28
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,17,20,98,usa,Johnny_Sauter,Johnny Sauter,Nextant Aerospace / Curb Records,Mike_Curb,Toyota,198,14952,running,14,28
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,18,22,94,usa,Timmy_Hill,Timmy Hill,Premium Motorsports,Jay_Robinson,Chevrolet,198,14813,running,0,26
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,19,5,13,canada,Cameron_Hayley,Cameron Hayley,Cabinets by Hayley,Duke_Thorson,Toyota,198,14702,running,37,26
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,20,19,02,usa,Tyler_Young,Tyler Young,Randco Industries / Young's Building Systems,Randy_Young,Chevrolet,197,13897,running,0,24
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,21,27,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,POW-MIAFamilies.org,Jennifer_Jo_Cobb,Chevrolet,196,13230,running,0,23
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,22,26,74,usa,Jordan_Anderson,Jordan Anderson,Mike Harmon Racing,Mike_Harmon,Chevrolet,193,12119,running,0,22
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,23,2,8,usa,John_Hunter_Nemechek,John Hunter Nemechek,MeetBall,Joe_Nemechek,Chevrolet,157,11980,crash,0,21
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,24,21,50,usa,Travis_Kvapil,Travis Kvapil,Burnie Grill,Mark_Beaver,Chevrolet,148,11897,drive shaft,0,20
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,25,29,6,usa,Norm_Benning,Norm Benning,Boedeker Construction,Norm_Benning,Chevrolet,93,12019,oil leak,0,19
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,26,25,08,usa,Korbin_Forrister,Korbin Forrister,Tilted Kilt,Christopher_Long,Chevrolet,65,11841,engine,0,18
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,27,15,63,usa,Jake_Griffin,Jake Griffin,Kimberly Cars / Vatterott College,Mike_Mittler,Chevrolet,41,11786,crash,0,17
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,28,30,45,usa,Tommy_Regan,Tommy Regan,Trijicon / Cope's Distribution,Christopher_Long,Chevrolet,33,11539,electrical,0,16
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,29,28,1,usa,Ryan_Ellis,Ryan Ellis,"Altec / Shane Duncan Band ""Life's Snooze Bar""",Mark_Beaver,Chevrolet,24,11511,suspension,0,15
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,30,31,03,usa,Mike_Affarano,Mike Affarano,Affarano Motorsports,Mike_Affarano,Chevrolet,22,11011,vibration,0,0
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,31,24,36,usa,Justin_Jennings,Justin Jennings,Mittler Bros. Machine & Tool,Mike_Mittler,Chevrolet,15,9511,electrical,0,13
+2015,C,2015_American_Ethanol_200_Presented_by_Enogen,32,32,0,usa,Caleb_Roark,Caleb Roark,Driven2Honor.org,Jennifer_Jo_Cobb,Chevrolet,5,8511,vibration,0,0
+2015,C,2015_UNOH_225,1,1,88,usa,Matt_Crafton,Matt Crafton,Ideal Door / Menards,Duke_Thorson,Toyota,145,59498,running,43,47
+2015,C,2015_UNOH_225,2,3,4,usa,Erik_Jones,Erik Jones,Special Olympics World Games / Toyota,Kyle_Busch,Toyota,145,48487,running,55,44
+2015,C,2015_UNOH_225,3,6,29,usa,Ryan_Blaney,Ryan Blaney,Cooper Standard Careers for Veterans,Brad_Keselowski,Ford,145,34948,running,14,0
+2015,C,2015_UNOH_225,4,4,51,mexico,Daniel_Suarez,Daniel Suarez,Arris / Telcel,Kyle_Busch,Toyota,145,22029,running,18,0
+2015,C,2015_UNOH_225,5,10,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,145,19072,running,0,39
+2015,C,2015_UNOH_225,6,2,19,usa,Tyler_Reddick,Tyler Reddick,Broken Bow Records,Brad_Keselowski,Ford,145,17403,running,13,39
+2015,C,2015_UNOH_225,7,31,92,usa,David_Gilliland,David Gilliland,BTS Tire & Wheel Distributors,Ricky_Benton,Ford,145,14608,running,0,0
+2015,C,2015_UNOH_225,8,7,05,usa,John_Wes_Townley,John Wes Townley,Zaxby's,Tony_Townley,Chevrolet,145,16314,running,0,36
+2015,C,2015_UNOH_225,9,12,13,canada,Cameron_Hayley,Cameron Hayley,AISIN AW / ADVICS,Duke_Thorson,Toyota,145,16205,running,0,35
+2015,C,2015_UNOH_225,10,9,33,usa,Brandon_Jones,Brandon Jones,Masterforce Tool Storage,Maury_Gallagher,Chevrolet,145,17018,running,0,34
+2015,C,2015_UNOH_225,11,13,8,usa,John_Hunter_Nemechek,John Hunter Nemechek,D.A.B. Constructors,Joe_Nemechek,Chevrolet,145,15959,running,1,34
+2015,C,2015_UNOH_225,12,5,98,usa,Johnny_Sauter,Johnny Sauter,Nextant Aerospace / Curb Records,Mike_Curb,Toyota,145,15766,running,0,32
+2015,C,2015_UNOH_225,13,15,07,usa,Ray_Black_Jr,"Ray Black, Jr.",ScubaLife / NASE Worldwide,Bobby_Dotter,Chevrolet,145,15657,running,1,32
+2015,C,2015_UNOH_225,14,23,1,usa,Travis_Kvapil,Travis Kvapil,Burnie Grill,Mark_Beaver,Chevrolet,145,15548,running,0,30
+2015,C,2015_UNOH_225,15,19,94,usa,Timmy_Hill,Timmy Hill,Lilly Trucking,Jay_Robinson,Chevrolet,145,15811,running,0,29
+2015,C,2015_UNOH_225,16,14,11,usa,Ben_Kennedy,Ben Kennedy,Local Motors,Tom_DeLoach,Toyota,145,15497,crash,0,28
+2015,C,2015_UNOH_225,17,16,54,usa,Christopher_Bell,Christopher Bell,Toyota Certified Used Vehicles,Kyle_Busch,Toyota,144,15188,running,0,27
+2015,C,2015_UNOH_225,18,11,14,usa,Daniel_Hemric,Daniel Hemric,California Clean Power,Bob_Newberry,Chevrolet,143,15079,running,0,26
+2015,C,2015_UNOH_225,19,22,15,usa,Mason_Mingus,Mason Mingus,Billy Boat Motorsports,Billy_Boat,Chevrolet,143,14970,running,0,25
+2015,C,2015_UNOH_225,20,30,25,usa,Cody_Coughlin,Cody Coughlin,JEGS,Bill_Venturini,Toyota,143,12811,running,0,24
+2015,C,2015_UNOH_225,21,18,08,usa,Korbin_Forrister,Korbin Forrister,Tilted Kilt,Christopher_Long,Chevrolet,141,15052,running,0,23
+2015,C,2015_UNOH_225,22,21,63,usa,Justin_Jennings,Justin Jennings,MB Motorsports,Mike_Mittler,Chevrolet,140,14643,running,0,22
+2015,C,2015_UNOH_225,23,20,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,POW-MIAFamilies.org / Driven2Honor.org,Jennifer_Jo_Cobb,Chevrolet,140,13284,running,0,21
+2015,C,2015_UNOH_225,24,8,23,usa,Spencer_Gallagher,Spencer Gallagher,Allegiant Travel,Maury_Gallagher,Chevrolet,139,13175,crash,0,20
+2015,C,2015_UNOH_225,25,29,86,usa,Brandon_Brown,Brandon Brown,Coastal Carolina University,Jerry_Brown,Chevrolet,132,12216,running,0,19
+2015,C,2015_UNOH_225,26,17,02,usa,Tyler_Young,Tyler Young,Arthur-Krenzel-Lett Insurance Group,Randy_Young,Chevrolet,132,11957,running,0,18
+2015,C,2015_UNOH_225,27,28,75,usa,Caleb_Holman,Caleb Holman,Food Country USA,Charlie_Henderson,Chevrolet,124,11848,crash,0,17
+2015,C,2015_UNOH_225,28,26,74,usa,Jordan_Anderson,Jordan Anderson,Battery Saver Racing,Mike_Harmon,Chevrolet,98,11508,suspension,0,16
+2015,C,2015_UNOH_225,29,27,45,usa,B_J_McLeod,B.J. McLeod,Tilted Kilt,Christopher_Long,Chevrolet,32,11400,electrical,0,15
+2015,C,2015_UNOH_225,30,25,50,usa,Ryan_Ellis,Ryan Ellis,"Shane Duncan Band ""Life's Snooze Bar""",Mark_Beaver,Chevrolet,16,10900,electrical,0,14
+2015,C,2015_UNOH_225,31,24,6,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,2,9400,engine,0,13
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,1,4,54,usa,Christopher_Bell,Christopher Bell,Toyota Certified Used Vehicles,Kyle_Busch,Toyota,154,37273,running,106,48
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,2,1,63,usa,Bobby_Pierce,Bobby Pierce,RPM Services LLC Global,Mike_Mittler,Chevrolet,154,27697,running,39,43
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,3,5,19,usa,Tyler_Reddick,Tyler Reddick,Draw-Tite,Brad_Keselowski,Ford,154,23646,running,0,41
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,4,19,4,usa,Erik_Jones,Erik Jones,Special Olympics World Games / Toyota,Kyle_Busch,Toyota,154,18870,running,0,40
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,5,17,14,usa,Daniel_Hemric,Daniel Hemric,California Clean Power,Bob_Newberry,Chevrolet,154,16430,running,0,39
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,6,10,31,usa,Austin_Dillon,Austin Dillon,Enlist / Dow Agrosciences,Bob_Newberry,Chevrolet,154,13086,running,8,0
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,7,2,8,usa,John_Hunter_Nemechek,John Hunter Nemechek,NEMCO Motorsports,Joe_Nemechek,Chevrolet,154,14794,running,1,38
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,8,9,13,canada,Cameron_Hayley,Cameron Hayley,Cabinets by Hayley,Duke_Thorson,Toyota,154,14745,running,0,36
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,9,12,88,usa,Matt_Crafton,Matt Crafton,Ideal Door / Menards,Duke_Thorson,Toyota,154,15695,running,0,35
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,10,15,33,usa,Ty_Dillon,Ty Dillon,RheemTankless.com,Maury_Gallagher,Chevrolet,154,13346,running,0,0
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,11,3,52,usa,Ken_Schrader,Ken Schrader,Federated Auto Parts,Ken_Schrader,Toyota,154,12347,running,0,33
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,12,27,11,usa,Ben_Kennedy,Ben Kennedy,Local Motors,Tom_DeLoach,Toyota,154,14548,running,0,32
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,13,6,02,usa,Tyler_Young,Tyler Young,Randco Industries / Young's Building Systems,Randy_Young,Chevrolet,154,14498,running,0,31
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,14,20,05,usa,John_Wes_Townley,John Wes Townley,Zaxby's,Tony_Townley,Chevrolet,154,14450,running,0,30
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,15,23,07,usa,Ray_Black_Jr,"Ray Black, Jr.",ScubaLife / NASE Worldwide,Bobby_Dotter,Chevrolet,154,15000,running,0,29
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,16,21,45,usa,Chris_Fontaine,Chris Fontaine,Field & Stream / American Tactical,Christopher_Long,Chevrolet,154,12100,running,0,28
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,17,18,23,usa,Spencer_Gallagher,Spencer Gallagher,Allegiant Travel,Maury_Gallagher,Chevrolet,154,14302,running,0,27
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,18,30,50,usa,Jody_Knowles,Jody Knowles,Clayton Signs / Korban Partners,Tracy_Wallace,Ford,154,14252,running,0,26
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,19,13,6,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,154,14050,running,0,25
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,20,25,82,usa,Sean_Corr,Sean Corr,Empire Racing / Nesco,John_Corr,Ford,154,12251,running,0,24
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,21,22,51,usa,Matt_Tifft,Matt Tifft,ToyotaCare,Kyle_Busch,Toyota,154,13952,running,0,23
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,22,7,98,usa,Johnny_Sauter,Johnny Sauter,Nextant Aerospace / Curb Records,Mike_Curb,Toyota,153,13902,running,0,22
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,23,8,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,153,13853,running,0,21
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,24,16,08,usa,Korbin_Forrister,Korbin Forrister,Trump For President,Christopher_Long,Chevrolet,153,12554,running,0,20
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,25,26,35,usa,Cody_Erickson,Cody Erickson,Petermann Seeds / Magnum / Performance Auto,John_Corr,Chevrolet,153,11654,running,0,19
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,26,32,94,usa,Wendell_Chavous,Wendell Chavous,Premium Motorsports,Jay_Robinson,Chevrolet,152,12456,running,0,18
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,27,29,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,Driven2Honor.org,Jennifer_Jo_Cobb,Chevrolet,151,11406,running,0,17
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,28,11,29,usa,Brad_Keselowski,Brad Keselowski,Cooper Standard,Brad_Keselowski,Ford,144,11063,running,0,0
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,29,24,00,usa,Cole_Custer,Cole Custer,Haas Automation,JR_Motorsports,Chevrolet,136,10964,running,0,15
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,30,28,1,usa,Travis_Kvapil,Travis Kvapil,Altec / Burnie Grill,Mark_Beaver,Chevrolet,119,10464,crash,0,14
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,31,14,15,usa,Chad_Boat,Chad Boat,CorvetteParts.net / Pristine Auctions,Billy_Boat,Chevrolet,110,8964,crash,0,13
+2015,C,2015_1-800_Car_Cash_Mudsummer_Classic,32,31,74,canada,Stew_Hayward,Stew Hayward,Mike Harmon Racing,Mike_Harmon,RAM,79,7964,engine,0,12
+2015,C,2015_Pocono_Mountains_150,1,2,51,usa,Kyle_Busch,Kyle Busch,Dollar General,Kyle_Busch,Toyota,69,41542,running,53,0
+2015,C,2015_Pocono_Mountains_150,2,7,00,usa,Kevin_Harvick,Kevin Harvick,Haas Automation,JR_Motorsports,Chevrolet,69,26768,running,0,0
+2015,C,2015_Pocono_Mountains_150,3,6,19,usa,Tyler_Reddick,Tyler Reddick,Draw-Tite,Brad_Keselowski,Ford,69,27203,running,0,41
+2015,C,2015_Pocono_Mountains_150,4,16,13,canada,Cameron_Hayley,Cameron Hayley,Carolina Nut Co.,Duke_Thorson,Toyota,69,21817,running,0,40
+2015,C,2015_Pocono_Mountains_150,5,5,33,usa,Austin_Dillon,Austin Dillon,Rheem,Maury_Gallagher,Chevrolet,69,16613,running,0,0
+2015,C,2015_Pocono_Mountains_150,6,17,98,usa,Johnny_Sauter,Johnny Sauter,Nextant Aerospace / Curb Records,Mike_Curb,Toyota,69,16279,running,4,39
+2015,C,2015_Pocono_Mountains_150,7,12,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,69,15725,running,0,37
+2015,C,2015_Pocono_Mountains_150,8,14,54,usa,Matt_Tifft,Matt Tifft,ToyotaCare,Kyle_Busch,Toyota,69,15475,running,0,36
+2015,C,2015_Pocono_Mountains_150,9,15,14,usa,Daniel_Hemric,Daniel Hemric,California Clean Power,Bob_Newberry,Chevrolet,69,15420,running,0,35
+2015,C,2015_Pocono_Mountains_150,10,1,4,usa,Erik_Jones,Erik Jones,Toyota,Kyle_Busch,Toyota,69,18587,running,9,35
+2015,C,2015_Pocono_Mountains_150,11,8,11,usa,Ben_Kennedy,Ben Kennedy,Local Motors,Tom_DeLoach,Toyota,69,15281,running,0,33
+2015,C,2015_Pocono_Mountains_150,12,11,15,usa,Mason_Mingus,Mason Mingus,Billy Boat Motorsports,Billy_Boat,Chevrolet,69,15141,running,0,32
+2015,C,2015_Pocono_Mountains_150,13,9,8,usa,John_Hunter_Nemechek,John Hunter Nemechek,D.A.B. Constructors,Joe_Nemechek,Chevrolet,69,15058,running,0,31
+2015,C,2015_Pocono_Mountains_150,14,13,23,usa,Spencer_Gallagher,Spencer Gallagher,Allegiant Travel,Maury_Gallagher,Chevrolet,69,15003,running,3,31
+2015,C,2015_Pocono_Mountains_150,15,20,02,usa,Tyler_Young,Tyler Young,Randco Industries / Young's Building Systems,Randy_Young,Chevrolet,69,15264,running,0,29
+2015,C,2015_Pocono_Mountains_150,16,18,63,usa,Garrett_Smithley,Garrett Smithley,SegPay,Mike_Mittler,Chevrolet,69,14953,running,0,28
+2015,C,2015_Pocono_Mountains_150,17,10,05,usa,John_Wes_Townley,John Wes Townley,Zaxby's,Tony_Townley,Chevrolet,68,14643,running,0,27
+2015,C,2015_Pocono_Mountains_150,18,21,74,usa,Jordan_Anderson,Jordan Anderson,Tri-Analytics / SRGFX.com,Mike_Harmon,Chevrolet,67,14503,running,0,26
+2015,C,2015_Pocono_Mountains_150,19,32,50,usa,Kyle_Martel,Kyle Martel,Hanover Cold Storage / Finish Line Express,William_Martel,Chevrolet,67,14393,running,0,25
+2015,C,2015_Pocono_Mountains_150,20,25,28,usa,Ryan_Ellis,Ryan Ellis,FDNY 150th Anniversary,Jim_Rosenblum,Chevrolet,67,12587,running,0,24
+2015,C,2015_Pocono_Mountains_150,21,23,40,usa,Todd_Peck,Todd Peck,Arthritis Foundation / OSS Health,Michael_Peck,Chevrolet,66,11921,running,0,23
+2015,C,2015_Pocono_Mountains_150,22,30,6,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,63,14060,running,0,22
+2015,C,2015_Pocono_Mountains_150,23,19,1,usa,Travis_Kvapil,Travis Kvapil,Burnie Grill,Mark_Beaver,Chevrolet,56,13949,running,0,21
+2015,C,2015_Pocono_Mountains_150,24,31,07,usa,Ray_Black_Jr,"Ray Black, Jr.",ScubaLife / NASE Worldwide,Bobby_Dotter,Chevrolet,52,12616,crash,0,20
+2015,C,2015_Pocono_Mountains_150,25,26,94,usa,Wendell_Chavous,Wendell Chavous,Lilly Trucking / Testoril,Jay_Robinson,Chevrolet,51,12727,crash,0,19
+2015,C,2015_Pocono_Mountains_150,26,24,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,JJC Racing,Jennifer_Jo_Cobb,Chevrolet,49,11533,running,0,18
+2015,C,2015_Pocono_Mountains_150,27,29,08,usa,Korbin_Forrister,Korbin Forrister,Trump For President,Christopher_Long,Chevrolet,24,11505,crash,0,17
+2015,C,2015_Pocono_Mountains_150,28,3,88,usa,Matt_Crafton,Matt Crafton,Chi-Chi's / Menards,Duke_Thorson,Toyota,13,12258,crash,0,16
+2015,C,2015_Pocono_Mountains_150,29,22,45,usa,B_J_McLeod,B.J. McLeod,Tilted Kilt,Christopher_Long,Chevrolet,12,11229,overheating,0,15
+2015,C,2015_Pocono_Mountains_150,30,4,29,usa,Brad_Keselowski,Brad Keselowski,Cooper Standard,Brad_Keselowski,Ford,5,10729,crash,0,0
+2015,C,2015_Pocono_Mountains_150,31,28,36,usa,Justin_Jennings,Justin Jennings,Mittler Bros. Machine & Tool,Mike_Mittler,Chevrolet,3,9229,vibration,0,13
+2015,C,2015_Pocono_Mountains_150,32,27,0,usa,Caleb_Roark,Caleb Roark,Driven2Honor.org,Jennifer_Jo_Cobb,Chevrolet,3,8229,suspension,0,12
+2015,C,2015_Careers_for_Veterans_200,1,10,51,usa,Kyle_Busch,Kyle Busch,Dollar General,Kyle_Busch,Toyota,100,43447,running,44,0
+2015,C,2015_Careers_for_Veterans_200,2,12,29,usa,Ryan_Blaney,Ryan Blaney,Cooper Standard Careers for Veterans,Brad_Keselowski,Ford,100,36614,running,8,0
+2015,C,2015_Careers_for_Veterans_200,3,7,4,usa,Erik_Jones,Erik Jones,Toyota,Kyle_Busch,Toyota,100,26735,running,16,42
+2015,C,2015_Careers_for_Veterans_200,4,9,98,usa,Johnny_Sauter,Johnny Sauter,Nextant Aerospace / Curb Records,Mike_Curb,Toyota,100,20254,running,24,41
+2015,C,2015_Careers_for_Veterans_200,5,3,33,usa,Austin_Dillon,Austin Dillon,Rheem / Young Supply Company,Maury_Gallagher,Chevrolet,100,15653,running,4,0
+2015,C,2015_Careers_for_Veterans_200,6,1,88,usa,Matt_Crafton,Matt Crafton,Ideal Door / Menards,Duke_Thorson,Toyota,100,19792,running,0,38
+2015,C,2015_Careers_for_Veterans_200,7,2,14,usa,Daniel_Hemric,Daniel Hemric,California Clean Power,Bob_Newberry,Chevrolet,100,16325,running,4,38
+2015,C,2015_Careers_for_Veterans_200,8,5,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,100,16241,running,0,36
+2015,C,2015_Careers_for_Veterans_200,9,11,19,usa,Tyler_Reddick,Tyler Reddick,Draw-Tite,Brad_Keselowski,Ford,100,16185,running,0,35
+2015,C,2015_Careers_for_Veterans_200,10,6,13,canada,Cameron_Hayley,Cameron Hayley,Carolina Nut Co.,Duke_Thorson,Toyota,100,17107,running,0,34
+2015,C,2015_Careers_for_Veterans_200,11,16,00,usa,Alex_Bowman,Alex Bowman,Haas Automation,JR_Motorsports,Chevrolet,100,13852,running,0,0
+2015,C,2015_Careers_for_Veterans_200,12,17,8,usa,John_Hunter_Nemechek,John Hunter Nemechek,NEMCO Motorsports,Joe_Nemechek,Chevrolet,100,15934,running,0,32
+2015,C,2015_Careers_for_Veterans_200,13,23,74,usa,Jordan_Anderson,Jordan Anderson,Tri-Analytics / SRGFX.com,Mike_Harmon,Chevrolet,100,15850,running,0,31
+2015,C,2015_Careers_for_Veterans_200,14,19,63,usa,Garrett_Smithley,Garrett Smithley,BRUH / SegPay,Mike_Mittler,Chevrolet,100,15795,running,0,30
+2015,C,2015_Careers_for_Veterans_200,15,13,02,usa,Tyler_Young,Tyler Young,Randco Industries / Young's Building Systems,Randy_Young,Chevrolet,100,16138,running,0,29
+2015,C,2015_Careers_for_Veterans_200,16,14,23,usa,Spencer_Gallagher,Spencer Gallagher,Allegiant Travel,Maury_Gallagher,Chevrolet,99,15711,crash,0,28
+2015,C,2015_Careers_for_Veterans_200,17,8,05,usa,John_Wes_Townley,John Wes Townley,Zaxby's,Tony_Townley,Chevrolet,99,15799,running,0,27
+2015,C,2015_Careers_for_Veterans_200,18,20,1,usa,Travis_Kvapil,Travis Kvapil,Burnie Grill,Mark_Beaver,Chevrolet,98,15572,running,0,26
+2015,C,2015_Careers_for_Veterans_200,19,28,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,JJC Racing,Jennifer_Jo_Cobb,Chevrolet,98,15515,running,0,25
+2015,C,2015_Careers_for_Veterans_200,20,18,54,usa,Cody_Coughlin,Cody Coughlin,JEGS,Kyle_Busch,Toyota,96,15988,running,0,24
+2015,C,2015_Careers_for_Veterans_200,21,15,30,usa,Chad_Finley,Chad Finley,Auto Value,Mark_Rette,Ford,96,13210,running,0,23
+2015,C,2015_Careers_for_Veterans_200,22,27,08,usa,Korbin_Forrister,Korbin Forrister,Trump For President,Christopher_Long,Chevrolet,95,15404,running,0,22
+2015,C,2015_Careers_for_Veterans_200,23,30,94,usa,Wendell_Chavous,Wendell Chavous,Testoril,Jay_Robinson,Chevrolet,95,15376,running,0,21
+2015,C,2015_Careers_for_Veterans_200,24,22,15,usa,Mason_Mingus,Mason Mingus,Billy Boat Motorsports,Billy_Boat,Chevrolet,87,14099,crash,0,20
+2015,C,2015_Careers_for_Veterans_200,25,4,11,usa,Ben_Kennedy,Ben Kennedy,Local Motors,Tom_DeLoach,Toyota,82,14220,crash,0,19
+2015,C,2015_Careers_for_Veterans_200,26,21,07,usa,Ray_Black_Jr,"Ray Black, Jr.",ScubaLife / NASE Worldwide,Bobby_Dotter,Chevrolet,66,13042,running,0,18
+2015,C,2015_Careers_for_Veterans_200,27,31,6,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,40,12987,rear gear,0,17
+2015,C,2015_Careers_for_Veterans_200,28,25,0,usa,Caleb_Roark,Caleb Roark,Driven2Honor.org,Jennifer_Jo_Cobb,Chevrolet,19,12747,vibration,0,16
+2015,C,2015_Careers_for_Veterans_200,29,32,50,usa,Tyler_Tanner,Tyler Tanner,"Shane Duncan Band ""Life's Snooze Bar""",Mark_Beaver,Chevrolet,16,12692,clutch,0,15
+2015,C,2015_Careers_for_Veterans_200,30,26,45,usa,B_J_McLeod,B.J. McLeod,Tilted Kilt,Christopher_Long,Chevrolet,15,12192,electrical,0,14
+2015,C,2015_Careers_for_Veterans_200,31,29,40,usa,Todd_Peck,Todd Peck,Arthritis Foundation / OSS Health,Michael_Peck,Chevrolet,12,10692,rear gear,0,13
+2015,C,2015_Careers_for_Veterans_200,32,24,36,usa,Justin_Jennings,Justin Jennings,Mittler Bros. Machine & Tool,Mike_Mittler,Chevrolet,6,9692,handling,0,12
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,1,2,29,usa,Ryan_Blaney,Ryan Blaney,Cooper Standard,Brad_Keselowski,Ford,202,46349,running,40,0
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,2,1,54,usa,Kyle_Busch,Kyle Busch,JEGS,Kyle_Busch,Toyota,202,31811,running,4,0
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,3,7,8,usa,John_Hunter_Nemechek,John Hunter Nemechek,MeetBall,Joe_Nemechek,Chevrolet,202,25409,running,0,41
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,4,17,14,usa,Daniel_Hemric,Daniel Hemric,California Clean Power,Bob_Newberry,Chevrolet,202,19358,running,0,40
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,5,3,33,usa,Brandon_Jones,Brandon Jones,Masterforce Tool Storage,Maury_Gallagher,Chevrolet,202,17800,running,1,40
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,6,4,4,usa,Erik_Jones,Erik Jones,Toyota,Kyle_Busch,Toyota,202,16114,running,0,38
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,7,6,88,usa,Matt_Crafton,Matt Crafton,Great Lakes Wood Floors / Menards,Duke_Thorson,Toyota,202,16948,running,39,38
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,8,19,19,usa,Tyler_Reddick,Tyler Reddick,Draw-Tite,Brad_Keselowski,Ford,202,15892,running,0,36
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,9,12,98,usa,Johnny_Sauter,Johnny Sauter,Smokey Mountain Herbal Snuff / Curb Records,Mike_Curb,Toyota,202,15837,running,7,36
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,10,18,5,usa,Dalton_Sargeant,Dalton Sargeant,Galt,Richie_Wauters,Toyota,202,14482,running,0,34
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,11,14,05,usa,John_Wes_Townley,John Wes Townley,Zaxby's,Tony_Townley,Chevrolet,202,15726,running,0,33
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,12,15,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,202,15560,running,0,32
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,13,10,92,usa,David_Gilliland,David Gilliland,BTS Tire & Wheel Distributors / Black's Tire,Ricky_Benton,Ford,202,13253,running,0,0
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,14,21,32,usa,Justin_Haley,Justin Haley,Great Clips,Todd_Braun,Chevrolet,202,13198,running,0,30
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,15,11,11,usa,Ben_Kennedy,Ben Kennedy,Local Motors,Tom_DeLoach,Toyota,202,15965,running,0,29
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,16,5,00,usa,Cole_Custer,Cole Custer,Haas Automation,JR_Motorsports,Chevrolet,202,15282,running,111,30
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,17,24,02,usa,Tyler_Young,Tyler Young,Electro-General Plastics Corp.,Randy_Young,Chevrolet,201,15221,running,0,27
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,18,9,13,canada,Cameron_Hayley,Cameron Hayley,Carolina Nut Co. / Curb Records,Duke_Thorson,Toyota,201,15143,running,0,26
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,19,26,50,usa,Travis_Kvapil,Travis Kvapil,Burnie Grill,Mark_Beaver,Chevrolet,199,15088,running,0,25
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,20,22,63,usa,Justin_Jennings,Justin Jennings,Mittler Bros. Machine & Tool,Mike_Mittler,Chevrolet,199,15532,running,0,24
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,21,20,07,usa,Ray_Black_Jr,"Ray Black, Jr.",ScubaLife / NASE Worldwide,Bobby_Dotter,Chevrolet,198,14977,running,0,23
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,22,13,23,usa,Spencer_Gallagher,Spencer Gallagher,Allegiant Travel,Maury_Gallagher,Chevrolet,195,14949,running,0,22
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,23,23,31,usa,Ty_Dillon,Ty Dillon,GunBroker.com,Bob_Newberry,Chevrolet,194,12672,crash,0,0
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,24,31,6,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,190,14894,running,0,20
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,25,29,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,Driven2Honor.org,Jennifer_Jo_Cobb,Chevrolet,189,13739,running,0,19
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,26,32,94,usa,Wendell_Chavous,Wendell Chavous,Testoril,Jay_Robinson,Chevrolet,188,13533,running,0,18
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,27,30,08,usa,Korbin_Forrister,Korbin Forrister,Trump For President,Christopher_Long,Chevrolet,176,12505,running,0,17
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,28,28,1,usa,Ryan_Ellis,Ryan Ellis,Hutch Chevrolet-Buick-GMC,Mark_Beaver,Chevrolet,176,12258,running,0,16
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,29,25,15,usa,Mason_Mingus,Mason Mingus,Billy Boat Motorsports,Billy_Boat,Chevrolet,158,12202,brakes,0,15
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,30,16,51,mexico,Daniel_Suarez,Daniel Suarez,Arris / Telcel,Kyle_Busch,Toyota,154,11202,overheating,0,0
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,31,8,75,usa,Caleb_Holman,Caleb Holman,Fuel In A Bottle / Food Country USA,Charlie_Henderson,Chevrolet,112,10702,crash,0,13
+2015,C,2015_UNOH_200_Presented_by_ZLOOP,32,27,36,usa,Tyler_Tanner,Tyler Tanner,Mittler Bros. Machine & Tool,Mike_Mittler,Chevrolet,12,9202,brakes,0,12
+2015,C,2015_Chevrolet_Silverado_250,1,2,4,usa,Erik_Jones,Erik Jones,Toyota,Kyle_Busch,Toyota,64,64245,running,19,47
+2015,C,2015_Chevrolet_Silverado_250,2,3,88,usa,Matt_Crafton,Matt Crafton,Ideal Door / Menards,Duke_Thorson,Toyota,64,48243,running,1,43
+2015,C,2015_Chevrolet_Silverado_250,3,6,11,usa,Ben_Kennedy,Ben Kennedy,Local Motors,Tom_DeLoach,Toyota,64,35572,running,0,41
+2015,C,2015_Chevrolet_Silverado_250,4,13,14,usa,Daniel_Hemric,Daniel Hemric,California Clean Power,Bob_Newberry,Chevrolet,64,27034,running,0,40
+2015,C,2015_Chevrolet_Silverado_250,5,1,29,canada,Alex_Tagliani,Alex Tagliani,Cooper Standard,Brad_Keselowski,Ford,64,26832,running,8,0
+2015,C,2015_Chevrolet_Silverado_250,6,9,98,usa,Johnny_Sauter,Johnny Sauter,Nextant Aerospace / Curb Records,Mike_Curb,Toyota,64,21752,running,0,38
+2015,C,2015_Chevrolet_Silverado_250,7,7,13,canada,Cameron_Hayley,Cameron Hayley,Cabinets by Hayley,Duke_Thorson,Toyota,64,21202,running,13,38
+2015,C,2015_Chevrolet_Silverado_250,8,14,23,usa,Spencer_Gallagher,Spencer Gallagher,Alamo Rent-A-Car,Maury_Gallagher,Chevrolet,64,20651,running,0,36
+2015,C,2015_Chevrolet_Silverado_250,9,12,8,usa,John_Hunter_Nemechek,John Hunter Nemechek,Chevrolet,Joe_Nemechek,Chevrolet,64,19661,running,0,35
+2015,C,2015_Chevrolet_Silverado_250,10,5,00,usa,Cole_Custer,Cole Custer,Haas Automation,JR_Motorsports,Chevrolet,64,20500,running,22,36
+2015,C,2015_Chevrolet_Silverado_250,11,8,54,usa,Gray_Gaulding,Gray Gaulding,Krispy Kreme,Kyle_Busch,Toyota,64,19441,running,0,33
+2015,C,2015_Chevrolet_Silverado_250,12,19,25,usa,Brian_Wong,Brian Wong,Momofuku / GT Channel,Bill_Venturini,Toyota,64,16997,running,0,32
+2015,C,2015_Chevrolet_Silverado_250,13,18,94,usa,T_J_Bell,T.J. Bell,Testoril,Jay_Robinson,Chevrolet,64,19137,running,1,0
+2015,C,2015_Chevrolet_Silverado_250,14,17,15,usa,Mason_Mingus,Mason Mingus,Billy Boat Motorsports,Billy_Boat,Chevrolet,64,19027,running,0,30
+2015,C,2015_Chevrolet_Silverado_250,15,22,07,usa,Ray_Black_Jr,"Ray Black, Jr.",ScubaLife.com / NASE Worldwide,Bobby_Dotter,Chevrolet,64,19406,running,0,29
+2015,C,2015_Chevrolet_Silverado_250,16,23,74,usa,Jordan_Anderson,Jordan Anderson,Tri-Analytics / SRGFX.com,Mike_Harmon,Chevrolet,64,18697,running,0,28
+2015,C,2015_Chevrolet_Silverado_250,17,16,02,usa,Tyler_Young,Tyler Young,Randco Industries / Young's Building Systems,Randy_Young,Chevrolet,64,18586,running,0,27
+2015,C,2015_Chevrolet_Silverado_250,18,24,08,usa,Korbin_Forrister,Korbin Forrister,Trump For President,Christopher_Long,Chevrolet,64,18476,running,0,26
+2015,C,2015_Chevrolet_Silverado_250,19,4,19,usa,Tyler_Reddick,Tyler Reddick,BBR / Stoney Creek Records,Brad_Keselowski,Ford,62,18367,running,0,25
+2015,C,2015_Chevrolet_Silverado_250,20,29,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,Driven2Honor.org,Jennifer_Jo_Cobb,Chevrolet,61,17506,running,0,24
+2015,C,2015_Chevrolet_Silverado_250,21,28,6,usa,Norm_Benning,Norm Benning,Pottier Construction / Crossey PLBG,Norm_Benning,Chevrolet,59,16896,running,0,23
+2015,C,2015_Chevrolet_Silverado_250,22,10,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing / Gaunt Collision Centres,Tom_DeLoach,Toyota,57,15787,running,0,22
+2015,C,2015_Chevrolet_Silverado_250,23,15,51,usa,Matt_Tifft,Matt Tifft,Rally for Kids' Cancer / SickKids,Kyle_Busch,Toyota,56,15566,running,0,21
+2015,C,2015_Chevrolet_Silverado_250,24,27,1,usa,Travis_Kvapil,Travis Kvapil,Burnie Grill,Mark_Beaver,Chevrolet,55,15455,running,0,20
+2015,C,2015_Chevrolet_Silverado_250,25,20,05,usa,John_Wes_Townley,John Wes Townley,Zaxby's,Tony_Townley,Chevrolet,54,15551,running,0,19
+2015,C,2015_Chevrolet_Silverado_250,26,11,33,usa,Brandon_Jones,Brandon Jones,Exide / EMCO Corporation,Maury_Gallagher,Chevrolet,43,15346,crash,0,18
+2015,C,2015_Chevrolet_Silverado_250,27,21,63,uk,Daniel_Brown,Daniel Brown,Brown & Geeson,Mike_Mittler,Chevrolet,42,15291,running,0,17
+2015,C,2015_Chevrolet_Silverado_250,28,25,45,usa,B_J_McLeod,B.J. McLeod,Tilted Kilt,Christopher_Long,Chevrolet,21,15013,brakes,0,16
+2015,C,2015_Chevrolet_Silverado_250,29,26,36,usa,Justin_Jennings,Justin Jennings,Mittler Bros. Machine & Tool,Mike_Mittler,Chevrolet,12,14958,brakes,0,15
+2015,C,2015_Chevrolet_Silverado_250,30,31,44,usa,Josh_Reaume,Josh Reaume,Obregon Construction,Margaret_Lind,RAM,10,14458,engine,0,0
+2015,C,2015_Chevrolet_Silverado_250,31,30,50,usa,Ryan_Ellis,Ryan Ellis,Hutch Chevrolet-Buick-GMC,Mark_Beaver,Chevrolet,0,12958,engine,0,13
+2015,C,2015_Chevrolet_Silverado_250,32,32,53,usa,Robert_Mitten,Robert Mitten,NDS Motorsports,Robert_Torriere,RAM,0,,did not start,0,0
+2015,C,2015_American_Ethanol_E15_225,1,11,8,usa,John_Hunter_Nemechek,John Hunter Nemechek,NEMCO Motorsports,Joe_Nemechek,Chevrolet,150,46978,running,2,47
+2015,C,2015_American_Ethanol_E15_225,2,4,19,usa,Tyler_Reddick,Tyler Reddick,BBR / Stoney Creek Records,Brad_Keselowski,Ford,150,41217,running,1,43
+2015,C,2015_American_Ethanol_E15_225,3,5,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,150,29417,running,41,42
+2015,C,2015_American_Ethanol_E15_225,4,6,51,mexico,Daniel_Suarez,Daniel Suarez,Arris / Telcel,Kyle_Busch,Toyota,150,19769,running,3,0
+2015,C,2015_American_Ethanol_E15_225,5,3,98,usa,Johnny_Sauter,Johnny Sauter,Nextant Aerospace / Curb Records,Mike_Curb,Toyota,150,21861,running,52,41
+2015,C,2015_American_Ethanol_E15_225,6,8,4,usa,Erik_Jones,Erik Jones,Toyota Certified Used Vehicles,Kyle_Busch,Toyota,150,18948,running,0,38
+2015,C,2015_American_Ethanol_E15_225,7,1,00,usa,Kyle_Larson,Kyle Larson,Haas Automation,JR_Motorsports,Chevrolet,149,16558,running,49,0
+2015,C,2015_American_Ethanol_E15_225,8,19,23,usa,Spencer_Gallagher,Spencer Gallagher,Alamo Rent-A-Car,Maury_Gallagher,Chevrolet,149,18724,running,0,36
+2015,C,2015_American_Ethanol_E15_225,9,18,54,usa,Matt_Tifft,Matt Tifft,NASCAR '15 Victory Edition,Kyle_Busch,Toyota,149,18640,running,0,35
+2015,C,2015_American_Ethanol_E15_225,10,13,05,usa,John_Wes_Townley,John Wes Townley,Zaxby's,Tony_Townley,Chevrolet,149,19534,running,0,34
+2015,C,2015_American_Ethanol_E15_225,11,21,07,usa,Ray_Black_Jr,"Ray Black, Jr.",ScubaLife.com / NASE Worldwide,Bobby_Dotter,Chevrolet,148,18500,running,2,34
+2015,C,2015_American_Ethanol_E15_225,12,9,11,usa,Ben_Kennedy,Ben Kennedy,Local Motors,Tom_DeLoach,Toyota,148,18360,running,0,32
+2015,C,2015_American_Ethanol_E15_225,13,12,29,usa,Austin_Theriault,Austin Theriault,Cooper Standard,Brad_Keselowski,Ford,147,18332,running,0,31
+2015,C,2015_American_Ethanol_E15_225,14,2,88,usa,Matt_Crafton,Matt Crafton,Slim Jim / Menards,Duke_Thorson,Toyota,147,19276,running,0,30
+2015,C,2015_American_Ethanol_E15_225,15,17,02,usa,Tyler_Young,Tyler Young,Faro,Randy_Young,Chevrolet,147,18620,running,0,29
+2015,C,2015_American_Ethanol_E15_225,16,7,13,canada,Cameron_Hayley,Cameron Hayley,Carolina Nut Co.,Duke_Thorson,Toyota,146,18137,running,0,28
+2015,C,2015_American_Ethanol_E15_225,17,10,33,usa,Brandon_Jones,Brandon Jones,American Ethanol E15,Maury_Gallagher,Chevrolet,145,18053,running,0,27
+2015,C,2015_American_Ethanol_E15_225,18,30,94,usa,Timmy_Hill,Timmy Hill,Testoril,Jay_Robinson,Chevrolet,144,18025,running,0,26
+2015,C,2015_American_Ethanol_E15_225,19,22,63,usa,Justin_Jennings,Justin Jennings,Excel Bottling / Mittler Bros. Machine & Tool,Mike_Mittler,Chevrolet,144,18169,running,0,25
+2015,C,2015_American_Ethanol_E15_225,20,28,74,usa,Jordan_Anderson,Jordan Anderson,"Lucas Oil / Columbia, SC Famously Hot",Mike_Harmon,Chevrolet,143,18386,running,0,24
+2015,C,2015_American_Ethanol_E15_225,21,16,30,usa,Chad_Finley,Chad Finley,Auto Value / Bumper to Bumper,Mark_Rette,Ford,141,15607,running,0,23
+2015,C,2015_American_Ethanol_E15_225,22,32,6,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,102,16580,running,0,22
+2015,C,2015_American_Ethanol_E15_225,23,27,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,POW-MIAFamilies.org / Driven2Honor.org,Jennifer_Jo_Cobb,Chevrolet,96,16551,running,0,21
+2015,C,2015_American_Ethanol_E15_225,24,25,1,usa,Travis_Kvapil,Travis Kvapil,Landworks Solutions,Mark_Beaver,Chevrolet,93,15523,rear gear,0,20
+2015,C,2015_American_Ethanol_E15_225,25,14,14,usa,Daniel_Hemric,Daniel Hemric,California Clean Power,Bob_Newberry,Chevrolet,90,15645,running,0,19
+2015,C,2015_American_Ethanol_E15_225,26,20,15,usa,Mason_Mingus,Mason Mingus,Call 811 Before You Dig,Billy_Boat,Chevrolet,79,15468,crash,0,18
+2015,C,2015_American_Ethanol_E15_225,27,26,08,usa,Korbin_Forrister,Korbin Forrister,Trump For President,Christopher_Long,Chevrolet,41,15439,engine,0,17
+2015,C,2015_American_Ethanol_E15_225,28,23,45,usa,B_J_McLeod,B.J. McLeod,Tilted Kilt,Christopher_Long,Chevrolet,25,15206,vibration,0,16
+2015,C,2015_American_Ethanol_E15_225,29,29,50,usa,Ryan_Ellis,Ryan Ellis,Landworks Solutions,Mark_Beaver,Chevrolet,18,15150,vibration,0,15
+2015,C,2015_American_Ethanol_E15_225,30,15,97,usa,Jesse_Little,Jesse Little,ProtectTheHarvest.com,Jason_Little,Toyota,14,14650,engine,0,14
+2015,C,2015_American_Ethanol_E15_225,31,31,0,usa,Caleb_Roark,Caleb Roark,Krystal / Driven2Honor.org,Jennifer_Jo_Cobb,Chevrolet,14,13150,brakes,0,13
+2015,C,2015_American_Ethanol_E15_225,32,24,36,usa,Tyler_Tanner,Tyler Tanner,Mittler Bros. Machine & Tool,Mike_Mittler,Chevrolet,5,12150,engine,0,12
+2015,C,2015_UNOH_175,1,1,33,usa,Austin_Dillon,Austin Dillon,Rheem,Maury_Gallagher,Chevrolet,175,51387,running,80,0
+2015,C,2015_UNOH_175,2,10,88,usa,Matt_Crafton,Matt Crafton,Rip It Energy Fuel / Menards,Duke_Thorson,Toyota,175,38852,running,0,42
+2015,C,2015_UNOH_175,3,23,98,usa,Johnny_Sauter,Johnny Sauter,Nextant Aerospace / Curb Records,Mike_Curb,Toyota,175,29941,running,0,41
+2015,C,2015_UNOH_175,4,6,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,175,24928,running,0,40
+2015,C,2015_UNOH_175,5,12,8,usa,John_Hunter_Nemechek,John Hunter Nemechek,Get Well Captain Dave,Joe_Nemechek,Chevrolet,175,20275,running,0,39
+2015,C,2015_UNOH_175,6,11,14,usa,Daniel_Hemric,Daniel Hemric,Calif. Clean Power/500th Truck Race Throwback,Bob_Newberry,Chevrolet,175,18159,running,14,39
+2015,C,2015_UNOH_175,7,4,4,usa,Erik_Jones,Erik Jones,Toyota,Kyle_Busch,Toyota,175,17116,running,5,38
+2015,C,2015_UNOH_175,8,9,29,usa,Austin_Theriault,Austin Theriault,Cooper Standard,Brad_Keselowski,Ford,175,16761,running,9,37
+2015,C,2015_UNOH_175,9,5,5,usa,Dalton_Sargeant,Dalton Sargeant,Galt,Richie_Wauters,Toyota,175,14401,running,0,35
+2015,C,2015_UNOH_175,10,8,54,usa,Gray_Gaulding,Gray Gaulding,Krispy Kreme,Kyle_Busch,Toyota,175,16831,running,0,34
+2015,C,2015_UNOH_175,11,2,51,usa,Kyle_Busch,Kyle Busch,Dollar General,Kyle_Busch,Toyota,175,12915,running,67,0
+2015,C,2015_UNOH_175,12,3,13,canada,Cameron_Hayley,Cameron Hayley,Cabinets by Hayley,Duke_Thorson,Toyota,175,15054,running,0,32
+2015,C,2015_UNOH_175,13,18,07,usa,Ray_Black_Jr,"Ray Black, Jr.",ScubaLife.com / NASE Worldwide,Bobby_Dotter,Chevrolet,175,15026,running,0,31
+2015,C,2015_UNOH_175,14,17,15,usa,Mason_Mingus,Mason Mingus,Billy Boat Motorsports,Billy_Boat,Chevrolet,175,14971,running,0,30
+2015,C,2015_UNOH_175,15,14,19,usa,Tyler_Reddick,Tyler Reddick,BBR / Stoney Creek Records,Brad_Keselowski,Ford,175,15516,running,0,29
+2015,C,2015_UNOH_175,16,31,02,usa,Tyler_Young,Tyler Young,Randco Industries / Young's Building Systems,Randy_Young,Chevrolet,174,14778,running,0,28
+2015,C,2015_UNOH_175,17,19,1,usa,Travis_Kvapil,Travis Kvapil,Landworks Solutions,Mark_Beaver,Chevrolet,170,14696,running,0,27
+2015,C,2015_UNOH_175,18,28,63,japan,Akinori_Ogata,Akinori Ogata,Eneos,Mike_Mittler,Chevrolet,170,14641,running,0,26
+2015,C,2015_UNOH_175,19,21,68,usa,Clay_Greenfield,Clay Greenfield,U.S. Pavement Services / 1-800-PAVEMENT,Bill_Alger,RAM,170,12336,running,0,25
+2015,C,2015_UNOH_175,20,32,94,usa,Timmy_Hill,Timmy Hill,Testoril,Jay_Robinson,Chevrolet,170,14703,running,0,24
+2015,C,2015_UNOH_175,21,22,45,mexico,Ruben_Pardo,Ruben Pardo,BYB Extreme Fighting Series,Rick_Ware,Chevrolet,169,14528,running,0,23
+2015,C,2015_UNOH_175,22,30,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,POW-MIAFamilies.org / Driven2Honor.org,Jennifer_Jo_Cobb,Chevrolet,166,14201,running,0,22
+2015,C,2015_UNOH_175,23,15,11,usa,Ben_Kennedy,Ben Kennedy,Local Motors,Tom_DeLoach,Toyota,158,12923,running,0,21
+2015,C,2015_UNOH_175,24,13,00,usa,Cole_Custer,Cole Custer,Haas Automation,JR_Motorsports,Chevrolet,144,12895,crash,0,20
+2015,C,2015_UNOH_175,25,25,74,usa,Jordan_Anderson,Jordan Anderson,Mike Harmon Racing,Mike_Harmon,Chevrolet,140,12018,running,0,19
+2015,C,2015_UNOH_175,26,16,05,usa,John_Wes_Townley,John Wes Townley,Zaxby's,Tony_Townley,Chevrolet,135,11840,crash,0,18
+2015,C,2015_UNOH_175,27,20,86,usa,Brandon_Brown,Brandon Brown,Coastal Carolina University / #TealNation,Jerry_Brown,Chevrolet,132,11813,running,0,17
+2015,C,2015_UNOH_175,28,7,23,usa,Spencer_Gallagher,Spencer Gallagher,Allegiant Travel,Maury_Gallagher,Chevrolet,131,11565,running,0,16
+2015,C,2015_UNOH_175,29,29,08,usa,Korbin_Forrister,Korbin Forrister,Trump For President,Christopher_Long,Chevrolet,22,11538,brakes,0,15
+2015,C,2015_UNOH_175,30,24,50,usa,Tyler_Tanner,Tyler Tanner,Landworks Solutions,Mark_Beaver,Chevrolet,19,11038,brakes,0,14
+2015,C,2015_UNOH_175,31,26,0,usa,Caleb_Roark,Caleb Roark,Driven2Honor.org,Jennifer_Jo_Cobb,Chevrolet,12,9538,electrical,0,13
+2015,C,2015_UNOH_175,32,27,36,usa,Justin_Jennings,Justin Jennings,Mittler Bros. Machine & Tool,Mike_Mittler,Chevrolet,7,8538,electrical,0,12
+2015,C,2015_Rhino_Linings_350,1,2,05,usa,John_Wes_Townley,John Wes Townley,Zaxby's,Tony_Townley,Chevrolet,146,45845,running,23,47
+2015,C,2015_Rhino_Linings_350,2,4,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,146,31057,running,13,43
+2015,C,2015_Rhino_Linings_350,3,9,11,usa,Ben_Kennedy,Ben Kennedy,Local Motors,Tom_DeLoach,Toyota,146,25167,running,0,41
+2015,C,2015_Rhino_Linings_350,4,16,8,usa,John_Hunter_Nemechek,John Hunter Nemechek,Berry's Manufacturing,Joe_Nemechek,Chevrolet,146,21906,running,0,40
+2015,C,2015_Rhino_Linings_350,5,3,33,usa,Brandon_Jones,Brandon Jones,Refrigeration Supplies Distributor / RSD.net,Maury_Gallagher,Chevrolet,146,19051,running,0,39
+2015,C,2015_Rhino_Linings_350,6,12,14,usa,Daniel_Hemric,Daniel Hemric,California Clean Power,Bob_Newberry,Chevrolet,146,17267,running,0,38
+2015,C,2015_Rhino_Linings_350,7,11,19,usa,Tyler_Reddick,Tyler Reddick,Draw-Tite,Brad_Keselowski,Ford,146,16712,running,2,38
+2015,C,2015_Rhino_Linings_350,8,1,88,usa,Matt_Crafton,Matt Crafton,FVP / Menards,Duke_Thorson,Toyota,146,19762,running,69,38
+2015,C,2015_Rhino_Linings_350,9,15,4,usa,Erik_Jones,Erik Jones,Toyota,Kyle_Busch,Toyota,146,16406,running,0,35
+2015,C,2015_Rhino_Linings_350,10,6,13,canada,Cameron_Hayley,Cameron Hayley,Carolina Nut Co. / Monte Carlo,Duke_Thorson,Toyota,145,17301,running,23,35
+2015,C,2015_Rhino_Linings_350,11,14,21,usa,Brennan_Poole,Brennan Poole,MTO Cafe / DC Solar,Maury_Gallagher,Chevrolet,145,14045,running,0,0
+2015,C,2015_Rhino_Linings_350,12,13,98,usa,Johnny_Sauter,Johnny Sauter,Nextant Aerospace / Curb Records,Mike_Curb,Toyota,145,16156,running,13,33
+2015,C,2015_Rhino_Linings_350,13,22,07,usa,Ray_Black_Jr,"Ray Black, Jr.",ScubaLife.com / NASE Worldwide,Bobby_Dotter,Chevrolet,145,16099,running,1,32
+2015,C,2015_Rhino_Linings_350,14,5,54,usa,Christopher_Bell,Christopher Bell,JBL / Toyota,Kyle_Busch,Toyota,145,16044,running,0,30
+2015,C,2015_Rhino_Linings_350,15,10,23,usa,Spencer_Gallagher,Spencer Gallagher,Allegiant Travel,Maury_Gallagher,Chevrolet,144,16306,running,0,29
+2015,C,2015_Rhino_Linings_350,16,17,31,usa,Travis_Pastrana,Travis Pastrana,GunBroker.com,Bob_Newberry,Chevrolet,144,15966,running,0,28
+2015,C,2015_Rhino_Linings_350,17,20,02,usa,Tyler_Young,Tyler Young,Randco Industries / Young's Building Systems,Randy_Young,Chevrolet,144,15656,running,0,27
+2015,C,2015_Rhino_Linings_350,18,21,1,usa,Travis_Kvapil,Travis Kvapil,Landworks Solutions,Mark_Beaver,Chevrolet,144,15516,running,1,27
+2015,C,2015_Rhino_Linings_350,19,18,51,usa,Matt_Tifft,Matt Tifft,NASCAR Slots Games,Kyle_Busch,Toyota,143,15406,running,0,25
+2015,C,2015_Rhino_Linings_350,20,8,15,usa,Mason_Mingus,Mason Mingus,Billy Boat Motorsports,Billy_Boat,Chevrolet,142,14600,running,0,24
+2015,C,2015_Rhino_Linings_350,21,24,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,Waldo's Painting Co. / Driven2Honor.org,Jennifer_Jo_Cobb,Chevrolet,140,13933,running,0,23
+2015,C,2015_Rhino_Linings_350,22,27,74,usa,Jordan_Anderson,Jordan Anderson,Rusty's Off Road Products / PlateSetters.com,Mike_Harmon,Chevrolet,138,12822,running,0,22
+2015,C,2015_Rhino_Linings_350,23,30,63,japan,Akinori_Ogata,Akinori Ogata,Akinori Ogata Foundation,Mike_Mittler,Chevrolet,135,12712,running,0,21
+2015,C,2015_Rhino_Linings_350,24,29,94,usa,Wayne_Edwards_(1),Wayne Edwards,Testoril,Jay_Robinson,Chevrolet,135,12600,running,0,20
+2015,C,2015_Rhino_Linings_350,25,19,16,usa,Chad_Boat,Chad Boat,CorvetteParts.net,Billy_Boat,Chevrolet,114,12695,handling,0,19
+2015,C,2015_Rhino_Linings_350,26,32,6,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,46,12517,suspension,0,18
+2015,C,2015_Rhino_Linings_350,27,26,08,usa,Korbin_Forrister,Korbin Forrister,Tilted Kilt,Christopher_Long,Chevrolet,34,12462,oil leak,0,17
+2015,C,2015_Rhino_Linings_350,28,25,45,usa,B_J_McLeod,B.J. McLeod,Tilted Kilt,Christopher_Long,Chevrolet,33,12213,overheating,0,16
+2015,C,2015_Rhino_Linings_350,29,23,36,usa,Justin_Jennings,Justin Jennings,Mittler Bros. Machine & Tool,Mike_Mittler,Chevrolet,29,12185,electrical,1,16
+2015,C,2015_Rhino_Linings_350,30,28,0,usa,Caleb_Roark,Caleb Roark,Driven2Honor.org,Jennifer_Jo_Cobb,Chevrolet,16,11685,electrical,0,14
+2015,C,2015_Rhino_Linings_350,31,7,29,usa,Austin_Theriault,Austin Theriault,Cooper Standard,Brad_Keselowski,Ford,14,10185,crash,0,13
+2015,C,2015_Rhino_Linings_350,32,31,50,usa,Tyler_Tanner,Tyler Tanner,Landworks Solutions,Mark_Beaver,Chevrolet,5,9185,ignition,0,12
+2015,C,2015_Freds_250,1,1,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,98,67978,running,23,47
+2015,C,2015_Freds_250,2,13,33,usa,Brandon_Jones,Brandon Jones,Wittichen Supply Company,Maury_Gallagher,Chevrolet,98,48318,running,7,18
+2015,C,2015_Freds_250,3,19,15,usa,Mason_Mingus,Mason Mingus,811 - Call Before You Dig,Billy_Boat,Chevrolet,98,36014,running,0,41
+2015,C,2015_Freds_250,4,3,4,usa,Erik_Jones,Erik Jones,Toyota,Kyle_Busch,Toyota,98,27203,running,6,41
+2015,C,2015_Freds_250,5,15,19,usa,Tyler_Reddick,Tyler Reddick,BBR / Stoney Creek Records,Brad_Keselowski,Ford,98,20861,running,0,39
+2015,C,2015_Freds_250,6,16,13,canada,Cameron_Hayley,Cameron Hayley,Mattei,Duke_Thorson,Toyota,98,20056,running,0,38
+2015,C,2015_Freds_250,7,8,98,usa,Johnny_Sauter,Johnny Sauter,Nextant Aerospace / Curb Records,Mike_Curb,Toyota,98,19470,running,0,37
+2015,C,2015_Freds_250,8,12,45,usa,Chris_Fontaine,Chris Fontaine,Glenden Enterprises / Racktail.com,Chris_Fontaine,Toyota,98,18939,running,0,36
+2015,C,2015_Freds_250,9,20,16,usa,Chad_Boat,Chad Boat,Pristine Auction / CorvetteParts.net,Billy_Boat,Chevrolet,98,16579,running,0,35
+2015,C,2015_Freds_250,10,18,02,usa,Tyler_Young,Tyler Young,AKL Insurance Group,Randy_Young,Chevrolet,98,19675,running,0,34
+2015,C,2015_Freds_250,11,14,8,usa,John_Hunter_Nemechek,John Hunter Nemechek,Chek Industries / Breast Cancer Awareness,Joe_Nemechek,Chevrolet,98,18616,running,0,33
+2015,C,2015_Freds_250,12,17,36,usa,Bobby_Gerhart,Bobby Gerhart,Lucas Oil / MavTV / Breast Cancer Awareness,Mike_Mittler,Chevrolet,98,18428,running,0,0
+2015,C,2015_Freds_250,13,10,54,usa,Christopher_Bell,Christopher Bell,JBL.com,Kyle_Busch,Toyota,98,18318,running,0,31
+2015,C,2015_Freds_250,14,27,07,usa,Ray_Black_Jr,"Ray Black, Jr.",ScubaLife.com / NASE Worldwide,Bobby_Dotter,Chevrolet,98,18214,running,1,31
+2015,C,2015_Freds_250,15,30,08,usa,Korbin_Forrister,Korbin Forrister,Tilted Kilt,Christopher_Long,Chevrolet,98,18705,running,0,29
+2015,C,2015_Freds_250,16,2,05,usa,John_Wes_Townley,John Wes Townley,Zaxby's,Tony_Townley,Chevrolet,98,18000,running,1,29
+2015,C,2015_Freds_250,17,11,29,usa,Brian_Keselowski,Brian Keselowski,Cooper Standard,Brad_Keselowski,Ford,98,17891,running,10,28
+2015,C,2015_Freds_250,18,9,23,usa,Spencer_Gallagher,Spencer Gallagher,Allegiant Travel,Maury_Gallagher,Chevrolet,98,17787,running,0,26
+2015,C,2015_Freds_250,19,32,74,usa,Jordan_Anderson,Jordan Anderson,Rusty's Off Road Products,Mike_Harmon,Chevrolet,97,17655,running,0,25
+2015,C,2015_Freds_250,20,25,94,usa,Timmy_Hill,Timmy Hill,VIPRacingExperience.com / Testoril,Jay_Robinson,Chevrolet,97,16796,running,1,25
+2015,C,2015_Freds_250,21,24,6,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,96,16192,running,0,23
+2015,C,2015_Freds_250,22,22,82,usa,Austin_Hill,Austin Hill,Empire Racing Driver Development,John_Corr,Ford,96,15082,running,0,22
+2015,C,2015_Freds_250,23,6,51,usa,Matt_Tifft,Matt Tifft,Waves for Water Clean Water Solutions,Kyle_Busch,Toyota,96,14979,running,0,21
+2015,C,2015_Freds_250,24,7,88,usa,Matt_Crafton,Matt Crafton,Hormel Pepperoni / Menards,Duke_Thorson,Toyota,96,15869,running,43,22
+2015,C,2015_Freds_250,25,5,11,usa,Ben_Kennedy,Ben Kennedy,Local Motors,Tom_DeLoach,Toyota,96,14909,running,6,20
+2015,C,2015_Freds_250,26,28,63,usa,Tyler_Tanner,Tyler Tanner,Mittler Bros. Machine & Tool,Mike_Mittler,Chevrolet,91,14655,crash,0,18
+2015,C,2015_Freds_250,27,31,1,usa,Travis_Kvapil,Travis Kvapil,Bad Boy Mowers,Mark_Beaver,Chevrolet,91,14551,crash,0,17
+2015,C,2015_Freds_250,28,4,14,usa,Daniel_Hemric,Daniel Hemric,Salvation Army / California Clean Power,Bob_Newberry,Chevrolet,91,14215,running,0,16
+2015,C,2015_Freds_250,29,21,91,usa,Stanton_Barrett,Stanton Barrett,Navy Seals vs. Zombies / BarCode Ent.,Stanton_Barrett,Chevrolet,85,14106,crash,0,0
+2015,C,2015_Freds_250,30,26,68,usa,Clay_Greenfield,Clay Greenfield,ClutchDefense.com,Bill_Alger,Chevrolet,77,13606,overheating,0,14
+2015,C,2015_Freds_250,31,23,30,canada,Terry_Jones,Terry Jones,Nortrax,Mark_Rette,Chevrolet,35,12106,crash,0,13
+2015,C,2015_Freds_250,32,29,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,V.G. Pride Group / Vapor Station E-Vapor,Jennifer_Jo_Cobb,Chevrolet,29,11106,engine,0,12
+2015,C,2015_Kroger_200,1,13,88,usa,Matt_Crafton,Matt Crafton,Fisher Nuts Exactly Snack Bites / Menards,Duke_Thorson,Toyota,200,39197,running,63,47
+2015,C,2015_Kroger_200,2,3,8,usa,John_Hunter_Nemechek,John Hunter Nemechek,Mark 4 Suzuki,Joe_Nemechek,Chevrolet,200,29673,running,32,43
+2015,C,2015_Kroger_200,3,2,13,canada,Cameron_Hayley,Cameron Hayley,Carolina Nut Co. / Breast Cancer Awareness,Duke_Thorson,Toyota,200,21627,running,0,41
+2015,C,2015_Kroger_200,4,1,00,usa,Cole_Custer,Cole Custer,Haas Automation,JR_Motorsports,Chevrolet,200,23569,running,96,42
+2015,C,2015_Kroger_200,5,4,19,usa,Tyler_Reddick,Tyler Reddick,Brad Keselowski's Checkered Flag Foundation,Brad_Keselowski,Ford,200,17413,running,0,39
+2015,C,2015_Kroger_200,6,11,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,200,15471,running,0,38
+2015,C,2015_Kroger_200,7,16,33,usa,Brandon_Jones,Brandon Jones,Lucas Oil,Maury_Gallagher,Chevrolet,200,15005,running,0,37
+2015,C,2015_Kroger_200,8,18,75,usa,Caleb_Holman,Caleb Holman,Food Country USA / Tide Pods,Charlie_Henderson,Chevrolet,200,12700,running,0,36
+2015,C,2015_Kroger_200,9,17,98,usa,Johnny_Sauter,Johnny Sauter,Smokey Mtn. Herbal Snuff Peach / Curb Records,Mike_Curb,Toyota,200,14895,running,0,35
+2015,C,2015_Kroger_200,10,8,4,usa,Erik_Jones,Erik Jones,Toyota,Kyle_Busch,Toyota,200,15789,running,0,34
+2015,C,2015_Kroger_200,11,26,05,usa,John_Wes_Townley,John Wes Townley,Zaxby's,Tony_Townley,Chevrolet,200,14783,running,0,33
+2015,C,2015_Kroger_200,12,5,14,usa,Daniel_Hemric,Daniel Hemric,Salvation Army / California Clean Power,Bob_Newberry,Chevrolet,200,14644,running,0,32
+2015,C,2015_Kroger_200,13,9,02,usa,Tyler_Young,Tyler Young,Randco Industries / Young's Building Systems,Randy_Young,Chevrolet,200,14589,running,0,31
+2015,C,2015_Kroger_200,14,10,11,usa,Ben_Kennedy,Ben Kennedy,"Local Motors ""Halloween""",Tom_DeLoach,Toyota,200,14534,running,0,30
+2015,C,2015_Kroger_200,15,23,50,usa,Travis_Kvapil,Travis Kvapil,CorvetteParts.net,Mark_Beaver,Chevrolet,200,14823,running,0,29
+2015,C,2015_Kroger_200,16,6,51,mexico,Daniel_Suarez,Daniel Suarez,Arris,Kyle_Busch,Toyota,200,12290,running,0,0
+2015,C,2015_Kroger_200,17,25,18,usa,Ross_Kenseth,Ross Kenseth,AISIN AW,Shigeaki_Hattori,Toyota,200,12035,running,0,0
+2015,C,2015_Kroger_200,18,19,15,usa,Mason_Mingus,Mason Mingus,Billy Boat Motorsports,Billy_Boat,Chevrolet,200,14228,running,0,26
+2015,C,2015_Kroger_200,19,27,82,usa,Austin_Hill,Austin Hill,Empire Racing Driver Development,John_Corr,Ford,200,11923,running,0,25
+2015,C,2015_Kroger_200,20,21,07,usa,Ray_Black_Jr,"Ray Black, Jr.","ScubaLife ""Halloween""",Bobby_Dotter,Chevrolet,200,14618,running,0,24
+2015,C,2015_Kroger_200,21,7,54,usa,Gray_Gaulding,Gray Gaulding,Krispy Kreme,Kyle_Busch,Toyota,200,14090,running,9,24
+2015,C,2015_Kroger_200,22,28,63,usa,Bobby_Pierce,Bobby Pierce,RPM Services LLC Global,Mike_Mittler,Chevrolet,200,14062,running,0,22
+2015,C,2015_Kroger_200,23,12,92,usa,David_Gilliland,David Gilliland,Black's Tire & Wheel Distributors,Ricky_Benton,Ford,200,11785,running,0,0
+2015,C,2015_Kroger_200,24,30,1,usa,Camden_Murphy,Camden Murphy,Ronald McDonald House / Nortown Auto,Rick_Ware,Chevrolet,200,12757,running,0,20
+2015,C,2015_Kroger_200,25,14,29,usa,Austin_Cindric,Austin Cindric,Cooper Standard,Brad_Keselowski,Ford,200,12852,running,0,19
+2015,C,2015_Kroger_200,26,24,94,usa,Timmy_Hill,Timmy Hill,Testoril,Jay_Robinson,Chevrolet,199,11674,running,0,18
+2015,C,2015_Kroger_200,27,29,08,usa,Brandon_Hightower,Brandon Hightower,St. Jude Childrens Hosp./Operation 2nd Chance,Mike_Mittler,Chevrolet,196,11591,running,0,17
+2015,C,2015_Kroger_200,28,15,5,usa,Dalton_Sargeant,Dalton Sargeant,Galt,Richie_Wauters,Toyota,196,11345,running,0,16
+2015,C,2015_Kroger_200,29,20,23,usa,Spencer_Gallagher,Spencer Gallagher,Allegiant Travel,Maury_Gallagher,Chevrolet,196,11290,running,0,15
+2015,C,2015_Kroger_200,30,31,74,usa,Paige_Decker,Paige Decker,Eagle River Derbytrack,Mike_Harmon,RAM,193,10790,running,0,14
+2015,C,2015_Kroger_200,31,32,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,Driven2Honor.org,Jennifer_Jo_Cobb,Chevrolet,186,9290,running,0,13
+2015,C,2015_Kroger_200,32,22,32,usa,Justin_Haley,Justin Haley,Great Clips,Todd_Braun,Chevrolet,119,8290,crash,0,12
+2015,C,2015_Winstar_World_Casino_And_Resort_350,1,5,4,usa,Erik_Jones,Erik Jones,Toyota,Kyle_Busch,Toyota,147,62424,running,117,48
+2015,C,2015_Winstar_World_Casino_And_Resort_350,2,7,51,mexico,Daniel_Suarez,Daniel Suarez,Arris,Kyle_Busch,Toyota,147,42737,running,0,0
+2015,C,2015_Winstar_World_Casino_And_Resort_350,3,15,29,usa,Ryan_Blaney,Ryan Blaney,Cooper Standard Careers for Veterans,Brad_Keselowski,Ford,147,34886,running,0,0
+2015,C,2015_Winstar_World_Casino_And_Resort_350,4,1,88,usa,Matt_Crafton,Matt Crafton,Damp Rid / Menards,Duke_Thorson,Toyota,147,27750,running,27,41
+2015,C,2015_Winstar_World_Casino_And_Resort_350,5,17,19,usa,Tyler_Reddick,Tyler Reddick,BBR / Stoney Creek Records,Brad_Keselowski,Ford,147,19678,running,1,40
+2015,C,2015_Winstar_World_Casino_And_Resort_350,6,6,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,147,18020,running,0,38
+2015,C,2015_Winstar_World_Casino_And_Resort_350,7,4,33,usa,Brandon_Jones,Brandon Jones,Russell Refrigeration Products,Maury_Gallagher,Chevrolet,147,17495,running,0,37
+2015,C,2015_Winstar_World_Casino_And_Resort_350,8,11,54,usa,Christopher_Bell,Christopher Bell,JBL,Kyle_Busch,Toyota,147,16965,running,0,36
+2015,C,2015_Winstar_World_Casino_And_Resort_350,9,9,11,usa,Ben_Kennedy,Ben Kennedy,Local Motors,Tom_DeLoach,Toyota,147,16861,running,0,35
+2015,C,2015_Winstar_World_Casino_And_Resort_350,10,14,13,canada,Cameron_Hayley,Cameron Hayley,Carolina Nut Co.,Duke_Thorson,Toyota,147,17675,running,1,35
+2015,C,2015_Winstar_World_Casino_And_Resort_350,11,12,8,usa,John_Hunter_Nemechek,John Hunter Nemechek,NEMCO Motorsports,Joe_Nemechek,Chevrolet,147,16620,running,1,34
+2015,C,2015_Winstar_World_Casino_And_Resort_350,12,2,23,usa,Spencer_Gallagher,Spencer Gallagher,Allegiant Travel,Maury_Gallagher,Chevrolet,146,16406,running,0,32
+2015,C,2015_Winstar_World_Casino_And_Resort_350,13,13,98,usa,Johnny_Sauter,Johnny Sauter,Smokey Mountain Herbal Snuff / Curb Records,Mike_Curb,Toyota,146,16297,running,0,31
+2015,C,2015_Winstar_World_Casino_And_Resort_350,14,3,14,usa,Daniel_Hemric,Daniel Hemric,California Clean Power,Bob_Newberry,Chevrolet,146,16192,running,0,30
+2015,C,2015_Winstar_World_Casino_And_Resort_350,15,16,97,usa,Jesse_Little,Jesse Little,Protect The Harvest,Jason_Little,Toyota,145,14406,running,0,29
+2015,C,2015_Winstar_World_Casino_And_Resort_350,16,8,00,usa,Jeb_Burton,Jeb Burton,Haas Automation,JR_Motorsports,Chevrolet,145,15952,running,0,0
+2015,C,2015_Winstar_World_Casino_And_Resort_350,17,10,05,usa,John_Wes_Townley,John Wes Townley,Zaxby's,Tony_Townley,Chevrolet,144,15848,running,0,27
+2015,C,2015_Winstar_World_Casino_And_Resort_350,18,18,15,usa,Mason_Mingus,Mason Mingus,Texas 811 - Call Before You Dig,Billy_Boat,Chevrolet,144,15744,running,0,26
+2015,C,2015_Winstar_World_Casino_And_Resort_350,19,19,07,usa,Ray_Black_Jr,"Ray Black, Jr.",ScubaLife.com / NASE Worldwide,Bobby_Dotter,Chevrolet,142,15635,running,0,25
+2015,C,2015_Winstar_World_Casino_And_Resort_350,20,20,94,usa,Timmy_Hill,Timmy Hill,Testoril,Jay_Robinson,Chevrolet,141,16031,running,0,24
+2015,C,2015_Winstar_World_Casino_And_Resort_350,21,21,74,usa,Jordan_Anderson,Jordan Anderson,"Columbia, SC / Knight Fire Protection",Mike_Harmon,Chevrolet,138,15427,running,0,23
+2015,C,2015_Winstar_World_Casino_And_Resort_350,22,26,08,usa,Korbin_Forrister,Korbin Forrister,Tilted Kilt,Christopher_Long,Chevrolet,136,14068,running,0,22
+2015,C,2015_Winstar_World_Casino_And_Resort_350,23,29,02,usa,Tyler_Young,Tyler Young,Randco Industries / Young's Building Systems,Randy_Young,Chevrolet,136,13959,running,0,21
+2015,C,2015_Winstar_World_Casino_And_Resort_350,24,24,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,Grimes Irrigation & Construction,Jennifer_Jo_Cobb,Chevrolet,134,12854,running,0,20
+2015,C,2015_Winstar_World_Casino_And_Resort_350,25,23,63,usa,Justin_Jennings,Justin Jennings,Mittler Bros. Machine & Tool,Mike_Mittler,Chevrolet,89,12900,running,0,19
+2015,C,2015_Winstar_World_Casino_And_Resort_350,26,22,1,usa,Travis_Kvapil,Travis Kvapil,MAKE Motorsports,Mark_Beaver,Chevrolet,77,12647,oil leak,0,18
+2015,C,2015_Winstar_World_Casino_And_Resort_350,27,28,6,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,40,12543,suspension,0,17
+2015,C,2015_Winstar_World_Casino_And_Resort_350,28,27,45,usa,Todd_Peck,Todd Peck,Tilted Kilt,Michael_Peck,Chevrolet,17,12214,suspension,0,16
+2015,C,2015_Winstar_World_Casino_And_Resort_350,29,25,50,canada,Dexter_Stacey,Dexter Stacey,MAKE Motorsports,Mark_Beaver,Chevrolet,11,12094,electrical,0,15
+2015,C,2015_Winstar_World_Casino_And_Resort_350,30,32,49,usa,Mike_Harmon,Mike Harmon,Mike Harmon Racing,Mike_Harmon,Chevrolet,6,11594,engine,0,0
+2015,C,2015_Winstar_World_Casino_And_Resort_350,31,30,36,usa,Tyler_Tanner,Tyler Tanner,Mittler Bros. Machine & Tool,Mike_Mittler,Chevrolet,0,10094,engine,0,13
+2015,C,2015_Winstar_World_Casino_And_Resort_350,32,31,0,usa,Caleb_Roark,Caleb Roark,Driven2Honor.org,Jennifer_Jo_Cobb,Chevrolet,0,9094,electrical,0,12
+2015,C,2015_Lucas_Oil_150,1,10,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,150,44502,running,28,47
+2015,C,2015_Lucas_Oil_150,2,11,8,usa,John_Hunter_Nemechek,John Hunter Nemechek,Anderson's Pure Maple Syrup,Joe_Nemechek,Chevrolet,150,32722,running,0,42
+2015,C,2015_Lucas_Oil_150,3,19,05,usa,John_Wes_Townley,John Wes Townley,Zaxby's,Tony_Townley,Chevrolet,150,24226,running,0,41
+2015,C,2015_Lucas_Oil_150,4,8,51,mexico,Daniel_Suarez,Daniel Suarez,Arris,Kyle_Busch,Toyota,150,17000,running,0,0
+2015,C,2015_Lucas_Oil_150,5,2,19,usa,Tyler_Reddick,Tyler Reddick,Draw-Tite / CalRanch.com,Brad_Keselowski,Ford,150,17375,running,0,39
+2015,C,2015_Lucas_Oil_150,6,15,23,usa,Spencer_Gallagher,Spencer Gallagher,Allegiant Travel,Maury_Gallagher,Chevrolet,150,16287,running,0,38
+2015,C,2015_Lucas_Oil_150,7,3,32,usa,Justin_Haley,Justin Haley,Great Clips,Todd_Braun,Chevrolet,150,13982,running,0,37
+2015,C,2015_Lucas_Oil_150,8,17,54,usa,Matt_Tifft,Matt Tifft,games.NASCAR.com,Kyle_Busch,Toyota,150,16176,running,0,36
+2015,C,2015_Lucas_Oil_150,9,1,4,usa,Erik_Jones,Erik Jones,Toyota Certified Used Vehicles,Kyle_Busch,Toyota,150,20621,running,106,37
+2015,C,2015_Lucas_Oil_150,10,18,15,usa,Mason_Mingus,Mason Mingus,AEC Electric / Call 811 Before You Dig,Billy_Boat,Chevrolet,150,16988,running,0,34
+2015,C,2015_Lucas_Oil_150,11,6,13,canada,Cameron_Hayley,Cameron Hayley,Protect The Harvest,Duke_Thorson,Toyota,150,15844,running,0,33
+2015,C,2015_Lucas_Oil_150,12,24,16,usa,Chad_Boat,Chad Boat,Pristine Auction / CorvetteParts.net,Billy_Boat,Chevrolet,149,13455,running,0,32
+2015,C,2015_Lucas_Oil_150,13,23,02,usa,Tyler_Young,Tyler Young,Randco Industries / Young's Building Systems,Randy_Young,Chevrolet,149,15649,running,0,31
+2015,C,2015_Lucas_Oil_150,14,21,29,usa,Austin_Cindric,Austin Cindric,Cooper Standard,Brad_Keselowski,Ford,149,15567,running,0,30
+2015,C,2015_Lucas_Oil_150,15,25,50,usa,Travis_Kvapil,Travis Kvapil,CorvetteParts.net,Mark_Beaver,Chevrolet,149,15911,running,1,30
+2015,C,2015_Lucas_Oil_150,16,26,36,usa,Bobby_Pierce,Bobby Pierce,Mittler Bros. Machine & Tool,Mike_Mittler,Chevrolet,149,15628,running,0,28
+2015,C,2015_Lucas_Oil_150,17,27,1,mexico,Ruben_Pardo,Ruben Pardo,BYB Extreme Fighting Series,Rick_Ware,Chevrolet,148,15372,running,0,27
+2015,C,2015_Lucas_Oil_150,18,28,94,usa,Timmy_Hill,Timmy Hill,Testoril,Jay_Robinson,Chevrolet,148,15317,running,0,26
+2015,C,2015_Lucas_Oil_150,19,20,5,usa,Dalton_Sargeant,Dalton Sargeant,Galt,Richie_Wauters,Toyota,148,13012,running,0,25
+2015,C,2015_Lucas_Oil_150,20,22,07,usa,Ray_Black_Jr,"Ray Black, Jr.",ScubaLife.com / NASE Worldwide,Bobby_Dotter,Chevrolet,148,15706,running,0,24
+2015,C,2015_Lucas_Oil_150,21,13,14,usa,Daniel_Hemric,Daniel Hemric,California Clean Power,Bob_Newberry,Chevrolet,144,15096,running,0,23
+2015,C,2015_Lucas_Oil_150,22,29,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,POW-MIAFamilies.org / Grimes Irrigation,Jennifer_Jo_Cobb,Chevrolet,141,15040,running,0,22
+2015,C,2015_Lucas_Oil_150,23,4,88,usa,Matt_Crafton,Matt Crafton,Ideal Door / Menards,Duke_Thorson,Toyota,130,14680,crash,15,22
+2015,C,2015_Lucas_Oil_150,24,12,11,usa,Ben_Kennedy,Ben Kennedy,Local Motors,Tom_DeLoach,Toyota,126,13569,running,0,20
+2015,C,2015_Lucas_Oil_150,25,16,98,usa,Johnny_Sauter,Johnny Sauter,Smokey Mountain Herbal Snuff / Curb Records,Mike_Curb,Toyota,120,12609,crash,0,19
+2015,C,2015_Lucas_Oil_150,26,9,00,usa,Cole_Custer,Cole Custer,Haas Automation,JR_Motorsports,Chevrolet,114,12347,running,0,18
+2015,C,2015_Lucas_Oil_150,27,32,63,japan,Akinori_Ogata,Akinori Ogata,Eneos,Mike_Mittler,Chevrolet,105,12209,suspension,0,17
+2015,C,2015_Lucas_Oil_150,28,14,31,usa,Rico_Abreu,Rico Abreu,AccuDoc Solutions,Bob_Newberry,Chevrolet,44,11878,crash,0,16
+2015,C,2015_Lucas_Oil_150,29,31,74,usa,Jordan_Anderson,Jordan Anderson,Mike Harmon Racing,Mike_Harmon,Chevrolet,36,11768,engine,0,15
+2015,C,2015_Lucas_Oil_150,30,30,08,usa,Korbin_Forrister,Korbin Forrister,Tilted Kilt,Christopher_Long,Chevrolet,15,11268,crash,0,14
+2015,C,2015_Lucas_Oil_150,31,5,9,usa,William_Byron,William Byron,Liberty University,Kyle_Busch,Toyota,6,9768,crash,0,13
+2015,C,2015_Lucas_Oil_150,32,7,33,usa,Brandon_Jones,Brandon Jones,Lucas Oil,Maury_Gallagher,Chevrolet,6,8768,crash,0,12
+2015,C,2015_Ford_EcoBoost_200,1,1,88,usa,Matt_Crafton,Matt Crafton,Ideal Door / Menards,Duke_Thorson,Toyota,134,53598,running,93,48
+2015,C,2015_Ford_EcoBoost_200,2,2,8,usa,John_Hunter_Nemechek,John Hunter Nemechek,NEMCO Motorsports,Joe_Nemechek,Chevrolet,134,32308,running,24,43
+2015,C,2015_Ford_EcoBoost_200,3,4,19,usa,Tyler_Reddick,Tyler Reddick,BBR / Stoney Creek Records,Brad_Keselowski,Ford,134,30084,running,1,42
+2015,C,2015_Ford_EcoBoost_200,4,3,11,usa,Ben_Kennedy,Ben Kennedy,Florida Lottery,Tom_DeLoach,Toyota,134,25597,running,0,40
+2015,C,2015_Ford_EcoBoost_200,5,12,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,134,22449,running,0,39
+2015,C,2015_Ford_EcoBoost_200,6,5,4,usa,Erik_Jones,Erik Jones,Toyota,Kyle_Busch,Toyota,134,20382,running,0,38
+2015,C,2015_Ford_EcoBoost_200,7,10,98,usa,Johnny_Sauter,Johnny Sauter,Nextant Aerospace / Curb Records,Mike_Curb,Toyota,134,20164,running,0,37
+2015,C,2015_Ford_EcoBoost_200,8,7,14,usa,Daniel_Hemric,Daniel Hemric,California Clean Power,Bob_Newberry,Chevrolet,134,19945,running,0,36
+2015,C,2015_Ford_EcoBoost_200,9,11,13,canada,Cameron_Hayley,Cameron Hayley,Mattei,Duke_Thorson,Toyota,134,19727,running,0,35
+2015,C,2015_Ford_EcoBoost_200,10,13,05,usa,John_Wes_Townley,John Wes Townley,Zaxby's,Tony_Townley,Chevrolet,134,20458,running,1,35
+2015,C,2015_Ford_EcoBoost_200,11,8,23,usa,Spencer_Gallagher,Spencer Gallagher,Allegiant Travel,Maury_Gallagher,Chevrolet,134,19399,running,0,33
+2015,C,2015_Ford_EcoBoost_200,12,18,29,usa,Austin_Theriault,Austin Theriault,Cooper Standard,Brad_Keselowski,Ford,134,19206,running,0,32
+2015,C,2015_Ford_EcoBoost_200,13,14,31,usa,Rico_Abreu,Rico Abreu,GunBroker.com,Bob_Newberry,Chevrolet,134,19070,running,0,31
+2015,C,2015_Ford_EcoBoost_200,14,19,97,usa,Jesse_Little,Jesse Little,Protect The Harvest,Jason_Little,Toyota,134,16710,running,0,30
+2015,C,2015_Ford_EcoBoost_200,15,16,0,usa,Scott_Lagasse_Jr,"Scott Lagasse, Jr.",Florida DOT / Boy Scouts of America,Bob_Newberry,Chevrolet,134,17201,running,0,0
+2015,C,2015_Ford_EcoBoost_200,16,15,92,usa,David_Gilliland,David Gilliland,Black's Tire & Wheel Distributors,Ricky_Benton,Ford,133,16464,running,0,0
+2015,C,2015_Ford_EcoBoost_200,17,22,59,usa,David_Levine,David Levine,Furman Univ. / Roush-Yates Engines / Momo,Carlos_Lira,Ford,133,16355,running,0,27
+2015,C,2015_Ford_EcoBoost_200,18,27,07,usa,Ray_Black_Jr,"Ray Black, Jr.",ScubaLife.com / NASE Worldwide,Bobby_Dotter,Chevrolet,133,18496,running,0,26
+2015,C,2015_Ford_EcoBoost_200,19,23,02,usa,Tyler_Young,Tyler Young,Arthur-Krenzel-Lett Insurance Group,Randy_Young,Chevrolet,133,18386,running,0,25
+2015,C,2015_Ford_EcoBoost_200,20,20,15,usa,Mason_Mingus,Mason Mingus,Billy Boat Motorsports,Billy_Boat,Chevrolet,132,18755,running,0,24
+2015,C,2015_Ford_EcoBoost_200,21,25,94,usa,Timmy_Hill,Timmy Hill,Testoril,Jay_Robinson,Chevrolet,132,18032,running,0,23
+2015,C,2015_Ford_EcoBoost_200,22,28,50,usa,Travis_Kvapil,Travis Kvapil,CorvetteParts.net,Mark_Beaver,Chevrolet,132,17758,running,0,22
+2015,C,2015_Ford_EcoBoost_200,23,21,58,usa,Kyle_Weatherman,Kyle Weatherman,LifeXist / Massage Luxe,Carlos_Lira,Ford,131,15372,running,0,21
+2015,C,2015_Ford_EcoBoost_200,24,32,1,canada,Dexter_Stacey,Dexter Stacey,MaddiesPlaceRocks.com,Mark_Beaver,Chevrolet,131,16044,running,0,20
+2015,C,2015_Ford_EcoBoost_200,25,9,54,usa,Christopher_Bell,Christopher Bell,JBL.com,Kyle_Busch,Toyota,130,15976,out of fuel,5,20
+2015,C,2015_Ford_EcoBoost_200,26,24,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,UTA.org / Grimes Irrigation & Construction,Jennifer_Jo_Cobb,Chevrolet,128,14607,running,0,18
+2015,C,2015_Ford_EcoBoost_200,27,31,08,usa,Korbin_Forrister,Korbin Forrister,Tilted Kilt,Christopher_Long,Chevrolet,127,14389,running,0,17
+2015,C,2015_Ford_EcoBoost_200,28,29,63,usa,Garrett_Smithley,Garrett Smithley,Nimitz,Mike_Mittler,Chevrolet,126,12799,running,0,16
+2015,C,2015_Ford_EcoBoost_200,29,30,74,usa,Jordan_Anderson,Jordan Anderson,"Simmons & White / Columbia, SC",Mike_Harmon,Chevrolet,115,12553,running,0,15
+2015,C,2015_Ford_EcoBoost_200,30,6,51,mexico,Daniel_Suarez,Daniel Suarez,Arris,Kyle_Busch,Toyota,84,11553,crash,10,0
+2015,C,2015_Ford_EcoBoost_200,31,17,33,usa,Brandon_Jones,Brandon Jones,Lucas Oil,Maury_Gallagher,Chevrolet,67,11053,crash,0,13
+2015,C,2015_Ford_EcoBoost_200,32,26,86,usa,Brandon_Brown,Brandon Brown,Coastal Carolina University,Jerry_Brown,Chevrolet,2,9553,transmission,0,12

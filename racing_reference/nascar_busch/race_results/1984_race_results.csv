@@ -1,0 +1,824 @@
+season,series_id,race_id,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
+1984,B,1984_Goody%27s_300,1,12,17,usa,Darrell_Waltrip,Darrell Waltrip,Hodgdon / Curb,Darrell_Waltrip,Pontiac,120,18060,running,3,180
+1984,B,1984_Goody%27s_300,2,13,83,usa,Lake_Speed,Lake Speed,Bull Frog Knits,Lake_Speed,Pontiac,120,11395,running,15,170
+1984,B,1984_Goody%27s_300,3,5,15,usa,Geoffrey_Bodine,Geoffrey Bodine,Hendrick Honda,Rick_Hendrick,Pontiac,120,9710,running,5,165
+1984,B,1984_Goody%27s_300,4,2,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,120,22675,running,57,160
+1984,B,1984_Goody%27s_300,5,8,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Alan_Dillard_Jr.,Oldsmobile,120,6850,running,24,155
+1984,B,1984_Goody%27s_300,6,6,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Pontiac,119,6150,running,0,150
+1984,B,1984_Goody%27s_300,7,7,3,usa,Mike_Porter,Mike Porter,Wendy's Hamburgers,,Pontiac,118,4850,running,0,146
+1984,B,1984_Goody%27s_300,8,1,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Pontiac,118,4450,running,0,142
+1984,B,1984_Goody%27s_300,9,4,28,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Johnny_Hayes,Pontiac,117,9175,running,0,138
+1984,B,1984_Goody%27s_300,10,19,29,usa,Joe_Thurman,Joe Thurman,Longwood Restaurant,Chubby_Arrington,Dodge,117,11400,running,0,134
+1984,B,1984_Goody%27s_300,11,36,80,usa,Dick_McCabe,Dick McCabe,Moore Racing,,Pontiac,117,3280,running,0,130
+1984,B,1984_Goody%27s_300,12,26,27,usa,Sammy_Swindell,Sammy Swindell,Old Milwaukee,Raymond_Beadle,Pontiac,116,3080,running,0,0
+1984,B,1984_Goody%27s_300,13,32,76,usa,Junior_Niedecken,Junior Niedecken,Sims Brothers Construction,Sims_Brothers,Pontiac,116,2955,running,0,124
+1984,B,1984_Goody%27s_300,14,9,26,usa,Merv_Treichler,Merv Treichler,Jackson & Johnson,Merv_Treichler,Oldsmobile,115,2655,running,0,121
+1984,B,1984_Goody%27s_300,15,23,14,usa,Ronnie_Silver,Ronnie Silver,Banner House Handbags,Ronnie_Silver,Oldsmobile,114,8780,running,0,118
+1984,B,1984_Goody%27s_300,16,24,02,usa,Kirk_Bryant,Kirk Bryant,Pierce Racing,,Pontiac,113,2430,running,0,115
+1984,B,1984_Goody%27s_300,17,28,48,usa,Carl_Williford,Carl Williford,Williford Prod. Builders,,Pontiac,113,2380,running,0,112
+1984,B,1984_Goody%27s_300,18,20,32,usa,Dale_Jarrett,Dale Jarrett,Econo Lodge,Horace_Isenhower,Pontiac,112,7730,running,0,109
+1984,B,1984_Goody%27s_300,19,34,73,usa,Robbie_Crouch,Robbie Crouch,New England Air Systems,Len_Boehler,Pontiac,96,2305,running,0,106
+1984,B,1984_Goody%27s_300,20,31,70,usa,Bosco_Lowe,Bosco Lowe,Steward Olds-Pontiac,Edgar_Ryder,Pontiac,94,6830,valve,0,103
+1984,B,1984_Goody%27s_300,21,27,79,usa,Bob_Shreeves,Bob Shreeves,Stateline Sunoco,Harry_Lee_Hill,Pontiac,91,6080,running,0,100
+1984,B,1984_Goody%27s_300,22,11,89,usa,Neil_Bonnett,Neil Bonnett,Hodgdon,,Oldsmobile,85,2530,engine,4,97
+1984,B,1984_Goody%27s_300,23,29,33,usa,George_Dalton,George Dalton,Precision Eng. Service,,Oldsmobile,80,1980,rear end,0,94
+1984,B,1984_Goody%27s_300,24,33,65,usa,Ken_Bouchard,Ken Bouchard,Ed's Auto Machine,M.J._Sullivan,Pontiac,68,1980,overheating,0,91
+1984,B,1984_Goody%27s_300,25,38,90,usa,Mark_Gibson,Mark Gibson,Kokomo Kit Car / Don's Automotive,Mark_Gibson,Pontiac,66,1880,oil pump,0,88
+1984,B,1984_Goody%27s_300,26,14,47,usa,Ron_Bouchard,Ron Bouchard,DuBee Racing,Jack_Beebe,Pontiac,58,2230,engine,12,85
+1984,B,1984_Goody%27s_300,27,25,62,usa,John_Linville,John Linville,Flow Dynamics,John_Linville,Pontiac,43,4880,engine,0,0
+1984,B,1984_Goody%27s_300,28,16,23,usa,Davey_Allison,Davey Allison,Miller High Life,Bobby_Allison,Pontiac,37,2230,transmission,0,79
+1984,B,1984_Goody%27s_300,29,39,19,usa,Bob_Park,Bob Park,West Hartford Tool & Die,,Pontiac,35,1580,engine,0,76
+1984,B,1984_Goody%27s_300,30,21,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving,Mike_Day,Oldsmobile,35,6455,transmission,0,73
+1984,B,1984_Goody%27s_300,31,40,09,canada,Francis_Affleck,Francis Affleck,Caspro,,Mercury,20,1530,oil pressure,0,70
+1984,B,1984_Goody%27s_300,32,30,93,usa,Connie_Saylor,Connie Saylor,Bunton Chevrolet,,Pontiac,19,1505,fuel pump,0,67
+1984,B,1984_Goody%27s_300,33,35,50,usa,Jimmy_Hensley,Jimmy Hensley,Cox Racing,Marion_Cox,Mercury,17,4580,oil pressure,0,64
+1984,B,1984_Goody%27s_300,34,17,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Oldsmobile,13,5780,engine,0,61
+1984,B,1984_Goody%27s_300,35,22,12,usa,Tommy_Ellis,Tommy Ellis,Thomas Brothers Country Ham,,Oldsmobile,13,4780,overheating,0,58
+1984,B,1984_Goody%27s_300,36,15,46,usa,Larry_Hoopaugh,Larry Hoopaugh,Hoopaugh Grading,,Pontiac,5,1370,tie rod,0,55
+1984,B,1984_Goody%27s_300,37,10,7,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Ed_Whitaker,Oldsmobile,3,1860,engine,0,52
+1984,B,1984_Goody%27s_300,38,3,24,usa,Glenn_Jarrett,Glenn Jarrett,Komfort Koach / Hindman Music,Marvin_Thackston,Ford,3,1800,crash,0,49
+1984,B,1984_Goody%27s_300,39,18,84,usa,Mike_Alexander,Mike Alexander,Action Vans,Mike_Alexander,Pontiac,3,1390,crash,0,46
+1984,B,1984_Goody%27s_300,40,37,72,usa,Tommy_Hilbert,Tommy Hilbert,Hilbert Racing,Tommy_Hilbert,Oldsmobile,1,1330,vibration,0,43
+1984,B,1984_Wrangler_150,1,3,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,150,7450,running,138,180
+1984,B,1984_Wrangler_150,2,2,32,usa,Dale_Jarrett,Dale Jarrett,Econo Lodge,Horace_Isenhower,Pontiac,150,2800,running,0,170
+1984,B,1984_Wrangler_150,3,6,7,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Ed_Whitaker,Oldsmobile,150,1800,running,0,165
+1984,B,1984_Wrangler_150,4,14,49,usa,Wayne_Patterson,Wayne Patterson,Lowe's / Colonial Tire,,Pontiac,150,1200,running,0,160
+1984,B,1984_Wrangler_150,5,4,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Pontiac,150,2500,running,0,155
+1984,B,1984_Wrangler_150,6,18,27,usa,Bosco_Lowe,Bosco Lowe,Ryder's Floor Store,Edgar_Ryder,Pontiac,150,1100,running,0,150
+1984,B,1984_Wrangler_150,7,12,02,usa,Elton_Sawyer,Elton Sawyer,Great Bridge,Elton_Sawyer,Pontiac,149,725,running,0,146
+1984,B,1984_Wrangler_150,8,16,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving,Mike_Day,Chevrolet,149,1975,running,0,142
+1984,B,1984_Wrangler_150,9,13,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Pontiac,148,625,running,0,138
+1984,B,1984_Wrangler_150,10,10,2,usa,Jeff_Hensley,Jeff Hensley,Smith-Davis Tires,,Pontiac,148,975,running,0,134
+1984,B,1984_Wrangler_150,11,9,04,usa,Eddie_Falk,Eddie Falk,Pabst / Godfather's Pizza,Eddie_Falk,Pontiac,148,825,running,0,130
+1984,B,1984_Wrangler_150,12,15,16,usa,Jimmy_Lawson,Jimmy Lawson,Lawson-Fitzgerald Garage,,Pontiac,146,800,running,0,127
+1984,B,1984_Wrangler_150,13,7,95,usa,Bubba_Nissen,Bubba Nissen,Nissen Racing,,Pontiac,146,450,running,0,124
+1984,B,1984_Wrangler_150,14,24,62,usa,John_Linville,John Linville,Flow Dynamics,John_Linville,Pontiac,143,725,running,0,121
+1984,B,1984_Wrangler_150,15,1,12,usa,Tommy_Ellis,Tommy Ellis,Ellis Racing,Marilyn_Smith,Pontiac,95,1750,ball joint,12,118
+1984,B,1984_Wrangler_150,16,17,99,usa,Rick_Mast,Rick Mast,Nelson Building Supply,Boyd_Nelson,Pontiac,91,675,engine,0,115
+1984,B,1984_Wrangler_150,17,22,9,usa,Bob_Shreeves,Bob Shreeves,S & S Racing,Bob_Shreeves,Pontiac,60,670,engine,0,112
+1984,B,1984_Wrangler_150,18,19,73,usa,Billy_Hogan,Billy Hogan,Freeman's Garage,,Chevrolet,39,365,rear end,0,0
+1984,B,1984_Wrangler_150,19,11,45,usa,Charlie_Luck,Charlie Luck,Luck Stone / Dryden Oil,Charlie_Luck,Pontiac,38,660,crash,0,106
+1984,B,1984_Wrangler_150,20,21,30,usa,Bubba_Adams,Bubba Adams,Corning Inn,,Pontiac,38,355,crash,0,0
+1984,B,1984_Wrangler_150,21,5,51,usa,Robert_Ingram,Robert Ingram,Hall Pontiac,,Pontiac,30,650,engine,0,100
+1984,B,1984_Wrangler_150,22,23,0,usa,Allen_Applegate,Allen Applegate,Applegate Racing,,Chevrolet,28,345,oil leak,0,97
+1984,B,1984_Wrangler_150,23,20,50,usa,Al_Hylton,Al Hylton,Deeth Chassis,,Ford,27,340,engine,0,0
+1984,B,1984_Wrangler_150,24,8,88,usa,Jay_Hedgecock,Jay Hedgecock,SSI Racing,,Pontiac,2,335,engine,0,91
+1984,B,1984_Komfort_Koach_200_%28March%29,1,1,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,197,11100,running,178,180
+1984,B,1984_Komfort_Koach_200_%28March%29,2,2,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Oldsmobile,197,6875,running,12,170
+1984,B,1984_Komfort_Koach_200_%28March%29,3,4,47,usa,Ron_Bouchard,Ron Bouchard,DuFour Racing,Jack_Beebe,Pontiac,196,3575,running,0,165
+1984,B,1984_Komfort_Koach_200_%28March%29,4,6,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Pontiac,196,2550,running,0,160
+1984,B,1984_Komfort_Koach_200_%28March%29,5,11,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving / Valvoline,Mike_Day,Oldsmobile,196,4000,running,0,155
+1984,B,1984_Komfort_Koach_200_%28March%29,6,7,23,usa,Davey_Allison,Davey Allison,Miller High Life,Bobby_Allison,Pontiac,196,1700,running,0,150
+1984,B,1984_Komfort_Koach_200_%28March%29,7,22,7,usa,Morgan_Shepherd,Morgan Shepherd,Shepherd Racing,Ed_Whitaker,Oldsmobile,196,1700,running,0,146
+1984,B,1984_Komfort_Koach_200_%28March%29,8,23,70,usa,Bosco_Lowe,Bosco Lowe,Stewart,Edgar_Ryder,Oldsmobile,194,1500,running,7,142
+1984,B,1984_Komfort_Koach_200_%28March%29,9,12,46,usa,Larry_Hoopaugh,Larry Hoopaugh,Hoopaugh Grading,,Pontiac,194,900,running,0,138
+1984,B,1984_Komfort_Koach_200_%28March%29,10,14,14,usa,Ronnie_Silver,Ronnie Silver,Banner House Handbags,Ronnie_Silver,Oldsmobile,194,1375,running,0,134
+1984,B,1984_Komfort_Koach_200_%28March%29,11,15,43,usa,Kenny_Burks,Kenny Burks,Jones Texaco,,Oldsmobile,191,770,running,0,130
+1984,B,1984_Komfort_Koach_200_%28March%29,12,17,29,usa,Joe_Thurman,Joe Thurman,Longwood Restaurant,Chubby_Arrington,Dodge,191,1150,running,0,127
+1984,B,1984_Komfort_Koach_200_%28March%29,13,9,34,usa,Joe_Kelly_(2),Joe Kelly,Kelly Builders,Joe_Kelly,Pontiac,190,725,running,0,124
+1984,B,1984_Komfort_Koach_200_%28March%29,14,16,76,usa,Junior_Niedecken,Junior Niedecken,Sims Brothers Construction,Sims_Brothers,Pontiac,190,700,running,0,121
+1984,B,1984_Komfort_Koach_200_%28March%29,15,18,02,usa,Kirk_Bryant,Kirk Bryant,Pierce Racing,,Pontiac,190,675,running,0,118
+1984,B,1984_Komfort_Koach_200_%28March%29,16,5,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Pontiac,188,650,running,0,115
+1984,B,1984_Komfort_Koach_200_%28March%29,17,25,45,usa,Charlie_Luck,Charlie Luck,Luck Stone / Dryden Oil,Charlie_Luck,Pontiac,187,100,running,0,112
+1984,B,1984_Komfort_Koach_200_%28March%29,18,34,3,usa,Mike_Porter,Mike Porter,Wendy's,,Pontiac,180,575,crash,0,109
+1984,B,1984_Komfort_Koach_200_%28March%29,19,19,95,usa,Bubba_Nissen,Bubba Nissen,Nissen Racing,,Pontiac,173,550,running,0,106
+1984,B,1984_Komfort_Koach_200_%28March%29,20,10,32,usa,Dale_Jarrett,Dale Jarrett,Econo Lodge / Budweiser,Horace_Isenhower,Pontiac,170,925,running,0,103
+1984,B,1984_Komfort_Koach_200_%28March%29,21,33,09,canada,Francis_Affleck,Francis Affleck,Caspro Racing,,Mercury,158,450,running,0,0
+1984,B,1984_Komfort_Koach_200_%28March%29,22,29,73,usa,Billy_Hogan,Billy Hogan,Hogan Racing,,Chevrolet,154,425,running,0,97
+1984,B,1984_Komfort_Koach_200_%28March%29,23,20,61,usa,Glenn_Sears,Glenn Sears,Almay,,Pontiac,153,420,running,0,94
+1984,B,1984_Komfort_Koach_200_%28March%29,24,3,15,usa,Geoffrey_Bodine,Geoffrey Bodine,Hendrick Honda,Rick_Hendrick,Pontiac,147,415,oil leak,0,91
+1984,B,1984_Komfort_Koach_200_%28March%29,25,28,2,usa,Tom_Usry,Tom Usry,Thomas Brothers Country Ham,,Oldsmobile,104,410,engine,0,0
+1984,B,1984_Komfort_Koach_200_%28March%29,26,24,62,usa,John_Linville,John Linville,Flow Dynamics,John_Linville,Pontiac,96,805,crash,0,85
+1984,B,1984_Komfort_Koach_200_%28March%29,27,21,12,usa,Tommy_Ellis,Tommy Ellis,Ellis Racing,Marilyn_Smith,Pontiac,85,2300,head gasket,0,82
+1984,B,1984_Komfort_Koach_200_%28March%29,28,26,39,usa,Mitchell_Clark,Mitchell Clark,Beauregard's,,Pontiac,63,395,head gasket,0,79
+1984,B,1984_Komfort_Koach_200_%28March%29,29,27,79,usa,Bob_Shreeves,Bob Shreeves,Hill Enterprises,Harry_Lee_Hill,Pontiac,43,790,oil leak,0,76
+1984,B,1984_Komfort_Koach_200_%28March%29,30,31,82,usa,Larry_Walker,Larry Walker,Archdale Upholstery,Larry_Walker,Pontiac,33,385,engine,0,0
+1984,B,1984_Komfort_Koach_200_%28March%29,31,30,97,usa,Harry_Lee_Hill,Harry Lee Hill,Harry Lee Hill,Harry_Lee_Hill,Pontiac,25,380,valve,0,70
+1984,B,1984_Komfort_Koach_200_%28March%29,32,13,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Alan_Dillard_Jr.,Oldsmobile,24,375,ignition,0,67
+1984,B,1984_Komfort_Koach_200_%28March%29,33,8,24,usa,Glenn_Jarrett,Glenn Jarrett,Komfort Koach / Budweiser,Marvin_Thackston,Ford,15,760,crash,0,64
+1984,B,1984_Komfort_Koach_200_%28March%29,34,32,31,usa,Ed_Baugess,Ed Baugess,Setzer,,Chevrolet,10,355,engine,0,61
+1984,B,1984_Komfort_Koach_200_%28March%29,35,35,05,usa,Billy_Myers_(2),Billy Myers,Adkins Service Center,,Pontiac,6,350,engine,0,58
+1984,B,1984_Komfort_Koach_200_%28March%29,36,36,91,usa,Danny_Weese,Danny Weese,Weese Racing,,Pontiac,4,350,ignition,0,55
+1984,B,1984_Mountain_Dew_200,1,3,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Pontiac,200,3410,running,169,180
+1984,B,1984_Mountain_Dew_200,2,2,6,usa,Tommy_Houston,Tommy Houston,Enterprise Chevy,Mike_Day,Chevrolet,200,2800,running,0,170
+1984,B,1984_Mountain_Dew_200,3,5,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,200,2680,running,0,165
+1984,B,1984_Mountain_Dew_200,4,7,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Pontiac,200,1010,running,0,160
+1984,B,1984_Mountain_Dew_200,5,8,27,usa,Bosco_Lowe,Bosco Lowe,Lowe Racing,Edgar_Ryder,Pontiac,199,1150,running,0,155
+1984,B,1984_Mountain_Dew_200,6,1,12,usa,Tommy_Ellis,Tommy Ellis,Ellis Racing,Marilyn_Smith,Pontiac,199,2200,running,31,150
+1984,B,1984_Mountain_Dew_200,7,4,32,usa,Dale_Jarrett,Dale Jarrett,Econo Lodge / Budweiser,Horace_Isenhower,Pontiac,199,1090,running,0,146
+1984,B,1984_Mountain_Dew_200,8,16,45,usa,Charlie_Luck,Charlie Luck,Luck Stone / Dryden Oil,Charlie_Luck,Pontiac,198,850,running,0,142
+1984,B,1984_Mountain_Dew_200,9,10,9,usa,Bob_Shreeves,Bob Shreeves,S & S Racing,Bob_Shreeves,Pontiac,198,930,running,0,138
+1984,B,1984_Mountain_Dew_200,10,11,16,usa,Jimmy_Lawson,Jimmy Lawson,Big Orange Market,,Pontiac,196,870,running,0,134
+1984,B,1984_Mountain_Dew_200,11,19,99,usa,Rick_Mast,Rick Mast,Nelson Building Supply,Boyd_Nelson,Pontiac,196,700,running,0,0
+1984,B,1984_Mountain_Dew_200,12,6,04,usa,Eddie_Falk,Eddie Falk,Pabst / Godfather's Pizza,Eddie_Falk,Pontiac,196,820,running,0,127
+1984,B,1984_Mountain_Dew_200,13,15,24,usa,Glenn_Jarrett,Glenn Jarrett,Thackston Racing,Marvin_Thackston,Ford,192,600,running,0,124
+1984,B,1984_Mountain_Dew_200,14,13,14,usa,Ronnie_Silver,Ronnie Silver,Arby's / Banner House Handbags,Ronnie_Silver,Pontiac,190,575,running,0,121
+1984,B,1984_Mountain_Dew_200,15,18,73,usa,Billy_Hogan,Billy Hogan,Hogan Racing,,Chevrolet,190,300,running,0,118
+1984,B,1984_Mountain_Dew_200,16,20,62,usa,John_Linville,John Linville,Flow Dynamics,John_Linville,Pontiac,185,520,running,0,115
+1984,B,1984_Mountain_Dew_200,17,17,85,usa,Joe_Thurman,Joe Thurman,Smith Racing,Lowe_Smith,Chevrolet,182,500,running,0,112
+1984,B,1984_Mountain_Dew_200,18,22,33,usa,George_Dalton,George Dalton,Dalton Automotive,,Pontiac,174,230,transmission,0,0
+1984,B,1984_Mountain_Dew_200,19,21,05,usa,Billy_Myers_(2),Billy Myers,Myers Racing,,Pontiac,174,225,crash,0,106
+1984,B,1984_Mountain_Dew_200,20,9,2,usa,Jeff_Hensley,Jeff Hensley,Ashby's Sheetmetal,,Pontiac,111,610,water pump,0,103
+1984,B,1984_Mountain_Dew_200,21,12,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Oldsmobile,81,325,rear end,0,100
+1984,B,1984_Mountain_Dew_200,22,14,95,usa,Bubba_Nissen,Bubba Nissen,Nissen Racing,,Pontiac,8,210,oil leak,0,97
+1984,B,1984_Miller_Time_250,1,7,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Pontiac,250,9000,running,47,180
+1984,B,1984_Miller_Time_250,2,3,32,usa,Dale_Jarrett,Dale Jarrett,Econo Lodge,Horace_Isenhower,Pontiac,250,4000,running,5,170
+1984,B,1984_Miller_Time_250,3,14,07,usa,Dickie_Boswell,Dickie Boswell,Bob Banning,,Pontiac,250,3275,running,108,0
+1984,B,1984_Miller_Time_250,4,13,45,usa,Charlie_Luck,Charlie Luck,Luck Stone / Advance Auto,Charlie_Luck,Pontiac,249,1775,running,0,0
+1984,B,1984_Miller_Time_250,5,18,02,usa,Elton_Sawyer,Elton Sawyer,Benefit Development,Elton_Sawyer,Pontiac,249,1340,running,0,155
+1984,B,1984_Miller_Time_250,6,17,51,usa,Robert_Ingram,Robert Ingram,Hall Pontiac,,Pontiac,249,1540,running,0,150
+1984,B,1984_Miller_Time_250,7,9,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Pontiac,248,1100,running,0,146
+1984,B,1984_Miller_Time_250,8,19,38,usa,Brad_Teague,Brad Teague,Smoot's Body Shop,Brad_Teague,Pontiac,248,1090,running,0,0
+1984,B,1984_Miller_Time_250,9,2,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,248,3325,running,17,138
+1984,B,1984_Miller_Time_250,10,12,88,usa,Jay_Hedgecock,Jay Hedgecock,Service Specialties,,Pontiac,247,1325,running,0,134
+1984,B,1984_Miller_Time_250,11,8,16,usa,Jimmy_Lawson,Jimmy Lawson,Big Orange Market,,Pontiac,247,1280,running,0,130
+1984,B,1984_Miller_Time_250,12,24,60,usa,Ed_Berrier,Ed Berrier,Berrier Racing,Max_Berrier,Oldsmobile,245,985,running,0,127
+1984,B,1984_Miller_Time_250,13,15,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Oldsmobile,244,990,running,0,124
+1984,B,1984_Miller_Time_250,14,22,43,usa,Dickie_Linville,Dickie Linville,C.J. Enterprises,,Pontiac,243,950,running,0,121
+1984,B,1984_Miller_Time_250,15,27,24,usa,Glenn_Jarrett,Glenn Jarrett,Thackston Racing,Marvin_Thackston,Ford,237,1225,running,0,118
+1984,B,1984_Miller_Time_250,16,26,86,usa,Jackie_Carithers,Jackie Carithers,Harris Buick,,Buick,231,905,running,0,115
+1984,B,1984_Miller_Time_250,17,31,9,usa,Bob_Shreeves,Bob Shreeves,S & S Racing,Bob_Shreeves,Pontiac,228,1185,running,0,112
+1984,B,1984_Miller_Time_250,18,4,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving / Valvoline,Mike_Day,Chevrolet,221,2140,rear end,0,109
+1984,B,1984_Miller_Time_250,19,23,73,usa,Billy_Hogan,Billy Hogan,Freeman's Garage,,Chevrolet,221,845,running,0,106
+1984,B,1984_Miller_Time_250,20,28,14,usa,Ronnie_Silver,Ronnie Silver,Banner House Handbags,Ronnie_Silver,Pontiac,217,1125,running,0,103
+1984,B,1984_Miller_Time_250,21,16,3,usa,Mike_Porter,Mike Porter,Cole Enterprises,,Pontiac,216,830,crash,0,100
+1984,B,1984_Miller_Time_250,22,25,4,usa,Joe_Thurman,Joe Thurman,Thurman Enterprises,Joe_Thurman,Pontiac,199,1085,running,0,97
+1984,B,1984_Miller_Time_250,23,29,30,usa,Bubba_Adams,Bubba Adams,RC Cola,,Pontiac,189,765,engine,0,0
+1984,B,1984_Miller_Time_250,24,10,04,usa,Eddie_Falk,Eddie Falk,Pabst / Godfather's Pizza,Eddie_Falk,Pontiac,134,1020,sway bar,0,91
+1984,B,1984_Miller_Time_250,25,30,99,usa,Rick_Mast,Rick Mast,Nelson Building Supply,Boyd_Nelson,Pontiac,131,1025,ignition,0,88
+1984,B,1984_Miller_Time_250,26,20,49,usa,Wayne_Patterson,Wayne Patterson,Lowe's / Colonial Tire,,Pontiac,123,710,engine,0,85
+1984,B,1984_Miller_Time_250,27,5,1,usa,Morgan_Shepherd,Morgan Shepherd,Food Country USA,Lindy_White,Pontiac,111,960,brakes,26,82
+1984,B,1984_Miller_Time_250,28,6,2,usa,Jeff_Hensley,Jeff Hensley,Kopy King,,Pontiac,93,940,steering,0,79
+1984,B,1984_Miller_Time_250,29,1,12,usa,Tommy_Ellis,Tommy Ellis,Hoehns & Eanes,Marilyn_Smith,Pontiac,57,2370,steering,47,76
+1984,B,1984_Miller_Time_250,30,11,27,usa,Bosco_Lowe,Bosco Lowe,Ryder's Floor Store,Edgar_Ryder,Pontiac,54,975,engine,0,73
+1984,B,1984_Miller_Time_250,31,21,19,usa,Diane_Teel,Diane Teel,Steve's Radiator Service,,Pontiac,52,630,overheating,0,70
+1984,B,1984_Miller_Time_250,32,32,41,usa,Jack_Bland,Jack Bland,Henderson Drywall,,Pontiac,29,925,overheating,0,67
+1984,B,1984_Dixie_Cup_200,1,1,47,usa,Ron_Bouchard,Ron Bouchard,DuBee Racing,Jack_Beebe,Pontiac,147,8970,running,21,180
+1984,B,1984_Dixie_Cup_200,2,6,15,usa,Geoffrey_Bodine,Geoffrey Bodine,Northwestern Securities,Rick_Hendrick,Chevrolet,147,5295,running,17,170
+1984,B,1984_Dixie_Cup_200,3,8,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Alan_Dillard_Jr.,Oldsmobile,147,3895,running,23,165
+1984,B,1984_Dixie_Cup_200,4,4,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,147,6020,running,68,160
+1984,B,1984_Dixie_Cup_200,5,3,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Oldsmobile,147,4570,running,1,155
+1984,B,1984_Dixie_Cup_200,6,12,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving / Valvoline,Mike_Day,Oldsmobile,147,4070,running,1,150
+1984,B,1984_Dixie_Cup_200,7,13,32,usa,Dale_Jarrett,Dale Jarrett,Econo Lodge / Budweiser,Horace_Isenhower,Buick,147,2120,running,0,146
+1984,B,1984_Dixie_Cup_200,8,15,45,usa,Charlie_Luck,Charlie Luck,Luck Stone / Dryden Oil,Charlie_Luck,Pontiac,147,1880,running,0,142
+1984,B,1984_Dixie_Cup_200,9,25,76,usa,Junior_Niedecken,Junior Niedecken,Sims Brothers Construction,Sims_Brothers,Pontiac,144,1245,running,0,138
+1984,B,1984_Dixie_Cup_200,10,9,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Pontiac,143,1670,running,3,134
+1984,B,1984_Dixie_Cup_200,11,29,48,usa,Carl_Williford,Carl Williford,Williford Prod. Builders,,Pontiac,143,840,running,0,130
+1984,B,1984_Dixie_Cup_200,12,22,63,usa,Jeff_Hensley,Jeff Hensley,Kopy King,Hubert_Hensley,Pontiac,141,1445,running,0,127
+1984,B,1984_Dixie_Cup_200,13,23,61,usa,Glenn_Sears,Glenn Sears,Almay Cosmetics,,Pontiac,141,795,running,0,124
+1984,B,1984_Dixie_Cup_200,14,32,97,usa,Harry_Lee_Hill,Harry Lee Hill,Hill Racing,Harry_Lee_Hill,Pontiac,140,770,running,0,121
+1984,B,1984_Dixie_Cup_200,15,16,12,usa,Tommy_Ellis,Tommy Ellis,Ellis Racing,Marilyn_Smith,Pontiac,139,2695,crash,0,118
+1984,B,1984_Dixie_Cup_200,16,20,14,usa,Ronnie_Silver,Ronnie Silver,Banner House Handbags,Ronnie_Silver,Oldsmobile,124,1320,crash,0,115
+1984,B,1984_Dixie_Cup_200,17,31,82,usa,Larry_Walker,Larry Walker,Archdale Upholstery,Larry_Walker,Pontiac,119,670,running,0,112
+1984,B,1984_Dixie_Cup_200,18,35,09,canada,Francis_Affleck,Francis Affleck,Caspro,,Mercury,112,645,engine,0,109
+1984,B,1984_Dixie_Cup_200,19,17,02,usa,Kirk_Bryant,Kirk Bryant,Pierce Racing,,Pontiac,108,620,transmission,0,106
+1984,B,1984_Dixie_Cup_200,20,27,39,usa,Mitchell_Clark,Mitchell Clark,Beauregard's,,Pontiac,102,595,oil pump,0,103
+1984,B,1984_Dixie_Cup_200,21,24,87,usa,Steve_Jarvis,Steve Jarvis,Foster & Hailey,Robbie_Lewis,Pontiac,101,500,push rod,0,100
+1984,B,1984_Dixie_Cup_200,22,19,70,usa,Bosco_Lowe,Bosco Lowe,Bailey / Temple,J.D._McDuffie,Pontiac,97,1050,engine,0,97
+1984,B,1984_Dixie_Cup_200,23,18,71,usa,Benny_Kerley,Benny Kerley,Maxie's Vending,,Pontiac,96,470,oil pressure,0,94
+1984,B,1984_Dixie_Cup_200,24,11,46,usa,Larry_Hoopaugh,Larry Hoopaugh,Hoopaugh Grading,,Pontiac,83,465,engine,0,91
+1984,B,1984_Dixie_Cup_200,25,5,83,usa,Lake_Speed,Lake Speed,Bull Frog Knits,Lake_Speed,Pontiac,82,460,crash,10,88
+1984,B,1984_Dixie_Cup_200,26,7,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Pontiac,71,1005,crash,0,85
+1984,B,1984_Dixie_Cup_200,27,14,24,usa,Glenn_Jarrett,Glenn Jarrett,D & D Motors,Marvin_Thackston,Ford,56,990,crash,0,82
+1984,B,1984_Dixie_Cup_200,28,28,73,usa,Billy_Hogan,Billy Hogan,Freeman's Garage,,Chevrolet,55,970,crash,0,79
+1984,B,1984_Dixie_Cup_200,29,30,62,usa,John_Linville,John Linville,Flow Dynamics,John_Linville,Pontiac,54,940,crash,0,76
+1984,B,1984_Dixie_Cup_200,30,21,29,usa,Joe_Thurman,Joe Thurman,Longwood Restaurant,Chubby_Arrington,Dodge,45,835,oil leak,0,73
+1984,B,1984_Dixie_Cup_200,31,2,7,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,Ed_Whitaker,Oldsmobile,25,430,crash,3,70
+1984,B,1984_Dixie_Cup_200,32,36,31,usa,Ed_Baugess,Ed Baugess,Baugess Racing,,Pontiac,12,425,ignition,0,67
+1984,B,1984_Dixie_Cup_200,33,26,60,usa,Ed_Berrier,Ed Berrier,Berrier Racing,Max_Berrier,Oldsmobile,11,410,valve,0,64
+1984,B,1984_Dixie_Cup_200,34,10,1,usa,Morgan_Shepherd,Morgan Shepherd,Food Country USA,Lindy_White,Oldsmobile,3,805,valve,0,0
+1984,B,1984_Dixie_Cup_200,35,33,90,usa,Jimmy_Hensley,Jimmy Hensley,Gibson Racing,Mark_Gibson,Pontiac,2,800,valve,0,58
+1984,B,1984_Dixie_Cup_200,36,34,91,usa,Bob_Shreeves,Bob Shreeves,S & S Racing,,Pontiac,2,1000,electrical,0,55
+1984,B,1984_Mason_Day_Paving_200,1,5,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Pontiac,200,3300,running,38,180
+1984,B,1984_Mason_Day_Paving_200,2,3,12,usa,Tommy_Ellis,Tommy Ellis,Corvette Center,Marilyn_Smith,Pontiac,200,2400,running,158,170
+1984,B,1984_Mason_Day_Paving_200,3,2,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,199,2500,running,2,165
+1984,B,1984_Mason_Day_Paving_200,4,4,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving / Valvoline,Mike_Day,Chevrolet,198,1850,running,0,160
+1984,B,1984_Mason_Day_Paving_200,5,16,14,usa,Ronnie_Silver,Ronnie Silver,Banner House Handbags,Ronnie_Silver,Pontiac,197,1000,running,0,155
+1984,B,1984_Mason_Day_Paving_200,6,21,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Pontiac,197,950,running,0,150
+1984,B,1984_Mason_Day_Paving_200,7,10,27,usa,Bosco_Lowe,Bosco Lowe,Ryder's Floor Store,Edgar_Ryder,Pontiac,196,900,running,1,146
+1984,B,1984_Mason_Day_Paving_200,8,1,32,usa,Dale_Jarrett,Dale Jarrett,Econo Lodge / Budweiser,Horace_Isenhower,Pontiac,196,950,running,1,142
+1984,B,1984_Mason_Day_Paving_200,9,19,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Oldsmobile,196,800,running,0,138
+1984,B,1984_Mason_Day_Paving_200,10,6,51,usa,Robert_Ingram,Robert Ingram,Hall Pontiac,,Pontiac,196,750,running,0,134
+1984,B,1984_Mason_Day_Paving_200,11,11,04,usa,Eddie_Falk,Eddie Falk,Pabst / Godfather's Pizza,Eddie_Falk,Pontiac,193,700,running,0,130
+1984,B,1984_Mason_Day_Paving_200,12,17,16,usa,Jimmy_Lawson,Jimmy Lawson,Big Orange Market,,Pontiac,192,650,running,0,127
+1984,B,1984_Mason_Day_Paving_200,13,8,45,usa,Charlie_Luck,Charlie Luck,Luck Stone / Dryden Oil,Charlie_Luck,Pontiac,192,600,running,0,124
+1984,B,1984_Mason_Day_Paving_200,14,13,2,usa,Jeff_Hensley,Jeff Hensley,Kopy King,,Pontiac,192,575,running,0,121
+1984,B,1984_Mason_Day_Paving_200,15,7,88,usa,Jay_Hedgecock,Jay Hedgecock,Service Specialties,,Pontiac,190,300,running,0,118
+1984,B,1984_Mason_Day_Paving_200,16,23,24,usa,Glenn_Jarrett,Glenn Jarrett,Thackston Racing,Marvin_Thackston,Ford,185,520,running,0,115
+1984,B,1984_Mason_Day_Paving_200,17,22,60,usa,Ed_Berrier,Ed Berrier,Whitener Quarter Horses,Max_Berrier,Oldsmobile,184,250,running,0,112
+1984,B,1984_Mason_Day_Paving_200,18,25,73,usa,Billy_Hogan,Billy Hogan,Capel Rugs,,Chevrolet,181,480,running,0,109
+1984,B,1984_Mason_Day_Paving_200,19,24,43,usa,Dickie_Linville,Dickie Linville,Dennis Heating & Air Conditioning,,Pontiac,136,225,running,0,106
+1984,B,1984_Mason_Day_Paving_200,20,9,9,usa,Bob_Shreeves,Bob Shreeves,S & S Racing,Bob_Shreeves,Pontiac,88,470,engine,0,103
+1984,B,1984_Mason_Day_Paving_200,21,14,99,usa,Rick_Mast,Rick Mast,Nelson Building Supply,Boyd_Nelson,Pontiac,61,465,oil pressure,0,100
+1984,B,1984_Mason_Day_Paving_200,22,18,4,usa,Joe_Thurman,Joe Thurman,Thurman Enterprises,Joe_Thurman,Pontiac,35,460,suspension,0,97
+1984,B,1984_Mason_Day_Paving_200,23,12,1,usa,Morgan_Shepherd,Morgan Shepherd,Food Country USA,Lindy_White,Pontiac,34,455,water pump,0,94
+1984,B,1984_Mason_Day_Paving_200,24,20,41,usa,Jack_Bland,Jack Bland,Henderson Drywall,,Pontiac,16,450,engine,0,91
+1984,B,1984_Mason_Day_Paving_200,25,15,50,usa,Al_Hylton,Al Hylton,Hylton Racing,,Ford,5,200,engine,0,88
+1984,B,1984_Mason_Day_Paving_200,26,26,62,usa,John_Linville,John Linville,Flow Dynamics,John_Linville,Pontiac,0,450,handling,0,85
+1984,B,1984_Nashville_200,1,7,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Pontiac,200,4000,running,19,180
+1984,B,1984_Nashville_200,2,1,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,200,3100,running,77,170
+1984,B,1984_Nashville_200,3,2,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving / Valvoline,Mike_Day,Chevrolet,200,2450,running,49,165
+1984,B,1984_Nashville_200,4,5,27,usa,Bosco_Lowe,Bosco Lowe,Ryder's Floor Store,Edgar_Ryder,Pontiac,200,1250,running,52,160
+1984,B,1984_Nashville_200,5,3,38,usa,Brad_Teague,Brad Teague,Stihl Chainsaws,Brad_Teague,Pontiac,200,800,running,0,155
+1984,B,1984_Nashville_200,6,4,32,usa,Dale_Jarrett,Dale Jarrett,Econo Lodge / Budweiser,Horace_Isenhower,Pontiac,199,950,running,3,150
+1984,B,1984_Nashville_200,7,10,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Pontiac,198,900,running,0,146
+1984,B,1984_Nashville_200,8,17,24,usa,Glenn_Jarrett,Glenn Jarrett,Thackston Racing,Marvin_Thackston,Ford,198,850,running,0,142
+1984,B,1984_Nashville_200,9,11,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Oldsmobile,197,800,running,0,138
+1984,B,1984_Nashville_200,10,13,14,usa,Ronnie_Silver,Ronnie Silver,Banner House Handbags,Ronnie_Silver,Pontiac,197,750,running,0,134
+1984,B,1984_Nashville_200,11,16,99,usa,Rick_Mast,Rick Mast,Nelson Building Supply,Boyd_Nelson,Pontiac,197,700,running,0,130
+1984,B,1984_Nashville_200,12,12,2,usa,Jeff_Hensley,Jeff Hensley,Kopy King,,Pontiac,197,650,running,0,127
+1984,B,1984_Nashville_200,13,8,04,usa,Eddie_Falk,Eddie Falk,Pabst / Godfather's Pizza,Eddie_Falk,Pontiac,196,630,running,0,124
+1984,B,1984_Nashville_200,14,15,16,usa,Jimmy_Lawson,Jimmy Lawson,Big Orange Market,,Pontiac,195,610,running,0,121
+1984,B,1984_Nashville_200,15,14,45,usa,Charlie_Luck,Charlie Luck,Luck Stone / Dryden Oil,Charlie_Luck,Pontiac,194,590,running,0,118
+1984,B,1984_Nashville_200,16,18,71,usa,Billy_Hogan,Billy Hogan,Capel Rugs,,Chevrolet,188,570,running,0,115
+1984,B,1984_Nashville_200,17,20,05,usa,Billy_Myers_(2),Billy Myers,Adkins Service Center,,Pontiac,174,315,running,0,112
+1984,B,1984_Nashville_200,18,21,94,usa,Tony_Cunningham,Tony Cunningham,Moore Motors / Green's Amoco,,Pontiac,75,310,brakes,0,0
+1984,B,1984_Nashville_200,19,9,02,usa,Kirk_Bryant,Kirk Bryant,Steve's Calabash Seafood,,Pontiac,50,305,crash,0,106
+1984,B,1984_Nashville_200,20,19,0,usa,Allen_Applegate,Allen Applegate,Applegate Racing,,Chevrolet,43,300,oil leak,0,103
+1984,B,1984_Nashville_200,21,6,17,usa,Darrell_Waltrip,Darrell Waltrip,Hodgdon,Darrell_Waltrip,Pontiac,9,295,carburetor,0,0
+1984,B,1984_Hampton_200,1,5,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,200,4000,running,162,180
+1984,B,1984_Hampton_200,2,4,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Pontiac,200,2400,running,0,170
+1984,B,1984_Hampton_200,3,2,32,usa,Dale_Jarrett,Dale Jarrett,Econo Lodge / Budweiser,Horace_Isenhower,Pontiac,200,1250,running,0,165
+1984,B,1984_Hampton_200,4,9,07,usa,Dickie_Boswell,Dickie Boswell,Bob Banning,,Pontiac,199,1100,running,0,160
+1984,B,1984_Hampton_200,5,3,95,usa,Bubba_Nissen,Bubba Nissen,Nissen Racing,,Pontiac,199,750,running,0,155
+1984,B,1984_Hampton_200,6,8,51,usa,Robert_Ingram,Robert Ingram,Hall Pontiac,,Pontiac,199,950,running,0,150
+1984,B,1984_Hampton_200,7,19,14,usa,Ronnie_Silver,Ronnie Silver,Banner House Handbags,Ronnie_Silver,Pontiac,199,900,running,0,146
+1984,B,1984_Hampton_200,8,11,30,usa,Bubba_Adams,Bubba Adams,RC Cola,,Pontiac,198,600,running,0,142
+1984,B,1984_Hampton_200,9,15,0,usa,Elton_Sawyer,Elton Sawyer,Benefit Development,Elton_Sawyer,Pontiac,198,550,running,0,138
+1984,B,1984_Hampton_200,10,6,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving / Valvoline,Mike_Day,Chevrolet,197,1500,running,0,134
+1984,B,1984_Hampton_200,11,18,4,usa,Joe_Thurman,Joe Thurman,Thurman Enterprises,Joe_Thurman,Pontiac,195,700,running,0,130
+1984,B,1984_Hampton_200,12,1,04,usa,Eddie_Falk,Eddie Falk,Pabst / Godfather's Pizza,Eddie_Falk,Pontiac,195,650,running,38,127
+1984,B,1984_Hampton_200,13,22,43,usa,Dickie_Linville,Dickie Linville,C.J. Enterprises,,Pontiac,195,350,running,0,124
+1984,B,1984_Hampton_200,14,17,99,usa,Rick_Mast,Rick Mast,Nelson Building Supply,Boyd_Nelson,Pontiac,194,575,running,0,121
+1984,B,1984_Hampton_200,15,20,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Oldsmobile,189,550,running,0,118
+1984,B,1984_Hampton_200,16,23,73,usa,Billy_Hogan,Billy Hogan,Capel Rugs,,Chevrolet,186,520,running,0,115
+1984,B,1984_Hampton_200,17,24,02,usa,Kirk_Bryant,Kirk Bryant,Steve's Calabash Seafood,,Pontiac,184,500,running,0,112
+1984,B,1984_Hampton_200,18,7,88,usa,Jay_Hedgecock,Jay Hedgecock,Service Specialties,,Pontiac,155,230,transmission,0,109
+1984,B,1984_Hampton_200,19,13,9,usa,Bob_Shreeves,Bob Shreeves,S & S Racing,Bob_Shreeves,Pontiac,118,475,running,0,106
+1984,B,1984_Hampton_200,20,14,45,usa,Charlie_Luck,Charlie Luck,Luck Stone / Dryden Oil,Charlie_Luck,Pontiac,106,470,crash,0,103
+1984,B,1984_Hampton_200,21,21,16,usa,Jimmy_Lawson,Jimmy Lawson,Big Orange Market,,Pontiac,87,465,oil leak,0,100
+1984,B,1984_Hampton_200,22,16,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Pontiac,66,460,crash,0,97
+1984,B,1984_Hampton_200,23,10,2,usa,Jeff_Hensley,Jeff Hensley,Kopy King,,Pontiac,64,455,crash,0,94
+1984,B,1984_Hampton_200,24,12,41,usa,Jack_Bland,Jack Bland,Henderson Drywall,,Pontiac,48,200,crash,0,91
+1984,B,1984_Hampton_200,25,25,05,usa,Glenn_Jarrett,Glenn Jarrett,Adkins Service Center,,Pontiac,17,450,handling,0,88
+1984,B,1984_Red_Carpet_200,1,3,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,200,8400,running,153,180
+1984,B,1984_Red_Carpet_200,2,2,7,usa,Alan_Kulwicki,Alan Kulwicki,Hardee's,Ed_Whitaker,Oldsmobile,200,4000,running,43,170
+1984,B,1984_Red_Carpet_200,3,1,15,usa,Dick_Trickle,Dick Trickle,Hendrick Honda,Rick_Hendrick,Pontiac,199,3000,running,4,165
+1984,B,1984_Red_Carpet_200,4,15,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Alan_Dillard_Jr.,Oldsmobile,199,2200,running,0,160
+1984,B,1984_Red_Carpet_200,5,4,23,usa,Davey_Allison,Davey Allison,Miller High Life,Bobby_Allison,Pontiac,199,1750,running,0,155
+1984,B,1984_Red_Carpet_200,6,7,32,usa,Dale_Jarrett,Dale Jarrett,Budweiser / Econo Lodge,Horace_Isenhower,Pontiac,199,1900,running,0,150
+1984,B,1984_Red_Carpet_200,7,8,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving / Valvoline,Mike_Day,Chevrolet,198,3200,running,0,146
+1984,B,1984_Red_Carpet_200,8,10,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Pontiac,198,3100,running,0,142
+1984,B,1984_Red_Carpet_200,9,13,4,usa,Joe_Thurman,Joe Thurman,Thurman Enterprises,Joe_Thurman,Pontiac,196,1500,running,0,138
+1984,B,1984_Red_Carpet_200,10,16,60,usa,Ed_Berrier,Ed Berrier,Whitener Quarter Horses,Max_Berrier,Oldsmobile,196,1000,running,0,134
+1984,B,1984_Red_Carpet_200,11,12,35,usa,Bill_Venturini,Bill Venturini,Tru-Cut,Cathy_Venturini,Pontiac,195,900,running,0,0
+1984,B,1984_Red_Carpet_200,12,9,63,usa,Jeff_Hensley,Jeff Hensley,Kopy King,Hubert_Hensley,Pontiac,194,1250,running,0,127
+1984,B,1984_Red_Carpet_200,13,14,48,usa,Bob_Brevak,Bob Brevak,Race Glaze,Bob_Brevak,Pontiac,194,825,running,0,124
+1984,B,1984_Red_Carpet_200,14,19,07,usa,Dickie_Boswell,Dickie Boswell,Bob Banning,,Pontiac,193,800,running,0,0
+1984,B,1984_Red_Carpet_200,15,21,75,usa,Bob_Schacht,Bob Schacht,Test Tube,Bob_Schacht,Pontiac,187,750,engine,0,118
+1984,B,1984_Red_Carpet_200,16,18,01,usa,Charlie_Luck,Charlie Luck,Lombard Body & Paint,,Dodge,187,725,running,0,115
+1984,B,1984_Red_Carpet_200,17,17,24,usa,Glenn_Jarrett,Glenn Jarrett,Thackston Racing,Marvin_Thackston,Ford,172,1100,crash,0,112
+1984,B,1984_Red_Carpet_200,18,11,14,usa,Ronnie_Silver,Ronnie Silver,Banner House Handbags,Ronnie_Silver,Pontiac,172,1075,running,0,109
+1984,B,1984_Red_Carpet_200,19,6,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Oldsmobile,161,1050,engine,0,106
+1984,B,1984_Red_Carpet_200,20,25,82,usa,Fred_Zack,Fred Zack,Bingo Racing,,Chevrolet,150,625,running,0,0
+1984,B,1984_Red_Carpet_200,21,23,62,usa,John_Linville,John Linville,Flow Dynamics,John_Linville,Pontiac,133,1000,transmission,0,0
+1984,B,1984_Red_Carpet_200,22,26,71,usa,Michael_Marden,Michael Marden,Trailer Train,Michael_Marden,Pontiac,120,575,running,0,0
+1984,B,1984_Red_Carpet_200,23,5,95,usa,Bubba_Nissen,Bubba Nissen,Nissen Racing,,Pontiac,117,950,running,0,0
+1984,B,1984_Red_Carpet_200,24,24,05,usa,Billy_Myers_(2),Billy Myers,Adkins Service Center,,Pontiac,115,525,rear end,0,91
+1984,B,1984_Red_Carpet_200,25,20,17,usa,Darrell_Waltrip,Darrell Waltrip,Hodgdon,Darrell_Waltrip,Pontiac,43,500,crash,0,0
+1984,B,1984_Red_Carpet_200,26,22,43,usa,Dickie_Linville,Dickie Linville,C.J. Enterprises,,Pontiac,33,470,valve,0,0
+1984,B,1984_Budweiser_200,1,2,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,200,9300,running,155,180
+1984,B,1984_Budweiser_200,2,1,15,usa,Ron_Bouchard,Ron Bouchard,Hendrick Honda,Rick_Hendrick,Pontiac,200,4300,running,23,0
+1984,B,1984_Budweiser_200,3,3,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Oldsmobile,200,5075,running,2,165
+1984,B,1984_Budweiser_200,4,5,23,usa,Davey_Allison,Davey Allison,Miller High Life,Bobby_Allison,Pontiac,200,2600,running,4,160
+1984,B,1984_Budweiser_200,5,8,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving / Valvoline,Mike_Day,Oldsmobile,200,3900,running,0,155
+1984,B,1984_Budweiser_200,6,6,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Alan_Dillard_Jr.,Oldsmobile,199,1950,running,0,150
+1984,B,1984_Budweiser_200,7,11,95,usa,Bubba_Nissen,Bubba Nissen,Nissen Racing,,Pontiac,197,1700,running,0,146
+1984,B,1984_Budweiser_200,8,12,34,usa,Joe_Kelly_(2),Joe Kelly,Kelly Builders,Joe_Kelly,Pontiac,195,1200,running,0,142
+1984,B,1984_Budweiser_200,9,13,63,usa,Jeff_Hensley,Jeff Hensley,Flow Dynamics,Hubert_Hensley,Pontiac,190,1500,running,0,138
+1984,B,1984_Budweiser_200,10,18,79,usa,Bob_Shreeves,Bob Shreeves,Hill Racing,Harry_Lee_Hill,Pontiac,188,1500,running,0,134
+1984,B,1984_Budweiser_200,11,4,32,usa,Dale_Jarrett,Dale Jarrett,Budweiser / Econo Lodge,Horace_Isenhower,Buick,172,1300,water pump,10,130
+1984,B,1984_Budweiser_200,12,21,05,usa,Billy_Myers_(2),Billy Myers,Adkins Service Center,,Pontiac,172,875,running,0,127
+1984,B,1984_Budweiser_200,13,16,04,usa,Eddie_Falk,Eddie Falk,Pabst / Godfather's Pizza,Eddie_Falk,Pontiac,155,1250,transmission,0,124
+1984,B,1984_Budweiser_200,14,7,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Oldsmobile,120,1225,fan blade,0,121
+1984,B,1984_Budweiser_200,15,15,29,usa,Joe_Thurman,Joe Thurman,Longwood Restaurant,Chubby_Arrington,Dodge,95,1250,rear end,0,118
+1984,B,1984_Budweiser_200,16,9,1,usa,Morgan_Shepherd,Morgan Shepherd,Food Country USA,Lindy_White,Oldsmobile,72,775,engine,6,0
+1984,B,1984_Budweiser_200,17,20,91,usa,John_Linville,John Linville,Jennette Boutique,,Pontiac,56,1150,water pump,0,112
+1984,B,1984_Budweiser_200,18,17,13,usa,Frank_Dickerson,Frank Dickerson,Dickerson Racing,Frank_Dickerson,Chevrolet,29,725,suspension,0,109
+1984,B,1984_Budweiser_200,19,14,45,usa,Charlie_Luck,Charlie Luck,Luck Stone / Dryden Oil,Charlie_Luck,Pontiac,8,1100,oil leak,0,106
+1984,B,1984_Budweiser_200,20,10,02,usa,Kirk_Bryant,Kirk Bryant,Steve's Calabash Seafood,,Pontiac,5,1075,steering,0,103
+1984,B,1984_Budweiser_200,21,19,2,usa,Eric_Emhoff,Eric Emhoff,Emhoff Racing,,Ford,0,650,transmission,0,100
+1984,B,1984_Budweiser_200,22,22,24,usa,Glenn_Jarrett,Glenn Jarrett,Thackston Racing,Marvin_Thackston,Ford,0,1025,electrical,0,97
+1984,B,1984_Mello_Yello_300,1,8,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Frank_Plessinger,Oldsmobile,200,10900,running,13,180
+1984,B,1984_Mello_Yello_300,2,3,17,usa,Darrell_Waltrip,Darrell Waltrip,Hodgdon,Darrell_Waltrip,Pontiac,200,6050,running,6,0
+1984,B,1984_Mello_Yello_300,3,7,83,usa,Lake_Speed,Lake Speed,Bull Frog Knits,Lake_Speed,Pontiac,200,4725,running,6,165
+1984,B,1984_Mello_Yello_300,4,9,8,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler Jeans,"Dale_Earnhardt,_Inc.",Pontiac,200,4975,running,1,160
+1984,B,1984_Mello_Yello_300,5,23,1,usa,Morgan_Shepherd,Morgan Shepherd,Food Country USA,Lindy_White,Oldsmobile,200,3700,running,2,155
+1984,B,1984_Mello_Yello_300,6,5,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,199,12450,running,28,150
+1984,B,1984_Mello_Yello_300,7,21,7,usa,Alan_Kulwicki,Alan Kulwicki,Hardee's,Ed_Whitaker,Oldsmobile,199,6150,running,0,146
+1984,B,1984_Mello_Yello_300,8,31,72,usa,J_D_McDuffie,J.D. McDuffie,Thomas Brothers Country Ham,,Oldsmobile,197,2700,running,1,0
+1984,B,1984_Mello_Yello_300,9,40,45,usa,Charlie_Luck,Charlie Luck,Luck Stone / Dryden Oil,Charlie_Luck,Pontiac,196,4800,running,0,138
+1984,B,1984_Mello_Yello_300,10,28,14,usa,Ronnie_Silver,Ronnie Silver,Banner House Handbags,Ronnie_Silver,Oldsmobile,196,4425,running,0,134
+1984,B,1984_Mello_Yello_300,11,35,76,usa,Junior_Niedecken,Junior Niedecken,Sims Brothers Construction,Sims_Brothers,Pontiac,196,2850,running,0,130
+1984,B,1984_Mello_Yello_300,12,22,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Pontiac,195,2975,running,0,127
+1984,B,1984_Mello_Yello_300,13,30,60,usa,Ed_Berrier,Ed Berrier,Whitener Quarter Horses,Max_Berrier,Oldsmobile,194,2325,running,0,124
+1984,B,1984_Mello_Yello_300,14,17,73,usa,Mike_McLaughlin,Mike McLaughlin,Boehler Speed,Len_Boehler,Pontiac,193,2175,running,0,121
+1984,B,1984_Mello_Yello_300,15,29,29,usa,Joe_Thurman,Joe Thurman,Longwood Restaurant,Chubby_Arrington,Dodge,193,2425,running,0,118
+1984,B,1984_Mello_Yello_300,16,41,3,usa,Billy_Hogan,Billy Hogan,Capel Rugs,,Chevrolet,190,2200,running,0,115
+1984,B,1984_Mello_Yello_300,17,26,34,usa,Joe_Kelly_(2),Joe Kelly,Kelly Builders,Joe_Kelly,Pontiac,189,1725,running,0,112
+1984,B,1984_Mello_Yello_300,18,42,48,usa,John_Linville,John Linville,Race Glaze,Johnny_Davis,Pontiac,189,2035,running,0,109
+1984,B,1984_Mello_Yello_300,19,19,65,usa,Ken_Bouchard,Ken Bouchard,Sullivan Racing,M.J._Sullivan,Oldsmobile,185,1560,running,0,106
+1984,B,1984_Mello_Yello_300,20,33,33,usa,George_Dalton,George Dalton,Royal Cleaners,,Oldsmobile,183,1485,running,0,103
+1984,B,1984_Mello_Yello_300,21,36,87,usa,Steve_Jarvis,Steve Jarvis,Foster & Hailey,Robbie_Lewis,Pontiac,181,1410,oil leak,0,100
+1984,B,1984_Mello_Yello_300,22,4,47,usa,Ron_Bouchard,Ron Bouchard,DuBee Racing,Jack_Beebe,Pontiac,175,990,engine,102,97
+1984,B,1984_Mello_Yello_300,23,20,50,usa,Allan_Powell,Allan Powell,Cox Racing,Marion_Cox,Ford,168,865,running,0,0
+1984,B,1984_Mello_Yello_300,24,14,46,usa,Larry_Hoopaugh,Larry Hoopaugh,Autosport Custom Vans,,Pontiac,147,1280,engine,0,91
+1984,B,1984_Mello_Yello_300,25,39,71,usa,Benny_Kerley,Benny Kerley,Taylor Togs,,Pontiac,139,1210,oil leak,0,88
+1984,B,1984_Mello_Yello_300,26,15,32,usa,Dale_Jarrett,Dale Jarrett,Budweiser / Econo Lodge,Horace_Isenhower,Buick,134,1535,crash,0,85
+1984,B,1984_Mello_Yello_300,27,24,89,usa,Tom_Peck,Tom Peck,Plessinger Racing,Frank_Plessinger,Pontiac,116,1075,overheating,0,82
+1984,B,1984_Mello_Yello_300,28,34,85,usa,Bobby_Boggero,Bobby Boggero,Smith Racing,,Pontiac,87,1015,sway bar,0,79
+1984,B,1984_Mello_Yello_300,29,2,15,usa,Tim_Richmond,Tim Richmond,Hendrick Honda,Rick_Hendrick,Pontiac,84,1055,oil leak,41,0
+1984,B,1984_Mello_Yello_300,30,27,27,usa,Sammy_Swindell,Sammy Swindell,Old Milwaukee,Raymond_Beadle,Oldsmobile,76,745,head,0,0
+1984,B,1984_Mello_Yello_300,31,16,23,usa,Davey_Allison,Davey Allison,Miller High Life,Bobby_Allison,Pontiac,61,1335,sway bar,0,70
+1984,B,1984_Mello_Yello_300,32,1,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Pontiac,57,1825,wheel bearing,0,67
+1984,B,1984_Mello_Yello_300,33,18,43,usa,Kenny_Burks,Kenny Burks,Jones Texaco,,Oldsmobile,57,915,crash,0,64
+1984,B,1984_Mello_Yello_300,34,13,02,usa,Kirk_Bryant,Kirk Bryant,Steve's Calabash Seafood,,Pontiac,53,1110,crash,0,0
+1984,B,1984_Mello_Yello_300,35,10,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Oldsmobile,52,4030,transmission,0,58
+1984,B,1984_Mello_Yello_300,36,11,24,usa,Glenn_Jarrett,Glenn Jarrett,Budweiser / Diet Connection,Marvin_Thackston,Ford,40,1300,head,0,55
+1984,B,1984_Mello_Yello_300,37,6,28,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Johnny_Hayes,Pontiac,31,745,engine,0,52
+1984,B,1984_Mello_Yello_300,38,37,39,usa,Mitchell_Clark,Mitchell Clark,Beauregard Racing,,Pontiac,27,690,crash,0,49
+1984,B,1984_Mello_Yello_300,39,38,97,usa,Harry_Lee_Hill,Harry Lee Hill,Hill Racing,Harry_Lee_Hill,Pontiac,17,685,engine,0,46
+1984,B,1984_Mello_Yello_300,40,32,61,usa,Glenn_Sears,Glenn Sears,Almay Racing,,Pontiac,16,680,head gasket,0,43
+1984,B,1984_Mello_Yello_300,41,12,6,usa,Tommy_Houston,Tommy Houston,Mason Day / Diet Connection,Mike_Day,Oldsmobile,16,2580,piston,0,40
+1984,B,1984_Mello_Yello_300,42,25,70,usa,Bosco_Lowe,Bosco Lowe,Bailey / Temple,J.D._McDuffie,Oldsmobile,9,1080,engine,0,37
+1984,B,1984_Busch_200,1,1,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,200,3600,running,200,180
+1984,B,1984_Busch_200,2,7,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Pontiac,200,2450,running,0,170
+1984,B,1984_Busch_200,3,16,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving / Valvoline,Mike_Day,Chevrolet,200,2000,running,0,165
+1984,B,1984_Busch_200,4,10,14,usa,Ronnie_Silver,Ronnie Silver,Banner House Handbags,Ronnie_Silver,Pontiac,200,1100,running,0,160
+1984,B,1984_Busch_200,5,9,2,usa,Jeff_Hensley,Jeff Hensley,Flow Dynamics,,Pontiac,199,1000,running,0,155
+1984,B,1984_Busch_200,6,4,51,usa,Robert_Ingram,Robert Ingram,Hall Pontiac,,Pontiac,198,950,running,0,150
+1984,B,1984_Busch_200,7,6,32,usa,Dale_Jarrett,Dale Jarrett,Budweiser / Econo Lodge,Horace_Isenhower,Pontiac,198,900,running,0,146
+1984,B,1984_Busch_200,8,24,45,usa,Charlie_Luck,Charlie Luck,Luck Stone / Dryden Oil,Charlie_Luck,Pontiac,197,850,running,0,142
+1984,B,1984_Busch_200,9,21,4,usa,Joe_Thurman,Joe Thurman,Thurman Enterprises,Joe_Thurman,Pontiac,196,800,running,0,138
+1984,B,1984_Busch_200,10,8,38,usa,Brad_Teague,Brad Teague,Stihl Chainsaws,Brad_Teague,Pontiac,195,500,running,0,134
+1984,B,1984_Busch_200,11,14,95,usa,Bubba_Nissen,Bubba Nissen,Nissen Racing,,Pontiac,191,700,running,0,130
+1984,B,1984_Busch_200,12,22,16,usa,Jimmy_Lawson,Jimmy Lawson,Big Orange Market,,Pontiac,189,650,running,0,127
+1984,B,1984_Busch_200,13,20,43,usa,Dickie_Linville,Dickie Linville,C.J. Enterprises,,Pontiac,182,350,running,0,124
+1984,B,1984_Busch_200,14,17,99,usa,Rick_Mast,Rick Mast,Nelson Building Supply,Boyd_Nelson,Pontiac,174,575,running,0,121
+1984,B,1984_Busch_200,15,11,30,usa,Bubba_Adams,Bubba Adams,RC Cola,,Pontiac,162,300,running,0,0
+1984,B,1984_Busch_200,16,12,27,usa,Bosco_Lowe,Bosco Lowe,Ryder's Floor Store,Edgar_Ryder,Pontiac,137,520,running,0,115
+1984,B,1984_Busch_200,17,2,04,usa,Eddie_Falk,Eddie Falk,Pabst / Godfather's Pizza,Eddie_Falk,Pontiac,128,500,steering,0,112
+1984,B,1984_Busch_200,18,19,50,usa,Al_Hylton,Al Hylton,Curtis Construction,,Ford,117,230,exhaust,0,109
+1984,B,1984_Busch_200,19,13,9,usa,Bob_Shreeves,Bob Shreeves,S & S Racing,Bob_Shreeves,Pontiac,59,475,clutch,0,106
+1984,B,1984_Busch_200,20,15,07,usa,Dickie_Boswell,Dickie Boswell,Bob Banning,,Pontiac,44,220,sway bar,0,103
+1984,B,1984_Busch_200,21,18,41,usa,Jack_Bland,Jack Bland,Henderson Drywall,,Pontiac,25,215,transmission,0,100
+1984,B,1984_Busch_200,22,3,1,usa,Morgan_Shepherd,Morgan Shepherd,Little Chief,Lindy_White,Pontiac,22,210,overheating,0,97
+1984,B,1984_Busch_200,23,5,12,usa,Tommy_Ellis,Tommy Ellis,Corvette Center,Marilyn_Smith,Pontiac,19,455,oil leak,0,94
+1984,B,1984_Busch_200,24,23,60,usa,Ed_Berrier,Ed Berrier,Whitener Quarter Horses,Max_Berrier,Oldsmobile,15,400,rear end,0,91
+1984,B,1984_Busch_200,25,26,82,usa,Kirk_Bryant,Kirk Bryant,Walker Upholstery,,Pontiac,8,200,steering,0,0
+1984,B,1984_Busch_200,26,25,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Oldsmobile,0,450,engine,0,85
+1984,B,1984_Yount_200,1,2,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving / Valvoline,Mike_Day,Chevrolet,200,3100,running,160,180
+1984,B,1984_Yount_200,2,7,38,usa,Brad_Teague,Brad Teague,Stihl Chainsaws,Brad_Teague,Pontiac,200,1450,running,34,170
+1984,B,1984_Yount_200,3,6,14,usa,Ronnie_Silver,Ronnie Silver,Banner House Handbags / Arby's,Ronnie_Silver,Pontiac,200,1250,running,0,165
+1984,B,1984_Yount_200,4,1,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,200,2350,running,6,160
+1984,B,1984_Yount_200,5,13,16,usa,Jimmy_Lawson,Jimmy Lawson,Big Orange Market,,Pontiac,199,1000,running,0,155
+1984,B,1984_Yount_200,6,17,07,usa,Dickie_Boswell,Dickie Boswell,Bob Banning,,Pontiac,198,700,running,0,150
+1984,B,1984_Yount_200,7,9,51,usa,Robert_Ingram,Robert Ingram,Hall Pontiac,,Pontiac,198,900,running,0,146
+1984,B,1984_Yount_200,8,12,95,usa,Bubba_Nissen,Bubba Nissen,Nissen Racing,,Pontiac,198,850,running,0,142
+1984,B,1984_Yount_200,9,11,24,usa,Glenn_Jarrett,Glenn Jarrett,Thackston Racing,Marvin_Thackston,Ford,198,800,running,0,138
+1984,B,1984_Yount_200,10,20,9,usa,Bob_Shreeves,Bob Shreeves,Al Rudd,Bob_Shreeves,Pontiac,197,750,running,0,134
+1984,B,1984_Yount_200,11,4,04,usa,Eddie_Falk,Eddie Falk,Pabst / Godfather's Pizza,Eddie_Falk,Pontiac,196,700,running,0,130
+1984,B,1984_Yount_200,12,16,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Oldsmobile,196,650,running,0,127
+1984,B,1984_Yount_200,13,19,60,usa,Ed_Berrier,Ed Berrier,Whitener Quarter Horses,Max_Berrier,Oldsmobile,196,600,running,0,124
+1984,B,1984_Yount_200,14,15,63,usa,Jeff_Hensley,Jeff Hensley,Flow Dynamics,Hubert_Hensley,Pontiac,195,575,running,0,121
+1984,B,1984_Yount_200,15,5,3,usa,Mike_Porter,Mike Porter,Associated Trucking,,Pontiac,192,300,running,0,0
+1984,B,1984_Yount_200,16,3,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Pontiac,183,1270,running,0,115
+1984,B,1984_Yount_200,17,24,85,usa,Billy_Myers_(2),Billy Myers,Smith Racing,Lowe_Smith,Chevrolet,166,250,running,0,112
+1984,B,1984_Yount_200,18,22,43,usa,Dickie_Linville,Dickie Linville,Dennis Heating,,Pontiac,164,230,running,0,109
+1984,B,1984_Yount_200,19,23,62,usa,John_Linville,John Linville,Linville Racing,John_Linville,Pontiac,141,475,oil pressure,0,106
+1984,B,1984_Yount_200,20,8,32,usa,Dale_Jarrett,Dale Jarrett,Budweiser / Econo Lodge,Horace_Isenhower,Pontiac,132,470,head,0,103
+1984,B,1984_Yount_200,21,21,4,usa,Joe_Thurman,Joe Thurman,Thurman Enterprises,Joe_Thurman,Pontiac,98,465,overheating,0,100
+1984,B,1984_Yount_200,22,10,99,usa,Rick_Mast,Rick Mast,Nelson Building Supply,Boyd_Nelson,Pontiac,53,460,overheating,0,97
+1984,B,1984_Yount_200,23,14,45,usa,Charlie_Luck,Charlie Luck,Luck Stone / Dryden Oil,Charlie_Luck,Pontiac,26,455,crash,0,94
+1984,B,1984_Yount_200,24,18,1,usa,Pete_Silva,Pete Silva,Warren Racing,,Chevrolet,13,200,engine,0,91
+1984,B,1984_L.D._Swain_And_Son_200,1,4,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Pontiac,200,3600,running,132,180
+1984,B,1984_L.D._Swain_And_Son_200,2,1,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving / Valvoline,Mike_Day,Chevrolet,200,2450,running,33,170
+1984,B,1984_L.D._Swain_And_Son_200,3,3,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,200,2500,running,35,165
+1984,B,1984_L.D._Swain_And_Son_200,4,9,32,usa,Dale_Jarrett,Dale Jarrett,Budweiser / Econo Lodge,Horace_Isenhower,Pontiac,199,1100,running,0,160
+1984,B,1984_L.D._Swain_And_Son_200,5,11,14,usa,Ronnie_Silver,Ronnie Silver,Banner House Handbags / Arby's,Ronnie_Silver,Pontiac,198,1250,running,0,155
+1984,B,1984_L.D._Swain_And_Son_200,6,7,07,usa,Dickie_Boswell,Dickie Boswell,Bob Banning,,Pontiac,197,700,running,0,150
+1984,B,1984_L.D._Swain_And_Son_200,7,17,4,usa,Joe_Thurman,Joe Thurman,Thurman Enterprises,Joe_Thurman,Pontiac,194,900,running,0,146
+1984,B,1984_L.D._Swain_And_Son_200,8,12,04,usa,Eddie_Falk,Eddie Falk,Pabst / Godfather's Pizza,Eddie_Falk,Pontiac,194,850,running,0,142
+1984,B,1984_L.D._Swain_And_Son_200,9,21,45,usa,Charlie_Luck,Charlie Luck,Luck Stone / Dryden Oil,Charlie_Luck,Pontiac,193,800,running,0,138
+1984,B,1984_L.D._Swain_And_Son_200,10,2,3,usa,Mike_Porter,Mike Porter,Associated Trucking,,Pontiac,191,500,running,0,134
+1984,B,1984_L.D._Swain_And_Son_200,11,20,9,usa,Bob_Shreeves,Bob Shreeves,Al Rudd,Bob_Shreeves,Pontiac,187,700,running,0,130
+1984,B,1984_L.D._Swain_And_Son_200,12,24,43,usa,Dickie_Linville,Dickie Linville,Dennis Heating,,Pontiac,182,650,running,0,127
+1984,B,1984_L.D._Swain_And_Son_200,13,22,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Oldsmobile,167,600,oil leak,0,124
+1984,B,1984_L.D._Swain_And_Son_200,14,19,50,usa,Al_Hylton,Al Hylton,Hylton Racing,,Ford,151,325,running,0,121
+1984,B,1984_L.D._Swain_And_Son_200,15,8,63,usa,Jeff_Hensley,Jeff Hensley,Flow Dynamics,Hubert_Hensley,Pontiac,150,550,running,0,118
+1984,B,1984_L.D._Swain_And_Son_200,16,16,02,usa,Kirk_Bryant,Kirk Bryant,Steve's Calabash Seafood,,Pontiac,148,270,running,0,0
+1984,B,1984_L.D._Swain_And_Son_200,17,5,30,usa,Bubba_Adams,Bubba Adams,RC Cola,,Pontiac,136,250,water pump,0,0
+1984,B,1984_L.D._Swain_And_Son_200,18,23,81,usa,Barry_Beggarly,Barry Beggarly,Beggarly Racing,,Pontiac,99,230,water pump,0,0
+1984,B,1984_L.D._Swain_And_Son_200,19,13,99,usa,Rick_Mast,Rick Mast,Nelson Building Supply,Boyd_Nelson,Pontiac,93,475,overheating,0,106
+1984,B,1984_L.D._Swain_And_Son_200,20,10,95,usa,Bubba_Nissen,Bubba Nissen,Amelia Auto Parts,,Pontiac,45,470,oil leak,0,103
+1984,B,1984_L.D._Swain_And_Son_200,21,15,24,usa,Glenn_Jarrett,Glenn Jarrett,Thackston Racing,Marvin_Thackston,Ford,21,215,crash,0,0
+1984,B,1984_L.D._Swain_And_Son_200,22,6,51,usa,Robert_Ingram,Robert Ingram,Hall Pontiac,,Pontiac,15,460,steering,0,97
+1984,B,1984_L.D._Swain_And_Son_200,23,18,16,usa,Jimmy_Lawson,Jimmy Lawson,Big Orange Market,,Pontiac,11,455,oil leak,0,94
+1984,B,1984_L.D._Swain_And_Son_200,24,14,62,usa,John_Linville,John Linville,Linville Racing,John_Linville,Pontiac,10,450,distributor,0,91
+1984,B,1984_Roses_Stores_200,1,1,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,300,7100,running,276,180
+1984,B,1984_Roses_Stores_200,2,5,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Pontiac,300,4550,running,16,170
+1984,B,1984_Roses_Stores_200,3,3,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving,Mike_Day,Chevrolet,299,3700,running,6,165
+1984,B,1984_Roses_Stores_200,4,10,7,usa,Jimmy_Hensley,Jimmy Hensley,Food Country USA,Ed_Whitaker,Oldsmobile,298,1950,running,2,160
+1984,B,1984_Roses_Stores_200,5,2,15,usa,Geoffrey_Bodine,Geoffrey Bodine,Hendrick Honda,Rick_Hendrick,Pontiac,298,1000,running,0,155
+1984,B,1984_Roses_Stores_200,6,8,38,usa,Brad_Teague,Brad Teague,Food Country USA,Brad_Teague,Pontiac,298,800,running,0,150
+1984,B,1984_Roses_Stores_200,7,16,99,usa,Rick_Mast,Rick Mast,Nelson Building Supply,Boyd_Nelson,Pontiac,297,975,running,0,146
+1984,B,1984_Roses_Stores_200,8,15,07,usa,Dickie_Boswell,Dickie Boswell,Bob Banning,,Pontiac,296,875,running,0,142
+1984,B,1984_Roses_Stores_200,9,4,32,usa,Dale_Jarrett,Dale Jarrett,Budweiser / Econo Lodge,Horace_Isenhower,Pontiac,295,825,running,0,138
+1984,B,1984_Roses_Stores_200,10,17,30,usa,Bubba_Adams,Bubba Adams,RC Cola,,Pontiac,294,550,running,0,0
+1984,B,1984_Roses_Stores_200,11,20,81,usa,Robert_Ingram,Robert Ingram,Corvette Center,,Pontiac,294,725,running,0,130
+1984,B,1984_Roses_Stores_200,12,13,9,usa,Bob_Shreeves,Bob Shreeves,S & S Racing,Bob_Shreeves,Pontiac,290,700,running,0,127
+1984,B,1984_Roses_Stores_200,13,22,24,usa,Glenn_Jarrett,Glenn Jarrett,Thackston Racing,Marvin_Thackston,Ford,290,675,running,0,124
+1984,B,1984_Roses_Stores_200,14,23,02,usa,Kirk_Bryant,Kirk Bryant,Steve's Calabash Seafood,,Pontiac,290,400,running,0,121
+1984,B,1984_Roses_Stores_200,15,14,27,usa,Bosco_Lowe,Bosco Lowe,Ryder's Floor Store,Edgar_Ryder,Pontiac,281,575,running,0,118
+1984,B,1984_Roses_Stores_200,16,24,60,usa,Ed_Berrier,Ed Berrier,Whitener Quarter Horses,Max_Berrier,Oldsmobile,201,550,steering,0,115
+1984,B,1984_Roses_Stores_200,17,19,4,usa,Joe_Thurman,Joe Thurman,Thurman Enterprises,Joe_Thurman,Pontiac,187,540,water pump,0,112
+1984,B,1984_Roses_Stores_200,18,18,50,usa,Al_Hylton,Al Hylton,Tom's Mini-Mart,,Ford,178,280,oil leak,0,0
+1984,B,1984_Roses_Stores_200,19,9,04,usa,Eddie_Falk,Eddie Falk,Pabst / Godfather's Pizza,Eddie_Falk,Pontiac,150,520,ignition,0,106
+1984,B,1984_Roses_Stores_200,20,26,43,usa,Dickie_Linville,Dickie Linville,Dennis Heating & Air Conditioning,,Pontiac,142,510,steering,0,103
+1984,B,1984_Roses_Stores_200,21,21,45,usa,Charlie_Luck,Charlie Luck,Luck Stone / Dryden Oil,Charlie_Luck,Pontiac,126,505,steering,0,100
+1984,B,1984_Roses_Stores_200,22,6,1,usa,Morgan_Shepherd,Morgan Shepherd,"Ultra Clean, Inc.",Lindy_White,Pontiac,89,250,clutch,0,97
+1984,B,1984_Roses_Stores_200,23,25,16,usa,Jimmy_Lawson,Jimmy Lawson,Big Orange Market,,Pontiac,77,495,steering,0,94
+1984,B,1984_Roses_Stores_200,24,12,63,usa,Jeff_Hensley,Jeff Hensley,Kopy King / Flow Dynamics,Hubert_Hensley,Pontiac,66,490,ignition,0,91
+1984,B,1984_Roses_Stores_200,25,7,12,usa,Tommy_Ellis,Tommy Ellis,Corvette Center,Marilyn_Smith,Pontiac,49,490,brakes,0,88
+1984,B,1984_Roses_Stores_200,26,11,14,usa,Ronnie_Silver,Ronnie Silver,Banner House Handbags,Ronnie_Silver,Pontiac,13,490,engine,0,85
+1984,B,1984_Miller_200,1,5,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Pontiac,200,3100,running,49,180
+1984,B,1984_Miller_200,2,1,6,usa,Tommy_Houston,Tommy Houston,City Chevrolet,Mike_Day,Chevrolet,200,2450,running,3,170
+1984,B,1984_Miller_200,3,2,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,200,2500,running,23,165
+1984,B,1984_Miller_200,4,8,14,usa,Ronnie_Silver,Ronnie Silver,Banner House Handbags,Ronnie_Silver,Pontiac,200,1100,running,0,160
+1984,B,1984_Miller_200,5,17,27,usa,Bosco_Lowe,Bosco Lowe,Ryder's Floor Store,Edgar_Ryder,Pontiac,199,1000,running,0,155
+1984,B,1984_Miller_200,6,13,45,usa,Charlie_Luck,Charlie Luck,Luck Stone / Dryden Oil,Charlie_Luck,Pontiac,198,950,running,0,150
+1984,B,1984_Miller_200,7,9,07,usa,Dickie_Boswell,Dickie Boswell,Bob Banning,,Pontiac,195,900,running,0,146
+1984,B,1984_Miller_200,8,4,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Pontiac,194,850,running,0,142
+1984,B,1984_Miller_200,9,11,9,usa,Bob_Shreeves,Bob Shreeves,Al Rudd,Bob_Shreeves,Pontiac,180,800,running,0,138
+1984,B,1984_Miller_200,10,6,99,usa,Rick_Mast,Rick Mast,Nelson Building Supply,Boyd_Nelson,Pontiac,177,750,running,0,134
+1984,B,1984_Miller_200,11,10,2,usa,Jeff_Hensley,Jeff Hensley,Kopy King,,Pontiac,177,700,running,0,130
+1984,B,1984_Miller_200,12,3,12,usa,Tommy_Ellis,Tommy Ellis,Corvette Center,Marilyn_Smith,Pontiac,171,650,flat tire,97,127
+1984,B,1984_Miller_200,13,24,35,usa,Randy_Butner,Randy Butner,Butner Racing,,Pontiac,170,350,running,0,124
+1984,B,1984_Miller_200,14,21,4,usa,Joe_Thurman,Joe Thurman,Thurman Enterprises,Joe_Thurman,Pontiac,154,575,oil leak,0,121
+1984,B,1984_Miller_200,15,23,43,usa,Dickie_Linville,Dickie Linville,C.J. Enterprises,,Pontiac,146,550,crash,0,118
+1984,B,1984_Miller_200,16,7,32,usa,Dale_Jarrett,Dale Jarrett,Budweiser,Horace_Isenhower,Pontiac,129,520,crash,28,115
+1984,B,1984_Miller_200,17,19,81,usa,Barry_Beggarly,Barry Beggarly,Kopy King,,Pontiac,111,250,oil leak,0,0
+1984,B,1984_Miller_200,18,20,60,usa,Ed_Berrier,Ed Berrier,Whitener Quarter Horses,Max_Berrier,Oldsmobile,100,480,running,0,109
+1984,B,1984_Miller_200,19,12,51,usa,Robert_Ingram,Robert Ingram,Hall Pontiac,,Pontiac,76,475,crash,0,106
+1984,B,1984_Miller_200,20,16,16,usa,Jimmy_Lawson,Jimmy Lawson,Big Orange Market,,Pontiac,74,470,crash,0,103
+1984,B,1984_Miller_200,21,22,02,usa,Kirk_Bryant,Kirk Bryant,Steve's Calabash Seafood,,Pontiac,73,465,crash,0,100
+1984,B,1984_Miller_200,22,14,62,usa,John_Linville,John Linville,Linville Racing,John_Linville,Pontiac,30,460,head gasket,0,97
+1984,B,1984_Miller_200,23,18,50,usa,Al_Hylton,Al Hylton,Bumpass Motors,,Ford,29,205,oil leak,0,0
+1984,B,1984_Miller_200,24,15,04,usa,Eddie_Falk,Eddie Falk,Pabst / Godfather's Pizza,Eddie_Falk,Pontiac,12,450,engine,0,91
+1984,B,1984_Goody%27s_200,1,4,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Pontiac,200,3600,running,32,180
+1984,B,1984_Goody%27s_200,2,8,38,usa,Brad_Teague,Brad Teague,Food Country USA,Brad_Teague,Pontiac,200,1700,running,0,0
+1984,B,1984_Goody%27s_200,3,3,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,200,2500,running,75,165
+1984,B,1984_Goody%27s_200,4,9,14,usa,Ronnie_Silver,Ronnie Silver,Banner House Handbags / Arby's,Ronnie_Silver,Pontiac,200,1100,running,0,160
+1984,B,1984_Goody%27s_200,5,10,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Pontiac,200,1000,running,0,155
+1984,B,1984_Goody%27s_200,6,2,32,usa,Dale_Jarrett,Dale Jarrett,Budweiser,Horace_Isenhower,Pontiac,200,950,running,11,150
+1984,B,1984_Goody%27s_200,7,1,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving,Mike_Day,Chevrolet,200,1650,running,82,146
+1984,B,1984_Goody%27s_200,8,5,04,usa,Eddie_Falk,Eddie Falk,Pabst / Godfather's Pizza,Eddie_Falk,Pontiac,199,850,running,0,142
+1984,B,1984_Goody%27s_200,9,12,9,usa,Bob_Shreeves,Bob Shreeves,Al Rudd,Bob_Shreeves,Pontiac,199,800,running,0,138
+1984,B,1984_Goody%27s_200,10,19,51,usa,Robert_Ingram,Robert Ingram,Hall Pontiac,,Pontiac,199,750,running,0,134
+1984,B,1984_Goody%27s_200,11,14,07,usa,Dickie_Boswell,Dickie Boswell,Bob Banning,,Pontiac,198,700,running,0,130
+1984,B,1984_Goody%27s_200,12,16,99,usa,Rick_Mast,Rick Mast,Nelson Building Supply,Boyd_Nelson,Pontiac,198,650,running,0,127
+1984,B,1984_Goody%27s_200,13,17,41,usa,Jack_Bland,Jack Bland,Henderson Drywall,,Pontiac,197,350,running,0,124
+1984,B,1984_Goody%27s_200,14,20,16,usa,Jimmy_Lawson,Jimmy Lawson,Big Orange Market,,Pontiac,197,575,running,0,121
+1984,B,1984_Goody%27s_200,15,6,45,usa,Charlie_Luck,Charlie Luck,Luck Stone / Dryden Oil,Charlie_Luck,Pontiac,197,550,running,0,118
+1984,B,1984_Goody%27s_200,16,15,2,usa,Jeff_Hensley,Jeff Hensley,Kopy King,,Pontiac,196,520,running,0,115
+1984,B,1984_Goody%27s_200,17,11,62,usa,John_Linville,John Linville,Linville Construction,John_Linville,Pontiac,192,500,running,0,112
+1984,B,1984_Goody%27s_200,18,21,43,usa,Dickie_Linville,Dickie Linville,Linville Construction,,Pontiac,146,480,steering,0,109
+1984,B,1984_Goody%27s_200,19,7,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Pontiac,123,475,engine,0,106
+1984,B,1984_Goody%27s_200,20,24,53,usa,Tim_McGuire,Tim McGuire,Meadow Gold,,Pontiac,110,220,oil leak,0,103
+1984,B,1984_Goody%27s_200,21,13,24,usa,Glenn_Jarrett,Glenn Jarrett,Komfort Koach,Marvin_Thackston,Ford,76,465,crash,0,100
+1984,B,1984_Goody%27s_200,22,18,96,usa,Ronnie_Davidson,Ronnie Davidson,Davis Racing,,Oldsmobile,76,210,head gasket,0,97
+1984,B,1984_Goody%27s_200,23,22,4,usa,Joe_Thurman,Joe Thurman,Thurman Bonds,Joe_Thurman,Pontiac,33,455,rear end,0,94
+1984,B,1984_Goody%27s_200,24,23,85,usa,Lowe_Smith,Lowe Smith,Smith Racing,Lowe_Smith,Pontiac,11,200,crash,0,91
+1984,B,1984_Kroger_200,1,3,1,usa,Morgan_Shepherd,Morgan Shepherd,Lindy White,Lindy_White,Pontiac,200,7700,running,123,180
+1984,B,1984_Kroger_200,2,8,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,200,6750,running,6,170
+1984,B,1984_Kroger_200,3,4,17,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser / Hodgdon,Darrell_Waltrip,Pontiac,200,3225,running,0,165
+1984,B,1984_Kroger_200,4,10,15,usa,Geoffrey_Bodine,Geoffrey Bodine,Hendrick Honda,Rick_Hendrick,Pontiac,200,2400,running,54,160
+1984,B,1984_Kroger_200,5,2,32,usa,Dale_Jarrett,Dale Jarrett,Budweiser,Horace_Isenhower,Pontiac,200,2200,running,0,155
+1984,B,1984_Kroger_200,6,7,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Pontiac,200,2900,running,0,150
+1984,B,1984_Kroger_200,7,6,7,usa,Jimmy_Hensley,Jimmy Hensley,Food Country USA,Ed_Whitaker,Oldsmobile,198,1600,running,14,146
+1984,B,1984_Kroger_200,8,18,27,usa,Bosco_Lowe,Bosco Lowe,Ryder's Floor Store,Edgar_Ryder,Pontiac,198,1800,running,0,142
+1984,B,1984_Kroger_200,9,13,3,usa,Mike_Porter,Mike Porter,Cole Enterprises,,Pontiac,196,1200,running,0,138
+1984,B,1984_Kroger_200,10,16,04,usa,Eddie_Falk,Eddie Falk,Pabst / Godfather's Pizza,Eddie_Falk,Pontiac,196,1600,running,0,134
+1984,B,1984_Kroger_200,11,23,62,usa,John_Linville,John Linville,Linville Racing,John_Linville,Pontiac,196,1550,running,0,130
+1984,B,1984_Kroger_200,12,19,14,usa,Ronnie_Silver,Ronnie Silver,Banner House Handbags,Ronnie_Silver,Pontiac,195,1500,running,0,127
+1984,B,1984_Kroger_200,13,15,16,usa,Jimmy_Lawson,Jimmy Lawson,Big Orange Market,,Pontiac,194,1250,running,0,124
+1984,B,1984_Kroger_200,14,12,2,usa,Jeff_Hensley,Jeff Hensley,Kopy King,,Pontiac,194,1225,running,0,121
+1984,B,1984_Kroger_200,15,22,60,usa,Ed_Berrier,Ed Berrier,Whitener Quarter Horses,Max_Berrier,Oldsmobile,193,1400,running,0,118
+1984,B,1984_Kroger_200,16,21,4,usa,Joe_Thurman,Joe Thurman,Thurman Enterprises,Joe_Thurman,Pontiac,188,1375,running,0,115
+1984,B,1984_Kroger_200,17,24,41,usa,Dickie_Linville,Dickie Linville,Dennis Heating & Air Conditioning,,Pontiac,187,1350,running,0,112
+1984,B,1984_Kroger_200,18,11,24,usa,Glenn_Jarrett,Glenn Jarrett,Komfort Koach,Marvin_Thackston,Ford,186,1125,running,0,109
+1984,B,1984_Kroger_200,19,20,45,usa,Charlie_Luck,Charlie Luck,Luck Stone / Dryden Oil,Charlie_Luck,Pontiac,173,1300,running,0,106
+1984,B,1984_Kroger_200,20,14,99,usa,Rick_Mast,Rick Mast,Nelson Building Supply,Boyd_Nelson,Pontiac,107,1075,valve,0,103
+1984,B,1984_Kroger_200,21,5,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving / Valvoline,Mike_Day,Oldsmobile,99,2065,running,0,100
+1984,B,1984_Kroger_200,22,17,9,usa,Bob_Shreeves,Bob Shreeves,Al Rudd,Bob_Shreeves,Pontiac,94,1255,engine,0,97
+1984,B,1984_Kroger_200,23,1,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Pontiac,53,1245,rear end,3,94
+1984,B,1984_Kroger_200,24,9,23,usa,Bobby_Allison,Bobby Allison,Miller High Life,Alan_Dillard_Jr.,Pontiac,42,1035,rear end,0,91
+1984,B,1984_Busch_200_%28August%29,1,5,14,usa,Jack_Ingram,Jack Ingram,Banner House Handbags,Ronnie_Silver,Pontiac,200,3100,running,130,180
+1984,B,1984_Busch_200_%28August%29,2,1,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,200,2950,running,47,170
+1984,B,1984_Busch_200_%28August%29,3,7,32,usa,Dale_Jarrett,Dale Jarrett,Budweiser,Horace_Isenhower,Pontiac,200,1250,running,0,165
+1984,B,1984_Busch_200_%28August%29,4,2,51,usa,Robert_Ingram,Robert Ingram,Hall Pontiac,,Pontiac,200,1100,running,23,160
+1984,B,1984_Busch_200_%28August%29,5,10,42,usa,Ronnie_Silver,Ronnie Silver,Benefit Development,Bill_Lewis,Pontiac,200,1000,running,0,155
+1984,B,1984_Busch_200_%28August%29,6,21,04,usa,Eddie_Falk,Eddie Falk,Pabst / Godfather's Pizza,Eddie_Falk,Pontiac,200,950,running,0,150
+1984,B,1984_Busch_200_%28August%29,7,9,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving / Valvoline,Mike_Day,Chevrolet,200,1650,running,0,146
+1984,B,1984_Busch_200_%28August%29,8,13,99,usa,Rick_Mast,Rick Mast,Nelson Building Supply,Boyd_Nelson,Pontiac,200,850,running,0,142
+1984,B,1984_Busch_200_%28August%29,9,11,9,usa,Bob_Shreeves,Bob Shreeves,S & S Racing,Bob_Shreeves,Pontiac,199,800,running,0,138
+1984,B,1984_Busch_200_%28August%29,10,18,4,usa,Joe_Thurman,Joe Thurman,Thurman Enterprises,Joe_Thurman,Pontiac,199,750,running,0,134
+1984,B,1984_Busch_200_%28August%29,11,17,43,usa,Dickie_Linville,Dickie Linville,Dennis Heating & Air Conditioning,,Pontiac,197,700,running,0,130
+1984,B,1984_Busch_200_%28August%29,12,19,24,usa,Glenn_Jarrett,Glenn Jarrett,Thackston Racing,Marvin_Thackston,Ford,196,650,running,0,127
+1984,B,1984_Busch_200_%28August%29,13,16,62,usa,John_Linville,John Linville,Linville Racing,John_Linville,Pontiac,196,600,running,0,124
+1984,B,1984_Busch_200_%28August%29,14,14,45,usa,Charlie_Luck,Charlie Luck,Luck Stone / Dryden Oil,Charlie_Luck,Pontiac,195,575,running,0,121
+1984,B,1984_Busch_200_%28August%29,15,6,30,usa,Bubba_Adams,Bubba Adams,RC Cola,,Pontiac,152,300,rear end,0,118
+1984,B,1984_Busch_200_%28August%29,16,12,07,usa,Dickie_Boswell,Dickie Boswell,Bob Banning,,Pontiac,129,520,rear end,0,115
+1984,B,1984_Busch_200_%28August%29,17,3,16,usa,Jimmy_Lawson,Jimmy Lawson,Big Orange Market,,Pontiac,106,500,crash,0,112
+1984,B,1984_Busch_200_%28August%29,18,8,2,usa,Jeff_Hensley,Jeff Hensley,Kopy King,,Pontiac,106,480,crash,0,109
+1984,B,1984_Busch_200_%28August%29,19,15,60,usa,Ed_Berrier,Ed Berrier,Whitener Quarter Horses,Max_Berrier,Oldsmobile,86,475,overheating,0,106
+1984,B,1984_Busch_200_%28August%29,20,20,13,usa,Frank_Dickerson,Frank Dickerson,D & D Tattooing,Frank_Dickerson,Chevrolet,81,220,electrical,0,103
+1984,B,1984_Busch_200_%28August%29,21,4,95,usa,Bubba_Nissen,Bubba Nissen,Nissen Racing,,Pontiac,53,215,rear end,0,0
+1984,B,1984_Miller_300,1,5,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving,Mike_Day,Chevrolet,300,6600,running,23,180
+1984,B,1984_Miller_300,2,9,51,usa,Robert_Ingram,Robert Ingram,Hall Pontiac,,Pontiac,300,4050,running,134,170
+1984,B,1984_Miller_300,3,4,12,usa,Tommy_Ellis,Tommy Ellis,Corvette Center,Marilyn_Smith,Pontiac,300,2950,running,23,165
+1984,B,1984_Miller_300,4,1,15,usa,Geoffrey_Bodine,Geoffrey Bodine,Hendrick Honda,Rick_Hendrick,Pontiac,299,1700,running,43,160
+1984,B,1984_Miller_300,5,2,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,299,2500,running,77,155
+1984,B,1984_Miller_300,6,20,9,usa,Bob_Shreeves,Bob Shreeves,S & S Racing,Bob_Shreeves,Pontiac,299,1050,running,0,150
+1984,B,1984_Miller_300,7,16,24,usa,Glenn_Jarrett,Glenn Jarrett,Thackston Racing,Marvin_Thackston,Ford,298,975,running,0,146
+1984,B,1984_Miller_300,8,13,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Pontiac,297,875,running,0,142
+1984,B,1984_Miller_300,9,22,16,usa,Jimmy_Lawson,Jimmy Lawson,Big Orange Market,,Pontiac,296,825,running,0,138
+1984,B,1984_Miller_300,10,10,2,usa,Jeff_Hensley,Jeff Hensley,Kopy King,,Pontiac,295,800,running,0,134
+1984,B,1984_Miller_300,11,12,14,usa,Ronnie_Silver,Ronnie Silver,Banner House Handbags,Ronnie_Silver,Pontiac,294,725,engine,0,130
+1984,B,1984_Miller_300,12,18,62,usa,John_Linville,John Linville,Linville Racing,John_Linville,Pontiac,286,700,running,0,127
+1984,B,1984_Miller_300,13,8,43,usa,Dickie_Linville,Dickie Linville,Dennis Heating & Air Conditioning,,Pontiac,285,675,running,0,124
+1984,B,1984_Miller_300,14,23,73,usa,Billy_Hogan,Billy Hogan,Capel Rugs,,Chevrolet,277,400,running,0,121
+1984,B,1984_Miller_300,15,24,35,usa,Randy_Butner,Randy Butner,Butner Racing,,Oldsmobile,198,325,running,0,118
+1984,B,1984_Miller_300,16,14,99,usa,Rick_Mast,Rick Mast,Nelson Building Supply,Boyd_Nelson,Pontiac,175,550,head gasket,0,115
+1984,B,1984_Miller_300,17,3,32,usa,Dale_Jarrett,Dale Jarrett,Budweiser,Horace_Isenhower,Pontiac,174,540,crash,0,112
+1984,B,1984_Miller_300,18,11,04,usa,Eddie_Falk,Eddie Falk,Pabst / Godfather's Pizza,Eddie_Falk,Pontiac,161,530,crash,0,109
+1984,B,1984_Miller_300,19,6,7,usa,Jimmy_Hensley,Jimmy Hensley,Food Country USA,Ed_Whitaker,Oldsmobile,94,270,water pump,0,106
+1984,B,1984_Miller_300,20,15,07,usa,Dickie_Boswell,Dickie Boswell,Bob Banning,,Pontiac,61,510,oil leak,0,103
+1984,B,1984_Miller_300,21,7,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Pontiac,59,1255,crash,0,100
+1984,B,1984_Miller_300,22,19,45,usa,Charlie_Luck,Charlie Luck,Luck Stone / Dryden Oil,Charlie_Luck,Pontiac,37,500,crash,0,97
+1984,B,1984_Miller_300,23,17,27,usa,Bosco_Lowe,Bosco Lowe,Ryder's Floor Store,Edgar_Ryder,Pontiac,33,495,push rod,0,94
+1984,B,1984_Miller_300,24,21,4,usa,Joe_Thurman,Joe Thurman,Thurman Enterprises,Joe_Thurman,Pontiac,4,400,rear end,0,91
+1984,B,1984_Free_200,1,1,1,usa,Morgan_Shepherd,Morgan Shepherd,Lindy White,Lindy_White,Pontiac,200,5500,running,86,180
+1984,B,1984_Free_200,2,12,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,200,4975,running,59,170
+1984,B,1984_Free_200,3,8,28,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Johnny_Hayes,Pontiac,200,2375,running,30,165
+1984,B,1984_Free_200,4,14,99,usa,Rick_Mast,Rick Mast,Nelson Building Supply,Boyd_Nelson,Pontiac,198,1800,running,0,160
+1984,B,1984_Free_200,5,2,7,usa,Alan_Kulwicki,Alan Kulwicki,Ed Whitaker,Ed_Whitaker,Oldsmobile,197,1450,running,0,0
+1984,B,1984_Free_200,6,16,27,usa,Bosco_Lowe,Bosco Lowe,Ryder's Floor Store,,Pontiac,196,1400,running,0,150
+1984,B,1984_Free_200,7,20,43,usa,Dickie_Linville,Dickie Linville,Dennis Heating & Air Conditioning,,Pontiac,196,1300,running,0,146
+1984,B,1984_Free_200,8,18,60,usa,Ed_Berrier,Ed Berrier,Whitener Quarter Horses,Max_Berrier,Oldsmobile,196,1200,running,0,142
+1984,B,1984_Free_200,9,21,18,usa,Jeff_Berry,Jeff Berry,Stallard Racing,,Pontiac,195,800,running,0,138
+1984,B,1984_Free_200,10,11,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Pontiac,192,1175,running,13,134
+1984,B,1984_Free_200,11,19,9,usa,Bob_Shreeves,Bob Shreeves,S & S Racing,Bob_Shreeves,Pontiac,191,1000,running,0,130
+1984,B,1984_Free_200,12,15,24,usa,Glenn_Jarrett,Glenn Jarrett,Komfort Koach,Marvin_Thackston,Ford,188,950,running,0,127
+1984,B,1984_Free_200,13,23,17,usa,Ronnie_Silver,Ronnie Silver,Sprinkle Racing,,Oldsmobile,172,900,running,0,124
+1984,B,1984_Free_200,14,25,73,usa,Billy_Hogan,Billy Hogan,Freeman's Garage,,Chevrolet,169,850,running,0,121
+1984,B,1984_Free_200,15,24,67,usa,Glen_Armstrong,Glen Armstrong,Model City Auto Parts,,Chevrolet,168,550,running,0,118
+1984,B,1984_Free_200,16,17,2,usa,Jeff_Hensley,Jeff Hensley,Kopy King,,Pontiac,163,775,running,0,115
+1984,B,1984_Free_200,17,5,32,usa,Dale_Jarrett,Dale Jarrett,Budweiser,Horace_Isenhower,Pontiac,159,750,crash,0,112
+1984,B,1984_Free_200,18,9,36,usa,Tommy_Ellis,Tommy Ellis,Loven Racing,,Pontiac,132,725,transmission,0,109
+1984,B,1984_Free_200,19,4,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving,Mike_Day,Chevrolet,102,1700,steering,12,106
+1984,B,1984_Free_200,20,7,38,usa,Brad_Teague,Brad Teague,Food Country USA,Brad_Teague,Pontiac,84,375,steering,0,103
+1984,B,1984_Free_200,21,22,62,usa,John_Linville,John Linville,Linville Racing,John_Linville,Pontiac,79,665,overheating,0,100
+1984,B,1984_Free_200,22,27,4,usa,Joe_Thurman,Joe Thurman,Thurman Enterprises,Joe_Thurman,Pontiac,78,655,engine,0,97
+1984,B,1984_Free_200,23,26,0,usa,Allen_Applegate,Allen Applegate,Applegate Racing,,Chevrolet,48,345,oil leak,0,94
+1984,B,1984_Free_200,24,28,05,usa,Billy_Myers_(2),Billy Myers,Adkins Service Center,,Pontiac,43,335,rear end,0,91
+1984,B,1984_Free_200,25,3,3,usa,Mike_Porter,Mike Porter,Cole Enterprises,,Pontiac,33,325,crash,0,88
+1984,B,1984_Free_200,26,10,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Pontiac,28,620,valve,0,85
+1984,B,1984_Free_200,27,13,14,usa,Jack_Ingram,Jack Ingram,Banner House Handbags,Ronnie_Silver,Pontiac,27,1615,crash,0,82
+1984,B,1984_Free_200,28,6,15,usa,Geoffrey_Bodine,Geoffrey Bodine,Hendrick Honda,Rick_Hendrick,Pontiac,26,310,crash,0,79
+1984,B,1984_Free_200,29,29,71,usa,Benny_Kerley,Benny Kerley,Taylor Togs / Maxie's Vending,,Pontiac,1,305,push rod,0,76
+1984,B,1984_Darlington_200,1,1,47,usa,Ron_Bouchard,Ron Bouchard,Randolph Hope Insurance,Jack_Beebe,Pontiac,147,9150,running,75,180
+1984,B,1984_Darlington_200,2,2,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,147,9325,running,52,170
+1984,B,1984_Darlington_200,3,8,32,usa,Dale_Jarrett,Dale Jarrett,Budweiser / Valvoline,Horace_Isenhower,Buick,147,5325,running,0,165
+1984,B,1984_Darlington_200,4,10,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Oldsmobile,147,4200,running,0,160
+1984,B,1984_Darlington_200,5,15,34,usa,Joe_Kelly_(2),Joe Kelly,Kelly Builders,Joe_Kelly,Pontiac,145,3000,running,0,155
+1984,B,1984_Darlington_200,6,19,71,usa,Benny_Kerley,Benny Kerley,Taylor Togs / Maxie's Vending,,Pontiac,144,1800,running,0,150
+1984,B,1984_Darlington_200,7,20,48,usa,Joe_Thurman,Joe Thurman,Randa / Reah,,Pontiac,141,2700,running,0,146
+1984,B,1984_Darlington_200,8,23,04,usa,Eddie_Falk,Eddie Falk,Pabst / Godfather's Pizza,Eddie_Falk,Pontiac,140,2450,running,0,142
+1984,B,1984_Darlington_200,9,24,43,usa,Kenny_Burks,Kenny Burks,Jones Texaco,,Oldsmobile,138,1300,running,0,138
+1984,B,1984_Darlington_200,10,27,67,usa,Jeff_Berry,Jeff Berry,Model City Auto Parts,,Chevrolet,138,1325,running,0,0
+1984,B,1984_Darlington_200,11,29,25,usa,Mike_Watts,Mike Watts,G & W Hauling & Rigging,,Pontiac,135,1100,crash,0,130
+1984,B,1984_Darlington_200,12,30,40,usa,Ricky_Vanadore,Ricky Vanadore,Vanadore Rentals,,Pontiac,133,1000,running,0,127
+1984,B,1984_Darlington_200,13,16,87,usa,Steve_Jarvis,Steve Jarvis,Lewis Racing,Robbie_Lewis,Pontiac,130,950,running,0,124
+1984,B,1984_Darlington_200,14,18,60,usa,Ed_Berrier,Ed Berrier,Whitener Quarter Horses,Max_Berrier,Oldsmobile,128,1800,engine,0,121
+1984,B,1984_Darlington_200,15,35,05,usa,Billy_Myers_(2),Billy Myers,Adkins Service Center,,Pontiac,123,900,running,0,118
+1984,B,1984_Darlington_200,16,26,54,usa,Jimmy_Poovey,Jimmy Poovey,Enterprise,,Chevrolet,115,825,sway bar,0,115
+1984,B,1984_Darlington_200,17,11,14,usa,Ronnie_Silver,Ronnie Silver,Banner House Handbags,Ronnie_Silver,Oldsmobile,111,1600,engine,0,112
+1984,B,1984_Darlington_200,18,33,97,usa,Harry_Lee_Hill,Harry Lee Hill,Harry Lee Hill,Harry_Lee_Hill,Pontiac,108,775,running,0,109
+1984,B,1984_Darlington_200,19,4,8,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,"Dale_Earnhardt,_Inc.",Pontiac,106,750,engine,20,106
+1984,B,1984_Darlington_200,20,31,79,usa,Dickie_Linville,Dickie Linville,Hill Racing,,Pontiac,99,1500,handling,0,103
+1984,B,1984_Darlington_200,21,17,50,usa,Allan_Powell,Allan Powell,Cox Racing,Marion_Cox,Ford,97,700,engine,0,100
+1984,B,1984_Darlington_200,22,22,61,usa,Glenn_Sears,Glenn Sears,Sears Racing,,Pontiac,65,675,engine,0,97
+1984,B,1984_Darlington_200,23,7,24,usa,Glenn_Jarrett,Glenn Jarrett,Budweiser,Marvin_Thackston,Ford,63,1400,crash,0,94
+1984,B,1984_Darlington_200,24,5,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Alan_Dillard_Jr.,Oldsmobile,60,625,brakes,0,91
+1984,B,1984_Darlington_200,25,28,66,usa,Natz_Peters,Natz Peters,Mitton Electric,,Oldsmobile,52,600,crash,0,88
+1984,B,1984_Darlington_200,26,3,83,usa,Lake_Speed,Lake Speed,Bull Frog Knits,Lake_Speed,Pontiac,50,575,engine,0,85
+1984,B,1984_Darlington_200,27,25,02,usa,Kirk_Bryant,Kirk Bryant,Steve's Calabash Seafood,,Pontiac,38,570,ignition,0,82
+1984,B,1984_Darlington_200,28,9,85,usa,Bosco_Lowe,Bosco Lowe,Raleing Racing,,Pontiac,32,1290,ignition,0,79
+1984,B,1984_Darlington_200,29,6,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Oldsmobile,24,2760,engine,0,76
+1984,B,1984_Darlington_200,30,14,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Pontiac,13,1230,crash,0,73
+1984,B,1984_Darlington_200,31,34,62,usa,John_Linville,John Linville,Linville Construction,John_Linville,Pontiac,10,1200,engine,0,70
+1984,B,1984_Darlington_200,32,12,2,usa,Jeff_Hensley,Jeff Hensley,Kopy King,,Oldsmobile,9,1170,engine,0,67
+1984,B,1984_Darlington_200,33,21,15,usa,Geoffrey_Bodine,Geoffrey Bodine,Hendrick Honda,Rick_Hendrick,Pontiac,7,540,transmission,0,64
+1984,B,1984_Darlington_200,34,13,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving / Valvoline,Mike_Day,Oldsmobile,2,2635,engine,0,61
+1984,B,1984_Darlington_200,35,36,82,usa,Larry_Walker,Larry Walker,Archdale Upholstery,Larry_Walker,Pontiac,1,530,engine,0,58
+1984,B,1984_Darlington_200,36,32,91,usa,Danny_Weese,Danny Weese,JeNet's Hair Boutique,,Pontiac,1,525,oil pump,0,55
+1984,B,1984_Miller_150,1,1,12,usa,Tommy_Ellis,Tommy Ellis,Ellis Racing,Marilyn_Smith,Pontiac,150,5800,running,150,0
+1984,B,1984_Miller_150,2,2,15,usa,Geoffrey_Bodine,Geoffrey Bodine,Hendrick Honda,Rick_Hendrick,Pontiac,150,2725,running,0,170
+1984,B,1984_Miller_150,3,7,7,usa,Butch_Lindley,Butch Lindley,Food Country USA,Ed_Whitaker,Oldsmobile,150,2075,running,0,0
+1984,B,1984_Miller_150,4,6,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving / Valvoline,Mike_Day,Chevrolet,150,2500,running,0,160
+1984,B,1984_Miller_150,5,21,27,usa,Bosco_Lowe,Bosco Lowe,Ryder's Floor Store,Edgar_Ryder,Pontiac,149,1500,running,0,155
+1984,B,1984_Miller_150,6,19,30,usa,Bubba_Adams,Bubba Adams,RC Cola,,Pontiac,149,800,running,0,0
+1984,B,1984_Miller_150,7,12,45,usa,Charlie_Luck,Charlie Luck,Luck Stone / Dryden Oil,Charlie_Luck,Pontiac,149,1025,running,0,146
+1984,B,1984_Miller_150,8,9,3,usa,Mike_Porter,Mike Porter,Cole Enterprises,,Pontiac,149,675,running,0,142
+1984,B,1984_Miller_150,9,25,42,usa,Elton_Sawyer,Elton Sawyer,Benefit Development,Bill_Lewis,Pontiac,149,625,running,0,138
+1984,B,1984_Miller_150,10,10,04,usa,Eddie_Falk,Eddie Falk,Pabst / Godfather's Pizza,Eddie_Falk,Pontiac,148,1000,running,0,134
+1984,B,1984_Miller_150,11,3,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,148,2575,running,0,130
+1984,B,1984_Miller_150,12,22,4,usa,Joe_Thurman,Joe Thurman,Thurman Enterprises,Joe_Thurman,Pontiac,146,800,running,0,127
+1984,B,1984_Miller_150,13,27,62,usa,John_Linville,John Linville,Linville Construction,John_Linville,Pontiac,145,750,running,0,124
+1984,B,1984_Miller_150,14,29,73,usa,Billy_Hogan,Billy Hogan,Freeman's Garage,,Chevrolet,143,725,running,0,121
+1984,B,1984_Miller_150,15,5,32,usa,Dale_Jarrett,Dale Jarrett,Budweiser,Horace_Isenhower,Pontiac,142,750,crash,0,118
+1984,B,1984_Miller_150,16,14,16,usa,Jimmy_Lawson,Jimmy Lawson,Big Orange Market,,Pontiac,142,675,running,0,115
+1984,B,1984_Miller_150,17,30,05,usa,Dickie_Linville,Dickie Linville,Adkins Service Center,,Pontiac,125,670,steering,0,112
+1984,B,1984_Miller_150,18,24,24,usa,Glenn_Jarrett,Glenn Jarrett,Komfort Koach,Marvin_Thackston,Ford,124,665,running,0,109
+1984,B,1984_Miller_150,19,15,49,usa,Wayne_Patterson,Wayne Patterson,Patterson Racing,,Pontiac,110,360,oil pump,0,106
+1984,B,1984_Miller_150,20,8,95,usa,Bubba_Nissen,Bubba Nissen,Amelia Auto Parts,,Pontiac,88,655,steering,0,103
+1984,B,1984_Miller_150,21,4,1,usa,Morgan_Shepherd,Morgan Shepherd,Lindy White,Lindy_White,Pontiac,77,350,engine,0,100
+1984,B,1984_Miller_150,22,17,2,usa,Jeff_Hensley,Jeff Hensley,Kopy King,,Pontiac,69,645,engine,0,97
+1984,B,1984_Miller_150,23,13,99,usa,Rick_Mast,Rick Mast,Nelson Buidling Supply,Boyd_Nelson,Pontiac,68,640,head gasket,0,94
+1984,B,1984_Miller_150,24,11,51,usa,Robert_Ingram,Robert Ingram,Hall Pontiac,,Pontiac,60,635,steering,0,91
+1984,B,1984_Miller_150,25,16,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Pontiac,59,630,crash,0,88
+1984,B,1984_Miller_150,26,23,07,usa,Dickie_Boswell,Dickie Boswell,Bob Banning,,Pontiac,29,625,engine,0,85
+1984,B,1984_Miller_150,27,18,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Pontiac,26,1620,engine,0,82
+1984,B,1984_Miller_150,28,26,17,usa,Kenny_Burks,Kenny Burks,Jones Texaco,,Pontiac,13,315,brakes,0,79
+1984,B,1984_Miller_150,29,20,9,usa,Bob_Shreeves,Bob Shreeves,S & S Racing,Bob_Shreeves,Pontiac,10,610,crash,0,76
+1984,B,1984_Miller_150,30,28,41,usa,Jack_Bland,Jack Bland,Henderson Drywall,,Pontiac,10,300,crash,0,73
+1984,B,1984_Coca-Cola_300,1,2,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,150,4650,running,148,180
+1984,B,1984_Coca-Cola_300,2,1,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving / Valvoline,Mike_Day,Chevrolet,150,2875,running,2,170
+1984,B,1984_Coca-Cola_300,3,6,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Pontiac,150,2300,running,0,165
+1984,B,1984_Coca-Cola_300,4,5,38,usa,Brad_Teague,Brad Teague,Food Country USA,Brad_Teague,Pontiac,149,850,running,0,160
+1984,B,1984_Coca-Cola_300,5,7,14,usa,Ronnie_Silver,Ronnie Silver,Banner House Handbags,Ronnie_Silver,Pontiac,149,1050,running,0,155
+1984,B,1984_Coca-Cola_300,6,4,3,usa,Mike_Porter,Mike Porter,Cole Enterprises,,Pontiac,148,950,running,0,150
+1984,B,1984_Coca-Cola_300,7,11,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Pontiac,148,950,running,0,146
+1984,B,1984_Coca-Cola_300,8,3,32,usa,Dale_Jarrett,Dale Jarrett,Budweiser,Horace_Isenhower,Pontiac,148,900,running,0,142
+1984,B,1984_Coca-Cola_300,9,12,2,usa,Jeff_Hensley,Jeff Hensley,Kopy King,,Pontiac,148,850,running,0,138
+1984,B,1984_Coca-Cola_300,10,18,43,usa,Dickie_Linville,Dickie Linville,Dennis Heating & Air Conditioning,,Pontiac,147,800,running,0,134
+1984,B,1984_Coca-Cola_300,11,19,9,usa,Bob_Shreeves,Bob Shreeves,Al Rudd,Bob_Shreeves,Pontiac,147,750,running,0,130
+1984,B,1984_Coca-Cola_300,12,13,45,usa,Charlie_Luck,Charlie Luck,Luck Stone / Dryden Oil,Charlie_Luck,Pontiac,147,700,running,0,127
+1984,B,1984_Coca-Cola_300,13,9,04,usa,Eddie_Falk,Eddie Falk,Pabst / Godfather's Pizza,Eddie_Falk,Pontiac,146,650,running,0,124
+1984,B,1984_Coca-Cola_300,14,24,53,usa,Tim_McGuire,Tim McGuire,Meadow Gold,,Pontiac,146,325,running,0,121
+1984,B,1984_Coca-Cola_300,15,22,50,usa,Al_Hylton,Al Hylton,Burch Fencing,,Ford,144,300,running,0,118
+1984,B,1984_Coca-Cola_300,16,16,4,usa,Joe_Thurman,Joe Thurman,Thurman Enterprises,Joe_Thurman,Pontiac,144,570,running,0,115
+1984,B,1984_Coca-Cola_300,17,21,72,usa,Tommy_Hilbert,Tommy Hilbert,Hilbert Racing,Tommy_Hilbert,Pontiac,144,250,running,0,112
+1984,B,1984_Coca-Cola_300,18,14,62,usa,Melvin_Swisher,Melvin Swisher,Linville Construction,John_Linville,Pontiac,124,230,engine,0,0
+1984,B,1984_Coca-Cola_300,19,20,5,usa,Ray_Huff,Ray Huff,Collier,,Pontiac,111,225,ignition,0,106
+1984,B,1984_Coca-Cola_300,20,17,49,usa,Wayne_Patterson,Wayne Patterson,Lowe's,,Pontiac,106,220,engine,0,0
+1984,B,1984_Coca-Cola_300,21,15,27,usa,Bosco_Lowe,Bosco Lowe,Ryder's Floor Store,Edgar_Ryder,Pontiac,103,515,steering,0,100
+1984,B,1984_Coca-Cola_300,22,10,99,usa,Rick_Mast,Rick Mast,Nelson Building Supply,Boyd_Nelson,Pontiac,88,510,rear end,0,97
+1984,B,1984_Coca-Cola_300,23,8,15,usa,Glenn_Jarrett,Glenn Jarrett,Hendrick Honda,Rick_Hendrick,Pontiac,27,505,engine,0,94
+1984,B,1984_Coca-Cola_300,24,23,36,usa,Kerry_Bodenhamer,Kerry Bodenhamer,Stroh's,,Oldsmobile,17,200,engine,0,0
+1984,B,1984_Coca-Cola_300,25,25,60,usa,Ed_Berrier,Ed Berrier,Whitener Quarter Horses,Max_Berrier,Oldsmobile,2,500,transmission,0,88
+1984,B,1984_Miller_Time_300,1,6,17,usa,Darrell_Waltrip,Darrell Waltrip,Budweiser,Darrell_Waltrip,Pontiac,200,22150,running,31,0
+1984,B,1984_Miller_Time_300,2,5,28,usa,Phil_Parsons,Phil Parsons,Skoal Bandit,Johnny_Hayes,Pontiac,200,12725,running,0,170
+1984,B,1984_Miller_Time_300,3,7,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,200,20100,running,96,165
+1984,B,1984_Miller_Time_300,4,2,15,usa,Geoffrey_Bodine,Geoffrey Bodine,Hendrick Honda,Rick_Hendrick,Pontiac,200,8205,running,32,160
+1984,B,1984_Miller_Time_300,5,1,0,usa,Tim_Richmond,Tim Richmond,Hendrick Honda,Rick_Hendrick,Pontiac,200,7405,running,11,155
+1984,B,1984_Miller_Time_300,6,12,32,usa,Dale_Jarrett,Dale Jarrett,Budweiser / Valvoline,Horace_Isenhower,Buick,200,10505,running,0,150
+1984,B,1984_Miller_Time_300,7,15,1,usa,Morgan_Shepherd,Morgan Shepherd,Shepherd Racing,Lindy_White,Oldsmobile,200,5005,running,0,146
+1984,B,1984_Miller_Time_300,8,34,22,usa,Donnie_Allison,Donnie Allison,Miller High Life,Alan_Dillard_Jr.,Oldsmobile,200,8355,running,0,142
+1984,B,1984_Miller_Time_300,9,17,84,usa,Bill_Elliott,Bill Elliott,Melling Oil Pumps,Bill_Elliott,Pontiac,199,3605,running,0,0
+1984,B,1984_Miller_Time_300,10,26,45,usa,Charlie_Luck,Charlie Luck,Luck Stone / Dryden Oil,Charlie_Luck,Pontiac,196,5705,running,0,134
+1984,B,1984_Miller_Time_300,11,14,24,usa,Glenn_Jarrett,Glenn Jarrett,Budweiser,Marvin_Thackston,Ford,195,7620,running,0,130
+1984,B,1984_Miller_Time_300,12,37,70,usa,Bosco_Lowe,Bosco Lowe,Ryder's Floor Store,Edgar_Ryder,Oldsmobile,195,4270,running,0,127
+1984,B,1984_Miller_Time_300,13,30,85,usa,Curtis_Markham,Curtis Markham,J.R. Racing,Frank_Edwards,Oldsmobile,193,5420,running,0,0
+1984,B,1984_Miller_Time_300,14,24,43,usa,Kenny_Burks,Kenny Burks,Jones Texaco,,Oldsmobile,193,3220,running,0,121
+1984,B,1984_Miller_Time_300,15,19,34,usa,Joe_Kelly_(2),Joe Kelly,Kelly Builders,Joe_Kelly,Pontiac,189,5070,running,0,0
+1984,B,1984_Miller_Time_300,16,25,99,usa,Rick_Mast,Rick Mast,A.G. Dillard,Alan_Dillard_Jr.,Pontiac,186,3220,running,0,115
+1984,B,1984_Miller_Time_300,17,31,48,usa,Jimmy_Hensley,Jimmy Hensley,Brannan's Fish,,Pontiac,186,2020,running,0,112
+1984,B,1984_Miller_Time_300,18,16,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Oldsmobile,181,5820,engine,4,109
+1984,B,1984_Miller_Time_300,19,40,40,usa,Bob_Shreeves,Bob Shreeves,Vanadore Rentals,,Pontiac,175,2270,running,0,106
+1984,B,1984_Miller_Time_300,20,10,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving / Valvoline,Mike_Day,Oldsmobile,173,6750,ignition,0,103
+1984,B,1984_Miller_Time_300,21,35,35,usa,David_Ray_Boggs,David Ray Boggs,Oakwood Mobile Homes,,Pontiac,173,1350,running,0,0
+1984,B,1984_Miller_Time_300,22,23,04,usa,Eddie_Falk,Eddie Falk,Pabst / Godfather's Pizza,Eddie_Falk,Pontiac,169,1725,running,0,97
+1984,B,1984_Miller_Time_300,23,36,29,usa,Joe_Thurman,Joe Thurman,Longwood Restaurant,Chubby_Arrington,Dodge,168,1700,engine,0,94
+1984,B,1984_Miller_Time_300,24,39,94,usa,Tony_Cunningham,Tony Cunningham,Moore Motors / Green Auto,,Pontiac,163,1275,running,0,91
+1984,B,1984_Miller_Time_300,25,41,51,usa,Robert_Ingram,Robert Ingram,Hall Pontiac,,Pontiac,159,1620,differential,0,88
+1984,B,1984_Miller_Time_300,26,38,52,usa,Robert_Pressley,Robert Pressley,Jerry's Used Cars,,Oldsmobile,156,3195,running,0,0
+1984,B,1984_Miller_Time_300,27,29,02,usa,Kirk_Bryant,Kirk Bryant,Steve's Calabash Seafood,,Pontiac,154,1170,running,0,82
+1984,B,1984_Miller_Time_300,28,21,47,usa,Ron_Bouchard,Ron Bouchard,Hope Insurance,Jack_Beebe,Pontiac,148,1145,valve,24,79
+1984,B,1984_Miller_Time_300,29,9,83,usa,Lake_Speed,Lake Speed,Bull Frog Knits,Lake_Speed,Pontiac,141,1340,engine,0,76
+1984,B,1984_Miller_Time_300,30,28,2,usa,Jeff_Hensley,Jeff Hensley,Kopy King,,Oldsmobile,128,1460,steering,0,73
+1984,B,1984_Miller_Time_300,31,32,65,usa,Ken_Bouchard,Ken Bouchard,Ed's Auto Machine,M.J._Sullivan,Oldsmobile,108,1000,valve,0,70
+1984,B,1984_Miller_Time_300,32,11,60,usa,Ed_Berrier,Ed Berrier,Horton Distributing,Max_Berrier,Oldsmobile,105,3385,valve,0,67
+1984,B,1984_Miller_Time_300,33,4,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Pontiac,89,3975,cylinder,0,64
+1984,B,1984_Miller_Time_300,34,20,7,usa,Alan_Kulwicki,Alan Kulwicki,Hardee's,Ed_Whitaker,Oldsmobile,86,965,valve,0,61
+1984,B,1984_Miller_Time_300,35,22,23,usa,Davey_Allison,Davey Allison,Miller High Life,Bobby_Allison,Pontiac,71,955,ignition,0,58
+1984,B,1984_Miller_Time_300,36,18,73,usa,Mike_McLaughlin,Mike McLaughlin,Malco Prod. / BRE Speed,Len_Boehler,Pontiac,44,2935,steering,0,55
+1984,B,1984_Miller_Time_300,37,13,89,usa,Tom_Peck,Tom Peck,Hagerstown Speedway,Frank_Plessinger,Pontiac,37,2935,crash,0,0
+1984,B,1984_Miller_Time_300,38,3,8,usa,Dale_Earnhardt,Dale Earnhardt,Wrangler,"Dale_Earnhardt,_Inc.",Pontiac,25,1075,engine,2,0
+1984,B,1984_Miller_Time_300,39,8,98,usa,Joe_Ruttman,Joe Ruttman,Whitaker Racing,Ed_Whitaker,Oldsmobile,16,915,engine,0,46
+1984,B,1984_Miller_Time_300,40,27,50,usa,Allan_Powell,Allan Powell,Tri County Speedway,Marion_Cox,Ford,6,800,engine,0,43
+1984,B,1984_Miller_Time_300,41,33,14,usa,Ronnie_Silver,Ronnie Silver,Banner House Handbags,Ronnie_Silver,Oldsmobile,2,1200,transmission,0,40
+1984,B,1984_Bobby_Isaac_Memorial_200,1,6,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Pontiac,200,3100,running,84,180
+1984,B,1984_Bobby_Isaac_Memorial_200,2,12,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Pontiac,200,2450,running,48,170
+1984,B,1984_Bobby_Isaac_Memorial_200,3,4,32,usa,Dale_Jarrett,Dale Jarrett,Budweiser / Valvoline,Horace_Isenhower,Pontiac,200,1250,running,0,165
+1984,B,1984_Bobby_Isaac_Memorial_200,4,3,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving,Mike_Day,Chevrolet,200,1950,running,48,160
+1984,B,1984_Bobby_Isaac_Memorial_200,5,1,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,200,2550,running,2,155
+1984,B,1984_Bobby_Isaac_Memorial_200,6,10,14,usa,Ronnie_Silver,Ronnie Silver,Banner House Handbags,Ronnie_Silver,Pontiac,200,950,running,0,150
+1984,B,1984_Bobby_Isaac_Memorial_200,7,7,38,usa,Brad_Teague,Brad Teague,Food Country USA,Brad_Teague,Pontiac,200,650,running,0,146
+1984,B,1984_Bobby_Isaac_Memorial_200,8,9,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Pontiac,200,850,running,0,142
+1984,B,1984_Bobby_Isaac_Memorial_200,9,19,27,usa,Bosco_Lowe,Bosco Lowe,Ryder's Floor Store,Edgar_Ryder,Pontiac,199,800,running,0,138
+1984,B,1984_Bobby_Isaac_Memorial_200,10,13,07,usa,Dickie_Boswell,Dickie Boswell,Bob Banning,,Pontiac,199,750,running,0,134
+1984,B,1984_Bobby_Isaac_Memorial_200,11,20,24,usa,Glenn_Jarrett,Glenn Jarrett,Komfort Koach,Marvin_Thackston,Ford,199,700,running,0,130
+1984,B,1984_Bobby_Isaac_Memorial_200,12,21,4,usa,Joe_Thurman,Joe Thurman,Thurman Enterprises,Joe_Thurman,Pontiac,198,650,running,0,127
+1984,B,1984_Bobby_Isaac_Memorial_200,13,22,62,usa,John_Linville,John Linville,Linville Racing,John_Linville,Pontiac,197,600,running,0,124
+1984,B,1984_Bobby_Isaac_Memorial_200,14,15,43,usa,Dickie_Linville,Dickie Linville,Dennis Heating & Air Conditioning,,Pontiac,195,575,running,0,121
+1984,B,1984_Bobby_Isaac_Memorial_200,15,17,2,usa,Jeff_Hensley,Jeff Hensley,Kopy King,,Pontiac,195,550,running,0,118
+1984,B,1984_Bobby_Isaac_Memorial_200,16,11,04,usa,Eddie_Falk,Eddie Falk,Pabst / Godfather's Pizza,Eddie_Falk,Pontiac,192,520,running,0,115
+1984,B,1984_Bobby_Isaac_Memorial_200,17,23,95,usa,Joe_Falk,Joe Falk,Thalia Auto Parts,Bubba_Nissen,Pontiac,161,250,running,0,0
+1984,B,1984_Bobby_Isaac_Memorial_200,18,24,41,usa,Jack_Bland,Jack Bland,Henderson Drywall,,Pontiac,148,230,oil pressure,0,0
+1984,B,1984_Bobby_Isaac_Memorial_200,19,2,1,usa,Morgan_Shepherd,Morgan Shepherd,Lindy White,Lindy_White,Pontiac,143,675,engine,18,106
+1984,B,1984_Bobby_Isaac_Memorial_200,20,8,45,usa,Charlie_Luck,Charlie Luck,Luck Stone / Dryden Oil,Charlie_Luck,Pontiac,129,470,handling,0,103
+1984,B,1984_Bobby_Isaac_Memorial_200,21,25,60,usa,Ed_Berrier,Ed Berrier,Whitener Quarter Horses,Max_Berrier,Oldsmobile,110,465,transmission,0,100
+1984,B,1984_Bobby_Isaac_Memorial_200,22,16,99,usa,Rick_Mast,Rick Mast,Nelson Building Supply,Boyd_Nelson,Pontiac,106,460,engine,0,97
+1984,B,1984_Bobby_Isaac_Memorial_200,23,5,01,usa,Pete_Silva,Pete Silva,Southeastern Transmissions,,Chevrolet,57,205,engine,0,94
+1984,B,1984_Bobby_Isaac_Memorial_200,24,14,9,usa,Bob_Shreeves,Bob Shreeves,S & S Racing,Bob_Shreeves,Pontiac,36,450,crash,0,91
+1984,B,1984_Bobby_Isaac_Memorial_200,25,18,16,usa,Jimmy_Lawson,Jimmy Lawson,Big Orange Market,,Pontiac,34,450,crash,0,88
+1984,B,1984_Komfort_Koach_200_%28October%29,1,1,15,usa,Geoffrey_Bodine,Geoffrey Bodine,Hendrick Honda,Rick_Hendrick,Pontiac,197,8800,running,161,180
+1984,B,1984_Komfort_Koach_200_%28October%29,2,3,47,usa,Ron_Bouchard,Ron Bouchard,Hope Insurance,Jack_Beebe,Pontiac,197,5000,running,9,170
+1984,B,1984_Komfort_Koach_200_%28October%29,3,19,70,usa,Bosco_Lowe,Bosco Lowe,Ryder's Floor Store,Edgar_Ryder,Pontiac,197,4075,running,5,165
+1984,B,1984_Komfort_Koach_200_%28October%29,4,11,48,usa,Joe_Thurman,Joe Thurman,Longwood Restaurant,,Pontiac,196,2950,running,0,160
+1984,B,1984_Komfort_Koach_200_%28October%29,5,10,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving / Valvoline,Mike_Day,Oldsmobile,195,3850,running,2,155
+1984,B,1984_Komfort_Koach_200_%28October%29,6,16,50,usa,Allan_Powell,Allan Powell,Tri County Speedway,Marion_Cox,Ford,194,1700,running,1,150
+1984,B,1984_Komfort_Koach_200_%28October%29,7,28,52,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Oldsmobile,194,3200,running,0,0
+1984,B,1984_Komfort_Koach_200_%28October%29,8,13,14,usa,Ronnie_Silver,Ronnie Silver,Banner House Handbags,Ronnie_Silver,Oldsmobile,192,1500,running,0,142
+1984,B,1984_Komfort_Koach_200_%28October%29,9,35,87,usa,Steve_Jarvis,Steve Jarvis,Jarvis Racing,Robbie_Lewis,Pontiac,192,900,running,0,138
+1984,B,1984_Komfort_Koach_200_%28October%29,10,20,2,usa,Jeff_Hensley,Jeff Hensley,Kopy King,,Oldsmobile,190,1250,running,0,134
+1984,B,1984_Komfort_Koach_200_%28October%29,11,22,03,usa,Gene_Coyle,Gene Coyle,Coyle Racing,,Pontiac,187,770,running,0,0
+1984,B,1984_Komfort_Koach_200_%28October%29,12,23,07,usa,Dickie_Boswell,Dickie Boswell,Bob Banning,,Pontiac,186,1150,running,0,127
+1984,B,1984_Komfort_Koach_200_%28October%29,13,30,82,usa,Larry_Walker,Larry Walker,Walker Upholstery,Larry_Walker,Pontiac,182,725,running,0,124
+1984,B,1984_Komfort_Koach_200_%28October%29,14,32,67,usa,Jeff_Berry,Jeff Berry,Model City Auto Parts,,Chevrolet,172,700,running,0,121
+1984,B,1984_Komfort_Koach_200_%28October%29,15,18,04,usa,Eddie_Falk,Eddie Falk,Pabst / Godfather's Pizza,Eddie_Falk,Pontiac,169,1075,running,0,118
+1984,B,1984_Komfort_Koach_200_%28October%29,16,26,61,usa,Glenn_Sears,Glenn Sears,Sears / Ashworth,,Pontiac,144,650,crash,0,115
+1984,B,1984_Komfort_Koach_200_%28October%29,17,34,40,usa,Bob_Shreeves,Bob Shreeves,Vanadore Rentals,,Pontiac,142,1000,running,0,112
+1984,B,1984_Komfort_Koach_200_%28October%29,18,21,45,usa,Charlie_Luck,Charlie Luck,Luck Stone / Dryden Oil,Charlie_Luck,Pontiac,132,975,crash,0,109
+1984,B,1984_Komfort_Koach_200_%28October%29,19,17,02,usa,Kirk_Bryant,Kirk Bryant,Steve's Calabash Seafood,,Pontiac,108,550,crash,0,106
+1984,B,1984_Komfort_Koach_200_%28October%29,20,4,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Oldsmobile,105,2425,battery,5,103
+1984,B,1984_Komfort_Koach_200_%28October%29,21,15,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Oldsmobile,80,850,crash,0,100
+1984,B,1984_Komfort_Koach_200_%28October%29,22,8,32,usa,Dale_Jarrett,Dale Jarrett,Budweiser / Valvoline,Horace_Isenhower,Buick,80,825,ignition,0,97
+1984,B,1984_Komfort_Koach_200_%28October%29,23,25,39,usa,Mitchell_Clark,Mitchell Clark,Beauregard's,,Pontiac,73,420,engine,0,94
+1984,B,1984_Komfort_Koach_200_%28October%29,24,33,97,usa,Harry_Lee_Hill,Harry Lee Hill,Hill Racing,Harry_Lee_Hill,Pontiac,60,415,crash,0,91
+1984,B,1984_Komfort_Koach_200_%28October%29,25,36,85,usa,Bobby_Boggero,Bobby Boggero,Boggero Services,,Pontiac,41,410,oil pressure,0,88
+1984,B,1984_Komfort_Koach_200_%28October%29,26,24,51,usa,Robert_Ingram,Robert Ingram,Hall Pontiac,,Pontiac,29,805,crash,0,85
+1984,B,1984_Komfort_Koach_200_%28October%29,27,7,34,usa,Joe_Kelly_(2),Joe Kelly,Kelly Builders,Joe_Kelly,Pontiac,28,400,crash,0,0
+1984,B,1984_Komfort_Koach_200_%28October%29,28,14,23,usa,Davey_Allison,Davey Allison,Miller High Life,Bobby_Allison,Pontiac,28,395,crash,0,79
+1984,B,1984_Komfort_Koach_200_%28October%29,29,5,60,usa,Ed_Berrier,Ed Berrier,Whitener Quarter Horses,Max_Berrier,Oldsmobile,16,790,crash,0,76
+1984,B,1984_Komfort_Koach_200_%28October%29,30,29,49,usa,Wayne_Patterson,Wayne Patterson,Lowe's,,Pontiac,16,385,engine,0,73
+1984,B,1984_Komfort_Koach_200_%28October%29,31,6,22,usa,Bobby_Allison,Bobby Allison,Miller High Life,Alan_Dillard_Jr.,Oldsmobile,15,380,crash,0,70
+1984,B,1984_Komfort_Koach_200_%28October%29,32,12,1,usa,Morgan_Shepherd,Morgan Shepherd,Shepherd Racing,Lindy_White,Oldsmobile,15,775,crash,0,67
+1984,B,1984_Komfort_Koach_200_%28October%29,33,2,00,usa,Sam_Ard,Sam Ard,Thomas Brothers Country Ham,Howard_Thomas,Oldsmobile,14,3510,crash,14,64
+1984,B,1984_Komfort_Koach_200_%28October%29,34,9,24,usa,Glenn_Jarrett,Glenn Jarrett,Budweiser,Marvin_Thackston,Ford,3,755,crash,0,61
+1984,B,1984_Komfort_Koach_200_%28October%29,35,31,73,usa,Billy_Hogan,Billy Hogan,Capel Rugs,,Chevrolet,3,750,crash,0,58
+1984,B,1984_Komfort_Koach_200_%28October%29,36,27,71,usa,Dickie_Linville,Dickie Linville,Taylor Togs,,Pontiac,3,350,crash,0,55
+1984,B,1984_Cardinal_250,1,11,1,usa,Morgan_Shepherd,Morgan Shepherd,Lindy White,Lindy_White,Pontiac,250,9525,running,118,180
+1984,B,1984_Cardinal_250,2,13,42,usa,Elton_Sawyer,Elton Sawyer,Benefit Development,Bill_Lewis,Pontiac,250,4125,running,0,0
+1984,B,1984_Cardinal_250,3,19,10,usa,L_D_Ottinger,L.D. Ottinger,Schlitz,C.B._Gwyn,Pontiac,250,2715,running,1,165
+1984,B,1984_Cardinal_250,4,18,4,usa,Joe_Thurman,Joe Thurman,Thurman Enterprises,Joe_Thurman,Pontiac,250,1740,running,0,160
+1984,B,1984_Cardinal_250,5,12,32,usa,Dale_Jarrett,Dale Jarrett,Budweiser / Valvoline,Horace_Isenhower,Pontiac,249,1725,running,0,155
+1984,B,1984_Cardinal_250,6,26,60,usa,Ed_Berrier,Ed Berrier,Whitener Quarter Horses,Max_Berrier,Oldsmobile,249,1525,running,0,150
+1984,B,1984_Cardinal_250,7,9,2,usa,Jeff_Hensley,Jeff Hensley,Flute's Sheetmetal,,Pontiac,249,1400,running,0,146
+1984,B,1984_Cardinal_250,8,1,15,usa,Geoffrey_Bodine,Geoffrey Bodine,Hendrick Honda,Rick_Hendrick,Pontiac,249,1850,running,97,0
+1984,B,1984_Cardinal_250,9,21,88,usa,Jimmy_Hensley,Jimmy Hensley,Service Specialties,,Pontiac,248,1055,running,0,0
+1984,B,1984_Cardinal_250,10,8,6,usa,Tommy_Houston,Tommy Houston,Mason Day Paving / Valvoline,Mike_Day,Oldsmobile,247,2475,running,3,134
+1984,B,1984_Cardinal_250,11,22,9,usa,Bob_Shreeves,Bob Shreeves,S & S Racing,Bob_Shreeves,Pontiac,246,1310,running,0,130
+1984,B,1984_Cardinal_250,12,10,62,usa,John_Linville,John Linville,Westmoreland Racing,John_Linville,Pontiac,244,1260,running,0,127
+1984,B,1984_Cardinal_250,13,24,14,usa,Ronnie_Silver,Ronnie Silver,Banner House Handbags,Ronnie_Silver,Pontiac,227,1265,running,0,124
+1984,B,1984_Cardinal_250,14,16,45,usa,Charlie_Luck,Charlie Luck,Luck Stone / Dryden Oil,Charlie_Luck,Pontiac,196,1270,running,0,121
+1984,B,1984_Cardinal_250,15,6,11,usa,Jack_Ingram,Jack Ingram,Fast Fare / Skoal Bandit,Jack_Ingram,Pontiac,192,2200,ignition,0,118
+1984,B,1984_Cardinal_250,16,15,3,usa,Mike_Porter,Mike Porter,Cole Enterprises,,Pontiac,179,930,crash,7,115
+1984,B,1984_Cardinal_250,17,4,28,usa,Phil_Parsons,Phil Parsons,Enterprise Chevy / Skoal,Johnny_Hayes,Pontiac,141,860,engine,0,112
+1984,B,1984_Cardinal_250,18,27,73,usa,Billy_Hogan,Billy Hogan,Capel Rugs,,Chevrolet,132,1165,running,0,109
+1984,B,1984_Cardinal_250,19,14,95,usa,Bubba_Nissen,Bubba Nissen,Thalia Auto Parts,,Pontiac,129,870,engine,0,0
+1984,B,1984_Cardinal_250,20,20,27,usa,Bosco_Lowe,Bosco Lowe,Ryder's Floor Store,Edgar_Ryder,Pontiac,120,1130,crankshaft,0,103
+1984,B,1984_Cardinal_250,21,17,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Pontiac,106,2120,engine,23,100
+1984,B,1984_Cardinal_250,22,25,43,usa,Dickie_Linville,Dickie Linville,Dennis Heating & Air Conditioning,,Pontiac,104,1085,engine,0,97
+1984,B,1984_Cardinal_250,23,30,99,usa,Dickie_Boswell,Dickie Boswell,Nelson Building Supply,,Pontiac,103,1065,oil leak,0,94
+1984,B,1984_Cardinal_250,24,23,41,usa,Jack_Bland,Jack Bland,Henderson Drywall,,Pontiac,94,745,engine,0,91
+1984,B,1984_Cardinal_250,25,29,30,usa,Bubba_Adams,Bubba Adams,RC Cola,,Pontiac,86,725,engine,0,88
+1984,B,1984_Cardinal_250,26,2,12,usa,Tommy_Ellis,Tommy Ellis,Ellis Racing,,Pontiac,68,980,engine,1,85
+1984,B,1984_Cardinal_250,27,3,04,usa,Eddie_Falk,Eddie Falk,Pabst / Godfather's Pizza,Eddie_Falk,Pontiac,47,1060,crash,0,82
+1984,B,1984_Cardinal_250,28,5,38,usa,Brad_Teague,Brad Teague,Food Country USA,Brad_Teague,Pontiac,38,640,engine,0,79
+1984,B,1984_Cardinal_250,29,7,7,usa,Butch_Lindley,Butch Lindley,Food Country USA,Ed_Whitaker,Oldsmobile,32,620,engine,0,0
+1984,B,1984_Cardinal_250,30,31,24,usa,Glenn_Jarrett,Glenn Jarrett,Komfort Koach,Marvin_Thackston,Ford,24,925,overheating,0,73
+1984,B,1984_Cardinal_250,31,32,16,usa,Jimmy_Lawson,Jimmy Lawson,Big Orange Market,,Pontiac,21,925,engine,0,70
+1984,B,1984_Cardinal_250,32,28,51,usa,Robert_Ingram,Robert Ingram,Hall Pontiac,,Pontiac,2,925,overheating,0,67

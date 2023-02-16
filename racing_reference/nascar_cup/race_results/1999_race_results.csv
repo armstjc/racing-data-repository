@@ -1,0 +1,1463 @@
+season,series_id,race_id,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
+1999,W,1999_Daytona_500,1,1,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,200,1172246,running,17,180
+1999,W,1999_Daytona_500,2,4,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,200,613659,running,0,170
+1999,W,1999_Daytona_500,3,41,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,200,440584,running,0,165
+1999,W,1999_Daytona_500,4,12,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,200,350634,running,31,165
+1999,W,1999_Daytona_500,5,13,7,usa,Michael_Waltrip,Michael Waltrip,Philips / Klaussner,Jim_Mattei,Chevrolet,200,290596,running,0,155
+1999,W,1999_Daytona_500,6,7,33,usa,Ken_Schrader,Ken Schrader,Skoal U.S. Tobacco Company,Andy_Petree,Chevrolet,200,186731,running,0,150
+1999,W,1999_Daytona_500,7,24,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,200,145809,running,0,146
+1999,W,1999_Daytona_500,8,10,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,200,173209,running,104,152
+1999,W,1999_Daytona_500,9,26,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,200,142884,running,0,138
+1999,W,1999_Daytona_500,10,21,98,usa,Rick_Mast,Rick Mast,Sonic,Cale_Yarborough,Ford,200,139096,running,0,134
+1999,W,1999_Daytona_500,11,25,9,usa,Jerry_Nadeau,Jerry Nadeau,Cartoon Network / Dexter's Laboratory,Harry_Melling,Ford,200,125106,running,0,130
+1999,W,1999_Daytona_500,12,34,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,200,128156,running,0,127
+1999,W,1999_Daytona_500,13,14,16,usa,Kevin_Lepage,Kevin Lepage,Primestar / TV Guide,Jack_Roush,Ford,200,129009,running,0,124
+1999,W,1999_Daytona_500,14,31,36,usa,Ernie_Irvan,Ernie Irvan,M&M's,Nelson_Bowers,Pontiac,200,123584,running,0,121
+1999,W,1999_Daytona_500,15,27,75,usa,Ted_Musgrave,Ted Musgrave,Remington Arms Camouflage,Butch_Mock,Ford,200,116571,running,0,118
+1999,W,1999_Daytona_500,16,35,71,usa,Dave_Marcis,Dave Marcis,RealTree Camouflage,Dave_Marcis,Chevrolet,199,110709,running,0,115
+1999,W,1999_Daytona_500,17,39,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios / Pop Secret,Jack_Roush,Ford,199,122081,running,0,112
+1999,W,1999_Daytona_500,18,20,30,usa,Derrike_Cope,Derrike Cope,Jimmy Dean Sausage,Chuck_Rider,Pontiac,199,110859,running,0,109
+1999,W,1999_Daytona_500,19,15,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines & Transmissions,Doug_Bawel,Ford,199,109231,running,0,106
+1999,W,1999_Daytona_500,20,6,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,199,138934,running,7,108
+1999,W,1999_Daytona_500,21,43,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart,Travis_Carter,Ford,199,104946,running,0,100
+1999,W,1999_Daytona_500,22,40,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,199,114309,running,0,97
+1999,W,1999_Daytona_500,23,42,90,usa,Mike_Wallace,Mike Wallace,Accu-Turn / Kodiak,Junie_Donlavey,Ford,199,111806,running,0,94
+1999,W,1999_Daytona_500,24,18,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,198,111679,running,0,91
+1999,W,1999_Daytona_500,25,3,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,198,149451,running,20,93
+1999,W,1999_Daytona_500,26,28,58,usa,Ricky_Craven,Ricky Craven,Hollywood Video,Scott_Barbour,Ford,197,99504,running,0,85
+1999,W,1999_Daytona_500,27,37,94,usa,Bill_Elliott,Bill Elliott,McDonald's Drive Thru,Bill_Elliott,Ford,194,107351,handling,7,87
+1999,W,1999_Daytona_500,28,2,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,181,102204,running,0,79
+1999,W,1999_Daytona_500,29,16,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak Advantix,Larry_McClure,Chevrolet,173,111679,crash,0,76
+1999,W,1999_Daytona_500,30,29,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,168,102226,running,0,73
+1999,W,1999_Daytona_500,31,9,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,147,115951,handling,0,70
+1999,W,1999_Daytona_500,32,17,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,144,100101,handling,0,67
+1999,W,1999_Daytona_500,33,22,45,usa,Rich_Bickle,Rich Bickle,Lucky Dog / 10-10-345,Tim_Beverley,Pontiac,142,92504,handling,0,64
+1999,W,1999_Daytona_500,34,23,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,139,98151,handling,0,61
+1999,W,1999_Daytona_500,35,5,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,138,118351,handling,0,58
+1999,W,1999_Daytona_500,36,32,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,137,96779,crash,0,55
+1999,W,1999_Daytona_500,37,8,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,134,121379,crash,14,57
+1999,W,1999_Daytona_500,38,19,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,134,103326,crash,0,49
+1999,W,1999_Daytona_500,39,30,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,134,88054,crash,0,46
+1999,W,1999_Daytona_500,40,38,21,usa,Elliott_Sadler,Elliott Sadler,Citgo Supergard,Wood_Brothers,Ford,132,94329,crash,0,43
+1999,W,1999_Daytona_500,41,11,23,usa,Jimmy_Spencer,Jimmy Spencer,Winston No Bull,Travis_Carter,Ford,121,95601,crash,0,40
+1999,W,1999_Daytona_500,42,33,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,92,86026,engine,0,37
+1999,W,1999_Daytona_500,43,36,43,usa,John_Andretti,John Andretti,STP Petty Blue,Petty_Enterprises,Pontiac,25,91751,engine,0,34
+1999,W,1999_Dura_Lube_Big_K_400,1,5,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,393,104635,running,50,180
+1999,W,1999_Dura_Lube_Big_K_400,2,11,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,393,83675,running,0,170
+1999,W,1999_Dura_Lube_Big_K_400,3,9,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,393,71335,running,22,170
+1999,W,1999_Dura_Lube_Big_K_400,4,2,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,393,65195,running,228,170
+1999,W,1999_Dura_Lube_Big_K_400,5,4,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,393,45610,running,0,155
+1999,W,1999_Dura_Lube_Big_K_400,6,7,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,393,53000,running,0,150
+1999,W,1999_Dura_Lube_Big_K_400,7,13,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,393,46535,running,1,151
+1999,W,1999_Dura_Lube_Big_K_400,8,29,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,393,30710,running,0,142
+1999,W,1999_Dura_Lube_Big_K_400,9,16,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak MAX,Larry_McClure,Chevrolet,393,47410,running,0,138
+1999,W,1999_Dura_Lube_Big_K_400,10,6,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,393,45910,running,0,134
+1999,W,1999_Dura_Lube_Big_K_400,11,12,33,usa,Ken_Schrader,Ken Schrader,Skoal / U.S. Smokeless Tobacco,Andy_Petree,Chevrolet,392,46325,running,0,130
+1999,W,1999_Dura_Lube_Big_K_400,12,20,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,392,36785,running,0,127
+1999,W,1999_Dura_Lube_Big_K_400,13,14,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,392,28585,running,0,124
+1999,W,1999_Dura_Lube_Big_K_400,14,40,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,392,33785,running,0,121
+1999,W,1999_Dura_Lube_Big_K_400,15,30,94,usa,Bill_Elliott,Bill Elliott,McDonald's Drive Thru,Bill_Elliott,Ford,392,39625,running,0,118
+1999,W,1999_Dura_Lube_Big_K_400,16,37,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,392,38585,running,0,115
+1999,W,1999_Dura_Lube_Big_K_400,17,32,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,392,36585,running,0,112
+1999,W,1999_Dura_Lube_Big_K_400,18,31,41,usa,David_Green,David Green,Kodiak Ice,Larry_Hedrick,Chevrolet,392,29185,running,0,109
+1999,W,1999_Dura_Lube_Big_K_400,19,10,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,392,35635,running,0,106
+1999,W,1999_Dura_Lube_Big_K_400,20,28,7,usa,Michael_Waltrip,Michael Waltrip,Philips / Klaussner,Jim_Mattei,Chevrolet,392,38225,running,0,103
+1999,W,1999_Dura_Lube_Big_K_400,21,36,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,391,35160,running,0,100
+1999,W,1999_Dura_Lube_Big_K_400,22,35,58,usa,Ricky_Craven,Ricky Craven,Hollywood Video,Scott_Barbour,Ford,391,24135,running,0,97
+1999,W,1999_Dura_Lube_Big_K_400,23,22,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,390,34785,running,0,94
+1999,W,1999_Dura_Lube_Big_K_400,24,17,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,390,34085,running,0,91
+1999,W,1999_Dura_Lube_Big_K_400,25,23,23,usa,Jimmy_Spencer,Jimmy Spencer,Winston No Bull,Travis_Carter,Ford,390,34085,running,0,88
+1999,W,1999_Dura_Lube_Big_K_400,26,38,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,390,33475,running,0,85
+1999,W,1999_Dura_Lube_Big_K_400,27,43,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart,Travis_Carter,Ford,390,23075,running,0,82
+1999,W,1999_Dura_Lube_Big_K_400,28,21,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,390,33025,running,0,79
+1999,W,1999_Dura_Lube_Big_K_400,29,34,36,usa,Ernie_Irvan,Ernie Irvan,M&M's,Nelson_Bowers,Pontiac,389,32675,running,0,76
+1999,W,1999_Dura_Lube_Big_K_400,30,1,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,389,38325,running,3,78
+1999,W,1999_Dura_Lube_Big_K_400,31,24,9,usa,Jerry_Nadeau,Jerry Nadeau,Cartoon Network,Harry_Melling,Ford,389,25575,running,0,70
+1999,W,1999_Dura_Lube_Big_K_400,32,39,90,usa,Morgan_Shepherd,Morgan Shepherd,Accu-Turn / Pep Boys,Junie_Donlavey,Ford,388,29400,running,0,67
+1999,W,1999_Dura_Lube_Big_K_400,33,8,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,388,29525,running,0,64
+1999,W,1999_Dura_Lube_Big_K_400,34,33,71,usa,Dave_Marcis,Dave Marcis,RealTree Camouflage,Dave_Marcis,Chevrolet,388,22150,running,0,61
+1999,W,1999_Dura_Lube_Big_K_400,35,42,98,usa,Rick_Mast,Rick Mast,Burdette Motorsports,Cale_Yarborough,Ford,387,22025,running,0,58
+1999,W,1999_Dura_Lube_Big_K_400,36,41,91,usa,Steve_Grissom,Steve Grissom,Little Joe's Auto,Joe_Falk,Chevrolet,386,21975,running,0,55
+1999,W,1999_Dura_Lube_Big_K_400,37,27,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,376,28925,running,0,52
+1999,W,1999_Dura_Lube_Big_K_400,38,26,21,usa,Elliott_Sadler,Elliott Sadler,Citgo Supergard,Wood_Brothers,Ford,361,29375,crash,0,49
+1999,W,1999_Dura_Lube_Big_K_400,39,3,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,310,44125,engine,89,51
+1999,W,1999_Dura_Lube_Big_K_400,40,25,75,usa,Ted_Musgrave,Ted Musgrave,Remington Arms / NWTF,Butch_Mock,Ford,302,21775,running,0,43
+1999,W,1999_Dura_Lube_Big_K_400,41,18,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,275,36725,crash,0,40
+1999,W,1999_Dura_Lube_Big_K_400,42,15,16,usa,Kevin_Lepage,Kevin Lepage,Primestar,Jack_Roush,Ford,194,28875,engine,0,37
+1999,W,1999_Dura_Lube_Big_K_400,43,19,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,120,21619,engine,0,34
+1999,W,1999_Las_Vegas_400,1,19,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,267,336590,running,111,185
+1999,W,1999_Las_Vegas_400,2,30,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,267,217275,running,71,175
+1999,W,1999_Las_Vegas_400,3,11,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,267,179400,running,1,170
+1999,W,1999_Las_Vegas_400,4,5,31,usa,Mike_Skinner,Mike Skinner,Lowe's / Valspar,Richard_Childress,Chevrolet,267,133175,running,0,160
+1999,W,1999_Las_Vegas_400,5,1,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,267,118540,running,25,160
+1999,W,1999_Las_Vegas_400,6,40,36,usa,Ernie_Irvan,Ernie Irvan,M&M's,Nelson_Bowers,Pontiac,267,95075,running,5,155
+1999,W,1999_Las_Vegas_400,7,38,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,267,91350,running,0,146
+1999,W,1999_Las_Vegas_400,8,12,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,267,88600,running,7,147
+1999,W,1999_Las_Vegas_400,9,37,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,267,85900,running,0,138
+1999,W,1999_Las_Vegas_400,10,13,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,267,92300,running,17,139
+1999,W,1999_Las_Vegas_400,11,9,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,266,85240,running,0,130
+1999,W,1999_Las_Vegas_400,12,15,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,266,80700,running,6,132
+1999,W,1999_Las_Vegas_400,13,18,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,266,78300,running,0,124
+1999,W,1999_Las_Vegas_400,14,31,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,266,73000,running,0,121
+1999,W,1999_Las_Vegas_400,15,33,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,266,75300,running,2,123
+1999,W,1999_Las_Vegas_400,16,41,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,266,70800,running,0,115
+1999,W,1999_Las_Vegas_400,17,7,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,266,73800,running,22,117
+1999,W,1999_Las_Vegas_400,18,16,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,266,70740,running,0,109
+1999,W,1999_Las_Vegas_400,19,22,98,usa,Rick_Mast,Rick Mast,Jelly Belly / Yarborough / Burdette,Cale_Yarborough,Ford,266,60500,running,0,106
+1999,W,1999_Las_Vegas_400,20,28,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,265,70065,running,0,103
+1999,W,1999_Las_Vegas_400,21,17,16,usa,Kevin_Lepage,Kevin Lepage,Primestar,Jack_Roush,Ford,265,65700,running,0,100
+1999,W,1999_Las_Vegas_400,22,2,7,usa,Michael_Waltrip,Michael Waltrip,Philips / Klaussner,Jim_Mattei,Chevrolet,265,64200,running,0,97
+1999,W,1999_Las_Vegas_400,23,21,45,usa,Rich_Bickle,Rich Bickle,Lucky Dog,Tim_Beverley,Pontiac,264,52800,running,0,94
+1999,W,1999_Las_Vegas_400,24,32,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,264,66800,running,0,91
+1999,W,1999_Las_Vegas_400,25,43,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart,Travis_Carter,Ford,264,50800,running,0,88
+1999,W,1999_Las_Vegas_400,26,39,23,usa,Jimmy_Spencer,Jimmy Spencer,Winston,Travis_Carter,Ford,264,60400,running,0,85
+1999,W,1999_Las_Vegas_400,27,23,41,usa,David_Green,David Green,Kodiak,Larry_Hedrick,Chevrolet,263,52000,running,0,82
+1999,W,1999_Las_Vegas_400,28,4,19,usa,Tom_Hubert,Tom Hubert,Bradford White,Kurt_Roehrig,Ford,262,48700,running,0,79
+1999,W,1999_Las_Vegas_400,29,35,00,usa,Buckshot_Jones,Buckshot Jones,Crown Fiber / Cheez-It Snack Crackers,Billy_Jones,Pontiac,262,48600,running,0,76
+1999,W,1999_Las_Vegas_400,30,42,90,usa,Stanton_Barrett,Stanton Barrett,Acutrim / Nice,Junie_Donlavey,Ford,259,57725,running,0,73
+1999,W,1999_Las_Vegas_400,31,8,9,usa,Jerry_Nadeau,Jerry Nadeau,WCW / NWO,Harry_Melling,Ford,249,50800,engine,0,70
+1999,W,1999_Las_Vegas_400,32,36,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,228,47000,engine,0,67
+1999,W,1999_Las_Vegas_400,33,25,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,219,56800,running,0,64
+1999,W,1999_Las_Vegas_400,34,24,30,usa,Derrike_Cope,Derrike Cope,State Fair,Chuck_Rider,Pontiac,215,49100,running,0,61
+1999,W,1999_Las_Vegas_400,35,3,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,212,53400,running,0,58
+1999,W,1999_Las_Vegas_400,36,20,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,184,46200,running,0,55
+1999,W,1999_Las_Vegas_400,37,14,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,172,52975,handling,0,52
+1999,W,1999_Las_Vegas_400,38,26,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,160,53075,running,0,49
+1999,W,1999_Las_Vegas_400,39,6,58,usa,Ricky_Craven,Ricky Craven,Hollywood Video,Scott_Barbour,Ford,136,45575,handling,0,46
+1999,W,1999_Las_Vegas_400,40,27,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,131,45375,handling,0,43
+1999,W,1999_Las_Vegas_400,41,10,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,130,52175,crash,0,40
+1999,W,1999_Las_Vegas_400,42,29,91,usa,Steve_Grissom,Steve Grissom,Textilease,Joe_Falk,Chevrolet,116,45475,crash,0,37
+1999,W,1999_Las_Vegas_400,43,34,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,115,51975,engine,0,34
+1999,W,1999_Cracker_Barrel_500,1,8,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,325,117650,running,109,185
+1999,W,1999_Cracker_Barrel_500,2,1,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,325,98850,running,103,175
+1999,W,1999_Cracker_Barrel_500,3,13,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,325,62775,running,0,165
+1999,W,1999_Cracker_Barrel_500,4,37,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,325,64900,running,1,165
+1999,W,1999_Cracker_Barrel_500,5,4,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,325,53675,running,0,155
+1999,W,1999_Cracker_Barrel_500,6,2,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,325,64145,running,79,155
+1999,W,1999_Cracker_Barrel_500,7,21,36,usa,Ernie_Irvan,Ernie Irvan,M&M's,Nelson_Bowers,Pontiac,325,40220,running,0,146
+1999,W,1999_Cracker_Barrel_500,8,20,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,325,42995,running,0,142
+1999,W,1999_Cracker_Barrel_500,9,16,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,325,38545,running,1,143
+1999,W,1999_Cracker_Barrel_500,10,24,7,usa,Michael_Waltrip,Michael Waltrip,Philips Electronics,Jim_Mattei,Chevrolet,325,48685,running,0,134
+1999,W,1999_Cracker_Barrel_500,11,3,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,325,35815,running,3,135
+1999,W,1999_Cracker_Barrel_500,12,28,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,325,41295,running,0,127
+1999,W,1999_Cracker_Barrel_500,13,25,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,324,40075,running,0,124
+1999,W,1999_Cracker_Barrel_500,14,9,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,324,37755,running,4,126
+1999,W,1999_Cracker_Barrel_500,15,31,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,324,38165,running,0,118
+1999,W,1999_Cracker_Barrel_500,16,19,98,usa,Rick_Mast,Rick Mast,Yarborough / Burdette,Cale_Yarborough,Ford,324,29370,running,0,115
+1999,W,1999_Cracker_Barrel_500,17,39,23,usa,Jimmy_Spencer,Jimmy Spencer,Winston,Travis_Carter,Ford,324,35560,running,12,117
+1999,W,1999_Cracker_Barrel_500,18,18,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,324,35040,running,9,114
+1999,W,1999_Cracker_Barrel_500,19,40,16,usa,Kevin_Lepage,Kevin Lepage,Primestar,Jack_Roush,Ford,324,35330,running,0,106
+1999,W,1999_Cracker_Barrel_500,20,43,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart,Travis_Carter,Ford,323,25925,running,0,103
+1999,W,1999_Cracker_Barrel_500,21,26,41,usa,David_Green,David Green,Kodiak,Larry_Hedrick,Chevrolet,323,30900,running,0,100
+1999,W,1999_Cracker_Barrel_500,22,36,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,323,34735,running,0,97
+1999,W,1999_Cracker_Barrel_500,23,17,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,322,34425,running,0,94
+1999,W,1999_Cracker_Barrel_500,24,11,75,usa,Ted_Musgrave,Ted Musgrave,Remington Arms,Butch_Mock,Ford,322,26890,running,0,91
+1999,W,1999_Cracker_Barrel_500,25,41,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,322,33985,running,0,88
+1999,W,1999_Cracker_Barrel_500,26,38,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,322,33630,running,0,85
+1999,W,1999_Cracker_Barrel_500,27,12,9,usa,Jerry_Nadeau,Jerry Nadeau,Atlanta Braves / TBS,Harry_Melling,Ford,321,26920,running,0,82
+1999,W,1999_Cracker_Barrel_500,28,10,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,319,30445,running,0,79
+1999,W,1999_Cracker_Barrel_500,29,34,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,319,23905,running,0,76
+1999,W,1999_Cracker_Barrel_500,30,30,45,usa,Rich_Bickle,Rich Bickle,Lucky Dog,Tim_Beverley,Pontiac,318,23370,running,0,73
+1999,W,1999_Cracker_Barrel_500,31,15,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,318,30085,running,0,70
+1999,W,1999_Cracker_Barrel_500,32,32,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,317,30025,running,0,67
+1999,W,1999_Cracker_Barrel_500,33,42,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,316,29965,out of gas,0,64
+1999,W,1999_Cracker_Barrel_500,34,35,71,usa,Dave_Marcis,Dave Marcis,RealTree Camouflage,Dave_Marcis,Chevrolet,315,23735,running,4,66
+1999,W,1999_Cracker_Barrel_500,35,23,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,311,38915,running,0,58
+1999,W,1999_Cracker_Barrel_500,36,5,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,251,37895,handling,0,55
+1999,W,1999_Cracker_Barrel_500,37,7,00,usa,Buckshot_Jones,Buckshot Jones,Crown Fiber,Billy_Jones,Pontiac,248,22880,fatigue,0,52
+1999,W,1999_Cracker_Barrel_500,38,6,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,233,22860,crash,0,49
+1999,W,1999_Cracker_Barrel_500,39,14,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,191,29845,engine,0,46
+1999,W,1999_Cracker_Barrel_500,40,33,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,151,41625,handling,0,43
+1999,W,1999_Cracker_Barrel_500,41,27,30,usa,Derrike_Cope,Derrike Cope,Bryan Foods,Chuck_Rider,Pontiac,150,22805,crash,0,40
+1999,W,1999_Cracker_Barrel_500,42,29,58,usa,Ricky_Craven,Ricky Craven,Hollywood Video,Scott_Barbour,Ford,65,22785,engine,0,37
+1999,W,1999_Cracker_Barrel_500,43,22,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,45,22765,engine,0,34
+1999,W,1999_TranSouth_Financial_400,1,9,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,164,161900,running,59,185
+1999,W,1999_TranSouth_Financial_400,2,11,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,164,62455,running,48,175
+1999,W,1999_TranSouth_Financial_400,3,1,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,164,83940,running,50,170
+1999,W,1999_TranSouth_Financial_400,4,21,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,164,60305,running,0,160
+1999,W,1999_TranSouth_Financial_400,5,3,6,usa,Mark_Martin,Mark Martin,Zerex / Valvoline / Cummins,Jack_Roush,Ford,164,50500,running,2,160
+1999,W,1999_TranSouth_Financial_400,6,10,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,164,44240,running,0,150
+1999,W,1999_TranSouth_Financial_400,7,17,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,164,49245,running,0,146
+1999,W,1999_TranSouth_Financial_400,8,28,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,164,47640,running,0,142
+1999,W,1999_TranSouth_Financial_400,9,5,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,164,40885,running,1,143
+1999,W,1999_TranSouth_Financial_400,10,34,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,164,51595,running,1,139
+1999,W,1999_TranSouth_Financial_400,11,27,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,164,40125,running,0,130
+1999,W,1999_TranSouth_Financial_400,12,29,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,164,36220,running,1,132
+1999,W,1999_TranSouth_Financial_400,13,6,98,usa,Rick_Mast,Rick Mast,Yarborough / Burdette,Cale_Yarborough,Ford,163,29465,running,0,124
+1999,W,1999_TranSouth_Financial_400,14,8,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,163,35485,running,0,121
+1999,W,1999_TranSouth_Financial_400,15,18,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,163,30745,running,0,118
+1999,W,1999_TranSouth_Financial_400,16,20,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,163,35060,running,0,115
+1999,W,1999_TranSouth_Financial_400,17,16,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,163,23515,running,0,112
+1999,W,1999_TranSouth_Financial_400,18,2,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,163,34945,running,0,109
+1999,W,1999_TranSouth_Financial_400,19,12,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,163,33765,running,0,106
+1999,W,1999_TranSouth_Financial_400,20,24,23,usa,Jimmy_Spencer,Jimmy Spencer,Winston,Travis_Carter,Ford,163,36560,running,0,103
+1999,W,1999_TranSouth_Financial_400,21,13,7,usa,Michael_Waltrip,Michael Waltrip,Philips / Klaussner,Jim_Mattei,Chevrolet,163,33080,running,0,100
+1999,W,1999_TranSouth_Financial_400,22,7,16,usa,Kevin_Lepage,Kevin Lepage,Primestar,Jack_Roush,Ford,163,33165,running,0,97
+1999,W,1999_TranSouth_Financial_400,23,23,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,163,23050,running,0,94
+1999,W,1999_TranSouth_Financial_400,24,37,36,usa,Ernie_Irvan,Ernie Irvan,M&M's,Nelson_Bowers,Pontiac,163,32235,running,0,91
+1999,W,1999_TranSouth_Financial_400,25,30,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,163,37020,running,0,88
+1999,W,1999_TranSouth_Financial_400,26,31,91,usa,Dick_Trickle,Dick Trickle,Textilease,Joe_Falk,Chevrolet,163,25285,running,0,85
+1999,W,1999_TranSouth_Financial_400,27,41,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,163,31400,running,0,82
+1999,W,1999_TranSouth_Financial_400,28,22,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,163,31145,running,0,79
+1999,W,1999_TranSouth_Financial_400,29,40,75,usa,Ted_Musgrave,Ted Musgrave,Polaris ATV's,Butch_Mock,Ford,163,24240,running,2,81
+1999,W,1999_TranSouth_Financial_400,30,19,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,163,30535,running,0,73
+1999,W,1999_TranSouth_Financial_400,31,36,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,162,20655,running,0,70
+1999,W,1999_TranSouth_Financial_400,32,4,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,162,27525,running,0,67
+1999,W,1999_TranSouth_Financial_400,33,26,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,162,36345,running,0,64
+1999,W,1999_TranSouth_Financial_400,34,32,00,usa,Buckshot_Jones,Buckshot Jones,Crown Fiber,Billy_Jones,Pontiac,162,20215,running,0,61
+1999,W,1999_TranSouth_Financial_400,35,14,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,161,27085,crash,0,58
+1999,W,1999_TranSouth_Financial_400,36,15,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,161,26955,running,0,55
+1999,W,1999_TranSouth_Financial_400,37,42,58,usa,Ricky_Craven,Ricky Craven,Hollywood Video,Scott_Barbour,Ford,160,19850,crash,0,52
+1999,W,1999_TranSouth_Financial_400,38,38,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,159,26725,running,0,49
+1999,W,1999_TranSouth_Financial_400,39,43,90,usa,Ed_Berrier,Ed Berrier,Bryan Foods,Junie_Donlavey,Ford,159,26600,running,0,46
+1999,W,1999_TranSouth_Financial_400,40,33,9,usa,Jerry_Nadeau,Jerry Nadeau,Cartoon Network,Harry_Melling,Ford,158,19475,running,0,43
+1999,W,1999_TranSouth_Financial_400,41,39,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart,Travis_Carter,Ford,141,19350,running,0,40
+1999,W,1999_TranSouth_Financial_400,42,35,41,usa,David_Green,David Green,Kodiak,Larry_Hedrick,Chevrolet,129,19225,running,0,37
+1999,W,1999_TranSouth_Financial_400,43,25,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,75,30416,running,0,34
+1999,W,1999_Primestar_500,1,4,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,334,376840,running,124,185
+1999,W,1999_Primestar_500,2,12,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,334,250100,running,39,175
+1999,W,1999_Primestar_500,3,2,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,334,181650,running,10,170
+1999,W,1999_Primestar_500,4,11,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,334,151675,running,0,160
+1999,W,1999_Primestar_500,5,27,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,334,119925,running,2,160
+1999,W,1999_Primestar_500,6,19,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,334,107315,running,0,150
+1999,W,1999_Primestar_500,7,20,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,334,107675,running,0,146
+1999,W,1999_Primestar_500,8,38,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,334,97775,running,0,142
+1999,W,1999_Primestar_500,9,39,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light / John Wayne,Felix_Sabates,Chevrolet,334,95150,running,0,138
+1999,W,1999_Primestar_500,10,13,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,334,96490,running,2,139
+1999,W,1999_Primestar_500,11,24,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,334,91150,running,0,130
+1999,W,1999_Primestar_500,12,30,45,usa,Rich_Bickle,Rich Bickle,10-10-345,Tim_Beverley,Pontiac,333,76300,running,0,127
+1999,W,1999_Primestar_500,13,37,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,333,85100,running,0,124
+1999,W,1999_Primestar_500,14,29,7,usa,Michael_Waltrip,Michael Waltrip,Philips / Klaussner,Jim_Mattei,Chevrolet,333,83400,running,0,121
+1999,W,1999_Primestar_500,15,1,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,333,94640,running,32,123
+1999,W,1999_Primestar_500,16,5,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,333,90800,running,56,120
+1999,W,1999_Primestar_500,17,7,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,333,75900,running,4,117
+1999,W,1999_Primestar_500,18,17,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,333,74900,running,1,114
+1999,W,1999_Primestar_500,19,34,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,333,73400,running,0,106
+1999,W,1999_Primestar_500,20,16,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,333,68065,running,0,103
+1999,W,1999_Primestar_500,21,9,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,333,66575,running,0,100
+1999,W,1999_Primestar_500,22,36,30,usa,Derrike_Cope,Derrike Cope,Jimmy Dean,Chuck_Rider,Pontiac,331,58075,running,0,97
+1999,W,1999_Primestar_500,23,10,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,331,63975,running,0,94
+1999,W,1999_Primestar_500,24,21,9,usa,Jerry_Nadeau,Jerry Nadeau,Cartoon Network,Harry_Melling,Ford,331,56475,running,0,91
+1999,W,1999_Primestar_500,25,32,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart,Travis_Carter,Ford,330,51775,running,0,88
+1999,W,1999_Primestar_500,26,43,41,usa,David_Green,David Green,Kodiak,Larry_Hedrick,Chevrolet,330,54075,running,0,85
+1999,W,1999_Primestar_500,27,35,58,usa,Ricky_Craven,Ricky Craven,Hollywood Video,Scott_Barbour,Ford,330,49775,running,1,87
+1999,W,1999_Primestar_500,28,41,23,usa,Jimmy_Spencer,Jimmy Spencer,Winston,Travis_Carter,Ford,329,58775,crash,0,79
+1999,W,1999_Primestar_500,29,33,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,324,62775,running,0,76
+1999,W,1999_Primestar_500,30,18,98,usa,Rick_Mast,Rick Mast,Yarborough / Burdette,Cale_Yarborough,Ford,307,49500,running,0,73
+1999,W,1999_Primestar_500,31,25,75,usa,Ted_Musgrave,Ted Musgrave,Remington Arms,Butch_Mock,Ford,306,45275,running,0,70
+1999,W,1999_Primestar_500,32,3,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,289,50975,running,0,67
+1999,W,1999_Primestar_500,33,28,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,272,49975,running,0,64
+1999,W,1999_Primestar_500,34,6,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,253,58975,running,63,66
+1999,W,1999_Primestar_500,35,31,00,usa,Buckshot_Jones,Buckshot Jones,Crown Fiber,Billy_Jones,Pontiac,252,40975,vibration,0,58
+1999,W,1999_Primestar_500,36,26,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,244,41450,running,0,55
+1999,W,1999_Primestar_500,37,22,36,usa,Ernie_Irvan,Ernie Irvan,M&M's,Nelson_Bowers,Pontiac,241,45950,engine,0,52
+1999,W,1999_Primestar_500,38,15,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,202,44950,handling,0,49
+1999,W,1999_Primestar_500,39,42,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,174,38450,overheating,0,46
+1999,W,1999_Primestar_500,40,14,14,usa,Randy_LaJoie,Randy LaJoie,Federated Auto Parts,Mark_Simo,Ford,152,37950,engine,0,43
+1999,W,1999_Primestar_500,41,40,16,usa,Kevin_Lepage,Kevin Lepage,Primestar,Jack_Roush,Ford,132,44850,crash,0,40
+1999,W,1999_Primestar_500,42,23,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,123,45000,crash,0,37
+1999,W,1999_Primestar_500,43,8,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,68,60000,crash,0,34
+1999,W,1999_Food_City_500,1,1,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,500,87435,running,425,185
+1999,W,1999_Food_City_500,2,8,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,500,73585,running,7,175
+1999,W,1999_Food_City_500,3,16,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,500,68650,running,0,165
+1999,W,1999_Food_City_500,4,26,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,500,64295,running,0,160
+1999,W,1999_Food_City_500,5,31,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,500,57335,running,0,155
+1999,W,1999_Food_City_500,6,2,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,500,55970,running,0,150
+1999,W,1999_Food_City_500,7,13,75,usa,Ted_Musgrave,Ted Musgrave,Polaris ATV's,Butch_Mock,Ford,500,40245,running,0,146
+1999,W,1999_Food_City_500,8,14,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,500,36995,running,0,142
+1999,W,1999_Food_City_500,9,38,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,500,49265,running,11,143
+1999,W,1999_Food_City_500,10,34,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,500,48630,running,0,134
+1999,W,1999_Food_City_500,11,10,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,499,43870,running,0,130
+1999,W,1999_Food_City_500,12,39,7,usa,Michael_Waltrip,Michael Waltrip,Philips Electronics,Jim_Mattei,Chevrolet,499,39365,running,2,132
+1999,W,1999_Food_City_500,13,30,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,499,43290,running,0,124
+1999,W,1999_Food_City_500,14,24,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,499,38615,running,0,121
+1999,W,1999_Food_City_500,15,4,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,498,48505,running,55,123
+1999,W,1999_Food_City_500,16,6,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,498,28390,running,0,115
+1999,W,1999_Food_City_500,17,21,23,usa,Jimmy_Spencer,Jimmy Spencer,Winston,Travis_Carter,Ford,498,38040,running,0,112
+1999,W,1999_Food_City_500,18,7,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,498,42140,running,0,109
+1999,W,1999_Food_City_500,19,32,98,usa,Rick_Mast,Rick Mast,Yarborough / Burdette,Cale_Yarborough,Ford,498,30830,running,0,106
+1999,W,1999_Food_City_500,20,20,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,498,40440,running,0,103
+1999,W,1999_Food_City_500,21,33,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,497,37740,running,0,100
+1999,W,1999_Food_City_500,22,18,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,497,37490,running,0,97
+1999,W,1999_Food_City_500,23,43,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,497,36965,running,0,94
+1999,W,1999_Food_City_500,24,40,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,497,36865,running,0,91
+1999,W,1999_Food_City_500,25,23,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,497,36720,running,0,88
+1999,W,1999_Food_City_500,26,17,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,497,37490,running,0,85
+1999,W,1999_Food_City_500,27,37,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,496,41570,running,0,82
+1999,W,1999_Food_City_500,28,25,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,495,26515,running,0,79
+1999,W,1999_Food_City_500,29,42,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,495,36485,running,0,76
+1999,W,1999_Food_City_500,30,15,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,494,35660,running,0,73
+1999,W,1999_Food_City_500,31,29,91,usa,Dick_Trickle,Dick Trickle,Textilease,Joe_Falk,Chevrolet,493,25615,running,0,70
+1999,W,1999_Food_City_500,32,12,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart,Travis_Carter,Ford,491,25370,running,0,67
+1999,W,1999_Food_City_500,33,35,41,usa,David_Green,David Green,Kodiak Ice,Larry_Hedrick,Chevrolet,490,25350,running,0,64
+1999,W,1999_Food_City_500,34,22,71,usa,Dave_Marcis,Dave Marcis,RealTree Camouflage,Dave_Marcis,Chevrolet,490,25810,running,0,61
+1999,W,1999_Food_City_500,35,28,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide / Primestar,Jack_Roush,Ford,489,32290,running,0,58
+1999,W,1999_Food_City_500,36,27,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,478,32770,running,0,55
+1999,W,1999_Food_City_500,37,3,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,471,41960,running,0,52
+1999,W,1999_Food_City_500,38,5,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,410,32250,handling,0,49
+1999,W,1999_Food_City_500,39,36,00,usa,Buckshot_Jones,Buckshot Jones,Crown Fiber,Billy_Jones,Pontiac,406,25240,running,0,46
+1999,W,1999_Food_City_500,40,11,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,403,25425,running,0,43
+1999,W,1999_Food_City_500,41,9,58,usa,Ricky_Craven,Ricky Craven,Hollywood Video,Scott_Barbour,Ford,401,25200,running,0,40
+1999,W,1999_Food_City_500,42,19,9,usa,Jerry_Nadeau,Jerry Nadeau,Cartoon Network,Harry_Melling,Ford,335,25675,crash,0,37
+1999,W,1999_Food_City_500,43,41,36,usa,Ernie_Irvan,Ernie Irvan,M&M's,Nelson_Bowers,Pontiac,144,32161,handling,0,34
+1999,W,1999_Goody%27s_Body_Pain_500,1,21,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,500,113275,running,4,180
+1999,W,1999_Goody%27s_Body_Pain_500,2,3,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,500,89865,running,130,175
+1999,W,1999_Goody%27s_Body_Pain_500,3,9,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,500,71800,running,163,170
+1999,W,1999_Goody%27s_Body_Pain_500,4,22,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,500,57355,running,0,160
+1999,W,1999_Goody%27s_Body_Pain_500,5,2,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,500,52925,running,17,160
+1999,W,1999_Goody%27s_Body_Pain_500,6,34,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,500,41315,running,0,150
+1999,W,1999_Goody%27s_Body_Pain_500,7,5,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,500,57075,running,177,156
+1999,W,1999_Goody%27s_Body_Pain_500,8,31,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,500,46825,running,0,142
+1999,W,1999_Goody%27s_Body_Pain_500,9,6,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,500,40650,running,0,138
+1999,W,1999_Goody%27s_Body_Pain_500,10,10,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,500,38800,running,4,139
+1999,W,1999_Goody%27s_Body_Pain_500,11,11,45,usa,Rich_Bickle,Rich Bickle,Lucky Dog,Tim_Beverley,Pontiac,500,28925,running,0,130
+1999,W,1999_Goody%27s_Body_Pain_500,12,20,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart,Travis_Carter,Ford,500,26000,running,0,127
+1999,W,1999_Goody%27s_Body_Pain_500,13,17,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,499,37475,running,0,124
+1999,W,1999_Goody%27s_Body_Pain_500,14,14,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,499,37275,running,2,126
+1999,W,1999_Goody%27s_Body_Pain_500,15,37,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,499,42215,running,0,118
+1999,W,1999_Goody%27s_Body_Pain_500,16,13,23,usa,Jimmy_Spencer,Jimmy Spencer,Winston,Travis_Carter,Ford,499,37075,running,0,115
+1999,W,1999_Goody%27s_Body_Pain_500,17,38,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,499,36375,running,0,112
+1999,W,1999_Goody%27s_Body_Pain_500,18,26,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,498,35150,running,0,109
+1999,W,1999_Goody%27s_Body_Pain_500,19,39,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,498,39150,running,0,106
+1999,W,1999_Goody%27s_Body_Pain_500,20,1,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,498,33615,running,0,103
+1999,W,1999_Goody%27s_Body_Pain_500,21,28,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide / Primestar,Jack_Roush,Ford,498,34750,running,0,100
+1999,W,1999_Goody%27s_Body_Pain_500,22,7,36,usa,Ernie_Irvan,Ernie Irvan,M&M's,Nelson_Bowers,Pontiac,498,34150,running,0,97
+1999,W,1999_Goody%27s_Body_Pain_500,23,16,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,498,26850,running,0,94
+1999,W,1999_Goody%27s_Body_Pain_500,24,8,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,498,39550,running,2,96
+1999,W,1999_Goody%27s_Body_Pain_500,25,23,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,498,33650,running,0,88
+1999,W,1999_Goody%27s_Body_Pain_500,26,41,41,usa,David_Green,David Green,Kodiak,Larry_Hedrick,Chevrolet,497,26000,running,0,85
+1999,W,1999_Goody%27s_Body_Pain_500,27,18,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,497,32700,running,0,82
+1999,W,1999_Goody%27s_Body_Pain_500,28,36,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,497,33000,running,0,79
+1999,W,1999_Goody%27s_Body_Pain_500,29,15,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,497,32100,running,0,76
+1999,W,1999_Goody%27s_Body_Pain_500,30,25,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,495,32125,running,0,73
+1999,W,1999_Goody%27s_Body_Pain_500,31,33,91,usa,Dick_Trickle,Dick Trickle,Larry's Homes,Joe_Falk,Chevrolet,495,24700,running,0,70
+1999,W,1999_Goody%27s_Body_Pain_500,32,4,9,usa,Jerry_Nadeau,Jerry Nadeau,Cartoon Network,Harry_Melling,Ford,494,22500,running,0,67
+1999,W,1999_Goody%27s_Body_Pain_500,33,24,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,494,36300,running,0,64
+1999,W,1999_Goody%27s_Body_Pain_500,34,43,30,usa,Derrike_Cope,Derrike Cope,Jimmy Dean,Chuck_Rider,Pontiac,492,21100,running,0,61
+1999,W,1999_Goody%27s_Body_Pain_500,35,40,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,492,27975,running,0,58
+1999,W,1999_Goody%27s_Body_Pain_500,36,27,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,490,27900,running,0,55
+1999,W,1999_Goody%27s_Body_Pain_500,37,35,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,487,27775,running,0,52
+1999,W,1999_Goody%27s_Body_Pain_500,38,30,60,usa,Geoffrey_Bodine,Geoffrey Bodine,"Power Team / Happy 50th, Geoffrey",Joe_Bessey,Chevrolet,486,20650,running,0,49
+1999,W,1999_Goody%27s_Body_Pain_500,39,29,7,usa,Michael_Waltrip,Michael Waltrip,Philips Electronics,Jim_Mattei,Chevrolet,480,27525,running,0,46
+1999,W,1999_Goody%27s_Body_Pain_500,40,19,75,usa,Ted_Musgrave,Ted Musgrave,Polaris ATV's,Butch_Mock,Ford,480,20400,running,0,43
+1999,W,1999_Goody%27s_Body_Pain_500,41,32,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,467,35275,running,0,40
+1999,W,1999_Goody%27s_Body_Pain_500,42,12,98,usa,Rick_Mast,Rick Mast,Yarborough / Burdette,Cale_Yarborough,Ford,438,23950,running,0,37
+1999,W,1999_Goody%27s_Body_Pain_500,43,42,58,usa,Ricky_Craven,Ricky Craven,Hollywood Video,Scott_Barbour,Ford,401,20025,handling,1,39
+1999,W,1999_DieHard_500,1,17,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,188,147795,running,70,185
+1999,W,1999_DieHard_500,2,23,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,188,104955,running,21,175
+1999,W,1999_DieHard_500,3,6,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,188,91230,running,1,170
+1999,W,1999_DieHard_500,4,2,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,188,84380,running,17,165
+1999,W,1999_DieHard_500,5,8,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,188,59855,running,10,160
+1999,W,1999_DieHard_500,6,1,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,188,74055,running,3,155
+1999,W,1999_DieHard_500,7,15,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,188,51130,running,0,146
+1999,W,1999_DieHard_500,8,20,9,usa,Jerry_Nadeau,Jerry Nadeau,WCW / NWO,Harry_Melling,Ford,188,49805,running,0,142
+1999,W,1999_DieHard_500,9,24,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,188,55555,running,22,143
+1999,W,1999_DieHard_500,10,18,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,188,54195,running,1,139
+1999,W,1999_DieHard_500,11,3,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,188,64850,running,0,130
+1999,W,1999_DieHard_500,12,16,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide / Primestar,Jack_Roush,Ford,188,48420,running,0,127
+1999,W,1999_DieHard_500,13,40,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,188,43140,running,0,124
+1999,W,1999_DieHard_500,14,42,45,usa,Rich_Bickle,Rich Bickle,10-10-345,Tim_Beverley,Pontiac,188,35360,running,0,121
+1999,W,1999_DieHard_500,15,31,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,188,50230,running,4,123
+1999,W,1999_DieHard_500,16,33,23,usa,Jimmy_Spencer,Jimmy Spencer,Team Winston,Travis_Carter,Ford,188,47930,running,0,115
+1999,W,1999_DieHard_500,17,29,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,188,33675,running,0,112
+1999,W,1999_DieHard_500,18,10,7,usa,Michael_Waltrip,Michael Waltrip,Philips Electronics,Jim_Mattei,Chevrolet,188,45435,running,25,114
+1999,W,1999_DieHard_500,19,7,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,188,44045,running,0,106
+1999,W,1999_DieHard_500,20,11,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,188,46075,running,5,108
+1999,W,1999_DieHard_500,21,26,00,usa,Buckshot_Jones,Buckshot Jones,Crown Fiber,Billy_Jones,Pontiac,188,33345,running,0,100
+1999,W,1999_DieHard_500,22,36,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,188,36150,running,1,102
+1999,W,1999_DieHard_500,23,32,71,usa,Dave_Marcis,Dave Marcis,RealTree Camouflage,Dave_Marcis,Chevrolet,187,32015,running,0,94
+1999,W,1999_DieHard_500,24,21,98,usa,Rick_Mast,Rick Mast,Yarborough / Burdette,Cale_Yarborough,Ford,187,35410,running,0,91
+1999,W,1999_DieHard_500,25,14,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,187,42405,running,0,88
+1999,W,1999_DieHard_500,26,38,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart,Travis_Carter,Ford,187,31400,running,2,90
+1999,W,1999_DieHard_500,27,43,58,usa,Ricky_Craven,Ricky Craven,Hollywood Video,Scott_Barbour,Ford,187,31245,running,0,82
+1999,W,1999_DieHard_500,28,39,75,usa,Ted_Musgrave,Ted Musgrave,Mossy Oak / Polaris ATV's,Butch_Mock,Ford,187,34890,running,0,79
+1999,W,1999_DieHard_500,29,41,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,186,41735,running,0,76
+1999,W,1999_DieHard_500,30,28,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,184,41505,running,0,73
+1999,W,1999_DieHard_500,31,35,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,176,45625,handling,0,70
+1999,W,1999_DieHard_500,32,25,22,usa,Ward_Burton,Ward Burton,Caterpillar / ProCert,Bill_Davis,Pontiac,175,40570,running,0,67
+1999,W,1999_DieHard_500,33,34,41,usa,David_Green,David Green,Kodiak,Larry_Hedrick,Chevrolet,169,33340,running,0,64
+1999,W,1999_DieHard_500,34,4,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,168,40310,handling,1,66
+1999,W,1999_DieHard_500,35,22,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,164,39580,running,0,58
+1999,W,1999_DieHard_500,36,12,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,157,36950,running,5,60
+1999,W,1999_DieHard_500,37,30,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,154,36790,running,0,52
+1999,W,1999_DieHard_500,38,13,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,112,55250,handling,0,49
+1999,W,1999_DieHard_500,39,27,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,109,44250,handling,0,46
+1999,W,1999_DieHard_500,40,19,36,usa,Ernie_Irvan,Ernie Irvan,M&M's,Nelson_Bowers,Pontiac,53,36050,too slow,0,43
+1999,W,1999_DieHard_500,41,5,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,50,44925,crash,0,40
+1999,W,1999_DieHard_500,42,9,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,48,35650,crash,0,37
+1999,W,1999_DieHard_500,43,37,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,48,35656,crash,0,34
+1999,W,1999_California_500_Presented_by_NAPA,1,5,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,250,155890,running,151,185
+1999,W,1999_California_500_Presented_by_NAPA,2,1,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,250,125375,running,57,175
+1999,W,1999_California_500_Presented_by_NAPA,3,4,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,250,99850,running,14,170
+1999,W,1999_California_500_Presented_by_NAPA,4,7,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,250,68175,running,1,165
+1999,W,1999_California_500_Presented_by_NAPA,5,2,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,250,71140,running,1,160
+1999,W,1999_California_500_Presented_by_NAPA,6,11,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,250,64425,running,7,155
+1999,W,1999_California_500_Presented_by_NAPA,7,14,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1 / 125th Kentucky Derby,Michael_Kranefuss,Ford,250,60300,running,1,151
+1999,W,1999_California_500_Presented_by_NAPA,8,22,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,250,57100,running,0,142
+1999,W,1999_California_500_Presented_by_NAPA,9,8,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,250,58500,running,3,143
+1999,W,1999_California_500_Presented_by_NAPA,10,10,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,249,62840,running,1,139
+1999,W,1999_California_500_Presented_by_NAPA,11,6,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,249,57325,running,0,130
+1999,W,1999_California_500_Presented_by_NAPA,12,9,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,249,55425,running,2,132
+1999,W,1999_California_500_Presented_by_NAPA,13,25,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,249,56325,running,0,124
+1999,W,1999_California_500_Presented_by_NAPA,14,13,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,249,53525,running,0,121
+1999,W,1999_California_500_Presented_by_NAPA,15,28,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart,Travis_Carter,Ford,248,40865,running,0,118
+1999,W,1999_California_500_Presented_by_NAPA,16,17,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,248,50525,running,0,115
+1999,W,1999_California_500_Presented_by_NAPA,17,12,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,248,53125,running,0,112
+1999,W,1999_California_500_Presented_by_NAPA,18,27,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide / Primestar,Jack_Roush,Ford,248,49125,running,0,109
+1999,W,1999_California_500_Presented_by_NAPA,19,19,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,248,48325,running,0,106
+1999,W,1999_California_500_Presented_by_NAPA,20,33,9,usa,Jerry_Nadeau,Jerry Nadeau,TBS Dinner and a Movie,Harry_Melling,Ford,248,44365,running,0,103
+1999,W,1999_California_500_Presented_by_NAPA,21,39,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,248,48850,running,0,100
+1999,W,1999_California_500_Presented_by_NAPA,22,16,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,248,47325,running,1,102
+1999,W,1999_California_500_Presented_by_NAPA,23,15,7,usa,Michael_Waltrip,Michael Waltrip,Philips Electronics,Jim_Mattei,Chevrolet,248,47025,running,0,94
+1999,W,1999_California_500_Presented_by_NAPA,24,30,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,248,46725,running,0,91
+1999,W,1999_California_500_Presented_by_NAPA,25,40,41,usa,David_Green,David Green,Kodiak,Larry_Hedrick,Chevrolet,247,42725,running,0,88
+1999,W,1999_California_500_Presented_by_NAPA,26,32,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels / Kyle Petty's Charity Ride,Petty_Enterprises,Pontiac,247,39125,running,0,85
+1999,W,1999_California_500_Presented_by_NAPA,27,23,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,247,35725,running,0,82
+1999,W,1999_California_500_Presented_by_NAPA,28,29,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,247,46025,running,0,79
+1999,W,1999_California_500_Presented_by_NAPA,29,35,75,usa,Ted_Musgrave,Ted Musgrave,Remington Arms,Butch_Mock,Ford,246,38625,running,0,76
+1999,W,1999_California_500_Presented_by_NAPA,30,18,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,246,50350,running,0,73
+1999,W,1999_California_500_Presented_by_NAPA,31,21,98,usa,Rick_Mast,Rick Mast,Yarborough / Burdette,Cale_Yarborough,Ford,246,37950,running,0,70
+1999,W,1999_California_500_Presented_by_NAPA,32,37,45,usa,Rich_Bickle,Rich Bickle,10-10-345,Tim_Beverley,Pontiac,244,34750,running,0,67
+1999,W,1999_California_500_Presented_by_NAPA,33,42,71,usa,Dave_Marcis,Dave Marcis,RealTree Camouflage,Dave_Marcis,Chevrolet,243,35050,running,0,64
+1999,W,1999_California_500_Presented_by_NAPA,34,41,58,usa,Ricky_Craven,Ricky Craven,Hollywood Video,Scott_Barbour,Ford,238,34350,running,0,61
+1999,W,1999_California_500_Presented_by_NAPA,35,26,36,usa,Ernie_Irvan,Ernie Irvan,M&M's,Nelson_Bowers,Pontiac,212,43650,running,0,58
+1999,W,1999_California_500_Presented_by_NAPA,36,20,23,usa,Jimmy_Spencer,Jimmy Spencer,Team Winston,Travis_Carter,Ford,209,41050,engine,0,55
+1999,W,1999_California_500_Presented_by_NAPA,37,34,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,202,33850,engine,1,57
+1999,W,1999_California_500_Presented_by_NAPA,38,3,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,196,51450,engine,10,54
+1999,W,1999_California_500_Presented_by_NAPA,39,31,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,182,33425,engine,0,46
+1999,W,1999_California_500_Presented_by_NAPA,40,38,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,143,40400,handling,0,43
+1999,W,1999_California_500_Presented_by_NAPA,41,36,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,129,43975,engine,0,40
+1999,W,1999_California_500_Presented_by_NAPA,42,43,30,usa,Derrike_Cope,Derrike Cope,Jimmy Dean,Chuck_Rider,Pontiac,47,33350,engine,0,37
+1999,W,1999_California_500_Presented_by_NAPA,43,24,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios / Lloyd's BBQ,Jack_Roush,Ford,3,40525,crash,0,34
+1999,W,1999_Pontiac_Excitement_400,1,21,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,400,169715,running,32,180
+1999,W,1999_Pontiac_Excitement_400,2,12,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,400,89700,running,74,175
+1999,W,1999_Pontiac_Excitement_400,3,8,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,400,69775,running,71,170
+1999,W,1999_Pontiac_Excitement_400,4,15,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,400,64875,running,0,160
+1999,W,1999_Pontiac_Excitement_400,5,6,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,400,49450,running,0,155
+1999,W,1999_Pontiac_Excitement_400,6,23,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,400,49250,running,0,150
+1999,W,1999_Pontiac_Excitement_400,7,4,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,400,39625,running,0,146
+1999,W,1999_Pontiac_Excitement_400,8,37,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,400,48540,running,0,142
+1999,W,1999_Pontiac_Excitement_400,9,20,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,400,41175,running,9,143
+1999,W,1999_Pontiac_Excitement_400,10,42,45,usa,Rich_Bickle,Rich Bickle,10-10-345,Tim_Beverley,Pontiac,400,35965,running,0,134
+1999,W,1999_Pontiac_Excitement_400,11,41,75,usa,Ted_Musgrave,Ted Musgrave,Remington Arms,Butch_Mock,Ford,400,34475,running,0,130
+1999,W,1999_Pontiac_Excitement_400,12,19,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,400,36750,running,0,127
+1999,W,1999_Pontiac_Excitement_400,13,40,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide / Primestar,Jack_Roush,Ford,399,36975,running,0,124
+1999,W,1999_Pontiac_Excitement_400,14,13,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,399,36175,running,0,121
+1999,W,1999_Pontiac_Excitement_400,15,30,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,399,27225,running,0,118
+1999,W,1999_Pontiac_Excitement_400,16,11,98,usa,Rick_Mast,Rick Mast,Hobas Pipe,Cale_Yarborough,Ford,399,28800,running,0,115
+1999,W,1999_Pontiac_Excitement_400,17,29,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,399,23900,running,0,112
+1999,W,1999_Pontiac_Excitement_400,18,16,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,399,34550,running,0,109
+1999,W,1999_Pontiac_Excitement_400,19,22,58,usa,Ricky_Craven,Ricky Craven,Hollywood Video,Scott_Barbour,Ford,399,23625,running,0,106
+1999,W,1999_Pontiac_Excitement_400,20,39,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,399,36740,running,0,103
+1999,W,1999_Pontiac_Excitement_400,21,35,9,usa,Jerry_Nadeau,Jerry Nadeau,Cartoon Network,Harry_Melling,Ford,399,28250,running,0,100
+1999,W,1999_Pontiac_Excitement_400,22,38,7,usa,Michael_Waltrip,Michael Waltrip,Philips Electronics,Jim_Mattei,Chevrolet,398,33725,running,0,97
+1999,W,1999_Pontiac_Excitement_400,23,18,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,398,34250,running,0,94
+1999,W,1999_Pontiac_Excitement_400,24,28,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,397,37900,running,0,91
+1999,W,1999_Pontiac_Excitement_400,25,24,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart,Travis_Carter,Ford,395,22750,running,1,93
+1999,W,1999_Pontiac_Excitement_400,26,32,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,395,37625,running,0,85
+1999,W,1999_Pontiac_Excitement_400,27,27,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,392,26100,running,0,82
+1999,W,1999_Pontiac_Excitement_400,28,26,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,390,32975,running,0,79
+1999,W,1999_Pontiac_Excitement_400,29,33,23,usa,Jimmy_Spencer,Jimmy Spencer,Winston / No Bull,Travis_Carter,Ford,390,32350,running,0,76
+1999,W,1999_Pontiac_Excitement_400,30,7,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,388,35950,running,67,78
+1999,W,1999_Pontiac_Excitement_400,31,1,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,388,54275,running,18,75
+1999,W,1999_Pontiac_Excitement_400,32,31,91,usa,Dick_Trickle,Dick Trickle,Little Joe's Auto,Joe_Falk,Chevrolet,387,25025,running,0,67
+1999,W,1999_Pontiac_Excitement_400,33,25,36,usa,Ernie_Irvan,Ernie Irvan,M&M's,Nelson_Bowers,Pontiac,363,31475,running,0,64
+1999,W,1999_Pontiac_Excitement_400,34,17,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,359,28925,running,0,61
+1999,W,1999_Pontiac_Excitement_400,35,14,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,352,28875,running,0,58
+1999,W,1999_Pontiac_Excitement_400,36,9,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,345,28825,running,0,55
+1999,W,1999_Pontiac_Excitement_400,37,10,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,324,40175,running,104,62
+1999,W,1999_Pontiac_Excitement_400,38,34,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,322,28825,running,0,49
+1999,W,1999_Pontiac_Excitement_400,39,5,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,242,36675,handling,24,51
+1999,W,1999_Pontiac_Excitement_400,40,3,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,197,28625,engine,0,43
+1999,W,1999_Pontiac_Excitement_400,41,2,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,182,22075,engine,0,40
+1999,W,1999_Pontiac_Excitement_400,42,36,30,usa,Derrike_Cope,Derrike Cope,Jimmy Dean,Chuck_Rider,Pontiac,115,21530,crash,0,37
+1999,W,1999_Pontiac_Excitement_400,43,43,41,usa,David_Green,David Green,Kodiak,Larry_Hedrick,Chevrolet,105,21700,engine,0,34
+1999,W,1999_Coca-Cola_600,1,2,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,400,212500,running,198,185
+1999,W,1999_Coca-Cola_600,2,1,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,400,170400,running,98,175
+1999,W,1999_Coca-Cola_600,3,7,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,400,97875,running,2,170
+1999,W,1999_Coca-Cola_600,4,27,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,400,76275,running,13,165
+1999,W,1999_Coca-Cola_600,5,28,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,400,81125,running,0,155
+1999,W,1999_Coca-Cola_600,6,15,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,400,70225,running,0,150
+1999,W,1999_Coca-Cola_600,7,6,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,400,70600,running,0,146
+1999,W,1999_Coca-Cola_600,8,12,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,399,62900,running,0,142
+1999,W,1999_Coca-Cola_600,9,11,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,399,57800,running,0,138
+1999,W,1999_Coca-Cola_600,10,9,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,399,64600,running,0,134
+1999,W,1999_Coca-Cola_600,11,37,5,usa,Terry_Labonte,Terry Labonte,Kellogg's K'Sentials,Rick_Hendrick,Chevrolet,398,60040,running,2,135
+1999,W,1999_Coca-Cola_600,12,3,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,398,52300,running,0,127
+1999,W,1999_Coca-Cola_600,13,13,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,397,56150,running,0,124
+1999,W,1999_Coca-Cola_600,14,29,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,397,50450,running,0,121
+1999,W,1999_Coca-Cola_600,15,36,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,397,52290,running,0,118
+1999,W,1999_Coca-Cola_600,16,8,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,397,36250,running,0,115
+1999,W,1999_Coca-Cola_600,17,4,21,usa,Elliott_Sadler,Elliott Sadler,Citgo Play and Win,Wood_Brothers,Ford,397,39250,running,0,112
+1999,W,1999_Coca-Cola_600,18,42,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,397,48350,running,1,114
+1999,W,1999_Coca-Cola_600,19,22,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,396,48250,out of gas,0,106
+1999,W,1999_Coca-Cola_600,20,16,9,usa,Jerry_Nadeau,Jerry Nadeau,Cartoon Network,Harry_Melling,Ford,396,39490,running,0,103
+1999,W,1999_Coca-Cola_600,21,40,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,396,43125,running,0,100
+1999,W,1999_Coca-Cola_600,22,17,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,396,42785,running,0,97
+1999,W,1999_Coca-Cola_600,23,21,75,usa,Ted_Musgrave,Ted Musgrave,Remington Arms,Butch_Mock,Ford,396,34850,running,0,94
+1999,W,1999_Coca-Cola_600,24,39,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,395,45700,running,0,91
+1999,W,1999_Coca-Cola_600,25,30,45,usa,Rich_Bickle,Rich Bickle,10-10-345,Tim_Beverley,Pontiac,395,34500,running,0,88
+1999,W,1999_Coca-Cola_600,26,41,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide / Primestar,Jack_Roush,Ford,395,40900,running,0,85
+1999,W,1999_Coca-Cola_600,27,32,41,usa,David_Green,David Green,Kodiak,Larry_Hedrick,Chevrolet,395,33700,running,0,82
+1999,W,1999_Coca-Cola_600,28,23,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,395,40640,running,0,79
+1999,W,1999_Coca-Cola_600,29,18,00,usa,Buckshot_Jones,Buckshot Jones,Crown Fiber / Brunswick Corp.,Billy_Jones,Pontiac,393,30585,running,0,76
+1999,W,1999_Coca-Cola_600,30,34,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,392,33265,running,1,78
+1999,W,1999_Coca-Cola_600,31,19,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,392,46540,running,0,70
+1999,W,1999_Coca-Cola_600,32,43,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,392,37750,running,0,67
+1999,W,1999_Coca-Cola_600,33,31,90,usa,Hut_Stricklin,Hut Stricklin,Suburban Lodge / Lucas Oil,Junie_Donlavey,Ford,391,37515,running,0,64
+1999,W,1999_Coca-Cola_600,34,14,98,usa,Rick_Mast,Rick Mast,Hobas Pipe,Cale_Yarborough,Ford,391,30510,running,0,61
+1999,W,1999_Coca-Cola_600,35,24,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,378,30505,electrical,0,58
+1999,W,1999_Coca-Cola_600,36,20,36,usa,Ernie_Irvan,Ernie Irvan,M&M's,Nelson_Bowers,Pontiac,375,37500,engine,0,55
+1999,W,1999_Coca-Cola_600,37,26,7,usa,Michael_Waltrip,Michael Waltrip,Philips / Klaussner,Jim_Mattei,Chevrolet,367,37495,engine,0,52
+1999,W,1999_Coca-Cola_600,38,35,23,usa,Jimmy_Spencer,Jimmy Spencer,Winston / No Bull,Travis_Carter,Ford,346,37485,engine,0,49
+1999,W,1999_Coca-Cola_600,39,10,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,341,56780,handling,1,51
+1999,W,1999_Coca-Cola_600,40,38,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light / Brooks & Dunn,Felix_Sabates,Chevrolet,338,37475,engine,0,43
+1999,W,1999_Coca-Cola_600,41,25,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,249,30470,engine,0,40
+1999,W,1999_Coca-Cola_600,42,5,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,246,58165,handling,84,42
+1999,W,1999_Coca-Cola_600,43,33,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart / Route 66,Travis_Carter,Ford,32,31162,engine,0,34
+1999,W,1999_MBNA_Platinum_400,1,1,18,usa,Bobby_Labonte,Bobby Labonte,MBNA / Interstate Batteries,Joe_Gibbs,Pontiac,400,144820,running,44,180
+1999,W,1999_MBNA_Platinum_400,2,14,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,400,96805,running,104,175
+1999,W,1999_MBNA_Platinum_400,3,3,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,399,77480,running,100,170
+1999,W,1999_MBNA_Platinum_400,4,24,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,399,63205,running,127,170
+1999,W,1999_MBNA_Platinum_400,5,2,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,399,67745,running,21,160
+1999,W,1999_MBNA_Platinum_400,6,8,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite / Harley Davidson,Roger_Penske,Ford,399,56830,running,0,150
+1999,W,1999_MBNA_Platinum_400,7,28,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,399,52860,running,3,151
+1999,W,1999_MBNA_Platinum_400,8,37,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,399,56535,running,0,142
+1999,W,1999_MBNA_Platinum_400,9,9,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,398,50335,out of gas,0,138
+1999,W,1999_MBNA_Platinum_400,10,19,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,398,56275,running,0,134
+1999,W,1999_MBNA_Platinum_400,11,34,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,398,49510,running,0,130
+1999,W,1999_MBNA_Platinum_400,12,7,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,397,48660,running,0,127
+1999,W,1999_MBNA_Platinum_400,13,12,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,397,53420,running,0,124
+1999,W,1999_MBNA_Platinum_400,14,23,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,397,45210,running,0,121
+1999,W,1999_MBNA_Platinum_400,15,32,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,396,37310,running,0,118
+1999,W,1999_MBNA_Platinum_400,16,31,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,396,42310,running,0,115
+1999,W,1999_MBNA_Platinum_400,17,38,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,396,47265,running,0,112
+1999,W,1999_MBNA_Platinum_400,18,17,41,usa,David_Green,David Green,Kodiak,Larry_Hedrick,Chevrolet,396,34810,running,0,109
+1999,W,1999_MBNA_Platinum_400,19,10,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,396,41385,running,0,106
+1999,W,1999_MBNA_Platinum_400,20,18,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,396,43675,running,0,103
+1999,W,1999_MBNA_Platinum_400,21,35,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,395,45910,running,0,100
+1999,W,1999_MBNA_Platinum_400,22,15,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,395,40735,running,0,97
+1999,W,1999_MBNA_Platinum_400,23,39,23,usa,Jimmy_Spencer,Jimmy Spencer,Winston / No Bull,Travis_Carter,Ford,395,40485,running,0,94
+1999,W,1999_MBNA_Platinum_400,24,36,75,usa,Ted_Musgrave,Ted Musgrave,Remington Arms,Butch_Mock,Ford,395,33530,running,0,91
+1999,W,1999_MBNA_Platinum_400,25,27,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,395,40255,running,0,88
+1999,W,1999_MBNA_Platinum_400,26,5,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide,Jack_Roush,Ford,394,39705,running,0,85
+1999,W,1999_MBNA_Platinum_400,27,11,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,394,40355,running,0,82
+1999,W,1999_MBNA_Platinum_400,28,21,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,394,39180,running,0,79
+1999,W,1999_MBNA_Platinum_400,29,33,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,393,39030,running,1,81
+1999,W,1999_MBNA_Platinum_400,30,13,9,usa,Jerry_Nadeau,Jerry Nadeau,WCW,Harry_Melling,Ford,393,31980,out of gas,0,73
+1999,W,1999_MBNA_Platinum_400,31,42,58,usa,Ricky_Craven,Ricky Craven,Turbine Solutions,Scott_Barbour,Ford,392,28730,running,0,70
+1999,W,1999_MBNA_Platinum_400,32,6,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,392,28570,running,0,67
+1999,W,1999_MBNA_Platinum_400,33,40,45,usa,Rich_Bickle,Rich Bickle,10-10-345,Tim_Beverley,Pontiac,392,28645,running,0,64
+1999,W,1999_MBNA_Platinum_400,34,22,98,usa,Rick_Mast,Rick Mast,Guess Who?!!,Cale_Yarborough,Ford,391,28270,running,0,61
+1999,W,1999_MBNA_Platinum_400,35,29,36,usa,Ernie_Irvan,Ernie Irvan,M&M's,Nelson_Bowers,Pontiac,391,35120,running,0,58
+1999,W,1999_MBNA_Platinum_400,36,30,30,usa,Derrike_Cope,Derrike Cope,Jimmy Dean,Chuck_Rider,Pontiac,389,28005,running,0,55
+1999,W,1999_MBNA_Platinum_400,37,20,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,358,34895,running,0,52
+1999,W,1999_MBNA_Platinum_400,38,43,71,usa,Dave_Marcis,Dave Marcis,RealTree Camouflage,Dave_Marcis,Chevrolet,307,27785,overheating,0,49
+1999,W,1999_MBNA_Platinum_400,39,4,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,289,31275,crash,0,46
+1999,W,1999_MBNA_Platinum_400,40,41,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,255,27565,electrical,0,43
+1999,W,1999_MBNA_Platinum_400,41,16,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,132,34455,running,0,40
+1999,W,1999_MBNA_Platinum_400,42,25,7,usa,Michael_Waltrip,Michael Waltrip,Philips Electronics,Jim_Mattei,Chevrolet,99,34345,engine,0,37
+1999,W,1999_MBNA_Platinum_400,43,26,91,usa,Dick_Trickle,Dick Trickle,Larry's Homes,Joe_Falk,Chevrolet,6,28435,crash,0,34
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,1,6,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,200,151240,running,150,185
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,2,1,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,200,90050,running,20,175
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,3,14,99,usa,Jeff_Burton,Jeff Burton,NASCAR Rocks / Exide Batteries,Jack_Roush,Ford,200,69500,running,1,170
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,4,8,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,200,56985,running,0,160
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,5,18,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,200,55565,running,2,160
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,6,10,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,199,43275,running,0,150
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,7,2,36,usa,Ernie_Irvan,Ernie Irvan,Pedigree,Nelson_Bowers,Pontiac,199,47725,running,4,151
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,8,24,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,199,54600,running,0,142
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,9,28,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,198,34450,out of gas,0,138
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,10,3,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,198,52250,running,17,139
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,11,12,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,198,42740,running,0,130
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,12,13,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite / Harley Davidson,Roger_Penske,Ford,198,42200,running,0,127
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,13,4,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,198,39000,running,0,124
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,14,11,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,198,36400,running,0,121
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,15,16,7,usa,Michael_Waltrip,Michael Waltrip,Philips Electronics,Jim_Mattei,Chevrolet,198,38140,running,0,118
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,16,15,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,198,39825,running,0,115
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,17,17,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,198,39300,running,0,112
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,18,33,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,198,34865,running,0,109
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,19,26,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,198,35350,running,0,106
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,20,23,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,198,28160,running,0,103
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,21,19,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,198,30055,running,0,100
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,22,7,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,197,33700,running,0,97
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,23,37,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,197,38165,running,0,94
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,24,41,45,usa,Rich_Bickle,Rich Bickle,10-10-345,Tim_Beverley,Pontiac,197,26355,running,0,91
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,25,32,75,usa,Ted_Musgrave,Ted Musgrave,Remington Arms,Butch_Mock,Ford,197,26420,running,0,88
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,26,20,9,usa,Jerry_Nadeau,Jerry Nadeau,Cartoon Network,Harry_Melling,Ford,197,26760,running,0,85
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,27,39,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,197,25700,running,0,82
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,28,34,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,197,32640,running,0,79
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,29,31,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide,Jack_Roush,Ford,197,32005,running,0,76
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,30,40,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,197,29665,running,0,73
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,31,38,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,197,37310,running,0,70
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,32,27,30,usa,Derrike_Cope,Derrike Cope,Jimmy Dean,Chuck_Rider,Pontiac,197,22240,running,0,67
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,33,21,93,usa,Dave_Blaney,Dave Blaney,Amoco,Bill_Davis,Pontiac,197,22135,running,0,64
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,34,9,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,197,30065,running,0,61
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,35,42,41,usa,David_Green,David Green,Kodiak,Larry_Hedrick,Chevrolet,197,22495,running,0,58
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,36,36,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,197,29450,running,0,55
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,37,30,98,usa,Rick_Mast,Rick Mast,Universal Studios,Cale_Yarborough,Ford,196,21890,running,0,52
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,38,35,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,196,28780,running,0,49
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,39,25,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart / Route 66,Travis_Carter,Ford,195,21770,running,0,46
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,40,43,58,usa,Loy_Allen_Jr,"Loy Allen, Jr.",Turbine Solutions,Scott_Barbour,Ford,195,21760,running,0,43
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,41,5,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,193,28750,running,6,45
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,42,22,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,188,21740,running,0,37
+1999,W,1999_Kmart_400_Presented_by_Castrol_Super_Clean,43,29,23,usa,Jimmy_Spencer,Jimmy Spencer,Winston / No Bull,Travis_Carter,Ford,159,32530,engine,0,34
+1999,W,1999_Pocono_500,1,3,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,200,151110,running,27,180
+1999,W,1999_Pocono_500,2,17,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,200,111220,running,10,175
+1999,W,1999_Pocono_500,3,2,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,200,86670,running,71,175
+1999,W,1999_Pocono_500,4,1,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,200,85245,running,2,165
+1999,W,1999_Pocono_500,5,10,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,200,78290,running,32,160
+1999,W,1999_Pocono_500,6,12,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,200,53255,running,1,155
+1999,W,1999_Pocono_500,7,25,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,200,57190,running,0,146
+1999,W,1999_Pocono_500,8,34,36,usa,Ernie_Irvan,Ernie Irvan,M&M's,Nelson_Bowers,Pontiac,200,54415,running,0,142
+1999,W,1999_Pocono_500,9,23,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,200,53215,running,18,143
+1999,W,1999_Pocono_500,10,11,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,200,64005,running,0,134
+1999,W,1999_Pocono_500,11,15,75,usa,Ted_Musgrave,Ted Musgrave,Remington Arms,Butch_Mock,Ford,200,44015,running,0,130
+1999,W,1999_Pocono_500,12,5,98,usa,Rick_Mast,Rick Mast,Universal Studios,Cale_Yarborough,Ford,200,40565,running,7,132
+1999,W,1999_Pocono_500,13,18,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,200,44515,running,0,124
+1999,W,1999_Pocono_500,14,40,23,usa,Jimmy_Spencer,Jimmy Spencer,Winston / No Bull,Travis_Carter,Ford,200,48615,running,14,126
+1999,W,1999_Pocono_500,15,16,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,200,46355,running,0,118
+1999,W,1999_Pocono_500,16,33,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,200,48015,running,0,115
+1999,W,1999_Pocono_500,17,31,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide / Sable!,Jack_Roush,Ford,200,43615,running,0,112
+1999,W,1999_Pocono_500,18,29,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,200,43215,running,0,109
+1999,W,1999_Pocono_500,19,39,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,199,35465,running,0,106
+1999,W,1999_Pocono_500,20,42,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,199,46205,running,0,103
+1999,W,1999_Pocono_500,21,26,01,usa,Jeff_Green,Jeff Green,Tracfone,Felix_Sabates,Chevrolet,199,31415,running,0,100
+1999,W,1999_Pocono_500,22,24,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,199,41615,running,3,102
+1999,W,1999_Pocono_500,23,30,9,usa,Jerry_Nadeau,Jerry Nadeau,Cartoon Network,Harry_Melling,Ford,199,34890,running,0,94
+1999,W,1999_Pocono_500,24,36,45,usa,Rich_Bickle,Rich Bickle,10-10-345,Tim_Beverley,Pontiac,198,34040,running,0,91
+1999,W,1999_Pocono_500,25,21,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,198,33765,running,0,88
+1999,W,1999_Pocono_500,26,35,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,198,41115,running,0,85
+1999,W,1999_Pocono_500,27,6,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,196,40365,running,0,82
+1999,W,1999_Pocono_500,28,20,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,196,45215,running,1,84
+1999,W,1999_Pocono_500,29,7,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,193,39540,crash,13,81
+1999,W,1999_Pocono_500,30,38,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,192,37115,crash,0,73
+1999,W,1999_Pocono_500,31,4,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,185,36740,engine,0,70
+1999,W,1999_Pocono_500,32,37,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,180,36590,running,1,72
+1999,W,1999_Pocono_500,33,41,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,167,29390,rear axle,0,64
+1999,W,1999_Pocono_500,34,28,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart,Travis_Carter,Ford,165,29215,crash,0,61
+1999,W,1999_Pocono_500,35,43,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,164,29040,running,0,58
+1999,W,1999_Pocono_500,36,8,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,154,45440,running,0,55
+1999,W,1999_Pocono_500,37,13,7,usa,Michael_Waltrip,Michael Waltrip,Philips Electronics,Jim_Mattei,Chevrolet,152,35675,crash,0,52
+1999,W,1999_Pocono_500,38,22,41,usa,David_Green,David Green,Kodiak,Larry_Hedrick,Chevrolet,145,28550,engine,0,49
+1999,W,1999_Pocono_500,39,9,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,139,35425,engine,0,46
+1999,W,1999_Pocono_500,40,27,91,usa,Dick_Trickle,Dick Trickle,Larry's Homes,Joe_Falk,Chevrolet,109,28300,engine,0,43
+1999,W,1999_Pocono_500,41,32,71,usa,Dave_Marcis,Dave Marcis,RealTree Camouflage,Dave_Marcis,Chevrolet,87,28675,crash,0,40
+1999,W,1999_Pocono_500,42,19,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,17,35300,engine,0,37
+1999,W,1999_Pocono_500,43,14,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite / Harley Davidson,Roger_Penske,Ford,7,44025,crash,0,34
+1999,W,1999_Save_Mart_Kragen_350,1,1,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,112,125040,running,80,185
+1999,W,1999_Save_Mart_Kragen_350,2,9,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,112,86775,running,24,175
+1999,W,1999_Save_Mart_Kragen_350,3,31,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,112,72675,running,0,165
+1999,W,1999_Save_Mart_Kragen_350,4,4,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,112,56340,running,0,160
+1999,W,1999_Save_Mart_Kragen_350,5,5,23,usa,Jimmy_Spencer,Jimmy Spencer,Winston / No Bull,Travis_Carter,Ford,112,61055,running,5,160
+1999,W,1999_Save_Mart_Kragen_350,6,29,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,112,53940,running,0,150
+1999,W,1999_Save_Mart_Kragen_350,7,34,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,112,46915,running,0,146
+1999,W,1999_Save_Mart_Kragen_350,8,13,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,112,38965,running,0,142
+1999,W,1999_Save_Mart_Kragen_350,9,23,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,112,46165,running,0,138
+1999,W,1999_Save_Mart_Kragen_350,10,11,7,usa,Michael_Waltrip,Michael Waltrip,Philips Electronics,Jim_Mattei,Chevrolet,112,46675,running,0,134
+1999,W,1999_Save_Mart_Kragen_350,11,17,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,112,49750,running,0,130
+1999,W,1999_Save_Mart_Kragen_350,12,10,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart,Travis_Carter,Ford,112,33125,running,0,127
+1999,W,1999_Save_Mart_Kragen_350,13,7,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,112,39775,running,0,124
+1999,W,1999_Save_Mart_Kragen_350,14,19,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,112,33025,running,0,121
+1999,W,1999_Save_Mart_Kragen_350,15,2,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,112,42965,running,0,118
+1999,W,1999_Save_Mart_Kragen_350,16,37,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,112,38175,running,0,115
+1999,W,1999_Save_Mart_Kragen_350,17,16,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,112,37450,running,0,112
+1999,W,1999_Save_Mart_Kragen_350,18,32,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,112,37625,running,0,109
+1999,W,1999_Save_Mart_Kragen_350,19,6,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,112,36670,running,0,106
+1999,W,1999_Save_Mart_Kragen_350,20,22,75,usa,Ted_Musgrave,Ted Musgrave,Remington Arms,Butch_Mock,Ford,112,32900,running,0,103
+1999,W,1999_Save_Mart_Kragen_350,21,41,45,usa,Rich_Bickle,Rich Bickle,10-10-345,Tim_Beverley,Pontiac,112,29775,running,0,100
+1999,W,1999_Save_Mart_Kragen_350,22,18,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,112,36715,running,0,97
+1999,W,1999_Save_Mart_Kragen_350,23,24,98,usa,Rick_Mast,Rick Mast,Universal Studios,Cale_Yarborough,Ford,112,29080,running,0,94
+1999,W,1999_Save_Mart_Kragen_350,24,12,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,112,43800,running,3,96
+1999,W,1999_Save_Mart_Kragen_350,25,21,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,112,36180,running,0,88
+1999,W,1999_Save_Mart_Kragen_350,26,35,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,112,36050,running,0,85
+1999,W,1999_Save_Mart_Kragen_350,27,14,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,112,42115,running,0,82
+1999,W,1999_Save_Mart_Kragen_350,28,33,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,112,28630,running,0,79
+1999,W,1999_Save_Mart_Kragen_350,29,25,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,111,40610,running,0,76
+1999,W,1999_Save_Mart_Kragen_350,30,40,36,usa,Ernie_Irvan,Ernie Irvan,M&M's,Nelson_Bowers,Pontiac,111,35070,running,0,73
+1999,W,1999_Save_Mart_Kragen_350,31,28,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,111,32725,running,0,70
+1999,W,1999_Save_Mart_Kragen_350,32,38,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide / TV Chihuahua,Jack_Roush,Ford,111,32440,running,0,67
+1999,W,1999_Save_Mart_Kragen_350,33,30,19,usa,Tom_Hubert,Tom Hubert,Bradford White,Kurt_Roehrig,Pontiac,111,25420,running,0,64
+1999,W,1999_Save_Mart_Kragen_350,34,3,9,usa,Jerry_Nadeau,Jerry Nadeau,Cartoon Network / Jetsons,Harry_Melling,Ford,110,25900,running,0,61
+1999,W,1999_Save_Mart_Kragen_350,35,26,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,110,36480,running,0,58
+1999,W,1999_Save_Mart_Kragen_350,36,43,41,usa,David_Green,David Green,Kodiak,Larry_Hedrick,Chevrolet,109,25360,running,0,55
+1999,W,1999_Save_Mart_Kragen_350,37,36,30,usa,Derrike_Cope,Derrike Cope,State Fair,Chuck_Rider,Pontiac,109,25340,running,0,52
+1999,W,1999_Save_Mart_Kragen_350,38,15,10,usa,Ricky_Rudd,Ricky Rudd,Tide Hydrogen Peroxide Bubbles,Ricky_Rudd,Ford,106,32320,crash,0,49
+1999,W,1999_Save_Mart_Kragen_350,39,8,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,93,32800,crash,0,46
+1999,W,1999_Save_Mart_Kragen_350,40,42,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,93,25280,running,0,43
+1999,W,1999_Save_Mart_Kragen_350,41,20,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,84,32260,handling,0,40
+1999,W,1999_Save_Mart_Kragen_350,42,39,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,24,32240,crash,0,37
+1999,W,1999_Save_Mart_Kragen_350,43,27,38,usa,Butch_Gilliland,Butch Gilliland,Ralph's / Food 4 Less / Coca-Cola,Richard_Hilton,Ford,3,25415,engine,0,34
+1999,W,1999_Pepsi_400,1,12,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,160,164965,running,40,180
+1999,W,1999_Pepsi_400,2,10,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,160,92175,running,18,175
+1999,W,1999_Pepsi_400,3,37,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,160,93775,running,0,165
+1999,W,1999_Pepsi_400,4,8,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,160,79825,running,7,165
+1999,W,1999_Pepsi_400,5,9,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,160,71890,running,3,160
+1999,W,1999_Pepsi_400,6,6,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,160,52475,running,0,150
+1999,W,1999_Pepsi_400,7,25,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,160,60575,running,0,146
+1999,W,1999_Pepsi_400,8,18,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,160,61175,running,0,142
+1999,W,1999_Pepsi_400,9,32,36,usa,Ernie_Irvan,Ernie Irvan,M&M's Crispy,Nelson_Bowers,Pontiac,160,52175,running,0,138
+1999,W,1999_Pepsi_400,10,38,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,160,62965,running,0,134
+1999,W,1999_Pepsi_400,11,5,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite / Harley Davidson,Roger_Penske,Ford,160,67115,running,75,140
+1999,W,1999_Pepsi_400,12,7,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light / Brooks & Dunn,Felix_Sabates,Chevrolet,160,52675,running,1,132
+1999,W,1999_Pepsi_400,13,2,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,160,55785,running,11,129
+1999,W,1999_Pepsi_400,14,24,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,160,48995,running,0,121
+1999,W,1999_Pepsi_400,15,28,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,160,43795,running,0,118
+1999,W,1999_Pepsi_400,16,1,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth Prepaid Phone Card,Felix_Sabates,Chevrolet,160,54765,running,4,120
+1999,W,1999_Pepsi_400,17,3,6,usa,Mark_Martin,Mark Martin,Eagle One / Cummins,Jack_Roush,Ford,160,54575,running,0,112
+1999,W,1999_Pepsi_400,18,26,45,usa,Rich_Bickle,Rich Bickle,10-10-345,Tim_Beverley,Pontiac,160,39485,running,0,109
+1999,W,1999_Pepsi_400,19,19,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,160,50445,running,0,106
+1999,W,1999_Pepsi_400,20,36,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,160,48445,running,0,103
+1999,W,1999_Pepsi_400,21,11,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,160,56960,running,0,100
+1999,W,1999_Pepsi_400,22,29,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,160,46040,running,1,102
+1999,W,1999_Pepsi_400,23,14,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,160,44670,running,0,94
+1999,W,1999_Pepsi_400,24,33,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,160,44750,running,0,91
+1999,W,1999_Pepsi_400,25,20,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,160,48805,running,0,88
+1999,W,1999_Pepsi_400,26,15,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,160,43745,running,0,85
+1999,W,1999_Pepsi_400,27,17,23,usa,Jimmy_Spencer,Jimmy Spencer,Winston / No Bull,Travis_Carter,Ford,160,43690,running,0,82
+1999,W,1999_Pepsi_400,28,21,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,160,36070,running,0,79
+1999,W,1999_Pepsi_400,29,4,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,159,42850,running,0,76
+1999,W,1999_Pepsi_400,30,40,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide / Primestar / Chris Rock,Jack_Roush,Ford,159,42680,running,0,73
+1999,W,1999_Pepsi_400,31,22,71,usa,Dave_Marcis,Dave Marcis,RealTree Camouflage,Dave_Marcis,Chevrolet,159,32500,running,0,70
+1999,W,1999_Pepsi_400,32,41,98,usa,Rick_Mast,Rick Mast,Universal Studios,Cale_Yarborough,Ford,159,32370,running,0,67
+1999,W,1999_Pepsi_400,33,27,41,usa,David_Green,David Green,Kodiak,Larry_Hedrick,Chevrolet,159,32240,running,0,64
+1999,W,1999_Pepsi_400,34,34,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,159,39160,running,0,61
+1999,W,1999_Pepsi_400,35,42,75,usa,Ted_Musgrave,Ted Musgrave,Victory Motorcycles / Polaris ATV's,Butch_Mock,Ford,158,32030,running,0,58
+1999,W,1999_Pepsi_400,36,39,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,158,31900,running,0,55
+1999,W,1999_Pepsi_400,37,16,9,usa,Jerry_Nadeau,Jerry Nadeau,WCW / Goldberg,Mark_Melling,Ford,158,32271,running,0,52
+1999,W,1999_Pepsi_400,38,35,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart / Route 66,Travis_Carter,Ford,156,31625,running,0,49
+1999,W,1999_Pepsi_400,39,13,7,usa,Michael_Waltrip,Michael Waltrip,Philips Light Bulbs / Klaussner,Jim_Mattei,Chevrolet,113,38500,rear end,0,46
+1999,W,1999_Pepsi_400,40,31,58,usa,Loy_Allen_Jr,"Loy Allen, Jr.",Turbine Solutions / StockCar Stocks,Scott_Barbour,Ford,111,31375,running,0,43
+1999,W,1999_Pepsi_400,41,23,00,usa,Buckshot_Jones,Buckshot Jones,Cheez-It,Billy_Jones,Pontiac,110,31250,radiator,0,40
+1999,W,1999_Pepsi_400,42,43,1,usa,Steve_Park,Steve Park,Pennzoil 400,"Dale_Earnhardt,_Inc.",Chevrolet,78,38125,engine,0,37
+1999,W,1999_Pepsi_400,43,30,50,usa,Ricky_Craven,Ricky Craven,Midwest Transit,Hal_Hicks_Mike_Witters,Chevrolet,34,35300,steering,0,34
+1999,W,1999_Jiffy_Lube_300,1,38,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,300,139490,running,2,180
+1999,W,1999_Jiffy_Lube_300,2,6,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,300,95400,running,0,170
+1999,W,1999_Jiffy_Lube_300,3,1,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,300,97050,running,54,170
+1999,W,1999_Jiffy_Lube_300,4,9,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,300,75550,running,18,165
+1999,W,1999_Jiffy_Lube_300,5,40,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,300,63815,running,0,155
+1999,W,1999_Jiffy_Lube_300,6,37,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,300,68400,running,0,150
+1999,W,1999_Jiffy_Lube_300,7,21,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,300,54875,running,0,146
+1999,W,1999_Jiffy_Lube_300,8,14,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,300,56675,running,0,142
+1999,W,1999_Jiffy_Lube_300,9,29,23,usa,Jimmy_Spencer,Jimmy Spencer,Winston / No Bull,Travis_Carter,Ford,300,57275,running,0,138
+1999,W,1999_Jiffy_Lube_300,10,10,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,300,55715,running,118,144
+1999,W,1999_Jiffy_Lube_300,11,18,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,300,56175,running,0,130
+1999,W,1999_Jiffy_Lube_300,12,11,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,300,51775,running,0,127
+1999,W,1999_Jiffy_Lube_300,13,12,50,usa,Ricky_Craven,Ricky Craven,Midwest Transit,Hal_Hicks_Mike_Witters,Chevrolet,300,40375,running,0,124
+1999,W,1999_Jiffy_Lube_300,14,28,45,usa,Rich_Bickle,Rich Bickle,10-10-345,Tim_Beverley,Pontiac,300,44275,running,0,121
+1999,W,1999_Jiffy_Lube_300,15,22,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,300,52815,running,0,118
+1999,W,1999_Jiffy_Lube_300,16,39,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,300,55875,running,0,115
+1999,W,1999_Jiffy_Lube_300,17,27,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,300,50850,running,0,112
+1999,W,1999_Jiffy_Lube_300,18,7,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,299,66900,running,60,114
+1999,W,1999_Jiffy_Lube_300,19,8,7,usa,Michael_Waltrip,Michael Waltrip,Philips Electronics,Jim_Mattei,Chevrolet,299,49950,running,0,106
+1999,W,1999_Jiffy_Lube_300,20,33,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,299,53465,running,0,103
+1999,W,1999_Jiffy_Lube_300,21,20,36,usa,Ernie_Irvan,Ernie Irvan,M&M's,Nelson_Bowers,Pontiac,299,49425,running,0,100
+1999,W,1999_Jiffy_Lube_300,22,42,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide,Jack_Roush,Ford,299,49575,running,0,97
+1999,W,1999_Jiffy_Lube_300,23,19,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,299,48925,running,0,94
+1999,W,1999_Jiffy_Lube_300,24,41,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,298,48675,running,0,91
+1999,W,1999_Jiffy_Lube_300,25,43,75,usa,Ted_Musgrave,Ted Musgrave,Remington Arms,Butch_Mock,Ford,298,41725,running,0,88
+1999,W,1999_Jiffy_Lube_300,26,23,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,298,48475,running,0,85
+1999,W,1999_Jiffy_Lube_300,27,26,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,298,48000,running,0,82
+1999,W,1999_Jiffy_Lube_300,28,31,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,297,52850,running,0,79
+1999,W,1999_Jiffy_Lube_300,29,30,91,usa,Dick_Trickle,Dick Trickle,Kodiak / Little Joe's Auto,Joe_Falk,Chevrolet,297,37700,running,0,76
+1999,W,1999_Jiffy_Lube_300,30,25,98,usa,Rick_Mast,Rick Mast,Universal Studios,Cale_Yarborough,Ford,297,40300,running,0,73
+1999,W,1999_Jiffy_Lube_300,31,36,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,297,44450,running,0,70
+1999,W,1999_Jiffy_Lube_300,32,35,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,295,37325,running,0,67
+1999,W,1999_Jiffy_Lube_300,33,24,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart / Route 66,Travis_Carter,Ford,295,37200,running,0,64
+1999,W,1999_Jiffy_Lube_300,34,16,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,293,44075,running,0,61
+1999,W,1999_Jiffy_Lube_300,35,4,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,288,43950,running,0,58
+1999,W,1999_Jiffy_Lube_300,36,15,9,usa,Jerry_Nadeau,Jerry Nadeau,Cartoon Network / Radio Shack,Mark_Melling,Ford,285,37325,running,0,55
+1999,W,1999_Jiffy_Lube_300,37,17,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,260,43700,running,0,52
+1999,W,1999_Jiffy_Lube_300,38,3,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,222,58300,running,48,54
+1999,W,1999_Jiffy_Lube_300,39,32,58,usa,Hut_Stricklin,Hut Stricklin,Turbine Solutions,Scott_Barbour,Ford,193,36575,engine,0,46
+1999,W,1999_Jiffy_Lube_300,40,34,93,usa,Dave_Blaney,Dave Blaney,Amoco,Bill_Davis,Pontiac,193,36550,crash,0,43
+1999,W,1999_Jiffy_Lube_300,41,5,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,190,36525,rear end,0,40
+1999,W,1999_Jiffy_Lube_300,42,2,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,144,55000,crash,0,37
+1999,W,1999_Jiffy_Lube_300,43,13,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,44,36475,ignition,0,34
+1999,W,1999_Pennsylvania_500,1,4,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,200,139385,running,38,180
+1999,W,1999_Pennsylvania_500,2,15,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,200,95695,running,41,175
+1999,W,1999_Pennsylvania_500,3,2,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,200,82320,running,3,170
+1999,W,1999_Pennsylvania_500,4,12,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,200,70970,running,0,160
+1999,W,1999_Pennsylvania_500,5,6,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,200,59855,running,0,155
+1999,W,1999_Pennsylvania_500,6,14,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,200,56115,running,0,150
+1999,W,1999_Pennsylvania_500,7,13,45,usa,Rich_Bickle,Rich Bickle,10-10-345,Tim_Beverley,Pontiac,200,45815,running,0,146
+1999,W,1999_Pennsylvania_500,8,32,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,200,46765,running,6,147
+1999,W,1999_Pennsylvania_500,9,11,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,200,48765,running,4,143
+1999,W,1999_Pennsylvania_500,10,1,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,200,70330,running,51,144
+1999,W,1999_Pennsylvania_500,11,24,36,usa,Ernie_Irvan,Ernie Irvan,M&M's,Nelson_Bowers,Pontiac,200,47215,running,0,130
+1999,W,1999_Pennsylvania_500,12,16,7,usa,Michael_Waltrip,Michael Waltrip,Philips,Jim_Mattei,Chevrolet,200,46665,running,0,127
+1999,W,1999_Pennsylvania_500,13,42,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,200,38365,running,5,129
+1999,W,1999_Pennsylvania_500,14,34,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,200,41265,running,0,121
+1999,W,1999_Pennsylvania_500,15,29,58,usa,Hut_Stricklin,Hut Stricklin,Turbine Solutions / Speedbet.com,Scott_Barbour,Ford,200,32680,running,0,118
+1999,W,1999_Pennsylvania_500,16,39,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,200,32940,running,0,115
+1999,W,1999_Pennsylvania_500,17,27,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,200,44340,running,0,112
+1999,W,1999_Pennsylvania_500,18,17,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,199,44840,running,0,109
+1999,W,1999_Pennsylvania_500,19,22,98,usa,Rick_Mast,Rick Mast,Universal Studios,Cale_Yarborough,Ford,199,32190,running,5,111
+1999,W,1999_Pennsylvania_500,20,21,23,usa,Jimmy_Spencer,Jimmy Spencer,Team Winston,Travis_Carter,Ford,199,42030,running,0,103
+1999,W,1999_Pennsylvania_500,21,40,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,199,39440,running,0,100
+1999,W,1999_Pennsylvania_500,22,38,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,199,38240,running,0,97
+1999,W,1999_Pennsylvania_500,23,33,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,199,30915,running,1,99
+1999,W,1999_Pennsylvania_500,24,31,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide,Jack_Roush,Ford,199,38090,running,3,96
+1999,W,1999_Pennsylvania_500,25,43,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart / Route 66,Travis_Carter,Ford,199,30365,running,0,88
+1999,W,1999_Pennsylvania_500,26,26,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,199,37915,running,0,85
+1999,W,1999_Pennsylvania_500,27,35,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,199,36565,running,0,82
+1999,W,1999_Pennsylvania_500,28,9,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,198,33915,running,5,84
+1999,W,1999_Pennsylvania_500,29,10,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,198,33740,running,0,76
+1999,W,1999_Pennsylvania_500,30,25,71,usa,Dave_Marcis,Dave Marcis,RealTree Camouflage,Dave_Marcis,Chevrolet,197,27415,running,1,78
+1999,W,1999_Pennsylvania_500,31,30,90,usa,Stanton_Barrett,Stanton Barrett,Hills Brothers Coffee,Junie_Donlavey,Ford,195,26940,engine,0,70
+1999,W,1999_Pennsylvania_500,32,7,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,186,49990,suspension,22,72
+1999,W,1999_Pennsylvania_500,33,23,75,usa,Ted_Musgrave,Ted Musgrave,Remington Arms,Butch_Mock,Ford,183,26390,running,0,64
+1999,W,1999_Pennsylvania_500,34,3,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,183,32865,running,0,61
+1999,W,1999_Pennsylvania_500,35,20,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,177,40265,running,0,58
+1999,W,1999_Pennsylvania_500,36,18,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,175,41740,transmission,1,60
+1999,W,1999_Pennsylvania_500,37,28,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,171,29250,crash,0,52
+1999,W,1999_Pennsylvania_500,38,41,9,usa,Jerry_Nadeau,Jerry Nadeau,TBS Dinner and a Movie / Pepcid AC,Mark_Melling,Ford,167,25500,crash,0,49
+1999,W,1999_Pennsylvania_500,39,37,94,usa,Bill_Elliott,Bill Elliott,McDonald's / QPC Code Name Game,Bill_Elliott,Ford,158,31950,crash,0,46
+1999,W,1999_Pennsylvania_500,40,8,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,155,35500,running,14,48
+1999,W,1999_Pennsylvania_500,41,36,41,usa,David_Green,David Green,Kodiak,Larry_Hedrick,Chevrolet,124,24850,engine,0,40
+1999,W,1999_Pennsylvania_500,42,5,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,45,39800,crash,0,37
+1999,W,1999_Pennsylvania_500,43,19,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,14,31950,crash,0,34
+1999,W,1999_Brickyard_400,1,4,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,160,712240,running,117,185
+1999,W,1999_Brickyard_400,2,7,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,160,270950,running,1,175
+1999,W,1999_Brickyard_400,3,1,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,160,262800,running,24,170
+1999,W,1999_Brickyard_400,4,2,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,160,222450,running,16,165
+1999,W,1999_Brickyard_400,5,16,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,160,193240,running,1,160
+1999,W,1999_Brickyard_400,6,12,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,160,157210,running,0,150
+1999,W,1999_Brickyard_400,7,11,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,160,162635,running,0,146
+1999,W,1999_Brickyard_400,8,17,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,160,140435,running,0,142
+1999,W,1999_Brickyard_400,9,14,10,usa,Ricky_Rudd,Ricky Rudd,Tide Hydrogen Peroxide Bubbles,Ricky_Rudd,Ford,160,137535,running,0,138
+1999,W,1999_Brickyard_400,10,18,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus Sign,Richard_Childress,Chevrolet,160,135525,running,0,134
+1999,W,1999_Brickyard_400,11,22,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,160,129160,running,0,130
+1999,W,1999_Brickyard_400,12,6,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,160,117010,running,0,127
+1999,W,1999_Brickyard_400,13,15,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,160,111410,running,0,124
+1999,W,1999_Brickyard_400,14,27,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,160,109610,running,0,121
+1999,W,1999_Brickyard_400,15,32,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,160,109610,running,0,118
+1999,W,1999_Brickyard_400,16,21,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light / Brooks & Dunn,Felix_Sabates,Chevrolet,160,109310,running,0,115
+1999,W,1999_Brickyard_400,17,25,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,160,100450,running,0,112
+1999,W,1999_Brickyard_400,18,9,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,160,105410,running,0,109
+1999,W,1999_Brickyard_400,19,39,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,160,112410,running,0,106
+1999,W,1999_Brickyard_400,20,3,41,usa,David_Green,David Green,Kodiak,Larry_Hedrick,Chevrolet,160,101575,running,0,103
+1999,W,1999_Brickyard_400,21,13,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,160,107710,running,0,100
+1999,W,1999_Brickyard_400,22,33,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,159,100710,running,0,97
+1999,W,1999_Brickyard_400,23,8,94,usa,Bill_Elliott,Bill Elliott,McDonald's / QPC Code Name Game,Bill_Elliott,Ford,159,99610,running,0,94
+1999,W,1999_Brickyard_400,24,40,36,usa,Ernie_Irvan,Ernie Irvan,M&M's,Nelson_Bowers,Pontiac,159,98510,running,0,91
+1999,W,1999_Brickyard_400,25,23,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,159,90710,running,0,88
+1999,W,1999_Brickyard_400,26,42,23,usa,Jimmy_Spencer,Jimmy Spencer,Team Winston / No Bull,Travis_Carter,Ford,159,96385,running,0,85
+1999,W,1999_Brickyard_400,27,5,7,usa,Michael_Waltrip,Michael Waltrip,Philips Electronics,Jim_Mattei,Chevrolet,159,94885,running,0,82
+1999,W,1999_Brickyard_400,28,20,93,usa,Dave_Blaney,Dave Blaney,Amoco,Bill_Davis,Pontiac,159,84385,running,0,79
+1999,W,1999_Brickyard_400,29,19,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,159,98885,running,0,76
+1999,W,1999_Brickyard_400,30,43,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide / Sting,Jack_Roush,Ford,159,90910,running,0,73
+1999,W,1999_Brickyard_400,31,28,9,usa,Jerry_Nadeau,Jerry Nadeau,Cartoon Network / Jetsons / TBS,Mark_Melling,Ford,159,83485,running,0,70
+1999,W,1999_Brickyard_400,32,31,30,usa,Derrike_Cope,Derrike Cope,Jimmy Dean,Chuck_Rider,Pontiac,159,82385,running,0,67
+1999,W,1999_Brickyard_400,33,36,58,usa,Hut_Stricklin,Hut Stricklin,MTX Audio / CT Farms,Scott_Barbour,Ford,158,82135,running,0,64
+1999,W,1999_Brickyard_400,34,26,50,usa,Ricky_Craven,Ricky Craven,Midwest Transit,Hal_Hicks_Mike_Witters,Chevrolet,158,81885,running,0,61
+1999,W,1999_Brickyard_400,35,30,75,usa,Ted_Musgrave,Ted Musgrave,Remington Arms,Butch_Mock,Ford,158,84110,running,0,58
+1999,W,1999_Brickyard_400,36,34,98,usa,Rick_Mast,Rick Mast,Universal Studios,Cale_Yarborough,Ford,158,81510,running,0,55
+1999,W,1999_Brickyard_400,37,10,43,usa,John_Andretti,John Andretti,STP / Petty's 50th Anniversary,Petty_Enterprises,Pontiac,158,96410,running,0,52
+1999,W,1999_Brickyard_400,38,37,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,157,96310,running,0,49
+1999,W,1999_Brickyard_400,39,41,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,157,81210,running,0,46
+1999,W,1999_Brickyard_400,40,29,71,usa,Dave_Marcis,Dave Marcis,RealTree Camouflage,Dave_Marcis,Chevrolet,139,82010,engine,1,48
+1999,W,1999_Brickyard_400,41,24,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels / Petty's 50th Anniversary,Petty_Enterprises,Pontiac,72,81010,crash,0,40
+1999,W,1999_Brickyard_400,42,35,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart / Route 66,Travis_Carter,Ford,58,80910,handling,0,37
+1999,W,1999_Brickyard_400,43,38,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,41,91605,crash,0,34
+1999,W,1999_Frontier_at_the_Glen,1,3,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,90,119860,running,55,185
+1999,W,1999_Frontier_at_the_Glen,2,7,87,canada,Ron_Fellows,Ron Fellows,Bully Hill Vineyards,Joe_Nemechek,Chevrolet,90,67270,running,3,175
+1999,W,1999_Frontier_at_the_Glen,3,1,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,90,64460,running,9,170
+1999,W,1999_Frontier_at_the_Glen,4,9,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,90,59900,running,0,160
+1999,W,1999_Frontier_at_the_Glen,5,6,9,usa,Jerry_Nadeau,Jerry Nadeau,Cartoon Network / Jetsons,Mark_Melling,Ford,90,53120,running,9,160
+1999,W,1999_Frontier_at_the_Glen,6,4,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,90,45240,running,0,150
+1999,W,1999_Frontier_at_the_Glen,7,26,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,90,39785,running,2,151
+1999,W,1999_Frontier_at_the_Glen,8,25,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,90,35610,running,0,142
+1999,W,1999_Frontier_at_the_Glen,9,17,31,usa,Mike_Skinner,Mike Skinner,Lowe's / Yard-Man,Richard_Childress,Chevrolet,90,37630,running,0,138
+1999,W,1999_Frontier_at_the_Glen,10,5,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,90,51040,running,0,134
+1999,W,1999_Frontier_at_the_Glen,11,10,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,90,42945,running,0,130
+1999,W,1999_Frontier_at_the_Glen,12,39,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,90,36265,running,0,127
+1999,W,1999_Frontier_at_the_Glen,13,27,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,90,41775,running,0,124
+1999,W,1999_Frontier_at_the_Glen,14,38,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,90,38410,running,0,121
+1999,W,1999_Frontier_at_the_Glen,15,16,66,usa,Darrell_Waltrip,Darrell Waltrip,Kmart / Route 66,Travis_Carter,Ford,90,30835,running,0,118
+1999,W,1999_Frontier_at_the_Glen,16,13,23,usa,Jimmy_Spencer,Jimmy Spencer,Team Winston,Travis_Carter,Ford,90,35950,running,0,115
+1999,W,1999_Frontier_at_the_Glen,17,30,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,90,34505,running,0,112
+1999,W,1999_Frontier_at_the_Glen,18,42,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,90,34860,running,0,109
+1999,W,1999_Frontier_at_the_Glen,19,23,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,90,27480,running,0,106
+1999,W,1999_Frontier_at_the_Glen,20,14,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus Sign,Richard_Childress,Chevrolet,90,41525,running,0,103
+1999,W,1999_Frontier_at_the_Glen,21,19,7,usa,Michael_Waltrip,Michael Waltrip,Philips Consumer Communications,Jim_Mattei,Chevrolet,90,33630,running,1,105
+1999,W,1999_Frontier_at_the_Glen,22,12,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,90,38100,running,2,102
+1999,W,1999_Frontier_at_the_Glen,23,41,98,usa,Rick_Mast,Rick Mast,Universal Studios,Cale_Yarborough,Ford,90,26270,running,0,94
+1999,W,1999_Frontier_at_the_Glen,24,22,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,90,39300,running,0,91
+1999,W,1999_Frontier_at_the_Glen,25,40,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide / NFL '99,Jack_Roush,Ford,90,33855,running,0,88
+1999,W,1999_Frontier_at_the_Glen,26,29,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,90,33260,running,0,85
+1999,W,1999_Frontier_at_the_Glen,27,43,75,usa,Ted_Musgrave,Ted Musgrave,Remington Arms,Butch_Mock,Ford,90,25940,running,0,82
+1999,W,1999_Frontier_at_the_Glen,28,8,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,90,32570,running,0,79
+1999,W,1999_Frontier_at_the_Glen,29,18,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,90,37500,running,0,76
+1999,W,1999_Frontier_at_the_Glen,30,11,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,89,32150,running,0,73
+1999,W,1999_Frontier_at_the_Glen,31,33,13,usa,Ted_Christopher,Ted Christopher,LesCare Kitchens,Ted_Christopher,Chevrolet,89,22360,running,0,70
+1999,W,1999_Frontier_at_the_Glen,32,24,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,89,29285,running,0,67
+1999,W,1999_Frontier_at_the_Glen,33,20,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,89,29225,running,0,64
+1999,W,1999_Frontier_at_the_Glen,34,37,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,89,37190,running,0,61
+1999,W,1999_Frontier_at_the_Glen,35,21,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,89,22155,running,0,58
+1999,W,1999_Frontier_at_the_Glen,36,28,45,usa,Rich_Bickle,Rich Bickle,10-10-345,Tim_Beverley,Pontiac,88,22095,running,0,55
+1999,W,1999_Frontier_at_the_Glen,37,32,41,usa,David_Green,David Green,Kodiak,Larry_Hedrick,Chevrolet,88,22060,running,0,52
+1999,W,1999_Frontier_at_the_Glen,38,34,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,85,29000,running,0,49
+1999,W,1999_Frontier_at_the_Glen,39,31,61,usa,David_Murry,David Murry,Midway Island,Mark_Thompson,Ford,78,21965,running,0,46
+1999,W,1999_Frontier_at_the_Glen,40,35,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,66,28930,running,0,43
+1999,W,1999_Frontier_at_the_Glen,41,36,36,usa,Ernie_Irvan,Ernie Irvan,M&M's,Nelson_Bowers,Pontiac,60,28895,engine,0,40
+1999,W,1999_Frontier_at_the_Glen,42,2,14,usa,Boris_Said,Boris Said,Federated Auto Parts / Homelink,Mark_Simo,Ford,48,25660,engine,9,42
+1999,W,1999_Frontier_at_the_Glen,43,15,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,48,28825,engine,0,34
+1999,W,1999_Pepsi_400_Presented_by_Meijer,1,19,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,200,121320,running,45,180
+1999,W,1999_Pepsi_400_Presented_by_Meijer,2,9,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,200,83030,running,73,180
+1999,W,1999_Pepsi_400_Presented_by_Meijer,3,37,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,200,60505,running,4,170
+1999,W,1999_Pepsi_400_Presented_by_Meijer,4,3,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,200,57650,running,27,165
+1999,W,1999_Pepsi_400_Presented_by_Meijer,5,38,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus Sign,Richard_Childress,Chevrolet,200,51005,running,27,160
+1999,W,1999_Pepsi_400_Presented_by_Meijer,6,16,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,200,43790,running,0,150
+1999,W,1999_Pepsi_400_Presented_by_Meijer,7,7,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,200,47065,running,4,151
+1999,W,1999_Pepsi_400_Presented_by_Meijer,8,36,23,usa,Jimmy_Spencer,Jimmy Spencer,Team Winston,Travis_Carter,Ford,200,52590,running,0,142
+1999,W,1999_Pepsi_400_Presented_by_Meijer,9,13,58,usa,Hut_Stricklin,Hut Stricklin,Turbine Solutions,Scott_Barbour,Ford,200,32140,running,0,138
+1999,W,1999_Pepsi_400_Presented_by_Meijer,10,8,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,200,46590,running,0,134
+1999,W,1999_Pepsi_400_Presented_by_Meijer,11,32,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,200,39980,running,0,130
+1999,W,1999_Pepsi_400_Presented_by_Meijer,12,31,98,usa,Rick_Mast,Rick Mast,Team Woody,Cale_Yarborough,Ford,200,33140,running,0,127
+1999,W,1999_Pepsi_400_Presented_by_Meijer,13,20,7,usa,Michael_Waltrip,Michael Waltrip,Philips Electronics,Jim_Mattei,Chevrolet,200,35640,running,3,129
+1999,W,1999_Pepsi_400_Presented_by_Meijer,14,25,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,200,25040,running,0,121
+1999,W,1999_Pepsi_400_Presented_by_Meijer,15,18,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light / Brooks & Dunn,Felix_Sabates,Chevrolet,200,36190,running,0,118
+1999,W,1999_Pepsi_400_Presented_by_Meijer,16,10,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,200,39190,running,0,115
+1999,W,1999_Pepsi_400_Presented_by_Meijer,17,4,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,199,27065,running,0,112
+1999,W,1999_Pepsi_400_Presented_by_Meijer,18,5,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,199,37740,running,0,109
+1999,W,1999_Pepsi_400_Presented_by_Meijer,19,14,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,199,34180,running,0,106
+1999,W,1999_Pepsi_400_Presented_by_Meijer,20,12,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,199,35140,running,0,103
+1999,W,1999_Pepsi_400_Presented_by_Meijer,21,41,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Frosted Cheerios,Jack_Roush,Ford,199,34655,running,0,100
+1999,W,1999_Pepsi_400_Presented_by_Meijer,22,34,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,199,32490,running,0,97
+1999,W,1999_Pepsi_400_Presented_by_Meijer,23,24,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,199,32265,running,3,99
+1999,W,1999_Pepsi_400_Presented_by_Meijer,24,17,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,199,21765,running,0,91
+1999,W,1999_Pepsi_400_Presented_by_Meijer,25,28,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,199,31915,running,0,88
+1999,W,1999_Pepsi_400_Presented_by_Meijer,26,39,5,usa,Terry_Labonte,Terry Labonte,Kellogg's / Rice Krispies Treats,Rick_Hendrick,Chevrolet,199,36415,running,0,85
+1999,W,1999_Pepsi_400_Presented_by_Meijer,27,23,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,199,25140,running,0,82
+1999,W,1999_Pepsi_400_Presented_by_Meijer,28,43,45,usa,Rich_Bickle,Rich Bickle,10-10-345,Tim_Beverley,Pontiac,199,24690,running,0,79
+1999,W,1999_Pepsi_400_Presented_by_Meijer,29,29,9,usa,Jerry_Nadeau,Jerry Nadeau,WCW,Mark_Melling,Ford,199,24190,running,0,76
+1999,W,1999_Pepsi_400_Presented_by_Meijer,30,22,50,usa,Ricky_Craven,Ricky Craven,Midwest Transit,Hal_Hicks_Mike_Witters,Chevrolet,198,21365,running,0,73
+1999,W,1999_Pepsi_400_Presented_by_Meijer,31,42,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,198,23965,running,0,70
+1999,W,1999_Pepsi_400_Presented_by_Meijer,32,21,41,usa,David_Green,David Green,Kodiak,Larry_Hedrick,Chevrolet,197,23415,running,0,67
+1999,W,1999_Pepsi_400_Presented_by_Meijer,33,35,71,usa,Dave_Marcis,Dave Marcis,RealTree Camouflage,Dave_Marcis,Chevrolet,197,21365,running,0,64
+1999,W,1999_Pepsi_400_Presented_by_Meijer,34,30,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,195,28215,engine,0,61
+1999,W,1999_Pepsi_400_Presented_by_Meijer,35,40,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,192,35765,engine,0,58
+1999,W,1999_Pepsi_400_Presented_by_Meijer,36,2,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,192,33040,running,12,60
+1999,W,1999_Pepsi_400_Presented_by_Meijer,37,26,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,188,41715,running,0,52
+1999,W,1999_Pepsi_400_Presented_by_Meijer,38,6,10,usa,Ricky_Rudd,Ricky Rudd,Tide Hydrogen Peroxide Bubbles,Ricky_Rudd,Ford,186,27640,running,0,49
+1999,W,1999_Pepsi_400_Presented_by_Meijer,39,33,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide / Jake Plummer & Terrell Davis,Jack_Roush,Ford,183,27630,engine,0,46
+1999,W,1999_Pepsi_400_Presented_by_Meijer,40,15,36,usa,Dick_Trickle,Dick Trickle,M&M's,Nelson_Bowers,Pontiac,178,27620,running,0,43
+1999,W,1999_Pepsi_400_Presented_by_Meijer,41,11,75,usa,Ted_Musgrave,Ted Musgrave,Remington Arms,Butch_Mock,Ford,147,20610,running,0,40
+1999,W,1999_Pepsi_400_Presented_by_Meijer,42,27,77,usa,Robert_Pressley,Robert Pressley,"Jasper Engines ""Good to Go""",Doug_Bawel,Ford,127,20800,crash,1,42
+1999,W,1999_Pepsi_400_Presented_by_Meijer,43,1,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,52,33090,crash,1,39
+1999,W,1999_Goody%27s_Headache_Powder_500,1,26,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus Sign,Richard_Childress,Chevrolet,500,89880,running,46,180
+1999,W,1999_Goody%27s_Headache_Powder_500,2,24,23,usa,Jimmy_Spencer,Jimmy Spencer,Team Winston / No Bull,Travis_Carter,Ford,500,76265,running,0,170
+1999,W,1999_Goody%27s_Headache_Powder_500,3,35,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,500,64190,running,0,165
+1999,W,1999_Goody%27s_Headache_Powder_500,4,4,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,500,71505,running,48,165
+1999,W,1999_Goody%27s_Headache_Powder_500,5,1,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,500,64915,running,225,165
+1999,W,1999_Goody%27s_Headache_Powder_500,6,7,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,500,48165,running,0,150
+1999,W,1999_Goody%27s_Headache_Powder_500,7,10,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light / Brooks & Dunn,Felix_Sabates,Chevrolet,500,42840,running,0,146
+1999,W,1999_Goody%27s_Headache_Powder_500,8,9,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,499,58615,crash,155,147
+1999,W,1999_Goody%27s_Headache_Powder_500,9,5,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,499,41915,running,0,138
+1999,W,1999_Goody%27s_Headache_Powder_500,10,13,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,499,47005,running,0,134
+1999,W,1999_Goody%27s_Headache_Powder_500,11,3,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,499,33690,running,0,130
+1999,W,1999_Goody%27s_Headache_Powder_500,12,19,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,499,41690,running,0,127
+1999,W,1999_Goody%27s_Headache_Powder_500,13,15,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,499,32040,running,0,124
+1999,W,1999_Goody%27s_Headache_Powder_500,14,18,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart / Route 66,Travis_Carter,Ford,499,35390,running,0,121
+1999,W,1999_Goody%27s_Headache_Powder_500,15,20,30,usa,Todd_Bodine,Todd Bodine,Bryan Foods,Jack_Birmingham,Pontiac,498,29775,running,0,118
+1999,W,1999_Goody%27s_Headache_Powder_500,16,32,75,usa,Ted_Musgrave,Ted Musgrave,Polaris ATV's,Butch_Mock,Ford,498,32335,running,0,115
+1999,W,1999_Goody%27s_Headache_Powder_500,17,37,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,498,45785,running,0,112
+1999,W,1999_Goody%27s_Headache_Powder_500,18,2,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,498,44225,running,26,114
+1999,W,1999_Goody%27s_Headache_Powder_500,19,41,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,497,38200,running,0,106
+1999,W,1999_Goody%27s_Headache_Powder_500,20,8,36,usa,Jerry_Nadeau,Jerry Nadeau,M&M's,Nelson_Bowers,Pontiac,497,40600,running,0,103
+1999,W,1999_Goody%27s_Headache_Powder_500,21,22,98,usa,Rick_Mast,Rick Mast,Team Woody,Cale_Yarborough,Ford,496,31335,running,0,100
+1999,W,1999_Goody%27s_Headache_Powder_500,22,28,16,usa,Kevin_Lepage,Kevin Lepage,"TV Guide / Walker, Texas Ranger",Jack_Roush,Ford,496,37960,running,0,97
+1999,W,1999_Goody%27s_Headache_Powder_500,23,6,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,495,37410,running,0,94
+1999,W,1999_Goody%27s_Headache_Powder_500,24,11,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,494,37235,running,0,91
+1999,W,1999_Goody%27s_Headache_Powder_500,25,17,41,usa,David_Green,David Green,Kodiak,Larry_Hedrick,Chevrolet,494,30490,running,0,88
+1999,W,1999_Goody%27s_Headache_Powder_500,26,21,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,493,43165,transmission,0,85
+1999,W,1999_Goody%27s_Headache_Powder_500,27,42,58,usa,Hut_Stricklin,Hut Stricklin,Turbine Solutions,Scott_Barbour,Ford,493,26755,running,0,82
+1999,W,1999_Goody%27s_Headache_Powder_500,28,27,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,487,36245,running,0,79
+1999,W,1999_Goody%27s_Headache_Powder_500,29,33,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,487,26735,running,0,76
+1999,W,1999_Goody%27s_Headache_Powder_500,30,16,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,485,34250,running,0,73
+1999,W,1999_Goody%27s_Headache_Powder_500,31,34,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,481,33715,running,0,70
+1999,W,1999_Goody%27s_Headache_Powder_500,32,38,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,469,41705,crash,0,67
+1999,W,1999_Goody%27s_Headache_Powder_500,33,39,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,450,33695,running,0,64
+1999,W,1999_Goody%27s_Headache_Powder_500,34,43,71,usa,Dave_Marcis,Dave Marcis,RealTree Camouflage,Dave_Marcis,Chevrolet,430,27185,running,0,61
+1999,W,1999_Goody%27s_Headache_Powder_500,35,31,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,426,33680,running,0,58
+1999,W,1999_Goody%27s_Headache_Powder_500,36,23,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,403,33660,running,0,55
+1999,W,1999_Goody%27s_Headache_Powder_500,37,14,7,usa,Michael_Waltrip,Michael Waltrip,Philips Electronics,Jim_Mattei,Chevrolet,347,33644,rear end,0,52
+1999,W,1999_Goody%27s_Headache_Powder_500,38,25,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,338,43425,running,0,49
+1999,W,1999_Goody%27s_Headache_Powder_500,39,40,9,usa,Steve_Grissom,Steve Grissom,Atlanta Braves / TBS,Mark_Melling,Ford,283,26600,crash,0,46
+1999,W,1999_Goody%27s_Headache_Powder_500,40,29,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,263,41575,crash,0,43
+1999,W,1999_Goody%27s_Headache_Powder_500,41,36,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,258,41550,running,0,40
+1999,W,1999_Goody%27s_Headache_Powder_500,42,30,50,usa,Ricky_Craven,Ricky Craven,Midwest Transit,Hal_Hicks_Mike_Witters,Chevrolet,185,26525,front end,0,37
+1999,W,1999_Goody%27s_Headache_Powder_500,43,12,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,140,26700,crash,0,34
+1999,W,1999_The_50th_Pepsi_Southern_500,1,15,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,270,148170,running,89,185
+1999,W,1999_The_50th_Pepsi_Southern_500,2,2,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,270,96155,running,30,175
+1999,W,1999_The_50th_Pepsi_Southern_500,3,11,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,270,70320,running,69,170
+1999,W,1999_The_50th_Pepsi_Southern_500,4,16,6,usa,Mark_Martin,Mark Martin,Synpower / Cummins,Jack_Roush,Ford,270,74065,running,2,165
+1999,W,1999_The_50th_Pepsi_Southern_500,5,9,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide / NFL '99,Jack_Roush,Ford,270,63510,running,0,155
+1999,W,1999_The_50th_Pepsi_Southern_500,6,22,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,270,57005,running,1,155
+1999,W,1999_The_50th_Pepsi_Southern_500,7,5,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,270,57935,running,0,146
+1999,W,1999_The_50th_Pepsi_Southern_500,8,24,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,270,49925,running,0,142
+1999,W,1999_The_50th_Pepsi_Southern_500,9,21,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,270,47260,running,0,138
+1999,W,1999_The_50th_Pepsi_Southern_500,10,39,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,270,45130,running,0,134
+1999,W,1999_The_50th_Pepsi_Southern_500,11,10,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,270,43785,running,0,130
+1999,W,1999_The_50th_Pepsi_Southern_500,12,19,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,270,46620,running,0,127
+1999,W,1999_The_50th_Pepsi_Southern_500,13,4,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,270,53410,running,41,129
+1999,W,1999_The_50th_Pepsi_Southern_500,14,6,21,usa,Elliott_Sadler,Elliott Sadler,Citgo / Muscular Dystrophy Association,Wood_Brothers,Ford,270,40920,running,0,121
+1999,W,1999_The_50th_Pepsi_Southern_500,15,23,23,usa,Jimmy_Spencer,Jimmy Spencer,Team Winston,Travis_Carter,Ford,270,42470,running,8,123
+1999,W,1999_The_50th_Pepsi_Southern_500,16,36,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,270,50960,running,23,120
+1999,W,1999_The_50th_Pepsi_Southern_500,17,37,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,270,43540,running,6,117
+1999,W,1999_The_50th_Pepsi_Southern_500,18,30,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,269,43265,running,0,109
+1999,W,1999_The_50th_Pepsi_Southern_500,19,7,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,269,44410,running,1,111
+1999,W,1999_The_50th_Pepsi_Southern_500,20,17,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,269,42080,running,0,103
+1999,W,1999_The_50th_Pepsi_Southern_500,21,34,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,269,38215,running,0,100
+1999,W,1999_The_50th_Pepsi_Southern_500,22,25,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus Sign,Richard_Childress,Chevrolet,268,42470,running,0,97
+1999,W,1999_The_50th_Pepsi_Southern_500,23,40,45,usa,Rich_Bickle,Rich Bickle,10-10-345,Tim_Beverley,Pontiac,267,30800,running,0,94
+1999,W,1999_The_50th_Pepsi_Southern_500,24,14,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,267,30500,running,0,91
+1999,W,1999_The_50th_Pepsi_Southern_500,25,42,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,267,33565,running,0,88
+1999,W,1999_The_50th_Pepsi_Southern_500,26,33,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,267,37255,running,0,85
+1999,W,1999_The_50th_Pepsi_Southern_500,27,27,58,usa,Hut_Stricklin,Hut Stricklin,Turbine Solutions,Scott_Barbour,Ford,266,26620,running,0,82
+1999,W,1999_The_50th_Pepsi_Southern_500,28,28,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,265,29585,running,0,79
+1999,W,1999_The_50th_Pepsi_Southern_500,29,35,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart / Route 66,Travis_Carter,Ford,265,29350,running,0,76
+1999,W,1999_The_50th_Pepsi_Southern_500,30,32,98,usa,Rick_Mast,Rick Mast,Team Woody,Cale_Yarborough,Ford,261,29490,running,0,73
+1999,W,1999_The_50th_Pepsi_Southern_500,31,1,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,258,41605,running,0,70
+1999,W,1999_The_50th_Pepsi_Southern_500,32,20,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,245,32990,running,0,67
+1999,W,1999_The_50th_Pepsi_Southern_500,33,43,71,usa,Dave_Marcis,Dave Marcis,RealTree Camouflage,Dave_Marcis,Chevrolet,244,25900,running,0,64
+1999,W,1999_The_50th_Pepsi_Southern_500,34,26,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,237,32840,running,0,61
+1999,W,1999_The_50th_Pepsi_Southern_500,35,12,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,177,25705,running,0,58
+1999,W,1999_The_50th_Pepsi_Southern_500,36,8,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,162,32620,running,0,55
+1999,W,1999_The_50th_Pepsi_Southern_500,37,31,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,145,25531,crash,0,52
+1999,W,1999_The_50th_Pepsi_Southern_500,38,29,75,usa,Ted_Musgrave,Ted Musgrave,Polaris ATV's,Butch_Mock,Ford,144,25360,crash,0,49
+1999,W,1999_The_50th_Pepsi_Southern_500,39,18,9,usa,Steve_Grissom,Steve Grissom,Cartoon Network / Jetsons,Mark_Melling,Ford,142,25825,crash,0,46
+1999,W,1999_The_50th_Pepsi_Southern_500,40,13,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,136,32250,engine,0,43
+1999,W,1999_The_50th_Pepsi_Southern_500,41,38,7,usa,Michael_Waltrip,Michael Waltrip,Philips Electronics,Jim_Mattei,Chevrolet,132,32200,crash,0,40
+1999,W,1999_The_50th_Pepsi_Southern_500,42,41,41,usa,David_Green,David Green,Kodiak,Larry_Hedrick,Chevrolet,122,25350,engine,0,37
+1999,W,1999_The_50th_Pepsi_Southern_500,43,3,36,usa,Jerry_Nadeau,Jerry Nadeau,M&M's,Nelson_Bowers,Pontiac,48,35725,crash,0,34
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,1,2,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,400,135160,running,333,185
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,2,4,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,400,77990,running,7,175
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,3,13,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,400,64605,running,0,165
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,4,25,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,400,60105,running,0,160
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,5,9,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,400,49570,running,0,155
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,6,33,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus Sign,Richard_Childress,Chevrolet,400,47055,running,0,150
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,7,22,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,400,48430,running,0,146
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,8,12,75,usa,Ted_Musgrave,Ted Musgrave,Polaris ATV's,Butch_Mock,Ford,400,37405,running,0,142
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,9,24,43,usa,John_Andretti,John Andretti,STP / NFL Player,Petty_Enterprises,Pontiac,399,45305,running,0,138
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,10,21,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,399,29905,running,0,134
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,11,1,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,399,44495,running,3,135
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,12,8,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,399,31880,running,0,127
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,13,7,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,399,47730,running,0,124
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,14,3,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,399,41130,running,0,121
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,15,18,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,399,30505,running,0,118
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,16,10,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,399,35730,running,0,115
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,17,37,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,398,37170,running,0,112
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,18,38,36,usa,Jerry_Nadeau,Jerry Nadeau,M&M's,Nelson_Bowers,Pontiac,398,38080,running,0,109
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,19,34,30,usa,Todd_Bodine,Todd Bodine,State Fair Corn Dogs,Jack_Birmingham,Pontiac,398,24155,running,0,106
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,20,28,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,398,37055,running,0,103
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,21,23,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,397,35320,running,0,100
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,22,30,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,397,34755,running,0,97
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,23,5,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,397,28980,running,0,94
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,24,29,32,usa,Mike_Wallace,Mike Wallace,Ultra Wheels / Biagi Brothers,Jim_Smith,Ford,397,23455,running,0,91
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,25,14,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,396,38305,running,0,88
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,26,27,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide / Tim McGraw,Jack_Roush,Ford,396,34180,running,0,85
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,27,31,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,396,33255,running,0,82
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,28,26,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,396,33030,running,0,79
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,29,35,01,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",Tracfone,Felix_Sabates,Chevrolet,396,22810,running,0,76
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,30,39,9,usa,Steve_Grissom,Steve Grissom,WCW,Mark_Melling,Ford,395,26200,running,0,73
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,31,41,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,395,33190,running,0,70
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,32,40,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart / Route 66,Travis_Carter,Ford,395,25130,running,0,67
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,33,42,41,usa,David_Green,David Green,Kodiak,Larry_Hedrick,Chevrolet,391,22595,running,0,64
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,34,19,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,389,29535,running,0,61
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,35,20,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,366,41000,engine,1,63
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,36,17,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,358,29465,running,0,55
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,37,11,23,usa,Jimmy_Spencer,Jimmy Spencer,Team Winston,Travis_Carter,Ford,357,29430,running,0,52
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,38,36,7,usa,Michael_Waltrip,Michael Waltrip,Philips Electronics,Jim_Mattei,Chevrolet,346,29395,running,0,49
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,39,43,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,316,22360,running,0,46
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,40,6,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,311,50625,transmission,56,48
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,41,16,98,usa,Rick_Mast,Rick Mast,Team Woody,Cale_Yarborough,Ford,175,22290,running,0,40
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,42,32,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,167,29455,crash,0,37
+1999,W,1999_Exide_NASCAR_Select_Batteries_400,43,15,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,54,37245,crash,0,34
+1999,W,1999_Dura_Lube_Kmart_300,1,11,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,300,157625,running,72,180
+1999,W,1999_Dura_Lube_Kmart_300,2,5,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,300,114790,running,40,175
+1999,W,1999_Dura_Lube_Kmart_300,3,7,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,300,94250,running,2,170
+1999,W,1999_Dura_Lube_Kmart_300,4,37,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,300,87450,running,0,160
+1999,W,1999_Dura_Lube_Kmart_300,5,19,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,300,88440,running,0,155
+1999,W,1999_Dura_Lube_Kmart_300,6,1,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,300,70825,running,84,160
+1999,W,1999_Dura_Lube_Kmart_300,7,21,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,300,59675,running,0,146
+1999,W,1999_Dura_Lube_Kmart_300,8,17,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,300,58000,running,1,147
+1999,W,1999_Dura_Lube_Kmart_300,9,13,98,usa,Rick_Mast,Rick Mast,Team Woody,Cale_Yarborough,Ford,300,50825,running,13,143
+1999,W,1999_Dura_Lube_Kmart_300,10,36,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,300,62565,running,0,134
+1999,W,1999_Dura_Lube_Kmart_300,11,9,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,300,59225,running,0,130
+1999,W,1999_Dura_Lube_Kmart_300,12,3,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,300,54625,running,0,127
+1999,W,1999_Dura_Lube_Kmart_300,13,16,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus Sign,Richard_Childress,Chevrolet,300,55125,running,0,124
+1999,W,1999_Dura_Lube_Kmart_300,14,35,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,300,51225,running,0,121
+1999,W,1999_Dura_Lube_Kmart_300,15,12,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,300,51025,running,2,123
+1999,W,1999_Dura_Lube_Kmart_300,16,26,58,usa,Hut_Stricklin,Hut Stricklin,Federated Auto Parts,Scott_Barbour,Ford,299,39565,running,0,115
+1999,W,1999_Dura_Lube_Kmart_300,17,25,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,299,55600,running,0,112
+1999,W,1999_Dura_Lube_Kmart_300,18,2,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,299,66500,running,49,114
+1999,W,1999_Dura_Lube_Kmart_300,19,31,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,299,47700,running,0,106
+1999,W,1999_Dura_Lube_Kmart_300,20,41,9,usa,Rich_Bickle,Rich Bickle,Cartoon Network / Jetsons,Mark_Melling,Ford,299,42940,running,0,103
+1999,W,1999_Dura_Lube_Kmart_300,21,29,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,299,47700,running,0,100
+1999,W,1999_Dura_Lube_Kmart_300,22,8,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,299,46775,running,0,97
+1999,W,1999_Dura_Lube_Kmart_300,23,23,75,usa,Ted_Musgrave,Ted Musgrave,Remington Arms,Butch_Mock,Ford,299,39875,running,0,94
+1999,W,1999_Dura_Lube_Kmart_300,24,38,23,usa,Jimmy_Spencer,Jimmy Spencer,Team Winston,Travis_Carter,Ford,299,46175,running,0,91
+1999,W,1999_Dura_Lube_Kmart_300,25,43,71,usa,Dave_Marcis,Dave Marcis,RealTree Camouflage,Dave_Marcis,Chevrolet,299,36175,running,0,88
+1999,W,1999_Dura_Lube_Kmart_300,26,4,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide,Jack_Roush,Ford,299,46275,running,0,85
+1999,W,1999_Dura_Lube_Kmart_300,27,6,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,298,45350,running,0,82
+1999,W,1999_Dura_Lube_Kmart_300,28,40,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,298,45075,running,0,79
+1999,W,1999_Dura_Lube_Kmart_300,29,42,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,298,44875,running,0,76
+1999,W,1999_Dura_Lube_Kmart_300,30,34,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,298,37400,running,0,73
+1999,W,1999_Dura_Lube_Kmart_300,31,32,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,297,59475,crash,37,75
+1999,W,1999_Dura_Lube_Kmart_300,32,30,36,usa,Jerry_Nadeau,Jerry Nadeau,M&M's,Nelson_Bowers,Pontiac,297,41275,running,0,67
+1999,W,1999_Dura_Lube_Kmart_300,33,10,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,292,34075,running,0,64
+1999,W,1999_Dura_Lube_Kmart_300,34,39,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,289,33850,running,0,61
+1999,W,1999_Dura_Lube_Kmart_300,35,14,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,285,33650,running,0,58
+1999,W,1999_Dura_Lube_Kmart_300,36,28,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,284,48450,running,0,55
+1999,W,1999_Dura_Lube_Kmart_300,37,24,14,usa,Randy_LaJoie,Randy LaJoie,Federated Auto Parts,Mark_Simo,Ford,284,33250,running,0,52
+1999,W,1999_Dura_Lube_Kmart_300,38,20,7,usa,Michael_Waltrip,Michael Waltrip,Philips Electronics,Jim_Mattei,Chevrolet,219,39900,crash,0,49
+1999,W,1999_Dura_Lube_Kmart_300,39,22,30,usa,Todd_Bodine,Todd Bodine,Jimmy Dean,Jack_Birmingham,Pontiac,169,32875,crash,0,46
+1999,W,1999_Dura_Lube_Kmart_300,40,18,45,usa,David_Green,David Green,10-10-345,Tim_Beverley,Pontiac,126,32825,crash,0,43
+1999,W,1999_Dura_Lube_Kmart_300,41,15,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,125,47800,crash,0,40
+1999,W,1999_Dura_Lube_Kmart_300,42,33,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,125,39775,crash,0,37
+1999,W,1999_Dura_Lube_Kmart_300,43,27,50,usa,Ricky_Craven,Ricky Craven,Midwest Transit,Hal_Hicks_Mike_Witters,Chevrolet,111,32950,crash,0,34
+1999,W,1999_MBNA_Gold_400,1,8,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,400,115710,running,161,185
+1999,W,1999_MBNA_Gold_400,2,3,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,400,88875,running,97,175
+1999,W,1999_MBNA_Gold_400,3,26,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,400,74935,running,99,170
+1999,W,1999_MBNA_Gold_400,4,13,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,400,51160,running,0,160
+1999,W,1999_MBNA_Gold_400,5,20,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,400,56285,running,2,160
+1999,W,1999_MBNA_Gold_400,6,28,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,400,55815,running,1,155
+1999,W,1999_MBNA_Gold_400,7,22,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,399,47990,running,0,146
+1999,W,1999_MBNA_Gold_400,8,37,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus Sign,Richard_Childress,Chevrolet,399,52065,running,0,142
+1999,W,1999_MBNA_Gold_400,9,10,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,399,42915,running,0,138
+1999,W,1999_MBNA_Gold_400,10,12,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,399,50905,running,1,139
+1999,W,1999_MBNA_Gold_400,11,17,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,399,46765,running,0,130
+1999,W,1999_MBNA_Gold_400,12,16,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,398,44865,running,0,127
+1999,W,1999_MBNA_Gold_400,13,21,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide / Melissa Joan Hart,Jack_Roush,Ford,398,40065,running,0,124
+1999,W,1999_MBNA_Gold_400,14,18,23,usa,Jimmy_Spencer,Jimmy Spencer,Team Winston,Travis_Carter,Ford,398,42070,running,0,121
+1999,W,1999_MBNA_Gold_400,15,39,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,397,40800,running,0,118
+1999,W,1999_MBNA_Gold_400,16,2,36,usa,Jerry_Nadeau,Jerry Nadeau,M&M's,Nelson_Bowers,Pontiac,397,39050,running,0,115
+1999,W,1999_MBNA_Gold_400,17,7,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,397,49940,running,14,117
+1999,W,1999_MBNA_Gold_400,18,24,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios / ACME,Jack_Roush,Ford,397,39090,running,0,109
+1999,W,1999_MBNA_Gold_400,19,35,7,usa,Michael_Waltrip,Michael Waltrip,Philips Electronics,Jim_Mattei,Chevrolet,397,40995,running,0,106
+1999,W,1999_MBNA_Gold_400,20,29,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,396,33035,running,0,103
+1999,W,1999_MBNA_Gold_400,21,11,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,396,39840,running,0,100
+1999,W,1999_MBNA_Gold_400,22,4,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,396,42315,running,1,102
+1999,W,1999_MBNA_Gold_400,23,32,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,395,30555,running,0,94
+1999,W,1999_MBNA_Gold_400,24,5,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,395,30695,running,0,91
+1999,W,1999_MBNA_Gold_400,25,42,58,usa,Hut_Stricklin,Hut Stricklin,Federated Auto Parts,Scott_Barbour,Ford,393,27410,running,0,88
+1999,W,1999_MBNA_Gold_400,26,25,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,393,37750,running,0,85
+1999,W,1999_MBNA_Gold_400,27,38,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,393,41990,running,2,87
+1999,W,1999_MBNA_Gold_400,28,40,75,usa,Ted_Musgrave,Ted Musgrave,Remington Arms,Butch_Mock,Ford,392,29930,running,0,79
+1999,W,1999_MBNA_Gold_400,29,33,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,390,36870,running,0,76
+1999,W,1999_MBNA_Gold_400,30,31,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,389,46235,running,0,73
+1999,W,1999_MBNA_Gold_400,31,23,90,usa,Ed_Berrier,Ed Berrier,Hills Brothers / Nesquik,Junie_Donlavey,Ford,386,26725,running,0,70
+1999,W,1999_MBNA_Gold_400,32,1,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,385,49655,running,22,72
+1999,W,1999_MBNA_Gold_400,33,6,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,382,36095,running,0,64
+1999,W,1999_MBNA_Gold_400,34,19,98,usa,Rick_Mast,Rick Mast,Team Woody,Cale_Yarborough,Ford,367,26535,running,0,61
+1999,W,1999_MBNA_Gold_400,35,15,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,363,33475,running,0,58
+1999,W,1999_MBNA_Gold_400,36,41,9,usa,Rich_Bickle,Rich Bickle,Cartoon Network / Jetsons,Mark_Melling,Ford,355,26435,running,0,55
+1999,W,1999_MBNA_Gold_400,37,14,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,352,33400,oil leak,0,52
+1999,W,1999_MBNA_Gold_400,38,30,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,344,34365,running,0,49
+1999,W,1999_MBNA_Gold_400,39,43,71,usa,Dave_Marcis,Dave Marcis,RealTree Camouflage,Dave_Marcis,Chevrolet,226,26330,running,0,46
+1999,W,1999_MBNA_Gold_400,40,27,50,usa,Ricky_Craven,Ricky Craven,Midwest Transit,Hal_Hicks_Mike_Witters,Chevrolet,162,26295,transmission,0,43
+1999,W,1999_MBNA_Gold_400,41,9,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,151,44860,crash,0,40
+1999,W,1999_MBNA_Gold_400,42,36,45,usa,David_Green,David Green,10-10-345,Tim_Beverley,Pontiac,136,26225,engine,0,37
+1999,W,1999_MBNA_Gold_400,43,34,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,63,26890,engine,0,34
+1999,W,1999_NAPA_AutoCare_500,1,5,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,500,110090,running,29,180
+1999,W,1999_NAPA_AutoCare_500,2,38,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus Sign,Richard_Childress,Chevrolet,500,70225,running,45,175
+1999,W,1999_NAPA_AutoCare_500,3,3,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,500,50475,running,2,170
+1999,W,1999_NAPA_AutoCare_500,4,20,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,500,53325,running,0,160
+1999,W,1999_NAPA_AutoCare_500,5,7,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,500,51715,running,56,160
+1999,W,1999_NAPA_AutoCare_500,6,16,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,500,60075,running,138,160
+1999,W,1999_NAPA_AutoCare_500,7,4,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,500,37825,running,5,151
+1999,W,1999_NAPA_AutoCare_500,8,25,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,500,50225,running,120,147
+1999,W,1999_NAPA_AutoCare_500,9,13,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,499,44250,running,0,138
+1999,W,1999_NAPA_AutoCare_500,10,14,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,499,52790,running,0,134
+1999,W,1999_NAPA_AutoCare_500,11,29,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,499,37935,running,22,135
+1999,W,1999_NAPA_AutoCare_500,12,26,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,499,36100,running,0,127
+1999,W,1999_NAPA_AutoCare_500,13,11,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,498,36375,running,0,124
+1999,W,1999_NAPA_AutoCare_500,14,35,58,usa,Hut_Stricklin,Hut Stricklin,Federated Auto Parts,Scott_Barbour,Ford,498,27950,running,0,121
+1999,W,1999_NAPA_AutoCare_500,15,17,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,497,39650,running,0,118
+1999,W,1999_NAPA_AutoCare_500,16,6,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,497,42650,running,0,115
+1999,W,1999_NAPA_AutoCare_500,17,31,23,usa,Jimmy_Spencer,Jimmy Spencer,Team Winston,Travis_Carter,Ford,497,36090,running,0,112
+1999,W,1999_NAPA_AutoCare_500,18,8,10,usa,Ricky_Rudd,Ricky Rudd,Tide / Give Kids the World,Ricky_Rudd,Ford,497,34155,running,0,109
+1999,W,1999_NAPA_AutoCare_500,19,2,75,usa,Ted_Musgrave,Ted Musgrave,Polaris ATV's,Butch_Mock,Ford,496,33100,running,3,111
+1999,W,1999_NAPA_AutoCare_500,20,33,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,496,34865,running,0,103
+1999,W,1999_NAPA_AutoCare_500,21,21,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,496,34400,running,0,100
+1999,W,1999_NAPA_AutoCare_500,22,23,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser / MLB,Rick_Hendrick,Chevrolet,495,32550,running,0,97
+1999,W,1999_NAPA_AutoCare_500,23,22,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart / Route 66,Travis_Carter,Ford,495,25300,running,0,94
+1999,W,1999_NAPA_AutoCare_500,24,34,50,usa,Ricky_Craven,Ricky Craven,Midwest Transit,Hal_Hicks_Mike_Witters,Chevrolet,495,22250,running,0,91
+1999,W,1999_NAPA_AutoCare_500,25,41,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,494,33200,running,0,88
+1999,W,1999_NAPA_AutoCare_500,26,42,36,usa,Jerry_Nadeau,Jerry Nadeau,M&M's,Nelson_Bowers,Pontiac,493,31650,running,0,85
+1999,W,1999_NAPA_AutoCare_500,27,36,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide,Jack_Roush,Ford,493,31800,running,0,82
+1999,W,1999_NAPA_AutoCare_500,28,40,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,492,31550,running,0,79
+1999,W,1999_NAPA_AutoCare_500,29,12,98,usa,Rick_Mast,Rick Mast,Team Woody,Cale_Yarborough,Ford,491,23600,running,0,76
+1999,W,1999_NAPA_AutoCare_500,30,30,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,491,36175,running,0,73
+1999,W,1999_NAPA_AutoCare_500,31,39,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,490,27800,running,0,70
+1999,W,1999_NAPA_AutoCare_500,32,19,30,usa,Mike_Bliss,Mike Bliss,Jimmy Dean,Jack_Birmingham,Pontiac,488,20675,running,0,67
+1999,W,1999_NAPA_AutoCare_500,33,18,7,usa,Michael_Waltrip,Michael Waltrip,Philips Electronics,Jim_Mattei,Chevrolet,460,27550,clutch,0,64
+1999,W,1999_NAPA_AutoCare_500,34,43,71,usa,Dave_Marcis,Dave Marcis,RealTree Camouflage,Dave_Marcis,Chevrolet,454,20425,running,0,61
+1999,W,1999_NAPA_AutoCare_500,35,15,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,451,20300,running,0,58
+1999,W,1999_NAPA_AutoCare_500,36,32,45,usa,David_Green,David Green,10-10-345,Tim_Beverley,Pontiac,451,20225,running,0,55
+1999,W,1999_NAPA_AutoCare_500,37,10,9,usa,Rich_Bickle,Rich Bickle,Cartoon Network / Jetsons,Mark_Melling,Ford,446,20600,running,0,52
+1999,W,1999_NAPA_AutoCare_500,38,1,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,443,33975,running,76,54
+1999,W,1999_NAPA_AutoCare_500,39,27,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,434,26850,running,0,46
+1999,W,1999_NAPA_AutoCare_500,40,24,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,408,34725,running,0,43
+1999,W,1999_NAPA_AutoCare_500,41,37,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,392,34600,running,0,40
+1999,W,1999_NAPA_AutoCare_500,42,28,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,386,26675,running,0,37
+1999,W,1999_NAPA_AutoCare_500,43,9,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,291,37950,crash,4,39
+1999,W,1999_UAW-GM_Quality_500,1,22,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,334,140350,running,16,180
+1999,W,1999_UAW-GM_Quality_500,2,1,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,334,157250,running,136,180
+1999,W,1999_UAW-GM_Quality_500,3,12,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,334,87800,running,65,170
+1999,W,1999_UAW-GM_Quality_500,4,4,6,usa,Mark_Martin,Mark Martin,Valvoline DuraBlend,Jack_Roush,Ford,334,85750,running,59,165
+1999,W,1999_UAW-GM_Quality_500,5,6,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,334,73075,running,3,160
+1999,W,1999_UAW-GM_Quality_500,6,20,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,334,57000,running,0,150
+1999,W,1999_UAW-GM_Quality_500,7,9,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,334,65475,running,33,151
+1999,W,1999_UAW-GM_Quality_500,8,2,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,333,60250,running,18,147
+1999,W,1999_UAW-GM_Quality_500,9,18,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide / Jaleel White,Jack_Roush,Ford,333,46950,running,0,138
+1999,W,1999_UAW-GM_Quality_500,10,14,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,333,46750,running,0,134
+1999,W,1999_UAW-GM_Quality_500,11,29,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,332,46490,running,0,130
+1999,W,1999_UAW-GM_Quality_500,12,17,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus Sign,Richard_Childress,Chevrolet,332,44450,running,0,127
+1999,W,1999_UAW-GM_Quality_500,13,26,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,332,42700,running,0,124
+1999,W,1999_UAW-GM_Quality_500,14,23,7,usa,Michael_Waltrip,Michael Waltrip,Philips Electronics,Jim_Mattei,Chevrolet,332,39100,running,0,121
+1999,W,1999_UAW-GM_Quality_500,15,34,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,332,43240,running,2,123
+1999,W,1999_UAW-GM_Quality_500,16,39,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Frosted Cheerios,Jack_Roush,Ford,332,39350,running,0,115
+1999,W,1999_UAW-GM_Quality_500,17,3,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,332,42600,running,0,112
+1999,W,1999_UAW-GM_Quality_500,18,33,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,331,33300,running,0,109
+1999,W,1999_UAW-GM_Quality_500,19,5,20,usa,Tony_Stewart,Tony Stewart,Home Depot / Habitat For Humanity,Joe_Gibbs,Pontiac,331,39315,running,0,106
+1999,W,1999_UAW-GM_Quality_500,20,19,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,331,27065,running,0,103
+1999,W,1999_UAW-GM_Quality_500,21,13,5,usa,Terry_Labonte,Terry Labonte,Kellogg's / Rice Krispies Treats,Rick_Hendrick,Chevrolet,331,37510,running,0,100
+1999,W,1999_UAW-GM_Quality_500,22,15,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,330,36270,running,1,102
+1999,W,1999_UAW-GM_Quality_500,23,35,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,330,32270,running,0,94
+1999,W,1999_UAW-GM_Quality_500,24,43,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,330,24120,running,0,91
+1999,W,1999_UAW-GM_Quality_500,25,8,98,usa,Rick_Mast,Rick Mast,Team Woody,Cale_Yarborough,Ford,330,24670,running,0,88
+1999,W,1999_UAW-GM_Quality_500,26,40,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,329,31270,running,0,85
+1999,W,1999_UAW-GM_Quality_500,27,30,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,329,30470,running,0,82
+1999,W,1999_UAW-GM_Quality_500,28,7,23,usa,Jimmy_Spencer,Jimmy Spencer,Team Winston,Travis_Carter,Ford,329,30870,running,0,79
+1999,W,1999_UAW-GM_Quality_500,29,31,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,329,30170,running,0,76
+1999,W,1999_UAW-GM_Quality_500,30,11,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,329,22795,running,0,73
+1999,W,1999_UAW-GM_Quality_500,31,16,75,usa,Ted_Musgrave,Ted Musgrave,Remington Arms,Butch_Mock,Ford,329,19970,running,0,70
+1999,W,1999_UAW-GM_Quality_500,32,41,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,329,19870,running,0,67
+1999,W,1999_UAW-GM_Quality_500,33,38,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser / MLB,Rick_Hendrick,Chevrolet,329,26815,running,0,64
+1999,W,1999_UAW-GM_Quality_500,34,10,36,usa,Jerry_Nadeau,Jerry Nadeau,M&M's Countdown,Nelson_Bowers,Pontiac,328,27070,running,0,61
+1999,W,1999_UAW-GM_Quality_500,35,24,15,usa,Derrike_Cope,Derrike Cope,Fenley-Moore Motorsports / Taurus 2K,Bud_Moore,Ford,328,19740,running,0,58
+1999,W,1999_UAW-GM_Quality_500,36,25,30,usa,Todd_Bodine,Todd Bodine,Bryan Foods,Jack_Birmingham,Pontiac,327,19720,running,0,55
+1999,W,1999_UAW-GM_Quality_500,37,37,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,306,36305,crash,0,52
+1999,W,1999_UAW-GM_Quality_500,38,21,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,278,26695,running,0,49
+1999,W,1999_UAW-GM_Quality_500,39,42,9,usa,Rich_Bickle,Rich Bickle,TBS Dinner and a Movie / Big Kmart,Mark_Melling,Ford,263,20385,alternator,1,51
+1999,W,1999_UAW-GM_Quality_500,40,27,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,231,19680,crash,0,43
+1999,W,1999_UAW-GM_Quality_500,41,36,41,usa,Dick_Trickle,Dick Trickle,Kodiak,Larry_Hedrick,Chevrolet,229,19675,oil leak,0,40
+1999,W,1999_UAW-GM_Quality_500,42,32,45,usa,David_Green,David Green,10-10-345,Tim_Beverley,Pontiac,162,19670,engine,0,37
+1999,W,1999_UAW-GM_Quality_500,43,28,50,usa,Ricky_Craven,Ricky Craven,Midwest Transit,Hal_Hicks_Mike_Witters,Chevrolet,143,19869,handling,0,34
+1999,W,1999_Winston_500,1,27,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus Sign,Richard_Childress,Chevrolet,188,120290,running,18,180
+1999,W,1999_Winston_500,2,17,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,188,85345,running,37,175
+1999,W,1999_Winston_500,3,2,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,188,82235,running,7,170
+1999,W,1999_Winston_500,4,13,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,188,72200,running,0,160
+1999,W,1999_Winston_500,5,3,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,188,58065,running,0,155
+1999,W,1999_Winston_500,6,5,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,188,60875,running,1,155
+1999,W,1999_Winston_500,7,11,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,188,56675,running,17,151
+1999,W,1999_Winston_500,8,16,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,188,56725,running,0,142
+1999,W,1999_Winston_500,9,23,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,188,51795,running,0,138
+1999,W,1999_Winston_500,10,20,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,188,57065,running,0,134
+1999,W,1999_Winston_500,11,10,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,188,51655,running,1,135
+1999,W,1999_Winston_500,12,14,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,188,75675,running,71,137
+1999,W,1999_Winston_500,13,26,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,188,47255,running,2,129
+1999,W,1999_Winston_500,14,35,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,188,46185,running,0,121
+1999,W,1999_Winston_500,15,9,6,usa,Mark_Martin,Mark Martin,Zerex / Valvoline,Jack_Roush,Ford,188,53710,running,0,118
+1999,W,1999_Winston_500,16,15,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,188,49675,running,0,115
+1999,W,1999_Winston_500,17,28,45,usa,David_Green,David Green,10-10-345,Tim_Beverley,Pontiac,188,39850,running,0,112
+1999,W,1999_Winston_500,18,18,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide / Pokemon,Jack_Roush,Ford,188,45805,running,0,109
+1999,W,1999_Winston_500,19,31,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,188,38025,running,0,106
+1999,W,1999_Winston_500,20,38,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,188,46450,running,0,103
+1999,W,1999_Winston_500,21,34,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,188,46405,running,0,100
+1999,W,1999_Winston_500,22,6,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light / Brooks & Dunn,Felix_Sabates,Chevrolet,187,44175,running,10,102
+1999,W,1999_Winston_500,23,39,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,187,39895,running,1,99
+1999,W,1999_Winston_500,24,37,23,usa,Jimmy_Spencer,Jimmy Spencer,Team Winston,Travis_Carter,Ford,187,43615,running,0,91
+1999,W,1999_Winston_500,25,4,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,187,43435,running,1,93
+1999,W,1999_Winston_500,26,40,98,usa,Rick_Mast,Rick Mast,Team Woody,Cale_Yarborough,Ford,187,36435,running,0,85
+1999,W,1999_Winston_500,27,42,30,usa,Buckshot_Jones,Buckshot Jones,Jimmy Dean,Jack_Birmingham,Pontiac,187,32915,running,0,82
+1999,W,1999_Winston_500,28,19,01,usa,Steve_Grissom,Steve Grissom,Tracfone,Felix_Sabates,Chevrolet,187,32845,running,0,79
+1999,W,1999_Winston_500,29,30,75,usa,Ted_Musgrave,Ted Musgrave,Remington Arms,Butch_Mock,Ford,187,36150,running,0,76
+1999,W,1999_Winston_500,30,1,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth Phone Card,Felix_Sabates,Chevrolet,187,48930,running,1,78
+1999,W,1999_Winston_500,31,41,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,185,42115,running,1,75
+1999,W,1999_Winston_500,32,36,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,185,47545,running,0,67
+1999,W,1999_Winston_500,33,43,90,usa,Ed_Berrier,Ed Berrier,Hills Brothers / Nesquik,Junie_Donlavey,Ford,184,32465,running,0,64
+1999,W,1999_Winston_500,34,8,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,181,51020,running,12,66
+1999,W,1999_Winston_500,35,7,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser / MLB,Rick_Hendrick,Chevrolet,170,39395,steering,3,63
+1999,W,1999_Winston_500,36,22,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,168,39360,running,0,55
+1999,W,1999_Winston_500,37,29,41,usa,Derrike_Cope,Derrike Cope,Kodiak,Larry_Hedrick,Chevrolet,167,32325,running,0,52
+1999,W,1999_Winston_500,38,25,71,usa,Dave_Marcis,Dave Marcis,RealTree Camouflage,Dave_Marcis,Chevrolet,166,32275,running,0,49
+1999,W,1999_Winston_500,39,12,7,usa,Michael_Waltrip,Michael Waltrip,Philips Electronics,Jim_Mattei,Chevrolet,154,39225,engine,5,51
+1999,W,1999_Winston_500,40,24,36,usa,Jerry_Nadeau,Jerry Nadeau,M&M's Crispy,Nelson_Bowers,Pontiac,84,39175,crash,0,43
+1999,W,1999_Winston_500,41,32,9,usa,Rich_Bickle,Rich Bickle,Cartoon Network / Jetsons,Mark_Melling,Ford,83,32125,crash,0,40
+1999,W,1999_Winston_500,42,21,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,81,39075,crash,0,37
+1999,W,1999_Winston_500,43,33,91,usa,Andy_Hillenburg,Andy Hillenburg,Little Joe's Auto,Joe_Falk,Chevrolet,50,32736,crash,0,34
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,1,6,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,393,104715,running,71,180
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,2,11,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,393,78625,running,26,175
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,3,5,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,393,67075,running,1,170
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,4,3,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,393,61175,running,160,170
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,5,25,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,393,60875,running,107,160
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,6,1,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,393,55850,running,4,155
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,7,18,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,393,51450,running,0,146
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,8,23,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,393,43100,running,0,142
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,9,2,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,392,43650,running,22,143
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,10,35,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,392,54565,running,0,134
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,11,4,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,392,50790,running,0,130
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,12,8,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,392,43600,running,0,127
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,13,19,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,392,39050,running,0,124
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,14,13,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,392,41650,running,2,126
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,15,39,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,392,38850,running,0,118
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,16,26,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,391,33365,running,0,115
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,17,38,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,391,36950,running,0,112
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,18,30,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,391,37150,running,0,109
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,19,15,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,391,36150,running,0,106
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,20,40,23,usa,Jimmy_Spencer,Jimmy Spencer,Team Winston,Travis_Carter,Ford,391,38765,running,0,103
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,21,41,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,390,35600,running,0,100
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,22,27,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide / Pokemon,Jack_Roush,Ford,390,35250,running,0,97
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,23,28,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,390,27625,running,0,94
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,24,24,45,usa,David_Green,David Green,10-10-345,Tim_Beverley,Pontiac,389,27300,running,0,91
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,25,29,41,usa,Derrike_Cope,Derrike Cope,Kodiak,Larry_Hedrick,Chevrolet,389,27300,running,0,88
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,26,12,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,389,33700,running,0,85
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,27,22,7,usa,Michael_Waltrip,Michael Waltrip,Philips Electronics,Jim_Mattei,Chevrolet,389,33400,running,0,82
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,28,21,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Pop Secret,Jack_Roush,Ford,388,33100,running,0,79
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,29,31,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,387,25925,running,0,76
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,30,10,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,386,32525,running,0,73
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,31,9,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,386,22650,running,0,70
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,32,20,75,usa,Ted_Musgrave,Ted Musgrave,Remington Arms,Butch_Mock,Ford,386,22525,running,0,67
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,33,34,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,385,29400,running,0,64
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,34,33,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart / Route 66,Travis_Carter,Ford,385,22275,running,0,61
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,35,17,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,382,22150,engine,0,58
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,36,42,9,usa,Stacy_Compton,Stacy Compton,WCW,Mark_Melling,Ford,382,22600,running,0,55
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,37,32,36,usa,Jerry_Nadeau,Jerry Nadeau,M&M's Crispy,Nelson_Bowers,Pontiac,378,29050,running,0,52
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,38,16,98,usa,Rick_Mast,Rick Mast,Team Woody,Cale_Yarborough,Ford,369,22000,running,0,49
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,39,14,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser / MLB,Rick_Hendrick,Chevrolet,319,32550,crash,0,46
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,40,37,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus Sign,Richard_Childress,Chevrolet,318,36900,crash,0,43
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,41,7,50,usa,Ricky_Craven,Ricky Craven,Midwest Transit,Hal_Hicks_Mike_Witters,Chevrolet,309,21850,crash,0,40
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,42,43,30,usa,Mike_Bliss,Mike Bliss,State Fair,Jack_Birmingham,Pontiac,278,21800,engine,0,37
+1999,W,1999_Pop_Secret_Microwave_Popcorn_400,43,36,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,127,28944,engine,0,34
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,1,11,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,312,168485,running,150,185
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,2,4,6,usa,Mark_Martin,Mark Martin,Valvoline / Eagle One,Jack_Roush,Ford,312,125200,running,8,175
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,3,6,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,312,105450,running,2,170
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,4,18,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,312,90535,running,0,160
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,5,7,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,312,86240,running,0,155
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,6,5,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,312,82475,running,50,155
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,7,10,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,312,61425,running,0,146
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,8,1,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,312,75775,running,97,147
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,9,22,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,312,55850,running,0,138
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,10,2,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,312,78465,running,0,134
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,11,14,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus Sign,Richard_Childress,Chevrolet,312,57225,running,0,130
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,12,23,45,usa,David_Green,David Green,10-10-345,Tim_Beverley,Pontiac,311,43775,running,0,127
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,13,37,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,311,52375,running,0,124
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,14,8,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,311,48975,running,0,121
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,15,26,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,311,47650,running,1,123
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,16,39,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,311,48090,running,0,115
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,17,16,23,usa,Jimmy_Spencer,Jimmy Spencer,Team Winston,Travis_Carter,Ford,311,45650,running,4,117
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,18,12,55,usa,Kenny_Wallace,Kenny Wallace,Aerosmith / Square D,Andy_Petree,Chevrolet,311,38925,running,0,109
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,19,15,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,311,45025,running,0,106
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,20,13,31,usa,Mike_Skinner,Mike Skinner,Lowe's / Valspar,Richard_Childress,Chevrolet,311,47965,running,0,103
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,21,27,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline Flames,Yates_Racing,Ford,310,44975,running,0,100
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,22,3,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,310,37650,running,0,97
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,23,17,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,310,47925,running,0,94
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,24,38,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide / Gina Gershon,Jack_Roush,Ford,310,44275,running,0,91
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,25,20,30,usa,Todd_Bodine,Todd Bodine,State Fair,Jack_Birmingham,Pontiac,310,33650,running,0,88
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,26,30,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart / Route 66,Travis_Carter,Ford,310,36625,running,0,85
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,27,40,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,310,43700,running,0,82
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,28,29,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,310,48275,running,0,79
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,29,34,75,usa,Ted_Musgrave,Ted Musgrave,Remington Arms,Butch_Mock,Ford,310,36150,running,0,76
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,30,31,50,usa,Ricky_Craven,Ricky Craven,Midwest Transit,Hal_Hicks_Mike_Witters,Chevrolet,310,33250,running,0,73
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,31,19,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,309,42400,running,0,70
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,32,9,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,309,48775,running,0,67
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,33,41,7,usa,Michael_Waltrip,Michael Waltrip,Philips Electronics,Jim_Mattei,Chevrolet,308,39650,running,0,64
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,34,28,71,usa,Dave_Marcis,Dave Marcis,RealTree Camouflage,Dave_Marcis,Chevrolet,308,32525,running,0,61
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,35,32,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,308,39400,running,0,58
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,36,21,98,usa,Rick_Mast,Rick Mast,Woody Woodpecker,Cale_Yarborough,Ford,308,32275,running,0,55
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,37,35,36,usa,Jerry_Nadeau,Jerry Nadeau,M&M's,Nelson_Bowers,Pontiac,308,39150,running,0,52
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,38,33,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,307,32025,running,0,49
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,39,42,9,usa,Stacy_Compton,Stacy Compton,Cartoon Network / Jetsons,Mark_Melling,Ford,306,32400,running,0,46
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,40,25,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,264,38775,running,0,43
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,41,36,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1 / 25th Anniversary,Michael_Kranefuss,Ford,260,46650,steering,0,40
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,42,24,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,251,38525,running,0,37
+1999,W,1999_Checker_Auto_Parts_Dura_Lube_500,43,43,41,usa,Derrike_Cope,Derrike Cope,Kodiak,Larry_Hedrick,Chevrolet,202,31600,engine,0,34
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,1,7,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,267,278265,running,44,180
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,2,3,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries / NASCAR Racers,Joe_Gibbs,Pontiac,267,214675,running,174,180
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,3,21,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,267,164100,running,5,170
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,4,9,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,267,116200,running,9,165
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,5,12,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,267,100865,running,1,160
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,6,11,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,267,85550,running,1,155
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,7,16,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,267,71650,running,0,146
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,8,23,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus Sign,Richard_Childress,Chevrolet,266,65575,running,0,142
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,9,24,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,266,55200,running,0,138
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,10,10,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes / NASCAR Racers,Rick_Hendrick,Chevrolet,266,70590,running,3,139
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,11,17,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,266,44400,running,0,130
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,12,14,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,266,53700,running,0,127
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,13,8,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1 / 25th Anniversary,Michael_Kranefuss,Ford,266,52500,running,0,124
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,14,5,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,266,51050,running,0,121
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,15,19,55,usa,Kenny_Wallace,Kenny Wallace,Square D / NASCAR Racers,Andy_Petree,Chevrolet,266,45240,running,0,118
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,16,2,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,266,54900,running,19,120
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,17,26,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light / Brooks & Dunn,Felix_Sabates,Chevrolet,266,47800,running,4,117
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,18,38,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,265,48100,running,0,109
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,19,22,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,265,47100,running,0,106
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,20,25,23,usa,Jimmy_Spencer,Jimmy Spencer,Team Winston,Travis_Carter,Ford,265,49965,running,0,103
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,21,15,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,265,46500,running,0,100
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,22,1,45,usa,David_Green,David Green,10-10-345,Tim_Beverley,Pontiac,265,44200,running,7,102
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,23,4,93,usa,Dave_Blaney,Dave Blaney,Amoco,Bill_Davis,Pontiac,265,35500,running,0,94
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,24,32,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,265,45700,running,0,91
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,25,28,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,264,50400,running,0,88
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,26,37,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide,Jack_Roush,Ford,264,45900,running,0,85
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,27,31,30,usa,Todd_Bodine,Todd Bodine,Jimmy Dean,Jack_Birmingham,Pontiac,264,34700,running,0,82
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,28,6,98,usa,Rick_Mast,Rick Mast,Team Woody,Cale_Yarborough,Ford,264,37700,running,0,79
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,29,18,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,263,44400,running,0,76
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,30,30,9,usa,Stacy_Compton,Stacy Compton,Cartoon Network / Jetsons,Mark_Melling,Ford,263,37600,running,0,73
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,31,35,5,usa,Terry_Labonte,Terry Labonte,Kellogg's / NASCAR Racers,Rick_Hendrick,Chevrolet,263,48900,running,0,70
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,32,33,50,usa,Ricky_Craven,Ricky Craven,Midwest Transit,Hal_Hicks_Mike_Witters,Chevrolet,263,34425,running,0,67
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,33,36,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,262,43900,running,0,64
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,34,27,14,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,262,33600,running,0,61
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,35,39,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios,Jack_Roush,Ford,262,42600,running,0,58
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,36,40,7,usa,Michael_Waltrip,Michael Waltrip,Philips Electronics,Jim_Mattei,Chevrolet,262,39900,running,0,55
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,37,29,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,261,32700,running,0,52
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,38,20,36,usa,Jerry_Nadeau,Jerry Nadeau,M&M's,Nelson_Bowers,Pontiac,260,39500,running,0,49
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,39,34,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,245,39300,engine,0,46
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,40,43,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,238,39100,running,0,43
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,41,13,10,usa,Ricky_Rudd,Ricky Rudd,Tide,Ricky_Rudd,Ford,184,42500,engine,0,40
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,42,41,75,usa,Ted_Musgrave,Ted Musgrave,GameWorks,Butch_Mock,Ford,182,31600,ignition,0,37
+1999,W,1999_Pennzoil_400_Presented_by_Kmart,43,42,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart / Route 66,Travis_Carter,Ford,85,31600,handling,0,34
+1999,W,1999_NAPA_500,1,37,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,325,174300,running,147,185
+1999,W,1999_NAPA_500,2,10,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,325,94400,running,17,175
+1999,W,1999_NAPA_500,3,23,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,325,75875,running,27,170
+1999,W,1999_NAPA_500,4,3,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,325,75850,running,17,165
+1999,W,1999_NAPA_500,5,14,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,325,70000,running,3,160
+1999,W,1999_NAPA_500,6,12,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,325,58800,running,0,150
+1999,W,1999_NAPA_500,7,15,10,usa,Ricky_Rudd,Ricky Rudd,Tide / Give Kids the World,Ricky_Rudd,Ford,325,61955,running,0,146
+1999,W,1999_NAPA_500,8,38,31,usa,Mike_Skinner,Mike Skinner,Lowe's / Kobalt Tools,Richard_Childress,Chevrolet,325,57125,running,0,142
+1999,W,1999_NAPA_500,9,36,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service Plus Sign,Richard_Childress,Chevrolet,325,54550,running,0,138
+1999,W,1999_NAPA_500,10,35,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,325,66265,running,0,134
+1999,W,1999_NAPA_500,11,6,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,325,55550,running,1,135
+1999,W,1999_NAPA_500,12,2,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,325,56775,running,72,132
+1999,W,1999_NAPA_500,13,19,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,324,53950,running,0,124
+1999,W,1999_NAPA_500,14,13,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,324,37700,running,1,126
+1999,W,1999_NAPA_500,15,30,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,324,55815,running,1,123
+1999,W,1999_NAPA_500,16,34,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,324,49400,running,2,120
+1999,W,1999_NAPA_500,17,1,16,usa,Kevin_Lepage,Kevin Lepage,TV Guide,Jack_Roush,Ford,323,59980,running,17,117
+1999,W,1999_NAPA_500,18,4,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,323,40565,running,0,109
+1999,W,1999_NAPA_500,19,20,33,usa,Ken_Schrader,Ken Schrader,Skoal,Andy_Petree,Chevrolet,323,48025,running,0,106
+1999,W,1999_NAPA_500,20,21,36,usa,Jerry_Nadeau,Jerry Nadeau,M&M's Millenium,Nelson_Bowers,Pontiac,323,48950,running,0,103
+1999,W,1999_NAPA_500,21,41,45,usa,David_Green,David Green,10-10-345,Tim_Beverley,Pontiac,323,39720,running,0,100
+1999,W,1999_NAPA_500,22,27,94,usa,Bill_Elliott,Bill Elliott,McDonald's / Toy Story2 / Buzz Thru,Bill_Elliott,Ford,323,45680,running,0,97
+1999,W,1999_NAPA_500,23,29,25,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Budweiser,Rick_Hendrick,Chevrolet,322,45365,running,0,94
+1999,W,1999_NAPA_500,24,40,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels / Toy Story 2,Petty_Enterprises,Pontiac,321,38150,running,1,96
+1999,W,1999_NAPA_500,25,22,90,usa,Ed_Berrier,Ed Berrier,Hills Brothers / Nesquik,Junie_Donlavey,Ford,321,34535,running,0,88
+1999,W,1999_NAPA_500,26,11,00,usa,Buckshot_Jones,Buckshot Jones,Brunswick Indoor Recreation,Billy_Jones,Pontiac,321,34720,running,0,85
+1999,W,1999_NAPA_500,27,31,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,319,37505,running,0,82
+1999,W,1999_NAPA_500,28,43,71,usa,Dave_Marcis,Dave Marcis,RealTree Camouflage,Dave_Marcis,Chevrolet,319,34490,running,3,84
+1999,W,1999_NAPA_500,29,25,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Texaco / Havoline,Yates_Racing,Ford,319,44530,running,0,76
+1999,W,1999_NAPA_500,30,42,11,usa,Brett_Bodine,Brett Bodine,Paychex,Brett_Bodine,Ford,317,44280,running,0,73
+1999,W,1999_NAPA_500,31,18,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,314,43990,running,0,70
+1999,W,1999_NAPA_500,32,28,42,usa,Joe_Nemechek,Joe Nemechek,BellSouth,Felix_Sabates,Chevrolet,303,43400,engine,0,67
+1999,W,1999_NAPA_500,33,33,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,242,48835,crash,0,64
+1999,W,1999_NAPA_500,34,32,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,235,34270,running,0,61
+1999,W,1999_NAPA_500,35,9,41,usa,Gary_Bradberry,Gary Bradberry,Kodiak,Larry_Hedrick,Chevrolet,233,33705,engine,0,58
+1999,W,1999_NAPA_500,36,8,7,usa,Michael_Waltrip,Michael Waltrip,Philips Electronics,Jim_Mattei,Chevrolet,196,41840,crash,12,60
+1999,W,1999_NAPA_500,37,7,93,usa,Dave_Blaney,Dave Blaney,Amoco,Bill_Davis,Pontiac,182,33600,crash,0,52
+1999,W,1999_NAPA_500,38,16,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,181,59350,engine,0,49
+1999,W,1999_NAPA_500,39,17,26,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Cheerios / Toy Story 2 / Woody,Jack_Roush,Ford,172,40900,crash,4,51
+1999,W,1999_NAPA_500,40,39,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,148,48450,crash,0,43
+1999,W,1999_NAPA_500,41,26,98,usa,Rick_Mast,Rick Mast,Crash Bandicoot,Cale_Yarborough,Ford,131,35400,running,0,40
+1999,W,1999_NAPA_500,42,24,23,usa,Jimmy_Spencer,Jimmy Spencer,Team Winston / No Bull,Travis_Carter,Ford,80,40350,crash,0,37
+1999,W,1999_NAPA_500,43,5,30,usa,Todd_Bodine,Todd Bodine,Rudy's Farm,Jack_Birmingham,Pontiac,42,33507,crash,0,34

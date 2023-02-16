@@ -1,0 +1,830 @@
+season,series_id,race_id,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
+2000,C,2000_Daytona_250,1,2,2,usa,Mike_Wallace,Mike Wallace,Team ASE Racing,Jim_Smith,Ford,100,80099,running,59,185
+2000,C,2000_Daytona_250,2,34,99,usa,Kurt_Busch,Kurt Busch,Exide Batteries,Jack_Roush,Ford,100,51800,running,0,170
+2000,C,2000_Daytona_250,3,6,60,usa,Andy_Houston,Andy Houston,CAT Rental Stores,Mike_Addington,Chevrolet,100,39382,running,9,170
+2000,C,2000_Daytona_250,4,32,88,usa,Terry_Cook,Terry Cook,Transmission Technology,Duke_Thorson,Chevrolet,100,27602,running,7,165
+2000,C,2000_Daytona_250,5,15,98,usa,Kenny_Martin,Kenny Martin,Premier Truck Parts,Jim_Herrick,Ford,100,21805,running,0,155
+2000,C,2000_Daytona_250,6,29,72,canada,Randy_MacDonald,Randy MacDonald,3M,Doc_MacDonald,Chevrolet,100,17225,running,0,150
+2000,C,2000_Daytona_250,7,9,66,usa,Rick_Carelli,Rick Carelli,Carlin Burners & Controls,Dale_Phelon,Ford,100,16025,running,0,146
+2000,C,2000_Daytona_250,8,12,1,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Bob_Keselowski,Dodge,99,16077,running,0,142
+2000,C,2000_Daytona_250,9,26,84,usa,Donnie_Neuenberger,Donnie Neuenberger,eBay.com,Robert_Long,Ford,99,14025,running,0,138
+2000,C,2000_Daytona_250,10,10,43,usa,Steve_Grissom,Steve Grissom,Dodge Motorsports,Petty_Enterprises,Dodge,95,13525,running,5,139
+2000,C,2000_Daytona_250,11,16,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,92,14877,crash,1,135
+2000,C,2000_Daytona_250,12,8,86,usa,Mike_Cope,Mike Cope,Royal Crown Cola,David_Hodson,Dodge,90,12740,running,0,127
+2000,C,2000_Daytona_250,13,30,12,mexico,Carlos_Contreras,Carlos Contreras,Hot Wheels,Russell_Kersh,Dodge,84,12640,running,0,124
+2000,C,2000_Daytona_250,14,24,6,usa,Rich_Woodland_Jr,"Rich Woodland, Jr.",Woodland Racing,Richard_Woodland,Chevrolet,82,12540,transmission,0,121
+2000,C,2000_Daytona_250,15,11,25,usa,Randy_Tolsma,Randy Tolsma,Supergard Motor Oil,David_Hodson,Dodge,79,13792,running,0,118
+2000,C,2000_Daytona_250,16,36,00,usa,Ryan_McGlynn,Ryan McGlynn,Howes Lubricator,Raynard_McGlynn,Chevrolet,76,13292,engine,0,115
+2000,C,2000_Daytona_250,17,20,97,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",RDR Racing,Ron_Barfield_Jr.,Ford,66,13192,engine,0,112
+2000,C,2000_Daytona_250,18,4,75,usa,Marty_Houston,Marty Houston,Spears Manufacturing,Wayne_Spears,Chevrolet,65,13092,crash,2,114
+2000,C,2000_Daytona_250,19,1,18,usa,Joe_Ruttman,Joe Ruttman,Dana Corporation,Bobby_Hamilton_Racing,Dodge,64,14092,engine,1,111
+2000,C,2000_Daytona_250,20,21,26,usa,Jamie_McMurray,Jamie McMurray,Mittler Tool,Mike_Mittler,Ford,60,12115,crash,0,103
+2000,C,2000_Daytona_250,21,27,31,usa,John_Young,John Young,Design-Lighting.com,Bob_Brevak,Ford,57,11765,crash,0,100
+2000,C,2000_Daytona_250,22,3,52,usa,Lyndon_Amick,Lyndon Amick,Penda Truck Accessories,Ken_Schrader,Chevrolet,56,11665,crash,2,102
+2000,C,2000_Daytona_250,23,22,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,56,12592,crash,4,99
+2000,C,2000_Daytona_250,24,19,15,usa,Geoffrey_Bodine,Geoffrey Bodine,Line-X Bedliners,Billy_Ballew,Ford,56,11440,crash,0,91
+2000,C,2000_Daytona_250,25,31,27,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",Hastings Premium Filters,Mike_Albernaz,Ford,56,11340,crash,0,88
+2000,C,2000_Daytona_250,26,23,90,usa,Lance_Norick,Lance Norick,Aventis Behring,Ron_Norick,Chevrolet,56,12292,crash,0,85
+2000,C,2000_Daytona_250,27,29,73,usa,B_A_Wilson,B.A. Wilson,Sonntag Redi-Mix,Joey_Sonntag,Chevrolet,56,11140,crash,0,82
+2000,C,2000_Daytona_250,28,25,42,usa,Jimmy_Kitchens,Jimmy Kitchens,Dodge Motorsports,Rick_McCray,Chevrolet,56,12092,crash,3,84
+2000,C,2000_Daytona_250,29,17,16,usa,Jimmy_Hensley,Jimmy Hensley,Silverado / Lance Snacks,Ed_Rensi,Chevrolet,55,11992,crash,0,76
+2000,C,2000_Daytona_250,30,5,4,usa,Bobby_Hamilton,Bobby Hamilton,Dana Corporation,Bobby_Hamilton_Racing,Dodge,36,10840,crash,6,78
+2000,C,2000_Daytona_250,31,18,41,usa,Randy_Renfrow,Randy Renfrow,Farris Concrete,Mike_Farris,Dodge,36,11842,crash,0,70
+2000,C,2000_Daytona_250,32,35,7,usa,Morgan_Shepherd,Morgan Shepherd,Conely Racing,John_Conely,Chevrolet,17,10740,rocker arm,1,72
+2000,C,2000_Daytona_250,33,7,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,14,12742,crash,0,64
+2000,C,2000_Daytona_250,34,14,14,usa,Rick_Crawford,Rick Crawford,Milwaukee Electric Tool,Tom_Mitchell,Ford,13,11692,crash,0,61
+2000,C,2000_Daytona_250,35,13,3,usa,Bryan_Reffner,Bryan Reffner,Johns Manville / Menards,John_Menard,Chevrolet,13,11642,crash,0,58
+2000,C,2000_Daytona_250,36,33,35,usa,David_Starr,David Starr,Unified Office Network,George_Starr,Chevrolet,10,10490,engine,0,55
+2000,C,2000_Florida_Dodge_Dealers_400K,1,3,60,usa,Andy_Houston,Andy Houston,CAT Rental Stores,Mike_Addington,Chevrolet,167,49869,running,49,180
+2000,C,2000_Florida_Dodge_Dealers_400K,2,10,2,usa,Mike_Wallace,Mike Wallace,Team ASE Racing,Jim_Smith,Ford,167,28551,running,0,170
+2000,C,2000_Florida_Dodge_Dealers_400K,3,4,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,167,22181,running,22,170
+2000,C,2000_Florida_Dodge_Dealers_400K,4,1,18,usa,Joe_Ruttman,Joe Ruttman,Dana Corporation,Bobby_Hamilton_Racing,Dodge,167,19076,running,23,165
+2000,C,2000_Florida_Dodge_Dealers_400K,5,2,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,167,18231,running,72,165
+2000,C,2000_Florida_Dodge_Dealers_400K,6,9,25,usa,Randy_Tolsma,Randy Tolsma,Supergard Motor Oil,David_Hodson,Dodge,167,14701,running,0,150
+2000,C,2000_Florida_Dodge_Dealers_400K,7,11,14,usa,Rick_Crawford,Rick Crawford,Milwaukee Electric Tool,Tom_Mitchell,Ford,167,14051,running,0,146
+2000,C,2000_Florida_Dodge_Dealers_400K,8,13,88,usa,Terry_Cook,Terry Cook,Transmission Technology,Duke_Thorson,Chevrolet,167,13651,running,0,142
+2000,C,2000_Florida_Dodge_Dealers_400K,9,17,99,usa,Kurt_Busch,Kurt Busch,Exide Batteries,Jack_Roush,Ford,166,14451,running,0,138
+2000,C,2000_Florida_Dodge_Dealers_400K,10,6,75,usa,Marty_Houston,Marty Houston,Spears Manufacturing,Wayne_Spears,Chevrolet,165,14451,running,1,139
+2000,C,2000_Florida_Dodge_Dealers_400K,11,12,43,usa,Steve_Grissom,Steve Grissom,Dodge Motorsports,Petty_Enterprises,Dodge,165,11975,running,0,130
+2000,C,2000_Florida_Dodge_Dealers_400K,12,7,16,usa,Jimmy_Hensley,Jimmy Hensley,Team Rensi,Ed_Rensi,Chevrolet,165,13166,running,0,127
+2000,C,2000_Florida_Dodge_Dealers_400K,13,18,15,usa,Barry_Bodine,Barry Bodine,Line-X Bedliners,Billy_Ballew,Ford,165,11665,running,0,124
+2000,C,2000_Florida_Dodge_Dealers_400K,14,14,40,usa,Brad_Bennett,Brad Bennett,ReyBen Racing,Allen_Reyen,Chevrolet,165,11565,running,0,121
+2000,C,2000_Florida_Dodge_Dealers_400K,15,25,86,usa,Mike_Cope,Mike Cope,Royal Crown Cola,David_Hodson,Dodge,165,11765,running,0,118
+2000,C,2000_Florida_Dodge_Dealers_400K,16,15,27,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",Hastings Premium Filters,Mike_Albernaz,Ford,164,12541,running,0,115
+2000,C,2000_Florida_Dodge_Dealers_400K,17,22,7,usa,Morgan_Shepherd,Morgan Shepherd,Special Projects Concept Vehicles,John_Conely,Chevrolet,164,11265,running,0,112
+2000,C,2000_Florida_Dodge_Dealers_400K,18,29,9,usa,Lance_Hooper,Lance Hooper,Burrows Trucking,Marty_Walsh,Ford,164,11165,running,0,109
+2000,C,2000_Florida_Dodge_Dealers_400K,19,23,73,usa,B_A_Wilson,B.A. Wilson,Sonntag Redi-Mix,Joey_Sonntag,Chevrolet,163,11065,running,0,106
+2000,C,2000_Florida_Dodge_Dealers_400K,20,27,72,canada,Randy_MacDonald,Randy MacDonald,Velocity Powerboats,Doc_MacDonald,Chevrolet,161,11215,running,0,103
+2000,C,2000_Florida_Dodge_Dealers_400K,21,34,69,usa,Michael_Dokken,Michael Dokken,Sprayer Parts Depot,Andy_Campbell,Chevrolet,161,10765,running,0,100
+2000,C,2000_Florida_Dodge_Dealers_400K,22,33,26,usa,Jamie_McMurray,Jamie McMurray,Mittler Tool,Mike_Mittler,Ford,161,10565,running,0,97
+2000,C,2000_Florida_Dodge_Dealers_400K,23,28,31,usa,John_Young,John Young,Brevak Racing,Bob_Brevak,Ford,161,10440,running,0,94
+2000,C,2000_Florida_Dodge_Dealers_400K,24,32,00,usa,Ryan_McGlynn,Ryan McGlynn,Buyers Choice,Raynard_McGlynn,Chevrolet,160,11316,running,0,91
+2000,C,2000_Florida_Dodge_Dealers_400K,25,21,41,usa,Randy_Renfrow,Randy Renfrow,Farris Concrete,Mike_Farris,Dodge,160,11116,running,0,88
+2000,C,2000_Florida_Dodge_Dealers_400K,26,36,71,usa,Tommy_Croft,Tommy Croft,Rowland Racing,Stanley_Rowland,Chevrolet,155,9740,running,0,85
+2000,C,2000_Florida_Dodge_Dealers_400K,27,30,93,usa,Wayne_Edwards_(1),Wayne Edwards,WorldBestBuy.com,Lonnie_Troxell,Chevrolet,152,9540,running,0,82
+2000,C,2000_Florida_Dodge_Dealers_400K,28,35,09,usa,Matt_Mullins,Matt Mullins,Elcom / Lumber Unlimited,Judith_Ann_Midgley,Chevrolet,148,9340,rear end,0,79
+2000,C,2000_Florida_Dodge_Dealers_400K,29,24,98,usa,Kenny_Martin,Kenny Martin,Premier Truck Parts,Jim_Herrick,Ford,142,9140,crash,0,76
+2000,C,2000_Florida_Dodge_Dealers_400K,30,8,3,usa,Bryan_Reffner,Bryan Reffner,Johns Manville / Menards,John_Menard,Chevrolet,116,9566,engine,0,73
+2000,C,2000_Florida_Dodge_Dealers_400K,31,19,90,usa,Lance_Norick,Lance Norick,Aventis Behring,Ron_Norick,Chevrolet,106,9541,engine,0,70
+2000,C,2000_Florida_Dodge_Dealers_400K,32,5,1,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Bob_Keselowski,Dodge,74,9516,overheating,0,67
+2000,C,2000_Florida_Dodge_Dealers_400K,33,16,12,mexico,Carlos_Contreras,Carlos Contreras,Hot Wheels,Russell_Kersh,Dodge,74,8315,parked,0,64
+2000,C,2000_Florida_Dodge_Dealers_400K,34,26,66,usa,Rick_Carelli,Rick Carelli,Carlin Burners & Controls,Dale_Phelon,Ford,38,8290,engine,0,61
+2000,C,2000_Florida_Dodge_Dealers_400K,35,20,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,22,9441,engine,0,58
+2000,C,2000_Florida_Dodge_Dealers_400K,36,31,28,usa,Kenny_Allen,Kenny Allen,Rosenblum Racing,Jim_Rosenblum,Chevrolet,19,8240,transmission,0,55
+2000,C,2000_Chevy_Trucks_NASCAR_150,1,1,18,usa,Joe_Ruttman,Joe Ruttman,Dana Corporation,Bobby_Hamilton_Racing,Dodge,150,45804,running,101,185
+2000,C,2000_Chevy_Trucks_NASCAR_150,2,9,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,150,26501,running,0,170
+2000,C,2000_Chevy_Trucks_NASCAR_150,3,2,60,usa,Andy_Houston,Andy Houston,CAT Rental Stores,Mike_Addington,Chevrolet,150,19281,running,25,170
+2000,C,2000_Chevy_Trucks_NASCAR_150,4,6,99,usa,Kurt_Busch,Kurt Busch,Exide Batteries,Jack_Roush,Ford,150,11400,running,0,160
+2000,C,2000_Chevy_Trucks_NASCAR_150,5,4,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,150,11056,running,24,160
+2000,C,2000_Chevy_Trucks_NASCAR_150,6,7,1,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Bob_Keselowski,Dodge,150,9801,running,0,150
+2000,C,2000_Chevy_Trucks_NASCAR_150,7,16,43,usa,Steve_Grissom,Steve Grissom,Dodge Motorsports,Petty_Enterprises,Dodge,150,7875,running,0,146
+2000,C,2000_Chevy_Trucks_NASCAR_150,8,11,41,usa,Randy_Renfrow,Randy Renfrow,Farris Concrete,Mike_Farris,Dodge,150,8951,running,0,142
+2000,C,2000_Chevy_Trucks_NASCAR_150,9,5,2,usa,Mike_Wallace,Mike Wallace,Team ASE Racing,Jim_Smith,Ford,150,8751,running,0,138
+2000,C,2000_Chevy_Trucks_NASCAR_150,10,8,14,usa,Rick_Crawford,Rick Crawford,Milwaukee Electric Tool,Tom_Mitchell,Ford,150,10101,running,0,134
+2000,C,2000_Chevy_Trucks_NASCAR_150,11,14,3,usa,Bryan_Reffner,Bryan Reffner,Johns Manville / Menards,John_Menard,Chevrolet,150,7526,running,0,130
+2000,C,2000_Chevy_Trucks_NASCAR_150,12,30,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,150,8391,running,0,127
+2000,C,2000_Chevy_Trucks_NASCAR_150,13,23,62,usa,Brendan_Gaughan,Brendan Gaughan,NAPA / Martin Senour,Bill_McAnally,Chevrolet,150,7165,running,0,124
+2000,C,2000_Chevy_Trucks_NASCAR_150,14,10,88,usa,Terry_Cook,Terry Cook,PickupTruck.com,Duke_Thorson,Chevrolet,150,8291,running,0,121
+2000,C,2000_Chevy_Trucks_NASCAR_150,15,13,16,usa,Jimmy_Hensley,Jimmy Hensley,Team Rensi,Ed_Rensi,Chevrolet,150,8541,running,0,118
+2000,C,2000_Chevy_Trucks_NASCAR_150,16,17,9,usa,Lance_Hooper,Lance Hooper,Garage Doors of Naples,Marty_Walsh,Ford,150,7115,running,0,115
+2000,C,2000_Chevy_Trucks_NASCAR_150,17,18,15,usa,Barry_Bodine,Barry Bodine,Line-X Bedliners,Billy_Ballew,Ford,150,6965,running,0,112
+2000,C,2000_Chevy_Trucks_NASCAR_150,18,20,02,usa,Jim_Inglebright,Jim Inglebright,Jelly Belly,Jim_Inglebright,Chevrolet,150,6915,running,0,109
+2000,C,2000_Chevy_Trucks_NASCAR_150,19,24,73,usa,B_A_Wilson,B.A. Wilson,Speedmonster.com,Joey_Sonntag,Chevrolet,150,6865,running,0,106
+2000,C,2000_Chevy_Trucks_NASCAR_150,20,31,86,usa,Mike_Cope,Mike Cope,Royal Crown Cola,David_Hodson,Dodge,150,7065,running,0,103
+2000,C,2000_Chevy_Trucks_NASCAR_150,21,22,12,mexico,Carlos_Contreras,Carlos Contreras,Hot Wheels,Russell_Kersh,Dodge,149,6740,running,0,100
+2000,C,2000_Chevy_Trucks_NASCAR_150,22,3,75,usa,Marty_Houston,Marty Houston,Spears Manufacturing,Wayne_Spears,Chevrolet,148,7866,running,0,97
+2000,C,2000_Chevy_Trucks_NASCAR_150,23,28,51,usa,Rick_Ware,Rick Ware,Dunlop Golf,Rick_Ware,Chevrolet,148,6590,running,0,94
+2000,C,2000_Chevy_Trucks_NASCAR_150,24,29,09,usa,Matt_Mullins,Matt Mullins,Elcom / Lumber Unlimited,Judith_Ann_Midgley,Chevrolet,146,6490,running,0,91
+2000,C,2000_Chevy_Trucks_NASCAR_150,25,27,93,usa,Wayne_Edwards_(1),Wayne Edwards,WorldBestBuy.com,Lonnie_Troxell,Chevrolet,145,6390,running,0,88
+2000,C,2000_Chevy_Trucks_NASCAR_150,26,15,66,usa,Rick_Carelli,Rick Carelli,Carlin Burners & Controls,Dale_Phelon,Ford,144,6290,engine,0,85
+2000,C,2000_Chevy_Trucks_NASCAR_150,27,35,7,usa,Stan_Boyd,Stan Boyd,Conely Engines,John_Conely,Chevrolet,143,6190,running,0,82
+2000,C,2000_Chevy_Trucks_NASCAR_150,28,21,90,usa,Lance_Norick,Lance Norick,Aventis Behring,Ron_Norick,Chevrolet,134,7266,brakes,0,79
+2000,C,2000_Chevy_Trucks_NASCAR_150,29,19,72,canada,Randy_MacDonald,Randy MacDonald,3M / WorldBestBuy.com,Doc_MacDonald,Chevrolet,130,5990,running,0,76
+2000,C,2000_Chevy_Trucks_NASCAR_150,30,26,31,usa,Sean_Woodside,Sean Woodside,Brevak Racing,Bob_Brevak,Ford,89,5890,ignition,0,73
+2000,C,2000_Chevy_Trucks_NASCAR_150,31,12,25,usa,Randy_Tolsma,Randy Tolsma,Citgo Supergard,David_Hodson,Dodge,68,7041,crash,0,70
+2000,C,2000_Chevy_Trucks_NASCAR_150,32,34,98,usa,Kenny_Martin,Kenny Martin,Premier Truck Parts,Jim_Herrick,Ford,67,5840,crash,0,67
+2000,C,2000_Chevy_Trucks_NASCAR_150,33,25,26,usa,Jamie_McMurray,Jamie McMurray,Mittler Tool,Mike_Mittler,Ford,46,5815,engine,0,64
+2000,C,2000_Chevy_Trucks_NASCAR_150,34,33,00,usa,Ryan_McGlynn,Ryan McGlynn,Buyers Choice / Howes,Raynard_McGlynn,Chevrolet,31,6966,engine,0,61
+2000,C,2000_Chevy_Trucks_NASCAR_150,35,36,23,usa,Phil_Bonifield,Phil Bonifield,Red Line Oil,Tom_Mazzuchi,Chevrolet,19,5765,too slow,0,58
+2000,C,2000_Chevy_Trucks_NASCAR_150,36,32,27,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",Hastings Premium Filters,Mike_Albernaz,Chevrolet,3,6916,ignition,0,55
+2000,C,2000_Dodge_California_250,1,1,2,usa,Mike_Wallace,Mike Wallace,Team ASE Racing,Jim_Smith,Ford,250,36449,running,37,180
+2000,C,2000_Dodge_California_250,2,6,99,usa,Kurt_Busch,Kurt Busch,Exide Batteries,Jack_Roush,Ford,250,22805,running,1,175
+2000,C,2000_Dodge_California_250,3,3,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,250,16776,running,31,170
+2000,C,2000_Dodge_California_250,4,23,43,usa,Steve_Grissom,Steve Grissom,Dodge Motorsports,Petty_Enterprises,Dodge,250,9895,running,36,165
+2000,C,2000_Dodge_California_250,5,14,41,usa,Randy_Renfrow,Randy Renfrow,Farris Concrete,Mike_Farris,Dodge,250,12346,running,8,160
+2000,C,2000_Dodge_California_250,6,19,3,usa,Bryan_Reffner,Bryan Reffner,Johns Manville / Menards,John_Menard,Chevrolet,250,9946,running,0,150
+2000,C,2000_Dodge_California_250,7,15,88,usa,Terry_Cook,Terry Cook,PickupTruck.com,Duke_Thorson,Chevrolet,250,9851,running,0,146
+2000,C,2000_Dodge_California_250,8,5,1,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Bob_Keselowski,Dodge,250,8971,running,14,147
+2000,C,2000_Dodge_California_250,9,8,14,usa,Rick_Crawford,Rick Crawford,Milwaukee Electric Tool,Tom_Mitchell,Ford,250,8671,running,0,138
+2000,C,2000_Dodge_California_250,10,11,60,usa,Andy_Houston,Andy Houston,CAT Rental Stores,Mike_Addington,Chevrolet,250,10021,running,16,139
+2000,C,2000_Dodge_California_250,11,24,90,usa,Lance_Norick,Lance Norick,Aventis Behring,Ron_Norick,Chevrolet,250,8371,running,0,130
+2000,C,2000_Dodge_California_250,12,4,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,250,8321,running,0,127
+2000,C,2000_Dodge_California_250,13,26,62,usa,Brendan_Gaughan,Brendan Gaughan,NAPA / Martin Senour,Bill_McAnally,Chevrolet,250,7095,running,0,124
+2000,C,2000_Dodge_California_250,14,2,16,usa,Jimmy_Hensley,Jimmy Hensley,Team Rensi,Ed_Rensi,Chevrolet,250,8221,running,9,126
+2000,C,2000_Dodge_California_250,15,30,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,249,8321,running,0,118
+2000,C,2000_Dodge_California_250,16,7,18,usa,Joe_Ruttman,Joe Ruttman,Dana Corporation,Bobby_Hamilton_Racing,Dodge,248,8271,crash,15,120
+2000,C,2000_Dodge_California_250,17,18,72,canada,Randy_MacDonald,Randy MacDonald,3M / Racing Milestones,Doc_MacDonald,Chevrolet,248,6895,running,0,112
+2000,C,2000_Dodge_California_250,18,16,73,usa,B_A_Wilson,B.A. Wilson,Speedmonster.com,Joey_Sonntag,Chevrolet,248,6845,running,14,114
+2000,C,2000_Dodge_California_250,19,32,7,usa,Stan_Boyd,Stan Boyd,Auto Value,John_Conely,Chevrolet,247,6770,running,0,106
+2000,C,2000_Dodge_California_250,20,13,66,usa,Rick_Carelli,Rick Carelli,Carlin Burners & Controls,Dale_Phelon,Ford,247,6870,running,0,103
+2000,C,2000_Dodge_California_250,21,27,75,usa,Marty_Houston,Marty Houston,Spears Manufacturing,Wayne_Spears,Chevrolet,246,7746,running,0,100
+2000,C,2000_Dodge_California_250,22,22,86,usa,Mike_Cope,Mike Cope,Royal Crown Cola,David_Hodson,Dodge,246,6520,running,0,97
+2000,C,2000_Dodge_California_250,23,25,15,usa,Barry_Bodine,Barry Bodine,Line-X Bedliners,Billy_Ballew,Ford,245,6470,running,0,94
+2000,C,2000_Dodge_California_250,24,29,31,usa,Sean_Woodside,Sean Woodside,Team Walker Racing,Bob_Brevak,Ford,240,6420,crash,0,91
+2000,C,2000_Dodge_California_250,25,12,25,usa,Randy_Tolsma,Randy Tolsma,Citgo Supergard,David_Hodson,Dodge,237,10021,engine,69,98
+2000,C,2000_Dodge_California_250,26,34,00,usa,Ryan_McGlynn,Ryan McGlynn,Buyers Choice / Howes,Raynard_McGlynn,Chevrolet,232,7471,running,0,85
+2000,C,2000_Dodge_California_250,27,21,12,mexico,Carlos_Contreras,Carlos Contreras,Hot Wheels,Russell_Kersh,Dodge,227,6195,crash,0,82
+2000,C,2000_Dodge_California_250,28,20,20,usa,Jason_Small,Jason Small,Small Construction,Walker_Evans,Chevrolet,202,6095,running,0,79
+2000,C,2000_Dodge_California_250,29,31,28,usa,David_Starr,David Starr,Stallion Express,Tammy_Provence,Ford,181,7171,rear end,0,76
+2000,C,2000_Dodge_California_250,30,17,26,usa,Jamie_McMurray,Jamie McMurray,Mittler Tool,Mike_Mittler,Ford,168,5895,rear end,0,73
+2000,C,2000_Dodge_California_250,31,10,9,usa,Lance_Hooper,Lance Hooper,Garage Doors of Naples,Marty_Walsh,Ford,84,5795,brakes,0,70
+2000,C,2000_Dodge_California_250,32,33,23,usa,Phil_Bonifield,Phil Bonifield,Red Line Oil,Tom_Mazzuchi,Chevrolet,84,5695,rear end,0,67
+2000,C,2000_Dodge_California_250,33,9,98,usa,Kenny_Martin,Kenny Martin,Premier Truck Parts,Jim_Herrick,Ford,69,5595,oil line,0,64
+2000,C,2000_Dodge_California_250,34,28,93,usa,Wayne_Edwards_(1),Wayne Edwards,WorldBestBuy.com,Lonnie_Troxell,Chevrolet,57,5495,brakes,0,0
+2000,C,2000_NAPA_250,1,2,4,usa,Bobby_Hamilton,Bobby Hamilton,Dana Corporation,Bobby_Hamilton_Racing,Dodge,250,40710,running,179,185
+2000,C,2000_NAPA_250,2,1,2,usa,Mike_Wallace,Mike Wallace,Team ASE Racing,Jim_Smith,Ford,250,24225,running,53,175
+2000,C,2000_NAPA_250,3,4,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,250,18050,running,0,165
+2000,C,2000_NAPA_250,4,26,1,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Bob_Keselowski,Dodge,250,13600,running,0,160
+2000,C,2000_NAPA_250,5,13,43,usa,Steve_Grissom,Steve Grissom,Dodge Motorsports,Petty_Enterprises,Dodge,250,9925,running,0,155
+2000,C,2000_NAPA_250,6,6,18,usa,Joe_Ruttman,Joe Ruttman,Dana Corporation,Bobby_Hamilton_Racing,Dodge,250,9755,running,0,150
+2000,C,2000_NAPA_250,7,14,25,usa,Randy_Tolsma,Randy Tolsma,Citgo Supergard,David_Hodson,Dodge,250,8900,running,0,146
+2000,C,2000_NAPA_250,8,11,3,usa,Bryan_Reffner,Bryan Reffner,Johns Manville / Menards,John_Menard,Chevrolet,250,8600,running,0,142
+2000,C,2000_NAPA_250,9,5,84,usa,Scott_Riggs,Scott Riggs,Long Brothers Racing,Robert_Long,Ford,250,7550,running,0,138
+2000,C,2000_NAPA_250,10,21,16,usa,Jimmy_Hensley,Jimmy Hensley,Team Rensi,Ed_Rensi,Chevrolet,250,9900,running,0,134
+2000,C,2000_NAPA_250,11,10,60,usa,Andy_Houston,Andy Houston,CAT Rental Stores,Mike_Addington,Chevrolet,250,8450,running,0,130
+2000,C,2000_NAPA_250,12,20,52,usa,Ken_Schrader,Ken Schrader,Federated Auto Parts,Ken_Schrader,Chevrolet,249,7315,running,0,127
+2000,C,2000_NAPA_250,13,8,41,usa,Randy_Renfrow,Randy Renfrow,Farris Concrete,Mike_Farris,Dodge,249,8265,running,0,124
+2000,C,2000_NAPA_250,14,12,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,249,8215,running,0,121
+2000,C,2000_NAPA_250,15,18,14,usa,Rick_Crawford,Rick Crawford,Milwaukee Electric Tool,Tom_Mitchell,Ford,248,8465,running,0,118
+2000,C,2000_NAPA_250,16,24,73,usa,B_A_Wilson,B.A. Wilson,Sonntag Redi-Mix,Joey_Sonntag,Chevrolet,248,8090,running,0,115
+2000,C,2000_NAPA_250,17,15,90,usa,Lance_Norick,Lance Norick,Aventis Behring,Ron_Norick,Chevrolet,248,7040,running,0,112
+2000,C,2000_NAPA_250,18,29,20,usa,Coy_Gibbs,Coy Gibbs,MBNA,Joe_Gibbs,Chevrolet,247,7990,running,0,109
+2000,C,2000_NAPA_250,19,32,75,usa,Marty_Houston,Marty Houston,Spears Manufacturing,Wayne_Spears,Chevrolet,246,7940,running,0,106
+2000,C,2000_NAPA_250,20,25,7,usa,David_Starr,David Starr,Conely Engines,John_Conely,Chevrolet,246,7140,running,0,103
+2000,C,2000_NAPA_250,21,33,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,246,7865,running,0,100
+2000,C,2000_NAPA_250,22,17,12,mexico,Carlos_Contreras,Carlos Contreras,Hot Wheels,Russell_Kersh,Dodge,246,6840,running,0,97
+2000,C,2000_NAPA_250,23,22,99,usa,Kurt_Busch,Kurt Busch,Exide Batteries,Jack_Roush,Ford,245,7815,running,0,94
+2000,C,2000_NAPA_250,24,34,31,usa,John_Young,John Young,Brevak Racing,Bob_Brevak,Ford,244,6790,running,0,91
+2000,C,2000_NAPA_250,25,31,28,usa,Conrad_Burr,Conrad Burr,Rosenblum Racing,Jim_Rosenblum,Chevrolet,244,7740,running,0,88
+2000,C,2000_NAPA_250,26,28,79,usa,R_D_Smith,R.D. Smith,Myrtle Beach Vacations,Rodney_Smith,Dodge,243,6715,running,0,85
+2000,C,2000_NAPA_250,27,27,54,usa,Brian_Sockwell,Brian Sockwell,Team Sockwell,Dennis_Sockwell,Chevrolet,241,6690,running,0,82
+2000,C,2000_NAPA_250,28,36,9,usa,Lance_Hooper,Lance Hooper,Economy Rent-a-Car,Marty_Walsh,Ford,240,6665,running,0,79
+2000,C,2000_NAPA_250,29,35,00,usa,Ryan_McGlynn,Ryan McGlynn,Buyers Choice / Howes,Raynard_McGlynn,Chevrolet,235,6615,running,0,76
+2000,C,2000_NAPA_250,30,9,88,usa,Terry_Cook,Terry Cook,PickupTruck.com,Duke_Thorson,Chevrolet,234,7590,running,6,78
+2000,C,2000_NAPA_250,31,23,98,usa,Kenny_Martin,Kenny Martin,Premier Truck Parts,Jim_Herrick,Ford,200,6140,crash,0,0
+2000,C,2000_NAPA_250,32,19,72,canada,Randy_MacDonald,Randy MacDonald,3M,Doc_MacDonald,Chevrolet,187,7115,running,0,67
+2000,C,2000_NAPA_250,33,3,66,usa,Rick_Carelli,Rick Carelli,Carlin Burners & Controls,Dale_Phelon,Ford,173,7090,running,0,64
+2000,C,2000_NAPA_250,34,7,15,usa,Bobby_Gill,Bobby Gill,Line-X Bedliners,Billy_Ballew,Ford,164,6065,rear end,12,66
+2000,C,2000_NAPA_250,35,30,10,usa,Tom_Carey_Jr,"Tom Carey, Jr.",Detroit Locker / Triple A,Kevin_Banning,Dodge,142,6040,crash,0,58
+2000,C,2000_NAPA_250,36,16,86,usa,Mike_Cope,Mike Cope,Royal Crown Cola,David_Hodson,Dodge,19,7015,vibration,0,55
+2000,C,2000_Line-X_225,1,5,60,usa,Andy_Houston,Andy Houston,CAT Rental Stores,Mike_Addington,Chevrolet,73,41140,running,1,180
+2000,C,2000_Line-X_225,2,15,1,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Bob_Keselowski,Dodge,73,30005,running,23,180
+2000,C,2000_Line-X_225,3,6,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,73,18850,running,1,170
+2000,C,2000_Line-X_225,4,4,2,usa,Mike_Wallace,Mike Wallace,Team ASE Racing,Jim_Smith,Ford,73,13370,running,0,160
+2000,C,2000_Line-X_225,5,13,14,usa,Rick_Crawford,Rick Crawford,Milwaukee Electric Tool,Tom_Mitchell,Ford,73,13550,running,0,155
+2000,C,2000_Line-X_225,6,9,16,usa,Jimmy_Hensley,Jimmy Hensley,Team Rensi,Ed_Rensi,Chevrolet,73,11195,running,0,150
+2000,C,2000_Line-X_225,7,19,3,usa,Bryan_Reffner,Bryan Reffner,Johns Manville / Menards,John_Menard,Chevrolet,73,10520,running,0,146
+2000,C,2000_Line-X_225,8,17,43,usa,Steve_Grissom,Steve Grissom,Dodge Motorsports,Petty_Enterprises,Dodge,73,10320,running,0,142
+2000,C,2000_Line-X_225,9,16,75,usa,Marty_Houston,Marty Houston,Spears Manufacturing,Wayne_Spears,Chevrolet,73,10220,running,0,138
+2000,C,2000_Line-X_225,10,12,31,usa,John_Young,John Young,Brevak Racing,Bob_Brevak,Ford,73,11520,running,0,134
+2000,C,2000_Line-X_225,11,2,99,usa,Kurt_Busch,Kurt Busch,Exide Batteries,Jack_Roush,Ford,73,9870,running,12,135
+2000,C,2000_Line-X_225,12,10,18,usa,Joe_Ruttman,Joe Ruttman,Dana Corporation,Bobby_Hamilton_Racing,Dodge,73,9670,running,0,127
+2000,C,2000_Line-X_225,13,1,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,73,10670,running,22,129
+2000,C,2000_Line-X_225,14,20,41,usa,Randy_Renfrow,Randy Renfrow,Farris Concrete,Mike_Farris,Dodge,73,9170,running,0,121
+2000,C,2000_Line-X_225,15,3,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Jimmy_Spencer,Ford,73,8420,running,14,123
+2000,C,2000_Line-X_225,16,23,72,canada,Randy_MacDonald,Randy MacDonald,3M,Doc_MacDonald,Chevrolet,72,9070,running,0,115
+2000,C,2000_Line-X_225,17,18,66,usa,Rick_Carelli,Rick Carelli,Carlin Burners & Controls,Dale_Phelon,Ford,72,8045,running,0,112
+2000,C,2000_Line-X_225,18,7,12,mexico,Carlos_Contreras,Carlos Contreras,Hot Wheels,Russell_Kersh,Dodge,71,9020,running,0,109
+2000,C,2000_Line-X_225,19,25,51,usa,Rick_Ware,Rick Ware,Dunlop / Sportsman Products,Rick_Ware,Chevrolet,71,7995,running,0,106
+2000,C,2000_Line-X_225,20,30,27,usa,Andy_Genzman,Andy Genzman,Hastings Premium Filters,Mike_Albernaz,Ford,70,8120,running,0,103
+2000,C,2000_Line-X_225,21,26,85,usa,Milan_Garrett,Milan Garrett,Champion Wheel,Milan_Garrett,Ford,70,7845,running,0,100
+2000,C,2000_Line-X_225,22,8,88,usa,Terry_Cook,Terry Cook,PickupTruck.com,Duke_Thorson,Chevrolet,69,8820,running,0,97
+2000,C,2000_Line-X_225,23,21,86,usa,Mike_Cope,Mike Cope,Royal Crown Cola / Rite Aid,David_Hodson,Dodge,69,8795,running,0,94
+2000,C,2000_Line-X_225,24,31,23,usa,Bill_Lester,Bill Lester,Red Line Synthetic Oil,Tom_Mazzuchi,Chevrolet,69,7770,running,0,91
+2000,C,2000_Line-X_225,25,27,7,usa,Dane_Pitarresi,Dane Pitarresi,Skid Car Systems,John_Conely,Chevrolet,68,7745,running,0,88
+2000,C,2000_Line-X_225,26,29,21,usa,Jeff_McClure,Jeff McClure,Hastings Premium Filters,Mike_Albernaz,Ford,66,7720,running,0,85
+2000,C,2000_Line-X_225,27,14,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,64,8695,rear end,0,82
+2000,C,2000_Line-X_225,28,22,90,usa,Lance_Norick,Lance Norick,Aventis Behring,Ron_Norick,Chevrolet,60,8670,engine,0,79
+2000,C,2000_Line-X_225,29,11,25,usa,Randy_Tolsma,Randy Tolsma,Citgo Supergard,David_Hodson,Dodge,54,8645,running,0,76
+2000,C,2000_Line-X_225,30,24,9,usa,Lance_Hooper,Lance Hooper,Ingles Supermarket,Marty_Walsh,Ford,38,7620,engine,0,73
+2000,C,2000_Line-X_225,31,32,05,usa,"Bobby_Hillis,_Jr","Bobby Hillis, Jr.",First Impression Press,Bobby_Hillis_Jr,Chevrolet,32,7595,running,0,70
+2000,C,2000_Line-X_225,32,33,34,usa,Bobby_Norfleet,Bobby Norfleet,40 Street Records,Larry_Norfleet,Chevrolet,27,7570,handling,0,67
+2000,C,2000_Line-X_225,33,28,00,usa,Ryan_McGlynn,Ryan McGlynn,Howes Lubricator,Raynard_McGlynn,Chevrolet,23,7545,transmission,0,64
+2000,C,2000_Ram_Tough_200_by_Pepsi,1,2,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,160,50440,running,145,185
+2000,C,2000_Ram_Tough_200_by_Pepsi,2,18,16,usa,Jimmy_Hensley,Jimmy Hensley,Lance Snacks,Ed_Rensi,Chevrolet,160,36555,running,0,170
+2000,C,2000_Ram_Tough_200_by_Pepsi,3,3,25,usa,Randy_Tolsma,Randy Tolsma,Citgo Supergard,David_Hodson,Dodge,160,28350,running,0,165
+2000,C,2000_Ram_Tough_200_by_Pepsi,4,1,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,160,21695,running,15,165
+2000,C,2000_Ram_Tough_200_by_Pepsi,5,30,18,usa,Joe_Ruttman,Joe Ruttman,Dana Corporation,Bobby_Hamilton_Racing,Dodge,160,18675,running,0,130
+2000,C,2000_Ram_Tough_200_by_Pepsi,6,14,43,usa,Steve_Grissom,Steve Grissom,Dodge Motorsports,Petty_Enterprises,Dodge,159,14795,running,0,150
+2000,C,2000_Ram_Tough_200_by_Pepsi,7,10,2,usa,Mike_Wallace,Mike Wallace,Team ASE Racing,Jim_Smith,Ford,159,13195,running,0,146
+2000,C,2000_Ram_Tough_200_by_Pepsi,8,7,3,usa,Bryan_Reffner,Bryan Reffner,Johns Manville / Menards,John_Menard,Chevrolet,158,12245,running,0,142
+2000,C,2000_Ram_Tough_200_by_Pepsi,9,4,88,usa,Terry_Cook,Terry Cook,PickupTruck.com,Duke_Thorson,Chevrolet,158,11395,running,0,138
+2000,C,2000_Ram_Tough_200_by_Pepsi,10,21,41,usa,Randy_Renfrow,Randy Renfrow,Farris Concrete,Mike_Farris,Dodge,158,12645,running,0,134
+2000,C,2000_Ram_Tough_200_by_Pepsi,11,11,62,usa,Brendan_Gaughan,Brendan Gaughan,NAPA / Martin Senour,Bill_McAnally,Chevrolet,158,9495,running,0,130
+2000,C,2000_Ram_Tough_200_by_Pepsi,12,6,14,usa,Rick_Crawford,Rick Crawford,Milwaukee Electric Tool,Tom_Mitchell,Ford,158,10395,running,0,127
+2000,C,2000_Ram_Tough_200_by_Pepsi,13,22,73,usa,B_A_Wilson,B.A. Wilson,Sonntag Redi-Mix,Joey_Sonntag,Chevrolet,158,9345,running,0,124
+2000,C,2000_Ram_Tough_200_by_Pepsi,14,17,90,usa,Lance_Norick,Lance Norick,Aventis Behring,Ron_Norick,Chevrolet,158,10295,running,0,121
+2000,C,2000_Ram_Tough_200_by_Pepsi,15,26,7,usa,David_Starr,David Starr,Conely Police Car Rebuild,John_Conely,Chevrolet,158,9545,running,0,118
+2000,C,2000_Ram_Tough_200_by_Pepsi,16,8,1,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Bob_Keselowski,Dodge,157,9945,running,0,115
+2000,C,2000_Ram_Tough_200_by_Pepsi,17,31,72,canada,Randy_MacDonald,Randy MacDonald,3M / TraderOnline.com,Doc_MacDonald,Chevrolet,157,9895,running,0,112
+2000,C,2000_Ram_Tough_200_by_Pepsi,18,12,12,mexico,Carlos_Contreras,Carlos Contreras,Hot Wheels,Russell_Kersh,Dodge,157,10720,running,0,109
+2000,C,2000_Ram_Tough_200_by_Pepsi,19,19,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,157,9620,running,0,106
+2000,C,2000_Ram_Tough_200_by_Pepsi,20,25,9,usa,Lance_Hooper,Lance Hooper,Raynor Garage Doors,Marty_Walsh,Ford,156,8620,running,0,103
+2000,C,2000_Ram_Tough_200_by_Pepsi,21,16,99,usa,Kurt_Busch,Kurt Busch,Exide Batteries,Jack_Roush,Ford,156,9595,running,0,100
+2000,C,2000_Ram_Tough_200_by_Pepsi,22,23,98,usa,Kenny_Martin,Kenny Martin,Premier Truck Parts,Jim_Herrick,Ford,155,8445,running,0,97
+2000,C,2000_Ram_Tough_200_by_Pepsi,23,15,26,usa,Jamie_McMurray,Jamie McMurray,Kribs Ford / Rankin Tech,Mike_Mittler,Ford,155,8420,running,0,94
+2000,C,2000_Ram_Tough_200_by_Pepsi,24,5,60,usa,Andy_Houston,Andy Houston,CAT Rental Stores,Mike_Addington,Chevrolet,155,9395,running,0,91
+2000,C,2000_Ram_Tough_200_by_Pepsi,25,20,75,usa,Marty_Houston,Marty Houston,Spears Manufacturing,Wayne_Spears,Chevrolet,154,9370,running,0,88
+2000,C,2000_Ram_Tough_200_by_Pepsi,26,34,27,usa,Andy_Genzman,Andy Genzman,Hastings Premium Filters,Mike_Albernaz,Ford,153,8345,running,0,85
+2000,C,2000_Ram_Tough_200_by_Pepsi,27,28,5,usa,Tom_Powers,Tom Powers,Ducane Gas Grills,William_Richardson,Dodge,152,8320,running,0,82
+2000,C,2000_Ram_Tough_200_by_Pepsi,28,32,31,usa,John_Young,John Young,Brevak Racing,Bob_Brevak,Ford,151,8295,running,0,79
+2000,C,2000_Ram_Tough_200_by_Pepsi,29,9,66,usa,Rick_Carelli,Rick Carelli,Carlin Burners & Controls,Dale_Phelon,Ford,103,9270,battery,0,76
+2000,C,2000_Ram_Tough_200_by_Pepsi,30,27,6,usa,Rich_Woodland_Jr,"Rich Woodland, Jr.",Woodland Racing,Richard_Woodland,Chevrolet,90,8245,handling,0,73
+2000,C,2000_Ram_Tough_200_by_Pepsi,31,33,00,usa,Ryan_McGlynn,Ryan McGlynn,Howes Lubricator,Raynard_McGlynn,Chevrolet,55,8220,engine,0,70
+2000,C,2000_Ram_Tough_200_by_Pepsi,32,29,20,usa,Coy_Gibbs,Coy Gibbs,MBNA,Joe_Gibbs,Chevrolet,34,8195,engine,0,67
+2000,C,2000_Ram_Tough_200_by_Pepsi,33,13,86,usa,Doug_George,Doug George,Royal Crown Cola,David_Hodson,Dodge,19,8170,crash,0,64
+2000,C,2000_Ram_Tough_200_by_Pepsi,34,24,40,usa,Brad_Bennett,Brad Bennett,ReyBen Racing,Allen_Reyen,Chevrolet,10,8145,engine,0,61
+2000,C,2000_Quaker_State_200_by_AutoZone,1,5,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,200,44210,running,5,180
+2000,C,2000_Quaker_State_200_by_AutoZone,2,2,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,200,31250,running,43,175
+2000,C,2000_Quaker_State_200_by_AutoZone,3,11,1,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Bob_Keselowski,Dodge,200,23780,running,0,165
+2000,C,2000_Quaker_State_200_by_AutoZone,4,9,2,usa,Mike_Wallace,Mike Wallace,Team ASE Racing,Jim_Smith,Ford,200,15550,running,0,160
+2000,C,2000_Quaker_State_200_by_AutoZone,5,21,43,usa,Steve_Grissom,Steve Grissom,Dodge Motorsports,Petty_Enterprises,Dodge,200,12900,running,0,155
+2000,C,2000_Quaker_State_200_by_AutoZone,6,8,14,usa,Rick_Crawford,Rick Crawford,Milwaukee Electric Tool,Tom_Mitchell,Ford,200,11780,running,0,150
+2000,C,2000_Quaker_State_200_by_AutoZone,7,10,25,usa,Randy_Tolsma,Randy Tolsma,Citgo Supergard,David_Hodson,Dodge,200,10625,running,0,146
+2000,C,2000_Quaker_State_200_by_AutoZone,8,3,3,usa,Bryan_Reffner,Bryan Reffner,Johns Manville / Menards,John_Menard,Chevrolet,200,10400,running,28,147
+2000,C,2000_Quaker_State_200_by_AutoZone,9,24,98,usa,Kenny_Martin,Kenny Martin,Premier Truck Parts,Jim_Herrick,Ford,200,10050,running,0,138
+2000,C,2000_Quaker_State_200_by_AutoZone,10,17,16,usa,Jimmy_Hensley,Jimmy Hensley,Mobile Max2,Ed_Rensi,Chevrolet,200,11350,running,0,134
+2000,C,2000_Quaker_State_200_by_AutoZone,11,14,7,usa,David_Starr,David Starr,Conely Police Car Rebuild,John_Conely,Chevrolet,200,8850,running,0,130
+2000,C,2000_Quaker_State_200_by_AutoZone,12,12,86,usa,Scott_Riggs,Scott Riggs,Royal Crown Cola,David_Hodson,Dodge,200,8615,running,0,127
+2000,C,2000_Quaker_State_200_by_AutoZone,13,13,99,usa,Kurt_Busch,Kurt Busch,Exide Batteries,Jack_Roush,Ford,200,12065,running,74,134
+2000,C,2000_Quaker_State_200_by_AutoZone,14,23,73,usa,B_A_Wilson,B.A. Wilson,Sonntag Redi-Mix,Joey_Sonntag,Chevrolet,200,8515,running,0,121
+2000,C,2000_Quaker_State_200_by_AutoZone,15,18,60,usa,Andy_Houston,Andy Houston,CAT Rental Stores,Mike_Addington,Chevrolet,199,9765,crash,11,123
+2000,C,2000_Quaker_State_200_by_AutoZone,16,33,9,usa,Lance_Hooper,Lance Hooper,Raynor Garage Doors,Marty_Walsh,Ford,198,8415,running,0,115
+2000,C,2000_Quaker_State_200_by_AutoZone,17,7,75,usa,Marty_Houston,Marty Houston,Spears Manufacturing,Wayne_Spears,Chevrolet,198,9315,running,0,112
+2000,C,2000_Quaker_State_200_by_AutoZone,18,29,12,mexico,Carlos_Contreras,Carlos Contreras,Hot Wheels,Russell_Kersh,Dodge,198,9215,running,0,109
+2000,C,2000_Quaker_State_200_by_AutoZone,19,16,18,usa,Joe_Ruttman,Joe Ruttman,Dana Corporation,Bobby_Hamilton_Racing,Dodge,197,9190,running,0,106
+2000,C,2000_Quaker_State_200_by_AutoZone,20,19,26,usa,Jamie_McMurray,Jamie McMurray,Mid-South Pipe & Valve,Mike_Mittler,Ford,197,8415,running,0,103
+2000,C,2000_Quaker_State_200_by_AutoZone,21,26,51,usa,Rick_Ware,Rick Ware,Dunlop / Sportsman Products,Rick_Ware,Chevrolet,196,8140,running,0,100
+2000,C,2000_Quaker_State_200_by_AutoZone,22,6,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,195,9115,running,0,97
+2000,C,2000_Quaker_State_200_by_AutoZone,23,36,93,usa,Wayne_Edwards_(1),Wayne Edwards,WorldBestBuy.com,Lonnie_Troxell,Chevrolet,184,8090,running,0,94
+2000,C,2000_Quaker_State_200_by_AutoZone,24,30,31,usa,John_Young,John Young,Brevak Racing,Bob_Brevak,Ford,180,8065,running,0,91
+2000,C,2000_Quaker_State_200_by_AutoZone,25,25,72,canada,Randy_MacDonald,Randy MacDonald,3M / TraderOnline.com,Doc_MacDonald,Chevrolet,176,9015,running,0,88
+2000,C,2000_Quaker_State_200_by_AutoZone,26,35,27,usa,Andy_Genzman,Andy Genzman,Hastings Premium Filters,Mike_Albernaz,Ford,159,7990,running,0,85
+2000,C,2000_Quaker_State_200_by_AutoZone,27,28,28,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Nessa Motorsports,Tammy_Provence,Ford,151,8965,transmission,0,82
+2000,C,2000_Quaker_State_200_by_AutoZone,28,31,20,usa,J_D_Gibbs,J.D. Gibbs,MBNA,Joe_Gibbs,Chevrolet,141,7940,handling,0,79
+2000,C,2000_Quaker_State_200_by_AutoZone,29,1,4,usa,Bobby_Hamilton,Bobby Hamilton,Dana Corporation,Bobby_Hamilton_Racing,Dodge,130,9015,vibration,39,81
+2000,C,2000_Quaker_State_200_by_AutoZone,30,20,41,usa,Randy_Renfrow,Randy Renfrow,Farris Concrete,Mike_Farris,Dodge,103,8890,axle,0,73
+2000,C,2000_Quaker_State_200_by_AutoZone,31,4,88,usa,Terry_Cook,Terry Cook,PickupTruck.com,Duke_Thorson,Chevrolet,87,8865,engine,0,70
+2000,C,2000_Quaker_State_200_by_AutoZone,32,22,15,usa,Bobby_Gill,Bobby Gill,Ballew Motorsports,Billy_Ballew,Ford,76,7840,crash,0,0
+2000,C,2000_Quaker_State_200_by_AutoZone,33,34,00,usa,Ryan_McGlynn,Ryan McGlynn,Buyers Choice / Howes,Raynard_McGlynn,Chevrolet,74,7815,engine,0,64
+2000,C,2000_Quaker_State_200_by_AutoZone,34,15,66,usa,Rick_Carelli,Rick Carelli,Carlin Burners & Controls,Dale_Phelon,Ford,45,8790,engine,0,61
+2000,C,2000_Quaker_State_200_by_AutoZone,35,27,54,usa,Brian_Sockwell,Brian Sockwell,Team Sockwell,Dennis_Sockwell,Chevrolet,22,7765,crash,0,58
+2000,C,2000_Quaker_State_200_by_AutoZone,36,32,90,usa,Lance_Norick,Lance Norick,Aventis Behring,Ron_Norick,Chevrolet,2,8740,handling,0,55
+2000,C,2000_Grainger.com_200,1,3,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,200,46235,running,170,185
+2000,C,2000_Grainger.com_200,2,7,99,usa,Kurt_Busch,Kurt Busch,Exide Batteries,Jack_Roush,Ford,200,30725,running,0,170
+2000,C,2000_Grainger.com_200,3,1,60,usa,Andy_Houston,Andy Houston,CAT Rental Stores,Mike_Addington,Chevrolet,200,21755,running,6,170
+2000,C,2000_Grainger.com_200,4,6,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,200,13550,running,0,160
+2000,C,2000_Grainger.com_200,5,9,1,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Bob_Keselowski,Dodge,200,14130,running,0,155
+2000,C,2000_Grainger.com_200,6,11,17,usa,Ricky_Hendrick,Ricky Hendrick,GMAC / Quaker State,Rick_Hendrick,Chevrolet,200,9700,running,0,150
+2000,C,2000_Grainger.com_200,7,16,41,usa,Randy_Renfrow,Randy Renfrow,Farris Concrete,Mike_Farris,Dodge,200,11050,running,0,146
+2000,C,2000_Grainger.com_200,8,8,3,usa,Bryan_Reffner,Bryan Reffner,Johns Manville / Menards,John_Menard,Chevrolet,200,11050,running,0,142
+2000,C,2000_Grainger.com_200,9,17,86,usa,Scott_Riggs,Scott Riggs,Royal Crown Cola,David_Hodson,Dodge,200,9625,running,0,138
+2000,C,2000_Grainger.com_200,10,32,75,usa,Marty_Houston,Marty Houston,Spears Manufacturing,Wayne_Spears,Chevrolet,200,11575,running,0,134
+2000,C,2000_Grainger.com_200,11,22,16,usa,Jimmy_Hensley,Jimmy Hensley,Mobile Max2,Ed_Rensi,Chevrolet,200,10525,running,0,130
+2000,C,2000_Grainger.com_200,12,2,25,usa,Randy_Tolsma,Randy Tolsma,Citgo Supergard,David_Hodson,Dodge,200,10190,running,24,132
+2000,C,2000_Grainger.com_200,13,12,14,usa,Rick_Crawford,Rick Crawford,Milwaukee Electric Tool,Tom_Mitchell,Ford,199,10115,running,0,124
+2000,C,2000_Grainger.com_200,14,5,73,usa,B_A_Wilson,B.A. Wilson,Sonntag Redi-Mix,Joey_Sonntag,Chevrolet,199,10065,running,0,121
+2000,C,2000_Grainger.com_200,15,26,72,canada,Randy_MacDonald,Randy MacDonald,3M / Racing Milestones,Doc_MacDonald,Chevrolet,199,10315,running,0,118
+2000,C,2000_Grainger.com_200,16,25,58,usa,Chris_Horn,Chris Horn,Hornengines.com,Fred_Horn,Chevrolet,198,8940,running,0,115
+2000,C,2000_Grainger.com_200,17,21,88,usa,Terry_Cook,Terry Cook,PickupTruck.com,Duke_Thorson,Chevrolet,198,9890,running,0,112
+2000,C,2000_Grainger.com_200,18,19,02,usa,Jim_Inglebright,Jim Inglebright,Jelly Belly,Jim_Inglebright,Chevrolet,198,8840,running,0,109
+2000,C,2000_Grainger.com_200,19,29,20,usa,Coy_Gibbs,Coy Gibbs,MBNA,Joe_Gibbs,Chevrolet,197,8790,running,0,106
+2000,C,2000_Grainger.com_200,20,10,66,usa,Rick_Carelli,Rick Carelli,Carlin Burners & Controls,Dale_Phelon,Ford,196,8990,running,0,103
+2000,C,2000_Grainger.com_200,21,18,43,usa,Steve_Grissom,Steve Grissom,Dodge Motorsports,Petty_Enterprises,Dodge,195,9715,crash,0,100
+2000,C,2000_Grainger.com_200,22,14,18,usa,Joe_Ruttman,Joe Ruttman,Dana Corporation,Bobby_Hamilton_Racing,Dodge,195,9690,running,0,97
+2000,C,2000_Grainger.com_200,23,27,00,usa,Ryan_McGlynn,Ryan McGlynn,Howes Lubricator,Raynard_McGlynn,Chevrolet,192,8665,running,0,94
+2000,C,2000_Grainger.com_200,24,30,27,usa,Andy_Genzman,Andy Genzman,Hastings Premium Filters,Mike_Albernaz,Ford,192,8640,running,0,91
+2000,C,2000_Grainger.com_200,25,31,93,usa,Wayne_Edwards_(1),Wayne Edwards,WorldBestBuy.com,Lonnie_Troxell,Chevrolet,189,8615,running,0,88
+2000,C,2000_Grainger.com_200,26,23,90,usa,Lance_Norick,Lance Norick,Aventis Behring,Ron_Norick,Chevrolet,185,9590,engine,0,85
+2000,C,2000_Grainger.com_200,27,20,9,usa,Lance_Hooper,Lance Hooper,Raynor Garage Doors,Marty_Walsh,Ford,184,8565,engine,0,82
+2000,C,2000_Grainger.com_200,28,4,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,178,9540,running,0,79
+2000,C,2000_Grainger.com_200,29,34,13,usa,Billy_Kann,Billy Kann,Interstate Batteries,Billy_Kann,Chevrolet,168,8490,running,0,76
+2000,C,2000_Grainger.com_200,30,13,12,mexico,Carlos_Contreras,Carlos Contreras,Hot Wheels,Russell_Kersh,Dodge,134,9465,crash,0,73
+2000,C,2000_Grainger.com_200,31,28,51,usa,Rick_Ware,Rick Ware,Dunlop Golf / Gart Sports,Rick_Ware,Chevrolet,132,8440,engine,0,70
+2000,C,2000_Grainger.com_200,32,24,26,usa,Jamie_McMurray,Jamie McMurray,Mittler Tool / American Trucking,Mike_Mittler,Ford,82,8415,engine,0,67
+2000,C,2000_Grainger.com_200,33,15,2,usa,Mike_Wallace,Mike Wallace,Team ASE Racing,Jim_Smith,Ford,53,9390,crash,0,64
+2000,C,2000_Grainger.com_200,34,35,05,usa,"Bobby_Hillis,_Jr","Bobby Hillis, Jr.",First Impression Press,Bobby_Hillis_Jr,Chevrolet,47,8365,carburetor,0,61
+2000,C,2000_Grainger.com_200,35,33,23,usa,Phil_Bonifield,Phil Bonifield,Red Line Oil,Tom_Mazzuchi,Chevrolet,31,8340,handling,0,58
+2000,C,2000_Sears_200,1,2,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,207,37610,running,81,180
+2000,C,2000_Sears_200,2,12,25,usa,Randy_Tolsma,Randy Tolsma,Citgo Supergard,David_Hodson,Dodge,207,29375,running,107,180
+2000,C,2000_Sears_200,3,1,18,usa,Joe_Ruttman,Joe Ruttman,Dana Corporation,Bobby_Hamilton_Racing,Dodge,207,18905,running,19,170
+2000,C,2000_Sears_200,4,8,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,207,10975,running,0,160
+2000,C,2000_Sears_200,5,3,99,usa,Kurt_Busch,Kurt Busch,Exide Batteries,Jack_Roush,Ford,207,11005,running,0,155
+2000,C,2000_Sears_200,6,16,1,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Bob_Keselowski,Dodge,207,8975,running,0,150
+2000,C,2000_Sears_200,7,5,66,usa,Rick_Carelli,Rick Carelli,Carlin Burners & Controls,Dale_Phelon,Ford,207,7275,running,0,146
+2000,C,2000_Sears_200,8,4,60,usa,Andy_Houston,Andy Houston,CAT Rental Stores,Mike_Addington,Chevrolet,206,8075,running,0,142
+2000,C,2000_Sears_200,9,7,86,usa,Scott_Riggs,Scott Riggs,Royal Crown Cola,David_Hodson,Dodge,206,7050,running,0,138
+2000,C,2000_Sears_200,10,13,3,usa,Bryan_Reffner,Bryan Reffner,Johns Manville / Menards,John_Menard,Chevrolet,205,9400,running,0,134
+2000,C,2000_Sears_200,11,10,41,usa,Randy_Renfrow,Randy Renfrow,Farris Concrete,Mike_Farris,Dodge,205,7950,running,0,130
+2000,C,2000_Sears_200,12,18,16,usa,Jimmy_Hensley,Jimmy Hensley,Mobile Max2,Ed_Rensi,Chevrolet,205,7900,running,0,127
+2000,C,2000_Sears_200,13,11,88,usa,Terry_Cook,Terry Cook,PickupTruck.com,Duke_Thorson,Chevrolet,204,7825,running,0,124
+2000,C,2000_Sears_200,14,9,14,usa,Rick_Crawford,Rick Crawford,Milwaukee Electric Tool,Tom_Mitchell,Ford,204,7775,running,0,121
+2000,C,2000_Sears_200,15,20,02,usa,Jim_Inglebright,Jim Inglebright,Jelly Belly,Jim_Inglebright,Chevrolet,204,7025,running,0,118
+2000,C,2000_Sears_200,16,6,2,usa,Mike_Wallace,Mike Wallace,Team ASE Racing,Jim_Smith,Ford,204,7675,running,0,115
+2000,C,2000_Sears_200,17,29,51,usa,Rick_Ware,Rick Ware,Dunlop Golf / Gart Sports,Rick_Ware,Chevrolet,204,6475,running,0,112
+2000,C,2000_Sears_200,18,31,27,usa,Andy_Genzman,Andy Genzman,Hastings Premium Filters,Mike_Albernaz,Ford,204,6425,running,0,109
+2000,C,2000_Sears_200,19,24,12,mexico,Carlos_Contreras,Carlos Contreras,Hot Wheels,Russell_Kersh,Dodge,203,7375,running,0,106
+2000,C,2000_Sears_200,20,19,90,usa,Lance_Norick,Lance Norick,Aventis Behring,Ron_Norick,Chevrolet,203,7575,running,0,103
+2000,C,2000_Sears_200,21,25,73,usa,B_A_Wilson,B.A. Wilson,Sonntag Redi-Mix,Joey_Sonntag,Chevrolet,203,7275,running,0,100
+2000,C,2000_Sears_200,22,23,03,usa,Steve_Prescott,Steve Prescott,EJP / Healey & Associates,Peter_Prescott,Chevrolet,202,6225,running,0,97
+2000,C,2000_Sears_200,23,21,72,canada,Randy_MacDonald,Randy MacDonald,3M,Doc_MacDonald,Chevrolet,201,7175,running,0,94
+2000,C,2000_Sears_200,24,14,62,usa,Brendan_Gaughan,Brendan Gaughan,NAPA / Martin Senour,Bill_McAnally,Chevrolet,197,6125,crash,0,91
+2000,C,2000_Sears_200,25,15,75,usa,Marty_Houston,Marty Houston,Spears Manufacturing,Wayne_Spears,Chevrolet,197,7025,running,0,88
+2000,C,2000_Sears_200,26,22,43,usa,Steve_Grissom,Steve Grissom,Dodge Motorsports,Petty_Enterprises,Dodge,186,7000,running,0,85
+2000,C,2000_Sears_200,27,17,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,138,6975,crash,0,82
+2000,C,2000_Sears_200,28,28,00,usa,Ryan_McGlynn,Ryan McGlynn,Howes Lubricator,Raynard_McGlynn,Chevrolet,89,5950,crash,0,79
+2000,C,2000_Sears_200,29,27,31,usa,John_Young,John Young,Brevak Racing,Bob_Brevak,Ford,45,5925,engine,0,76
+2000,C,2000_Sears_200,30,30,9,usa,Brian_Winters,Brian Winters,Raynor Garage Doors,Marty_Walsh,Ford,30,5900,handling,0,73
+2000,C,2000_Sears_200,31,32,23,usa,Phil_Bonifield,Phil Bonifield,Red Line Oil,Tom_Mazzuchi,Chevrolet,20,5875,transmission,0,70
+2000,C,2000_Sears_200,32,26,4,usa,Donny_Morelock,Donny Morelock,Southern Thunder,Bobby_Hamilton_Racing,Dodge,2,5850,crash,0,67
+2000,C,2000_Pronto_Auto_Parts_400K,1,1,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,167,64560,running,120,185
+2000,C,2000_Pronto_Auto_Parts_400K,2,11,2,usa,Mike_Wallace,Mike Wallace,Team ASE Racing,Jim_Smith,Ford,167,42825,running,29,175
+2000,C,2000_Pronto_Auto_Parts_400K,3,18,25,usa,Randy_Tolsma,Randy Tolsma,Citgo Supergard,David_Hodson,Dodge,167,32105,running,0,165
+2000,C,2000_Pronto_Auto_Parts_400K,4,9,60,usa,Andy_Houston,Andy Houston,CAT Rental Stores,Mike_Addington,Chevrolet,167,19975,running,3,165
+2000,C,2000_Pronto_Auto_Parts_400K,5,6,3,usa,Bryan_Reffner,Bryan Reffner,Johns Manville / Menards,John_Menard,Chevrolet,167,15455,running,9,160
+2000,C,2000_Pronto_Auto_Parts_400K,6,5,99,usa,Kurt_Busch,Kurt Busch,Exide Batteries,Jack_Roush,Ford,167,14075,running,4,155
+2000,C,2000_Pronto_Auto_Parts_400K,7,4,75,usa,Marty_Houston,Marty Houston,Spears Manufacturing,Wayne_Spears,Chevrolet,166,12925,running,0,146
+2000,C,2000_Pronto_Auto_Parts_400K,8,12,14,usa,Rick_Crawford,Rick Crawford,Milwaukee Electric Tool,Tom_Mitchell,Ford,166,11875,running,0,142
+2000,C,2000_Pronto_Auto_Parts_400K,9,16,73,usa,B_A_Wilson,B.A. Wilson,Sonntag Redi-Mix,Joey_Sonntag,Chevrolet,166,11775,running,0,138
+2000,C,2000_Pronto_Auto_Parts_400K,10,8,86,usa,Scott_Riggs,Scott Riggs,Royal Crown Cola,David_Hodson,Dodge,166,12075,running,0,134
+2000,C,2000_Pronto_Auto_Parts_400K,11,23,7,usa,David_Starr,David Starr,Chasco Contractors,John_Conely,Chevrolet,166,10575,running,0,130
+2000,C,2000_Pronto_Auto_Parts_400K,12,21,16,usa,Jimmy_Hensley,Jimmy Hensley,Mobile Max2,Ed_Rensi,Chevrolet,166,11475,running,0,127
+2000,C,2000_Pronto_Auto_Parts_400K,13,17,90,usa,Lance_Norick,Lance Norick,Aventis Behring,Ron_Norick,Chevrolet,166,10375,running,0,124
+2000,C,2000_Pronto_Auto_Parts_400K,14,7,26,usa,Jamie_McMurray,Jamie McMurray,Mittler Tool / American Trucking,Mike_Mittler,Ford,166,10275,running,0,121
+2000,C,2000_Pronto_Auto_Parts_400K,15,20,43,usa,Steve_Grissom,Steve Grissom,Dodge Motorsports,Petty_Enterprises,Dodge,166,11475,running,0,118
+2000,C,2000_Pronto_Auto_Parts_400K,16,22,58,usa,Chris_Horn,Chris Horn,Hornengines.com,Fred_Horn,Chevrolet,162,10075,running,0,115
+2000,C,2000_Pronto_Auto_Parts_400K,17,33,23,usa,Carl_Long,Carl Long,Red Line Oil,Tom_Mazzuchi,Chevrolet,161,9975,running,0,112
+2000,C,2000_Pronto_Auto_Parts_400K,18,29,51,usa,Rick_Ware,Rick Ware,Dunlop Golf / Academy Sports,Rick_Ware,Chevrolet,161,9875,running,0,109
+2000,C,2000_Pronto_Auto_Parts_400K,19,14,88,usa,Terry_Cook,Terry Cook,PickupTruck.com,Duke_Thorson,Chevrolet,160,10775,running,0,106
+2000,C,2000_Pronto_Auto_Parts_400K,20,34,12,mexico,Carlos_Contreras,Carlos Contreras,Hot Wheels,Russell_Kersh,Dodge,160,10925,running,0,103
+2000,C,2000_Pronto_Auto_Parts_400K,21,30,27,usa,Jeff_McClure,Jeff McClure,Hastings Filters / Leatherman,Mike_Albernaz,Ford,160,9550,running,0,100
+2000,C,2000_Pronto_Auto_Parts_400K,22,31,71,usa,Tommy_Croft,Tommy Croft,Rowland Racing,Stanley_Rowland,Chevrolet,160,9450,running,0,97
+2000,C,2000_Pronto_Auto_Parts_400K,23,27,93,usa,Wayne_Edwards_(1),Wayne Edwards,WorldBestBuy.com,Lonnie_Troxell,Chevrolet,159,9350,running,0,94
+2000,C,2000_Pronto_Auto_Parts_400K,24,25,38,usa,Patrick_Lawler,Patrick Lawler,Manheim Auctions of Texas,Jeff_Russell,Chevrolet,153,9250,running,0,91
+2000,C,2000_Pronto_Auto_Parts_400K,25,24,72,canada,Randy_MacDonald,Randy MacDonald,3M / TraderOnline.com,Doc_MacDonald,Chevrolet,144,10150,running,0,88
+2000,C,2000_Pronto_Auto_Parts_400K,26,13,18,usa,Joe_Ruttman,Joe Ruttman,Dana Corporation,Bobby_Hamilton_Racing,Dodge,142,10050,running,0,85
+2000,C,2000_Pronto_Auto_Parts_400K,27,28,03,usa,Joel_White,Joel White,Sonntag Redi-Mix,Joey_Sonntag,Chevrolet,141,8950,crash,0,82
+2000,C,2000_Pronto_Auto_Parts_400K,28,10,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,120,10850,crash,0,79
+2000,C,2000_Pronto_Auto_Parts_400K,29,2,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,119,9750,crash,2,81
+2000,C,2000_Pronto_Auto_Parts_400K,30,32,9,usa,Ricky_Sanders,Ricky Sanders,Raynor Garage Doors,Marty_Walsh,Ford,101,8650,rear end,0,73
+2000,C,2000_Pronto_Auto_Parts_400K,31,19,66,usa,Rick_Carelli,Rick Carelli,Carlin Burners & Controls,Dale_Phelon,Ford,100,9525,oil pump,0,70
+2000,C,2000_Pronto_Auto_Parts_400K,32,36,13,usa,Billy_Kann,Billy Kann,Interstate Batteries,Billy_Kann,Chevrolet,69,8425,electrical,0,67
+2000,C,2000_Pronto_Auto_Parts_400K,33,3,1,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Bob_Keselowski,Dodge,55,9325,engine,0,64
+2000,C,2000_Pronto_Auto_Parts_400K,34,35,00,usa,Ryan_McGlynn,Ryan McGlynn,Buyers Choice / Howes,Raynard_McGlynn,Chevrolet,46,8325,oil pump,0,61
+2000,C,2000_Pronto_Auto_Parts_400K,35,37,33,usa,Jay_Stewart,Jay Stewart,Team Nabisco,Jay_Stewart,Chevrolet,27,8325,crash,0,58
+2000,C,2000_Pronto_Auto_Parts_400K,36,26,31,usa,John_Young,John Young,Brevak Racing,Bob_Brevak,Ford,12,8325,electrical,0,55
+2000,C,2000_Pronto_Auto_Parts_400K,37,15,41,usa,Randy_Renfrow,Randy Renfrow,Farris Concrete,Mike_Farris,Dodge,7,9325,transmission,0,52
+2000,C,2000_Kroger_225,1,2,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,150,77085,running,53,185
+2000,C,2000_Kroger_225,2,4,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,150,51925,running,0,170
+2000,C,2000_Kroger_225,3,17,2,usa,Mike_Wallace,Mike Wallace,Team ASE Racing,Jim_Smith,Ford,150,37355,running,30,170
+2000,C,2000_Kroger_225,4,3,75,usa,Marty_Houston,Marty Houston,Spears Manufacturing,Wayne_Spears,Chevrolet,150,27825,running,0,160
+2000,C,2000_Kroger_225,5,1,3,usa,Bryan_Reffner,Bryan Reffner,Johns Manville / Menards,John_Menard,Chevrolet,150,23755,running,50,160
+2000,C,2000_Kroger_225,6,12,25,usa,Randy_Tolsma,Randy Tolsma,Citgo Supergard,David_Hodson,Dodge,150,18125,running,0,150
+2000,C,2000_Kroger_225,7,9,66,usa,Rick_Carelli,Rick Carelli,Carlin Burners & Controls,Dale_Phelon,Ford,150,16725,running,0,146
+2000,C,2000_Kroger_225,8,14,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,150,15575,running,0,142
+2000,C,2000_Kroger_225,9,7,60,usa,Andy_Houston,Andy Houston,CAT Rental Stores,Mike_Addington,Chevrolet,150,14575,running,0,138
+2000,C,2000_Kroger_225,10,8,14,usa,Rick_Crawford,Rick Crawford,Milwaukee Electric Tool,Tom_Mitchell,Ford,150,15375,running,0,134
+2000,C,2000_Kroger_225,11,11,90,usa,Lance_Norick,Lance Norick,Aventis Behring,Ron_Norick,Chevrolet,150,12875,running,5,135
+2000,C,2000_Kroger_225,12,33,1,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Bob_Keselowski,Dodge,150,13690,running,0,127
+2000,C,2000_Kroger_225,13,16,16,usa,Jimmy_Hensley,Jimmy Hensley,Mobile Max2,Ed_Rensi,Chevrolet,150,13590,running,0,124
+2000,C,2000_Kroger_225,14,15,73,usa,B_A_Wilson,B.A. Wilson,Sonntag Redi-Mix,Joey_Sonntag,Chevrolet,150,13490,running,0,121
+2000,C,2000_Kroger_225,15,21,7,usa,David_Starr,David Starr,Conely Engines,John_Conely,Chevrolet,150,12690,running,0,118
+2000,C,2000_Kroger_225,16,29,12,usa,Doug_George,Doug George,Hot Wheels,Russell_Kersh,Dodge,150,12190,running,0,115
+2000,C,2000_Kroger_225,17,23,26,usa,Jamie_McMurray,Jamie McMurray,Mittler Tool,Mike_Mittler,Ford,150,13090,running,0,112
+2000,C,2000_Kroger_225,18,18,43,usa,Steve_Grissom,Steve Grissom,Dodge Motorsports,Petty_Enterprises,Dodge,150,12990,running,0,109
+2000,C,2000_Kroger_225,19,27,20,usa,Coy_Gibbs,Coy Gibbs,MBNA,Joe_Gibbs,Chevrolet,149,11890,running,0,106
+2000,C,2000_Kroger_225,20,19,72,canada,Randy_MacDonald,Randy MacDonald,3M,Doc_MacDonald,Chevrolet,149,13090,running,0,103
+2000,C,2000_Kroger_225,21,30,28,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Gear Tech / Stallion Express,Tammy_Provence,Ford,148,12790,running,0,0
+2000,C,2000_Kroger_225,22,28,9,usa,Ricky_Sanders,Ricky Sanders,Trucktrix.com,Marty_Walsh,Ford,145,11740,running,0,97
+2000,C,2000_Kroger_225,23,5,86,usa,Scott_Riggs,Scott Riggs,Royal Crown Cola,David_Hodson,Dodge,144,11690,running,0,94
+2000,C,2000_Kroger_225,24,25,51,usa,Rick_Ware,Rick Ware,Dunlop Golf,Rick_Ware,Chevrolet,144,11640,running,0,91
+2000,C,2000_Kroger_225,25,13,18,usa,Joe_Ruttman,Joe Ruttman,Dana Corporation,Bobby_Hamilton_Racing,Dodge,142,12590,running,0,88
+2000,C,2000_Kroger_225,26,34,27,usa,Andy_Genzman,Andy Genzman,Hastings Filters / Leatherman,Mike_Albernaz,Ford,142,11540,running,0,85
+2000,C,2000_Kroger_225,27,22,31,usa,Stevie_Reeves,Stevie Reeves,Curb Records,Bob_Brevak,Ford,141,11490,running,0,82
+2000,C,2000_Kroger_225,28,20,41,usa,Randy_Renfrow,Randy Renfrow,Farris Concrete,Mike_Farris,Dodge,116,12390,vibration,0,79
+2000,C,2000_Kroger_225,29,32,99,usa,Kurt_Busch,Kurt Busch,Exide Batteries,Jack_Roush,Ford,111,12290,crash,12,81
+2000,C,2000_Kroger_225,30,35,00,usa,Ryan_McGlynn,Ryan McGlynn,Buyers Choice / Howes,Raynard_McGlynn,Chevrolet,108,11190,running,0,73
+2000,C,2000_Kroger_225,31,26,30,usa,Jay_Stewart,Jay Stewart,Nabisco / U-Coat-It,Howard_Bixman,Chevrolet,74,11090,running,0,70
+2000,C,2000_Kroger_225,32,31,93,usa,Wayne_Edwards_(1),Wayne Edwards,WorldBestBuy.com,Lonnie_Troxell,Chevrolet,65,10990,handling,0,67
+2000,C,2000_Kroger_225,33,36,23,usa,Phil_Bonifield,Phil Bonifield,Red Line Oil,Tom_Mazzuchi,Chevrolet,18,10890,fuel pump,0,64
+2000,C,2000_Kroger_225,34,24,89,usa,Stan_Boyd,Stan Boyd,Engineered Victories,James_Liguori,Chevrolet,12,10790,engine,0,0
+2000,C,2000_Kroger_225,35,10,88,usa,Terry_Cook,Terry Cook,PickupTruck.com,Duke_Thorson,Chevrolet,1,11690,crash,0,58
+2000,C,2000_Kroger_225,36,6,58,usa,Chris_Horn,Chris Horn,Hornengines.com,Fred_Horn,Chevrolet,1,10590,crash,0,55
+2000,C,2000_Bully_Hill_Vineyards_150,1,1,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,62,44590,running,36,185
+2000,C,2000_Bully_Hill_Vineyards_150,2,7,99,usa,Kurt_Busch,Kurt Busch,Exide Batteries,Jack_Roush,Ford,62,26455,running,7,175
+2000,C,2000_Bully_Hill_Vineyards_150,3,26,7,canada,Ron_Fellows,Ron Fellows,Bully Hill Vineyards,John_Conely,Chevrolet,62,19525,running,0,165
+2000,C,2000_Bully_Hill_Vineyards_150,4,4,2,usa,Mike_Wallace,Mike Wallace,Team ASE Racing,Jim_Smith,Ford,62,13145,running,0,160
+2000,C,2000_Bully_Hill_Vineyards_150,5,3,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,62,13575,running,4,160
+2000,C,2000_Bully_Hill_Vineyards_150,6,15,60,usa,Andy_Houston,Andy Houston,CAT Rental Stores,Mike_Addington,Chevrolet,62,11595,running,0,150
+2000,C,2000_Bully_Hill_Vineyards_150,7,8,1,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Bob_Keselowski,Dodge,62,10795,running,0,146
+2000,C,2000_Bully_Hill_Vineyards_150,8,6,12,mexico,Carlos_Contreras,Carlos Contreras,Hot Wheels,Russell_Kersh,Dodge,62,9395,running,2,147
+2000,C,2000_Bully_Hill_Vineyards_150,9,10,14,usa,Rick_Crawford,Rick Crawford,Milwaukee Electric Tool,Tom_Mitchell,Ford,62,10995,running,0,138
+2000,C,2000_Bully_Hill_Vineyards_150,10,13,25,usa,Randy_Tolsma,Randy Tolsma,Citgo Supergard,David_Hodson,Dodge,62,11295,running,0,134
+2000,C,2000_Bully_Hill_Vineyards_150,11,2,88,usa,Terry_Cook,Terry Cook,PickupTruck.com,Duke_Thorson,Chevrolet,62,9695,running,2,135
+2000,C,2000_Bully_Hill_Vineyards_150,12,18,43,usa,Steve_Grissom,Steve Grissom,Dodge Motorsports,Petty_Enterprises,Dodge,62,9645,running,0,127
+2000,C,2000_Bully_Hill_Vineyards_150,13,9,3,usa,Bryan_Reffner,Bryan Reffner,Johns Manville / Menards,John_Menard,Chevrolet,62,9595,running,0,124
+2000,C,2000_Bully_Hill_Vineyards_150,14,14,16,usa,Jimmy_Hensley,Jimmy Hensley,Mobile Max2,Ed_Rensi,Chevrolet,62,9545,running,0,121
+2000,C,2000_Bully_Hill_Vineyards_150,15,5,18,usa,Joe_Ruttman,Joe Ruttman,Dana Corporation,Bobby_Hamilton_Racing,Dodge,62,9645,running,0,118
+2000,C,2000_Bully_Hill_Vineyards_150,16,21,57,usa,Andy_Santerre,Andy Santerre,Whelen Engineering,Andy_Santerre,Ford,62,8595,running,0,115
+2000,C,2000_Bully_Hill_Vineyards_150,17,19,75,usa,Marty_Houston,Marty Houston,Spears Manufacturing,Wayne_Spears,Chevrolet,62,9395,running,10,117
+2000,C,2000_Bully_Hill_Vineyards_150,18,23,47,usa,Charles_Morgan_Jr,"Charles Morgan, Jr.",Acxiom,Charles_Morgan,Ford,62,8345,running,0,109
+2000,C,2000_Bully_Hill_Vineyards_150,19,20,10,usa,Tom_Carey_Jr,"Tom Carey, Jr.",Detroit Locker,Kevin_Banning,Dodge,61,8270,running,0,106
+2000,C,2000_Bully_Hill_Vineyards_150,20,19,72,canada,Randy_MacDonald,Randy MacDonald,3M,Doc_MacDonald,Chevrolet,61,9370,running,0,103
+2000,C,2000_Bully_Hill_Vineyards_150,21,29,41,usa,Randy_Renfrow,Randy Renfrow,Farris Concrete,Mike_Farris,Dodge,61,9045,running,0,100
+2000,C,2000_Bully_Hill_Vineyards_150,22,33,51,usa,Rick_Ware,Rick Ware,Dunlop Golf,Rick_Ware,Chevrolet,61,7995,running,0,97
+2000,C,2000_Bully_Hill_Vineyards_150,23,17,90,usa,Lance_Norick,Lance Norick,Aventis Behring,Ron_Norick,Chevrolet,61,8945,running,0,94
+2000,C,2000_Bully_Hill_Vineyards_150,24,25,86,usa,Scott_Riggs,Scott Riggs,Royal Crown Cola,David_Hodson,Dodge,60,7895,running,0,91
+2000,C,2000_Bully_Hill_Vineyards_150,25,32,9,usa,Tom_Boston,Tom Boston,Berryman Products,Marty_Walsh,Ford,57,7845,running,0,88
+2000,C,2000_Bully_Hill_Vineyards_150,26,11,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,55,8745,running,0,85
+2000,C,2000_Bully_Hill_Vineyards_150,27,34,93,usa,Wayne_Edwards_(1),Wayne Edwards,WorldBestBuy.com,Lonnie_Troxell,Chevrolet,55,7645,running,0,82
+2000,C,2000_Bully_Hill_Vineyards_150,28,28,27,usa,Jeff_Beck,Jeff Beck,Hastings Filters / Leatherman,Mike_Albernaz,Ford,53,7545,crash,1,84
+2000,C,2000_Bully_Hill_Vineyards_150,29,27,03,usa,Steve_Prescott,Steve Prescott,EJP / Healey & Associates,Peter_Prescott,Chevrolet,52,7445,running,0,76
+2000,C,2000_Bully_Hill_Vineyards_150,30,16,40,usa,Brad_Bennett,Brad Bennett,ReyBen Racing,Allen_Reyen,Chevrolet,34,7345,driveline,0,73
+2000,C,2000_Bully_Hill_Vineyards_150,31,22,20,usa,J_D_Gibbs,J.D. Gibbs,MBNA,Joe_Gibbs,Chevrolet,24,7245,crash,0,70
+2000,C,2000_Bully_Hill_Vineyards_150,32,12,66,usa,Rick_Carelli,Rick Carelli,Carlin Burners & Controls,Dale_Phelon,Ford,13,8145,crash,0,67
+2000,C,2000_Bully_Hill_Vineyards_150,33,30,73,usa,B_A_Wilson,B.A. Wilson,Sonntag Redi-Mix,Joey_Sonntag,Chevrolet,4,8045,engine,0,64
+2000,C,2000_Bully_Hill_Vineyards_150,34,31,00,usa,Ryan_McGlynn,Ryan McGlynn,Buyers Choice / Howes,Raynard_McGlynn,Chevrolet,1,6945,brakes,0,61
+2000,C,2000_Sears_DieHard_200,1,1,99,usa,Kurt_Busch,Kurt Busch,Exide Batteries,Jack_Roush,Ford,200,49835,running,156,185
+2000,C,2000_Sears_DieHard_200,2,2,25,usa,Randy_Tolsma,Randy Tolsma,Citgo Supergard,David_Hodson,Dodge,200,30500,running,5,175
+2000,C,2000_Sears_DieHard_200,3,3,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,200,21355,running,28,170
+2000,C,2000_Sears_DieHard_200,4,14,43,usa,Steve_Grissom,Steve Grissom,Dodge Motorsports,Petty_Enterprises,Dodge,200,14800,running,0,160
+2000,C,2000_Sears_DieHard_200,5,4,60,usa,Andy_Houston,Andy Houston,CAT Rental Stores,Mike_Addington,Chevrolet,200,14305,running,1,160
+2000,C,2000_Sears_DieHard_200,6,15,75,usa,Marty_Houston,Marty Houston,Spears Manufacturing,Wayne_Spears,Chevrolet,200,11375,running,6,155
+2000,C,2000_Sears_DieHard_200,7,18,90,usa,Lance_Norick,Lance Norick,Aventis Behring,Ron_Norick,Chevrolet,200,10525,running,0,146
+2000,C,2000_Sears_DieHard_200,8,10,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,200,11425,running,0,142
+2000,C,2000_Sears_DieHard_200,9,21,86,usa,Scott_Riggs,Scott Riggs,Royal Crown Cola,David_Hodson,Dodge,199,9325,running,0,138
+2000,C,2000_Sears_DieHard_200,10,9,3,usa,Bryan_Reffner,Bryan Reffner,Johns Manville / Menards,John_Menard,Chevrolet,199,11625,running,3,139
+2000,C,2000_Sears_DieHard_200,11,12,12,mexico,Carlos_Contreras,Carlos Contreras,Hot Wheels,Russell_Kersh,Dodge,199,8775,running,0,130
+2000,C,2000_Sears_DieHard_200,12,19,16,usa,Jimmy_Hensley,Jimmy Hensley,Mobile Max2,Ed_Rensi,Chevrolet,199,9675,running,0,127
+2000,C,2000_Sears_DieHard_200,13,13,66,usa,Rick_Carelli,Rick Carelli,Carlin Burners & Controls,Dale_Phelon,Ford,199,9575,running,0,124
+2000,C,2000_Sears_DieHard_200,14,8,14,usa,Rick_Crawford,Rick Crawford,Milwaukee Electric Tool,Tom_Mitchell,Ford,198,9475,running,1,126
+2000,C,2000_Sears_DieHard_200,15,22,41,usa,Randy_Renfrow,Randy Renfrow,Farris Concrete,Mike_Farris,Dodge,198,9675,running,0,118
+2000,C,2000_Sears_DieHard_200,16,16,51,usa,Michael_Dokken,Michael Dokken,Dunlop Golf / Dunhams Sports,Rick_Ware,Chevrolet,198,7925,running,0,115
+2000,C,2000_Sears_DieHard_200,17,27,45,usa,Bobby_Dotter,Bobby Dotter,People Against Drugs,Gene_Christensen,Chevrolet,198,7825,running,0,112
+2000,C,2000_Sears_DieHard_200,18,11,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,198,8775,running,0,109
+2000,C,2000_Sears_DieHard_200,19,32,27,usa,Andy_Genzman,Andy Genzman,Hastings Filters / Leatherman,Mike_Albernaz,Ford,196,7725,running,0,106
+2000,C,2000_Sears_DieHard_200,20,29,89,usa,Brad_Mueller,Brad Mueller,Milwaukee Auto Auction / Pace,Jerry_Mueller,Chevrolet,195,7925,running,0,103
+2000,C,2000_Sears_DieHard_200,21,7,88,usa,Terry_Cook,Terry Cook,PickupTruck.com,Duke_Thorson,Chevrolet,188,8625,running,0,100
+2000,C,2000_Sears_DieHard_200,22,17,2,usa,Mike_Wallace,Mike Wallace,Team ASE Racing,Jim_Smith,Ford,180,8575,crash,0,97
+2000,C,2000_Sears_DieHard_200,23,28,72,canada,Randy_MacDonald,Randy MacDonald,3M,Doc_MacDonald,Chevrolet,164,8525,running,0,94
+2000,C,2000_Sears_DieHard_200,24,5,18,usa,Joe_Ruttman,Joe Ruttman,Dana Corporation,Bobby_Hamilton_Racing,Dodge,153,8475,engine,0,91
+2000,C,2000_Sears_DieHard_200,25,33,13,usa,Billy_Kann,Billy Kann,Interstate Batteries,Billy_Kann,Chevrolet,134,7450,running,0,88
+2000,C,2000_Sears_DieHard_200,26,6,1,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Bob_Keselowski,Dodge,130,8425,engine,0,85
+2000,C,2000_Sears_DieHard_200,27,25,4,usa,Donny_Morelock,Donny Morelock,Southern Thunder,Bobby_Hamilton_Racing,Dodge,121,7400,running,0,82
+2000,C,2000_Sears_DieHard_200,28,24,20,usa,Coy_Gibbs,Coy Gibbs,MBNA,Joe_Gibbs,Chevrolet,120,7375,crash,0,79
+2000,C,2000_Sears_DieHard_200,29,31,93,usa,Wayne_Edwards_(1),Wayne Edwards,WorldBestBuy.com,Lonnie_Troxell,Chevrolet,99,7350,engine,0,76
+2000,C,2000_Sears_DieHard_200,30,26,31,usa,Stevie_Reeves,Stevie Reeves,Curb Records,Bob_Brevak,Ford,91,7325,transmission,0,73
+2000,C,2000_Sears_DieHard_200,31,23,26,usa,Jamie_McMurray,Jamie McMurray,Mittler Tool,Mike_Mittler,Ford,76,7300,engine,0,70
+2000,C,2000_Sears_DieHard_200,32,30,9,usa,Ryan_McGlynn,Ryan McGlynn,Economy Rent-a-Car,Marty_Walsh,Ford,35,7275,brakes,0,67
+2000,C,2000_Sears_DieHard_200,33,20,73,usa,B_A_Wilson,B.A. Wilson,Sonntag Redi-Mix,Joey_Sonntag,Chevrolet,33,8250,battery,0,0
+2000,C,2000_thatlook.com_200,1,5,99,usa,Kurt_Busch,Kurt Busch,Exide Batteries,Jack_Roush,Ford,204,48565,running,35,180
+2000,C,2000_thatlook.com_200,2,21,2,usa,Mike_Wallace,Mike Wallace,Team ASE Racing,Jim_Smith,Ford,204,32930,running,5,175
+2000,C,2000_thatlook.com_200,3,10,25,usa,Randy_Tolsma,Randy Tolsma,Citgo Supergard,David_Hodson,Dodge,204,26175,running,26,170
+2000,C,2000_thatlook.com_200,4,2,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,204,16695,running,19,165
+2000,C,2000_thatlook.com_200,5,6,60,usa,Andy_Houston,Andy Houston,CAT Rental Stores,Mike_Addington,Chevrolet,204,14425,running,0,155
+2000,C,2000_thatlook.com_200,6,11,86,usa,Scott_Riggs,Scott Riggs,Royal Crown Cola,David_Hodson,Dodge,204,11145,running,0,150
+2000,C,2000_thatlook.com_200,7,18,17,usa,Ricky_Hendrick,Ricky Hendrick,GMAC / Quaker State,Rick_Hendrick,Chevrolet,204,9845,running,0,146
+2000,C,2000_thatlook.com_200,8,8,51,usa,Michael_Dokken,Michael Dokken,amihealthy.com,Rick_Ware,Chevrolet,204,9795,running,0,142
+2000,C,2000_thatlook.com_200,9,3,52,usa,Ken_Schrader,Ken Schrader,Federated Auto Parts,Ken_Schrader,Chevrolet,204,12195,running,59,148
+2000,C,2000_thatlook.com_200,10,20,75,usa,Marty_Houston,Marty Houston,Spears Manufacturing,Wayne_Spears,Chevrolet,204,11545,running,5,139
+2000,C,2000_thatlook.com_200,11,30,66,usa,Rick_Carelli,Rick Carelli,Carlin Burners & Controls,Dale_Phelon,Ford,204,9345,running,0,130
+2000,C,2000_thatlook.com_200,12,1,18,usa,Joe_Ruttman,Joe Ruttman,Dana Corporation,Bobby_Hamilton_Racing,Dodge,204,10195,running,1,132
+2000,C,2000_thatlook.com_200,13,9,14,usa,Rick_Crawford,Rick Crawford,Milwaukee Electric Tool,Tom_Mitchell,Ford,203,9045,running,0,124
+2000,C,2000_thatlook.com_200,14,19,43,usa,Steve_Grissom,Steve Grissom,Dodge Motorsports,Petty_Enterprises,Dodge,203,8995,running,0,121
+2000,C,2000_thatlook.com_200,15,22,40,usa,Brad_Bennett,Brad Bennett,ReyBen Racing,Allen_Reyen,Chevrolet,202,8095,running,0,118
+2000,C,2000_thatlook.com_200,16,25,20,usa,Coy_Gibbs,Coy Gibbs,MBNA,Joe_Gibbs,Chevrolet,201,7970,running,0,115
+2000,C,2000_thatlook.com_200,17,13,88,usa,Terry_Cook,Terry Cook,PickupTruck.com,Duke_Thorson,Chevrolet,200,8745,running,0,112
+2000,C,2000_thatlook.com_200,18,31,00,usa,Ryan_McGlynn,Ryan McGlynn,Howes Lubricator,Raynard_McGlynn,Chevrolet,198,8695,running,0,109
+2000,C,2000_thatlook.com_200,19,33,93,usa,Wayne_Edwards_(1),Wayne Edwards,WorldBestBuy.com,Lonnie_Troxell,Chevrolet,197,7645,running,0,106
+2000,C,2000_thatlook.com_200,20,14,4,usa,Bobby_Hamilton,Bobby Hamilton,Dana Corporation,Bobby_Hamilton_Racing,Dodge,169,7620,vibration,54,108
+2000,C,2000_thatlook.com_200,21,26,12,mexico,Carlos_Contreras,Carlos Contreras,Hot Wheels,Russell_Kersh,Dodge,160,7395,running,0,100
+2000,C,2000_thatlook.com_200,22,28,03,usa,Steve_Prescott,Steve Prescott,EJP / Healey & Associates,Peter_Prescott,Chevrolet,150,7245,crash,0,97
+2000,C,2000_thatlook.com_200,23,15,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,148,8220,running,0,94
+2000,C,2000_thatlook.com_200,24,34,02,usa,Jim_Inglebright,Jim Inglebright,Jelly Belly,Jim_Inglebright,Chevrolet,101,7195,engine,0,91
+2000,C,2000_thatlook.com_200,25,16,10,usa,Tom_Carey_Jr,"Tom Carey, Jr.",Detroit Locker,Kevin_Banning,Dodge,101,7170,engine,0,88
+2000,C,2000_thatlook.com_200,26,29,31,canada,Robbie_Thompson,Robbie Thompson,Logel's Auto Parts,Bob_Brevak,Ford,63,7145,transmission,0,85
+2000,C,2000_thatlook.com_200,27,7,16,usa,Jimmy_Hensley,Jimmy Hensley,Mobile Max2,Ed_Rensi,Chevrolet,59,8120,crash,0,82
+2000,C,2000_thatlook.com_200,28,12,3,usa,Bryan_Reffner,Bryan Reffner,Johns Manville / Menards,John_Menard,Chevrolet,59,8095,crash,0,79
+2000,C,2000_thatlook.com_200,29,27,9,usa,Lance_Hooper,Lance Hooper,Economy Rent-a-Car,Marty_Walsh,Ford,48,7070,crash,0,76
+2000,C,2000_thatlook.com_200,30,24,72,canada,Randy_MacDonald,Randy MacDonald,3M,Doc_MacDonald,Chevrolet,45,8045,crash,0,73
+2000,C,2000_thatlook.com_200,31,32,27,usa,Andy_Genzman,Andy Genzman,Hastings Filters / Leatherman,Mike_Albernaz,Ford,40,7020,crash,0,70
+2000,C,2000_thatlook.com_200,32,17,90,usa,Lance_Norick,Lance Norick,Aventis Behring,Ron_Norick,Chevrolet,32,7995,crash,0,67
+2000,C,2000_thatlook.com_200,33,4,1,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Bob_Keselowski,Dodge,2,7970,crash,0,64
+2000,C,2000_thatlook.com_200,34,23,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,2,8945,crash,0,61
+2000,C,2000_Chevy_Silverado_200,1,19,1,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Bob_Keselowski,Dodge,200,49735,running,30,180
+2000,C,2000_Chevy_Silverado_200,2,1,18,usa,Joe_Ruttman,Joe Ruttman,Dana Corporation,Bobby_Hamilton_Racing,Dodge,200,37675,running,106,180
+2000,C,2000_Chevy_Silverado_200,3,4,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,200,22980,running,30,170
+2000,C,2000_Chevy_Silverado_200,4,7,43,usa,Steve_Grissom,Steve Grissom,Dodge Motorsports,Petty_Enterprises,Dodge,200,15350,running,2,165
+2000,C,2000_Chevy_Silverado_200,5,9,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,200,14705,running,0,155
+2000,C,2000_Chevy_Silverado_200,6,2,88,usa,Terry_Cook,Terry Cook,PickupTruck.com,Duke_Thorson,Chevrolet,200,11975,running,8,155
+2000,C,2000_Chevy_Silverado_200,7,11,16,usa,Jimmy_Hensley,Jimmy Hensley,Mobile Max2,Ed_Rensi,Chevrolet,200,11275,running,0,146
+2000,C,2000_Chevy_Silverado_200,8,3,66,usa,Rick_Carelli,Rick Carelli,Carlin Burners & Controls,Dale_Phelon,Ford,200,11225,running,0,142
+2000,C,2000_Chevy_Silverado_200,9,17,3,usa,Bryan_Reffner,Bryan Reffner,Johns Manville / Menards,John_Menard,Chevrolet,200,11150,running,0,138
+2000,C,2000_Chevy_Silverado_200,10,13,2,usa,Mike_Wallace,Mike Wallace,Team ASE Racing,Jim_Smith,Ford,199,11700,running,0,134
+2000,C,2000_Chevy_Silverado_200,11,14,60,usa,Andy_Houston,Andy Houston,CAT Rental Stores,Mike_Addington,Chevrolet,199,11850,running,0,130
+2000,C,2000_Chevy_Silverado_200,12,10,90,usa,Lance_Norick,Lance Norick,Aventis Behring,Ron_Norick,Chevrolet,199,10750,running,0,127
+2000,C,2000_Chevy_Silverado_200,13,5,14,usa,Rick_Crawford,Rick Crawford,Milwaukee Electric Tool,Tom_Mitchell,Ford,199,10700,running,19,129
+2000,C,2000_Chevy_Silverado_200,14,15,99,usa,Kurt_Busch,Kurt Busch,Exide Batteries,Jack_Roush,Ford,198,11650,running,0,121
+2000,C,2000_Chevy_Silverado_200,15,21,51,usa,Michael_Dokken,Michael Dokken,Dunlop Golf / Dunhams Sports,Rick_Ware,Chevrolet,198,9900,running,5,123
+2000,C,2000_Chevy_Silverado_200,16,24,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,198,9900,running,0,115
+2000,C,2000_Chevy_Silverado_200,17,22,00,usa,Ryan_McGlynn,Ryan McGlynn,Attorney Stephen Fendler,Raynard_McGlynn,Chevrolet,198,9850,running,0,112
+2000,C,2000_Chevy_Silverado_200,18,16,12,mexico,Carlos_Contreras,Carlos Contreras,Hot Wheels,Russell_Kersh,Dodge,197,9800,running,0,109
+2000,C,2000_Chevy_Silverado_200,19,8,75,usa,Marty_Houston,Marty Houston,Spears Manufacturing,Wayne_Spears,Chevrolet,170,9750,crash,0,106
+2000,C,2000_Chevy_Silverado_200,20,27,93,usa,Wayne_Edwards_(1),Wayne Edwards,WorldBestBuy.com,Lonnie_Troxell,Chevrolet,138,8950,crash,0,103
+2000,C,2000_Chevy_Silverado_200,21,26,4,usa,Donny_Morelock,Donny Morelock,Southern Thunder,Bobby_Hamilton_Racing,Dodge,125,8675,clutch,0,100
+2000,C,2000_Chevy_Silverado_200,22,29,9,usa,Tom_Boston,Tom Boston,Berryman Chem Tool,Marty_Walsh,Ford,85,8650,handling,0,97
+2000,C,2000_Chevy_Silverado_200,23,28,27,usa,Jeff_McClure,Jeff McClure,Hastings Premium Filters,Mike_Albernaz,Ford,72,8625,engine,0,94
+2000,C,2000_Chevy_Silverado_200,24,23,20,usa,Coy_Gibbs,Coy Gibbs,MBNA,Joe_Gibbs,Chevrolet,54,8600,engine,0,91
+2000,C,2000_Chevy_Silverado_200,25,18,10,usa,Tom_Carey_Jr,"Tom Carey, Jr.",Detroit Locker,Kevin_Banning,Dodge,47,8575,crash,0,88
+2000,C,2000_Chevy_Silverado_200,26,20,72,canada,Randy_MacDonald,Randy MacDonald,3M / Greenfield,Doc_MacDonald,Dodge,47,9550,crash,0,85
+2000,C,2000_Chevy_Silverado_200,27,6,86,usa,Scott_Riggs,Scott Riggs,Royal Crown Cola,David_Hodson,Dodge,45,8525,crash,0,82
+2000,C,2000_Chevy_Silverado_200,28,31,32,usa,Jerry_Miller_(1),Jerry Miller,Miller Brothers Garage,Jerry_Miller,Dodge,22,8500,crash,0,79
+2000,C,2000_Chevy_Silverado_200,29,25,81,usa,David_Starr,David Starr,Dunlop Golf / Dunhams Sports,Rick_Ware,Chevrolet,17,8475,vibration,0,0
+2000,C,2000_Chevy_Silverado_200,30,30,23,usa,Phil_Bonifield,Phil Bonifield,Red Line Synthetic Oil,Tom_Mazzuchi,Chevrolet,9,8450,clutch,0,73
+2000,C,2000_Chevy_Silverado_200,31,12,25,usa,Randy_Tolsma,Randy Tolsma,Citgo Supergard,David_Hodson,Dodge,4,9425,crash,0,70
+2000,C,2000_Michigan_200,1,2,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,100,52090,running,90,185
+2000,C,2000_Michigan_200,2,4,99,usa,Kurt_Busch,Kurt Busch,Exide Batteries / Tractor Supply,Jack_Roush,Ford,100,35555,running,2,175
+2000,C,2000_Michigan_200,3,3,2,usa,Mike_Wallace,Mike Wallace,Team ASE Racing,Jim_Smith,Ford,100,26950,running,2,170
+2000,C,2000_Michigan_200,4,8,60,usa,Andy_Houston,Andy Houston,CAT Rental Stores,Mike_Addington,Chevrolet,100,21570,running,5,165
+2000,C,2000_Michigan_200,5,5,1,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Bob_Keselowski,Dodge,100,19050,running,0,155
+2000,C,2000_Michigan_200,6,1,41,usa,Jamie_McMurray,Jamie McMurray,Farris Concrete,Mike_Farris,Dodge,100,15020,running,0,150
+2000,C,2000_Michigan_200,7,9,14,usa,Rick_Crawford,Rick Crawford,Milwaukee Electric Tool,Tom_Mitchell,Ford,100,14170,running,0,146
+2000,C,2000_Michigan_200,8,31,75,usa,Marty_Houston,Marty Houston,Spears Manufacturing,Wayne_Spears,Chevrolet,100,12820,running,1,147
+2000,C,2000_Michigan_200,9,12,88,usa,Terry_Cook,Terry Cook,PickupTruck.com,Duke_Thorson,Chevrolet,100,11620,running,0,138
+2000,C,2000_Michigan_200,10,13,25,usa,Randy_Tolsma,Randy Tolsma,Citgo Supergard,David_Hodson,Dodge,100,12820,running,0,134
+2000,C,2000_Michigan_200,11,10,86,usa,Scott_Riggs,Scott Riggs,Royal Crown Cola,David_Hodson,Dodge,100,10170,running,0,130
+2000,C,2000_Michigan_200,12,17,16,usa,Jimmy_Hensley,Jimmy Hensley,Mobile Max2,Ed_Rensi,Chevrolet,100,11070,running,0,127
+2000,C,2000_Michigan_200,13,15,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,99,11970,running,0,124
+2000,C,2000_Michigan_200,14,30,18,usa,Joe_Ruttman,Joe Ruttman,Dana Corporation,Bobby_Hamilton_Racing,Dodge,99,10870,running,0,121
+2000,C,2000_Michigan_200,15,7,3,usa,Bryan_Reffner,Bryan Reffner,Johns Manville / Menards,John_Menard,Chevrolet,99,11070,running,0,118
+2000,C,2000_Michigan_200,16,14,43,usa,Steve_Grissom,Steve Grissom,Dodge Motorsports,Petty_Enterprises,Dodge,99,10670,running,0,115
+2000,C,2000_Michigan_200,17,27,90,usa,Lance_Norick,Lance Norick,Aventis Behring,Ron_Norick,Chevrolet,99,10570,running,0,112
+2000,C,2000_Michigan_200,18,6,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,99,10470,running,0,109
+2000,C,2000_Michigan_200,19,26,4,usa,Donny_Morelock,Donny Morelock,Hamilton Racing,Bobby_Hamilton_Racing,Dodge,99,9370,running,0,106
+2000,C,2000_Michigan_200,20,11,12,mexico,Carlos_Contreras,Carlos Contreras,Hot Wheels,Russell_Kersh,Dodge,98,10420,running,0,103
+2000,C,2000_Michigan_200,21,28,00,usa,Ryan_McGlynn,Ryan McGlynn,Buyers Choice / Howes,Raynard_McGlynn,Chevrolet,98,9070,running,0,100
+2000,C,2000_Michigan_200,22,25,38,usa,Patrick_Lawler,Patrick Lawler,Total Turbine / Interstate Wire,Jeff_Russell,Chevrolet,98,8970,running,0,97
+2000,C,2000_Michigan_200,23,20,6,usa,Rich_Woodland_Jr,"Rich Woodland, Jr.",Woodland Racing,Richard_Woodland,Chevrolet,98,8870,running,0,94
+2000,C,2000_Michigan_200,24,24,31,usa,Stevie_Reeves,Stevie Reeves,Brevak Racing,Bob_Brevak,Ford,97,8770,running,0,91
+2000,C,2000_Michigan_200,25,29,89,usa,Stan_Boyd,Stan Boyd,Sports & Entertainment Fac. / MI's Play Park,James_Liguori,Chevrolet,97,8670,running,0,88
+2000,C,2000_Michigan_200,26,22,51,usa,Rick_Ware,Rick Ware,Dunlop Golf / Dunhams Sports,Rick_Ware,Chevrolet,97,8570,running,0,85
+2000,C,2000_Michigan_200,27,32,72,canada,Randy_MacDonald,Randy MacDonald,3M,Doc_MacDonald,Chevrolet,96,9470,running,0,82
+2000,C,2000_Michigan_200,28,16,9,usa,Lance_Hooper,Lance Hooper,Economy Rent-a-Car,Marty_Walsh,Ford,89,8370,transmission,0,79
+2000,C,2000_Michigan_200,29,21,7,usa,David_Starr,David Starr,Special Projects,John_Conely,Chevrolet,81,8270,engine,0,76
+2000,C,2000_Michigan_200,30,23,20,usa,J_D_Gibbs,J.D. Gibbs,MBNA,Joe_Gibbs,Chevrolet,73,8070,engine,0,73
+2000,C,2000_Michigan_200,31,18,66,usa,Rick_Carelli,Rick Carelli,Carlin Burners & Controls,Dale_Phelon,Ford,72,8870,running,0,70
+2000,C,2000_Michigan_200,32,19,73,usa,B_A_Wilson,B.A. Wilson,Berryman Chem Tool,Joey_Sonntag,Chevrolet,67,8770,engine,0,67
+2000,C,2000_Michigan_200,33,33,93,usa,Wayne_Edwards_(1),Wayne Edwards,WorldBestBuy.com,Lonnie_Troxell,Chevrolet,45,7670,engine,0,64
+2000,C,2000_Michigan_200,34,34,23,usa,Phil_Bonifield,Phil Bonifield,Red Line Synthetic Oil,Tom_Mazzuchi,Chevrolet,3,7570,brakes,0,61
+2000,C,2000_Power_Stroke_200,1,1,18,usa,Joe_Ruttman,Joe Ruttman,Dana Corporation,Bobby_Hamilton_Racing,Dodge,200,49615,running,152,185
+2000,C,2000_Power_Stroke_200,2,13,52,usa,Lyndon_Amick,Lyndon Amick,Penda Truck Accessories,Ken_Schrader,Chevrolet,200,25605,running,7,175
+2000,C,2000_Power_Stroke_200,3,5,41,usa,Jamie_McMurray,Jamie McMurray,Farris Concrete,Mike_Farris,Dodge,200,20350,running,0,165
+2000,C,2000_Power_Stroke_200,4,6,2,usa,Mike_Wallace,Mike Wallace,Team ASE Racing,Jim_Smith,Ford,200,13895,running,0,160
+2000,C,2000_Power_Stroke_200,5,2,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,200,14850,running,20,160
+2000,C,2000_Power_Stroke_200,6,3,99,usa,Kurt_Busch,Kurt Busch,Exide Batteries / Tractor Supply,Jack_Roush,Ford,200,10695,running,0,150
+2000,C,2000_Power_Stroke_200,7,20,1,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Bob_Keselowski,Dodge,200,10770,running,0,146
+2000,C,2000_Power_Stroke_200,8,30,3,usa,Bryan_Reffner,Bryan Reffner,Johns Manville / Menards,John_Menard,Chevrolet,200,10295,running,0,142
+2000,C,2000_Power_Stroke_200,9,17,16,usa,Jimmy_Hensley,Jimmy Hensley,Mobile Max2,Ed_Rensi,Chevrolet,200,9870,running,0,138
+2000,C,2000_Power_Stroke_200,10,18,25,usa,Randy_Tolsma,Randy Tolsma,Citgo Supergard,David_Hodson,Dodge,200,11220,running,0,134
+2000,C,2000_Power_Stroke_200,11,24,43,usa,Steve_Grissom,Steve Grissom,Dodge Motorsports,Petty_Enterprises,Dodge,200,9620,running,18,135
+2000,C,2000_Power_Stroke_200,12,9,17,usa,Ricky_Hendrick,Ricky Hendrick,GMAC / Quaker State,Rick_Hendrick,Chevrolet,200,8570,running,0,127
+2000,C,2000_Power_Stroke_200,13,19,75,usa,Marty_Houston,Marty Houston,Spears Manufacturing,Wayne_Spears,Chevrolet,200,9520,running,0,124
+2000,C,2000_Power_Stroke_200,14,26,73,usa,B_A_Wilson,B.A. Wilson,Berryman Chem Tool,Joey_Sonntag,Chevrolet,199,8470,running,0,121
+2000,C,2000_Power_Stroke_200,15,23,86,usa,Scott_Riggs,Scott Riggs,Royal Crown Cola,David_Hodson,Dodge,199,8720,running,0,118
+2000,C,2000_Power_Stroke_200,16,15,02,usa,Jim_Inglebright,Jim Inglebright,Jelly Belly,Jim_Inglebright,Chevrolet,199,8120,running,0,115
+2000,C,2000_Power_Stroke_200,17,4,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,199,10070,running,1,117
+2000,C,2000_Power_Stroke_200,18,25,90,usa,Lance_Norick,Lance Norick,Aventis Behring,Ron_Norick,Chevrolet,199,9020,running,0,109
+2000,C,2000_Power_Stroke_200,19,33,72,canada,Randy_MacDonald,Randy MacDonald,3M,Doc_MacDonald,Chevrolet,199,8970,running,0,106
+2000,C,2000_Power_Stroke_200,20,27,69,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Sprayer Parts Depot,Andy_Campbell,Chevrolet,198,8070,running,0,103
+2000,C,2000_Power_Stroke_200,21,28,7,usa,David_Starr,David Starr,Special Projects,John_Conely,Chevrolet,196,8520,running,0,100
+2000,C,2000_Power_Stroke_200,22,16,44,usa,Mark_Petty,Mark Petty,Dodge by Petty,Maurice_Petty,Dodge,196,7470,running,0,97
+2000,C,2000_Power_Stroke_200,23,34,27,usa,Jeff_Beck,Jeff Beck,Hastings Premium Filters,Mike_Albernaz,Ford,185,7420,running,0,94
+2000,C,2000_Power_Stroke_200,24,11,66,usa,Rick_Carelli,Rick Carelli,Carlin Burners & Controls,Dale_Phelon,Ford,184,8370,overheating,0,91
+2000,C,2000_Power_Stroke_200,25,22,45,usa,Jason_Small,Jason Small,People Against Drugs,Gene_Christensen,Chevrolet,182,7345,running,0,0
+2000,C,2000_Power_Stroke_200,26,10,60,usa,Andy_Houston,Andy Houston,CAT Rental Stores,Mike_Addington,Chevrolet,174,8295,crash,0,85
+2000,C,2000_Power_Stroke_200,27,32,12,mexico,Carlos_Contreras,Carlos Contreras,Hot Wheels,Russell_Kersh,Dodge,166,8270,running,0,82
+2000,C,2000_Power_Stroke_200,28,14,88,usa,Terry_Cook,Terry Cook,PickupTruck.com,Duke_Thorson,Chevrolet,165,8245,crash,2,84
+2000,C,2000_Power_Stroke_200,29,7,5,usa,Jason_Leffler,Jason Leffler,Team ASE Racing / NATEF,Jim_Smith,Ford,155,7220,engine,0,76
+2000,C,2000_Power_Stroke_200,30,29,26,usa,Tony_Roper,Tony Roper,Mittler Tool,Mike_Mittler,Ford,155,7195,overheating,0,73
+2000,C,2000_Power_Stroke_200,31,8,14,usa,Rick_Crawford,Rick Crawford,Milwaukee Electric Tool,Tom_Mitchell,Ford,144,8170,running,0,70
+2000,C,2000_Power_Stroke_200,32,12,9,usa,Lance_Hooper,Lance Hooper,Damon's Ribs and More,Marty_Walsh,Ford,130,7145,crash,0,67
+2000,C,2000_Power_Stroke_200,33,31,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,109,8120,crash,0,64
+2000,C,2000_Power_Stroke_200,34,21,51,usa,Rick_Ware,Rick Ware,Dunlop Golf / Dunhams Sports,Rick_Ware,Chevrolet,27,7095,crash,0,61
+2000,C,2000_Federated_Auto_Parts_250,1,7,25,usa,Randy_Tolsma,Randy Tolsma,Citgo Supergard,David_Hodson,Dodge,250,44585,running,102,180
+2000,C,2000_Federated_Auto_Parts_250,2,17,1,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Bob_Keselowski,Dodge,250,26955,running,0,170
+2000,C,2000_Federated_Auto_Parts_250,3,8,84,usa,Chad_Chaffin,Chad Chaffin,Romeo Guest Associates,Robert_Long,Ford,250,17725,running,0,165
+2000,C,2000_Federated_Auto_Parts_250,4,20,18,usa,Joe_Ruttman,Joe Ruttman,Dana Corporation,Bobby_Hamilton_Racing,Dodge,250,11350,running,0,160
+2000,C,2000_Federated_Auto_Parts_250,5,14,43,usa,Steve_Grissom,Steve Grissom,Dodge Motorsports,Petty_Enterprises,Dodge,250,10680,running,0,155
+2000,C,2000_Federated_Auto_Parts_250,6,5,60,usa,Andy_Houston,Andy Houston,CAT Rental Stores,Mike_Addington,Chevrolet,250,9295,running,0,150
+2000,C,2000_Federated_Auto_Parts_250,7,3,86,usa,Scott_Riggs,Scott Riggs,Royal Crown Cola,David_Hodson,Dodge,250,9295,running,0,146
+2000,C,2000_Federated_Auto_Parts_250,8,10,3,usa,Bryan_Reffner,Bryan Reffner,Johns Manville / Menards,John_Menard,Chevrolet,250,8245,running,0,142
+2000,C,2000_Federated_Auto_Parts_250,9,18,17,usa,Ricky_Hendrick,Ricky Hendrick,GMAC / Quaker State,Rick_Hendrick,Chevrolet,249,7145,running,0,138
+2000,C,2000_Federated_Auto_Parts_250,10,30,14,usa,Rick_Crawford,Rick Crawford,Milwaukee Electric Tool,Tom_Mitchell,Ford,249,9020,running,0,134
+2000,C,2000_Federated_Auto_Parts_250,11,9,88,usa,Terry_Cook,Terry Cook,PickupTruck.com,Duke_Thorson,Chevrolet,249,7895,running,0,130
+2000,C,2000_Federated_Auto_Parts_250,12,12,99,usa,Kurt_Busch,Kurt Busch,Exide Batteries / Tractor Supply,Jack_Roush,Ford,249,7870,running,0,127
+2000,C,2000_Federated_Auto_Parts_250,13,4,2,usa,Mike_Wallace,Mike Wallace,Team ASE Racing,Jim_Smith,Ford,248,7795,running,0,124
+2000,C,2000_Federated_Auto_Parts_250,14,23,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,248,7720,running,0,121
+2000,C,2000_Federated_Auto_Parts_250,15,26,90,usa,Lance_Norick,Lance Norick,Aventis Behring,Ron_Norick,Chevrolet,248,7995,running,0,118
+2000,C,2000_Federated_Auto_Parts_250,16,24,48,usa,Coy_Gibbs,Coy Gibbs,MBNA,Joe_Gibbs,Chevrolet,247,6595,running,0,115
+2000,C,2000_Federated_Auto_Parts_250,17,6,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,246,7545,running,0,112
+2000,C,2000_Federated_Auto_Parts_250,18,13,75,usa,Marty_Houston,Marty Houston,Spears Manufacturing,Wayne_Spears,Chevrolet,245,7495,running,0,109
+2000,C,2000_Federated_Auto_Parts_250,19,32,12,mexico,Carlos_Contreras,Carlos Contreras,Hot Wheels,Russell_Kersh,Dodge,244,7445,running,0,106
+2000,C,2000_Federated_Auto_Parts_250,20,28,8,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Stallion Express / Gear Tech,Tammy_Provence,Ford,244,6845,running,0,103
+2000,C,2000_Federated_Auto_Parts_250,21,34,51,usa,Rick_Ware,Rick Ware,Dunlop Golf / Pro Discount Golf,Rick_Ware,Chevrolet,241,5975,running,0,100
+2000,C,2000_Federated_Auto_Parts_250,22,33,9,canada,Jason_Thom,Jason Thom,Federated Auto Parts / Hastings,Marty_Walsh,Ford,229,5920,running,0,97
+2000,C,2000_Federated_Auto_Parts_250,23,11,66,usa,Rick_Carelli,Rick Carelli,Carlin Burners / R.E. Phelon,Dale_Phelon,Ford,208,6870,engine,0,94
+2000,C,2000_Federated_Auto_Parts_250,24,19,20,usa,J_D_Gibbs,J.D. Gibbs,MBNA,Joe_Gibbs,Chevrolet,193,5820,crash,0,91
+2000,C,2000_Federated_Auto_Parts_250,25,1,41,usa,Jamie_McMurray,Jamie McMurray,Farris Concrete,Mike_Farris,Dodge,164,6895,crash,0,88
+2000,C,2000_Federated_Auto_Parts_250,26,22,44,usa,Mark_Petty,Mark Petty,Dodge by Petty,Maurice_Petty,Dodge,163,5745,crash,0,85
+2000,C,2000_Federated_Auto_Parts_250,27,15,73,usa,B_A_Wilson,B.A. Wilson,Berryman Chem Tool,Joey_Sonntag,Chevrolet,162,6720,crash,0,82
+2000,C,2000_Federated_Auto_Parts_250,28,31,72,canada,Randy_MacDonald,Randy MacDonald,3M,Doc_MacDonald,Chevrolet,160,6695,crash,0,79
+2000,C,2000_Federated_Auto_Parts_250,29,29,16,usa,Jimmy_Hensley,Jimmy Hensley,Mobile Max2,Ed_Rensi,Chevrolet,155,6620,crash,0,76
+2000,C,2000_Federated_Auto_Parts_250,30,2,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,148,10417,engine,148,83
+2000,C,2000_Federated_Auto_Parts_250,31,27,45,usa,Bobby_Dotter,Bobby Dotter,People Against Drugs,Gene_Christensen,Chevrolet,82,5620,brakes,0,70
+2000,C,2000_Federated_Auto_Parts_250,32,25,69,usa,Morgan_Shepherd,Morgan Shepherd,Sprayer Parts Depot,Andy_Campbell,Chevrolet,56,5595,engine,0,67
+2000,C,2000_Federated_Auto_Parts_250,33,21,7,usa,David_Starr,David Starr,Special Projects,John_Conely,Chevrolet,27,5570,crash,0,64
+2000,C,2000_Federated_Auto_Parts_250,34,16,26,usa,Tony_Roper,Tony Roper,Mittler Tool,Mike_Mittler,Ford,14,5545,engine,0,61
+2000,C,2000_Sears_Craftsman_175_of_Chicago,1,1,18,usa,Joe_Ruttman,Joe Ruttman,Dana Corporation,Bobby_Hamilton_Racing,Dodge,177,49040,running,41,180
+2000,C,2000_Sears_Craftsman_175_of_Chicago,2,2,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,177,34080,running,70,180
+2000,C,2000_Sears_Craftsman_175_of_Chicago,3,5,2,usa,Mike_Wallace,Mike Wallace,Team ASE Racing,Jim_Smith,Ford,177,21875,running,33,170
+2000,C,2000_Sears_Craftsman_175_of_Chicago,4,4,60,usa,Andy_Houston,Andy Houston,CAT Rental Stores,Mike_Addington,Chevrolet,177,16620,running,2,165
+2000,C,2000_Sears_Craftsman_175_of_Chicago,5,7,66,usa,Rick_Carelli,Rick Carelli,Carlin Burners & Controls,Dale_Phelon,Ford,177,14600,running,0,155
+2000,C,2000_Sears_Craftsman_175_of_Chicago,6,20,41,usa,Jamie_McMurray,Jamie McMurray,Farris Concrete,Mike_Farris,Dodge,177,11370,running,0,150
+2000,C,2000_Sears_Craftsman_175_of_Chicago,7,9,3,usa,Bryan_Reffner,Bryan Reffner,Johns Manville / Menards,John_Menard,Chevrolet,177,11920,running,0,146
+2000,C,2000_Sears_Craftsman_175_of_Chicago,8,22,88,usa,Terry_Cook,Terry Cook,PickupTruck.com,Duke_Thorson,Chevrolet,177,11220,running,0,142
+2000,C,2000_Sears_Craftsman_175_of_Chicago,9,24,73,usa,B_A_Wilson,B.A. Wilson,Berryman Chem Tool,Joey_Sonntag,Chevrolet,177,9720,running,7,143
+2000,C,2000_Sears_Craftsman_175_of_Chicago,10,6,25,usa,Randy_Tolsma,Randy Tolsma,Citgo Supergard,David_Hodson,Dodge,177,12070,running,0,134
+2000,C,2000_Sears_Craftsman_175_of_Chicago,11,29,54,usa,Brian_Sockwell,Brian Sockwell,Team Sockwell,Dennis_Sockwell,Chevrolet,177,9470,running,0,130
+2000,C,2000_Sears_Craftsman_175_of_Chicago,12,25,10,usa,Tom_Carey_Jr,"Tom Carey, Jr.",Triple A Aircraft Supply,Kevin_Banning,Dodge,177,9420,running,0,127
+2000,C,2000_Sears_Craftsman_175_of_Chicago,13,27,20,usa,Coy_Gibbs,Coy Gibbs,MBNA,Joe_Gibbs,Chevrolet,177,9370,running,0,124
+2000,C,2000_Sears_Craftsman_175_of_Chicago,14,10,4,usa,Chad_Chaffin,Chad Chaffin,Hamilton Racing,Bobby_Hamilton_Racing,Dodge,177,9320,running,0,121
+2000,C,2000_Sears_Craftsman_175_of_Chicago,15,17,12,mexico,Carlos_Contreras,Carlos Contreras,Hot Wheels,Russell_Kersh,Dodge,177,10570,running,0,118
+2000,C,2000_Sears_Craftsman_175_of_Chicago,16,13,90,usa,Lance_Norick,Lance Norick,Aventis Behring,Ron_Norick,Chevrolet,176,10220,running,0,115
+2000,C,2000_Sears_Craftsman_175_of_Chicago,17,8,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,176,11170,running,0,112
+2000,C,2000_Sears_Craftsman_175_of_Chicago,18,23,44,usa,Mark_Petty,Mark Petty,Dodge by Petty,Maurice_Petty,Dodge,176,9120,running,0,109
+2000,C,2000_Sears_Craftsman_175_of_Chicago,19,3,99,usa,Kurt_Busch,Kurt Busch,Exide Batteries,Jack_Roush,Ford,175,10070,running,1,111
+2000,C,2000_Sears_Craftsman_175_of_Chicago,20,19,75,usa,Marty_Houston,Marty Houston,Spears Manufacturing,Wayne_Spears,Chevrolet,174,10170,running,0,103
+2000,C,2000_Sears_Craftsman_175_of_Chicago,21,31,51,usa,Rick_Ware,Rick Ware,amihealthy.com,Rick_Ware,Chevrolet,174,8870,running,0,100
+2000,C,2000_Sears_Craftsman_175_of_Chicago,22,18,32,usa,Anthony_Lazzaro,Anthony Lazzaro,Kenmore / Tide,Billy_Ballew,Ford,170,8820,running,0,97
+2000,C,2000_Sears_Craftsman_175_of_Chicago,23,12,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,169,9770,running,0,94
+2000,C,2000_Sears_Craftsman_175_of_Chicago,24,16,43,usa,Steve_Grissom,Steve Grissom,Dodge Motorsports,Petty_Enterprises,Dodge,167,9720,running,0,91
+2000,C,2000_Sears_Craftsman_175_of_Chicago,25,28,16,usa,Jimmy_Hensley,Jimmy Hensley,eLink,Ed_Rensi,Chevrolet,166,9670,crash,0,88
+2000,C,2000_Sears_Craftsman_175_of_Chicago,26,33,27,usa,Ricky_Sanders,Ricky Sanders,Hastings Premium Filters,Mike_Albernaz,Ford,164,8620,running,0,85
+2000,C,2000_Sears_Craftsman_175_of_Chicago,27,14,02,usa,Jim_Inglebright,Jim Inglebright,Jelly Belly,Jim_Inglebright,Chevrolet,154,8570,engine,0,82
+2000,C,2000_Sears_Craftsman_175_of_Chicago,28,21,14,usa,Rick_Crawford,Rick Crawford,Milwaukee Electric Tool,Tom_Mitchell,Ford,122,9520,running,0,79
+2000,C,2000_Sears_Craftsman_175_of_Chicago,29,11,1,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Bob_Keselowski,Dodge,120,9470,engine,0,76
+2000,C,2000_Sears_Craftsman_175_of_Chicago,30,26,86,usa,Scott_Riggs,Scott Riggs,Royal Crown Cola,David_Hodson,Dodge,79,9370,rear end,23,78
+2000,C,2000_Sears_Craftsman_175_of_Chicago,31,15,72,canada,Randy_MacDonald,Randy MacDonald,3M,Doc_MacDonald,Chevrolet,45,9270,engine,0,70
+2000,C,2000_Sears_Craftsman_175_of_Chicago,32,34,31,usa,Larry_Gunselman,Larry Gunselman,Daylight Hotel,Bob_Brevak,Ford,37,8170,crash,0,67
+2000,C,2000_Sears_Craftsman_175_of_Chicago,33,32,9,usa,Lance_Hooper,Lance Hooper,Raynor Garage Doors,Marty_Walsh,Ford,16,8070,oil pressure,0,64
+2000,C,2000_Sears_Craftsman_175_of_Chicago,34,30,00,usa,Ryan_McGlynn,Ryan McGlynn,Howes Lubricator,Raynard_McGlynn,Chevrolet,9,7970,crash,0,61
+2000,C,2000_Kroger_200,1,10,66,usa,Rick_Carelli,Rick Carelli,R.E. Phelon / Carlin Burners,Dale_Phelon,Ford,200,39165,running,24,180
+2000,C,2000_Kroger_200,2,5,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,200,24030,running,0,170
+2000,C,2000_Kroger_200,3,1,99,usa,Kurt_Busch,Kurt Busch,Exide Batteries,Jack_Roush,Ford,200,21825,running,102,175
+2000,C,2000_Kroger_200,4,4,18,usa,Joe_Ruttman,Joe Ruttman,Dana Corporation,Bobby_Hamilton_Racing,Dodge,200,12095,running,61,165
+2000,C,2000_Kroger_200,5,30,86,usa,Scott_Riggs,Scott Riggs,Royal Crown Cola,David_Hodson,Dodge,200,9775,running,0,155
+2000,C,2000_Kroger_200,6,17,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,200,9545,running,0,150
+2000,C,2000_Kroger_200,7,12,52,usa,Ken_Schrader,Ken Schrader,Federated Auto Parts,Ken_Schrader,Ford,200,7145,running,0,146
+2000,C,2000_Kroger_200,8,8,1,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Bob_Keselowski,Dodge,200,8245,running,6,147
+2000,C,2000_Kroger_200,9,24,43,usa,Steve_Grissom,Steve Grissom,Dodge Motorsports,Petty_Enterprises,Dodge,200,8045,running,0,138
+2000,C,2000_Kroger_200,10,16,4,usa,Bobby_Hamilton,Bobby Hamilton,Dana Corporation,Bobby_Hamilton_Racing,Dodge,200,8395,running,0,134
+2000,C,2000_Kroger_200,11,15,3,usa,Bryan_Reffner,Bryan Reffner,Johns Manville / Menards,John_Menard,Chevrolet,200,7795,running,0,130
+2000,C,2000_Kroger_200,12,3,29,usa,Hermie_Sadler,Hermie Sadler,K Automotive,Ron_Keselowski,Dodge,200,6745,running,0,127
+2000,C,2000_Kroger_200,13,23,16,usa,Jimmy_Hensley,Jimmy Hensley,eLink,Ed_Rensi,Chevrolet,200,7695,running,0,124
+2000,C,2000_Kroger_200,14,14,75,usa,Marty_Houston,Marty Houston,Spears Manufacturing,Wayne_Spears,Chevrolet,200,7645,running,0,121
+2000,C,2000_Kroger_200,15,9,2,usa,Mike_Wallace,Mike Wallace,Team ASE Racing,Jim_Smith,Ford,200,7945,running,0,118
+2000,C,2000_Kroger_200,16,19,14,usa,Rick_Crawford,Rick Crawford,Milwaukee Electric Tool,Tom_Mitchell,Ford,199,7220,running,0,115
+2000,C,2000_Kroger_200,17,26,10,usa,Tom_Carey_Jr,"Tom Carey, Jr.",AAA Aircraft Supply,Kevin_Banning,Dodge,199,6120,running,0,112
+2000,C,2000_Kroger_200,18,13,90,usa,Lance_Norick,Lance Norick,Aventis Behring,Ron_Norick,Chevrolet,199,7070,running,0,109
+2000,C,2000_Kroger_200,19,7,12,mexico,Carlos_Contreras,Carlos Contreras,Hot Wheels,Russell_Kersh,Dodge,198,7020,running,0,106
+2000,C,2000_Kroger_200,20,21,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,198,6995,running,0,103
+2000,C,2000_Kroger_200,21,28,26,usa,Tony_Roper,Tony Roper,Mittler Tool,Mike_Mittler,Ford,198,5970,running,0,100
+2000,C,2000_Kroger_200,22,25,72,canada,Randy_MacDonald,Randy MacDonald,3M,Doc_MacDonald,Chevrolet,198,6820,running,0,97
+2000,C,2000_Kroger_200,23,31,51,usa,Rick_Ware,Rick Ware,GoRVing.com / Dunlop Golf,Rick_Ware,Chevrolet,195,5795,running,0,94
+2000,C,2000_Kroger_200,24,32,9,usa,Jeff_Beck,Jeff Beck,Economy Body Shop,Marty_Walsh,Ford,195,5770,running,0,91
+2000,C,2000_Kroger_200,25,11,60,usa,Andy_Houston,Andy Houston,CAT Rental Stores,Mike_Addington,Chevrolet,195,6745,running,0,88
+2000,C,2000_Kroger_200,26,34,31,usa,Larry_Gunselman,Larry Gunselman,Brevak Racing,Bob_Brevak,Ford,194,5720,running,0,85
+2000,C,2000_Kroger_200,27,18,73,usa,B_A_Wilson,B.A. Wilson,Berryman Chem Tool,Joey_Sonntag,Chevrolet,191,6695,running,0,82
+2000,C,2000_Kroger_200,28,29,79,usa,R_D_Smith,R.D. Smith,Duragloss,Rodney_Smith,Dodge,191,5670,running,0,79
+2000,C,2000_Kroger_200,29,22,84,usa,Elliott_Sadler,Elliott Sadler,TeamFordRacing.com,Robert_Long,Ford,178,5620,engine,0,76
+2000,C,2000_Kroger_200,30,6,88,usa,Terry_Cook,Terry Cook,PickupTruck.com,Duke_Thorson,Chevrolet,167,6595,engine,0,73
+2000,C,2000_Kroger_200,31,33,27,usa,Ricky_Sanders,Ricky Sanders,Hastings Filters / Trucktrix.com,Mike_Albernaz,Ford,141,5570,rear end,0,70
+2000,C,2000_Kroger_200,32,20,41,usa,Jamie_McMurray,Jamie McMurray,Farris Concrete,Mike_Farris,Dodge,127,5545,engine,6,72
+2000,C,2000_Kroger_200,33,27,44,usa,Mark_Petty,Mark Petty,Dodge by Petty,Maurice_Petty,Dodge,113,5520,rear end,0,64
+2000,C,2000_Kroger_200,34,2,25,usa,Randy_Tolsma,Randy Tolsma,Citgo Supergard,David_Hodson,Dodge,105,6495,crash,1,66
+2000,C,2000_MBNA_e-commerce.com_200,1,1,99,usa,Kurt_Busch,Kurt Busch,Exide Batteries,Jack_Roush,Ford,203,50640,running,9,180
+2000,C,2000_MBNA_e-commerce.com_200,2,2,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,203,29005,running,7,175
+2000,C,2000_MBNA_e-commerce.com_200,3,10,14,usa,Rick_Crawford,Rick Crawford,Milwaukee Electric Tool,Tom_Mitchell,Ford,203,24350,running,0,165
+2000,C,2000_MBNA_e-commerce.com_200,4,3,60,usa,Andy_Houston,Andy Houston,CAT Rental Stores,Mike_Addington,Chevrolet,203,17720,running,10,165
+2000,C,2000_MBNA_e-commerce.com_200,5,4,52,usa,Ken_Schrader,Ken Schrader,Federated Auto Parts,Ken_Schrader,Chevrolet,203,16100,running,0,155
+2000,C,2000_MBNA_e-commerce.com_200,6,8,41,usa,Jamie_McMurray,Jamie McMurray,Farris Concrete,Mike_Farris,Dodge,203,13970,running,0,150
+2000,C,2000_MBNA_e-commerce.com_200,7,6,75,usa,Marty_Houston,Marty Houston,Spears Manufacturing,Wayne_Spears,Chevrolet,203,14770,running,0,146
+2000,C,2000_MBNA_e-commerce.com_200,8,17,66,usa,Rick_Carelli,Rick Carelli,Carlin Burners / R.E. Phelon,Dale_Phelon,Ford,203,13920,running,0,142
+2000,C,2000_MBNA_e-commerce.com_200,9,18,1,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Bob_Keselowski,Dodge,202,13420,running,0,138
+2000,C,2000_MBNA_e-commerce.com_200,10,30,12,mexico,Carlos_Contreras,Carlos Contreras,Hot Wheels,Russell_Kersh,Dodge,202,14620,running,0,134
+2000,C,2000_MBNA_e-commerce.com_200,11,20,29,usa,Hermie_Sadler,Hermie Sadler,HotJobs.com,Ron_Keselowski,Dodge,202,11870,running,9,135
+2000,C,2000_MBNA_e-commerce.com_200,12,7,2,usa,Mike_Wallace,Mike Wallace,Team ASE Racing,Jim_Smith,Ford,202,15170,running,168,137
+2000,C,2000_MBNA_e-commerce.com_200,13,24,43,usa,Steve_Grissom,Steve Grissom,Dodge Motorsports,Petty_Enterprises,Dodge,202,12570,running,0,124
+2000,C,2000_MBNA_e-commerce.com_200,14,11,88,usa,Terry_Cook,Terry Cook,PickupTruck.com,Duke_Thorson,Chevrolet,202,12470,running,0,121
+2000,C,2000_MBNA_e-commerce.com_200,15,9,19,usa,Lance_Hooper,Lance Hooper,Economy Body Shop,Marty_Walsh,Ford,201,11370,running,0,118
+2000,C,2000_MBNA_e-commerce.com_200,16,15,25,usa,Randy_Tolsma,Randy Tolsma,Citgo Supergard,David_Hodson,Dodge,201,12420,running,0,115
+2000,C,2000_MBNA_e-commerce.com_200,17,14,18,usa,Joe_Ruttman,Joe Ruttman,Dana Corporation,Bobby_Hamilton_Racing,Dodge,201,12170,running,0,112
+2000,C,2000_MBNA_e-commerce.com_200,18,22,44,usa,Mark_Petty,Mark Petty,Sambo's Tavern,Maurice_Petty,Dodge,199,11070,running,0,109
+2000,C,2000_MBNA_e-commerce.com_200,19,31,86,usa,Scott_Riggs,Scott Riggs,Royal Crown Cola,David_Hodson,Dodge,197,11970,running,0,106
+2000,C,2000_MBNA_e-commerce.com_200,20,12,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,196,11895,engine,0,103
+2000,C,2000_MBNA_e-commerce.com_200,21,23,40,usa,Brad_Bennett,Brad Bennett,ReyBen Racing,Allen_Reyen,Chevrolet,195,10670,running,0,100
+2000,C,2000_MBNA_e-commerce.com_200,22,27,72,canada,Randy_MacDonald,Randy MacDonald,3M / Greenfield,Doc_MacDonald,Dodge,195,11695,running,0,97
+2000,C,2000_MBNA_e-commerce.com_200,23,28,93,usa,Wayne_Edwards_(1),Wayne Edwards,WorldBestBuy.com,Lonnie_Troxell,Chevrolet,194,10470,running,0,94
+2000,C,2000_MBNA_e-commerce.com_200,24,34,9,usa,Jeff_Beck,Jeff Beck,Economy Rent-a-Car,Marty_Walsh,Ford,193,10370,running,0,91
+2000,C,2000_MBNA_e-commerce.com_200,25,16,17,usa,Ricky_Hendrick,Ricky Hendrick,GMAC / Quaker State,Rick_Hendrick,Chevrolet,190,10270,running,0,88
+2000,C,2000_MBNA_e-commerce.com_200,26,21,20,usa,J_D_Gibbs,J.D. Gibbs,MBNA,Joe_Gibbs,Chevrolet,173,10170,running,0,85
+2000,C,2000_MBNA_e-commerce.com_200,27,5,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,131,12070,crash,0,82
+2000,C,2000_MBNA_e-commerce.com_200,28,33,51,usa,Tom_Boston,Tom Boston,Ware Racing,Rick_Ware,Chevrolet,89,9970,crash,0,79
+2000,C,2000_MBNA_e-commerce.com_200,29,13,3,usa,Bryan_Reffner,Bryan Reffner,Johns Manville / Menards,John_Menard,Chevrolet,78,10870,engine,0,76
+2000,C,2000_MBNA_e-commerce.com_200,30,29,10,usa,Tom_Carey_Jr,"Tom Carey, Jr.",AAA Aircraft Supply,Kevin_Banning,Dodge,76,9770,crash,0,73
+2000,C,2000_MBNA_e-commerce.com_200,31,25,90,usa,Lance_Norick,Lance Norick,Victory Lane Karting,Ron_Norick,Chevrolet,76,10670,crash,0,70
+2000,C,2000_MBNA_e-commerce.com_200,32,26,16,usa,Jimmy_Hensley,Jimmy Hensley,eLink / Shure-Line Electrical,Ed_Rensi,Chevrolet,68,10620,engine,0,67
+2000,C,2000_MBNA_e-commerce.com_200,33,19,48,usa,Coy_Gibbs,Coy Gibbs,MBNA,Joe_Gibbs,Chevrolet,50,9570,crash,0,64
+2000,C,2000_MBNA_e-commerce.com_200,34,32,73,usa,B_A_Wilson,B.A. Wilson,Berryman Chem Tool,Joey_Sonntag,Chevrolet,2,9470,crash,0,61
+2000,C,2000_OReilly_400,1,1,3,usa,Bryan_Reffner,Bryan Reffner,Johns Manville / Menards,John_Menard,Chevrolet,167,70485,running,28,180
+2000,C,2000_OReilly_400,2,6,60,usa,Andy_Houston,Andy Houston,CAT Rental Stores,Mike_Addington,Chevrolet,167,41625,running,50,175
+2000,C,2000_OReilly_400,3,4,99,usa,Kurt_Busch,Kurt Busch,Exide Batteries,Jack_Roush,Ford,167,29805,running,23,170
+2000,C,2000_OReilly_400,4,17,16,usa,Jimmy_Hensley,Jimmy Hensley,eLink / Mobile Max2,Ed_Rensi,Chevrolet,167,18000,running,0,160
+2000,C,2000_OReilly_400,5,10,1,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Bob_Keselowski,Dodge,167,13505,running,0,155
+2000,C,2000_OReilly_400,6,29,14,usa,Rick_Crawford,Rick Crawford,Milwaukee Electric Tool,Tom_Mitchell,Ford,167,11100,running,0,150
+2000,C,2000_OReilly_400,7,20,25,usa,Randy_Tolsma,Randy Tolsma,Citgo Supergard,David_Hodson,Chevrolet,167,10475,running,0,146
+2000,C,2000_OReilly_400,8,8,17,usa,Ricky_Hendrick,Ricky Hendrick,GMAC / Quaker State,Rick_Hendrick,Chevrolet,167,8975,running,0,142
+2000,C,2000_OReilly_400,9,18,66,usa,Rick_Carelli,Rick Carelli,R.E. Phelon / Carlin Burners,Dale_Phelon,Ford,167,9875,running,0,138
+2000,C,2000_OReilly_400,10,16,44,usa,Mark_Petty,Mark Petty,Maurice Petty & Associates,Maurice_Petty,Dodge,167,9675,running,0,134
+2000,C,2000_OReilly_400,11,25,18,usa,Joe_Ruttman,Joe Ruttman,Dana Corporation,Bobby_Hamilton_Racing,Dodge,167,10175,running,0,130
+2000,C,2000_OReilly_400,12,2,41,usa,David_Starr,David Starr,Case Construction Equipment,Mike_Farris,Dodge,167,8490,running,6,132
+2000,C,2000_OReilly_400,13,34,51,usa,Rick_Ware,Rick Ware,Line-X Bedliners / Johnsen's,Rick_Ware,Chevrolet,164,8390,running,0,124
+2000,C,2000_OReilly_400,14,33,72,canada,Randy_MacDonald,Randy MacDonald,3M,Doc_MacDonald,Chevrolet,163,9290,running,0,121
+2000,C,2000_OReilly_400,15,31,12,mexico,Carlos_Contreras,Carlos Contreras,Hot Wheels,Russell_Kersh,Dodge,160,9490,running,0,118
+2000,C,2000_OReilly_400,16,35,27,usa,Ricky_Sanders,Ricky Sanders,Hastings Filters / Trucktrix.com,Mike_Albernaz,Ford,153,8090,running,0,115
+2000,C,2000_OReilly_400,17,9,88,usa,Terry_Cook,Terry Cook,PickupTruck.com,Duke_Thorson,Chevrolet,151,9000,running,0,112
+2000,C,2000_OReilly_400,18,24,58,usa,Chris_Horn,Chris Horn,Hornengines.com,Fred_Horn,Chevrolet,140,7915,engine,0,109
+2000,C,2000_OReilly_400,19,7,75,usa,Marty_Houston,Marty Houston,Spears Manufacturing,Wayne_Spears,Chevrolet,126,8815,running,0,106
+2000,C,2000_OReilly_400,20,32,90,usa,Lance_Norick,Lance Norick,Victory Lane Kids,Ron_Norick,Chevrolet,119,8965,running,0,103
+2000,C,2000_OReilly_400,21,12,2,usa,Mike_Wallace,Mike Wallace,Team ASE Racing,Jim_Smith,Ford,117,8615,engine,0,100
+2000,C,2000_OReilly_400,22,5,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,114,12015,crash,54,107
+2000,C,2000_OReilly_400,23,13,86,usa,Derrike_Cope,Derrike Cope,Royal Crown Cola,David_Hodson,Dodge,114,7415,crash,0,94
+2000,C,2000_OReilly_400,24,22,54,usa,Brian_Sockwell,Brian Sockwell,Team Sockwell,Dennis_Sockwell,Chevrolet,109,7315,running,0,91
+2000,C,2000_OReilly_400,25,3,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,79,8215,crash,6,93
+2000,C,2000_OReilly_400,26,26,31,usa,Larry_Gunselman,Larry Gunselman,Brevak Racing,Bob_Brevak,Ford,52,7115,engine,0,85
+2000,C,2000_OReilly_400,27,21,73,usa,B_A_Wilson,B.A. Wilson,Berryman Chem Tool,Joey_Sonntag,Chevrolet,43,8015,running,0,82
+2000,C,2000_OReilly_400,28,19,43,usa,Steve_Grissom,Steve Grissom,Dodge Motorsports,Petty_Enterprises,Dodge,40,7915,engine,0,79
+2000,C,2000_OReilly_400,29,15,26,usa,Tony_Roper,Tony Roper,Mittler Tool,Mike_Mittler,Ford,31,6815,crash,0,76
+2000,C,2000_OReilly_400,30,36,7,usa,Randy_Renfrow,Randy Renfrow,Anderson's Engine Remanufacturing,John_Conely,Chevrolet,17,6715,fatigue,0,73
+2000,C,2000_OReilly_400,31,11,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,17,7590,crash,0,70
+2000,C,2000_OReilly_400,32,28,38,usa,Patrick_Lawler,Patrick Lawler,Total Turbine / Interstate Wire,Jeff_Russell,Chevrolet,10,6590,crash,0,67
+2000,C,2000_OReilly_400,33,14,61,usa,Chad_Chaffin,Chad Chaffin,eLink / Mobile Max2,Ed_Rensi,Chevrolet,1,6590,crash,0,64
+2000,C,2000_OReilly_400,34,23,20,usa,Coy_Gibbs,Coy Gibbs,Hot Rod Magazine,Joe_Gibbs,Chevrolet,1,6590,crash,0,61
+2000,C,2000_OReilly_400,35,27,5,usa,Eric_Norris,Eric Norris,Jani-King / Ultra Wheels,Jim_Smith,Ford,1,6590,crash,0,58
+2000,C,2000_OReilly_400,36,30,71,usa,Tommy_Croft,Tommy Croft,Rowland Racing,Stanley_Rowland,Chevrolet,1,6590,crash,0,55
+2000,C,2000_Motorola_200,1,1,99,usa,Kurt_Busch,Kurt Busch,Exide Batteries,Jack_Roush,Ford,100,51435,running,20,180
+2000,C,2000_Motorola_200,2,2,60,usa,Andy_Houston,Andy Houston,CAT Rental Stores,Mike_Addington,Chevrolet,100,35865,running,34,180
+2000,C,2000_Motorola_200,3,10,18,usa,Joe_Ruttman,Joe Ruttman,Dana Corporation,Bobby_Hamilton_Racing,Dodge,100,25555,running,7,170
+2000,C,2000_Motorola_200,4,11,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,100,16880,running,0,160
+2000,C,2000_Motorola_200,5,3,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,100,15455,running,7,160
+2000,C,2000_Motorola_200,6,21,3,usa,Bryan_Reffner,Bryan Reffner,Johns Manville / Menards,John_Menard,Chevrolet,100,13150,running,30,155
+2000,C,2000_Motorola_200,7,25,29,usa,Terry_Cook,Terry Cook,Precision Gear,Ron_Keselowski,Dodge,100,12825,running,0,146
+2000,C,2000_Motorola_200,8,15,75,usa,Marty_Houston,Marty Houston,Spears Manufacturing,Wayne_Spears,Chevrolet,100,12625,running,2,147
+2000,C,2000_Motorola_200,9,17,88,usa,Matt_Crafton,Matt Crafton,PickupTruck.com,Duke_Thorson,Chevrolet,100,11325,running,0,138
+2000,C,2000_Motorola_200,10,24,16,usa,Jimmy_Hensley,Jimmy Hensley,Mobile Max2,Ed_Rensi,Chevrolet,100,13225,running,0,134
+2000,C,2000_Motorola_200,11,4,1,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Bob_Keselowski,Dodge,99,11825,running,0,130
+2000,C,2000_Motorola_200,12,6,14,usa,Rick_Crawford,Rick Crawford,Milwaukee Electric Tool,Tom_Mitchell,Ford,99,11640,running,0,127
+2000,C,2000_Motorola_200,13,29,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,99,11590,running,0,124
+2000,C,2000_Motorola_200,14,9,44,usa,Mark_Petty,Mark Petty,Maurice Petty & Associates,Maurice_Petty,Dodge,99,10340,running,0,121
+2000,C,2000_Motorola_200,15,18,02,usa,Jim_Inglebright,Jim Inglebright,Jelly Belly,Jim_Inglebright,Chevrolet,99,10540,running,0,118
+2000,C,2000_Motorola_200,16,31,31,usa,Scott_Riggs,Scott Riggs,Waterloo Industries / Galpin,Bob_Brevak,Ford,99,10965,running,0,115
+2000,C,2000_Motorola_200,17,13,52,usa,Ken_Schrader,Ken Schrader,Federated Auto Parts,Ken_Schrader,Chevrolet,99,9840,running,0,112
+2000,C,2000_Motorola_200,18,22,43,usa,Steve_Grissom,Steve Grissom,Dodge Motorsports,Petty_Enterprises,Dodge,99,10815,running,0,109
+2000,C,2000_Motorola_200,19,16,62,usa,Brendan_Gaughan,Brendan Gaughan,NAPA / Martin Senour,Bill_McAnally,Chevrolet,98,9790,running,0,106
+2000,C,2000_Motorola_200,20,7,25,usa,Randy_Tolsma,Randy Tolsma,Citgo Supergard,David_Hodson,Dodge,98,10890,running,0,103
+2000,C,2000_Motorola_200,21,5,66,usa,Rick_Carelli,Rick Carelli,Carlin Burners / R.E. Phelon,Dale_Phelon,Ford,98,10740,running,0,100
+2000,C,2000_Motorola_200,22,20,73,usa,B_A_Wilson,B.A. Wilson,Berryman Chem Tool,Joey_Sonntag,Dodge,97,9715,crash,0,97
+2000,C,2000_Motorola_200,23,27,94,usa,Ronnie_Hornaday,Ronnie Hornaday,Lucas Oil,Ron_Hornaday_Jr.,Chevrolet,97,9665,running,0,94
+2000,C,2000_Motorola_200,24,23,89,usa,Stan_Boyd,Stan Boyd,Pontiac Lake Service,James_Liguori,Chevrolet,96,9640,running,0,0
+2000,C,2000_Motorola_200,25,32,72,canada,Randy_MacDonald,Randy MacDonald,3M,Doc_MacDonald,Chevrolet,96,10640,running,0,88
+2000,C,2000_Motorola_200,26,12,12,mexico,Carlos_Contreras,Carlos Contreras,Hot Wheels,Russell_Kersh,Dodge,95,10615,running,0,85
+2000,C,2000_Motorola_200,27,26,90,usa,Lance_Norick,Lance Norick,Aventis Behring / Helixate FS,Ron_Norick,Chevrolet,95,10590,running,0,82
+2000,C,2000_Motorola_200,28,28,86,usa,Derrike_Cope,Derrike Cope,Royal Crown Cola,David_Hodson,Dodge,93,9565,suspension,0,79
+2000,C,2000_Motorola_200,29,33,20,usa,Coy_Gibbs,Coy Gibbs,Hot Rod Magazine,Joe_Gibbs,Chevrolet,93,9540,running,0,76
+2000,C,2000_Motorola_200,30,34,51,usa,Donnie_Neuenberger,Donnie Neuenberger,Line-X Bedliners,Rick_Ware,Chevrolet,91,9515,running,0,73
+2000,C,2000_Motorola_200,31,14,49,usa,Chuck_Hossfeld,Chuck Hossfeld,Roush Performance Products,Jack_Roush,Ford,77,9490,engine,0,70
+2000,C,2000_Motorola_200,32,8,2,usa,Mike_Wallace,Mike Wallace,Team ASE Racing,Jim_Smith,Ford,60,10465,engine,0,67
+2000,C,2000_Motorola_200,33,35,9,usa,Jeff_Beck,Jeff Beck,Economy Body Shop,Marty_Walsh,Ford,48,9440,engine,0,64
+2000,C,2000_Motorola_200,34,19,41,usa,David_Starr,David Starr,Case Construction Equipment,Mike_Farris,Dodge,42,9415,engine,0,61
+2000,C,2000_Motorola_200,35,30,6,usa,Rich_Woodland_Jr,"Rich Woodland, Jr.",National Cold Storage,Richard_Woodland,Chevrolet,31,9390,engine,0,58
+2000,C,2000_Motorola_200,36,36,23,usa,Phil_Bonifield,Phil Bonifield,Red Line Synthetic Oil,Tom_Mazzuchi,Chevrolet,11,9365,engine,0,55

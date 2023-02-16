@@ -1,0 +1,967 @@
+season,series_id,race_id,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
+1988,B,1988_Goody%27s_300,1,9,12,usa,Bobby_Allison,Bobby Allison,Piper Aircraft,Bobby_Allison,Buick,120,30550,running,7,180
+1988,B,1988_Goody%27s_300,2,19,15,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,120,23139,running,14,170
+1988,B,1988_Goody%27s_300,3,34,17,usa,Darrell_Waltrip,Darrell Waltrip,Exxon Superflo,Darrell_Waltrip,Chevrolet,120,20389,running,31,165
+1988,B,1988_Goody%27s_300,4,12,06,usa,Mark_Martin,Mark Martin,Carolina Ford Dealers,Bill_Davis,Ford,120,27639,running,0,0
+1988,B,1988_Goody%27s_300,5,13,32,usa,Dale_Jarrett,Dale Jarrett,Port-A-Lube,Horace_Isenhower,Oldsmobile,120,14764,running,0,155
+1988,B,1988_Goody%27s_300,6,38,28,usa,Davey_Allison,Davey Allison,Havoline,Davey_Allison,Ford,120,7750,running,1,150
+1988,B,1988_Goody%27s_300,7,26,84,usa,Mike_Alexander,Mike Alexander,Action Vans,Mike_Alexander,Buick,120,19989,running,0,146
+1988,B,1988_Goody%27s_300,8,6,7,usa,Harry_Gant,Harry Gant,Skoal,Ed_Whitaker,Buick,120,7964,running,12,142
+1988,B,1988_Goody%27s_300,9,22,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,120,13850,running,0,138
+1988,B,1988_Goody%27s_300,10,24,22,usa,Rick_Mast,Rick Mast,Great Eastern Resorts,Alan_Dillard_Jr.,Buick,120,13714,running,0,134
+1988,B,1988_Goody%27s_300,11,5,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,120,9200,running,0,130
+1988,B,1988_Goody%27s_300,12,29,30,usa,Kyle_Petty,Kyle Petty,Peak Anti-Freeze,Kyle_Petty,Ford,120,3750,running,0,0
+1988,B,1988_Goody%27s_300,13,1,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,120,4650,running,3,124
+1988,B,1988_Goody%27s_300,14,36,00,canada,Larry_Pollard,Larry Pollard,Thomas Brothers Country Hams,Howard_Thomas,Oldsmobile,120,10364,running,0,121
+1988,B,1988_Goody%27s_300,15,33,39,usa,Steve_Grissom,Steve Grissom,Automatic Curb,Wayne_Grissom,Ford,119,3225,running,0,118
+1988,B,1988_Goody%27s_300,16,40,14,usa,Ronnie_Silver,Ronnie Silver,Coors Light,Ronnie_Silver,Chevrolet,119,6950,running,0,115
+1988,B,1988_Goody%27s_300,17,11,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,118,9114,running,0,112
+1988,B,1988_Goody%27s_300,18,15,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,117,3889,running,1,109
+1988,B,1988_Goody%27s_300,19,42,3,usa,Mike_Porter,Mike Porter,Fred & Jack's Salvage,,Oldsmobile,116,5150,running,0,106
+1988,B,1988_Goody%27s_300,20,41,43,usa,Joe_Thurman,Joe Thurman,Lucky J Coal,,Pontiac,116,4800,running,0,103
+1988,B,1988_Goody%27s_300,21,43,0,usa,Dick_McCabe,Dick McCabe,Hi-Torque Engines,Dick_McCabe,Buick,114,3800,running,0,100
+1988,B,1988_Goody%27s_300,22,32,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,103,6239,crash,0,97
+1988,B,1988_Goody%27s_300,23,4,23,usa,Donnie_Allison,Donnie Allison,Collins Engineering,,Buick,103,4000,crash,0,94
+1988,B,1988_Goody%27s_300,24,2,81,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Windmere / Brendle's,Ted_Conder,Buick,103,2850,crash,0,91
+1988,B,1988_Goody%27s_300,25,18,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,103,6639,crash,0,88
+1988,B,1988_Goody%27s_300,26,27,02,usa,Kenny_Burks,Kenny Burks,Williams & Burks,J_C_Burks,Buick,103,2475,crash,0,85
+1988,B,1988_Goody%27s_300,27,3,72,usa,Rusty_Wallace,Rusty Wallace,Kodiak,Raymond_Beadle,Pontiac,102,7839,crash,30,82
+1988,B,1988_Goody%27s_300,28,17,42,usa,Elton_Sawyer,Elton Sawyer,Bill Lewis,Bill_Lewis,Chevrolet,102,4589,crash,0,79
+1988,B,1988_Goody%27s_300,29,8,34,usa,Jimmy_Spencer,Jimmy Spencer,Quick Stop Beverage,Frank_Cicci,Buick,96,2300,crash,0,76
+1988,B,1988_Goody%27s_300,30,10,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,92,7189,crash,0,73
+1988,B,1988_Goody%27s_300,31,30,1,usa,Robert_Ingram,Robert Ingram,Ingram Racing,Robert_Ingram,Buick,90,2800,crash,0,70
+1988,B,1988_Goody%27s_300,32,39,20,usa,Brett_Hearn,Brett Hearn,D & D Dismantling,,Buick,89,2150,crash,0,67
+1988,B,1988_Goody%27s_300,33,25,37,usa,Patty_Moise,Patty Moise,Crisco Butter-Flavored,Patty_Moise,Buick,89,2100,crash,0,64
+1988,B,1988_Goody%27s_300,34,28,24,usa,Glenn_Jarrett,Glenn Jarrett,Thackston's Garage,Marvin_Thackston,Ford,89,2050,crash,0,61
+1988,B,1988_Goody%27s_300,35,20,27,usa,Bosco_Lowe,Bosco Lowe,Family Storage Center,Edgar_Ryder,Pontiac,89,2600,engine,0,58
+1988,B,1988_Goody%27s_300,36,21,29,usa,Tommy_Riggins,Tommy Riggins,Centurion Auto Transport,,Buick,83,2075,clutch,0,55
+1988,B,1988_Goody%27s_300,37,16,8,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench,"Dale_Earnhardt,_Inc.",Chevrolet,64,3189,oil pan,3,52
+1988,B,1988_Goody%27s_300,38,23,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,61,2525,rear end,0,49
+1988,B,1988_Goody%27s_300,39,35,47,usa,Billy_Standridge,Billy Standridge,Standridge Auto Parts,Billy_Standridge,Chevrolet,46,1900,engine,0,46
+1988,B,1988_Goody%27s_300,40,14,75,usa,Brad_Teague,Brad Teague,Food Country USA,Charlie_Henderson,Oldsmobile,34,6514,crash,10,43
+1988,B,1988_Goody%27s_300,41,37,51,usa,Neil_Bonnett,Neil Bonnett,Valvoline,,Pontiac,31,1875,crash,0,40
+1988,B,1988_Goody%27s_300,42,31,52,usa,Ken_Schrader,Ken Schrader,Schrader Racing,Ken_Schrader,Chevrolet,30,2664,crash,0,37
+1988,B,1988_Goody%27s_300,43,44,60,usa,Dale_Shaw,Dale Shaw,Budweiser,Dale_Shaw,Pontiac,29,1875,crash,0,34
+1988,B,1988_Goody%27s_300,44,7,97,usa,Morgan_Shepherd,Morgan Shepherd,AC Spark Plugs,Morgan_Shepherd,Buick,21,4464,engine,8,31
+1988,B,1988_Mountain_Dew_400,1,9,84,usa,Mike_Alexander,Mike Alexander,Action Vans,Mike_Alexander,Buick,200,8450,running,138,180
+1988,B,1988_Mountain_Dew_400,2,6,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,200,2750,running,0,170
+1988,B,1988_Mountain_Dew_400,3,12,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,200,2850,running,0,165
+1988,B,1988_Mountain_Dew_400,4,2,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,200,850,running,56,160
+1988,B,1988_Mountain_Dew_400,5,1,32,usa,Dale_Jarrett,Dale Jarrett,Port-A-Lube,Horace_Isenhower,Oldsmobile,199,1450,running,1,155
+1988,B,1988_Mountain_Dew_400,6,3,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,199,2350,running,0,150
+1988,B,1988_Mountain_Dew_400,7,11,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,199,1800,running,0,146
+1988,B,1988_Mountain_Dew_400,8,8,8,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench,"Dale_Earnhardt,_Inc.",Chevrolet,199,600,running,0,142
+1988,B,1988_Mountain_Dew_400,9,5,00,canada,Larry_Pollard,Larry Pollard,Thomas Brothers Country Hams,Howard_Thomas,Oldsmobile,199,1700,running,0,138
+1988,B,1988_Mountain_Dew_400,10,10,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,198,900,running,5,134
+1988,B,1988_Mountain_Dew_400,11,13,7,usa,Harry_Gant,Harry Gant,Skoal,Ed_Whitaker,Buick,198,450,running,0,130
+1988,B,1988_Mountain_Dew_400,12,7,41,usa,Max_Prestwood,Max Prestwood,Custom Veneers,Max_Prestwood,Oldsmobile,198,800,running,0,127
+1988,B,1988_Mountain_Dew_400,13,20,79,usa,Bobby_Dotter,Bobby Dotter,G & G Trucking,Bob_Dotter,Buick,197,350,running,0,124
+1988,B,1988_Mountain_Dew_400,14,16,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,196,725,running,0,121
+1988,B,1988_Mountain_Dew_400,15,17,22,usa,Rick_Mast,Rick Mast,Great Eastern Resorts,Alan_Dillard_Jr.,Buick,196,700,running,0,118
+1988,B,1988_Mountain_Dew_400,16,15,34,usa,Jimmy_Spencer,Jimmy Spencer,Quick Stop Beverage,Frank_Cicci,Buick,193,270,running,0,115
+1988,B,1988_Mountain_Dew_400,17,24,76,usa,Billy_Hicks,Billy Hicks,Hicks Auto Supplies,Billy_Hicks,Oldsmobile,193,250,running,0,112
+1988,B,1988_Mountain_Dew_400,18,23,1,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,,Buick,191,230,running,0,109
+1988,B,1988_Mountain_Dew_400,19,22,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,190,625,running,0,106
+1988,B,1988_Mountain_Dew_400,20,25,56,usa,Brad_Teague,Brad Teague,Speedway Waste Disposal,Lewis_Cooper,Buick,189,1370,running,0,103
+1988,B,1988_Mountain_Dew_400,21,18,42,usa,Elton_Sawyer,Elton Sawyer,Bill Lewis,Bill_Lewis,Chevrolet,185,615,running,0,100
+1988,B,1988_Mountain_Dew_400,22,14,02,usa,Kenny_Burks,Kenny Burks,Williams & Burks,J_C_Burks,Chevrolet,182,210,running,0,97
+1988,B,1988_Mountain_Dew_400,23,19,47,usa,Billy_Standridge,Billy Standridge,Standridge Auto Parts,Billy_Standridge,Pontiac,93,205,running,0,94
+1988,B,1988_Mountain_Dew_400,24,21,97,usa,Morgan_Shepherd,Morgan Shepherd,Hydro Sports Mariner,Morgan_Shepherd,Buick,68,600,handling,0,91
+1988,B,1988_Mountain_Dew_400,25,4,07,usa,Tommy_Sigmon,Tommy Sigmon,Burke Grading & Paving,Dwight_Huffman,Oldsmobile,62,600,engine,0,88
+1988,B,1988_Goodwrench_200,1,6,06,usa,Mark_Martin,Mark Martin,Carolina Ford Dealers,Bill_Davis,Ford,197,11550,running,5,180
+1988,B,1988_Goodwrench_200,2,12,84,usa,Mike_Alexander,Mike Alexander,Action Vans,Mike_Alexander,Buick,197,7775,running,0,170
+1988,B,1988_Goodwrench_200,3,15,32,usa,Dale_Jarrett,Dale Jarrett,Port-A-Lube,Horace_Isenhower,Oldsmobile,197,3550,running,0,165
+1988,B,1988_Goodwrench_200,4,10,81,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Windmere / Brendle's,Ted_Conder,Buick,197,1875,running,0,160
+1988,B,1988_Goodwrench_200,5,2,7,usa,Harry_Gant,Harry Gant,Skoal Bandit,Ed_Whitaker,Buick,196,1900,running,37,155
+1988,B,1988_Goodwrench_200,6,3,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,196,1275,running,0,150
+1988,B,1988_Goodwrench_200,7,23,22,usa,Rick_Mast,Rick Mast,Great Eastern Resorts,Alan_Dillard_Jr.,Buick,196,4525,running,0,146
+1988,B,1988_Goodwrench_200,8,11,97,usa,Morgan_Shepherd,Morgan Shepherd,AC Spark Plugs,Morgan_Shepherd,Buick,196,1475,running,31,142
+1988,B,1988_Goodwrench_200,9,26,00,canada,Larry_Pollard,Larry Pollard,Thomas Brothers Country Hams,Howard_Thomas,Oldsmobile,196,4275,running,0,138
+1988,B,1988_Goodwrench_200,10,16,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,196,3975,running,0,134
+1988,B,1988_Goodwrench_200,11,18,34,usa,Jimmy_Spencer,Jimmy Spencer,Quick Stop Beverage,Frank_Cicci,Buick,196,1400,running,0,130
+1988,B,1988_Goodwrench_200,12,9,52,usa,Ken_Schrader,Ken Schrader,Exxon,Ken_Schrader,Chevrolet,196,520,running,0,127
+1988,B,1988_Goodwrench_200,13,29,28,usa,Davey_Allison,Davey Allison,Havoline,Davey_Allison,Ford,196,500,running,0,124
+1988,B,1988_Goodwrench_200,14,22,30,usa,Kyle_Petty,Kyle Petty,Peak Anti-Freeze,Kyle_Petty,Ford,196,470,running,0,0
+1988,B,1988_Goodwrench_200,15,25,39,usa,Steve_Grissom,Steve Grissom,Automatic Curb,Wayne_Grissom,Ford,195,465,running,0,118
+1988,B,1988_Goodwrench_200,16,35,27,usa,Bosco_Lowe,Bosco Lowe,Floor Fashion of Virginia,Edgar_Ryder,Pontiac,193,2070,running,0,115
+1988,B,1988_Goodwrench_200,17,33,31,usa,Rich_Vogler,Rich Vogler,Home Saver Chimney Liners,Bruce_Lawmaster,Ford,192,400,running,0,112
+1988,B,1988_Goodwrench_200,18,34,56,usa,Ronald_Cooper,Ronald Cooper,Speedway Waste Disposal,Lewis_Cooper,Buick,192,395,running,0,109
+1988,B,1988_Goodwrench_200,19,38,60,usa,Dale_Shaw,Dale Shaw,Budweiser,Dale_Shaw,Pontiac,193,1040,running,0,106
+1988,B,1988_Goodwrench_200,20,21,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,189,370,running,0,103
+1988,B,1988_Goodwrench_200,21,28,79,usa,Bobby_Dotter,Bobby Dotter,G & G Trucking,Bob_Dotter,Buick,187,365,running,0,100
+1988,B,1988_Goodwrench_200,22,4,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,187,1510,running,0,97
+1988,B,1988_Goodwrench_200,23,7,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,187,3155,running,0,94
+1988,B,1988_Goodwrench_200,24,27,37,usa,Patty_Moise,Patty Moise,Crisco Butter-Flavored,Patty_Moise,Buick,184,345,running,0,91
+1988,B,1988_Goodwrench_200,25,37,43,usa,Joe_Thurman,Joe Thurman,Lucky J Coal,,Pontiac,181,940,running,0,88
+1988,B,1988_Goodwrench_200,26,32,20,usa,Brett_Hearn,Brett Hearn,D & D Dismantling,,Buick,171,335,running,0,85
+1988,B,1988_Goodwrench_200,27,1,8,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench,"Dale_Earnhardt,_Inc.",Chevrolet,148,635,engine,105,82
+1988,B,1988_Goodwrench_200,28,19,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,139,935,engine,18,79
+1988,B,1988_Goodwrench_200,29,8,75,usa,Brad_Teague,Brad Teague,Food Country USA,Charlie_Henderson,Oldsmobile,123,2835,engine,1,76
+1988,B,1988_Goodwrench_200,30,13,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,106,935,crash,0,73
+1988,B,1988_Goodwrench_200,31,36,62,usa,John_Linville,John Linville,Lemon's Auto Parts,John_Linville,Pontiac,91,930,oil leak,0,70
+1988,B,1988_Goodwrench_200,32,30,47,usa,Kelly_Moore,Kelly Moore,Moore Transportation,Richard_Moore,Chevrolet,89,325,engine,0,67
+1988,B,1988_Goodwrench_200,33,31,57,usa,Joe_Harrison_(2),Joe Harrison,Harrison Racing,Joe_Harrison_(2),Buick,87,920,crash,0,64
+1988,B,1988_Goodwrench_200,34,20,29,usa,Tommy_Riggins,Tommy Riggins,Centurion Auto Transport,,Buick,85,315,oil leak,0,61
+1988,B,1988_Goodwrench_200,35,5,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,76,3650,crash,0,58
+1988,B,1988_Goodwrench_200,36,24,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,72,900,crash,0,55
+1988,B,1988_Goodwrench_200,37,14,88,usa,Bobby_Labonte,Bobby Labonte,Winner's Circle Products,Bob_Labonte,Buick,71,300,crash,0,0
+1988,B,1988_Goodwrench_200,38,17,42,usa,Elton_Sawyer,Elton Sawyer,Bill Lewis,Bill_Lewis,Chevrolet,34,900,engine,0,49
+1988,B,1988_Goodwrench_200,39,39,12,usa,Dave_Davis,Dave Davis,Davis Brothers,,Buick,1,300,engine,0,46
+1988,B,1988_Miller_Classic,1,13,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,200,12400,running,19,180
+1988,B,1988_Miller_Classic,2,4,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,200,5825,running,112,170
+1988,B,1988_Miller_Classic,3,6,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,200,3000,running,0,165
+1988,B,1988_Miller_Classic,4,21,84,usa,Mike_Alexander,Mike Alexander,Action Vans,Mike_Alexander,Buick,200,3520,running,0,160
+1988,B,1988_Miller_Classic,5,17,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,200,3365,running,0,155
+1988,B,1988_Miller_Classic,6,14,41,usa,Max_Prestwood,Max Prestwood,Custom Veneers,Max_Prestwood,Oldsmobile,199,1925,running,0,150
+1988,B,1988_Miller_Classic,7,7,22,usa,Rick_Mast,Rick Mast,Great Eastern Resorts,Alan_Dillard_Jr.,Buick,199,2980,running,0,146
+1988,B,1988_Miller_Classic,8,11,34,usa,Jimmy_Spencer,Jimmy Spencer,Quick Stop Beverage,Frank_Cicci,Buick,199,1175,running,0,142
+1988,B,1988_Miller_Classic,9,10,02,usa,Kenny_Burks,Kenny Burks,Williams & Burks,J_C_Burks,Chevrolet,199,1145,running,0,138
+1988,B,1988_Miller_Classic,10,15,00,canada,Larry_Pollard,Larry Pollard,Thomas Brothers Country Hams,Howard_Thomas,Oldsmobile,198,2865,running,0,134
+1988,B,1988_Miller_Classic,11,9,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,198,1590,running,0,130
+1988,B,1988_Miller_Classic,12,20,47,usa,Billy_Standridge,Billy Standridge,Standridge Auto Parts,Billy_Standridge,Pontiac,198,1065,running,0,127
+1988,B,1988_Miller_Classic,13,22,82,usa,Bill_Gratton,Bill Gratton,Brielle Pontiac,,Oldsmobile,198,1090,running,0,124
+1988,B,1988_Miller_Classic,14,25,1,usa,Brad_Teague,Brad Teague,Food Country USA,,Buick,197,2990,running,0,121
+1988,B,1988_Miller_Classic,15,15,07,usa,Tommy_Sigmon,Tommy Sigmon,Burke Grading & Paving,Dwight_Huffman,Oldsmobile,197,1515,running,0,118
+1988,B,1988_Miller_Classic,16,26,56,usa,Ronald_Cooper,Ronald Cooper,Speedway Waste Disposal,Lewis_Cooper,Buick,197,990,running,0,115
+1988,B,1988_Miller_Classic,17,12,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,196,945,running,0,112
+1988,B,1988_Miller_Classic,18,24,39,usa,Steve_Grissom,Steve Grissom,Automatic Curb,Wayne_Grissom,Ford,186,955,running,0,109
+1988,B,1988_Miller_Classic,19,23,76,usa,Billy_Hicks,Billy Hicks,Hicks Auto Supplies,Billy_Hicks,Oldsmobile,163,940,running,0,106
+1988,B,1988_Miller_Classic,20,2,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,122,1365,suspension,6,103
+1988,B,1988_Miller_Classic,21,3,42,usa,Elton_Sawyer,Elton Sawyer,Bill Lewis,Bill_Lewis,Chevrolet,94,1345,crash,41,100
+1988,B,1988_Miller_Classic,22,8,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,83,825,engine,0,97
+1988,B,1988_Miller_Classic,23,1,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,65,3855,engine,22,94
+1988,B,1988_Miller_Classic,24,19,79,usa,Bobby_Dotter,Bobby Dotter,G & G Trucking,Bob_Dotter,Buick,62,785,engine,0,91
+1988,B,1988_Miller_Classic,25,5,32,usa,Dale_Jarrett,Dale Jarrett,Port-A-Lube,Horace_Isenhower,Oldsmobile,50,1265,engine,0,88
+1988,B,1988_Miller_Classic,26,27,27,usa,Bosco_Lowe,Bosco Lowe,Carpet Showcase,Edgar_Ryder,Pontiac,26,1270,engine,0,85
+1988,B,1988_Miller_Classic,27,28,05,usa,Paul_Radford,Paul Radford,Shelor,,Chevrolet,14,750,crash,0,0
+1988,B,1988_Miller_Classic,28,16,64,usa,Jeff_Burton,Jeff Burton,Golden Skillet,John_Burton,Chevrolet,2,705,engine,0,79
+1988,B,1988_Country_Squire_200,1,1,15,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,147,11570,running,17,180
+1988,B,1988_Country_Squire_200,2,3,7,usa,Harry_Gant,Harry Gant,Skoal Bandit,Ed_Whitaker,Buick,147,5520,running,62,170
+1988,B,1988_Country_Squire_200,3,8,32,usa,Dale_Jarrett,Dale Jarrett,Port-A-Lube,Horace_Isenhower,Oldsmobile,147,4470,running,14,165
+1988,B,1988_Country_Squire_200,4,2,8,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench,"Dale_Earnhardt,_Inc.",Chevrolet,147,2820,running,11,160
+1988,B,1988_Country_Squire_200,5,14,81,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Windmere / Brendle's,Ted_Conder,Buick,147,2120,running,0,155
+1988,B,1988_Country_Squire_200,6,13,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,147,3745,running,6,150
+1988,B,1988_Country_Squire_200,7,21,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,147,5595,running,0,146
+1988,B,1988_Country_Squire_200,8,5,72,usa,Rusty_Wallace,Rusty Wallace,Kodiak,Raymond_Beadle,Pontiac,147,1245,running,0,142
+1988,B,1988_Country_Squire_200,9,17,06,usa,Mark_Martin,Mark Martin,Carolina Ford Dealers,Bill_Davis,Ford,146,1620,running,0,138
+1988,B,1988_Country_Squire_200,10,6,17,usa,Darrell_Waltrip,Darrell Waltrip,Exxon Superflo,Darrell_Waltrip,Chevrolet,146,970,running,0,134
+1988,B,1988_Country_Squire_200,11,18,84,usa,Mike_Alexander,Mike Alexander,Action Vans,Mike_Alexander,Buick,146,3940,running,0,130
+1988,B,1988_Country_Squire_200,12,12,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,146,3825,running,0,127
+1988,B,1988_Country_Squire_200,13,19,00,canada,Larry_Pollard,Larry Pollard,Thomas Brothers Country Hams,Howard_Thomas,Oldsmobile,146,3770,running,0,124
+1988,B,1988_Country_Squire_200,14,16,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,146,1370,running,0,121
+1988,B,1988_Country_Squire_200,15,15,52,usa,Ken_Schrader,Ken Schrader,Exxon Superflo,Ken_Schrader,Chevrolet,144,785,running,0,118
+1988,B,1988_Country_Squire_200,16,37,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,143,2185,running,0,115
+1988,B,1988_Country_Squire_200,17,31,39,usa,Steve_Grissom,Steve Grissom,Automatic Curb,Wayne_Grissom,Ford,141,1210,running,0,112
+1988,B,1988_Country_Squire_200,18,36,37,usa,Patty_Moise,Patty Moise,Crisco Butter-Flavored,Patty_Moise,Buick,140,675,running,0,109
+1988,B,1988_Country_Squire_200,19,27,47,usa,Billy_Standridge,Billy Standridge,Standridge Auto Parts,Billy_Standridge,Chevrolet,139,1125,running,0,106
+1988,B,1988_Country_Squire_200,20,24,34,usa,Jimmy_Spencer,Jimmy Spencer,Quick Stop Beverage,Frank_Cicci,Buick,135,1075,running,0,103
+1988,B,1988_Country_Squire_200,21,33,29,usa,Tommy_Riggins,Tommy Riggins,AC Delco,,Buick,135,525,running,0,100
+1988,B,1988_Country_Squire_200,22,35,20,usa,Brett_Hearn,Brett Hearn,D & D Dismantling,,Buick,131,500,running,0,0
+1988,B,1988_Country_Squire_200,23,22,42,usa,Elton_Sawyer,Elton Sawyer,Bill Lewis,Bill_Lewis,Chevrolet,130,1520,running,0,94
+1988,B,1988_Country_Squire_200,24,29,56,usa,Chuck_Bown,Chuck Bown,Skoal,Quint_Boisvert,Pontiac,122,890,crash,0,91
+1988,B,1988_Country_Squire_200,25,23,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,121,3210,crash,0,88
+1988,B,1988_Country_Squire_200,26,25,24,usa,Joe_Thurman,Joe Thurman,Thackston's Garage,Marvin_Thackston,Ford,119,1430,crash,0,85
+1988,B,1988_Country_Squire_200,27,40,60,usa,Dale_Shaw,Dale Shaw,Budweiser,Dale_Shaw,Pontiac,115,795,crash,0,82
+1988,B,1988_Country_Squire_200,28,34,07,usa,Tommy_Sigmon,Tommy Sigmon,Burke Grading & Paving,Dwight_Huffman,Chevrolet,115,1065,running,0,79
+1988,B,1988_Country_Squire_200,29,32,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,110,1060,oil line,0,76
+1988,B,1988_Country_Squire_200,30,11,12,usa,Bobby_Allison,Bobby Allison,Piper Aircraft,Bobby_Allison,Buick,106,455,engine,0,73
+1988,B,1988_Country_Squire_200,31,28,88,usa,Bobby_Labonte,Bobby Labonte,Winner's Circle Products,Bob_Labonte,Buick,105,450,running,0,0
+1988,B,1988_Country_Squire_200,32,10,97,usa,Morgan_Shepherd,Morgan Shepherd,Winner's Circle Products,Morgan_Shepherd,Buick,103,1045,transmission,37,67
+1988,B,1988_Country_Squire_200,33,20,22,usa,Rick_Mast,Rick Mast,Great Eastern Resorts,Alan_Dillard_Jr.,Buick,93,2780,engine,0,64
+1988,B,1988_Country_Squire_200,34,7,75,usa,Brad_Teague,Brad Teague,Food Country USA,Charlie_Henderson,Oldsmobile,66,2775,engine,0,61
+1988,B,1988_Country_Squire_200,35,4,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,66,420,crash,0,58
+1988,B,1988_Country_Squire_200,36,39,41,usa,Kelly_Moore,Kelly Moore,Moore Transportation,Jamie_Aube,Buick,65,420,engine,0,55
+1988,B,1988_Country_Squire_200,37,30,30,usa,Kyle_Petty,Kyle Petty,Peak Anti-Freeze,Kyle_Petty,Ford,65,420,engine,0,52
+1988,B,1988_Country_Squire_200,38,9,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,27,1020,crash,0,49
+1988,B,1988_Country_Squire_200,39,38,27,usa,Bosco_Lowe,Bosco Lowe,Family Storage Center,Edgar_Ryder,Pontiac,12,1020,engine,0,46
+1988,B,1988_Country_Squire_200,40,26,28,usa,Davey_Allison,Davey Allison,Havoline,Davey_Allison,Ford,3,420,brakes,0,43
+1988,B,1988_Budweiser_200_%28April%29,1,4,8,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench,"Dale_Earnhardt,_Inc.",Chevrolet,200,8200,running,44,180
+1988,B,1988_Budweiser_200_%28April%29,2,10,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,200,4450,running,0,170
+1988,B,1988_Budweiser_200_%28April%29,3,12,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,200,4975,running,0,165
+1988,B,1988_Budweiser_200_%28April%29,4,9,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,200,2850,running,12,160
+1988,B,1988_Budweiser_200_%28April%29,5,19,34,usa,Jimmy_Spencer,Jimmy Spencer,Quick Stop Beverage,Frank_Cicci,Buick,199,2075,running,0,155
+1988,B,1988_Budweiser_200_%28April%29,6,2,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,199,2175,running,0,150
+1988,B,1988_Budweiser_200_%28April%29,7,3,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,199,2000,running,0,146
+1988,B,1988_Budweiser_200_%28April%29,8,5,7,usa,Harry_Gant,Harry Gant,Skoal Bandit,Ed_Whitaker,Buick,198,1080,running,35,142
+1988,B,1988_Budweiser_200_%28April%29,9,15,22,usa,Rick_Mast,Rick Mast,Great Eastern Resorts,Alan_Dillard_Jr.,Buick,198,3075,running,0,138
+1988,B,1988_Budweiser_200_%28April%29,10,8,75,usa,Brad_Teague,Brad Teague,Food Country USA,Charlie_Henderson,Oldsmobile,198,2750,running,0,134
+1988,B,1988_Budweiser_200_%28April%29,11,17,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,197,2950,running,0,130
+1988,B,1988_Budweiser_200_%28April%29,12,22,00,canada,Larry_Pollard,Larry Pollard,Thomas Brothers Country Hams,Howard_Thomas,Oldsmobile,196,2875,running,0,127
+1988,B,1988_Budweiser_200_%28April%29,13,6,84,usa,Mike_Alexander,Mike Alexander,Action Vans,Mike_Alexander,Buick,196,2800,running,0,124
+1988,B,1988_Budweiser_200_%28April%29,14,1,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,195,3775,running,109,121
+1988,B,1988_Budweiser_200_%28April%29,15,23,07,usa,Tommy_Sigmon,Tommy Sigmon,Burke Grading & Paving,Dwight_Huffman,Oldsmobile,193,1550,running,0,118
+1988,B,1988_Budweiser_200_%28April%29,16,26,39,usa,Steve_Grissom,Steve Grissom,Automatic Curb,Wayne_Grissom,Ford,192,975,running,0,115
+1988,B,1988_Budweiser_200_%28April%29,17,14,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,188,1300,crash,0,112
+1988,B,1988_Budweiser_200_%28April%29,18,24,30,usa,Kyle_Petty,Kyle Petty,Peak Anti-Freeze,Kyle_Petty,Ford,187,675,running,0,109
+1988,B,1988_Budweiser_200_%28April%29,19,28,37,usa,Patty_Moise,Patty Moise,Crisco Butter-Flavored,Patty_Moise,Buick,182,650,running,0,106
+1988,B,1988_Budweiser_200_%28April%29,20,11,32,usa,Dale_Jarrett,Dale Jarrett,Port-A-Lube,Horace_Isenhower,Oldsmobile,166,1125,crash,0,103
+1988,B,1988_Budweiser_200_%28April%29,21,13,14,usa,Ronnie_Silver,Ronnie Silver,Blanton Tractor Trailer,Ronnie_Silver,Oldsmobile,157,1115,running,0,100
+1988,B,1988_Budweiser_200_%28April%29,22,20,42,usa,Elton_Sawyer,Elton Sawyer,Bill Lewis,Bill_Lewis,Chevrolet,155,1205,engine,0,97
+1988,B,1988_Budweiser_200_%28April%29,23,7,06,usa,Mark_Martin,Mark Martin,Carolina Ford Dealers,Bill_Davis,Ford,154,1095,engine,0,94
+1988,B,1988_Budweiser_200_%28April%29,24,29,79,usa,Bobby_Dotter,Bobby Dotter,G & G Trucking,Bob_Dotter,Buick,130,575,engine,0,91
+1988,B,1988_Budweiser_200_%28April%29,25,27,24,usa,Joe_Thurman,Joe Thurman,Thackston's Garage,Marvin_Thackston,Ford,127,1065,running,0,88
+1988,B,1988_Budweiser_200_%28April%29,26,21,47,usa,Billy_Standridge,Billy Standridge,Standridge Auto Parts,Billy_Standridge,Pontiac,68,555,crash,0,85
+1988,B,1988_Budweiser_200_%28April%29,27,18,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,51,545,crash,0,82
+1988,B,1988_Budweiser_200_%28April%29,28,25,02,usa,Kenny_Burks,Kenny Burks,Williams & Burks,J_C_Burks,Chevrolet,50,535,engine,0,79
+1988,B,1988_Budweiser_200_%28April%29,29,16,05,usa,Morgan_Shepherd,Morgan Shepherd,Sweeney Racing,,Chevrolet,43,1025,engine,0,76
+1988,B,1988_Budweiser_200_%28April%29,30,30,12,usa,Bobby_Allison,Bobby Allison,Piper Aircraft,Bobby_Allison,Buick,38,520,engine,0,73
+1988,B,1988_Budweiser_200_%28April%29,31,31,27,usa,Bosco_Lowe,Bosco Lowe,Zibart,Edgar_Ryder,Pontiac,1,1020,engine,0,70
+1988,B,1988_Hampton_200,1,1,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,200,7075,running,123,180
+1988,B,1988_Hampton_200,2,2,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,200,3700,running,0,170
+1988,B,1988_Hampton_200,3,5,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,200,2450,running,74,165
+1988,B,1988_Hampton_200,4,12,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,200,1375,running,2,160
+1988,B,1988_Hampton_200,5,10,00,canada,Larry_Pollard,Larry Pollard,Thomas Brothers Country Hams,Howard_Thomas,Oldsmobile,200,2025,running,0,155
+1988,B,1988_Hampton_200,6,3,42,usa,Elton_Sawyer,Elton Sawyer,Bill Lewis,Bill_Lewis,Chevrolet,200,1225,running,0,150
+1988,B,1988_Hampton_200,7,16,07,usa,Tommy_Sigmon,Tommy Sigmon,Burke Grading & Paving,Dwight_Huffman,Oldsmobile,200,1150,running,0,146
+1988,B,1988_Hampton_200,8,20,34,usa,Jimmy_Spencer,Jimmy Spencer,Quick Stop Beverage,Frank_Cicci,Buick,199,1550,running,0,142
+1988,B,1988_Hampton_200,9,9,84,usa,Mike_Alexander,Mike Alexander,Action Vans,Mike_Alexander,Buick,199,1800,running,0,138
+1988,B,1988_Hampton_200,10,8,14,usa,Ronnie_Silver,Ronnie Silver,Blanton Tractor Trailer,Ronnie_Silver,Oldsmobile,199,600,running,1,134
+1988,B,1988_Hampton_200,11,4,22,usa,Rick_Mast,Rick Mast,Great Eastern Resorts,Alan_Dillard_Jr.,Buick,199,1700,running,0,130
+1988,B,1988_Hampton_200,12,14,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,198,900,running,0,127
+1988,B,1988_Hampton_200,13,7,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,197,850,running,0,124
+1988,B,1988_Hampton_200,14,6,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,196,825,running,0,121
+1988,B,1988_Hampton_200,15,18,02,usa,Kenny_Burks,Kenny Burks,Williams & Burks,J_C_Burks,Chevrolet,196,775,running,0,118
+1988,B,1988_Hampton_200,16,15,47,usa,Billy_Standridge,Billy Standridge,Standridge Auto Parts,Billy_Standridge,Pontiac,196,720,running,0,115
+1988,B,1988_Hampton_200,17,17,39,usa,Steve_Grissom,Steve Grissom,Automatic Curb,Wayne_Grissom,Ford,195,700,running,0,112
+1988,B,1988_Hampton_200,18,21,24,usa,Joe_Thurman,Joe Thurman,Thackston's Garage,Marvin_Thackston,Ford,192,280,running,0,109
+1988,B,1988_Hampton_200,19,13,79,usa,Bobby_Dotter,Bobby Dotter,G & G Trucking,Bob_Dotter,Buick,191,675,running,0,106
+1988,B,1988_Hampton_200,20,22,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,184,670,running,0,103
+1988,B,1988_Hampton_200,21,19,56,usa,Ronald_Cooper,Ronald Cooper,Speedway Waste Disposal,Lewis_Cooper,Buick,183,265,running,0,100
+1988,B,1988_Hampton_200,22,11,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,181,1410,running,0,97
+1988,B,1988_Hampton_200,23,23,45,usa,Ed_Ferree,Ed Ferree,"Water-Soft, Inc.",Ed_Ferree,Buick,180,255,running,0,94
+1988,B,1988_Pennsylvania_300,1,12,22,usa,Rick_Mast,Rick Mast,A.G. Dillard,Alan_Dillard_Jr.,Buick,300,15725,running,27,180
+1988,B,1988_Pennsylvania_300,2,5,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,300,8350,running,85,170
+1988,B,1988_Pennsylvania_300,3,27,12,usa,Bobby_Allison,Bobby Allison,Piper Aircraft,Bobby_Allison,Buick,300,5250,running,0,165
+1988,B,1988_Pennsylvania_300,4,10,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,300,7100,running,49,160
+1988,B,1988_Pennsylvania_300,5,9,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,300,6250,running,0,155
+1988,B,1988_Pennsylvania_300,6,20,8,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench,"Dale_Earnhardt,_Inc.",Chevrolet,300,3100,running,0,150
+1988,B,1988_Pennsylvania_300,7,7,00,canada,Larry_Pollard,Larry Pollard,Thomas Brothers Country Hams,Howard_Thomas,Oldsmobile,299,5425,running,0,146
+1988,B,1988_Pennsylvania_300,8,13,34,usa,Jimmy_Spencer,Jimmy Spencer,Quick Stop Beverage,Frank_Cicci,Buick,298,3450,running,0,142
+1988,B,1988_Pennsylvania_300,9,17,39,usa,Steve_Grissom,Steve Grissom,Automatic Curb,Wayne_Grissom,Ford,298,3175,running,0,138
+1988,B,1988_Pennsylvania_300,10,3,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,298,4700,running,16,134
+1988,B,1988_Pennsylvania_300,11,28,41,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn,Allen_Avery,Buick,298,1700,running,0,130
+1988,B,1988_Pennsylvania_300,12,23,75,usa,Brad_Teague,Brad Teague,Food Country USA,Charlie_Henderson,Oldsmobile,297,2100,running,0,127
+1988,B,1988_Pennsylvania_300,13,38,72,usa,Rusty_Wallace,Rusty Wallace,Cox Wood Preserving,Raymond_Beadle,Buick,293,1400,engine,0,0
+1988,B,1988_Pennsylvania_300,14,25,24,usa,Joe_Thurman,Joe Thurman,Thackston's Garage,Marvin_Thackston,Ford,293,2425,running,0,121
+1988,B,1988_Pennsylvania_300,15,32,20,usa,Brett_Hearn,Brett Hearn,D & D Dismantling,,Buick,292,1300,running,0,118
+1988,B,1988_Pennsylvania_300,16,4,60,usa,Dale_Shaw,Dale Shaw,Budweiser,Dale_Shaw,Pontiac,291,2050,running,0,115
+1988,B,1988_Pennsylvania_300,17,30,30,usa,Dave_Lind,Dave Lind,Lind Racing,Dave_Lind,Buick,289,1250,running,0,112
+1988,B,1988_Pennsylvania_300,18,1,84,usa,Mike_Alexander,Mike Alexander,Action Vans,Mike_Alexander,Buick,280,3950,running,6,109
+1988,B,1988_Pennsylvania_300,19,11,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,262,2125,running,0,106
+1988,B,1988_Pennsylvania_300,20,15,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,256,2050,crash,0,103
+1988,B,1988_Pennsylvania_300,21,24,79,usa,Bobby_Dotter,Bobby Dotter,G & G Trucking,Bob_Dotter,Buick,233,2000,running,0,100
+1988,B,1988_Pennsylvania_300,22,14,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,224,4925,overheating,74,97
+1988,B,1988_Pennsylvania_300,23,31,81,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Windmere / Brendle's,Ted_Conder,Buick,210,1025,crash,0,94
+1988,B,1988_Pennsylvania_300,24,2,7,usa,Chuck_Bown,Chuck Bown,Skoal,Quint_Boisvert,Pontiac,209,1350,crash,12,91
+1988,B,1988_Pennsylvania_300,25,30,56,usa,Ronald_Cooper,Ronald Cooper,Speedway Waste Disposal,Lewis_Cooper,Buick,206,975,crash,0,88
+1988,B,1988_Pennsylvania_300,26,34,26,usa,Larry_Brolsma,Larry Brolsma,Brolsma Racing,Larry_Brolsma,Pontiac,190,950,running,0,85
+1988,B,1988_Pennsylvania_300,27,22,07,usa,Tommy_Sigmon,Tommy Sigmon,Burke Grading & Paving,Dwight_Huffman,Oldsmobile,154,1545,crash,0,82
+1988,B,1988_Pennsylvania_300,28,26,97,usa,Morgan_Shepherd,Morgan Shepherd,Winner's Circle Auto Parts,Morgan_Shepherd,Buick,118,940,crash,31,79
+1988,B,1988_Pennsylvania_300,29,16,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,113,1535,engine,0,76
+1988,B,1988_Pennsylvania_300,30,21,47,usa,Billy_Standridge,Billy Standridge,Standridge Auto Parts,Billy_Standridge,Pontiac,56,1530,crash,0,73
+1988,B,1988_Pennsylvania_300,31,19,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,55,1450,crash,0,70
+1988,B,1988_Pennsylvania_300,32,29,28,usa,Davey_Allison,Davey Allison,Havoline,Davey_Allison,Ford,50,845,crash,0,67
+1988,B,1988_Pennsylvania_300,33,33,52,usa,Ken_Schrader,Ken Schrader,Exxon,Ken_Schrader,Chevrolet,42,840,oil pressure,0,64
+1988,B,1988_Pennsylvania_300,34,18,42,usa,Elton_Sawyer,Elton Sawyer,Bill Lewis,Bill_Lewis,Chevrolet,35,1435,oil leak,0,61
+1988,B,1988_Pennsylvania_300,35,35,83,usa,Jeff_McClure,Jeff McClure,Cedar Hills Trucking,Jeff_McClure,Oldsmobile,20,830,engine,0,58
+1988,B,1988_Pennsylvania_300,36,6,1,usa,Pete_Silva,Pete Silva,Prescott Racing,,Pontiac,17,1175,engine,0,55
+1988,B,1988_Pennsylvania_300,37,36,32,usa,Bill_Gratton,Bill Gratton,Brielle Pontiac,,Oldsmobile,1,800,crash,0,52
+1988,B,1988_Pennsylvania_300,38,8,9,usa,Joe_Bessey,Joe Bessey,Pottle's Transportation,Joe_Bessey,Pontiac,0,800,crash,0,49
+1988,B,1988_Busch_200_%28May%29,1,3,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,200,7425,running,142,180
+1988,B,1988_Busch_200_%28May%29,2,2,84,usa,Mike_Alexander,Mike Alexander,Action Vans,Mike_Alexander,Buick,200,3200,running,7,170
+1988,B,1988_Busch_200_%28May%29,3,1,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,200,2750,running,51,165
+1988,B,1988_Busch_200_%28May%29,4,13,14,usa,Ronnie_Silver,Ronnie Silver,Blanton Tractor Trailer,Ronnie_Silver,Oldsmobile,199,975,running,0,160
+1988,B,1988_Busch_200_%28May%29,5,8,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,199,1300,running,0,155
+1988,B,1988_Busch_200_%28May%29,6,5,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,198,1225,running,0,150
+1988,B,1988_Busch_200_%28May%29,7,4,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,198,1150,running,0,146
+1988,B,1988_Busch_200_%28May%29,8,22,07,usa,Tommy_Sigmon,Tommy Sigmon,Burke Grading & Paving,Dwight_Huffman,Oldsmobile,198,1100,running,0,142
+1988,B,1988_Busch_200_%28May%29,9,25,24,usa,Joe_Thurman,Joe Thurman,Thackston's Garage,Marvin_Thackston,Ford,197,1350,running,0,138
+1988,B,1988_Busch_200_%28May%29,10,11,22,usa,Rick_Mast,Rick Mast,A.G. Dillard,Alan_Dillard_Jr.,Buick,197,1750,running,0,134
+1988,B,1988_Busch_200_%28May%29,11,12,02,usa,Kenny_Burks,Kenny Burks,Williams & Burks,J_C_Burks,Chevrolet,197,950,running,0,130
+1988,B,1988_Busch_200_%28May%29,12,19,34,usa,Jimmy_Spencer,Jimmy Spencer,Quick Stop Beverage,Frank_Cicci,Buick,196,900,running,0,127
+1988,B,1988_Busch_200_%28May%29,13,23,47,usa,Billy_Standridge,Billy Standridge,Standridge Auto Parts,Billy_Standridge,Pontiac,196,850,running,0,124
+1988,B,1988_Busch_200_%28May%29,14,14,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,195,1575,running,0,121
+1988,B,1988_Busch_200_%28May%29,15,10,42,usa,Elton_Sawyer,Elton Sawyer,Bill Lewis,Bill_Lewis,Chevrolet,194,775,running,0,118
+1988,B,1988_Busch_200_%28May%29,16,24,45,usa,Ed_Ferree,Ed Ferree,"Water-Soft, Inc.",Ed_Ferree,Buick,194,320,running,0,0
+1988,B,1988_Busch_200_%28May%29,17,9,64,usa,Jeff_Burton,Jeff Burton,Golden Skillet,John_Burton,Chevrolet,193,300,running,0,112
+1988,B,1988_Busch_200_%28May%29,18,7,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,190,680,running,0,109
+1988,B,1988_Busch_200_%28May%29,19,15,39,usa,Steve_Grissom,Steve Grissom,Automatic Curb,Wayne_Grissom,Ford,189,675,running,0,106
+1988,B,1988_Busch_200_%28May%29,20,16,56,usa,Ronald_Cooper,Ronald Cooper,Speedway Waste Disposal,Lewis_Cooper,Buick,184,270,running,0,103
+1988,B,1988_Busch_200_%28May%29,21,21,72,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,,Buick,127,665,suspension,0,100
+1988,B,1988_Busch_200_%28May%29,22,17,00,canada,Larry_Pollard,Larry Pollard,Thomas Brothers Country Hams,Howard_Thomas,Oldsmobile,56,1410,overheating,0,97
+1988,B,1988_Busch_200_%28May%29,23,6,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,45,1405,engine,0,94
+1988,B,1988_Busch_200_%28May%29,24,20,79,usa,Bobby_Dotter,Bobby Dotter,G & G Trucking,Bob_Dotter,Buick,20,650,rear end,0,91
+1988,B,1988_Busch_200_%28May%29,25,18,8,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench,"Dale_Earnhardt,_Inc.",Chevrolet,8,650,crash,0,88
+1988,B,1988_CarQuest_200,1,12,17,usa,Darrell_Waltrip,Darrell Waltrip,Exxon Superflo,Darrell_Waltrip,Chevrolet,200,6300,running,88,180
+1988,B,1988_CarQuest_200,2,2,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,199,4150,running,0,170
+1988,B,1988_CarQuest_200,3,8,34,usa,Jimmy_Spencer,Jimmy Spencer,Quick Stop Beverage,Frank_Cicci,Buick,199,1975,running,31,165
+1988,B,1988_CarQuest_200,4,1,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,199,3625,running,39,160
+1988,B,1988_CarQuest_200,5,5,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,199,1500,running,0,155
+1988,B,1988_CarQuest_200,6,17,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,198,2675,running,0,150
+1988,B,1988_CarQuest_200,7,11,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,198,1350,running,24,146
+1988,B,1988_CarQuest_200,8,19,14,usa,Ronnie_Silver,Ronnie Silver,Blanton Tractor Trailer,Ronnie_Silver,Oldsmobile,198,800,running,0,142
+1988,B,1988_CarQuest_200,9,10,84,usa,Mike_Alexander,Mike Alexander,Action Vans,Mike_Alexander,Buick,198,2500,running,0,138
+1988,B,1988_CarQuest_200,10,13,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,198,1200,running,0,134
+1988,B,1988_CarQuest_200,11,21,07,usa,Tommy_Sigmon,Tommy Sigmon,Burke Grading & Paving,Dwight_Huffman,Oldsmobile,196,1150,running,0,130
+1988,B,1988_CarQuest_200,12,18,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,196,1100,running,0,127
+1988,B,1988_CarQuest_200,13,3,22,usa,Rick_Mast,Rick Mast,A.G. Dillard,Alan_Dillard_Jr.,Buick,196,1050,running,18,124
+1988,B,1988_CarQuest_200,14,24,47,usa,Billy_Standridge,Billy Standridge,Standridge Auto Parts,Billy_Standridge,Pontiac,195,1025,running,0,121
+1988,B,1988_CarQuest_200,15,6,56,usa,Ronald_Cooper,Ronald Cooper,Speedway Waste Disposal,Lewis_Cooper,Buick,194,975,running,0,118
+1988,B,1988_CarQuest_200,16,15,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,194,895,running,0,115
+1988,B,1988_CarQuest_200,17,20,24,usa,Joe_Thurman,Joe Thurman,Thackston's Garage,Marvin_Thackston,Ford,192,875,running,0,112
+1988,B,1988_CarQuest_200,18,25,27,usa,Bosco_Lowe,Bosco Lowe,Family Storage Center,Edgar_Ryder,Pontiac,190,355,running,0,109
+1988,B,1988_CarQuest_200,19,22,91,usa,Tom_Harrington,Tom Harrington,BFI Waste Systems,,Oldsmobile,153,350,rear end,0,106
+1988,B,1988_CarQuest_200,20,9,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,148,2095,engine,0,103
+1988,B,1988_CarQuest_200,21,14,00,canada,Larry_Pollard,Larry Pollard,Thomas Brothers Country Hams,Howard_Thomas,Oldsmobile,142,2085,running,0,100
+1988,B,1988_CarQuest_200,22,16,39,usa,Steve_Grissom,Steve Grissom,Automatic Curb,Wayne_Grissom,Ford,137,820,engine,0,97
+1988,B,1988_CarQuest_200,23,23,44,usa,Sterling_Marlin,Sterling Marlin,Piedmont Airlines,Billy_Hagan,Oldsmobile,101,310,steering,0,94
+1988,B,1988_CarQuest_200,24,7,79,usa,Bobby_Dotter,Bobby Dotter,G & G Trucking,Bob_Dotter,Buick,50,800,engine,0,91
+1988,B,1988_CarQuest_200,25,4,42,usa,Elton_Sawyer,Elton Sawyer,Bill Lewis,Bill_Lewis,Chevrolet,45,790,crash,0,88
+1988,B,1988_CarQuest_200,26,26,0,usa,Allen_Applegate,Allen Applegate,Applegate Racing,,Chevrolet,17,280,engine,0,85
+1988,B,1988_Winn-Dixie_300,1,6,32,usa,Dale_Jarrett,Dale Jarrett,Port-A-Lube,Horace_Isenhower,Oldsmobile,200,24051,running,5,180
+1988,B,1988_Winn-Dixie_300,2,2,81,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",All-Pro Auto Parts,Ted_Conder,Buick,200,12326,running,0,170
+1988,B,1988_Winn-Dixie_300,3,29,12,usa,Bobby_Allison,Bobby Allison,Piper Aircraft,Bobby_Allison,Buick,200,14276,running,10,165
+1988,B,1988_Winn-Dixie_300,4,22,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,200,12151,running,0,160
+1988,B,1988_Winn-Dixie_300,5,21,8,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench,"Dale_Earnhardt,_Inc.",Chevrolet,200,7276,running,65,155
+1988,B,1988_Winn-Dixie_300,6,5,7,usa,Harry_Gant,Harry Gant,Skoal,Ed_Whitaker,Buick,200,6576,running,22,150
+1988,B,1988_Winn-Dixie_300,7,20,9,usa,Bill_Elliott,Bill Elliott,Bill Elliott,Bill_Elliott,Ford,200,5326,running,0,146
+1988,B,1988_Winn-Dixie_300,8,12,97,usa,Morgan_Shepherd,Morgan Shepherd,Winner's Circle Auto Parts,Morgan_Shepherd,Buick,199,4726,running,15,142
+1988,B,1988_Winn-Dixie_300,9,3,84,usa,Mike_Alexander,Mike Alexander,Action Vans,Mike_Alexander,Buick,199,9626,running,10,138
+1988,B,1988_Winn-Dixie_300,10,23,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,199,6176,running,0,134
+1988,B,1988_Winn-Dixie_300,11,34,44,usa,Sterling_Marlin,Sterling Marlin,Piedmont Airlines,Billy_Hagan,Oldsmobile,198,3126,running,0,130
+1988,B,1988_Winn-Dixie_300,12,8,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,198,6626,running,0,127
+1988,B,1988_Winn-Dixie_300,13,26,23,usa,Donnie_Allison,Donnie Allison,Collins Engineering,,Buick,197,2426,running,0,124
+1988,B,1988_Winn-Dixie_300,14,24,30,usa,Kyle_Petty,Kyle Petty,Peak Anti-Freeze,Kyle_Petty,Ford,197,2226,running,0,121
+1988,B,1988_Winn-Dixie_300,15,28,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,197,3876,running,0,118
+1988,B,1988_Winn-Dixie_300,16,10,34,usa,Jimmy_Spencer,Jimmy Spencer,Quick Stop Beverage,Frank_Cicci,Buick,197,3451,running,0,115
+1988,B,1988_Winn-Dixie_300,17,15,52,usa,Ken_Schrader,Ken Schrader,Exxon,Ken_Schrader,Chevrolet,197,1716,running,0,112
+1988,B,1988_Winn-Dixie_300,18,17,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,197,4766,running,0,109
+1988,B,1988_Winn-Dixie_300,19,35,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,194,4566,running,0,106
+1988,B,1988_Winn-Dixie_300,20,36,96,usa,Tom_Peck,Tom Peck,Hagerstown Speedway,Mark_Thomas,Chevrolet,194,1566,running,0,103
+1988,B,1988_Winn-Dixie_300,21,11,22,usa,Rick_Mast,Rick Mast,A.G. Dillard,Alan_Dillard_Jr.,Buick,194,4351,running,0,100
+1988,B,1988_Winn-Dixie_300,22,42,56,usa,Ronald_Cooper,Ronald Cooper,Speedway Waste Disposal,Lewis_Cooper,Buick,193,1946,running,0,97
+1988,B,1988_Winn-Dixie_300,23,30,58,usa,Joe_Cudmore,Joe Cudmore,Chaney Enterprises,Joe_Cudmore,Oldsmobile,191,1451,running,0,94
+1988,B,1988_Winn-Dixie_300,24,38,95,canada,Larry_Pollard,Larry Pollard,Winner's Circle Auto Parts,,Buick,189,4176,running,0,91
+1988,B,1988_Winn-Dixie_300,25,37,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,188,2001,running,0,88
+1988,B,1988_Winn-Dixie_300,26,16,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,188,1986,running,0,85
+1988,B,1988_Winn-Dixie_300,27,19,88,usa,Bobby_Labonte,Bobby Labonte,Winner's Circle Auto Parts,Bob_Labonte,Buick,187,1371,crash,0,82
+1988,B,1988_Winn-Dixie_300,28,32,14,usa,Ronnie_Silver,Ronnie Silver,Blanton Tractor Trailer,Ronnie_Silver,Oldsmobile,185,1961,running,0,79
+1988,B,1988_Winn-Dixie_300,29,1,15,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,183,6651,crash,73,76
+1988,B,1988_Winn-Dixie_300,30,7,66,usa,Rusty_Wallace,Rusty Wallace,Kodiak,Rusty_Wallace,Pontiac,170,1391,engine,0,73
+1988,B,1988_Winn-Dixie_300,31,25,37,usa,Patty_Moise,Patty Moise,Crisco Butter-Flavored,Patty_Moise,Buick,166,1326,crash,0,70
+1988,B,1988_Winn-Dixie_300,32,31,47,usa,Billy_Standridge,Billy Standridge,Standridge Auto Parts,Billy_Standridge,Chevrolet,136,1916,engine,0,67
+1988,B,1988_Winn-Dixie_300,33,4,06,usa,Mark_Martin,Mark Martin,Carolina Ford Dealers,Bill_Davis,Ford,111,1406,engine,0,64
+1988,B,1988_Winn-Dixie_300,34,9,75,usa,Brad_Teague,Brad Teague,Food Country USA,Charlie_Henderson,Oldsmobile,46,1921,engine,0,61
+1988,B,1988_Winn-Dixie_300,35,40,29,usa,Tommy_Riggins,Tommy Riggins,GM Tech Team,,Buick,42,1776,engine,0,58
+1988,B,1988_Winn-Dixie_300,36,27,42,usa,Elton_Sawyer,Elton Sawyer,Bill Lewis,Bill_Lewis,Chevrolet,39,1881,engine,0,55
+1988,B,1988_Winn-Dixie_300,37,18,17,usa,Darrell_Waltrip,Darrell Waltrip,Exxon Superflo,Darrell_Waltrip,Chevrolet,33,1276,engine,0,52
+1988,B,1988_Winn-Dixie_300,38,41,43,usa,Darrell_Holman,Darrell Holman,Lucky J Coal,,Pontiac,31,1751,engine,0,49
+1988,B,1988_Winn-Dixie_300,39,14,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,30,4616,crash,0,46
+1988,B,1988_Winn-Dixie_300,40,39,28,usa,Davey_Allison,Davey Allison,Havoline,Davey_Allison,Ford,29,1761,crash,0,43
+1988,B,1988_Winn-Dixie_300,41,13,20,usa,Brett_Hearn,Brett Hearn,D & D Dismantling,,Buick,20,1261,ignition,0,40
+1988,B,1988_Winn-Dixie_300,42,33,39,usa,Steve_Grissom,Steve Grissom,Family Storage Center,Wayne_Grissom,Ford,2,2321,vibration,0,37
+1988,B,1988_Budweiser_200_%28June%29,1,15,81,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Windmere / Brendle's,Ted_Conder,Buick,200,9375,running,5,180
+1988,B,1988_Budweiser_200_%28June%29,2,2,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,200,8175,running,48,170
+1988,B,1988_Budweiser_200_%28June%29,3,12,52,usa,Ken_Schrader,Ken Schrader,Kroger,Ken_Schrader,Chevrolet,200,3275,running,6,165
+1988,B,1988_Budweiser_200_%28June%29,4,32,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,200,3175,running,0,160
+1988,B,1988_Budweiser_200_%28June%29,5,13,75,usa,Brad_Teague,Brad Teague,Food Country USA,Charlie_Henderson,Oldsmobile,200,2475,running,12,155
+1988,B,1988_Budweiser_200_%28June%29,6,4,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,198,3975,running,0,150
+1988,B,1988_Budweiser_200_%28June%29,7,25,4,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,Richard_Moore,Buick,198,1375,running,0,146
+1988,B,1988_Budweiser_200_%28June%29,8,29,39,usa,Steve_Grissom,Steve Grissom,Automatic Curb,Wayne_Grissom,Ford,198,1875,running,0,142
+1988,B,1988_Budweiser_200_%28June%29,9,19,96,usa,Tom_Peck,Tom Peck,Hagerstown Speedway,Mark_Thomas,Chevrolet,198,1175,running,0,138
+1988,B,1988_Budweiser_200_%28June%29,10,1,84,usa,Mike_Alexander,Mike Alexander,Action Vans,Mike_Alexander,Buick,197,3725,running,72,134
+1988,B,1988_Budweiser_200_%28June%29,11,6,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,197,1575,running,0,130
+1988,B,1988_Budweiser_200_%28June%29,12,3,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,196,1550,running,0,127
+1988,B,1988_Budweiser_200_%28June%29,13,31,07,usa,Tommy_Sigmon,Tommy Sigmon,Burke Grading & Paving,Dwight_Huffman,Chevrolet,195,1500,running,0,124
+1988,B,1988_Budweiser_200_%28June%29,14,28,79,usa,Dave_Rezendes,Dave Rezendes,K.R. Rezendes,Dave_Rezendes,Oldsmobile,194,875,running,0,121
+1988,B,1988_Budweiser_200_%28June%29,15,14,7,canada,Larry_Pollard,Larry Pollard,Skoal,Ed_Whitaker,Buick,194,3200,crash,0,118
+1988,B,1988_Budweiser_200_%28June%29,16,22,41,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn,Allen_Avery,Buick,194,825,running,0,115
+1988,B,1988_Budweiser_200_%28June%29,17,30,26,usa,Larry_Brolsma,Larry Brolsma,Brolsma Racing,Larry_Brolsma,Pontiac,194,800,running,0,112
+1988,B,1988_Budweiser_200_%28June%29,18,26,33,usa,Joey_Kourafas,Joey Kourafas,Unicorn Travel,Sandy_MacKinnon,Buick,193,775,running,0,109
+1988,B,1988_Budweiser_200_%28June%29,19,34,9,usa,Joe_Bessey,Joe Bessey,Pottle's Transportation,Joe_Bessey,Pontiac,190,750,running,0,106
+1988,B,1988_Budweiser_200_%28June%29,20,20,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,176,1325,running,0,103
+1988,B,1988_Budweiser_200_%28June%29,21,27,20,usa,Brett_Hearn,Brett Hearn,D & D Dismantling,,Buick,167,700,engine,0,100
+1988,B,1988_Budweiser_200_%28June%29,22,24,3,usa,Dave_Lind,Dave Lind,Lind Racing,Dave_Lind,Buick,161,675,brakes,0,97
+1988,B,1988_Budweiser_200_%28June%29,23,11,22,usa,Rick_Mast,Rick Mast,A.G. Dillard,Alan_Dillard_Jr.,Buick,157,3000,engine,0,94
+1988,B,1988_Budweiser_200_%28June%29,24,8,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,155,2975,oil pressure,0,91
+1988,B,1988_Budweiser_200_%28June%29,25,7,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,153,2950,crash,2,88
+1988,B,1988_Budweiser_200_%28June%29,26,21,56,usa,Ronald_Cooper,Ronald Cooper,Speedway Waste Disposal,Lewis_Cooper,Buick,144,1175,engine,0,85
+1988,B,1988_Budweiser_200_%28June%29,27,35,02,usa,Kenny_Burks,Kenny Burks,Williams & Burks,J_C_Burks,Buick,140,550,engine,0,82
+1988,B,1988_Budweiser_200_%28June%29,28,10,34,usa,Jimmy_Spencer,Jimmy Spencer,Quick Stop Beverage,Frank_Cicci,Buick,131,1125,engine,0,79
+1988,B,1988_Budweiser_200_%28June%29,29,18,97,usa,Morgan_Shepherd,Morgan Shepherd,Winner's Circle Auto Parts,Morgan_Shepherd,Buick,127,510,engine,13,76
+1988,B,1988_Budweiser_200_%28June%29,30,9,32,usa,Dale_Jarrett,Dale Jarrett,Port-A-Lube,Horace_Isenhower,Oldsmobile,126,1100,steering,30,73
+1988,B,1988_Budweiser_200_%28June%29,31,5,17,usa,Darrell_Waltrip,Darrell Waltrip,Exxon Superflo,Darrell_Waltrip,Chevrolet,90,500,overheating,12,70
+1988,B,1988_Budweiser_200_%28June%29,32,16,47,usa,Billy_Standridge,Billy Standridge,Standridge Auto Parts,Billy_Standridge,Chevrolet,39,1100,engine,0,67
+1988,B,1988_Budweiser_200_%28June%29,33,33,60,usa,Dale_Shaw,Dale Shaw,Budweiser,Dale_Shaw,Pontiac,38,500,handling,0,64
+1988,B,1988_Budweiser_200_%28June%29,34,17,30,usa,Kyle_Petty,Kyle Petty,Peak Anti-Freeze,Kyle_Petty,Ford,37,500,engine,0,61
+1988,B,1988_Budweiser_200_%28June%29,35,23,58,usa,Mike_Swaim,Mike Swaim,Southern Maryland Motorsports,Joe_Cudmore,Oldsmobile,19,1100,vibration,0,58
+1988,B,1988_Budweiser_200_%28June%29,36,36,61,usa,Dave_Davis,Dave Davis,Eury's Garage,,Chevrolet,18,500,engine,0,55
+1988,B,1988_Roses_Stores_150,1,1,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,150,5625,running,113,180
+1988,B,1988_Roses_Stores_150,2,23,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,150,4000,running,0,170
+1988,B,1988_Roses_Stores_150,3,7,34,usa,Jimmy_Spencer,Jimmy Spencer,Quick Stop Beverage,Frank_Cicci,Buick,150,1700,running,0,165
+1988,B,1988_Roses_Stores_150,4,14,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,149,1525,running,0,160
+1988,B,1988_Roses_Stores_150,5,2,84,usa,Mike_Alexander,Mike Alexander,Action Vans,Mike_Alexander,Buick,149,2025,running,37,155
+1988,B,1988_Roses_Stores_150,6,6,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,149,1975,running,0,150
+1988,B,1988_Roses_Stores_150,7,11,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,149,1900,running,0,146
+1988,B,1988_Roses_Stores_150,8,9,00,usa,Ronnie_Silver,Ronnie Silver,Thomas Brothers Country Hams,Howard_Thomas,Oldsmobile,149,1100,running,0,142
+1988,B,1988_Roses_Stores_150,9,12,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,149,1050,running,0,138
+1988,B,1988_Roses_Stores_150,10,22,47,usa,Billy_Standridge,Billy Standridge,Standridge Auto Parts,Billy_Standridge,Pontiac,147,1000,running,0,134
+1988,B,1988_Roses_Stores_150,11,10,64,usa,Jeff_Burton,Jeff Burton,Southland Fire Protection,John_Burton,Chevrolet,147,550,running,0,130
+1988,B,1988_Roses_Stores_150,12,5,02,usa,Kenny_Burks,Kenny Burks,Williams & Burks,J_C_Burks,Chevrolet,146,500,running,0,127
+1988,B,1988_Roses_Stores_150,13,13,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,146,850,running,0,124
+1988,B,1988_Roses_Stores_150,14,3,22,usa,Rick_Mast,Rick Mast,A.G. Dillard,Alan_Dillard_Jr.,Buick,146,1575,running,0,121
+1988,B,1988_Roses_Stores_150,15,24,56,usa,Ronald_Cooper,Ronald Cooper,Speedway Waste Disposal,Lewis_Cooper,Buick,145,775,running,0,118
+1988,B,1988_Roses_Stores_150,16,15,24,usa,Joe_Thurman,Joe Thurman,Thackston's Garage,Marvin_Thackston,Ford,145,720,running,0,115
+1988,B,1988_Roses_Stores_150,17,4,79,usa,Bobby_Dotter,Bobby Dotter,G & G Trucking,Bob_Dotter,Buick,144,700,running,0,112
+1988,B,1988_Roses_Stores_150,18,19,39,usa,Steve_Grissom,Steve Grissom,Automatic Curb,Wayne_Grissom,Ford,144,680,running,0,109
+1988,B,1988_Roses_Stores_150,19,18,9,usa,Hut_Stricklin,Hut Stricklin,Shelby Concrete,,Pontiac,143,275,running,0,106
+1988,B,1988_Roses_Stores_150,20,16,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,143,670,running,0,103
+1988,B,1988_Roses_Stores_150,21,17,31,usa,Rickie_Smith,Rickie Smith,Ken-Tenn Raceway,,Ford,139,265,running,0,100
+1988,B,1988_Roses_Stores_150,22,20,32,usa,Bill_Gratton,Bill Gratton,Brielle Pontiac,,Oldsmobile,136,260,running,0,97
+1988,B,1988_Roses_Stores_150,23,8,07,usa,Tommy_Sigmon,Tommy Sigmon,Burke Grading & Paving,Dwight_Huffman,Oldsmobile,130,655,running,0,94
+1988,B,1988_Roses_Stores_150,24,25,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,123,1400,running,0,91
+1988,B,1988_Roses_Stores_150,25,21,09,usa,Rodney_Cundiff,Rodney Cundiff,Scott's Towing Service,,Ford,99,250,engine,0,0
+1988,B,1988_Big_Star_Coca-Cola_200,1,10,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,200,6975,running,90,180
+1988,B,1988_Big_Star_Coca-Cola_200,2,4,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,200,3200,running,0,170
+1988,B,1988_Big_Star_Coca-Cola_200,3,1,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,200,3250,running,72,165
+1988,B,1988_Big_Star_Coca-Cola_200,4,14,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,200,1675,running,0,160
+1988,B,1988_Big_Star_Coca-Cola_200,5,3,84,usa,Mike_Alexander,Mike Alexander,Action Vans,Mike_Alexander,Buick,199,2025,running,34,155
+1988,B,1988_Big_Star_Coca-Cola_200,6,13,02,usa,Kenny_Burks,Kenny Burks,Williams & Burks,J_C_Burks,Chevrolet,198,1225,running,0,150
+1988,B,1988_Big_Star_Coca-Cola_200,7,11,47,usa,Billy_Standridge,Billy Standridge,Standridge Auto Parts,Billy_Standridge,Pontiac,198,1150,running,0,146
+1988,B,1988_Big_Star_Coca-Cola_200,8,15,34,usa,Jimmy_Spencer,Jimmy Spencer,Quick Stop Beverage,Frank_Cicci,Buick,197,1110,running,0,142
+1988,B,1988_Big_Star_Coca-Cola_200,9,12,00,usa,Ronnie_Silver,Ronnie Silver,Thomas Brothers Country Hams,Howard_Thomas,Oldsmobile,196,1050,crash,0,138
+1988,B,1988_Big_Star_Coca-Cola_200,10,5,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,195,1000,running,0,134
+1988,B,1988_Big_Star_Coca-Cola_200,11,16,07,usa,Tommy_Sigmon,Tommy Sigmon,Burke Grading & Paving,Dwight_Huffman,Oldsmobile,194,950,running,0,130
+1988,B,1988_Big_Star_Coca-Cola_200,12,8,22,usa,Rick_Mast,Rick Mast,A.G. Dillard,Alan_Dillard_Jr.,Buick,194,1650,running,0,127
+1988,B,1988_Big_Star_Coca-Cola_200,13,19,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,192,850,running,0,124
+1988,B,1988_Big_Star_Coca-Cola_200,14,17,39,usa,Steve_Grissom,Steve Grissom,Automatic Curb,Wayne_Grissom,Ford,162,825,running,0,121
+1988,B,1988_Big_Star_Coca-Cola_200,15,18,24,usa,Joe_Thurman,Joe Thurman,Thackston's Garage,Marvin_Thackston,Ford,135,775,engine,0,118
+1988,B,1988_Big_Star_Coca-Cola_200,16,2,56,usa,Ronald_Cooper,Ronald Cooper,Speedway Waste Disposal,Lewis_Cooper,Buick,126,720,engine,4,115
+1988,B,1988_Big_Star_Coca-Cola_200,17,6,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,106,1450,suspension,0,112
+1988,B,1988_Big_Star_Coca-Cola_200,18,9,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,78,680,suspension,0,109
+1988,B,1988_Big_Star_Coca-Cola_200,19,7,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,22,1425,engine,0,106
+1988,B,1988_Granger_Select_200,1,18,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,200,8775,running,35,180
+1988,B,1988_Granger_Select_200,2,2,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,200,4500,running,165,170
+1988,B,1988_Granger_Select_200,3,7,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,200,3240,running,0,165
+1988,B,1988_Granger_Select_200,4,4,84,usa,Mike_Alexander,Mike Alexander,Action Vans,Mike_Alexander,Buick,200,2650,running,0,160
+1988,B,1988_Granger_Select_200,5,10,34,usa,Jimmy_Spencer,Jimmy Spencer,Quick Stop Beverage,Frank_Cicci,Buick,200,1645,running,0,155
+1988,B,1988_Granger_Select_200,6,9,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,199,1460,running,0,150
+1988,B,1988_Granger_Select_200,7,20,14,usa,Ronnie_Silver,Ronnie Silver,Blanton Tractor Trailer,Ronnie_Silver,Oldsmobile,199,1300,running,0,146
+1988,B,1988_Granger_Select_200,8,6,39,usa,Steve_Grissom,Steve Grissom,Automatic Curb,Wayne_Grissom,Ford,199,1410,running,0,142
+1988,B,1988_Granger_Select_200,9,19,07,usa,Tommy_Sigmon,Tommy Sigmon,Burke Grading & Paving,Dwight_Huffman,Oldsmobile,199,1200,running,0,138
+1988,B,1988_Granger_Select_200,10,17,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,197,1150,running,0,134
+1988,B,1988_Granger_Select_200,11,23,3,usa,Mike_Porter,Mike Porter,Fred & Jack's Salvage,,Chevrolet,194,700,running,0,130
+1988,B,1988_Granger_Select_200,12,5,56,usa,Ronald_Cooper,Ronald Cooper,Speedway Waste Disposal,Lewis_Cooper,Buick,192,1220,rear end,0,127
+1988,B,1988_Granger_Select_200,13,15,02,usa,Kenny_Burks,Kenny Burks,Williams & Burks,J_C_Burks,Chevrolet,187,1000,running,0,124
+1988,B,1988_Granger_Select_200,14,22,24,usa,Joe_Thurman,Joe Thurman,Deasey Auto Parts,Marvin_Thackston,Ford,181,950,running,0,121
+1988,B,1988_Granger_Select_200,15,16,91,usa,Tom_Harrington,Tom Harrington,BFI Waste Systems,,Oldsmobile,171,525,running,0,118
+1988,B,1988_Granger_Select_200,16,3,17,usa,Darrell_Waltrip,Darrell Waltrip,Exxon Superflo,Darrell_Waltrip,Chevrolet,168,800,flat tire,0,115
+1988,B,1988_Granger_Select_200,17,12,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,139,1600,engine,0,112
+1988,B,1988_Granger_Select_200,18,24,7,usa,Randy_Craft,Randy Craft,The Pines Golf Resort,,Oldsmobile,134,445,engine,0,0
+1988,B,1988_Granger_Select_200,19,11,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,104,2090,engine,0,106
+1988,B,1988_Granger_Select_200,20,13,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,96,835,engine,0,103
+1988,B,1988_Granger_Select_200,21,8,22,usa,Rick_Mast,Rick Mast,A.G. Dillard,Alan_Dillard_Jr.,Buick,77,1695,crash,0,100
+1988,B,1988_Granger_Select_200,22,21,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,76,1570,crash,0,97
+1988,B,1988_Granger_Select_200,23,14,47,usa,Billy_Standridge,Billy Standridge,Rite-Way Grinding,Billy_Standridge,Pontiac,64,810,crash,0,94
+1988,B,1988_Granger_Select_200,24,1,79,usa,Bobby_Dotter,Bobby Dotter,G & G Trucking,Bob_Dotter,Buick,34,1800,crash,0,91
+1988,B,1988_Myrtle_Beach_200,1,4,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,200,5475,running,33,180
+1988,B,1988_Myrtle_Beach_200,2,11,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,200,3700,running,11,170
+1988,B,1988_Myrtle_Beach_200,3,10,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,200,2450,running,34,165
+1988,B,1988_Myrtle_Beach_200,4,7,41,usa,Max_Prestwood,Max Prestwood,Custom Veneers,Max_Prestwood,Oldsmobile,200,975,running,0,160
+1988,B,1988_Myrtle_Beach_200,5,23,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,200,2325,running,0,155
+1988,B,1988_Myrtle_Beach_200,6,5,22,usa,Rick_Mast,Rick Mast,A.G. Dillard,Alan_Dillard_Jr.,Buick,200,1975,running,1,150
+1988,B,1988_Myrtle_Beach_200,7,8,42,usa,Elton_Sawyer,Elton Sawyer,Bill Lewis,Bill_Lewis,Chevrolet,200,1150,running,0,146
+1988,B,1988_Myrtle_Beach_200,8,16,75,usa,Brad_Teague,Brad Teague,Food Country USA,Charlie_Henderson,Oldsmobile,200,700,running,0,142
+1988,B,1988_Myrtle_Beach_200,9,20,81,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Windmere / Brendle's,Ted_Conder,Buick,198,650,running,0,138
+1988,B,1988_Myrtle_Beach_200,10,22,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,198,1000,running,0,134
+1988,B,1988_Myrtle_Beach_200,11,18,00,usa,Ronnie_Silver,Ronnie Silver,Thomas Brothers Country Hams,Howard_Thomas,Oldsmobile,198,950,running,0,130
+1988,B,1988_Myrtle_Beach_200,12,30,24,usa,Joe_Thurman,Joe Thurman,Thackston's Garage,Marvin_Thackston,Ford,197,900,running,0,127
+1988,B,1988_Myrtle_Beach_200,13,25,07,usa,Tommy_Sigmon,Tommy Sigmon,Burke Grading & Paving,Dwight_Huffman,Oldsmobile,196,850,running,0,124
+1988,B,1988_Myrtle_Beach_200,14,13,47,usa,Billy_Standridge,Billy Standridge,Standridge Auto Parts,Billy_Standridge,Pontiac,196,825,running,0,121
+1988,B,1988_Myrtle_Beach_200,15,6,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,195,1525,running,0,118
+1988,B,1988_Myrtle_Beach_200,16,29,31,usa,Rickie_Smith,Rickie Smith,Ken-Tenn Raceway,,Ford,188,320,running,0,115
+1988,B,1988_Myrtle_Beach_200,17,26,79,usa,Bobby_Dotter,Bobby Dotter,Dotter Racing,Bob_Dotter,Buick,188,700,running,0,112
+1988,B,1988_Myrtle_Beach_200,18,21,34,usa,Jimmy_Spencer,Jimmy Spencer,Quick Stop Beverage,Frank_Cicci,Buick,183,680,running,58,109
+1988,B,1988_Myrtle_Beach_200,19,31,61,usa,Wes_Burnette,Wes Burnette,Spirit of Roanoke,,Ford,180,275,running,0,106
+1988,B,1988_Myrtle_Beach_200,20,9,84,usa,Mike_Alexander,Mike Alexander,Action Vans,Mike_Alexander,Buick,163,1425,running,0,103
+1988,B,1988_Myrtle_Beach_200,21,1,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,158,965,crash,3,100
+1988,B,1988_Myrtle_Beach_200,22,15,56,usa,Ronald_Cooper,Ronald Cooper,Speedway Waste Disposal,Lewis_Cooper,Buick,138,660,crash,0,97
+1988,B,1988_Myrtle_Beach_200,23,19,7,usa,Harry_Gant,Harry Gant,Skoal Bandit,Ed_Whitaker,Buick,84,655,wheel,0,94
+1988,B,1988_Myrtle_Beach_200,24,27,39,usa,Steve_Grissom,Steve Grissom,Automatic Curb,Wayne_Grissom,Ford,81,650,engine,0,91
+1988,B,1988_Myrtle_Beach_200,25,2,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,73,1400,oil leak,60,88
+1988,B,1988_Myrtle_Beach_200,26,3,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,58,650,crash,0,85
+1988,B,1988_Myrtle_Beach_200,27,17,8,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench,"Dale_Earnhardt,_Inc.",Chevrolet,49,650,crash,0,82
+1988,B,1988_Myrtle_Beach_200,28,24,02,usa,Kenny_Burks,Kenny Burks,Williams & Burks,J_C_Burks,Chevrolet,39,650,crash,0,79
+1988,B,1988_Myrtle_Beach_200,29,12,83,usa,Jeff_McClure,Jeff McClure,Cedar Hills Trucking,Jeff_McClure,Oldsmobile,30,250,oil leak,0,76
+1988,B,1988_Myrtle_Beach_200,30,28,97,usa,Morgan_Shepherd,Morgan Shepherd,Winner's Circle Auto Parts,Morgan_Shepherd,Buick,12,250,oil leak,0,73
+1988,B,1988_Myrtle_Beach_200,31,14,3,usa,Mike_Porter,Mike Porter,Fred & Jack's Salvage,,Chevrolet,5,250,engine,0,70
+1988,B,1988_Oxford_250,1,7,0,usa,Dick_McCabe,Dick McCabe,Hi-Torque Engines,Dick_McCabe,Chevrolet,282,38800,running,101,0
+1988,B,1988_Oxford_250,2,10,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,Richard_Moore,Buick,282,32475,running,150,0
+1988,B,1988_Oxford_250,3,14,66,usa,Randy_LaJoie,Randy LaJoie,El Dorado Coach,Randy_LaJoie,Oldsmobile,282,10925,running,1,0
+1988,B,1988_Oxford_250,4,19,71,usa,Bobby_Dragon,Bobby Dragon,D.G. Robertson,,Buick,282,6500,running,0,0
+1988,B,1988_Oxford_250,5,33,88,usa,Larry_Caron,Larry Caron,East End Auto,,Oldsmobile,281,6050,running,0,0
+1988,B,1988_Oxford_250,6,28,26,usa,Darren_Bernier,Darren Bernier,John P. Cullinan,,Oldsmobile,281,4050,running,0,0
+1988,B,1988_Oxford_250,7,17,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,280,4700,running,0,146
+1988,B,1988_Oxford_250,8,35,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,280,4150,running,0,142
+1988,B,1988_Oxford_250,9,23,33,usa,Joey_Kourafas,Joey Kourafas,Unicorn Travel,Sandy_MacKinnon,Buick,280,3200,running,0,0
+1988,B,1988_Oxford_250,10,22,7,usa,Chuck_Bown,Chuck Bown,Skoal,Quint_Boisvert,Pontiac,280,2275,running,0,0
+1988,B,1988_Oxford_250,11,26,34,usa,Jimmy_Spencer,Jimmy Spencer,Quick Stop Beverage,Frank_Cicci,Buick,279,2275,running,0,130
+1988,B,1988_Oxford_250,12,39,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,Stub_Fadden,Buick,279,2125,running,0,0
+1988,B,1988_Oxford_250,13,25,22,usa,Rick_Mast,Rick Mast,A.G. Dillard,Alan_Dillard_Jr.,Buick,279,3425,running,0,124
+1988,B,1988_Oxford_250,14,4,41,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn,Allen_Avery,Buick,278,2010,running,0,0
+1988,B,1988_Oxford_250,15,18,8,usa,Billy_Clark,Billy Clark,Skoal,Quint_Boisvert,Pontiac,277,1575,running,0,0
+1988,B,1988_Oxford_250,16,12,07,usa,Mike_Rowe,Mike Rowe,O'Connor GMC,Charles_Oconnor,Buick,277,1725,running,0,0
+1988,B,1988_Oxford_250,17,42,68,usa,Morgan_Shepherd,Morgan Shepherd,Budweiser,Dale_Shaw,Pontiac,277,1425,running,0,0
+1988,B,1988_Oxford_250,18,6,48,usa,Robbie_Crouch,Robbie Crouch,Don Lotarto Cars,,Buick,276,1400,running,0,0
+1988,B,1988_Oxford_250,19,44,57,usa,Billy_Standridge,Billy Standridge,Standridge Auto Parts,Billy_Standridge,Pontiac,275,1885,running,0,106
+1988,B,1988_Oxford_250,20,3,60,usa,Dale_Shaw,Dale Shaw,Budweiser,Dale_Shaw,Pontiac,275,1775,running,30,0
+1988,B,1988_Oxford_250,21,38,9,usa,Joe_Bessey,Joe Bessey,Pottle's Transportation,Joe_Bessey,Pontiac,275,1765,running,0,0
+1988,B,1988_Oxford_250,22,8,03,canada,Leo_Poirier,Leo Poirier,Capital Petroleum,,Buick,272,1750,running,0,0
+1988,B,1988_Oxford_250,23,32,46,usa,Kenny_Robbins,Kenny Robbins,Smith Logging,,Pontiac,272,1440,running,0,0
+1988,B,1988_Oxford_250,24,36,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,270,1835,running,0,91
+1988,B,1988_Oxford_250,25,40,15,usa,Jimmy_Burns_(1),Jimmy Burns,O'Connor GMC,Charles_Oconnor,Oldsmobile,267,1730,running,0,0
+1988,B,1988_Oxford_250,26,9,78,usa,Steve_Knowlton,Steve Knowlton,Collard & Son,,Chevrolet,264,1325,running,0,0
+1988,B,1988_Oxford_250,27,24,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,Bruce_Haley,Pontiac,258,1320,crash,0,0
+1988,B,1988_Oxford_250,28,11,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,256,3065,transmission,0,79
+1988,B,1988_Oxford_250,29,1,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,240,3810,crash,0,76
+1988,B,1988_Oxford_250,30,20,19,usa,Ron_Moon,Ron Moon,Jess & Nic Variety,,Buick,238,1305,oil leak,0,0
+1988,B,1988_Oxford_250,31,43,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,231,1800,crash,0,70
+1988,B,1988_Oxford_250,32,29,83,usa,Mike_Johnson_(1),Mike Johnson,Pleasant Hill Gardens,,Buick,223,1250,engine,0,0
+1988,B,1988_Oxford_250,33,5,1,usa,Pete_Silva,Pete Silva,Prescott Racing,,Oldsmobile,196,1600,engine,0,0
+1988,B,1988_Oxford_250,34,41,27,usa,Jon_Lizotte,Jon Lizotte,Matthews Auto Parts,,Chevrolet,190,1200,engine,0,0
+1988,B,1988_Oxford_250,35,2,42,usa,Elton_Sawyer,Elton Sawyer,Bill Lewis,Bill_Lewis,Chevrolet,182,1700,engine,0,58
+1988,B,1988_Oxford_250,36,31,23,usa,Bobby_Babb_Jr,"Bobby Babb, Jr.",NE Racing Products,,Pontiac,174,1200,rear end,0,0
+1988,B,1988_Oxford_250,37,16,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,167,1700,crash,0,52
+1988,B,1988_Oxford_250,38,27,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,161,2950,wheel bearing,0,49
+1988,B,1988_Oxford_250,39,30,87,usa,Bobby_Gahan,Bobby Gahan,Billygoat Landscape,,Chevrolet,130,1200,overheating,0,0
+1988,B,1988_Oxford_250,40,15,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,123,1700,crash,0,43
+1988,B,1988_Oxford_250,41,47,73,usa,Leland_Kangas,Leland Kangas,Gould's,,Buick,122,1200,crash,0,0
+1988,B,1988_Oxford_250,42,21,29,usa,Dave_Dion,Dave Dion,Berlin City,Dave_Dion,Ford,105,1200,crash,0,0
+1988,B,1988_Oxford_250,43,13,84,usa,Mike_Alexander,Mike Alexander,Action Vans,Mike_Alexander,Buick,44,2950,overheating,0,34
+1988,B,1988_Oxford_250,44,46,36,usa,Bobby_Gada,Bobby Gada,Hagas Racing,,Pontiac,34,1600,engine,0,0
+1988,B,1988_Oxford_250,45,45,17,usa,Bob_Healey,Bob Healey,Tobar Contruction,,Pontiac,25,1600,handling,0,0
+1988,B,1988_Oxford_250,46,37,39,usa,Steve_Grissom,Steve Grissom,Automatic Curb,Wayne_Grissom,Ford,11,1700,engine,0,25
+1988,B,1988_Oxford_250,47,34,44,usa,Jeff_Stevens,Jeff Stevens,Moody Builders,,Pontiac,4,1200,spring,0,0
+1988,B,1988_Coors_200,1,3,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,200,6575,running,68,180
+1988,B,1988_Coors_200,2,20,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,200,3500,running,0,170
+1988,B,1988_Coors_200,3,18,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,200,2450,running,0,165
+1988,B,1988_Coors_200,4,6,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,200,2125,running,0,160
+1988,B,1988_Coors_200,5,7,22,usa,Rick_Mast,Rick Mast,A.G. Dillard,Alan_Dillard_Jr.,Buick,199,2025,running,0,155
+1988,B,1988_Coors_200,6,17,56,usa,Ronald_Cooper,Ronald Cooper,Speedway Waste Disposal,Lewis_Cooper,Buick,199,1375,running,0,150
+1988,B,1988_Coors_200,7,13,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,198,1150,running,0,146
+1988,B,1988_Coors_200,8,4,42,usa,Elton_Sawyer,Elton Sawyer,Bill Lewis,Bill_Lewis,Chevrolet,198,1100,running,0,142
+1988,B,1988_Coors_200,9,22,07,usa,Tommy_Sigmon,Tommy Sigmon,Burke Grading & Paving,Dwight_Huffman,Oldsmobile,198,1050,running,0,138
+1988,B,1988_Coors_200,10,2,00,usa,Ronnie_Silver,Ronnie Silver,Thomas Brothers Country Hams,Howard_Thomas,Oldsmobile,198,1000,running,0,134
+1988,B,1988_Coors_200,11,12,64,usa,Jeff_Burton,Jeff Burton,Golden Skillet,John_Burton,Oldsmobile,198,550,running,0,130
+1988,B,1988_Coors_200,12,5,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,197,1650,running,0,127
+1988,B,1988_Coors_200,13,1,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,197,1150,running,132,124
+1988,B,1988_Coors_200,14,19,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,196,825,running,0,121
+1988,B,1988_Coors_200,15,23,45,usa,Ed_Ferree,Ed Ferree,"Water-Soft, Inc.",Ed_Ferree,Buick,194,375,running,0,0
+1988,B,1988_Coors_200,16,15,91,usa,Tom_Harrington,Tom Harrington,BFI Waste Systems,,Oldsmobile,194,320,running,0,115
+1988,B,1988_Coors_200,17,21,34,usa,Jimmy_Spencer,Jimmy Spencer,Quick Stop Beverage,Frank_Cicci,Buick,192,700,running,0,112
+1988,B,1988_Coors_200,18,9,47,usa,Billy_Standridge,Billy Standridge,Standridge Auto Parts,Billy_Standridge,Pontiac,188,680,running,0,109
+1988,B,1988_Coors_200,19,14,24,usa,Joe_Thurman,Joe Thurman,Thackston's Garage,Marvin_Thackston,Ford,166,675,running,0,106
+1988,B,1988_Coors_200,20,10,84,usa,Mike_Alexander,Mike Alexander,Action Vans,Mike_Alexander,Buick,125,1420,running,0,103
+1988,B,1988_Coors_200,21,16,83,usa,Jeff_McClure,Jeff McClure,Cedar Hills Trucking,Jeff_McClure,Oldsmobile,67,265,transmission,0,0
+1988,B,1988_Coors_200,22,24,39,usa,Steve_Grissom,Steve Grissom,Edwards Enterprises,Wayne_Grissom,Chevrolet,65,660,suspension,0,97
+1988,B,1988_Coors_200,23,11,02,usa,Kenny_Burks,Kenny Burks,Williams & Burks,J_C_Burks,Chevrolet,34,655,crash,0,94
+1988,B,1988_Coors_200,24,8,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,32,650,engine,0,91
+1988,B,1988_Pepsi_200,1,8,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,200,7625,running,69,180
+1988,B,1988_Pepsi_200,2,4,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,199,3500,running,90,170
+1988,B,1988_Pepsi_200,3,17,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,199,3000,running,0,165
+1988,B,1988_Pepsi_200,4,12,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,199,2000,running,0,160
+1988,B,1988_Pepsi_200,5,6,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,199,2400,running,0,155
+1988,B,1988_Pepsi_200,6,9,79,usa,Bobby_Dotter,Bobby Dotter,Dotter Racing,Bob_Dotter,Buick,198,1100,running,0,150
+1988,B,1988_Pepsi_200,7,21,00,usa,Ronnie_Silver,Ronnie Silver,Thomas Brothers Country Hams,Howard_Thomas,Oldsmobile,198,1050,running,0,146
+1988,B,1988_Pepsi_200,8,15,22,usa,Rick_Mast,Rick Mast,A.G. Dillard,Alan_Dillard_Jr.,Buick,198,1750,running,0,142
+1988,B,1988_Pepsi_200,9,1,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,197,1250,running,0,138
+1988,B,1988_Pepsi_200,10,5,07,usa,Tommy_Sigmon,Tommy Sigmon,Burke Grading & Paving,Dwight_Huffman,Oldsmobile,197,900,running,0,134
+1988,B,1988_Pepsi_200,11,16,56,usa,Ronald_Cooper,Ronald Cooper,Speedway Waste Disposal,Lewis_Cooper,Buick,197,850,running,0,130
+1988,B,1988_Pepsi_200,12,7,42,usa,Elton_Sawyer,Elton Sawyer,Bill Lewis,Bill_Lewis,Chevrolet,197,800,running,0,127
+1988,B,1988_Pepsi_200,13,13,01,usa,Gary_Neice,Gary Neice,Thomas Brothers Country Hams,Howard_Thomas,Oldsmobile,197,350,running,0,124
+1988,B,1988_Pepsi_200,14,11,41,usa,Max_Prestwood,Max Prestwood,Custom Veneers,Max_Prestwood,Oldsmobile,196,325,running,0,121
+1988,B,1988_Pepsi_200,15,19,02,usa,Kenny_Burks,Kenny Burks,Burks Racing,J_C_Burks,Chevrolet,196,700,running,0,118
+1988,B,1988_Pepsi_200,16,23,47,usa,Billy_Standridge,Billy Standridge,Standridge Auto Parts,Billy_Standridge,Pontiac,194,670,running,0,115
+1988,B,1988_Pepsi_200,17,25,39,usa,Steve_Grissom,Steve Grissom,Edwards Enterprises,Wayne_Grissom,Chevrolet,181,650,running,0,112
+1988,B,1988_Pepsi_200,18,14,84,usa,Mike_Alexander,Mike Alexander,Action Vans,Mike_Alexander,Buick,170,1380,rear end,0,109
+1988,B,1988_Pepsi_200,19,24,24,usa,Joe_Thurman,Joe Thurman,Thackston's Garage,Marvin_Thackston,Ford,160,625,engine,0,106
+1988,B,1988_Pepsi_200,20,10,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,160,620,engine,0,103
+1988,B,1988_Pepsi_200,21,3,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,156,615,engine,0,100
+1988,B,1988_Pepsi_200,22,18,34,usa,Jimmy_Spencer,Jimmy Spencer,Cicci Racing,Frank_Cicci,Buick,149,610,running,0,97
+1988,B,1988_Pepsi_200,23,2,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,99,605,hub,41,94
+1988,B,1988_Pepsi_200,24,20,9,usa,Hut_Stricklin,Hut Stricklin,Shelby Concrete,,Pontiac,56,200,overheating,0,91
+1988,B,1988_Pepsi_200,25,22,62,usa,John_Linville,John Linville,Lemon's Auto Parts,John_Linville,Oldsmobile,10,200,engine,0,88
+1988,B,1988_Busch_200_%28July%29,1,1,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,200,6525,running,160,180
+1988,B,1988_Busch_200_%28July%29,2,13,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,200,3350,running,0,170
+1988,B,1988_Busch_200_%28July%29,3,6,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,200,2450,running,0,165
+1988,B,1988_Busch_200_%28July%29,4,8,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,200,2125,running,38,160
+1988,B,1988_Busch_200_%28July%29,5,9,22,usa,Rick_Mast,Rick Mast,A.G. Dillard,Alan_Dillard_Jr.,Buick,200,2050,running,0,155
+1988,B,1988_Busch_200_%28July%29,6,5,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,199,1225,running,0,150
+1988,B,1988_Busch_200_%28July%29,7,2,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,199,2400,running,0,146
+1988,B,1988_Busch_200_%28July%29,8,3,84,usa,Mike_Alexander,Mike Alexander,Action Vans,Mike_Alexander,Buick,198,1850,running,0,142
+1988,B,1988_Busch_200_%28July%29,9,21,34,usa,Jimmy_Spencer,Jimmy Spencer,Cicci Racing,Frank_Cicci,Buick,197,1350,running,2,138
+1988,B,1988_Busch_200_%28July%29,10,10,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,197,1000,running,0,134
+1988,B,1988_Busch_200_%28July%29,11,14,00,usa,Ronnie_Silver,Ronnie Silver,Thomas Brothers Country Hams,Howard_Thomas,Oldsmobile,197,950,running,0,130
+1988,B,1988_Busch_200_%28July%29,12,15,56,usa,Ronald_Cooper,Ronald Cooper,Speedway Waste Disposal,Lewis_Cooper,Buick,196,900,running,0,127
+1988,B,1988_Busch_200_%28July%29,13,7,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,196,850,running,0,124
+1988,B,1988_Busch_200_%28July%29,14,16,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,196,825,running,0,121
+1988,B,1988_Busch_200_%28July%29,15,4,42,usa,Elton_Sawyer,Elton Sawyer,Bill Lewis,Bill_Lewis,Chevrolet,194,775,running,0,118
+1988,B,1988_Busch_200_%28July%29,16,11,47,usa,Billy_Standridge,Billy Standridge,Standridge Auto Parts,Billy_Standridge,Pontiac,192,720,running,0,115
+1988,B,1988_Busch_200_%28July%29,17,17,02,usa,Kenny_Burks,Kenny Burks,Burks Racing,J_C_Burks,Chevrolet,187,700,running,0,112
+1988,B,1988_Busch_200_%28July%29,18,20,83,usa,Jeff_McClure,Jeff McClure,Quality Brake Centers,Jeff_McClure,Oldsmobile,182,280,running,0,0
+1988,B,1988_Busch_200_%28July%29,19,19,7,usa,Tommy_Sigmon,Tommy Sigmon,Burke Grading & Paving,Dwight_Huffman,Oldsmobile,152,675,overheating,0,106
+1988,B,1988_Busch_200_%28July%29,20,12,39,usa,Steve_Grissom,Steve Grissom,Automatic Curb,Wayne_Grissom,Oldsmobile,47,670,engine,0,103
+1988,B,1988_Busch_200_%28July%29,21,18,24,usa,Joe_Thurman,Joe Thurman,Thackston's Garage,Marvin_Thackston,Ford,36,665,crash,0,100
+1988,B,1988_Kroger_200,1,2,97,usa,Morgan_Shepherd,Morgan Shepherd,Winner's Circle Auto Parts,Morgan_Shepherd,Buick,200,10025,running,10,180
+1988,B,1988_Kroger_200,2,6,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,200,6375,running,0,170
+1988,B,1988_Kroger_200,3,14,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,200,5200,running,84,165
+1988,B,1988_Kroger_200,4,29,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,200,5850,running,0,160
+1988,B,1988_Kroger_200,5,3,17,usa,Darrell_Waltrip,Darrell Waltrip,Exxon Superflo,Darrell_Waltrip,Chevrolet,200,2100,running,56,155
+1988,B,1988_Kroger_200,6,9,79,usa,Bobby_Dotter,Bobby Dotter,Dotter Racing,Bob_Dotter,Buick,200,2200,running,0,150
+1988,B,1988_Kroger_200,7,18,06,usa,Mark_Martin,Mark Martin,Carolina Ford Dealers,Bill_Davis,Ford,200,1500,running,0,146
+1988,B,1988_Kroger_200,8,28,30,usa,Kyle_Petty,Kyle Petty,Peak Anti-Freeze,Kyle_Petty,Ford,200,1400,running,0,142
+1988,B,1988_Kroger_200,9,25,91,usa,Tom_Harrington,Tom Harrington,BFI Waste Systems,,Oldsmobile,200,1300,running,0,138
+1988,B,1988_Kroger_200,10,1,4,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,Richard_Moore,Buick,199,1750,running,36,134
+1988,B,1988_Kroger_200,11,20,84,usa,Mike_Alexander,Mike Alexander,Alexander Racing,Mike_Alexander,Buick,199,2820,running,0,130
+1988,B,1988_Kroger_200,12,12,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,199,2770,running,0,127
+1988,B,1988_Kroger_200,13,10,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,199,1670,running,14,124
+1988,B,1988_Kroger_200,14,4,03,usa,Michael_Waltrip,Michael Waltrip,Country Time Lemonade,Chuck_Rider,Oldsmobile,199,945,running,0,0
+1988,B,1988_Kroger_200,15,30,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,199,1520,running,0,118
+1988,B,1988_Kroger_200,16,8,42,usa,Elton_Sawyer,Elton Sawyer,Bill Lewis,Bill_Lewis,Chevrolet,199,1395,running,0,115
+1988,B,1988_Kroger_200,17,22,34,usa,Jimmy_Spencer,Jimmy Spencer,Cicci Racing,Frank_Cicci,Buick,198,1570,running,0,112
+1988,B,1988_Kroger_200,18,19,22,usa,Rick_Mast,Rick Mast,A.G. Dillard,Alan_Dillard_Jr.,Buick,198,2595,running,0,109
+1988,B,1988_Kroger_200,19,23,0,usa,Dick_McCabe,Dick McCabe,Hi-Torque Engines,Dick_McCabe,Chevrolet,197,1245,running,0,106
+1988,B,1988_Kroger_200,20,27,41,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn,Allen_Avery,Buick,195,1205,running,0,103
+1988,B,1988_Kroger_200,21,35,24,usa,Joe_Thurman,Joe Thurman,Thackston's Garage,Marvin_Thackston,Ford,194,1395,running,0,100
+1988,B,1988_Kroger_200,22,31,47,usa,Billy_Standridge,Billy Standridge,Rite-Way Grinding,Billy_Standridge,Pontiac,193,1385,running,0,97
+1988,B,1988_Kroger_200,23,7,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,191,1275,running,0,94
+1988,B,1988_Kroger_200,24,16,39,usa,Steve_Grissom,Steve Grissom,Grissom Motors,Wayne_Grissom,Oldsmobile,183,1265,running,0,91
+1988,B,1988_Kroger_200,25,21,60,usa,Dale_Shaw,Dale Shaw,Budweiser,Dale_Shaw,Pontiac,172,1135,crash,0,88
+1988,B,1988_Kroger_200,26,17,56,usa,Ronald_Cooper,Ronald Cooper,Speedway Waste Disposal,Lewis_Cooper,Buick,163,1515,running,0,85
+1988,B,1988_Kroger_200,27,32,9,usa,Joe_Bessey,Joe Bessey,Pottle's Transportation,Joe_Bessey,Pontiac,152,1015,running,0,82
+1988,B,1988_Kroger_200,28,13,28,usa,Davey_Allison,Davey Allison,Havoline,Davey_Allison,Buick,143,755,engine,0,79
+1988,B,1988_Kroger_200,29,11,8,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench,"Dale_Earnhardt,_Inc.",Chevrolet,95,755,engine,0,76
+1988,B,1988_Kroger_200,30,15,81,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Windmere,Ted_Conder,Buick,93,755,crash,0,73
+1988,B,1988_Kroger_200,31,36,04,usa,Brian_Weber,Brian Weber,Magnum Drywall & Acoustics,Brian_Weber,Buick,93,995,engine,0,70
+1988,B,1988_Kroger_200,32,24,07,usa,Tommy_Sigmon,Tommy Sigmon,Burke Grading & Paving,Dwight_Huffman,Oldsmobile,79,1255,crash,0,67
+1988,B,1988_Kroger_200,33,5,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,48,1255,engine,0,64
+1988,B,1988_Kroger_200,34,33,1,usa,Pete_Silva,Pete Silva,Prescott Racing,,Oldsmobile,35,995,engine,0,61
+1988,B,1988_Kroger_200,35,26,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,22,2705,overheating,0,58
+1988,B,1988_Kroger_200,36,34,75,usa,Larry_Cates,Larry Cates,California Concepts,,Chevrolet,7,985,engine,0,55
+1988,B,1988_Poole_Equipment_150,1,2,22,usa,Rick_Mast,Rick Mast,A.G. Dillard,Alan_Dillard_Jr.,Buick,150,6975,running,110,180
+1988,B,1988_Poole_Equipment_150,2,4,84,usa,Mike_Alexander,Mike Alexander,Alexander Racing,Mike_Alexander,Buick,150,3200,running,0,170
+1988,B,1988_Poole_Equipment_150,3,12,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,150,1700,running,0,165
+1988,B,1988_Poole_Equipment_150,4,3,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,150,1375,running,33,160
+1988,B,1988_Poole_Equipment_150,5,14,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,150,1275,running,0,155
+1988,B,1988_Poole_Equipment_150,6,5,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,150,1975,running,0,150
+1988,B,1988_Poole_Equipment_150,7,8,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,150,1900,running,0,146
+1988,B,1988_Poole_Equipment_150,8,6,56,usa,Ronald_Cooper,Ronald Cooper,Speedway Waste Disposal,Lewis_Cooper,Buick,150,1100,running,0,142
+1988,B,1988_Poole_Equipment_150,9,18,42,usa,Elton_Sawyer,Elton Sawyer,Bill Lewis,Bill_Lewis,Chevrolet,150,1050,running,0,138
+1988,B,1988_Poole_Equipment_150,10,9,02,usa,Kenny_Burks,Kenny Burks,Burks Racing,J_C_Burks,Chevrolet,150,1000,running,0,134
+1988,B,1988_Poole_Equipment_150,11,21,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,150,1700,running,0,130
+1988,B,1988_Poole_Equipment_150,12,20,24,usa,Joe_Thurman,Joe Thurman,Thackston's Garage,Marvin_Thackston,Ford,150,900,running,0,127
+1988,B,1988_Poole_Equipment_150,13,24,47,usa,Billy_Standridge,Billy Standridge,Standridge Auto Parts,Billy_Standridge,Pontiac,150,1150,running,0,124
+1988,B,1988_Poole_Equipment_150,14,11,00,usa,Ronnie_Silver,Ronnie Silver,Thomas Brothers Country Hams,Howard_Thomas,Oldsmobile,149,825,running,0,121
+1988,B,1988_Poole_Equipment_150,15,10,64,usa,Jeff_Burton,Jeff Burton,Golden Skillet,John_Burton,Oldsmobile,148,375,running,0,118
+1988,B,1988_Poole_Equipment_150,16,15,34,usa,Jimmy_Spencer,Jimmy Spencer,Cicci Racing,Frank_Cicci,Buick,148,720,crash,0,115
+1988,B,1988_Poole_Equipment_150,17,23,31,usa,Rickie_Smith,Rickie Smith,Ken-Tenn Raceway,,Ford,147,300,running,0,0
+1988,B,1988_Poole_Equipment_150,18,13,66,usa,Donny_Ling_Jr,"Donny Ling, Jr.",D & D Competition,Don_Ling_Sr.,Oldsmobile,143,280,running,0,109
+1988,B,1988_Poole_Equipment_150,19,19,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,142,675,crash,0,106
+1988,B,1988_Poole_Equipment_150,20,17,0,usa,Joe_Millikan,Joe Millikan,Thomas Brothers Country Hams,Howard_Thomas,Oldsmobile,108,270,crash,0,103
+1988,B,1988_Poole_Equipment_150,21,1,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,90,2015,engine,7,100
+1988,B,1988_Poole_Equipment_150,22,7,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,71,1410,engine,0,97
+1988,B,1988_Poole_Equipment_150,23,16,39,usa,Steve_Grissom,Steve Grissom,Grissom Motors,Wayne_Grissom,Oldsmobile,11,655,crash,0,94
+1988,B,1988_Poole_Equipment_150,24,22,7,usa,Tommy_Sigmon,Tommy Sigmon,Burke Grading & Paving,Dwight_Huffman,Oldsmobile,11,650,crash,0,91
+1988,B,1988_Tri-City_Pontiac_200,1,7,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,200,11075,running,169,180
+1988,B,1988_Tri-City_Pontiac_200,2,18,84,usa,Mike_Alexander,Mike Alexander,Alexander Racing,Mike_Alexander,Buick,200,6000,running,0,170
+1988,B,1988_Tri-City_Pontiac_200,3,24,8,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench,"Dale_Earnhardt,_Inc.",Chevrolet,200,3250,running,0,165
+1988,B,1988_Tri-City_Pontiac_200,4,11,7,usa,Harry_Gant,Harry Gant,Skoal,Ed_Whitaker,Buick,200,2000,running,0,160
+1988,B,1988_Tri-City_Pontiac_200,5,5,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,200,3870,running,0,155
+1988,B,1988_Tri-City_Pontiac_200,6,13,34,usa,Jimmy_Spencer,Jimmy Spencer,Cicci Racing,Frank_Cicci,Buick,200,2350,running,0,150
+1988,B,1988_Tri-City_Pontiac_200,7,8,28,usa,Davey_Allison,Davey Allison,Havoline,Davey_Allison,Buick,200,1225,running,0,146
+1988,B,1988_Tri-City_Pontiac_200,8,25,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,200,3240,running,0,142
+1988,B,1988_Tri-City_Pontiac_200,9,9,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,200,1800,running,0,138
+1988,B,1988_Tri-City_Pontiac_200,10,2,06,usa,Mark_Martin,Mark Martin,Carolina Ford Dealers,Bill_Davis,Ford,200,925,running,0,134
+1988,B,1988_Tri-City_Pontiac_200,11,17,75,usa,Brad_Teague,Brad Teague,Food Country USA,Charlie_Henderson,Oldsmobile,200,1625,running,0,130
+1988,B,1988_Tri-City_Pontiac_200,12,28,81,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Windmere,Ted_Conder,Buick,200,800,running,0,127
+1988,B,1988_Tri-City_Pontiac_200,13,26,00,usa,Ronnie_Silver,Ronnie Silver,Thomas Brothers Country Hams,Howard_Thomas,Oldsmobile,199,1500,running,0,124
+1988,B,1988_Tri-City_Pontiac_200,14,22,47,usa,Billy_Standridge,Billy Standridge,Standridge Auto Parts,Billy_Standridge,Pontiac,199,1425,running,0,121
+1988,B,1988_Tri-City_Pontiac_200,15,12,42,usa,Elton_Sawyer,Elton Sawyer,Bill Lewis,Bill_Lewis,Chevrolet,198,1350,running,0,118
+1988,B,1988_Tri-City_Pontiac_200,16,19,79,usa,Bobby_Dotter,Bobby Dotter,Northbrook Dairy Queen,Bob_Dotter,Buick,198,1300,running,0,115
+1988,B,1988_Tri-City_Pontiac_200,17,14,22,usa,Rick_Mast,Rick Mast,A.G. Dillard,Alan_Dillard_Jr.,Buick,198,2500,running,0,112
+1988,B,1988_Tri-City_Pontiac_200,18,21,56,usa,Ronald_Cooper,Ronald Cooper,Speedway Waste Disposal,Lewis_Cooper,Buick,197,1200,running,0,109
+1988,B,1988_Tri-City_Pontiac_200,19,29,39,usa,Steve_Grissom,Steve Grissom,Automatic Curb,Wayne_Grissom,Oldsmobile,196,1150,running,0,106
+1988,B,1988_Tri-City_Pontiac_200,20,32,24,usa,Joe_Thurman,Joe Thurman,Thackston's Garage,Marvin_Thackston,Ford,193,1145,running,0,103
+1988,B,1988_Tri-City_Pontiac_200,21,27,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,193,1040,running,0,100
+1988,B,1988_Tri-City_Pontiac_200,22,15,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,191,2285,running,0,0
+1988,B,1988_Tri-City_Pontiac_200,23,16,14,usa,Michael_Waltrip,Michael Waltrip,Country Time Lemonade,Ronnie_Silver,Oldsmobile,181,530,crash,0,94
+1988,B,1988_Tri-City_Pontiac_200,24,1,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,179,2525,running,31,91
+1988,B,1988_Tri-City_Pontiac_200,25,3,66,usa,Geoffrey_Bodine,Geoffrey Bodine,Food Country USA,Charlie_Henderson,Buick,159,520,engine,0,88
+1988,B,1988_Tri-City_Pontiac_200,26,23,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,130,1010,crash,0,85
+1988,B,1988_Tri-City_Pontiac_200,27,6,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,99,2255,crash,0,82
+1988,B,1988_Tri-City_Pontiac_200,28,30,41,usa,Max_Prestwood,Max Prestwood,Custom Veneers,Max_Prestwood,Oldsmobile,64,500,crash,0,79
+1988,B,1988_Tri-City_Pontiac_200,29,10,17,usa,Darrell_Waltrip,Darrell Waltrip,Exxon Superflo,Darrell_Waltrip,Chevrolet,49,495,crash,0,76
+1988,B,1988_Tri-City_Pontiac_200,30,31,02,usa,Kenny_Burks,Kenny Burks,Williams & Burks,J_C_Burks,Chevrolet,48,985,crash,0,73
+1988,B,1988_Tri-City_Pontiac_200,31,20,07,usa,Tommy_Sigmon,Tommy Sigmon,Burke Grading & Paving,Dwight_Huffman,Oldsmobile,40,985,crash,0,70
+1988,B,1988_Tri-City_Pontiac_200,32,4,32,usa,Dale_Jarrett,Dale Jarrett,Port-A-Lube,Horace_Isenhower,Oldsmobile,25,985,engine,0,67
+1988,B,1988_Gatorade_200,1,2,7,usa,Harry_Gant,Harry Gant,Skoal,Ed_Whitaker,Buick,147,11275,running,91,180
+1988,B,1988_Gatorade_200,2,1,15,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,147,5975,running,32,170
+1988,B,1988_Gatorade_200,3,12,17,usa,Michael_Waltrip,Michael Waltrip,Exxon Superflo,Darrell_Waltrip,Chevrolet,147,4300,running,7,0
+1988,B,1988_Gatorade_200,4,14,28,usa,Davey_Allison,Davey Allison,Havoline,Davey_Allison,Buick,147,2750,running,1,160
+1988,B,1988_Gatorade_200,5,7,97,usa,Morgan_Shepherd,Morgan Shepherd,Winner's Circle Auto Parts,Morgan_Shepherd,Buick,146,2175,running,0,155
+1988,B,1988_Gatorade_200,6,29,34,usa,Jimmy_Spencer,Jimmy Spencer,Cicci Racing,Frank_Cicci,Buick,146,5050,running,0,150
+1988,B,1988_Gatorade_200,7,9,84,usa,Mike_Alexander,Mike Alexander,GM Tech Team,Mike_Alexander,Buick,146,5400,running,0,146
+1988,B,1988_Gatorade_200,8,18,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,146,5000,running,0,142
+1988,B,1988_Gatorade_200,9,4,66,usa,Rusty_Wallace,Rusty Wallace,Kodiak,Rusty_Wallace,Pontiac,146,1300,running,16,0
+1988,B,1988_Gatorade_200,10,5,75,usa,Brad_Teague,Brad Teague,Food Country USA,Charlie_Henderson,Oldsmobile,146,1800,running,0,134
+1988,B,1988_Gatorade_200,11,23,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,146,4575,running,0,130
+1988,B,1988_Gatorade_200,12,21,22,usa,Rick_Mast,Rick Mast,A.G. Dillard,Alan_Dillard_Jr.,Buick,146,4375,running,0,127
+1988,B,1988_Gatorade_200,13,11,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,145,5225,running,0,124
+1988,B,1988_Gatorade_200,14,15,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,145,4050,running,0,121
+1988,B,1988_Gatorade_200,15,25,30,usa,Kyle_Petty,Kyle Petty,Peak Anti-Freeze,Kyle_Petty,Ford,145,850,running,0,0
+1988,B,1988_Gatorade_200,16,31,88,usa,Bobby_Labonte,Bobby Labonte,Winner's Circle Auto Parts,Bob_Labonte,Buick,144,825,running,0,115
+1988,B,1988_Gatorade_200,17,26,42,usa,Elton_Sawyer,Elton Sawyer,Bill Lewis,Bill_Lewis,Chevrolet,144,2100,running,0,112
+1988,B,1988_Gatorade_200,18,27,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,144,3825,running,0,109
+1988,B,1988_Gatorade_200,19,37,56,usa,Ronald_Cooper,Ronald Cooper,Speedway Waste Disposal,Lewis_Cooper,Buick,143,1950,running,0,106
+1988,B,1988_Gatorade_200,20,28,47,usa,Billy_Standridge,Billy Standridge,Standridge Auto Parts,Billy_Standridge,Chevrolet,143,1875,running,0,103
+1988,B,1988_Gatorade_200,21,8,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,142,1800,running,0,100
+1988,B,1988_Gatorade_200,22,38,4,usa,Ben_Hess,Ben Hess,Hess Racing,Ben_Hess,Oldsmobile,142,675,running,0,97
+1988,B,1988_Gatorade_200,23,24,24,usa,Joe_Thurman,Joe Thurman,Thackston's Garage,Marvin_Thackston,Ford,141,1700,running,0,94
+1988,B,1988_Gatorade_200,24,22,96,usa,Tom_Peck,Tom Peck,Hagerstown Speedway,Mark_Thomas,Oldsmobile,141,625,running,0,91
+1988,B,1988_Gatorade_200,25,32,07,usa,Tommy_Sigmon,Tommy Sigmon,Burke Grading & Paving,Dwight_Huffman,Chevrolet,141,1625,running,0,88
+1988,B,1988_Gatorade_200,26,16,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,141,1575,running,0,85
+1988,B,1988_Gatorade_200,27,30,37,usa,Patty_Moise,Patty Moise,Crisco Butter-Flavored,Patty_Moise,Buick,139,570,crash,0,82
+1988,B,1988_Gatorade_200,28,33,40,usa,Frank_Fleming,Frank Fleming,Starrett Corporation,,Buick,139,565,running,0,79
+1988,B,1988_Gatorade_200,29,13,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,107,2910,clutch,0,76
+1988,B,1988_Gatorade_200,30,20,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,97,1150,engine,0,73
+1988,B,1988_Gatorade_200,31,10,81,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Windmere,Ted_Conder,Buick,96,550,overheating,0,70
+1988,B,1988_Gatorade_200,32,6,8,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench,"Dale_Earnhardt,_Inc.",Chevrolet,91,1145,oil leak,0,67
+1988,B,1988_Gatorade_200,33,35,10,usa,Preston_Brown,Preston Brown,Humphrey Racing,,Oldsmobile,77,540,running,0,64
+1988,B,1988_Gatorade_200,34,39,48,usa,Jimmy_Edwards_Jr,"Jimmy Edwards, Jr.",Edwards Enterprises,,Chevrolet,66,535,handling,0,61
+1988,B,1988_Gatorade_200,35,3,32,usa,Dale_Jarrett,Dale Jarrett,Port-A-Lube,Horace_Isenhower,Oldsmobile,44,1130,suspension,0,58
+1988,B,1988_Gatorade_200,36,34,39,usa,Steve_Grissom,Steve Grissom,Grissom Motors,Wayne_Grissom,Oldsmobile,23,1125,electrical,0,55
+1988,B,1988_Gatorade_200,37,36,60,usa,Dale_Shaw,Dale Shaw,Budweiser,Dale_Shaw,Pontiac,16,525,engine,0,52
+1988,B,1988_Gatorade_200,38,19,06,usa,Mark_Martin,Mark Martin,Carolina Ford Dealers,Bill_Davis,Ford,14,525,engine,0,49
+1988,B,1988_Gatorade_200,39,17,52,usa,Ken_Schrader,Ken Schrader,Exxon,Ken_Schrader,Chevrolet,5,525,electrical,0,46
+1988,B,1988_Commonwealth_200,1,1,7,usa,Harry_Gant,Harry Gant,Skoal,Ed_Whitaker,Buick,200,9025,running,73,180
+1988,B,1988_Commonwealth_200,2,26,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,200,6075,running,89,170
+1988,B,1988_Commonwealth_200,3,13,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,200,4600,running,0,165
+1988,B,1988_Commonwealth_200,4,28,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,200,3950,running,3,160
+1988,B,1988_Commonwealth_200,5,18,39,usa,Steve_Grissom,Steve Grissom,Grissom Motors,Wayne_Grissom,Oldsmobile,200,2475,running,0,155
+1988,B,1988_Commonwealth_200,6,21,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,199,3125,running,0,150
+1988,B,1988_Commonwealth_200,7,32,07,usa,Tommy_Sigmon,Tommy Sigmon,Burke Grading & Paving,Dwight_Huffman,Oldsmobile,199,2075,running,0,146
+1988,B,1988_Commonwealth_200,8,8,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,198,1725,running,0,142
+1988,B,1988_Commonwealth_200,9,6,06,usa,Mark_Martin,Mark Martin,Carolina Ford Dealers,Bill_Davis,Ford,197,1125,running,0,138
+1988,B,1988_Commonwealth_200,10,27,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,197,1575,running,0,134
+1988,B,1988_Commonwealth_200,11,34,1,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn,Allen_Avery,Buick,197,1595,running,0,130
+1988,B,1988_Commonwealth_200,12,3,81,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Windmere,Ted_Conder,Buick,197,895,running,0,127
+1988,B,1988_Commonwealth_200,13,32,24,usa,Joe_Thurman,Joe Thurman,Thackston's Garage,Marvin_Thackston,Ford,196,1380,running,0,124
+1988,B,1988_Commonwealth_200,14,5,44,usa,Sterling_Marlin,Sterling Marlin,Piedmont Airlines,Billy_Hagan,Oldsmobile,195,850,running,0,121
+1988,B,1988_Commonwealth_200,15,14,37,usa,Patty_Moise,Patty Moise,Crisco Butter-Flavored,Patty_Moise,Buick,195,820,running,0,118
+1988,B,1988_Commonwealth_200,16,17,34,usa,Jimmy_Spencer,Jimmy Spencer,Cicci Racing,Frank_Cicci,Buick,194,1300,running,2,115
+1988,B,1988_Commonwealth_200,17,25,47,usa,Billy_Standridge,Billy Standridge,Rite-Way Grinding,Billy_Standridge,Pontiac,194,1250,running,0,112
+1988,B,1988_Commonwealth_200,18,11,60,usa,Dale_Shaw,Dale Shaw,Budweiser,Dale_Shaw,Pontiac,192,1315,running,0,109
+1988,B,1988_Commonwealth_200,19,15,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,188,1150,running,0,106
+1988,B,1988_Commonwealth_200,20,4,56,usa,Ronald_Cooper,Ronald Cooper,Speedway Waste Disposal,Lewis_Cooper,Buick,188,1115,running,0,103
+1988,B,1988_Commonwealth_200,21,35,9,usa,Joe_Bessey,Joe Bessey,Cola Transport,Joe_Bessey,Pontiac,187,1160,running,0,100
+1988,B,1988_Commonwealth_200,22,19,71,usa,Bobby_Dragon,Bobby Dragon,D.G. Robertson,,Buick,186,1085,running,0,97
+1988,B,1988_Commonwealth_200,23,20,66,usa,Donny_Ling_Jr,"Donny Ling, Jr.",Clark Cooling,Don_Ling_Sr.,Oldsmobile,176,550,running,0,94
+1988,B,1988_Commonwealth_200,24,12,84,usa,Mike_Alexander,Mike Alexander,GM Tech Team,Mike_Alexander,Buick,173,2275,running,26,91
+1988,B,1988_Commonwealth_200,25,31,22,usa,Rick_Mast,Rick Mast,A.G. Dillard,Alan_Dillard_Jr.,Buick,154,2240,running,0,88
+1988,B,1988_Commonwealth_200,26,2,15,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,142,475,carburetor,7,85
+1988,B,1988_Commonwealth_200,27,10,41,usa,Max_Prestwood,Max Prestwood,Custom Veneers,Max_Prestwood,Oldsmobile,138,450,engine,0,82
+1988,B,1988_Commonwealth_200,28,16,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,121,2175,crash,0,79
+1988,B,1988_Commonwealth_200,29,22,42,usa,Elton_Sawyer,Elton Sawyer,Bill Lewis,Bill_Lewis,Chevrolet,118,915,engine,0,76
+1988,B,1988_Commonwealth_200,30,30,76,usa,Billy_Hicks,Billy Hicks,Hicks Racing,Billy_Hicks,Oldsmobile,112,400,crash,0,73
+1988,B,1988_Commonwealth_200,31,36,69,usa,Kelly_Moore,Kelly Moore,Spraker Racing,Jeff_Spraker,Chevrolet,90,880,engine,0,70
+1988,B,1988_Commonwealth_200,32,7,97,usa,Morgan_Shepherd,Morgan Shepherd,Winner's Circle Auto Parts,Morgan_Shepherd,Buick,89,400,rear end,0,67
+1988,B,1988_Commonwealth_200,33,29,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,88,2150,running,0,64
+1988,B,1988_Commonwealth_200,34,9,32,usa,Dale_Jarrett,Dale Jarrett,Port-A-Lube,Horace_Isenhower,Oldsmobile,77,900,tires,0,61
+1988,B,1988_Commonwealth_200,35,23,48,usa,Robbie_Crouch,Robbie Crouch,Letarte Race Cars,,Buick,26,880,engine,0,58
+1988,B,1988_Commonwealth_200,36,24,4,usa,Andy_Petree,Andy Petree,Lambert Racing,G_And_G_Racing,Oldsmobile,9,400,crash,0,55
+1988,B,1988_Grand_National_200,1,5,17,usa,Michael_Waltrip,Michael Waltrip,Exxon Superflo,Darrell_Waltrip,Chevrolet,200,9125,running,37,0
+1988,B,1988_Grand_National_200,2,16,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,200,7375,running,17,170
+1988,B,1988_Grand_National_200,3,29,97,usa,Morgan_Shepherd,Morgan Shepherd,Winner's Circle Auto Parts,Morgan_Shepherd,Buick,200,3625,running,0,165
+1988,B,1988_Grand_National_200,4,7,81,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Windmere,Ted_Conder,Buick,200,2275,running,0,160
+1988,B,1988_Grand_National_200,5,18,56,usa,Ronald_Cooper,Ronald Cooper,Speedway Waste Disposal,Lewis_Cooper,Buick,200,2925,running,0,155
+1988,B,1988_Grand_National_200,6,25,34,usa,Jimmy_Spencer,Jimmy Spencer,Cicci Racing,Frank_Cicci,Buick,200,2225,running,0,150
+1988,B,1988_Grand_National_200,7,1,7,usa,Harry_Gant,Harry Gant,Skoal,Ed_Whitaker,Buick,200,2275,running,68,146
+1988,B,1988_Grand_National_200,8,21,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,200,1875,running,0,142
+1988,B,1988_Grand_National_200,9,23,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,200,3525,running,0,138
+1988,B,1988_Grand_National_200,10,8,28,usa,Davey_Allison,Davey Allison,Havoline,Davey_Allison,Buick,200,1075,running,0,134
+1988,B,1988_Grand_National_200,11,2,75,usa,Brad_Teague,Brad Teague,Food Country USA,Charlie_Henderson,Oldsmobile,199,1575,running,78,130
+1988,B,1988_Grand_National_200,12,15,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,199,4300,running,0,127
+1988,B,1988_Grand_National_200,13,10,1,usa,Chuck_Bown,Chuck Bown,Skoal,Quint_Boisvert,Pontiac,199,1150,running,0,124
+1988,B,1988_Grand_National_200,14,12,47,usa,Billy_Standridge,Billy Standridge,Standridge Auto Parts,Billy_Standridge,Chevrolet,198,1475,running,0,121
+1988,B,1988_Grand_National_200,15,17,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,197,3200,running,0,118
+1988,B,1988_Grand_National_200,16,27,96,usa,Tom_Peck,Tom Peck,Thomas Chevrolet,Mark_Thomas,Oldsmobile,197,825,running,0,115
+1988,B,1988_Grand_National_200,17,32,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,196,1400,running,0,112
+1988,B,1988_Grand_National_200,18,36,41,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn,Allen_Avery,Buick,196,1000,running,0,109
+1988,B,1988_Grand_National_200,19,35,60,usa,Dale_Shaw,Dale Shaw,Budweiser,Dale_Shaw,Pontiac,195,950,running,0,106
+1988,B,1988_Grand_National_200,20,24,65,usa,Tim_Nooner,Tim Nooner,Nooner Racing,Tim_Nooner,Buick,194,725,running,0,103
+1988,B,1988_Grand_National_200,21,11,22,usa,Rick_Mast,Rick Mast,A.G. Dillard,Alan_Dillard_Jr.,Buick,190,3050,overheating,0,100
+1988,B,1988_Grand_National_200,22,31,84,usa,Mike_Alexander,Mike Alexander,GM Tech Team,Mike_Alexander,Buick,190,3025,running,0,97
+1988,B,1988_Grand_National_200,23,26,58,usa,Joe_Cudmore,Joe Cudmore,Southern Maryland Motorsports,Joe_Cudmore,Oldsmobile,184,650,running,0,94
+1988,B,1988_Grand_National_200,24,38,9,usa,Joe_Bessey,Joe Bessey,Cola Transport,Joe_Bessey,Pontiac,182,795,running,0,91
+1988,B,1988_Grand_National_200,25,30,39,usa,Steve_Grissom,Steve Grissom,Automatic Curb,Wayne_Grissom,Oldsmobile,175,1200,crash,0,88
+1988,B,1988_Grand_National_200,26,19,37,usa,Patty_Moise,Patty Moise,Crisco Butter-Flavored,Patty_Moise,Buick,172,575,crash,0,85
+1988,B,1988_Grand_National_200,27,3,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,167,1150,crash,0,82
+1988,B,1988_Grand_National_200,28,9,52,usa,Ken_Schrader,Ken Schrader,Exxon,Ken_Schrader,Chevrolet,162,525,engine,0,79
+1988,B,1988_Grand_National_200,29,28,4,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,Richard_Moore,Buick,153,670,engine,0,76
+1988,B,1988_Grand_National_200,30,13,30,usa,Kyle_Petty,Kyle Petty,Peak Anti-Freeze,Kyle_Petty,Ford,146,500,engine,0,0
+1988,B,1988_Grand_National_200,31,33,24,usa,Joe_Thurman,Joe Thurman,Thackston's Garage,Marvin_Thackston,Ford,131,1100,engine,0,70
+1988,B,1988_Grand_National_200,32,14,88,usa,Bobby_Labonte,Bobby Labonte,Winner's Circle Auto Parts,Bob_Labonte,Buick,114,500,engine,0,67
+1988,B,1988_Grand_National_200,33,37,0,usa,Dick_McCabe,Dick McCabe,Hi-Torque Engines,Dick_McCabe,Buick,110,650,ignition,0,64
+1988,B,1988_Grand_National_200,34,4,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,105,2850,engine,0,61
+1988,B,1988_Grand_National_200,35,6,06,usa,Mark_Martin,Mark Martin,Carolina Ford Dealers,Bill_Davis,Ford,104,500,crash,0,58
+1988,B,1988_Grand_National_200,36,20,42,usa,Elton_Sawyer,Elton Sawyer,Bill Lewis,Bill_Lewis,Chevrolet,79,1100,engine,0,55
+1988,B,1988_Grand_National_200,37,22,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,60,2850,flywheel,0,52
+1988,B,1988_Grand_National_200,38,34,02,usa,Kenny_Burks,Kenny Burks,Williams & Burks,J_C_Burks,Buick,52,1100,steering,0,49
+1988,B,1988_Advance_Auto_150,1,11,7,usa,Harry_Gant,Harry Gant,Skoal,Ed_Whitaker,Buick,150,5550,running,25,180
+1988,B,1988_Advance_Auto_150,2,31,84,usa,Mike_Alexander,Mike Alexander,GM Tech Team,Mike_Alexander,Buick,150,4250,running,7,170
+1988,B,1988_Advance_Auto_150,3,16,42,usa,Elton_Sawyer,Elton Sawyer,Bill Lewis,Bill_Lewis,Chevrolet,150,2100,running,3,165
+1988,B,1988_Advance_Auto_150,4,8,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,150,3625,running,0,160
+1988,B,1988_Advance_Auto_150,5,12,34,usa,Jimmy_Spencer,Jimmy Spencer,Cicci Racing,Frank_Cicci,Buick,150,1650,running,0,155
+1988,B,1988_Advance_Auto_150,6,2,22,usa,Rick_Mast,Rick Mast,A.G. Dillard,Alan_Dillard_Jr.,Buick,150,2725,running,0,150
+1988,B,1988_Advance_Auto_150,7,9,56,usa,Ronald_Cooper,Ronald Cooper,Speedway Waste Disposal,Lewis_Cooper,Buick,150,1500,running,0,146
+1988,B,1988_Advance_Auto_150,8,29,0,usa,Joe_Millikan,Joe Millikan,Thomas Brothers Country Hams,Howard_Thomas,Oldsmobile,149,800,running,0,142
+1988,B,1988_Advance_Auto_150,9,32,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,149,2500,running,0,138
+1988,B,1988_Advance_Auto_150,10,3,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,149,2450,running,0,134
+1988,B,1988_Advance_Auto_150,11,26,8,usa,Kenny_Wallace,Kenny Wallace,GM Goodwrench,"Dale_Earnhardt,_Inc.",Chevrolet,149,650,running,0,130
+1988,B,1988_Advance_Auto_150,12,6,41,usa,Max_Prestwood,Max Prestwood,Custom Veneers,Max_Prestwood,Oldsmobile,149,600,running,0,127
+1988,B,1988_Advance_Auto_150,13,24,3,usa,Mike_Porter,Mike Porter,Ryder Floors,,Chevrolet,148,540,running,0,124
+1988,B,1988_Advance_Auto_150,14,28,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,148,1125,running,0,121
+1988,B,1988_Advance_Auto_150,15,1,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,147,2565,running,103,118
+1988,B,1988_Advance_Auto_150,16,14,81,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Brendle's,Ted_Conder,Buick,147,500,running,0,115
+1988,B,1988_Advance_Auto_150,17,18,4,usa,Andy_Petree,Andy Petree,G & G Racing,G_And_G_Racing,Oldsmobile,147,480,running,0,112
+1988,B,1988_Advance_Auto_150,18,22,06,usa,Mark_Martin,Mark Martin,Carolina Ford Dealers,Bill_Davis,Ford,147,460,running,0,109
+1988,B,1988_Advance_Auto_150,19,25,47,usa,Billy_Standridge,Billy Standridge,Standridge Auto Parts,Billy_Standridge,Pontiac,147,1055,running,0,106
+1988,B,1988_Advance_Auto_150,20,10,66,usa,Donny_Ling_Jr,"Donny Ling, Jr.",Clark Cooling,Don_Ling_Sr.,Oldsmobile,146,450,running,0,103
+1988,B,1988_Advance_Auto_150,21,30,09,usa,Joe_Thurman,Joe Thurman,Scott's Towing Service,,Ford,145,1045,running,0,100
+1988,B,1988_Advance_Auto_150,22,21,00,usa,Ronnie_Silver,Ronnie Silver,Thomas Brothers Country Hams,Howard_Thomas,Oldsmobile,142,1040,running,0,97
+1988,B,1988_Advance_Auto_150,23,4,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,140,1035,running,0,94
+1988,B,1988_Advance_Auto_150,24,15,07,usa,Tommy_Sigmon,Tommy Sigmon,Burke Grading & Paving,Dwight_Huffman,Oldsmobile,131,1030,running,0,91
+1988,B,1988_Advance_Auto_150,25,20,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,123,2175,overheating,0,88
+1988,B,1988_Advance_Auto_150,26,19,02,usa,Kenny_Burks,Kenny Burks,Williams & Burks,J_C_Burks,Buick,121,1020,running,0,85
+1988,B,1988_Advance_Auto_150,27,5,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,115,2165,suspension,12,82
+1988,B,1988_Advance_Auto_150,28,13,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,74,1010,ignition,0,79
+1988,B,1988_Advance_Auto_150,29,7,79,usa,Bobby_Dotter,Bobby Dotter,Northbrook Dairy Queen,Bob_Dotter,Buick,31,1005,carburetor,0,76
+1988,B,1988_Advance_Auto_150,30,23,32,usa,Dale_Jarrett,Dale Jarrett,Port-A-Lube,Horace_Isenhower,Oldsmobile,14,400,crash,0,73
+1988,B,1988_Advance_Auto_150,31,27,39,usa,Steve_Grissom,Steve Grissom,Grissom Motors,Wayne_Grissom,Oldsmobile,9,1000,hub,0,70
+1988,B,1988_Advance_Auto_150,32,17,75,usa,Brad_Teague,Brad Teague,Food Country USA,Charlie_Henderson,Oldsmobile,9,1000,engine,0,67
+1988,B,1988_All_Pro_300,1,13,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,200,54650,running,12,180
+1988,B,1988_All_Pro_300,2,2,15,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,200,25300,running,109,170
+1988,B,1988_All_Pro_300,3,5,81,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Brendle's,Ted_Conder,Buick,200,18905,running,6,165
+1988,B,1988_All_Pro_300,4,7,52,usa,Ken_Schrader,Ken Schrader,Hendrick Team,Ken_Schrader,Chevrolet,200,31450,running,55,160
+1988,B,1988_All_Pro_300,5,9,17,usa,Darrell_Waltrip,Darrell Waltrip,Exxon Superflo,Darrell_Waltrip,Chevrolet,199,11725,running,0,155
+1988,B,1988_All_Pro_300,6,27,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,199,13550,running,0,150
+1988,B,1988_All_Pro_300,7,37,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,199,11050,running,0,146
+1988,B,1988_All_Pro_300,8,36,47,usa,Billy_Standridge,Billy Standridge,Rite-Way Grinding,Billy_Standridge,Chevrolet,199,10600,running,0,142
+1988,B,1988_All_Pro_300,9,4,66,usa,Rusty_Wallace,Rusty Wallace,Kodiak,Rusty_Wallace,Pontiac,199,10600,running,11,0
+1988,B,1988_All_Pro_300,10,12,32,usa,Dale_Jarrett,Dale Jarrett,Port-A-Lube,Horace_Isenhower,Oldsmobile,198,5000,running,0,134
+1988,B,1988_All_Pro_300,11,29,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,198,7600,running,0,130
+1988,B,1988_All_Pro_300,12,11,14,usa,Michael_Waltrip,Michael Waltrip,All-Pro Auto Parts,Ronnie_Silver,Oldsmobile,198,3500,running,0,127
+1988,B,1988_All_Pro_300,13,21,12,usa,Neil_Bonnett,Neil Bonnett,Piper Aircraft,Bobby_Allison,Buick,198,3170,running,0,124
+1988,B,1988_All_Pro_300,14,30,16,usa,Bobby_Hamilton,Bobby Hamilton,Hamilton Racing,,Chevrolet,198,4020,running,0,0
+1988,B,1988_All_Pro_300,15,19,56,usa,Ronald_Cooper,Ronald Cooper,Speedway Waste Disposal,Lewis_Cooper,Buick,198,4220,running,0,118
+1988,B,1988_All_Pro_300,16,31,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,197,8820,running,0,115
+1988,B,1988_All_Pro_300,17,39,39,usa,Steve_Grissom,Steve Grissom,Automatic Curb,Wayne_Grissom,Oldsmobile,197,3620,running,0,112
+1988,B,1988_All_Pro_300,18,42,1,usa,Ken_Bouchard,Ken Bouchard,Whitcomb Racing,Bob_Whitcomb,Chevrolet,196,5920,running,0,109
+1988,B,1988_All_Pro_300,19,26,37,usa,Patty_Moise,Patty Moise,Crisco Butter-Flavored,Patty_Moise,Buick,194,2320,running,0,106
+1988,B,1988_All_Pro_300,20,41,4,usa,Ben_Hess,Ben Hess,Hess Racing,Ben_Hess,Pontiac,194,2720,running,7,103
+1988,B,1988_All_Pro_300,21,15,44,usa,Sterling_Marlin,Sterling Marlin,Piedmont Airlines,Billy_Hagan,Oldsmobile,191,2120,engine,0,100
+1988,B,1988_All_Pro_300,22,17,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,191,6370,running,0,97
+1988,B,1988_All_Pro_300,23,14,9,usa,Bill_Elliott,Bill Elliott,Wicassett Mills / Performance Yarns,Bill_Elliott,Ford,184,1920,running,0,94
+1988,B,1988_All_Pro_300,24,20,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,182,3920,running,0,91
+1988,B,1988_All_Pro_300,25,33,22,usa,Rick_Mast,Rick Mast,A.G. Dillard,Alan_Dillard_Jr.,Buick,179,4070,crash,0,88
+1988,B,1988_All_Pro_300,26,10,84,usa,Mike_Alexander,Mike Alexander,GM Tech Team,Mike_Alexander,Buick,171,4245,running,0,85
+1988,B,1988_All_Pro_300,27,24,79,usa,Dave_Rezendes,Dave Rezendes,K.R. Rezendes,Dave_Rezendes,Oldsmobile,168,1520,running,0,82
+1988,B,1988_All_Pro_300,28,34,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,160,3770,engine,0,79
+1988,B,1988_All_Pro_300,29,25,34,usa,Jimmy_Spencer,Jimmy Spencer,Cicci Racing,Frank_Cicci,Buick,140,1920,running,0,76
+1988,B,1988_All_Pro_300,30,44,96,usa,Tom_Peck,Tom Peck,Thomas Chevrolet,Mark_Thomas,Oldsmobile,132,1740,engine,0,73
+1988,B,1988_All_Pro_300,31,40,07,usa,Tommy_Sigmon,Tommy Sigmon,Burke Grading & Paving,Dwight_Huffman,Oldsmobile,128,1820,engine,0,70
+1988,B,1988_All_Pro_300,32,32,77,usa,Dave_Simpson,Dave Simpson,Simpson Racing,Bill_Simpson,Buick,114,1170,crash,0,67
+1988,B,1988_All_Pro_300,33,3,8,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench,"Dale_Earnhardt,_Inc.",Chevrolet,102,6300,engine,0,64
+1988,B,1988_All_Pro_300,34,28,42,usa,Elton_Sawyer,Elton Sawyer,Chevy Trucks,Bill_Lewis,Chevrolet,86,1730,oil pan,0,61
+1988,B,1988_All_Pro_300,35,43,24,usa,Joe_Thurman,Joe Thurman,Thackston's Garage,Marvin_Thackston,Ford,86,1580,engine,0,58
+1988,B,1988_All_Pro_300,36,6,06,usa,Mark_Martin,Mark Martin,Carolina Ford Dealers,Bill_Davis,Ford,81,1120,engine,0,55
+1988,B,1988_All_Pro_300,37,35,30,usa,Kyle_Petty,Kyle Petty,Peak Anti-Freeze,Kyle_Petty,Ford,78,1050,engine,0,52
+1988,B,1988_All_Pro_300,38,1,7,usa,Harry_Gant,Harry Gant,Skoal,Ed_Whitaker,Buick,72,6930,engine,0,49
+1988,B,1988_All_Pro_300,39,8,75,usa,Brad_Teague,Brad Teague,Food Country USA,Charlie_Henderson,Oldsmobile,62,1660,engine,0,46
+1988,B,1988_All_Pro_300,40,23,71,usa,Randy_LaJoie,Randy LaJoie,D & D Competition,Randy_LaJoie,Oldsmobile,31,1000,crash,0,43
+1988,B,1988_All_Pro_300,41,38,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,19,1600,engine,0,40
+1988,B,1988_All_Pro_300,42,16,97,usa,Morgan_Shepherd,Morgan Shepherd,Valvoline,Morgan_Shepherd,Buick,3,1000,crash,0,37
+1988,B,1988_All_Pro_300,43,18,88,usa,Bobby_Labonte,Bobby Labonte,Winner's Circle Auto Parts,Bob_Labonte,Buick,3,1000,crash,0,34
+1988,B,1988_All_Pro_300,44,22,00,usa,Joe_Millikan,Joe Millikan,Thomas Brothers Country Hams,Howard_Thomas,Oldsmobile,3,1000,crash,0,31
+1988,B,1988_AC-Delco_200,1,1,7,usa,Harry_Gant,Harry Gant,Skoal,Ed_Whitaker,Buick,197,9750,running,18,180
+1988,B,1988_AC-Delco_200,2,8,8,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench,"Dale_Earnhardt,_Inc.",Chevrolet,197,3975,running,66,170
+1988,B,1988_AC-Delco_200,3,4,28,usa,Davey_Allison,Davey Allison,Havoline,Davey_Allison,Buick,197,3200,running,90,165
+1988,B,1988_AC-Delco_200,4,13,17,usa,Darrell_Waltrip,Darrell Waltrip,Exxon Superflo,Darrell_Waltrip,Chevrolet,196,1875,running,0,160
+1988,B,1988_AC-Delco_200,5,27,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,196,6075,running,0,155
+1988,B,1988_AC-Delco_200,6,5,15,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,196,1275,running,0,150
+1988,B,1988_AC-Delco_200,7,2,81,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Windmere,Ted_Conder,Buick,196,1575,running,0,146
+1988,B,1988_AC-Delco_200,8,15,52,usa,Ken_Schrader,Ken Schrader,Exxon,Ken_Schrader,Chevrolet,196,875,running,0,142
+1988,B,1988_AC-Delco_200,9,19,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,196,4575,running,0,138
+1988,B,1988_AC-Delco_200,10,34,79,usa,Dave_Rezendes,Dave Rezendes,K.R. Rezendes,Dave_Rezendes,Oldsmobile,195,975,running,0,134
+1988,B,1988_AC-Delco_200,11,12,25,usa,Rob_Moroso,Rob Moroso,Swisher Sweets,Dick_Moroso,Oldsmobile,196,4100,running,0,130
+1988,B,1988_AC-Delco_200,12,6,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,196,5020,running,0,127
+1988,B,1988_AC-Delco_200,13,17,34,usa,Jimmy_Spencer,Jimmy Spencer,Cicci Racing,Frank_Cicci,Buick,196,2050,running,9,124
+1988,B,1988_AC-Delco_200,14,28,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,195,1920,running,0,121
+1988,B,1988_AC-Delco_200,15,22,42,usa,Elton_Sawyer,Elton Sawyer,Bill Lewis,Bill_Lewis,Chevrolet,195,1890,running,0,118
+1988,B,1988_AC-Delco_200,16,23,97,usa,Morgan_Shepherd,Morgan Shepherd,Valvoline,Morgan_Shepherd,Chevrolet,195,420,running,4,115
+1988,B,1988_AC-Delco_200,17,39,84,usa,Mike_Alexander,Mike Alexander,GM Tech Team,Mike_Alexander,Buick,194,2750,running,0,112
+1988,B,1988_AC-Delco_200,18,10,75,usa,Brad_Teague,Brad Teague,Food Country USA,Charlie_Henderson,Oldsmobile,194,1095,running,0,109
+1988,B,1988_AC-Delco_200,19,21,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,194,3440,running,0,106
+1988,B,1988_AC-Delco_200,20,35,16,usa,Bobby_Hamilton,Bobby Hamilton,Lighting & Fans,,Chevrolet,193,370,running,0,0
+1988,B,1988_AC-Delco_200,21,3,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,193,1590,running,0,100
+1988,B,1988_AC-Delco_200,22,20,4,usa,Andy_Petree,Andy Petree,G & G Racing,G_And_G_Racing,Buick,193,360,running,0,0
+1988,B,1988_AC-Delco_200,23,18,63,usa,Mike_Swaim,Mike Swaim,Texas Pete Sauces,Hubert_Hensley,Chevrolet,193,1555,running,0,94
+1988,B,1988_AC-Delco_200,24,33,40,usa,Frank_Fleming,Frank Fleming,Starrett Corporation,,Buick,192,345,running,0,91
+1988,B,1988_AC-Delco_200,25,25,30,usa,Kyle_Petty,Kyle Petty,Peak Anti-Freeze,Kyle_Petty,Ford,192,340,running,0,0
+1988,B,1988_AC-Delco_200,26,24,39,usa,Steve_Grissom,Steve Grissom,Grissom Motors,Wayne_Grissom,Oldsmobile,191,1460,running,0,85
+1988,B,1988_AC-Delco_200,27,26,22,usa,Rick_Mast,Rick Mast,A.G. Dillard,Alan_Dillard_Jr.,Buick,191,3185,running,9,82
+1988,B,1988_AC-Delco_200,28,16,56,usa,Ronald_Cooper,Ronald Cooper,Speedway Waste Disposal,Lewis_Cooper,Buick,190,1385,running,0,79
+1988,B,1988_AC-Delco_200,29,36,96,usa,Tom_Peck,Tom Peck,Thomas Chevrolet,Mark_Thomas,Oldsmobile,188,335,running,0,76
+1988,B,1988_AC-Delco_200,30,40,24,usa,Joe_Thurman,Joe Thurman,Thackston's Garage,Marvin_Thackston,Ford,184,1335,engine,0,73
+1988,B,1988_AC-Delco_200,31,29,04,usa,Ben_Hess,Ben Hess,Hess Racing,Ben_Hess,Oldsmobile,117,330,crash,0,70
+1988,B,1988_AC-Delco_200,32,31,14,usa,Ronnie_Silver,Ronnie Silver,Blanton Tractor Trailer,Ronnie_Silver,Oldsmobile,80,1275,engine,0,67
+1988,B,1988_AC-Delco_200,33,37,37,usa,Patty_Moise,Patty Moise,Crisco Butter-Flavored,Patty_Moise,Buick,68,570,crash,0,64
+1988,B,1988_AC-Delco_200,34,7,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,66,2665,engine,1,61
+1988,B,1988_AC-Delco_200,35,30,07,usa,Tommy_Sigmon,Tommy Sigmon,Burke Grading & Paving,Dwight_Huffman,Chevrolet,38,900,suspension,0,58
+1988,B,1988_AC-Delco_200,36,38,98,usa,Kirk_Bryant,Kirk Bryant,Jarrell Racing,,Oldsmobile,37,300,crash,0,55
+1988,B,1988_AC-Delco_200,37,32,00,usa,Joe_Millikan,Joe Millikan,Thomas Brothers Country Hams,Howard_Thomas,Oldsmobile,35,300,crash,0,52
+1988,B,1988_AC-Delco_200,38,9,47,usa,Billy_Standridge,Billy Standridge,Rite-Way Grinding,Billy_Standridge,Chevrolet,19,900,engine,0,49
+1988,B,1988_AC-Delco_200,39,14,06,usa,Mark_Martin,Mark Martin,Carolina Ford Dealers,Bill_Davis,Ford,11,300,oil leak,0,46
+1988,B,1988_AC-Delco_200,40,11,32,usa,Dale_Jarrett,Dale Jarrett,Port-A-Lube,Horace_Isenhower,Oldsmobile,0,,did not start,0,0
+1988,B,1988_Winston_Classic,1,6,7,usa,Harry_Gant,Harry Gant,Skoal,Ed_Whitaker,Buick,200,10500,running,2,180
+1988,B,1988_Winston_Classic,2,5,25,usa,Rob_Moroso,Rob Moroso,Moroso Performance,Dick_Moroso,Oldsmobile,200,5675,running,0,170
+1988,B,1988_Winston_Classic,3,3,99,usa,Tommy_Ellis,Tommy Ellis,J & J Racing,John_Jackson,Buick,200,4150,running,0,165
+1988,B,1988_Winston_Classic,4,10,2,usa,L_D_Ottinger,L.D. Ottinger,Detroit Gasket,Ron_Parker,Buick,200,1950,running,0,160
+1988,B,1988_Winston_Classic,5,13,22,usa,Rick_Mast,Rick Mast,A.G. Dillard,Alan_Dillard_Jr.,Buick,200,3200,running,0,155
+1988,B,1988_Winston_Classic,6,9,63,usa,Morgan_Shepherd,Morgan Shepherd,Texas Pete Sauces,Hubert_Hensley,Chevrolet,200,1350,running,0,150
+1988,B,1988_Winston_Classic,7,16,42,usa,Elton_Sawyer,Elton Sawyer,Bill Lewis,Bill_Lewis,Chevrolet,200,1900,running,0,146
+1988,B,1988_Winston_Classic,8,15,75,usa,Brad_Teague,Brad Teague,Food Country USA,Charlie_Henderson,Oldsmobile,200,1600,running,0,142
+1988,B,1988_Winston_Classic,9,1,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,Steve_Arndt,Buick,199,4975,fuel,198,138
+1988,B,1988_Winston_Classic,10,27,81,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.",Windmere,Ted_Conder,Buick,199,1580,running,0,134
+1988,B,1988_Winston_Classic,11,4,32,usa,Dale_Jarrett,Dale Jarrett,Port-A-Lube,Horace_Isenhower,Oldsmobile,199,1030,running,0,130
+1988,B,1988_Winston_Classic,12,16,00,usa,Joe_Millikan,Joe Millikan,Thomas Brothers Country Hams,Howard_Thomas,Oldsmobile,199,1010,running,0,127
+1988,B,1988_Winston_Classic,13,14,11,usa,Jack_Ingram,Jack Ingram,Skoal,Jack_Ingram,Chevrolet,199,2740,running,0,124
+1988,B,1988_Winston_Classic,14,21,56,usa,Ronald_Cooper,Ronald Cooper,Speedway Waste Disposal,Lewis_Cooper,Buick,199,1545,running,0,121
+1988,B,1988_Winston_Classic,15,8,66,usa,Donny_Ling_Jr,"Donny Ling, Jr.",Clark Cooling,Don_Ling_Sr.,Oldsmobile,199,975,running,0,118
+1988,B,1988_Winston_Classic,16,7,34,usa,Jimmy_Spencer,Jimmy Spencer,Cicci Racing,Frank_Cicci,Buick,198,1430,running,0,115
+1988,B,1988_Winston_Classic,17,32,14,usa,Ronnie_Silver,Ronnie Silver,Blanton Tractor Trailer,Ronnie_Silver,Oldsmobile,198,1435,running,0,112
+1988,B,1988_Winston_Classic,18,17,39,usa,Steve_Grissom,Steve Grissom,Texas Pete Sauces,Wayne_Grissom,Oldsmobile,198,1390,running,0,109
+1988,B,1988_Winston_Classic,19,26,37,usa,Patty_Moise,Patty Moise,Crisco Butter-Flavored,Patty_Moise,Buick,198,910,running,0,106
+1988,B,1988_Winston_Classic,20,22,21,usa,Larry_Pearson,Larry Pearson,Chattanooga Chew,David_Pearson,Chevrolet,197,3410,running,0,103
+1988,B,1988_Winston_Classic,21,20,47,usa,Billy_Standridge,Billy Standridge,Rite-Way Grinding,Billy_Standridge,Pontiac,197,1315,running,0,100
+1988,B,1988_Winston_Classic,22,11,84,usa,Mike_Alexander,Mike Alexander,GM Tech Team,Mike_Alexander,Buick,196,2545,running,0,97
+1988,B,1988_Winston_Classic,23,28,02,usa,Kenny_Burks,Kenny Burks,Williams & Burks,J_C_Burks,Buick,165,1305,running,0,94
+1988,B,1988_Winston_Classic,24,19,05,usa,Wayne_Patterson,Wayne Patterson,"W.O. Grubb, Inc.",William_Grubb,Chevrolet,157,755,running,0,91
+1988,B,1988_Winston_Classic,25,12,5,usa,Jimmy_Hensley,Jimmy Hensley,Advance Auto Parts,Sam_Ard,Buick,135,2485,oil leak,0,88
+1988,B,1988_Winston_Classic,26,23,90,usa,Ed_Berrier,Ed Berrier,Cox Wood Preserving,Grover_Shugart,Buick,89,1265,overheating,0,85
+1988,B,1988_Winston_Classic,27,2,15,usa,Geoffrey_Bodine,Geoffrey Bodine,Levi Garrett,Rick_Hendrick,Chevrolet,56,695,crash,0,82
+1988,B,1988_Winston_Classic,28,24,1,usa,Pete_Silva,Pete Silva,Prescott Racing,,Oldsmobile,51,725,crash,0,79
+1988,B,1988_Winston_Classic,29,30,92,usa,Gregg_Lessard,Gregg Lessard,Automotive Contacts,,Buick,15,680,rear end,0,0
+1988,B,1988_Winston_Classic,30,25,4,usa,Andy_Petree,Andy Petree,Dellinger,G_And_G_Racing,Oldsmobile,1,665,crash,0,73
+1988,B,1988_Winston_Classic,31,29,27,usa,Bosco_Lowe,Bosco Lowe,Family Storage Center,Edgar_Ryder,Pontiac,1,650,driveshaft,0,70
+1988,B,1988_Winston_Classic,32,31,07,usa,Tommy_Sigmon,Tommy Sigmon,Duck Graphics,Dwight_Huffman,Oldsmobile,0,1150,crash,0,67

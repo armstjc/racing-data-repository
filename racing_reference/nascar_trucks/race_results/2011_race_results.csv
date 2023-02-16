@@ -1,0 +1,882 @@
+season,series_id,race_id,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
+2011,C,2011_NextEra_Energy_Resources_250,1,11,15,usa,Michael_Waltrip,Michael Waltrip,NASCAR Race View / Wounded Warrior Project,Billy_Ballew,Toyota,103,73275,running,1,0
+2011,C,2011_NextEra_Energy_Resources_250,2,6,2,usa,Elliott_Sadler,Elliott Sadler,OneMain Financial,Kevin_Harvick,Chevrolet,103,45700,running,32,0
+2011,C,2011_NextEra_Energy_Resources_250,3,19,92,usa,Clay_Rogers,Clay Rogers,Action Gator Tire / Fleet HQ,Ricky_Benton,Chevrolet,103,36500,running,2,42
+2011,C,2011_NextEra_Energy_Resources_250,4,14,7,brazil,Miguel_Paludo,Miguel Paludo,Stemco / Duroline,Tom_DeLoach,Toyota,103,28025,running,0,40
+2011,C,2011_NextEra_Energy_Resources_250,5,21,18,usa,Kyle_Busch,Kyle Busch,Dollar General,Kyle_Busch,Toyota,103,20225,running,0,0
+2011,C,2011_NextEra_Energy_Resources_250,6,31,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,Driven2Honor / LillysCosmetics.com,Jennifer_Jo_Cobb,Ford,103,19400,running,0,0
+2011,C,2011_NextEra_Energy_Resources_250,7,23,1,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Fuel Doctor Platinum,Rick_Ware,Chevrolet,103,19500,running,0,37
+2011,C,2011_NextEra_Energy_Resources_250,8,4,4,usa,Ricky_Carmichael,Ricky Carmichael,Monster Energy,Steve_Turner,Chevrolet,103,18400,running,1,37
+2011,C,2011_NextEra_Energy_Resources_250,9,2,31,usa,James_Buescher,James Buescher,Exide Batteries,Steve_Turner,Chevrolet,103,17200,running,55,37
+2011,C,2011_NextEra_Energy_Resources_250,10,7,88,usa,Matt_Crafton,Matt Crafton,Menards / Herculiner,Duke_Thorson,Chevrolet,103,15725,running,0,34
+2011,C,2011_NextEra_Energy_Resources_250,11,18,17,usa,Timothy_Peters,Timothy Peters,K&N Filters / Crescent Tools,Tom_DeLoach,Toyota,103,14300,running,12,34
+2011,C,2011_NextEra_Energy_Resources_250,12,36,9,italy,Max_Papis,Max Papis,GEICO,Germain_Racing,Toyota,103,11875,running,0,32
+2011,C,2011_NextEra_Energy_Resources_250,13,25,81,usa,David_Starr,David Starr,Zachry,Bobby_Dotter,Toyota,103,14025,running,0,31
+2011,C,2011_NextEra_Energy_Resources_250,14,33,93,usa,Cole_Whitt,Cole Whitt,Wyler.com,Rod_Sieg,Chevrolet,103,13900,running,0,30
+2011,C,2011_NextEra_Energy_Resources_250,15,13,29,usa,Parker_Kligerman,Parker Kligerman,Brad Keselowski Racing,Brad_Keselowski,Dodge,103,12875,running,0,29
+2011,C,2011_NextEra_Energy_Resources_250,16,28,46,usa,Craig_Goess,Craig Goess,Greenville Toyota of N.C.,Eddie_Sharp,Toyota,102,13600,running,0,28
+2011,C,2011_NextEra_Energy_Resources_250,17,9,13,usa,Johnny_Sauter,Johnny Sauter,SafeAuto / Curb Records,Mike_Curb,Chevrolet,101,13495,running,0,27
+2011,C,2011_NextEra_Energy_Resources_250,18,17,77,usa,Justin_Lofton,Justin Lofton,Lofton Cattle,Germain_Racing,Toyota,98,11125,running,0,26
+2011,C,2011_NextEra_Energy_Resources_250,19,16,84,usa,Chris_Fontaine,Chris Fontaine,Glenden Enterprises,Chris_Fontaine,Toyota,96,11025,crash,0,25
+2011,C,2011_NextEra_Energy_Resources_250,20,1,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops / Tracker Boats,Richard_Childress,Chevrolet,96,16100,crash,0,24
+2011,C,2011_NextEra_Energy_Resources_250,21,10,32,usa,Brad_Sweet,Brad Sweet,Great Clips,Steve_Turner,Chevrolet,96,10825,crash,0,23
+2011,C,2011_NextEra_Energy_Resources_250,22,34,51,usa,Aric_Almirola,Aric Almirola,Vision Airlines,Billy_Ballew,Toyota,96,12975,crash,0,0
+2011,C,2011_NextEra_Energy_Resources_250,23,15,30,usa,Todd_Bodine,Todd Bodine,Tire Kingdom / Valvoline,Germain_Racing,Toyota,96,13850,crash,0,21
+2011,C,2011_NextEra_Energy_Resources_250,24,30,66,usa,Justin_Marks,Justin Marks,GoPro,Stacy_Compton,Chevrolet,96,12725,running,0,20
+2011,C,2011_NextEra_Energy_Resources_250,25,29,39,usa,Ryan_Sieg,Ryan Sieg,S&W Services,Rod_Sieg,Chevrolet,91,12775,battery,0,19
+2011,C,2011_NextEra_Energy_Resources_250,26,26,62,usa,Brendan_Gaughan,Brendan Gaughan,South Point Hotel & Casino,Germain_Racing,Toyota,90,10275,running,0,18
+2011,C,2011_NextEra_Energy_Resources_250,27,35,8,brazil,Nelson_Piquet_Jr,"Nelson Piquet, Jr.",Qualcomm / Nelson Piquet,Kevin_Harvick,Chevrolet,80,12400,engine,0,17
+2011,C,2011_NextEra_Energy_Resources_250,28,3,33,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",Steak-Umm,Kevin_Harvick,Chevrolet,79,11050,running,0,16
+2011,C,2011_NextEra_Energy_Resources_250,29,24,5,usa,Travis_Kvapil,Travis Kvapil,International Truck / Monaco RVs,Randy_Moss,Toyota,74,10300,crash,0,15
+2011,C,2011_NextEra_Energy_Resources_250,30,12,23,usa,Jason_White_(1),Jason White,Gunbroker.com,Joe_Dennette,Chevrolet,74,11350,crash,0,14
+2011,C,2011_NextEra_Energy_Resources_250,31,22,50,usa,T_J_Bell,T.J. Bell,Liberty Tire Recycling/Pinnacle Rubber Mulch,Mark_Beaver,Chevrolet,74,9800,crash,0,13
+2011,C,2011_NextEra_Energy_Resources_250,32,5,20,usa,Johanna_Long,Johanna Long,Panhandle Grading & Paving,Donald_Long,Toyota,74,9750,crash,0,12
+2011,C,2011_NextEra_Energy_Resources_250,33,27,07,usa,Donnie_Neuenberger,Donnie Neuenberger,Lilly Trucking,Rick_Ware,Chevrolet,70,9700,crash,0,0
+2011,C,2011_NextEra_Energy_Resources_250,34,8,22,usa,Joey_Coulter,Joey Coulter,RCR,Richard_Childress,Chevrolet,65,9645,running,0,10
+2011,C,2011_NextEra_Energy_Resources_250,35,20,99,usa,Chad_McCumbee,Chad McCumbee,CollegeComplete.com,Chase_Mattioli,Ford,24,9595,clutch,0,9
+2011,C,2011_NextEra_Energy_Resources_250,36,32,57,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,22,9510,engine,0,8
+2011,C,2011_Lucas_Oil_150,1,3,18,usa,Kyle_Busch,Kyle Busch,Dollar General,Kyle_Busch,Toyota,150,35025,running,107,0
+2011,C,2011_Lucas_Oil_150,2,1,2,usa,Clint_Bowyer,Clint Bowyer,Tide / Kroger,Kevin_Harvick,Chevrolet,150,25950,running,43,0
+2011,C,2011_Lucas_Oil_150,3,4,33,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",Sherwin-Williams Automotive Finishes,Kevin_Harvick,Chevrolet,150,19300,running,0,41
+2011,C,2011_Lucas_Oil_150,4,8,13,usa,Johnny_Sauter,Johnny Sauter,SafeAuto / Curb Records,Mike_Curb,Chevrolet,150,15775,running,0,40
+2011,C,2011_Lucas_Oil_150,5,2,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops / Remington / Tracker Boats,Richard_Childress,Chevrolet,150,13850,running,0,39
+2011,C,2011_Lucas_Oil_150,6,9,60,usa,Cole_Whitt,Cole Whitt,Red Bull,Stacy_Compton,Chevrolet,150,10750,running,0,38
+2011,C,2011_Lucas_Oil_150,7,6,88,usa,Matt_Crafton,Matt Crafton,Ideal Door / Menards,Duke_Thorson,Chevrolet,150,12150,running,0,37
+2011,C,2011_Lucas_Oil_150,8,14,51,usa,Justin_Johnson,Justin Johnson,Vision Airlines / Wounded Warrior Project,Billy_Ballew,Toyota,150,11600,running,0,36
+2011,C,2011_Lucas_Oil_150,9,10,22,usa,Joey_Coulter,Joey Coulter,RCR / Rip It Energy,Richard_Childress,Chevrolet,150,11250,running,0,35
+2011,C,2011_Lucas_Oil_150,10,17,23,usa,Jason_White_(1),Jason White,Gunbroker.com,Joe_Dennette,Chevrolet,150,12500,running,0,34
+2011,C,2011_Lucas_Oil_150,11,21,32,usa,Brad_Sweet,Brad Sweet,Great Clips,Steve_Turner,Chevrolet,150,8750,running,0,33
+2011,C,2011_Lucas_Oil_150,12,11,17,usa,Timothy_Peters,Timothy Peters,GearWrench,Tom_DeLoach,Toyota,150,10875,running,0,32
+2011,C,2011_Lucas_Oil_150,13,22,8,brazil,Nelson_Piquet_Jr,"Nelson Piquet, Jr.",Qualcomm / Nelson Piquet,Kevin_Harvick,Chevrolet,150,10825,running,0,31
+2011,C,2011_Lucas_Oil_150,14,7,30,usa,Todd_Bodine,Todd Bodine,Germain.com,Germain_Racing,Toyota,150,11750,running,0,30
+2011,C,2011_Lucas_Oil_150,15,18,9,italy,Max_Papis,Max Papis,GEICO,Germain_Racing,Toyota,150,9775,running,0,29
+2011,C,2011_Lucas_Oil_150,16,13,92,usa,Clay_Rogers,Clay Rogers,Fleet HQ / BTS Tire & Wheel Distributors,Ricky_Benton,Chevrolet,150,8375,running,0,28
+2011,C,2011_Lucas_Oil_150,17,12,62,usa,Brendan_Gaughan,Brendan Gaughan,South Point Hotel & Casino,Germain_Racing,Toyota,149,8325,running,0,27
+2011,C,2011_Lucas_Oil_150,18,27,66,usa,Justin_Marks,Justin Marks,GoPro,Stacy_Compton,Chevrolet,148,10525,running,0,26
+2011,C,2011_Lucas_Oil_150,19,29,1,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Fuel Doctor USA,Rick_Ware,Chevrolet,148,10475,running,0,25
+2011,C,2011_Lucas_Oil_150,20,25,20,usa,Johanna_Long,Johanna Long,Panhandle Grading & Paving,Donald_Long,Toyota,148,11150,running,0,24
+2011,C,2011_Lucas_Oil_150,21,23,39,usa,Ryan_Sieg,Ryan Sieg,S&W Services,Rod_Sieg,Chevrolet,148,10350,running,0,23
+2011,C,2011_Lucas_Oil_150,22,30,93,usa,Shane_Sieg,Shane Sieg,S&W Services,Rod_Sieg,Chevrolet,148,10300,running,0,22
+2011,C,2011_Lucas_Oil_150,23,31,46,usa,Craig_Goess,Craig Goess,Greenville Toyota of N.C.,Eddie_Sharp,Toyota,148,10200,running,0,21
+2011,C,2011_Lucas_Oil_150,24,36,45,usa,Mike_Skinner,Mike Skinner,PaytasHomes.com,Eddie_Sharp,Toyota,148,8850,running,0,20
+2011,C,2011_Lucas_Oil_150,25,28,7,brazil,Miguel_Paludo,Miguel Paludo,K&N Filters,Tom_DeLoach,Toyota,147,10150,running,0,19
+2011,C,2011_Lucas_Oil_150,26,19,15,usa,Dusty_Davis,Dusty Davis,Vision Airlines / Emerald Coast,Billy_Ballew,Toyota,145,9900,running,0,18
+2011,C,2011_Lucas_Oil_150,27,35,57,usa,Norm_Benning,Norm Benning,Desert Autoplex,Norm_Benning,Chevrolet,145,10125,running,0,17
+2011,C,2011_Lucas_Oil_150,28,16,44,usa,Greg_Pursley,Greg Pursley,Gene Price Motorsports,Gene_Price,Chevrolet,144,7425,running,0,16
+2011,C,2011_Lucas_Oil_150,29,5,19,usa,David_Mayhew,David Mayhew,MMI Services / Ron's Rear Ends,Steve_McGowan,Chevrolet,143,7325,fuel pump,0,15
+2011,C,2011_Lucas_Oil_150,30,24,77,usa,Justin_Lofton,Justin Lofton,Lofton Cattle,Germain_Racing,Toyota,139,7725,running,0,14
+2011,C,2011_Lucas_Oil_150,31,26,4,usa,Ricky_Carmichael,Ricky Carmichael,Monster Energy,Steve_Turner,Chevrolet,132,8175,crash,0,13
+2011,C,2011_Lucas_Oil_150,32,20,29,usa,Parker_Kligerman,Parker Kligerman,Brad Keselowski Racing,Brad_Keselowski,Dodge,132,7150,crash,0,12
+2011,C,2011_Lucas_Oil_150,33,34,10,usa,Chase_Mattioli,Chase Mattioli,CollegeComplete.com,Chase_Mattioli,Ford,128,8125,running,0,11
+2011,C,2011_Lucas_Oil_150,34,15,81,usa,David_Starr,David Starr,Zachry,Bobby_Dotter,Toyota,112,7100,crash,0,10
+2011,C,2011_Lucas_Oil_150,35,32,07,usa,B_J_McLeod,B.J. McLeod,Boggy Creek Airboat Rides,Ken_Smith,Chevrolet,104,7065,crash,0,9
+2011,C,2011_Lucas_Oil_150,36,33,5,usa,Travis_Kvapil,Travis Kvapil,International Truck / Monaco RVs,Randy_Moss,Toyota,99,7029,crash,0,8
+2011,C,2011_Too_Tough_To_Tame_200,1,2,18,usa,Kasey_Kahne,Kasey Kahne,Toyota,Kyle_Busch,Toyota,147,36725,running,95,0
+2011,C,2011_Too_Tough_To_Tame_200,2,6,33,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",Tide / Kroger,Kevin_Harvick,Chevrolet,147,24575,running,0,42
+2011,C,2011_Too_Tough_To_Tame_200,3,12,30,usa,Todd_Bodine,Todd Bodine,Germain.com,Germain_Racing,Toyota,147,20725,running,0,41
+2011,C,2011_Too_Tough_To_Tame_200,4,4,88,usa,Matt_Crafton,Matt Crafton,Tarkett / Menards,Duke_Thorson,Chevrolet,147,14275,running,0,40
+2011,C,2011_Too_Tough_To_Tame_200,5,7,31,usa,James_Buescher,James Buescher,Wolfpack Rentals,Steve_Turner,Chevrolet,147,12300,running,6,40
+2011,C,2011_Too_Tough_To_Tame_200,6,11,17,usa,Timothy_Peters,Timothy Peters,GearWrench,Tom_DeLoach,Toyota,147,11550,running,0,38
+2011,C,2011_Too_Tough_To_Tame_200,7,8,2,usa,Elliott_Sadler,Elliott Sadler,Armour Vienna Sausage / Bi-Lo,Kevin_Harvick,Chevrolet,147,7600,running,16,0
+2011,C,2011_Too_Tough_To_Tame_200,8,1,60,usa,Cole_Whitt,Cole Whitt,Red Bull,Stacy_Compton,Chevrolet,147,10750,running,30,37
+2011,C,2011_Too_Tough_To_Tame_200,9,3,13,usa,Johnny_Sauter,Johnny Sauter,SafeAuto / Curb Records,Mike_Curb,Chevrolet,147,9700,running,0,35
+2011,C,2011_Too_Tough_To_Tame_200,10,13,81,usa,David_Starr,David Starr,Zachry,Bobby_Dotter,Toyota,147,13075,running,0,34
+2011,C,2011_Too_Tough_To_Tame_200,11,26,92,usa,Clay_Rogers,Clay Rogers,BTS Tire & Wheel Distirbutors / FleetHQ.com,Ricky_Benton,Chevrolet,147,7325,running,0,33
+2011,C,2011_Too_Tough_To_Tame_200,12,31,93,usa,Shane_Sieg,Shane Sieg,S&W Services,Rod_Sieg,Chevrolet,147,10475,running,0,32
+2011,C,2011_Too_Tough_To_Tame_200,13,17,77,usa,Justin_Lofton,Justin Lofton,Lofton Cattle,Germain_Racing,Toyota,147,7175,running,0,31
+2011,C,2011_Too_Tough_To_Tame_200,14,18,29,usa,Parker_Kligerman,Parker Kligerman,Penske Truck Leasing,Brad_Keselowski,Dodge,147,7150,running,0,30
+2011,C,2011_Too_Tough_To_Tame_200,15,5,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops / Remington / Tracker Boats,Richard_Childress,Chevrolet,147,10450,running,0,29
+2011,C,2011_Too_Tough_To_Tame_200,16,19,39,usa,Ryan_Sieg,Ryan Sieg,S&W Services,Rod_Sieg,Chevrolet,147,9425,running,0,28
+2011,C,2011_Too_Tough_To_Tame_200,17,24,5,usa,Travis_Kvapil,Travis Kvapil,International Truck / Monaco RVs,Randy_Moss,Toyota,147,6925,running,0,27
+2011,C,2011_Too_Tough_To_Tame_200,18,16,9,italy,Max_Papis,Max Papis,GEICO,Germain_Racing,Toyota,147,6875,running,0,26
+2011,C,2011_Too_Tough_To_Tame_200,19,27,46,usa,Craig_Goess,Craig Goess,Greenville Toyota of N.C.,Eddie_Sharp,Toyota,147,9075,running,0,25
+2011,C,2011_Too_Tough_To_Tame_200,20,35,1,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Fuel Doctor USA,Rick_Ware,Chevrolet,147,9750,running,0,24
+2011,C,2011_Too_Tough_To_Tame_200,21,15,15,usa,Dusty_Davis,Dusty Davis,Vision Airlines / Emerald Coast,Billy_Ballew,Toyota,147,8725,running,0,23
+2011,C,2011_Too_Tough_To_Tame_200,22,29,50,usa,T_J_Bell,T.J. Bell,Liberty Tire Recycling/Pinnacle Rubber Mulch,Mark_Beaver,Chevrolet,146,6400,running,0,22
+2011,C,2011_Too_Tough_To_Tame_200,23,33,07,usa,Jamie_Dick,Jamie Dick,VivaAutoGroup.com,Jimmy_Dick,Chevrolet,146,8575,running,0,21
+2011,C,2011_Too_Tough_To_Tame_200,24,28,66,usa,Justin_Marks,Justin Marks,GoPro,Stacy_Compton,Chevrolet,145,8525,running,0,20
+2011,C,2011_Too_Tough_To_Tame_200,25,23,62,usa,Brendan_Gaughan,Brendan Gaughan,South Point Hotel & Casino,Germain_Racing,Toyota,144,6400,running,0,19
+2011,C,2011_Too_Tough_To_Tame_200,26,34,57,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,143,8450,running,0,18
+2011,C,2011_Too_Tough_To_Tame_200,27,14,7,brazil,Miguel_Paludo,Miguel Paludo,Stemco / Duroline,Tom_DeLoach,Toyota,135,8425,running,0,17
+2011,C,2011_Too_Tough_To_Tame_200,28,30,22,usa,Joey_Coulter,Joey Coulter,RCR / Darrell Gwynn Foundation,Richard_Childress,Chevrolet,111,8750,running,0,16
+2011,C,2011_Too_Tough_To_Tame_200,29,36,25,usa,Tayler_Malsam,Tayler Malsam,One Eighty,Randy_Moss,Toyota,103,8375,engine,0,15
+2011,C,2011_Too_Tough_To_Tame_200,30,22,4,usa,Ricky_Carmichael,Ricky Carmichael,Monster Energy,Steve_Turner,Chevrolet,96,7600,crash,0,14
+2011,C,2011_Too_Tough_To_Tame_200,31,32,20,usa,Johanna_Long,Johanna Long,Panhandle Grading & Paving,Donald_Long,Toyota,96,7075,crash,0,13
+2011,C,2011_Too_Tough_To_Tame_200,32,9,8,brazil,Nelson_Piquet_Jr,"Nelson Piquet, Jr.",Qualcomm / Nelson Piquet,Kevin_Harvick,Chevrolet,93,6050,crash,0,12
+2011,C,2011_Too_Tough_To_Tame_200,33,10,23,usa,Jason_White_(1),Jason White,Gunbroker.com,Joe_Dennette,Chevrolet,72,6000,crash,0,11
+2011,C,2011_Too_Tough_To_Tame_200,34,25,10,usa,Chase_Mattioli,Chase Mattioli,CollegeComplete.com,Chase_Mattioli,Ford,55,5975,crash,0,10
+2011,C,2011_Too_Tough_To_Tame_200,35,20,51,usa,Justin_Johnson,Justin Johnson,Vision Airlines / Wounded Warrior Project,Billy_Ballew,Toyota,41,5950,crash,0,9
+2011,C,2011_Too_Tough_To_Tame_200,36,21,32,usa,Brad_Sweet,Brad Sweet,Great Clips,Steve_Turner,Chevrolet,13,5916,crash,0,8
+2011,C,2011_Kroger_250,1,1,13,usa,Johnny_Sauter,Johnny Sauter,SafeAuto / 104 WTQR Country / Curb Records,Mike_Curb,Chevrolet,250,40600,running,71,48
+2011,C,2011_Kroger_250,2,5,18,usa,Kyle_Busch,Kyle Busch,Toyota / Fas Mart,Kyle_Busch,Toyota,250,22050,running,64,0
+2011,C,2011_Kroger_250,3,10,33,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",Cooked Perfect Meatballs,Kevin_Harvick,Chevrolet,250,15100,running,29,42
+2011,C,2011_Kroger_250,4,3,2,usa,Kevin_Harvick,Kevin Harvick,Tide / Kroger,Kevin_Harvick,Chevrolet,250,12325,running,0,0
+2011,C,2011_Kroger_250,5,12,17,usa,Timothy_Peters,Timothy Peters,Autism Speaks / AutosByNelson.com,Tom_DeLoach,Toyota,250,14525,running,0,39
+2011,C,2011_Kroger_250,6,2,60,usa,Cole_Whitt,Cole Whitt,Red Bull / Van-Go Rentals,Stacy_Compton,Chevrolet,250,10700,running,0,38
+2011,C,2011_Kroger_250,7,4,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops / Remington / Tracker Boats,Richard_Childress,Chevrolet,250,11500,running,37,38
+2011,C,2011_Kroger_250,8,20,4,usa,Ricky_Carmichael,Ricky Carmichael,Monster Energy,Steve_Turner,Chevrolet,250,13550,running,36,37
+2011,C,2011_Kroger_250,9,31,62,usa,Brendan_Gaughan,Brendan Gaughan,South Point Hotel & Casino,Germain_Racing,Toyota,250,9150,running,7,36
+2011,C,2011_Kroger_250,10,11,9,italy,Max_Papis,Max Papis,GEICO,Germain_Racing,Toyota,250,10425,running,0,34
+2011,C,2011_Kroger_250,11,7,88,usa,Matt_Crafton,Matt Crafton,Tarkett / Menards,Duke_Thorson,Chevrolet,250,11300,running,1,34
+2011,C,2011_Kroger_250,12,27,7,brazil,Miguel_Paludo,Miguel Paludo,Stemco / Duroline,Tom_DeLoach,Toyota,250,11175,running,5,33
+2011,C,2011_Kroger_250,13,30,29,usa,Parker_Kligerman,Parker Kligerman,Penske Truck Rental,Brad_Keselowski,Dodge,250,9875,running,0,31
+2011,C,2011_Kroger_250,14,15,30,usa,Todd_Bodine,Todd Bodine,Germain.com,Germain_Racing,Toyota,250,12075,running,0,30
+2011,C,2011_Kroger_250,15,18,32,usa,Brad_Sweet,Brad Sweet,Great Clips,Steve_Turner,Chevrolet,250,9800,running,0,29
+2011,C,2011_Kroger_250,16,14,92,usa,Clay_Rogers,Clay Rogers,BTS Tire & Wheel Distributors / Fleet HQ,Ricky_Benton,Chevrolet,250,8950,running,0,28
+2011,C,2011_Kroger_250,17,23,22,usa,Joey_Coulter,Joey Coulter,RCR / Darrell Gwynn Foundation,Richard_Childress,Chevrolet,250,10875,running,0,27
+2011,C,2011_Kroger_250,18,21,20,usa,Johanna_Long,Johanna Long,Panhandle Grading & Paving,Donald_Long,Toyota,250,10825,running,0,26
+2011,C,2011_Kroger_250,19,32,07,usa,Caleb_Roark,Caleb Roark,Boys & Girls Club of Kingsport,Ken_Smith,Chevrolet,250,10775,running,0,25
+2011,C,2011_Kroger_250,20,13,5,usa,Travis_Kvapil,Travis Kvapil,International Truck / Monaco RVs,Randy_Moss,Toyota,250,9175,running,0,24
+2011,C,2011_Kroger_250,21,22,66,usa,Justin_Marks,Justin Marks,GoPro,Stacy_Compton,Chevrolet,250,10675,running,0,23
+2011,C,2011_Kroger_250,22,34,23,usa,Jason_White_(1),Jason White,Gunbroker.com,Joe_Dennette,Chevrolet,249,10650,running,0,22
+2011,C,2011_Kroger_250,23,25,97,usa,Matt_Lofton,Matt Lofton,Strutmasters.com,Matt_Lofton,Toyota,249,8375,running,0,0
+2011,C,2011_Kroger_250,24,16,46,usa,Craig_Goess,Craig Goess,Greenville Toyota of N.C.,Eddie_Sharp,Toyota,248,10575,running,0,20
+2011,C,2011_Kroger_250,25,19,15,usa,Dusty_Davis,Dusty Davis,Vision Airlines / Emerald Coast,Billy_Ballew,Toyota,245,10650,running,0,19
+2011,C,2011_Kroger_250,26,29,81,usa,David_Starr,David Starr,Zachry,Bobby_Dotter,Toyota,243,10450,running,0,18
+2011,C,2011_Kroger_250,27,33,57,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,243,10775,running,0,17
+2011,C,2011_Kroger_250,28,35,10,usa,Chase_Mattioli,Chase Mattioli,CollegeComplete.com,Chase_Mattioli,Ford,237,10400,running,0,16
+2011,C,2011_Kroger_250,29,24,93,usa,Shane_Sieg,Shane Sieg,S&W Services,Rod_Sieg,Chevrolet,232,10350,running,0,15
+2011,C,2011_Kroger_250,30,9,8,brazil,Nelson_Piquet_Jr,"Nelson Piquet, Jr.",QualComm / AutoTrac,Kevin_Harvick,Chevrolet,207,9075,running,0,14
+2011,C,2011_Kroger_250,31,26,51,usa,Justin_Johnson,Justin Johnson,Vision Airlines / Wounded Warrior Project,Billy_Ballew,Toyota,202,9130,running,0,13
+2011,C,2011_Kroger_250,32,8,77,usa,Justin_Lofton,Justin Lofton,Lofton Cattle,Germain_Racing,Toyota,160,7600,running,0,12
+2011,C,2011_Kroger_250,33,17,39,usa,Ryan_Sieg,Ryan Sieg,S&W Towing,Rod_Sieg,Chevrolet,142,7575,radiator,0,11
+2011,C,2011_Kroger_250,34,28,1,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Fuel Doctor,Rick_Ware,Chevrolet,134,7550,crash,0,10
+2011,C,2011_Kroger_250,35,6,31,usa,James_Buescher,James Buescher,Wolfpack Rentals,Steve_Turner,Chevrolet,134,7525,crash,0,9
+2011,C,2011_Bully_Hill_Vineyards_200,1,1,18,usa,Kyle_Busch,Kyle Busch,Dollar General,Kyle_Busch,Toyota,150,36650,running,140,0
+2011,C,2011_Bully_Hill_Vineyards_200,2,4,8,brazil,Nelson_Piquet_Jr,"Nelson Piquet, Jr.",QualComm / AutoTrac,Kevin_Harvick,Chevrolet,150,21725,running,0,42
+2011,C,2011_Bully_Hill_Vineyards_200,3,12,17,usa,Timothy_Peters,Timothy Peters,Crescent Tools,Tom_DeLoach,Toyota,150,21725,running,0,41
+2011,C,2011_Bully_Hill_Vineyards_200,4,8,33,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",Steak-Umm,Kevin_Harvick,Chevrolet,150,14925,running,6,41
+2011,C,2011_Bully_Hill_Vineyards_200,5,17,31,usa,James_Buescher,James Buescher,Wolfpack Rentals,Steve_Turner,Chevrolet,150,17350,running,0,39
+2011,C,2011_Bully_Hill_Vineyards_200,6,15,88,usa,Matt_Crafton,Matt Crafton,Ideal Door / Menards,Duke_Thorson,Chevrolet,150,11375,running,0,38
+2011,C,2011_Bully_Hill_Vineyards_200,7,9,13,usa,Johnny_Sauter,Johnny Sauter,SafeAuto / Curb Records,Mike_Curb,Chevrolet,150,10875,running,0,37
+2011,C,2011_Bully_Hill_Vineyards_200,8,13,81,usa,David_Starr,David Starr,Zachry,Bobby_Dotter,Toyota,150,10950,running,0,36
+2011,C,2011_Bully_Hill_Vineyards_200,9,24,46,usa,Craig_Goess,Craig Goess,Greenville Toyota of N.C.,Eddie_Sharp,Toyota,150,10600,running,0,35
+2011,C,2011_Bully_Hill_Vineyards_200,10,10,29,usa,Parker_Kligerman,Parker Kligerman,Penske Truck Rental,Brad_Keselowski,Dodge,150,11850,running,0,34
+2011,C,2011_Bully_Hill_Vineyards_200,11,2,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops / Remington Arms / Tracker,Richard_Childress,Chevrolet,150,10475,running,0,33
+2011,C,2011_Bully_Hill_Vineyards_200,12,6,60,usa,Cole_Whitt,Cole Whitt,Red Bull / Fuel Doctor,Stacy_Compton,Chevrolet,150,10350,running,0,32
+2011,C,2011_Bully_Hill_Vineyards_200,13,29,23,usa,Jason_White_(1),Jason White,Gunbroker.com,Joe_Dennette,Chevrolet,150,11300,running,0,31
+2011,C,2011_Bully_Hill_Vineyards_200,14,23,4,usa,Ricky_Carmichael,Ricky Carmichael,Monster Energy,Steve_Turner,Chevrolet,150,10250,running,0,30
+2011,C,2011_Bully_Hill_Vineyards_200,15,3,51,usa,Justin_Johnson,Justin Johnson,Vision Airlines / Wounded Warrior Project,Billy_Ballew,Toyota,150,11450,running,2,30
+2011,C,2011_Bully_Hill_Vineyards_200,16,14,77,usa,Justin_Lofton,Justin Lofton,Lofton Cattle,Germain_Racing,Toyota,150,10025,running,0,28
+2011,C,2011_Bully_Hill_Vineyards_200,17,22,62,usa,Brendan_Gaughan,Brendan Gaughan,South Point Hotel & Casino,Germain_Racing,Toyota,150,9925,running,0,27
+2011,C,2011_Bully_Hill_Vineyards_200,18,5,21,usa,Elliott_Sadler,Elliott Sadler,Bully Hill Vineyards,Kevin_Harvick,Chevrolet,150,7550,running,0,0
+2011,C,2011_Bully_Hill_Vineyards_200,19,7,30,usa,Todd_Bodine,Todd Bodine,Germain.com,Germain_Racing,Toyota,150,10700,running,2,26
+2011,C,2011_Bully_Hill_Vineyards_200,20,26,5,usa,Travis_Kvapil,Travis Kvapil,International Truck / Monaco RVs,Randy_Moss,Toyota,150,8125,running,0,24
+2011,C,2011_Bully_Hill_Vineyards_200,21,19,39,usa,Ryan_Sieg,Ryan Sieg,S&W Services,Rod_Sieg,Chevrolet,150,9500,running,0,23
+2011,C,2011_Bully_Hill_Vineyards_200,22,30,1,usa,Bobby_Hamilton_Jr,"Bobby Hamilton, Jr.",RaceFuel Energy Drink / Direct Auto Insurance,Rick_Ware,Chevrolet,150,9400,running,0,22
+2011,C,2011_Bully_Hill_Vineyards_200,23,11,9,italy,Max_Papis,Max Papis,GEICO,Germain_Racing,Toyota,150,8050,running,0,21
+2011,C,2011_Bully_Hill_Vineyards_200,24,16,22,usa,Joey_Coulter,Joey Coulter,RCR / Rip It Energy,Richard_Childress,Chevrolet,150,7975,running,0,20
+2011,C,2011_Bully_Hill_Vineyards_200,25,27,66,usa,Justin_Marks,Justin Marks,GoPro / South East Color,Stacy_Compton,Chevrolet,150,7090,running,0,19
+2011,C,2011_Bully_Hill_Vineyards_200,26,31,93,usa,Shane_Sieg,Shane Sieg,S&W Services,Rod_Sieg,Chevrolet,149,6900,running,0,18
+2011,C,2011_Bully_Hill_Vineyards_200,27,28,7,brazil,Miguel_Paludo,Miguel Paludo,Stemco / Duroline,Tom_DeLoach,Toyota,149,6875,running,0,17
+2011,C,2011_Bully_Hill_Vineyards_200,28,21,32,usa,Brad_Sweet,Brad Sweet,Great Clips,Steve_Turner,Chevrolet,149,7200,running,0,16
+2011,C,2011_Bully_Hill_Vineyards_200,29,20,2,usa,Cale_Gale,Cale Gale,Rheem,Kevin_Harvick,Chevrolet,148,6825,running,0,15
+2011,C,2011_Bully_Hill_Vineyards_200,30,34,02,usa,Jamie_Dick,Jamie Dick,VivaAutoGroup.com / Guest House Inn,Jimmy_Dick,Chevrolet,147,7300,running,0,14
+2011,C,2011_Bully_Hill_Vineyards_200,31,25,92,usa,Clay_Rogers,Clay Rogers,fleetHQ.com / BTS Tire & Wheel Distributors,Ricky_Benton,Chevrolet,147,6775,running,0,13
+2011,C,2011_Bully_Hill_Vineyards_200,32,18,20,usa,Johanna_Long,Johanna Long,Panhandle Grading & Paving,Donald_Long,Toyota,147,6750,running,0,12
+2011,C,2011_Bully_Hill_Vineyards_200,33,32,99,usa,Chase_Mattioli,Chase Mattioli,College Complete,Chase_Mattioli,Ford,144,6725,running,0,11
+2011,C,2011_Bully_Hill_Vineyards_200,34,36,63,usa,Nick_Hoffman,Nick Hoffman,Mittler Bros. Machine,Mike_Mittler,Ford,126,6700,crash,0,10
+2011,C,2011_Bully_Hill_Vineyards_200,35,33,07,usa,Johnny_Chapman,Johnny Chapman,SS Green Light Racing,Ken_Smith,Chevrolet,18,6675,vibration,0,0
+2011,C,2011_Bully_Hill_Vineyards_200,36,35,38,usa,Mike_Garvey,Mike Garvey,S&W Services,Rod_Sieg,Chevrolet,4,6644,oil pressure,0,8
+2011,C,2011_Lucas_Oil_200,1,3,18,usa,Kyle_Busch,Kyle Busch,Traxxas,Kyle_Busch,Toyota,200,41900,running,128,0
+2011,C,2011_Lucas_Oil_200,2,8,60,usa,Cole_Whitt,Cole Whitt,Red Bull / Fuel Doctor,Stacy_Compton,Chevrolet,200,32350,running,23,43
+2011,C,2011_Lucas_Oil_200,3,10,88,usa,Matt_Crafton,Matt Crafton,Menards / CertainTeed,Duke_Thorson,Chevrolet,200,22450,running,13,42
+2011,C,2011_Lucas_Oil_200,4,17,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops / Remington / Tracker Boats,Richard_Childress,Chevrolet,200,18500,running,0,40
+2011,C,2011_Lucas_Oil_200,5,2,2,usa,Kevin_Harvick,Kevin Harvick,Bad Boy Buggies,Kevin_Harvick,Chevrolet,200,15525,running,18,0
+2011,C,2011_Lucas_Oil_200,6,5,22,usa,Joey_Coulter,Joey Coulter,RCR / Rip It Energy,Richard_Childress,Chevrolet,200,17800,running,0,38
+2011,C,2011_Lucas_Oil_200,7,22,62,usa,Brendan_Gaughan,Brendan Gaughan,South Point Hotel & Casino,Germain_Racing,Toyota,200,15500,running,0,37
+2011,C,2011_Lucas_Oil_200,8,14,31,usa,James_Buescher,James Buescher,Space Coast Center for Mothers with Children,Steve_Turner,Chevrolet,200,15500,running,0,36
+2011,C,2011_Lucas_Oil_200,9,4,33,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",Utz Snacks,Kevin_Harvick,Chevrolet,200,14300,running,0,35
+2011,C,2011_Lucas_Oil_200,10,1,66,usa,Justin_Marks,Justin Marks,GoPro,Stacy_Compton,Chevrolet,200,17600,running,0,34
+2011,C,2011_Lucas_Oil_200,11,7,13,usa,Johnny_Sauter,Johnny Sauter,SafeAuto / Carrier,Mike_Curb,Chevrolet,200,13850,running,0,33
+2011,C,2011_Lucas_Oil_200,12,19,81,usa,David_Starr,David Starr,Zachry,Bobby_Dotter,Toyota,200,13575,running,11,33
+2011,C,2011_Lucas_Oil_200,13,23,9,italy,Max_Papis,Max Papis,GEICO,Germain_Racing,Toyota,200,13475,running,0,31
+2011,C,2011_Lucas_Oil_200,14,16,23,usa,Jason_White_(1),Jason White,Gunbroker.com,Joe_Dennette,Chevrolet,200,13375,running,4,31
+2011,C,2011_Lucas_Oil_200,15,31,39,usa,Ryan_Sieg,Ryan Sieg,S&W Services,Rod_Sieg,Chevrolet,200,15100,running,0,29
+2011,C,2011_Lucas_Oil_200,16,13,8,brazil,Nelson_Piquet_Jr,"Nelson Piquet, Jr.",Auto Trac,Kevin_Harvick,Chevrolet,199,13675,crash,0,28
+2011,C,2011_Lucas_Oil_200,17,24,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,199,13075,crash,1,28
+2011,C,2011_Lucas_Oil_200,18,29,51,usa,Chris_Fontaine,Chris Fontaine,Glenden Enterprises / Vision Airlines,Billy_Ballew,Chevrolet,199,12975,running,0,26
+2011,C,2011_Lucas_Oil_200,19,25,93,usa,Shane_Sieg,Shane Sieg,S&W Services,Rod_Sieg,Chevrolet,197,12875,running,0,25
+2011,C,2011_Lucas_Oil_200,20,26,92,usa,Clay_Rogers,Clay Rogers,BTS Tire & Wheel Distirbutors / FleetHQ.com,Ricky_Benton,Chevrolet,197,13500,running,0,24
+2011,C,2011_Lucas_Oil_200,21,9,29,usa,Parker_Kligerman,Parker Kligerman,Penske Truck Rental,Brad_Keselowski,Dodge,197,11425,running,0,23
+2011,C,2011_Lucas_Oil_200,22,21,20,usa,Johanna_Long,Johanna Long,Panhandle Grading & Paving,Donald_Long,Toyota,192,11325,driveshaft,2,23
+2011,C,2011_Lucas_Oil_200,23,6,5,usa,Travis_Kvapil,Travis Kvapil,International Truck / Monaco RVs,Randy_Moss,Toyota,189,10225,running,0,21
+2011,C,2011_Lucas_Oil_200,24,11,46,usa,Craig_Goess,Craig Goess,Greenville Toyota of N.C.,Eddie_Sharp,Toyota,181,10125,crash,0,20
+2011,C,2011_Lucas_Oil_200,25,12,77,usa,Justin_Lofton,Justin Lofton,Lofton Cattle,Germain_Racing,Toyota,177,10175,crash,0,19
+2011,C,2011_Lucas_Oil_200,26,35,57,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,94,9925,overheating,0,18
+2011,C,2011_Lucas_Oil_200,27,15,30,usa,Todd_Bodine,Todd Bodine,Germain.com,Germain_Racing,Toyota,85,11175,ignition,0,17
+2011,C,2011_Lucas_Oil_200,28,27,7,brazil,Miguel_Paludo,Miguel Paludo,Lucas Oil Products / K&N Filters,Tom_DeLoach,Toyota,73,9725,crash,0,16
+2011,C,2011_Lucas_Oil_200,29,20,4,usa,Ricky_Carmichael,Ricky Carmichael,Monster Energy,Steve_Turner,Chevrolet,71,9600,crash,0,15
+2011,C,2011_Lucas_Oil_200,30,18,32,usa,Brad_Sweet,Brad Sweet,Great Clips,Steve_Turner,Chevrolet,54,10000,crash,0,14
+2011,C,2011_Lucas_Oil_200,31,33,07,usa,Johnny_Chapman,Johnny Chapman,SS Green Light Racing,Ken_Smith,Chevrolet,31,9400,transmission,0,0
+2011,C,2011_Lucas_Oil_200,32,30,87,usa,Chris_Jones_(1),Chris Jones,Copy Wizard,Rick_Jones,Chevrolet,27,9300,overheating,0,12
+2011,C,2011_Lucas_Oil_200,33,34,1,usa,Carl_Long,Carl Long,Rick Ware Racing,Rick_Ware,Chevrolet,15,9275,brakes,0,0
+2011,C,2011_Lucas_Oil_200,34,28,99,canada,J_R_Fitzpatrick,J.R. Fitzpatrick,CollegeComplete.com,Chase_Mattioli,Ford,5,9200,crash,0,0
+2011,C,2011_Lucas_Oil_200,35,32,38,usa,Mike_Garvey,Mike Garvey,S&W Services,Rod_Sieg,Chevrolet,2,9175,radiator,0,9
+2011,C,2011_Lucas_Oil_200,36,36,10,usa,Chris_Lafferty,Chris Lafferty,DrivenMale.com / DriverBoutique.com,Jennifer_Jo_Cobb,Chevrolet,2,9126,engine,0,8
+2011,C,2011_North_Carolina_Education_Lottery_200,1,6,18,usa,Kyle_Busch,Kyle Busch,NOS Charged Citrus,Kyle_Busch,Toyota,134,37525,running,7,0
+2011,C,2011_North_Carolina_Education_Lottery_200,2,2,2,usa,Clint_Bowyer,Clint Bowyer,Ollie's Bargain Outlet,Kevin_Harvick,Chevrolet,134,24925,running,54,0
+2011,C,2011_North_Carolina_Education_Lottery_200,3,11,60,usa,Cole_Whitt,Cole Whitt,Red Bull / Fuel Doctor,Stacy_Compton,Chevrolet,134,24600,running,5,42
+2011,C,2011_North_Carolina_Education_Lottery_200,4,5,31,usa,James_Buescher,James Buescher,Exide Batteries,Steve_Turner,Chevrolet,134,19100,running,16,41
+2011,C,2011_North_Carolina_Education_Lottery_200,5,15,33,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",Utz Snacks,Kevin_Harvick,Chevrolet,134,14925,running,13,15
+2011,C,2011_North_Carolina_Education_Lottery_200,6,7,13,usa,Johnny_Sauter,Johnny Sauter,SafeAuto / WSOC 103.7 / Carrier,Mike_Curb,Chevrolet,134,12975,running,9,39
+2011,C,2011_North_Carolina_Education_Lottery_200,7,3,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops / National Wild Turkey Fdrtn.,Richard_Childress,Chevrolet,134,11675,running,0,37
+2011,C,2011_North_Carolina_Education_Lottery_200,8,10,29,usa,Parker_Kligerman,Parker Kligerman,Penske Truck Rental,Brad_Keselowski,Dodge,134,11575,running,0,36
+2011,C,2011_North_Carolina_Education_Lottery_200,9,25,66,usa,Justin_Marks,Justin Marks,GoPro,Stacy_Compton,Chevrolet,134,12450,running,0,35
+2011,C,2011_North_Carolina_Education_Lottery_200,10,4,32,usa,Brad_Sweet,Brad Sweet,Great Clips,Steve_Turner,Chevrolet,134,14400,running,0,34
+2011,C,2011_North_Carolina_Education_Lottery_200,11,21,5,usa,Travis_Kvapil,Travis Kvapil,International Truck / Monaco RVs,Randy_Moss,Toyota,134,11300,running,0,33
+2011,C,2011_North_Carolina_Education_Lottery_200,12,17,4,usa,Ricky_Carmichael,Ricky Carmichael,Monster Energy,Steve_Turner,Chevrolet,134,10750,running,0,32
+2011,C,2011_North_Carolina_Education_Lottery_200,13,28,77,usa,Justin_Lofton,Justin Lofton,Lofton Cattle / Germain.com,Germain_Racing,Toyota,134,10625,running,0,31
+2011,C,2011_North_Carolina_Education_Lottery_200,14,16,23,usa,Jason_White_(1),Jason White,Gunbroker.com,Joe_Dennette,Chevrolet,134,10525,running,0,30
+2011,C,2011_North_Carolina_Education_Lottery_200,15,31,15,finland,Kimi_Raikkonen,Kimi Raikkonen,Perky Jerky,Kyle_Busch,Toyota,134,9500,running,0,29
+2011,C,2011_North_Carolina_Education_Lottery_200,16,23,22,usa,Joey_Coulter,Joey Coulter,RCR / Darrell Gwynn Foundation,Richard_Childress,Chevrolet,134,10325,running,0,28
+2011,C,2011_North_Carolina_Education_Lottery_200,17,26,92,usa,Clay_Rogers,Clay Rogers,BTS Tire & Wheel Distributors / Fleet HQ,Ricky_Benton,Chevrolet,134,10275,running,0,27
+2011,C,2011_North_Carolina_Education_Lottery_200,18,22,84,usa,Chris_Fontaine,Chris Fontaine,Glenden Enterprises,Chris_Fontaine,Chevrolet,134,7975,running,0,26
+2011,C,2011_North_Carolina_Education_Lottery_200,19,35,99,usa,Bryan_Silas,Bryan Silas,CollegeComplete.com,Chase_Mattioli,Ford,134,7925,running,0,0
+2011,C,2011_North_Carolina_Education_Lottery_200,20,24,20,usa,Johanna_Long,Johanna Long,Panhandle Grading & Paving,Donald_Long,Toyota,134,10850,running,0,24
+2011,C,2011_North_Carolina_Education_Lottery_200,21,8,8,brazil,Nelson_Piquet_Jr,"Nelson Piquet, Jr.",Bozzano / Jontex,Kevin_Harvick,Chevrolet,134,10055,running,0,23
+2011,C,2011_North_Carolina_Education_Lottery_200,22,29,46,usa,Craig_Goess,Craig Goess,Greenville Toyota of N.C.,Eddie_Sharp,Toyota,133,10000,running,0,22
+2011,C,2011_North_Carolina_Education_Lottery_200,23,32,93,usa,Shane_Sieg,Shane Sieg,S&W Services,Rod_Sieg,Chevrolet,129,9975,running,0,21
+2011,C,2011_North_Carolina_Education_Lottery_200,24,18,39,usa,Ryan_Sieg,Ryan Sieg,S&W Services,Rod_Sieg,Chevrolet,128,8700,running,0,20
+2011,C,2011_North_Carolina_Education_Lottery_200,25,13,9,italy,Max_Papis,Max Papis,GEICO,Germain_Racing,Toyota,125,8800,running,0,19
+2011,C,2011_North_Carolina_Education_Lottery_200,26,14,88,usa,Matt_Crafton,Matt Crafton,Great Lakes Wood Floors / Menards,Duke_Thorson,Chevrolet,109,7625,running,0,18
+2011,C,2011_North_Carolina_Education_Lottery_200,27,9,30,usa,Todd_Bodine,Todd Bodine,Germain.com,Germain_Racing,Toyota,107,8950,running,0,17
+2011,C,2011_North_Carolina_Education_Lottery_200,28,20,81,usa,David_Starr,David Starr,Zachry,Bobby_Dotter,Toyota,106,7575,crash,0,16
+2011,C,2011_North_Carolina_Education_Lottery_200,29,33,02,usa,Jamie_Dick,Jamie Dick,Viva Auto Group,Jimmy_Dick,Chevrolet,95,7525,crash,0,15
+2011,C,2011_North_Carolina_Education_Lottery_200,30,27,62,usa,Brendan_Gaughan,Brendan Gaughan,South Point Hotel & Casino,Germain_Racing,Toyota,75,8000,crash,0,14
+2011,C,2011_North_Carolina_Education_Lottery_200,31,30,50,usa,T_J_Bell,T.J. Bell,Liberty Tire Recycling/Pinnacle Rubber Mulch,Mark_Beaver,Chevrolet,69,7475,crash,0,13
+2011,C,2011_North_Carolina_Education_Lottery_200,32,1,17,usa,Timothy_Peters,Timothy Peters,GearWrench / Red Horse Racing,Tom_DeLoach,Toyota,62,9625,crash,30,13
+2011,C,2011_North_Carolina_Education_Lottery_200,33,36,28,usa,Wes_Burton,Wes Burton,FDNY Racing,Jim_Rosenblum,Chevrolet,43,7400,crash,0,11
+2011,C,2011_North_Carolina_Education_Lottery_200,34,19,07,usa,J_J_Yeley,J.J. Yeley,Wear Your Gear / Bobber.info,Ken_Smith,Toyota,40,7375,axle,0,0
+2011,C,2011_North_Carolina_Education_Lottery_200,35,12,7,brazil,Miguel_Paludo,Miguel Paludo,Stemco / Duroline,Tom_DeLoach,Toyota,25,7345,engine,0,9
+2011,C,2011_North_Carolina_Education_Lottery_200,36,34,38,usa,Mike_Garvey,Mike Garvey,S&W Services,Rod_Sieg,Chevrolet,4,7325,transmission,0,8
+2011,C,2011_OReilly_Auto_Parts_250,1,2,2,usa,Clint_Bowyer,Clint Bowyer,Bad Boy Buggies,Kevin_Harvick,Chevrolet,167,36950,running,124,0
+2011,C,2011_OReilly_Auto_Parts_250,2,3,13,usa,Johnny_Sauter,Johnny Sauter,SafeAuto / Curb Records / Carrier,Mike_Curb,Chevrolet,167,35750,running,11,43
+2011,C,2011_OReilly_Auto_Parts_250,3,10,30,usa,Todd_Bodine,Todd Bodine,NTB / Valvoline,Germain_Racing,Toyota,167,25600,running,9,42
+2011,C,2011_OReilly_Auto_Parts_250,4,6,31,usa,James_Buescher,James Buescher,Exide Batteries,Steve_Turner,Chevrolet,167,18750,running,1,41
+2011,C,2011_OReilly_Auto_Parts_250,5,8,22,usa,Joey_Coulter,Joey Coulter,RCR / Darrell Gwynn Foundation,Richard_Childress,Chevrolet,167,16625,running,1,40
+2011,C,2011_OReilly_Auto_Parts_250,6,11,18,usa,Kyle_Busch,Kyle Busch,Dollar General,Kyle_Busch,Toyota,167,12500,running,0,0
+2011,C,2011_OReilly_Auto_Parts_250,7,24,62,usa,Brendan_Gaughan,Brendan Gaughan,South Point Hotel & Casino,Germain_Racing,Toyota,167,15300,running,0,37
+2011,C,2011_OReilly_Auto_Parts_250,8,4,8,brazil,Nelson_Piquet_Jr,"Nelson Piquet, Jr.",Bozzano / Jontex,Kevin_Harvick,Chevrolet,167,13925,running,0,36
+2011,C,2011_OReilly_Auto_Parts_250,9,9,32,usa,Brad_Sweet,Brad Sweet,Great Clips,Steve_Turner,Chevrolet,167,13850,running,3,36
+2011,C,2011_OReilly_Auto_Parts_250,10,19,5,usa,Travis_Kvapil,Travis Kvapil,International Truck / Monaco RVs,Randy_Moss,Toyota,167,15125,running,0,34
+2011,C,2011_OReilly_Auto_Parts_250,11,7,29,usa,Parker_Kligerman,Parker Kligerman,Penske Truck Rental,Brad_Keselowski,Dodge,167,13750,running,0,33
+2011,C,2011_OReilly_Auto_Parts_250,12,1,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops / Remington / Tracker Boats,Richard_Childress,Chevrolet,167,15825,running,0,32
+2011,C,2011_OReilly_Auto_Parts_250,13,15,7,brazil,Miguel_Paludo,Miguel Paludo,Stemco / Duroline,Tom_DeLoach,Toyota,167,13550,running,1,32
+2011,C,2011_OReilly_Auto_Parts_250,14,12,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,167,13500,running,0,30
+2011,C,2011_OReilly_Auto_Parts_250,15,16,60,usa,Cole_Whitt,Cole Whitt,Red Bull / Fuel Doctor,Stacy_Compton,Chevrolet,167,14775,running,7,30
+2011,C,2011_OReilly_Auto_Parts_250,16,22,81,usa,David_Starr,David Starr,Zachry,Bobby_Dotter,Toyota,167,13375,running,0,28
+2011,C,2011_OReilly_Auto_Parts_250,17,13,23,usa,Jason_White_(1),Jason White,Gunbroker.com,Joe_Dennette,Chevrolet,167,13300,running,0,27
+2011,C,2011_OReilly_Auto_Parts_250,18,17,88,usa,Matt_Crafton,Matt Crafton,Menards / Ideal Door,Duke_Thorson,Chevrolet,167,13250,running,3,27
+2011,C,2011_OReilly_Auto_Parts_250,19,18,77,usa,Justin_Lofton,Justin Lofton,Lofton Cattle / Fort Riley Devil Brigade,Germain_Racing,Toyota,167,13200,running,7,26
+2011,C,2011_OReilly_Auto_Parts_250,20,27,66,usa,Justin_Marks,Justin Marks,GoPro,Stacy_Compton,Chevrolet,167,13850,running,0,24
+2011,C,2011_OReilly_Auto_Parts_250,21,35,4,usa,Ricky_Carmichael,Ricky Carmichael,Monster Energy,Steve_Turner,Chevrolet,167,11850,running,0,23
+2011,C,2011_OReilly_Auto_Parts_250,22,20,9,italy,Max_Papis,Max Papis,GEICO,Germain_Racing,Toyota,167,11825,running,0,22
+2011,C,2011_OReilly_Auto_Parts_250,23,25,46,usa,Craig_Goess,Craig Goess,Great Wolf Lodge / Greenville Toyota of N.C.,Eddie_Sharp,Toyota,167,10800,running,0,21
+2011,C,2011_OReilly_Auto_Parts_250,24,21,20,usa,Johanna_Long,Johanna Long,Panhandle Grading & Paving,Donald_Long,Toyota,166,10775,running,0,20
+2011,C,2011_OReilly_Auto_Parts_250,25,26,63,usa,Nick_Hoffman,Nick Hoffman,ZapPayments.com/Mittler Bros. Machine & Tool,Mike_Mittler,Ford,166,10900,running,0,19
+2011,C,2011_OReilly_Auto_Parts_250,26,33,99,usa,Bryan_Silas,Bryan Silas,CollegeComplete.com,Chase_Mattioli,Ford,166,10725,running,0,0
+2011,C,2011_OReilly_Auto_Parts_250,27,32,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,Mark One Electric,Jennifer_Jo_Cobb,Ford,165,11050,running,0,0
+2011,C,2011_OReilly_Auto_Parts_250,28,14,92,usa,Clay_Rogers,Clay Rogers,BTS Tire & Wheel Distirbutors / FleetHQ.com,Ricky_Benton,Chevrolet,160,10675,running,0,16
+2011,C,2011_OReilly_Auto_Parts_250,29,23,93,usa,Shane_Sieg,Shane Sieg,S&W Services,Rod_Sieg,Chevrolet,111,10625,crash,0,15
+2011,C,2011_OReilly_Auto_Parts_250,30,5,33,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",Anderson's Maple Syrup,Kevin_Harvick,Chevrolet,101,10600,running,0,14
+2011,C,2011_OReilly_Auto_Parts_250,31,29,39,usa,Ryan_Sieg,Ryan Sieg,S&W Services,Rod_Sieg,Chevrolet,60,11075,oil pressure,0,13
+2011,C,2011_OReilly_Auto_Parts_250,32,31,73,usa,J_J_Yeley,J.J. Yeley,County Building Ctrs. / Trans Pecos Trucking,Ron_Crosby,Chevrolet,42,10550,power steering,0,0
+2011,C,2011_OReilly_Auto_Parts_250,33,36,57,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,22,10525,suspension,0,11
+2011,C,2011_OReilly_Auto_Parts_250,34,30,87,usa,Chris_Jones_(1),Chris Jones,Copy Wizard,Rick_Jones,Chevrolet,10,10500,vibration,0,0
+2011,C,2011_OReilly_Auto_Parts_250,35,34,38,usa,Mike_Garvey,Mike Garvey,S&W Services,Rod_Sieg,Chevrolet,7,10475,transmission,0,9
+2011,C,2011_OReilly_Auto_Parts_250,36,28,07,usa,Scott_Riggs,Scott Riggs,SS Green Light Racing / Bobber.info,Ken_Smith,Toyota,4,10446,rear gear,0,0
+2011,C,2011_Winstar_World_Casino_400k,1,13,33,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",Kroger / Iams,Kevin_Harvick,Chevrolet,168,55375,running,18,47
+2011,C,2011_Winstar_World_Casino_400k,2,6,29,usa,Parker_Kligerman,Parker Kligerman,Penske Truck Rental,Brad_Keselowski,Dodge,168,42575,running,0,42
+2011,C,2011_Winstar_World_Casino_400k,3,16,2,usa,David_Mayhew,David Mayhew,MMI Services,Kevin_Harvick,Chevrolet,168,28150,running,0,41
+2011,C,2011_Winstar_World_Casino_400k,4,7,18,usa,Brian_Ickler,Brian Ickler,Toyota,Kyle_Busch,Toyota,168,22700,running,0,0
+2011,C,2011_Winstar_World_Casino_400k,5,2,22,usa,Joey_Coulter,Joey Coulter,American Eurocopter,Richard_Childress,Chevrolet,168,16375,running,9,40
+2011,C,2011_Winstar_World_Casino_400k,6,9,4,usa,Ricky_Carmichael,Ricky Carmichael,Monster Energy,Steve_Turner,Chevrolet,168,14400,running,0,38
+2011,C,2011_Winstar_World_Casino_400k,7,19,39,usa,Ryan_Sieg,Ryan Sieg,S&W Services,Rod_Sieg,Chevrolet,168,13550,running,8,38
+2011,C,2011_Winstar_World_Casino_400k,8,22,7,brazil,Miguel_Paludo,Miguel Paludo,Stemco / Duroline,Tom_DeLoach,Toyota,168,13850,running,10,37
+2011,C,2011_Winstar_World_Casino_400k,9,1,31,usa,James_Buescher,James Buescher,Wolfpack Rentals,Steve_Turner,Chevrolet,168,15150,running,8,36
+2011,C,2011_Winstar_World_Casino_400k,10,25,77,usa,Justin_Lofton,Justin Lofton,Lofton Cattle / Germain.com,Germain_Racing,Toyota,168,14800,running,0,34
+2011,C,2011_Winstar_World_Casino_400k,11,18,20,usa,Johanna_Long,Johanna Long,Panhandle Grading & Paving,Donald_Long,Toyota,168,13125,running,0,33
+2011,C,2011_Winstar_World_Casino_400k,12,17,5,usa,Travis_Kvapil,Travis Kvapil,International Truck / Monaco RVs,Randy_Moss,Toyota,168,12575,running,0,32
+2011,C,2011_Winstar_World_Casino_400k,13,10,8,brazil,Nelson_Piquet_Jr,"Nelson Piquet, Jr.",Bozzano / Jontex,Kevin_Harvick,Chevrolet,168,12475,running,5,32
+2011,C,2011_Winstar_World_Casino_400k,14,28,62,usa,Brendan_Gaughan,Brendan Gaughan,Big Red,Germain_Racing,Toyota,168,12375,running,0,30
+2011,C,2011_Winstar_World_Casino_400k,15,21,9,italy,Max_Papis,Max Papis,GEICO,Germain_Racing,Toyota,168,13600,running,0,29
+2011,C,2011_Winstar_World_Casino_400k,16,20,23,usa,Jason_White_(1),Jason White,Gunbroker.com,Joe_Dennette,Chevrolet,168,12175,running,0,28
+2011,C,2011_Winstar_World_Casino_400k,17,15,66,usa,Justin_Marks,Justin Marks,GoPro / Construct Corps,Stacy_Compton,Chevrolet,168,12075,running,0,27
+2011,C,2011_Winstar_World_Casino_400k,18,24,46,usa,Craig_Goess,Craig Goess,Greenville Toyota of N.C.,Eddie_Sharp,Toyota,168,11975,running,0,26
+2011,C,2011_Winstar_World_Casino_400k,19,27,93,usa,Shane_Sieg,Shane Sieg,S&W Services,Rod_Sieg,Chevrolet,168,10575,running,1,26
+2011,C,2011_Winstar_World_Casino_400k,20,23,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,168,11200,running,1,25
+2011,C,2011_Winstar_World_Casino_400k,21,31,73,usa,Tim_Andrews,Tim Andrews,Super Seal Construction Products,Ron_Crosby,Chevrolet,168,9375,running,0,0
+2011,C,2011_Winstar_World_Casino_400k,22,5,13,usa,Johnny_Sauter,Johnny Sauter,SafeAuto / Curb Records / Carrier,Mike_Curb,Chevrolet,168,9275,running,56,24
+2011,C,2011_Winstar_World_Casino_400k,23,4,32,canada,Steve_Arpin,Steve Arpin,Mike's Hard Lemonade,Steve_Turner,Chevrolet,167,9175,running,6,22
+2011,C,2011_Winstar_World_Casino_400k,24,29,99,usa,Chase_Mattioli,Chase Mattioli,CollegeComplete.com,Chase_Mattioli,Ford,166,9075,running,0,20
+2011,C,2011_Winstar_World_Casino_400k,25,26,92,usa,Clay_Rogers,Clay Rogers,BTS Tire & Wheel Distributors / Fleet HQ,Ricky_Benton,Chevrolet,160,9125,crash,0,19
+2011,C,2011_Winstar_World_Casino_400k,26,3,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops / Tracker Boats / Remington,Richard_Childress,Chevrolet,159,8875,running,46,19
+2011,C,2011_Winstar_World_Casino_400k,27,33,68,usa,Clay_Greenfield,Clay Greenfield,Sponsor Me,Bill_Alger,Dodge,157,9125,running,0,0
+2011,C,2011_Winstar_World_Casino_400k,28,14,60,usa,Cole_Whitt,Cole Whitt,Red Bull / Fuel Doctor,Stacy_Compton,Chevrolet,110,8675,engine,0,16
+2011,C,2011_Winstar_World_Casino_400k,29,11,88,usa,Matt_Crafton,Matt Crafton,Menards,Duke_Thorson,Chevrolet,88,8570,crash,0,15
+2011,C,2011_Winstar_World_Casino_400k,30,12,81,usa,David_Starr,David Starr,Zachry,Bobby_Dotter,Toyota,66,8970,crash,0,14
+2011,C,2011_Winstar_World_Casino_400k,31,8,30,usa,Todd_Bodine,Todd Bodine,NTB / Valvoline,Germain_Racing,Toyota,66,9345,crash,0,13
+2011,C,2011_Winstar_World_Casino_400k,32,34,65,usa,Stephan_McCurley,Stephan McCurley,Lumbermen's Millwork / Trans Pecos Trucking,Joey_Sonntag,Chevrolet,25,8245,clutch,0,12
+2011,C,2011_Winstar_World_Casino_400k,33,30,07,usa,Johnny_Chapman,Johnny Chapman,SS Green Light Racing,Ken_Smith,Toyota,9,8170,transmission,0,0
+2011,C,2011_Winstar_World_Casino_400k,34,32,38,usa,Mike_Garvey,Mike Garvey,S&W Services,Rod_Sieg,Chevrolet,4,8120,brakes,0,10
+2011,C,2011_Winstar_World_Casino_400k,35,35,57,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,3,8095,engine,0,9
+2011,C,2011_UNOH_225,1,8,18,usa,Kyle_Busch,Kyle Busch,Dollar General,Kyle_Busch,Toyota,152,51125,running,61,0
+2011,C,2011_UNOH_225,2,5,29,usa,Parker_Kligerman,Parker Kligerman,Penske Truck Rental,Brad_Keselowski,Dodge,152,40800,running,0,42
+2011,C,2011_UNOH_225,3,14,62,usa,Brendan_Gaughan,Brendan Gaughan,South Point Hotel & Casino,Germain_Racing,Toyota,152,28450,running,2,42
+2011,C,2011_UNOH_225,4,20,30,usa,Todd_Bodine,Todd Bodine,Georgia Boot,Germain_Racing,Toyota,152,23825,running,0,40
+2011,C,2011_UNOH_225,5,9,23,usa,Jason_White_(1),Jason White,Gunbroker.com,Joe_Dennette,Chevrolet,152,19300,running,2,40
+2011,C,2011_UNOH_225,6,4,2,usa,Elliott_Sadler,Elliott Sadler,Hunt Brothers Pizza,Kevin_Harvick,Chevrolet,152,11175,running,47,0
+2011,C,2011_UNOH_225,7,6,22,usa,Joey_Coulter,Joey Coulter,RCR / Rip It Energy,Richard_Childress,Chevrolet,152,12925,running,8,38
+2011,C,2011_UNOH_225,8,18,81,usa,David_Starr,David Starr,Akzo Nobel / ASI Limited / Zachry,Bobby_Dotter,Toyota,152,12425,running,0,36
+2011,C,2011_UNOH_225,9,12,31,usa,James_Buescher,James Buescher,Exide Batteries / Fraternal Order of Eagles,Steve_Turner,Chevrolet,152,12325,running,2,36
+2011,C,2011_UNOH_225,10,16,5,usa,Travis_Kvapil,Travis Kvapil,International Truck / Monaco RVs,Randy_Moss,Toyota,152,13525,running,0,34
+2011,C,2011_UNOH_225,11,22,9,italy,Max_Papis,Max Papis,GEICO,Germain_Racing,Toyota,152,12100,running,0,33
+2011,C,2011_UNOH_225,12,13,32,canada,Steve_Arpin,Steve Arpin,Mike's Hard Lemonade,Steve_Turner,Chevrolet,152,11925,running,0,32
+2011,C,2011_UNOH_225,13,23,4,usa,Ricky_Carmichael,Ricky Carmichael,Monster Energy,Steve_Turner,Chevrolet,151,11825,running,0,31
+2011,C,2011_UNOH_225,14,2,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops / NRA,Richard_Childress,Chevrolet,151,11725,running,4,31
+2011,C,2011_UNOH_225,15,17,46,usa,Justin_Lofton,Justin Lofton,CollegeComplete.com,Eddie_Sharp,Toyota,150,12925,running,0,29
+2011,C,2011_UNOH_225,16,25,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,150,11500,running,0,28
+2011,C,2011_UNOH_225,17,28,92,usa,Clay_Rogers,Clay Rogers,BTS Tire & Wheel Distributors / Fleet HQ,Ricky_Benton,Chevrolet,149,11400,running,0,27
+2011,C,2011_UNOH_225,18,33,63,usa,Jack_Smith_(3),Jack Smith,Seal Wrap,Mike_Mittler,Ford,147,9050,running,0,26
+2011,C,2011_UNOH_225,19,26,39,usa,Ryan_Sieg,Ryan Sieg,S&W Services,Rod_Sieg,Chevrolet,147,11200,running,0,25
+2011,C,2011_UNOH_225,20,30,99,usa,Charlie_Vest,Charlie Vest,CollegeComplete.com,Chase_Mattioli,Ford,147,9575,running,0,24
+2011,C,2011_UNOH_225,21,11,7,brazil,Miguel_Paludo,Miguel Paludo,Stemco / Duroline,Tom_DeLoach,Toyota,146,11000,crash,0,23
+2011,C,2011_UNOH_225,22,3,8,brazil,Nelson_Piquet_Jr,"Nelson Piquet, Jr.",Bozzano / Jontex,Kevin_Harvick,Chevrolet,146,10900,crash,2,23
+2011,C,2011_UNOH_225,23,34,07,usa,Johnny_Chapman,Johnny Chapman,Wear Your Gear / Bobber.info,Ken_Smith,Chevrolet,146,8550,running,0,0
+2011,C,2011_UNOH_225,24,1,13,usa,Johnny_Sauter,Johnny Sauter,SafeAuto / Curb Records / Carrier,Mike_Curb,Chevrolet,125,11650,transmission,24,21
+2011,C,2011_UNOH_225,25,32,93,usa,Shane_Sieg,Shane Sieg,S&W Services,Rod_Sieg,Chevrolet,125,9500,ignition,0,19
+2011,C,2011_UNOH_225,26,10,60,usa,Cole_Whitt,Cole Whitt,Red Bull / Fuel Doctor,Stacy_Compton,Chevrolet,98,8250,running,0,18
+2011,C,2011_UNOH_225,27,7,33,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",Wisk Laundry Detergent,Kevin_Harvick,Chevrolet,75,8150,crash,0,17
+2011,C,2011_UNOH_225,28,19,16,usa,John_King,John King,Edward Jones Investments,John_King,Toyota,74,8400,crash,0,16
+2011,C,2011_UNOH_225,29,24,15,usa,Josh_Richards,Josh Richards,Joy Mining Machinery,Billy_Ballew,Toyota,74,7950,rear end,0,15
+2011,C,2011_UNOH_225,30,29,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,TenForJen.com / Mark One Electric,Jennifer_Jo_Cobb,Ford,66,8350,crash,0,0
+2011,C,2011_UNOH_225,31,36,57,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,41,7775,fuel pump,0,13
+2011,C,2011_UNOH_225,32,15,88,usa,Matt_Crafton,Matt Crafton,Menards / Tarkett,Duke_Thorson,Chevrolet,18,7750,engine,0,12
+2011,C,2011_UNOH_225,33,35,84,usa,Chris_Fontaine,Chris Fontaine,Glenden Enterprises / Stingray Chevrolet,Chris_Fontaine,Chevrolet,10,7735,electrical,0,11
+2011,C,2011_UNOH_225,34,31,38,usa,Mike_Garvey,Mike Garvey,S&W Services,Rod_Sieg,Chevrolet,9,7725,transmission,0,10
+2011,C,2011_UNOH_225,35,27,66,usa,Justin_Marks,Justin Marks,GoPro,Stacy_Compton,Chevrolet,6,7710,crash,0,9
+2011,C,2011_UNOH_225,36,21,20,usa,Johanna_Long,Johanna Long,Panhandle Grading & Paving,Donald_Long,Toyota,5,7682,crash,0,8
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,1,11,88,usa,Matt_Crafton,Matt Crafton,Menards / Ideal Door,Duke_Thorson,Chevrolet,200,38850,running,39,47
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,2,5,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops / Tracker Boats,Richard_Childress,Chevrolet,200,24225,running,127,44
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,3,1,2,usa,David_Mayhew,David Mayhew,MMI,Kevin_Harvick,Chevrolet,200,19875,running,21,42
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,4,6,13,usa,Johnny_Sauter,Johnny Sauter,SafeAuto / Curb Records / Karl Chevrolet,Mike_Curb,Chevrolet,200,16675,running,8,41
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,5,2,22,usa,Joey_Coulter,Joey Coulter,RCR / Darrell Gwynn Foundation,Richard_Childress,Chevrolet,200,15000,running,0,39
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,6,14,60,usa,Cole_Whitt,Cole Whitt,Red Bull / Fuel Doctor,Stacy_Compton,Chevrolet,200,12525,running,0,38
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,7,3,31,usa,James_Buescher,James Buescher,Wolfpack Rentals,Steve_Turner,Chevrolet,200,11725,running,0,37
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,8,10,8,brazil,Nelson_Piquet_Jr,"Nelson Piquet, Jr.",Bozzano / Jontex,Kevin_Harvick,Chevrolet,200,10900,running,0,36
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,9,32,81,usa,David_Starr,David Starr,Zachry,Bobby_Dotter,Toyota,200,12150,running,0,35
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,10,21,5,usa,Todd_Bodine,Todd Bodine,International Truck / Monaco RVs,Germain_Racing,Toyota,200,13125,running,5,35
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,11,4,17,usa,Timothy_Peters,Timothy Peters,Crescent Tools,Tom_DeLoach,Toyota,200,10750,running,0,33
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,12,9,46,usa,Justin_Lofton,Justin Lofton,CollegeComplete.com,Eddie_Sharp,Toyota,200,10625,running,0,32
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,13,13,32,canada,Steve_Arpin,Steve Arpin,Mike's Hard Lemonade,Steve_Turner,Chevrolet,200,10575,running,0,31
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,14,7,18,usa,Brian_Ickler,Brian Ickler,Toyota Tundra,Kyle_Busch,Toyota,200,10525,running,0,30
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,15,12,7,brazil,Miguel_Paludo,Miguel Paludo,Stemco / Duroline,Tom_DeLoach,Toyota,200,11725,running,0,29
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,16,19,62,usa,Brendan_Gaughan,Brendan Gaughan,South Point Hotel & Casino,Germain_Racing,Toyota,200,10300,running,0,28
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,17,20,92,usa,Clay_Rogers,Clay Rogers,BTS Tire & Wheel Distributors / Fleet HQ,Ricky_Benton,Chevrolet,200,10200,running,0,27
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,18,23,39,usa,Ryan_Sieg,Ryan Sieg,S&W Services,Rod_Sieg,Chevrolet,200,10075,running,0,26
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,19,18,33,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",Anderson's Maple Syrup,Kevin_Harvick,Chevrolet,199,8725,running,0,25
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,20,17,9,italy,Max_Papis,Max Papis,GEICO,Germain_Racing,Toyota,198,9400,running,0,24
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,21,25,98,usa,Dakoda_Armstrong,Dakoda Armstrong,Ferrellgas / Agrisure,Duke_Thorson,Chevrolet,198,7525,running,0,23
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,22,8,29,usa,Parker_Kligerman,Parker Kligerman,Penske Truck Rental,Brad_Keselowski,Dodge,198,7425,running,0,22
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,23,27,02,usa,Jamie_Dick,Jamie Dick,VivaAutoGroup.com,Jimmy_Dick,Chevrolet,196,7300,running,0,21
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,24,28,07,usa,Caleb_Roark,Caleb Roark,Wear Your Gear / Bobber.info,Ken_Smith,Chevrolet,194,7225,running,0,20
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,25,16,23,usa,Jason_White_(1),Jason White,Gunbroker.com,Joe_Dennette,Chevrolet,190,7350,running,0,19
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,26,30,57,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,183,7175,running,0,18
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,27,22,4,usa,Ricky_Carmichael,Ricky Carmichael,Monster Energy,Steve_Turner,Chevrolet,152,7475,crash,0,17
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,28,15,66,usa,Justin_Marks,Justin Marks,GoPro,Stacy_Compton,Chevrolet,101,7100,crash,0,16
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,29,24,63,usa,Jack_Smith_(3),Jack Smith,Seal Wrap,Mike_Mittler,Ford,86,7075,crash,0,0
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,30,26,93,usa,Mike_Garvey,Mike Garvey,S&W Services,Rod_Sieg,Chevrolet,46,7550,brakes,0,14
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,31,29,96,usa,Todd_Peck,Todd Peck,National Arthritis Foundation,Michael_Peck,Chevrolet,34,7025,brakes,0,13
+2011,C,2011_Coca_Cola_200_Presented_by_Hy-Vee,32,31,75,usa,Greg_Seevers,Greg Seevers,Norm Benning Racing,Norm_Benning,Chevrolet,3,7000,overheating,0,0
+2011,C,2011_Lucas_Deep_Clean_200,1,1,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops / Tracker Boats,Richard_Childress,Chevrolet,150,39175,running,56,47
+2011,C,2011_Lucas_Deep_Clean_200,2,6,13,usa,Johnny_Sauter,Johnny Sauter,SafeAuto / Carrier / Curb Records,Mike_Curb,Chevrolet,150,28425,running,21,43
+2011,C,2011_Lucas_Deep_Clean_200,3,5,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,150,22075,running,67,43
+2011,C,2011_Lucas_Deep_Clean_200,4,8,8,brazil,Nelson_Piquet_Jr,"Nelson Piquet, Jr.",Bozzano / Jontex,Kevin_Harvick,Chevrolet,150,14225,running,0,40
+2011,C,2011_Lucas_Deep_Clean_200,5,7,29,usa,Parker_Kligerman,Parker Kligerman,Penske Truck Rental,Brad_Keselowski,Dodge,150,14950,running,0,39
+2011,C,2011_Lucas_Deep_Clean_200,6,21,5,usa,Todd_Bodine,Todd Bodine,International Truck / Monaco RVs,Germain_Racing,Toyota,150,11700,running,0,38
+2011,C,2011_Lucas_Deep_Clean_200,7,19,31,usa,James_Buescher,James Buescher,Dollar General,Steve_Turner,Chevrolet,150,9800,running,0,37
+2011,C,2011_Lucas_Deep_Clean_200,8,11,81,usa,David_Starr,David Starr,Allegro Marinades / Zachry,Bobby_Dotter,Toyota,150,9750,running,0,36
+2011,C,2011_Lucas_Deep_Clean_200,9,3,2,usa,Elliott_Sadler,Elliott Sadler,Bully Hill Vineyards,Kevin_Harvick,Chevrolet,150,7400,running,0,0
+2011,C,2011_Lucas_Deep_Clean_200,10,2,22,usa,Joey_Coulter,Joey Coulter,RCR / Rip It Energy,Richard_Childress,Chevrolet,150,10925,running,4,35
+2011,C,2011_Lucas_Deep_Clean_200,11,15,88,usa,Matt_Crafton,Matt Crafton,Menards / Goof Off,Duke_Thorson,Chevrolet,150,9525,running,0,33
+2011,C,2011_Lucas_Deep_Clean_200,12,9,23,usa,Jason_White_(1),Jason White,Gunbroker.com,Joe_Dennette,Chevrolet,150,9425,running,0,32
+2011,C,2011_Lucas_Deep_Clean_200,13,18,62,usa,Brendan_Gaughan,Brendan Gaughan,South Point Hotel & Casino,Germain_Racing,Toyota,150,9375,running,0,31
+2011,C,2011_Lucas_Deep_Clean_200,14,10,7,brazil,Miguel_Paludo,Miguel Paludo,Stemco / Duroline,Tom_DeLoach,Toyota,150,9350,running,0,30
+2011,C,2011_Lucas_Deep_Clean_200,15,20,6,usa,Justin_Lofton,Justin Lofton,CollegeComplete.com,Eddie_Sharp,Toyota,150,10600,running,0,29
+2011,C,2011_Lucas_Deep_Clean_200,16,14,4,usa,Ricky_Carmichael,Ricky Carmichael,Monster Energy,Steve_Turner,Chevrolet,150,9175,running,0,28
+2011,C,2011_Lucas_Deep_Clean_200,17,4,33,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",Tide / Kroger,Kevin_Harvick,Chevrolet,150,9125,running,0,27
+2011,C,2011_Lucas_Deep_Clean_200,18,17,32,usa,Blake_Feese,Blake Feese,AccuDoc Solutions,Steve_Turner,Chevrolet,149,9075,running,0,26
+2011,C,2011_Lucas_Deep_Clean_200,19,16,60,usa,Cole_Whitt,Cole Whitt,Red Bull / Fuel Doctor,Stacy_Compton,Chevrolet,149,9025,running,2,26
+2011,C,2011_Lucas_Deep_Clean_200,20,23,78,usa,B_J_McLeod,B.J. McLeod,Boggy Creek Airboat Rides,Christopher_Long,Chevrolet,147,7450,running,0,24
+2011,C,2011_Lucas_Deep_Clean_200,21,13,66,usa,Justin_Marks,Justin Marks,GoPro,Stacy_Compton,Chevrolet,146,7400,running,0,23
+2011,C,2011_Lucas_Deep_Clean_200,22,12,18,usa,Josh_Richards,Josh Richards,Joy Mining Machinery,Kyle_Busch,Toyota,146,7325,running,0,22
+2011,C,2011_Lucas_Deep_Clean_200,23,34,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,TenForJen.com,Jennifer_Jo_Cobb,Ford,139,6275,running,0,0
+2011,C,2011_Lucas_Deep_Clean_200,24,22,39,usa,Ryan_Sieg,Ryan Sieg,S&W Services,Rod_Sieg,Chevrolet,137,6225,running,0,20
+2011,C,2011_Lucas_Deep_Clean_200,25,31,57,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,137,6350,running,0,19
+2011,C,2011_Lucas_Deep_Clean_200,26,25,20,usa,Johanna_Long,Johanna Long,Panhandle Grading & Paving,Donald_Long,Toyota,125,6150,running,0,18
+2011,C,2011_Lucas_Deep_Clean_200,27,24,9,italy,Max_Papis,Max Papis,GEICO,Germain_Racing,Toyota,105,6475,engine,0,17
+2011,C,2011_Lucas_Deep_Clean_200,28,26,93,usa,Shane_Sieg,Shane Sieg,S&W Services,Rod_Sieg,Chevrolet,69,6075,engine,0,16
+2011,C,2011_Lucas_Deep_Clean_200,29,28,65,usa,Brent_Raymer,Brent Raymer,Trans Pecos Trucking / Steger Lumber,Joey_Sonntag,Chevrolet,58,6050,ignition,0,15
+2011,C,2011_Lucas_Deep_Clean_200,30,29,73,usa,Clay_Greenfield,Clay Greenfield,Trans Pecos Trucking / County Building Ctrs.,Ron_Crosby,Chevrolet,44,6540,handling,0,14
+2011,C,2011_Lucas_Deep_Clean_200,31,32,89,usa,Chris_Lafferty,Chris Lafferty,Blue Ox / Lafferty Performance,Chris_Lafferty,Dodge,16,6025,rear gear,0,0
+2011,C,2011_Lucas_Deep_Clean_200,32,27,07,usa,Johnny_Chapman,Johnny Chapman,Wear Your Gear / Bobber.info,Ken_Smith,Chevrolet,12,6010,clutch,0,0
+2011,C,2011_Lucas_Deep_Clean_200,33,33,75,usa,Mike_Harmon,Mike Harmon,Norm Benning Racing,Norm_Benning,Chevrolet,6,5985,overheating,0,0
+2011,C,2011_Lucas_Deep_Clean_200,34,30,38,usa,Mike_Garvey,Mike Garvey,S&W Services,Rod_Sieg,Chevrolet,3,5960,vibration,0,10
+2011,C,2011_AAA_Insurance_200,1,16,17,usa,Timothy_Peters,Timothy Peters,GearWrench / Red Horse Racing,Tom_DeLoach,Toyota,200,40350,running,6,47
+2011,C,2011_AAA_Insurance_200,2,7,31,usa,James_Buescher,James Buescher,Wolfpack Rentals,Steve_Turner,Chevrolet,200,29700,running,97,44
+2011,C,2011_AAA_Insurance_200,3,12,81,usa,David_Starr,David Starr,ASI Limited / Zachry,Bobby_Dotter,Toyota,200,19950,running,0,41
+2011,C,2011_AAA_Insurance_200,4,17,7,brazil,Miguel_Paludo,Miguel Paludo,Stemco / Duroline,Tom_DeLoach,Toyota,200,17275,running,0,40
+2011,C,2011_AAA_Insurance_200,5,5,33,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.","Vlasic Pickles, Peppers & Relish / Kroger",Kevin_Harvick,Chevrolet,200,16325,running,0,39
+2011,C,2011_AAA_Insurance_200,6,8,88,usa,Matt_Crafton,Matt Crafton,Menards / Ideal Door,Duke_Thorson,Chevrolet,200,11850,running,0,38
+2011,C,2011_AAA_Insurance_200,7,3,22,usa,Joey_Coulter,Joey Coulter,RCR / Darrell Gwynn Foundation,Richard_Childress,Chevrolet,200,11325,running,0,37
+2011,C,2011_AAA_Insurance_200,8,9,60,usa,Cole_Whitt,Cole Whitt,Fuel Doctor / Red Bull,Stacy_Compton,Chevrolet,199,11150,running,0,36
+2011,C,2011_AAA_Insurance_200,9,1,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops / Tracker Boats,Richard_Childress,Chevrolet,199,13275,running,36,36
+2011,C,2011_AAA_Insurance_200,10,15,66,usa,Ross_Chastain,Ross Chastain,National Watermelon Promotion Board,Stacy_Compton,Chevrolet,199,12325,running,0,34
+2011,C,2011_AAA_Insurance_200,11,6,29,usa,Parker_Kligerman,Parker Kligerman,Penske Truck Rental / R&B Transport,Brad_Keselowski,Dodge,199,10950,running,16,34
+2011,C,2011_AAA_Insurance_200,12,18,5,usa,Todd_Bodine,Todd Bodine,Big Red / International Tundra,Germain_Racing,Toyota,199,11850,running,1,33
+2011,C,2011_AAA_Insurance_200,13,19,32,canada,Steve_Arpin,Steve Arpin,Mike's Hard Lemonade,Steve_Turner,Chevrolet,199,10825,running,0,31
+2011,C,2011_AAA_Insurance_200,14,11,8,brazil,Nelson_Piquet_Jr,"Nelson Piquet, Jr.",Bozzano / Jontex,Kevin_Harvick,Chevrolet,198,10800,running,0,30
+2011,C,2011_AAA_Insurance_200,15,22,92,usa,Clay_Rogers,Clay Rogers,Fleet HQ / BTS Tire & Wheel Distirbutors,Ricky_Benton,Chevrolet,198,12075,running,0,29
+2011,C,2011_AAA_Insurance_200,16,10,62,usa,Brendan_Gaughan,Brendan Gaughan,U.S. Air Force Combat Control Team,Germain_Racing,Toyota,198,10450,running,0,28
+2011,C,2011_AAA_Insurance_200,17,13,20,usa,Johanna_Long,Johanna Long,Panhandle Grading & Paving,Donald_Long,Toyota,198,10400,running,0,27
+2011,C,2011_AAA_Insurance_200,18,29,9,italy,Max_Papis,Max Papis,GEICO,Germain_Racing,Toyota,198,10325,running,0,26
+2011,C,2011_AAA_Insurance_200,19,27,4,usa,Ricky_Carmichael,Ricky Carmichael,Monster Energy,Steve_Turner,Chevrolet,197,9025,running,0,25
+2011,C,2011_AAA_Insurance_200,20,24,6,usa,Justin_Lofton,Justin Lofton,Lofton Cattle / CollegeComplete.com,Eddie_Sharp,Toyota,197,9700,running,0,24
+2011,C,2011_AAA_Insurance_200,21,21,98,usa,Dakoda_Armstrong,Dakoda Armstrong,Ferrellgas / Agrisure / Driveforsaving.com,Duke_Thorson,Chevrolet,197,7675,running,0,23
+2011,C,2011_AAA_Insurance_200,22,25,18,usa,Josh_Richards,Josh Richards,Joy Mining Machinery,Kyle_Busch,Toyota,197,7600,running,0,22
+2011,C,2011_AAA_Insurance_200,23,4,13,usa,Johnny_Sauter,Johnny Sauter,SafeAuto / Carrier / Curb Records,Mike_Curb,Chevrolet,196,7550,running,44,22
+2011,C,2011_AAA_Insurance_200,24,2,2,usa,Elliott_Sadler,Elliott Sadler,Hunt Brothers Pizza,Kevin_Harvick,Chevrolet,196,7475,running,0,0
+2011,C,2011_AAA_Insurance_200,25,28,01,usa,Jake_Crum,Jake Crum,Jake Crum Racing,Jake_Crum,Chevrolet,196,7600,running,0,19
+2011,C,2011_AAA_Insurance_200,26,14,23,usa,Jason_White_(1),Jason White,Gunbroker.com,Joe_Dennette,Chevrolet,194,7400,running,0,18
+2011,C,2011_AAA_Insurance_200,27,32,96,usa,Todd_Peck,Todd Peck,National Arthritis Foundation,Michael_Peck,Chevrolet,194,7725,running,0,0
+2011,C,2011_AAA_Insurance_200,28,26,63,usa,Jack_Smith_(3),Jack Smith,Seal Wrap,Mike_Mittler,Ford,193,7350,running,0,16
+2011,C,2011_AAA_Insurance_200,29,20,39,usa,Ryan_Sieg,Ryan Sieg,S&W Services,Rod_Sieg,Chevrolet,193,7325,running,0,15
+2011,C,2011_AAA_Insurance_200,30,34,07,usa,Ricky_Moxley,Ricky Moxley,Wear Your Gear / Bobber.info,Ken_Smith,Toyota,193,7810,running,0,14
+2011,C,2011_AAA_Insurance_200,31,33,57,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,189,7300,running,0,13
+2011,C,2011_AAA_Insurance_200,32,36,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,RacingGraphics.com,Jennifer_Jo_Cobb,Ford,183,7285,running,0,0
+2011,C,2011_AAA_Insurance_200,33,30,42,usa,Tommy_Joe_Martins,Tommy Joe Martins,Cross Construction,Craig_Martins,Dodge,181,7275,running,0,11
+2011,C,2011_AAA_Insurance_200,34,35,00,usa,Brad_Queen,Brad Queen,Live Oak Real Estate,Brad_Queen,Chevrolet,133,7245,engine,0,10
+2011,C,2011_AAA_Insurance_200,35,23,93,usa,Shane_Sieg,Shane Sieg,S&W Services,Rod_Sieg,Chevrolet,127,6955,vibration,0,9
+2011,C,2011_AAA_Insurance_200,36,31,38,usa,Mike_Garvey,Mike Garvey,S&W Services,Rod_Sieg,Chevrolet,7,6920,rear gear,0,8
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,1,1,2,usa,Kevin_Harvick,Kevin Harvick,Ollie's Bargain Outlet,Kevin_Harvick,Chevrolet,53,33800,running,44,0
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,2,2,18,usa,Kyle_Busch,Kyle Busch,CocoaVia.com,Kyle_Busch,Toyota,53,22175,running,0,0
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,3,6,31,usa,James_Buescher,James Buescher,Wolfpack Rentals,Steve_Turner,Chevrolet,53,23950,running,0,41
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,4,16,13,usa,Johnny_Sauter,Johnny Sauter,SafeAuto / Carrier / Curb Records,Mike_Curb,Chevrolet,53,18825,running,0,34
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,5,8,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops / Tracker Boats,Richard_Childress,Chevrolet,53,13750,running,0,39
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,6,12,22,usa,Joey_Coulter,Joey Coulter,Darrell Gwynn Foundation / RCR Graphics Ctr.,Richard_Childress,Chevrolet,53,12375,running,0,38
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,7,5,32,usa,Mark_Martin,Mark Martin,Exide Batteries,Steve_Turner,Chevrolet,53,8925,running,0,0
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,8,13,88,usa,Matt_Crafton,Matt Crafton,Menards / Ideal Door,Duke_Thorson,Chevrolet,53,10650,running,0,36
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,9,7,33,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",Utz Snacks,Kevin_Harvick,Chevrolet,53,10600,running,0,35
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,10,11,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,53,11850,running,0,34
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,11,19,9,italy,Max_Papis,Max Papis,GEICO,Germain_Racing,Toyota,53,10475,running,0,33
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,12,10,5,usa,Todd_Bodine,Todd Bodine,International Truck / Monaco RVs,Germain_Racing,Toyota,53,11350,running,0,32
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,13,4,29,usa,Parker_Kligerman,Parker Kligerman,Penske Truck Rental,Brad_Keselowski,Dodge,53,10300,running,9,32
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,14,3,8,brazil,Nelson_Piquet_Jr,"Nelson Piquet, Jr.",Bozzano / Jontex,Kevin_Harvick,Chevrolet,53,10250,running,0,30
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,15,18,60,usa,Cole_Whitt,Cole Whitt,Fuel Doctor / Red Bull,Stacy_Compton,Chevrolet,53,11450,running,0,29
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,16,21,6,usa,Justin_Lofton,Justin Lofton,CollegeComplete.com,Eddie_Sharp,Toyota,53,10025,running,0,28
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,17,20,23,usa,Jason_White_(1),Jason White,Gunbroker.com,Joe_Dennette,Chevrolet,53,9925,running,0,27
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,18,17,81,usa,David_Starr,David Starr,Zachry,Bobby_Dotter,Toyota,53,9800,running,0,26
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,19,14,7,brazil,Miguel_Paludo,Miguel Paludo,Stemco / Duroline,Tom_DeLoach,Toyota,53,9700,running,0,25
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,20,15,4,usa,Ricky_Carmichael,Ricky Carmichael,Monster Energy,Steve_Turner,Chevrolet,53,10150,running,0,24
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,21,23,39,usa,Ryan_Sieg,Ryan Sieg,S&W Services,Rod_Sieg,Chevrolet,53,9725,running,0,23
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,22,9,62,usa,Brendan_Gaughan,Brendan Gaughan,South Point Hotel & Casino,Germain_Racing,Toyota,53,8150,running,0,22
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,23,25,28,usa,Wes_Burton,Wes Burton,FDNY Racing,Jim_Rosenblum,Chevrolet,53,7050,running,0,21
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,24,28,57,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,53,7975,running,0,20
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,25,31,66,usa,Peyton_Sellers,Peyton Sellers,Skills USA,Stacy_Compton,Chevrolet,51,7090,running,0,19
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,26,22,07,usa,Chad_McCumbee,Chad McCumbee,SS Green Light Racing,Ken_Smith,Toyota,26,6900,radiator,0,18
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,27,26,84,usa,Chris_Fontaine,Chris Fontaine,Stingray Chevrolet / Glenden Enterprises,Chris_Fontaine,Chevrolet,17,7225,ignition,0,17
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,28,27,38,usa,Mike_Garvey,Mike Garvey,Sieg Racing,Rod_Sieg,Chevrolet,11,6850,vibration,0,16
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,29,24,93,usa,Shane_Sieg,Shane Sieg,S&W Services,Rod_Sieg,Chevrolet,9,6825,brakes,0,15
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,30,29,75,usa,James_Hylton,James Hylton,Norm Benning Racing,Norm_Benning,Chevrolet,7,7300,engine,0,0
+2011,C,2011_Good_Sam_RV_Emergency_Road_Serivce_125,31,30,89,usa,Chris_Lafferty,Chris Lafferty,Lafferty Performance / Blue Ox,Chris_Lafferty,Chevrolet,2,6775,handling,0,0
+2011,C,2011_VFW_200,1,6,2,usa,Kevin_Harvick,Kevin Harvick,TapOut,Kevin_Harvick,Chevrolet,102,33150,running,13,0
+2011,C,2011_VFW_200,2,12,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,102,29975,running,0,42
+2011,C,2011_VFW_200,3,9,7,brazil,Miguel_Paludo,Miguel Paludo,Stemco / Duroline,Tom_DeLoach,Toyota,102,23650,running,3,42
+2011,C,2011_VFW_200,4,11,31,usa,James_Buescher,James Buescher,Exide Batteries,Steve_Turner,Chevrolet,102,15625,running,0,40
+2011,C,2011_VFW_200,5,19,81,usa,David_Starr,David Starr,ASI Limited / Zachry,Bobby_Dotter,Toyota,102,13500,running,0,39
+2011,C,2011_VFW_200,6,18,23,usa,Jason_White_(1),Jason White,Gunbroker.com,Joe_Dennette,Chevrolet,102,11525,running,0,38
+2011,C,2011_VFW_200,7,3,33,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",Champion Spark Plugs,Kevin_Harvick,Chevrolet,102,11375,running,0,37
+2011,C,2011_VFW_200,8,23,62,usa,Brendan_Gaughan,Brendan Gaughan,South Point Hotel & Casino,Germain_Racing,Toyota,102,12300,running,0,36
+2011,C,2011_VFW_200,9,15,51,usa,Colin_Braun,Colin Braun,Matrix System / Bullet Liner,Billy_Ballew,Ford,102,9000,running,0,35
+2011,C,2011_VFW_200,10,17,60,usa,Cole_Whitt,Cole Whitt,Fuel Doctor / Red Bull,Stacy_Compton,Chevrolet,102,12550,running,0,34
+2011,C,2011_VFW_200,11,2,5,usa,Todd_Bodine,Todd Bodine,International Truck / Monaco RVs,Germain_Racing,Toyota,102,12175,running,0,33
+2011,C,2011_VFW_200,12,7,4,usa,Ricky_Carmichael,Ricky Carmichael,Monster Energy,Steve_Turner,Chevrolet,102,11025,running,1,33
+2011,C,2011_VFW_200,13,14,13,usa,Johnny_Sauter,Johnny Sauter,SafeAuto / Curb Records,Mike_Curb,Chevrolet,102,10950,running,1,32
+2011,C,2011_VFW_200,14,4,32,usa,Mark_Martin,Mark Martin,Exide Batteries,Steve_Turner,Chevrolet,102,10650,running,33,0
+2011,C,2011_VFW_200,15,22,6,usa,Justin_Lofton,Justin Lofton,CollegeComplete.com,Eddie_Sharp,Toyota,102,12175,running,1,30
+2011,C,2011_VFW_200,16,8,8,brazil,Nelson_Piquet_Jr,"Nelson Piquet, Jr.",AutoTrac / Qualcomm,Kevin_Harvick,Chevrolet,101,10825,crash,0,28
+2011,C,2011_VFW_200,17,25,39,usa,Ryan_Sieg,Ryan Sieg,S&W Services,Rod_Sieg,Chevrolet,100,10725,running,0,27
+2011,C,2011_VFW_200,18,20,22,usa,Joey_Coulter,Joey Coulter,SKF / RCR / Rip It Energy,Richard_Childress,Chevrolet,100,10700,running,7,27
+2011,C,2011_VFW_200,19,16,9,italy,Max_Papis,Max Papis,GEICO,Germain_Racing,Toyota,96,10650,running,0,25
+2011,C,2011_VFW_200,20,30,57,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,93,11350,running,0,24
+2011,C,2011_VFW_200,21,1,88,usa,Matt_Crafton,Matt Crafton,Schrock Cabinetry / Menards,Duke_Thorson,Chevrolet,91,12800,crash,20,24
+2011,C,2011_VFW_200,22,10,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops / Tracker Boats,Richard_Childress,Chevrolet,90,9300,crash,16,23
+2011,C,2011_VFW_200,23,5,29,usa,Parker_Kligerman,Parker Kligerman,Cooper Standard,Brad_Keselowski,Dodge,89,9275,crash,0,21
+2011,C,2011_VFW_200,24,21,98,usa,Dakoda_Armstrong,Dakoda Armstrong,Ferrellgas / Agrisure,Duke_Thorson,Chevrolet,89,8250,crash,0,20
+2011,C,2011_VFW_200,25,13,18,usa,Kyle_Busch,Kyle Busch,Traxxas,Kyle_Busch,Toyota,63,8375,radiator,7,0
+2011,C,2011_VFW_200,26,32,89,usa,Chris_Lafferty,Chris Lafferty,Blue Ox / NASCAR Speed Park,Chris_Lafferty,Chevrolet,18,8200,rear gear,0,0
+2011,C,2011_VFW_200,27,31,07,usa,Butch_Miller,Butch Miller,Bobber.info / ASI Limited,Ken_Smith,Chevrolet,11,8525,transmission,0,17
+2011,C,2011_VFW_200,28,27,66,usa,Peyton_Sellers,Peyton Sellers,Wyler.com / Turn One Racing,Stacy_Compton,Chevrolet,10,8150,overheating,0,16
+2011,C,2011_VFW_200,29,24,93,usa,Casey_Roderick,Casey Roderick,S&W Services,Rod_Sieg,Chevrolet,6,8100,clutch,0,0
+2011,C,2011_VFW_200,30,26,38,usa,Mike_Garvey,Mike Garvey,S&W Services,Rod_Sieg,Chevrolet,4,8575,transmission,0,14
+2011,C,2011_VFW_200,31,29,75,usa,J_J_Yeley,J.J. Yeley,Norm Benning Racing,Norm_Benning,Chevrolet,4,8050,rear gear,0,0
+2011,C,2011_VFW_200,32,28,74,usa,Mike_Harmon,Mike Harmon,@hrmn8ter,Mike_Harmon,Ford,2,8025,handling,0,0
+2011,C,2011_VFW_200,33,33,87,usa,Chris_Jones_(1),Chris Jones,Garbee's Truck & Trailer,Rick_Jones,Chevrolet,0,8000,engine,0,11
+2011,C,2011_OReilly_200,1,6,2,usa,Kevin_Harvick,Kevin Harvick,Hunt Brothers Pizza,Kevin_Harvick,Chevrolet,200,29225,running,103,0
+2011,C,2011_OReilly_200,2,12,13,usa,Johnny_Sauter,Johnny Sauter,SafeAuto / Curb Records,Mike_Curb,Chevrolet,200,26075,running,0,42
+2011,C,2011_OReilly_200,3,9,5,usa,Todd_Bodine,Todd Bodine,Valvoline,Germain_Racing,Toyota,200,20225,running,0,41
+2011,C,2011_OReilly_200,4,5,31,usa,James_Buescher,James Buescher,Exide Batteries,Steve_Turner,Chevrolet,200,16775,running,0,40
+2011,C,2011_OReilly_200,5,8,17,usa,Timothy_Peters,Timothy Peters,Red Horse Racing,Tom_DeLoach,Toyota,200,13825,running,0,39
+2011,C,2011_OReilly_200,6,10,22,usa,Joey_Coulter,Joey Coulter,RCR Graphics Center / Rip It Energy,Richard_Childress,Chevrolet,200,12250,running,0,38
+2011,C,2011_OReilly_200,7,29,6,usa,Justin_Lofton,Justin Lofton,CollegeComplete.com,Eddie_Sharp,Toyota,200,12100,running,0,37
+2011,C,2011_OReilly_200,8,2,8,brazil,Nelson_Piquet_Jr,"Nelson Piquet, Jr.",QualComm / AutoTrac,Kevin_Harvick,Chevrolet,200,11050,running,0,36
+2011,C,2011_OReilly_200,9,1,24,usa,Elliott_Sadler,Elliott Sadler,AM FM Energy / Pellet & Wood Stoves,Joe_Dennette,Chevrolet,200,10950,running,53,0
+2011,C,2011_OReilly_200,10,11,29,usa,Parker_Kligerman,Parker Kligerman,Penske Truck Rental,Brad_Keselowski,Dodge,200,14375,running,0,34
+2011,C,2011_OReilly_200,11,15,81,usa,David_Starr,David Starr,Advocare / Boot Campaign / ZHI.com,Bobby_Dotter,Toyota,200,10900,running,0,33
+2011,C,2011_OReilly_200,12,30,60,usa,Cole_Whitt,Cole Whitt,Fuel Doctor / Red Bull,Stacy_Compton,Chevrolet,200,10750,running,0,32
+2011,C,2011_OReilly_200,13,27,19,usa,David_Mayhew,David Mayhew,MMI Services / Ron's Rear Ends,Steve_McGowan,Chevrolet,200,8450,running,0,0
+2011,C,2011_OReilly_200,14,31,92,usa,Clay_Rogers,Clay Rogers,QMI / Fleet HQ / BTS Tire & Wheel,Ricky_Benton,Chevrolet,200,10650,running,0,30
+2011,C,2011_OReilly_200,15,14,20,usa,Johanna_Long,Johanna Long,Panhandle Grading & Paving,Donald_Long,Toyota,200,11900,running,0,29
+2011,C,2011_OReilly_200,16,20,23,usa,Jason_White_(1),Jason White,Gunbroker.com,Joe_Dennette,Chevrolet,199,10500,running,44,29
+2011,C,2011_OReilly_200,17,13,51,usa,Josh_Richards,Josh Richards,Joy Mining Machinery,Billy_Ballew,Toyota,199,8195,running,0,27
+2011,C,2011_OReilly_200,18,35,32,usa,Blake_Feese,Blake Feese,AccuDoc Solutions,Steve_Turner,Chevrolet,199,10375,running,0,26
+2011,C,2011_OReilly_200,19,34,66,usa,Ross_Chastain,Ross Chastain,National Watermelon Promotion Board / Melon 1,Stacy_Compton,Chevrolet,199,10325,running,0,25
+2011,C,2011_OReilly_200,20,4,62,usa,Brendan_Gaughan,Brendan Gaughan,South Point Hotel & Casino,Germain_Racing,Toyota,198,11000,running,0,24
+2011,C,2011_OReilly_200,21,18,88,usa,Matt_Crafton,Matt Crafton,Menards / Goof Off,Duke_Thorson,Chevrolet,198,10225,running,0,23
+2011,C,2011_OReilly_200,22,28,09,usa,Bryan_Silas,Bryan Silas,Rockingham Speedway,Chris_Baluch,Ford,198,7950,running,0,0
+2011,C,2011_OReilly_200,23,17,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops / Tracker Boats,Richard_Childress,Chevrolet,197,10175,running,0,21
+2011,C,2011_OReilly_200,24,3,33,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",Cooked Perfect Meatballs,Kevin_Harvick,Chevrolet,197,8900,running,0,20
+2011,C,2011_OReilly_200,25,26,39,usa,Ryan_Sieg,Ryan Sieg,S&W Services,Rod_Sieg,Chevrolet,192,9000,ignition,0,19
+2011,C,2011_OReilly_200,26,33,9,italy,Max_Papis,Max Papis,GEICO,Germain_Racing,Toyota,192,7800,running,0,18
+2011,C,2011_OReilly_200,27,21,73,usa,Brian_Johnson_Jr,"Brian Johnson, Jr.",Super Seal / Trans Pecos Trucking,Ron_Crosby,Chevrolet,178,8125,running,0,17
+2011,C,2011_OReilly_200,28,24,70,usa,Jeff_Agnew,Jeff Agnew,Food Country USA,Edward_Asbury,Chevrolet,170,7750,crash,0,16
+2011,C,2011_OReilly_200,29,22,4,usa,Ricky_Carmichael,Ricky Carmichael,Monster Energy,Steve_Turner,Chevrolet,161,7700,running,0,15
+2011,C,2011_OReilly_200,30,7,18,usa,Kyle_Busch,Kyle Busch,Dollar General / Combos,Kyle_Busch,Toyota,100,8175,crash,0,0
+2011,C,2011_OReilly_200,31,16,7,brazil,Miguel_Paludo,Miguel Paludo,Stemco / Duroline,Tom_DeLoach,Toyota,90,7240,engine,0,13
+2011,C,2011_OReilly_200,32,19,07,usa,John_King,John King,Edward Jones Investments,Ken_Smith,Toyota,62,7175,wheel,0,12
+2011,C,2011_OReilly_200,33,25,01,usa,Jake_Crum,Jake Crum,Bandit Chippers,Jake_Crum,Chevrolet,61,7150,crash,0,11
+2011,C,2011_OReilly_200,34,23,87,usa,Chris_Jones_(1),Chris Jones,Garbee's Truck & Trailer,Rick_Jones,Chevrolet,54,7125,crash,0,10
+2011,C,2011_OReilly_200,35,32,93,usa,Mike_Garvey,Mike Garvey,S&W Services,Rod_Sieg,Chevrolet,4,7100,brakes,0,9
+2011,C,2011_OReilly_200,36,36,65,usa,Brent_Raymer,Brent Raymer,County Building Ctrs. / Trans Pecos Trucking,Joey_Sonntag,Chevrolet,3,7064,electrical,0,8
+2011,C,2011_Good_Sam_Club_200,1,17,33,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",Armour / Ingles,Kevin_Harvick,Chevrolet,130,39965,running,17,47
+2011,C,2011_Good_Sam_Club_200,2,2,2,usa,Clint_Bowyer,Clint Bowyer,Bad Boy Buggies,Kevin_Harvick,Chevrolet,130,25315,running,97,0
+2011,C,2011_Good_Sam_Club_200,3,6,18,usa,Kyle_Busch,Kyle Busch,Dollar General,Kyle_Busch,Toyota,130,21065,running,14,0
+2011,C,2011_Good_Sam_Club_200,4,27,32,usa,Blake_Feese,Blake Feese,AccuDoc Solutions,Steve_Turner,Chevrolet,130,19040,running,0,40
+2011,C,2011_Good_Sam_Club_200,5,5,08,usa,Ryan_Newman,Ryan Newman,Realtree / Brandt,Steve_Turner,Chevrolet,130,14715,running,0,0
+2011,C,2011_Good_Sam_Club_200,6,8,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops / Tracker Boats,Richard_Childress,Chevrolet,130,13090,running,2,39
+2011,C,2011_Good_Sam_Club_200,7,7,88,usa,Matt_Crafton,Matt Crafton,Zecol / Menards,Duke_Thorson,Chevrolet,130,13145,running,0,37
+2011,C,2011_Good_Sam_Club_200,8,1,4,usa,Ricky_Carmichael,Ricky Carmichael,Monster Energy,Steve_Turner,Chevrolet,130,14245,running,0,36
+2011,C,2011_Good_Sam_Club_200,9,19,5,usa,Todd_Bodine,Todd Bodine,ServiceCenterAuto.com / NTB,Germain_Racing,Toyota,130,12915,running,0,35
+2011,C,2011_Good_Sam_Club_200,10,3,31,usa,James_Buescher,James Buescher,Exide Batteries,Steve_Turner,Chevrolet,130,12765,running,0,34
+2011,C,2011_Good_Sam_Club_200,11,28,63,usa,Jack_Smith_(3),Jack Smith,Seal Wrap,Mike_Mittler,Ford,130,10315,running,0,33
+2011,C,2011_Good_Sam_Club_200,12,4,29,usa,Parker_Kligerman,Parker Kligerman,Penske Truck Rental,Brad_Keselowski,Dodge,130,12190,running,0,32
+2011,C,2011_Good_Sam_Club_200,13,20,22,usa,Joey_Coulter,Joey Coulter,Darrell Gwynn Foundation / RCR Graphics Ctr.,Richard_Childress,Chevrolet,130,11090,running,0,31
+2011,C,2011_Good_Sam_Club_200,14,18,9,italy,Max_Papis,Max Papis,GEICO,Germain_Racing,Toyota,130,10990,running,0,30
+2011,C,2011_Good_Sam_Club_200,15,26,39,usa,Ryan_Sieg,Ryan Sieg,S&W Services,Rod_Sieg,Chevrolet,129,12215,running,0,29
+2011,C,2011_Good_Sam_Club_200,16,10,17,usa,Timothy_Peters,Timothy Peters,Crescent Tools / icecold4homes.com,Tom_DeLoach,Toyota,129,10790,running,0,28
+2011,C,2011_Good_Sam_Club_200,17,21,81,usa,David_Starr,David Starr,Zachry / ASI Limited,Bobby_Dotter,Toyota,129,10735,running,0,27
+2011,C,2011_Good_Sam_Club_200,18,25,62,usa,Brendan_Gaughan,Brendan Gaughan,South Point Hotel & Casino,Germain_Racing,Toyota,129,10610,running,0,26
+2011,C,2011_Good_Sam_Club_200,19,15,51,usa,Colin_Braun,Colin Braun,Bullet Liner,Billy_Ballew,Ford,129,8310,running,0,25
+2011,C,2011_Good_Sam_Club_200,20,16,8,brazil,Nelson_Piquet_Jr,"Nelson Piquet, Jr.",AutoTrac / Qualcomm,Kevin_Harvick,Chevrolet,129,11235,running,0,24
+2011,C,2011_Good_Sam_Club_200,21,9,15,usa,Josh_Richards,Josh Richards,Joy Mining Machinery,Kyle_Busch,Toyota,128,8210,running,0,23
+2011,C,2011_Good_Sam_Club_200,22,13,7,brazil,Miguel_Paludo,Miguel Paludo,Stemco / Duroline,Tom_DeLoach,Toyota,128,10410,running,0,22
+2011,C,2011_Good_Sam_Club_200,23,31,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,HipChixFundraisers.com,Jennifer_Jo_Cobb,Ford,127,8110,running,0,0
+2011,C,2011_Good_Sam_Club_200,24,35,66,usa,Chris_Cockrum,Chris Cockrum,Advanced Communications Group / AccuTech,Stacy_Compton,Chevrolet,126,10335,running,0,20
+2011,C,2011_Good_Sam_Club_200,25,23,23,usa,Jason_White_(1),Jason White,Gunbroker.com,Joe_Dennette,Chevrolet,125,10460,running,0,19
+2011,C,2011_Good_Sam_Club_200,26,22,6,usa,Justin_Lofton,Justin Lofton,CollegeComplete.com,Eddie_Sharp,Toyota,124,9010,running,0,18
+2011,C,2011_Good_Sam_Club_200,27,32,84,usa,Chris_Fontaine,Chris Fontaine,Glenden Enterprises / Stingray Chevrolet,Chris_Fontaine,Chevrolet,123,8335,running,0,0
+2011,C,2011_Good_Sam_Club_200,28,24,98,usa,Justin_Marks,Justin Marks,GoPro,Duke_Thorson,Chevrolet,116,7960,running,0,16
+2011,C,2011_Good_Sam_Club_200,29,12,13,usa,Johnny_Sauter,Johnny Sauter,SafeAuto / Curb Records,Mike_Curb,Chevrolet,108,8935,running,0,15
+2011,C,2011_Good_Sam_Club_200,30,29,78,usa,B_J_McLeod,B.J. McLeod,Boggy Creek Airboat Rides,Christopher_Long,Chevrolet,37,8410,crash,0,0
+2011,C,2011_Good_Sam_Club_200,31,14,20,usa,Johanna_Long,Johanna Long,Panhandle Grading / PawPaw Powered,Donald_Long,Toyota,36,7885,crash,0,13
+2011,C,2011_Good_Sam_Club_200,32,11,60,usa,Cole_Whitt,Cole Whitt,Fuel Doctor / Red Bull,Stacy_Compton,Chevrolet,19,7860,engine,0,12
+2011,C,2011_Good_Sam_Club_200,33,36,09,usa,Charlie_Vest,Charlie Vest,Rockingham Speedway,Chris_Baluch,Ford,14,7835,overheating,0,11
+2011,C,2011_Good_Sam_Club_200,34,34,07,usa,Johnny_Chapman,Johnny Chapman,Bobber.info,Ken_Smith,Chevrolet,8,7785,transmission,0,0
+2011,C,2011_Good_Sam_Club_200,35,30,38,usa,Mike_Garvey,Mike Garvey,S&W Services,Rod_Sieg,Chevrolet,7,7755,overheating,0,0
+2011,C,2011_Good_Sam_Club_200,36,33,93,usa,Dennis_Setzer,Dennis Setzer,S&W Services,Rod_Sieg,Chevrolet,6,7719,brakes,0,0
+2011,C,2011_Fast_Five_225,1,5,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops / Tracker Boats,Richard_Childress,Chevrolet,150,38700,running,17,47
+2011,C,2011_Fast_Five_225,2,2,2,usa,Kevin_Harvick,Kevin Harvick,Bad Boy Buggies,Kevin_Harvick,Chevrolet,150,29050,running,99,0
+2011,C,2011_Fast_Five_225,3,12,8,brazil,Nelson_Piquet_Jr,"Nelson Piquet, Jr.",AutoTrac / Qualcomm,Kevin_Harvick,Chevrolet,150,24875,running,5,42
+2011,C,2011_Fast_Five_225,4,3,29,usa,Parker_Kligerman,Parker Kligerman,Chicagoland Ram Dealers,Brad_Keselowski,Dodge,150,20200,running,3,41
+2011,C,2011_Fast_Five_225,5,14,18,usa,Kyle_Busch,Kyle Busch,Dollar General,Kyle_Busch,Toyota,150,15625,running,10,0
+2011,C,2011_Fast_Five_225,6,13,13,usa,Johnny_Sauter,Johnny Sauter,SafeAuto / Curb Records,Mike_Curb,Chevrolet,150,17300,running,2,39
+2011,C,2011_Fast_Five_225,7,10,88,usa,Matt_Crafton,Matt Crafton,Fisher Nuts / Menards,Duke_Thorson,Chevrolet,150,14250,running,0,37
+2011,C,2011_Fast_Five_225,8,9,7,brazil,Miguel_Paludo,Miguel Paludo,Stemco / Duroline,Tom_DeLoach,Toyota,150,14475,running,0,36
+2011,C,2011_Fast_Five_225,9,7,60,usa,Cole_Whitt,Cole Whitt,Fuel Doctor / Red Bull,Stacy_Compton,Chevrolet,150,14100,running,0,35
+2011,C,2011_Fast_Five_225,10,16,33,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",Anderson's Maple Syrup,Kevin_Harvick,Chevrolet,150,15375,running,0,34
+2011,C,2011_Fast_Five_225,11,6,31,usa,James_Buescher,James Buescher,Exide Batteries,Steve_Turner,Chevrolet,150,13950,running,0,33
+2011,C,2011_Fast_Five_225,12,11,22,usa,Joey_Coulter,Joey Coulter,RCR Graphics Center,Richard_Childress,Chevrolet,150,13825,running,0,32
+2011,C,2011_Fast_Five_225,13,8,5,usa,Todd_Bodine,Todd Bodine,International Truck / Monaco RVs,Germain_Racing,Toyota,149,16800,running,14,32
+2011,C,2011_Fast_Five_225,14,17,62,usa,Brendan_Gaughan,Brendan Gaughan,South Point Hotel & Casino,Germain_Racing,Toyota,149,13750,running,0,30
+2011,C,2011_Fast_Five_225,15,15,6,usa,Justin_Lofton,Justin Lofton,CollegeComplete.com,Eddie_Sharp,Chevrolet,149,15025,running,0,29
+2011,C,2011_Fast_Five_225,16,1,32,canada,Steve_Arpin,Steve Arpin,Mike's Hard Lemonade,Steve_Turner,Chevrolet,149,15825,running,0,28
+2011,C,2011_Fast_Five_225,17,24,17,usa,Timothy_Peters,Timothy Peters,NTB / Service Central,Tom_DeLoach,Toyota,148,13550,running,0,27
+2011,C,2011_Fast_Five_225,18,19,9,italy,Max_Papis,Max Papis,GEICO,Germain_Racing,Toyota,148,13500,running,0,26
+2011,C,2011_Fast_Five_225,19,20,81,usa,David_Starr,David Starr,"Zachry / NCCER ""Build Your Future""",Bobby_Dotter,Toyota,147,13450,running,0,25
+2011,C,2011_Fast_Five_225,20,26,98,usa,Dakoda_Armstrong,Dakoda Armstrong,Ferrellgas / Agrisure,Duke_Thorson,Chevrolet,146,11850,running,0,24
+2011,C,2011_Fast_Five_225,21,21,09,usa,Bryan_Silas,Bryan Silas,Good Sam 200 / Rockingham Speedway,Chris_Baluch,Ford,146,11100,running,0,0
+2011,C,2011_Fast_Five_225,22,27,07,usa,Caleb_Roark,Caleb Roark,Bobber.info,Ken_Smith,Chevrolet,145,13325,running,0,22
+2011,C,2011_Fast_Five_225,23,29,63,usa,Jack_Smith_(3),Jack Smith,Seal Wrap / Operation Home Front,Mike_Mittler,Ford,144,11050,running,0,21
+2011,C,2011_Fast_Five_225,24,18,23,usa,Jason_White_(1),Jason White,Gunbroker.com,Joe_Dennette,Chevrolet,144,12025,running,0,20
+2011,C,2011_Fast_Five_225,25,4,4,usa,Ricky_Carmichael,Ricky Carmichael,Monster Energy Cup,Steve_Turner,Chevrolet,142,12150,running,0,19
+2011,C,2011_Fast_Five_225,26,31,73,usa,Brian_Johnson_Jr,"Brian Johnson, Jr.",Super Seal / Trans Pecos Trucking,Ron_Crosby,Chevrolet,142,10975,running,0,18
+2011,C,2011_Fast_Five_225,27,36,57,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,134,11300,running,0,17
+2011,C,2011_Fast_Five_225,28,25,39,usa,Ryan_Sieg,Ryan Sieg,S&W Services,Rod_Sieg,Chevrolet,84,10925,suspension,0,16
+2011,C,2011_Fast_Five_225,29,32,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,HipChixFundraisers.com,Jennifer_Jo_Cobb,Ford,71,10875,engine,0,0
+2011,C,2011_Fast_Five_225,30,22,66,usa,J_J_Yeley,J.J. Yeley,Turn One Racing,Stacy_Compton,Chevrolet,33,11350,fuel pressure,0,0
+2011,C,2011_Fast_Five_225,31,28,38,usa,Mike_Garvey,Mike Garvey,S&W Services,Rod_Sieg,Chevrolet,8,10825,rear gear,0,13
+2011,C,2011_Fast_Five_225,32,34,65,usa,Brent_Raymer,Brent Raymer,County Building Ctrs. / Trans Pecos Trucking,Joey_Sonntag,Chevrolet,7,10800,electrical,0,12
+2011,C,2011_Fast_Five_225,33,35,93,usa,Dennis_Setzer,Dennis Setzer,S&W Services,Rod_Sieg,Chevrolet,5,10775,brakes,0,0
+2011,C,2011_Fast_Five_225,34,23,27,usa,David_Stremme,David Stremme,S&W Services,Rod_Sieg,Chevrolet,4,10750,engine,0,0
+2011,C,2011_Fast_Five_225,35,30,87,usa,Chris_Jones_(1),Chris Jones,Copy Wizard,Rick_Jones,Chevrolet,4,10725,wheel,0,0
+2011,C,2011_Fast_Five_225,36,33,74,usa,Mike_Harmon,Mike Harmon,@hrmn8ter,Mike_Harmon,Ford,3,10691,transmission,0,0
+2011,C,2011_F_W_Webb_175,1,1,18,usa,Kyle_Busch,Kyle Busch,Toyota / Traxxas,Kyle_Busch,Toyota,175,43375,running,165,0
+2011,C,2011_F_W_Webb_175,2,4,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops / Tracker Boats,Richard_Childress,Chevrolet,175,30825,running,5,43
+2011,C,2011_F_W_Webb_175,3,2,2,usa,Kevin_Harvick,Kevin Harvick,JEGS,Kevin_Harvick,Chevrolet,175,21425,running,0,0
+2011,C,2011_F_W_Webb_175,4,5,33,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",Cooked Perfect Meatballs,Kevin_Harvick,Chevrolet,175,19250,running,0,40
+2011,C,2011_F_W_Webb_175,5,14,13,usa,Johnny_Sauter,Johnny Sauter,SafeAuto / Curb Records / Carrier,Mike_Curb,Chevrolet,175,16725,running,0,39
+2011,C,2011_F_W_Webb_175,6,10,88,usa,Matt_Crafton,Matt Crafton,Menards / Great Lakes Wood Floors,Duke_Thorson,Chevrolet,175,15500,running,0,38
+2011,C,2011_F_W_Webb_175,7,8,31,usa,James_Buescher,James Buescher,Exide Batteries,Steve_Turner,Chevrolet,174,12625,running,2,38
+2011,C,2011_F_W_Webb_175,8,11,5,usa,Todd_Bodine,Todd Bodine,International Truck / Monaco RVs,Germain_Racing,Toyota,174,13275,running,2,37
+2011,C,2011_F_W_Webb_175,9,9,17,usa,Timothy_Peters,Timothy Peters,GearWrench,Tom_DeLoach,Toyota,174,13975,running,0,35
+2011,C,2011_F_W_Webb_175,10,15,7,brazil,Miguel_Paludo,Miguel Paludo,Stemco / Duroline,Tom_DeLoach,Toyota,174,13500,running,0,34
+2011,C,2011_F_W_Webb_175,11,3,22,usa,Joey_Coulter,Joey Coulter,Darrell Gwynn Foundation / RCR Graphics Ctr.,Richard_Childress,Chevrolet,174,10525,running,1,34
+2011,C,2011_F_W_Webb_175,12,12,62,usa,Brendan_Gaughan,Brendan Gaughan,South Point Hotel & Casino,Germain_Racing,Toyota,174,10425,running,0,32
+2011,C,2011_F_W_Webb_175,13,7,6,usa,Justin_Lofton,Justin Lofton,CollegeComplete.com,Eddie_Sharp,Chevrolet,173,10400,running,0,31
+2011,C,2011_F_W_Webb_175,14,16,81,usa,David_Starr,David Starr,ASI Limited / Zachry,Bobby_Dotter,Toyota,173,10350,running,0,30
+2011,C,2011_F_W_Webb_175,15,18,60,usa,Cole_Whitt,Cole Whitt,Fuel Doctor / Red Bull,Stacy_Compton,Chevrolet,173,11625,running,0,29
+2011,C,2011_F_W_Webb_175,16,17,51,mexico,German_Quiroga,German Quiroga,Telcel,Kyle_Busch,Toyota,172,7925,running,0,28
+2011,C,2011_F_W_Webb_175,17,34,23,usa,Jason_White_(1),Jason White,Gunbroker.com,Joe_Dennette,Chevrolet,172,11100,running,0,27
+2011,C,2011_F_W_Webb_175,18,19,29,usa,Parker_Kligerman,Parker Kligerman,Penske Truck Rental,Brad_Keselowski,Dodge,172,10050,running,0,26
+2011,C,2011_F_W_Webb_175,19,22,4,usa,Ricky_Carmichael,Ricky Carmichael,Monster Energy,Steve_Turner,Chevrolet,172,10000,running,0,25
+2011,C,2011_F_W_Webb_175,20,13,9,italy,Max_Papis,Max Papis,GEICO,Germain_Racing,Toyota,172,10650,running,0,24
+2011,C,2011_F_W_Webb_175,21,23,32,usa,Blake_Feese,Blake Feese,AccuDoc Solutions,Steve_Turner,Chevrolet,171,9675,running,0,23
+2011,C,2011_F_W_Webb_175,22,21,39,usa,Ryan_Sieg,Ryan Sieg,S&W Services,Rod_Sieg,Chevrolet,170,8400,running,0,22
+2011,C,2011_F_W_Webb_175,23,26,61,usa,Wes_Burton,Wes Burton,"CF&R / Wes Burton, Inc.",Samuel_Pearce,Ford,170,7375,running,0,21
+2011,C,2011_F_W_Webb_175,24,6,8,brazil,Nelson_Piquet_Jr,"Nelson Piquet, Jr.",KHI,Kevin_Harvick,Chevrolet,165,8350,running,0,20
+2011,C,2011_F_W_Webb_175,25,32,57,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,161,7475,running,0,19
+2011,C,2011_F_W_Webb_175,26,31,73,usa,A_J_Russell,A.J. Russell,Sacred Power,David_Melton,Dodge,147,7300,running,0,18
+2011,C,2011_F_W_Webb_175,27,20,70,usa,Jeff_Agnew,Jeff Agnew,Suzuki Motorcycles & ATVs,Edward_Asbury,Chevrolet,80,7625,ignition,0,17
+2011,C,2011_F_W_Webb_175,28,25,66,usa,J_J_Yeley,J.J. Yeley,Turn One Racing,Stacy_Compton,Chevrolet,19,7250,clutch,0,0
+2011,C,2011_F_W_Webb_175,29,24,93,usa,Josh_Wise,Josh Wise,S&W Services,Rod_Sieg,Chevrolet,14,7225,brakes,0,0
+2011,C,2011_F_W_Webb_175,30,30,07,usa,Butch_Miller,Butch Miller,ASI Limited / Bobber.info,Ken_Smith,Chevrolet,12,7680,transmission,0,14
+2011,C,2011_F_W_Webb_175,31,28,96,usa,Todd_Peck,Todd Peck,Arthritis.org,Michael_Peck,Chevrolet,10,7170,overheating,0,13
+2011,C,2011_F_W_Webb_175,32,27,87,usa,Chris_Jones_(1),Chris Jones,Copy Wizard,Rick_Jones,Chevrolet,4,7160,transmission,0,0
+2011,C,2011_F_W_Webb_175,33,29,74,usa,Mike_Harmon,Mike Harmon,MHR,Mike_Harmon,Ford,2,7150,overheating,0,0
+2011,C,2011_F_W_Webb_175,34,33,75,usa,Bobby_Santos_III,Bobby Santos III,Norm Benning Racing,Norm_Benning,Chevrolet,1,7140,brakes,0,0
+2011,C,2011_F_W_Webb_175,35,35,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,HipChixFundraisers.com,Jennifer_Jo_Cobb,Ford,0,7000,engine,0,0
+2011,C,2011_Kentucky_225,1,2,2,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",Hollywood Casino,Kevin_Harvick,Chevrolet,150,63225,running,42,48
+2011,C,2011_Kentucky_225,2,1,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops / Tracker Boats,Richard_Childress,Chevrolet,150,46950,running,32,43
+2011,C,2011_Kentucky_225,3,8,31,usa,James_Buescher,James Buescher,Exide Batteries,Steve_Turner,Chevrolet,150,36925,running,3,42
+2011,C,2011_Kentucky_225,4,3,8,brazil,Nelson_Piquet_Jr,"Nelson Piquet, Jr.",AutoTrac / Qualcomm,Kevin_Harvick,Chevrolet,150,26725,running,40,41
+2011,C,2011_Kentucky_225,5,4,18,usa,Brian_Ickler,Brian Ickler,Toyota,Kyle_Busch,Toyota,150,20700,running,11,40
+2011,C,2011_Kentucky_225,6,16,4,usa,Ricky_Carmichael,Ricky Carmichael,Monster Energy,Steve_Turner,Chevrolet,150,15625,running,0,38
+2011,C,2011_Kentucky_225,7,12,5,usa,Todd_Bodine,Todd Bodine,Valvoline,Germain_Racing,Toyota,149,15325,running,1,38
+2011,C,2011_Kentucky_225,8,10,60,usa,Cole_Whitt,Cole Whitt,Fuel Doctor / Red Bull,Stacy_Compton,Chevrolet,149,13325,running,1,37
+2011,C,2011_Kentucky_225,9,20,98,usa,Dakoda_Armstrong,Dakoda Armstrong,Ferrellgas / Agrisure,Duke_Thorson,Chevrolet,149,10875,running,0,35
+2011,C,2011_Kentucky_225,10,14,81,usa,David_Starr,David Starr,Allegro Marinades,Bobby_Dotter,Toyota,149,13050,running,0,34
+2011,C,2011_Kentucky_225,11,5,6,usa,Justin_Lofton,Justin Lofton,CollegeComplete.com,Eddie_Sharp,Chevrolet,149,11625,running,0,33
+2011,C,2011_Kentucky_225,12,35,32,usa,Blake_Feese,Blake Feese,AccuDoc Solutions,Steve_Turner,Chevrolet,149,12450,running,0,32
+2011,C,2011_Kentucky_225,13,9,22,usa,Joey_Coulter,Joey Coulter,RCR Graphics Center,Richard_Childress,Chevrolet,148,11350,running,0,31
+2011,C,2011_Kentucky_225,14,17,13,usa,Johnny_Sauter,Johnny Sauter,SafeAuto / Curb Records / Carrier,Mike_Curb,Chevrolet,148,11250,running,5,31
+2011,C,2011_Kentucky_225,15,24,33,usa,Cale_Gale,Cale Gale,Rheem Heating & Cooling,Kevin_Harvick,Chevrolet,148,12275,running,0,29
+2011,C,2011_Kentucky_225,16,25,92,usa,Clay_Rogers,Clay Rogers,QMI / Fleet HQ / BTS Tire & Wheel,Ricky_Benton,Chevrolet,148,11150,running,0,28
+2011,C,2011_Kentucky_225,17,13,17,usa,Timothy_Peters,Timothy Peters,Big O Tires / Service Central,Tom_DeLoach,Toyota,148,10850,running,13,28
+2011,C,2011_Kentucky_225,18,15,21,usa,Ty_Dillon,Ty Dillon,Bad Boy Buggies / Realtree Outfitters,Kevin_Harvick,Chevrolet,147,8500,running,0,26
+2011,C,2011_Kentucky_225,19,18,62,usa,Brendan_Gaughan,Brendan Gaughan,South Point Hotel & Casino,Germain_Racing,Toyota,147,10650,running,0,25
+2011,C,2011_Kentucky_225,20,36,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,Georgia Pacific,Jennifer_Jo_Cobb,Dodge,145,9050,running,1,0
+2011,C,2011_Kentucky_225,21,32,57,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,143,10525,running,0,23
+2011,C,2011_Kentucky_225,22,23,66,usa,Ross_Chastain,Ross Chastain,National Watermelon Promotion Board,Stacy_Compton,Chevrolet,142,9200,running,0,22
+2011,C,2011_Kentucky_225,23,6,88,usa,Matt_Crafton,Matt Crafton,Menards / Ideal Door,Duke_Thorson,Chevrolet,141,9150,running,0,21
+2011,C,2011_Kentucky_225,24,19,23,usa,Jason_White_(1),Jason White,Gunbroker.com,Joe_Dennette,Chevrolet,131,8100,oil pump,0,20
+2011,C,2011_Kentucky_225,25,21,7,brazil,Miguel_Paludo,Miguel Paludo,Stemco / Duroline,Tom_DeLoach,Toyota,109,8200,running,0,19
+2011,C,2011_Kentucky_225,26,29,93,usa,B_J_McLeod,B.J. McLeod,S&W Services,Rod_Sieg,Chevrolet,88,8000,overheating,0,18
+2011,C,2011_Kentucky_225,27,30,07,usa,John_King,John King,SS Green Light Racing,Ken_Smith,Toyota,72,8300,crash,1,18
+2011,C,2011_Kentucky_225,28,22,9,italy,Max_Papis,Max Papis,GEICO,Germain_Racing,Toyota,51,7850,crash,0,16
+2011,C,2011_Kentucky_225,29,7,29,usa,Parker_Kligerman,Parker Kligerman,Penske Truck Rental,Brad_Keselowski,Dodge,49,7750,crash,0,15
+2011,C,2011_Kentucky_225,30,34,68,usa,Clay_Greenfield,Clay Greenfield,Bosak,Bill_Alger,Dodge,40,8150,crash,0,0
+2011,C,2011_Kentucky_225,31,28,87,usa,Chris_Jones_(1),Chris Jones,Copy Wizard,Rick_Jones,Chevrolet,29,7550,rear gear,0,13
+2011,C,2011_Kentucky_225,32,26,38,usa,Mike_Garvey,Mike Garvey,S&W Services,Rod_Sieg,Chevrolet,21,7450,clutch,0,0
+2011,C,2011_Kentucky_225,33,27,39,usa,Ryan_Sieg,Ryan Sieg,S&W Services,Rod_Sieg,Chevrolet,19,7350,crash,0,11
+2011,C,2011_Kentucky_225,34,11,51,usa,Josh_Richards,Josh Richards,Joy Mining Machinery,Kyle_Busch,Toyota,4,7250,crash,0,10
+2011,C,2011_Kentucky_225,35,31,74,usa,Mike_Harmon,Mike Harmon,Global Pigeon Supply,Mike_Harmon,Ford,4,7150,power steering,0,0
+2011,C,2011_Kentucky_225,36,33,27,usa,Brent_Raymer,Brent Raymer,S&W Services,Rod_Sieg,Chevrolet,2,7055,vibration,0,0
+2011,C,2011_Smiths_350,1,1,2,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",Champion Spark Plugs,Kevin_Harvick,Chevrolet,146,38375,running,107,48
+2011,C,2011_Smiths_350,2,5,88,usa,Matt_Crafton,Matt Crafton,Ideal Door / Menards,Duke_Thorson,Chevrolet,146,25350,running,0,42
+2011,C,2011_Smiths_350,3,11,17,usa,Timothy_Peters,Timothy Peters,GearWrench,Tom_DeLoach,Toyota,146,20700,running,4,42
+2011,C,2011_Smiths_350,4,4,13,usa,Johnny_Sauter,Johnny Sauter,SafeAuto / Curb Records,Mike_Curb,Chevrolet,146,18500,running,25,41
+2011,C,2011_Smiths_350,5,13,5,usa,Todd_Bodine,Todd Bodine,International Truck / Monaco RVs,Germain_Racing,Toyota,146,16225,running,4,40
+2011,C,2011_Smiths_350,6,7,8,brazil,Nelson_Piquet_Jr,"Nelson Piquet, Jr.",Qualcomm Fleet Solutions,Kevin_Harvick,Chevrolet,146,13250,running,0,38
+2011,C,2011_Smiths_350,7,20,19,usa,David_Mayhew,David Mayhew,MMI Wirelink,Steve_McGowan,Chevrolet,146,9500,running,0,37
+2011,C,2011_Smiths_350,8,12,60,usa,Cole_Whitt,Cole Whitt,Fuel Doctor / Red Bull / Stratosphere,Stacy_Compton,Chevrolet,146,11825,running,0,36
+2011,C,2011_Smiths_350,9,21,62,usa,Brendan_Gaughan,Brendan Gaughan,Big O Tires / Service Central,Germain_Racing,Toyota,146,11475,running,0,35
+2011,C,2011_Smiths_350,10,3,29,usa,Parker_Kligerman,Parker Kligerman,Penske Truck Rental,Brad_Keselowski,Dodge,145,12750,running,0,34
+2011,C,2011_Smiths_350,11,22,39,usa,Ryan_Sieg,Ryan Sieg,S&W Services,Rod_Sieg,Chevrolet,145,13475,running,0,33
+2011,C,2011_Smiths_350,12,9,4,usa,Ricky_Carmichael,Ricky Carmichael,Monster Energy Cup,Steve_Turner,Chevrolet,144,11250,running,0,32
+2011,C,2011_Smiths_350,13,19,32,usa,Blake_Feese,Blake Feese,AccuDoc Solutions,Steve_Turner,Chevrolet,141,11200,running,0,31
+2011,C,2011_Smiths_350,14,23,23,usa,Jason_White_(1),Jason White,Gunbroker.com,Joe_Dennette,Chevrolet,138,11150,running,0,30
+2011,C,2011_Smiths_350,15,33,57,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,136,12850,running,0,29
+2011,C,2011_Smiths_350,16,16,81,usa,David_Starr,David Starr,Zachry / Riviera Hotel,Bobby_Dotter,Toyota,134,11400,radiator,6,29
+2011,C,2011_Smiths_350,17,2,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops / Tracker Boats,Richard_Childress,Chevrolet,131,10800,running,0,27
+2011,C,2011_Smiths_350,18,26,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,Glen Lerner Enterprises,Jennifer_Jo_Cobb,Dodge,130,8425,running,0,0
+2011,C,2011_Smiths_350,19,14,6,usa,Justin_Lofton,Justin Lofton,CollegeComplete.com,Eddie_Sharp,Chevrolet,122,10575,crash,0,25
+2011,C,2011_Smiths_350,20,17,33,usa,Cale_Gale,Cale Gale,"Rheem Heating, Cooling & Water Heating",Kevin_Harvick,Chevrolet,120,11250,crash,0,24
+2011,C,2011_Smiths_350,21,6,31,usa,James_Buescher,James Buescher,Racersites / JamesBuescher.com,Steve_Turner,Chevrolet,106,9125,running,0,23
+2011,C,2011_Smiths_350,22,18,22,usa,Joey_Coulter,Joey Coulter,darrellgwynnfoundation.com / RCR Graphics,Richard_Childress,Chevrolet,88,9025,running,0,22
+2011,C,2011_Smiths_350,23,24,93,usa,B_J_McLeod,B.J. McLeod,S&W Services,Rod_Sieg,Chevrolet,68,7925,vibration,0,21
+2011,C,2011_Smiths_350,24,28,07,usa,Butch_Miller,Butch Miller,Stony Creek Appliance Repair / Riviera Hotel,Ken_Smith,Toyota,51,7825,drive shaft,0,20
+2011,C,2011_Smiths_350,25,32,66,usa,Max_Gresham,Max Gresham,World Crown 300 / Gresham & Associates,Stacy_Compton,Chevrolet,40,7950,crash,0,19
+2011,C,2011_Smiths_350,26,25,73,usa,Brent_Raymer,Brent Raymer,Trans Pecos Trucking / County Building Ctrs.,Ron_Crosby,Chevrolet,40,7775,crash,0,18
+2011,C,2011_Smiths_350,27,10,7,brazil,Miguel_Paludo,Miguel Paludo,Stemco / Duroline,Tom_DeLoach,Toyota,29,7725,crash,0,17
+2011,C,2011_Smiths_350,28,8,18,usa,Brian_Ickler,Brian Ickler,Toyota Certified Used Vehicles,Kyle_Busch,Toyota,29,8050,crash,0,16
+2011,C,2011_Smiths_350,29,15,9,italy,Max_Papis,Max Papis,GEICO,Germain_Racing,Toyota,26,7675,crash,0,15
+2011,C,2011_Smiths_350,30,29,38,usa,Mike_Garvey,Mike Garvey,S&W Services,Rod_Sieg,Chevrolet,8,8150,electrical,0,14
+2011,C,2011_Smiths_350,31,31,0,usa,Wayne_Edwards_(1),Wayne Edwards,DriverBoutique.com / Glen Lerner Enterprises,Jennifer_Jo_Cobb,Ford,8,7625,transmission,0,0
+2011,C,2011_Smiths_350,32,30,65,usa,Lance_Fenton,Lance Fenton,Trans Pecos Trucking / FentonMotors.com,Joey_Sonntag,Chevrolet,7,7600,engine,0,12
+2011,C,2011_Smiths_350,33,27,27,usa,Chris_Jones_(1),Chris Jones,S&W Services,Rod_Sieg,Chevrolet,6,7575,brakes,0,11
+2011,C,2011_Smiths_350,34,34,75,usa,Johnny_Borneman_III,"Johnny Borneman, III",Norm Benning Racing,Norm_Benning,Chevrolet,1,7555,handling,0,0
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,1,6,33,usa,Mike_Wallace,Mike Wallace,Anderson's Maple Syrup,Kevin_Harvick,Chevrolet,94,50600,running,54,0
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,2,5,2,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",Bad Boy Buggies,Kevin_Harvick,Chevrolet,94,41250,running,1,43
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,3,1,31,usa,James_Buescher,James Buescher,Bad Boy Mowers,Steve_Turner,Chevrolet,94,36925,running,18,42
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,4,4,4,usa,Ricky_Carmichael,Ricky Carmichael,Monster Energy,Steve_Turner,Chevrolet,94,23850,running,1,41
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,5,19,23,usa,Jason_White_(1),Jason White,Gunbroker.com,Joe_Dennette,Chevrolet,94,17525,running,0,39
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,6,25,5,usa,Todd_Bodine,Todd Bodine,NTB / Service Central,Germain_Racing,Toyota,94,16450,running,1,39
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,7,3,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops / Tracker Boats,Richard_Childress,Chevrolet,94,14600,running,14,38
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,8,29,62,usa,Brendan_Gaughan,Brendan Gaughan,South Point Hotel & Casino,Germain_Racing,Toyota,94,15100,running,0,36
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,9,17,18,usa,Kyle_Busch,Kyle Busch,Toyota Certified Used Vehicles,Kyle_Busch,Toyota,94,11750,running,0,0
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,10,23,9,italy,Max_Papis,Max Papis,GEICO,Germain_Racing,Toyota,94,17325,running,0,34
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,11,16,6,usa,Justin_Lofton,Justin Lofton,CollegeComplete.com,Eddie_Sharp,Chevrolet,94,13800,running,0,33
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,12,18,82,usa,Grant_Enfinger,Grant Enfinger,VisitGulf.com / Preble-Rish,George_Bragg,Ford,94,11375,running,0,32
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,13,22,51,usa,Josh_Richards,Josh Richards,Joy Mining Machinery,Kyle_Busch,Toyota,94,11275,running,0,31
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,14,10,60,usa,Cole_Whitt,Cole Whitt,Fuel Doctor / Red Bull,Stacy_Compton,Chevrolet,94,14425,running,0,30
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,15,20,13,usa,Johnny_Sauter,Johnny Sauter,SafeAuto / Curb Records,Mike_Curb,Chevrolet,94,14450,running,0,29
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,16,8,20,usa,Johanna_Long,Johanna Long,Panhandle Grading & Paving,Donald_Long,Toyota,94,13425,running,0,28
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,17,27,98,usa,Dakoda_Armstrong,Dakoda Armstrong,Ferrellgas / Agrisure,Duke_Thorson,Chevrolet,94,10875,running,0,27
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,18,24,7,brazil,Miguel_Paludo,Miguel Paludo,Stop Diabetes,Tom_DeLoach,Toyota,94,13025,running,0,26
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,19,11,32,usa,Blake_Feese,Blake Feese,AccuDoc Solutions,Steve_Turner,Chevrolet,94,12900,running,0,25
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,20,7,22,usa,Joey_Coulter,Joey Coulter,Rip It Energy Fuel,Richard_Childress,Chevrolet,94,13525,running,0,24
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,21,26,39,usa,Ryan_Sieg,Ryan Sieg,Pull-A-Part Used Auto Parts,Rod_Sieg,Chevrolet,94,12700,running,0,23
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,22,30,76,usa,Ryan_Hackett,Ryan Hackett,J&R Supply,Ray_Hackett,Ford,94,10350,running,0,22
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,23,15,17,usa,Timothy_Peters,Timothy Peters,NTB / Service Central,Tom_DeLoach,Toyota,94,12500,running,0,21
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,24,32,28,usa,Wes_Burton,Wes Burton,FDNY Racing,Jim_Rosenblum,Chevrolet,93,10150,running,0,20
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,25,14,84,usa,Chris_Fontaine,Chris Fontaine,Glenden Enterprises,Chris_Fontaine,Toyota,83,10200,crash,0,19
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,26,2,8,brazil,Nelson_Piquet_Jr,"Nelson Piquet, Jr.",Tagg / Qualcomm,Kevin_Harvick,Chevrolet,80,12200,running,0,18
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,27,35,93,usa,B_J_McLeod,B.J. McLeod,Pull-A-Part Used Auto Parts,Rod_Sieg,Chevrolet,69,11200,vibration,0,17
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,28,9,29,usa,Parker_Kligerman,Parker Kligerman,Penske Truck Leasing,Brad_Keselowski,Dodge,64,10750,engine,3,17
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,29,36,02,usa,Jamie_Dick,Jamie Dick,VivaAutoGroup.com,Jimmy_Dick,Chevrolet,57,9650,engine,0,15
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,30,13,81,usa,David_Starr,David Starr,BuildYourFuture.org / Zachry / ASI Limited,Bobby_Dotter,Toyota,37,10050,engine,1,15
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,31,12,88,usa,Matt_Crafton,Matt Crafton,Menards / CertainTeed,Duke_Thorson,Chevrolet,35,9425,crash,1,14
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,32,31,16,usa,Donnie_Neuenberger,Donnie Neuenberger,Eagle Convenience Stores,Rick_Ware,Chevrolet,25,9325,crash,0,0
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,33,34,07,usa,Butch_Miller,Butch Miller,Akzo Nobel,Ken_Smith,Chevrolet,19,9225,rear gear,0,11
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,34,28,1,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Poynt,Rick_Ware,Chevrolet,15,9175,crash,0,10
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,35,21,99,usa,Patrick_Sheltra,Patrick Sheltra,Bucked Up Apparel / PatrickSheltra.com,Chase_Mattioli,Ford,14,9130,crash,0,0
+2011,C,2011_Coca-Cola_250_Powered_by_Freds,36,33,66,usa,J_J_Yeley,J.J. Yeley,Turn One Racing,Stacy_Compton,Chevrolet,1,9084,transmission,0,0
+2011,C,2011_Kroger_200,1,3,18,usa,Denny_Hamlin,Denny Hamlin,Toyota / Traxxas,Kyle_Busch,Toyota,200,31350,running,68,0
+2011,C,2011_Kroger_200,2,2,33,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",Steak-Umm Steaks / Chastity Baker,Kevin_Harvick,Chevrolet,200,22300,running,31,43
+2011,C,2011_Kroger_200,3,10,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops / Tracker Boats,Richard_Childress,Chevrolet,200,16850,running,45,42
+2011,C,2011_Kroger_200,4,4,13,usa,Johnny_Sauter,Johnny Sauter,SafeAuto / Curb Records,Mike_Curb,Chevrolet,200,17075,running,37,41
+2011,C,2011_Kroger_200,5,12,22,usa,Joey_Coulter,Joey Coulter,Darrell Gwynn Foundation / RCR,Richard_Childress,Chevrolet,200,12925,running,0,39
+2011,C,2011_Kroger_200,6,6,2,usa,Kevin_Harvick,Kevin Harvick,Tide / Kroger,Kevin_Harvick,Chevrolet,200,8175,running,2,0
+2011,C,2011_Kroger_200,7,13,21,usa,Cale_Gale,Cale Gale,"Rheem Heating, Cooling & Water Heating",Kevin_Harvick,Chevrolet,200,8025,running,0,37
+2011,C,2011_Kroger_200,8,9,17,usa,Timothy_Peters,Timothy Peters,GearWrench / Strutmasters.com,Tom_DeLoach,Toyota,200,11625,running,0,36
+2011,C,2011_Kroger_200,9,28,62,usa,Brendan_Gaughan,Brendan Gaughan,South Point Hotel & Casino / JDRF.com,Germain_Racing,Toyota,200,11475,running,0,35
+2011,C,2011_Kroger_200,10,5,31,usa,James_Buescher,James Buescher,Wolfpack Rentals,Steve_Turner,Chevrolet,200,11075,running,0,34
+2011,C,2011_Kroger_200,11,7,5,usa,Todd_Bodine,Todd Bodine,NTB / Service Central,Germain_Racing,Toyota,200,11450,running,1,34
+2011,C,2011_Kroger_200,12,1,88,usa,Matt_Crafton,Matt Crafton,Roto-Rooter / Menards,Duke_Thorson,Chevrolet,200,14250,running,11,33
+2011,C,2011_Kroger_200,13,18,8,brazil,Nelson_Piquet_Jr,"Nelson Piquet, Jr.",QualComm / AutoTrac,Kevin_Harvick,Chevrolet,200,9900,running,0,31
+2011,C,2011_Kroger_200,14,21,70,usa,Jeff_Agnew,Jeff Agnew,Clarence's Steak House,Edward_Asbury,Chevrolet,200,7600,running,0,30
+2011,C,2011_Kroger_200,15,26,23,usa,Jason_White_(1),Jason White,Gunbroker.com,Joe_Dennette,Chevrolet,200,10875,running,0,29
+2011,C,2011_Kroger_200,16,11,7,brazil,Miguel_Paludo,Miguel Paludo,Stemco / Duroline,Tom_DeLoach,Toyota,200,9875,running,0,28
+2011,C,2011_Kroger_200,17,8,6,usa,Justin_Lofton,Justin Lofton,CollegeComplete.com,Eddie_Sharp,Chevrolet,200,9625,running,0,27
+2011,C,2011_Kroger_200,18,15,9,italy,Max_Papis,Max Papis,GEICO,Germain_Racing,Toyota,200,9575,running,0,26
+2011,C,2011_Kroger_200,19,14,24,usa,Elliott_Sadler,Elliott Sadler,Virginia Lottery,Joe_Dennette,Chevrolet,200,7275,running,5,0
+2011,C,2011_Kroger_200,20,29,36,usa,Grant_Enfinger,Grant Enfinger,England's Stove Works,Mike_Allgaier,Dodge,200,7950,running,0,24
+2011,C,2011_Kroger_200,21,16,29,usa,Parker_Kligerman,Parker Kligerman,Penske Truck Leasing,Brad_Keselowski,Dodge,200,9450,running,0,23
+2011,C,2011_Kroger_200,22,22,81,usa,David_Starr,David Starr,Zachry / BYF.org / ASI Limited,Bobby_Dotter,Toyota,200,9425,running,0,22
+2011,C,2011_Kroger_200,23,17,39,usa,Ryan_Sieg,Ryan Sieg,Pull-A-Part Used Auto Parts,Rod_Sieg,Chevrolet,200,9400,running,0,21
+2011,C,2011_Kroger_200,24,20,92,usa,Clay_Rogers,Clay Rogers,Tri-City Tire / Fleet HQ / BTS Tire & Wheel,Ricky_Benton,Chevrolet,199,9375,running,0,20
+2011,C,2011_Kroger_200,25,24,66,usa,Max_Gresham,Max Gresham,World Crown 300 / Gresham & Associates,Stacy_Compton,Chevrolet,198,8225,running,0,19
+2011,C,2011_Kroger_200,26,36,09,usa,Bryan_Silas,Bryan Silas,Rockingham Speedway,Chris_Baluch,Ford,198,7050,running,0,0
+2011,C,2011_Kroger_200,27,19,60,usa,Cole_Whitt,Cole Whitt,Fuel Doctor / Red Bull / Advance Auto Parts,Stacy_Compton,Chevrolet,197,8325,running,0,17
+2011,C,2011_Kroger_200,28,25,51,usa,Josh_Richards,Josh Richards,Joy Mining Machinery / U.S. Navy Seals,Kyle_Busch,Toyota,197,6950,running,0,16
+2011,C,2011_Kroger_200,29,33,57,usa,Norm_Benning,Norm Benning,Norm Benning Racing,Norm_Benning,Chevrolet,197,6900,running,0,15
+2011,C,2011_Kroger_200,30,31,65,usa,Tyler_Tanner,Tyler Tanner,EF-65 Hand Cleaner,Mike_Mittler,Ford,195,7375,running,0,14
+2011,C,2011_Kroger_200,31,27,97,usa,Matt_Lofton,Matt Lofton,Strutmasters.com,Matt_Lofton,Toyota,195,6425,running,0,13
+2011,C,2011_Kroger_200,32,34,32,usa,Blake_Feese,Blake Feese,AccuDoc Solutions,Steve_Turner,Chevrolet,182,6400,running,0,12
+2011,C,2011_Kroger_200,33,30,20,usa,Johanna_Long,Johanna Long,Panhandle Grading & Paving,Donald_Long,Toyota,166,6375,running,0,11
+2011,C,2011_Kroger_200,34,32,07,usa,T_J_Duke,T.J. Duke,Merrill Lynch,Ken_Smith,Toyota,159,6325,running,0,10
+2011,C,2011_Kroger_200,35,23,4,usa,Ricky_Carmichael,Ricky Carmichael,Monster Energy,Steve_Turner,Chevrolet,37,6300,crash,0,9
+2011,C,2011_Kroger_200,36,35,93,usa,Mike_Garvey,Mike Garvey,S&W Services,Rod_Sieg,Chevrolet,8,6267,brakes,0,8
+2011,C,2011_Winstar_World_Casino_350k,1,10,2,usa,Kevin_Harvick,Kevin Harvick,Hunt Brothers Pizza,Kevin_Harvick,Chevrolet,148,48100,running,61,0
+2011,C,2011_Winstar_World_Casino_350k,2,2,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops / Tracker Boats,Richard_Childress,Chevrolet,148,38375,running,10,43
+2011,C,2011_Winstar_World_Casino_350k,3,8,21,usa,Ty_Dillon,Ty Dillon,Sherwin Williams / Cain Food,Kevin_Harvick,Chevrolet,148,25775,running,0,41
+2011,C,2011_Winstar_World_Casino_350k,4,7,8,brazil,Nelson_Piquet_Jr,"Nelson Piquet, Jr.",Qualcomm / Tagg Pet Tracker,Kevin_Harvick,Chevrolet,148,22125,running,0,40
+2011,C,2011_Winstar_World_Casino_350k,5,11,88,usa,Matt_Crafton,Matt Crafton,Menards / Fisher Nuts,Duke_Thorson,Chevrolet,148,16900,running,0,39
+2011,C,2011_Winstar_World_Casino_350k,6,14,22,usa,Joey_Coulter,Joey Coulter,American Eurocopter,Richard_Childress,Chevrolet,148,13325,running,0,38
+2011,C,2011_Winstar_World_Casino_350k,7,12,13,usa,Johnny_Sauter,Johnny Sauter,SafeAuto / Curb Records,Mike_Curb,Chevrolet,148,14325,running,15,38
+2011,C,2011_Winstar_World_Casino_350k,8,5,4,usa,Ricky_Carmichael,Ricky Carmichael,Monster Energy,Steve_Turner,Chevrolet,148,15325,running,0,36
+2011,C,2011_Winstar_World_Casino_350k,9,17,7,brazil,Miguel_Paludo,Miguel Paludo,Duroline Brakes & Components,Tom_DeLoach,Toyota,148,12825,running,0,35
+2011,C,2011_Winstar_World_Casino_350k,10,6,6,usa,Justin_Lofton,Justin Lofton,CollegeComplete.com,Eddie_Sharp,Chevrolet,148,13725,running,6,35
+2011,C,2011_Winstar_World_Casino_350k,11,15,17,usa,Timothy_Peters,Timothy Peters,NTB / Service Central,Tom_DeLoach,Toyota,148,12000,running,0,33
+2011,C,2011_Winstar_World_Casino_350k,12,23,23,usa,Jason_White_(1),Jason White,Gunbroker.com,Joe_Dennette,Chevrolet,148,11825,running,0,32
+2011,C,2011_Winstar_World_Casino_350k,13,19,5,usa,Todd_Bodine,Todd Bodine,Big Red,Germain_Racing,Toyota,148,12725,running,0,31
+2011,C,2011_Winstar_World_Casino_350k,14,24,9,italy,Max_Papis,Max Papis,GEICO,Germain_Racing,Toyota,148,11625,running,0,30
+2011,C,2011_Winstar_World_Casino_350k,15,26,39,usa,Ryan_Sieg,Ryan Sieg,RSS Racing,Rod_Sieg,Chevrolet,148,12825,running,0,29
+2011,C,2011_Winstar_World_Casino_350k,16,33,66,usa,Ross_Chastain,Ross Chastain,Natl. Watermelon Board / Melon 1 / JDI Farms,Stacy_Compton,Chevrolet,148,12400,running,0,28
+2011,C,2011_Winstar_World_Casino_350k,17,18,60,usa,Cole_Whitt,Cole Whitt,Fuel Doctor / Red Bull,Stacy_Compton,Chevrolet,146,11300,running,0,27
+2011,C,2011_Winstar_World_Casino_350k,18,20,20,usa,Johanna_Long,Johanna Long,Pegasus Helicopter / Panhandle Grading,Donald_Long,Toyota,146,11200,running,0,26
+2011,C,2011_Winstar_World_Casino_350k,19,1,31,usa,James_Buescher,James Buescher,Exide Batteries,Steve_Turner,Chevrolet,146,15300,running,56,26
+2011,C,2011_Winstar_World_Casino_350k,20,36,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,DrivenMale.com / DriverBoutique.com,Jennifer_Jo_Cobb,Dodge,144,9475,running,0,0
+2011,C,2011_Winstar_World_Casino_350k,21,25,93,usa,B_J_McLeod,B.J. McLeod,RSS Racing,Rod_Sieg,Chevrolet,144,10900,running,0,23
+2011,C,2011_Winstar_World_Casino_350k,22,27,68,usa,Clay_Greenfield,Clay Greenfield,Rock On Framing / McNulty Electric,Bill_Alger,Dodge,143,8550,running,0,22
+2011,C,2011_Winstar_World_Casino_350k,23,16,81,usa,David_Starr,David Starr,Zachry / NCCER / Boot Campaign,Bobby_Dotter,Toyota,140,9450,engine,0,21
+2011,C,2011_Winstar_World_Casino_350k,24,28,73,usa,Rick_Crawford,Rick Crawford,Trans Pecos Trucking / County Building Ctrs.,Ron_Crosby,Chevrolet,101,8350,vibration,0,20
+2011,C,2011_Winstar_World_Casino_350k,25,29,55,usa,Jake_Crum,Jake Crum,MAKE Motorsports / Bandit Chippers,Mark_Beaver,Chevrolet,96,8400,crash,0,0
+2011,C,2011_Winstar_World_Casino_350k,26,34,63,usa,Jack_Smith_(3),Jack Smith,Seal Wrap,Mike_Mittler,Ford,96,8150,crash,0,18
+2011,C,2011_Winstar_World_Casino_350k,27,3,32,usa,Blake_Feese,Blake Feese,Cyclone Anaya's Mexican Kitchen,Steve_Turner,Chevrolet,54,9400,crash,0,17
+2011,C,2011_Winstar_World_Casino_350k,28,13,29,usa,Parker_Kligerman,Parker Kligerman,Cooper Standard,Brad_Keselowski,Dodge,54,7950,crash,0,16
+2011,C,2011_Winstar_World_Casino_350k,29,22,07,usa,Johnny_Chapman,Johnny Chapman,Bobber.info / ASI Limited,Ken_Smith,Toyota,45,7825,transmission,0,0
+2011,C,2011_Winstar_World_Casino_350k,30,32,74,usa,Mike_Harmon,Mike Harmon,Racing for Marrissa,Mike_Harmon,Chevrolet,27,7725,overheating,0,0
+2011,C,2011_Winstar_World_Casino_350k,31,21,62,usa,Brendan_Gaughan,Brendan Gaughan,International Truck / Monaco RVs,Germain_Racing,Toyota,20,8150,crash,0,13
+2011,C,2011_Winstar_World_Casino_350k,32,31,0,usa,T_J_Bell,T.J. Bell,Sudden Link Media,Jennifer_Jo_Cobb,Ford,19,7625,vibration,0,0
+2011,C,2011_Winstar_World_Casino_350k,33,4,18,usa,Kyle_Busch,Kyle Busch,Traxxas,Kyle_Busch,Toyota,14,7610,parked,0,0
+2011,C,2011_Winstar_World_Casino_350k,34,9,33,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",OneMain Financial,Kevin_Harvick,Chevrolet,13,7600,crash,0,10
+2011,C,2011_Winstar_World_Casino_350k,35,35,87,usa,Chris_Jones_(1),Chris Jones,Copy Wizard,Rick_Jones,Chevrolet,10,7590,transmission,0,0
+2011,C,2011_Winstar_World_Casino_350k,36,30,38,usa,Mike_Garvey,Mike Garvey,RSS Racing,Rod_Sieg,Chevrolet,5,7564,clutch,0,0
+2011,C,2011_Ford_200,1,5,13,usa,Johnny_Sauter,Johnny Sauter,SafeAuto / Curb Records,Mike_Curb,Chevrolet,119,45475,running,44,48
+2011,C,2011_Ford_200,2,17,18,usa,Denny_Hamlin,Denny Hamlin,Dollar General / DirecTV,Kyle_Busch,Toyota,119,23150,running,1,0
+2011,C,2011_Ford_200,3,8,2,usa,Kevin_Harvick,Kevin Harvick,Hunt Brothers Pizza,Kevin_Harvick,Chevrolet,119,16825,running,16,0
+2011,C,2011_Ford_200,4,3,8,brazil,Nelson_Piquet_Jr,"Nelson Piquet, Jr.",Piquet Realty,Kevin_Harvick,Chevrolet,119,18800,running,0,40
+2011,C,2011_Ford_200,5,10,22,usa,Joey_Coulter,Joey Coulter,RCR Graphics Center,Richard_Childress,Chevrolet,119,16525,running,0,39
+2011,C,2011_Ford_200,6,2,21,usa,Ty_Dillon,Ty Dillon,Charter Communications,Kevin_Harvick,Chevrolet,119,13000,running,0,38
+2011,C,2011_Ford_200,7,7,24,usa,Elliott_Sadler,Elliott Sadler,AM FM Energy / Pellet & Wood Stoves,Joe_Dennette,Chevrolet,119,12800,running,32,0
+2011,C,2011_Ford_200,8,21,17,usa,Timothy_Peters,Timothy Peters,Tire Kingdom / Service Central,Tom_DeLoach,Toyota,119,17250,running,0,36
+2011,C,2011_Ford_200,9,12,23,usa,Jason_White_(1),Jason White,Gunbroker.com,Joe_Dennette,Chevrolet,119,14650,running,0,35
+2011,C,2011_Ford_200,10,4,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops / Tracker Boats,Richard_Childress,Chevrolet,119,15775,running,0,34
+2011,C,2011_Ford_200,11,23,81,usa,David_Starr,David Starr,"Zachry / NCCER ""Build Your Future""",Bobby_Dotter,Toyota,119,14650,running,0,33
+2011,C,2011_Ford_200,12,1,31,usa,James_Buescher,James Buescher,Exide Batteries,Steve_Turner,Chevrolet,119,14175,running,19,33
+2011,C,2011_Ford_200,13,22,33,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",OneMain Financial,Kevin_Harvick,Chevrolet,119,16150,running,1,32
+2011,C,2011_Ford_200,14,13,29,usa,Parker_Kligerman,Parker Kligerman,Cooper Standard,Brad_Keselowski,Dodge,119,13950,running,0,30
+2011,C,2011_Ford_200,15,16,15,usa,Dusty_Davis,Dusty Davis,Red Top Auto Auction / OnLine Ring Man,Billy_Ballew,Toyota,119,12925,running,0,29
+2011,C,2011_Ford_200,16,15,5,usa,Todd_Bodine,Todd Bodine,International Truck / Monaco RVs,Germain_Racing,Toyota,119,14725,running,0,28
+2011,C,2011_Ford_200,17,14,4,usa,Ricky_Carmichael,Ricky Carmichael,Monster Energy,Steve_Turner,Chevrolet,119,13625,running,0,27
+2011,C,2011_Ford_200,18,9,6,usa,Justin_Lofton,Justin Lofton,CollegeComplete.com,Eddie_Sharp,Chevrolet,119,13525,running,0,26
+2011,C,2011_Ford_200,19,11,88,usa,Matt_Crafton,Matt Crafton,Menards / Tarkett,Duke_Thorson,Chevrolet,119,13425,running,2,26
+2011,C,2011_Ford_200,20,19,62,usa,Brendan_Gaughan,Brendan Gaughan,Tire Kingdom / Service Central,Germain_Racing,Toyota,119,14050,running,3,25
+2011,C,2011_Ford_200,21,24,9,italy,Max_Papis,Max Papis,GEICO,Germain_Racing,Toyota,119,13125,running,0,23
+2011,C,2011_Ford_200,22,6,60,usa,Cole_Whitt,Cole Whitt,Fuel Doctor / Red Bull,Stacy_Compton,Chevrolet,119,12875,running,0,22
+2011,C,2011_Ford_200,23,28,32,usa,Blake_Feese,Blake Feese,Red Hot Insurance Quotes,Steve_Turner,Chevrolet,118,12750,running,0,21
+2011,C,2011_Ford_200,24,30,39,usa,Ryan_Sieg,Ryan Sieg,RSS Racing,Rod_Sieg,Chevrolet,118,11200,running,0,20
+2011,C,2011_Ford_200,25,20,98,usa,Dakoda_Armstrong,Dakoda Armstrong,Ferrellgas / EverFi / Drive For Savings,Duke_Thorson,Chevrolet,118,10150,running,1,20
+2011,C,2011_Ford_200,26,27,51,mexico,German_Quiroga,German Quiroga,Telcel,Kyle_Busch,Toyota,118,9800,running,0,18
+2011,C,2011_Ford_200,27,36,93,usa,Ross_Chastain,Ross Chastain,National Watermelon Promotion Board,Rod_Sieg,Chevrolet,117,10950,running,0,17
+2011,C,2011_Ford_200,28,25,09,usa,Bryan_Silas,Bryan Silas,Rockingham Speedway,Chris_Baluch,Ford,117,9400,running,0,0
+2011,C,2011_Ford_200,29,34,57,usa,Norm_Benning,Norm Benning,G.L. Hubbard & Sons Trucking,Norm_Benning,Chevrolet,114,9175,running,0,15
+2011,C,2011_Ford_200,30,35,68,usa,Clay_Greenfield,Clay Greenfield,Amped Up Magazine,Bill_Alger,Dodge,104,8975,handling,0,14
+2011,C,2011_Ford_200,31,26,66,usa,Max_Gresham,Max Gresham,MattyBRaps.com / Gresham Motorsports Park,Stacy_Compton,Chevrolet,99,8425,fuel pump,0,13
+2011,C,2011_Ford_200,32,18,7,brazil,Miguel_Paludo,Miguel Paludo,Duroline Brakes & Components,Tom_DeLoach,Toyota,30,8400,engine,0,12
+2011,C,2011_Ford_200,33,32,74,usa,Mike_Harmon,Mike Harmon,KOMA Unwind,Mike_Harmon,Chevrolet,14,8375,overheating,0,0
+2011,C,2011_Ford_200,34,29,38,usa,Dennis_Setzer,Dennis Setzer,RSS Racing,Rod_Sieg,Chevrolet,4,8350,ignition,0,0
+2011,C,2011_Ford_200,35,31,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,DrivenMale.com / DriverBoutique.com,Jennifer_Jo_Cobb,Ford,3,8325,engine,0,0
+2011,C,2011_Ford_200,36,33,07,usa,Johnny_Chapman,Johnny Chapman,Bobber.info / ASI Limited,Ken_Smith,Toyota,1,8239,clutch,0,0

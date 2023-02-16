@@ -175,49 +175,71 @@ def main():
             sched_df = get_racing_reference_standings(season=i,series_id="W")
             if len(sched_df) > 0:
                 sched_df.to_csv(f"racing_reference/nascar_cup/schedule/{i}_schedule.csv",index=False)
-            
-            results_df = get_racing_reference_race_results(season=i,series_id="W")
-            if len(results_df) > 0:
-                results_df.to_csv(f"racing_reference/nascar_cup/race_results/{i}_race_results.csv",index=False)
-
+            try:
+                results_df = get_racing_reference_race_results(season=i,series_id="W")
+                if len(results_df) > 0:
+                    results_df.to_csv(f"racing_reference/nascar_cup/race_results/{i}_race_results.csv",index=False)
+            except:
+                print(f'Could not get race results for the {i} NASCAR Cup season.')
         ## Xfinity (Busch) Series
         if i >= 1984:
             sched_df = get_racing_reference_standings(season=i,series_id="B")
             if len(sched_df) > 0:
                 sched_df.to_csv(f"racing_reference/nascar_busch/schedule/{i}_schedule.csv",index=False)
-            
-            results_df = get_racing_reference_race_results(season=i,series_id="B")
-            if len(results_df) > 0:
-                results_df.to_csv(f"racing_reference/nascar_busch/race_results/{i}_race_results.csv",index=False)
+            try:
+                results_df = get_racing_reference_race_results(season=i,series_id="B")
+                if len(results_df) > 0:
+                    results_df.to_csv(f"racing_reference/nascar_busch/race_results/{i}_race_results.csv",index=False)
+            except:
+                print(f'Could not get race results for the {i} NASCAR Xfinity season.')
 
         ## Truck Series
         if i >= 1995:
             sched_df = get_racing_reference_standings(season=i,series_id="C")
             if len(sched_df) > 0:
                 sched_df.to_csv(f"racing_reference/nascar_trucks/schedule/{i}_schedule.csv",index=False)
-            
-            results_df = get_racing_reference_race_results(season=i,series_id="C")
-            if len(results_df) > 0:
-                results_df.to_csv(f"racing_reference/nascar_trucks/race_results/{i}_race_results.csv",index=False)
+            try:
+                results_df = get_racing_reference_race_results(season=i,series_id="C")
+                if len(results_df) > 0:
+                    results_df.to_csv(f"racing_reference/nascar_trucks/race_results/{i}_race_results.csv",index=False)
+            except:
+                print(f'Could not get race results for the {i} NASCAR Trucks season.')
 
         ## ARCA Series
         if i >= 1979:
             sched_df = get_racing_reference_standings(season=i,series_id="A")
             if len(sched_df) > 0:
                 sched_df.to_csv(f"racing_reference/nascar_arca/schedule/{i}_schedule.csv",index=False)
+            try:
+                results_df = get_racing_reference_race_results(season=i,series_id="A")
+                if len(results_df) > 0:
+                    results_df.to_csv(f"racing_reference/nascar_arca/race_results/{i}_race_results.csv",index=False)
+            except:
+                print(f'Could not get race results for the {i} NASCAR ARCA season.')
 
         ## Modified Series
         if i >= 1948:
             sched_df = get_racing_reference_standings(season=i,series_id="N")
             if len(sched_df) > 0:
                 sched_df.to_csv(f"racing_reference/nascar_modified/schedule/{i}_schedule.csv",index=False)
+            try:
+                results_df = get_racing_reference_race_results(season=i,series_id="N")
+                if len(results_df) > 0:
+                    results_df.to_csv(f"racing_reference/nascar_modified/race_results/{i}_race_results.csv",index=False)
+            except:
+                print(f'Could not get race results for the {i} NASCAR Modifieds season.')
 
         ## IndyCar Series
         if i >= 1996:
             sched_df = get_racing_reference_standings(season=i,series_id="O")
             if len(sched_df) > 0:
                 sched_df.to_csv(f"racing_reference/indycar/schedule/{i}_schedule.csv",index=False)
-
+            try:
+                results_df = get_racing_reference_race_results(season=i,series_id="O")
+                if len(results_df) > 0:
+                    results_df.to_csv(f"racing_reference/nascar_arca/race_results/{i}_race_results.csv",index=False)
+            except:
+                print(f'Could not get race results for the {i} IndyCar season.')
         time.sleep(5)
 
 if __name__ == "__main__":

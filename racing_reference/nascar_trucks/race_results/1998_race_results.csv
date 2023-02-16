@@ -1,0 +1,939 @@
+season,series_id,race_id,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
+1998,C,1998_Chevy_Trucks_Challenge,1,2,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,204,48625,running,35,180
+1998,C,1998_Chevy_Trucks_Challenge,2,15,50,usa,Joe_Ruttman,Joe Ruttman,LCI International,Jack_Roush,Ford,204,40325,running,16,170
+1998,C,1998_Chevy_Trucks_Challenge,3,17,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,204,31875,running,0,165
+1998,C,1998_Chevy_Trucks_Challenge,4,3,24,usa,Jack_Sprague,Jack Sprague,Quaker State,Rick_Hendrick,Chevrolet,204,22175,running,0,160
+1998,C,1998_Chevy_Trucks_Challenge,5,20,80,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,204,19675,running,0,155
+1998,C,1998_Chevy_Trucks_Challenge,6,26,87,usa,Joe_Nemechek,Joe Nemechek,BellSouth Mobility,Joe_Nemechek,Chevrolet,204,14575,running,0,150
+1998,C,1998_Chevy_Trucks_Challenge,7,29,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,204,13085,running,0,146
+1998,C,1998_Chevy_Trucks_Challenge,8,23,29,usa,Bob_Keselowski,Bob Keselowski,Mopar Performance,Ron_Keselowski,Dodge,204,12585,running,0,142
+1998,C,1998_Chevy_Trucks_Challenge,9,32,18,usa,Butch_Miller,Butch Miller,Dana Corporation,Ron_Norick,Dodge,204,12335,running,0,138
+1998,C,1998_Chevy_Trucks_Challenge,10,28,78,usa,Rich_Bickle,Rich Bickle,MCI,Dominic_Dobson,Dodge,204,12235,running,0,134
+1998,C,1998_Chevy_Trucks_Challenge,11,8,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,204,11385,running,0,130
+1998,C,1998_Chevy_Trucks_Challenge,12,9,2,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,204,11185,running,2,127
+1998,C,1998_Chevy_Trucks_Challenge,13,22,66,usa,Bryan_Reffner,Bryan Reffner,Carlin Burners & Controls,Dale_Phelon,Ford,204,10985,running,0,124
+1998,C,1998_Chevy_Trucks_Challenge,14,30,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,203,10785,running,0,121
+1998,C,1998_Chevy_Trucks_Challenge,15,31,84,usa,Wayne_Anderson_(1),Wayne Anderson,Porter-Cable Power Tools,Jim_Herrick,Ford,203,10185,running,0,118
+1998,C,1998_Chevy_Trucks_Challenge,16,11,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,203,10485,running,0,115
+1998,C,1998_Chevy_Trucks_Challenge,17,34,51,usa,Tammy_Jo_Kirk,Tammy Jo Kirk,Auto Value,Tammy_Jo_Kirk,Ford,203,10635,running,0,112
+1998,C,1998_Chevy_Trucks_Challenge,18,16,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,203,9285,running,0,109
+1998,C,1998_Chevy_Trucks_Challenge,19,5,5,usa,Mike_Skinner,Mike Skinner,Llumar Window Films,Mike_Skinner,Chevrolet,203,9185,running,0,106
+1998,C,1998_Chevy_Trucks_Challenge,20,33,61,usa,Randy_Tolsma,Randy Tolsma,Dole / IWX Motor Freight,Steve_Coulter,Chevrolet,202,10460,running,0,103
+1998,C,1998_Chevy_Trucks_Challenge,21,27,88,usa,Terry_Cook,Terry Cook,Sealmaster / PBA Tour,Duke_Thorson,Chevrolet,202,8985,running,0,100
+1998,C,1998_Chevy_Trucks_Challenge,22,24,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden Products,Charles_Hardy,Chevrolet,201,8885,running,0,97
+1998,C,1998_Chevy_Trucks_Challenge,23,14,83,usa,Joe_Gaita,Joe Gaita,Lamb & Robinson Drywall,Joe_Gaita,Ford,201,8785,running,0,94
+1998,C,1998_Chevy_Trucks_Challenge,24,4,52,usa,Mike_Wallace,Mike Wallace,Purolator PureOne Filters,Ken_Schrader,Chevrolet,196,9435,crash,35,91
+1998,C,1998_Chevy_Trucks_Challenge,25,1,99,usa,Chuck_Bown,Chuck Bown,Exide Batteries,Jack_Roush,Ford,182,11535,running,116,88
+1998,C,1998_Chevy_Trucks_Challenge,26,10,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,177,8235,running,0,85
+1998,C,1998_Chevy_Trucks_Challenge,27,12,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,175,7785,running,0,82
+1998,C,1998_Chevy_Trucks_Challenge,28,6,31,usa,Tony_Roper,Tony Roper,Concor Tool & Machine,Bob_Brevak,Ford,174,8785,crash,0,79
+1998,C,1998_Chevy_Trucks_Challenge,29,18,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,173,8785,running,0,76
+1998,C,1998_Chevy_Trucks_Challenge,30,19,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,164,8785,rear end,0,73
+1998,C,1998_Chevy_Trucks_Challenge,31,36,55,usa,Dave_Rezendes,Dave Rezendes,Icehouse Beer,Tom_Gloy,Ford,142,8785,running,0,70
+1998,C,1998_Chevy_Trucks_Challenge,32,13,11,usa,Brett_Bodine,Brett Bodine,Red Line Oil,Phil_Bonifield,Chevrolet,115,7785,engine,0,67
+1998,C,1998_Chevy_Trucks_Challenge,33,7,10,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",A & G Coal,Jerry_Wharton,Chevrolet,103,7785,crash,0,64
+1998,C,1998_Chevy_Trucks_Challenge,34,35,40,usa,Bobby_Hamilton,Bobby Hamilton,Southern Pride Trucking,Bobby_Hamilton_Racing,Chevrolet,94,8035,transmission,0,61
+1998,C,1998_Chevy_Trucks_Challenge,35,21,7,usa,Barry_Bodine,Barry Bodine,Purvis Brothers Ford,Jim_Mattei,Ford,55,7785,engine,0,58
+1998,C,1998_Chevy_Trucks_Challenge,36,25,4,usa,Tommy_Archer,Tommy Archer,All American Museum,Bill_Westbrook,Dodge,15,7785,engine,0,55
+1998,C,1998_Florida_Dodge_Dealers_400K,1,12,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,167,52850,running,31,180
+1998,C,1998_Florida_Dodge_Dealers_400K,2,1,24,usa,Jack_Sprague,Jack Sprague,Team Hendrick,Rick_Hendrick,Chevrolet,167,27350,running,81,170
+1998,C,1998_Florida_Dodge_Dealers_400K,3,10,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,167,18850,running,0,165
+1998,C,1998_Florida_Dodge_Dealers_400K,4,23,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,167,15450,running,0,160
+1998,C,1998_Florida_Dodge_Dealers_400K,5,4,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden Products,Charles_Hardy,Chevrolet,167,13950,running,4,155
+1998,C,1998_Florida_Dodge_Dealers_400K,6,11,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,167,13700,running,0,150
+1998,C,1998_Florida_Dodge_Dealers_400K,7,14,29,usa,Bob_Keselowski,Bob Keselowski,Mopar Performance,Ron_Keselowski,Dodge,167,11900,running,0,146
+1998,C,1998_Florida_Dodge_Dealers_400K,8,21,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,167,11400,running,1,142
+1998,C,1998_Florida_Dodge_Dealers_400K,9,28,55,usa,Dave_Rezendes,Dave Rezendes,Icehouse Beer,Tom_Gloy,Ford,167,11200,running,0,138
+1998,C,1998_Florida_Dodge_Dealers_400K,10,33,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,167,10775,running,0,134
+1998,C,1998_Florida_Dodge_Dealers_400K,11,37,7,usa,Barry_Bodine,Barry Bodine,Damron's Auto Parts,Jim_Clark_(2),Chevrolet,167,9900,running,0,130
+1998,C,1998_Florida_Dodge_Dealers_400K,12,26,57,usa,Chuck_Bown,Chuck Bown,CSG Motorsports,Ed_Scherer,Ford,167,10800,running,0,127
+1998,C,1998_Florida_Dodge_Dealers_400K,13,31,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,167,9700,running,0,124
+1998,C,1998_Florida_Dodge_Dealers_400K,14,2,2,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,167,10600,running,24,121
+1998,C,1998_Florida_Dodge_Dealers_400K,15,34,51,usa,Tammy_Jo_Kirk,Tammy Jo Kirk,Auto Value,Tammy_Jo_Kirk,Ford,167,10850,running,0,118
+1998,C,1998_Florida_Dodge_Dealers_400K,16,38,00,usa,Frank_Kimmel,Frank Kimmel,Sprayer Auto Parts,Andy_Campbell,Chevrolet,167,9400,running,0,115
+1998,C,1998_Florida_Dodge_Dealers_400K,17,3,17,usa,Rich_Bickle,Rich Bickle,Sears DieHard,Tim_Beverley,Chevrolet,167,10300,running,0,112
+1998,C,1998_Florida_Dodge_Dealers_400K,18,25,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,167,10200,running,26,109
+1998,C,1998_Florida_Dodge_Dealers_400K,19,36,84,usa,Wayne_Anderson_(1),Wayne Anderson,Porter-Cable Power Tools,Jim_Herrick,Ford,166,9100,running,0,106
+1998,C,1998_Florida_Dodge_Dealers_400K,20,17,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,166,9225,running,0,103
+1998,C,1998_Florida_Dodge_Dealers_400K,21,30,18,usa,Butch_Miller,Butch Miller,Dana Corporation,Ron_Norick,Dodge,166,9800,running,0,100
+1998,C,1998_Florida_Dodge_Dealers_400K,22,7,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,165,9600,running,0,97
+1998,C,1998_Florida_Dodge_Dealers_400K,23,32,32,usa,Curtis_Markham,Curtis Markham,Active Truck Team,Joe_Horner,Chevrolet,165,8475,running,0,94
+1998,C,1998_Florida_Dodge_Dealers_400K,24,5,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,165,9175,running,0,91
+1998,C,1998_Florida_Dodge_Dealers_400K,25,15,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,164,8975,running,0,88
+1998,C,1998_Florida_Dodge_Dealers_400K,26,20,82,usa,Randy_Nelson,Randy Nelson,Rhino Linings USA,Steve_Lucore,Ford,155,7775,running,0,85
+1998,C,1998_Florida_Dodge_Dealers_400K,27,22,90,usa,Lance_Norick,Lance Norick,NHL,Ron_Norick,Dodge,140,7575,engine,0,82
+1998,C,1998_Florida_Dodge_Dealers_400K,28,24,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,137,7375,engine,0,79
+1998,C,1998_Florida_Dodge_Dealers_400K,29,19,06,canada,Randy_MacDonald,Randy MacDonald,Ams Oil,Dick_Greenfield,Dodge,134,7175,running,0,76
+1998,C,1998_Florida_Dodge_Dealers_400K,30,18,98,usa,Rob_Rizzo,Rob Rizzo,Hastings Premium Filters,Jim_Herrick,Ford,129,6425,crash,0,73
+1998,C,1998_Florida_Dodge_Dealers_400K,31,8,66,usa,Bryan_Reffner,Bryan Reffner,Carlin Burners & Controls,Dale_Phelon,Ford,95,7325,engine,0,70
+1998,C,1998_Florida_Dodge_Dealers_400K,32,13,10,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",A & G Coal,Jerry_Wharton,Chevrolet,88,6225,rear end,0,67
+1998,C,1998_Florida_Dodge_Dealers_400K,33,35,26,usa,Doug_George,Doug George,Auto Trim Design Network,Mike_Mittler,Ford,59,7075,engine,0,64
+1998,C,1998_Florida_Dodge_Dealers_400K,34,16,52,usa,Mike_Wallace,Mike Wallace,Dayco No-Slack Belts,Ken_Schrader,Chevrolet,50,6075,engine,0,61
+1998,C,1998_Florida_Dodge_Dealers_400K,35,29,83,usa,Joe_Gaita,Joe Gaita,Lamb & Robinson Drywall,Joe_Gaita,Ford,41,6075,overheating,0,58
+1998,C,1998_Florida_Dodge_Dealers_400K,36,27,31,usa,Tony_Roper,Tony Roper,Big Daddy's BBQ Sauce,Bob_Brevak,Ford,33,7075,engine,0,55
+1998,C,1998_Florida_Dodge_Dealers_400K,37,9,61,usa,Randy_Tolsma,Randy Tolsma,IWX Motor Freight,Steve_Coulter,Chevrolet,17,6075,crash,0,52
+1998,C,1998_Florida_Dodge_Dealers_400K,38,6,88,usa,Terry_Cook,Terry Cook,Nokia / George Strait Country Music Festival,Duke_Thorson,Chevrolet,0,6075,crash,0,49
+1998,C,1998_Chevy_Trucks_NASCAR_150,1,4,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,150,35875,running,20,180
+1998,C,1998_Chevy_Trucks_NASCAR_150,2,3,24,usa,Jack_Sprague,Jack Sprague,Team Hendrick,Rick_Hendrick,Chevrolet,150,26625,running,93,170
+1998,C,1998_Chevy_Trucks_NASCAR_150,3,1,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,150,21250,running,37,165
+1998,C,1998_Chevy_Trucks_NASCAR_150,4,2,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,150,9050,running,0,160
+1998,C,1998_Chevy_Trucks_NASCAR_150,5,11,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,150,10275,running,0,155
+1998,C,1998_Chevy_Trucks_NASCAR_150,6,14,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,150,6475,running,0,150
+1998,C,1998_Chevy_Trucks_NASCAR_150,7,21,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,150,6525,running,0,146
+1998,C,1998_Chevy_Trucks_NASCAR_150,8,10,66,usa,Bryan_Reffner,Bryan Reffner,Carlin Burners & Controls,Dale_Phelon,Ford,150,6375,running,0,142
+1998,C,1998_Chevy_Trucks_NASCAR_150,9,12,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,150,6275,running,0,138
+1998,C,1998_Chevy_Trucks_NASCAR_150,10,13,61,usa,Randy_Tolsma,Randy Tolsma,IWX Motor Freight,Steve_Coulter,Chevrolet,150,7225,running,0,134
+1998,C,1998_Chevy_Trucks_NASCAR_150,11,9,52,usa,Mike_Wallace,Mike Wallace,Dayco No-Slack Belts,Ken_Schrader,Chevrolet,150,5225,running,0,130
+1998,C,1998_Chevy_Trucks_NASCAR_150,12,17,31,usa,Tony_Roper,Tony Roper,Big Daddy's BBQ Sauce,Bob_Brevak,Ford,150,6065,running,0,127
+1998,C,1998_Chevy_Trucks_NASCAR_150,13,18,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,150,5015,running,0,124
+1998,C,1998_Chevy_Trucks_NASCAR_150,14,22,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,150,5965,running,0,121
+1998,C,1998_Chevy_Trucks_NASCAR_150,15,8,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,150,6040,running,0,118
+1998,C,1998_Chevy_Trucks_NASCAR_150,16,33,88,usa,Terry_Cook,Terry Cook,Sealmaster / PBA Tour,Duke_Thorson,Chevrolet,150,5865,running,0,115
+1998,C,1998_Chevy_Trucks_NASCAR_150,17,7,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,150,5815,running,0,112
+1998,C,1998_Chevy_Trucks_NASCAR_150,18,20,55,usa,Dave_Rezendes,Dave Rezendes,Icehouse Beer,Tom_Gloy,Ford,150,5765,running,0,109
+1998,C,1998_Chevy_Trucks_NASCAR_150,19,28,78,usa,Dominic_Dobson,Dominic Dobson,MCI,Dominic_Dobson,Dodge,150,4965,running,0,106
+1998,C,1998_Chevy_Trucks_NASCAR_150,20,30,84,usa,Wayne_Anderson_(1),Wayne Anderson,Porter-Cable Power Tools,Jim_Herrick,Ford,149,4415,running,0,103
+1998,C,1998_Chevy_Trucks_NASCAR_150,21,19,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden Products,Charles_Hardy,Chevrolet,149,4590,running,0,100
+1998,C,1998_Chevy_Trucks_NASCAR_150,22,34,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,148,4540,running,0,97
+1998,C,1998_Chevy_Trucks_NASCAR_150,23,29,57,usa,Chuck_Bown,Chuck Bown,Cunningham Historic Motorcars,Ed_Scherer,Ford,148,5440,running,0,94
+1998,C,1998_Chevy_Trucks_NASCAR_150,24,31,81,usa,Randy_Nelson,Randy Nelson,Rhino Linings USA,Jerry_Glanville,Ford,148,4340,running,0,91
+1998,C,1998_Chevy_Trucks_NASCAR_150,25,36,9,usa,David_Starr,David Starr,Reher-Morrison,Buddy_Morrison,Chevrolet,147,4240,running,0,88
+1998,C,1998_Chevy_Trucks_NASCAR_150,26,23,10,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",A & G Coal,Jerry_Wharton,Chevrolet,146,4140,running,0,85
+1998,C,1998_Chevy_Trucks_NASCAR_150,27,27,15,usa,Rob_Morgan,Rob Morgan,Acxiom,Billy_Ballew,Ford,145,4040,running,0,82
+1998,C,1998_Chevy_Trucks_NASCAR_150,28,25,42,usa,Rick_McCray,Rick McCray,McCray Racing,Rick_McCray,Chevrolet,140,3940,running,0,79
+1998,C,1998_Chevy_Trucks_NASCAR_150,29,35,33,usa,Jay_Stewart,Jay Stewart,Farris Concrete,Jay_Stewart,Chevrolet,139,3840,running,0,76
+1998,C,1998_Chevy_Trucks_NASCAR_150,30,32,26,usa,Doug_George,Doug George,Auto Trim Design,Mike_Mittler,Ford,107,4750,running,0,73
+1998,C,1998_Chevy_Trucks_NASCAR_150,31,15,18,usa,Butch_Miller,Butch Miller,Dana Corporation,Ron_Norick,Dodge,99,4555,engine,0,70
+1998,C,1998_Chevy_Trucks_NASCAR_150,32,26,29,usa,Bob_Keselowski,Bob Keselowski,Mopar Performance,Ron_Keselowski,Dodge,87,4555,running,0,67
+1998,C,1998_Chevy_Trucks_NASCAR_150,33,5,2,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,70,4555,engine,0,64
+1998,C,1998_Chevy_Trucks_NASCAR_150,34,6,32,usa,Curtis_Markham,Curtis Markham,Active Truck Team,Joe_Horner,Chevrolet,40,3555,engine,0,61
+1998,C,1998_Chevy_Trucks_NASCAR_150,35,24,90,usa,Lance_Norick,Lance Norick,NHL,Ron_Norick,Dodge,17,3555,engine,0,58
+1998,C,1998_Chevy_Trucks_NASCAR_150,36,16,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,2,3555,crash,0,55
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,1,2,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,200,41600,running,198,180
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,2,3,61,usa,Randy_Tolsma,Randy Tolsma,IWX Motor Freight,Steve_Coulter,Chevrolet,200,26550,running,0,170
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,3,13,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,200,20150,running,0,165
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,4,8,24,usa,Jack_Sprague,Jack Sprague,Big Daddy's BBQ Sauce,Rick_Hendrick,Chevrolet,200,11000,running,0,160
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,5,11,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,200,8650,running,0,155
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,6,10,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,200,7150,running,0,150
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,7,12,66,usa,Bryan_Reffner,Bryan Reffner,Carlin Burners & Controls,Dale_Phelon,Ford,200,8300,running,0,146
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,8,7,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,200,6900,running,0,142
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,9,14,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,200,6850,running,0,138
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,10,20,31,usa,Tony_Roper,Tony Roper,Bendix Brakes,Bob_Brevak,Ford,200,7725,running,0,134
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,11,18,18,usa,Butch_Miller,Butch Miller,Dana Corporation,Ron_Norick,Dodge,200,6750,running,0,130
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,12,15,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,199,6700,running,0,127
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,13,16,29,usa,Bob_Keselowski,Bob Keselowski,Mopar Performance,Ron_Keselowski,Dodge,199,6650,running,0,124
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,14,17,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,199,5600,running,0,121
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,15,9,57,usa,Chuck_Bown,Chuck Bown,Cunningham Historic Motorcars,Ed_Scherer,Ford,199,7000,running,0,118
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,16,25,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,199,6200,running,0,115
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,17,22,55,usa,Dave_Rezendes,Dave Rezendes,Icehouse Beer,Tom_Gloy,Ford,198,6400,running,0,112
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,18,4,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden Products,Charles_Hardy,Chevrolet,198,5350,running,0,109
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,19,27,52,usa,Mike_Wallace,Mike Wallace,Purolator PureOne Filters,Ken_Schrader,Chevrolet,198,6300,running,0,106
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,20,21,10,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",A & G Coal,Jerry_Wharton,Chevrolet,198,5475,running,0,103
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,21,23,90,usa,Lance_Norick,Lance Norick,NHL,Ron_Norick,Dodge,197,5200,running,0,100
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,22,26,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,197,5400,running,0,97
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,23,19,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,196,6100,running,0,94
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,24,32,82,usa,Randy_Nelson,Randy Nelson,Rhino Linings USA,Steve_Lucore,Ford,190,5050,running,0,91
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,25,30,84,usa,Wayne_Anderson_(1),Wayne Anderson,Porter-Cable Power Tools,Jim_Herrick,Ford,183,4950,running,0,88
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,26,1,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,169,5625,running,2,85
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,27,5,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,159,5900,running,0,82
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,28,6,2,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,142,5875,engine,0,79
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,29,31,78,usa,Dominic_Dobson,Dominic Dobson,MCI,Dominic_Dobson,Dodge,141,4875,running,0,76
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,30,28,26,usa,Doug_George,Doug George,Auto Trim Design,Mike_Mittler,Ford,131,5875,running,0,73
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,31,29,88,usa,Terry_Cook,Terry Cook,Jani-King / PBA Tour,Duke_Thorson,Chevrolet,126,4875,running,0,70
+1998,C,1998_Craftsman_200_Presented_by_NAPA_Auto_Parts,32,24,42,usa,Rick_McCray,Rick McCray,McCray Racing,Rick_McCray,Chevrolet,99,4875,crash,0,67
+1998,C,1998_NAPACARD_200,1,6,24,usa,Jack_Sprague,Jack Sprague,Team Hendrick,Rick_Hendrick,Chevrolet,200,40300,running,162,180
+1998,C,1998_NAPACARD_200,2,5,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,200,21635,running,0,170
+1998,C,1998_NAPACARD_200,3,14,61,usa,Randy_Tolsma,Randy Tolsma,IWX Motor Freight,Steve_Coulter,Chevrolet,200,16325,running,0,165
+1998,C,1998_NAPACARD_200,4,4,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,200,13625,running,0,160
+1998,C,1998_NAPACARD_200,5,7,52,usa,Mike_Wallace,Mike Wallace,Purolator PureOne Filters,Ken_Schrader,Chevrolet,200,8225,running,0,155
+1998,C,1998_NAPACARD_200,6,12,31,usa,Tony_Roper,Tony Roper,Bendix Brakes,Bob_Brevak,Ford,200,7275,running,0,150
+1998,C,1998_NAPACARD_200,7,11,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,200,7125,running,0,146
+1998,C,1998_NAPACARD_200,8,8,66,usa,Bryan_Reffner,Bryan Reffner,Carlin Burners & Controls,Dale_Phelon,Ford,200,7075,running,0,142
+1998,C,1998_NAPACARD_200,9,9,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden Products,Charles_Hardy,Chevrolet,199,7050,running,0,138
+1998,C,1998_NAPACARD_200,10,26,18,usa,Butch_Miller,Butch Miller,Dana Corporation,Ron_Norick,Dodge,199,7875,running,0,134
+1998,C,1998_NAPACARD_200,11,10,10,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",A & G Coal,Jerry_Wharton,Chevrolet,199,5950,running,0,130
+1998,C,1998_NAPACARD_200,12,1,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,199,7600,running,38,127
+1998,C,1998_NAPACARD_200,13,15,29,usa,Bob_Keselowski,Bob Keselowski,Mopar Performance,Ron_Keselowski,Dodge,199,6825,running,0,124
+1998,C,1998_NAPACARD_200,14,19,90,usa,Lance_Norick,Lance Norick,NHL,Ron_Norick,Dodge,199,5725,running,0,121
+1998,C,1998_NAPACARD_200,15,21,84,usa,Wayne_Anderson_(1),Wayne Anderson,Porter-Cable Power Tools,Jim_Herrick,Ford,199,7925,running,0,118
+1998,C,1998_NAPACARD_200,16,2,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,198,7525,running,0,115
+1998,C,1998_NAPACARD_200,17,3,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,198,6725,running,0,112
+1998,C,1998_NAPACARD_200,18,18,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,198,6425,running,0,109
+1998,C,1998_NAPACARD_200,19,27,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,198,6325,running,0,106
+1998,C,1998_NAPACARD_200,20,28,57,usa,Chuck_Bown,Chuck Bown,Cunningham Historic Motorcars,Ed_Scherer,Ford,198,6425,running,0,103
+1998,C,1998_NAPACARD_200,21,16,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,198,6275,running,0,100
+1998,C,1998_NAPACARD_200,22,31,78,usa,Dominic_Dobson,Dominic Dobson,MCI,Dominic_Dobson,Dodge,197,5225,running,0,97
+1998,C,1998_NAPACARD_200,23,32,82,usa,Randy_Nelson,Randy Nelson,Rhino Linings USA,Steve_Lucore,Ford,197,5125,running,0,94
+1998,C,1998_NAPACARD_200,24,30,55,usa,Ernie_Cope,Ernie Cope,Icehouse Beer,Tom_Gloy,Ford,196,5125,running,0,91
+1998,C,1998_NAPACARD_200,25,25,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,194,5025,running,0,88
+1998,C,1998_NAPACARD_200,26,24,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,194,6000,running,0,85
+1998,C,1998_NAPACARD_200,27,23,42,usa,Rick_McCray,Rick McCray,McCray Racing,Rick_McCray,Chevrolet,192,4950,running,0,82
+1998,C,1998_NAPACARD_200,28,22,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,189,5950,running,0,79
+1998,C,1998_NAPACARD_200,29,29,88,usa,Terry_Cook,Terry Cook,Jani-King / PBA Tour,Duke_Thorson,Chevrolet,184,4950,running,0,76
+1998,C,1998_NAPACARD_200,30,17,2,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,180,4950,running,0,73
+1998,C,1998_NAPACARD_200,31,20,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,106,5950,crash,0,70
+1998,C,1998_NAPACARD_200,32,13,26,usa,Doug_George,Doug George,Auto Trim Design Network,Mike_Mittler,Ford,84,4950,engine,0,67
+1998,C,1998_Yellow_Freight_200,1,1,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,200,33850,running,182,180
+1998,C,1998_Yellow_Freight_200,2,8,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,200,27525,running,0,170
+1998,C,1998_Yellow_Freight_200,3,3,2,usa,Mike_Bliss,Mike Bliss,Team ASE / Ultra Wheels,Jim_Smith,Ford,200,18525,running,0,165
+1998,C,1998_Yellow_Freight_200,4,12,66,usa,Bryan_Reffner,Bryan Reffner,Carlin Burners & Controls / Phelon,Dale_Phelon,Ford,200,13025,running,0,160
+1998,C,1998_Yellow_Freight_200,5,7,24,usa,Jack_Sprague,Jack Sprague,Quaker State / 1-800-Marrow,Rick_Hendrick,Chevrolet,200,11450,running,0,155
+1998,C,1998_Yellow_Freight_200,6,9,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,200,7550,running,0,150
+1998,C,1998_Yellow_Freight_200,7,5,52,usa,Mike_Wallace,Mike Wallace,Purolator PureOne Filters / O'Reilly,Ken_Schrader,Chevrolet,200,7300,running,0,146
+1998,C,1998_Yellow_Freight_200,8,6,31,usa,Tony_Roper,Tony Roper,Bendix Brakes,Bob_Brevak,Ford,200,7200,running,0,142
+1998,C,1998_Yellow_Freight_200,9,27,84,usa,Wayne_Anderson_(1),Wayne Anderson,Porter-Cable Power Tools,Jim_Herrick,Ford,200,7900,running,0,138
+1998,C,1998_Yellow_Freight_200,10,18,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,200,7525,running,0,134
+1998,C,1998_Yellow_Freight_200,11,4,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,200,7050,running,0,130
+1998,C,1998_Yellow_Freight_200,12,29,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden / New Holland,Charles_Hardy,Chevrolet,200,7025,running,0,127
+1998,C,1998_Yellow_Freight_200,13,11,18,usa,Butch_Miller,Butch Miller,Spicer / Dana Corporation,Ron_Norick,Dodge,200,7000,running,0,124
+1998,C,1998_Yellow_Freight_200,14,14,68,usa,Mike_Garvey,Mike Garvey,Metro Milwaukee Auto Auction,Jerry_Gunderman,Chevrolet,200,5975,running,0,121
+1998,C,1998_Yellow_Freight_200,15,23,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,200,6700,running,0,118
+1998,C,1998_Yellow_Freight_200,16,16,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,199,6775,running,0,115
+1998,C,1998_Yellow_Freight_200,17,28,61,usa,Randy_Tolsma,Randy Tolsma,IWX Motor Freight,Steve_Coulter,Chevrolet,199,6750,running,0,112
+1998,C,1998_Yellow_Freight_200,18,17,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,199,6725,running,0,109
+1998,C,1998_Yellow_Freight_200,19,25,51,usa,Tammy_Jo_Kirk,Tammy Jo Kirk,Auto Value,Tammy_Jo_Kirk,Ford,199,5700,running,0,106
+1998,C,1998_Yellow_Freight_200,20,21,88,usa,Terry_Cook,Terry Cook,Jani-King / PBA Tour,Duke_Thorson,Chevrolet,199,5900,running,0,103
+1998,C,1998_Yellow_Freight_200,21,13,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,198,6650,running,0,100
+1998,C,1998_Yellow_Freight_200,22,31,57,usa,Chuck_Bown,Chuck Bown,Web World Services,Ed_Scherer,Ford,196,6625,running,0,97
+1998,C,1998_Yellow_Freight_200,23,24,9,usa,David_Starr,David Starr,My Favorite Oranges / CNG Engines,Buddy_Morrison,Chevrolet,189,5600,running,0,94
+1998,C,1998_Yellow_Freight_200,24,15,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,174,6575,running,0,91
+1998,C,1998_Yellow_Freight_200,25,32,78,usa,Dominic_Dobson,Dominic Dobson,MCI / Mopar,Dominic_Dobson,Dodge,171,5550,running,0,88
+1998,C,1998_Yellow_Freight_200,26,26,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,167,6525,crash,0,85
+1998,C,1998_Yellow_Freight_200,27,10,10,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",A & G Coal,Jerry_Wharton,Chevrolet,152,5475,crash,0,82
+1998,C,1998_Yellow_Freight_200,28,19,29,usa,Bob_Keselowski,Bob Keselowski,Mopar Performance,Ron_Keselowski,Dodge,140,6475,running,0,79
+1998,C,1998_Yellow_Freight_200,29,20,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,140,5475,crash,0,76
+1998,C,1998_Yellow_Freight_200,30,22,90,usa,Lance_Norick,Lance Norick,NHL / St. Louis Blues,Ron_Norick,Dodge,94,5475,engine,0,73
+1998,C,1998_Yellow_Freight_200,31,30,55,usa,Dennis_Setzer,Dennis Setzer,Icehouse Beer,Tom_Gloy,Ford,88,5475,transmission,0,70
+1998,C,1998_Yellow_Freight_200,32,2,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,88,7475,crash,18,67
+1998,C,1998_Parts_America_150,1,2,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,65,40780,running,1,180
+1998,C,1998_Parts_America_150,2,11,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,65,22490,running,0,170
+1998,C,1998_Parts_America_150,3,3,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,65,18245,running,4,165
+1998,C,1998_Parts_America_150,4,4,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,65,12725,running,53,160
+1998,C,1998_Parts_America_150,5,5,24,usa,Jack_Sprague,Jack Sprague,Team Hendrick,Rick_Hendrick,Chevrolet,65,11995,running,0,155
+1998,C,1998_Parts_America_150,6,24,28,usa,Mark_Simo,Mark Simo,Federated Auto Parts,Mark_Simo,Ford,65,8845,running,0,150
+1998,C,1998_Parts_America_150,7,13,2,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,65,7545,running,0,146
+1998,C,1998_Parts_America_150,8,8,98,usa,Rob_Rizzo,Rob Rizzo,Hastings Premium Filters,Jim_Herrick,Ford,65,7345,running,0,142
+1998,C,1998_Parts_America_150,9,10,61,usa,Randy_Tolsma,Randy Tolsma,IWX Motor Freight,Steve_Coulter,Chevrolet,65,8245,running,0,138
+1998,C,1998_Parts_America_150,10,12,52,usa,Mike_Wallace,Mike Wallace,Purolator PureOne Filters,Ken_Schrader,Chevrolet,65,9320,running,0,134
+1998,C,1998_Parts_America_150,11,17,06,canada,Randy_MacDonald,Randy MacDonald,Ams Oil,Dick_Greenfield,Dodge,65,6945,running,0,130
+1998,C,1998_Parts_America_150,12,14,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,65,7945,running,0,127
+1998,C,1998_Parts_America_150,13,15,55,usa,Dorsey_Schroeder,Dorsey Schroeder,Icehouse Beer,Tom_Gloy,Ford,65,6895,running,0,124
+1998,C,1998_Parts_America_150,14,18,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,65,7945,running,0,121
+1998,C,1998_Parts_America_150,15,31,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,65,8895,running,0,118
+1998,C,1998_Parts_America_150,16,25,57,usa,Chuck_Bown,Chuck Bown,Cunningham Historic Motorcars,Ed_Scherer,Ford,65,6745,running,0,115
+1998,C,1998_Parts_America_150,17,21,7,usa,Barry_Bodine,Barry Bodine,WLR Construction,Jim_Clark_(2),Chevrolet,65,6695,running,0,112
+1998,C,1998_Parts_America_150,18,16,66,usa,Bryan_Reffner,Bryan Reffner,Carlin Burners & Controls,Dale_Phelon,Ford,65,7645,running,2,109
+1998,C,1998_Parts_America_150,19,23,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,65,7595,running,0,106
+1998,C,1998_Parts_America_150,20,27,18,usa,Butch_Miller,Butch Miller,Dana Corporation,Ron_Norick,Dodge,65,7545,running,2,103
+1998,C,1998_Parts_America_150,21,30,29,usa,Bob_Keselowski,Bob Keselowski,Mopar Performance,Ron_Keselowski,Dodge,65,7370,running,0,100
+1998,C,1998_Parts_America_150,22,34,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,65,6020,running,0,97
+1998,C,1998_Parts_America_150,23,7,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden Products,Charles_Hardy,Chevrolet,64,7270,tire,0,94
+1998,C,1998_Parts_America_150,24,19,88,usa,Terry_Cook,Terry Cook,Pick-Ups Plus / PBA Tour,Duke_Thorson,Chevrolet,64,6220,running,0,91
+1998,C,1998_Parts_America_150,25,26,90,usa,Lance_Norick,Lance Norick,NHL,Ron_Norick,Dodge,64,6170,running,0,88
+1998,C,1998_Parts_America_150,26,32,84,usa,Wayne_Anderson_(1),Wayne Anderson,Porter-Cable Power Tools,Jim_Herrick,Ford,59,7070,engine,0,85
+1998,C,1998_Parts_America_150,27,6,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,50,6970,transmission,2,82
+1998,C,1998_Parts_America_150,28,22,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,44,6870,engine,0,79
+1998,C,1998_Parts_America_150,29,9,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,35,6770,crash,0,76
+1998,C,1998_Parts_America_150,30,29,31,usa,Tony_Roper,Tony Roper,Concor Tool & Machine,Bob_Brevak,Ford,33,6770,engine,0,73
+1998,C,1998_Parts_America_150,31,33,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,31,6470,engine,0,70
+1998,C,1998_Parts_America_150,32,20,15,usa,Rob_Morgan,Rob Morgan,Acxiom,Billy_Ballew,Ford,19,5770,engine,0,67
+1998,C,1998_Parts_America_150,33,1,48,canada,Ron_Fellows,Ron Fellows,AER Manufacturing,Billy_Hess,Chevrolet,18,5770,engine,0,64
+1998,C,1998_Parts_America_150,34,28,78,usa,Dominic_Dobson,Dominic Dobson,MCI,Dominic_Dobson,Dodge,12,5770,clutch,1,61
+1998,C,1998_Pronto_Auto_Parts_400K,1,12,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,167,56400,running,25,180
+1998,C,1998_Pronto_Auto_Parts_400K,2,6,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,167,49700,running,9,170
+1998,C,1998_Pronto_Auto_Parts_400K,3,31,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,167,32500,running,0,165
+1998,C,1998_Pronto_Auto_Parts_400K,4,21,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,167,19600,running,3,160
+1998,C,1998_Pronto_Auto_Parts_400K,5,28,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,167,18450,running,0,155
+1998,C,1998_Pronto_Auto_Parts_400K,6,1,24,usa,Jack_Sprague,Jack Sprague,Team Hendrick,Rick_Hendrick,Chevrolet,167,16700,running,96,150
+1998,C,1998_Pronto_Auto_Parts_400K,7,10,48,canada,Ron_Fellows,Ron Fellows,AER Manufacturing,Billy_Hess,Chevrolet,167,11500,running,0,146
+1998,C,1998_Pronto_Auto_Parts_400K,8,30,5,usa,Dave_Rezendes,Dave Rezendes,Llumar Window Films,Mike_Skinner,Chevrolet,167,10950,running,0,142
+1998,C,1998_Pronto_Auto_Parts_400K,9,34,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,167,11800,running,0,138
+1998,C,1998_Pronto_Auto_Parts_400K,10,9,88,usa,Terry_Cook,Terry Cook,Pick-Ups Plus / PBA Tour,Duke_Thorson,Chevrolet,167,11675,running,0,134
+1998,C,1998_Pronto_Auto_Parts_400K,11,20,31,usa,Tony_Roper,Tony Roper,Big Daddy's BBQ Sauce,Bob_Brevak,Ford,167,11550,running,0,130
+1998,C,1998_Pronto_Auto_Parts_400K,12,4,52,usa,Mike_Wallace,Mike Wallace,Purolator PureOne Filters,Ken_Schrader,Chevrolet,167,11450,running,0,127
+1998,C,1998_Pronto_Auto_Parts_400K,13,14,18,usa,Butch_Miller,Butch Miller,Dana Corporation,Ron_Norick,Dodge,167,11350,running,0,124
+1998,C,1998_Pronto_Auto_Parts_400K,14,36,55,usa,Dennis_Setzer,Dennis Setzer,Icehouse Beer,Tom_Gloy,Ford,166,10250,running,0,121
+1998,C,1998_Pronto_Auto_Parts_400K,15,27,51,usa,Tammy_Jo_Kirk,Tammy Jo Kirk,Aptex,Tammy_Jo_Kirk,Ford,166,10575,running,0,118
+1998,C,1998_Pronto_Auto_Parts_400K,16,2,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,165,11950,running,7,115
+1998,C,1998_Pronto_Auto_Parts_400K,17,23,78,usa,Dominic_Dobson,Dominic Dobson,MCI,Dominic_Dobson,Dodge,164,10100,running,0,112
+1998,C,1998_Pronto_Auto_Parts_400K,18,32,9,usa,David_Starr,David Starr,Choice Cabs,Buddy_Morrison,Chevrolet,163,9750,running,1,109
+1998,C,1998_Pronto_Auto_Parts_400K,19,18,90,usa,Lance_Norick,Lance Norick,NHL,Ron_Norick,Dodge,159,9650,running,0,106
+1998,C,1998_Pronto_Auto_Parts_400K,20,37,57,usa,Rob_Morgan,Rob Morgan,Acxiom,Ed_Scherer,Ford,158,9875,running,0,103
+1998,C,1998_Pronto_Auto_Parts_400K,21,11,84,usa,Wayne_Anderson_(1),Wayne Anderson,Porter-Cable Power Tools,Jim_Herrick,Ford,147,10450,crash,9,100
+1998,C,1998_Pronto_Auto_Parts_400K,22,17,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,147,10350,crash,3,97
+1998,C,1998_Pronto_Auto_Parts_400K,23,7,17,usa,Toby_Porter,Toby Porter,Tyler Jet Motorsports,Tim_Beverley,Chevrolet,147,9250,crash,0,94
+1998,C,1998_Pronto_Auto_Parts_400K,24,22,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,144,10150,engine,5,91
+1998,C,1998_Pronto_Auto_Parts_400K,25,13,61,usa,Randy_Tolsma,Randy Tolsma,IWX Motor Freight,Steve_Coulter,Chevrolet,138,10050,engine,9,88
+1998,C,1998_Pronto_Auto_Parts_400K,26,26,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,135,9950,engine,0,85
+1998,C,1998_Pronto_Auto_Parts_400K,27,3,7,usa,Barry_Bodine,Barry Bodine,Prime Performance,Jim_Clark_(2),Chevrolet,116,8850,engine,0,82
+1998,C,1998_Pronto_Auto_Parts_400K,28,35,82,usa,Kenny_Allen,Kenny Allen,Rhino Linings USA,Steve_Lucore,Ford,108,9500,crash,0,79
+1998,C,1998_Pronto_Auto_Parts_400K,29,19,29,usa,Bob_Keselowski,Bob Keselowski,Mopar Performance,Ron_Keselowski,Dodge,102,9650,engine,0,76
+1998,C,1998_Pronto_Auto_Parts_400K,30,25,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden Products,Charles_Hardy,Chevrolet,88,9550,engine,0,73
+1998,C,1998_Pronto_Auto_Parts_400K,31,29,10,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",A & G Coal,Jerry_Wharton,Chevrolet,59,8450,transmission,0,70
+1998,C,1998_Pronto_Auto_Parts_400K,32,38,26,canada,Randy_MacDonald,Randy MacDonald,Auto Trim Design Network,Mike_Mittler,Ford,58,8350,engine,0,67
+1998,C,1998_Pronto_Auto_Parts_400K,33,15,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,57,8250,crash,0,64
+1998,C,1998_Pronto_Auto_Parts_400K,34,33,85,usa,B_A_Wilson,B.A. Wilson,Barker Cable TV,B.A._Wilson,Ford,55,8250,radiator,0,61
+1998,C,1998_Pronto_Auto_Parts_400K,35,24,66,usa,Bryan_Reffner,Bryan Reffner,Carlin Burners & Controls,Dale_Phelon,Ford,46,9250,crash,0,58
+1998,C,1998_Pronto_Auto_Parts_400K,36,8,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,3,8250,crash,0,55
+1998,C,1998_Pronto_Auto_Parts_400K,37,5,2,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,3,9250,crash,0,52
+1998,C,1998_Pronto_Auto_Parts_400K,38,16,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,3,9250,crash,0,49
+1998,C,1998_Loadhandler_200,1,1,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,206,35675,running,187,180
+1998,C,1998_Loadhandler_200,2,2,24,usa,Jack_Sprague,Jack Sprague,Team Hendrick,Rick_Hendrick,Chevrolet,206,23650,running,19,170
+1998,C,1998_Loadhandler_200,3,3,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,206,16500,running,0,165
+1998,C,1998_Loadhandler_200,4,8,52,usa,Mike_Wallace,Mike Wallace,Purolator PureOne Filters,Ken_Schrader,Chevrolet,206,12800,running,0,160
+1998,C,1998_Loadhandler_200,5,6,61,usa,Randy_Tolsma,Randy Tolsma,IWX Motor Freight,Steve_Coulter,Chevrolet,206,9800,running,0,155
+1998,C,1998_Loadhandler_200,6,12,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,206,7700,running,0,150
+1998,C,1998_Loadhandler_200,7,13,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden Products,Charles_Hardy,Chevrolet,206,7150,running,0,146
+1998,C,1998_Loadhandler_200,8,18,31,usa,Kevin_Cywinski,Kevin Cywinski,Auto Trim Design,Bob_Brevak,Ford,206,6800,running,0,142
+1998,C,1998_Loadhandler_200,9,16,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,206,5900,running,0,138
+1998,C,1998_Loadhandler_200,10,15,66,usa,Bryan_Reffner,Bryan Reffner,Carlin Burners & Controls,Dale_Phelon,Ford,205,7925,running,0,134
+1998,C,1998_Loadhandler_200,11,30,10,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",A & G Coal,Jerry_Wharton,Chevrolet,205,5750,running,0,130
+1998,C,1998_Loadhandler_200,12,7,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,205,6675,running,0,127
+1998,C,1998_Loadhandler_200,13,28,51,usa,Tammy_Jo_Kirk,Tammy Jo Kirk,Aptex / Auto Value,Tammy_Jo_Kirk,Ford,205,5625,running,0,124
+1998,C,1998_Loadhandler_200,14,20,88,usa,Terry_Cook,Terry Cook,PBA Tour,Duke_Thorson,Chevrolet,205,5575,running,0,121
+1998,C,1998_Loadhandler_200,15,23,55,usa,Tony_Roper,Tony Roper,Icehouse Beer,Tom_Gloy,Ford,204,6650,running,0,118
+1998,C,1998_Loadhandler_200,16,17,11,usa,Ken_Bouchard,Ken Bouchard,Loadhandler,Phil_Bonifield,Chevrolet,204,5375,running,0,115
+1998,C,1998_Loadhandler_200,17,4,32,usa,Curtis_Markham,Curtis Markham,Active Truck Team,Joe_Horner,Chevrolet,204,5325,running,0,112
+1998,C,1998_Loadhandler_200,18,36,29,usa,Bob_Keselowski,Bob Keselowski,Mopar Performance,Ron_Keselowski,Dodge,204,6275,running,0,109
+1998,C,1998_Loadhandler_200,19,27,04,usa,Brad_Teague,Brad Teague,Hobart Food Service,William_Rose,Chevrolet,203,5225,running,0,106
+1998,C,1998_Loadhandler_200,20,32,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,203,5275,running,0,103
+1998,C,1998_Loadhandler_200,21,33,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,202,5475,running,0,100
+1998,C,1998_Loadhandler_200,22,35,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,202,6325,running,0,97
+1998,C,1998_Loadhandler_200,23,31,70,usa,Joe_Buford,Joe Buford,Buford Racing,James_Buford,Ford,198,5025,running,0,94
+1998,C,1998_Loadhandler_200,24,37,2,usa,Dave_Rezendes,Dave Rezendes,Team ASE Racing,Jim_Smith,Ford,196,4975,crash,0,91
+1998,C,1998_Loadhandler_200,25,19,1,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,193,4925,running,0,88
+1998,C,1998_Loadhandler_200,26,5,5,usa,Jamie_Skinner,Jamie Skinner,Llumar Window Films,Mike_Skinner,Chevrolet,193,4875,running,0,85
+1998,C,1998_Loadhandler_200,27,38,82,usa,Randy_Nelson,Randy Nelson,Vegas Casino & Turf Club,Steve_Lucore,Ford,167,4825,running,0,82
+1998,C,1998_Loadhandler_200,28,11,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,155,5775,running,0,79
+1998,C,1998_Loadhandler_200,29,10,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,137,5750,running,0,76
+1998,C,1998_Loadhandler_200,30,26,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,131,5725,running,0,73
+1998,C,1998_Loadhandler_200,31,21,91,usa,Carl_Long,Carl Long,Mansion Motorsports,Thee_Dixon,Ford,111,4700,engine,0,70
+1998,C,1998_Loadhandler_200,32,29,90,usa,Lance_Norick,Lance Norick,NHL,Ron_Norick,Dodge,103,4675,crash,0,67
+1998,C,1998_Loadhandler_200,33,34,18,usa,Butch_Miller,Butch Miller,Dana Corporation,Ron_Norick,Dodge,99,5625,crash,0,64
+1998,C,1998_Loadhandler_200,34,22,84,usa,Wayne_Anderson_(1),Wayne Anderson,Porter-Cable Power Tools,Jim_Herrick,Ford,79,5625,crash,0,61
+1998,C,1998_Loadhandler_200,35,24,78,usa,Dominic_Dobson,Dominic Dobson,MCI,Dominic_Dobson,Dodge,70,4675,engine,0,58
+1998,C,1998_Loadhandler_200,36,25,67,usa,Joe_Bush,Joe Bush,Hill Machinery,Don_VanDenBos,Chevrolet,37,4675,oil pump,0,55
+1998,C,1998_Loadhandler_200,37,9,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,31,5675,engine,0,52
+1998,C,1998_Loadhandler_200,38,14,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,20,5675,running,0,49
+1998,C,1998_DieHard_200,1,2,2,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,200,44800,running,91,180
+1998,C,1998_DieHard_200,2,12,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,200,25700,running,10,170
+1998,C,1998_DieHard_200,3,1,24,usa,Jack_Sprague,Jack Sprague,Team Hendrick,Rick_Hendrick,Chevrolet,200,21100,running,47,165
+1998,C,1998_DieHard_200,4,3,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,200,11525,running,0,160
+1998,C,1998_DieHard_200,5,17,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,200,12650,running,0,155
+1998,C,1998_DieHard_200,6,27,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,200,9800,running,0,150
+1998,C,1998_DieHard_200,7,5,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,200,8350,running,0,146
+1998,C,1998_DieHard_200,8,10,52,usa,Mike_Wallace,Mike Wallace,Purolator PureOne Filters,Ken_Schrader,Chevrolet,200,8150,running,0,142
+1998,C,1998_DieHard_200,9,28,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden Products,Charles_Hardy,Chevrolet,200,8050,running,5,138
+1998,C,1998_DieHard_200,10,24,18,usa,Butch_Miller,Butch Miller,Dana Corporation,Ron_Norick,Dodge,200,8825,running,0,134
+1998,C,1998_DieHard_200,11,23,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,200,7850,running,0,130
+1998,C,1998_DieHard_200,12,22,61,usa,Randy_Tolsma,Randy Tolsma,IWX Motor Freight,Steve_Coulter,Chevrolet,200,7850,running,1,127
+1998,C,1998_DieHard_200,13,5,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,200,7650,running,31,124
+1998,C,1998_DieHard_200,14,7,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,200,7550,running,15,121
+1998,C,1998_DieHard_200,15,15,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,200,7550,running,0,118
+1998,C,1998_DieHard_200,16,4,17,usa,Toby_Porter,Toby Porter,Tyler Jet Motorsports,Tim_Beverley,Chevrolet,200,5875,running,0,115
+1998,C,1998_DieHard_200,17,9,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,200,5925,running,0,112
+1998,C,1998_DieHard_200,18,30,55,usa,Tony_Roper,Tony Roper,Icehouse Beer,Tom_Gloy,Ford,200,6875,running,0,109
+1998,C,1998_DieHard_200,19,11,66,usa,Bryan_Reffner,Bryan Reffner,Carlin Burners & Controls,Dale_Phelon,Ford,200,6825,running,0,106
+1998,C,1998_DieHard_200,20,25,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,199,6250,running,0,103
+1998,C,1998_DieHard_200,21,21,29,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Ron_Keselowski,Dodge,199,5725,running,0,100
+1998,C,1998_DieHard_200,22,29,90,usa,Lance_Norick,Lance Norick,NHL,Ron_Norick,Dodge,199,5675,running,0,97
+1998,C,1998_DieHard_200,23,19,68,usa,Mike_Garvey,Mike Garvey,Metro Milwaukee Auto Auction,Jerry_Gunderman,Chevrolet,198,5625,running,0,94
+1998,C,1998_DieHard_200,24,8,15,usa,Scott_Hansen,Scott Hansen,Oshkosh Trucks / Neihus,Billy_Ballew,Ford,198,5575,running,0,91
+1998,C,1998_DieHard_200,25,32,84,usa,Wayne_Anderson_(1),Wayne Anderson,Porter-Cable Power Tools,Jim_Herrick,Ford,197,6550,running,0,88
+1998,C,1998_DieHard_200,26,31,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,197,6525,running,0,85
+1998,C,1998_DieHard_200,27,16,10,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",A & G Coal,Jerry_Wharton,Chevrolet,197,5550,running,0,82
+1998,C,1998_DieHard_200,28,20,26,canada,Randy_MacDonald,Randy MacDonald,Auto Trim Design Network,Mike_Mittler,Ford,196,5475,running,0,79
+1998,C,1998_DieHard_200,29,26,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,195,6450,running,0,76
+1998,C,1998_DieHard_200,30,33,57,usa,Rob_Morgan,Rob Morgan,Acxiom,Ed_Scherer,Ford,183,5450,running,0,73
+1998,C,1998_DieHard_200,31,34,78,usa,Dominic_Dobson,Dominic Dobson,MCI,Dominic_Dobson,Dodge,162,5450,engine,0,70
+1998,C,1998_DieHard_200,32,18,88,usa,Terry_Cook,Terry Cook,PBA Tour,Duke_Thorson,Chevrolet,144,5450,engine,0,67
+1998,C,1998_DieHard_200,33,14,31,usa,Kevin_Cywinski,Kevin Cywinski,Allied Signal / Bendix,Bob_Brevak,Ford,144,5450,engine,0,64
+1998,C,1998_DieHard_200,34,13,9,usa,Bob_Keselowski,Bob Keselowski,Mopar Performance,Ron_Keselowski,Dodge,120,6450,engine,0,61
+1998,C,1998_NAPA_Autocare_200,1,10,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,200,40250,running,151,180
+1998,C,1998_NAPA_Autocare_200,2,32,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,200,33750,running,0,170
+1998,C,1998_NAPA_Autocare_200,3,21,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,200,18400,running,0,165
+1998,C,1998_NAPA_Autocare_200,4,7,18,usa,Butch_Miller,Butch Miller,Dana Corporation,Ron_Norick,Dodge,200,11750,running,0,160
+1998,C,1998_NAPA_Autocare_200,5,22,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,200,10850,running,0,155
+1998,C,1998_NAPA_Autocare_200,6,4,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,200,8450,running,0,150
+1998,C,1998_NAPA_Autocare_200,7,5,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,200,8300,running,0,146
+1998,C,1998_NAPA_Autocare_200,8,33,66,usa,Bryan_Reffner,Bryan Reffner,Carlin Burners & Controls,Dale_Phelon,Ford,200,8250,running,0,142
+1998,C,1998_NAPA_Autocare_200,9,9,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,200,8175,running,0,138
+1998,C,1998_NAPA_Autocare_200,10,8,24,usa,Jack_Sprague,Jack Sprague,Team Hendrick,Rick_Hendrick,Chevrolet,199,9750,crash,0,134
+1998,C,1998_NAPA_Autocare_200,11,11,29,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Ron_Keselowski,Dodge,199,7075,running,0,130
+1998,C,1998_NAPA_Autocare_200,12,17,55,usa,Tony_Roper,Tony Roper,Icehouse Beer,Tom_Gloy,Ford,199,8025,running,0,127
+1998,C,1998_NAPA_Autocare_200,13,28,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,199,7725,running,0,124
+1998,C,1998_NAPA_Autocare_200,14,27,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,199,7925,running,7,121
+1998,C,1998_NAPA_Autocare_200,15,24,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,199,8375,running,0,118
+1998,C,1998_NAPA_Autocare_200,16,26,51,usa,Tammy_Jo_Kirk,Tammy Jo Kirk,Auto Value,Tammy_Jo_Kirk,Ford,199,6350,running,0,115
+1998,C,1998_NAPA_Autocare_200,17,31,11,usa,Ken_Bouchard,Ken Bouchard,Loadhandler / Nicklaus Golf,Phil_Bonifield,Chevrolet,199,6300,running,0,112
+1998,C,1998_NAPA_Autocare_200,18,19,61,usa,Randy_Tolsma,Randy Tolsma,IWX Motor Freight,Steve_Coulter,Chevrolet,199,7250,running,0,109
+1998,C,1998_NAPA_Autocare_200,19,18,06,canada,Randy_MacDonald,Randy MacDonald,Greenfield,Dick_Greenfield,Dodge,198,6200,running,0,106
+1998,C,1998_NAPA_Autocare_200,20,23,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden Products,Charles_Hardy,Chevrolet,195,7375,running,0,103
+1998,C,1998_NAPA_Autocare_200,21,13,90,usa,Lance_Norick,Lance Norick,NHL,Ron_Norick,Dodge,181,6125,crash,0,100
+1998,C,1998_NAPA_Autocare_200,22,18,52,usa,Mike_Wallace,Mike Wallace,Purolator PureOne Filters,Ken_Schrader,Chevrolet,174,7100,engine,0,97
+1998,C,1998_NAPA_Autocare_200,23,25,10,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",A & G Coal,Jerry_Wharton,Chevrolet,172,6075,crash,0,94
+1998,C,1998_NAPA_Autocare_200,24,14,7,usa,Barry_Bodine,Barry Bodine,Prime Performance,Jim_Clark_(2),Chevrolet,169,6050,engine,0,91
+1998,C,1998_NAPA_Autocare_200,25,1,2,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,145,8725,crash,42,88
+1998,C,1998_NAPA_Autocare_200,26,30,84,usa,Wayne_Anderson_(1),Wayne Anderson,Porter-Cable Power Tools,Jim_Herrick,Ford,141,6000,engine,0,85
+1998,C,1998_NAPA_Autocare_200,27,15,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,121,6975,running,0,82
+1998,C,1998_NAPA_Autocare_200,28,35,00,usa,Ryan_McGlynn,Ryan McGlynn,Buyers Choice,Raynard_McGlynn,Chevrolet,112,5950,transmission,0,79
+1998,C,1998_NAPA_Autocare_200,29,2,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,98,6925,crash,0,76
+1998,C,1998_NAPA_Autocare_200,30,12,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,90,6900,crash,0,73
+1998,C,1998_NAPA_Autocare_200,31,29,48,canada,Ron_Fellows,Ron Fellows,AER Manufacturing,Billy_Hess,Chevrolet,82,5875,crash,0,70
+1998,C,1998_NAPA_Autocare_200,32,20,31,usa,Kevin_Cywinski,Kevin Cywinski,Auto Trim Design,Bob_Brevak,Ford,63,5875,crash,0,67
+1998,C,1998_NAPA_Autocare_200,33,3,78,usa,Dominic_Dobson,Dominic Dobson,MCI,Dominic_Dobson,Dodge,50,5875,crash,0,64
+1998,C,1998_NAPA_Autocare_200,34,6,88,usa,Terry_Cook,Terry Cook,PBA Tour,Duke_Thorson,Chevrolet,22,5875,crash,0,61
+1998,C,1998_NAPA_Autocare_200,35,34,57,usa,Rob_Morgan,Rob Morgan,Acxiom,Ed_Scherer,Ford,17,5825,crash,0,58
+1998,C,1998_The_No_Fear_Challenge,1,12,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,100,42775,running,26,180
+1998,C,1998_The_No_Fear_Challenge,2,20,28,usa,Ernie_Irvan,Ernie Irvan,Federated Auto Parts / 1-800-Collect,Mark_Simo,Ford,100,28775,running,0,170
+1998,C,1998_The_No_Fear_Challenge,3,7,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,100,22175,running,45,165
+1998,C,1998_The_No_Fear_Challenge,4,1,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,100,14950,running,13,160
+1998,C,1998_The_No_Fear_Challenge,5,8,5,usa,Mike_Skinner,Mike Skinner,Llumar Window Films,Mike_Skinner,Chevrolet,100,11050,running,4,155
+1998,C,1998_The_No_Fear_Challenge,6,2,61,usa,Randy_Tolsma,Randy Tolsma,IWX Motor Freight,Steve_Coulter,Chevrolet,100,9050,running,8,150
+1998,C,1998_The_No_Fear_Challenge,7,5,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,100,9100,running,3,146
+1998,C,1998_The_No_Fear_Challenge,8,13,44,usa,Boris_Said,Boris Said,Federated Auto Parts / 1-800-Collect,Mark_Simo,Ford,100,8650,running,0,142
+1998,C,1998_The_No_Fear_Challenge,9,9,2,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,100,8350,running,0,138
+1998,C,1998_The_No_Fear_Challenge,10,23,18,usa,Butch_Miller,Butch Miller,Dana Corporation,Ron_Norick,Dodge,100,9025,running,0,134
+1998,C,1998_The_No_Fear_Challenge,11,15,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,100,8100,running,0,130
+1998,C,1998_The_No_Fear_Challenge,12,19,52,usa,Mike_Wallace,Mike Wallace,Purolator PureOne Filters,Ken_Schrader,Chevrolet,100,7925,running,0,127
+1998,C,1998_The_No_Fear_Challenge,13,32,66,usa,Bryan_Reffner,Bryan Reffner,Carlin Burners & Controls,Dale_Phelon,Ford,100,7875,running,0,124
+1998,C,1998_The_No_Fear_Challenge,14,14,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,100,7825,running,0,121
+1998,C,1998_The_No_Fear_Challenge,15,33,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,100,8075,running,0,118
+1998,C,1998_The_No_Fear_Challenge,16,11,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,100,7600,running,0,115
+1998,C,1998_The_No_Fear_Challenge,17,26,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,100,7475,running,0,112
+1998,C,1998_The_No_Fear_Challenge,18,24,55,usa,Tony_Roper,Tony Roper,Icehouse Beer,Tom_Gloy,Ford,100,7450,running,0,109
+1998,C,1998_The_No_Fear_Challenge,19,22,88,usa,Terry_Cook,Terry Cook,PBA Tour,Duke_Thorson,Chevrolet,100,6425,running,0,106
+1998,C,1998_The_No_Fear_Challenge,20,25,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,100,7625,running,0,103
+1998,C,1998_The_No_Fear_Challenge,21,34,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,100,6300,running,0,100
+1998,C,1998_The_No_Fear_Challenge,22,36,57,usa,Matt_Hutter,Matt Hutter,Acxiom,Ed_Scherer,Ford,100,6275,running,0,97
+1998,C,1998_The_No_Fear_Challenge,23,29,31,usa,Kevin_Cywinski,Kevin Cywinski,Auto Trim Design,Bob_Brevak,Ford,100,6250,running,0,94
+1998,C,1998_The_No_Fear_Challenge,24,10,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,99,7225,running,0,91
+1998,C,1998_The_No_Fear_Challenge,25,17,29,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Ron_Keselowski,Dodge,99,6200,running,0,88
+1998,C,1998_The_No_Fear_Challenge,26,28,81,usa,Jerry_Glanville,Jerry Glanville,Unifirst Uniforms / HBO Sports,Jerry_Glanville,Ford,97,6175,running,0,85
+1998,C,1998_The_No_Fear_Challenge,27,16,90,usa,Lance_Norick,Lance Norick,NHL,Ron_Norick,Dodge,97,6150,running,0,82
+1998,C,1998_The_No_Fear_Challenge,28,21,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden Products,Charles_Hardy,Chevrolet,97,7125,running,0,79
+1998,C,1998_The_No_Fear_Challenge,29,3,10,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",A & G Coal,Jerry_Wharton,Chevrolet,76,6100,engine,0,76
+1998,C,1998_The_No_Fear_Challenge,30,6,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,64,7075,engine,1,73
+1998,C,1998_The_No_Fear_Challenge,31,31,1,usa,Michael_Waltrip,Michael Waltrip,Band-Aid,Michael_Waltrip,Ford,56,6050,engine,0,70
+1998,C,1998_The_No_Fear_Challenge,32,27,51,usa,Tammy_Jo_Kirk,Tammy Jo Kirk,Pilot Light / Auto Value,Tammy_Jo_Kirk,Ford,52,6050,engine,0,67
+1998,C,1998_The_No_Fear_Challenge,33,4,78,usa,Randy_Renfrow,Randy Renfrow,MCI / Mopar,Dominic_Dobson,Dodge,41,6050,transmission,0,64
+1998,C,1998_The_No_Fear_Challenge,34,35,84,usa,Wayne_Anderson_(1),Wayne Anderson,Porter-Cable Power Tools,Jim_Herrick,Ford,26,6050,engine,0,61
+1998,C,1998_The_No_Fear_Challenge,35,18,7,usa,Barry_Bodine,Barry Bodine,Prime Performance,Jim_Clark_(2),Chevrolet,24,6050,engine,0,58
+1998,C,1998_The_No_Fear_Challenge,36,30,9,usa,David_Starr,David Starr,My Favorite Oranges / CNG Engines,Buddy_Morrison,Chevrolet,22,6050,transmission,0,55
+1998,C,1998_Tempus_Resorts_300K,1,6,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,198,34825,running,97,180
+1998,C,1998_Tempus_Resorts_300K,2,16,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,198,23575,running,0,170
+1998,C,1998_Tempus_Resorts_300K,3,8,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,198,20575,running,0,165
+1998,C,1998_Tempus_Resorts_300K,4,13,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,198,12725,running,0,160
+1998,C,1998_Tempus_Resorts_300K,5,21,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,198,12825,running,19,155
+1998,C,1998_Tempus_Resorts_300K,6,1,2,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,198,12725,running,55,150
+1998,C,1998_Tempus_Resorts_300K,7,10,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,198,8875,running,0,146
+1998,C,1998_Tempus_Resorts_300K,8,11,29,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Ron_Keselowski,Dodge,198,7825,running,0,142
+1998,C,1998_Tempus_Resorts_300K,9,12,61,usa,Randy_Tolsma,Randy Tolsma,IWX Motor Freight,Steve_Coulter,Chevrolet,198,8750,running,0,138
+1998,C,1998_Tempus_Resorts_300K,10,23,55,usa,Tony_Roper,Tony Roper,Icehouse Beer,Tom_Gloy,Ford,198,8700,running,0,134
+1998,C,1998_Tempus_Resorts_300K,11,26,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,198,8900,running,0,130
+1998,C,1998_Tempus_Resorts_300K,12,27,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,198,8350,running,0,127
+1998,C,1998_Tempus_Resorts_300K,13,5,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden Products,Charles_Hardy,Chevrolet,198,8550,running,0,124
+1998,C,1998_Tempus_Resorts_300K,14,4,7,usa,Barry_Bodine,Barry Bodine,Tempus Resorts,Jim_Clark_(2),Chevrolet,198,7500,running,0,121
+1998,C,1998_Tempus_Resorts_300K,15,15,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,198,8700,running,0,118
+1998,C,1998_Tempus_Resorts_300K,16,28,18,usa,Butch_Miller,Butch Miller,Dana Corporation,Ron_Norick,Dodge,198,7925,running,0,115
+1998,C,1998_Tempus_Resorts_300K,17,24,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,197,8125,running,0,112
+1998,C,1998_Tempus_Resorts_300K,18,9,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,197,7825,running,0,109
+1998,C,1998_Tempus_Resorts_300K,19,18,31,usa,Kevin_Cywinski,Kevin Cywinski,Concor Tool & Machine,Bob_Brevak,Ford,197,6775,running,0,106
+1998,C,1998_Tempus_Resorts_300K,20,22,10,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",A & G Coal,Jerry_Wharton,Chevrolet,196,6950,running,0,103
+1998,C,1998_Tempus_Resorts_300K,21,30,90,usa,Lance_Norick,Lance Norick,NHL,Ron_Norick,Dodge,196,6700,running,5,100
+1998,C,1998_Tempus_Resorts_300K,22,25,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,195,7675,running,0,97
+1998,C,1998_Tempus_Resorts_300K,23,3,88,usa,Terry_Cook,Terry Cook,PBA Tour,Duke_Thorson,Chevrolet,194,6650,engine,0,94
+1998,C,1998_Tempus_Resorts_300K,24,17,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,194,7625,running,0,91
+1998,C,1998_Tempus_Resorts_300K,25,29,84,usa,Wayne_Anderson_(1),Wayne Anderson,Porter-Cable Power Tools,Jim_Herrick,Ford,194,6600,running,0,88
+1998,C,1998_Tempus_Resorts_300K,26,32,57,usa,Rob_Morgan,Rob Morgan,Acxiom,Ed_Scherer,Ford,193,6575,running,0,85
+1998,C,1998_Tempus_Resorts_300K,27,14,78,usa,Randy_Renfrow,Randy Renfrow,MCI,Dominic_Dobson,Dodge,190,6550,fuel,10,82
+1998,C,1998_Tempus_Resorts_300K,28,33,58,usa,Chris_Horn,Chris Horn,Horn Automotive,Fred_Horn,Chevrolet,185,6525,running,0,79
+1998,C,1998_Tempus_Resorts_300K,29,19,66,usa,Bryan_Reffner,Bryan Reffner,Carlin Burners & Controls,Dale_Phelon,Ford,184,7475,crash,0,76
+1998,C,1998_Tempus_Resorts_300K,30,2,52,usa,Mike_Wallace,Mike Wallace,Purolator PureOne Filters,Ken_Schrader,Chevrolet,180,7450,running,12,73
+1998,C,1998_Tempus_Resorts_300K,31,7,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,174,8425,running,0,70
+1998,C,1998_Tempus_Resorts_300K,32,36,41,usa,Terry_Fisher,Terry Fisher,Synergy / Dallas Mack,Mike_Farris,Chevrolet,150,6425,engine,0,67
+1998,C,1998_Tempus_Resorts_300K,33,35,20,usa,Brendan_Gaughan,Brendan Gaughan,Orleans Hotel & Casino,Walker_Evans,Chevrolet,131,6425,brakes,0,64
+1998,C,1998_Tempus_Resorts_300K,34,20,51,usa,Tammy_Jo_Kirk,Tammy Jo Kirk,Pilot Light / Auto Value,Tammy_Jo_Kirk,Ford,18,6425,crash,0,61
+1998,C,1998_Tempus_Resorts_300K,35,31,48,canada,Ron_Fellows,Ron Fellows,AER Manufacturing,Billy_Hess,Chevrolet,18,6425,crash,0,58
+1998,C,1998_Tempus_Resorts_300K,36,34,81,usa,Jerry_Glanville,Jerry Glanville,Unifirst Uniforms / HBO Sports,Jerry_Glanville,Ford,18,6425,crash,0,55
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,1,3,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,200,37955,running,87,180
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,2,19,55,usa,Tony_Roper,Tony Roper,Icehouse Beer,Tom_Gloy,Ford,200,20305,running,0,170
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,3,6,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,200,18145,running,0,165
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,4,13,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,200,11945,running,0,160
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,5,16,10,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",Ohio State University,Jerry_Wharton,Chevrolet,200,10620,running,21,155
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,6,1,61,usa,Randy_Tolsma,Randy Tolsma,IWX Motor Freight,Steve_Coulter,Chevrolet,200,9070,running,4,150
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,7,14,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,200,8720,running,0,146
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,8,15,29,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Ron_Keselowski,Dodge,200,6795,running,0,142
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,9,10,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden Products,Charles_Hardy,Chevrolet,200,7720,running,8,138
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,10,7,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,200,8795,running,0,134
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,11,9,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,200,7470,running,0,130
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,12,18,66,usa,Bryan_Reffner,Bryan Reffner,Carlin Burners & Controls,Dale_Phelon,Ford,200,7420,running,0,127
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,13,17,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,200,7370,running,0,124
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,14,4,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,200,9320,running,17,121
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,15,24,18,usa,Butch_Miller,Butch Miller,Dana Corporation,Ron_Norick,Dodge,200,7395,running,0,118
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,16,27,78,usa,Randy_Renfrow,Randy Renfrow,MCI,Dominic_Dobson,Dodge,200,6220,running,0,115
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,17,30,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,200,7170,running,0,112
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,18,22,84,usa,Wayne_Anderson_(1),Wayne Anderson,Porter-Cable Power Tools,Jim_Herrick,Ford,200,6370,running,0,109
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,19,11,85,usa,B_A_Wilson,B.A. Wilson,ICSE Controls,B.A._Wilson,Ford,200,6070,running,0,106
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,20,26,88,usa,Terry_Cook,Terry Cook,PBA Tour,Duke_Thorson,Chevrolet,199,6245,running,0,103
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,21,33,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,198,5970,running,0,100
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,22,32,31,usa,Kevin_Cywinski,Kevin Cywinski,Concor Tool & Machine,Bob_Brevak,Ford,198,5920,running,0,97
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,23,28,26,canada,Randy_MacDonald,Randy MacDonald,Auto Trim Design Network,Mike_Mittler,Ford,198,5870,running,0,94
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,24,20,57,usa,Scott_Hansen,Scott Hansen,Victor Ford / Ballew,Ed_Scherer,Ford,198,5820,running,0,91
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,25,21,77,usa,Gary_St_Amant,Gary St. Amant,Mokart Indoor Karting,Kevin_Doran,Chevrolet,197,5795,running,0,88
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,26,31,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,194,6745,running,0,85
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,27,5,2,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,193,6720,running,0,82
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,28,2,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,188,8695,running,63,79
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,29,34,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,177,6670,running,0,76
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,30,25,9,usa,Blake_Bainbridge,Blake Bainbridge,Burke Automotive Group,Wilbur_Bunce,Chevrolet,170,5670,running,0,73
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,31,23,51,usa,Tammy_Jo_Kirk,Tammy Jo Kirk,Auto Value,Tammy_Jo_Kirk,Ford,147,5670,engine,0,70
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,32,29,90,usa,Lance_Norick,Lance Norick,NHL,Ron_Norick,Dodge,147,5670,running,0,67
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,33,8,52,usa,Mike_Wallace,Mike Wallace,Purolator PureOne Filters,Ken_Schrader,Chevrolet,134,6670,engine,0,64
+1998,C,1998_Cummins_200_Presented_by_the_Indiana_Dodge_Dealers,34,12,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,98,6670,engine,0,61
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,1,7,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,200,44575,running,56,180
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,2,6,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,200,26925,running,35,170
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,3,3,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,200,19625,running,28,165
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,4,8,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden / New Holland,Charles_Hardy,Chevrolet,200,12975,running,14,160
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,5,14,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,200,9575,running,0,155
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,6,13,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,200,8025,running,0,150
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,7,9,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,200,7525,running,0,146
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,8,2,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,200,8475,running,0,142
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,9,11,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,200,7375,running,3,138
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,10,4,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,200,9050,running,48,134
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,11,5,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,200,7275,running,0,130
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,12,22,88,usa,Terry_Cook,Terry Cook,PBA Tour,Duke_Thorson,Chevrolet,200,6225,running,0,127
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,13,10,10,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",A & G Coal,Jerry_Wharton,Chevrolet,200,6175,running,0,124
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,14,1,52,usa,Mike_Wallace,Mike Wallace,Purolator PureOne Filters / VIP Auto,Ken_Schrader,Chevrolet,200,7825,running,7,121
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,15,16,2,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,199,7325,running,0,118
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,16,28,29,usa,Bob_Keselowski,Bob Keselowski,Mopar Performance,Ron_Keselowski,Dodge,199,6000,running,0,115
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,17,26,57,usa,Nathan_Buttke,Nathan Buttke,CSG Motorsports,Ed_Scherer,Ford,199,5925,running,0,112
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,18,30,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,199,5875,running,0,109
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,19,21,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,199,6825,running,0,106
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,20,29,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,199,7000,running,0,103
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,21,32,7,usa,Barry_Bodine,Barry Bodine,Prime Performance,Jim_Clark_(2),Chevrolet,199,5750,running,0,100
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,22,12,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,199,6725,running,0,97
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,23,27,84,usa,Wayne_Anderson_(1),Wayne Anderson,Porter-Cable Power Tools,Jim_Herrick,Ford,199,5700,running,0,94
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,24,15,31,usa,Kevin_Cywinski,Kevin Cywinski,Concor Tool & Machine,Bob_Brevak,Ford,197,5425,running,0,91
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,25,17,61,usa,Randy_Tolsma,Randy Tolsma,IWX Motor Freight,Steve_Coulter,Chevrolet,195,6400,running,0,88
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,26,35,69,usa,Jeff_Spraker,Jeff Spraker,National Parts Peddler,Jeff_Spraker,Chevrolet,192,5375,running,0,85
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,27,23,42,usa,Rick_McCray,Rick McCray,Sylvania Brilliant Light,Rick_McCray,Chevrolet,192,5350,running,0,82
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,28,31,90,usa,Lance_Norick,Lance Norick,NHL / Dana Corporation,Ron_Norick,Dodge,189,5325,running,0,79
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,29,34,00,usa,Ryan_McGlynn,Ryan McGlynn,Buyers Choice / Howes Lubricants,Raynard_McGlynn,Chevrolet,188,5300,running,0,76
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,30,25,18,usa,Butch_Miller,Butch Miller,Spicer / Dana Corporation,Ron_Norick,Dodge,138,6275,fuel pump,0,73
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,31,18,66,usa,Bryan_Reffner,Bryan Reffner,Carlin Burners & Controls,Dale_Phelon,Ford,118,6250,engine,0,70
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,32,36,78,usa,Randy_Renfrow,Randy Renfrow,MCI,Dominic_Dobson,Dodge,91,5250,crash,9,67
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,33,33,97,usa,Tim_Boulton,Tim Boulton,Tow Times Magazine,Marion_Lawson,Chevrolet,70,5250,handling,0,64
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,34,20,51,usa,Tammy_Jo_Kirk,Tammy Jo Kirk,Auto Value,Tammy_Jo_Kirk,Ford,69,5250,rear end,0,61
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,35,24,40,usa,Mike_Ewanitsko,Mike Ewanitsko,Long Island Motorsports,Joe_Ambrose,Chevrolet,31,5250,engine,0,58
+1998,C,1998_Pennzoil_VIP_Auto_Discount_Tripleheader,36,19,55,usa,Tony_Roper,Tony Roper,Icehouse Beer,Tom_Gloy,Ford,2,6250,crash,0,55
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,1,4,88,usa,Terry_Cook,Terry Cook,PBA Tour,Duke_Thorson,Chevrolet,200,39300,running,34,180
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,2,10,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,200,21235,running,0,170
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,3,3,66,usa,Bryan_Reffner,Bryan Reffner,Carlin Burners & Controls,Dale_Phelon,Ford,200,17575,running,0,165
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,4,15,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,200,14475,running,0,160
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,5,7,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,200,9925,running,0,155
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,6,14,06,usa,Billy_Pauch,Billy Pauch,MCI,Dick_Greenfield,Dodge,200,7200,running,0,150
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,7,20,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden Products,Charles_Hardy,Chevrolet,200,7975,running,0,146
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,8,9,09,canada,Randy_MacDonald,Randy MacDonald,Greenfield,Dick_Greenfield,Dodge,200,6825,running,0,142
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,9,12,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,200,7775,running,0,138
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,10,27,52,usa,Mike_Wallace,Mike Wallace,Purolator PureOne Filters,Ken_Schrader,Chevrolet,200,8950,running,0,134
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,11,18,29,usa,Bob_Keselowski,Bob Keselowski,Mopar Performance,Ron_Keselowski,Dodge,200,6675,running,0,130
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,12,8,2,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,200,7625,running,0,127
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,13,26,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,200,7575,running,0,124
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,14,28,55,usa,Tony_Roper,Tony Roper,Icehouse Beer,Tom_Gloy,Ford,200,7525,running,0,121
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,15,11,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,200,7825,running,0,118
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,16,17,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,200,7175,running,0,115
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,17,6,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,200,7250,running,0,112
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,18,2,31,usa,Kevin_Cywinski,Kevin Cywinski,Concor Tool & Machine,Bob_Brevak,Ford,199,6825,running,0,109
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,19,30,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,199,6025,running,0,106
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,20,21,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,198,7450,running,0,103
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,21,24,18,usa,Butch_Miller,Butch Miller,Dana Corporation,Ron_Norick,Dodge,198,6900,running,0,100
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,22,29,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,198,6850,running,0,97
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,23,25,7,usa,Barry_Bodine,Barry Bodine,Prime Performance,Jim_Clark_(2),Chevrolet,196,5800,running,0,94
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,24,13,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,196,6750,running,0,91
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,25,5,32,usa,Curtis_Markham,Curtis Markham,Active Truck Team,Joe_Horner,Chevrolet,196,5725,running,0,88
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,26,19,61,usa,Randy_Tolsma,Randy Tolsma,IWX Motor Freight,Steve_Coulter,Chevrolet,181,6725,ignition,0,85
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,27,22,10,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",Ohio State University,Jerry_Wharton,Chevrolet,170,5725,running,0,82
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,28,1,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,166,8425,crash,166,79
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,29,16,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,63,7725,crash,0,76
+1998,C,1998_Stevens_Beil_Genuine_Car_Parts_200,30,23,84,usa,Wayne_Anderson_(1),Wayne Anderson,Porter-Cable Power Tools,Jim_Herrick,Ford,8,5725,crash,0,73
+1998,C,1998_Federated_Auto_Parts_250,1,30,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,250,38905,running,74,180
+1998,C,1998_Federated_Auto_Parts_250,2,17,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,250,21505,running,3,170
+1998,C,1998_Federated_Auto_Parts_250,3,3,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,250,18745,running,0,165
+1998,C,1998_Federated_Auto_Parts_250,4,2,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,250,13945,running,21,160
+1998,C,1998_Federated_Auto_Parts_250,5,16,52,usa,Mike_Wallace,Mike Wallace,Purolator PureOne Filters,Ken_Schrader,Chevrolet,250,10595,running,0,155
+1998,C,1998_Federated_Auto_Parts_250,6,8,61,usa,Randy_Tolsma,Randy Tolsma,IWX Motor Freight,Steve_Coulter,Chevrolet,250,7295,running,0,150
+1998,C,1998_Federated_Auto_Parts_250,7,27,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,250,7295,running,3,146
+1998,C,1998_Federated_Auto_Parts_250,8,15,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,250,7495,running,0,142
+1998,C,1998_Federated_Auto_Parts_250,9,11,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,250,7145,running,0,138
+1998,C,1998_Federated_Auto_Parts_250,10,12,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden Products,Charles_Hardy,Chevrolet,250,8220,running,3,134
+1998,C,1998_Federated_Auto_Parts_250,11,5,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,250,7895,running,13,130
+1998,C,1998_Federated_Auto_Parts_250,12,1,2,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,250,9070,running,80,127
+1998,C,1998_Federated_Auto_Parts_250,13,25,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,250,6795,running,19,124
+1998,C,1998_Federated_Auto_Parts_250,14,4,66,usa,Bryan_Reffner,Bryan Reffner,Carlin Burners & Controls,Dale_Phelon,Ford,250,6770,running,0,121
+1998,C,1998_Federated_Auto_Parts_250,15,20,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,249,9045,running,34,118
+1998,C,1998_Federated_Auto_Parts_250,16,29,29,usa,Bob_Keselowski,Bob Keselowski,Mopar Performance,Ron_Keselowski,Dodge,249,5645,running,0,115
+1998,C,1998_Federated_Auto_Parts_250,17,6,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,249,6595,running,0,112
+1998,C,1998_Federated_Auto_Parts_250,18,33,84,usa,Wayne_Anderson_(1),Wayne Anderson,Porter-Cable Power Tools,Jim_Herrick,Ford,249,5545,running,0,109
+1998,C,1998_Federated_Auto_Parts_250,19,13,33,usa,Shayne_Lockhart,Shayne Lockhart,Token Racing,Kenneth_Brown,Chevrolet,249,5495,running,0,106
+1998,C,1998_Federated_Auto_Parts_250,20,28,31,usa,Kevin_Cywinski,Kevin Cywinski,Concor Tool & Machine,Bob_Brevak,Ford,249,5570,running,0,103
+1998,C,1998_Federated_Auto_Parts_250,21,7,55,usa,Tony_Roper,Tony Roper,Icehouse Beer,Tom_Gloy,Ford,249,6270,running,0,100
+1998,C,1998_Federated_Auto_Parts_250,22,19,90,usa,Lance_Norick,Lance Norick,NHL,Ron_Norick,Dodge,248,5220,running,0,97
+1998,C,1998_Federated_Auto_Parts_250,23,14,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,247,6170,running,0,94
+1998,C,1998_Federated_Auto_Parts_250,24,10,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,234,6120,running,0,91
+1998,C,1998_Federated_Auto_Parts_250,25,22,88,usa,Terry_Cook,Terry Cook,PBA Tour,Duke_Thorson,Chevrolet,213,5095,crash,0,88
+1998,C,1998_Federated_Auto_Parts_250,26,24,51,usa,Tammy_Jo_Kirk,Tammy Jo Kirk,Auto Value,Tammy_Jo_Kirk,Ford,182,5045,engine,0,85
+1998,C,1998_Federated_Auto_Parts_250,27,32,75,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",A & G Coal,Wayne_Spears,Chevrolet,153,5020,crash,0,82
+1998,C,1998_Federated_Auto_Parts_250,28,31,18,usa,Butch_Miller,Butch Miller,Dana Corporation,Ron_Norick,Dodge,118,5995,engine,0,79
+1998,C,1998_Federated_Auto_Parts_250,29,21,78,usa,Randy_Renfrow,Randy Renfrow,MCI,Dominic_Dobson,Dodge,104,4970,crash,0,76
+1998,C,1998_Federated_Auto_Parts_250,30,9,85,usa,B_A_Wilson,B.A. Wilson,Barker Cable TV,B.A._Wilson,Ford,104,4970,crash,0,73
+1998,C,1998_Federated_Auto_Parts_250,31,23,1,usa,Dave_Mader_III,Dave Mader III,Raynor Garage Doors,Marty_Walsh,Ford,95,4970,engine,0,70
+1998,C,1998_Federated_Auto_Parts_250,32,17,70,usa,Joe_Buford,Joe Buford,Easy Care / Town & Country,James_Buford,Ford,75,4970,engine,0,67
+1998,C,1998_Federated_Auto_Parts_250,33,34,7,usa,Barry_Bodine,Barry Bodine,Prime Performance,Jim_Clark_(2),Chevrolet,68,4970,crash,0,64
+1998,C,1998_Federated_Auto_Parts_250,34,26,9,usa,Blake_Bainbridge,Blake Bainbridge,Burke Automotive Group,Wilbur_Bunce,Chevrolet,67,4970,crash,0,61
+1998,C,1998_Lund_Look_275K,1,8,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,81,41430,running,7,180
+1998,C,1998_Lund_Look_275K,2,6,88,usa,Terry_Cook,Terry Cook,PBA Tour,Duke_Thorson,Chevrolet,81,26980,running,0,170
+1998,C,1998_Lund_Look_275K,3,20,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,81,16870,running,0,165
+1998,C,1998_Lund_Look_275K,4,12,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,81,12170,running,0,160
+1998,C,1998_Lund_Look_275K,5,21,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,81,10320,running,0,155
+1998,C,1998_Lund_Look_275K,6,16,18,usa,Butch_Miller,Butch Miller,Dana Corporation,Ron_Norick,Dodge,81,8220,running,0,150
+1998,C,1998_Lund_Look_275K,7,18,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,81,7970,running,0,146
+1998,C,1998_Lund_Look_275K,8,10,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,81,7670,running,0,142
+1998,C,1998_Lund_Look_275K,9,9,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,81,7570,running,0,138
+1998,C,1998_Lund_Look_275K,10,19,29,usa,Bob_Keselowski,Bob Keselowski,Mopar Performance,Ron_Keselowski,Dodge,81,7845,running,2,134
+1998,C,1998_Lund_Look_275K,11,32,31,usa,Kevin_Cywinski,Kevin Cywinski,Concor Tool & Machine,Bob_Brevak,Ford,81,7070,running,0,130
+1998,C,1998_Lund_Look_275K,12,27,84,usa,Wayne_Anderson_(1),Wayne Anderson,Porter-Cable Power Tools,Jim_Herrick,Ford,81,6520,running,0,127
+1998,C,1998_Lund_Look_275K,13,23,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,81,7220,running,0,124
+1998,C,1998_Lund_Look_275K,14,3,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,81,7170,running,2,121
+1998,C,1998_Lund_Look_275K,15,14,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,80,7470,running,0,118
+1998,C,1998_Lund_Look_275K,16,24,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden Products,Charles_Hardy,Chevrolet,80,7070,running,0,115
+1998,C,1998_Lund_Look_275K,17,34,58,usa,Chris_Horn,Chris Horn,Horn Automotive,Fred_Horn,Chevrolet,79,6020,running,0,112
+1998,C,1998_Lund_Look_275K,18,2,66,usa,Tom_Hubert,Tom Hubert,Carlin Burners & Controls,Dale_Phelon,Ford,78,9470,engine,35,109
+1998,C,1998_Lund_Look_275K,19,25,90,usa,Lance_Norick,Lance Norick,NHL,Ron_Norick,Dodge,78,5945,running,0,106
+1998,C,1998_Lund_Look_275K,20,5,2,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,74,7045,engine,19,103
+1998,C,1998_Lund_Look_275K,21,11,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,73,6795,running,0,100
+1998,C,1998_Lund_Look_275K,22,1,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,72,6470,rear end,16,97
+1998,C,1998_Lund_Look_275K,23,26,78,usa,Dominic_Dobson,Dominic Dobson,MCI,Dominic_Dobson,Dodge,70,5745,running,0,94
+1998,C,1998_Lund_Look_275K,24,28,55,usa,Tony_Roper,Tony Roper,Icehouse Beer,Tom_Gloy,Ford,68,6720,running,0,91
+1998,C,1998_Lund_Look_275K,25,17,61,usa,Randy_Tolsma,Randy Tolsma,IWX Motor Freight,Steve_Coulter,Chevrolet,67,6695,crash,0,88
+1998,C,1998_Lund_Look_275K,26,33,26,canada,Randy_MacDonald,Randy MacDonald,Auto Trim Design Network,Mike_Mittler,Ford,66,6645,running,0,85
+1998,C,1998_Lund_Look_275K,27,7,52,usa,Mike_Wallace,Mike Wallace,Purolator PureOne Filters,Ken_Schrader,Chevrolet,50,6620,rear end,0,82
+1998,C,1998_Lund_Look_275K,28,13,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,46,5595,engine,0,79
+1998,C,1998_Lund_Look_275K,29,29,42,usa,Rick_McCray,Rick McCray,McCray Racing,Rick_McCray,Chevrolet,38,5570,engine,0,76
+1998,C,1998_Lund_Look_275K,30,15,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,35,6570,transmission,0,73
+1998,C,1998_Lund_Look_275K,31,4,48,canada,Ron_Fellows,Ron Fellows,AER Manufacturing,Billy_Hess,Chevrolet,16,5570,transmission,0,70
+1998,C,1998_Lund_Look_275K,32,22,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,10,6570,engine,0,67
+1998,C,1998_Lund_Look_275K,33,31,10,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",IWX Motor Freight,Jerry_Wharton,Chevrolet,4,5570,ignition,0,64
+1998,C,1998_Lund_Look_275K,34,30,98,usa,Bryan_Reffner,Bryan Reffner,Porter-Cable Power Tools,Jim_Herrick,Ford,2,6570,handling,0,61
+1998,C,1998_Kroger_225,1,6,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,225,35050,running,10,180
+1998,C,1998_Kroger_225,2,4,2,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,225,29975,running,207,170
+1998,C,1998_Kroger_225,3,3,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,225,19375,running,0,165
+1998,C,1998_Kroger_225,4,7,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,225,14075,running,0,160
+1998,C,1998_Kroger_225,5,1,88,usa,Terry_Cook,Terry Cook,PBA Tour,Duke_Thorson,Chevrolet,225,10375,running,8,155
+1998,C,1998_Kroger_225,6,8,55,usa,Tony_Roper,Tony Roper,Icehouse Beer,Tom_Gloy,Ford,225,7675,running,0,150
+1998,C,1998_Kroger_225,7,14,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,225,7400,running,0,146
+1998,C,1998_Kroger_225,8,5,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,225,7450,running,0,142
+1998,C,1998_Kroger_225,9,13,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,225,8300,running,0,138
+1998,C,1998_Kroger_225,10,12,52,usa,Mike_Wallace,Mike Wallace,Purolator PureOne Filters,Ken_Schrader,Chevrolet,225,8350,running,0,134
+1998,C,1998_Kroger_225,11,28,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden Products,Charles_Hardy,Chevrolet,225,7200,running,0,130
+1998,C,1998_Kroger_225,12,15,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,224,7125,running,0,127
+1998,C,1998_Kroger_225,13,2,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,224,7100,running,0,124
+1998,C,1998_Kroger_225,14,20,18,usa,Butch_Miller,Butch Miller,Dana Corporation,Ron_Norick,Dodge,224,7025,running,0,121
+1998,C,1998_Kroger_225,15,19,26,usa,Bryan_Reffner,Bryan Reffner,Auto Trim Design Network,Mike_Mittler,Ford,223,7375,running,0,118
+1998,C,1998_Kroger_225,16,25,10,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",IWX Motor Freight,Jerry_Wharton,Chevrolet,222,5775,running,0,115
+1998,C,1998_Kroger_225,17,18,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,222,6755,running,0,112
+1998,C,1998_Kroger_225,18,22,78,usa,Randy_Renfrow,Randy Renfrow,MCI,Dominic_Dobson,Dodge,222,5675,running,0,109
+1998,C,1998_Kroger_225,19,29,90,usa,Lance_Norick,Lance Norick,NHL,Ron_Norick,Dodge,222,5655,running,0,106
+1998,C,1998_Kroger_225,20,9,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,221,6900,running,0,103
+1998,C,1998_Kroger_225,21,30,66,usa,Tom_Hubert,Tom Hubert,Carlin Burners & Controls,Dale_Phelon,Ford,221,5525,running,0,100
+1998,C,1998_Kroger_225,22,23,61,usa,Randy_Tolsma,Randy Tolsma,IWX Motor Freight,Steve_Coulter,Chevrolet,220,6475,running,0,97
+1998,C,1998_Kroger_225,23,16,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,218,5455,running,0,94
+1998,C,1998_Kroger_225,24,27,29,usa,Bob_Keselowski,Bob Keselowski,Mopar Performance,Ron_Keselowski,Dodge,213,5425,running,0,91
+1998,C,1998_Kroger_225,25,10,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,207,6405,running,0,88
+1998,C,1998_Kroger_225,26,24,84,usa,Wayne_Anderson_(1),Wayne Anderson,Porter-Cable Power Tools,Jim_Herrick,Ford,185,5375,running,0,85
+1998,C,1998_Kroger_225,27,11,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,179,6330,running,0,82
+1998,C,1998_Kroger_225,28,26,31,usa,Kevin_Cywinski,Kevin Cywinski,Concor Tool & Machine,Bob_Brevak,Ford,173,5330,oil leak,0,79
+1998,C,1998_Kroger_225,29,17,00,usa,Bill_Kimmel,Bill Kimmel,Shoe Carnival,Andy_Campbell,Chevrolet,76,5330,crash,0,76
+1998,C,1998_Kroger_225,30,31,11,usa,Brandon_Sperling,Brandon Sperling,Nicklaus Golf Equipment,Phil_Bonifield,Chevrolet,27,5330,rear end,0,73
+1998,C,1998_Kroger_225,31,21,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,8,6330,crash,0,70
+1998,C,1998_Virginia_Is_For_Lovers_200,1,2,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,200,38400,running,107,180
+1998,C,1998_Virginia_Is_For_Lovers_200,2,8,28,usa,Ernie_Irvan,Ernie Irvan,Federated Auto Parts,Mark_Simo,Ford,200,22200,running,48,170
+1998,C,1998_Virginia_Is_For_Lovers_200,3,18,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,200,16250,running,0,165
+1998,C,1998_Virginia_Is_For_Lovers_200,4,1,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,200,11775,running,1,160
+1998,C,1998_Virginia_Is_For_Lovers_200,5,19,18,usa,Butch_Miller,Butch Miller,Dana Corporation,Ron_Norick,Dodge,200,8575,running,0,155
+1998,C,1998_Virginia_Is_For_Lovers_200,6,5,15,usa,Rich_Bickle,Rich Bickle,Turbine Solutions,Billy_Ballew,Ford,200,6025,running,0,150
+1998,C,1998_Virginia_Is_For_Lovers_200,7,15,61,usa,Randy_Tolsma,Randy Tolsma,IWX Motor Freight,Steve_Coulter,Chevrolet,200,6875,running,0,146
+1998,C,1998_Virginia_Is_For_Lovers_200,8,3,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,200,6825,running,18,142
+1998,C,1998_Virginia_Is_For_Lovers_200,9,10,88,usa,Terry_Cook,Terry Cook,PBA Tour,Duke_Thorson,Chevrolet,200,5775,running,0,138
+1998,C,1998_Virginia_Is_For_Lovers_200,10,9,52,usa,Mike_Wallace,Mike Wallace,Purolator PureOne Filters,Ken_Schrader,Chevrolet,200,7850,running,9,134
+1998,C,1998_Virginia_Is_For_Lovers_200,11,4,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,200,6675,running,0,130
+1998,C,1998_Virginia_Is_For_Lovers_200,12,31,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,200,6800,running,0,127
+1998,C,1998_Virginia_Is_For_Lovers_200,13,17,55,usa,Tony_Roper,Tony Roper,Icehouse Beer,Tom_Gloy,Ford,200,6500,running,0,124
+1998,C,1998_Virginia_Is_For_Lovers_200,14,27,85,usa,B_A_Wilson,B.A. Wilson,ICSE Controls,B.A._Wilson,Ford,200,5450,running,0,121
+1998,C,1998_Virginia_Is_For_Lovers_200,15,30,29,usa,Bob_Keselowski,Bob Keselowski,Mopar Performance,Ron_Keselowski,Dodge,200,5400,running,0,118
+1998,C,1998_Virginia_Is_For_Lovers_200,16,12,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,200,6325,running,0,115
+1998,C,1998_Virginia_Is_For_Lovers_200,17,16,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,200,6315,running,0,112
+1998,C,1998_Virginia_Is_For_Lovers_200,18,6,10,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",Ohio State University,Jerry_Wharton,Chevrolet,200,5225,running,17,109
+1998,C,1998_Virginia_Is_For_Lovers_200,19,34,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,200,5175,running,0,106
+1998,C,1998_Virginia_Is_For_Lovers_200,20,33,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,200,6250,running,0,103
+1998,C,1998_Virginia_Is_For_Lovers_200,21,35,84,usa,Wayne_Anderson_(1),Wayne Anderson,Porter-Cable Power Tools,Jim_Herrick,Ford,200,5100,running,0,100
+1998,C,1998_Virginia_Is_For_Lovers_200,22,7,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,200,6075,running,0,97
+1998,C,1998_Virginia_Is_For_Lovers_200,23,13,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,200,6050,running,0,94
+1998,C,1998_Virginia_Is_For_Lovers_200,24,36,90,usa,Lance_Norick,Lance Norick,NHL,Ron_Norick,Dodge,200,5025,running,0,91
+1998,C,1998_Virginia_Is_For_Lovers_200,25,32,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,199,6000,running,0,88
+1998,C,1998_Virginia_Is_For_Lovers_200,26,25,09,usa,John_Blewett_III,John Blewett III,Greenfield Racing,Dick_Greenfield,Dodge,199,4975,running,0,85
+1998,C,1998_Virginia_Is_For_Lovers_200,27,20,2,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,198,5950,running,0,82
+1998,C,1998_Virginia_Is_For_Lovers_200,28,14,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,197,5925,running,0,79
+1998,C,1998_Virginia_Is_For_Lovers_200,29,22,31,usa,Kevin_Cywinski,Kevin Cywinski,Concor Tool & Machine,Bob_Brevak,Ford,182,4875,running,0,76
+1998,C,1998_Virginia_Is_For_Lovers_200,30,21,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden Products,Charles_Hardy,Chevrolet,146,5950,crash,0,73
+1998,C,1998_Virginia_Is_For_Lovers_200,31,23,78,usa,Randy_Renfrow,Randy Renfrow,MCI,Dominic_Dobson,Dodge,122,4825,fuel pump,0,70
+1998,C,1998_Virginia_Is_For_Lovers_200,32,28,11,usa,Brett_Bodine,Brett Bodine,Nicklaus Golf Equipment,Phil_Bonifield,Chevrolet,119,4825,transmission,0,67
+1998,C,1998_Virginia_Is_For_Lovers_200,33,11,7,usa,Barry_Bodine,Barry Bodine,Prime Performance,Jim_Clark_(2),Chevrolet,109,4825,crash,0,64
+1998,C,1998_Virginia_Is_For_Lovers_200,34,29,1,usa,Bobby_Hamilton,Bobby Hamilton,Southern Pride Trucking,Bobby_Hamilton_Racing,Chevrolet,104,4825,brakes,0,61
+1998,C,1998_Virginia_Is_For_Lovers_200,35,26,26,usa,Bryan_Reffner,Bryan Reffner,Auto Trim Design,Mike_Mittler,Ford,68,5825,overheating,0,58
+1998,C,1998_Virginia_Is_For_Lovers_200,36,24,66,usa,Johnny_Chapman,Johnny Chapman,Carlin Burners & Controls,Dale_Phelon,Ford,32,4825,engine,0,55
+1998,C,1998_Memphis_200,1,3,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,200,38625,running,42,180
+1998,C,1998_Memphis_200,2,7,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,200,30735,running,11,170
+1998,C,1998_Memphis_200,3,10,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,200,21525,running,38,165
+1998,C,1998_Memphis_200,4,29,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,200,16550,running,0,160
+1998,C,1998_Memphis_200,5,9,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,200,14250,running,0,155
+1998,C,1998_Memphis_200,6,11,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden Products,Charles_Hardy,Chevrolet,200,9000,running,0,150
+1998,C,1998_Memphis_200,7,20,52,usa,Mike_Wallace,Mike Wallace,Purolator PureOne Filters,Ken_Schrader,Chevrolet,200,8900,running,0,146
+1998,C,1998_Memphis_200,8,6,88,usa,Terry_Cook,Terry Cook,PBA Tour,Duke_Thorson,Chevrolet,200,8800,running,0,142
+1998,C,1998_Memphis_200,9,15,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,200,9475,running,0,138
+1998,C,1998_Memphis_200,10,17,84,usa,Wayne_Anderson_(1),Wayne Anderson,Porter-Cable Power Tools,Jim_Herrick,Ford,200,9475,running,0,134
+1998,C,1998_Memphis_200,11,31,10,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",Ohio State University,Jerry_Wharton,Chevrolet,200,7500,running,0,130
+1998,C,1998_Memphis_200,12,5,18,usa,Butch_Miller,Butch Miller,Dana Corporation,Ron_Norick,Dodge,200,8275,running,0,127
+1998,C,1998_Memphis_200,13,18,61,usa,Randy_Tolsma,Randy Tolsma,IWX Motor Freight,Steve_Coulter,Chevrolet,200,8225,running,0,124
+1998,C,1998_Memphis_200,14,23,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,200,7175,running,0,121
+1998,C,1998_Memphis_200,15,19,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,200,8575,running,0,118
+1998,C,1998_Memphis_200,16,16,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,200,8075,running,0,115
+1998,C,1998_Memphis_200,17,4,55,usa,Tony_Roper,Tony Roper,Icehouse Beer,Tom_Gloy,Ford,199,7975,running,0,112
+1998,C,1998_Memphis_200,18,14,85,usa,B_A_Wilson,B.A. Wilson,ICSE Controls,B.A._Wilson,Ford,199,6875,running,0,109
+1998,C,1998_Memphis_200,19,12,66,usa,Johnny_Chapman,Johnny Chapman,Carlin Burners & Controls,Dale_Phelon,Ford,198,6850,running,0,106
+1998,C,1998_Memphis_200,20,26,90,usa,Lance_Norick,Lance Norick,NHL,Ron_Norick,Dodge,198,7050,running,0,103
+1998,C,1998_Memphis_200,21,25,51,usa,Tammy_Jo_Kirk,Tammy Jo Kirk,Auto Value,Tammy_Jo_Kirk,Ford,198,6800,running,0,100
+1998,C,1998_Memphis_200,22,1,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,196,10975,running,109,97
+1998,C,1998_Memphis_200,23,2,2,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,195,8750,running,0,94
+1998,C,1998_Memphis_200,24,22,9,usa,David_Starr,David Starr,Embee Technology / CNG Engines,Buddy_Morrison,Chevrolet,189,6725,running,0,91
+1998,C,1998_Memphis_200,25,21,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,168,7700,crash,0,88
+1998,C,1998_Memphis_200,26,28,08,usa,Sammy_Potashnick,Sammy Potashnick,PTI / Hart Transport,Sammy_Potashnick,Chevrolet,157,6675,running,0,85
+1998,C,1998_Memphis_200,27,13,29,canada,Randy_MacDonald,Randy MacDonald,Mopar Performance,Ron_Keselowski,Dodge,152,6650,engine,0,82
+1998,C,1998_Memphis_200,28,32,26,usa,Bryan_Reffner,Bryan Reffner,Auto Trim Design Network,Mike_Mittler,Ford,143,7525,engine,0,79
+1998,C,1998_Memphis_200,29,35,89,usa,Stan_Boyd,Stan Boyd,Precision Automotive,James_Liguori,Chevrolet,142,6600,ignition,0,76
+1998,C,1998_Memphis_200,30,24,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,125,7575,running,0,73
+1998,C,1998_Memphis_200,31,33,28,usa,Danny_Bagwell,Danny Bagwell,Four-Tech Racing,Wilson_Bagwell,Ford,91,6550,transmission,0,70
+1998,C,1998_Memphis_200,32,8,31,usa,Kevin_Cywinski,Kevin Cywinski,Big Daddy's BBQ Sauce,Bob_Brevak,Ford,85,6550,engine,0,67
+1998,C,1998_Memphis_200,33,34,56,usa,Tim_Ice,Tim Ice,FAST Racing Engines,Jerry_Lawrence,Dodge,63,6550,rear end,0,64
+1998,C,1998_Memphis_200,34,27,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,53,7550,crash,0,61
+1998,C,1998_Memphis_200,35,36,81,usa,Dave_Mader_III,Dave Mader III,Raynor Garage Doors,Marty_Walsh,Ford,48,6550,transmission,0,58
+1998,C,1998_Memphis_200,36,30,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,3,6550,engine,0,55
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,1,4,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,160,48175,running,72,180
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,2,6,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,160,28675,running,20,170
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,3,5,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,160,24175,running,1,165
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,4,3,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,160,20450,running,30,160
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,5,28,66,usa,Tom_Hubert,Tom Hubert,Carlin Burners & Controls,Dale_Phelon,Ford,160,13900,running,0,155
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,6,14,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,160,11950,running,0,150
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,7,8,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,160,10450,running,0,146
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,8,19,52,usa,Mike_Wallace,Mike Wallace,Purolator PureOne Filters,Ken_Schrader,Chevrolet,160,9450,running,0,142
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,9,23,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,160,8500,running,0,138
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,10,15,84,usa,Bryan_Reffner,Bryan Reffner,Porter-Cable Power Tools,Jim_Herrick,Ford,160,9875,running,0,134
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,11,21,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,160,8550,running,4,130
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,12,11,90,usa,Lance_Norick,Lance Norick,NHL,Ron_Norick,Dodge,160,7375,running,0,127
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,13,22,29,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Ron_Keselowski,Dodge,159,7325,running,0,124
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,14,10,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden Products,Charles_Hardy,Chevrolet,159,8275,running,9,121
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,15,12,55,usa,Tony_Roper,Tony Roper,Icehouse Beer,Tom_Gloy,Ford,159,8350,running,0,118
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,16,27,61,usa,Randy_Tolsma,Randy Tolsma,IWX Motor Freight,Steve_Coulter,Chevrolet,159,8175,running,0,115
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,17,9,2,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,159,8125,running,0,112
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,18,2,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,158,7875,running,0,109
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,19,1,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,158,8825,running,24,106
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,20,25,26,canada,Randy_MacDonald,Randy MacDonald,Auto Trim Design Network,Mike_Mittler,Ford,158,6850,running,0,103
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,21,20,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,158,6825,running,0,100
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,22,18,88,usa,Terry_Cook,Terry Cook,PBA Tour,Duke_Thorson,Chevrolet,156,7800,running,0,97
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,23,29,11,usa,Matt_Hutter,Matt Hutter,Nicklaus Golf Equipment,Phil_Bonifield,Chevrolet,156,6775,running,0,94
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,24,7,10,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",Ohio State Unviersity,Jerry_Wharton,Chevrolet,156,6750,running,0,91
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,25,26,78,usa,Randy_Renfrow,Randy Renfrow,MCI,Dominic_Dobson,Dodge,155,6725,running,0,88
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,26,24,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,153,7700,running,0,85
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,27,31,58,usa,Chris_Horn,Chris Horn,Horn Automotive,Fred_Horn,Chevrolet,148,6675,running,0,82
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,28,16,18,usa,Butch_Miller,Butch Miller,Dana Corporation,Ron_Norick,Dodge,103,7650,transmission,0,79
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,29,30,31,usa,Kevin_Cywinski,Kevin Cywinski,Big Daddy's BBQ Sauce,Bob_Brevak,Ford,102,6725,engine,0,76
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,30,17,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,71,7600,crash,0,73
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,31,32,28,usa,Danny_Bagwell,Danny Bagwell,Four-Tech Racing,Wilson_Bagwell,Ford,61,6575,transmission,0,70
+1998,C,1998_Ram_Tough_200_Presented_by_Pepsi,32,13,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,49,7575,engine,0,67
+1998,C,1998_NAPA_250,1,10,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,250,36450,running,34,180
+1998,C,1998_NAPA_250,2,4,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins / Players Inc.,Petty_Enterprises,Dodge,250,21550,running,62,170
+1998,C,1998_NAPA_250,3,6,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,250,14550,running,4,165
+1998,C,1998_NAPA_250,4,15,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,250,13225,running,0,160
+1998,C,1998_NAPA_250,5,3,15,usa,Rich_Bickle,Rich Bickle,Turbine Solutions,Billy_Ballew,Ford,250,8625,running,0,155
+1998,C,1998_NAPA_250,6,17,29,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Ron_Keselowski,Dodge,250,6025,running,20,150
+1998,C,1998_NAPA_250,7,12,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,250,6875,running,4,146
+1998,C,1998_NAPA_250,8,1,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,250,8075,running,80,142
+1998,C,1998_NAPA_250,9,22,61,usa,Randy_Renfrow,Randy Renfrow,IWX Motor Freight,Steve_Coulter,Chevrolet,250,7775,running,45,138
+1998,C,1998_NAPA_250,10,11,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,250,7825,running,0,134
+1998,C,1998_NAPA_250,11,31,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,250,6675,running,0,130
+1998,C,1998_NAPA_250,12,24,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,250,6850,running,1,127
+1998,C,1998_NAPA_250,13,2,2,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,250,7500,running,0,124
+1998,C,1998_NAPA_250,14,16,84,usa,Randy_Tolsma,Randy Tolsma,Porter-Cable Power Tools,Jim_Herrick,Ford,249,6450,running,0,121
+1998,C,1998_NAPA_250,15,14,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,249,6750,running,0,118
+1998,C,1998_NAPA_250,16,30,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,249,5325,running,0,115
+1998,C,1998_NAPA_250,17,29,04,usa,Brad_Teague,Brad Teague,Hobart Food Service,William_Rose,Chevrolet,249,5275,running,0,112
+1998,C,1998_NAPA_250,18,20,55,usa,Tony_Roper,Tony Roper,Icehouse Beer,Tom_Gloy,Ford,249,6225,running,0,109
+1998,C,1998_NAPA_250,19,35,90,usa,Lance_Norick,Lance Norick,NHL,Ron_Norick,Dodge,248,5175,running,0,106
+1998,C,1998_NAPA_250,20,33,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden Products,Charles_Hardy,Chevrolet,248,6125,running,0,103
+1998,C,1998_NAPA_250,21,32,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,247,6100,running,0,100
+1998,C,1998_NAPA_250,22,21,88,usa,Terry_Cook,Terry Cook,PBA Tour,Duke_Thorson,Chevrolet,237,6075,running,0,97
+1998,C,1998_NAPA_250,23,28,22,usa,Bryan_Reffner,Bryan Reffner,M & J Racing,Mike_Thompson,Ford,227,6050,electrical,0,94
+1998,C,1998_NAPA_250,24,7,52,usa,Mike_Wallace,Mike Wallace,Purolator PureOne Filters,Ken_Schrader,Chevrolet,222,6025,rear end,0,91
+1998,C,1998_NAPA_250,25,13,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,214,6000,overheating,0,88
+1998,C,1998_NAPA_250,26,9,85,usa,B_A_Wilson,B.A. Wilson,Llumar Window Films,B.A._Wilson,Ford,174,4975,overheating,0,85
+1998,C,1998_NAPA_250,27,23,10,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",Ohio State University,Jerry_Wharton,Chevrolet,153,4950,rear end,0,82
+1998,C,1998_NAPA_250,28,25,18,usa,Butch_Miller,Butch Miller,Dana Corporation,Ron_Norick,Dodge,146,5925,running,0,79
+1998,C,1998_NAPA_250,29,5,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,137,4875,engine,0,76
+1998,C,1998_NAPA_250,30,19,31,usa,Kevin_Cywinski,Kevin Cywinski,Auto Trim Design / Big Daddy's BBQ,Bob_Brevak,Ford,130,4850,crash,0,73
+1998,C,1998_NAPA_250,31,36,42,usa,Tom_Carey_Jr,"Tom Carey, Jr.",AAA Aircraft Parts,Joe_Ambrose,Chevrolet,127,4825,brakes,0,70
+1998,C,1998_NAPA_250,32,18,33,usa,Shayne_Lockhart,Shayne Lockhart,Token Racing,Kenneth_Brown,Chevrolet,126,4825,brakes,0,67
+1998,C,1998_NAPA_250,33,8,1,usa,Bobby_Hamilton,Bobby Hamilton,Southern Pride Trucking,Bobby_Hamilton_Racing,Chevrolet,89,4825,overheating,0,64
+1998,C,1998_NAPA_250,34,34,66,usa,Tom_Hubert,Tom Hubert,Carlin Burners & Controls,Dale_Phelon,Ford,78,4825,crash,0,61
+1998,C,1998_NAPA_250,35,27,71,usa,Brett_Bodine,Brett Bodine,Nicklaus Golf Equipment,Phil_Bonifield,Chevrolet,48,4825,engine,0,58
+1998,C,1998_NAPA_250,36,26,83,usa,Joe_Gaita,Joe Gaita,Building Specialties,Joe_Gaita,Ford,23,4825,overheating,0,55
+1998,C,1998_Kragen_Exide_151,1,2,44,usa,Boris_Said,Boris Said,Federated Auto Parts / 1-800-Collect,Mark_Simo,Ford,77,43650,running,47,180
+1998,C,1998_Kragen_Exide_151,2,11,2,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,77,23705,running,0,170
+1998,C,1998_Kragen_Exide_151,3,3,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,77,15095,running,0,165
+1998,C,1998_Kragen_Exide_151,4,13,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,77,11495,running,0,160
+1998,C,1998_Kragen_Exide_151,5,26,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,77,9295,running,0,155
+1998,C,1998_Kragen_Exide_151,6,20,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,77,8045,running,0,150
+1998,C,1998_Kragen_Exide_151,7,28,90,usa,Lance_Norick,Lance Norick,NHL,Ron_Norick,Dodge,77,6095,running,0,146
+1998,C,1998_Kragen_Exide_151,8,12,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,77,7045,running,0,142
+1998,C,1998_Kragen_Exide_151,9,7,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,77,7995,running,0,138
+1998,C,1998_Kragen_Exide_151,10,14,84,usa,Doug_George,Doug George,Porter-Cable Power Tools,Jim_Herrick,Ford,77,7070,running,0,134
+1998,C,1998_Kragen_Exide_151,11,5,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,77,6745,running,1,130
+1998,C,1998_Kragen_Exide_151,12,19,55,usa,Tony_Roper,Tony Roper,Icehouse Beer,Tom_Gloy,Ford,77,6695,running,0,127
+1998,C,1998_Kragen_Exide_151,13,23,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden Products,Charles_Hardy,Chevrolet,77,6645,running,0,124
+1998,C,1998_Kragen_Exide_151,14,24,29,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Ron_Keselowski,Dodge,77,5595,running,0,121
+1998,C,1998_Kragen_Exide_151,15,16,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,77,6895,running,0,118
+1998,C,1998_Kragen_Exide_151,16,22,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,76,5495,running,0,115
+1998,C,1998_Kragen_Exide_151,17,4,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,76,6445,running,0,112
+1998,C,1998_Kragen_Exide_151,18,25,85,usa,Milan_Garrett,Milan Garrett,Champion Wheel,Milan_Garrett,Ford,76,5395,running,0,109
+1998,C,1998_Kragen_Exide_151,19,27,11,usa,Randy_Tolsma,Randy Tolsma,Nicklaus Golf / Red Line Oil,Phil_Bonifield,Chevrolet,72,6370,running,0,106
+1998,C,1998_Kragen_Exide_151,20,10,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,65,6495,running,0,103
+1998,C,1998_Kragen_Exide_151,21,31,38,usa,Mike_Clark,Mike Clark,Ridge Gate Motorsports,Mike_Clark,Chevrolet,65,5220,running,0,100
+1998,C,1998_Kragen_Exide_151,22,18,52,usa,Mike_Wallace,Mike Wallace,Purolator PureOne Filters,Ken_Schrader,Chevrolet,62,6195,crash,0,97
+1998,C,1998_Kragen_Exide_151,23,6,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,62,6170,running,0,94
+1998,C,1998_Kragen_Exide_151,24,32,41,usa,Terry_Fisher,Terry Fisher,Farris Concrete,Mike_Farris,Chevrolet,61,5145,crash,0,91
+1998,C,1998_Kragen_Exide_151,25,21,31,usa,Kevin_Cywinski,Kevin Cywinski,Allied Signal / Bendix,Bob_Brevak,Ford,60,5070,rear end,0,88
+1998,C,1998_Kragen_Exide_151,26,8,46,usa,Rob_Morgan,Rob Morgan,Acxiom,David_Dollar,Ford,55,5045,running,0,85
+1998,C,1998_Kragen_Exide_151,27,1,66,usa,Tom_Hubert,Tom Hubert,Carlin Burners & Controls / Phelon,Dale_Phelon,Ford,54,5720,crash,29,82
+1998,C,1998_Kragen_Exide_151,28,17,18,usa,Butch_Miller,Butch Miller,Dana Corporation,Ron_Norick,Dodge,47,5995,running,0,79
+1998,C,1998_Kragen_Exide_151,29,15,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,46,5970,rear end,0,76
+1998,C,1998_Kragen_Exide_151,30,9,88,usa,Terry_Cook,Terry Cook,PBA Tour,Duke_Thorson,Chevrolet,44,5970,engine,0,73
+1998,C,1998_Kragen_Exide_151,31,29,39,usa,Kenny_Gross,Kenny Gross,Ridge Gate Motorsports,Mike_Clark,Chevrolet,38,4970,transmission,0,70
+1998,C,1998_Kragen_Exide_151,32,30,1,usa,Bryan_Reffner,Bryan Reffner,Dana,Ron_Norick,Dodge,1,5970,handling,0,67
+1998,C,1998_Dodge_California_Truck_Stop_300,1,12,29,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Ron_Keselowski,Dodge,300,33555,running,11,180
+1998,C,1998_Dodge_California_Truck_Stop_300,2,10,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,300,19655,running,0,170
+1998,C,1998_Dodge_California_Truck_Stop_300,3,2,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,300,16645,running,25,165
+1998,C,1998_Dodge_California_Truck_Stop_300,4,1,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,300,11745,running,95,160
+1998,C,1998_Dodge_California_Truck_Stop_300,5,5,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,300,9945,running,3,155
+1998,C,1998_Dodge_California_Truck_Stop_300,6,15,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,300,7495,running,0,150
+1998,C,1998_Dodge_California_Truck_Stop_300,7,28,18,usa,Butch_Miller,Butch Miller,Dana Corporation,Ron_Norick,Dodge,300,7445,running,0,146
+1998,C,1998_Dodge_California_Truck_Stop_300,8,14,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,299,7395,running,0,142
+1998,C,1998_Dodge_California_Truck_Stop_300,9,19,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,299,8095,running,0,138
+1998,C,1998_Dodge_California_Truck_Stop_300,10,13,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,299,7795,running,0,134
+1998,C,1998_Dodge_California_Truck_Stop_300,11,4,88,usa,Terry_Cook,Terry Cook,PBA Tour,Duke_Thorson,Chevrolet,299,7095,running,0,130
+1998,C,1998_Dodge_California_Truck_Stop_300,12,23,84,usa,Doug_George,Doug George,Porter-Cable Power Tools,Jim_Herrick,Ford,299,6045,running,0,127
+1998,C,1998_Dodge_California_Truck_Stop_300,13,6,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,299,6995,running,0,124
+1998,C,1998_Dodge_California_Truck_Stop_300,14,11,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,299,7195,running,7,121
+1998,C,1998_Dodge_California_Truck_Stop_300,15,26,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,299,6895,running,0,118
+1998,C,1998_Dodge_California_Truck_Stop_300,16,9,55,usa,Tony_Roper,Tony Roper,Icehouse Beer,Tom_Gloy,Ford,298,6845,running,0,115
+1998,C,1998_Dodge_California_Truck_Stop_300,17,20,90,usa,Lance_Norick,Lance Norick,NHL,Ron_Norick,Dodge,298,5795,running,0,112
+1998,C,1998_Dodge_California_Truck_Stop_300,18,27,11,usa,Brandon_Sperling,Brandon Sperling,Nicklaus Golf Equipment,Phil_Bonifield,Chevrolet,295,5745,running,0,109
+1998,C,1998_Dodge_California_Truck_Stop_300,19,3,2,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,292,9170,running,158,106
+1998,C,1998_Dodge_California_Truck_Stop_300,20,22,52,usa,Mike_Wallace,Mike Wallace,Purolator PureOne Filters,Ken_Schrader,Chevrolet,278,6750,running,1,103
+1998,C,1998_Dodge_California_Truck_Stop_300,21,16,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,253,6470,running,0,100
+1998,C,1998_Dodge_California_Truck_Stop_300,22,24,31,usa,Kevin_Cywinski,Kevin Cywinski,Allied Signal / Bendix,Bob_Brevak,Ford,252,5420,transmission,0,97
+1998,C,1998_Dodge_California_Truck_Stop_300,23,17,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden Products,Charles_Hardy,Chevrolet,240,6370,running,0,94
+1998,C,1998_Dodge_California_Truck_Stop_300,24,8,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,238,6420,crash,0,91
+1998,C,1998_Dodge_California_Truck_Stop_300,25,32,5,usa,Auggie_Vidovich,Auggie Vidovich,Creative Touch Interiors,Auggie_Vidovich,Ford,234,5245,crash,0,88
+1998,C,1998_Dodge_California_Truck_Stop_300,26,25,4,usa,Bill_Sedgwick,Bill Sedgwick,DuPont Stainmaster Carpet,Tim_Buckley,Chevrolet,232,5195,crash,0,85
+1998,C,1998_Dodge_California_Truck_Stop_300,27,7,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,223,6095,running,0,82
+1998,C,1998_Dodge_California_Truck_Stop_300,28,29,65,usa,B_A_Wilson,B.A. Wilson,Llumar Window Films,B.A._Wilson,Ford,87,4995,engine,0,79
+1998,C,1998_Dodge_California_Truck_Stop_300,29,18,66,usa,Randy_Renfrow,Randy Renfrow,Carlin Burners & Controls,Dale_Phelon,Ford,84,4895,suspension,0,76
+1998,C,1998_Dodge_California_Truck_Stop_300,30,31,58,usa,Wayne_Jacks,Wayne Jacks,Jacks Motorsports,Wayne_Jacks,Chevrolet,50,4895,crash,0,73
+1998,C,1998_Dodge_California_Truck_Stop_300,31,33,85,usa,Milan_Garrett,Milan Garrett,Champion Wheel,Milan_Garrett,Ford,38,4895,ignition,0,70
+1998,C,1998_Dodge_California_Truck_Stop_300,32,34,8,usa,Jerry_Cook,Jerry Cook,PBA Tour,Duke_Thorson,Chevrolet,2,4895,clutch,0,67
+1998,C,1998_Dodge_California_Truck_Stop_300,33,30,61,usa,Stan_Boyd,Stan Boyd,Pennzoil,Steve_Coulter,Ford,2,8495,engine,0,64
+1998,C,1998_Dodge_California_Truck_Stop_300,34,21,78,usa,Randy_Tolsma,Randy Tolsma,MCI / Mopar,Dominic_Dobson,Dodge,0,,did not start,0,61
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,1,1,2,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,186,37400,running,74,180
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,2,17,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,186,21850,running,31,170
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,3,5,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,186,13550,running,15,165
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,4,4,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,186,11775,running,1,160
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,5,10,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,186,10675,running,5,155
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,6,33,29,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Ron_Keselowski,Dodge,186,6175,running,0,150
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,7,6,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,186,6125,running,0,146
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,8,3,86,usa,Stacy_Compton,Stacy Compton,Cherry RC,David_Hodson,Ford,186,7075,running,0,142
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,9,19,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,186,7025,running,0,138
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,10,8,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,186,7475,running,0,134
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,11,15,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,186,6925,running,0,130
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,12,24,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,186,6800,running,9,127
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,13,2,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,186,8750,running,51,124
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,14,14,84,usa,Doug_George,Doug George,Porter-Cable Power Tools,Jim_Herrick,Ford,186,5700,running,0,121
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,15,11,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden Products,Charles_Hardy,Chevrolet,186,6900,running,0,118
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,16,7,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,185,6600,running,0,115
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,17,28,67,usa,Chuck_Bown,Chuck Bown,Hill Machinery,Don_VanDenBos,Chevrolet,185,5550,running,0,112
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,18,13,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,185,6500,running,0,109
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,19,29,08,usa,Bobby_Dotter,Bobby Dotter,PTI Transportation,Sammy_Potashnick,Chevrolet,185,5450,running,0,106
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,20,12,28,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",Cintas / ASE,Jim_Smith,Ford,184,5625,running,0,103
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,21,32,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,184,6350,running,0,100
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,22,30,88,usa,Terry_Cook,Terry Cook,PBA Tour,Duke_Thorson,Chevrolet,184,6300,running,0,97
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,23,22,90,usa,Lance_Norick,Lance Norick,NHL,Ron_Norick,Dodge,184,5250,running,0,94
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,24,26,39,usa,Bryan_Reffner,Bryan Reffner,Ridge Gate Motorsports,Mike_Clark,Chevrolet,184,5200,running,0,91
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,25,31,55,usa,Tony_Roper,Tony Roper,Icehouse Beer,Tom_Gloy,Ford,184,6150,running,0,88
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,26,18,66,usa,Randy_Renfrow,Randy Renfrow,Carlin Burners & Controls,Dale_Phelon,Ford,184,5100,running,0,85
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,27,21,9,usa,Jerry_Nadeau,Jerry Nadeau,Embee Technology,Buddy_Morrison,Chevrolet,183,5000,running,0,82
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,28,34,61,usa,Rick_McCray,Rick McCray,Cerritos Pontiac-GMC,Steve_Coulter,Chevrolet,183,4900,running,0,79
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,29,35,92,usa,Nipper_Alsup,Nipper Alsup,Trackscan,Ron_Hornaday_Jr.,Chevrolet,181,4800,running,0,76
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,30,9,52,usa,Mike_Wallace,Mike Wallace,Purolator PureOne Filters,Ken_Schrader,Chevrolet,179,5700,running,0,73
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,31,27,11,usa,Scott_Hansen,Scott Hansen,Nicklaus Golf / Red Line Oil,Phil_Bonifield,Chevrolet,127,4575,electrical,0,70
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,32,23,31,usa,Kevin_Cywinski,Kevin Cywinski,Allied Signal / Bendix,Bob_Brevak,Ford,119,4575,engine,0,67
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,33,20,18,usa,Butch_Miller,Butch Miller,Dana Corporation,Ron_Norick,Dodge,115,5575,engine,0,64
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,34,25,78,usa,Randy_Tolsma,Randy Tolsma,MCI / Mopar,Dominic_Dobson,Dodge,111,5575,engine,0,61
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,35,36,85,usa,Milan_Garrett,Milan Garrett,Champion Wheel,Milan_Garrett,Ford,96,4575,rocker arm,0,58
+1998,C,1998_GM_Goodwrench_Service_Plus_AC_Delco_300,36,16,10,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",Ohio State University,Jerry_Wharton,Chevrolet,85,4575,crash,0,55
+1998,C,1998_Sams_Town_250,1,1,24,usa,Jack_Sprague,Jack Sprague,GMAC Financial Services,Rick_Hendrick,Chevrolet,169,84725,running,25,180
+1998,C,1998_Sams_Town_250,2,10,16,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",NAPA Brakes,"Dale_Earnhardt,_Inc.",Chevrolet,169,52250,running,5,170
+1998,C,1998_Sams_Town_250,3,9,43,usa,Jimmy_Hensley,Jimmy Hensley,Cummins Engines,Petty_Enterprises,Dodge,169,40250,running,0,165
+1998,C,1998_Sams_Town_250,4,3,3,usa,Jay_Sauter,Jay Sauter,GM Goodwrench Service Plus,Richard_Childress,Chevrolet,169,29250,running,2,160
+1998,C,1998_Sams_Town_250,5,5,50,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,169,25325,running,61,155
+1998,C,1998_Sams_Town_250,6,2,2,usa,Mike_Bliss,Mike Bliss,Team ASE Racing,Jim_Smith,Ford,169,23875,running,68,150
+1998,C,1998_Sams_Town_250,7,12,99,usa,Joe_Ruttman,Joe Ruttman,Exide Batteries,Jack_Roush,Ford,169,18475,running,3,146
+1998,C,1998_Sams_Town_250,8,26,66,usa,Mike_Stefanik,Mike Stefanik,Carlin Burners & Controls,Dale_Phelon,Ford,168,16475,running,0,142
+1998,C,1998_Sams_Town_250,9,11,35,usa,Ron_Barfield_Jr,"Ron Barfield, Jr.",Ortho Lawn & Garden Products,Charles_Hardy,Chevrolet,168,16475,running,3,138
+1998,C,1998_Sams_Town_250,10,22,18,usa,Butch_Miller,Butch Miller,Dana Corporation,Ron_Norick,Dodge,168,16350,running,0,134
+1998,C,1998_Sams_Town_250,11,6,60,usa,Andy_Houston,Andy Houston,Addington Racing,Mike_Addington,Chevrolet,168,15625,running,0,130
+1998,C,1998_Sams_Town_250,12,21,52,usa,Mike_Wallace,Mike Wallace,Purolator PureOne Filters,Ken_Schrader,Chevrolet,168,15275,running,0,127
+1998,C,1998_Sams_Town_250,13,18,29,usa,Dennis_Setzer,Dennis Setzer,Mopar Performance,Ron_Keselowski,Dodge,168,14175,running,0,124
+1998,C,1998_Sams_Town_250,14,23,14,usa,Rick_Crawford,Rick Crawford,Circle Bar Motel & RV Park,Tom_Mitchell,Ford,167,15075,running,0,121
+1998,C,1998_Sams_Town_250,15,20,98,usa,Doug_George,Doug George,Big Daddy's BBQ Sauce,Jim_Herrick,Ford,167,14375,running,0,118
+1998,C,1998_Sams_Town_250,16,33,90,usa,Lance_Norick,Lance Norick,NHL,Ron_Norick,Dodge,167,13675,running,0,115
+1998,C,1998_Sams_Town_250,17,7,86,usa,Stacy_Compton,Stacy Compton,Royal Crown Cola,David_Hodson,Ford,167,14575,running,0,112
+1998,C,1998_Sams_Town_250,18,4,10,usa,Lonnie_Rush_Jr,"Lonnie Rush, Jr.",Ohio State University,Jerry_Wharton,Chevrolet,167,13475,running,2,109
+1998,C,1998_Sams_Town_250,19,39,65,usa,B_A_Wilson,B.A. Wilson,Llumar Window Films,B.A._Wilson,Ford,167,13375,running,0,106
+1998,C,1998_Sams_Town_250,20,15,75,usa,Kevin_Harvick,Kevin Harvick,Spears Manufacturing,Wayne_Spears,Chevrolet,167,14500,running,0,103
+1998,C,1998_Sams_Town_250,21,27,31,usa,Kevin_Cywinski,Kevin Cywinski,Allied Signal / Bendix,Bob_Brevak,Ford,167,13175,running,0,100
+1998,C,1998_Sams_Town_250,22,17,19,usa,Tony_Raines,Tony Raines,Pennzoil,Kurt_Roehrig,Ford,167,14075,running,0,97
+1998,C,1998_Sams_Town_250,23,25,37,usa,Scot_Walters,Scot Walters,Red Man,Clarence_Brewer,Chevrolet,166,13950,running,0,94
+1998,C,1998_Sams_Town_250,24,31,89,usa,Tom_Hubert,Tom Hubert,Cyberdyne Tech,James_Liguori,Chevrolet,166,12850,running,0,91
+1998,C,1998_Sams_Town_250,25,24,78,usa,Randy_Tolsma,Randy Tolsma,MCI / Mopar,Dominic_Dobson,Dodge,166,13750,running,0,88
+1998,C,1998_Sams_Town_250,26,32,26,usa,Rick_Beebe,Rick Beebe,Auto Trim Design Network,Mike_Mittler,Ford,166,12650,running,0,85
+1998,C,1998_Sams_Town_250,27,38,92,usa,Nipper_Alsup,Nipper Alsup,Trackscan,Ron_Hornaday_Jr.,Chevrolet,166,12550,running,0,82
+1998,C,1998_Sams_Town_250,28,36,44,usa,Boris_Said,Boris Said,Federated Auto Parts,Mark_Simo,Ford,166,12450,running,0,79
+1998,C,1998_Sams_Town_250,29,40,42,usa,Rick_McCray,Rick McCray,Cerritos Pontiac-GMC,Rick_McCray,Chevrolet,165,12350,running,0,76
+1998,C,1998_Sams_Town_250,30,14,67,usa,Chuck_Bown,Chuck Bown,Hill Machinery,Don_VanDenBos,Chevrolet,165,12250,running,0,73
+1998,C,1998_Sams_Town_250,31,29,08,usa,Sammy_Potashnick,Sammy Potashnick,Dunlop Golf,Sammy_Potashnick,Chevrolet,162,12200,running,0,70
+1998,C,1998_Sams_Town_250,32,34,20,usa,Brendan_Gaughan,Brendan Gaughan,Orleans Hotel & Casino,Walker_Evans,Chevrolet,160,12150,crash,0,67
+1998,C,1998_Sams_Town_250,33,8,61,usa,Blake_Bainbridge,Blake Bainbridge,Burke Automotive Group,Steve_Coulter,Chevrolet,159,12175,running,0,64
+1998,C,1998_Sams_Town_250,34,16,88,usa,Terry_Cook,Terry Cook,PBA Tour,Duke_Thorson,Chevrolet,153,13100,engine,0,61
+1998,C,1998_Sams_Town_250,35,13,6,usa,Rick_Carelli,Rick Carelli,RE/MAX International,Marshall_Chesrown,Chevrolet,135,13075,engine,0,58
+1998,C,1998_Sams_Town_250,36,28,51,usa,Tammy_Jo_Kirk,Tammy Jo Kirk,Peterson Manufacturing,Tammy_Jo_Kirk,Ford,115,12075,engine,0,55
+1998,C,1998_Sams_Town_250,37,19,39,usa,Bryan_Reffner,Bryan Reffner,Ridge Gate Motorsports,Mike_Clark,Chevrolet,94,13075,engine,0,52
+1998,C,1998_Sams_Town_250,38,30,55,usa,Tony_Roper,Tony Roper,Icehouse Beer,Tom_Gloy,Ford,88,13075,engine,0,49
+1998,C,1998_Sams_Town_250,39,35,11,usa,Scott_Hansen,Scott Hansen,Nicklaus Golf Equipment,Phil_Bonifield,Chevrolet,39,12075,engine,0,46
+1998,C,1998_Sams_Town_250,40,37,84,usa,Randy_Renfrow,Randy Renfrow,Porter-Cable Power Tools,Jim_Herrick,Ford,28,12075,engine,0,43

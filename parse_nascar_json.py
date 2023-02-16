@@ -94,7 +94,7 @@ def nascar_series_identification(series: str):
 	elif str.lower(series) == str.lower("all"):
 		return "all"
 	else:
-		raise Exception(f"{series} is not a known series in NASCAR.")
+		raise Exception(f"{series} is not a known series in the NASCAR API.")
 
 def parse_nascar_schedule(season: int, series="Cup"):
 	def parser(section: str, json_data=None):
@@ -753,14 +753,14 @@ def parse_lap_times(race_id,race_level,race_season):
 def main():
 	current_year = datetime.now().year
 
-	for i in tqdm(range(2020,current_year+1)):
+	for i in tqdm(range(current_year-1,current_year+1)):
 		df = parse_nascar_schedule(i, "all")
 		df = df.sort_values(by="date_scheduled")
 		df.to_csv(f"nascar_api/schedule/{i}_schedule.csv", index=False)
 		del df
 
 	#parse_basic_race_results(current_year)
-	for i in range(2020,current_year+1):
+	for i in range(current_year-1,current_year+1):
 		print(f'\nGetting the NASCAR race info for the {i} season.')
 		info_df, results_df, cautions_df, leaders_df,\
 			stage_df,infractions_df, pitstops_df,\
@@ -775,7 +775,7 @@ def main():
 		pitstops_df.to_csv(f"nascar_api/race_pit_stops/{i}_race_pit_stops.csv", index=False)
 		#weekend_runs_df.to_csv(f"nascar_api/weekend_runs/{i}_weekend_runs.csv", index=False)
 
-	for i in range(2020,current_year+1):
+	for i in range(current_year-1,current_year+1):
 		print(f'\nGetting the NASCAR weekend runs for the {i} season.')
 
 		weekend_runs_df = parse_weekend_runs(i)
