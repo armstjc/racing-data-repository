@@ -1,0 +1,454 @@
+season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
+1973,P,1973_Altamont_100,1973_01_P,1,3,96,usa,Ray_Elder,Ray Elder,Olympia Beer,,'72 Dodge,100,1200,running,85,85
+1973,P,1973_Altamont_100,1973_01_P,2,2,02,usa,Dick_Bown,Dick Bown,Ober Logging,,'73 Dodge,100,700,running,0,74
+1973,P,1973_Altamont_100,1973_01_P,3,5,31,usa,Markey_James,Markey James,James Racing,,'73 Chevrolet,100,525,running,0,73
+1973,P,1973_Altamont_100,1973_01_P,4,9,38,usa,Jimmy_Insolo,Jimmy Insolo,Bill Martin's Union 76,,'72 Chevrolet,100,325,running,0,72
+1973,P,1973_Altamont_100,1973_01_P,5,16,42,usa,Richard_White,Richard White,Barnicle Oil Co.,,'71 Ford,99,275,running,0,70.75
+1973,P,1973_Altamont_100,1973_01_P,6,10,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,98,215,running,0,69.5
+1973,P,1973_Altamont_100,1973_01_P,7,1,7,usa,Jack_McCoy,Jack McCoy,Noble Auto Parts,,'72 Dodge,97,200,running,15,68.25
+1973,P,1973_Altamont_100,1973_01_P,8,23,2,usa,Johnny_Steele,Johnny Steele,Steele Racing,,'71 Ford,97,185,running,0,67.25
+1973,P,1973_Altamont_100,1973_01_P,9,20,4,usa,Dick_Kranzler,Dick Kranzler,Kranzler Racing,,'72 Chevrolet,97,180,running,0,66.25
+1973,P,1973_Altamont_100,1973_01_P,10,15,04,usa,Hershel_McGriff,Hershel McGriff,The Cousins,,'72 Plymouth,96,175,running,0,65
+1973,P,1973_Altamont_100,1973_01_P,11,14,15,usa,Paul_Dorrity,Paul Dorrity,Dorrity Trucking Co.,,'72 Chevrolet,93,170,crash,0,0
+1973,P,1973_Altamont_100,1973_01_P,12,13,9,usa,Carl_Adams,Carl Adams,Marck Motors / Quaker State Oil,,'71 Ford,86,165,running,0,60.5
+1973,P,1973_Altamont_100,1973_01_P,13,8,68,usa,Sonny_Easley,Sonny Easley,Cal Coast Carriers,,'72 Ford,84,160,crash,0,59
+1973,P,1973_Altamont_100,1973_01_P,14,4,95,usa,Bob_Kauf,Bob Kauf,Wrought Iron Co.,,'72 Chevrolet,82,150,crash,0,57.5
+1973,P,1973_Altamont_100,1973_01_P,15,19,57,usa,Don_Graham,Don Graham,Graham Racing,,'72 Chevrolet,75,145,running,0,54.75
+1973,P,1973_Altamont_100,1973_01_P,16,11,84,usa,J_C_Danielsen,J.C. Danielsen,Danielson Distributors,,'71 Mercury,69,140,suspension,0,52.25
+1973,P,1973_Altamont_100,1973_01_P,17,22,34,usa,Ron_McKenna,Ron McKenna,McKenna Racing,,'72 Chevrolet,55,135,sway bar,0,47.75
+1973,P,1973_Altamont_100,1973_01_P,18,6,26,usa,Carl_Joiner,Carl Joiner,Joiner Racing,,'72 Chevrolet,50,130,suspension,0,45.5
+1973,P,1973_Altamont_100,1973_01_P,19,24,58,usa,Bob_England,Bob England,England Racing,,'72 Chevrolet,29,125,oil pressure,0,39.25
+1973,P,1973_Altamont_100,1973_01_P,20,21,37,usa,Chuck_Wahl,Chuck Wahl,Excel Trailer Co.,,'72 Chevrolet,18,120,camshaft,0,35.5
+1973,P,1973_Altamont_100,1973_01_P,21,17,3,usa,John_Soares_Jr,"John Soares, Jr.",Maverick Restaurant,,'73 Dodge,17,115,overheating,0,34.25
+1973,P,1973_Altamont_100,1973_01_P,22,12,03,usa,Chuck_Bown,Chuck Bown,Rose Auto Wrecking,,'73 Dodge,15,110,crash,0,32.75
+1973,P,1973_Altamont_100,1973_01_P,23,18,93,usa,Jerry_Kunze,Jerry Kunze,Ponderosa Plumbing,,'71 Chevrolet,12,105,oil leak,0,31
+1973,P,1973_Altamont_100,1973_01_P,24,7,29,canada,Roy_Smith,Roy Smith,Mercury Marine,,'72 Chevrolet,6,100,engine,0,28.5
+1973,P,1973_Madera_100,1973_02_P,1,1,7,usa,Jack_McCoy,Jack McCoy,Noble Auto Parts,,'72 Dodge,100,900,running,100,85
+1973,P,1973_Madera_100,1973_02_P,2,7,31,usa,Markey_James,Markey James,James Racing,,'73 Chevrolet,100,650,running,0,74
+1973,P,1973_Madera_100,1973_02_P,3,4,95,usa,Bob_Kauf,Bob Kauf,Wrought Iron Co.,,'72 Chevrolet,100,500,running,0,73
+1973,P,1973_Madera_100,1973_02_P,4,9,38,usa,Jimmy_Insolo,Jimmy Insolo,Bill Martin's Union 76,,'72 Chevrolet,99,300,running,0,71.75
+1973,P,1973_Madera_100,1973_02_P,5,2,96,usa,Ray_Elder,Ray Elder,Olympia Beer,,'72 Dodge,99,400,running,0,70.75
+1973,P,1973_Madera_100,1973_02_P,6,8,68,usa,Sonny_Easley,Sonny Easley,Cal Coast Carriers,,'72 Ford,99,190,running,0,69.75
+1973,P,1973_Madera_100,1973_02_P,7,10,42,usa,Richard_White,Richard White,Barnicle Oil Co.,,'71 Ford,98,170,running,0,68.5
+1973,P,1973_Madera_100,1973_02_P,8,12,03,usa,Chuck_Bown,Chuck Bown,Rose Auto Wrecking,,'72 Dodge,98,160,running,0,67.5
+1973,P,1973_Madera_100,1973_02_P,9,14,37,usa,Chuck_Wahl,Chuck Wahl,Excel Trailer Co.,,'72 Chevrolet,98,155,running,0,66.5
+1973,P,1973_Madera_100,1973_02_P,10,6,9,usa,Carl_Adams,Carl Adams,Marck Motors / Quaker State Oil,,'71 Ford,97,150,running,0,65.25
+1973,P,1973_Madera_100,1973_02_P,11,5,02,usa,Dick_Bown,Dick Bown,Ober Logging,,'73 Dodge,97,145,running,0,64.25
+1973,P,1973_Madera_100,1973_02_P,12,13,93,usa,Jerry_Kunze,Jerry Kunze,Ponderosa Plumbing,,'71 Chevrolet,97,140,running,0,63.25
+1973,P,1973_Madera_100,1973_02_P,13,16,57,usa,Don_Graham,Don Graham,Graham Racing,,'72 Chevrolet,96,135,running,0,62
+1973,P,1973_Madera_100,1973_02_P,14,3,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,96,130,running,0,61
+1973,P,1973_Madera_100,1973_02_P,15,20,2,usa,Johnny_Steele,Johnny Steele,Steele Racing,,'71 Ford,93,125,running,0,59.25
+1973,P,1973_Madera_100,1973_02_P,16,18,8,usa,Bob_England,Bob England,England Racing,,'72 Chevrolet,93,120,running,0,58.25
+1973,P,1973_Madera_100,1973_02_P,17,19,05,usa,Lamar_Anderson,Lamar Anderson,Anderson Racing,,'73 Dodge,85,115,running,0,55.25
+1973,P,1973_Madera_100,1973_02_P,18,15,55,usa,Jerry_Barnett,Jerry Barnett,We Need One,,'72 Chevrolet,71,110,overheating,0,50.75
+1973,P,1973_Madera_100,1973_02_P,19,11,4,usa,Dick_Kranzler,Dick Kranzler,Kranzler Racing,,'72 Chevrolet,34,105,suspension,0,40.5
+1973,P,1973_Madera_100,1973_02_P,20,17,01,usa,George_Behlman,George Behlman,Thomas & Sons Disposal Inc.,,'72 Chevrolet,33,100,clutch,0,39.25
+1973,P,1973_Stockton_150,1973_03_P,1,1,7,usa,Jack_McCoy,Jack McCoy,Noble Auto Parts,,'72 Dodge,100,,running,91,
+1973,P,1973_Stockton_150,1973_03_P,2,2,96,usa,Ray_Elder,Ray Elder,Olympia Beer,,'72 Dodge,100,,running,9,
+1973,P,1973_Stockton_150,1973_03_P,3,7,02,usa,Dick_Bown,Dick Bown,Ober Logging,,'73 Dodge,100,,running,0,
+1973,P,1973_Stockton_150,1973_03_P,4,10,38,usa,Jimmy_Insolo,Jimmy Insolo,Bill Martin's Union 76,,'72 Chevrolet,100,,running,0,
+1973,P,1973_Stockton_150,1973_03_P,5,3,15,usa,Paul_Dorrity,Paul Dorrity,Dorrity Trucking Co.,,'72 Chevrolet,98,,running,0,
+1973,P,1973_Stockton_150,1973_03_P,6,6,42,usa,Richard_White,Richard White,Barnicle Oil Co.,,'71 Ford,98,,running,0,
+1973,P,1973_Stockton_150,1973_03_P,7,9,68,usa,Sonny_Easley,Sonny Easley,Cal Coast Carriers,,'72 Ford,97,,running,0,
+1973,P,1973_Stockton_150,1973_03_P,8,12,3,usa,John_Soares_Jr,"John Soares, Jr.",Maverick Restaurant,,'73 Dodge,97,,running,0,
+1973,P,1973_Stockton_150,1973_03_P,9,5,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,96,,running,0,
+1973,P,1973_Stockton_150,1973_03_P,10,16,57,usa,Don_Graham,Don Graham,Graham Racing,,'72 Chevrolet,95,,running,0,
+1973,P,1973_Stockton_150,1973_03_P,11,11,03,usa,Chuck_Bown,Chuck Bown,Rose Auto Wrecking,,'72 Dodge,95,,running,0,
+1973,P,1973_Stockton_150,1973_03_P,12,19,05,usa,Lamar_Anderson,Lamar Anderson,Anderson Racing,,'73 Dodge,94,,running,0,
+1973,P,1973_Stockton_150,1973_03_P,13,15,34,usa,Ron_McKenna,Ron McKenna,McKenna Racing,,'72 Chevrolet,94,,running,0,
+1973,P,1973_Stockton_150,1973_03_P,14,18,2,usa,Johnny_Steele,Johnny Steele,Johnny Steele,,'71 Ford,92,,running,0,
+1973,P,1973_Stockton_150,1973_03_P,15,20,8,usa,Bob_England,Bob England,England Racing,,Chevrolet,90,,running,0,
+1973,P,1973_Stockton_150,1973_03_P,16,13,37,usa,Chuck_Wahl,Chuck Wahl,Excel Trailer Co.,,'72 Chevrolet,82,,oil line,0,
+1973,P,1973_Stockton_150,1973_03_P,17,17,01,usa,George_Behlman,George Behlman,Behlman Racing,,'72 Chevrolet,53,,axle,0,
+1973,P,1973_Stockton_150,1973_03_P,18,4,31,usa,Markey_James,Markey James,James Racing,,'73 Chevrolet,46,,differential,0,
+1973,P,1973_Stockton_150,1973_03_P,19,8,84,usa,J_C_Danielsen,J.C. Danielsen,Danielson Distributors,,'71 Mercury,28,,crash,0,
+1973,P,1973_Stockton_150,1973_03_P,20,14,55,usa,Jerry_Barnett,Jerry Barnett,We Need One Special,,'72 Chevrolet,12,,engine,0,
+1973,P,1973_Mile_High_150,1973_04_P,1,3,95,usa,Bob_Kauf,Bob Kauf,Wrought Iron Co.,,'72 Chevrolet,150,1900,running,15,97.5
+1973,P,1973_Mile_High_150,1973_04_P,2,9,9,usa,Carl_Adams,Carl Adams,Marck Motors / Quaker State Oil,,'71 Ford,150,1450,running,0,86.5
+1973,P,1973_Mile_High_150,1973_04_P,3,6,41,usa,Ernie_Stierly,Ernie Stierly,Stierly Racing,,'73 Chevrolet,148,1100,running,0,85
+1973,P,1973_Mile_High_150,1973_04_P,4,17,03,usa,Chuck_Bown,Chuck Bown,Rose Auto Wrecking,,'70 Chevrolet,148,950,running,0,84
+1973,P,1973_Mile_High_150,1973_04_P,5,15,42,usa,Richard_White,Richard White,Barnicle Oil Co.,,'71 Ford,148,850,running,0,83
+1973,P,1973_Mile_High_150,1973_04_P,6,14,29,canada,Dick_Midgley,Dick Midgley,Mercury Marine,,'72 Chevrolet,148,750,running,0,82
+1973,P,1973_Mile_High_150,1973_04_P,7,4,96,usa,Ray_Elder,Ray Elder,Olympia Beer,,'72 Dodge,148,800,running,89,81
+1973,P,1973_Mile_High_150,1973_04_P,8,8,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,148,650,running,0,80
+1973,P,1973_Mile_High_150,1973_04_P,9,7,3,usa,John_Soares_Jr,"John Soares, Jr.",Maverick Restaurant,,'73 Dodge,148,600,running,0,79
+1973,P,1973_Mile_High_150,1973_04_P,10,1,57,usa,Don_Graham,Don Graham,Graham Racing,,'72 Chevrolet,148,550,running,0,78
+1973,P,1973_Mile_High_150,1973_04_P,11,5,02,usa,Dick_Bown,Dick Bown,Ober Logging,,'73 Dodge,148,500,running,0,77
+1973,P,1973_Mile_High_150,1973_04_P,12,13,38,usa,Jimmy_Insolo,Jimmy Insolo,Bill Martin's Union 76,,'72 Chevrolet,145,480,running,0,75.25
+1973,P,1973_Mile_High_150,1973_04_P,13,10,84,usa,J_C_Danielsen,J.C. Danielsen,Danielson Distributors,,'71 Mercury,145,460,running,0,74.25
+1973,P,1973_Mile_High_150,1973_04_P,14,19,2,usa,Johnny_Steele,Johnny Steele,Easley Racing,,'71 Ford,142,440,running,0,72.5
+1973,P,1973_Mile_High_150,1973_04_P,15,11,68,usa,Sonny_Easley,Sonny Easley,Cal Coast Carriers,,'73 Ford,140,420,running,0,71
+1973,P,1973_Mile_High_150,1973_04_P,16,16,4,usa,Dick_Kranzler,Dick Kranzler,Kranzler Racing,,'72 Chevrolet,109,400,axle,0,62.25
+1973,P,1973_Mile_High_150,1973_04_P,17,18,05,usa,Lamar_Anderson,Lamar Anderson,Anderson Racing,,'73 Dodge,86,380,crash,0,55.5
+1973,P,1973_Mile_High_150,1973_04_P,18,2,7,usa,Jack_McCoy,Jack McCoy,Noble Auto Parts,,'72 Dodge,64,370,ignition,46,48
+1973,P,1973_Mile_High_150,1973_04_P,19,12,52,usa,Odie_Robertson,Odie Robertson,Robertson Racing,,'71 Mercury,1,350,engine,0,31.25
+1973,P,1973_Klamath_Falls_100,1973_05_P,1,1,7,usa,Jack_McCoy,Jack McCoy,Noble Auto Parts,,'72 Dodge,100,900,running,100,85
+1973,P,1973_Klamath_Falls_100,1973_05_P,2,4,02,usa,Dick_Bown,Dick Bown,Ober Logging,,'73 Dodge,100,650,running,0,74
+1973,P,1973_Klamath_Falls_100,1973_05_P,3,3,96,usa,Ray_Elder,Ray Elder,Olympia Brewery,,'73 Dodge,100,700,running,0,73
+1973,P,1973_Klamath_Falls_100,1973_05_P,4,10,38,usa,Jimmy_Insolo,Jimmy Insolo,Bill Martin's Union 76,,'72 Chevrolet,98,300,running,0,71.5
+1973,P,1973_Klamath_Falls_100,1973_05_P,5,6,68,usa,Sonny_Easley,Sonny Easley,Cal Coast Carriers,,'72 Ford,98,250,running,0,70.5
+1973,P,1973_Klamath_Falls_100,1973_05_P,6,2,26,usa,Carl_Joiner,Carl Joiner,Joiner Racing,,'72 Chevrolet,98,190,running,0,69.5
+1973,P,1973_Klamath_Falls_100,1973_05_P,7,7,41,usa,Ernie_Stierly,Ernie Stierly,Stierly Racing,,'70 Chevrolet,97,170,running,0,68.25
+1973,P,1973_Klamath_Falls_100,1973_05_P,8,13,9,usa,Carl_Adams,Carl Adams,Marck Motors / Quaker State Oil,,'71 Ford,97,160,running,0,67.25
+1973,P,1973_Klamath_Falls_100,1973_05_P,9,11,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,97,155,running,0,66.25
+1973,P,1973_Klamath_Falls_100,1973_05_P,10,14,37,usa,Chuck_Wahl,Chuck Wahl,Excel Trailer Co.,,'72 Chevrolet,97,150,running,0,65.25
+1973,P,1973_Klamath_Falls_100,1973_05_P,11,9,84,usa,J_C_Danielsen,J.C. Danielsen,Danielson Distributors,,'71 Mercury,97,145,running,0,64.25
+1973,P,1973_Klamath_Falls_100,1973_05_P,12,8,3,usa,John_Soares_Jr,"John Soares, Jr.",Maverick Restaurant,,'72 Dodge,97,140,running,0,63.25
+1973,P,1973_Klamath_Falls_100,1973_05_P,13,5,42,usa,Richard_White,Richard White,Barnicle Oil Co.,,'71 Ford,96,135,running,0,62
+1973,P,1973_Klamath_Falls_100,1973_05_P,14,16,03,usa,Chuck_Bown,Chuck Bown,Rose Auto Wrecking,,'73 Plymouth,95,130,running,0,60.75
+1973,P,1973_Klamath_Falls_100,1973_05_P,15,12,95,usa,Bob_Kauf,Bob Kauf,Wrought Iron Co.,,'72 Chevrolet,90,125,engine,0,58.5
+1973,P,1973_Klamath_Falls_100,1973_05_P,16,17,34,none,Carl_Lox,Carl Lox,McKenna Racing,,'72 Chevrolet,87,120,crash,0,56.75
+1973,P,1973_Klamath_Falls_100,1973_05_P,17,15,07,usa,Don_Selley,Don Selley,Selley Racing,,'72 Plymouth,82,115,oil pressure,0,54.5
+1973,P,1973_Klamath_Falls_100,1973_05_P,18,18,2,usa,Johnny_Steele,Johnny Steele,Steele Racing,,'71 Ford,44,110,engine,0,44
+1973,P,1973_Klamath_Falls_100,1973_05_P,19,19,4,usa,Dick_Kranzler,Dick Kranzler,Kranzler Racing,,'72 Chevrolet,1,105,oil pressure,0,32.25
+1973,P,1973_Coos_Bay_100,1973_06_P,1,4,7,usa,Jack_McCoy,Jack McCoy,Noble Auto Parts,,'72 Dodge,100,900,running,72,85
+1973,P,1973_Coos_Bay_100,1973_06_P,2,5,04,usa,Hershel_McGriff,Hershel McGriff,The Cousins,,'72 Dodge,100,650,running,15,74
+1973,P,1973_Coos_Bay_100,1973_06_P,3,1,96,usa,Ray_Elder,Ray Elder,Olympia Brewery,,'72 Dodge,100,700,running,13,73
+1973,P,1973_Coos_Bay_100,1973_06_P,4,13,41,usa,Ernie_Stierly,Ernie Stierly,Stierly Racing,,'73 Chevrolet,100,300,running,0,72
+1973,P,1973_Coos_Bay_100,1973_06_P,5,3,68,usa,Sonny_Easley,Sonny Easley,Cal Coast Carriers,,'73 Ford,99,250,running,0,70.75
+1973,P,1973_Coos_Bay_100,1973_06_P,6,2,02,usa,Dick_Bown,Dick Bown,Ober Logging,,'73 Dodge,99,190,running,0,69.75
+1973,P,1973_Coos_Bay_100,1973_06_P,7,7,03,usa,Chuck_Bown,Chuck Bown,Rose Auto Wrecking,,'72 Dodge,99,170,running,0,68.75
+1973,P,1973_Coos_Bay_100,1973_06_P,8,8,42,usa,Richard_White,Richard White,Barnicle Oil Co.,,'71 Ford,98,160,running,0,67.5
+1973,P,1973_Coos_Bay_100,1973_06_P,9,6,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,98,155,running,0,66.5
+1973,P,1973_Coos_Bay_100,1973_06_P,10,11,9,usa,Carl_Adams,Carl Adams,Marck Motors / Quaker State Oil,,'71 Ford,97,150,running,0,65.25
+1973,P,1973_Coos_Bay_100,1973_06_P,11,10,84,usa,J_C_Danielsen,J.C. Danielsen,Danielson Distributors,,'71 Mercury,96,145,running,0,64
+1973,P,1973_Coos_Bay_100,1973_06_P,12,15,01,usa,George_Behlman,George Behlman,Behlman Racing,,'72 Chevrolet,79,140,running,0,58.75
+1973,P,1973_Coos_Bay_100,1973_06_P,13,14,38,usa,Jimmy_Insolo,Jimmy Insolo,Bill Martin's Union 76,,'72 Chevrolet,61,135,tires,0,53.25
+1973,P,1973_Coos_Bay_100,1973_06_P,14,9,07,usa,Don_Selley,Don Selley,Muntz Car Stereo,,'70 Plymouth,60,130,brakes,0,52
+1973,P,1973_Coos_Bay_100,1973_06_P,15,16,37,usa,Chuck_Wahl,Chuck Wahl,Excel Trailer Co.,,'72 Chevrolet,29,125,fan,0,43.25
+1973,P,1973_Coos_Bay_100,1973_06_P,16,19,95,usa,Bob_Kauf,Bob Kauf,Wrought Iron Co.,,'72 Chevrolet,26,120,overheating,0,41.5
+1973,P,1973_Coos_Bay_100,1973_06_P,17,17,34,none,Carl_Lox,Carl Lox,McKenna Racing,,'72 Chevrolet,15,115,clutch,0,37.75
+1973,P,1973_Coos_Bay_100,1973_06_P,18,12,4,usa,Dick_Kranzler,Dick Kranzler,Kranzler Racing,,'72 Chevrolet,5,110,oil pressure,0,34.25
+1973,P,1973_Coos_Bay_100,1973_06_P,19,18,3,usa,John_Soares_Jr,"John Soares, Jr.",Maverick Restaurant,,'73 Dodge,5,105,transmission,0,33.25
+1973,P,1973_Coos_Bay_100,1973_06_P,20,20,24,usa,Willie_McNeal,Willie McNeal,McNeal Racing,,'70 Dodge,1,100,oil pressure,0,31.25
+1973,P,1973_Umatilla_150,1973_07_P,1,1,7,usa,Jack_McCoy,Jack McCoy,Noble Auto Parts,,'73 Dodge,150,975,running,150,97.5
+1973,P,1973_Umatilla_150,1973_07_P,2,6,02,usa,Dick_Bown,Dick Bown,Ober Logging,,'73 Dodge,150,675,running,0,86.5
+1973,P,1973_Umatilla_150,1973_07_P,3,5,87,canada,Norm_Ellefson,Norm Ellefson,Ellefson Racing,,'72 Chevrolet,149,525,running,0,85.25
+1973,P,1973_Umatilla_150,1973_07_P,4,2,96,usa,Ray_Elder,Ray Elder,Olympia Brewery,,'72 Dodge,149,525,running,0,84.25
+1973,P,1973_Umatilla_150,1973_07_P,5,10,38,usa,Jimmy_Insolo,Jimmy Insolo,Bill Martin's Union 76,,'72 Chevrolet,149,275,running,0,83.25
+1973,P,1973_Umatilla_150,1973_07_P,6,8,68,usa,Sonny_Easley,Sonny Easley,Cal Coast Carriers,,'73 Ford,147,200,running,0,81.75
+1973,P,1973_Umatilla_150,1973_07_P,7,4,41,usa,Ernie_Stierly,Ernie Stierly,Stierly Racing,,'71 Chevrolet,147,175,running,0,80.75
+1973,P,1973_Umatilla_150,1973_07_P,8,12,03,usa,Chuck_Bown,Chuck Bown,Rose Auto Wrecking,,'72 Plymouth,146,165,running,0,79.5
+1973,P,1973_Umatilla_150,1973_07_P,9,7,26,usa,Bob_Kauf,Bob Kauf,Wrought Iron Co.,,'72 Chevrolet,146,160,running,0,78.5
+1973,P,1973_Umatilla_150,1973_07_P,10,11,42,usa,Richard_White,Richard White,Barnicle Oil Co.,,'72 Ford,144,150,running,0,77
+1973,P,1973_Umatilla_150,1973_07_P,11,9,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'72 Ford,143,145,running,0,75.75
+1973,P,1973_Umatilla_150,1973_07_P,12,16,4,usa,Dick_Kranzler,Dick Kranzler,Kranzler Racing,,'72 Chevrolet,141,140,running,0,74.25
+1973,P,1973_Umatilla_150,1973_07_P,13,14,01,usa,George_Behlman,George Behlman,Behlman Racing,,'71 Chevrolet,123,135,running,0,68.75
+1973,P,1973_Umatilla_150,1973_07_P,14,13,22,usa,Jack_Jeffery,Jack Jeffery,Best Auto Parts,,'72 Dodge,114,130,tires,0,65.5
+1973,P,1973_Umatilla_150,1973_07_P,15,3,04,usa,Hershel_McGriff,Hershel McGriff,The Cousins,,'73 Plymouth,99,125,suspension,0,60.75
+1973,P,1973_Umatilla_150,1973_07_P,16,15,1,usa,Don_Hall,Don Hall,Hall Racing,,'71 Chevrolet,14,120,engine,0,38.5
+1973,P,1973_Umatilla_150,1973_07_P,17,17,37,usa,Chuck_Wahl,Chuck Wahl,Excel Trailer Co.,,'72 Chevrolet,13,115,engine,0,37.25
+1973,P,1973_Umatilla_150,1973_07_P,18,18,3,usa,John_Soares_Jr,"John Soares, Jr.",Maverick Restaurant,,'72 Dodge,2,110,engine,0,33.5
+1973,P,1973_Portland_100,1973_08_P,1,1,04,usa,Hershel_McGriff,Hershel McGriff,The Cousins,,'73 Plymouth,100,1000,running,41,85
+1973,P,1973_Portland_100,1973_08_P,2,3,41,usa,Ernie_Stierly,Ernie Stierly,Stierly Racing,,'73 Chevrolet,100,700,running,0,74
+1973,P,1973_Portland_100,1973_08_P,3,9,03,usa,Chuck_Bown,Chuck Bown,Rose Auto Wrecking,,'73 Plymouth,100,525,running,0,73
+1973,P,1973_Portland_100,1973_08_P,4,11,9,usa,Carl_Adams,Carl Adams,Marck Motors / Quaker State Oil,,'72 Ford,100,325,running,0,72
+1973,P,1973_Portland_100,1973_08_P,5,8,38,usa,Jimmy_Insolo,Jimmy Insolo,Bill Martin's Union 76,,'72 Chevrolet,100,275,running,0,71
+1973,P,1973_Portland_100,1973_08_P,6,16,68,usa,Sonny_Easley,Sonny Easley,Cal Coast Carriers,,'73 Ford,100,215,running,0,70
+1973,P,1973_Portland_100,1973_08_P,7,4,26,usa,Carl_Joiner,Carl Joiner,Joiner Racing,,'72 Chevrolet,100,200,running,0,69
+1973,P,1973_Portland_100,1973_08_P,8,2,7,usa,Jack_McCoy,Jack McCoy,Noble Auto Parts,,'73 Dodge,100,185,running,59,68
+1973,P,1973_Portland_100,1973_08_P,9,5,02,usa,Dick_Bown,Dick Bown,Ober Logging,,'73 Dodge,100,180,running,0,67
+1973,P,1973_Portland_100,1973_08_P,10,22,14,usa,Doug_McGriff,Doug McGriff,McGriff Racing,,'72 Dodge,99,175,running,0,65.75
+1973,P,1973_Portland_100,1973_08_P,11,18,42,usa,Richard_White,Richard White,Barnicle Oil Co.,,'72 Ford,98,170,running,0,64.5
+1973,P,1973_Portland_100,1973_08_P,12,24,4,usa,Dick_Kranzler,Dick Kranzler,Kranzler Racing,,'72 Chevrolet,97,165,running,0,63.25
+1973,P,1973_Portland_100,1973_08_P,13,7,17,usa,Ron_Eaton,Ron Eaton,Eaton Racing,,'70 Ford,97,160,running,0,62.25
+1973,P,1973_Portland_100,1973_08_P,14,14,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'72 Ford,96,150,running,0,61
+1973,P,1973_Portland_100,1973_08_P,15,25,23,usa,Perry_Cottingham,Perry Cottingham,Cottingham Racing,,'73 Buick,94,145,running,0,59.5
+1973,P,1973_Portland_100,1973_08_P,16,20,84,usa,J_C_Danielsen,J.C. Danielsen,Danielson Distributors,,'72 Mercury,91,140,running,0,57.75
+1973,P,1973_Portland_100,1973_08_P,17,23,01,usa,George_Behlman,George Behlman,Behlman Racing,,'71 Chevrolet,66,135,off track,0,50.5
+1973,P,1973_Portland_100,1973_08_P,18,19,22,usa,Jack_Jeffery,Jack Jeffery,Best Auto Parts,,'72 Dodge,49,130,engine,0,45.25
+1973,P,1973_Portland_100,1973_08_P,19,12,95,usa,Bob_Kauf,Bob Kauf,Wrought Iron Co.,,'72 Chevrolet,39,125,engine,0,41.75
+1973,P,1973_Portland_100,1973_08_P,20,6,96,usa,Ray_Elder,Ray Elder,Olympia Brewery,,'72 Dodge,35,320,rear shock,0,39.75
+1973,P,1973_Portland_100,1973_08_P,21,15,10,usa,Leon_Fox,Leon Fox,Fox Motors,,'72 Ford,34,115,crash,0,38.5
+1973,P,1973_Portland_100,1973_08_P,22,10,87,canada,Norm_Ellefson,Norm Ellefson,Ellefson Racing,,'70 Ford,23,110,oil pressure,0,34.75
+1973,P,1973_Portland_100,1973_08_P,23,21,3,usa,John_Soares_Jr,"John Soares, Jr.",Maverick Restaurant,,'72 Dodge,16,105,overheating,0,32
+1973,P,1973_Portland_100,1973_08_P,24,17,07,usa,Don_Selley,Don Selley,Rebel Stereo,,'72 Plymouth,5,100,oil leak,0,28.25
+1973,P,1973_Portland_100,1973_08_P,25,13,1,usa,Don_Hall,Don Hall,Hall Racing,,'71 Chevrolet,3,100,engine,0,26.75
+1973,P,1973_Tacoma_150,1973_09_P,1,3,96,usa,Ray_Elder,Ray Elder,Olympia Brewery,,'73 Dodge,150,1175,running,33,
+1973,P,1973_Tacoma_150,1973_09_P,2,4,02,usa,Dick_Bown,Dick Bown,Ober Logging,,'73 Dodge,150,675,running,0,
+1973,P,1973_Tacoma_150,1973_09_P,3,10,03,usa,Chuck_Bown,Chuck Bown,Rose Auto Wrecking,,'72 Dodge,150,525,running,0,
+1973,P,1973_Tacoma_150,1973_09_P,4,1,7,usa,Jack_McCoy,Jack McCoy,Noble Auto Parts,,'73 Dodge,150,325,running,117,
+1973,P,1973_Tacoma_150,1973_09_P,5,5,17,usa,Ron_Eaton,Ron Eaton,Eaton Racing,,'72 Chevrolet,149,275,running,0,
+1973,P,1973_Tacoma_150,1973_09_P,6,2,68,usa,Sonny_Easley,Sonny Easley,Cal Coast Carriers,,'73 Ford,149,200,running,0,
+1973,P,1973_Tacoma_150,1973_09_P,7,8,1,usa,Don_Hall,Don Hall,Hall Racing,,'72 Chevrolet,147,175,running,0,
+1973,P,1973_Tacoma_150,1973_09_P,8,6,42,usa,Richard_White,Richard White,Barnicle Oil Co.,,'70 Ford,147,165,running,0,
+1973,P,1973_Tacoma_150,1973_09_P,9,16,41,usa,Ernie_Stierly,Ernie Stierly,Stierly Racing,,'72 Chevrolet,146,160,running,0,
+1973,P,1973_Tacoma_150,1973_09_P,10,17,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'72 Ford,145,150,running,0,
+1973,P,1973_Tacoma_150,1973_09_P,11,14,84,usa,J_C_Danielsen,J.C. Danielsen,Danielson Distributors,,'72 Mercury,144,145,running,0,
+1973,P,1973_Tacoma_150,1973_09_P,12,18,01,usa,George_Behlman,George Behlman,Behlman Racing,,'70 Chevrolet,138,140,running,0,
+1973,P,1973_Tacoma_150,1973_09_P,13,9,9,usa,Carl_Adams,Carl Adams,Marck Motors / Quaker State Oil,,'72 Ford,131,135,running,0,
+1973,P,1973_Tacoma_150,1973_09_P,14,19,23,usa,Perry_Cottingham,Perry Cottingham,Cottingham Racing,,'73 Buick,103,130,running,0,
+1973,P,1973_Tacoma_150,1973_09_P,15,20,4,usa,Dick_Kranzler,Dick Kranzler,Kranzler Racing,,'72 Chevrolet,82,125,overheating,0,
+1973,P,1973_Tacoma_150,1973_09_P,16,11,33,usa,Kemp_Brock,Kemp Brock,Brock Racing,,'70 Chevrolet,82,120,oil pressure,0,
+1973,P,1973_Tacoma_150,1973_09_P,17,15,38,usa,Jimmy_Insolo,Jimmy Insolo,Bill Martin's Union 76,,'72 Chevrolet,78,115,suspension,0,
+1973,P,1973_Tacoma_150,1973_09_P,18,7,3,usa,John_Soares_Jr,"John Soares, Jr.",Maverick Restaurant,,'72 Dodge,75,110,running,0,
+1973,P,1973_Tacoma_150,1973_09_P,19,12,29,canada,Roy_Smith,Roy Smith,Smith Racing,,'72 Chevrolet,16,105,engine,0,
+1973,P,1973_Tacoma_150,1973_09_P,20,13,55,usa,Jerry_Barnett,Jerry Barnett,Barnett Racing,,'71 Chevrolet,15,100,clutch,0,
+1973,P,1973_Westwood_150,1973_10_P,1,5,96,usa,Ray_Elder,Ray Elder,Olympia Brewery,,'73 Dodge,84,1600,running,35,123
+1973,P,1973_Westwood_150,1973_10_P,2,4,68,usa,Sonny_Easley,Sonny Easley,Cal Coast Carriers,,'73 Ford,84,1050,running,12,112
+1973,P,1973_Westwood_150,1973_10_P,3,3,02,usa,Dick_Bown,Dick Bown,Ober Logging,,'73 Dodge,84,800,running,8,111
+1973,P,1973_Westwood_150,1973_10_P,4,7,84,usa,J_C_Danielsen,J.C. Danielsen,Danielson Distributors,,'71 Mercury,84,600,running,0,110
+1973,P,1973_Westwood_150,1973_10_P,5,15,42,usa,Richard_White,Richard White,Barnicle Oil Co.,,'71 Ford,83,515,running,0,108.25
+1973,P,1973_Westwood_150,1973_10_P,6,6,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,82,375,running,0,106.5
+1973,P,1973_Westwood_150,1973_10_P,7,10,9,usa,Carl_Adams,Carl Adams,Marck Motors / Quaker State Oil,,'71 Ford,79,300,running,4,103.25
+1973,P,1973_Westwood_150,1973_10_P,8,13,4,usa,Dick_Kranzler,Dick Kranzler,Kranzler Racing,,'72 Chevrolet,78,290,running,0,101.5
+1973,P,1973_Westwood_150,1973_10_P,9,16,3,usa,John_Soares_Jr,"John Soares, Jr.",Maverick Restaurant,,'73 Dodge,74,280,engine,0,97.5
+1973,P,1973_Westwood_150,1973_10_P,10,14,23,usa,Perry_Cottingham,Perry Cottingham,Cottingham Racing,,'72 Buick,73,270,running,0,95.75
+1973,P,1973_Westwood_150,1973_10_P,11,19,46,canada,Vaughn_Coogan,Vaughn Coogan,Coogan Racing,,'70 Chevrolet,73,260,running,0,94.75
+1973,P,1973_Westwood_150,1973_10_P,12,1,7,usa,Jack_McCoy,Jack McCoy,Noble Auto Parts,,'72 Dodge,70,250,transmission,0,91.5
+1973,P,1973_Westwood_150,1973_10_P,13,11,10,usa,Leon_Fox,Leon Fox,Fox Racing,,'72 Chevrolet,61,240,running,0,83.75
+1973,P,1973_Westwood_150,1973_10_P,14,2,38,usa,Jimmy_Insolo,Jimmy Insolo,Bill Martin's Union 76,,'72 Mercury,47,235,oil pan,25,72.25
+1973,P,1973_Westwood_150,1973_10_P,15,6,03,usa,Chuck_Bown,Chuck Bown,Rose Auto Wrecking,,'72 Dodge,39,230,engine,0,65.25
+1973,P,1973_Westwood_150,1973_10_P,16,9,29,canada,Roy_Smith,Roy Smith,Smith Racing,,'72 Chevrolet,27,225,engine,0,55.25
+1973,P,1973_Westwood_150,1973_10_P,17,12,01,usa,George_Behlman,George Behlman,Behlman Racing,,'72 Chevrolet,8,220,oil leak,0,40
+1973,P,1973_Westwood_150,1973_10_P,18,18,55,usa,Jerry_Barnett,Jerry Barnett,Barnett Racing,,'72 Chevrolet,7,215,oil leak,0,38.25
+1973,P,1973_Westwood_150,1973_10_P,19,17,90,canada,Phil_Dowler,Phil Dowler,Dowler Racing,,'72 Chevrolet,3,210,ignition,0,34.25
+1973,P,1973_Westwood_150,1973_10_P,20,20,27,canada,Jim_McMillan,Jim McMillan,McMillan Racing,,'70 Chevrolet,2,200,transmission,0,0
+1973,P,1973_Saugus_150,1973_11_P,1,5,7,usa,Jack_McCoy,Jack McCoy,Noble Auto Parts,,'73 Dodge,150,1000,running,37,97.5
+1973,P,1973_Saugus_150,1973_11_P,2,3,02,usa,Dick_Bown,Dick Bown,Ober Logging,,'73 Dodge,150,700,running,0,86.5
+1973,P,1973_Saugus_150,1973_11_P,3,4,31,usa,Markey_James,Markey James,James Racing,,'73 Chevrolet,150,525,running,0,85.5
+1973,P,1973_Saugus_150,1973_11_P,4,18,42,usa,Richard_White,Richard White,Barnicle Oil Co.,,'71 Ford,148,350,running,0,84
+1973,P,1973_Saugus_150,1973_11_P,5,10,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,148,300,running,0,83
+1973,P,1973_Saugus_150,1973_11_P,6,15,03,usa,Chuck_Bown,Chuck Bown,Rose Auto Wrecking,,'72 Dodge,147,200,running,0,81.75
+1973,P,1973_Saugus_150,1973_11_P,7,6,95,usa,Bob_Kauf,Bob Kauf,Wrought Iron Co.,,'72 Chevrolet,146,175,running,0,80.5
+1973,P,1973_Saugus_150,1973_11_P,8,7,68,usa,Sonny_Easley,Sonny Easley,Cal Coast Carriers,,'73 Ford,146,165,running,0,79.5
+1973,P,1973_Saugus_150,1973_11_P,9,9,34,usa,Ron_McKenna,Ron McKenna,McKenna Racing,,'72 Chevrolet,145,160,running,0,78.25
+1973,P,1973_Saugus_150,1973_11_P,10,1,96,usa,Ray_Elder,Ray Elder,Olympia Brewery,,'73 Dodge,145,350,running,0,77.25
+1973,P,1973_Saugus_150,1973_11_P,11,14,01,usa,George_Behlman,George Behlman,Behlman Racing,,'72 Chevrolet,144,145,running,0,76
+1973,P,1973_Saugus_150,1973_11_P,12,2,38,usa,Jimmy_Insolo,Jimmy Insolo,Bill Martin's Union 76,,'72 Chevrolet,143,140,running,113,74.75
+1973,P,1973_Saugus_150,1973_11_P,13,17,73,usa,Steve_Vaughn,Steve Vaughn,Vaughn Racing,,'73 Chevrolet,132,135,running,0,71
+1973,P,1973_Saugus_150,1973_11_P,14,19,21,usa,Roger_Parr,Roger Parr,A-V Rental,,'70 Dodge,100,130,suspension,0,62
+1973,P,1973_Saugus_150,1973_11_P,15,12,53,usa,Jack_Simpson,Jack Simpson,Competition Machine Center,,'72 Chevrolet,78,125,running,0,55.5
+1973,P,1973_Saugus_150,1973_11_P,16,8,55,usa,Jerry_Barnett,Jerry Barnett,Barnett Racing,,'72 Chevrolet,56,120,brakes,0,49
+1973,P,1973_Saugus_150,1973_11_P,17,13,4,usa,Dick_Kranzler,Dick Kranzler,Kranzler Racing,,'72 Chevrolet,41,115,clutch,0,44.25
+1973,P,1973_Saugus_150,1973_11_P,18,20,37,usa,Chuck_Wahl,Chuck Wahl,Excel Trailer Co.,,'72 Chevrolet,26,110,overheating,0,39.5
+1973,P,1973_Saugus_150,1973_11_P,19,16,44,usa,Frank_Garafolo,Frank Garafolo,Garafolo Racing,,'72 Chevrolet,21,105,brakes,0,37.25
+1973,P,1973_Saugus_150,1973_11_P,20,11,3,usa,John_Soares_Jr,"John Soares, Jr.",Maverick Restaurant,,'73 Dodge,9,100,engine,0,33.25
+1973,P,1973_Cajon_Tuborg_150,1973_12_P,1,2,02,usa,Dick_Bown,Dick Bown,Ober Logging,,'73 Dodge,150,975,running,38,97.5
+1973,P,1973_Cajon_Tuborg_150,1973_12_P,2,5,3,usa,John_Soares_Jr,"John Soares, Jr.",Maverick Restaurant,,'73 Dodge,150,675,running,43,86.5
+1973,P,1973_Cajon_Tuborg_150,1973_12_P,3,14,37,usa,Chuck_Wahl,Chuck Wahl,Excel Trailer Co.,,'72 Chevrolet,150,525,running,0,85.5
+1973,P,1973_Cajon_Tuborg_150,1973_12_P,4,20,95,usa,Bob_Kauf,Bob Kauf,Wrought Iron Co.,,'72 Chevrolet,150,325,running,0,84.5
+1973,P,1973_Cajon_Tuborg_150,1973_12_P,5,9,03,usa,Chuck_Bown,Chuck Bown,Rose Auto Wrecking,,'72 Dodge,150,275,running,0,83.5
+1973,P,1973_Cajon_Tuborg_150,1973_12_P,6,7,9,usa,Carl_Adams,Carl Adams,Marck Motors / Quaker State Oil,,'71 Ford,149,200,running,0,82.25
+1973,P,1973_Cajon_Tuborg_150,1973_12_P,7,8,4,usa,Ray_Elder,Ray Elder,Olympia Brewery,,'73 Chevrolet,148,375,running,0,81
+1973,P,1973_Cajon_Tuborg_150,1973_12_P,8,16,01,usa,George_Behlman,George Behlman,Behlman Racing,,'72 Chevrolet,148,165,running,0,80
+1973,P,1973_Cajon_Tuborg_150,1973_12_P,9,6,38,usa,Jimmy_Insolo,Jimmy Insolo,Bill Martin's Union 76,,'73 Chevrolet,147,160,running,0,78.75
+1973,P,1973_Cajon_Tuborg_150,1973_12_P,10,19,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,145,150,running,0,77.25
+1973,P,1973_Cajon_Tuborg_150,1973_12_P,11,4,42,usa,Richard_White,Richard White,Barnicle Oil Co.,,'71 Ford,139,145,running,43,74.75
+1973,P,1973_Cajon_Tuborg_150,1973_12_P,12,10,84,usa,J_C_Danielsen,J.C. Danielsen,Danielson Distributors,,'72 Mercury,138,140,running,0,73.5
+1973,P,1973_Cajon_Tuborg_150,1973_12_P,13,12,31,usa,Markey_James,Markey James,James Racing,,'73 Chevrolet,123,135,overheating,0,68.75
+1973,P,1973_Cajon_Tuborg_150,1973_12_P,14,15,34,usa,Ron_McKenna,Ron McKenna,McKenna Racing,,'72 Chevrolet,122,130,crash,0,67.5
+1973,P,1973_Cajon_Tuborg_150,1973_12_P,15,17,55,usa,Jerry_Barnett,Jerry Barnett,Barnett Racing,,'72 Chevrolet,79,125,transmission,0,55.75
+1973,P,1973_Cajon_Tuborg_150,1973_12_P,16,3,68,usa,Sonny_Easley,Sonny Easley,Cal Coast Carriers,,'73 Ford,73,120,running,8,53.25
+1973,P,1973_Cajon_Tuborg_150,1973_12_P,17,18,23,usa,Perry_Cottingham,Perry Cottingham,Cottingham Racing,,'72 Buick,54,115,oil pressure,0,47.5
+1973,P,1973_Cajon_Tuborg_150,1973_12_P,18,13,44,usa,Frank_Garafolo,Frank Garafolo,Garafolo Racing,,'72 Chevrolet,45,110,shock bracket,0,44.25
+1973,P,1973_Cajon_Tuborg_150,1973_12_P,19,1,7,usa,Jack_McCoy,Jack McCoy,Noble Auto Parts,,'73 Dodge,18,105,engine,18,36.5
+1973,P,1973_Cajon_Tuborg_150,1973_12_P,20,11,05,usa,Bill_Butts,Bill Butts,Butts Racing,,'72 Dodge,18,100,engine,0,35.5
+1973,P,1973_San_Bernardino_100,1973_13_P,1,1,7,usa,Jack_McCoy,Jack McCoy,Noble Auto Parts,,'73 Dodge,100,900,running,100,85
+1973,P,1973_San_Bernardino_100,1973_13_P,2,3,96,usa,Ray_Elder,Ray Elder,Olympia Brewery,,'72 Dodge,100,850,running,0,74
+1973,P,1973_San_Bernardino_100,1973_13_P,3,5,02,usa,Dick_Bown,Dick Bown,Ober Logging,,'73 Dodge,99,500,running,0,72.75
+1973,P,1973_San_Bernardino_100,1973_13_P,4,4,3,usa,John_Soares_Jr,"John Soares, Jr.",Maverick Restaurant,,'73 Dodge,99,300,running,0,71.75
+1973,P,1973_San_Bernardino_100,1973_13_P,5,6,68,usa,Sonny_Easley,Sonny Easley,Cal Coast Carriers,,'73 Ford,98,250,running,0,70.5
+1973,P,1973_San_Bernardino_100,1973_13_P,6,7,38,usa,Jimmy_Insolo,Jimmy Insolo,Bill Martin's Union 76,,'72 Chevrolet,98,190,running,0,69.5
+1973,P,1973_San_Bernardino_100,1973_13_P,7,10,05,usa,Chuck_Bown,Chuck Bown,Rose Auto Wrecking,,'72 Dodge,98,170,running,0,68.5
+1973,P,1973_San_Bernardino_100,1973_13_P,8,13,37,usa,Chuck_Wahl,Chuck Wahl,Excel Trailer Co.,,'72 Chevrolet,98,160,running,0,67.5
+1973,P,1973_San_Bernardino_100,1973_13_P,9,9,95,usa,Bob_Kauf,Bob Kauf,Wrought Iron Co.,,'72 Chevrolet,98,155,running,0,66.5
+1973,P,1973_San_Bernardino_100,1973_13_P,10,18,4,usa,Dick_Kranzler,Dick Kranzler,Kranzler Racing,,'72 Chevrolet,97,150,running,0,65.25
+1973,P,1973_San_Bernardino_100,1973_13_P,11,2,9,usa,Carl_Adams,Carl Adams,Marck Motors / Quaker State Oil,,'71 Ford,97,145,running,0,64.25
+1973,P,1973_San_Bernardino_100,1973_13_P,12,11,01,usa,George_Behlman,George Behlman,Behlman Racing,,'72 Chevrolet,97,140,running,0,63.25
+1973,P,1973_San_Bernardino_100,1973_13_P,13,14,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,96,135,running,0,62
+1973,P,1973_San_Bernardino_100,1973_13_P,14,16,91,usa,Johnny_Anderson,Johnny Anderson,Anderson Racing,,'72 Chevrolet,95,130,running,0,60.75
+1973,P,1973_San_Bernardino_100,1973_13_P,15,19,92,none,Jim_Lee_Phillips,Jim Lee Phillips,Phillips Racing,,'72 Chevrolet,93,125,running,0,0
+1973,P,1973_San_Bernardino_100,1973_13_P,16,12,55,usa,Jerry_Barnett,Jerry Barnett,Barnett Racing,,'72 Chevrolet,93,120,running,0,58.25
+1973,P,1973_San_Bernardino_100,1973_13_P,17,8,42,usa,Richard_White,Richard White,Barnicle Oil Co.,,'71 Ford,74,115,crash,0,52.5
+1973,P,1973_San_Bernardino_100,1973_13_P,18,17,5,usa,Sam_Beler,Sam Beler,Beler Racing,,'72 Chevrolet,72,110,crash,0,51
+1973,P,1973_San_Bernardino_100,1973_13_P,19,15,44,usa,Frank_Garafolo,Frank Garafolo,Garafolo Racing,,'72 Chevrolet,43,105,oil leak,0,42.75
+1973,P,1973_San_Bernardino_100,1973_13_P,20,20,20,usa,Buck_Peralta,Buck Peralta,Peralta Racing,,'72 Ford,30,100,differential,0,38.5
+1973,P,1973-14,1973_14_P,1,2,96,usa,Ray_Elder,Ray Elder,Olympia Brewery,,'72 Dodge,100,1200,running,100,
+1973,P,1973-14,1973_14_P,2,5,7,usa,Jack_McCoy,Jack McCoy,Noble Auto Parts,,'73 Dodge,100,700,running,0,
+1973,P,1973-14,1973_14_P,3,8,68,usa,Sonny_Easley,Sonny Easley,Cal Coast Carriers,,'73 Ford,100,525,running,0,
+1973,P,1973-14,1973_14_P,4,1,3,usa,John_Soares_Jr,"John Soares, Jr.",Maverick Restaurant,,'73 Dodge,99,325,running,0,
+1973,P,1973-14,1973_14_P,5,10,9,usa,Carl_Adams,Carl Adams,Marck Motors / Quaker State Oil,,'71 Ford,98,275,running,0,
+1973,P,1973-14,1973_14_P,6,12,03,usa,Chuck_Bown,Chuck Bown,Rose Auto Wrecking,,'72 Dodge,96,215,running,0,
+1973,P,1973-14,1973_14_P,7,7,42,usa,Richard_White,Richard White,Barnicle Oil Co.,,'71 Ford,93,200,running,0,
+1973,P,1973-14,1973_14_P,8,6,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,93,185,running,0,
+1973,P,1973-14,1973_14_P,9,4,02,usa,Dick_Bown,Dick Bown,Ober Logging,,'73 Dodge,93,180,running,0,
+1973,P,1973-14,1973_14_P,10,3,95,usa,Bob_Kauf,Bob Kauf,Wrought Iron Co.,,'72 Chevrolet,91,175,transmission,0,
+1973,P,1973-14,1973_14_P,11,18,5,usa,Sam_Beler,Sam Beler,Beler Racing,,'72 Chevrolet,90,170,water hose,0,
+1973,P,1973-14,1973_14_P,12,13,4,usa,Dick_Kranzler,Dick Kranzler,Kranzler Racing,,'72 Chevrolet,79,165,fuel pump,0,
+1973,P,1973-14,1973_14_P,13,15,40,usa,Les_Loeser_Jr,"Les Loeser, Jr.",Jerry Lankford,,'72 Chevrolet,44,160,engine,0,
+1973,P,1973-14,1973_14_P,14,9,44,usa,Frank_Garafolo,Frank Garafolo,Garafolo Racing,,'72 Chevrolet,32,150,crash,0,
+1973,P,1973-14,1973_14_P,15,14,01,usa,George_Behlman,George Behlman,Behlman Racing,,Chevrolet,20,145,overheating,0,
+1973,P,1973-14,1973_14_P,16,11,37,usa,Chuck_Wahl,Chuck Wahl,Excel Trailer Co.,,'72 Chevrolet,13,140,overheating,0,
+1973,P,1973-14,1973_14_P,17,17,2,usa,Johnny_Steele,Johnny Steele,Johnny Steele,,'71 Ford,3,135,axle,0,
+1973,P,1973-14,1973_14_P,18,16,23,usa,Perry_Cottingham,Perry Cottingham,Cottingham Racing,,'73 Buick,1,130,drive shaft,0,
+1973,P,1973_Bakersfield_100,1973_15_P,1,2,7,usa,Jack_McCoy,Jack McCoy,Noble Auto Parts,,'73 Dodge,100,900,running,85,85
+1973,P,1973_Bakersfield_100,1973_15_P,2,3,02,usa,Dick_Bown,Dick Bown,Ober Logging,,'73 Dodge,100,650,running,0,74
+1973,P,1973_Bakersfield_100,1973_15_P,3,1,96,usa,Ray_Elder,Ray Elder,Olympia Brewery,,'72 Dodge,100,700,running,15,73
+1973,P,1973_Bakersfield_100,1973_15_P,4,6,31,usa,Markey_James,Markey James,James Racing,,'73 Chevrolet,99,300,running,0,71.75
+1973,P,1973_Bakersfield_100,1973_15_P,5,7,9,usa,Carl_Adams,Carl Adams,Marck Motors / Quaker State Oil,,'71 Ford,99,250,running,0,70.75
+1973,P,1973_Bakersfield_100,1973_15_P,6,9,37,usa,Chuck_Wahl,Chuck Wahl,Excel Trailer Co.,,'72 Chevrolet,98,190,running,0,69.5
+1973,P,1973_Bakersfield_100,1973_15_P,7,11,95,usa,Bob_Kauf,Bob Kauf,Wrought Iron Co.,,'72 Chevrolet,98,170,running,0,68.5
+1973,P,1973_Bakersfield_100,1973_15_P,8,10,4,usa,Dick_Kranzler,Dick Kranzler,Kranzler Racing,,'73 Chevrolet,97,160,running,0,67.25
+1973,P,1973_Bakersfield_100,1973_15_P,9,17,42,usa,Richard_White,Richard White,Barnicle Oil Co.,,'71 Ford,97,155,running,0,66.25
+1973,P,1973_Bakersfield_100,1973_15_P,10,5,03,usa,Chuck_Bown,Chuck Bown,Rose Auto Wrecking,,'72 Chevrolet,95,150,running,0,64.75
+1973,P,1973_Bakersfield_100,1973_15_P,11,12,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,95,145,running,0,63.75
+1973,P,1973_Bakersfield_100,1973_15_P,12,16,23,usa,Perry_Cottingham,Perry Cottingham,Cottingham Racing,,'73 Buick,90,140,running,0,61.5
+1973,P,1973_Bakersfield_100,1973_15_P,13,8,3,usa,John_Soares_Jr,"John Soares, Jr.",Maverick Restaurant,,'73 Dodge,55,135,overheating,0,51.75
+1973,P,1973_Bakersfield_100,1973_15_P,14,4,68,usa,Sonny_Easley,Sonny Easley,Cal Coast Carriers,,'73 Ford,43,130,differential,0,47.75
+1973,P,1973_Bakersfield_100,1973_15_P,15,14,5,usa,Sam_Beler,Sam Beler,Beler Racing,,'72 Chevrolet,42,125,overheating,0,46.5
+1973,P,1973_Bakersfield_100,1973_15_P,16,13,01,usa,George_Behlman,George Behlman,Behlman Racing,,'72 Chevrolet,23,120,suspension,0,40.75
+1973,P,1973_Bakersfield_100,1973_15_P,17,15,33,usa,Glenn_Francis,Glenn Francis,Francis Racing,,'72 Chevrolet,6,115,transmission,0,35.5
+1973,P,1973_Bakersfield_100,1973_15_P,18,18,2,usa,Johnny_Steele,Johnny Steele,Steele Racing,,'71 Ford,1,110,axle,0,33.25
+1973,P,1973_Tuborg_Classic,1973_16_P,1,15,68,usa,Sonny_Easley,Sonny Easley,Cal Coast Carriers,,'73 Ford,79,2300,running,8,119.25
+1973,P,1973_Tuborg_Classic,1973_16_P,2,2,7,usa,Jack_McCoy,Jack McCoy,Noble Auto Parts,,'73 Dodge,79,1650,running,13,108.25
+1973,P,1973_Tuborg_Classic,1973_16_P,3,1,04,usa,Hershel_McGriff,Hershel McGriff,Olympia Brewery / The Cousins,,'73 Plymouth,79,1200,running,30,107.25
+1973,P,1973_Tuborg_Classic,1973_16_P,4,3,38,usa,Jimmy_Insolo,Jimmy Insolo,Bill Martin's Union 76,,'72 Chevrolet,79,850,running,6,106.25
+1973,P,1973_Tuborg_Classic,1973_16_P,5,6,42,usa,Richard_White,Richard White,Barnicle Oil Co.,,'71 Ford,79,750,running,0,105.25
+1973,P,1973_Tuborg_Classic,1973_16_P,6,9,31,usa,Markey_James,Markey James,James Racing,,'73 Chevrolet,79,590,running,0,104.25
+1973,P,1973_Tuborg_Classic,1973_16_P,7,19,3,usa,John_Soares_Jr,"John Soares, Jr.",Maverick Restaurant,,'73 Dodge,79,565,running,0,103.25
+1973,P,1973_Tuborg_Classic,1973_16_P,8,5,84,usa,J_C_Danielsen,J.C. Danielsen,Danielson Distributors,,'72 Mercury,79,540,running,0,102.25
+1973,P,1973_Tuborg_Classic,1973_16_P,9,13,9,usa,Carl_Adams,Carl Adams,Marck Motors / Quaker State Oil,,'71 Ford,78,520,running,0,100.5
+1973,P,1973_Tuborg_Classic,1973_16_P,10,21,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,77,500,running,0,98.75
+1973,P,1973_Tuborg_Classic,1973_16_P,11,25,21,usa,Pete_Torres,Pete Torres,Torres Racing,,'69 Ford,77,480,running,0,0
+1973,P,1973_Tuborg_Classic,1973_16_P,12,24,93,usa,Jerry_Kunze,Jerry Kunze,Ponderosa Plumbing,,'69 Ford,76,460,running,0,0
+1973,P,1973_Tuborg_Classic,1973_16_P,13,27,55,usa,Jerry_Barnett,Jerry Barnett,Barnett Racing,,'72 Chevrolet,76,440,running,0,95
+1973,P,1973_Tuborg_Classic,1973_16_P,14,30,28,usa,Vic_Irvan,Vic Irvan,Auto Parts Service / Irvan Racing,,'69 Ford,75,420,running,0,0
+1973,P,1973_Tuborg_Classic,1973_16_P,15,20,98,usa,Ray_Schriever,Ray Schriever,Schriever Racing,,'69 Ford,75,400,running,0,0
+1973,P,1973_Tuborg_Classic,1973_16_P,16,14,14,usa,Doug_McGriff,Doug McGriff,McGriff Racing,,'72 Chevrolet,74,380,running,0,90.5
+1973,P,1973_Tuborg_Classic,1973_16_P,17,29,01,usa,George_Behlman,George Behlman,Behlman Racing,,'72 Chevrolet,74,360,running,0,89.5
+1973,P,1973_Tuborg_Classic,1973_16_P,18,8,03,usa,Chuck_Bown,Chuck Bown,Rose Auto Wrecking,,'72 Dodge,72,340,differential,22,87
+1973,P,1973_Tuborg_Classic,1973_16_P,19,11,37,usa,Chuck_Wahl,Chuck Wahl,Excel Trailer Co.,,'72 Chevrolet,69,320,running,0,83.75
+1973,P,1973_Tuborg_Classic,1973_16_P,20,7,77,usa,Nels_Miller,Nels Miller,Cannon Industries / Miller Racing,,'73 Chevrolet,68,300,running,0,82
+1973,P,1973_Tuborg_Classic,1973_16_P,21,18,47,usa,Sam_Stanley,Sam Stanley,Stanley Racing,,'71 Ford,65,280,throttle,0,78.75
+1973,P,1973_Tuborg_Classic,1973_16_P,22,17,96,usa,Ray_Elder,Ray Elder,Olympia Brewery,,'73 Dodge,62,460,running,0,75.5
+1973,P,1973_Tuborg_Classic,1973_16_P,23,23,29,usa,Robert_Dunn,Robert Dunn,Dunn Racing,,'69 Ford,59,240,oil pressure,0,0
+1973,P,1973_Tuborg_Classic,1973_16_P,24,4,02,usa,Dick_Bown,Dick Bown,Ober Logging,,'73 Dodge,40,230,crash,0,57
+1973,P,1973_Tuborg_Classic,1973_16_P,25,12,13,usa,Eddie_Bradshaw,Eddie Bradshaw,Bradshaw Racing,,'69 Chevrolet,32,225,oil pan,0,0
+1973,P,1973_Tuborg_Classic,1973_16_P,26,22,5,usa,Sam_Beler,Sam Beler,Beler Racing,,'72 Chevrolet,21,220,crash,0,40.75
+1973,P,1973_Tuborg_Classic,1973_16_P,27,10,4,usa,Dick_Kranzler,Dick Kranzler,Kranzler Racing,,'72 Chevrolet,17,215,engine,0,36.75
+1973,P,1973_Tuborg_Classic,1973_16_P,28,26,41,usa,Ernie_Stierly,Ernie Stierly,Stierly Racing,,'70 Chevrolet,8,210,oil leak,0,29
+1973,P,1973_Tuborg_Classic,1973_16_P,29,28,56,usa,Jim_Benison,Jim Benison,Jo Kel & Grumbo Ent. / Benison Racing,,'69 Chevrolet,5,205,transmission,0,0
+1973,P,1973_Tuborg_Classic,1973_16_P,30,16,0,usa,Harry_Schilling,Harry Schilling,Schilling Racing,,'72 Chevrolet,1,200,transmission,0,21.75
+1973,P,1973_Evergreen_200,1973_17_P,1,1,7,usa,Jack_McCoy,Jack McCoy,Noble Auto Parts,,'73 Dodge,200,1900,running,179,110
+1973,P,1973_Evergreen_200,1973_17_P,2,6,68,usa,Sonny_Easley,Sonny Easley,Cal Coast Carriers,,'73 Ford,200,1325,running,0,99
+1973,P,1973_Evergreen_200,1973_17_P,3,12,87,canada,Norm_Ellefson,Norm Ellefson,Ellefson Racing,,'70 Chevrolet,199,850,running,0,97.75
+1973,P,1973_Evergreen_200,1973_17_P,4,9,31,usa,Markey_James,Markey James,James Racing,,'73 Chevrolet,198,650,running,0,96.5
+1973,P,1973_Evergreen_200,1973_17_P,5,19,22,usa,Jack_Jeffery,Jack Jeffery,Best Auto Parts,,'70 Dodge,198,550,running,0,95.5
+1973,P,1973_Evergreen_200,1973_17_P,6,2,41,usa,Ernie_Stierly,Ernie Stierly,Stierly Racing,,'70 Chevrolet,197,400,running,20,94.25
+1973,P,1973_Evergreen_200,1973_17_P,7,4,38,usa,Jimmy_Insolo,Jimmy Insolo,Bill Martin's Union 76,,'72 Chevrolet,196,350,running,0,93
+1973,P,1973_Evergreen_200,1973_17_P,8,24,42,usa,Richard_White,Richard White,Barnicle Oil Co.,,'72 Ford,196,330,running,0,92
+1973,P,1973_Evergreen_200,1973_17_P,9,5,23,none,John_Joiner,John Joiner,Joiner Racing,,'70 Chevrolet,196,320,running,0,91
+1973,P,1973_Evergreen_200,1973_17_P,10,23,84,usa,J_C_Danielsen,J.C. Danielsen,Danielson Distributors,,'71 Mercury,196,300,running,0,90
+1973,P,1973_Evergreen_200,1973_17_P,11,15,9,usa,Carl_Adams,Carl Adams,Marck Motors / Quaker State Oil,,'72 Ford,194,250,running,0,88.5
+1973,P,1973_Evergreen_200,1973_17_P,12,16,14,usa,Doug_McGriff,Doug McGriff,McGriff Racing,,'72 Dodge,194,240,running,0,87.5
+1973,P,1973_Evergreen_200,1973_17_P,13,3,96,usa,Ray_Elder,Ray Elder,Olympia Brewery,,'72 Dodge,192,420,overheating,1,86
+1973,P,1973_Evergreen_200,1973_17_P,14,7,02,usa,Dick_Bown,Dick Bown,Ober Logging,,'73 Dodge,192,215,running,0,85
+1973,P,1973_Evergreen_200,1973_17_P,15,22,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'72 Ford,190,200,running,0,83.5
+1973,P,1973_Evergreen_200,1973_17_P,16,21,77,usa,Nels_Miller,Nels Miller,Cannon Industries / Miller Racing,,'73 Chevrolet,188,170,running,0,82
+1973,P,1973_Evergreen_200,1973_17_P,17,29,10,usa,Leon_Fox,Leon Fox,Fox Racing,,'73 Chevrolet,183,165,running,0,79.75
+1973,P,1973_Evergreen_200,1973_17_P,18,30,01,usa,George_Behlman,George Behlman,Behlman Racing,,'72 Chevrolet,180,160,running,0,78
+1973,P,1973_Evergreen_200,1973_17_P,19,32,97,usa,Harry_Jefferson,Harry Jefferson,Jefferson Racing,,'71 Ford,145,155,crash,0,68.25
+1973,P,1973_Evergreen_200,1973_17_P,20,11,3,usa,John_Soares_Jr,"John Soares, Jr.",Maverick Restaurant,,'72 Dodge,110,150,overheating,0,58.5
+1973,P,1973_Evergreen_200,1973_17_P,21,13,1,usa,Don_Hall,Don Hall,Hall Racing,,'70 Chevrolet,108,145,engine,0,57
+1973,P,1973_Evergreen_200,1973_17_P,22,8,17,usa,Ron_Eaton,Ron Eaton,Eaton Racing,,'70 Chevrolet,75,140,crash,0,47.75
+1973,P,1973_Evergreen_200,1973_17_P,23,17,03,usa,Chuck_Bown,Chuck Bown,Rose Auto Wrecking,,'72 Dodge,75,135,crash,0,46.75
+1973,P,1973_Evergreen_200,1973_17_P,24,20,37,usa,Chuck_Wahl,Chuck Wahl,Excel Trailer Co.,,'72 Chevrolet,71,130,engine,0,44.75
+1973,P,1973_Evergreen_200,1973_17_P,25,27,09,canada,Ron_Coogan,Ron Coogan,Coogan Racing,,'72 Chevrolet,69,125,oil leak,0,43.25
+1973,P,1973_Evergreen_200,1973_17_P,26,14,4,usa,Dick_Kranzler,Dick Kranzler,Kranzler Racing,,'73 Chevrolet,60,120,differential,0,40
+1973,P,1973_Evergreen_200,1973_17_P,27,33,29,canada,Roy_Smith,Roy Smith,Smith Racing,,'72 Chevrolet,51,115,ignition,0,36.75
+1973,P,1973_Evergreen_200,1973_17_P,28,26,85,usa,Butch_Backmier,Butch Backmier,Backmier Racing,,'70 Chevrolet,48,110,suspension,0,35
+1973,P,1973_Evergreen_200,1973_17_P,29,25,46,usa,Frank_Ayling,Frank Ayling,Aylang Racing,,'70 Chevrolet,25,105,differential,0,28.25
+1973,P,1973_Evergreen_200,1973_17_P,30,10,88,usa,Jackie_Kuper,Jackie Kuper,Kuper Racing,,'70 Chevrolet,12,100,oil leak,0,24
+1973,P,1973_Evergreen_200,1973_17_P,31,18,26,usa,Carl_Joiner,Carl Joiner,Joiner Racing,,'72 Chevrolet,9,100,distributor,0,22.25
+1973,P,1973_Evergreen_200,1973_17_P,32,28,2,usa,Johnny_Steele,Johnny Steele,Steele Racing,,'71 Ford,8,100,brakes,0,21
+1973,P,1973_Evergreen_200,1973_17_P,33,31,0,usa,Bob_England,Bob England,England Racing,,'72 Chevrolet,1,100,oil pan,0,18.25
+1973,P,1973_Victoria_150,1973_18_P,1,2,7,usa,Jack_McCoy,Jack McCoy,Noble Auto Parts,,'73 Dodge,150,975,running,150,97.5
+1973,P,1973_Victoria_150,1973_18_P,2,1,96,usa,Ray_Elder,Ray Elder,Olympia Brewery,,'72 Dodge,150,875,running,0,86.5
+1973,P,1973_Victoria_150,1973_18_P,3,4,02,usa,Dick_Bown,Dick Bown,Ober Logging,,'73 Plymouth,149,525,running,0,85.25
+1973,P,1973_Victoria_150,1973_18_P,4,8,38,usa,Jimmy_Insolo,Jimmy Insolo,Bill Martin's Union 76,,'72 Chevrolet,148,325,running,0,84
+1973,P,1973_Victoria_150,1973_18_P,5,10,31,usa,Markey_James,Markey James,James Racing,,'73 Chevrolet,148,275,running,0,83
+1973,P,1973_Victoria_150,1973_18_P,6,6,68,usa,Sonny_Easley,Sonny Easley,Cal Coast Carriers,,'73 Ford,148,200,running,0,82
+1973,P,1973_Victoria_150,1973_18_P,7,7,42,usa,Richard_White,Richard White,Barnicle Oil Co.,,'71 Ford,147,175,running,0,80.75
+1973,P,1973_Victoria_150,1973_18_P,8,11,41,usa,Ernie_Stierly,Ernie Stierly,Stierly Racing,,'72 Chevrolet,146,165,running,0,79.5
+1973,P,1973_Victoria_150,1973_18_P,9,14,01,usa,George_Behlman,George Behlman,Behlman Racing,,'71 Chevrolet,144,160,running,0,78
+1973,P,1973_Victoria_150,1973_18_P,10,13,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,143,150,running,0,76.75
+1973,P,1973_Victoria_150,1973_18_P,11,12,9,usa,Carl_Adams,Carl Adams,Marck Motors / Quaker State Oil,,'72 Ford,59,145,engine,0,54.75
+1973,P,1973_Victoria_150,1973_18_P,12,17,3,canada,Larry_Hooper,Larry Hooper,Hooper Racing,,'73 Dodge,52,140,overheating,0,52
+1973,P,1973_Victoria_150,1973_18_P,13,9,87,canada,Norm_Ellefson,Norm Ellefson,Ellefson Racing,,'70 Chevrolet,39,135,differential,0,47.75
+1973,P,1973_Victoria_150,1973_18_P,14,5,4,usa,Dick_Kranzler,Dick Kranzler,Kranzler Racing,,'73 Chevrolet,16,130,oil leak,0,41
+1973,P,1973_Victoria_150,1973_18_P,15,3,0,usa,John_Soares_Jr,"John Soares, Jr.",Maverick Restaurant,,'72 Chevrolet,12,125,differential,0,39
+1973,P,1973_Victoria_150,1973_18_P,16,16,2,usa,Johnny_Steele,Johnny Steele,Steele Racing,,'70 Ford,9,120,overheating,0,37.25
+1973,P,1973_Victoria_150,1973_18_P,17,15,84,usa,Chuck_Bown,Chuck Bown,Rose Auto Wrecking,,'71 Mercury,3,115,ignition,0,34.75
+1973,P,1973_Yakima_100,1973_19_P,1,1,7,usa,Jack_McCoy,Jack McCoy,Noble Auto Parts,,'72 Dodge,100,1000,running,100,85
+1973,P,1973_Yakima_100,1973_19_P,2,2,96,usa,Ray_Elder,Ray Elder,Olympia Brewery,,'72 Dodge,100,900,running,0,74
+1973,P,1973_Yakima_100,1973_19_P,3,11,1,usa,Don_Hall,Don Hall,Hall Racing,,'72 Chevrolet,99,525,running,0,72.75
+1973,P,1973_Yakima_100,1973_19_P,4,3,02,usa,Dick_Bown,Dick Bown,Ober Logging,,'73 Plymouth,99,325,running,0,71.75
+1973,P,1973_Yakima_100,1973_19_P,5,15,68,usa,Sonny_Easley,Sonny Easley,Cal Coast Carriers,,'73 Ford,99,275,running,0,70.75
+1973,P,1973_Yakima_100,1973_19_P,6,17,41,usa,Ernie_Stierly,Ernie Stierly,Stierly Racing,,'72 Chevrolet,99,215,running,0,69.75
+1973,P,1973_Yakima_100,1973_19_P,7,9,23,usa,John_Poyner,John Poyner,Poyner Racing,,'71 Chevrolet,98,200,running,0,68.5
+1973,P,1973_Yakima_100,1973_19_P,8,13,9,usa,Carl_Adams,Carl Adams,Marck Motors / Quaker State Oil,,'71 Ford,98,185,running,0,67.5
+1973,P,1973_Yakima_100,1973_19_P,9,20,31,usa,Markey_James,Markey James,James Racing,,'72 Chevrolet,98,180,running,0,66.5
+1973,P,1973_Yakima_100,1973_19_P,10,18,42,usa,Richard_White,Richard White,Barnicle Oil Co.,,'71 Ford,98,175,running,0,65.5
+1973,P,1973_Yakima_100,1973_19_P,11,16,85,usa,Jackie_Kuper,Jackie Kuper,Kuper Racing,,'71 Chevrolet,98,170,running,0,64.5
+1973,P,1973_Yakima_100,1973_19_P,12,19,84,usa,J_C_Danielsen,J.C. Danielsen,Danielson Racing,,'71 Mercury,97,165,running,0,63.25
+1973,P,1973_Yakima_100,1973_19_P,13,7,87,canada,Norm_Ellefson,Norm Ellefson,Ellefson Racing,,'72 Chevrolet,96,160,crash,0,62
+1973,P,1973_Yakima_100,1973_19_P,14,8,22,usa,Jack_Jeffery,Jack Jeffery,Jefferies Racing,,'70 Dodge,96,150,crash,0,61
+1973,P,1973_Yakima_100,1973_19_P,15,21,37,usa,Chuck_Wahl,Chuck Wahl,Wahl Racing,,'72 Chevrolet,94,145,crash,0,59.5
+1973,P,1973_Yakima_100,1973_19_P,16,12,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Chevrolet,91,140,fuel pump,0,57.75
+1973,P,1973_Yakima_100,1973_19_P,17,22,09,canada,Ron_Coogan,Ron Coogan,Coogan Racing,,'70 Chevrolet,91,135,running,0,56.75
+1973,P,1973_Yakima_100,1973_19_P,18,5,26,usa,Carl_Joiner,Carl Joiner,Joiner Racing,,'72 Chevrolet,73,130,transmission,0,51.25
+1973,P,1973_Yakima_100,1973_19_P,19,6,04,usa,Hershel_McGriff,Hershel McGriff,The Cousins,,'73 Plymouth,66,125,suspension,0,48.5
+1973,P,1973_Yakima_100,1973_19_P,20,14,3,usa,John_Soares_Jr,"John Soares, Jr.",Maverick Restaurant,,'73 Dodge,45,120,overheating,0,42.25
+1973,P,1973_Yakima_100,1973_19_P,21,10,38,usa,Jimmy_Insolo,Jimmy Insolo,Bill Martin's Union 76,,'73 Chevrolet,32,115,overheating,0,38
+1973,P,1973_Yakima_100,1973_19_P,22,4,97,usa,Harry_Jefferson,Harry Jefferson,Jefferson Racing,,'72 Ford,14,110,engine,0,32.5
+1973,P,1973_Yakima_100,1973_19_P,23,23,4,usa,Dick_Kranzler,Dick Kranzler,Kranzler Racing,,'73 Chevrolet,10,105,oil leak,0,30.5
+1973,P,1973_Yakima_100,1973_19_P,24,24,0,usa,George_Behlman,George Behlman,Behlman Racing,,'70 Chevrolet,1,100,oil pressure,0,27.25
+1973,P,1973_Portland_200,1973_20_P,1,1,04,usa,Hershel_McGriff,Hershel McGriff,The Cousins,,'73 Plymouth,200,1300,running,181,110
+1973,P,1973_Portland_200,1973_20_P,2,17,9,usa,Carl_Adams,Carl Adams,Marck Motors / Quaker State Oil,,'71 Ford,199,975,running,0,98.75
+1973,P,1973_Portland_200,1973_20_P,3,13,14,usa,Doug_McGriff,Doug McGriff,McGriff Racing,,'72 Plymouth,198,725,running,0,97.5
+1973,P,1973_Portland_200,1973_20_P,4,2,7,usa,Jack_McCoy,Jack McCoy,Noble Auto Parts,,'73 Dodge,198,475,running,18,96.5
+1973,P,1973_Portland_200,1973_20_P,5,10,68,usa,Sonny_Easley,Sonny Easley,Cal Coast Carriers,,'73 Ford,198,360,running,0,95.5
+1973,P,1973_Portland_200,1973_20_P,6,9,17,usa,Ron_Eaton,Ron Eaton,Eaton Racing,,'72 Chevrolet,196,265,running,0,94
+1973,P,1973_Portland_200,1973_20_P,7,12,42,usa,Richard_White,Richard White,Richard White,,'71 Ford,196,250,running,0,93
+1973,P,1973_Portland_200,1973_20_P,8,18,22,usa,Jack_Jeffery,Jack Jeffery,Bowers Machine,,'70 Dodge,195,240,running,0,91.75
+1973,P,1973_Portland_200,1973_20_P,9,16,38,usa,Jimmy_Insolo,Jimmy Insolo,Bill Martin's Union '76,,'72 Chevrolet,195,230,running,1,90.75
+1973,P,1973_Portland_200,1973_20_P,10,7,1,usa,Don_Hall,Don Hall,Hall Racing,,'72 Chevrolet,192,200,running,0,89
+1973,P,1973_Portland_200,1973_20_P,11,22,10,usa,Leon_Fox,Leon Fox,Fox Racing,,'73 Chevrolet,173,190,–,0,83.25
+1973,P,1973_Portland_200,1973_20_P,12,23,8,usa,Larry_Bell,Larry Bell,Bell Racing,,'72 Chevrolet,172,180,–,0,82
+1973,P,1973_Portland_200,1973_20_P,13,4,23,usa,John_Poyner,John Poyner,Poyner Racing,,'72 Chevrolet,168,170,–,0,80
+1973,P,1973_Portland_200,1973_20_P,14,20,84,usa,J_C_Danielsen,J.C. Danielsen,Danielson Distributors,,'71 Mercury,107,160,crash,0,63.75
+1973,P,1973_Portland_200,1973_20_P,15,6,02,usa,Dick_Bown,Dick Bown,Ober Logging,,'73 Dodge,92,150,crash,0,59
+1973,P,1973_Portland_200,1973_20_P,16,21,4,usa,Dick_Kranzler,Dick Kranzler,Kranzler Racing,,'73 Chevrolet,91,140,–,0,57.75
+1973,P,1973_Portland_200,1973_20_P,17,14,03,usa,Chuck_Bown,Chuck Bown,Rose Auto Wrecking,,'70 Chevrolet,86,135,engine,0,55.5
+1973,P,1973_Portland_200,1973_20_P,18,15,31,usa,Markey_James,Markey James,James Racing,,'73 Chevrolet,86,130,–,0,54.5
+1973,P,1973_Portland_200,1973_20_P,19,19,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,40,125,–,0,42
+1973,P,1973_Portland_200,1973_20_P,20,11,3,usa,John_Soares_Jr,"John Soares, Jr.",Maverick Restaurant,,'73 Dodge,33,120,crash,0,39.25
+1973,P,1973_Portland_200,1973_20_P,21,3,96,usa,Ray_Elder,Ray Elder,Olympia Brewery,,'73 Dodge,25,315,transmission,0,36.25
+1973,P,1973_Portland_200,1973_20_P,22,5,26,usa,Carl_Joiner,Carl Joiner,Joiner Racing,,'72 Chevrolet,18,110,–,0,33.5
+1973,P,1973_Portland_200,1973_20_P,23,24,2,usa,Johnny_Steele,Johnny Steele,Steele Racing,,'70 Ford,8,105,–,0,30
+1973,P,1973_Portland_200,1973_20_P,24,8,0,usa,Bob_England,Bob England,England Racing,,'72 Chevrolet,4,100,engine,0,28
+1973,P,1973_Livermore_100,1973_21_P,1,10,38,usa,Jimmy_Insolo,Jimmy Insolo,Bill Martin's Union 76,,'72 Chevrolet,100,1000,running,9,
+1973,P,1973_Livermore_100,1973_21_P,2,4,68,usa,Sonny_Easley,Sonny Easley,Cal Coast Carriers,,'73 Ford,100,700,running,0,
+1973,P,1973_Livermore_100,1973_21_P,3,3,31,usa,Markey_James,Markey James,McLaren Automotive,,'73 Chevrolet,100,525,running,0,
+1973,P,1973_Livermore_100,1973_21_P,4,15,3,usa,John_Soares_Jr,"John Soares, Jr.",Maverick Restaurant,,'73 Dodge,100,325,running,0,
+1973,P,1973_Livermore_100,1973_21_P,5,11,41,usa,Ernie_Stierly,Ernie Stierly,Stierly Racing,,'72 Chevrolet,100,275,running,0,
+1973,P,1973_Livermore_100,1973_21_P,6,16,9,usa,Carl_Adams,Carl Adams,Marck Motors / Quaker State Oil,,'71 Ford,99,215,running,0,
+1973,P,1973_Livermore_100,1973_21_P,7,1,96,usa,Ray_Elder,Ray Elder,Olympia Brewery,,'72 Dodge,99,400,running,0,
+1973,P,1973_Livermore_100,1973_21_P,8,2,7,usa,Dick_Bown,Dick Bown,Noble Auto Parts,,'73 Dodge,98,185,running,91,
+1973,P,1973_Livermore_100,1973_21_P,9,19,34,usa,Don_Graham,Don Graham,Graham Racing,,'72 Chevrolet,97,180,running,0,
+1973,P,1973_Livermore_100,1973_21_P,10,18,5,usa,Harold_Hardesty,Harold Hardesty,Hardesty Racing,,'71 Chevrolet,96,175,running,0,
+1973,P,1973_Livermore_100,1973_21_P,11,12,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,96,170,running,0,
+1973,P,1973_Livermore_100,1973_21_P,12,20,36,usa,Frank_Burnett,Frank Burnett,Burnett Racing,,'72 Chevrolet,95,165,running,0,
+1973,P,1973_Livermore_100,1973_21_P,13,5,04,usa,Hershel_McGriff,Hershel McGriff,The Cousins,,'73 Plymouth,94,160,drive line,0,
+1973,P,1973_Livermore_100,1973_21_P,14,13,01,usa,George_Behlman,George Behlman,J.E. Enterprises,,'72 Chevrolet,94,150,running,0,
+1973,P,1973_Livermore_100,1973_21_P,15,21,45,usa,Bruce_Blodgett,Bruce Blodgett,Blodgett Racing,,'70 Ford,91,145,running,0,
+1973,P,1973_Livermore_100,1973_21_P,16,7,42,usa,Richard_White,Richard White,Barnicle Oil Co.,,'71 Ford,84,140,running,0,
+1973,P,1973_Livermore_100,1973_21_P,17,6,87,canada,Norm_Ellefson,Norm Ellefson,Ellefson Racing,,'72 Chevrolet,61,135,brakes,0,
+1973,P,1973_Livermore_100,1973_21_P,18,9,10,usa,Leon_Fox,Leon Fox,Fox Racing,,'72 Chevrolet,56,130,crash,0,
+1973,P,1973_Livermore_100,1973_21_P,19,17,88,usa,Don_Noel,Don Noel,Noel Racing,,'70 Ford,42,125,clutch,0,
+1973,P,1973_Livermore_100,1973_21_P,20,23,8,usa,Bob_England,Bob England,England Racing,,'70 Chevrolet,37,120,rocker arm,0,
+1973,P,1973_Livermore_100,1973_21_P,21,22,94,usa,Glen_McCoy,Glen McCoy,McCoy Racing,,'72 Chevrolet,21,115,crash,0,
+1973,P,1973_Livermore_100,1973_21_P,22,8,37,usa,Chuck_Wahl,Chuck Wahl,Excel Trailer Co.,,'71 Chevrolet,15,110,engine,0,
+1973,P,1973_Livermore_100,1973_21_P,23,24,2,usa,Johnny_Steele,Johnny Steele,Steele Racing,,'70 Ford,13,105,quit,0,
+1973,P,1973_Livermore_100,1973_21_P,24,14,4,usa,Dick_Kranzler,Dick Kranzler,Kranzler Racing,,'73 Chevrolet,8,100,oil leak,0,

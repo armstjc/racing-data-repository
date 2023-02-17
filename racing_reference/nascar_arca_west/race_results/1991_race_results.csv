@@ -1,0 +1,805 @@
+season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
+1991,E,1991_Goodys_300,1991_01_E,1,3,3,usa,Dale_Earnhardt,Dale Earnhardt   (Busch),GM Goodwrench,,Chevrolet,120,38532,running,90,
+1991,E,1991_Goodys_300,1991_01_E,2,18,30,usa,Michael_Waltrip,Michael Waltrip   (Busch),Pennzoil,,Pontiac,120,25757,running,1,
+1991,E,1991_Goodys_300,1991_01_E,3,7,28,usa,Davey_Allison,Davey Allison   (Busch),Havoline,,Chevrolet,120,18625,running,16,
+1991,E,1991_Goodys_300,1991_01_E,4,4,15,usa,Ken_Schrader,Ken Schrader   (Busch),Exxon,,Chevrolet,120,13900,running,1,
+1991,E,1991_Goodys_300,1991_01_E,5,35,7,usa,Harry_Gant,Harry Gant   (Busch),Skoal Bandit,,Buick,120,12707,running,0,
+1991,E,1991_Goodys_300,1991_01_E,6,6,96,usa,Tom_Peck,Tom Peck   (Busch),Thomas Racing,,Oldsmobile,120,26546,running,0,
+1991,E,1991_Goodys_300,1991_01_E,7,25,97,usa,Morgan_Shepherd,Morgan Shepherd   (Busch),Texas Pete Sauces,,Ford,120,12007,running,0,
+1991,E,1991_Goodys_300,1991_01_E,8,20,45,usa,Jimmy_Spencer,Jimmy Spencer   (Busch),Lowe's Foods,,Pontiac,119,8357,running,0,
+1991,E,1991_Goodys_300,1991_01_E,9,8,16,canada,Randy_MacDonald,Randy MacDonald   (Busch),IMARC Games,,Pontiac,119,6900,running,0,
+1991,E,1991_Goodys_300,1991_01_E,10,19,36,usa,Kenny_Wallace,Kenny Wallace   (Busch),Cox Treated Lumber,,Pontiac,119,20146,running,0,
+1991,E,1991_Goodys_300,1991_01_E,11,10,4,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.   (Busch)",MCO Plus,,Chevrolet,119,6657,running,0,
+1991,E,1991_Goodys_300,1991_01_E,12,31,52,usa,Butch_Miller,Butch Miller   (Busch),31-W Insulation,,Oldsmobile,118,5500,running,0,
+1991,E,1991_Goodys_300,1991_01_E,13,5,56,usa,Tommy_Ellis,Tommy Ellis   (Busch),Poloroid Fancamera,,Buick,118,15546,running,0,
+1991,E,1991_Goodys_300,1991_01_E,14,43,9,usa,Joe_Bessey,Joe Bessey,Holden Agency,,Oldsmobile,117,9750,running,0,
+1991,E,1991_Goodys_300,1991_01_E,15,40,27,usa,Elton_Sawyer,Elton Sawyer   (Busch),Gwaltney's Big 8's,,Buick,116,11871,running,0,
+1991,E,1991_Goodys_300,1991_01_E,16,14,6,usa,Tommy_Houston,Tommy Houston   (Busch),Rose's Stores,,Buick,114,12346,running,0,
+1991,E,1991_Goodys_300,1991_01_E,17,12,79,usa,Dave_Rezendes,Dave Rezendes   (Busch),Champion TV Rental,,Oldsmobile,114,9696,running,0,
+1991,E,1991_Goodys_300,1991_01_E,18,41,08,usa,Bobby_Dotter,Bobby Dotter   (Busch),Team R Racing,,Buick,114,8439,running,0,
+1991,E,1991_Goodys_300,1991_01_E,19,39,00,usa,L_D_Ottinger,L.D. Ottinger   (Busch),Beard Oil,,Oldsmobile,113,8896,running,0,
+1991,E,1991_Goodys_300,1991_01_E,20,21,59,usa,Robert_Pressley,Robert Pressley   (Busch),Alliance Training Centers,,Oldsmobile,110,8546,engine,0,
+1991,E,1991_Goodys_300,1991_01_E,21,16,87,usa,Joe_Nemechek,Joe Nemechek   (Busch),Mother's Polishers,,Chevrolet,110,7189,running,1,
+1991,E,1991_Goodys_300,1991_01_E,22,29,05,usa,Richard_Lasater,Richard Lasater   (Busch),Eclipse Racing,,Pontiac,103,4200,running,0,
+1991,E,1991_Goodys_300,1991_01_E,23,23,5,usa,Ed_Berrier,Ed Berrier   (Busch),Garner's Preserves,,Oldsmobile,90,4614,running,0,
+1991,E,1991_Goodys_300,1991_01_E,24,33,99,usa,Jeff_Burton,Jeff Burton   (Busch),Armour Meats,,Chevrolet,73,9246,running,0,
+1991,E,1991_Goodys_300,1991_01_E,25,30,31,usa,Steve_Grissom,Steve Grissom   (Busch),Grissom Racing,,Oldsmobile,44,8896,running,0,
+1991,E,1991_Goodys_300,1991_01_E,26,28,38,usa,Brad_Teague,Brad Teague   (Busch),Teague & Weiss,,Oldsmobile,37,3500,handling,0,
+1991,E,1991_Goodys_300,1991_01_E,27,32,34,usa,Todd_Bodine,Todd Bodine   (Busch),C & W Racing,,Buick,30,4307,crash,0,
+1991,E,1991_Goodys_300,1991_01_E,28,2,48,usa,Jack_Sprague,Jack Sprague   (Busch),Staff America,,Oldsmobile,29,5239,crash,0,
+1991,E,1991_Goodys_300,1991_01_E,29,13,11,usa,Jack_Ingram,Jack Ingram   (Busch),Skoal,,Chevrolet,28,4914,engine,0,
+1991,E,1991_Goodys_300,1991_01_E,30,1,8,usa,David_Green,David Green   (Busch),TIC Financial Systems,,Oldsmobile,23,3850,crash,11,
+1991,E,1991_Goodys_300,1991_01_E,31,9,32,usa,Dale_Jarrett,Dale Jarrett   (Busch),Nestle Crunch,,Pontiac,16,4957,crash,0,
+1991,E,1991_Goodys_300,1991_01_E,32,22,17,usa,Darrell_Waltrip,Darrell Waltrip   (Busch),Western Auto,,Chevrolet,16,3150,crash,0,
+1991,E,1991_Goodys_300,1991_01_E,33,17,63,usa,Chuck_Bown,Chuck Bown   (Busch),Nescafe Classic,,Pontiac,16,6946,crash,0,
+1991,E,1991_Goodys_300,1991_01_E,34,24,57,usa,Tim_Bender,Tim Bender   (Busch),Orchard Park Redi-Mix,,Chevrolet,14,3050,crash,0,
+1991,E,1991_Goodys_300,1991_01_E,35,37,72,usa,Tracy_Leslie,Tracy Leslie   (Busch),Detroit Gasket,,Oldsmobile,1,4650,crash,0,
+1991,E,1991_Goodys_300,1991_01_E,36,11,94,usa,Bobby_Labonte,Bobby Labonte   (Busch),Penrose Firecracker,,Oldsmobile,0,4596,crash,0,
+1991,E,1991_Goodys_300,1991_01_E,37,15,51,usa,Mike_McLaughlin,Mike McLaughlin,Wheels Discount Auto,,Oldsmobile,0,3825,crash,0,
+1991,E,1991_Goodys_300,1991_01_E,38,26,81,usa,Davey_Johnson,Davey Johnson   (Busch),Daily's Juices,,Pontiac,0,3589,crash,0,
+1991,E,1991_Goodys_300,1991_01_E,39,27,25,usa,Jimmy_Hensley,Jimmy Hensley   (Busch),Beverley Racing,,Oldsmobile,0,6146,crash,0,
+1991,E,1991_Goodys_300,1991_01_E,40,34,14,usa,Joe_Thurman,Joe Thurman   (Busch),Thurman Enterprises,,Oldsmobile,0,2700,crash,0,
+1991,E,1991_Goodys_300,1991_01_E,41,36,10,usa,Ernie_Irvan,Ernie Irvan   (Busch),Mac Tools,,Chevrolet,0,3557,crash,0,
+1991,E,1991_Goodys_300,1991_01_E,42,38,92,usa,Dick_Trickle,Dick Trickle   (Busch),Custom Veneers,,Chevrolet,0,2700,crash,0,
+1991,E,1991_Goodys_300,1991_01_E,43,42,12,usa,Ken_Bouchard,Ken Bouchard,ADAP Auto Parts,,Pontiac,0,3700,crash,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,1,11,7,usa,Harry_Gant,Harry Gant   (Busch),Skoal Bandit,,Buick,200,12625,running,44,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,2,9,3,usa,Dale_Earnhardt,Dale Earnhardt   (Busch),GM Goodwrench,,Chevrolet,200,5470,running,35,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,3,6,36,usa,Kenny_Wallace,Kenny Wallace   (Busch),Cox Treated Lumber,,Pontiac,200,5735,running,14,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,4,19,32,usa,Dale_Jarrett,Dale Jarrett   (Busch),Nestle Crunch,,Pontiac,200,3285,running,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,5,8,30,usa,Michael_Waltrip,Michael Waltrip   (Busch),Pennzoil,,Pontiac,200,3130,running,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,6,16,97,usa,Morgan_Shepherd,Morgan Shepherd   (Busch),Texas Pete Sauces,,Ford,200,5355,running,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,7,3,44,usa,Bobby_Labonte,Bobby Labonte   (Busch),Penrose Firecracker,,Oldsmobile,200,3650,running,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,8,2,25,usa,Jimmy_Hensley,Jimmy Hensley   (Busch),Beverley Racing,,Oldsmobile,200,4750,running,84,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,9,20,87,usa,Joe_Nemechek,Joe Nemechek   (Busch),Mother's Polishers,,Chevrolet,200,3075,running,2,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,10,7,28,usa,Davey_Allison,Davey Allison   (Busch),Havoline,,Chevrolet,199,2000,running,21,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,11,10,17,usa,Darrell_Waltrip,Darrell Waltrip   (Busch),Western Auto,,Chevrolet,199,1645,running,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,12,4,63,usa,Chuck_Bown,Chuck Bown   (Busch),Nescafe Classic,,Pontiac,199,4065,running,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,13,34,6,usa,Tommy_Houston,Tommy Houston   (Busch),Rose's Stores,,Buick,199,4050,running,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,14,18,2,usa,Ricky_Craven,Ricky Craven,SpeeDee Oil Change,,Chevrolet,199,3375,running,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,15,17,34,usa,Todd_Bodine,Todd Bodine   (Busch),C & W Racing,,Buick,198,1720,running,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,16,22,81,usa,Davey_Johnson,Davey Johnson   (Busch),Daily's Juices,,Pontiac,198,2220,running,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,17,28,4,usa,Jeff_Gordon,Jeff Gordon   (Busch),Carolina Ford Dealers,,Ford,196,3650,running,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,18,30,19,usa,Cecil_Eunice,Cecil Eunice   (Busch),Levin Racing,,Oldsmobile,192,1290,running,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,19,21,49,usa,Ed_Ferree,Ed Ferree   (Busch),Wolf's Head Oil,,Buick,192,3000,running,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,20,33,41,usa,Jamie_Aube,Jamie Aube,Citgo,,Buick,187,2915,running,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,21,24,31,usa,Steve_Grissom,Steve Grissom   (Busch),Grissom Racing,,Oldsmobile,186,3130,running,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,22,35,15,usa,Barney_McRae,Barney McRae,Motion Racing,,Buick,174,2810,running,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,23,13,08,usa,Bobby_Dotter,Bobby Dotter   (Busch),Team R Racing,,Buick,166,2095,engine,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,24,31,9,usa,Troy_Beebe,Troy Beebe   (Busch),Taco Bell,,Chevrolet,157,1125,engine,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,25,26,79,usa,Dave_Rezendes,Dave Rezendes   (Busch),K.R. Rezendes Racing,,Oldsmobile,153,1795,running,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,26,5,27,usa,Elton_Sawyer,Elton Sawyer   (Busch),Gwaltney Meats,,Buick,147,1775,engine,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,27,32,96,usa,Tom_Peck,Tom Peck   (Busch),Thomas Racing,,Oldsmobile,125,2250,crash,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,28,27,59,usa,Robert_Pressley,Robert Pressley   (Busch),Alliance Training Centers,,Oldsmobile,120,1725,engine,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,29,14,52,usa,Butch_Miller,Butch Miller   (Busch),31-W Insulation,,Chevrolet,116,1025,engine,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,30,12,56,usa,Tommy_Ellis,Tommy Ellis   (Busch),Poloroid Fancamera,,Buick,109,1635,overheating,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,31,1,99,usa,Jeff_Burton,Jeff Burton   (Busch),Food Lion,,Chevrolet,72,3175,crash,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,32,15,5,usa,Ed_Berrier,Ed Berrier   (Busch),Pharo's Truck Stop,,Oldsmobile,65,1620,crash,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,33,29,09,usa,Dale_Shaw,Dale Shaw,EJP,,Pontiac,42,2275,valve,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,34,25,75,usa,Ward_Burton,Ward Burton   (Busch),Food Country USA,,Oldsmobile,42,1620,cooling,0,
+1991,E,1991_Pontiac_Excitement_200,1991_02_E,35,23,11,usa,Jack_Ingram,Jack Ingram   (Busch),Skoal,,Chevrolet,27,1620,engine,0,
+1991,E,1991_Goodwrench_200,1991_03_E,1,9,32,usa,Dale_Jarrett,Dale Jarrett   (Busch),Nestle Crunch,,Pontiac,197,12525,running,12,
+1991,E,1991_Goodwrench_200,1991_03_E,2,5,36,usa,Kenny_Wallace,Kenny Wallace   (Busch),Cox Treated Lumber,,Pontiac,197,8265,running,0,
+1991,E,1991_Goodwrench_200,1991_03_E,3,1,3,usa,Dale_Earnhardt,Dale Earnhardt   (Busch),GM Goodwrench,,Chevrolet,197,4175,running,48,
+1991,E,1991_Goodwrench_200,1991_03_E,4,12,34,usa,Todd_Bodine,Todd Bodine   (Busch),C & W Racing,,Buick,197,2600,running,0,
+1991,E,1991_Goodwrench_200,1991_03_E,5,7,7,usa,Harry_Gant,Harry Gant   (Busch),Skoal,,Buick,197,2600,running,56,
+1991,E,1991_Goodwrench_200,1991_03_E,6,27,44,usa,Bobby_Labonte,Bobby Labonte   (Busch),Penrose Firecracker,,Oldsmobile,197,4440,running,72,
+1991,E,1991_Goodwrench_200,1991_03_E,7,37,5,usa,Ed_Berrier,Ed Berrier   (Busch),Garner's Preserves,,Oldsmobile,196,3640,running,0,
+1991,E,1991_Goodwrench_200,1991_03_E,8,25,99,usa,Jeff_Burton,Jeff Burton   (Busch),Armour Meats,,Chevrolet,196,5240,running,0,
+1991,E,1991_Goodwrench_200,1991_03_E,9,13,59,usa,Robert_Pressley,Robert Pressley   (Busch),Alliance Training Centers,,Oldsmobile,196,3190,running,0,
+1991,E,1991_Goodwrench_200,1991_03_E,10,2,25,usa,Jimmy_Hensley,Jimmy Hensley   (Busch),Beverley Racing,,Oldsmobile,196,4690,running,1,
+1991,E,1991_Goodwrench_200,1991_03_E,11,20,96,usa,Tom_Peck,Tom Peck   (Busch),Thomas Racing,,Oldsmobile,196,2740,running,0,
+1991,E,1991_Goodwrench_200,1991_03_E,12,26,6,usa,Tommy_Houston,Tommy Houston   (Busch),Rose's Stores,,Buick,196,4340,running,0,
+1991,E,1991_Goodwrench_200,1991_03_E,13,19,8,usa,David_Green,David Green   (Busch),TIC Financial Systems,,Oldsmobile,195,1400,running,0,
+1991,E,1991_Goodwrench_200,1991_03_E,14,6,87,usa,Joe_Nemechek,Joe Nemechek   (Busch),Mother's Polishers,,Chevrolet,195,2390,running,0,
+1991,E,1991_Goodwrench_200,1991_03_E,15,32,72,usa,Tracy_Leslie,Tracy Leslie   (Busch),Detroit Gasket,,Oldsmobile,195,3200,running,0,
+1991,E,1991_Goodwrench_200,1991_03_E,16,16,56,usa,Tommy_Ellis,Tommy Ellis   (Busch),Poloroid Fancamera,,Buick,194,1765,running,0,
+1991,E,1991_Goodwrench_200,1991_03_E,17,30,19,usa,Cecil_Eunice,Cecil Eunice   (Busch),Levin Racing,,Oldsmobile,194,970,running,0,
+1991,E,1991_Goodwrench_200,1991_03_E,18,34,86,usa,Jeff_Green,Jeff Green   (Busch),Sea Ray Boats,,Chevrolet,194,965,running,0,
+1991,E,1991_Goodwrench_200,1991_03_E,19,39,08,usa,Bobby_Dotter,Bobby Dotter   (Busch),Team R Racing,,Buick,194,1750,running,0,
+1991,E,1991_Goodwrench_200,1991_03_E,20,22,37,usa,Rich_Burgess,Rich Burgess   (Busch),Taylor & Burgess,,Oldsmobile,193,950,running,0,
+1991,E,1991_Goodwrench_200,1991_03_E,21,8,49,usa,Ed_Ferree,Ed Ferree   (Busch),Wolf's Head Oil,,Buick,192,1274,running,0,
+1991,E,1991_Goodwrench_200,1991_03_E,22,28,42,usa,Patty_Moise,Patty Moise   (Busch),"Alan Dillard, Jr.",,Buick,192,1720,running,0,
+1991,E,1991_Goodwrench_200,1991_03_E,23,24,79,usa,Dave_Rezendes,Dave Rezendes   (Busch),K.R. Rezendes Racing,,Oldsmobile,192,1710,running,0,
+1991,E,1991_Goodwrench_200,1991_03_E,24,4,1,usa,Jeff_Gordon,Jeff Gordon   (Busch),Carolina Ford Dealers,,Ford,191,3900,running,0,
+1991,E,1991_Goodwrench_200,1991_03_E,25,15,27,usa,Elton_Sawyer,Elton Sawyer   (Busch),Gwaltney's Big 8's,,Buick,190,1685,running,0,
+1991,E,1991_Goodwrench_200,1991_03_E,26,14,75,usa,Ward_Burton,Ward Burton   (Busch),Food Country USA,,Oldsmobile,190,1680,running,0,
+1991,E,1991_Goodwrench_200,1991_03_E,27,18,81,usa,Davey_Johnson,Davey Johnson   (Busch),Daily's Juices,,Pontiac,188,1675,running,0,
+1991,E,1991_Goodwrench_200,1991_03_E,28,35,23,usa,Clifford_Allison,Clifford Allison   (Busch),Seal-Tech,,Buick,187,880,running,0,
+1991,E,1991_Goodwrench_200,1991_03_E,29,11,97,usa,Morgan_Shepherd,Morgan Shepherd   (Busch),Texas Pete Sauces,,Ford,182,2875,running,8,
+1991,E,1991_Goodwrench_200,1991_03_E,30,33,52,usa,Butch_Miller,Butch Miller   (Busch),TRC Racing,,Oldsmobile,169,870,running,0,
+1991,E,1991_Goodwrench_200,1991_03_E,31,29,9,usa,Joe_Bessey,Joe Bessey,Holden Agency,,Oldsmobile,130,1194,transmission,0,
+1991,E,1991_Goodwrench_200,1991_03_E,32,36,05,usa,Richard_Lasater,Richard Lasater   (Busch),Eclipse Racing,,Pontiac,130,855,engine,0,
+1991,E,1991_Goodwrench_200,1991_03_E,33,31,31,usa,Steve_Grissom,Steve Grissom   (Busch),Grissom Racing,,Oldsmobile,127,3390,electrical,0,
+1991,E,1991_Goodwrench_200,1991_03_E,34,23,28,usa,Davey_Allison,Davey Allison   (Busch),Havoline,,Chevrolet,74,840,engine,0,
+1991,E,1991_Goodwrench_200,1991_03_E,35,10,17,usa,Darrell_Waltrip,Darrell Waltrip   (Busch),Western Auto,,Chevrolet,64,835,engine,0,
+1991,E,1991_Goodwrench_200,1991_03_E,36,17,63,usa,Chuck_Bown,Chuck Bown   (Busch),Nescafe Classic,,Pontiac,62,3870,engine,0,
+1991,E,1991_Goodwrench_200,1991_03_E,37,3,10,usa,Ernie_Irvan,Ernie Irvan   (Busch),Mac Tools,,Chevrolet,45,825,engine,0,
+1991,E,1991_Goodwrench_200,1991_03_E,38,40,69,usa,Jeff_Spraker,Jeff Spraker,Permatex Loctite,,Oldsmobile,14,1154,ignition,0,
+1991,E,1991_Goodwrench_200,1991_03_E,39,38,4,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.   (Busch)",Hill Racing,,Chevrolet,9,820,engine,0,
+1991,E,1991_Goodwrench_200,1991_03_E,40,21,11,usa,Jack_Ingram,Jack Ingram   (Busch),Skoal,,Chevrolet,4,1610,engine,0,
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,1,7,9,usa,Joe_Bessey,Joe Bessey,Holden Agency,,Oldsmobile,125,21275,running,52,180
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,2,19,51,usa,Mike_McLaughlin,Mike McLaughlin,Coors Extra Gold,,Oldsmobile,125,11575,running,0,170
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,3,13,41,usa,Jamie_Aube,Jamie Aube,Citgo,,Buick,125,6325,running,0,165
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,4,27,68,usa,Donny_Ling_Jr,"Donny Ling, Jr.",Ling Racing,,Oldsmobile,125,4000,running,0,160
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,5,3,1,usa,Tony_Hirschman,Tony Hirschman,Universal Joint Sales / SKF Bearings,,Oldsmobile,125,3000,running,0,155
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,6,4,15,usa,Mike_Rowe,Mike Rowe,Fisher Snowplows,,Buick,125,3000,running,14,150
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,7,2,25,usa,Ricky_Craven,Ricky Craven,SpeeDee Oil Change & Tuneup,,Chevrolet,125,2825,running,55,146
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,8,9,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Company,,Buick,125,2750,running,0,142
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,9,5,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,125,2540,running,4,138
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,10,15,09,usa,Dale_Shaw,Dale Shaw,EJP Enterprises,,Pontiac,125,2320,running,0,134
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,11,16,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,125,2200,running,0,130
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,12,10,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,125,1800,running,0,127
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,13,24,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Buick,125,1980,running,0,124
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,14,17,36,usa,Bobby_Gada,Bobby Gada,Traynor Trucking,,Pontiac,124,1810,running,0,121
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,15,25,06,usa,Ricky_Miller,Ricky Miller,AGIP / Big A Auto Parts,,Pontiac,124,1740,running,0,118
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,16,36,24,usa,Mike_Maselli,Mike Maselli,Mike's Truck Repair,,Pontiac,123,1450,running,0,115
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,17,18,87,usa,Glenn_Sullivan,Glenn Sullivan,Target Expediting,,Chevrolet,123,1400,running,0,112
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,18,21,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive / Swenson Insurance,,Buick,122,1580,running,0,109
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,19,33,69,usa,Jeff_Spraker,Jeff Spraker,Spraker Racing Enterprises,,Oldsmobile,122,1520,running,0,106
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,20,28,37,usa,Tony_Sylvester,Tony Sylvester,Sylvester Racing,,Buick,121,1250,running,0,103
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,21,12,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,120,1410,engine,0,100
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,22,23,21,usa,Jim_Field,Jim Field,Huston Racing,,Ford,120,1150,running,0,97
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,23,6,72,usa,Ken_Bouchard,Ken Bouchard,ADAP / Auto Palace,,Pontiac,112,1300,crash,0,94
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,24,8,7,usa,Billy_Clark,Billy Clark,Skoal Racing,,Pontiac,105,1240,engine,0,91
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,25,20,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt / Bakor Racing,,Pontiac,99,1180,valve,0,88
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,26,30,65,usa,Dean_Chrystal,Dean Chrystal,Chrystal Racing,,Chevrolet,95,950,crash,0,85
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,27,37,12,usa,Dave_Davis,Dave Davis,Davis Brothers,,Buick,79,900,crash,0,82
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,28,22,75,usa,Peter_Daniels,Peter Daniels,RSD Leasing,,Buick,68,850,engine,0,79
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,29,14,23,usa,Jeff_Barry,Jeff Barry,Barry Racing Enterprises,,Oldsmobile,67,775,crash,0,76
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,30,38,89,usa,Gary_Schwab,Gary Schwab,Perry's Ice Cream,,Oldsmobile,63,725,crash,0,73
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,31,1,01,usa,Joey_Kourafas,Joey Kourafas,Tilden Racing,,Pontiac,58,870,crash,0,70
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,32,32,18,usa,Larry_Brolsma,Larry Brolsma,Brolsma Racing,,Oldsmobile,56,650,engine,0,67
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,33,31,74,usa,Wayne_Helliwell,Wayne Helliwell,Goodrich Racing,,Pontiac,54,625,crash,0,64
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,34,39,66,canada,Dean_Ferri,Dean Ferri,Ferri Racing Enterprises,,Pontiac,53,625,rocker arm,0,61
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,35,35,39,usa,Lloyd_Gillie,Lloyd Gillie,Gillie's Truck Repair,,Pontiac,38,625,crash,0,58
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,36,26,27,usa,Jon_Lizotte,Jon Lizotte,Ayotes Used Cars,,Chevrolet,28,625,crash,0,55
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,37,29,94,usa,Steve_Hoddick,Steve Hoddick,Emser Vans / Mankos Racing,,Oldsmobile,20,625,overheating,0,52
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,38,34,71,usa,Bobby_Dragon,Bobby Dragon,Rod's Used Cars,,Chevrolet,13,625,engine,0,49
+1991,E,1991_New_Hampshire_Lottery_Twin_125s,1991_04_E,39,11,4,usa,Randy_LaJoie,Randy LaJoie,AET Racing,,Buick,12,625,engine,0,46
+1991,E,1991_Diet_Coke_100,1991_05_E,1,5,25,usa,Ricky_Craven,Ricky Craven,SpeeDee Oil Change & Tuneup,,Chevrolet,125,9575,running,33,180
+1991,E,1991_Diet_Coke_100,1991_05_E,2,4,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,125,4325,running,29,170
+1991,E,1991_Diet_Coke_100,1991_05_E,3,8,09,usa,Dale_Shaw,Dale Shaw,EJP Enterprises,,Pontiac,125,2875,running,0,165
+1991,E,1991_Diet_Coke_100,1991_05_E,4,10,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,125,1150,running,0,160
+1991,E,1991_Diet_Coke_100,1991_05_E,5,7,15,usa,Mike_Rowe,Mike Rowe,Fisher Snowplows,,Buick,125,1275,running,0,155
+1991,E,1991_Diet_Coke_100,1991_05_E,6,6,01,usa,Joey_Kourafas,Joey Kourafas,Tilden Racing,,Pontiac,125,1100,running,0,150
+1991,E,1991_Diet_Coke_100,1991_05_E,7,1,7,usa,Billy_Clark,Billy Clark,Skoal Racing,,Pontiac,125,1040,running,15,146
+1991,E,1991_Diet_Coke_100,1991_05_E,8,16,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,125,970,running,0,142
+1991,E,1991_Diet_Coke_100,1991_05_E,9,3,9,usa,Joe_Bessey,Joe Bessey,Holden Agency,,Oldsmobile,125,900,running,0,138
+1991,E,1991_Diet_Coke_100,1991_05_E,10,2,41,usa,Jamie_Aube,Jamie Aube,Citgo,,Buick,125,1075,running,48,134
+1991,E,1991_Diet_Coke_100,1991_05_E,11,15,66,canada,Dean_Ferri,Dean Ferri,Ferri Racing Enterprises,,Pontiac,125,550,running,0,130
+1991,E,1991_Diet_Coke_100,1991_05_E,12,22,72,usa,Ken_Bouchard,Ken Bouchard,ADAP / Auto Palace,,Pontiac,125,805,running,0,127
+1991,E,1991_Diet_Coke_100,1991_05_E,13,26,23,usa,Jeff_Barry,Jeff Barry,Barry Racing Enterprises,,Oldsmobile,125,475,running,0,124
+1991,E,1991_Diet_Coke_100,1991_05_E,14,11,75,usa,Peter_Daniels,Peter Daniels,RSD Leasing,,Buick,125,475,running,0,121
+1991,E,1991_Diet_Coke_100,1991_05_E,15,14,21,usa,Jim_Field,Jim Field,Huston Racing,,Ford,124,450,running,0,118
+1991,E,1991_Diet_Coke_100,1991_05_E,16,19,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Buick,124,700,running,0,115
+1991,E,1991_Diet_Coke_100,1991_05_E,17,25,1,usa,Tony_Hirschman,Tony Hirschman,Universal Joint Sales / SKF Bearings,,Oldsmobile,124,415,running,0,112
+1991,E,1991_Diet_Coke_100,1991_05_E,18,24,69,usa,Jeff_Spraker,Jeff Spraker,Spraker Racing Enterprises,,Oldsmobile,124,640,running,0,109
+1991,E,1991_Diet_Coke_100,1991_05_E,19,12,51,usa,Mike_McLaughlin,Mike McLaughlin,Coors Extra Gold,,Oldsmobile,123,360,running,0,106
+1991,E,1991_Diet_Coke_100,1991_05_E,20,9,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Company,,Buick,122,560,running,0,103
+1991,E,1991_Diet_Coke_100,1991_05_E,21,27,39,usa,Lloyd_Gillie,Lloyd Gillie,Gillie's Truck Repair,,Pontiac,122,275,running,0,100
+1991,E,1991_Diet_Coke_100,1991_05_E,22,20,36,usa,Bobby_Gada,Bobby Gada,Traynor Trucking,,Pontiac,122,480,running,0,97
+1991,E,1991_Diet_Coke_100,1991_05_E,23,28,37,usa,Tony_Sylvester,Tony Sylvester,Sylvester Racing,,Buick,122,220,running,0,94
+1991,E,1991_Diet_Coke_100,1991_05_E,24,23,06,usa,Ricky_Miller,Ricky Miller,AGIP / Big A Auto Parts,,Pontiac,121,435,running,0,91
+1991,E,1991_Diet_Coke_100,1991_05_E,25,18,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt / Bakor Racing,,Pontiac,109,400,running,0,88
+1991,E,1991_Diet_Coke_100,1991_05_E,26,29,27,usa,Jon_Lizotte,Jon Lizotte,Ayotes Used Cars,,Chevrolet,105,200,ignition,0,85
+1991,E,1991_Diet_Coke_100,1991_05_E,27,17,12,usa,Dave_Davis,Dave Davis,Davis Brothers,,Buick,96,200,crash,0,82
+1991,E,1991_Diet_Coke_100,1991_05_E,28,21,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive / Swenson Insurance,,Buick,86,390,suspension,0,79
+1991,E,1991_Diet_Coke_100,1991_05_E,29,13,31,usa,Babe_Branscombe,Babe Branscombe,Branscombe Racing,,Oldsmobile,69,200,suspension,0,76
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,1,2,63,usa,Chuck_Bown,Chuck Bown   (Busch),Nescafe Classic,,Pontiac,200,18506,running,137,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,2,10,31,usa,Steve_Grissom,Steve Grissom   (Busch),Channellock,,Oldsmobile,200,9906,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,3,6,36,usa,Kenny_Wallace,Kenny Wallace   (Busch),Cox Treated Lumber,,Pontiac,200,8056,running,35,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,4,15,8,usa,David_Green,David Green   (Busch),TIC Financial Systems,,Oldsmobile,199,5181,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,5,9,1,usa,Jeff_Gordon,Jeff Gordon   (Busch),Carolina Ford Dealers,,Ford,199,4181,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,6,23,18,usa,Mike_Wallace,Mike Wallace   (Busch),Daily's Juices,,Pontiac,199,2000,running,4,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,7,12,44,usa,Bobby_Labonte,Bobby Labonte   (Busch),Penrose Pickled Sausage,,Oldsmobile,199,3206,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,8,19,6,usa,Tommy_Houston,Tommy Houston   (Busch),Rose's Stores,,Buick,199,4706,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,9,1,25,usa,Jimmy_Hensley,Jimmy Hensley   (Busch),Golden Gallon Stores,,Oldsmobile,199,4806,running,24,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,10,4,59,usa,Robert_Pressley,Robert Pressley   (Busch),Alliance Training Centers,,Oldsmobile,199,2756,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,11,22,27,usa,Elton_Sawyer,Elton Sawyer   (Busch),Gwaltney's Big 8's,,Buick,198,2506,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,12,13,75,usa,Ward_Burton,Ward Burton   (Busch),Food Country USA,,Oldsmobile,198,2306,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,13,27,68,usa,Donny_Ling_Jr,"Donny Ling, Jr.",Ling Racing,,Oldsmobile,197,1230,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,14,35,72,usa,Tracy_Leslie,Tracy Leslie   (Busch),Detroit Gasket,,Oldsmobile,197,3981,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,15,17,96,usa,Tom_Peck,Tom Peck   (Busch),Thomas Racing,,Oldsmobile,197,3906,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,16,30,52,usa,Butch_Miller,Butch Miller   (Busch),31-W Insulation,,Chevrolet,197,1190,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,17,3,79,usa,Dave_Rezendes,Dave Rezendes   (Busch),K.R. Rezendes Racing,,Oldsmobile,197,2116,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,18,21,87,usa,Joe_Nemechek,Joe Nemechek   (Busch),High Point Bedding,,Chevrolet,197,2056,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,19,20,2,usa,Ricky_Craven,Ricky Craven,SpeeDee Oil Change,,Chevrolet,197,3606,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,20,33,08,usa,Bobby_Dotter,Bobby Dotter   (Busch),Team R Racing,,Buick,196,1806,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,21,16,33,usa,Ed_Berrier,Ed Berrier   (Busch),Garner's Preserves,,Oldsmobile,196,1781,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,22,26,34,usa,Todd_Bodine,Todd Bodine   (Busch),C & W Racing,,Buick,196,1731,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,23,34,22,usa,Jeff_Barry,Jeff Barry,Barry & Associates,,Oldsmobile,195,1000,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,24,37,12,usa,Ken_Bouchard,Ken Bouchard,ADAP Auto Parts,,Pontiac,195,2225,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,25,32,19,usa,Troy_Beebe,Troy Beebe   (Busch),Taco Bell,,Chevrolet,191,1631,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,26,8,9,usa,Joe_Bessey,Joe Bessey,Holden Agency,,Oldsmobile,191,2190,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,27,36,78,usa,Larry_Brolsma,Larry Brolsma,Brolsma Racing,,Oldsmobile,190,925,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,28,18,11,usa,Tony_Hirschman,Tony Hirschman,SKF Bearings,,Oldsmobile,189,900,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,29,5,99,usa,Jeff_Burton,Jeff Burton   (Busch),Armour Meats,,Chevrolet,181,3306,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,30,14,28,usa,Davey_Allison,Davey Allison   (Busch),Havoline,,Chevrolet,152,850,engine,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,31,7,15,usa,Ken_Schrader,Ken Schrader   (Busch),Exxon Superflo,,Chevrolet,115,825,engine,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,32,29,86,usa,Jeff_Green,Jeff Green   (Busch),Sea Ray Mercruiser,,Oldsmobile,105,1481,running,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,33,25,37,usa,Rich_Burgess,Rich Burgess   (Busch),Taylor & Burgess,,Oldsmobile,77,790,oil leak,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,34,31,49,usa,Ed_Ferree,Ed Ferree   (Busch),Wolf's Head Oil,,Buick,46,1466,transmission,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,35,11,97,usa,Morgan_Shepherd,Morgan Shepherd   (Busch),Texas Pete Sauces,,Ford,29,780,engine,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,36,28,41,usa,Jamie_Aube,Jamie Aube,Citgo,,Buick,14,2525,engine,0,
+1991,E,1991_Pontiac_Pacesetters_200,1991_06_E,37,24,47,usa,Frank_Bumgarner,Frank Bumgarner   (Busch),JFG Coffee,,Pontiac,2,775,engine,0,
+1991,E,1991_Busch_150_%28May%29,1991_07_E,1,19,15,usa,Mike_Rowe,Mike Rowe,Fisher Snowplows,,Buick,150,8675,running,24,180
+1991,E,1991_Busch_150_%28May%29,1991_07_E,2,1,25,usa,Ricky_Craven,Ricky Craven,SpeeDee Oil Change & Tuneup,,Chevrolet,150,3925,running,126,170
+1991,E,1991_Busch_150_%28May%29,1991_07_E,3,8,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,150,2750,running,0,165
+1991,E,1991_Busch_150_%28May%29,1991_07_E,4,2,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Company,,Buick,150,1625,running,0,160
+1991,E,1991_Busch_150_%28May%29,1991_07_E,5,6,7,usa,Billy_Clark,Billy Clark,Skoal Racing,,Pontiac,150,1425,running,0,155
+1991,E,1991_Busch_150_%28May%29,1991_07_E,6,4,1,usa,Tony_Hirschman,Tony Hirschman,Universal Joint Sales / SKF Bearings,,Oldsmobile,150,950,running,0,150
+1991,E,1991_Busch_150_%28May%29,1991_07_E,7,16,68,usa,Donny_Ling_Jr,"Donny Ling, Jr.",Ling Racing Enterprises,,Oldsmobile,150,900,running,0,146
+1991,E,1991_Busch_150_%28May%29,1991_07_E,8,25,5,usa,Ron_Lamell,Ron Lamell,Motion Racing,,Buick,149,1165,running,0,142
+1991,E,1991_Busch_150_%28May%29,1991_07_E,9,11,75,usa,Peter_Daniels,Peter Daniels,RSD Leasing,,Buick,149,775,running,0,138
+1991,E,1991_Busch_150_%28May%29,1991_07_E,10,5,01,usa,Joey_Kourafas,Joey Kourafas,Tilden Racing,,Pontiac,148,1020,running,0,134
+1991,E,1991_Busch_150_%28May%29,1991_07_E,11,23,69,usa,Jeff_Spraker,Jeff Spraker,Spraker Racing Enterprises,,Oldsmobile,148,925,running,0,130
+1991,E,1991_Busch_150_%28May%29,1991_07_E,12,7,72,usa,Ken_Bouchard,Ken Bouchard,ADAP / Auto Palace,,Pontiac,147,855,running,0,127
+1991,E,1991_Busch_150_%28May%29,1991_07_E,13,14,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive / Swenson Insurance,,Buick,146,785,running,0,124
+1991,E,1991_Busch_150_%28May%29,1991_07_E,14,15,12,usa,Dave_Davis,Dave Davis,Davis Brothers,,Buick,145,500,running,0,121
+1991,E,1991_Busch_150_%28May%29,1991_07_E,15,12,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,142,695,running,0,118
+1991,E,1991_Busch_150_%28May%29,1991_07_E,16,3,9,usa,Joe_Bessey,Joe Bessey,Holden Agency,,Oldsmobile,140,675,running,0,115
+1991,E,1991_Busch_150_%28May%29,1991_07_E,17,26,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt / Bakor Racing,,Pontiac,139,645,running,0,112
+1991,E,1991_Busch_150_%28May%29,1991_07_E,18,18,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,134,390,suspension,0,109
+1991,E,1991_Busch_150_%28May%29,1991_07_E,19,24,31,usa,Babe_Branscombe,Babe Branscombe,Branscombe Racing,,Oldsmobile,131,375,suspension,0,106
+1991,E,1991_Busch_150_%28May%29,1991_07_E,20,13,09,usa,Dale_Shaw,Dale Shaw,EJP Enterprises,,Pontiac,121,580,suspension,0,103
+1991,E,1991_Busch_150_%28May%29,1991_07_E,21,22,41,usa,Jamie_Aube,Jamie Aube,Citgo,,Buick,116,860,running,0,100
+1991,E,1991_Busch_150_%28May%29,1991_07_E,22,10,06,usa,Ricky_Miller,Ricky Miller,AGIP / Big A Auto Parts,,Pontiac,106,555,cooling,0,97
+1991,E,1991_Busch_150_%28May%29,1991_07_E,23,20,71,usa,Bobby_Dragon,Bobby Dragon,Rod's Used Cars,,Chevrolet,73,350,brakes,0,94
+1991,E,1991_Busch_150_%28May%29,1991_07_E,24,9,36,usa,Bobby_Gada,Bobby Gada,Traynor Trucking,,Pontiac,70,340,transmission,0,91
+1991,E,1991_Busch_150_%28May%29,1991_07_E,25,21,62,usa,Roger_Raymond,Roger Raymond,Stewart & Son,,Ford,25,350,oil pressure,0,88
+1991,E,1991_Busch_150_%28May%29,1991_07_E,26,17,20,usa,Mike_Stefanik,Mike Stefanik,Pearson Racing Enterprises,,Pontiac,25,350,suspension,0,85
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,1,2,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,126,9575,running,119,180
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,2,1,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Company,,Buick,126,4325,running,7,170
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,3,11,41,usa,Jamie_Aube,Jamie Aube,Citgo,,Buick,126,2925,running,0,165
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,4,8,7,usa,Billy_Clark,Billy Clark,Skoal Racing,,Pontiac,126,1600,running,0,160
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,5,13,72,usa,Ken_Bouchard,Ken Bouchard,ADAP / Auto Palace,,Pontiac,126,1275,running,0,155
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,6,3,36,usa,Bobby_Gada,Bobby Gada,Traynor Trucking,,Pontiac,126,1100,running,0,150
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,7,21,10,usa,Tony_Hirschman,Tony Hirschman,Universal Joint Sales / SKF Bearings,,Oldsmobile,126,700,running,0,146
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,8,10,12,usa,Dave_Davis,Dave Davis,Davis Brothers,,Buick,126,650,running,0,142
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,9,5,25,usa,Ricky_Craven,Ricky Craven,SpeeDee Oil Change & Tuneup,,Chevrolet,126,940,running,0,138
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,10,15,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive / Swenson Insurance,,Buick,126,895,running,0,134
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,11,16,75,usa,Peter_Daniels,Peter Daniels,RSD Leasing,,Buick,126,550,running,0,130
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,12,4,9,usa,Joe_Bessey,Joe Bessey,Holden Agency,,Oldsmobile,126,825,running,0,127
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,13,7,09,usa,Dale_Shaw,Dale Shaw,EJP Enterprises,,Pontiac,126,780,running,0,124
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,14,6,01,usa,Joey_Kourafas,Joey Kourafas,Tilden Racing,,Pontiac,126,735,running,0,121
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,15,12,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,125,450,running,0,118
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,16,9,15,usa,Mike_Rowe,Mike Rowe,Fisher Snowplows,,Buick,125,670,running,0,115
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,17,19,11,usa,Bob_Healey,Bob Healey,Healey Racing Enterprises,,Pontiac,125,415,running,0,112
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,18,26,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt / Bakor Racing,,Pontiac,125,620,running,0,109
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,19,20,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,125,570,running,0,106
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,20,17,22,usa,Jeff_Barry,Jeff Barry,Barry Racing Enterprises,,Oldsmobile,123,330,running,0,103
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,21,27,66,canada,Dean_Ferri,Dean Ferri,Ferri Racing Enterprises,,Pontiac,122,275,running,0,100
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,22,18,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Buick,121,460,running,0,97
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,23,25,69,usa,Jeff_Spraker,Jeff Spraker,Spraker Racing Enterprises,,Oldsmobile,121,430,running,0,94
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,24,23,06,usa,Ricky_Miller,Ricky Miller,AGIP / Big A Auto Parts,,Pontiac,111,425,crash,0,91
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,25,22,39,usa,Lloyd_Gillie,Lloyd Gillie,Gillie's Truck Repair,,Pontiac,52,200,crash,0,88
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,26,24,27,usa,Jon_Lizotte,Jon Lizotte,Ayotes Used Cars,,Chevrolet,36,200,engine,0,85
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,27,14,71,usa,Bobby_Dragon,Bobby Dragon,Rod's Used Cars,,Chevrolet,32,200,rear end,0,82
+1991,E,1991_Big_Apple_Stores_100,1991_08_E,28,28,1,usa,Pete_Silva,Pete Silva,Silva Racing Enterprises,,Chevrolet,18,200,engine,0,79
+1991,E,1991_Busch_Twin_150s,1991_09_E,1,3,51,usa,Mike_McLaughlin,Mike McLaughlin,Coors Extra Gold,,Oldsmobile,150,7775,running,79,180
+1991,E,1991_Busch_Twin_150s,1991_09_E,2,6,25,usa,Ricky_Craven,Ricky Craven,SpeeDee Oil Change & Tuneup,,Pontiac,150,4375,running,40,170
+1991,E,1991_Busch_Twin_150s,1991_09_E,3,10,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,150,2975,running,0,165
+1991,E,1991_Busch_Twin_150s,1991_09_E,4,9,7,usa,Billy_Clark,Billy Clark,Skoal Racing,,Pontiac,150,1750,running,0,160
+1991,E,1991_Busch_Twin_150s,1991_09_E,5,25,1,usa,Tony_Hirschman,Tony Hirschman,Universal Joint Sales / SKF Bearings,,Oldsmobile,150,1475,running,0,155
+1991,E,1991_Busch_Twin_150s,1991_09_E,6,19,09,usa,Dale_Shaw,Dale Shaw,EJP Enterprises,,Pontiac,150,1300,running,0,150
+1991,E,1991_Busch_Twin_150s,1991_09_E,7,12,22,usa,Jeff_Barry,Jeff Barry,Townsend Race Cars,,Oldsmobile,150,875,running,0,146
+1991,E,1991_Busch_Twin_150s,1991_09_E,8,2,68,usa,Donny_Ling_Jr,"Donny Ling, Jr.",Ling Racing Enterprises,,Oldsmobile,150,1090,running,12,142
+1991,E,1991_Busch_Twin_150s,1991_09_E,9,11,12,usa,Dave_Davis,Dave Davis,Davis Brothers Racing,,Buick,150,995,running,0,138
+1991,E,1991_Busch_Twin_150s,1991_09_E,10,14,01,usa,Joey_Kourafas,Joey Kourafas,Tilden Racing,,Pontiac,150,915,running,0,134
+1991,E,1991_Busch_Twin_150s,1991_09_E,11,22,75,usa,Peter_Daniels,Peter Daniels,Jasmin Auto Body,,Buick,150,830,running,0,130
+1991,E,1991_Busch_Twin_150s,1991_09_E,12,16,94,usa,Steve_Hoddick,Steve Hoddick,Emser Vans / Mankos Racing,,Oldsmobile,150,525,running,0,127
+1991,E,1991_Busch_Twin_150s,1991_09_E,13,26,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt / Bakor Racing,,Pontiac,150,520,running,0,124
+1991,E,1991_Busch_Twin_150s,1991_09_E,14,27,11,usa,Bob_Healey,Bob Healey,Healey Racing Enterprises,,Pontiac,150,510,running,0,121
+1991,E,1991_Busch_Twin_150s,1991_09_E,15,20,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive / Swenson Insurance,,Buick,150,760,running,0,118
+1991,E,1991_Busch_Twin_150s,1991_09_E,16,8,72,usa,Ken_Bouchard,Ken Bouchard,ADAP / Auto Palace,,Pontiac,150,730,running,0,115
+1991,E,1991_Busch_Twin_150s,1991_09_E,17,13,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,150,710,running,0,112
+1991,E,1991_Busch_Twin_150s,1991_09_E,18,4,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,150,690,running,4,109
+1991,E,1991_Busch_Twin_150s,1991_09_E,19,7,20,usa,Mike_Stefanik,Mike Stefanik,Pearson Racing Enterprises,,Pontiac,142,460,running,0,106
+1991,E,1991_Busch_Twin_150s,1991_09_E,20,15,41,usa,Jamie_Aube,Jamie Aube,Citgo,,Buick,125,950,suspension,0,103
+1991,E,1991_Busch_Twin_150s,1991_09_E,21,18,36,usa,Bobby_Gada,Bobby Gada,Traynor Trucking,,Pontiac,124,650,engine,0,100
+1991,E,1991_Busch_Twin_150s,1991_09_E,22,30,37,usa,Tony_Sylvester,Tony Sylvester,Sylvester Racing,,Buick,58,430,suspension,0,97
+1991,E,1991_Busch_Twin_150s,1991_09_E,23,28,27,usa,Jon_Lizotte,Jon Lizotte,Ayotes Used Cars,,Chevrolet,57,420,crash,0,94
+1991,E,1991_Busch_Twin_150s,1991_09_E,24,23,06,usa,Ricky_Miller,Ricky Miller,AGIP / Big A Auto Parts,,Pontiac,49,410,valve,0,91
+1991,E,1991_Busch_Twin_150s,1991_09_E,25,24,69,usa,Jeff_Spraker,Jeff Spraker,Spraker Racing Enterprises,,Oldsmobile,47,600,engine,0,88
+1991,E,1991_Busch_Twin_150s,1991_09_E,26,17,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,42,390,engine,0,85
+1991,E,1991_Busch_Twin_150s,1991_09_E,27,1,9,usa,Joe_Bessey,Joe Bessey,Holden Agency,,Oldsmobile,39,570,crash,15,82
+1991,E,1991_Busch_Twin_150s,1991_09_E,28,29,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Buick,22,555,suspension,0,79
+1991,E,1991_Busch_Twin_150s,1991_09_E,29,21,15,usa,Mike_Rowe,Mike Rowe,Fisher Snowplows,,Buick,18,545,engine,0,76
+1991,E,1991_Busch_Twin_150s,1991_09_E,30,5,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Company,,Buick,3,525,engine,0,73
+1991,E,1991_Busch_150_%28June%29,1991_10_E,1,1,25,usa,Ricky_Craven,Ricky Craven,SpeeDee Oil Change & Tuneup,,Chevrolet,150,8175,running,143,180
+1991,E,1991_Busch_150_%28June%29,1991_10_E,2,7,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,150,3825,running,0,170
+1991,E,1991_Busch_150_%28June%29,1991_10_E,3,2,7,usa,Billy_Clark,Billy Clark,Skoal Racing,,Pontiac,150,2675,running,7,165
+1991,E,1991_Busch_150_%28June%29,1991_10_E,4,18,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,150,1725,running,0,160
+1991,E,1991_Busch_150_%28June%29,1991_10_E,5,5,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,150,1600,running,0,155
+1991,E,1991_Busch_150_%28June%29,1991_10_E,6,8,15,usa,Mike_Rowe,Mike Rowe,Fisher Snowplows,,Buick,150,1440,running,0,150
+1991,E,1991_Busch_150_%28June%29,1991_10_E,7,3,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Company,,Buick,149,1320,running,0,146
+1991,E,1991_Busch_150_%28June%29,1991_10_E,8,4,01,usa,Joey_Kourafas,Joey Kourafas,Tilden Racing,,Pontiac,149,1200,running,0,142
+1991,E,1991_Busch_150_%28June%29,1991_10_E,9,16,1,usa,Tony_Hirschman,Tony Hirschman,Universal Joint Sales / SKF Bearings,,Oldsmobile,149,1040,running,0,138
+1991,E,1991_Busch_150_%28June%29,1991_10_E,10,12,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,149,980,running,0,134
+1991,E,1991_Busch_150_%28June%29,1991_10_E,11,6,41,usa,Jamie_Aube,Jamie Aube,Citgo,,Buick,148,1150,running,0,130
+1991,E,1991_Busch_150_%28June%29,1991_10_E,12,21,11,usa,Bob_Healey,Bob Healey,Healey Racing Enterprises,,Chevrolet,146,600,running,0,127
+1991,E,1991_Busch_150_%28June%29,1991_10_E,13,22,89,usa,Gary_Schwab,Gary Schwab,Perry's Ice Cream,,Oldsmobile,145,550,running,0,124
+1991,E,1991_Busch_150_%28June%29,1991_10_E,14,10,57,usa,Tim_Bender,Tim Bender,Bender Construction,,Chevrolet,145,525,running,0,121
+1991,E,1991_Busch_150_%28June%29,1991_10_E,15,26,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Buick,145,740,running,0,118
+1991,E,1991_Busch_150_%28June%29,1991_10_E,16,24,39,usa,Lloyd_Gillie,Lloyd Gillie,Gillie's Truck Repair,,Pontiac,145,490,running,0,115
+1991,E,1991_Busch_150_%28June%29,1991_10_E,17,9,12,usa,Dave_Davis,Dave Davis,Davis Brothers Racing,,Buick,127,700,running,0,112
+1991,E,1991_Busch_150_%28June%29,1991_10_E,18,19,22,usa,Jeff_Barry,Jeff Barry,Barry Racing Enterprises,,Oldsmobile,96,685,running,0,109
+1991,E,1991_Busch_150_%28June%29,1991_10_E,19,14,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive / Swenson Insurance,,Buick,95,670,cooling,0,106
+1991,E,1991_Busch_150_%28June%29,1991_10_E,20,17,06,usa,Ricky_Miller,Ricky Miller,AGIP / Big A Auto Parts,,Pontiac,71,655,suspension,0,103
+1991,E,1991_Busch_150_%28June%29,1991_10_E,21,11,36,usa,Bobby_Gada,Bobby Gada,Traynor Trucking,,Pontiac,62,640,crash,0,100
+1991,E,1991_Busch_150_%28June%29,1991_10_E,22,20,75,usa,Peter_Daniels,Peter Daniels,RSD Leasing,,Buick,55,625,crash,0,97
+1991,E,1991_Busch_150_%28June%29,1991_10_E,23,13,09,usa,Dale_Shaw,Dale Shaw,EJP Enterprises,,Pontiac,34,610,crash,0,94
+1991,E,1991_Busch_150_%28June%29,1991_10_E,24,25,66,canada,Dean_Ferri,Dean Ferri,Ferri Racing Enterprises,,Pontiac,30,450,crash,0,91
+1991,E,1991_Busch_150_%28June%29,1991_10_E,25,23,94,usa,Steve_Hoddick,Steve Hoddick,Emser Vans / Mankos Racing,,Oldsmobile,23,450,crash,0,88
+1991,E,1991_Busch_150_%28June%29,1991_10_E,26,15,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt / Bakor Racing,,Pontiac,20,600,crash,0,85
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,1,4,25,usa,Ricky_Craven,Ricky Craven,SpeeDee Oil Change & Tuneup,,Chevrolet,200,8775,running,81,180
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,2,8,7,usa,Billy_Clark,Billy Clark,Skoal Racing,,Pontiac,200,4125,running,0,170
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,3,6,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,200,2875,running,0,165
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,4,1,09,usa,Dale_Shaw,Dale Shaw,EJP Enterprises,,Pontiac,200,2025,running,119,160
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,5,2,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Company,,Buick,200,1700,running,0,155
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,6,15,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,200,1590,running,0,150
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,7,21,11,usa,Bob_Healey,Bob Healey,Healey Racing Enterprises,,Chevrolet,199,1150,running,0,146
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,8,12,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,198,1420,running,0,142
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,9,11,01,usa,Joey_Kourafas,Joey Kourafas,Tilden Racing Enterprises,,Pontiac,198,1350,running,0,138
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,10,18,15,usa,Mike_Rowe,Mike Rowe,Fisher Snowplows,,Buick,198,1280,running,0,134
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,11,17,22,usa,Jeff_Barry,Jeff Barry,Barry Racing Enterprises,,Oldsmobile,198,1160,running,0,130
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,12,19,72,usa,Ken_Bouchard,Ken Bouchard,ADAP / Auto Palace,,Pontiac,198,1090,running,0,127
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,13,13,9,usa,Joe_Bessey,Joe Bessey,Holden Agency,,Oldsmobile,197,1030,running,0,124
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,14,23,39,usa,Lloyd_Gillie,Lloyd Gillie,Gillie's Truck Repair,,Pontiac,197,970,running,0,121
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,15,27,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Buick,195,910,running,0,118
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,16,20,94,usa,Steve_Hoddick,Steve Hoddick,Emser Vans / Mankos Racing,,Oldsmobile,191,650,running,0,115
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,17,16,75,usa,Peter_Daniels,Peter Daniels,RSD Leasing,,Buick,191,800,running,0,112
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,18,10,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt / Bakor Racing,,Pontiac,167,740,running,0,109
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,19,14,68,usa,Donny_Ling_Jr,"Donny Ling, Jr.",Ling Racing Enterprises,,Oldsmobile,130,750,suspension,0,106
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,20,3,36,usa,Bobby_Gada,Bobby Gada,Traynor Trucking,,Pontiac,120,710,suspension,0,103
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,21,7,1,usa,Tony_Hirschman,Tony Hirschman,Universal Joint Sales / SKF Bearings,,Oldsmobile,79,685,rear end,0,100
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,22,24,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive / Swenson Insurance,,Buick,79,675,suspension,0,97
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,23,5,12,usa,Dave_Davis,Dave Davis,Davis Brothers Racing,,Buick,52,660,crash,0,94
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,24,22,67,usa,Pat_Jones,Pat Jones,Jones Racing,,Oldsmobile,51,490,crash,0,91
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,25,25,06,usa,Ricky_Miller,Ricky Miller,AGIP / Big A Auto Parts,,Pontiac,31,460,cooling,0,88
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,26,9,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,13,450,suspension,0,85
+1991,E,1991_Thomas_Chevrolet_200,1991_11_E,27,26,41,usa,Jamie_Aube,Jamie Aube,Citgo,,Buick,3,950,engine,0,82
+1991,E,1991_All-Pro_Auto_Parts_150,1991_12_E,1,7,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Company,,Buick,150,7975,running,8,180
+1991,E,1991_All-Pro_Auto_Parts_150,1991_12_E,2,9,15,usa,Mike_Rowe,Mike Rowe,Fisher Snowplows,,Buick,150,4125,running,0,170
+1991,E,1991_All-Pro_Auto_Parts_150,1991_12_E,3,5,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,150,2930,running,131,165
+1991,E,1991_All-Pro_Auto_Parts_150,1991_12_E,4,6,01,usa,Joey_Kourafas,Joey Kourafas,Tilden Racing,,Pontiac,150,1650,running,0,160
+1991,E,1991_All-Pro_Auto_Parts_150,1991_12_E,5,8,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,150,1325,running,0,155
+1991,E,1991_All-Pro_Auto_Parts_150,1991_12_E,6,4,36,usa,Bobby_Gada,Bobby Gada,Traynor Trucking,,Pontiac,150,1120,running,0,150
+1991,E,1991_All-Pro_Auto_Parts_150,1991_12_E,7,15,75,usa,Peter_Daniels,Peter Daniels,RSD Leasing,,Buick,150,1075,running,0,146
+1991,E,1991_All-Pro_Auto_Parts_150,1991_12_E,8,11,41,usa,Jamie_Aube,Jamie Aube,Citgo,,Buick,150,1025,running,0,142
+1991,E,1991_All-Pro_Auto_Parts_150,1991_12_E,9,4,25,usa,Ricky_Craven,Ricky Craven,SpeeDee Oil Change & Tuneup,,Chevrolet,150,1080,running,0,138
+1991,E,1991_All-Pro_Auto_Parts_150,1991_12_E,10,20,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Buick,150,1010,running,0,134
+1991,E,1991_All-Pro_Auto_Parts_150,1991_12_E,11,23,39,usa,Lloyd_Gillie,Lloyd Gillie,Gillie's Truck Caps,,Pontiac,150,940,running,0,130
+1991,E,1991_All-Pro_Auto_Parts_150,1991_12_E,12,10,7,usa,Billy_Clark,Billy Clark,Skoal Racing,,Pontiac,150,830,running,0,127
+1991,E,1991_All-Pro_Auto_Parts_150,1991_12_E,13,14,72,usa,Ken_Bouchard,Ken Bouchard,ADAP / Auto Palace,,Pontiac,150,820,running,0,124
+1991,E,1991_All-Pro_Auto_Parts_150,1991_12_E,14,12,31,usa,Babe_Branscombe,Babe Branscombe,Branscombe Racing,,Oldsmobile,149,810,running,0,121
+1991,E,1991_All-Pro_Auto_Parts_150,1991_12_E,15,2,3,usa,Tony_Hirschman,Tony Hirschman,Universal Joint Sales / SKF Bearings,,Oldsmobile,149,690,running,0,118
+1991,E,1991_All-Pro_Auto_Parts_150,1991_12_E,16,1,09,usa,Dale_Shaw,Dale Shaw,EJP Enterprises,,Pontiac,147,610,running,11,115
+1991,E,1991_All-Pro_Auto_Parts_150,1991_12_E,17,13,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt / Bakor Racing,,Pontiac,143,570,running,0,112
+1991,E,1991_All-Pro_Auto_Parts_150,1991_12_E,18,19,11,usa,Bob_Healey,Bob Healey,Healey Racing Enterprises,,Chevrolet,121,560,crash,0,109
+1991,E,1991_All-Pro_Auto_Parts_150,1991_12_E,19,16,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,101,490,oil line,0,106
+1991,E,1991_All-Pro_Auto_Parts_150,1991_12_E,20,21,69,usa,Jeff_Spraker,Jeff Spraker,Spraker Racing Enterprises,,Oldsmobile,76,390,suspension,0,103
+1991,E,1991_All-Pro_Auto_Parts_150,1991_12_E,21,18,1,usa,Pete_Silva,Pete Silva,Silva Racing Enterprises,,Buick,45,380,engine,0,100
+1991,E,1991_All-Pro_Auto_Parts_150,1991_12_E,22,22,22,usa,Jeff_Barry,Jeff Barry,Barry Racing Enterprises,,Oldsmobile,36,360,engine,0,97
+1991,E,1991_All-Pro_Auto_Parts_150,1991_12_E,23,24,03,usa,Larry_Caron,Larry Caron,O3 Racing Enterprises,,Buick,22,350,suspension,0,94
+1991,E,1991_All-Pro_Auto_Parts_150,1991_12_E,24,17,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive / Swenson Insurance,,Buick,2,450,engine,0,91
+1991,E,1991_Carquest_150,1991_13_E,1,7,20,usa,Mike_Stefanik,Mike Stefanik,Wright Pearson Racing Enterprises,,Pontiac,150,8175,running,120,180
+1991,E,1991_Carquest_150,1991_13_E,2,3,25,usa,Ricky_Craven,Ricky Craven,SpeeDee Oil Change & Tuneup,,Chevrolet,150,4175,running,0,170
+1991,E,1991_Carquest_150,1991_13_E,3,20,7,usa,Billy_Clark,Billy Clark,Skoal Racing / Cumberland Farms,,Pontiac,150,2900,running,0,165
+1991,E,1991_Carquest_150,1991_13_E,4,4,3,usa,Tony_Hirschman,Tony Hirschman,Universal Joint Sales / SKF Bearings,,Oldsmobile,150,1650,running,0,160
+1991,E,1991_Carquest_150,1991_13_E,5,1,36,usa,Bobby_Gada,Bobby Gada,Traynor Trucking,,Pontiac,150,1375,running,25,155
+1991,E,1991_Carquest_150,1991_13_E,6,10,01,usa,Joey_Kourafas,Joey Kourafas,Tilden Racing,,Pontiac,150,1200,running,0,150
+1991,E,1991_Carquest_150,1991_13_E,7,9,09,usa,Dale_Shaw,Dale Shaw,EJP Enterprises,,Pontiac,150,1115,running,0,146
+1991,E,1991_Carquest_150,1991_13_E,8,11,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,150,970,running,0,142
+1991,E,1991_Carquest_150,1991_13_E,9,21,13,usa,Ted_Christopher,Ted Christopher,Cliff Nelson Racing,,Chevrolet,149,575,running,0,138
+1991,E,1991_Carquest_150,1991_13_E,10,15,41,usa,Jamie_Aube,Jamie Aube,Citgo,,Buick,149,1025,running,0,134
+1991,E,1991_Carquest_150,1991_13_E,11,24,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Buick,148,770,running,0,130
+1991,E,1991_Carquest_150,1991_13_E,12,14,68,usa,Donny_Ling_Jr,"Donny Ling, Jr.",Ling Racing Enterprises,,Pontiac,147,720,running,0,127
+1991,E,1991_Carquest_150,1991_13_E,13,23,87,usa,Glenn_Sullivan,Glenn Sullivan,Havoline,,Chevrolet,147,430,running,0,124
+1991,E,1991_Carquest_150,1991_13_E,14,19,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,147,685,running,0,121
+1991,E,1991_Carquest_150,1991_13_E,15,27,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive / Swenson Insurance,,Buick,141,660,running,0,118
+1991,E,1991_Carquest_150,1991_13_E,16,16,72,usa,Ken_Bouchard,Ken Bouchard,ADAP / Auto Palace,,Pontiac,139,640,crash,0,115
+1991,E,1991_Carquest_150,1991_13_E,17,12,15,usa,Mike_Rowe,Mike Rowe,Fisher Snowplows,,Buick,138,620,crash,0,112
+1991,E,1991_Carquest_150,1991_13_E,18,5,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,137,900,crash,0,109
+1991,E,1991_Carquest_150,1991_13_E,19,25,39,usa,Lloyd_Gillie,Lloyd Gillie,Gillie's Truck Caps,,Pontiac,132,580,crash,0,106
+1991,E,1991_Carquest_150,1991_13_E,20,8,06,usa,Ricky_Miller,Ricky Miller,AGIP / Big A Auto Parts,,Pontiac,105,560,cooling,0,103
+1991,E,1991_Carquest_150,1991_13_E,21,30,51,usa,Regg_McLain,Regg McLain,McLain Racing Enterprises,,Pontiac,99,360,cooling,0,100
+1991,E,1991_Carquest_150,1991_13_E,22,18,75,usa,Peter_Daniels,Peter Daniels,RSD Leasing,,Buick,88,530,ignition,0,97
+1991,E,1991_Carquest_150,1991_13_E,23,22,37,usa,Tony_Sylvester,Tony Sylvester,Sylvester Racing Enterprises,,Buick,83,340,exhaust,0,94
+1991,E,1991_Carquest_150,1991_13_E,24,13,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt / Bakor Racing,,Pontiac,59,500,crash,0,91
+1991,E,1991_Carquest_150,1991_13_E,25,17,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,56,480,crash,0,88
+1991,E,1991_Carquest_150,1991_13_E,26,6,22,usa,Jeff_Barry,Jeff Barry,Barry Racing Enterprises,,Oldsmobile,56,460,crash,0,85
+1991,E,1991_Carquest_150,1991_13_E,27,28,62,usa,Roger_Raymond,Roger Raymond,Stewart & Son,,Ford,48,305,cooling,0,82
+1991,E,1991_Carquest_150,1991_13_E,28,2,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Company,,Buick,31,450,engine,5,79
+1991,E,1991_Carquest_150,1991_13_E,29,26,69,usa,Jeff_Spraker,Jeff Spraker,Spraker Racing Enterprises,,Oldsmobile,20,300,oil leak,0,76
+1991,E,1991_Carquest_150,1991_13_E,30,29,27,usa,Jon_Lizotte,Jon Lizotte,Ayotes Used Cars,,Chevrolet,10,300,cooling,0,73
+1991,E,1991_True_Value_Oxford_250,1991_14_E,1,6,28,usa,Ricky_Craven,Ricky Craven,SpeeDee Oil Change,,Chevrolet,303,50025,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,2,28,6,usa,Tommy_Houston,Tommy Houston   (Busch),Rose's Stores,,Buick,303,17225,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,3,4,34,usa,Todd_Bodine,Todd Bodine   (Busch),Fay's Drug Stores,,Buick,303,14475,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,4,22,72,usa,Tracy_Leslie,Tracy Leslie   (Busch),Detroit Gasket,,Oldsmobile,303,8250,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,5,36,08,usa,Bobby_Dotter,Bobby Dotter   (Busch),Team R Racing,,Buick,303,5850,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,6,34,99,usa,Jeff_Burton,Jeff Burton   (Busch),Armour Meats,,Chevrolet,302,5500,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,7,12,44,usa,Bobby_Labonte,Bobby Labonte   (Busch),Penrose Pickled Sausage,,Oldsmobile,302,3450,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,8,8,36,usa,Kenny_Wallace,Kenny Wallace   (Busch),Cox Treated Lumber,,Pontiac,302,4150,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,9,9,31,usa,Steve_Grissom,Steve Grissom   (Busch),Channellock,,Oldsmobile,302,3800,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,10,21,87,usa,Joe_Nemechek,Joe Nemechek   (Busch),Budweiser,,Chevrolet,302,2375,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,11,33,3,usa,Tony_Hirschman,Tony Hirschman,Universal Joint Sales,,Oldsmobile,302,2400,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,12,7,63,usa,Chuck_Bown,Chuck Bown   (Busch),Nescafe Classic,,Pontiac,301,5625,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,13,3,25,usa,Jimmy_Hensley,Jimmy Hensley   (Busch),Beverley Racing,,Oldsmobile,301,4925,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,14,38,27,usa,Ward_Burton,Ward Burton   (Busch),Gwaltney's Big 8's,,Buick,301,2110,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,15,13,15,usa,Mike_Rowe,Mike Rowe,O'Connor GMC,,Pontiac,300,2200,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,16,15,96,usa,Tom_Peck,Tom Peck   (Busch),Thomas Racing,,Oldsmobile,300,3275,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,17,11,8,usa,David_Green,David Green   (Busch),TIC Financial Systems,,Oldsmobile,300,1925,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,18,24,79,usa,Dave_Rezendes,Dave Rezendes   (Busch),K.R. Rezendes Racing,,Oldsmobile,299,1900,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,19,10,01,usa,Joey_Kourafas,Joey Kourafas,Tilden Racing,,Pontiac,299,2010,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,20,17,9,usa,Troy_Beebe,Troy Beebe   (Busch),Taco Bell,,Chevrolet,299,1875,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,21,26,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Buick,299,1980,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,22,31,75,usa,Butch_Miller,Butch Miller   (Busch),Food Country USA,,Oldsmobile,298,1350,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,23,1,7,usa,Billy_Clark,Billy Clark,Skoal,,Pontiac,298,2265,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,24,35,12,usa,Ken_Bouchard,Ken Bouchard,ADAP Auto Parts,,Pontiac,297,1960,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,25,2,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,297,1960,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,26,19,41,usa,Jamie_Aube,Jamie Aube,Citgo,,Buick,296,2700,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,27,16,38,usa,Bobby_Gada,Bobby Gada,Traynor Trucking,,Pontiac,295,1945,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,28,14,22,usa,Jeff_Barry,Jeff Barry,Barry & Associates,,Oldsmobile,295,1940,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,29,29,1,usa,Jeff_Gordon,Jeff Gordon   (Busch),Carolina Ford Dealers,,Ford,295,1810,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,30,25,35,usa,Mike_Weeden,Mike Weeden,All-Pro Auto Parts,,Pontiac,291,1305,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,31,20,09,usa,Dale_Shaw,Dale Shaw,EJP,,Pontiac,291,1925,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,32,30,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Buick,284,1875,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,33,41,66,canada,Dean_Ferri,Dean Ferri,Ferri Racing,,Pontiac,282,1200,running,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,34,39,91,usa,Joe_Bessey,Joe Bessey,Holden Agency,,Oldsmobile,204,1875,handling,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,35,37,78,usa,Peter_Daniels,Peter Daniels,RSD Leasing,,Buick,197,1875,engine,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,36,32,33,usa,Ed_Berrier,Ed Berrier   (Busch),Garner's Preserves,,Oldsmobile,131,1700,engine,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,37,18,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,116,1875,engine,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,38,23,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Company,,Buick,39,1875,crash,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,39,27,51,usa,Mike_McLaughlin,Mike McLaughlin,Coors Extra Gold,,Oldsmobile,37,1200,crash,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,40,5,59,usa,Robert_Pressley,Robert Pressley   (Busch),Alliance Training Centers,,Oldsmobile,20,1700,engine,–,
+1991,E,1991_True_Value_Oxford_250,1991_14_E,41,40,49,usa,Ed_Ferree,Ed Ferree   (Busch),Wolf's Head Oil,,Buick,15,1700,transmission,–,
+1991,E,1991_Budweiser_300,1991_15_E,1,3,36,usa,Kenny_Wallace,Kenny Wallace   (Busch),Cox Treated Lumber,,Pontiac,300,62664,running,202,
+1991,E,1991_Budweiser_300,1991_15_E,2,11,63,usa,Chuck_Bown,Chuck Bown   (Busch),Nescafe Classic,,Pontiac,300,28564,running,63,
+1991,E,1991_Budweiser_300,1991_15_E,3,36,31,usa,Steve_Grissom,Steve Grissom   (Busch),Channellock,,Oldsmobile,299,15014,running,0,
+1991,E,1991_Budweiser_300,1991_15_E,4,7,30,usa,Michael_Waltrip,Michael Waltrip   (Busch),Pennzoil,,Pontiac,299,7600,running,0,
+1991,E,1991_Budweiser_300,1991_15_E,5,12,10,usa,Ernie_Irvan,Ernie Irvan   (Busch),Mac Tools,,Chevrolet,299,7650,running,0,
+1991,E,1991_Budweiser_300,1991_15_E,6,25,87,usa,Joe_Nemechek,Joe Nemechek   (Busch),Budweiser,,Chevrolet,298,9089,running,0,
+1991,E,1991_Budweiser_300,1991_15_E,7,4,59,usa,Robert_Pressley,Robert Pressley   (Busch),Alliance Training Centers,,Oldsmobile,298,8889,running,0,
+1991,E,1991_Budweiser_300,1991_15_E,8,41,8,usa,David_Green,David Green   (Busch),TIC Financial Systems,,Oldsmobile,298,7689,running,0,
+1991,E,1991_Budweiser_300,1991_15_E,9,14,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Company,,Buick,297,6883,running,1,
+1991,E,1991_Budweiser_300,1991_15_E,10,38,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,297,6483,running,0,
+1991,E,1991_Budweiser_300,1991_15_E,11,29,96,usa,Tom_Peck,Tom Peck   (Busch),Thomas Racing,,Oldsmobile,296,7964,running,0,
+1991,E,1991_Budweiser_300,1991_15_E,12,2,01,usa,Joey_Kourafas,Joey Kourafas,New England Racing,,Pontiac,296,7108,running,0,
+1991,E,1991_Budweiser_300,1991_15_E,13,37,6,usa,Tommy_Houston,Tommy Houston   (Busch),Rose's Stores,,Buick,296,8089,running,4,
+1991,E,1991_Budweiser_300,1991_15_E,14,15,51,usa,Mike_McLaughlin,Mike McLaughlin,Coors Extra Gold,,Oldsmobile,296,5025,running,0,
+1991,E,1991_Budweiser_300,1991_15_E,15,39,1,usa,Jeff_Gordon,Jeff Gordon   (Busch),Carolina Ford Dealers,,Ford,295,5689,running,0,
+1991,E,1991_Budweiser_300,1991_15_E,16,18,33,usa,Ed_Berrier,Ed Berrier   (Busch),Pharo's Truck Stop,,Oldsmobile,295,5564,running,0,
+1991,E,1991_Budweiser_300,1991_15_E,17,17,09,usa,Dale_Shaw,Dale Shaw,EJP,,Pontiac,294,5233,running,0,
+1991,E,1991_Budweiser_300,1991_15_E,18,26,79,usa,Dave_Rezendes,Dave Rezendes   (Busch),K.R. Rezendes Racing,,Oldsmobile,293,5314,running,0,
+1991,E,1991_Budweiser_300,1991_15_E,19,18,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,293,4983,running,0,
+1991,E,1991_Budweiser_300,1991_15_E,20,6,99,usa,Jeff_Burton,Jeff Burton   (Busch),Armour Meats,,Chevrolet,293,6789,running,0,
+1991,E,1991_Budweiser_300,1991_15_E,21,34,38,usa,Bobby_Gada,Bobby Gada,Traynor Trucking,,Pontiac,292,4708,running,0,
+1991,E,1991_Budweiser_300,1991_15_E,22,21,34,usa,Todd_Bodine,Todd Bodine   (Busch),Berlin City Ford,,Buick,291,4789,running,0,
+1991,E,1991_Budweiser_300,1991_15_E,23,30,15,usa,Mike_Rowe,Mike Rowe,O'Connor GMC,,Buick,290,3983,running,0,
+1991,E,1991_Budweiser_300,1991_15_E,24,35,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt,,Pontiac,289,3883,running,0,
+1991,E,1991_Budweiser_300,1991_15_E,25,32,22,usa,Jeff_Barry,Jeff Barry,Barry & Associates,,Oldsmobile,288,3883,running,0,
+1991,E,1991_Budweiser_300,1991_15_E,26,42,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Buick,284,3783,running,0,
+1991,E,1991_Budweiser_300,1991_15_E,27,43,2,usa,Tracy_Leslie,Tracy Leslie   (Busch),Detroit Gasket,,Oldsmobile,273,5714,running,0,
+1991,E,1991_Budweiser_300,1991_15_E,28,28,41,usa,Jamie_Aube,Jamie Aube,Citgo,,Buick,273,4233,running,0,
+1991,E,1991_Budweiser_300,1991_15_E,29,20,08,usa,Bobby_Dotter,Bobby Dotter   (Busch),Team R Racing,,Buick,271,3889,running,0,
+1991,E,1991_Budweiser_300,1991_15_E,30,5,28,usa,Davey_Allison,Davey Allison   (Busch),Texaco / Havoline,,Buick,263,4725,valve,14,
+1991,E,1991_Budweiser_300,1991_15_E,31,33,49,usa,Ed_Ferree,Ed Ferree   (Busch),Wolf's Head Oil,,Buick,260,3789,engine,0,
+1991,E,1991_Budweiser_300,1991_15_E,32,1,25,usa,Jimmy_Hensley,Jimmy Hensley   (Busch),Beverley Racing,,Oldsmobile,253,8789,alternator,10,
+1991,E,1991_Budweiser_300,1991_15_E,33,40,72,usa,Ken_Bouchard,Ken Bouchard,ADAP / Auto Palace,,Pontiac,229,3483,overheating,0,
+1991,E,1991_Budweiser_300,1991_15_E,34,27,27,usa,Ward_Burton,Ward Burton   (Busch),Gwaltney's Big 8's,,Buick,176,3664,valve,0,
+1991,E,1991_Budweiser_300,1991_15_E,35,8,3,usa,Dale_Earnhardt,Dale Earnhardt   (Busch),GM Goodwrench,,Chevrolet,158,2825,crash,0,
+1991,E,1991_Budweiser_300,1991_15_E,36,10,9,usa,Joe_Bessey,Joe Bessey,Holden Agency,,Oldsmobile,154,3383,electrical,0,
+1991,E,1991_Budweiser_300,1991_15_E,37,13,44,usa,Bobby_Labonte,Bobby Labonte   (Busch),Penrose Pickled Sausage,,Oldsmobile,149,4439,engine,6,
+1991,E,1991_Budweiser_300,1991_15_E,38,44,32,usa,Dale_Jarrett,Dale Jarrett   (Busch),Nestle Crunch,,Pontiac,112,2800,steering,0,
+1991,E,1991_Budweiser_300,1991_15_E,39,16,97,usa,Morgan_Shepherd,Morgan Shepherd   (Busch),Texas Pete Sauces,,Ford,92,2800,ignition,0,
+1991,E,1991_Budweiser_300,1991_15_E,40,31,85,usa,Ricky_Craven,Ricky Craven,SpeeDee Oil Change,,Chevrolet,90,3383,transmission,0,
+1991,E,1991_Budweiser_300,1991_15_E,41,24,23,usa,Dave_Mader_III,Dave Mader III   (Busch),Folsom Racing,,Buick,82,2800,brakes,0,
+1991,E,1991_Budweiser_300,1991_15_E,42,9,7,usa,Billy_Clark,Billy Clark,Skoal,,Pontiac,34,3383,rear end,0,
+1991,E,1991_Budweiser_300,1991_15_E,43,23,12,usa,Tommy_Ellis,Tommy Ellis   (Busch),TAD Technical Institute,,Buick,25,2800,transmission,0,
+1991,E,1991_Budweiser_300,1991_15_E,44,22,18,usa,Tony_Hirschman,Tony Hirschman,SKF Bearings,,Oldsmobile,11,3383,camshaft,0,
+1991,E,1991_Revere_Travel_200,1991_16_E,1,4,25,usa,Ricky_Craven,Ricky Craven,SpeeDee Oil Change & Tuneup,,Chevrolet,200,9075,running,166,180
+1991,E,1991_Revere_Travel_200,1991_16_E,2,11,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,200,4125,running,0,170
+1991,E,1991_Revere_Travel_200,1991_16_E,3,9,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Company,,Buick,200,2975,running,0,165
+1991,E,1991_Revere_Travel_200,1991_16_E,4,13,41,usa,Jamie_Aube,Jamie Aube,Citgo,,Buick,200,2150,running,0,160
+1991,E,1991_Revere_Travel_200,1991_16_E,5,10,7,usa,Billy_Clark,Billy Clark,Skoal Racing / Cumberland Farms,,Pontiac,199,1725,running,0,155
+1991,E,1991_Revere_Travel_200,1991_16_E,6,7,86,usa,Todd_Cray,Todd Cray,Mid-State Communications,,Buick,199,1250,running,0,150
+1991,E,1991_Revere_Travel_200,1991_16_E,7,8,68,usa,Donny_Ling_Jr,"Donny Ling, Jr.",Ling Racing Enterprises,,Oldsmobile,198,1500,running,0,146
+1991,E,1991_Revere_Travel_200,1991_16_E,8,6,01,usa,Joey_Kourafas,Joey Kourafas,Tilden Racing Enterprises,,Pontiac,198,1440,running,0,142
+1991,E,1991_Revere_Travel_200,1991_16_E,9,21,22,usa,Jeff_Barry,Jeff Barry,Barry Racing Enterprises,,Oldsmobile,197,1370,running,0,138
+1991,E,1991_Revere_Travel_200,1991_16_E,10,20,34,usa,Glenn_Sullivan,Glenn Sullivan,Texaco / Havoline,,Chevrolet,196,1000,running,0,134
+1991,E,1991_Revere_Travel_200,1991_16_E,11,14,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive / Swenson Insurance,,Buick,196,1200,running,0,130
+1991,E,1991_Revere_Travel_200,1991_16_E,12,23,28,usa,Roger_Godin,Roger Godin,Myers Performance,,Pontiac,194,850,running,0,127
+1991,E,1991_Revere_Travel_200,1991_16_E,13,16,72,usa,Ken_Bouchard,Ken Bouchard,ADAP / Auto Palace,,Pontiac,194,1080,running,0,124
+1991,E,1991_Revere_Travel_200,1991_16_E,14,19,18,usa,Larry_Brolsma,Larry Brolsma,Cedar Ridge RV Sales,,Oldsmobile,194,750,running,0,121
+1991,E,1991_Revere_Travel_200,1991_16_E,15,12,94,usa,Steve_Hoddick,Steve Hoddick,Emser Vans / Mankos Racing,,Oldsmobile,190,700,running,0,118
+1991,E,1991_Revere_Travel_200,1991_16_E,16,17,66,canada,Dean_Ferri,Dean Ferri,Ferri Racing Enterprises,,Pontiac,190,650,running,0,115
+1991,E,1991_Revere_Travel_200,1991_16_E,17,3,3,usa,Tony_Hirschman,Tony Hirschman,Universal Joint Sales / SKF Bearings,,Oldsmobile,189,860,crash,26,112
+1991,E,1991_Revere_Travel_200,1991_16_E,18,18,45,usa,Jimmy_Spencer,Jimmy Spencer,Laughlin Racing Enterprises,,Buick,189,580,crash,0,109
+1991,E,1991_Revere_Travel_200,1991_16_E,19,15,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,179,810,crash,0,106
+1991,E,1991_Revere_Travel_200,1991_16_E,20,5,09,usa,Dale_Shaw,Dale Shaw,EJP Enterprises,,Pontiac,164,780,running,0,103
+1991,E,1991_Revere_Travel_200,1991_16_E,21,2,5,usa,Ken_Schrader,Ken Schrader,Exxon Superflo,,Chevrolet,140,540,rear end,0,100
+1991,E,1991_Revere_Travel_200,1991_16_E,22,24,11,usa,Bob_Healey,Bob Healey,Healey Racing Enterprises,,Oldsmobile,116,525,crash,0,97
+1991,E,1991_Revere_Travel_200,1991_16_E,23,27,24,usa,Mike_Maselli,Mike Maselli,Mike's Truck Repair,,Pontiac,111,510,suspension,0,94
+1991,E,1991_Revere_Travel_200,1991_16_E,24,26,2,usa,Mike_Urciuoli,Mike Urciuoli,Jimbo's Custom,,Oldsmobile,109,490,cooling,0,91
+1991,E,1991_Revere_Travel_200,1991_16_E,25,25,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt / Bakor Racing,,Pontiac,98,680,engine,0,88
+1991,E,1991_Revere_Travel_200,1991_16_E,26,22,39,usa,Lloyd_Gillie,Lloyd Gillie,Gillie's Truck Caps,,Pontiac,31,450,ignition,0,85
+1991,E,1991_Revere_Travel_200,1991_16_E,27,1,15,usa,Mike_Rowe,Mike Rowe,Fisher Snowplows,,Buick,15,660,engine,8,82
+1991,E,1991_Snap-On_Tools_150,1991_17_E,1,2,25,usa,Ricky_Craven,Ricky Craven,SpeeDee Oil Change & Tuneup,,Chevrolet,162,9579,running,153,180
+1991,E,1991_Snap-On_Tools_150,1991_17_E,2,6,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Company,,Buick,162,4325,running,0,170
+1991,E,1991_Snap-On_Tools_150,1991_17_E,3,22,22,usa,Jeff_Barry,Jeff Barry,Barry & Associates,,Oldsmobile,162,2875,running,0,165
+1991,E,1991_Snap-On_Tools_150,1991_17_E,4,11,41,usa,Jamie_Aube,Jamie Aube,Citgo,,Buick,162,1650,running,0,160
+1991,E,1991_Snap-On_Tools_150,1991_17_E,5,3,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,162,1250,running,0,155
+1991,E,1991_Snap-On_Tools_150,1991_17_E,6,9,09,usa,Dale_Shaw,Dale Shaw,EJP Enterprises,,Pontiac,162,1090,running,0,150
+1991,E,1991_Snap-On_Tools_150,1991_17_E,7,8,71,usa,Bobby_Dragon,Bobby Dragon,Rod's Used Cars,,Chevrolet,162,700,running,0,146
+1991,E,1991_Snap-On_Tools_150,1991_17_E,8,19,29,usa,Dave_Dion,Dave Dion,Dion Racing Enterprises,,Ford,162,970,running,0,142
+1991,E,1991_Snap-On_Tools_150,1991_17_E,9,20,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,161,900,running,0,138
+1991,E,1991_Snap-On_Tools_150,1991_17_E,10,7,7,usa,Billy_Clark,Billy Clark,Skoal Racing / Cumberland Farms,,Pontiac,161,855,running,0,134
+1991,E,1991_Snap-On_Tools_150,1991_17_E,11,17,28,usa,Roger_Godin,Roger Godin,Myers Performance,,Pontiac,161,550,running,0,130
+1991,E,1991_Snap-On_Tools_150,1991_17_E,12,21,75,usa,Peter_Daniels,Peter Daniels,RSD Leasing,,Buick,161,785,running,0,127
+1991,E,1991_Snap-On_Tools_150,1991_17_E,13,4,9,usa,Joe_Bessey,Joe Bessey,Holden Agency,,Oldsmobile,161,740,running,0,124
+1991,E,1991_Snap-On_Tools_150,1991_17_E,14,15,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive / Swenson Insurance,,Buick,161,705,running,0,121
+1991,E,1991_Snap-On_Tools_150,1991_17_E,15,18,27,usa,Jon_Lizotte,Jon Lizotte,Ayotes Used Cars,,Pontiac,161,450,running,0,118
+1991,E,1991_Snap-On_Tools_150,1991_17_E,16,1,01,usa,Joey_Kourafas,Joey Kourafas,Tilden Racing Enterprises,,Pontiac,161,660,running,9,115
+1991,E,1991_Snap-On_Tools_150,1991_17_E,17,12,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,160,415,running,0,112
+1991,E,1991_Snap-On_Tools_150,1991_17_E,18,10,66,canada,Dean_Ferri,Dean Ferri,Ferri Racing Enterprises,,Pontiac,160,610,running,0,109
+1991,E,1991_Snap-On_Tools_150,1991_17_E,19,16,36,usa,Bobby_Gada,Bobby Gada,Traynor Trucking,,Pontiac,160,560,running,0,106
+1991,E,1991_Snap-On_Tools_150,1991_17_E,20,5,35,usa,Mike_Weeden,Mike Weeden,All-Pro Auto Parts,,Pontiac,160,630,running,0,103
+1991,E,1991_Snap-On_Tools_150,1991_17_E,21,13,31,usa,Babe_Branscombe,Babe Branscombe,Branscombe Racing,,Oldsmobile,159,275,running,0,100
+1991,E,1991_Snap-On_Tools_150,1991_17_E,22,28,21,usa,Jim_Field,Jim Field,Huston Racing Enterprises,,Ford,156,260,running,0,97
+1991,E,1991_Snap-On_Tools_150,1991_17_E,23,26,48,usa,Barney_McRae,Barney McRae,Motion Racing,,Pontiac,153,320,running,0,94
+1991,E,1991_Snap-On_Tools_150,1991_17_E,24,25,51,usa,Tony_Hirschman,Tony Hirschman,McLain Racing Enterprises,,Pontiac,149,395,running,0,91
+1991,E,1991_Snap-On_Tools_150,1991_17_E,25,14,15,usa,Mike_Rowe,Mike Rowe,Fisher Snowplows,,Buick,135,360,suspension,0,88
+1991,E,1991_Snap-On_Tools_150,1991_17_E,26,31,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt / Bakor Racing,,Pontiac,110,350,cooling,0,85
+1991,E,1991_Snap-On_Tools_150,1991_17_E,27,24,11,usa,Bob_Healey,Bob Healey,Healey Racing Enterprises,,Oldsmobile,93,200,engine,0,82
+1991,E,1991_Snap-On_Tools_150,1991_17_E,28,30,72,usa,Ken_Bouchard,Ken Bouchard,ADAP / Auto Palace,,Pontiac,61,350,crash,0,79
+1991,E,1991_Snap-On_Tools_150,1991_17_E,29,29,23,usa,Harley_MacFarland,Harley MacFarland,MacFarland Racing,,Buick,57,200,crash,0,76
+1991,E,1991_Snap-On_Tools_150,1991_17_E,30,27,39,usa,Lloyd_Gillie,Lloyd Gillie,Gillie's Truck Caps,,Pontiac,2,200,crash,0,73
+1991,E,1991_Snap-On_Tools_150,1991_17_E,31,23,74,usa,Wayne_Helliwell,Wayne Helliwell,Goodrich Racing,,Pontiac,2,200,crash,0,70
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,1,5,25,usa,Ricky_Craven,Ricky Craven,SpeeDee Oil Change & Tuneup,,Chevrolet,150,8375,running,50,180
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,2,6,3,usa,Tony_Hirschman,Tony Hirschman,Universal Joint Sales,,Chevrolet,150,3775,running,42,170
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,3,22,01,usa,Joey_Kourafas,Joey Kourafas,Tilden Racing Enterprises,,Pontiac,150,2475,running,0,165
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,4,10,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Company,,Buick,150,1725,running,0,160
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,5,13,41,usa,Jamie_Aube,Jamie Aube,Citgo,,Buick,150,1600,running,0,155
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,6,14,36,usa,Bobby_Gada,Bobby Gada,Traynor Trucking,,Pontiac,150,1350,running,0,150
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,7,16,15,usa,Mike_Rowe,Mike Rowe,O'Connor GMC-Buick / Fisher Snowplows,,Buick,150,1240,running,0,146
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,8,17,7,usa,Billy_Clark,Billy Clark,Skoal Racing / Cumberland Farms,,Pontiac,150,1120,running,0,142
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,9,12,68,usa,Donny_Ling_Jr,"Donny Ling, Jr.",Ling Racing Enterprises,,Oldsmobile,150,1000,running,0,138
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,10,3,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,150,935,running,0,134
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,11,21,34,usa,Glenn_Sullivan,Glenn Sullivan,Texaco / Havoline,,Chevrolet,150,600,running,0,130
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,12,2,29,usa,Dave_Dion,Dave Dion,Dion Racing Enterprises,,Ford,150,855,running,58,127
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,13,11,37,usa,Tony_Sylvester,Tony Sylvester,Sylvester Racing,,Buick,150,550,running,0,124
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,14,20,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,150,740,running,0,121
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,15,23,51,usa,Mike_McLaughlin,Mike McLaughlin,Coors Extra Gold,,Oldsmobile,150,525,running,0,118
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,16,19,22,usa,Jeff_Barry,Jeff Barry,Barry Racing Enterprises,,Oldsmobile,149,695,running,0,115
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,17,27,5,usa,Barney_McRae,Barney McRae,Motion Racing / R. Royce,,Buick,149,670,running,0,112
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,18,1,66,canada,Dean_Ferri,Dean Ferri,Ferri Racing Enterprises,,Pontiac,137,495,running,0,109
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,19,29,27,usa,Jon_Lizotte,Jon Lizotte,Ayotes Used Cars,,Pontiac,128,490,running,0,106
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,20,18,28,usa,Roger_Godin,Roger Godin,Myers Performance / Steve's Collision,,Pontiac,125,475,running,0,103
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,21,9,9,usa,Joe_Bessey,Joe Bessey,Holden Agency / MAC Tools,,Oldsmobile,108,595,crash,0,100
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,22,8,09,usa,Dale_Shaw,Dale Shaw,EJP Enterprises,,Pontiac,98,555,crash,0,97
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,23,4,72,usa,Ken_Bouchard,Ken Bouchard,ADAP / Auto Palace,,Pontiac,94,530,cooling,0,94
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,24,15,20,usa,Mike_Stefanik,Mike Stefanik,Wright Pearson Racing Enterprises,,Pontiac,88,410,suspension,0,91
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,25,7,35,usa,Mike_Weeden,Mike Weeden,All-Pro Auto Parts,,Pontiac,82,400,crash,0,88
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,26,24,75,usa,Peter_Daniels,Peter Daniels,RSD Leasing,,Buick,81,540,crash,0,85
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,27,25,65,usa,Dean_Chrystal,Dean Chrystal,Chrystal Racing Enterprises,,Chevrolet,55,380,suspension,0,82
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,28,28,13,usa,Ted_Christopher,Ted Christopher,Cliff Nelson Racing,,Chevrolet,43,375,crash,0,79
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,29,26,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive / Swenson Insurance,,Buick,34,525,crash,0,76
+1991,E,1991_ADAP_Auto_Parts_Twin_150s,1991_18_E,30,30,06,usa,Ricky_Miller,Ricky Miller,AGIP / Big A Auto Parts,,Pontiac,8,375,crash,0,73
+1991,E,1991_ADAP_Doubleheader,1991_19_E,1,6,25,usa,Ricky_Craven,Ricky Craven,SpeeDee Oil Change & Tuneup,,Chevrolet,150,22475,running,123,180
+1991,E,1991_ADAP_Doubleheader,1991_19_E,2,17,68,usa,Donny_Ling_Jr,"Donny Ling, Jr.",Ling Racing Enterprises,,Pontiac,150,12925,running,0,170
+1991,E,1991_ADAP_Doubleheader,1991_19_E,3,1,01,usa,Joey_Kourafas,Joey Kourafas,Tilden Racing Enterprises,,Pontiac,150,6825,running,0,165
+1991,E,1991_ADAP_Doubleheader,1991_19_E,4,3,3,usa,Tony_Hirschman,Tony Hirschman,Universal Joint Sales,,Oldsmobile,150,4675,running,0,160
+1991,E,1991_ADAP_Doubleheader,1991_19_E,5,16,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,150,3750,running,0,155
+1991,E,1991_ADAP_Doubleheader,1991_19_E,6,7,7,usa,Billy_Clark,Billy Clark,Skoal Racing / Cumberland Farms,,Pontiac,150,3090,running,0,150
+1991,E,1991_ADAP_Doubleheader,1991_19_E,7,9,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Company,,Buick,150,2970,running,3,146
+1991,E,1991_ADAP_Doubleheader,1991_19_E,8,5,41,usa,Jamie_Aube,Jamie Aube,Citgo,,Buick,150,3100,running,0,142
+1991,E,1991_ADAP_Doubleheader,1991_19_E,9,20,15,usa,Mike_Rowe,Mike Rowe,Fisher Snowplows,,Buick,150,2700,running,0,138
+1991,E,1991_ADAP_Doubleheader,1991_19_E,10,18,20,usa,Mike_Stefanik,Mike Stefanik,Wright Pearson Racing Enterprises,,Pontiac,150,2200,running,0,134
+1991,E,1991_ADAP_Doubleheader,1991_19_E,11,13,22,usa,Jeff_Barry,Jeff Barry,Barry & Associates,,Oldsmobile,149,2380,running,0,130
+1991,E,1991_ADAP_Doubleheader,1991_19_E,12,10,9,usa,Joe_Bessey,Joe Bessey,Holden Agency,,Oldsmobile,149,2260,running,0,127
+1991,E,1991_ADAP_Doubleheader,1991_19_E,13,11,51,usa,Mike_McLaughlin,Mike McLaughlin,Coors Extra Gold,,Oldsmobile,149,1900,running,0,124
+1991,E,1991_ADAP_Doubleheader,1991_19_E,14,24,6,usa,Jamie_Tomaino_(2),Jamie Tomaino,Ling Racing Enterprises,,Pontiac,148,1750,running,0,121
+1991,E,1991_ADAP_Doubleheader,1991_19_E,15,23,34,usa,Glenn_Sullivan,Glenn Sullivan,Texaco / Havoline / Grist Mill Restaurant,,Chevrolet,148,1700,running,0,118
+1991,E,1991_ADAP_Doubleheader,1991_19_E,16,26,75,usa,Peter_Daniels,Peter Daniels,RSD Leasing,,Buick,148,1650,running,0,115
+1991,E,1991_ADAP_Doubleheader,1991_19_E,17,25,06,usa,Ricky_Miller,Ricky Miller,AGIP / Big A Auto Parts,,Pontiac,148,1600,running,0,112
+1991,E,1991_ADAP_Doubleheader,1991_19_E,18,12,09,usa,Dale_Shaw,Dale Shaw,EJP Enterprises,,Pontiac,147,1720,running,0,109
+1991,E,1991_ADAP_Doubleheader,1991_19_E,19,30,03,usa,Peter_Sospenzo,Peter Sospenzo,Bojangles Fried Chicken,,Chevrolet,147,1500,running,0,106
+1991,E,1991_ADAP_Doubleheader,1991_19_E,20,14,35,usa,Mike_Weeden,Mike Weeden,All-Pro Auto Parts,,Pontiac,146,1450,running,0,103
+1991,E,1991_ADAP_Doubleheader,1991_19_E,21,29,24,usa,Mike_Maselli,Mike Maselli,Mike's Truck Repair,,Pontiac,146,1400,running,0,100
+1991,E,1991_ADAP_Doubleheader,1991_19_E,22,34,21,usa,Jim_Field,Jim Field,Huston Racing Enterprises,,Ford,144,1350,running,0,97
+1991,E,1991_ADAP_Doubleheader,1991_19_E,23,27,65,usa,Dean_Chrystal,Dean Chrystal,Chrystal Racing Enterprises,,Chevrolet,144,1300,running,0,94
+1991,E,1991_ADAP_Doubleheader,1991_19_E,24,36,74,usa,Wayne_Helliwell,Wayne Helliwell,FPS Fire Protection,,Pontiac,141,1250,running,0,91
+1991,E,1991_ADAP_Doubleheader,1991_19_E,25,33,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive / Swenson Insurance,,Buick,133,1350,engine,0,88
+1991,E,1991_ADAP_Doubleheader,1991_19_E,26,32,69,usa,Jeff_Spraker,Jeff Spraker,Loctite,,Oldsmobile,128,1100,running,0,85
+1991,E,1991_ADAP_Doubleheader,1991_19_E,27,4,86,usa,Dana_Patten,Dana Patten,U.S. Chrome,,Pontiac,123,1050,engine,0,82
+1991,E,1991_ADAP_Doubleheader,1991_19_E,28,15,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt / Bakor Racing,,Pontiac,115,1150,engine,0,79
+1991,E,1991_ADAP_Doubleheader,1991_19_E,29,21,94,usa,Steve_Hoddick,Steve Hoddick,Emser Vans / Mankos Racing,,Oldsmobile,102,925,engine,11,76
+1991,E,1991_ADAP_Doubleheader,1991_19_E,30,38,2,usa,Mike_Urciuoli,Mike Urciuoli,Jimbo's Custom,,Oldsmobile,90,875,suspension,0,83
+1991,E,1991_ADAP_Doubleheader,1991_19_E,31,19,36,usa,Bobby_Gada,Bobby Gada,Traynor Trucking,,Pontiac,79,850,valve,0,70
+1991,E,1991_ADAP_Doubleheader,1991_19_E,32,8,66,canada,Dean_Ferri,Dean Ferri,Ferri Racing Enterprises,,Pontiac,75,975,ignition,0,67
+1991,E,1991_ADAP_Doubleheader,1991_19_E,33,2,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,51,995,oil leak,13,64
+1991,E,1991_ADAP_Doubleheader,1991_19_E,34,39,27,usa,Jon_Lizotte,Jon Lizotte,Ayotes Used Cars,,Pontiac,48,775,engine,0,61
+1991,E,1991_ADAP_Doubleheader,1991_19_E,35,22,72,usa,Ken_Bouchard,Ken Bouchard,ADAP / Auto Palace,,Pontiac,33,925,engine,0,58
+1991,E,1991_ADAP_Doubleheader,1991_19_E,36,31,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Buick,26,750,engine,0,55
+1991,E,1991_ADAP_Doubleheader,1991_19_E,37,28,76,usa,Tom_Bolles,Tom Bolles,ADP Hersey,,Buick,23,750,engine,0,52
+1991,E,1991_ADAP_Doubleheader,1991_19_E,38,35,70,canada,Bob_Yuille,Bob Yuille,Dave's Competition Engines,,Buick,21,750,suspension,0,49
+1991,E,1991_ADAP_Doubleheader,1991_19_E,39,37,48,usa,Scott_Bachand,Scott Bachand,Carpet Squire,,Buick,4,750,suspension,0,46
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,1,2,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Company,,Buick,100,9975,running,2,180
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,2,9,41,usa,Jamie_Aube,Jamie Aube,Citgo,,Buick,100,4725,running,8,170
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,3,7,20,usa,Mike_Stefanik,Mike Stefanik,Cliff's Auto Body,,Pontiac,100,2725,running,0,165
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,4,5,71,usa,Bobby_Dragon,Bobby Dragon,Rod's Used Cars,,Chevrolet,100,1400,running,0,160
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,5,10,51,usa,Mike_McLaughlin,Mike McLaughlin,Coors Extra Gold,,Oldsmobile,100,1200,running,0,155
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,6,1,3,usa,Tony_Hirschman,Tony Hirschman,Universal Joint Sales,,Oldsmobile,100,1600,running,54,150
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,7,14,01,usa,Joey_Kourafas,Joey Kourafas,Tilden Racing Enterprises,,Pontiac,100,1400,running,0,146
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,8,18,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,100,1225,running,0,142
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,9,4,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,100,950,running,36,138
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,10,8,9,usa,Joe_Bessey,Joe Bessey,Holden Agency,,Oldsmobile,100,840,running,0,134
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,11,11,7,usa,Billy_Clark,Billy Clark,Skoal Racing / Cumberland Farms,,Pontiac,100,795,running,0,130
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,12,6,60,usa,Dale_Shaw,Dale Shaw,EJP Enterprises,,Pontiac,100,750,running,0,127
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,13,19,72,usa,Ken_Bouchard,Ken Bouchard,ADAP / Auto Palace,,Pontiac,100,680,running,0,124
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,14,12,25,usa,Ricky_Craven,Ricky Craven,SpeeDee Oil Change & Tuneup,,Chevrolet,99,635,running,0,121
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,15,3,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive / Swenson Insurance,,Buick,99,590,running,0,118
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,16,24,15,usa,Mike_Rowe,Mike Rowe,Fisher Snowplows,,Buick,99,555,running,0,115
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,17,23,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Buick,99,520,running,0,112
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,18,15,75,usa,Peter_Daniels,Peter Daniels,RSD Leasing,,Buick,99,505,running,0,109
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,19,13,4,usa,Jerry_Marquis,Jerry Marquis,Wes Rosner Racing Enterprises,,Pontiac,98,290,running,0,106
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,20,22,69,usa,Jeff_Spraker,Jeff Spraker,Loctite,,Oldsmobile,97,285,running,0,103
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,21,28,48,usa,Scott_Bachand,Scott Bachand,Carpet Squire,,Buick,95,280,running,0,100
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,22,17,28,usa,Roger_Godin,Roger Godin,Myers Performance,,Pontiac,90,275,crash,0,97
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,23,16,36,usa,Bobby_Gada,Bobby Gada,Traynor Trucking,,Pontiac,85,475,running,0,94
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,24,25,34,usa,Glenn_Sullivan,Glenn Sullivan,Texaco / Havoline,,Chevrolet,85,275,running,0,91
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,25,21,22,usa,Jeff_Barry,Jeff Barry,Barry & Associates,,Oldsmobile,74,465,suspension,0,88
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,26,26,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,40,455,suspension,0,85
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,27,29,62,usa,Roger_Raymond,Roger Raymond,Stewart & Son,,Ford,5,275,drive line,0,82
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,28,20,06,usa,Ricky_Miller,Ricky Miller,AGIP / Big A Auto Parts,,Pontiac,2,275,steering,0,79
+1991,E,1991_ADAP_Auto_Palace_100,1991_20_E,29,27,66,canada,Dean_Ferri,Dean Ferri,Ferri Racing Enterprises,,Pontiac,1,275,crash,0,76
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,1,1,25,usa,Ricky_Craven,Ricky Craven,SpeeDee Oil Change & Tuneup,,Chevrolet,200,9575,running,122,180
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,2,7,3,usa,Tony_Hirschman,Tony Hirschman,Universal Joint Sales / Clark Concrete,,Oldsmobile,200,4325,running,18,170
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,3,5,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,200,2975,running,37,165
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,4,2,51,usa,Mike_McLaughlin,Mike McLaughlin,Coors Extra Gold,,Oldsmobile,200,1300,running,0,160
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,5,23,7,usa,Billy_Clark,Billy Clark,Skoal Racing / Cumberland Farms,,Pontiac,200,1475,running,0,155
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,6,11,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Company,,Buick,200,1350,running,0,150
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,7,13,36,usa,Bobby_Gada,Bobby Gada,Traynor Trucking,,Pontiac,200,1240,running,0,146
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,8,22,15,usa,Mike_Rowe,Mike Rowe,Fisher Snowplows,,Buick,200,1120,running,0,142
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,9,12,60,usa,Dale_Shaw,Dale Shaw,J&L Racing / EJP Enterprises,,Pontiac,200,1000,running,0,138
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,10,26,86,usa,Dana_Patten,Dana Patten,Brownie's Auto Parts / U.S. Chrome,,Buick,200,625,running,0,0
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,11,10,01,usa,Joey_Kourafas,Joey Kourafas,Tank Repair Co. / Tilden Racing Ent.,,Pontiac,200,855,running,0,130
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,12,14,34,usa,Glenn_Sullivan,Glenn Sullivan,Grist Mill Restaurant / Texaco / Havoline,,Chevrolet,200,550,running,0,127
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,13,29,6,usa,Jamie_Tomaino_(2),Jamie Tomaino,Ling Racing Enterprises,,Pontiac,200,525,running,0,124
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,14,18,75,usa,Peter_Daniels,Peter Daniels,RSD Leasing,,Buick,200,760,running,0,121
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,15,40,68,usa,Donny_Ling_Jr,"Donny Ling, Jr.",Ling Racing Enterprises,,Pontiac,200,735,running,0,118
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,16,17,41,usa,Jamie_Aube,Jamie Aube,Citgo,,Buick,199,980,running,0,115
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,17,28,06,usa,Ricky_Miller,Ricky Miller,AGIP / Big A Auto Parts,,Pontiac,199,475,running,0,112
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,18,36,76,usa,Tom_Bolles,Tom Bolles,Bolles Jeep-Eagle,,Buick,199,460,running,0,109
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,19,16,66,canada,Dean_Ferri,Dean Ferri,Ferri Racing Enterprises,,Pontiac,199,450,running,0,106
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,20,25,28,usa,Roger_Godin,Roger Godin,Sunrise Design / Myers Performance,,Pontiac,199,440,running,0,103
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,21,21,72,usa,Ken_Bouchard,Ken Bouchard,ADAP / Auto Palace,,Pontiac,199,660,running,0,100
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,22,6,22,usa,Jeff_Barry,Jeff Barry,Barry & Associates,,Oldsmobile,197,645,running,0,97
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,23,4,20,usa,Joe_Bessey,Joe Bessey,Riverside Park / Cliff's Auto Body,,Pontiac,197,630,running,0,94
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,24,19,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Buick,197,615,running,0,91
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,25,32,24,usa,Mike_Maselli,Mike Maselli,Mike's Truck Repair,,Pontiac,195,400,running,0,88
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,26,34,65,usa,Dean_Chrystal,Dean Chrystal,Chrystal Racing Enterprises,,Chevrolet,195,395,running,0,85
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,27,31,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt / Bakor Racing,,Pontiac,194,560,running,0,82
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,28,35,48,usa,Scott_Bachand,Scott Bachand,Carpet Squire,,Buick,186,375,running,0,79
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,29,37,23,usa,Harley_MacFarland,Harley MacFarland,Harley's Auto Electric / McFarland Racing,,Buick,186,375,running,0,0
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,30,24,62,usa,Roger_Raymond,Roger Raymond,Stewart & Son,,Ford,167,375,running,0,73
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,31,3,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,151,545,oil leak,23,70
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,32,30,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive / Swenson Insurance,,Buick,148,535,oil leak,0,67
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,33,33,13,usa,Ted_Christopher,Ted Christopher,Cliff Nelson Racing,,Chevrolet,145,375,suspension,0,0
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,34,20,71,usa,Bobby_Dragon,Bobby Dragon,Rod's Used Cars,,Chevrolet,139,375,valve,0,61
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,35,38,57,usa,Regg_McLain,Regg McLain,McLain Racing Enterprises,,Buick,112,375,engine,0,58
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,36,9,35,usa,Mike_Weeden,Mike Weeden,All-Pro Auto Parts,,Pontiac,102,375,suspension,0,55
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,37,15,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,96,525,ignition,0,52
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,38,27,69,usa,Jeff_Spraker,Jeff Spraker,Loctite,,Oldsmobile,59,375,suspension,0,49
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,39,39,33,usa,Ray_Lee,Ray Lee,Lee Racing Enterprises,,Oldsmobile,43,375,suspension,0,46
+1991,E,1991_Fisher_Snow_Plow_200,1991_21_E,40,8,98,usa,Ron_Lamell,Ron Lamell,MacIntyre Fuels / Lamell Lumber,,Buick,36,375,engine,0,43
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,1,16,7,usa,Harry_Gant,Harry Gant   (Busch),Skoal Bandit,,Buick,200,16450,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,2,3,59,usa,Robert_Pressley,Robert Pressley   (Busch),Alliance Training Centers,,Oldsmobile,200,9057,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,3,4,27,usa,Ward_Burton,Ward Burton   (Busch),Gwaltney's Big 8's,,Buick,200,6007,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,4,15,18,usa,Dick_Trickle,Dick Trickle   (Busch),High Line Racing,,Pontiac,200,3075,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,5,7,17,usa,Ken_Schrader,Ken Schrader   (Busch),Western Auto,,Chevrolet,200,2875,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,6,8,87,usa,Joe_Nemechek,Joe Nemechek   (Busch),Lozito's Pharmacy,,Chevrolet,200,2875,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,7,10,12,usa,Tommy_Ellis,Tommy Ellis   (Busch),Wings To Go,,Buick,200,1875,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,8,11,1,usa,Jeff_Gordon,Jeff Gordon   (Busch),Carolina Ford Dealers,,Ford,200,2407,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,9,34,96,usa,Tom_Peck,Tom Peck   (Busch),Tom Peck Fan Club,,Oldsmobile,199,3557,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,10,24,6,usa,Tommy_Houston,Tommy Houston   (Busch),Rose's Stores,,Buick,199,3807,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,11,12,8,usa,David_Green,David Green   (Busch),TIC Financial Systems,,Oldsmobile,199,2107,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,12,1,75,usa,Butch_Miller,Butch Miller   (Busch),Food Country USA,,Oldsmobile,198,1700,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,13,5,44,usa,Bobby_Labonte,Bobby Labonte   (Busch),Penrose Pickled Sausage,,Oldsmobile,198,2307,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,14,18,99,usa,Jeff_Burton,Jeff Burton   (Busch),Armour Meats,,Chevrolet,198,3282,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,15,22,42,usa,Patty_Moise,Patty Moise   (Busch),Soft Sense,,Buick,198,1500,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,16,14,36,usa,Kenny_Wallace,Kenny Wallace   (Busch),Cox Treated Lumber,,Pontiac,198,3157,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,17,20,63,usa,Chuck_Bown,Chuck Bown   (Busch),Nescafe Classic,,Pontiac,197,3632,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,18,33,41,usa,Jamie_Aube,Jamie Aube,Citgo,,Buick,197,1475,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,19,31,05,usa,Richard_Lasater,Richard Lasater   (Busch),Eclipse Racing,,Pontiac,196,1957,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,20,2,48,usa,Jack_Sprague,Jack Sprague   (Busch),Staff America,,Oldsmobile,196,1125,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,21,25,67,usa,Elton_Sawyer,Elton Sawyer   (Busch),Adams-Robinson,,Pontiac,196,1782,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,22,28,19,usa,Cecil_Eunice,Cecil Eunice   (Busch),Levin Racing,,Oldsmobile,195,1757,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,23,13,31,usa,Steve_Grissom,Steve Grissom   (Busch),Channellock,,Oldsmobile,194,2982,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,24,29,08,usa,Bobby_Dotter,Bobby Dotter   (Busch),Cling Free,,Buick,193,1682,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,25,6,25,usa,Jimmy_Hensley,Jimmy Hensley   (Busch),Beverley Racing,,Oldsmobile,188,2892,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,26,21,34,usa,Todd_Bodine,Todd Bodine   (Busch),Hungry Jack,,Buick,184,1632,running,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,27,27,33,usa,Ed_Berrier,Ed Berrier   (Busch),Garner's Preserves,,Oldsmobile,154,1607,overheating,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,28,26,72,usa,Tracy_Leslie,Tracy Leslie   (Busch),Detroit Gasket,,Oldsmobile,140,2857,engine,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,29,36,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Buick,99,1185,oil leak,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,30,9,94,usa,Terry_Labonte,Terry Labonte   (Busch),Sunoco,,Oldsmobile,96,865,engine,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,31,19,32,usa,Dale_Jarrett,Dale Jarrett   (Busch),Nestle Crunch,,Pontiac,76,835,oil leak,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,32,23,64,usa,Joe_Bessey,Joe Bessey,Playcraft Boats,,Pontiac,58,820,engine,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,33,35,22,usa,Jeff_Barry,Jeff Barry,Barry & Associates,,Oldsmobile,50,805,rear end,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,34,30,9,usa,Troy_Beebe,Troy Beebe   (Busch),Taco Bell,,Chevrolet,40,1457,crash,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,35,17,14,usa,Jeff_Purvis,Jeff Purvis   (Busch),Seal-Tech,,Buick,28,775,ignition,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,36,37,69,usa,Jeff_Spraker,Jeff Spraker,Permatex Loctite,,Oldsmobile,19,1075,vibration,–,
+1991,E,1991_SplitFire_Spark_Plugs_200,1991_22_E,37,32,79,usa,Dave_Rezendes,Dave Rezendes   (Busch),Swanson Foods,,Oldsmobile,17,1457,oil leak,–,
+1991,E,1991_Budweiser_150,1991_23_E,1,2,41,usa,Jamie_Aube,Jamie Aube,Citgo,,Buick,150,7875,running,145,180
+1991,E,1991_Budweiser_150,1991_23_E,2,8,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,150,3725,running,0,170
+1991,E,1991_Budweiser_150,1991_23_E,3,10,60,usa,Dale_Shaw,Dale Shaw,EJP Enterprises,,Pontiac,150,2625,running,0,165
+1991,E,1991_Budweiser_150,1991_23_E,4,9,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Company,,Buick,150,1750,running,0,160
+1991,E,1991_Budweiser_150,1991_23_E,5,1,9,usa,Joe_Bessey,Joe Bessey,Holden Agency,,Oldsmobile,150,1475,running,5,155
+1991,E,1991_Budweiser_150,1991_23_E,6,14,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,150,1350,running,0,150
+1991,E,1991_Budweiser_150,1991_23_E,7,19,15,usa,Mike_Rowe,Mike Rowe,Fisher Snowplows,,Buick,150,1240,running,0,146
+1991,E,1991_Budweiser_150,1991_23_E,8,11,7,usa,Billy_Clark,Billy Clark,Skoal Racing / Cumberland Farms,,Pontiac,150,1170,running,0,142
+1991,E,1991_Budweiser_150,1991_23_E,9,7,01,usa,Joey_Kourafas,Joey Kourafas,Tilden Racing Enterprises,,Pontiac,150,1100,running,0,138
+1991,E,1991_Budweiser_150,1991_23_E,10,3,25,usa,Ricky_Craven,Ricky Craven,SpeeDee Oil Change & Tuneup,,Chevrolet,150,1030,running,0,134
+1991,E,1991_Budweiser_150,1991_23_E,11,17,66,canada,Dean_Ferri,Dean Ferri,Ferri Racing Enterprises,,Pontiac,150,960,running,0,130
+1991,E,1991_Budweiser_150,1991_23_E,12,18,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,150,890,running,0,127
+1991,E,1991_Budweiser_150,1991_23_E,13,5,35,usa,Mike_Weeden,Mike Weeden,All-Pro Auto Parts,,Pontiac,149,900,running,0,124
+1991,E,1991_Budweiser_150,1991_23_E,14,16,4,usa,Jerry_Marquis,Jerry Marquis,Wes Rosner Racing Enterprises,,Pontiac,149,550,running,0,121
+1991,E,1991_Budweiser_150,1991_23_E,15,25,34,usa,Glenn_Sullivan,Glenn Sullivan,Texaco / Havoline,,Chevrolet,149,730,running,0,118
+1991,E,1991_Budweiser_150,1991_23_E,16,21,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive / Swenson Insurance,,Buick,148,695,running,0,115
+1991,E,1991_Budweiser_150,1991_23_E,17,4,36,usa,Bobby_Gada,Bobby Gada,Traynor Trucking,,Pontiac,148,660,running,0,112
+1991,E,1991_Budweiser_150,1991_23_E,18,20,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Buick,148,625,running,0,109
+1991,E,1991_Budweiser_150,1991_23_E,19,22,69,usa,Jeff_Spraker,Jeff Spraker,Spraker Racing Enterprises,,Oldsmobile,147,590,running,0,106
+1991,E,1991_Budweiser_150,1991_23_E,20,23,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt / Bakor Racing,,Pontiac,140,570,running,0,103
+1991,E,1991_Budweiser_150,1991_23_E,21,13,22,usa,Jeff_Barry,Jeff Barry,Barry & Associates,,Oldsmobile,136,550,running,0,100
+1991,E,1991_Budweiser_150,1991_23_E,22,24,51,usa,Regg_McLain,Regg McLain,McLain Racing Enterprises,,Buick,126,370,running,0,97
+1991,E,1991_Budweiser_150,1991_23_E,23,6,3,usa,Tony_Hirschman,Tony Hirschman,Universal Joint Sales,,Oldsmobile,117,520,crash,0,94
+1991,E,1991_Budweiser_150,1991_23_E,24,15,28,usa,Roger_Godin,Roger Godin,Myers Performance,,Pontiac,82,350,suspension,0,91
+1991,E,1991_Budweiser_150,1991_23_E,25,12,75,usa,Peter_Daniels,Peter Daniels,RSD Leasing,,Buick,55,500,suspension,0,88
+1991,E,1991_Budweiser_150,1991_23_E,26,26,38,usa,Dave_Bushley,Dave Bushley,Mainely Heating Oil,,Pontiac,36,350,suspension,0,85
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,1,1,25,usa,Ricky_Craven,Ricky Craven,SpeeDee Oil Change,,Chevrolet,250,30350,running,85,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,2,3,63,usa,Chuck_Bown,Chuck Bown   (Busch),Nescafe Classic,,Pontiac,250,19600,running,58,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,3,17,7,usa,Harry_Gant,Harry Gant   (Busch),Skoal,,Buick,250,8650,running,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,4,31,44,usa,Bobby_Labonte,Bobby Labonte   (Busch),Penrose Pickled Sausage,,Oldsmobile,250,10025,running,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,5,5,59,usa,Robert_Pressley,Robert Pressley   (Busch),Alliance Training Centers,,Oldsmobile,250,9475,running,53,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,6,12,75,usa,Butch_Miller,Butch Miller   (Busch),Food Country USA,,Oldsmobile,250,6625,running,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,7,27,99,usa,Jeff_Burton,Jeff Burton   (Busch),Armour Meats,,Chevrolet,250,9775,running,3,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,8,6,41,usa,Jamie_Aube,Jamie Aube,Citgo,,Buick,250,7675,running,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,9,14,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,250,6475,running,5,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,10,42,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Company,,Buick,250,5975,running,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,11,32,18,usa,Mike_Rowe,Mike Rowe,O'Connor GMC,,Buick,250,5300,running,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,12,29,51,usa,Mike_McLaughlin,Mike McLaughlin,Coors Extra Gold,,Oldsmobile,250,3625,running,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,13,40,12,usa,Tommy_Ellis,Tommy Ellis   (Busch),Wings To Go,,Buick,249,3525,running,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,14,30,08,usa,Bobby_Dotter,Bobby Dotter   (Busch),Cling Free,,Buick,249,4850,running,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,15,45,9,usa,Troy_Beebe,Troy Beebe   (Busch),Taco Bell,,Chevrolet,248,5000,running,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,16,19,3,usa,Tony_Hirschman,Tony Hirschman,Universal Joint Sales,,Oldsmobile,247,4325,running,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,17,4,6,usa,Tommy_Houston,Tommy Houston   (Busch),Rose's Stores,,Buick,247,6400,running,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,18,21,84,usa,Todd_Bodine,Todd Bodine   (Busch),Hungry Jack,,Buick,246,4625,running,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,19,33,1,usa,Jeff_Gordon,Jeff Gordon   (Busch),Carolina Ford Dealers,,Ford,245,4200,running,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,20,28,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,244,3475,running,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,21,39,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt,,Pontiac,243,3700,running,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,22,8,27,usa,Ward_Burton,Ward Burton   (Busch),Gwaltney's Big 8's,,Buick,234,3700,running,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,23,36,92,usa,Ken_Bouchard,Ken Bouchard,ADAP / Auto Palace,,Pontiac,230,3475,running,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,24,23,64,usa,Joe_Bessey,Joe Bessey,Holden Agency,,Oldsmobile,224,3575,electrical,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,25,41,31,usa,Steve_Grissom,Steve Grissom   (Busch),Channellock,,Oldsmobile,222,5325,running,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,26,18,36,usa,Kenny_Wallace,Kenny Wallace   (Busch),Cox Treated Lumber,,Pontiac,208,4800,crash,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,27,26,22,usa,Jeff_Barry,Jeff Barry,Barry & Associates,,Oldsmobile,207,2625,transmission,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,28,37,87,usa,Joe_Nemechek,Joe Nemechek   (Busch),Lozito's Pharmacy,,Chevrolet,207,2950,crash,15,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,29,24,8,usa,David_Green,David Green   (Busch),TIC Financial Systems,,Oldsmobile,206,2900,running,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,30,38,66,canada,Dean_Ferri,Dean Ferri,Ferri Racing,,Pontiac,201,2600,running,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,31,46,95,usa,Peter_Daniels,Peter Daniels,RSD Leasing,,Buick,200,2550,crash,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,32,44,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,195,2500,engine,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,33,15,72,usa,Tracy_Leslie,Tracy Leslie   (Busch),Detroit Gasket,,Oldsmobile,193,4475,crash,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,34,35,96,usa,Tom_Peck,Tom Peck   (Busch),Thomas Racing,,Oldsmobile,186,4450,crash,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,35,13,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,161,2425,engine,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,36,2,10,usa,Ernie_Irvan,Ernie Irvan   (Busch),Mac Tools,,Chevrolet,155,2850,suspension,7,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,37,10,5,usa,Jimmy_Hensley,Jimmy Hensley   (Busch),Beverley Racing,,Oldsmobile,155,4375,engine,24,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,38,7,01,usa,Joey_Kourafas,Joey Kourafas,Thrifty Car Rental,,Pontiac,82,2350,engine,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,39,11,45,usa,Jimmy_Spencer,Jimmy Spencer   (Busch),Laughlin Racing,,Chevrolet,78,1975,engine,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,40,25,15,usa,Ken_Schrader,Ken Schrader   (Busch),Exxon,,Chevrolet,71,1975,clutch,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,41,34,88,usa,Jamie_Tomaino_(2),Jamie Tomaino,Ling Racing,,Pontiac,55,1950,engine,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,42,20,11,usa,Billy_Clark,Billy Clark,Skoal Bandit,,Pontiac,48,2300,rear end,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,43,22,60,usa,Dale_Shaw,Dale Shaw,EJP,,Pontiac,32,2300,engine,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,44,9,28,usa,Davey_Allison,Davey Allison   (Busch),Texaco / Havoline,,Buick,23,1950,steering,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,45,16,34,usa,Glenn_Sullivan,Glenn Sullivan,Texaco,,Chevrolet,20,1950,carburetor,0,
+1991,E,1991_Chevy_Dealers_of_New_England_250,1991_24_E,46,43,79,usa,Dave_Rezendes,Dave Rezendes   (Busch),K.R. Rezendes Racing,,Oldsmobile,19,2550,engine,0,

@@ -1,0 +1,773 @@
+season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
+1989,E,1989_Goodys_300,1989_01_E,1,9,17,usa,Darrell_Waltrip,Darrell Waltrip   (Busch),Exxon Superflo,,Chevrolet,120,34457,running,12,0
+1989,E,1989_Goodys_300,1989_01_E,2,7,72,usa,Rusty_Wallace,Rusty Wallace   (Busch),Kodiak,,Pontiac,120,22725,running,14,0
+1989,E,1989_Goodys_300,1989_01_E,3,2,25,usa,Rob_Moroso,Rob Moroso   (Busch),Swisher Sweets,,Oldsmobile,120,35382,running,56,0
+1989,E,1989_Goodys_300,1989_01_E,4,27,3,usa,Dale_Earnhardt,Dale Earnhardt   (Busch),Lowe's Foods,,Pontiac,120,12882,running,0,0
+1989,E,1989_Goodys_300,1989_01_E,5,4,15,usa,Geoffrey_Bodine,Geoffrey Bodine   (Busch),Levi Garrett,,Chevrolet,120,10707,running,17,0
+1989,E,1989_Goodys_300,1989_01_E,6,17,75,usa,Rick_Wilson,Rick Wilson   (Busch),Food Country USA,,Oldsmobile,120,8075,running,0,0
+1989,E,1989_Goodys_300,1989_01_E,7,10,11,usa,Jack_Ingram,Jack Ingram   (Busch),Skoal,,Chevrolet,120,20725,running,0,0
+1989,E,1989_Goodys_300,1989_01_E,8,26,30,usa,Michael_Waltrip,Michael Waltrip   (Busch),Post Cereals,,Pontiac,120,6732,running,0,0
+1989,E,1989_Goodys_300,1989_01_E,9,30,52,usa,Ken_Schrader,Ken Schrader   (Busch),Red Baron Frozen Pizza,,Chevrolet,120,6057,running,5,0
+1989,E,1989_Goodys_300,1989_01_E,10,1,36,usa,Kenny_Wallace,Kenny Wallace   (Busch),Cox Treated Lumber,,Pontiac,120,5350,running,4,0
+1989,E,1989_Goodys_300,1989_01_E,11,25,6,usa,Tommy_Houston,Tommy Houston   (Busch),Southern Biscuit Flour,,Buick,120,16232,running,0,0
+1989,E,1989_Goodys_300,1989_01_E,12,19,5,usa,Ed_Berrier,Ed Berrier   (Busch),Commercial Management,,Buick,120,11125,running,0,0
+1989,E,1989_Goodys_300,1989_01_E,13,5,32,usa,Dale_Jarrett,Dale Jarrett   (Busch),Port-A-Lube,,Pontiac,119,4607,crash,5,0
+1989,E,1989_Goodys_300,1989_01_E,14,13,81,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.   (Busch)",Rose's Stores,,Buick,119,5082,running,0,0
+1989,E,1989_Goodys_300,1989_01_E,15,3,97,usa,Morgan_Shepherd,Morgan Shepherd   (Busch),Valvoline,,Chevrolet,119,5182,running,0,0
+1989,E,1989_Goodys_300,1989_01_E,16,24,47,usa,Billy_Standridge,Billy Standridge   (Busch),Standridge Auto Parts,,Pontiac,119,8900,running,0,0
+1989,E,1989_Goodys_300,1989_01_E,17,35,9,usa,Steve_Grissom,Steve Grissom   (Busch),Texas Pete Sauces,,Pontiac,118,7925,running,0,0
+1989,E,1989_Goodys_300,1989_01_E,18,40,33,usa,Brad_Teague,Brad Teague   (Busch),Pharo's Truck Stop,,Oldsmobile,118,3800,running,0,0
+1989,E,1989_Goodys_300,1989_01_E,19,12,8,usa,Bobby_Hamilton,Bobby Hamilton   (Busch),Lighting & Fans,,Buick,116,3150,running,0,0
+1989,E,1989_Goodys_300,1989_01_E,20,34,2,usa,L_D_Ottinger,L.D. Ottinger   (Busch),Detroit Gasket,,Pontiac,114,8032,crash,2,0
+1989,E,1989_Goodys_300,1989_01_E,21,8,1,usa,Mark_Martin,Mark Martin   (Busch),Carolina Ford Dealers,,Ford,113,3050,running,0,0
+1989,E,1989_Goodys_300,1989_01_E,22,18,40,usa,Ben_Hess,Ben Hess   (Busch),Purolator,,Oldsmobile,113,3000,running,0,0
+1989,E,1989_Goodys_300,1989_01_E,23,22,42,usa,Elton_Sawyer,Elton Sawyer   (Busch),Bill Lewis,,Chevrolet,111,7682,crash,2,0
+1989,E,1989_Goodys_300,1989_01_E,24,16,55,usa,Phil_Parsons,Phil Parsons   (Busch),Fast Fare,,Oldsmobile,109,2900,crash,3,0
+1989,E,1989_Goodys_300,1989_01_E,25,23,20,usa,Brett_Hearn,Brett Hearn   (Busch),Wheels Discount Auto,,Pontiac,109,2875,crash,0,0
+1989,E,1989_Goodys_300,1989_01_E,26,15,7,usa,Harry_Gant,Harry Gant   (Busch),Whitaker Racing,,Buick,93,4307,engine,0,0
+1989,E,1989_Goodys_300,1989_01_E,27,29,22,usa,Rick_Mast,Rick Mast   (Busch),A.G. Dillard,,Buick,89,8832,engine,0,0
+1989,E,1989_Goodys_300,1989_01_E,28,33,38,usa,Dave_Simpson,Dave Simpson   (Busch),Simpson Safety Equipment,,Buick,86,2675,axle,0,0
+1989,E,1989_Goodys_300,1989_01_E,29,32,56,usa,Ronald_Cooper,Ronald Cooper   (Busch),Speedway Waste Disposal,,Buick,84,6657,engine,0,0
+1989,E,1989_Goodys_300,1989_01_E,30,14,92,usa,Jimmy_Means,Jimmy Means   (Busch),Custom Veneers,,Pontiac,74,2575,engine,0,0
+1989,E,1989_Goodys_300,1989_01_E,31,28,71,usa,Randy_LaJoie,Randy LaJoie,D & D Competition,,Oldsmobile,73,4125,engine,0,70
+1989,E,1989_Goodys_300,1989_01_E,32,36,63,usa,Chuck_Bown,Chuck Bown   (Busch),Nescafe / Nestea,,Pontiac,66,5825,clutch,0,0
+1989,E,1989_Goodys_300,1989_01_E,33,38,62,usa,Jimmy_Hensley,Jimmy Hensley   (Busch),Lemon's Auto Parts,,Chevrolet,21,6007,engine,0,0
+1989,E,1989_Goodys_300,1989_01_E,34,21,34,usa,Jimmy_Spencer,Jimmy Spencer   (Busch),Wayne Paging,,Buick,18,4825,engine,0,0
+1989,E,1989_Goodys_300,1989_01_E,35,37,0,usa,Ken_Bouchard,Ken Bouchard   (Busch),Whitcomb Racing,,Pontiac,15,2275,engine,0,0
+1989,E,1989_Goodys_300,1989_01_E,36,39,24,usa,Joe_Thurman,Joe Thurman   (Busch),Hindman Music,,Ford,12,3700,engine,0,0
+1989,E,1989_Goodys_300,1989_01_E,37,31,23,usa,Donnie_Allison,Donnie Allison   (Busch),Collins Engineering,,Buick,7,2225,crash,0,0
+1989,E,1989_Goodys_300,1989_01_E,38,6,45,usa,Patty_Moise,Patty Moise   (Busch),Amway,,Buick,6,2200,crash,0,0
+1989,E,1989_Goodys_300,1989_01_E,39,11,99,usa,Tommy_Ellis,Tommy Ellis   (Busch),Goo Goo Clusters,,Buick,6,7982,crash,0,0
+1989,E,1989_Goodys_300,1989_01_E,40,20,74,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,5,3700,engine,0,43
+1989,E,1989_Goodwrench_200,1989_02_E,1,1,25,usa,Rob_Moroso,Rob Moroso   (Busch),Swisher Sweets,,Oldsmobile,197,25350,running,7,0
+1989,E,1989_Goodwrench_200,1989_02_E,2,10,3,usa,Dale_Earnhardt,Dale Earnhardt   (Busch),GM Goodwrench,,Chevrolet,197,4960,running,22,0
+1989,E,1989_Goodwrench_200,1989_02_E,3,12,99,usa,Tommy_Ellis,Tommy Ellis   (Busch),Goo Goo Clusters,,Buick,197,7860,running,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,4,29,44,usa,Bobby_Labonte,Bobby Labonte   (Busch),Winner's Circle Auto Parts,,Buick,197,1875,running,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,5,24,6,usa,Tommy_Houston,Tommy Houston   (Busch),Southern Biscuit Flour,,Buick,196,4260,running,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,6,14,2,usa,L_D_Ottinger,L.D. Ottinger   (Busch),Detroit Gasket,,Pontiac,196,3235,running,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,7,11,11,usa,Jack_Ingram,Jack Ingram   (Busch),Skoal,,Chevrolet,196,4635,running,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,8,8,34,usa,Jimmy_Spencer,Jimmy Spencer   (Busch),Wayne Paging,,Buick,196,2585,running,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,9,35,56,usa,Ronald_Cooper,Ronald Cooper   (Busch),Speedway Waste Disposal,,Buick,196,2385,running,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,10,31,86,usa,Dana_Patten,Dana Patten,U.S. Chrome,,Buick,196,1675,running,0,134
+1989,E,1989_Goodwrench_200,1989_02_E,11,3,7,usa,Harry_Gant,Harry Gant   (Busch),Whitaker Racing,,Buick,195,1310,running,94,0
+1989,E,1989_Goodwrench_200,1989_02_E,12,4,81,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.   (Busch)",Rose's Stores,,Buick,195,1280,running,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,13,20,79,usa,Dave_Rezendes,Dave Rezendes   (Busch),"K.R. Rezendes, Inc.",,Oldsmobile,195,500,running,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,14,18,52,usa,Ken_Schrader,Ken Schrader   (Busch),Red Baron Frozen Pizza,,Chevrolet,194,470,running,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,15,13,42,usa,Elton_Sawyer,Elton Sawyer   (Busch),Bill Lewis,,Chevrolet,194,1850,running,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,16,27,51,usa,Lee_Faulk,Lee Faulk   (Busch),Slender You Figure Salons,,Pontiac,193,420,running,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,17,36,01,usa,Jack_Pennington,Jack Pennington   (Busch),Sandlapper Fabrics,,Buick,193,400,running,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,18,26,96,usa,Tom_Peck,Tom Peck   (Busch),Thomas Chevrolet,,Oldsmobile,192,395,running,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,19,37,12,usa,Jeff_Burton,Jeff Burton   (Busch),Burton Autosports,,Pontiac,192,390,running,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,20,38,09,usa,Joe_Bessey,Joe Bessey,Cola Transport,,Pontiac,190,1170,running,0,103
+1989,E,1989_Goodwrench_200,1989_02_E,21,2,32,usa,Dale_Jarrett,Dale Jarrett   (Busch),Port-A-Lube,,Pontiac,182,365,running,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,22,22,14,usa,Wayne_Patterson,Wayne Patterson   (Busch),"W.O. Grubb, Inc.",,Pontiac,179,360,running,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,23,32,63,usa,Chuck_Bown,Chuck Bown   (Busch),Nescafe Classic,,Pontiac,176,2105,engine,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,24,15,36,usa,Kenny_Wallace,Kenny Wallace   (Busch),Cox Treated Lumber,,Pontiac,175,345,running,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,25,7,87,usa,Greg_Sacks,Greg Sacks   (Busch),Lowe's Foods,,Pontiac,173,340,crash,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,26,21,45,usa,Patty_Moise,Patty Moise   (Busch),Amway Freedom,,Buick,149,335,transmission,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,27,5,75,usa,Rick_Wilson,Rick Wilson   (Busch),Food Country USA,,Oldsmobile,133,335,engine,19,0
+1989,E,1989_Goodwrench_200,1989_02_E,28,39,02,usa,Dave_Davis,Dave Davis,Davis Brothers,,Pontiac,123,585,engine,0,79
+1989,E,1989_Goodwrench_200,1989_02_E,29,16,28,usa,Davey_Allison,Davey Allison   (Busch),Havoline Antifreeze,,Buick,118,335,engine,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,30,19,24,usa,Joe_Thurman,Joe Thurman   (Busch),Lumberton Lincoln-Mercury,,Ford,117,1545,oil pressure,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,31,6,1,usa,Mark_Martin,Mark Martin   (Busch),Carolina Ford Dealers,,Ford,104,330,engine,55,0
+1989,E,1989_Goodwrench_200,1989_02_E,32,33,10,usa,Ken_Bouchard,Ken Bouchard   (Busch),Whitcomb Brothers,,Pontiac,62,325,engine,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,33,25,47,usa,Billy_Standridge,Billy Standridge   (Busch),Standridge Auto Parts,,Pontiac,62,1080,crash,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,34,23,38,usa,Dave_Simpson,Dave Simpson   (Busch),Simpson Safety Equipment,,Buick,46,315,crash,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,35,9,55,usa,Phil_Parsons,Phil Parsons   (Busch),Fast Fare,,Oldsmobile,44,300,engine,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,36,17,22,usa,Rick_Mast,Rick Mast   (Busch),A.G. Dillard,,Buick,41,2810,engine,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,37,34,41,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn,,Buick,31,1550,clutch,0,52
+1989,E,1989_Goodwrench_200,1989_02_E,38,28,9,usa,Steve_Grissom,Steve Grissom   (Busch),Texas Pete Sauces,,Pontiac,15,1060,crash,0,0
+1989,E,1989_Goodwrench_200,1989_02_E,39,30,5,usa,Brandon_Baker,Brandon Baker   (Busch),Commercial Management,,Buick,15,2050,crash,0,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,1,5,99,usa,Tommy_Ellis,Tommy Ellis   (Busch),Goo Goo Clusters,,Buick,200,14108,running,40,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,2,8,6,usa,Tommy_Houston,Tommy Houston   (Busch),Southern Biscuit Flour,,Buick,200,6383,running,0,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,3,7,42,usa,Elton_Sawyer,Elton Sawyer   (Busch),Bill Lewis,,Chevrolet,200,3533,running,0,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,4,10,4,usa,Max_Prestwood,Max Prestwood   (Busch),Prestwood Racing,,Oldsmobile,200,1580,running,0,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,5,25,49,usa,Ed_Ferree,Ed Ferree   (Busch),DLK Performance,,Pontiac,200,1390,running,0,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,6,20,34,usa,Jimmy_Spencer,Jimmy Spencer   (Busch),Wayne Paging,,Buick,199,2083,running,0,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,7,23,36,usa,Kenny_Wallace,Kenny Wallace   (Busch),Cox Treated Lumber,,Pontiac,199,1300,running,0,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,8,9,63,usa,Chuck_Bown,Chuck Bown   (Busch),Nescafe Classic,,Pontiac,199,2350,running,0,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,9,6,1,usa,Mark_Martin,Mark Martin   (Busch),Carolina Ford Dealers,,Ford,199,1075,running,0,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,10,27,12,usa,Jeff_Burton,Jeff Burton   (Busch),Golden Skillet,,Pontiac,199,1080,running,0,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,11,24,9,usa,Steve_Grissom,Steve Grissom   (Busch),Texas Pete Sauces,,Pontiac,198,1913,running,0,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,12,30,02,usa,Dave_Davis,Dave Davis,Davis Brothers,,Pontiac,198,1435,running,0,127
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,13,13,11,usa,Jack_Ingram,Jack Ingram   (Busch),Skoal,,Chevrolet,197,3073,running,0,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,14,11,56,usa,Ronald_Cooper,Ronald Cooper   (Busch),Speedway Waste Disposal,,Buick,197,1803,running,0,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,15,18,41,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn,,Buick,196,2200,running,0,118
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,16,32,96,usa,Tom_Peck,Tom Peck   (Busch),JLG Industries,,Oldsmobile,195,955,running,0,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,17,4,2,usa,L_D_Ottinger,L.D. Ottinger   (Busch),Detroit Gasket,,Pontiac,194,1743,running,0,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,18,28,35,usa,Mike_Porter,Mike Porter   (Busch),Motor Supply Corp.,,Oldsmobile,189,920,running,0,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,19,15,86,usa,Dana_Patten,Dana Patten,U.S. Chrome,,Buick,180,1270,running,0,106
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,20,3,7,usa,Harry_Gant,Harry Gant   (Busch),Whitaker Racing,,Buick,176,1668,engine,0,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,21,2,75,usa,Rick_Wilson,Rick Wilson   (Busch),Food Country USA,,Oldsmobile,173,2065,engine,160,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,22,31,24,usa,Joe_Thurman,Joe Thurman   (Busch),Vinton Motors,,Ford,171,1653,running,0,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,23,1,25,usa,Rob_Moroso,Rob Moroso   (Busch),Swisher Sweets,,Oldsmobile,164,3408,drive shaft,0,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,24,17,47,usa,Billy_Standridge,Billy Standridge   (Busch),Standridge Auto Parts,,Pontiac,153,1583,running,0,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,25,21,58,usa,Martin_Truex,Martin Truex   (Busch),Shellfish Packing,,Pontiac,140,800,rear end,0,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,26,29,62,usa,Ed_Berrier,Ed Berrier   (Busch),Lemon's Auto Parts,,Oldsmobile,129,1533,ignition,0,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,27,26,69,usa,Jeff_Spraker,Jeff Spraker,Spraker Racing,,Oldsmobile,91,1090,engine,0,82
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,28,16,8,usa,Bobby_Hamilton,Bobby Hamilton   (Busch),Lighting & Fans,,Buick,55,625,engine,0,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,29,19,74,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,42,1025,engine,0,76
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,30,22,27,usa,Jimmy_Hensley,Jimmy Hensley   (Busch),Ryder Floors,,Pontiac,41,1533,engine,0,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,31,14,22,usa,Rick_Mast,Rick Mast   (Busch),Massanutten Ski Resort,,Buick,34,2708,engine,0,0
+1989,E,1989_Miller_High_Life_500_Classic,1989_03_E,32,12,91,usa,Tom_Harrington,Tom Harrington   (Busch),BFI Waste Systems,,Oldsmobile,33,625,crash,0,0
+1989,E,1989_Buick_Oxford_100,1989_04_E,1,7,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Co.,,Buick,135,7475,running,73,180
+1989,E,1989_Buick_Oxford_100,1989_04_E,2,13,41,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn,,Buick,135,3975,running,0,170
+1989,E,1989_Buick_Oxford_100,1989_04_E,3,3,15,usa,Mike_Rowe,Mike Rowe,O'Connor GMC,,Buick,135,1700,running,10,165
+1989,E,1989_Buick_Oxford_100,1989_04_E,4,2,7,usa,Billy_Clark,Billy Clark,Skoal Bandit,,Pontiac,135,1475,running,21,160
+1989,E,1989_Buick_Oxford_100,1989_04_E,5,25,1,usa,Pete_Silva,Pete Silva,Prescott Racing / Better Cable TV,,Pontiac,135,1425,running,0,155
+1989,E,1989_Buick_Oxford_100,1989_04_E,6,9,19,usa,Ron_Moon,Ron Moon,Matthews Auto Supply / Lifetime Muffler,,Buick,135,850,running,0,0
+1989,E,1989_Buick_Oxford_100,1989_04_E,7,12,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,135,1110,running,0,150
+1989,E,1989_Buick_Oxford_100,1989_04_E,8,16,17,usa,Tracy_Gordon,Tracy Gordon,Tracy Gordon,,Oldsmobile,135,750,running,0,0
+1989,E,1989_Buick_Oxford_100,1989_04_E,9,15,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,135,1020,running,0,146
+1989,E,1989_Buick_Oxford_100,1989_04_E,10,8,01,usa,Joey_Kourafas,Joey Kourafas,CRS Racing,,Pontiac,135,935,running,0,142
+1989,E,1989_Buick_Oxford_100,1989_04_E,11,6,13,usa,George_Babb,George Babb,–,,Buick,135,650,running,0,0
+1989,E,1989_Buick_Oxford_100,1989_04_E,12,1,96,usa,Dana_Patten,Dana Patten,U.S. Chrome,,Buick,135,625,running,0,138
+1989,E,1989_Buick_Oxford_100,1989_04_E,13,23,02,usa,Sam_Sessions,Sam Sessions,–,,–,134,600,–,0,0
+1989,E,1989_Buick_Oxford_100,1989_04_E,14,20,48,usa,Jim_McCallum,Jim McCallum,Northern Tire,,Ford,134,575,running,0,134
+1989,E,1989_Buick_Oxford_100,1989_04_E,15,18,68,usa,Tim_Brackett,Tim Brackett,T-N-T,,Pontiac,134,550,running,0,0
+1989,E,1989_Buick_Oxford_100,1989_04_E,16,31,26,usa,Darren_Bernier,Darren Bernier,Darren Bernier,,Oldsmobile,134,525,running,0,0
+1989,E,1989_Buick_Oxford_100,1989_04_E,17,33,36,usa,Bobby_Gada,Bobby Gada,Citgo / CT Recycling,,Buick,130,745,running,0,130
+1989,E,1989_Buick_Oxford_100,1989_04_E,18,32,78,usa,Jeff_Taylor,Jeff Taylor,–,,–,130,475,–,0,0
+1989,E,1989_Buick_Oxford_100,1989_04_E,19,27,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,128,450,–,0,127
+1989,E,1989_Buick_Oxford_100,1989_04_E,20,28,57,usa,J_C_Marsh,J.C. Marsh,Mill Cove Lobster / C.A. Rice Excavating,,Buick,126,425,–,0,124
+1989,E,1989_Buick_Oxford_100,1989_04_E,21,11,88,usa,Larry_Caron,Larry Caron,East End Auto,,Buick,125,650,running,0,121
+1989,E,1989_Buick_Oxford_100,1989_04_E,22,24,33,usa,Rod_Frye,Rod Frye,–,,Buick,113,390,–,0,0
+1989,E,1989_Buick_Oxford_100,1989_04_E,23,7,60,usa,Dale_Shaw,Dale Shaw,Budweiser,,Pontiac,111,700,dnf,31,118
+1989,E,1989_Buick_Oxford_100,1989_04_E,24,4,92,usa,Gregg_Lessard,Gregg Lessard,Automotive Contacts,,Buick,108,455,crash,0,115
+1989,E,1989_Buick_Oxford_100,1989_04_E,25,10,65,usa,Dean_Chrystal,Dean Chrystal,Dean Chrystal,,Chevrolet,104,320,–,0,112
+1989,E,1989_Buick_Oxford_100,1989_04_E,26,19,9,usa,Joe_Bessey,Joe Bessey,Cola Transport,,Pontiac,93,580,–,0,109
+1989,E,1989_Buick_Oxford_100,1989_04_E,27,34,39,usa,Lloyd_Gillie,Lloyd Gillie,Gillie's Truck Caps,,Buick,90,310,–,0,106
+1989,E,1989_Buick_Oxford_100,1989_04_E,28,21,12,usa,Dave_Davis,Dave Davis,Caron & Waltz,,Pontiac,87,305,–,0,103
+1989,E,1989_Buick_Oxford_100,1989_04_E,29,14,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Pontiac,83,410,–,0,100
+1989,E,1989_Buick_Oxford_100,1989_04_E,30,22,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive,,Buick,67,300,crash,0,97
+1989,E,1989_Buick_Oxford_100,1989_04_E,31,26,69,usa,Jeff_Spraker,Jeff Spraker,Spraker Racing,,Oldsmobile,41,380,vibration,0,94
+1989,E,1989_Buick_Oxford_100,1989_04_E,32,17,80,usa,Bobby_Dragon,Bobby Dragon,Budweiser,,Pontiac,20,350,–,0,91
+1989,E,1989_Buick_Oxford_100,1989_04_E,33,30,76,usa,Kenny_Robbins,Kenny Robbins,David Smith,,Chevrolet,17,240,–,0,0
+1989,E,1989_Buick_Oxford_100,1989_04_E,34,29,2,usa,Dale_Verrill,Dale Verrill,–,,–,10,230,–,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,1,2,81,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.   (Busch)",Rose's Stores,,Buick,300,13675,running,58,0
+1989,E,1989_GM_Parts_300,1989_05_E,2,9,99,usa,Tommy_Ellis,Tommy Ellis   (Busch),Goo Goo Clusters,,Buick,300,13031,running,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,3,3,30,usa,Michael_Waltrip,Michael Waltrip   (Busch),Post Cereals,,Pontiac,300,5650,running,58,0
+1989,E,1989_GM_Parts_300,1989_05_E,4,23,86,usa,Tom_Peck,Tom Peck   (Busch),Thomas Chevrolet,,Oldsmobile,300,5906,running,14,0
+1989,E,1989_GM_Parts_300,1989_05_E,5,7,28,usa,Davey_Allison,Davey Allison   (Busch),Havoline Antifreeze,,Buick,300,3350,running,35,0
+1989,E,1989_GM_Parts_300,1989_05_E,6,11,52,usa,Ken_Schrader,Ken Schrader   (Busch),Red Baron Frozen Pizza,,Chevrolet,299,2680,running,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,7,29,79,usa,Dave_Rezendes,Dave Rezendes   (Busch),"K.R. Rezendes, Inc.",,Oldsmobile,297,3650,running,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,8,19,11,usa,Jack_Ingram,Jack Ingram   (Busch),Skoal,,Chevrolet,295,5631,running,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,9,17,34,usa,Jimmy_Spencer,Jimmy Spencer   (Busch),Jones Truck Sales,,Buick,294,5356,running,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,10,20,60,usa,Dale_Shaw,Dale Shaw,Budweiser,,Pontiac,289,3125,running,0,134
+1989,E,1989_GM_Parts_300,1989_05_E,11,36,74,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,288,2850,running,0,130
+1989,E,1989_GM_Parts_300,1989_05_E,12,15,22,usa,Rick_Mast,Rick Mast   (Busch),Raven Boats,,Buick,287,4106,running,55,0
+1989,E,1989_GM_Parts_300,1989_05_E,13,35,47,usa,Billy_Standridge,Billy Standridge   (Busch),Standridge Auto Parts,,Pontiac,279,2781,running,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,14,6,2,usa,L_D_Ottinger,L.D. Ottinger   (Busch),Detroit Gasket,,Pontiac,279,2681,running,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,15,25,36,usa,Kenny_Wallace,Kenny Wallace   (Busch),Cox Treated Lumber,,Pontiac,271,2681,running,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,16,22,96,usa,Dana_Patten,Dana Patten,U.S. Chrome,,Buick,268,1450,engine,0,115
+1989,E,1989_GM_Parts_300,1989_05_E,17,26,19,usa,Joe_Bessey,Joe Bessey,Cola Transport,,Pontiac,268,2150,running,0,112
+1989,E,1989_GM_Parts_300,1989_05_E,18,32,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,264,1400,running,0,109
+1989,E,1989_GM_Parts_300,1989_05_E,19,1,6,usa,Tommy_Houston,Tommy Houston   (Busch),Southern Biscuit Flour,,Buick,235,3681,transmission,71,0
+1989,E,1989_GM_Parts_300,1989_05_E,20,37,8,usa,Bobby_Hamilton,Bobby Hamilton   (Busch),Lighting & Fans,,Buick,233,2306,crash,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,21,18,12,usa,Jeff_Burton,Jeff Burton   (Busch),Sign Time,,Pontiac,233,2256,running,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,22,13,25,usa,Rob_Moroso,Rob Moroso   (Busch),Swisher Sweets,,Oldsmobile,222,3881,running,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,23,8,63,usa,Chuck_Bown,Chuck Bown   (Busch),Nescafe Classic,,Pontiac,188,3606,piston,9,0
+1989,E,1989_GM_Parts_300,1989_05_E,24,10,42,usa,Elton_Sawyer,Elton Sawyer   (Busch),Accu-Turn,,Chevrolet,169,1781,crash,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,25,39,38,usa,Dave_Simpson,Dave Simpson   (Busch),Simpson Safety Equipment,,Buick,167,1771,crash,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,26,5,75,usa,Rick_Wilson,Rick Wilson   (Busch),Food Country USA,,Oldsmobile,166,1761,engine,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,27,27,56,usa,Ronald_Cooper,Ronald Cooper   (Busch),Speedway Waste Disposal,,Buick,164,1751,running,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,28,33,41,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn,,Buick,162,2410,valve,0,79
+1989,E,1989_GM_Parts_300,1989_05_E,29,40,7,usa,Billy_Clark,Billy Clark,Skoal Bandit,,Pontiac,129,1400,brakes,0,76
+1989,E,1989_GM_Parts_300,1989_05_E,30,28,58,usa,Martin_Truex,Martin Truex   (Busch),Shellfish Packing,,Pontiac,123,1025,crash,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,31,41,62,usa,Ed_Berrier,Ed Berrier   (Busch),Lemon's Auto Parts,,Oldsmobile,106,1681,valve,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,32,38,69,usa,Jeff_Spraker,Jeff Spraker,Spraker Enterprises,,Oldsmobile,100,1340,brakes,0,67
+1989,E,1989_GM_Parts_300,1989_05_E,33,31,24,usa,Joe_Thurman,Joe Thurman   (Busch),Thackston's Garage,,Ford,98,1661,valve,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,34,30,95,canada,Larry_Pollard,Larry Pollard   (Busch),Central Gas & Appliance,,Oldsmobile,90,975,crash,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,35,12,1,usa,Mark_Martin,Mark Martin   (Busch),Carolina Ford Dealers,,Ford,84,1656,crash,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,36,34,33,usa,Brad_Teague,Brad Teague   (Busch),Pharo's Truck Stop,,Oldsmobile,69,975,crash,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,37,16,3,usa,Dale_Earnhardt,Dale Earnhardt   (Busch),GM Goodwrench,,Chevrolet,32,1656,crash,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,38,14,72,usa,Rusty_Wallace,Rusty Wallace   (Busch),Kodiak,,Pontiac,31,975,crash,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,39,24,9,usa,Steve_Grissom,Steve Grissom   (Busch),Texas Pete Sauces,,Pontiac,19,1656,piston,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,40,4,90,belgium,Thierry_Tassin,Thierry Tassin   (Busch),Giro-Flex,,Buick,11,975,clutch,0,0
+1989,E,1989_GM_Parts_300,1989_05_E,41,21,66,usa,Donny_Ling_Jr,"Donny Ling, Jr.   (Busch)",Just Say No,,Oldsmobile,2,975,engine,0,0
+1989,E,1989_Busch_150,1989_06_E,1,1,60,usa,Dale_Shaw,Dale Shaw,Budweiser,,Pontiac,150,6075,running,150,180
+1989,E,1989_Busch_150,1989_06_E,2,4,92,usa,Gregg_Lessard,Gregg Lessard,Automotive Contacts,,Buick,150,2500,running,0,170
+1989,E,1989_Busch_150,1989_06_E,3,7,71,usa,Bobby_Dragon,Bobby Dragon,"Henry Shaw, Jr.",,Pontiac,150,1550,running,0,165
+1989,E,1989_Busch_150,1989_06_E,4,20,41,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn,,Buick,150,1450,running,0,160
+1989,E,1989_Busch_150,1989_06_E,5,11,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,150,1235,running,0,155
+1989,E,1989_Busch_150,1989_06_E,6,2,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,149,950,running,0,150
+1989,E,1989_Busch_150,1989_06_E,7,16,01,usa,Joey_Kourafas,Joey Kourafas,CRS Racing,,Pontiac,149,860,running,0,146
+1989,E,1989_Busch_150,1989_06_E,8,3,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Pontiac,149,700,running,0,142
+1989,E,1989_Busch_150,1989_06_E,9,13,33,usa,Ed_St_Angelo_Jr,"Ed St. Angelo, Jr.",D & A Racing,,Buick,149,650,running,0,138
+1989,E,1989_Busch_150,1989_06_E,10,18,96,usa,Dana_Patten,Dana Patten,U.S. Chrome,,Buick,149,650,running,0,134
+1989,E,1989_Busch_150,1989_06_E,11,19,88,usa,Larry_Caron,Larry Caron,East End Auto,,Oldsmobile,148,645,running,0,130
+1989,E,1989_Busch_150,1989_06_E,12,15,59,usa,Roger_Godin,Roger Godin,Renault Tool,,Buick,148,475,running,0,127
+1989,E,1989_Busch_150,1989_06_E,13,14,36,usa,Bobby_Gada,Bobby Gada,Citgo / CT Recycling,,Buick,148,530,running,0,124
+1989,E,1989_Busch_150,1989_06_E,14,17,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,148,400,–,0,121
+1989,E,1989_Busch_150,1989_06_E,15,6,7,usa,Billy_Clark,Billy Clark,Skoal Bandit,,Pontiac,143,480,running,0,118
+1989,E,1989_Busch_150,1989_06_E,16,8,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Co.,,Buick,142,370,–,0,115
+1989,E,1989_Busch_150,1989_06_E,17,22,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive,,Buick,140,350,–,0,112
+1989,E,1989_Busch_150,1989_06_E,18,21,75,usa,Larry_Cates,Larry Cates,California Concepts of the Great Northeast,,Buick,130,340,–,0,109
+1989,E,1989_Busch_150,1989_06_E,19,9,9,usa,Joe_Bessey,Joe Bessey,Cola Transport,,Pontiac,74,330,–,0,106
+1989,E,1989_Busch_150,1989_06_E,20,10,12,usa,Dave_Davis,Dave Davis,Davis Brothers,,Pontiac,40,320,–,0,103
+1989,E,1989_Busch_150,1989_06_E,21,23,1,usa,Pete_Silva,Pete Silva,Prescott Racing / Better Cable TV,,Pontiac,26,300,crash,0,100
+1989,E,1989_Busch_150,1989_06_E,22,24,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt,,Pontiac,19,300,–,0,97
+1989,E,1989_Busch_150,1989_06_E,23,12,48,usa,Jim_McCallum,Jim McCallum,Northern Tire,,Ford,8,300,crash,0,94
+1989,E,1989_Busch_150,1989_06_E,24,5,18,usa,Ed_Lavoie,Ed Lavoie,–,,–,3,300,–,0,91
+1989,E,1989_Diet_Coke_100,1989_07_E,1,2,15,usa,Mike_Rowe,Mike Rowe,O'Connor GMC,,Buick,163,4100,running,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,2,4,41,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn,,Buick,163,3700,running,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,3,–,36,usa,Bobby_Gada,Bobby Gada,Citgo / CT Recycling,,Buick,163,,running,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,4,8,7,usa,Billy_Clark,Billy Clark,Skoal Bandit,,Pontiac,163,1900,running,0,
+1989,E,1989_Diet_Coke_100,1989_07_E,5,–,9,usa,Joe_Bessey,Joe Bessey,Cola Transport,,Pontiac,163,,running,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,6,–,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,163,,running,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,7,–,17,usa,Tracy_Gordon,Tracy Gordon,Tracy Gordon,,Oldsmobile,163,,running,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,8,–,01,usa,Joey_Kourafas,Joey Kourafas,CRS Racing,,Pontiac,163,,running,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,9,–,,usa,Jon_Lizotte,Jon Lizotte,–,,–,163,,running,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,10,–,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Co. / Buick Motor Division,,Buick,162,,running,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,11,–,88,usa,Larry_Caron,Larry Caron,East End Auto,,Buick,162,,running,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,12,–,26,usa,Darren_Bernier,Darren Bernier,Darren Bernier,,Oldsmobile,162,,running,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,13,–,12,usa,Dave_Davis,Dave Davis,Freeport Auto Supply,,Pontiac,162,,–,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,14,–,65,usa,Dean_Chrystal,Dean Chrystal,Dean Chrystal,,Chevrolet,162,,–,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,15,–,76,usa,Kenny_Robbins,Kenny Robbins,David Smith,,Chevrolet,162,,running,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,16,–,61,usa,Mike_Olsen,Mike Olsen,Swenson Insurance,,Buick,161,,running,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,17,–,96,usa,Dana_Patten,Dana Patten,U.S. Chrome,,Buick,161,,running,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,18,–,57,usa,J_C_Marsh,J.C. Marsh,Mill Cove Lobster / C.A. Rice Excavating,,Buick,161,,running,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,19,–,50,usa,Bobby_Gahan,Bobby Gahan,Lux Enterprises,,Pontiac,160,,running,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,20,–,83,usa,Rod_Frye,Rod Frye,–,,Buick,160,,–,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,21,–,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Pontiac,160,,running,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,22,–,48,usa,Jim_McCallum,Jim McCallum,Northern Tire,,Ford,160,,running,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,23,–,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,157,,running,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,24,–,92,usa,Gregg_Lessard,Gregg Lessard,Automotive Contacts,,Buick,–,,–,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,25,–,,usa,Jeff_Taylor,Jeff Taylor,–,,–,139,,–,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,26,–,75,usa,Larry_Cates,Larry Cates,California Concepts of the Great Northeast,,Buick,139,,–,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,27,–,68,usa,Tim_Brackett,Tim Brackett,T-N-T,,Pontiac,–,,–,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,28,–,,usa,Dale_Verrill,Dale Verrill,–,,–,127,,–,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,29,–,28,usa,Bill_Penfold,Bill Penfold,Penfold Motorsports,,Buick,115,,crash,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,30,–,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,113,,crash,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,31,–,59,usa,Roger_Godin,Roger Godin,Renault Tool,,Buick,104,,–,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,32,–,,usa,Sam_Sessions,Sam Sessions,–,,–,104,,–,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,33,–,13,usa,George_Babb,George Babb,–,,Buick,96,,–,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,34,–,19,usa,Ron_Moon,Ron Moon,Matthews Auto Supply / Lifetime Muffler,,Buick,95,,–,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,35,–,33,usa,Ed_St_Angelo_Jr,"Ed St. Angelo, Jr.",D & A Racing,,Buick,90,,–,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,36,–,77,usa,Bob_Gerry,Bob Gerry,–,,Chevrolet,67,,–,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,37,–,1,usa,Pete_Silva,Pete Silva,Prescott Racing / Better Cable TV,,Pontiac,–,,–,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,38,–,11,usa,Bob_Healey,Bob Healey,Tobar Construction,,Pontiac,–,,–,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,39,–,60,usa,Dale_Shaw,Dale Shaw,Budweiser,,Pontiac,15,,crash,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,40,–,21,usa,Jim_Field,Jim Field,Carl Huston Contractor,,Ford,15,,crash,–,
+1989,E,1989_Diet_Coke_100,1989_07_E,41,41,69,usa,Jeff_Spraker,Jeff Spraker,Spraker Enterprises,,Oldsmobile,0,125,did not start,0,
+1989,E,1989_Budweiser_200,1989_08_E,1,8,75,usa,Rick_Wilson,Rick Wilson   (Busch),Food Country USA,,Oldsmobile,200,10965,running,96,0
+1989,E,1989_Budweiser_200,1989_08_E,2,5,55,usa,Phil_Parsons,Phil Parsons   (Busch),Fast Fare,,Oldsmobile,200,5200,running,0,0
+1989,E,1989_Budweiser_200,1989_08_E,3,4,87,usa,Dale_Earnhardt,Dale Earnhardt   (Busch),Lowe's Foods,,Pontiac,200,3575,running,8,0
+1989,E,1989_Budweiser_200,1989_08_E,4,10,1,usa,Mark_Martin,Mark Martin   (Busch),Carolina Ford Dealers,,Ford,200,2275,running,3,0
+1989,E,1989_Budweiser_200,1989_08_E,5,14,99,usa,Tommy_Ellis,Tommy Ellis   (Busch),Goo Goo Clusters,,Buick,200,5757,running,0,0
+1989,E,1989_Budweiser_200,1989_08_E,6,13,63,usa,Chuck_Bown,Chuck Bown   (Busch),Nescafe Classic,,Pontiac,200,4257,running,0,0
+1989,E,1989_Budweiser_200,1989_08_E,7,11,36,usa,Kenny_Wallace,Kenny Wallace   (Busch),Cox Treated Lumber,,Pontiac,200,2257,running,0,0
+1989,E,1989_Budweiser_200,1989_08_E,8,9,52,usa,Ken_Schrader,Ken Schrader   (Busch),Red Baron Frozen Pizza,,Chevrolet,200,1275,running,0,0
+1989,E,1989_Budweiser_200,1989_08_E,9,24,86,usa,Dana_Patten,Dana Patten,U.S. Chrome,,Buick,200,1875,running,0,138
+1989,E,1989_Budweiser_200,1989_08_E,10,12,71,usa,Randy_LaJoie,Randy LaJoie,D & D Competition,,Pontiac,199,1675,running,0,134
+1989,E,1989_Budweiser_200,1989_08_E,11,15,56,usa,Ronald_Cooper,Ronald Cooper   (Busch),Caterpillar,,Buick,199,2607,running,0,0
+1989,E,1989_Budweiser_200,1989_08_E,12,6,4,usa,Ed_Berrier,Ed Berrier   (Busch),Hill Racing,,Buick,198,1832,running,0,0
+1989,E,1989_Budweiser_200,1989_08_E,13,25,2,usa,L_D_Ottinger,L.D. Ottinger   (Busch),Detroit Gasket,,Pontiac,198,1782,running,0,0
+1989,E,1989_Budweiser_200,1989_08_E,14,7,96,usa,Tom_Peck,Tom Peck   (Busch),Thomas Chevrolet,,Oldsmobile,197,1757,running,0,0
+1989,E,1989_Budweiser_200,1989_08_E,15,28,11,usa,Jack_Ingram,Jack Ingram   (Busch),Skoal,,Chevrolet,197,3582,running,0,0
+1989,E,1989_Budweiser_200,1989_08_E,16,38,81,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.   (Busch)",Rose's Stores,,Buick,196,825,running,0,0
+1989,E,1989_Budweiser_200,1989_08_E,17,3,25,usa,Rob_Moroso,Rob Moroso   (Busch),Swisher Sweets,,Oldsmobile,196,3432,running,0,0
+1989,E,1989_Budweiser_200,1989_08_E,18,16,45,usa,Patty_Moise,Patty Moise   (Busch),Amway Freedom,,Buick,195,775,running,0,0
+1989,E,1989_Budweiser_200,1989_08_E,19,23,22,usa,Rick_Mast,Rick Mast   (Busch),Raven Boats,,Buick,193,2500,running,0,0
+1989,E,1989_Budweiser_200,1989_08_E,20,35,9,usa,Joe_Bessey,Joe Bessey,Cola Transport,,Pontiac,193,1325,running,0,103
+1989,E,1989_Budweiser_200,1989_08_E,21,31,42,usa,Elton_Sawyer,Elton Sawyer   (Busch),Wrecker Wholesalers,,Chevrolet,193,1582,running,0,0
+1989,E,1989_Budweiser_200,1989_08_E,22,18,88,usa,Curtis_Markham,Curtis Markham   (Busch),Landworks,,Buick,192,675,running,0,0
+1989,E,1989_Budweiser_200,1989_08_E,23,27,01,usa,Jack_Pennington,Jack Pennington   (Busch),R.T. Dooley,,Buick,192,650,running,0,0
+1989,E,1989_Budweiser_200,1989_08_E,24,33,41,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn,,Buick,190,2225,running,0,91
+1989,E,1989_Budweiser_200,1989_08_E,25,20,47,usa,Billy_Standridge,Billy Standridge   (Busch),Standridge Auto Parts,,Pontiac,187,1482,running,0,0
+1989,E,1989_Budweiser_200,1989_08_E,26,34,34,usa,Jimmy_Spencer,Jimmy Spencer   (Busch),Cicci Racing,,Buick,159,3207,ignition,0,0
+1989,E,1989_Budweiser_200,1989_08_E,27,21,12,usa,Jeff_Burton,Jeff Burton   (Busch),Burton Autosports,,Pontiac,142,1432,engine,0,0
+1989,E,1989_Budweiser_200,1989_08_E,28,1,7,usa,Harry_Gant,Harry Gant   (Busch),Carman Christies Garage,,Buick,115,825,handling,51,0
+1989,E,1989_Budweiser_200,1989_08_E,29,32,8,usa,Bobby_Hamilton,Bobby Hamilton   (Busch),Lighting & Fans,,Buick,112,1392,running,0,0
+1989,E,1989_Budweiser_200,1989_08_E,30,2,30,usa,Michael_Waltrip,Michael Waltrip   (Busch),Post Cereals,,Pontiac,110,500,crash,42,0
+1989,E,1989_Budweiser_200,1989_08_E,31,30,66,usa,Donny_Ling_Jr,"Donny Ling, Jr.   (Busch)",Just Say No,,Oldsmobile,110,500,crash,0,0
+1989,E,1989_Budweiser_200,1989_08_E,32,22,6,usa,Tommy_Houston,Tommy Houston   (Busch),Southern Biscuit Flour,,Buick,109,3132,crash,0,0
+1989,E,1989_Budweiser_200,1989_08_E,33,17,70,usa,Jimmy_Hensley,Jimmy Hensley   (Busch),Dirt Devil Vacuums,,Buick,101,500,crash,0,0
+1989,E,1989_Budweiser_200,1989_08_E,34,26,33,usa,Brad_Teague,Brad Teague   (Busch),Pharo's Truck Stop,,Oldsmobile,100,500,crash,0,0
+1989,E,1989_Budweiser_200,1989_08_E,35,37,02,usa,Dave_Davis,Dave Davis,Davis Brothers,,Pontiac,94,1100,crash,0,58
+1989,E,1989_Budweiser_200,1989_08_E,36,29,79,usa,Dave_Rezendes,Dave Rezendes   (Busch),"K.R. Rezendes, Inc.",,Oldsmobile,90,1382,crash,0,0
+1989,E,1989_Budweiser_200,1989_08_E,37,19,17,usa,Darrell_Waltrip,Darrell Waltrip   (Busch),Exxon Superflo,,Chevrolet,58,500,engine,0,0
+1989,E,1989_Budweiser_200,1989_08_E,38,36,19,usa,Steve_Grissom,Steve Grissom   (Busch),Texas Pete Sauces,,Pontiac,33,1382,engine,0,0
+1989,E,1989_Donalco_Construction_100,1989_09_E,1,1,7,usa,Billy_Clark,Billy Clark,Skoal Bandit / Cumberland Farms,,Pontiac,156,7275,running,148,180
+1989,E,1989_Donalco_Construction_100,1989_09_E,2,7,71,usa,Bobby_Dragon,Bobby Dragon,"Henry Shaw, Jr.",,Pontiac,156,3235,running,8,170
+1989,E,1989_Donalco_Construction_100,1989_09_E,3,17,01,usa,Joey_Kourafas,Joey Kourafas,CRS Racing,,Pontiac,156,2500,running,0,165
+1989,E,1989_Donalco_Construction_100,1989_09_E,4,15,41,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn,,Buick,156,1650,running,0,160
+1989,E,1989_Donalco_Construction_100,1989_09_E,5,21,19,usa,Ron_Moon,Ron Moon,Matthews Auto Supply / Lifetime Muffler,,Buick,156,1050,running,0,0
+1989,E,1989_Donalco_Construction_100,1989_09_E,6,29,96,usa,Dana_Patten,Dana Patten,U.S. Chrome,,Buick,156,1000,running,0,155
+1989,E,1989_Donalco_Construction_100,1989_09_E,7,6,65,usa,Dean_Chrystal,Dean Chrystal,Dean Chrystal,,Chevrolet,156,800,running,0,150
+1989,E,1989_Donalco_Construction_100,1989_09_E,8,13,12,usa,Dave_Davis,Dave Davis,Caron & Waltz,,Pontiac,156,880,running,0,146
+1989,E,1989_Donalco_Construction_100,1989_09_E,9,30,36,usa,Bobby_Gada,Bobby Gada,Citgo / C-N Electric,,Buick,156,825,running,0,142
+1989,E,1989_Donalco_Construction_100,1989_09_E,10,22,48,usa,Jim_McCallum,Jim McCallum,Northern Tire,,Ford,156,725,running,0,138
+1989,E,1989_Donalco_Construction_100,1989_09_E,11,14,18,usa,Ed_Lavoie,Ed Lavoie,–,,–,156,650,running,0,134
+1989,E,1989_Donalco_Construction_100,1989_09_E,12,35,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,156,735,running,0,130
+1989,E,1989_Donalco_Construction_100,1989_09_E,13,24,33,usa,Ed_St_Angelo_Jr,"Ed St. Angelo, Jr.",D & A Racing,,Buick,156,600,running,0,127
+1989,E,1989_Donalco_Construction_100,1989_09_E,14,32,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Pontiac,156,575,running,0,124
+1989,E,1989_Donalco_Construction_100,1989_09_E,15,39,60,usa,Dale_Shaw,Dale Shaw,Budweiser,,Pontiac,156,650,running,0,121
+1989,E,1989_Donalco_Construction_100,1989_09_E,16,37,50,usa,Bobby_Gahan,Bobby Gahan,Lux Enterprises,,Pontiac,156,525,running,0,118
+1989,E,1989_Donalco_Construction_100,1989_09_E,17,20,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,155,500,running,0,115
+1989,E,1989_Donalco_Construction_100,1989_09_E,18,40,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,155,475,running,0,112
+1989,E,1989_Donalco_Construction_100,1989_09_E,19,11,15,usa,Mike_Rowe,Mike Rowe,O'Connor GMC,,Buick,155,450,running,0,109
+1989,E,1989_Donalco_Construction_100,1989_09_E,20,2,75,usa,Larry_Cates,Larry Cates,Cates Car Connection / RP Bellerase Ent.,,Buick,155,425,running,0,106
+1989,E,1989_Donalco_Construction_100,1989_09_E,21,23,68,usa,Tim_Brackett,Tim Brackett,T-N-T,,Pontiac,155,400,running,0,0
+1989,E,1989_Donalco_Construction_100,1989_09_E,22,34,11,usa,Bob_Healey,Bob Healey,Tobar Construction,,Oldsmobile,155,390,running,0,103
+1989,E,1989_Donalco_Construction_100,1989_09_E,23,9,78,usa,Jeff_Taylor,Jeff Taylor,–,,–,155,375,running,0,0
+1989,E,1989_Donalco_Construction_100,1989_09_E,24,12,13,usa,George_Babb,George Babb,–,,Buick,154,335,running,0,0
+1989,E,1989_Donalco_Construction_100,1989_09_E,25,25,9,usa,Joe_Bessey,Joe Bessey,Cola Transport,,Pontiac,154,320,running,0,100
+1989,E,1989_Donalco_Construction_100,1989_09_E,26,36,22,usa,Dale_Verrill,Dale Verrill,–,,–,153,310,running,0,0
+1989,E,1989_Donalco_Construction_100,1989_09_E,27,10,88,usa,Larry_Caron,Larry Caron,East End Auto,,Buick,153,310,running,0,97
+1989,E,1989_Donalco_Construction_100,1989_09_E,28,41,55,usa,Cory_Newendyke,Cory Newendyke,–,,–,153,305,running,0,0
+1989,E,1989_Donalco_Construction_100,1989_09_E,29,8,39,usa,Lloyd_Gillie,Lloyd Gillie,Gillie's Truck Caps,,Buick,151,300,running,0,94
+1989,E,1989_Donalco_Construction_100,1989_09_E,30,31,77,usa,Bob_Gerry,Bob Gerry,–,,Chevrolet,151,300,running,0,0
+1989,E,1989_Donalco_Construction_100,1989_09_E,31,27,57,usa,J_C_Marsh,J.C. Marsh,Mill Cove Lobster / C.A. Rice Excavating,,Buick,150,275,running,0,91
+1989,E,1989_Donalco_Construction_100,1989_09_E,32,19,27,usa,Jon_Lizotte,Jon Lizotte,–,,–,150,254,running,0,0
+1989,E,1989_Donalco_Construction_100,1989_09_E,33,18,02,usa,Sam_Sessions,Sam Sessions,–,,–,126,240,engine,0,0
+1989,E,1989_Donalco_Construction_100,1989_09_E,34,28,21,usa,Jim_Field,Jim Field,Carl Huston Contractor,,Ford,107,230,oil pan,0,0
+1989,E,1989_Donalco_Construction_100,1989_09_E,35,3,1,usa,Pete_Silva,Pete Silva,Prescott Racing / Better Cable TV,,Pontiac,92,220,crash,0,88
+1989,E,1989_Donalco_Construction_100,1989_09_E,36,4,17,usa,Tracy_Gordon,Tracy Gordon,Tracy Gordon,,Oldsmobile,88,200,crash,0,0
+1989,E,1989_Donalco_Construction_100,1989_09_E,37,38,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Co.,,Buick,68,200,crash,0,85
+1989,E,1989_Donalco_Construction_100,1989_09_E,38,33,69,usa,Jeff_Spraker,Jeff Spraker,Spraker Enterprises,,Oldsmobile,66,200,engine,0,82
+1989,E,1989_Donalco_Construction_100,1989_09_E,39,26,76,usa,Kenny_Robbins,Kenny Robbins,David Smith,,Chevrolet,65,200,transmission,0,0
+1989,E,1989_Donalco_Construction_100,1989_09_E,40,16,64,usa,Blaine_Chapman,Blaine Chapman,–,,–,37,200,crash,0,0
+1989,E,1989_Donalco_Construction_100,1989_09_E,41,5,61,usa,Mike_Olsen,Mike Olsen,Swenson Insurance,,Buick,0,,did not start,0,79
+1989,E,1989_Donalco_Construction_100,1989_09_E,42,42,92,usa,Gregg_Lessard,Gregg Lessard,Automotive Contacts,,Buick,0,,did not start,0,76
+1989,E,1989_Donalco_Construction_100,1989_09_E,43,43,26,usa,Darren_Bernier,Darren Bernier,Darren Bernier,,Oldsmobile,0,,did not start,0,73
+1989,E,1989_Thomas_Chevrolet_150,1989_10_E,1,2,71,usa,Bobby_Dragon,Bobby Dragon,"Henry Shaw, Jr.",,Pontiac,150,6550,running,75,180
+1989,E,1989_Thomas_Chevrolet_150,1989_10_E,2,7,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,150,3125,running,0,170
+1989,E,1989_Thomas_Chevrolet_150,1989_10_E,3,17,69,usa,Jeff_Spraker,Jeff Spraker,Spraker Enterprises,,Oldsmobile,150,2500,running,0,165
+1989,E,1989_Thomas_Chevrolet_150,1989_10_E,4,13,41,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn,,Buick,150,1900,running,0,160
+1989,E,1989_Thomas_Chevrolet_150,1989_10_E,5,1,01,usa,Joey_Kourafas,Joey Kourafas,CRS Racing,,Pontiac,150,1460,running,1,155
+1989,E,1989_Thomas_Chevrolet_150,1989_10_E,6,5,9,usa,Joe_Bessey,Joe Bessey,Cola Transport,,Pontiac,150,1550,running,52,150
+1989,E,1989_Thomas_Chevrolet_150,1989_10_E,7,14,88,usa,Larry_Caron,Larry Caron,East End Auto,,Buick,149,1140,running,0,146
+1989,E,1989_Thomas_Chevrolet_150,1989_10_E,8,9,96,usa,Dana_Patten,Dana Patten,U.S. Chrome,,Buick,149,1080,running,0,142
+1989,E,1989_Thomas_Chevrolet_150,1989_10_E,9,4,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,148,1025,running,22,138
+1989,E,1989_Thomas_Chevrolet_150,1989_10_E,10,18,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,148,1020,running,0,134
+1989,E,1989_Thomas_Chevrolet_150,1989_10_E,11,3,86,usa,Tom_Peck,Tom Peck,–,,–,147,800,–,0,130
+1989,E,1989_Thomas_Chevrolet_150,1989_10_E,12,22,26,usa,Darren_Bernier,Darren Bernier,Darren Bernier,,Oldsmobile,147,750,running,0,127
+1989,E,1989_Thomas_Chevrolet_150,1989_10_E,13,19,11,usa,Bob_Healey,Bob Healey,Bob Healey,,–,146,700,running,0,124
+1989,E,1989_Thomas_Chevrolet_150,1989_10_E,14,20,61,usa,Mike_Olsen,Mike Olsen,Mast Auto Body,,Buick,145,650,running,0,121
+1989,E,1989_Thomas_Chevrolet_150,1989_10_E,15,11,7,usa,Billy_Clark,Billy Clark,Skoal Bandit / Cumberland Farms,,Pontiac,137,700,running,0,118
+1989,E,1989_Thomas_Chevrolet_150,1989_10_E,16,12,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Pontiac,129,550,–,0,115
+1989,E,1989_Thomas_Chevrolet_150,1989_10_E,17,15,12,usa,Dave_Davis,Dave Davis,Davis Brothers / Freeport Auto Supply,,Pontiac,109,500,–,0,112
+1989,E,1989_Thomas_Chevrolet_150,1989_10_E,18,10,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Co.,,Buick,57,480,crash,0,109
+1989,E,1989_Thomas_Chevrolet_150,1989_10_E,19,21,49,usa,Ed_Ferree,Ed Ferree,–,,–,34,470,–,0,106
+1989,E,1989_Thomas_Chevrolet_150,1989_10_E,20,8,36,usa,Bobby_Gada,Bobby Gada,Citgo / C-N Electric,,Pontiac,33,460,crash,0,103
+1989,E,1989_Thomas_Chevrolet_150,1989_10_E,21,16,18,usa,Ed_Lavoie,Ed Lavoie,–,,–,33,450,–,0,100
+1989,E,1989_Thomas_Chevrolet_150,1989_10_E,22,6,60,usa,Dale_Shaw,Dale Shaw,Budweiser,,Oldsmobile,18,400,–,0,97
+1989,E,1989_All-Pro_Auto_Parts_150,1989_11_E,1,1,0,usa,Dick_McCabe,Dick McCabe,Structure & Design / Hi-Torque Engines,,Buick,150,5575,running,150,180
+1989,E,1989_All-Pro_Auto_Parts_150,1989_11_E,2,7,71,usa,Bobby_Dragon,Bobby Dragon,Budweiser,,Pontiac,150,2375,running,0,170
+1989,E,1989_All-Pro_Auto_Parts_150,1989_11_E,3,2,33,usa,Ed_St_Angelo_Jr,"Ed St. Angelo, Jr.",D & A Racing,,Buick,150,1700,running,0,165
+1989,E,1989_All-Pro_Auto_Parts_150,1989_11_E,4,20,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber / True Value,,Chevrolet,150,1570,running,0,160
+1989,E,1989_All-Pro_Auto_Parts_150,1989_11_E,5,3,96,usa,Dana_Patten,Dana Patten,U.S. Chrome,,Buick,150,1210,running,0,155
+1989,E,1989_All-Pro_Auto_Parts_150,1989_11_E,6,6,9,usa,Joe_Bessey,Joe Bessey,Cola Transport,,Pontiac,150,1350,running,0,150
+1989,E,1989_All-Pro_Auto_Parts_150,1989_11_E,7,10,7,usa,Billy_Clark,Billy Clark,Skoal Bandit / Cumberland Farms,,Pontiac,150,1140,running,0,146
+1989,E,1989_All-Pro_Auto_Parts_150,1989_11_E,8,4,01,usa,Joey_Kourafas,Joey Kourafas,CRS Racing,,Pontiac,150,880,running,0,142
+1989,E,1989_All-Pro_Auto_Parts_150,1989_11_E,9,13,12,usa,Dave_Davis,Dave Davis,Davis Brothers,,Pontiac,150,825,running,0,138
+1989,E,1989_All-Pro_Auto_Parts_150,1989_11_E,10,15,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,149,820,running,0,134
+1989,E,1989_All-Pro_Auto_Parts_150,1989_11_E,11,22,88,usa,Larry_Caron,Larry Caron,East End Auto,,Buick,149,715,running,0,130
+1989,E,1989_All-Pro_Auto_Parts_150,1989_11_E,12,9,50,usa,Bobby_Gahan,Bobby Gahan,Gahan Racing,,Pontiac,149,475,running,0,127
+1989,E,1989_All-Pro_Auto_Parts_150,1989_11_E,13,14,36,usa,Bobby_Gada,Bobby Gada,Citgo / C-N Electric,,Pontiac,149,530,running,0,124
+1989,E,1989_All-Pro_Auto_Parts_150,1989_11_E,14,17,59,usa,Roger_Godin,Roger Godin,Renault Tool / Steve's Collision,,Buick,149,400,running,0,121
+1989,E,1989_All-Pro_Auto_Parts_150,1989_11_E,15,16,18,usa,Ed_Lavoie,Ed Lavoie,Riverside Park,,Buick,148,380,running,0,118
+1989,E,1989_All-Pro_Auto_Parts_150,1989_11_E,16,19,61,usa,Mike_Olsen,Mike Olsen,Mast Auto Body,,Buick,148,370,running,0,115
+1989,E,1989_All-Pro_Auto_Parts_150,1989_11_E,17,21,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,148,350,running,0,112
+1989,E,1989_All-Pro_Auto_Parts_150,1989_11_E,18,24,48,usa,Jim_McCallum,Jim McCallum,Northern Tire,,Ford,146,340,running,0,109
+1989,E,1989_All-Pro_Auto_Parts_150,1989_11_E,19,12,41,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn,,Buick,140,730,running,0,106
+1989,E,1989_All-Pro_Auto_Parts_150,1989_11_E,20,8,60,usa,Dale_Shaw,Dale Shaw,Budweiser,,Pontiac,103,320,–,0,103
+1989,E,1989_All-Pro_Auto_Parts_150,1989_11_E,21,11,75,usa,Larry_Cates,Larry Cates,Cates Car Connection,,Buick,78,310,–,0,100
+1989,E,1989_All-Pro_Auto_Parts_150,1989_11_E,22,5,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Pontiac,55,300,–,0,97
+1989,E,1989_All-Pro_Auto_Parts_150,1989_11_E,23,18,3,usa,Herb_Simpson,Herb Simpson,–,,Oldsmobile,5,300,–,0,94
+1989,E,1989_All-Pro_Auto_Parts_150,1989_11_E,24,23,69,usa,Jeff_Spraker,Jeff Spraker,Spraker Racing,,Oldsmobile,0,300,did not start,0,0
+1989,E,1989_Delia_Pontiac_150,1989_12_E,1,9,88,usa,Larry_Caron,Larry Caron,East End Auto,,Buick,150,6075,running,45,180
+1989,E,1989_Delia_Pontiac_150,1989_12_E,2,5,0,usa,Dick_McCabe,Dick McCabe,Structure & Design Inc.,,Buick,150,3820,running,0,170
+1989,E,1989_Delia_Pontiac_150,1989_12_E,3,7,96,usa,Dana_Patten,Dana Patten,U.S. Chrome,,Buick,150,2050,running,0,165
+1989,E,1989_Delia_Pontiac_150,1989_12_E,4,13,7,usa,Billy_Clark,Billy Clark,Skoal Bandit / Cumberland Farms,,Pontiac,150,1420,running,0,160
+1989,E,1989_Delia_Pontiac_150,1989_12_E,5,17,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,150,1360,running,0,155
+1989,E,1989_Delia_Pontiac_150,1989_12_E,6,1,01,usa,Joey_Kourafas,Joey Kourafas,CRS Racing,,Pontiac,149,1150,running,37,150
+1989,E,1989_Delia_Pontiac_150,1989_12_E,7,18,86,usa,Gary_Schwab,Gary Schwab,–,,–,149,950,–,0,0
+1989,E,1989_Delia_Pontiac_150,1989_12_E,8,2,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Pontiac,149,850,running,0,146
+1989,E,1989_Delia_Pontiac_150,1989_12_E,9,14,61,usa,Mike_Olsen,Mike Olsen,Mast Auto Body,,Buick,148,720,running,0,142
+1989,E,1989_Delia_Pontiac_150,1989_12_E,10,10,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,148,820,running,0,138
+1989,E,1989_Delia_Pontiac_150,1989_12_E,11,8,36,usa,Bobby_Gada,Bobby Gada,Citgo / C-N Electric,,Pontiac,146,715,running,0,134
+1989,E,1989_Delia_Pontiac_150,1989_12_E,12,12,65,usa,Dean_Chrystal,Dean Chrystal,Dean Chrystal,,Chevrolet,145,550,–,0,130
+1989,E,1989_Delia_Pontiac_150,1989_12_E,13,20,17,usa,Tom_Price,Tom Price,–,,–,145,500,–,0,0
+1989,E,1989_Delia_Pontiac_150,1989_12_E,14,4,12,usa,Dave_Davis,Dave Davis,Davis Brothers,,Pontiac,133,550,–,0,127
+1989,E,1989_Delia_Pontiac_150,1989_12_E,15,6,41,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn,,Buick,120,930,running,0,124
+1989,E,1989_Delia_Pontiac_150,1989_12_E,16,3,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,105,420,running,68,121
+1989,E,1989_Delia_Pontiac_150,1989_12_E,17,15,39,usa,Lloyd_Gillie,Lloyd Gillie,Gillie's Truck Caps,,Buick,84,410,–,0,118
+1989,E,1989_Delia_Pontiac_150,1989_12_E,18,19,54,usa,Buck_Catalano,Buck Catalano,–,,–,64,400,–,0,0
+1989,E,1989_Delia_Pontiac_150,1989_12_E,19,11,69,usa,Jeff_Spraker,Jeff Spraker,Spraker Racing,,Oldsmobile,43,390,vibration,0,115
+1989,E,1989_Delia_Pontiac_150,1989_12_E,20,16,72,usa,Alan_Strobridge,Alan Strobridge,Strobridge Racing,,Chevrolet,38,380,–,0,112
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,1,10,41,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn / AEU Rentals,,Buick,336,35075,running,101,180
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,2,3,0,usa,Dick_McCabe,Dick McCabe,Structure & Design Inc.,,Buick,336,18875,running,28,170
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,3,1,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Pontiac,336,10650,running,0,165
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,4,9,6,usa,Tommy_Houston,Tommy Houston,Southern Biscuit Flour,,Buick,336,16500,running,0,160
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,5,13,7,usa,Billy_Clark,Billy Clark,Skoal Bandit / Cumberland Farms,,Pontiac,336,5850,running,0,155
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,6,43,09,usa,Ricky_Craven,Ricky Craven,Franklin Glass / EJP,,Buick,336,5750,running,19,150
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,7,16,57,usa,Robbie_Crouch,Robbie Crouch,Mill Cove Lobster / C.A. Rice,,Buick,336,2950,running,0,146
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,8,21,80,usa,Morgan_Shepherd,Morgan Shepherd,Budweiser,,Pontiac,336,10400,running,0,142
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,9,14,99,usa,Tommy_Ellis,Tommy Ellis,Goo Goo Clusters,,Buick,335,9050,–,0,138
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,10,25,91,usa,Rusty_Wallace,Rusty Wallace,Cola Transport / SATco Stores / Grondin,,Pontiac,335,7925,–,0,134
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,11,20,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,335,2175,running,0,130
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,12,6,63,usa,Chuck_Bown,Chuck Bown,Nescafe Classic,,Pontiac,334,7025,–,0,127
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,13,32,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,334,1675,running,0,124
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,14,34,27,usa,Jon_Lizotte,Jon Lizotte,Emerson / NAPA / Lincoln St. Radiator,,Pontiac,334,1910,–,0,0
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,15,4,15,usa,Mike_Rowe,Mike Rowe,O'Connor GMC,,Buick,334,4175,running,59,121
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,16,2,01,usa,Joey_Kourafas,Joey Kourafas,CRS Racing,,Pontiac,332,5725,–,59,118
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,17,18,61,usa,Mike_Olsen,Mike Olsen,Mast Auto Body,,Buick,332,1825,–,0,115
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,18,37,36,usa,Bobby_Gada,Bobby Gada,Ed's Auto Machine / C-N Electric,,Pontiac,331,1800,running,0,112
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,19,24,02,usa,Sam_Sessions,Sam Sessions,Bill's / Irving,,Pontiac,331,1585,–,0,0
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,20,39,17,usa,Tracy_Gordon,Tracy Gordon,Tracy Gordon,,Oldsmobile,330,1475,running,0,0
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,21,30,8,usa,Harry_Gant,Harry Gant,Auto Body,,Oldsmobile,329,5365,–,0,109
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,22,26,12,usa,Dave_Davis,Dave Davis,Casco Bay / Allied Van Lines,,Pontiac,328,1750,–,0,106
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,23,23,22,usa,Leland_Kangas,Leland Kangas,–,,Buick,326,1340,–,0,0
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,24,40,19,usa,Ron_Moon,Ron Moon,Matthews Auto Supply / Lifetime Muffler,,Buick,321,1335,–,0,0
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,25,35,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,307,1730,running,0,103
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,26,15,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,305,1725,–,0,100
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,27,36,88,usa,Larry_Caron,Larry Caron,East End Auto,,Buick,302,1720,–,0,97
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,28,29,96,usa,Dana_Patten,Dana Patten,U.S. Chrome,,Buick,302,1715,–,0,94
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,29,7,9,usa,Joe_Bessey,Joe Bessey,Cola Transport / SATco / Grondin,,Pontiac,301,1710,–,0,91
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,30,22,33,usa,Ed_St_Angelo_Jr,"Ed St. Angelo, Jr.",D & A Racing,,Buick,299,1305,–,0,88
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,31,19,56,usa,Dale_Verrill,Dale Verrill,–,,Pontiac,249,1300,–,0,0
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,32,11,71,usa,Bobby_Dragon,Bobby Dragon,Budweiser,,Pontiac,237,13200,–,70,85
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,33,5,1,usa,Pete_Silva,Pete Silva,Prescott Racing / Better Cable TV,,Pontiac,192,1200,–,0,82
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,34,28,92,usa,Gregg_Lessard,Gregg Lessard,Automotive Contacts,,Buick,100,1200,–,0,79
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,35,31,13,usa,George_Babb,George Babb,–,,Buick,87,1200,–,0,0
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,36,42,00,canada,Roger_Laperle,Roger Laperle,Coors / St. Pierre Auction,,Pontiac,85,1200,–,0,76
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,37,17,21,usa,Jim_Field,Jim Field,Carl Huston Contractor / Rowe Fordland,,Ford,77,1200,–,0,0
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,38,12,60,usa,Dale_Shaw,Dale Shaw,Budweiser,,Pontiac,53,1600,–,0,73
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,39,8,66,usa,Randy_LaJoie,Randy LaJoie,Curtys / Church Const.,,Pontiac,51,1200,–,0,70
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,40,33,83,usa,Rod_Frye,Rod Frye,–,,Buick,28,1200,–,0,0
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,41,27,28,usa,Davey_Allison,Davey Allison,East End Auto,,Buick,21,1200,–,0,67
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,42,41,2,usa,Karen_Schulz,Karen Schulz,Maine Pontiac Dealers,,Pontiac,18,1200,–,0,64
+1989,E,1989_True_Value_Hardware_Oxford_250,1989_13_E,43,38,69,usa,Jeff_Spraker,Jeff Spraker,Spraker Racing,,Oldsmobile,5,1200,crash,0,61
+1989,E,1989_B.J._Maurer_Ford_150,1989_14_E,1,6,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,150,6875,running,105,180
+1989,E,1989_B.J._Maurer_Ford_150,1989_14_E,2,4,41,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn,,Buick,150,3525,running,0,170
+1989,E,1989_B.J._Maurer_Ford_150,1989_14_E,3,8,96,usa,Dana_Patten,Dana Patten,U.S. Chrome,,Buick,150,2400,running,0,165
+1989,E,1989_B.J._Maurer_Ford_150,1989_14_E,4,10,71,usa,Bobby_Dragon,Bobby Dragon,"Henry Shaw, Jr.",,Pontiac,150,1750,running,0,160
+1989,E,1989_B.J._Maurer_Ford_150,1989_14_E,5,13,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Pontiac,150,1460,running,0,155
+1989,E,1989_B.J._Maurer_Ford_150,1989_14_E,6,7,1,usa,Pete_Silva,Pete Silva,Prescott Racing / Better Cable TV,,Pontiac,150,1100,running,0,150
+1989,E,1989_B.J._Maurer_Ford_150,1989_14_E,7,2,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,150,1140,running,0,146
+1989,E,1989_B.J._Maurer_Ford_150,1989_14_E,8,14,7,usa,Billy_Clark,Billy Clark,Skoal Bandit / Cumberland Farms,,Pontiac,150,1080,running,0,142
+1989,E,1989_B.J._Maurer_Ford_150,1989_14_E,9,11,88,usa,Larry_Caron,Larry Caron,East End Auto,,Oldsmobile,150,1025,running,0,138
+1989,E,1989_B.J._Maurer_Ford_150,1989_14_E,10,16,0,usa,Dick_McCabe,Dick McCabe,Structure & Design Inc.,,Buick,150,1020,running,0,134
+1989,E,1989_B.J._Maurer_Ford_150,1989_14_E,11,9,36,usa,Bobby_Gada,Bobby Gada,Vinny's Pizza Haven / C-N Electric,,Pontiac,150,910,running,0,130
+1989,E,1989_B.J._Maurer_Ford_150,1989_14_E,12,20,61,usa,Mike_Olsen,Mike Olsen,Mast Auto Body,,Buick,149,860,running,0,127
+1989,E,1989_B.J._Maurer_Ford_150,1989_14_E,13,21,65,usa,Dean_Chrystal,Dean Chrystal,Dean Chrystal,,Chevrolet,149,700,–,0,124
+1989,E,1989_B.J._Maurer_Ford_150,1989_14_E,14,17,18,usa,Ed_Lavoie,Ed Lavoie,–,,–,149,650,running,0,121
+1989,E,1989_B.J._Maurer_Ford_150,1989_14_E,15,12,12,usa,Dave_Davis,Dave Davis,Casco Bay / Allied Van Lines,,Pontiac,147,700,–,0,118
+1989,E,1989_B.J._Maurer_Ford_150,1989_14_E,16,18,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,125,550,running,0,115
+1989,E,1989_B.J._Maurer_Ford_150,1989_14_E,17,22,5,usa,Dave_Gould,Dave Gould,–,,–,122,500,–,0,112
+1989,E,1989_B.J._Maurer_Ford_150,1989_14_E,18,1,60,usa,Dale_Shaw,Dale Shaw,Budweiser,,Oldsmobile,119,480,–,45,109
+1989,E,1989_B.J._Maurer_Ford_150,1989_14_E,19,5,01,usa,Joey_Kourafas,Joey Kourafas,CRS Racing,,Pontiac,112,770,–,0,106
+1989,E,1989_B.J._Maurer_Ford_150,1989_14_E,20,15,57,usa,J_C_Marsh,J.C. Marsh,Mill Cove Lobster / C.A. Rice Excavating,,Buick,111,460,–,0,103
+1989,E,1989_B.J._Maurer_Ford_150,1989_14_E,21,19,81,usa,Ed_Ferree,Ed Ferree,–,,–,81,450,–,0,100
+1989,E,1989_B.J._Maurer_Ford_150,1989_14_E,22,23,69,usa,Jeff_Spraker,Jeff Spraker,Spraker Racing,,Oldsmobile,48,400,rear end,0,97
+1989,E,1989_B.J._Maurer_Ford_150,1989_14_E,23,3,9,usa,Joe_Bessey,Joe Bessey,Cola Transport,,Pontiac,35,380,–,0,94
+1989,E,1989_Snap-On_Tools_100,1989_15_E,1,1,01,usa,Joey_Kourafas,Joey Kourafas,CRS Racing,,Pontiac,113,7650,running,113,180
+1989,E,1989_Snap-On_Tools_100,1989_15_E,2,3,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,113,3375,running,0,170
+1989,E,1989_Snap-On_Tools_100,1989_15_E,3,10,17,usa,Tracy_Gordon,Tracy Gordon,Tracy Gordon,,Oldsmobile,113,2100,running,0,0
+1989,E,1989_Snap-On_Tools_100,1989_15_E,4,11,71,usa,Bobby_Dragon,Bobby Dragon,"Henry Shaw, Jr.",,Pontiac,113,1200,running,0,165
+1989,E,1989_Snap-On_Tools_100,1989_15_E,5,2,15,usa,Mike_Rowe,Mike Rowe,O'Connor GMC,,Buick,113,1100,running,0,160
+1989,E,1989_Snap-On_Tools_100,1989_15_E,6,18,41,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn,,Buick,113,1250,running,0,155
+1989,E,1989_Snap-On_Tools_100,1989_15_E,7,26,27,usa,Jon_Lizotte,Jon Lizotte,–,,–,113,800,running,0,0
+1989,E,1989_Snap-On_Tools_100,1989_15_E,8,25,12,usa,Dave_Davis,Dave Davis,Casco Bay / Allied Van Lines,,Pontiac,113,880,running,0,150
+1989,E,1989_Snap-On_Tools_100,1989_15_E,9,19,7,usa,Billy_Clark,Billy Clark,Skoal Bandit / Cumberland Farms,,Pontiac,113,825,running,0,146
+1989,E,1989_Snap-On_Tools_100,1989_15_E,10,15,19,usa,Ron_Moon,Ron Moon,Matthews Auto Supply / Lifetime Muffler,,Buick,113,725,running,0,0
+1989,E,1989_Snap-On_Tools_100,1989_15_E,11,9,77,usa,Bob_Gerry,Bob Gerry,–,,Chevrolet,113,650,running,0,0
+1989,E,1989_Snap-On_Tools_100,1989_15_E,12,13,68,usa,Tim_Brackett,Tim Brackett,Tim Brackett,,Pontiac,113,625,running,0,0
+1989,E,1989_Snap-On_Tools_100,1989_15_E,13,20,88,usa,Larry_Caron,Larry Caron,East End Auto,,Oldsmobile,113,705,running,0,142
+1989,E,1989_Snap-On_Tools_100,1989_15_E,14,22,80,usa,Ricky_Craven,Ricky Craven,–,,–,113,575,running,0,138
+1989,E,1989_Snap-On_Tools_100,1989_15_E,15,7,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Pontiac,113,650,running,0,134
+1989,E,1989_Snap-On_Tools_100,1989_15_E,16,8,1,usa,Pete_Silva,Pete Silva,Prescott Racing / Better Cable TV,,Pontiac,113,525,running,0,130
+1989,E,1989_Snap-On_Tools_100,1989_15_E,17,40,21,usa,Jim_Field,Jim Field,Huston Racing,,Ford,113,600,running,0,0
+1989,E,1989_Snap-On_Tools_100,1989_15_E,18,17,13,usa,George_Babb,George Babb,–,,Buick,111,475,running,0,0
+1989,E,1989_Snap-On_Tools_100,1989_15_E,19,28,65,usa,Dean_Chrystal,Dean Chrystal,Dean Chrystal,,Chevrolet,111,450,–,0,127
+1989,E,1989_Snap-On_Tools_100,1989_15_E,20,14,18,usa,Ed_Lavoie,Ed Lavoie,–,,–,111,425,running,0,124
+1989,E,1989_Snap-On_Tools_100,1989_15_E,21,35,78,usa,Jeff_Taylor,Jeff Taylor,–,,–,111,400,–,0,0
+1989,E,1989_Snap-On_Tools_100,1989_15_E,22,31,36,usa,Bobby_Gada,Bobby Gada,Ed's Auto Machine / C-N Electric,,Buick,111,390,running,0,121
+1989,E,1989_Snap-On_Tools_100,1989_15_E,23,38,26,usa,Darren_Bernier,Darren Bernier,Darren Bernier,,Oldsmobile,111,375,–,0,0
+1989,E,1989_Snap-On_Tools_100,1989_15_E,24,32,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,111,335,–,0,118
+1989,E,1989_Snap-On_Tools_100,1989_15_E,25,30,50,usa,Bobby_Gahan,Bobby Gahan,Lux Enterprises,,Pontiac,111,320,running,0,115
+1989,E,1989_Snap-On_Tools_100,1989_15_E,26,24,90,usa,Kenny_Wilkenson,Kenny Wilkenson,–,,–,111,315,–,0,0
+1989,E,1989_Snap-On_Tools_100,1989_15_E,27,39,61,usa,Mike_Olsen,Mike Olsen,Mast Auto Body,,Buick,111,310,running,0,112
+1989,E,1989_Snap-On_Tools_100,1989_15_E,28,4,48,usa,Jim_McCallum,Jim McCallum,Northern Tire,,Ford,110,305,running,0,109
+1989,E,1989_Snap-On_Tools_100,1989_15_E,29,27,92,usa,Gregg_Lessard,Gregg Lessard,Automotive Contacts,,Buick,110,300,running,0,106
+1989,E,1989_Snap-On_Tools_100,1989_15_E,30,21,56,usa,Dale_Verrill,Dale Verrill,–,,Pontiac,110,300,–,0,0
+1989,E,1989_Snap-On_Tools_100,1989_15_E,31,36,2,usa,David_Smith,David Smith,–,,–,109,275,–,0,103
+1989,E,1989_Snap-On_Tools_100,1989_15_E,32,12,22,usa,Leland_Kangas,Leland Kangas,–,,Buick,109,250,–,0,100
+1989,E,1989_Snap-On_Tools_100,1989_15_E,33,33,96,usa,Dana_Patten,Dana Patten,U.S. Chrome,,Buick,108,240,–,0,97
+1989,E,1989_Snap-On_Tools_100,1989_15_E,34,5,0,usa,Dick_McCabe,Dick McCabe,Structure & Design Inc.,,Buick,105,230,–,0,94
+1989,E,1989_Snap-On_Tools_100,1989_15_E,35,34,75,usa,Larry_Cates,Larry Cates,Martin LeBlanc Builder,,Buick,98,220,–,0,91
+1989,E,1989_Snap-On_Tools_100,1989_15_E,36,6,9,usa,Joe_Bessey,Joe Bessey,Cola Transport,,Pontiac,93,200,–,0,88
+1989,E,1989_Snap-On_Tools_100,1989_15_E,37,16,60,usa,Dale_Shaw,Dale Shaw,Budweiser,,Pontiac,81,200,–,0,85
+1989,E,1989_Snap-On_Tools_100,1989_15_E,38,23,02,usa,Sam_Sessions,Sam Sessions,–,,–,53,200,–,0,0
+1989,E,1989_Snap-On_Tools_100,1989_15_E,39,29,04,usa,Jay_Currier,Jay Currier,Currier Construction,,Buick,7,200,–,0,82
+1989,E,1989_Snap-On_Tools_100,1989_15_E,40,37,72,usa,Stub_Fadden,Stub Fadden,Strobridge Racing,,Chevrolet,1,200,crash,0,79
+1989,E,1989_Kroger_200,1989_16_E,1,1,30,usa,Michael_Waltrip,Michael Waltrip   (Busch),Country Time Lemonade,,Pontiac,200,12225,running,24,0
+1989,E,1989_Kroger_200,1989_16_E,2,4,1,usa,Mark_Martin,Mark Martin   (Busch),Carolina Ford Dealers,,Ford,200,5100,running,20,0
+1989,E,1989_Kroger_200,1989_16_E,3,22,6,usa,Tommy_Houston,Tommy Houston   (Busch),Southern Biscuit Flour,,Buick,200,5950,running,58,0
+1989,E,1989_Kroger_200,1989_16_E,4,27,86,usa,Dana_Patten,Dana Patten,U.S. Chrome,,Buick,200,2200,running,0,160
+1989,E,1989_Kroger_200,1989_16_E,5,19,3,usa,Dale_Earnhardt,Dale Earnhardt   (Busch),GM Goodwrench,,Chevrolet,200,2500,running,0,0
+1989,E,1989_Kroger_200,1989_16_E,6,14,9,usa,Steve_Grissom,Steve Grissom   (Busch),Texas Pete Sauces,,Pontiac,200,2150,running,0,0
+1989,E,1989_Kroger_200,1989_16_E,7,3,2,usa,L_D_Ottinger,L.D. Ottinger   (Busch),Detroit Gasket,,Pontiac,199,3500,running,25,0
+1989,E,1989_Kroger_200,1989_16_E,8,2,63,usa,Chuck_Bown,Chuck Bown   (Busch),Nescafe Classic,,Pontiac,199,3350,running,73,0
+1989,E,1989_Kroger_200,1989_16_E,9,18,96,usa,Tom_Peck,Tom Peck   (Busch),Thomas Chevrolet,,Oldsmobile,199,1800,running,0,0
+1989,E,1989_Kroger_200,1989_16_E,10,7,90,usa,Morgan_Shepherd,Morgan Shepherd   (Busch),Daily's Fruit Juices,,Buick,199,1200,running,0,0
+1989,E,1989_Kroger_200,1989_16_E,11,9,56,usa,Ronald_Cooper,Ronald Cooper   (Busch),Speedway Waste Disposal,,Buick,199,2850,running,0,0
+1989,E,1989_Kroger_200,1989_16_E,12,21,34,usa,Randy_LaJoie,Randy LaJoie   (Busch),Cicci Racing,,Buick,199,2500,running,0,0
+1989,E,1989_Kroger_200,1989_16_E,13,12,36,usa,Kenny_Wallace,Kenny Wallace   (Busch),Cox Treated Lumber,,Pontiac,199,1475,running,0,0
+1989,E,1989_Kroger_200,1989_16_E,14,8,25,usa,Rob_Moroso,Rob Moroso   (Busch),Swisher Sweets,,Oldsmobile,198,2700,running,0,0
+1989,E,1989_Kroger_200,1989_16_E,15,11,99,usa,Tommy_Ellis,Tommy Ellis   (Busch),Goo Goo Clusters,,Buick,198,3425,running,0,0
+1989,E,1989_Kroger_200,1989_16_E,16,36,12,usa,Jeff_Burton,Jeff Burton   (Busch),Burton Autosports,,Pontiac,198,1400,running,0,0
+1989,E,1989_Kroger_200,1989_16_E,17,20,8,usa,Bobby_Hamilton,Bobby Hamilton   (Busch),Lighting & Fans,,Buick,198,1380,running,0,0
+1989,E,1989_Kroger_200,1989_16_E,18,23,42,usa,Elton_Sawyer,Elton Sawyer   (Busch),Sawyer Racing,,Chevrolet,198,1575,running,0,0
+1989,E,1989_Kroger_200,1989_16_E,19,24,11,usa,Jack_Ingram,Jack Ingram   (Busch),Skoal,,Chevrolet,197,2600,running,0,0
+1989,E,1989_Kroger_200,1989_16_E,20,28,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,197,1540,running,0,103
+1989,E,1989_Kroger_200,1989_16_E,21,36,24,usa,Joe_Thurman,Joe Thurman   (Busch),Thurman Enterprises,,Ford,197,1320,running,0,0
+1989,E,1989_Kroger_200,1989_16_E,22,32,62,usa,John_Linville,John Linville   (Busch),Linville Racing,,Oldsmobile,196,1510,running,0,0
+1989,E,1989_Kroger_200,1989_16_E,23,33,80,usa,Brandon_Baker,Brandon Baker   (Busch),Days Inn Special,,Pontiac,196,1500,running,0,0
+1989,E,1989_Kroger_200,1989_16_E,24,13,41,usa,Jamie_Aube,Jamie Aube,Mountain Racing,,Buick,189,2045,running,0,91
+1989,E,1989_Kroger_200,1989_16_E,25,10,47,usa,Billy_Standridge,Billy Standridge   (Busch),Standridge Auto Parts,,Pontiac,158,1290,running,0,0
+1989,E,1989_Kroger_200,1989_16_E,26,17,70,usa,Jimmy_Hensley,Jimmy Hensley   (Busch),Huffman Racing,,Buick,147,1285,engine,0,0
+1989,E,1989_Kroger_200,1989_16_E,27,29,01,usa,Joey_Kourafas,Joey Kourafas,CRS Racing,,Pontiac,135,1480,engine,0,82
+1989,E,1989_Kroger_200,1989_16_E,28,5,79,usa,Dave_Rezendes,Dave Rezendes   (Busch),"K.R. Rezendes, Inc.",,Oldsmobile,134,1275,engine,0,0
+1989,E,1989_Kroger_200,1989_16_E,29,6,28,usa,Davey_Allison,Davey Allison   (Busch),Texaco Antifreeze,,Buick,115,775,overheating,0,0
+1989,E,1989_Kroger_200,1989_16_E,30,15,59,usa,Robert_Pressley,Robert Pressley   (Busch),Brad Daugherty,,Oldsmobile,115,1275,engine,0,0
+1989,E,1989_Kroger_200,1989_16_E,31,16,52,usa,Ken_Schrader,Ken Schrader   (Busch),Red Baron Frozen Pizza,,Chevrolet,106,775,overheating,0,0
+1989,E,1989_Kroger_200,1989_16_E,32,34,17,usa,Darrell_Waltrip,Darrell Waltrip   (Busch),Exxon Superflo,,Chevrolet,61,1025,overheating,0,0
+1989,E,1989_Kroger_200,1989_16_E,33,31,69,usa,Jeff_Spraker,Jeff Spraker,Highlands Suite Hotel,,Oldsmobile,51,1475,engine,0,64
+1989,E,1989_Kroger_200,1989_16_E,34,30,19,usa,Joe_Bessey,Joe Bessey,Labrecque Construction,,Pontiac,50,1475,crash,0,61
+1989,E,1989_Kroger_200,1989_16_E,35,25,22,usa,Rick_Mast,Rick Mast   (Busch),A.G. Dillard,,Buick,6,2725,ignition,0,0
+1989,E,1989_Kroger_200,1989_16_E,36,35,81,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.   (Busch)",Rose's Stores,,Buick,5,775,engine,0,0
+1989,E,1989_Busch_Twin_100s,1989_17_E,1,6,71,usa,Bobby_Dragon,Bobby Dragon,Budweiser,,Pontiac,100,6250,running,90,180
+1989,E,1989_Busch_Twin_100s,1989_17_E,2,1,7,usa,Billy_Clark,Billy Clark,Skoal Bandit / Cumberland Farms,,Pontiac,100,3075,running,10,170
+1989,E,1989_Busch_Twin_100s,1989_17_E,3,12,9,usa,Joe_Bessey,Joe Bessey,Cola Transport / ADAP,,Pontiac,100,2100,running,0,165
+1989,E,1989_Busch_Twin_100s,1989_17_E,4,2,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,100,1720,running,0,160
+1989,E,1989_Busch_Twin_100s,1989_17_E,5,4,96,usa,Dana_Patten,Dana Patten,U.S. Chrome,,Buick,100,1260,running,0,155
+1989,E,1989_Busch_Twin_100s,1989_17_E,6,9,12,usa,Dave_Davis,Dave Davis,Casco Bay / Allied Van Lines,,Pontiac,100,1050,running,0,150
+1989,E,1989_Busch_Twin_100s,1989_17_E,7,7,41,usa,Jamie_Aube,Jamie Aube,EJP / Mountain Racing,,Buick,100,1200,running,0,146
+1989,E,1989_Busch_Twin_100s,1989_17_E,8,8,0,usa,Dick_McCabe,Dick McCabe,Structure & Design Inc.,,Buick,100,830,running,0,142
+1989,E,1989_Busch_Twin_100s,1989_17_E,9,10,18,usa,Ed_Lavoie,Ed Lavoie,Riverside Park,,Oldsmobile,100,750,running,0,138
+1989,E,1989_Busch_Twin_100s,1989_17_E,10,21,8,usa,Tom_Bolles,Tom Bolles,Bolles Chrysler-Jeep-Eagle,,Oldsmobile,100,650,running,0,134
+1989,E,1989_Busch_Twin_100s,1989_17_E,11,15,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,100,665,running,0,130
+1989,E,1989_Busch_Twin_100s,1989_17_E,12,11,48,usa,Jim_McCallum,Jim McCallum,Northern Tire,,Ford,100,525,running,0,127
+1989,E,1989_Busch_Twin_100s,1989_17_E,13,30,88,usa,Larry_Caron,Larry Caron,East End Auto,,Buick,100,605,running,0,122
+1989,E,1989_Busch_Twin_100s,1989_17_E,14,16,50,usa,Bobby_Gahan,Bobby Gahan,R&L,,Pontiac,99,475,running,0,121
+1989,E,1989_Busch_Twin_100s,1989_17_E,15,22,59,usa,Bob_Healey,Bob Healey,Renault Tool & Machine/Lynch Wholesale Parts,,Pontiac,99,565,running,0,118
+1989,E,1989_Busch_Twin_100s,1989_17_E,16,14,36,usa,Bobby_Gada,Bobby Gada,Ed's Auto Machine / C-N Electric,,Pontiac,99,460,running,0,115
+1989,E,1989_Busch_Twin_100s,1989_17_E,17,26,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt,,Pontiac,99,455,running,0,112
+1989,E,1989_Busch_Twin_100s,1989_17_E,18,5,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Pontiac,98,450,running,0,109
+1989,E,1989_Busch_Twin_100s,1989_17_E,19,18,65,usa,Dean_Chrystal,Dean Chrystal,Chrystal Racing,,Chevrolet,98,440,running,0,106
+1989,E,1989_Busch_Twin_100s,1989_17_E,20,23,19,usa,Ed_Carroll,Ed Carroll,Riverside Park,,Buick,97,430,running,0,103
+1989,E,1989_Busch_Twin_100s,1989_17_E,21,29,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,97,420,running,0,100
+1989,E,1989_Busch_Twin_100s,1989_17_E,22,28,72,usa,Alan_Strobridge,Alan Strobridge,Strobridge Racing,,Chevrolet,96,410,–,0,97
+1989,E,1989_Busch_Twin_100s,1989_17_E,23,27,75,usa,Larry_Cates,Larry Cates,Cates Car Connection,,Buick,90,400,–,0,94
+1989,E,1989_Busch_Twin_100s,1989_17_E,24,24,84,usa,Brian_Weber,Brian Weber,MacNamara Buick,,Buick,87,360,–,0,91
+1989,E,1989_Busch_Twin_100s,1989_17_E,25,13,60,usa,Dale_Shaw,Dale Shaw,Budweiser,,Oldsmobile,84,350,–,0,88
+1989,E,1989_Busch_Twin_100s,1989_17_E,26,19,61,usa,Mike_Olsen,Mike Olsen,Mast Auto Body,,Buick,71,350,–,0,85
+1989,E,1989_Busch_Twin_100s,1989_17_E,27,3,1,usa,Pete_Silva,Pete Silva,Prescott Racing / Better Cable TV,,Pontiac,65,350,–,0,82
+1989,E,1989_Busch_Twin_100s,1989_17_E,28,31,99,usa,Jeff_Kazmierski,Jeff Kazmierski,EMH Trucking / JD Welding & Fab.,,Buick,55,350,crash,0,79
+1989,E,1989_Busch_Twin_100s,1989_17_E,29,17,92,usa,Gregg_Lessard,Gregg Lessard,Automotive Contacts,,Buick,44,350,–,0,76
+1989,E,1989_Busch_Twin_100s,1989_17_E,30,25,00,usa,Geoffrey_Bodine,Geoffrey Bodine,Budweiser,,Pontiac,24,350,–,0,73
+1989,E,1989_Busch_Twin_100s,1989_17_E,31,20,62,usa,Ken_Schrader,Ken Schrader,Red Baron Pizza,,Chevrolet,23,350,crash,0,70
+1989,E,1989_Busch_Twin_100s,1989_17_E,32,32,5,usa,Dave_Gould,Dave Gould,Chrysler / Mopar Performence / Autotrans,,Chrysler,13,350,–,0,67
+1989,E,1989_Busch_Twin_100s,1989_17_E,33,33,01,usa,Joey_Kourafas,Joey Kourafas,CRS Racing,,Pontiac,1,350,gearbox,0,64
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,1,11,15,usa,Mike_Rowe,Mike Rowe,O'Connor GMC,,Pontiac,157,7050,running,–,180
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,2,3,01,usa,Joey_Kourafas,Joey Kourafas,CRS Racing,,Pontiac,157,3450,running,–,170
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,3,4,17,usa,Tracy_Gordon,Tracy Gordon,Tracy Gordon,,Oldsmobile,157,2100,running,–,0
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,4,8,71,usa,Bobby_Dragon,Bobby Dragon,"Henry Shaw, Jr.",,Pontiac,157,1420,running,–,165
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,5,19,19,usa,Ron_Moon,Ron Moon,Matthews Auto Supply / Lifetime Muffler,,Buick,157,1200,running,–,0
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,6,2,0,usa,Dick_McCabe,Dick McCabe,Structure & Design Inc.,,Buick,157,1200,running,–,160
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,7,10,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Buick,157,940,running,–,155
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,8,22,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Pontiac,157,880,running,–,150
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,9,15,9,usa,Joe_Bessey,Joe Bessey,Cola Transport,,Pontiac,157,1125,running,–,146
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,10,5,27,usa,Jon_Lizotte,Jon Lizotte,–,,Pontiac,157,725,running,–,0
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,11,7,7,usa,Billy_Clark,Billy Clark,Skoal Bandit / Cumberland Farms,,Pontiac,157,765,running,0,142
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,12,6,36,usa,Bobby_Gada,Bobby Gada,Ed's Auto Machine / C-N Electric,,Pontiac,157,735,running,–,138
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,13,12,12,usa,Dave_Davis,Dave Davis,Caron & Waltz,,Pontiac,157,705,running,–,134
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,14,37,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,157,775,running,–,130
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,15,23,57,usa,J_C_Marsh,J.C. Marsh,Mill Cove Lobster / C.A. Rice Excavating,,Buick,157,650,running,–,127
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,16,18,65,usa,Dean_Chrystal,Dean Chrystal,Dean Chrystal,,Chevrolet,157,525,running,–,124
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,17,35,18,usa,Ed_Lavoie,Ed Lavoie,–,,Buick,157,500,running,–,121
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,18,40,64,usa,Blaine_Chapman,Blaine Chapman,–,,Pontiac,155,475,running,–,0
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,19,26,77,usa,Bob_Gerry,Bob Gerry,–,,Chevrolet,155,450,running,–,0
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,20,34,78,usa,Jeff_Taylor,Jeff Taylor,–,,Oldsmobile,155,425,running,–,0
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,21,14,60,usa,Dale_Shaw,Dale Shaw,Budweiser,,Oldsmobile,154,400,running,–,118
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,22,20,61,usa,Mike_Olsen,Mike Olsen,Mast Auto Body,,Buick,154,390,running,–,115
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,23,21,3,usa,Jerry_Babb,Jerry Babb,–,,Chevrolet,153,375,running,–,0
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,24,13,96,usa,Dana_Patten,Dana Patten,U.S. Chrome,,Buick,138,335,–,–,112
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,25,1,41,usa,Jamie_Aube,Jamie Aube,Huggett's Mobile,,Buick,134,820,running,–,109
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,26,17,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,132,315,running,–,106
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,27,32,2,usa,Albert_Hammond,Albert Hammond,–,,Pontiac,130,310,–,–,0
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,28,39,02,usa,Sam_Sessions,Sam Sessions,–,,Pontiac,128,305,–,–,0
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,29,38,88,usa,Larry_Caron,Larry Caron,East End Auto,,Buick,127,300,–,–,103
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,30,16,68,usa,Tim_Brackett,Tim Brackett,Tim Brackett,,Pontiac,118,300,–,–,0
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,31,31,90,usa,Robbie_Crouch,Robbie Crouch,–,,Pontiac,113,275,–,–,100
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,32,9,56,usa,Dale_Verrill,Dale Verrill,–,,Pontiac,103,250,–,–,0
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,33,24,84,usa,Brian_Weber,Brian Weber,MacNamara Buick,,Buick,87,240,–,–,97
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,34,30,1,usa,Pete_Silva,Pete Silva,Prescott Racing / Better Cable TV,,Pontiac,85,230,engine,–,94
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,35,36,26,usa,Darren_Bernier,Darren Bernier,Darren Bernier,,Oldsmobile,53,220,running,–,91
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,36,33,92,usa,Gregg_Lessard,Gregg Lessard,Automotive Contacts,,Buick,50,200,–,–,88
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,37,28,13,usa,George_Babb,George Babb,–,,Buick,48,200,–,–,0
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,38,27,48,usa,Jim_McCallum,Jim McCallum,Northern Tire,,Ford,28,200,crash,–,85
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,39,25,21,usa,Jim_Field,Jim Field,Huston Racing,,Ford,28,200,–,–,0
+1989,E,1989_Main_Dodge_Dealers_Twin_100s,1989_18_E,40,29,50,usa,Bobby_Gahan,Bobby Gahan,R&L,,Pontiac,16,200,–,–,82
+1989,E,1989_Pontiac_Motorsports_Twin_100s,1989_19_E,1,2,9,usa,Joe_Bessey,Joe Bessey,Cola Transport,,Pontiac,100,6925,running,38,180
+1989,E,1989_Pontiac_Motorsports_Twin_100s,1989_19_E,2,1,0,usa,Dick_McCabe,Dick McCabe,Structure & Design Inc.,,Buick,100,3700,running,7,170
+1989,E,1989_Pontiac_Motorsports_Twin_100s,1989_19_E,3,8,96,usa,Dana_Patten,Dana Patten,U.S. Chrome,,Buick,100,2150,running,0,165
+1989,E,1989_Pontiac_Motorsports_Twin_100s,1989_19_E,4,9,48,usa,Jim_McCallum,Jim McCallum,Northern Tire,,Ford,100,1600,running,0,160
+1989,E,1989_Pontiac_Motorsports_Twin_100s,1989_19_E,5,13,41,usa,Jamie_Aube,Jamie Aube,Mountain Racing,,Buick,100,1850,running,0,155
+1989,E,1989_Pontiac_Motorsports_Twin_100s,1989_19_E,6,6,59,usa,Bob_Healey,Bob Healey,Bob Healey,,Pontiac,100,1000,running,0,150
+1989,E,1989_Pontiac_Motorsports_Twin_100s,1989_19_E,7,11,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,100,940,running,0,146
+1989,E,1989_Pontiac_Motorsports_Twin_100s,1989_19_E,8,10,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Pontiac,100,730,running,0,142
+1989,E,1989_Pontiac_Motorsports_Twin_100s,1989_19_E,9,14,12,usa,Dave_Davis,Dave Davis,Davis Brothers / Freeport Auto Supply,,Pontiac,100,625,running,0,138
+1989,E,1989_Pontiac_Motorsports_Twin_100s,1989_19_E,10,3,71,usa,Bobby_Dragon,Bobby Dragon,"Henry Shaw, Jr.",,Pontiac,100,720,running,55,134
+1989,E,1989_Pontiac_Motorsports_Twin_100s,1989_19_E,11,17,61,usa,Mike_Olsen,Mike Olsen,Mast Auto Body,,Buick,100,640,running,0,130
+1989,E,1989_Pontiac_Motorsports_Twin_100s,1989_19_E,12,21,01,usa,Joey_Kourafas,Joey Kourafas,CRS Racing,,Pontiac,100,510,running,0,127
+1989,E,1989_Pontiac_Motorsports_Twin_100s,1989_19_E,13,16,7,usa,Billy_Clark,Billy Clark,Skoal Bandit / Cumberland Farms,,Pontiac,100,480,running,0,124
+1989,E,1989_Pontiac_Motorsports_Twin_100s,1989_19_E,14,12,36,usa,Bobby_Gada,Bobby Gada,United Builders Supply / C-N Electric,,Buick,100,450,running,0,121
+1989,E,1989_Pontiac_Motorsports_Twin_100s,1989_19_E,15,24,92,usa,Gregg_Lessard,Gregg Lessard,Pennzoil Motor Oil / Dependable Motors,,Oldsmobile,100,425,running,0,118
+1989,E,1989_Pontiac_Motorsports_Twin_100s,1989_19_E,16,15,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,99,300,running,0,115
+1989,E,1989_Pontiac_Motorsports_Twin_100s,1989_19_E,17,25,69,usa,Jeff_Spraker,Jeff Spraker,Spraker Racing,,Oldsmobile,98,295,running,0,112
+1989,E,1989_Pontiac_Motorsports_Twin_100s,1989_19_E,18,23,72,usa,Alan_Strobridge,Alan Strobridge,Strobridge Racing,,Chevrolet,95,290,–,0,109
+1989,E,1989_Pontiac_Motorsports_Twin_100s,1989_19_E,19,22,84,usa,Brian_Weber,Brian Weber,MacNamara Buick,,Buick,74,285,–,0,106
+1989,E,1989_Pontiac_Motorsports_Twin_100s,1989_19_E,20,20,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt,,Pontiac,71,275,–,0,103
+1989,E,1989_Pontiac_Motorsports_Twin_100s,1989_19_E,21,19,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,57,265,oil line,0,100
+1989,E,1989_Pontiac_Motorsports_Twin_100s,1989_19_E,22,7,18,usa,Ed_Lavoie,Ed Lavoie,–,,–,51,250,–,0,97
+1989,E,1989_Pontiac_Motorsports_Twin_100s,1989_19_E,23,4,1,usa,Pete_Silva,Pete Silva,Prescott Racing / Better Cable TV,,Pontiac,27,250,crash,0,94
+1989,E,1989_Pontiac_Motorsports_Twin_100s,1989_19_E,24,18,88,usa,Larry_Caron,Larry Caron,East End Auto,,Buick,18,250,–,0,91
+1989,E,1989_Pontiac_Motorsports_Twin_100s,1989_19_E,25,5,90,canada,Randy_MacDonald,Randy MacDonald,–,,–,4,250,–,0,88
+1989,E,1989_John_P._Cullinan_150,1989_20_E,1,10,23,usa,Dale_Shaw,Dale Shaw,–,,Pontiac,180,7225,running,28,0
+1989,E,1989_John_P._Cullinan_150,1989_20_E,2,2,01,usa,Joey_Kourafas,Joey Kourafas,CRS Racing,,Pontiac,180,3650,running,152,175
+1989,E,1989_John_P._Cullinan_150,1989_20_E,3,25,19,usa,Ron_Moon,Ron Moon,Matthews Auto Supply / Lifetime Muffler,,Buick,180,2200,running,0,0
+1989,E,1989_John_P._Cullinan_150,1989_20_E,4,22,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber / R.C. Moore Transportation,,Chevrolet,180,1720,running,0,170
+1989,E,1989_John_P._Cullinan_150,1989_20_E,5,14,12,usa,Dave_Davis,Dave Davis,Davis Brothers / Freeport Auto Supply,,Pontiac,180,1360,running,0,165
+1989,E,1989_John_P._Cullinan_150,1989_20_E,6,5,71,usa,Bobby_Dragon,Bobby Dragon,"Henry Shaw, Jr.",,Pontiac,180,1400,running,0,160
+1989,E,1989_John_P._Cullinan_150,1989_20_E,7,21,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,180,1140,running,0,155
+1989,E,1989_John_P._Cullinan_150,1989_20_E,8,24,90,canada,Randy_MacDonald,Randy MacDonald,–,,–,180,850,running,0,150
+1989,E,1989_John_P._Cullinan_150,1989_20_E,9,1,33,usa,Ed_St_Angelo_Jr,"Ed St. Angelo, Jr.",D & A Racing,,Buick,180,800,running,0,146
+1989,E,1989_John_P._Cullinan_150,1989_20_E,10,11,15,usa,Mike_Rowe,Mike Rowe,O'Connor GMC,,Pontiac,179,825,running,0,142
+1989,E,1989_John_P._Cullinan_150,1989_20_E,11,19,41,usa,Jamie_Aube,Jamie Aube,Mountain Racing,,Buick,179,1150,running,0,138
+1989,E,1989_John_P._Cullinan_150,1989_20_E,12,17,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Pontiac,179,835,running,0,134
+1989,E,1989_John_P._Cullinan_150,1989_20_E,13,26,7,usa,Billy_Clark,Billy Clark,Skoal Bandit,,Pontiac,179,805,running,0,130
+1989,E,1989_John_P._Cullinan_150,1989_20_E,14,30,9,usa,Joe_Bessey,Joe Bessey,Cola Transport,,Pontiac,179,775,running,0,127
+1989,E,1989_John_P._Cullinan_150,1989_20_E,15,27,0,usa,Dick_McCabe,Dick McCabe,Hi-Torque Engines,,Buick,179,750,running,0,124
+1989,E,1989_John_P._Cullinan_150,1989_20_E,16,16,96,usa,Dana_Patten,Dana Patten,U.S. Chrome,,Buick,179,625,running,0,121
+1989,E,1989_John_P._Cullinan_150,1989_20_E,17,20,48,usa,Jim_McCallum,Jim McCallum,Northern Tire,,Ford,179,600,running,0,118
+1989,E,1989_John_P._Cullinan_150,1989_20_E,18,7,26,usa,Darren_Bernier,Darren Bernier,Darren Bernier,,Oldsmobile,179,575,–,0,0
+1989,E,1989_John_P._Cullinan_150,1989_20_E,19,23,11,usa,Bob_Healey,Bob Healey,Bob Healey,,–,179,550,running,0,115
+1989,E,1989_John_P._Cullinan_150,1989_20_E,20,9,27,usa,Jon_Lizotte,Jon Lizotte,–,,–,179,525,–,0,0
+1989,E,1989_John_P._Cullinan_150,1989_20_E,21,18,02,usa,Sam_Sessions,Sam Sessions,–,,–,178,500,–,0,0
+1989,E,1989_John_P._Cullinan_150,1989_20_E,22,3,37,usa,Tracy_Gordon,Tracy Gordon,Tracy Gordon,,Oldsmobile,178,490,running,0,0
+1989,E,1989_John_P._Cullinan_150,1989_20_E,23,32,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,178,475,running,0,112
+1989,E,1989_John_P._Cullinan_150,1989_20_E,24,34,64,usa,Blaine_Chapman,Blaine Chapman,–,,–,178,435,–,0,0
+1989,E,1989_John_P._Cullinan_150,1989_20_E,25,36,3,usa,Jerry_Babb,Jerry Babb,–,,Chevrolet,177,420,running,0,0
+1989,E,1989_John_P._Cullinan_150,1989_20_E,26,33,79,none,Phil_Mitchell,Phil Mitchell,–,,–,177,415,–,0,0
+1989,E,1989_John_P._Cullinan_150,1989_20_E,27,6,92,usa,Gregg_Lessard,Gregg Lessard,Automotive Contacts,,Buick,177,410,running,0,109
+1989,E,1989_John_P._Cullinan_150,1989_20_E,28,13,65,usa,Dean_Chrystal,Dean Chrystal,Dean Chrystal,,Chevrolet,177,405,–,0,106
+1989,E,1989_John_P._Cullinan_150,1989_20_E,29,12,56,usa,Dale_Verrill,Dale Verrill,–,,Pontiac,176,400,–,0,0
+1989,E,1989_John_P._Cullinan_150,1989_20_E,30,37,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive,,Buick,175,400,running,0,103
+1989,E,1989_John_P._Cullinan_150,1989_20_E,31,29,18,usa,Ed_Lavoie,Ed Lavoie,–,,–,174,375,running,0,100
+1989,E,1989_John_P._Cullinan_150,1989_20_E,32,31,2,usa,David_Smith,David Smith,–,,–,167,350,–,0,97
+1989,E,1989_John_P._Cullinan_150,1989_20_E,33,28,21,usa,Jim_Field,Jim Field,Huston Racing,,Ford,167,340,–,0,0
+1989,E,1989_John_P._Cullinan_150,1989_20_E,34,38,84,usa,Brian_Weber,Brian Weber,MacNamara Buick,,Buick,111,330,–,0,94
+1989,E,1989_John_P._Cullinan_150,1989_20_E,35,4,57,usa,Tim_Bender,Tim Bender,–,,–,108,320,–,0,91
+1989,E,1989_John_P._Cullinan_150,1989_20_E,36,8,13,usa,George_Babb,George Babb,–,,Buick,74,300,–,0,0
+1989,E,1989_John_P._Cullinan_150,1989_20_E,37,35,69,usa,Jeff_Spraker,Jeff Spraker,Spraker Racing,,Oldsmobile,53,300,engine,0,88
+1989,E,1989_John_P._Cullinan_150,1989_20_E,38,15,60,usa,Tim_Brackett,Tim Brackett,Tim Brackett,,Pontiac,50,300,–,0,0
+1989,E,1989_John_P._Cullinan_150,1989_20_E,39,39,72,usa,Alan_Strobridge,Alan Strobridge,Strobridge Racing,,Chevrolet,23,300,–,0,85
+1989,E,1989_Commonwealth_200,1989_21_E,1,29,8,usa,Bobby_Hamilton,Bobby Hamilton   (Busch),Lighting & Fans,,Oldsmobile,200,13095,running,30,0
+1989,E,1989_Commonwealth_200,1989_21_E,2,1,99,usa,Tommy_Ellis,Tommy Ellis   (Busch),Goo Goo Clusters,,Buick,200,8495,running,43,0
+1989,E,1989_Commonwealth_200,1989_21_E,3,15,36,usa,Kenny_Wallace,Kenny Wallace   (Busch),Cox Treated Lumber,,Pontiac,200,4695,running,0,0
+1989,E,1989_Commonwealth_200,1989_21_E,4,3,25,usa,Rob_Moroso,Rob Moroso   (Busch),Swisher Sweets,,Oldsmobile,200,4995,running,0,0
+1989,E,1989_Commonwealth_200,1989_21_E,5,14,3,usa,Dale_Earnhardt,Dale Earnhardt   (Busch),GM Goodwrench,,Chevrolet,200,2125,running,0,0
+1989,E,1989_Commonwealth_200,1989_21_E,6,8,11,usa,Jack_Ingram,Jack Ingram   (Busch),Skoal,,Chevrolet,200,4020,running,0,0
+1989,E,1989_Commonwealth_200,1989_21_E,7,25,6,usa,Tommy_Houston,Tommy Houston   (Busch),Southern Biscuit Flour,,Buick,200,3870,running,0,0
+1989,E,1989_Commonwealth_200,1989_21_E,8,11,1,usa,Mark_Martin,Mark Martin   (Busch),Carolina Ford Dealers,,Ford,199,1425,running,78,0
+1989,E,1989_Commonwealth_200,1989_21_E,9,26,2,usa,L_D_Ottinger,L.D. Ottinger   (Busch),Detroit Gasket,,Pontiac,199,2395,running,0,0
+1989,E,1989_Commonwealth_200,1989_21_E,10,27,81,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.   (Busch)",Rose's Stores,,Buick,199,1270,running,0,0
+1989,E,1989_Commonwealth_200,1989_21_E,11,32,34,usa,Randy_LaJoie,Randy LaJoie   (Busch),Cicci Racing,,Buick,199,2870,running,0,0
+1989,E,1989_Commonwealth_200,1989_21_E,12,17,79,usa,Dave_Rezendes,Dave Rezendes   (Busch),"K.R. Rezendes, Inc.",,Oldsmobile,199,2090,running,0,0
+1989,E,1989_Commonwealth_200,1989_21_E,13,21,70,usa,Jimmy_Hensley,Jimmy Hensley   (Busch),Huffman Racing,,Buick,199,2025,running,0,0
+1989,E,1989_Commonwealth_200,1989_21_E,14,28,59,usa,Robert_Pressley,Robert Pressley   (Busch),Brad Daugherty,,Oldsmobile,199,1800,running,0,0
+1989,E,1989_Commonwealth_200,1989_21_E,15,2,30,usa,Michael_Waltrip,Michael Waltrip   (Busch),Post Cereals,,Pontiac,199,1070,running,0,0
+1989,E,1989_Commonwealth_200,1989_21_E,16,23,24,usa,Joe_Thurman,Joe Thurman   (Busch),Thurman Enterprises,,Ford,198,1695,running,0,0
+1989,E,1989_Commonwealth_200,1989_21_E,17,19,14,usa,Wayne_Patterson,Wayne Patterson   (Busch),"W.O. Grubb, Inc.",,Pontiac,196,950,running,0,0
+1989,E,1989_Commonwealth_200,1989_21_E,18,34,71,usa,Billy_Clark,Billy Clark,Skoal,,Pontiac,196,2130,running,0,109
+1989,E,1989_Commonwealth_200,1989_21_E,19,31,86,usa,Dana_Patten,Dana Patten,U.S. Chrome,,Buick,193,2040,running,0,106
+1989,E,1989_Commonwealth_200,1989_21_E,20,24,41,usa,Jamie_Aube,Jamie Aube,Mountain Racing,,Buick,192,2705,running,0,103
+1989,E,1989_Commonwealth_200,1989_21_E,21,33,56,usa,Ronald_Cooper,Ronald Cooper   (Busch),Speedway Waste Disposal,,Buick,184,2730,engine,0,0
+1989,E,1989_Commonwealth_200,1989_21_E,22,35,19,usa,Steve_Grissom,Steve Grissom   (Busch),Texas Pete Sauces,,Pontiac,182,1455,running,0,0
+1989,E,1989_Commonwealth_200,1989_21_E,23,20,02,usa,Kenny_Burks,Kenny Burks   (Busch),Parrish Masonry,,Buick,172,1445,rear end,0,0
+1989,E,1989_Commonwealth_200,1989_21_E,24,6,75,usa,Rick_Wilson,Rick Wilson   (Busch),Food Country USA,,Oldsmobile,171,975,crash,34,0
+1989,E,1989_Commonwealth_200,1989_21_E,25,10,7,usa,Harry_Gant,Harry Gant   (Busch),Detroit Gasket,,Buick,171,690,crash,15,0
+1989,E,1989_Commonwealth_200,1989_21_E,26,36,0,usa,Dick_McCabe,Dick McCabe,Hi-Torque Engines,,Buick,152,1765,ignition,0,85
+1989,E,1989_Commonwealth_200,1989_21_E,27,13,22,usa,Rick_Mast,Rick Mast   (Busch),A.G. Dillard,,Buick,151,1900,running,0,0
+1989,E,1989_Commonwealth_200,1989_21_E,28,4,17,usa,Darrell_Waltrip,Darrell Waltrip   (Busch),Exxon Superflo,,Chevrolet,150,625,engine,0,0
+1989,E,1989_Commonwealth_200,1989_21_E,29,16,96,usa,Tom_Peck,Tom Peck   (Busch),Thomas Chevrolet,,Oldsmobile,147,1315,crash,0,0
+1989,E,1989_Commonwealth_200,1989_21_E,30,9,9,usa,Joe_Bessey,Joe Bessey,Cola Transport,,Pontiac,142,1660,crash,0,73
+1989,E,1989_Commonwealth_200,1989_21_E,31,22,66,usa,Donny_Ling_Jr,"Donny Ling, Jr.   (Busch)",Just Say No,,Oldsmobile,142,610,crash,0,0
+1989,E,1989_Commonwealth_200,1989_21_E,32,5,28,usa,Davey_Allison,Davey Allison   (Busch),Havoline Antifreeze,,Ford,121,600,brakes,0,0
+1989,E,1989_Commonwealth_200,1989_21_E,33,18,74,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,84,1640,crash,0,64
+1989,E,1989_Commonwealth_200,1989_21_E,34,7,63,usa,Chuck_Bown,Chuck Bown   (Busch),Nescafe Classic,,Pontiac,74,2545,transmission,0,0
+1989,E,1989_Commonwealth_200,1989_21_E,35,12,42,usa,Elton_Sawyer,Elton Sawyer   (Busch),Sawyer Racing,,Chevrolet,65,1295,engine,0,0
+1989,E,1989_Commonwealth_200,1989_21_E,36,30,87,usa,Jimmy_Spencer,Jimmy Spencer   (Busch),Lowe's Foods,,Pontiac,2,600,engine,0,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,1,14,52,usa,Ken_Schrader,Ken Schrader   (Busch),Red Baron Frozen Pizza,,Chevrolet,200,11025,running,15,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,2,5,1,usa,Mark_Martin,Mark Martin   (Busch),Carolina Ford Dealers,,Ford,200,5450,running,79,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,3,13,56,usa,Ronald_Cooper,Ronald Cooper   (Busch),Speedway Waste Disposal,,Buick,200,6745,running,0,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,4,22,82,usa,Kyle_Petty,Kyle Petty   (Busch),Peak Performance,,Pontiac,200,2400,running,41,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,5,4,17,usa,Darrell_Waltrip,Darrell Waltrip   (Busch),Exxon Superflo,,Chevrolet,199,2125,running,4,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,6,11,63,usa,Chuck_Bown,Chuck Bown   (Busch),Nescafe Classic,,Pontiac,199,4570,running,6,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,7,15,22,usa,Rick_Mast,Rick Mast   (Busch),A.G. Dillard,,Buick,199,3200,running,0,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,8,16,2,usa,L_D_Ottinger,L.D. Ottinger   (Busch),Detroit Gasket,,Pontiac,199,2420,running,0,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,9,7,96,usa,Tom_Peck,Tom Peck   (Busch),Sikken's Car Refinishes,,Oldsmobile,199,2320,running,0,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,10,12,86,usa,Dana_Patten,Dana Patten,U.S. Chrome,,Buick,198,1650,running,0,134
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,11,24,74,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,198,1550,running,0,130
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,12,3,99,usa,Tommy_Ellis,Tommy Ellis   (Busch),Goo Goo Clusters,,Buick,198,4870,running,0,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,13,19,6,usa,Tommy_Houston,Tommy Houston   (Busch),Southern Biscuit Flour,,Buick,197,3770,running,0,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,14,33,19,usa,Joe_Bessey,Joe Bessey,Cola Transport,,Pontiac,197,1425,running,0,121
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,15,9,7,usa,Harry_Gant,Harry Gant   (Busch),Wheels Discount Auto,,Buick,196,900,fuel,0,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,16,29,45,usa,Patty_Moise,Patty Moise   (Busch),Amway Freedom,,Buick,195,875,running,0,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,17,31,41,usa,Jamie_Aube,Jamie Aube,EJP,,Buick,195,2350,running,0,112
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,18,28,18,usa,Ken_Bouchard,Ken Bouchard,Riverside Park,,Oldsmobile,189,825,running,0,109
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,19,17,11,usa,Jack_Ingram,Jack Ingram   (Busch),Skoal,,Chevrolet,186,3620,running,0,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,20,10,34,usa,Randy_LaJoie,Randy LaJoie   (Busch),Cicci Racing,,Buick,173,2525,engine,0,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,21,23,9,usa,Steve_Grissom,Steve Grissom   (Busch),Texas Pete Sauces,,Pontiac,169,1820,brakes,0,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,22,25,12,usa,Jeff_Burton,Jeff Burton   (Busch),Burton Autosports,,Pontiac,155,1795,running,0,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,23,6,25,usa,Rob_Moroso,Rob Moroso   (Busch),Swisher Sweets,,Oldsmobile,123,3520,running,0,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,24,21,8,usa,Bobby_Hamilton,Bobby Hamilton   (Busch),Lighting & Fans,,Oldsmobile,115,1745,running,0,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,25,1,30,usa,Michael_Waltrip,Michael Waltrip   (Busch),Post Cereals,,Pontiac,111,950,engine,55,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,26,26,33,usa,Jim_Sauter,Jim Sauter   (Busch),Thomas' English Muffins,,Oldsmobile,88,625,crash,0,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,27,2,36,usa,Kenny_Wallace,Kenny Wallace   (Busch),Cox Treated Lumber,,Pontiac,86,1670,crash,0,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,28,18,81,usa,Bobby_Hillin_Jr,"Bobby Hillin, Jr.   (Busch)",Rose's Stores,,Buick,86,580,crash,0,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,29,27,80,usa,Brandon_Baker,Brandon Baker   (Busch),Days Inn Special,,Pontiac,85,1640,crash,0,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,30,30,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,85,1050,crash,0,73
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,31,8,55,usa,Phil_Parsons,Phil Parsons   (Busch),Fast Fare Stores,,Oldsmobile,73,550,engine,0,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,32,20,79,usa,Dave_Rezendes,Dave Rezendes   (Busch),"K.R. Rezendes, Inc.",,Oldsmobile,33,1620,engine,0,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,33,35,39,usa,Lloyd_Gillie,Lloyd Gillie,Gillie's Truck Caps,,Buick,32,1050,handling,0,64
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,34,32,24,usa,Joe_Thurman,Joe Thurman   (Busch),Thurman Enterprises,,Ford,26,1620,engine,0,0
+1989,E,1989_Ames_Peak_Performance_200,1989_22_E,35,34,38,usa,Ed_St_Angelo_Jr,"Ed St. Angelo, Jr.",D & A Racing,,Buick,5,1050,crash,0,58
+1989,E,1989_Budweiser_150,1989_23_E,1,2,74,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,150,5775,running,148,180
+1989,E,1989_Budweiser_150,1989_23_E,2,1,60,usa,Dale_Shaw,Dale Shaw,Budweiser,,Pontiac,150,2475,running,2,170
+1989,E,1989_Budweiser_150,1989_23_E,3,5,90,canada,Randy_MacDonald,Randy MacDonald,–,,Pontiac,150,1800,running,0,165
+1989,E,1989_Budweiser_150,1989_23_E,4,7,7,usa,Billy_Clark,Billy Clark,Skoal Bandit,,Pontiac,150,1420,running,0,160
+1989,E,1989_Budweiser_150,1989_23_E,5,10,41,usa,Jamie_Aube,Jamie Aube,EJP,,Buick,150,1500,running,0,155
+1989,E,1989_Budweiser_150,1989_23_E,6,23,01,usa,Joey_Kourafas,Joey Kourafas,CRS Racing,,Pontiac,150,1250,running,0,150
+1989,E,1989_Budweiser_150,1989_23_E,7,4,71,usa,Bobby_Dragon,Bobby Dragon,"Henry Shaw, Jr.",,Pontiac,150,800,running,0,146
+1989,E,1989_Budweiser_150,1989_23_E,8,16,48,usa,Jim_McCallum,Jim McCallum,Northern Tire,,Ford,150,850,running,0,142
+1989,E,1989_Budweiser_150,1989_23_E,9,14,36,usa,Bobby_Gada,Bobby Gada,Ed's Auto Machine / Trayner Trucking,,Buick,150,825,running,0,138
+1989,E,1989_Budweiser_150,1989_23_E,10,21,59,usa,Bob_Healey,Bob Healey,Bob Healey,,Pontiac,150,700,running,0,134
+1989,E,1989_Budweiser_150,1989_23_E,11,15,92,usa,Gregg_Lessard,Gregg Lessard,Automotive Contacts,,Buick,150,600,running,0,130
+1989,E,1989_Budweiser_150,1989_23_E,12,22,69,usa,Jeff_Spraker,Jeff Spraker,Spraker Racing,,Oldsmobile,149,475,running,0,127
+1989,E,1989_Budweiser_150,1989_23_E,13,17,96,usa,Dana_Patten,Dana Patten,U.S. Chrome,,Buick,149,525,running,0,124
+1989,E,1989_Budweiser_150,1989_23_E,14,6,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,149,500,–,0,121
+1989,E,1989_Budweiser_150,1989_23_E,15,11,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Pontiac,148,480,running,0,118
+1989,E,1989_Budweiser_150,1989_23_E,16,18,33,usa,Tracy_Gordon,Tracy Gordon,–,,–,146,370,running,0,115
+1989,E,1989_Budweiser_150,1989_23_E,17,9,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Co.,,Buick,130,350,–,0,112
+1989,E,1989_Budweiser_150,1989_23_E,18,12,18,usa,Ed_Lavoie,Ed Lavoie,–,,–,113,340,–,0,109
+1989,E,1989_Budweiser_150,1989_23_E,19,24,12,usa,Dave_Davis,Dave Davis,Davis Brothers,,Buick,112,330,–,0,106
+1989,E,1989_Budweiser_150,1989_23_E,20,20,04,usa,Jay_Currier,Jay Currier,Currier Construction,,Buick,111,320,–,0,103
+1989,E,1989_Budweiser_150,1989_23_E,21,13,15,usa,Mike_Rowe,Mike Rowe,O'Connor GMC,,Buick,86,310,crash,0,100
+1989,E,1989_Budweiser_150,1989_23_E,22,3,9,usa,Joe_Bessey,Joe Bessey,Cola Transport,,Pontiac,52,300,–,0,97
+1989,E,1989_Budweiser_150,1989_23_E,23,8,1,usa,Pete_Silva,Pete Silva,Butler & McMaster Automotive,,Pontiac,48,300,–,0,94
+1989,E,1989_Budweiser_150,1989_23_E,24,19,66,usa,Dave_Bushley,Dave Bushley,–,,–,1,300,–,0,91

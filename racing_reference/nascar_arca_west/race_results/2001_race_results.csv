@@ -1,0 +1,643 @@
+season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
+2001,E,2001_Autotown_150,2001_01_E,1,1,14,usa,Tracy_Gordon,Tracy Gordon,Tic-Tac,,Chevrolet,150,11275,running,150,180
+2001,E,2001_Autotown_150,2001_01_E,2,7,96,usa,Mike_Johnson_(2),Mike Johnson,Johnson Lumber,,Ford,150,6255,running,0,170
+2001,E,2001_Autotown_150,2001_01_E,3,2,61,usa,Mike_Olsen,Mike Olsen,Little Trees,,Chevrolet,150,3870,running,0,165
+2001,E,2001_Autotown_150,2001_01_E,4,13,56,usa,Martin_Truex_Jr,"Martin Truex, Jr.",SeaWatch,,Chevrolet,150,1900,running,0,160
+2001,E,2001_Autotown_150,2001_01_E,5,3,47,usa,Kelly_Moore,Kelly Moore,NAPA Auto Parts,,Chevrolet,150,1700,running,0,155
+2001,E,2001_Autotown_150,2001_01_E,6,6,0,usa,Bill_Penfold,Bill Penfold,VIP Charter Coaches,,Chevrolet,150,1600,running,0,150
+2001,E,2001_Autotown_150,2001_01_E,7,10,67,usa,Jamie_Aube,Jamie Aube,Team Knievel,,Chevrolet,150,1600,running,0,146
+2001,E,2001_Autotown_150,2001_01_E,8,17,17,usa,Eddie_MacDonald_(2),Eddie MacDonald,Stripers Grille & Inn,,Chevrolet,150,2000,running,0,142
+2001,E,2001_Autotown_150,2001_01_E,9,4,29,usa,Dave_Dion,Dave Dion,Berlin City Ford / Continental Paving,,Ford,149,1450,running,0,138
+2001,E,2001_Autotown_150,2001_01_E,10,11,60,usa,Dale_Shaw,Dale Shaw,Guaranteed Overnight Delivery,,Chevrolet,149,1400,running,0,134
+2001,E,2001_Autotown_150,2001_01_E,11,15,86,usa,Dennis_Demers,Dennis Demers,Whelen Engineering / Shelburne Limestone,,Chevrolet,149,1350,running,0,130
+2001,E,2001_Autotown_150,2001_01_E,12,26,77,usa,Bryan_Wall,Bryan Wall,Wall's Ford,,Ford,149,1325,running,0,127
+2001,E,2001_Autotown_150,2001_01_E,13,20,55,usa,Brad_Leighton,Brad Leighton,Burnham Boilers,,Chevrolet,149,1900,running,0,124
+2001,E,2001_Autotown_150,2001_01_E,14,12,9,usa,Brian_Hoar,Brian Hoar,Goss Dodge,,Pontiac,149,775,running,0,121
+2001,E,2001_Autotown_150,2001_01_E,15,5,7,usa,Paul_Richardson_(2),Paul Richardson,Bellingham Sheet Metal,,Chevrolet,149,1125,running,0,118
+2001,E,2001_Autotown_150,2001_01_E,16,19,16,usa,Kip_Stockwell,Kip Stockwell,The Flooring Network,,Chevrolet,149,1125,running,0,115
+2001,E,2001_Autotown_150,2001_01_E,17,18,90,usa,Herb_Drugg,Herb Drugg,Tire Warehouse,,Pontiac,149,700,running,0,112
+2001,E,2001_Autotown_150,2001_01_E,18,14,52,usa,David_Darling,David Darling,Seekonk Grand Prix,,Chevrolet,148,1075,running,0,109
+2001,E,2001_Autotown_150,2001_01_E,19,21,99,usa,Greg_Schaefer,Greg Schaefer,Rite-Way Electric,,Chevrolet,148,1050,running,0,106
+2001,E,2001_Autotown_150,2001_01_E,20,30,31,usa,Tommy_Beamer,Tommy Beamer,Statewide Hi-Way Safety,,Chevrolet,147,575,running,0,103
+2001,E,2001_Autotown_150,2001_01_E,21,27,5,usa,Barney_McRae,Barney McRae,Signarama,,Chevrolet,147,1000,running,0,100
+2001,E,2001_Autotown_150,2001_01_E,22,29,41,usa,Joey_McCarthy,Joey McCarthy,Mannings USA,,Chevrolet,146,575,running,0,97
+2001,E,2001_Autotown_150,2001_01_E,23,22,40,usa,Matt_Kobyluck,Matt Kobyluck,Mohegan Sun,,Chevrolet,146,950,running,0,94
+2001,E,2001_Autotown_150,2001_01_E,24,28,43,usa,Doug_Hurst,Doug Hurst,Pit Stop For Life,,Chevrolet,143,550,running,0,91
+2001,E,2001_Autotown_150,2001_01_E,25,9,32,usa,Dale_Quarterley,Dale Quarterley,Land O' Lakes,,Chevrolet,139,1050,running,0,88
+2001,E,2001_Autotown_150,2001_01_E,26,8,09,usa,Bryon_Chew,Bryon Chew,Buzz Chew Chevrolet,,Chevrolet,125,950,crash,0,85
+2001,E,2001_Autotown_150,2001_01_E,27,23,24,usa,Mike_Rowe,Mike Rowe,K & K Excavating,,Chevrolet,48,950,engine,0,82
+2001,E,2001_Autotown_150,2001_01_E,28,24,38,usa,Babe_Branscombe,Babe Branscombe,Waste Management,,Chevrolet,44,550,brakes,0,79
+2001,E,2001_Autotown_150,2001_01_E,29,25,62,usa,Roger_Raymond,Roger Raymond,Stewart & Son,,Ford,43,550,overheating,0,76
+2001,E,2001_Autotown_150,2001_01_E,30,16,66,usa,Louie_Mechalides,Louie Mechalides,Mid-City Paving,,Chevrolet,40,950,power steering,0,73
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,1,8,13,usa,Ted_Christopher,Ted Christopher,LesCare Kitchens,,Chevrolet,125,10750,running,66,180
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,2,4,56,usa,Martin_Truex_Jr,"Martin Truex, Jr.",SeaWatch,,Chevrolet,125,8000,running,2,170
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,3,15,96,usa,Mike_Johnson_(2),Mike Johnson,Johnson Lumber,,Ford,125,6900,running,0,165
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,4,2,55,usa,Brad_Leighton,Brad Leighton,Burnham Boilers,,Chevrolet,125,6100,running,0,160
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,5,3,54,usa,Paul_Wolfe,Paul Wolfe,Astrocom / Phoenix Apparel,,Chevrolet,125,4500,running,0,155
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,6,1,47,usa,Kelly_Moore,Kelly Moore,NAPA Auto Parts,,Chevrolet,125,5250,running,33,150
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,7,6,32,usa,Dale_Quarterley,Dale Quarterley,Land O' Lakes,,Chevrolet,125,3500,running,0,146
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,8,10,14,usa,Tracy_Gordon,Tracy Gordon,Tic-Tac,,Chevrolet,125,3000,running,0,142
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,9,27,29,usa,Dave_Dion,Dave Dion,Berlin City Ford / Continental Paving,,Ford,124,2700,running,0,138
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,10,17,61,usa,Mike_Olsen,Mike Olsen,Little Trees,,Chevrolet,124,2600,running,0,134
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,11,22,0,usa,Bill_Penfold,Bill Penfold,VIP Charter Coaches,,Chevrolet,124,2500,running,0,130
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,12,30,00,usa,Ben_Rowe,Ben Rowe,Hi-Tech Insulation Services,,Chevrolet,124,1925,running,0,127
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,13,29,41,usa,Joey_McCarthy,Joey McCarthy,Mannings USA,,Chevrolet,123,2800,running,0,124
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,14,13,44,usa,Tom_Carey_Jr,"Tom Carey, Jr.",E.J. Prescott,,Chevrolet,123,1700,running,16,121
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,15,12,67,usa,Jamie_Aube,Jamie Aube,Verres Racing,,Chevrolet,123,2100,running,0,118
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,16,16,30,usa,Dennis_Doyle,Dennis Doyle,Sta-Rite Water Systems,,Chevrolet,123,2050,running,3,115
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,17,28,90,usa,Herb_Drugg,Herb Drugg,Tire Warehouse,,Pontiac,123,1500,running,0,112
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,18,7,7,usa,Paul_Richardson_(2),Paul Richardson,Bellingham Sheet Metal,,Chevrolet,123,1975,running,0,109
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,19,20,40,usa,Matt_Kobyluck,Matt Kobyluck,Mohegan Sun,,Chevrolet,123,1950,running,0,106
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,20,32,16,usa,Kip_Stockwell,Kip Stockwell,The Flooring Network,,Chevrolet,122,1925,running,0,103
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,21,11,86,usa,Dennis_Demers,Dennis Demers,Whelen Engineering / Shelburne Limestone,,Chevrolet,122,1900,running,0,100
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,22,26,66,usa,Louie_Mechalides,Louie Mechalides,Mid-City Paving,,Chevrolet,122,1875,running,0,97
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,23,14,09,usa,Bryon_Chew,Bryon Chew,Buzz Chew Auto Group,,Chevrolet,122,1850,running,0,94
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,24,24,12,usa,John_Preston,John Preston,Penn's Best Trucking,,Chevrolet,122,1825,running,0,91
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,25,42,97,usa,Adam_Friend,Adam Friend,American Auto Auction,,Ford,121,1300,running,0,88
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,26,18,24,usa,Mike_Rowe,Mike Rowe,K & K Excavating,,Chevrolet,121,1775,running,0,85
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,27,9,77,usa,Bryan_Wall,Bryan Wall,Wall's Ford,,Ford,121,1750,running,0,82
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,28,34,93,usa,Travis_Benjamin,Travis Benjamin,Irving Oil / Belfast Variety,,Ford,120,1225,running,0,79
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,29,23,33,usa,Mike_Gallo,Mike Gallo,The Woodworks,,Ford,120,1200,running,0,76
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,30,35,31,usa,Tommy_Beamer,Tommy Beamer,Statewide Hi-Way Safety,,Chevrolet,119,1190,running,0,73
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,31,40,92,usa,Doug_Krpata,Doug Krpata,Island Trees Automotive,,Chevrolet,119,1180,running,0,70
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,32,21,9,usa,Brian_Hoar,Brian Hoar,Goss Dodge,,Pontiac,104,1175,running,0,67
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,33,31,53,usa,Dan_Koonmen,Dan Koonmen,Farmington Service / Secrephone,,Pontiac,99,1170,running,0,64
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,34,36,5,usa,Barney_McRae,Barney McRae,Electrolux / Ehler's RV,,Pontiac,84,1660,running,0,61
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,35,25,36,usa,Brad_Boissonneault,Brad Boissonneault,B & B Racing,,Chevrolet,79,1150,rear end,0,58
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,36,41,17,usa,Eddie_MacDonald_(2),Eddie MacDonald,Striper's / Arwood Machine,,Chevrolet,46,1150,rear end,0,55
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,37,5,60,usa,Dale_Shaw,Dale Shaw,Guaranteed Overnight Delivery,,Chevrolet,40,1650,ignition,0,52
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,38,19,1,usa,Jerry_Marquis,Jerry Marquis,Wittenburg University,,Chevrolet,33,1650,engine,0,49
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,39,37,62,usa,Roger_Raymond,Roger Raymond,Stewart & Son,,Ford,33,1150,vibration,0,46
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,40,33,2,usa,Tommy_Cravenho_Jr,"Tommy Cravenho, Jr.",WorldBestBuy.com,,Chevrolet,21,1150,engine,0,43
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,41,38,52,usa,David_Darling,David Darling,Seekonk Grand Prix,,Chevrolet,9,1650,engine,0,40
+2001,E,2001_CVS_Pharmacy_125_Presented_by_Bayer,2001_02_E,42,39,99,usa,Greg_Schaefer,Greg Schaefer,Rite-Way Electric,,Chevrolet,6,1650,crash,0,37
+2001,E,2001_Budweiser_150,2001_03_E,1,5,47,usa,Kelly_Moore,Kelly Moore,NAPA Auto Parts,,Chevrolet,150,10975,running,98,180
+2001,E,2001_Budweiser_150,2001_03_E,2,10,14,usa,Tracy_Gordon,Tracy Gordon,Tic-Tac,,Chevrolet,150,5455,running,0,170
+2001,E,2001_Budweiser_150,2001_03_E,3,1,7,usa,Paul_Richardson_(2),Paul Richardson,Bellingham Sheet Metal,,Chevrolet,150,3670,running,4,165
+2001,E,2001_Budweiser_150,2001_03_E,4,3,61,usa,Mike_Olsen,Mike Olsen,Little Trees,,Chevrolet,150,2000,running,0,160
+2001,E,2001_Budweiser_150,2001_03_E,5,15,67,usa,Jamie_Aube,Jamie Aube,Verres Racing,,Chevrolet,150,1800,running,0,155
+2001,E,2001_Budweiser_150,2001_03_E,6,8,96,usa,Mike_Johnson_(2),Mike Johnson,Johnson Lumber,,Ford,150,1600,running,0,150
+2001,E,2001_Budweiser_150,2001_03_E,7,12,9,usa,Brian_Hoar,Brian Hoar,Goss Dodge,,Pontiac,150,2000,running,0,146
+2001,E,2001_Budweiser_150,2001_03_E,8,17,32,usa,Dale_Quarterley,Dale Quarterley,Land O' Lakes,,Chevrolet,150,1450,running,0,142
+2001,E,2001_Budweiser_150,2001_03_E,9,2,60,usa,Dale_Shaw,Dale Shaw,Guaranteed Overnight Delivery,,Chevrolet,150,1400,running,48,138
+2001,E,2001_Budweiser_150,2001_03_E,10,23,0,usa,Bill_Penfold,Bill Penfold,VIP Charter Coaches,,Chevrolet,150,1275,running,0,134
+2001,E,2001_Budweiser_150,2001_03_E,11,24,40,usa,Matt_Kobyluck,Matt Kobyluck,Mohegan Sun,,Chevrolet,150,1250,running,0,130
+2001,E,2001_Budweiser_150,2001_03_E,12,6,29,usa,Dave_Dion,Dave Dion,Berlin City Ford / Continental Paving,,Ford,150,1325,running,0,127
+2001,E,2001_Budweiser_150,2001_03_E,13,7,55,usa,Brad_Leighton,Brad Leighton,Burnham Boilers,,Chevrolet,150,1900,running,0,124
+2001,E,2001_Budweiser_150,2001_03_E,14,11,52,usa,David_Darling,David Darling,Seekonk Grand Prix,,Chevrolet,150,1175,running,0,121
+2001,E,2001_Budweiser_150,2001_03_E,15,14,86,usa,Dennis_Demers,Dennis Demers,Whelen Engineering / Shelburne Limestone,,Chevrolet,149,1250,running,0,118
+2001,E,2001_Budweiser_150,2001_03_E,16,18,16,usa,Kip_Stockwell,Kip Stockwell,The Flooring Network,,Chevrolet,149,1125,running,0,115
+2001,E,2001_Budweiser_150,2001_03_E,17,16,77,usa,Bryan_Wall,Bryan Wall,Wall's Ford,,Ford,149,1200,running,0,112
+2001,E,2001_Budweiser_150,2001_03_E,18,26,17,usa,Eddie_MacDonald_(2),Eddie MacDonald,Striper's / Arwood Machine,,Chevrolet,148,675,running,0,109
+2001,E,2001_Budweiser_150,2001_03_E,19,13,56,usa,Martin_Truex_Jr,"Martin Truex, Jr.",SeaWatch,,Chevrolet,148,1050,running,0,106
+2001,E,2001_Budweiser_150,2001_03_E,20,25,25,usa,John_Swanson,John Swanson,Swanson Racing,,Pontiac,148,625,running,0,103
+2001,E,2001_Budweiser_150,2001_03_E,21,21,53,usa,Dan_Koonmen,Dan Koonmen,Farmington Service,,Pontiac,147,590,running,0,100
+2001,E,2001_Budweiser_150,2001_03_E,22,22,41,usa,Joey_McCarthy,Joey McCarthy,Mannings USA,,Chevrolet,147,580,running,0,97
+2001,E,2001_Budweiser_150,2001_03_E,23,27,5,usa,Barney_McRae,Barney McRae,Electrolux,,Chevrolet,147,970,running,0,94
+2001,E,2001_Budweiser_150,2001_03_E,24,4,09,usa,Bryon_Chew,Bryon Chew,Buzz Chew Auto Group,,Chevrolet,146,960,running,0,91
+2001,E,2001_Budweiser_150,2001_03_E,25,19,93,usa,Travis_Benjamin,Travis Benjamin,Irving Oil,,Ford,145,550,running,0,88
+2001,E,2001_Budweiser_150,2001_03_E,26,9,24,usa,Mike_Rowe,Mike Rowe,K & K Excavating,,Chevrolet,98,950,engine,0,85
+2001,E,2001_Budweiser_150,2001_03_E,27,20,38,usa,Babe_Branscombe,Babe Branscombe,Waste Management,,Chevrolet,92,550,handling,0,82
+2001,E,2001_Budweiser_150,2001_03_E,28,29,43,usa,Doug_Hurst,Doug Hurst,Pit Stop For Life,,Pontiac,42,550,running,0,79
+2001,E,2001_Budweiser_150,2001_03_E,29,28,04,usa,Carey_Heath,Carey Heath,Aubuchon Hardware,,Chevrolet,37,550,crash,0,76
+2001,E,2001_Burnham_Boilers_150,2001_04_E,1,8,55,usa,Brad_Leighton,Brad Leighton,Burnham Boilers,,Chevrolet,150,9875,running,23,180
+2001,E,2001_Burnham_Boilers_150,2001_04_E,2,1,61,usa,Mike_Olsen,Mike Olsen,Little Trees,,Chevrolet,150,6505,running,127,170
+2001,E,2001_Burnham_Boilers_150,2001_04_E,3,5,60,usa,Dale_Shaw,Dale Shaw,"Center Conway, N.H.",,Chevrolet,150,3870,running,0,165
+2001,E,2001_Burnham_Boilers_150,2001_04_E,4,15,96,usa,Mike_Johnson_(2),Mike Johnson,Johnson Lumber,,Ford,150,2000,running,0,160
+2001,E,2001_Burnham_Boilers_150,2001_04_E,5,2,99,usa,Greg_Schaefer,Greg Schaefer,Rite-Way Electric,,Chevrolet,150,1300,running,0,155
+2001,E,2001_Burnham_Boilers_150,2001_04_E,6,3,56,usa,Martin_Truex_Jr,"Martin Truex, Jr.",SeaWatch,,Chevrolet,150,2450,running,0,150
+2001,E,2001_Burnham_Boilers_150,2001_04_E,7,7,9,usa,Brian_Hoar,Brian Hoar,Goss Dodge,,Pontiac,150,2500,running,0,146
+2001,E,2001_Burnham_Boilers_150,2001_04_E,8,10,77,usa,Bryan_Wall,Bryan Wall,Wall's Ford,,Ford,150,1400,running,0,142
+2001,E,2001_Burnham_Boilers_150,2001_04_E,9,9,7,usa,Paul_Richardson_(2),Paul Richardson,Bellingham Sheet Metal,,Chevrolet,150,1450,running,0,138
+2001,E,2001_Burnham_Boilers_150,2001_04_E,10,26,14,usa,Tracy_Gordon,Tracy Gordon,Tic-Tac,,Chevrolet,150,1375,running,0,134
+2001,E,2001_Burnham_Boilers_150,2001_04_E,11,16,86,usa,Dennis_Demers,Dennis Demers,Whelen Engineering / Shelburne Limestone,,Chevrolet,150,1250,running,0,130
+2001,E,2001_Burnham_Boilers_150,2001_04_E,12,14,32,usa,Dale_Quarterley,Dale Quarterley,Land O' Lakes,,Chevrolet,150,1175,running,0,127
+2001,E,2001_Burnham_Boilers_150,2001_04_E,13,13,0,usa,Bill_Penfold,Bill Penfold,VIP Charter Coaches,,Chevrolet,150,1250,running,0,124
+2001,E,2001_Burnham_Boilers_150,2001_04_E,14,12,67,usa,Jamie_Aube,Jamie Aube,Verres Racing,,Chevrolet,149,1225,running,0,121
+2001,E,2001_Burnham_Boilers_150,2001_04_E,15,11,40,usa,Matt_Kobyluck,Matt Kobyluck,Mohegan Sun,,Chevrolet,149,1100,running,0,118
+2001,E,2001_Burnham_Boilers_150,2001_04_E,16,25,24,usa,Mike_Rowe,Mike Rowe,K & K Excavating,,Chevrolet,149,650,running,0,115
+2001,E,2001_Burnham_Boilers_150,2001_04_E,17,22,16,usa,Kip_Stockwell,Kip Stockwell,The Flooring Network,,Pontiac,149,1025,running,0,112
+2001,E,2001_Burnham_Boilers_150,2001_04_E,18,30,53,usa,Dan_Koonmen,Dan Koonmen,Farmington Service,,Pontiac,149,600,running,0,109
+2001,E,2001_Burnham_Boilers_150,2001_04_E,19,21,52,usa,David_Darling,David Darling,A&N Auto Body,,Chevrolet,149,990,running,0,106
+2001,E,2001_Burnham_Boilers_150,2001_04_E,20,23,17,usa,Eddie_MacDonald_(2),Eddie MacDonald,Striper's Grille & Bar / Arwood Machine,,Chevrolet,148,980,running,0,103
+2001,E,2001_Burnham_Boilers_150,2001_04_E,21,28,93,usa,Travis_Benjamin,Travis Benjamin,Irving Oil,,Ford,147,570,running,0,100
+2001,E,2001_Burnham_Boilers_150,2001_04_E,22,19,03,usa,Vern_Bliss,Vern Bliss,Kayak Pools,,Chevrolet,145,560,running,0,97
+2001,E,2001_Burnham_Boilers_150,2001_04_E,23,27,41,usa,Joey_McCarthy,Joey McCarthy,Mannings USA,,Chevrolet,145,950,running,0,94
+2001,E,2001_Burnham_Boilers_150,2001_04_E,24,31,95,usa,Joey_Manko,Joey Manko,Tops Friendly Markets,,Chevrolet,140,550,running,0,91
+2001,E,2001_Burnham_Boilers_150,2001_04_E,25,20,5,usa,Barney_McRae,Barney McRae,Electrolux,,Chevrolet,134,950,carburetor,0,88
+2001,E,2001_Burnham_Boilers_150,2001_04_E,26,6,47,usa,Kelly_Moore,Kelly Moore,NAPA Auto Parts,,Chevrolet,117,1050,crash,0,85
+2001,E,2001_Burnham_Boilers_150,2001_04_E,27,29,43,usa,Doug_Hurst,Doug Hurst,Pit Stop For Life,,Pontiac,109,550,crash,0,82
+2001,E,2001_Burnham_Boilers_150,2001_04_E,28,17,09,usa,Bryon_Chew,Bryon Chew,Buzz Chew Auto Group,,Chevrolet,93,950,ignition,0,79
+2001,E,2001_Burnham_Boilers_150,2001_04_E,29,24,04,usa,Carey_Heath,Carey Heath,Aubuchon Hardware,,Chevrolet,87,550,radiator,0,76
+2001,E,2001_Burnham_Boilers_150,2001_04_E,30,4,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,81,1050,engine,0,73
+2001,E,2001_Burnham_Boilers_150,2001_04_E,31,18,1,usa,Jerry_Marquis,Jerry Marquis,M & T Bank,,Chevrolet,40,550,suspension,0,70
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,1,2,61,usa,Mike_Olsen,Mike Olsen,Little Trees,,Chevrolet,153,9275,running,30,180
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,2,9,7,usa,Paul_Richardson_(2),Paul Richardson,Bellingham Sheet Metal,,Chevrolet,153,5755,running,16,170
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,3,1,96,usa,Mike_Johnson_(2),Mike Johnson,Johnson Lumber,,Ford,153,5120,running,85,165
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,4,14,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,153,1900,running,0,160
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,5,12,9,usa,Brian_Hoar,Brian Hoar,Goss Dodge,,Pontiac,153,2700,running,0,155
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,6,4,55,usa,Brad_Leighton,Brad Leighton,Burnham Boilers,,Chevrolet,153,2300,running,0,150
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,7,15,77,usa,Bryan_Wall,Bryan Wall,Wall's Ford,,Ford,153,1500,running,0,146
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,8,13,86,usa,Dennis_Demers,Dennis Demers,Whelen Engineering / Shelburne Limestone,,Chevrolet,153,1400,running,0,142
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,9,10,32,usa,Dale_Quarterley,Dale Quarterley,Land O' Lakes,,Chevrolet,153,1450,running,20,138
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,10,3,14,usa,Tracy_Gordon,Tracy Gordon,Tic-Tac,,Chevrolet,153,1375,running,0,134
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,11,30,54,usa,Paul_Wolfe,Paul Wolfe,Astrocom,,Chevrolet,153,850,running,0,130
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,12,16,40,usa,Matt_Kobyluck,Matt Kobyluck,Mohegan Sun,,Chevrolet,153,1175,running,0,127
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,13,21,24,usa,Mike_Rowe,Mike Rowe,Lux Enterprises,,Chevrolet,153,1150,running,0,124
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,14,6,47,usa,Kelly_Moore,Kelly Moore,NAPA Auto Parts,,Chevrolet,153,1225,running,0,121
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,15,17,16,usa,Kip_Stockwell,Kip Stockwell,The Flooring Network,,Chevrolet,153,1100,running,0,118
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,16,7,67,usa,Jamie_Aube,Jamie Aube,Verres Racing,,Chevrolet,153,1150,running,0,115
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,17,29,38,usa,Babe_Branscombe,Babe Branscombe,Seafood Center,,Chevrolet,153,625,running,0,112
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,18,28,90,usa,Herb_Drugg,Herb Drugg,Tire Warehouse,,Chevrolet,153,600,running,0,109
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,19,11,60,usa,Dale_Shaw,Dale Shaw,Guaranteed Overnight Delivery,,Chevrolet,153,990,running,0,106
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,20,18,41,usa,Joey_McCarthy,Joey McCarthy,Mannings USA,,Chevrolet,152,980,running,0,103
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,21,23,5,usa,Barney_McRae,Barney McRae,Electrolux,,Chevrolet,152,550,running,0,100
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,22,22,09,usa,Bryon_Chew,Bryon Chew,Buzz Chew Auto Group,,Chevrolet,152,950,running,0,97
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,23,20,52,usa,David_Darling,David Darling,Seekonk Grand Prix,,Chevrolet,152,950,running,0,94
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,24,26,53,usa,Dan_Koonmen,Dan Koonmen,Farmington Service,,Pontiac,152,550,running,0,91
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,25,24,93,usa,Travis_Benjamin,Travis Benjamin,Irving Oil,,Ford,148,550,running,0,88
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,26,19,17,usa,Eddie_MacDonald_(2),Eddie MacDonald,Striper's Grille & Bar,,Chevrolet,146,950,running,0,85
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,27,27,04,usa,Carey_Heath,Carey Heath,Aubuchon Hardware,,Chevrolet,84,550,fuel pump,0,82
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,28,5,56,usa,Martin_Truex_Jr,"Martin Truex, Jr.",SeaWatch,,Chevrolet,82,1050,engine,1,79
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,29,25,43,usa,Doug_Hurst,Doug Hurst,Pit Stop For Life,,Pontiac,25,550,fuel pump,0,76
+2001,E,2001_PTM_Racing_150_%28June%29,2001_05_E,30,8,0,usa,Bill_Penfold,Bill Penfold,VIP Charter Coaches,,Chevrolet,23,1050,rear end,1,73
+2001,E,2001_Star_150,2001_06_E,1,2,61,usa,Mike_Olsen,Mike Olsen,Little Trees,,Chevrolet,150,9725,running,150,180
+2001,E,2001_Star_150,2001_06_E,2,6,14,usa,Tracy_Gordon,Tracy Gordon,Tic-Tac,,Chevrolet,150,6205,running,0,170
+2001,E,2001_Star_150,2001_06_E,3,10,67,usa,Jamie_Aube,Jamie Aube,DeRossi Classic Homes,,Chevrolet,150,3570,running,0,165
+2001,E,2001_Star_150,2001_06_E,4,4,60,usa,Dale_Shaw,Dale Shaw,Guaranteed Overnight Delivery,,Chevrolet,150,2000,running,0,160
+2001,E,2001_Star_150,2001_06_E,5,1,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,150,1900,running,0,155
+2001,E,2001_Star_150,2001_06_E,6,8,9,usa,Brian_Hoar,Brian Hoar,Goss Dodge,,Pontiac,150,2600,running,0,150
+2001,E,2001_Star_150,2001_06_E,7,25,52,usa,David_Darling,David Darling,Seekonk Grand Prix,,Chevrolet,150,1500,running,0,146
+2001,E,2001_Star_150,2001_06_E,8,9,32,usa,Dale_Quarterley,Dale Quarterley,Land O' Lakes,,Chevrolet,150,1500,running,0,142
+2001,E,2001_Star_150,2001_06_E,9,5,77,usa,Bryan_Wall,Bryan Wall,Wall's Ford,,Ford,150,1350,running,0,138
+2001,E,2001_Star_150,2001_06_E,10,11,5,usa,Barney_McRae,Barney McRae,Signarama,,Chevrolet,150,1300,running,0,134
+2001,E,2001_Star_150,2001_06_E,11,26,93,usa,Travis_Benjamin,Travis Benjamin,Irving Oil,,Ford,150,850,running,0,130
+2001,E,2001_Star_150,2001_06_E,12,19,0,usa,Bill_Penfold,Bill Penfold,VIP Charter Coaches,,Chevrolet,149,1200,running,0,127
+2001,E,2001_Star_150,2001_06_E,13,14,86,usa,Dennis_Demers,Dennis Demers,Whelen Engineering / Shelburne Limestone,,Chevrolet,149,1175,running,0,124
+2001,E,2001_Star_150,2001_06_E,14,3,7,usa,Paul_Richardson_(2),Paul Richardson,Bellingham Sheet Metal,,Chevrolet,149,1250,running,0,121
+2001,E,2001_Star_150,2001_06_E,15,12,38,usa,Babe_Branscombe,Babe Branscombe,Waste Management,,Chevrolet,149,725,running,0,118
+2001,E,2001_Star_150,2001_06_E,16,15,90,usa,Herb_Drugg,Herb Drugg,Tire Warehouse,,Pontiac,149,700,running,0,115
+2001,E,2001_Star_150,2001_06_E,17,7,56,usa,Martin_Truex_Jr,"Martin Truex, Jr.",SeaWatch,,Chevrolet,148,1125,running,0,112
+2001,E,2001_Star_150,2001_06_E,18,23,17,usa,Eddie_MacDonald_(2),Eddie MacDonald,Striper's Grille & Bar,,Chevrolet,148,1050,running,0,109
+2001,E,2001_Star_150,2001_06_E,19,13,04,usa,Carey_Heath,Carey Heath,Aubuchon Hardware,,Chevrolet,146,625,running,0,106
+2001,E,2001_Star_150,2001_06_E,20,20,40,usa,Matt_Kobyluck,Matt Kobyluck,Mohegan Sun,,Chevrolet,146,1000,running,0,103
+2001,E,2001_Star_150,2001_06_E,21,21,41,usa,Joey_McCarthy,Joey McCarthy,Mannings USA,,Chevrolet,146,950,running,0,100
+2001,E,2001_Star_150,2001_06_E,22,24,24,usa,Mike_Rowe,Mike Rowe,Lux Enterprises,,Chevrolet,144,950,running,0,97
+2001,E,2001_Star_150,2001_06_E,23,16,16,usa,Kip_Stockwell,Kip Stockwell,The Flooring Network,,Pontiac,140,950,running,0,94
+2001,E,2001_Star_150,2001_06_E,24,18,96,usa,Mike_Johnson_(2),Mike Johnson,Johnson Lumber,,Ford,139,1050,running,0,91
+2001,E,2001_Star_150,2001_06_E,25,22,47,usa,Kelly_Moore,Kelly Moore,NAPA Auto Parts,,Chevrolet,99,1050,suspension,0,88
+2001,E,2001_Star_150,2001_06_E,26,17,55,usa,Brad_Leighton,Brad Leighton,Burnham Boilers,,Chevrolet,93,1650,suspension,0,85
+2001,E,2001_Carquest_150,2001_07_E,1,5,47,usa,Kelly_Moore,Kelly Moore,NAPA Auto Parts,,Chevrolet,150,10025,running,18,180
+2001,E,2001_Carquest_150,2001_07_E,2,1,55,usa,Brad_Leighton,Brad Leighton,Burnham Boilers,,Chevrolet,150,7105,running,69,170
+2001,E,2001_Carquest_150,2001_07_E,3,24,30,usa,Dennis_Doyle,Dennis Doyle,Sta-Rite Pumps,,Chevrolet,150,3270,running,0,165
+2001,E,2001_Carquest_150,2001_07_E,4,21,1,usa,Jerry_Marquis,Jerry Marquis,M & T Bank,,Chevrolet,150,1400,running,0,160
+2001,E,2001_Carquest_150,2001_07_E,5,7,60,usa,Dale_Shaw,Dale Shaw,Guaranteed Overnight Delivery,,Chevrolet,150,1700,running,0,155
+2001,E,2001_Carquest_150,2001_07_E,6,12,9,usa,Brian_Hoar,Brian Hoar,Goss Dodge,,Pontiac,150,2700,running,0,150
+2001,E,2001_Carquest_150,2001_07_E,7,11,61,usa,Mike_Olsen,Mike Olsen,Little Trees,,Chevrolet,150,1600,running,0,146
+2001,E,2001_Carquest_150,2001_07_E,8,4,86,usa,Dennis_Demers,Dennis Demers,Whelen Engineering / Shelburne Limestone,,Chevrolet,150,1400,running,0,142
+2001,E,2001_Carquest_150,2001_07_E,9,25,99,usa,Greg_Schaefer,Greg Schaefer,Rite-Way Electric,,Chevrolet,150,950,running,0,138
+2001,E,2001_Carquest_150,2001_07_E,10,8,96,usa,Mike_Johnson_(2),Mike Johnson,Johnson Lumber,,Ford,149,1400,running,0,134
+2001,E,2001_Carquest_150,2001_07_E,11,18,24,usa,Mike_Rowe,Mike Rowe,Lux Enterprises,,Chevrolet,149,1250,running,0,130
+2001,E,2001_Carquest_150,2001_07_E,12,5,09,usa,Bryon_Chew,Bryon Chew,Buzz Chew Racing,,Chevrolet,149,800,running,0,127
+2001,E,2001_Carquest_150,2001_07_E,13,22,67,usa,Jamie_Aube,Jamie Aube,Verres Racing,,Chevrolet,149,1250,running,0,124
+2001,E,2001_Carquest_150,2001_07_E,14,31,77,usa,Bryan_Wall,Bryan Wall,Wall's Ford,,Ford,149,1130,running,0,121
+2001,E,2001_Carquest_150,2001_07_E,15,3,32,usa,Dale_Quarterley,Dale Quarterley,Land O' Lakes,,Chevrolet,149,1200,running,0,118
+2001,E,2001_Carquest_150,2001_07_E,16,29,17,usa,Eddie_MacDonald_(2),Eddie MacDonald,Striper's Grille & Bar,,Chevrolet,149,1060,running,0,115
+2001,E,2001_Carquest_150,2001_07_E,17,20,41,usa,Joey_McCarthy,Joey McCarthy,Mannings USA,,Chevrolet,149,1040,running,0,112
+2001,E,2001_Carquest_150,2001_07_E,18,30,5,usa,Barney_McRae,Barney McRae,Signarama,,Chevrolet,149,1000,running,0,109
+2001,E,2001_Carquest_150,2001_07_E,19,17,62,usa,Roger_Raymond,Roger Raymond,Stewart & Son,,Ford,148,590,running,0,106
+2001,E,2001_Carquest_150,2001_07_E,20,19,36,usa,Brad_Boissonneault,Brad Boissonneault,B & B Racing,,Chevrolet,148,580,running,0,103
+2001,E,2001_Carquest_150,2001_07_E,21,2,40,usa,Matt_Kobyluck,Matt Kobyluck,Mohegan Sun,,Chevrolet,148,975,running,53,100
+2001,E,2001_Carquest_150,2001_07_E,22,15,13,usa,Ted_Christopher,Ted Christopher,LesCare Kitchens,,Chevrolet,148,575,running,0,97
+2001,E,2001_Carquest_150,2001_07_E,23,13,7,usa,Paul_Richardson_(2),Paul Richardson,Bellingham Sheet Metal,,Chevrolet,148,1075,running,0,94
+2001,E,2001_Carquest_150,2001_07_E,24,27,16,usa,Kip_Stockwell,Kip Stockwell,The Flooring Network,,Chevrolet,148,975,running,0,91
+2001,E,2001_Carquest_150,2001_07_E,25,14,56,usa,Martin_Truex_Jr,"Martin Truex, Jr.",SeaWatch,,Chevrolet,131,975,crash,0,88
+2001,E,2001_Carquest_150,2001_07_E,26,10,14,usa,Tracy_Gordon,Tracy Gordon,Tic Tac,,Chevrolet,101,1075,crash,0,85
+2001,E,2001_Carquest_150,2001_07_E,27,23,0,usa,Bill_Penfold,Bill Penfold,VIP Charter Coaches,,Chevrolet,95,975,crash,0,82
+2001,E,2001_Carquest_150,2001_07_E,28,16,00,usa,Ben_Rowe,Ben Rowe,Hi-Tech Insulation,,Chevrolet,87,575,overheating,0,79
+2001,E,2001_Carquest_150,2001_07_E,29,9,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,66,1075,engine,0,76
+2001,E,2001_Carquest_150,2001_07_E,30,28,52,usa,David_Darling,David Darling,Seekonk Grand Prix,,Chevrolet,7,975,crash,0,73
+2001,E,2001_Left_Turns_University_150,2001_08_E,1,15,96,usa,Mike_Johnson_(2),Mike Johnson,Johnson Lumber,,Ford,155,10375,running,52,180
+2001,E,2001_Left_Turns_University_150,2001_08_E,2,12,47,usa,Kelly_Moore,Kelly Moore,NAPA Auto Parts,,Chevrolet,155,5755,running,0,170
+2001,E,2001_Left_Turns_University_150,2001_08_E,3,1,86,usa,Dennis_Demers,Dennis Demers,Whelen Engineering / Shelburne Limestone,,Chevrolet,155,4420,running,73,165
+2001,E,2001_Left_Turns_University_150,2001_08_E,4,8,55,usa,Brad_Leighton,Brad Leighton,Burnham Boilers,,Chevrolet,155,2700,running,0,160
+2001,E,2001_Left_Turns_University_150,2001_08_E,5,22,16,usa,Kip_Stockwell,Kip Stockwell,The Flooring Network,,Chevrolet,155,1700,running,0,155
+2001,E,2001_Left_Turns_University_150,2001_08_E,6,19,77,usa,Bryan_Wall,Bryan Wall,Wall's Ford,,Ford,155,1600,running,0,150
+2001,E,2001_Left_Turns_University_150,2001_08_E,7,5,60,usa,Dale_Shaw,Dale Shaw,Guaranteed Overnight Delivery,,Chevrolet,154,2350,running,29,146
+2001,E,2001_Left_Turns_University_150,2001_08_E,8,2,09,usa,Bryon_Chew,Bryon Chew,Buzz Chew Auto Group,,Chevrolet,154,1000,running,0,142
+2001,E,2001_Left_Turns_University_150,2001_08_E,9,10,14,usa,Tracy_Gordon,Tracy Gordon,Tic-Tac,,Chevrolet,154,1450,running,0,138
+2001,E,2001_Left_Turns_University_150,2001_08_E,10,18,53,usa,Dan_Koonmen,Dan Koonmen,Farmington Service,,Pontiac,154,900,running,0,134
+2001,E,2001_Left_Turns_University_150,2001_08_E,11,3,99,usa,Greg_Schaefer,Greg Schaefer,Rite-Way Electric,,Chevrolet,154,850,running,0,130
+2001,E,2001_Left_Turns_University_150,2001_08_E,12,16,41,usa,Joey_McCarthy,Joey McCarthy,Mannings USA,,Chevrolet,153,2200,running,0,127
+2001,E,2001_Left_Turns_University_150,2001_08_E,13,4,61,usa,Mike_Olsen,Mike Olsen,Little Trees,,Chevrolet,153,1250,running,1,124
+2001,E,2001_Left_Turns_University_150,2001_08_E,14,11,32,usa,Dale_Quarterley,Dale Quarterley,Land O' Lakes,,Chevrolet,153,1225,running,0,121
+2001,E,2001_Left_Turns_University_150,2001_08_E,15,25,5,usa,Barney_McRae,Barney McRae,Electrolux,,Chevrolet,153,1100,running,0,118
+2001,E,2001_Left_Turns_University_150,2001_08_E,16,20,24,usa,Mike_Rowe,Mike Rowe,Lux Enterprises,,Chevrolet,153,1075,running,0,115
+2001,E,2001_Left_Turns_University_150,2001_08_E,17,9,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,152,1050,running,0,112
+2001,E,2001_Left_Turns_University_150,2001_08_E,18,24,17,usa,Eddie_MacDonald_(2),Eddie MacDonald,Striper's Grille & Bar,,Chevrolet,152,1000,running,0,109
+2001,E,2001_Left_Turns_University_150,2001_08_E,19,6,40,usa,Matt_Kobyluck,Matt Kobyluck,Mohegan Sun,,Chevrolet,151,990,running,0,106
+2001,E,2001_Left_Turns_University_150,2001_08_E,20,13,9,usa,Brian_Hoar,Brian Hoar,Goss Dodge,,Pontiac,151,1080,running,0,103
+2001,E,2001_Left_Turns_University_150,2001_08_E,21,21,58,usa,Barry_Gommer,Barry Gommer,CMC Engineering,,Chevrolet,149,570,running,0,100
+2001,E,2001_Left_Turns_University_150,2001_08_E,22,17,67,usa,Jamie_Aube,Jamie Aube,DeRossi Classic Homes,,Chevrolet,148,1060,running,0,97
+2001,E,2001_Left_Turns_University_150,2001_08_E,23,26,93,usa,Travis_Benjamin,Travis Benjamin,Irving Oil,,Ford,146,950,running,0,94
+2001,E,2001_Left_Turns_University_150,2001_08_E,24,7,56,usa,Martin_Truex_Jr,"Martin Truex, Jr.",SeaWatch,,Chevrolet,115,950,crash,0,91
+2001,E,2001_Left_Turns_University_150,2001_08_E,25,14,7,usa,Paul_Richardson_(2),Paul Richardson,Bellingham Sheet Metal,,Chevrolet,109,1050,running,0,88
+2001,E,2001_Left_Turns_University_150,2001_08_E,26,23,04,usa,Carey_Heath,Carey Heath,Aubuchon Hardware,,Chevrolet,47,550,overheating,0,85
+2001,E,2001_Left_Turns_University_150,2001_08_E,27,27,0,usa,Bill_Penfold,Bill Penfold,VIP Charter Coaches,,Chevrolet,0,950,engine,0,82
+2001,E,2001_Irving_Oil_150,2001_09_E,1,4,96,usa,Mike_Johnson_(2),Mike Johnson,Johnson Lumber,,Ford,150,10275,running,32,180
+2001,E,2001_Irving_Oil_150,2001_09_E,2,9,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,150,6255,running,0,170
+2001,E,2001_Irving_Oil_150,2001_09_E,3,5,32,usa,Dale_Quarterley,Dale Quarterley,Land O' Lakes,,Chevrolet,150,3970,running,0,165
+2001,E,2001_Irving_Oil_150,2001_09_E,4,3,56,usa,Martin_Truex_Jr,"Martin Truex, Jr.",SeaWatch,,Chevrolet,150,2750,running,106,160
+2001,E,2001_Irving_Oil_150,2001_09_E,5,7,61,usa,Mike_Olsen,Mike Olsen,Little Trees,,Chevrolet,150,2550,running,2,155
+2001,E,2001_Irving_Oil_150,2001_09_E,6,13,60,usa,Dale_Shaw,Dale Shaw,Guaranteed Overnight Delivery,,Chevrolet,150,1700,running,0,150
+2001,E,2001_Irving_Oil_150,2001_09_E,7,26,77,usa,Bryan_Wall,Bryan Wall,Wall's Ford,,Ford,150,1500,running,0,146
+2001,E,2001_Irving_Oil_150,2001_09_E,8,1,9,usa,Brian_Hoar,Brian Hoar,Goss Dodge,,Pontiac,150,2500,running,3,142
+2001,E,2001_Irving_Oil_150,2001_09_E,9,25,16,usa,Kip_Stockwell,Kip Stockwell,The Flooring Network,,Chevrolet,150,1350,running,0,138
+2001,E,2001_Irving_Oil_150,2001_09_E,10,6,47,usa,Kelly_Moore,Kelly Moore,NAPA Auto Parts,,Chevrolet,150,1375,running,0,134
+2001,E,2001_Irving_Oil_150,2001_09_E,11,16,67,usa,Jamie_Aube,Jamie Aube,Verres Racing,,Chevrolet,150,1350,running,0,130
+2001,E,2001_Irving_Oil_150,2001_09_E,12,8,40,usa,Matt_Kobyluck,Matt Kobyluck,Mohegan Sun,,Chevrolet,150,1125,running,0,127
+2001,E,2001_Irving_Oil_150,2001_09_E,13,17,17,usa,Eddie_MacDonald_(2),Eddie MacDonald,Striper's Grille & Bar,,Chevrolet,149,1150,running,0,124
+2001,E,2001_Irving_Oil_150,2001_09_E,14,21,86,usa,Dennis_Demers,Dennis Demers,Whelen Engineering / Shelburne Limestone,,Chevrolet,149,1225,running,0,121
+2001,E,2001_Irving_Oil_150,2001_09_E,15,22,5,usa,Barney_McRae,Barney McRae,Ehler's RV,,Chevrolet,148,1100,running,0,118
+2001,E,2001_Irving_Oil_150,2001_09_E,16,18,7,usa,Paul_Richardson_(2),Paul Richardson,Bellingham Sheet Metal,,Chevrolet,148,1050,running,0,115
+2001,E,2001_Irving_Oil_150,2001_09_E,17,24,38,usa,Babe_Branscombe,Babe Branscombe,Waste Management,,Chevrolet,148,625,running,0,112
+2001,E,2001_Irving_Oil_150,2001_09_E,18,19,41,usa,Joey_McCarthy,Joey McCarthy,Mannings USA,,Chevrolet,148,1000,running,0,109
+2001,E,2001_Irving_Oil_150,2001_09_E,19,27,04,usa,Carey_Heath,Carey Heath,Aubuchon Hardware,,Chevrolet,148,590,running,0,106
+2001,E,2001_Irving_Oil_150,2001_09_E,20,10,14,usa,Tracy_Gordon,Tracy Gordon,Tic-Tac,,Chevrolet,147,1080,running,0,103
+2001,E,2001_Irving_Oil_150,2001_09_E,21,23,93,usa,Travis_Benjamin,Travis Benjamin,Irving Oil,,Ford,146,970,running,0,100
+2001,E,2001_Irving_Oil_150,2001_09_E,22,2,0,usa,Bill_Penfold,Bill Penfold,VIP Charter Coaches,,Chevrolet,129,960,handling,0,97
+2001,E,2001_Irving_Oil_150,2001_09_E,23,29,43,usa,Doug_Hurst,Doug Hurst,Radisson Restaurant,,Pontiac,128,550,running,0,94
+2001,E,2001_Irving_Oil_150,2001_09_E,24,11,62,usa,Roger_Raymond,Roger Raymond,Stewart & Son,,Ford,112,550,electrical,0,91
+2001,E,2001_Irving_Oil_150,2001_09_E,25,15,90,usa,Herb_Drugg,Herb Drugg,Tire Warehouse,,Pontiac,85,550,overheating,0,88
+2001,E,2001_Irving_Oil_150,2001_09_E,26,12,24,usa,Mike_Rowe,Mike Rowe,Lux Enterprises,,Chevrolet,80,950,overheating,0,85
+2001,E,2001_Irving_Oil_150,2001_09_E,27,20,8,usa,Jerry_Babb,Jerry Babb,Irving Oil,,Ford,70,550,overheating,0,82
+2001,E,2001_Irving_Oil_150,2001_09_E,28,14,55,usa,Brad_Leighton,Brad Leighton,Burnham Boilers,,Chevrolet,65,1150,crash,0,79
+2001,E,2001_Irving_Oil_150,2001_09_E,29,28,18,usa,Laine_Chase,Laine Chase,Cal Spas,,Pontiac,62,550,crash,0,76
+2001,E,2001_Pepsi_Racing_150,2001_10_E,1,4,56,usa,Martin_Truex_Jr,"Martin Truex, Jr.",SeaWatch,,Chevrolet,150,12425,running,100,180
+2001,E,2001_Pepsi_Racing_150,2001_10_E,2,2,61,usa,Mike_Olsen,Mike Olsen,Little Trees,,Chevrolet,150,7750,running,30,170
+2001,E,2001_Pepsi_Racing_150,2001_10_E,3,7,67,usa,Jamie_Aube,Jamie Aube,DeRossi Classic Homes,,Chevrolet,150,4470,running,0,165
+2001,E,2001_Pepsi_Racing_150,2001_10_E,4,10,77,usa,Bryan_Wall,Bryan Wall,Wall's Ford,,Ford,150,3000,running,0,160
+2001,E,2001_Pepsi_Racing_150,2001_10_E,5,12,32,usa,Dale_Quarterley,Dale Quarterley,Land O' Lakes,,Chevrolet,150,2500,running,0,155
+2001,E,2001_Pepsi_Racing_150,2001_10_E,6,22,47,usa,Kelly_Moore,Kelly Moore,NAPA Auto Parts,,Chevrolet,150,2000,running,0,150
+2001,E,2001_Pepsi_Racing_150,2001_10_E,7,14,99,usa,Greg_Schaefer,Greg Schaefer,Rite-Way Electric,,Chevrolet,150,1520,running,0,146
+2001,E,2001_Pepsi_Racing_150,2001_10_E,8,18,41,usa,Joey_McCarthy,Joey McCarthy,Mannings USA,,Chevrolet,150,2450,running,0,142
+2001,E,2001_Pepsi_Racing_150,2001_10_E,9,1,13,usa,Ted_Christopher,Ted Christopher,LesCare Kitchens,,Pontiac,150,850,running,20,138
+2001,E,2001_Pepsi_Racing_150,2001_10_E,10,6,55,usa,Brad_Leighton,Brad Leighton,Burnham Boilers,,Chevrolet,150,1850,running,0,134
+2001,E,2001_Pepsi_Racing_150,2001_10_E,11,3,14,usa,Tracy_Gordon,Tracy Gordon,Tic-Tac,,Chevrolet,150,1175,running,0,130
+2001,E,2001_Pepsi_Racing_150,2001_10_E,12,30,76,usa,Tom_Bolles,Tom Bolles,Bolles Motors,,Chevrolet,149,650,running,0,127
+2001,E,2001_Pepsi_Racing_150,2001_10_E,13,19,86,usa,Dennis_Demers,Dennis Demers,Whelen Engineering / Shelburne Limestone,,Chevrolet,149,1125,running,0,124
+2001,E,2001_Pepsi_Racing_150,2001_10_E,14,27,93,usa,Travis_Benjamin,Travis Benjamin,Irving Oil,,Ford,149,1100,running,0,121
+2001,E,2001_Pepsi_Racing_150,2001_10_E,15,24,1,usa,Jerry_Marquis,Jerry Marquis,M & T Bank,,Chevrolet,149,590,running,0,118
+2001,E,2001_Pepsi_Racing_150,2001_10_E,16,11,62,usa,Roger_Raymond,Roger Raymond,Stewart & Son,,Ford,149,585,running,0,115
+2001,E,2001_Pepsi_Racing_150,2001_10_E,17,28,52,usa,David_Darling,David Darling,Seekonk Grand Prix,,Chevrolet,148,1075,running,0,112
+2001,E,2001_Pepsi_Racing_150,2001_10_E,18,26,16,usa,Kip_Stockwell,Kip Stockwell,The Flooring Network,,Chevrolet,148,1065,running,0,109
+2001,E,2001_Pepsi_Racing_150,2001_10_E,19,17,60,usa,Dale_Shaw,Dale Shaw,Guaranteed Overnight Delivery,,Chevrolet,148,1050,running,0,106
+2001,E,2001_Pepsi_Racing_150,2001_10_E,20,36,33,usa,Fred_Skaff,Fred Skaff,The Woodworks,,Ford,148,545,running,0,103
+2001,E,2001_Pepsi_Racing_150,2001_10_E,21,32,5,usa,Barney_McRae,Barney McRae,Ehler's RV,,Chevrolet,148,1035,running,0,100
+2001,E,2001_Pepsi_Racing_150,2001_10_E,22,23,28,usa,Todd_Wilkinson,Todd Wilkinson,Kimball Oil,,Chevrolet,147,525,running,0,97
+2001,E,2001_Pepsi_Racing_150,2001_10_E,23,33,04,usa,Carey_Heath,Carey Heath,Aubuchon Hardware,,Chevrolet,146,1010,running,0,94
+2001,E,2001_Pepsi_Racing_150,2001_10_E,24,8,7,usa,Paul_Richardson_(2),Paul Richardson,Bellingham Sheet Metal,,Chevrolet,141,1000,running,0,91
+2001,E,2001_Pepsi_Racing_150,2001_10_E,25,25,9,usa,Brian_Hoar,Brian Hoar,Goss Dodge,,Pontiac,128,990,running,0,88
+2001,E,2001_Pepsi_Racing_150,2001_10_E,26,13,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,119,980,damage,0,85
+2001,E,2001_Pepsi_Racing_150,2001_10_E,27,35,95,usa,Joey_Manko,Joey Manko,Tops Friendly Markets,,Chevrolet,113,470,running,0,82
+2001,E,2001_Pepsi_Racing_150,2001_10_E,28,29,17,usa,Eddie_MacDonald_(2),Eddie MacDonald,Striper's Bar & Grille,,Chevrolet,103,950,suspension,0,79
+2001,E,2001_Pepsi_Racing_150,2001_10_E,29,16,30,usa,Dennis_Doyle,Dennis Doyle,Sta-Rite Pumps,,Chevrolet,95,450,crash,0,76
+2001,E,2001_Pepsi_Racing_150,2001_10_E,30,9,09,usa,Bryon_Chew,Bryon Chew,Buzz Chew Auto Group,,Chevrolet,74,950,handling,0,73
+2001,E,2001_Pepsi_Racing_150,2001_10_E,31,15,0,usa,Bill_Penfold,Bill Penfold,VIP Charter Coaches,,Chevrolet,64,950,crash,0,70
+2001,E,2001_Pepsi_Racing_150,2001_10_E,32,21,37,usa,Tim_Strojny,Tim Strojny,Waste Management,,Chevrolet,58,450,crash,0,67
+2001,E,2001_Pepsi_Racing_150,2001_10_E,33,20,96,usa,Mike_Johnson_(2),Mike Johnson,Johnson Lumber,,Ford,49,950,suspension,0,64
+2001,E,2001_Pepsi_Racing_150,2001_10_E,34,31,58,usa,Barry_Gommer,Barry Gommer,CMC Engineering,,Chevrolet,32,450,rear end,0,61
+2001,E,2001_Pepsi_Racing_150,2001_10_E,35,3,40,usa,Matt_Kobyluck,Matt Kobyluck,Mohegan Sun,,Chevrolet,23,950,fuel pump,0,58
+2001,E,2001_Pepsi_Racing_150,2001_10_E,36,34,98,usa,John_Cerbone,John Cerbone,Apache Fishing,,Chevrolet,0,450,engine,0,55
+2001,E,2001_New_England_125,2001_11_E,1,1,55,usa,Brad_Leighton,Brad Leighton,Burnham Boilers,,Chevrolet,125,19375,running,56,180
+2001,E,2001_New_England_125,2001_11_E,2,6,56,usa,Martin_Truex_Jr,"Martin Truex, Jr.",SeaWatch,,Chevrolet,125,11755,running,51,170
+2001,E,2001_New_England_125,2001_11_E,3,7,47,usa,Kelly_Moore,Kelly Moore,NAPA Auto Parts,,Chevrolet,125,8770,running,0,165
+2001,E,2001_New_England_125,2001_11_E,4,22,40,usa,Matt_Kobyluck,Matt Kobyluck,Mohegan Sun,,Chevrolet,125,6500,running,0,160
+2001,E,2001_New_England_125,2001_11_E,5,5,32,usa,Dale_Quarterley,Dale Quarterley,Land O' Lakes,,Chevrolet,125,5500,running,9,155
+2001,E,2001_New_England_125,2001_11_E,6,20,86,usa,Dennis_Demers,Dennis Demers,Whelen Engineering / Shelburne Limestone,,Chevrolet,125,5000,running,0,150
+2001,E,2001_New_England_125,2001_11_E,7,13,77,usa,Bryan_Wall,Bryan Wall,Wall's Ford,,Ford,125,4500,running,0,146
+2001,E,2001_New_England_125,2001_11_E,8,4,1,usa,Jerry_Marquis,Jerry Marquis,Wittenburg University,,Chevrolet,125,3500,running,0,142
+2001,E,2001_New_England_125,2001_11_E,9,23,0,usa,Bill_Penfold,Bill Penfold,VIP Charter Coaches,,Chevrolet,125,3500,running,0,138
+2001,E,2001_New_England_125,2001_11_E,10,16,14,usa,Tracy_Gordon,Tracy Gordon,Tic Tac,,Chevrolet,125,3000,running,0,134
+2001,E,2001_New_England_125,2001_11_E,11,21,33,usa,Mike_Gallo,Mike Gallo,The Woodworks,,Ford,125,2400,running,0,130
+2001,E,2001_New_England_125,2001_11_E,12,25,61,usa,Mike_Olsen,Mike Olsen,Little Trees,,Chevrolet,125,2800,running,0,127
+2001,E,2001_New_England_125,2001_11_E,13,24,99,usa,Greg_Schaefer,Greg Schaefer,Rite-Way Electric,,Chevrolet,125,2700,running,0,124
+2001,E,2001_New_England_125,2001_11_E,14,18,20,usa,Mike_Stefanik,Mike Stefanik,GE Sealants & Adhesives,,Chevrolet,125,2100,running,0,121
+2001,E,2001_New_England_125,2001_11_E,15,11,54,usa,Paul_Wolfe,Paul Wolfe,Phoenix Apparel,,Chevrolet,125,1950,running,0,118
+2001,E,2001_New_England_125,2001_11_E,16,12,9,usa,Brian_Hoar,Brian Hoar,Worldwide Monkey,,Pontiac,125,3350,running,0,115
+2001,E,2001_New_England_125,2001_11_E,17,15,90,usa,Herb_Drugg,Herb Drugg,Tire Warehouse,,Pontiac,125,1425,running,0,112
+2001,E,2001_New_England_125,2001_11_E,18,3,60,usa,Dale_Shaw,Dale Shaw,Guaranteed Overnight Delivery,,Chevrolet,125,2250,running,0,109
+2001,E,2001_New_England_125,2001_11_E,19,32,97,usa,Adam_Friend,Adam Friend,American Auto Auction,,Ford,124,1700,running,0,106
+2001,E,2001_New_England_125,2001_11_E,20,14,7,usa,Paul_Richardson_(2),Paul Richardson,Bellingham Sheet Metal,,Chevrolet,124,2150,running,0,103
+2001,E,2001_New_England_125,2001_11_E,21,8,13,usa,Ted_Christopher,Ted Christopher,LesCare Kitchens,,Pontiac,124,1600,running,0,100
+2001,E,2001_New_England_125,2001_11_E,22,31,53,usa,Dan_Koonmen,Dan Koonmen,Farmington Service,,Pontiac,124,2075,running,0,97
+2001,E,2001_New_England_125,2001_11_E,23,29,5,usa,Barney_McRae,Barney McRae,Signarama,,Pontiac,123,2050,running,0,94
+2001,E,2001_New_England_125,2001_11_E,24,17,67,usa,Jamie_Aube,Jamie Aube,Verres Racing,,Chevrolet,123,2025,running,0,91
+2001,E,2001_New_England_125,2001_11_E,25,19,96,usa,Mike_Johnson_(2),Mike Johnson,Andersen Windows,,Ford,123,2000,running,0,88
+2001,E,2001_New_England_125,2001_11_E,26,33,41,usa,Joey_McCarthy,Joey McCarthy,Mannings USA,,Chevrolet,122,1975,running,0,85
+2001,E,2001_New_England_125,2001_11_E,27,27,36,usa,Brad_Boissonneault,Brad Boissonneault,B & B Racing,,Chevrolet,122,1450,running,9,82
+2001,E,2001_New_England_125,2001_11_E,28,28,93,usa,Travis_Benjamin,Travis Benjamin,Irving Oil,,Ford,121,1925,running,0,79
+2001,E,2001_New_England_125,2001_11_E,29,38,43,usa,Doug_Hurst,Doug Hurst,Radisson Boston,,Chevrolet,120,1400,running,0,76
+2001,E,2001_New_England_125,2001_11_E,30,30,16,usa,Kip_Stockwell,Kip Stockwell,The Flooring Network,,Chevrolet,119,1875,axle,0,73
+2001,E,2001_New_England_125,2001_11_E,31,40,31,usa,Tommy_Beamer,Tommy Beamer,Sunshine Foundation,,Chevrolet,118,1350,running,0,70
+2001,E,2001_New_England_125,2001_11_E,32,36,17,usa,Eddie_MacDonald_(2),Eddie MacDonald,Getty / Striper's Bar & Grille,,Chevrolet,118,1825,running,0,67
+2001,E,2001_New_England_125,2001_11_E,33,35,26,usa,Scott_Bouley,Scott Bouley,Production Equipment,,Chevrolet,117,1300,running,0,64
+2001,E,2001_New_England_125,2001_11_E,34,34,04,usa,Carey_Heath,Carey Heath,Aubuchon Hardware,,Chevrolet,117,1775,running,0,61
+2001,E,2001_New_England_125,2001_11_E,35,39,92,usa,Doug_Krpata,Doug Krpata,Island Trees Automotive,,Chevrolet,112,1250,running,0,58
+2001,E,2001_New_England_125,2001_11_E,36,41,94,usa,Mike_Speakman,Mike Speakman,Top Notch Auto Body,,Chevrolet,90,1225,running,0,55
+2001,E,2001_New_England_125,2001_11_E,37,26,30,usa,Dennis_Doyle,Dennis Doyle,Sta-Rite Pumps,,Chevrolet,76,1200,crash,0,52
+2001,E,2001_New_England_125,2001_11_E,38,10,09,usa,Bryon_Chew,Bryon Chew,Buzz Chew Auto Group,,Chevrolet,72,1700,handling,0,49
+2001,E,2001_New_England_125,2001_11_E,39,37,65,usa,Tim_Zock,Tim Zock,Valvoline,,Ford,67,1200,transmission,0,46
+2001,E,2001_New_England_125,2001_11_E,40,2,44,usa,Tom_Carey_Jr,"Tom Carey, Jr.",E.J. Prescott,,Chevrolet,66,1200,engine,0,43
+2001,E,2001_New_England_125,2001_11_E,41,9,24,usa,Mike_Rowe,Mike Rowe,Lux Enterprises,,Chevrolet,8,1700,engine,0,40
+2001,E,2001_ASB_NASCAR_150,2001_12_E,1,3,56,usa,Martin_Truex_Jr,"Martin Truex, Jr.",SeaWatch,,Chevrolet,150,10025,running,125,180
+2001,E,2001_ASB_NASCAR_150,2001_12_E,2,8,61,usa,Mike_Olsen,Mike Olsen,Little Trees,,Chevrolet,150,5755,running,0,170
+2001,E,2001_ASB_NASCAR_150,2001_12_E,3,1,47,usa,Kelly_Moore,Kelly Moore,NAPA Auto Parts,,Chevrolet,150,3270,running,25,165
+2001,E,2001_ASB_NASCAR_150,2001_12_E,4,7,14,usa,Tracy_Gordon,Tracy Gordon,Tic-Tac,,Chevrolet,150,1900,running,0,160
+2001,E,2001_ASB_NASCAR_150,2001_12_E,5,18,86,usa,Dennis_Demers,Dennis Demers,Whelen Engineering / Shelburne Limestone,,Chevrolet,150,1800,running,0,155
+2001,E,2001_ASB_NASCAR_150,2001_12_E,6,10,36,usa,Brad_Boissonneault,Brad Boissonneault,B & B Racing,,Chevrolet,150,1200,running,0,150
+2001,E,2001_ASB_NASCAR_150,2001_12_E,7,16,0,usa,Bill_Penfold,Bill Penfold,VIP Charter Coaches,,Chevrolet,150,1500,running,0,146
+2001,E,2001_ASB_NASCAR_150,2001_12_E,8,19,76,usa,Tom_Bolles,Tom Bolles,Bolles Motors,,Chevrolet,150,1000,running,0,142
+2001,E,2001_ASB_NASCAR_150,2001_12_E,9,11,77,usa,Bryan_Wall,Bryan Wall,Wall's Ford,,Ford,150,1450,running,0,138
+2001,E,2001_ASB_NASCAR_150,2001_12_E,10,6,60,usa,Dale_Shaw,Dale Shaw,Guaranteed Overnight Delivery,,Chevrolet,150,1300,running,0,134
+2001,E,2001_ASB_NASCAR_150,2001_12_E,11,12,96,usa,Mike_Johnson_(2),Mike Johnson,Johnson Lumber,,Ford,150,1350,running,0,130
+2001,E,2001_ASB_NASCAR_150,2001_12_E,12,2,40,usa,Matt_Kobyluck,Matt Kobyluck,Mohegan Sun,,Chevrolet,150,1200,running,0,127
+2001,E,2001_ASB_NASCAR_150,2001_12_E,13,28,17,usa,Eddie_MacDonald_(2),Eddie MacDonald,Striper's Bar & Grille,,Chevrolet,150,2150,running,0,124
+2001,E,2001_ASB_NASCAR_150,2001_12_E,14,9,32,usa,Dale_Quarterley,Dale Quarterley,Land O' Lakes,,Chevrolet,150,1230,running,0,121
+2001,E,2001_ASB_NASCAR_150,2001_12_E,15,22,1,usa,Jerry_Marquis,Jerry Marquis,M & T Bank,,Chevrolet,150,700,running,0,118
+2001,E,2001_ASB_NASCAR_150,2001_12_E,16,25,16,usa,Kip_Stockwell,Kip Stockwell,The Flooring Network,,Chevrolet,150,1060,running,0,115
+2001,E,2001_ASB_NASCAR_150,2001_12_E,17,20,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,149,1040,running,0,112
+2001,E,2001_ASB_NASCAR_150,2001_12_E,18,29,93,usa,Travis_Benjamin,Travis Benjamin,Irving Oil,,Ford,149,1000,running,0,109
+2001,E,2001_ASB_NASCAR_150,2001_12_E,19,14,55,usa,Brad_Leighton,Brad Leighton,Burnham Boilers,,Chevrolet,145,1690,running,0,106
+2001,E,2001_ASB_NASCAR_150,2001_12_E,20,30,04,usa,Carey_Heath,Carey Heath,Aubuchon Hardware,,Chevrolet,143,580,running,0,103
+2001,E,2001_ASB_NASCAR_150,2001_12_E,21,23,62,usa,Roger_Raymond,Roger Raymond,Stewart & Son,,Ford,140,575,suspension,0,100
+2001,E,2001_ASB_NASCAR_150,2001_12_E,22,26,41,usa,Joey_McCarthy,Joey McCarthy,Mannings USA,,Chevrolet,105,975,running,0,97
+2001,E,2001_ASB_NASCAR_150,2001_12_E,23,21,9,usa,Brian_Hoar,Brian Hoar,Goss Dodge,,Pontiac,100,975,crash,0,94
+2001,E,2001_ASB_NASCAR_150,2001_12_E,24,15,67,usa,Jamie_Aube,Jamie Aube,Verres Racing,,Chevrolet,100,1075,crash,0,91
+2001,E,2001_ASB_NASCAR_150,2001_12_E,25,17,99,usa,Greg_Schaefer,Greg Schaefer,Rite-Way Electric,,Chevrolet,75,575,crash,0,88
+2001,E,2001_ASB_NASCAR_150,2001_12_E,26,5,09,usa,Bryon_Chew,Bryon Chew,Buzz Chew Auto Group,,Chevrolet,55,575,engine,0,85
+2001,E,2001_ASB_NASCAR_150,2001_12_E,27,24,58,usa,Barry_Gommer,Barry Gommer,CMC Engineering,,Chevrolet,37,575,crash,0,82
+2001,E,2001_ASB_NASCAR_150,2001_12_E,28,13,7,usa,Paul_Richardson_(2),Paul Richardson,Bellingham Sheet Metal,,Chevrolet,29,975,crash,0,79
+2001,E,2001_ASB_NASCAR_150,2001_12_E,29,4,13,usa,Ted_Christopher,Ted Christopher,LesCare Kitchens,,Chevrolet,25,1325,engine,0,76
+2001,E,2001_ASB_NASCAR_150,2001_12_E,30,27,5,usa,Barney_McRae,Barney McRae,Signarama,,Chevrolet,18,975,crash,0,73
+2001,E,2001_Coca-Cola_150,2001_13_E,1,5,60,usa,Dale_Shaw,Dale Shaw,Guaranteed Overnight Delivery,,Chevrolet,152,10225,running,135,180
+2001,E,2001_Coca-Cola_150,2001_13_E,2,10,96,usa,Mike_Johnson_(2),Mike Johnson,Johnson Lumber,,Ford,152,5455,running,0,170
+2001,E,2001_Coca-Cola_150,2001_13_E,3,3,7,usa,Paul_Richardson_(2),Paul Richardson,Bellingham Sheet Metal,,Chevrolet,152,3670,running,3,165
+2001,E,2001_Coca-Cola_150,2001_13_E,4,15,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,152,1900,running,0,160
+2001,E,2001_Coca-Cola_150,2001_13_E,5,7,61,usa,Mike_Olsen,Mike Olsen,Little Trees,,Chevrolet,152,2550,running,0,155
+2001,E,2001_Coca-Cola_150,2001_13_E,6,8,14,usa,Tracy_Gordon,Tracy Gordon,Tic-Tac,,Chevrolet,152,1600,running,0,150
+2001,E,2001_Coca-Cola_150,2001_13_E,7,13,86,usa,Dennis_Demers,Dennis Demers,Whelen Engineering / Shelburne Limestone,,Chevrolet,152,1500,running,0,146
+2001,E,2001_Coca-Cola_150,2001_13_E,8,19,52,usa,David_Darling,David Darling,Seekonk Grand Prix,,Chevrolet,152,950,running,0,142
+2001,E,2001_Coca-Cola_150,2001_13_E,9,1,40,usa,Matt_Kobyluck,Matt Kobyluck,Mohegan Sun,,Chevrolet,152,1300,running,1,138
+2001,E,2001_Coca-Cola_150,2001_13_E,10,24,77,usa,Bryan_Wall,Bryan Wall,Wall's Ford,,Ford,152,1375,running,0,134
+2001,E,2001_Coca-Cola_150,2001_13_E,11,9,55,usa,Brad_Leighton,Brad Leighton,Burnham Boilers,,Chevrolet,152,1950,running,0,130
+2001,E,2001_Coca-Cola_150,2001_13_E,12,21,0,usa,Bill_Penfold,Bill Penfold,VIP Charter Coaches,,Chevrolet,152,1225,running,0,127
+2001,E,2001_Coca-Cola_150,2001_13_E,13,26,17,usa,Eddie_MacDonald_(2),Eddie MacDonald,Striper's Bar & Grille,,Chevrolet,152,2200,running,0,124
+2001,E,2001_Coca-Cola_150,2001_13_E,14,16,41,usa,Joey_McCarthy,Joey McCarthy,Mannings USA,,Chevrolet,152,1175,running,0,121
+2001,E,2001_Coca-Cola_150,2001_13_E,15,23,93,usa,Travis_Benjamin,Travis Benjamin,Irving Oil,,Ford,152,1150,running,0,118
+2001,E,2001_Coca-Cola_150,2001_13_E,16,18,16,usa,Kip_Stockwell,Kip Stockwell,The Flooring Network,,Chevrolet,151,1125,running,0,115
+2001,E,2001_Coca-Cola_150,2001_13_E,17,12,32,usa,Dale_Quarterley,Dale Quarterley,Land O' Lakes,,Chevrolet,151,1200,running,0,112
+2001,E,2001_Coca-Cola_150,2001_13_E,18,4,09,usa,Bryon_Chew,Bryon Chew,Buzz Chew Auto Group,,Chevrolet,151,675,running,0,109
+2001,E,2001_Coca-Cola_150,2001_13_E,19,25,5,usa,Barney_McRae,Barney McRae,Signarama,,Pontiac,151,1050,running,0,106
+2001,E,2001_Coca-Cola_150,2001_13_E,20,14,47,usa,Kelly_Moore,Kelly Moore,NAPA Auto Parts,,Chevrolet,150,1125,running,0,103
+2001,E,2001_Coca-Cola_150,2001_13_E,21,29,98,usa,John_Cerbone,John Cerbone,Apache Fishing,,Chevrolet,150,590,running,0,100
+2001,E,2001_Coca-Cola_150,2001_13_E,22,11,2,usa,Matt_Dewey,Matt Dewey,WorldBestBuy.com,,Chevrolet,149,580,running,0,97
+2001,E,2001_Coca-Cola_150,2001_13_E,23,27,04,usa,Carey_Heath,Carey Heath,Aubuchon Hardware,,Chevrolet,149,570,running,0,94
+2001,E,2001_Coca-Cola_150,2001_13_E,24,20,9,usa,Brian_Hoar,Brian Hoar,Goss Dodge,,Chevrolet,148,1060,running,0,91
+2001,E,2001_Coca-Cola_150,2001_13_E,25,28,43,usa,Doug_Hurst,Doug Hurst,Radisson,,Pontiac,144,550,running,0,88
+2001,E,2001_Coca-Cola_150,2001_13_E,26,6,56,usa,Martin_Truex_Jr,"Martin Truex, Jr.",SeaWatch,,Chevrolet,143,1050,handling,0,85
+2001,E,2001_Coca-Cola_150,2001_13_E,27,22,53,usa,Dan_Koonmen,Dan Koonmen,Farmington Service,,Pontiac,110,550,overheating,0,82
+2001,E,2001_Coca-Cola_150,2001_13_E,28,2,24,usa,Mike_Rowe,Mike Rowe,Lux Enterprises,,Chevrolet,106,950,engine,13,79
+2001,E,2001_Coca-Cola_150,2001_13_E,29,30,50,usa,Greg_Massini,Greg Massini,Crystal Rock Bottled Water,,Chevrolet,70,550,handling,0,76
+2001,E,2001_Coca-Cola_150,2001_13_E,30,17,67,usa,Jamie_Aube,Jamie Aube,Verres Racing,,Chevrolet,44,950,oil line,0,73
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,1,1,44,usa,Tom_Carey_Jr,"Tom Carey, Jr.",E.J. Prescott,,Chevrolet,62,30825,running,2,180
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,2,4,77,usa,Bryan_Wall,Bryan Wall,Bully Hill Vineyards,,Ford,62,20255,running,8,170
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,3,10,54,usa,Paul_Wolfe,Paul Wolfe,Tops Friendly Markets,,Chevrolet,62,13270,running,1,165
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,4,11,40,usa,Matt_Kobyluck,Matt Kobyluck,Mohegan Sun,,Chevrolet,62,10500,running,0,160
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,5,17,56,usa,Martin_Truex_Jr,"Martin Truex, Jr.",SeaWatch,,Chevrolet,62,8500,running,0,155
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,6,5,32,usa,Dale_Quarterley,Dale Quarterley,Land O' Lakes,,Chevrolet,62,7500,running,3,150
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,7,21,47,usa,Kelly_Moore,Kelly Moore,NAPA Auto Parts,,Chevrolet,62,7000,running,0,146
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,8,18,0,usa,Bill_Penfold,Bill Penfold,VIP Charter Coaches,,Chevrolet,62,6500,running,0,142
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,9,16,96,usa,Mike_Johnson_(2),Mike Johnson,Johnson Lumber,,Ford,62,6000,running,0,138
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,10,20,99,usa,Greg_Schaefer,Greg Schaefer,Rite-Way Electric,,Chevrolet,62,5500,running,0,134
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,11,15,60,usa,Dale_Shaw,Dale Shaw,Guaranteed Overnight Delivery,,Chevrolet,62,4900,running,0,130
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,12,6,30,usa,Dennis_Doyle,Dennis Doyle,Sta-Rite Water Systems,,Chevrolet,62,4000,running,0,127
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,13,2,55,usa,Brad_Leighton,Brad Leighton,Burnham Boilers,,Chevrolet,61,5675,running,48,124
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,14,19,61,usa,Mike_Olsen,Mike Olsen,Little Trees,,Chevrolet,61,4150,running,0,121
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,15,12,09,usa,Bryon_Chew,Bryon Chew,Buzz Chew Auto Group,,Chevrolet,61,3900,running,0,118
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,16,26,62,usa,John_Wall_Sr,"John Wall, Sr.",Wall's Ford,,Ford,61,3100,running,0,115
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,17,7,78,usa,Rick_Bell,Rick Bell,Evans Engine Cooling,,Pontiac,61,2900,running,0,112
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,18,34,93,usa,Travis_Benjamin,Travis Benjamin,Irving Oil,,Ford,60,4350,running,0,109
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,19,29,41,usa,Joey_McCarthy,Joey McCarthy,Mannings USA,,Chevrolet,60,3200,running,0,106
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,20,36,16,usa,Kip_Stockwell,Kip Stockwell,The Flooring Network,,Chevrolet,60,3150,running,0,103
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,21,27,9,usa,Brian_Hoar,Brian Hoar,Goss Dodge / Worldwide Monkey,,Pontiac,60,3050,running,0,100
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,22,30,03,usa,John_Finger,John Finger,Racer Carol Enterprise,,Chevrolet,60,2525,running,0,97
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,23,39,4,usa,Denny_Wilson,Denny Wilson,Chambers Racing,,Chevrolet,59,2450,running,0,94
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,24,35,04,usa,Carey_Heath,Carey Heath,Aubuchon Hardware,,Chevrolet,58,2925,running,0,91
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,25,28,7,usa,Paul_Richardson_(2),Paul Richardson,Bellingham Sheet Metal,,Chevrolet,57,2900,running,0,88
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,26,24,67,usa,Jamie_Aube,Jamie Aube,American Specialties Inc.,,Chevrolet,55,2890,engine,0,85
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,27,22,91,usa,John_Kohler,John Kohler,Zippo Lighters,,Chevrolet,54,2380,running,0,82
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,28,13,14,usa,Tracy_Gordon,Tracy Gordon,Tic-Tac,,Chevrolet,53,2870,engine,0,79
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,29,9,86,usa,Dennis_Demers,Dennis Demers,Whelen Engineering / Shelburne Limestone,,Chevrolet,52,2760,running,0,76
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,30,37,38,usa,Babe_Branscombe,Babe Branscombe,Garrison Motors,,Chevrolet,51,2250,rear end,0,73
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,31,32,17,usa,Eddie_MacDonald_(2),Eddie MacDonald,Striper's Bar & Grille,,Chevrolet,45,2750,running,0,70
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,32,25,85,usa,Bobby_Gerhart,Bobby Gerhart,Gerhart Racing,,Chevrolet,39,2250,electrical,0,67
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,33,33,5,usa,Barney_McRae,Barney McRae,Ehler's RV,,Pontiac,37,2750,crash,0,64
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,34,3,13,usa,Ted_Christopher,Ted Christopher,LesCare Kitchens,,Chevrolet,34,2750,suspension,0,61
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,35,40,15,usa,Mike_Fantacone,Mike Fantacone,Bombard Dealership,,Chevrolet,32,2150,engine,0,58
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,36,23,26,usa,Scott_Bouley,Scott Bouley,Production Equipment,,Chevrolet,17,2150,engine,0,55
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,37,8,64,usa,C_T_Hellmund,C.T. Hellmund,Suzuki,,Chevrolet,16,2150,rear end,0,52
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,38,38,31,usa,Tommy_Beamer,Tommy Beamer,Statewide Hi-Way Safety,,Chevrolet,11,2150,transmission,0,49
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,39,14,1,usa,Jerry_Marquis,Jerry Marquis,Wittenberg University,,Chevrolet,9,2650,engine,0,46
+2001,E,2001_Little_Trees_150_Presented_by_Pepsi,2001_14_E,40,31,36,usa,Brad_Boissonneault,Brad Boissonneault,B & B Racing,,Chevrolet,5,2150,crash,0,43
+2001,E,2001_Nazareth_100,2001_15_E,1,4,40,usa,Matt_Kobyluck,Matt Kobyluck,Mohegan Sun,,Chevrolet,100,13325,running,43,180
+2001,E,2001_Nazareth_100,2001_15_E,2,15,54,usa,Paul_Wolfe,Paul Wolfe,Astrocom,,Chevrolet,100,8205,running,0,170
+2001,E,2001_Nazareth_100,2001_15_E,3,2,60,usa,Dale_Shaw,Dale Shaw,Guaranteed Overnight Delivery,,Chevrolet,100,4770,running,41,165
+2001,E,2001_Nazareth_100,2001_15_E,4,7,32,usa,Dale_Quarterley,Dale Quarterley,Land O' Lakes,,Chevrolet,100,3000,running,0,160
+2001,E,2001_Nazareth_100,2001_15_E,5,8,55,usa,Brad_Leighton,Brad Leighton,Burnham Boilers,,Chevrolet,100,3400,running,0,155
+2001,E,2001_Nazareth_100,2001_15_E,6,13,61,usa,Mike_Olsen,Mike Olsen,Little Trees,,Chevrolet,100,2600,running,0,150
+2001,E,2001_Nazareth_100,2001_15_E,7,12,56,usa,Martin_Truex_Jr,"Martin Truex, Jr.",SeaWatch,,Chevrolet,100,2450,running,0,146
+2001,E,2001_Nazareth_100,2001_15_E,8,20,86,usa,Dennis_Demers,Dennis Demers,Whelen Engineering / Shelburne Limestone,,Chevrolet,100,2350,running,0,142
+2001,E,2001_Nazareth_100,2001_15_E,9,19,99,usa,Greg_Schaefer,Greg Schaefer,Rite-Way Electric,,Chevrolet,100,2300,running,0,138
+2001,E,2001_Nazareth_100,2001_15_E,10,10,77,usa,Bryan_Wall,Bryan Wall,Bully Hill Vineyards,,Ford,100,2250,running,0,134
+2001,E,2001_Nazareth_100,2001_15_E,11,16,9,usa,Brian_Hoar,Brian Hoar,Goss Dodge / Worldwide Monkey,,Pontiac,100,3200,running,0,130
+2001,E,2001_Nazareth_100,2001_15_E,12,23,0,usa,Bill_Penfold,Bill Penfold,VIP Charter Coaches,,Chevrolet,100,2150,running,0,127
+2001,E,2001_Nazareth_100,2001_15_E,13,6,24,usa,Mike_Rowe,Mike Rowe,Lux Enterprises,,Chevrolet,100,2100,running,0,124
+2001,E,2001_Nazareth_100,2001_15_E,14,3,47,usa,Kelly_Moore,Kelly Moore,NAPA Auto Parts,,Chevrolet,100,2050,running,0,121
+2001,E,2001_Nazareth_100,2001_15_E,15,9,67,usa,Jamie_Aube,Jamie Aube,Verres Racing,,Chevrolet,99,2000,running,0,118
+2001,E,2001_Nazareth_100,2001_15_E,16,17,7,usa,Paul_Richardson_(2),Paul Richardson,Bellingham Sheet Metal,,Chevrolet,99,1950,running,0,115
+2001,E,2001_Nazareth_100,2001_15_E,17,18,30,usa,Dennis_Doyle,Dennis Doyle,Sta-Rite Water Systems,,Chevrolet,99,1400,running,0,112
+2001,E,2001_Nazareth_100,2001_15_E,18,29,16,usa,Kip_Stockwell,Kip Stockwell,The Flooring Network,,Chevrolet,99,1850,running,0,109
+2001,E,2001_Nazareth_100,2001_15_E,19,24,04,usa,Carey_Heath,Carey Heath,Aubuchon Hardware,,Chevrolet,99,1800,running,0,106
+2001,E,2001_Nazareth_100,2001_15_E,20,31,5,usa,Barney_McRae,Barney McRae,Ehler's RV / Signarama,,Pontiac,98,1750,running,0,103
+2001,E,2001_Nazareth_100,2001_15_E,21,22,93,usa,Travis_Benjamin,Travis Benjamin,Irving Oil,,Ford,98,1700,running,0,100
+2001,E,2001_Nazareth_100,2001_15_E,22,28,58,usa,Barry_Gommer,Barry Gommer,CMC Engineering,,Chevrolet,98,1100,running,0,97
+2001,E,2001_Nazareth_100,2001_15_E,23,5,96,usa,Mike_Johnson_(2),Mike Johnson,Johnson Lumber,,Ford,98,1575,running,0,94
+2001,E,2001_Nazareth_100,2001_15_E,24,30,17,usa,Eddie_MacDonald_(2),Eddie MacDonald,Striper's Bar & Grille,,Chevrolet,97,1550,running,0,91
+2001,E,2001_Nazareth_100,2001_15_E,25,21,31,usa,Tommy_Beamer,Tommy Beamer,Sunshine Foundation,,Chevrolet,97,1000,running,0,88
+2001,E,2001_Nazareth_100,2001_15_E,26,25,41,usa,Joey_McCarthy,Joey McCarthy,Mannings USA,,Chevrolet,95,1475,running,0,85
+2001,E,2001_Nazareth_100,2001_15_E,27,26,53,usa,Dan_Koonmen,Dan Koonmen,Farmington Service,,Pontiac,95,1450,running,0,82
+2001,E,2001_Nazareth_100,2001_15_E,28,1,13,usa,Ted_Christopher,Ted Christopher,LesCare Kitchens,,Chevrolet,91,2150,rear end,16,79
+2001,E,2001_Nazareth_100,2001_15_E,29,27,98,usa,John_Cerbone,John Cerbone,Apache Fishing,,Chevrolet,88,890,engine,0,76
+2001,E,2001_Nazareth_100,2001_15_E,30,14,14,usa,Tracy_Gordon,Tracy Gordon,Tic-Tac,,Chevrolet,55,1380,crash,0,73
+2001,E,2001_Nazareth_100,2001_15_E,31,32,28,usa,Todd_Wilkinson,Todd Wilkinson,Kimball Oil,,Chevrolet,36,870,brakes,0,70
+2001,E,2001_Nazareth_100,2001_15_E,32,11,80,usa,Richard_Jarvis_Jr,"Richard Jarvis, Jr.",Seacrets,,Chevrolet,27,860,engine,0,67
+2001,E,2001_True_Value_150,2001_16_E,1,8,29,usa,Dave_Dion,Dave Dion,Vermont Quit Line,,Ford,150,12175,running,34,180
+2001,E,2001_True_Value_150,2001_16_E,2,7,96,usa,Mike_Johnson_(2),Mike Johnson,Johnson Lumber,,Ford,150,7255,running,0,170
+2001,E,2001_True_Value_150,2001_16_E,3,2,47,usa,Kelly_Moore,Kelly Moore,NAPA Auto Parts,,Chevrolet,150,4270,running,0,165
+2001,E,2001_True_Value_150,2001_16_E,4,1,61,usa,Mike_Olsen,Mike Olsen,Little Trees,,Chevrolet,150,4000,running,116,160
+2001,E,2001_True_Value_150,2001_16_E,5,22,60,usa,Dale_Shaw,Dale Shaw,Guaranteed Overnight Delivery,,Chevrolet,150,2000,running,0,155
+2001,E,2001_True_Value_150,2001_16_E,6,5,14,usa,Tracy_Gordon,Tracy Gordon,Tic-Tac,,Chevrolet,150,1850,running,0,150
+2001,E,2001_True_Value_150,2001_16_E,7,11,77,usa,Bryan_Wall,Bryan Wall,Wall's Ford,,Ford,150,1750,running,0,146
+2001,E,2001_True_Value_150,2001_16_E,8,16,67,usa,Jamie_Aube,Jamie Aube,Verres Racing / ASI,,Chevrolet,150,1600,running,0,142
+2001,E,2001_True_Value_150,2001_16_E,9,14,25,usa,Louie_Mechalides,Louie Mechalides,Swanson Racing,,Pontiac,150,1100,running,0,138
+2001,E,2001_True_Value_150,2001_16_E,10,9,7,usa,Paul_Richardson_(2),Paul Richardson,Bellingham Sheet Metal,,Chevrolet,150,1400,running,0,134
+2001,E,2001_True_Value_150,2001_16_E,11,13,32,usa,Dale_Quarterley,Dale Quarterley,Land O' Lakes,,Chevrolet,149,1475,running,0,130
+2001,E,2001_True_Value_150,2001_16_E,12,27,6,usa,Stub_Fadden,Stub Fadden,Little Trees,,Chevrolet,149,950,running,0,127
+2001,E,2001_True_Value_150,2001_16_E,13,12,9,usa,Brian_Hoar,Brian Hoar,Goss Dodge,,Pontiac,149,2325,running,0,124
+2001,E,2001_True_Value_150,2001_16_E,14,17,41,usa,Joey_McCarthy,Joey McCarthy,Mannings USA,,Chevrolet,148,1300,running,0,121
+2001,E,2001_True_Value_150,2001_16_E,15,19,90,usa,Herb_Drugg,Herb Drugg,Tire Warehouse,,Pontiac,148,875,running,0,118
+2001,E,2001_True_Value_150,2001_16_E,16,24,5,usa,Barney_McRae,Barney McRae,Ehler's RV / Signarama,,Pontiac,147,1250,running,0,115
+2001,E,2001_True_Value_150,2001_16_E,17,23,17,usa,Eddie_MacDonald_(2),Eddie MacDonald,Striper's Bar & Grille,,Chevrolet,147,1225,running,0,112
+2001,E,2001_True_Value_150,2001_16_E,18,25,93,usa,Travis_Benjamin,Travis Benjamin,Irving Oil / Cellular One,,Ford,147,1200,running,0,109
+2001,E,2001_True_Value_150,2001_16_E,19,21,56,usa,Martin_Truex_Jr,"Martin Truex, Jr.",SeaWatch,,Chevrolet,147,1250,running,0,106
+2001,E,2001_True_Value_150,2001_16_E,20,20,62,usa,Roger_Raymond,Roger Raymond,Stewart & Son,,Ford,147,750,running,0,103
+2001,E,2001_True_Value_150,2001_16_E,21,10,24,usa,Mike_Rowe,Mike Rowe,Lux Enterprises,,Chevrolet,146,1150,running,0,100
+2001,E,2001_True_Value_150,2001_16_E,22,26,04,usa,Carey_Heath,Carey Heath,Aubuchon Hardware,,Chevrolet,143,1150,running,0,97
+2001,E,2001_True_Value_150,2001_16_E,23,3,55,usa,Brad_Leighton,Brad Leighton,Burnham Boilers,,Chevrolet,143,1850,running,0,94
+2001,E,2001_True_Value_150,2001_16_E,24,15,40,usa,Matt_Kobyluck,Matt Kobyluck,Mohegan Sun,,Chevrolet,138,1150,running,0,91
+2001,E,2001_True_Value_150,2001_16_E,25,4,16,usa,Kip_Stockwell,Kip Stockwell,The Flooring Network,,Chevrolet,132,1150,electrical,0,88
+2001,E,2001_True_Value_150,2001_16_E,26,28,37,usa,Tim_Strojny,Tim Strojny,Waste Management,,Chevrolet,107,750,overheating,0,85
+2001,E,2001_True_Value_150,2001_16_E,27,6,86,usa,Dennis_Demers,Dennis Demers,Whelen Engineering / Shelburne Limestone,,Chevrolet,57,1250,crash,0,82
+2001,E,2001_True_Value_150,2001_16_E,28,18,8,usa,Rich_Lowrey,Rich Lowrey,Pitney Bowes,,Chevrolet,56,750,oil pressure,0,79
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,1,1,32,usa,Dale_Quarterley,Dale Quarterley,Land O' Lakes,,Chevrolet,150,10025,running,148,180
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,2,5,61,usa,Mike_Olsen,Mike Olsen,Little Trees,,Chevrolet,150,6505,running,1,170
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,3,4,56,usa,Martin_Truex_Jr,"Martin Truex, Jr.",SeaWatch,,Chevrolet,150,3970,running,0,165
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,4,2,96,usa,Mike_Johnson_(2),Mike Johnson,Johnson Lumber,,Ford,150,2000,running,1,160
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,5,7,14,usa,Tracy_Gordon,Tracy Gordon,Tic-Tac,,Chevrolet,150,1800,running,0,155
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,6,3,47,usa,Kelly_Moore,Kelly Moore,NAPA Auto Parts,,Chevrolet,150,1700,running,0,150
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,7,6,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,150,1500,running,0,146
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,8,14,60,usa,Dale_Shaw,Dale Shaw,Guaranteed Overnight Delivery,,Chevrolet,150,1500,running,0,142
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,9,12,23,usa,Robbie_Harrison,Robbie Harrison,Lux Enterprises,,Chevrolet,150,950,running,0,138
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,10,15,40,usa,Matt_Kobyluck,Matt Kobyluck,Mohegan Sun,,Chevrolet,150,1275,running,0,134
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,11,18,38,usa,Babe_Branscombe,Babe Branscombe,Waste Management,,Chevrolet,150,850,running,0,130
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,12,21,86,usa,Dennis_Demers,Dennis Demers,Whelen Engineering / Shelburne Limestone,,Chevrolet,150,1275,running,0,127
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,13,23,67,usa,Jamie_Aube,Jamie Aube,Verres Racing / ASI,,Chevrolet,150,1150,running,0,124
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,14,29,52,usa,David_Darling,David Darling,Seekonk Grand Prix,,Chevrolet,150,725,running,0,121
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,15,10,9,usa,Brian_Hoar,Brian Hoar,Goss Dodge / Worldwide Monkey,,Pontiac,150,2100,running,0,118
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,16,17,62,usa,Roger_Raymond,Roger Raymond,Stewart & Son,,Ford,150,650,running,0,115
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,17,11,0,usa,Bill_Penfold,Bill Penfold,VIP Charter Coaches,,Chevrolet,149,1025,running,0,112
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,18,8,55,usa,Brad_Leighton,Brad Leighton,Burnham Boilers,,Chevrolet,149,1700,running,0,109
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,19,22,16,usa,Kip_Stockwell,Kip Stockwell,The Flooring Network,,Chevrolet,149,990,running,0,106
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,20,27,5,usa,Barney_McRae,Barney McRae,Signarama / Ehler's RV,,Pontiac,149,980,running,0,103
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,21,16,93,usa,Travis_Benjamin,Travis Benjamin,Irving Oil / Belfast Variety,,Ford,148,970,running,0,100
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,22,28,04,usa,Carey_Heath,Carey Heath,Aubuchon Hardware,,Chevrolet,147,960,running,0,97
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,23,25,17,usa,Eddie_MacDonald_(2),Eddie MacDonald,Striper's Bar & Grille,,Chevrolet,147,950,running,0,94
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,24,19,7,usa,Paul_Richardson_(2),Paul Richardson,Bellingham Sheet Metal,,Chevrolet,147,950,running,0,91
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,25,26,77,usa,Bryan_Wall,Bryan Wall,Wall's Ford,,Ford,146,1050,running,0,88
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,26,9,24,usa,Mike_Rowe,Mike Rowe,Lux Enterprises,,Chevrolet,124,550,broken shock,0,85
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,27,13,41,usa,Joey_McCarthy,Joey McCarthy,Mannings USA,,Chevrolet,116,950,suspension,0,82
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,28,31,50,usa,Greg_Massini,Greg Massini,Crystal Rock Bottled Water,,Chevrolet,91,550,sway bar,0,79
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,29,30,43,usa,Doug_Hurst,Doug Hurst,Radisson Boston,,Pontiac,56,550,handling,0,76
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,30,20,8,usa,Jerry_Babb,Jerry Babb,PTM Racing,,Ford,40,550,suspension,0,73
+2001,E,2001_PTM_Racing_150_%28September%29,2001_17_E,31,24,6,usa,Tim_Brackett,Tim Brackett,Dunkin' Donuts,,Pontiac,38,550,overheating,0,70
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,1,5,60,usa,Dale_Shaw,Dale Shaw,Guaranteed Overnight Delivery,,Chevrolet,154,18075,running,14,180
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,2,8,77,usa,Bryan_Wall,Bryan Wall,Bully Hill Vineyards,,Ford,154,12755,running,0,170
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,3,10,86,usa,Dennis_Demers,Dennis Demers,Whelen Engineering / Shelburne Limestone,,Chevrolet,154,9270,running,0,165
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,4,11,67,usa,Jamie_Aube,Jamie Aube,DeRossi Classic Homes,,Chevrolet,154,7000,running,0,160
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,5,21,44,usa,Tom_Carey_Jr,"Tom Carey, Jr.",E.J. Prescott,,Chevrolet,154,5500,running,18,155
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,6,4,32,usa,Dale_Quarterley,Dale Quarterley,Van Dyk Baler / Land O'Lakes,,Chevrolet,154,6250,running,122,150
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,7,12,40,usa,Matt_Kobyluck,Matt Kobyluck,Mohegan Sun,,Chevrolet,154,5000,running,0,146
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,8,13,9,usa,Brian_Hoar,Brian Hoar,Goss Dodge / Worldwide Monkey,,Pontiac,154,5500,running,0,142
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,9,7,14,usa,Tracy_Gordon,Tracy Gordon,Tic Tac,,Chevrolet,154,4000,running,0,138
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,10,23,90,usa,Herb_Drugg,Herb Drugg,Tire Warehouse,,Pontiac,154,3500,running,0,134
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,11,19,93,usa,Travis_Benjamin,Travis Benjamin,Irving Oil,,Ford,154,3300,running,0,130
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,12,17,17,usa,Eddie_MacDonald_(2),Eddie MacDonald,Striper's Bar & Grille,,Chevrolet,154,3250,running,0,127
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,13,2,47,usa,Kelly_Moore,Kelly Moore,NAPA Auto Parts,,Chevrolet,153,3200,running,0,124
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,14,24,54,usa,Paul_Wolfe,Paul Wolfe,Astrocom,,Chevrolet,152,3050,running,0,121
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,15,18,5,usa,Barney_McRae,Barney McRae,Ehler's RV / Signarama,,Pontiac,152,3000,running,0,118
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,16,16,41,usa,Joey_McCarthy,Joey McCarthy,Mannings USA,,Chevrolet,151,2850,running,0,115
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,17,28,98,usa,John_Cerbone,John Cerbone,Apache Fishing,,Chevrolet,151,2100,running,0,112
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,18,1,61,usa,Mike_Olsen,Mike Olsen,Little Trees,,Chevrolet,151,2475,running,0,109
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,19,6,56,usa,Martin_Truex_Jr,"Martin Truex, Jr.",SeaWatch / GE XST,,Chevrolet,131,2450,running,0,106
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,20,25,30,usa,Dennis_Doyle,Dennis Doyle,Sta-Rite Water Systems,,Chevrolet,126,2425,engine,0,103
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,21,14,0,usa,Bill_Penfold,Bill Penfold,VIP Charter Coaches,,Chevrolet,118,2400,crash,0,100
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,22,26,1,usa,Jerry_Marquis,Jerry Marquis,Totaline / Wittenburg University,,Chevrolet,118,2375,crash,0,97
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,23,33,68,usa,Scott_Bouley,Scott Bouley,Secure Technologies,,Chevrolet,110,1850,crash,0,94
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,24,32,80,usa,Richard_Jarvis_Jr,"Richard Jarvis, Jr.",Bull on the Beach,,Chevrolet,109,1825,crash,0,91
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,25,27,31,usa,Tommy_Beamer,Tommy Beamer,Statewide Hi-Way Safety,,Chevrolet,109,1800,crash,0,88
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,26,3,96,usa,Mike_Johnson_(2),Mike Johnson,Johnson Lumber,,Ford,109,2275,running,0,85
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,27,30,65,usa,Tim_Zock,Tim Zock,Valvoline,,Ford,109,1750,running,0,82
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,28,31,57,usa,Donnie_Neuenberger,Donnie Neuenberger,Commerce First Bank,,Chevrolet,95,1725,crash,0,79
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,29,15,16,usa,Kip_Stockwell,Kip Stockwell,The Flooring Network,,Chevrolet,34,2200,valve spring,0,76
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,30,29,33,usa,Mike_Gallo,Mike Gallo,The Woodworks,,Ford,32,1675,oil pump belt,0,73
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,31,22,09,usa,Bryon_Chew,Bryon Chew,Buzz Chew Auto Group,,Chevrolet,22,2150,crash,0,70
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,32,20,99,usa,Greg_Schaefer,Greg Schaefer,Rite-Way Electric,,Chevrolet,11,2125,engine,0,67
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,33,9,55,usa,Brad_Leighton,Brad Leighton,Burnham Boilers,,Chevrolet,8,2700,crash,0,64
+2001,E,2001_MBNA_E-Commerce_150,2001_18_E,34,34,94,usa,Mike_Speakman,Mike Speakman,WXCY 103.7,,Chevrolet,0,1575,engine,0,61
+2001,E,2001_Carquest_Fall_Final,2001_19_E,1,6,55,usa,Brad_Leighton,Brad Leighton,Burnham Boilers,,Chevrolet,150,10875,running,64,180
+2001,E,2001_Carquest_Fall_Final,2001_19_E,2,3,60,usa,Dale_Shaw,Dale Shaw,Guaranteed Overnight Delivery,,Chevrolet,150,6505,running,81,170
+2001,E,2001_Carquest_Fall_Final,2001_19_E,3,2,96,usa,Mike_Johnson_(2),Mike Johnson,Johnson Lumber,,Ford,150,4170,running,2,165
+2001,E,2001_Carquest_Fall_Final,2001_19_E,4,9,56,usa,Martin_Truex_Jr,"Martin Truex, Jr.",SeaWatch,,Chevrolet,150,2100,running,0,160
+2001,E,2001_Carquest_Fall_Final,2001_19_E,5,21,77,usa,Bryan_Wall,Bryan Wall,Bully Hill Vineyards,,Ford,150,2000,running,0,155
+2001,E,2001_Carquest_Fall_Final,2001_19_E,6,15,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,150,1800,running,0,150
+2001,E,2001_Carquest_Fall_Final,2001_19_E,7,7,09,usa,Bryon_Chew,Bryon Chew,Buzz Chew Auto Group,,Chevrolet,150,1300,running,0,146
+2001,E,2001_Carquest_Fall_Final,2001_19_E,8,12,0,usa,Bill_Penfold,Bill Penfold,VIP Charter Coaches,,Chevrolet,150,1600,running,0,142
+2001,E,2001_Carquest_Fall_Final,2001_19_E,9,16,40,usa,Matt_Kobyluck,Matt Kobyluck,Mohegan Sun,,Chevrolet,150,1500,running,0,138
+2001,E,2001_Carquest_Fall_Final,2001_19_E,10,4,13,usa,Ted_Christopher,Ted Christopher,LesCare Kitchens,,Chevrolet,150,950,running,0,134
+2001,E,2001_Carquest_Fall_Final,2001_19_E,11,5,61,usa,Mike_Olsen,Mike Olsen,Little Trees,,Chevrolet,150,1400,running,0,130
+2001,E,2001_Carquest_Fall_Final,2001_19_E,12,8,47,usa,Kelly_Moore,Kelly Moore,NAPA Auto Parts,,Chevrolet,150,2100,running,0,127
+2001,E,2001_Carquest_Fall_Final,2001_19_E,13,23,86,usa,Dennis_Demers,Dennis Demers,Whelen Engineering / Shelburne Limestone,,Chevrolet,149,1300,running,0,124
+2001,E,2001_Carquest_Fall_Final,2001_19_E,14,18,24,usa,Mike_Rowe,Mike Rowe,Lux Enterprises,,Chevrolet,149,1175,running,0,121
+2001,E,2001_Carquest_Fall_Final,2001_19_E,15,17,99,usa,Greg_Schaefer,Greg Schaefer,Rite Way Electric,,Chevrolet,149,750,running,0,118
+2001,E,2001_Carquest_Fall_Final,2001_19_E,16,13,67,usa,Jamie_Aube,Jamie Aube,DeRossi Classic Homes,,Chevrolet,149,1125,running,0,115
+2001,E,2001_Carquest_Fall_Final,2001_19_E,17,19,36,usa,Brad_Boissonneault,Brad Boissonneault,B & B Racing,,Chevrolet,149,700,running,0,112
+2001,E,2001_Carquest_Fall_Final,2001_19_E,18,11,41,usa,Joey_McCarthy,Joey McCarthy,Mannings USA,,Chevrolet,149,650,running,0,109
+2001,E,2001_Carquest_Fall_Final,2001_19_E,19,25,5,usa,Barney_McRae,Barney McRae,Signarama,,Chevrolet,149,1050,running,0,106
+2001,E,2001_Carquest_Fall_Final,2001_19_E,20,30,30,usa,Dennis_Doyle,Dennis Doyle,Sta-Rite Pumps,,Chevrolet,148,625,running,0,103
+2001,E,2001_Carquest_Fall_Final,2001_19_E,21,20,62,usa,Roger_Raymond,Roger Raymond,Stewart & Son,,Ford,148,600,running,0,100
+2001,E,2001_Carquest_Fall_Final,2001_19_E,22,28,93,usa,Travis_Benjamin,Travis Benjamin,Irving Oil / Belfast Variety,,Ford,147,1000,running,0,97
+2001,E,2001_Carquest_Fall_Final,2001_19_E,23,22,76,usa,Tom_Bolles,Tom Bolles,Bolles Motors,,Chevrolet,147,600,running,0,94
+2001,E,2001_Carquest_Fall_Final,2001_19_E,24,29,04,usa,Carey_Heath,Carey Heath,Aubuchon Hardware,,Chevrolet,142,1000,running,0,91
+2001,E,2001_Carquest_Fall_Final,2001_19_E,25,1,14,usa,Tracy_Gordon,Tracy Gordon,Tic-Tac,,Chevrolet,138,1100,ignition,3,88
+2001,E,2001_Carquest_Fall_Final,2001_19_E,26,10,32,usa,Dale_Quarterley,Dale Quarterley,Land O' Lakes,,Chevrolet,101,1100,radiator,0,85
+2001,E,2001_Carquest_Fall_Final,2001_19_E,27,14,9,usa,Brian_Hoar,Brian Hoar,Goss Dodge,,Chevrolet,101,1000,running,0,82
+2001,E,2001_Carquest_Fall_Final,2001_19_E,28,26,16,usa,Kip_Stockwell,Kip Stockwell,The Flooring Network,,Chevrolet,90,1000,crash,0,79
+2001,E,2001_Carquest_Fall_Final,2001_19_E,29,27,17,usa,Eddie_MacDonald_(2),Eddie MacDonald,Striper's Bar & Grille,,Chevrolet,81,1000,brakes,0,76
+2001,E,2001_Carquest_Fall_Final,2001_19_E,30,24,52,usa,David_Darling,David Darling,Seekonk Grand Prix,,Chevrolet,54,600,engine,0,73
+2001,E,2001_Burnham_Boilers_200,2001_20_E,1,6,32,usa,Dale_Quarterley,Dale Quarterley,Land O' Lakes,,Chevrolet,82,15275,running,13,180
+2001,E,2001_Burnham_Boilers_200,2001_20_E,2,4,13,usa,Boris_Said,Boris Said,LesCare Kitchens,,Chevrolet,82,9005,running,39,170
+2001,E,2001_Burnham_Boilers_200,2001_20_E,3,1,77,usa,Bryan_Wall,Bryan Wall,Bully Hill Vineyards / Wall's Ford,,Ford,82,7620,running,22,165
+2001,E,2001_Burnham_Boilers_200,2001_20_E,4,8,96,usa,Mike_Johnson_(2),Mike Johnson,Johnson Lumber,,Ford,82,4100,running,0,160
+2001,E,2001_Burnham_Boilers_200,2001_20_E,5,15,61,usa,Mike_Olsen,Mike Olsen,Little Trees,,Chevrolet,82,3300,running,5,155
+2001,E,2001_Burnham_Boilers_200,2001_20_E,6,14,78,usa,Rick_Bell,Rick Bell,Evans Engine Cooling,,Pontiac,82,2300,running,0,150
+2001,E,2001_Burnham_Boilers_200,2001_20_E,7,3,54,usa,Paul_Wolfe,Paul Wolfe,Astrocom,,Chevrolet,82,1900,running,0,146
+2001,E,2001_Burnham_Boilers_200,2001_20_E,8,5,40,usa,Matt_Kobyluck,Matt Kobyluck,Mohegan Sun,,Chevrolet,82,2150,running,0,142
+2001,E,2001_Burnham_Boilers_200,2001_20_E,9,22,52,usa,David_Darling,David Darling,Seekonk Grand Prix,,Chevrolet,82,2100,running,0,138
+2001,E,2001_Burnham_Boilers_200,2001_20_E,10,9,14,usa,Tracy_Gordon,Tracy Gordon,Tic-Tac,,Chevrolet,82,1950,running,0,134
+2001,E,2001_Burnham_Boilers_200,2001_20_E,11,28,50,usa,Brett_Roubinek,Brett Roubinek,Crystal Rock Bottled Water,,Chevrolet,82,1375,running,0,130
+2001,E,2001_Burnham_Boilers_200,2001_20_E,12,31,28,usa,Todd_Wilkinson,Todd Wilkinson,Kimball Oil,,Chevrolet,82,1350,running,0,127
+2001,E,2001_Burnham_Boilers_200,2001_20_E,13,13,0,usa,Bill_Penfold,Bill Penfold,VIP Charter Coaches,,Chevrolet,82,1825,running,0,124
+2001,E,2001_Burnham_Boilers_200,2001_20_E,14,21,67,usa,Jamie_Aube,Jamie Aube,Verres Racing / ASI,,Chevrolet,82,1800,running,0,121
+2001,E,2001_Burnham_Boilers_200,2001_20_E,15,11,09,usa,Bryon_Chew,Bryon Chew,Buzz Chew Auto Group,,Chevrolet,82,1775,running,0,118
+2001,E,2001_Burnham_Boilers_200,2001_20_E,16,30,41,usa,Joey_McCarthy,Joey McCarthy,Mannings USA,,Chevrolet,82,2750,running,0,115
+2001,E,2001_Burnham_Boilers_200,2001_20_E,17,18,62,usa,John_Wall_Sr,"John Wall, Sr.",Stewart & Son,,Ford,82,1225,running,0,112
+2001,E,2001_Burnham_Boilers_200,2001_20_E,18,27,29,usa,Dave_Dion,Dave Dion,Berlin City Ford,,Ford,82,1700,running,0,109
+2001,E,2001_Burnham_Boilers_200,2001_20_E,19,25,37,usa,Joe_Pezza,Joe Pezza,Van Dyk Baler,,Chevrolet,81,1175,running,0,106
+2001,E,2001_Burnham_Boilers_200,2001_20_E,20,33,5,usa,Barney_McRae,Barney McRae,Ehler's RV,,Pontiac,81,1650,running,0,103
+2001,E,2001_Burnham_Boilers_200,2001_20_E,21,16,86,usa,Dennis_Demers,Dennis Demers,Whelen Engineering / Shelburne Limestone,,Chevrolet,81,1625,running,3,100
+2001,E,2001_Burnham_Boilers_200,2001_20_E,22,20,59,canada,Jason_Holehouse,Jason Holehouse,Fire Management Systems,,Chevrolet,81,1100,running,0,97
+2001,E,2001_Burnham_Boilers_200,2001_20_E,23,21,60,usa,Dale_Shaw,Dale Shaw,Guaranteed Overnight Delivery,,Chevrolet,81,1575,running,0,94
+2001,E,2001_Burnham_Boilers_200,2001_20_E,24,36,04,usa,Carey_Heath,Carey Heath,Aubuchon Hardware,,Chevrolet,76,1550,running,0,91
+2001,E,2001_Burnham_Boilers_200,2001_20_E,25,35,24,usa,Mike_Rowe,Mike Rowe,Lux Enterprises,,Chevrolet,71,1525,running,0,88
+2001,E,2001_Burnham_Boilers_200,2001_20_E,26,34,93,usa,Travis_Benjamin,Travis Benjamin,Irving Oil,,Ford,67,1500,running,0,85
+2001,E,2001_Burnham_Boilers_200,2001_20_E,27,2,55,usa,Brad_Leighton,Brad Leighton,Burnham Boilers,,Chevrolet,67,2100,running,0,82
+2001,E,2001_Burnham_Boilers_200,2001_20_E,28,10,47,usa,Kelly_Moore,Kelly Moore,NAPA Auto Parts,,Chevrolet,65,1500,running,0,79
+2001,E,2001_Burnham_Boilers_200,2001_20_E,29,17,99,usa,Greg_Schaefer,Greg Schaefer,Rite-Way Electric,,Chevrolet,63,1500,suspension,0,76
+2001,E,2001_Burnham_Boilers_200,2001_20_E,30,32,16,usa,Kip_Stockwell,Kip Stockwell,The Flooring Network,,Pontiac,59,1500,drive shaft,0,73
+2001,E,2001_Burnham_Boilers_200,2001_20_E,31,23,17,usa,Eddie_MacDonald_(2),Eddie MacDonald,Striper's Grille & Bar,,Chevrolet,53,1500,suspension,0,70
+2001,E,2001_Burnham_Boilers_200,2001_20_E,32,29,68,usa,Scott_Bouley,Scott Bouley,Secure Technologies,,Chevrolet,46,1000,suspension,0,67
+2001,E,2001_Burnham_Boilers_200,2001_20_E,33,24,9,usa,Brian_Hoar,Brian Hoar,Goss Dodge / Worldwide Monkey,,Pontiac,39,1500,rear end,0,64
+2001,E,2001_Burnham_Boilers_200,2001_20_E,34,7,56,usa,Martin_Truex_Jr,"Martin Truex, Jr.",SeaWatch,,Chevrolet,20,1500,crash,0,61
+2001,E,2001_Burnham_Boilers_200,2001_20_E,35,12,30,usa,Dennis_Doyle,Dennis Doyle,Sta-Rite Pumps,,Chevrolet,15,1000,rear end,0,58
+2001,E,2001_Burnham_Boilers_200,2001_20_E,36,26,36,usa,Brad_Boissonneault,Brad Boissonneault,B & B Racing,,Chevrolet,2,1000,crash,0,55

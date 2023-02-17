@@ -1,0 +1,335 @@
+season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
+1980,P,1980_Winston_Western_500,1980_01_P,1,1,88,usa,Darrell_Waltrip,Darrell Waltrip   (Cup),Gatorade,,Chevrolet,119,24700,running,56,0
+1980,P,1980_Winston_Western_500,1980_01_P,2,5,2,usa,Dale_Earnhardt,Dale Earnhardt   (Cup),Rod Osterlund,,Chevrolet,119,19400,running,0,0
+1980,P,1980_Winston_Western_500,1980_01_P,3,3,43,usa,Richard_Petty,Richard Petty   (Cup),STP,,Chevrolet,119,15100,running,13,0
+1980,P,1980_Winston_Western_500,1980_01_P,4,9,72,usa,Joe_Millikan,Joe Millikan   (Cup),DeWitt Trucking,,Chevrolet,119,10200,running,0,0
+1980,P,1980_Winston_Western_500,1980_01_P,5,10,73,usa,Bill_Schmitt,Bill Schmitt,Shasta County Bank,,Oldsmobile,119,7455,running,0,50
+1980,P,1980_Winston_Western_500,1980_01_P,6,13,3,usa,Richard_Childress,Richard Childress   (Cup),CRC Chemicals,,Chevrolet,118,5280,running,0,0
+1980,P,1980_Winston_Western_500,1980_01_P,7,15,44,usa,Terry_Labonte,Terry Labonte   (Cup),Stratagraph,,Chevrolet,118,4810,running,0,0
+1980,P,1980_Winston_Western_500,1980_01_P,8,28,40,usa,Bill_Whittington,Bill Whittington,Midwestern Farm Lines,,Chevrolet,117,4400,running,0,0
+1980,P,1980_Winston_Western_500,1980_01_P,9,26,55,usa,Don_Whittington,Don Whittington,Warner / Curb,,Chevrolet,117,2300,running,0,0
+1980,P,1980_Winston_Western_500,1980_01_P,10,14,25,usa,Ronnie_Thomas,Ronnie Thomas   (Cup),Stone's Cafeteria,,Chevrolet,116,4190,running,0,0
+1980,P,1980_Winston_Western_500,1980_01_P,11,22,8,usa,James_Hylton,James Hylton   (Cup),G.W. Dickinson,,Chevrolet,115,3720,running,0,0
+1980,P,1980_Winston_Western_500,1980_01_P,12,20,75,usa,Harry_Gant,Harry Gant   (Cup),RahMoc Enterprises,,Oldsmobile,115,1800,running,0,0
+1980,P,1980_Winston_Western_500,1980_01_P,13,34,45,canada,Roy_Smith,Roy Smith,Iron Peddlers,,Chevrolet,114,1700,running,0,49
+1980,P,1980_Winston_Western_500,1980_01_P,14,16,67,usa,Buddy_Arrington,Buddy Arrington   (Cup),Switzer Construction,,Dodge,114,3260,running,0,0
+1980,P,1980_Winston_Western_500,1980_01_P,15,17,70,usa,J_D_McDuffie,J.D. McDuffie   (Cup),Bailey Excavating,,Chevrolet,113,3050,running,0,0
+1980,P,1980_Winston_Western_500,1980_01_P,16,35,90,usa,Jody_Ridley,Jody Ridley   (Cup),Truxmore / Sunny King,,Ford,113,3340,running,0,0
+1980,P,1980_Winston_Western_500,1980_01_P,17,6,71,usa,Dave_Marcis,Dave Marcis   (Cup),Hudson Transmission,,Chevrolet,112,2630,running,9,0
+1980,P,1980_Winston_Western_500,1980_01_P,18,4,15,usa,Bobby_Allison,Bobby Allison   (Cup),Hodgdon / Moore,,Ford,109,5750,engine,0,0
+1980,P,1980_Winston_Western_500,1980_01_P,19,24,13,usa,Don_Puskarich,Don Puskarich,Matt Puskarich,,Chevrolet,109,1250,running,0,48
+1980,P,1980_Winston_Western_500,1980_01_P,20,31,19,usa,Vince_Giamformaggio,Vince Giamformaggio,Belden Asphalt,,Chevrolet,109,2260,running,0,47
+1980,P,1980_Winston_Western_500,1980_01_P,21,37,52,usa,Jimmy_Means,Jimmy Means   (Cup),Mr. Transmission,,Chevrolet,108,2185,running,0,0
+1980,P,1980_Winston_Western_500,1980_01_P,22,11,7,usa,Dick_Brooks,Dick Brooks   (Cup),Sanyo,,Chevrolet,104,2150,sway bar,0,0
+1980,P,1980_Winston_Western_500,1980_01_P,23,2,11,usa,Cale_Yarborough,Cale Yarborough   (Cup),Busch,,Chevrolet,103,5530,engine,41,0
+1980,P,1980_Winston_Western_500,1980_01_P,24,21,78,usa,Jim_Robinson,Jim Robinson,San-Val Supply,,Chevrolet,103,1580,running,0,46
+1980,P,1980_Winston_Western_500,1980_01_P,25,23,37,usa,Chuck_Wahl,Chuck Wahl,Excel Trailer,,Chevrolet,88,1005,running,0,45
+1980,P,1980_Winston_Western_500,1980_01_P,26,12,93,usa,Hershel_McGriff,Hershel McGriff,Bigelow Paint,,Dodge,82,955,engine,0,44
+1980,P,1980_Winston_Western_500,1980_01_P,27,36,57,usa,Steve_Pfeifer,Steve Pfeifer,Don Guy,,Chevrolet,82,905,running,0,43
+1980,P,1980_Winston_Western_500,1980_01_P,28,7,48,usa,Dan_Gurney,Dan Gurney   (Cup),Lubri-Lon,,Chevrolet,79,1105,transmission,0,0
+1980,P,1980_Winston_Western_500,1980_01_P,29,32,24,usa,Lake_Speed,Lake Speed   (Cup),Reliable RV,,Oldsmobile,79,1305,engine,0,0
+1980,P,1980_Winston_Western_500,1980_01_P,30,25,18,usa,Randy_Ogden,Randy Ogden   (Cup),Jack Ogden,,Chevrolet,73,755,engine,0,0
+1980,P,1980_Winston_Western_500,1980_01_P,31,18,81,usa,John_Borneman,John Borneman,Borneman Plastering,,Chevrolet,72,700,transmission,0,42
+1980,P,1980_Winston_Western_500,1980_01_P,32,30,79,usa,Dick_May,Dick May   (Cup),Native Tan,,Dodge,71,1150,oil pump,0,0
+1980,P,1980_Winston_Western_500,1980_01_P,33,8,27,usa,Benny_Parsons,Benny Parsons   (Cup),Melling Tool,,Chevrolet,52,5050,transmission,0,0
+1980,P,1980_Winston_Western_500,1980_01_P,34,27,21,usa,Neil_Bonnett,Neil Bonnett   (Cup),Purolator,,Mercury,35,1050,oil line,0,0
+1980,P,1980_Winston_Western_500,1980_01_P,35,29,08,usa,Rick_McCray,Rick McCray,Rick McCray,,Buick,34,500,engine,0,41
+1980,P,1980_Winston_Western_500,1980_01_P,36,19,47,usa,Chuck_Bown,Chuck Bown   (Cup),J & S Trucking,,Chevrolet,30,500,engine,0,0
+1980,P,1980_Winston_Western_500,1980_01_P,37,33,97,usa,Bill_Osborne_(2),Bill Osborne,Ivan Baldwin,,Chevrolet,20,500,rear end,0,40
+1980,P,1980_Datsun_200,1980_02_P,1,2,11,canada,Roy_Smith,Roy Smith,Aircraft Standards,,Oldsmobile,50,6975,running,12,60
+1980,P,1980_Datsun_200,1980_02_P,2,1,73,usa,Bill_Schmitt,Bill Schmitt,Fluro-Cote,,Oldsmobile,50,3925,running,32,49
+1980,P,1980_Datsun_200,1980_02_P,3,6,93,usa,Hershel_McGriff,Hershel McGriff,Stockton Winston 200,,Dodge,50,2350,running,3,48
+1980,P,1980_Datsun_200,1980_02_P,4,4,08,usa,Rick_McCray,Rick McCray,Mark C. Bloome,,Buick,50,1900,running,3,47
+1980,P,1980_Datsun_200,1980_02_P,5,10,78,usa,Jim_Robinson,Jim Robinson,San-Val Supply,,Pontiac,50,1500,running,0,46
+1980,P,1980_Datsun_200,1980_02_P,6,12,35,usa,Pat_Mintey,Pat Mintey,Stick Only,,Chevrolet,50,1150,running,0,45
+1980,P,1980_Datsun_200,1980_02_P,7,5,38,usa,Don_Waterman,Don Waterman,Sommers Racing Engines,,Oldsmobile,50,1100,running,0,44
+1980,P,1980_Datsun_200,1980_02_P,8,8,2,usa,Robert_Tartaglia,Robert Tartaglia,Lindsey Auto Parts,,Pontiac,49,950,running,0,43
+1980,P,1980_Datsun_200,1980_02_P,9,19,17,usa,Harry_Goularte,Harry Goularte,Whalen Racing Engines,,Chevrolet,49,800,running,0,42
+1980,P,1980_Datsun_200,1980_02_P,10,20,13,usa,Don_Puskarich,Don Puskarich,M.J. Puskarich,,Chevrolet,49,825,running,0,41
+1980,P,1980_Datsun_200,1980_02_P,11,14,37,usa,Bob_Switzer,Bob Switzer,Excel Trailer,,Chevrolet,49,650,running,0,40
+1980,P,1980_Datsun_200,1980_02_P,12,9,91,usa,John_Krebs,John Krebs,Rick's Body Shop,,Chevrolet,48,625,engine,0,39
+1980,P,1980_Datsun_200,1980_02_P,13,16,33,usa,Glenn_Francis,Glenn Francis,Greenfield Auto Parts,,Buick,48,600,running,0,38
+1980,P,1980_Datsun_200,1980_02_P,14,27,0,usa,George_Esau,George Esau,Esau Racing,,Chevrolet,47,575,running,0,37
+1980,P,1980_Datsun_200,1980_02_P,15,29,60,usa,Glen_Ward,Glen Ward,Valley Spa,,Chevrolet,47,550,running,0,36
+1980,P,1980_Datsun_200,1980_02_P,16,17,14,usa,Dick_Kranzler,Dick Kranzler,Don's Automotive,,Chevrolet,47,525,running,0,35
+1980,P,1980_Datsun_200,1980_02_P,17,28,61,usa,Don_Stanley,Don Stanley,Press & John Automotive,,Chevrolet,47,500,running,0,34
+1980,P,1980_Datsun_200,1980_02_P,18,25,96,usa,Sharon_Bishop,Sharon Bishop,Bishop Enterprises,,Pontiac,46,475,running,0,33
+1980,P,1980_Datsun_200,1980_02_P,19,23,25,usa,Bill_Sedgwick,Bill Sedgwick,Maray Painting,,Chevrolet,45,450,running,0,32
+1980,P,1980_Datsun_200,1980_02_P,20,31,90,usa,Jack_Malugani,Jack Malugani,Action Automotive,,Ford,44,425,running,0,31
+1980,P,1980_Datsun_200,1980_02_P,21,26,69,usa,Ron_ODell,Ron O'Dell,O'Dell Racing,,Chevrolet,39,400,running,0,30
+1980,P,1980_Datsun_200,1980_02_P,22,13,32,usa,Marc_Vogel,Marc Vogel,American Glass,,Dodge,38,375,battery,0,29
+1980,P,1980_Datsun_200,1980_02_P,23,24,65,usa,Tim_McMillan,Tim McMillan,JRC Lumber,,Chevrolet,22,350,transmission,0,28
+1980,P,1980_Datsun_200,1980_02_P,24,30,77,usa,Gene_Thonesen,Gene Thonesen,Thonesen Racing,,Chevrolet,21,325,engine,0,27
+1980,P,1980_Datsun_200,1980_02_P,25,7,98,usa,Johnny_Kieper,Johnny Kieper,Wholesale Truck Parts,,Pontiac,20,315,engine,0,26
+1980,P,1980_Datsun_200,1980_02_P,26,11,6,usa,Dick_Whalen,Dick Whalen,Mileage Maker Kits,,Chevrolet,15,310,engine,0,25
+1980,P,1980_Datsun_200,1980_02_P,27,18,97,usa,Gary_Matthews,Gary Matthews,Elias Trucking,,Chevrolet,15,300,overheating,0,24
+1980,P,1980_Datsun_200,1980_02_P,28,15,20,usa,Ed_Hale,Ed Hale,Peralta & Hale,,Chevrolet,7,300,transmission,0,23
+1980,P,1980_Datsun_200,1980_02_P,29,21,57,usa,Steve_Pfeifer,Steve Pfeifer,Pfeifer Racing,,Chevrolet,7,300,engine,0,22
+1980,P,1980_Datsun_200,1980_02_P,30,22,94,usa,Don_Graham,Don Graham,Kord Racing,,Chevrolet,1,300,transmission,0,21
+1980,P,1980_Datsun_200,1980_02_P,31,3,81,usa,John_Borneman,John Borneman,Borneman Plastering,,Chevrolet,0,300,did not start,0,20
+1980,P,1980_Stockton_Winston_200,1980_03_P,1,5,21,usa,Ivan_Baldwin,Ivan Baldwin,Baldwin Engineering,,Mercury,200,3500,running,131,0
+1980,P,1980_Stockton_Winston_200,1980_03_P,2,8,78,usa,Jim_Robinson,Jim Robinson,San-Val Supply,,Pontiac,200,2250,running,0,49
+1980,P,1980_Stockton_Winston_200,1980_03_P,3,15,08,usa,Rick_McCray,Rick McCray,McCray Racing,,Pontiac,199,1450,running,0,48
+1980,P,1980_Stockton_Winston_200,1980_03_P,4,9,38,usa,Don_Waterman,Don Waterman,St. John's Auto Parts,,Pontiac,199,1100,running,0,47
+1980,P,1980_Stockton_Winston_200,1980_03_P,5,3,29,usa,Hershel_McGriff,Hershel McGriff,Carter Way Automotive,,Pontiac,195,750,running,0,46
+1980,P,1980_Stockton_Winston_200,1980_03_P,6,7,35,usa,Pat_Mintey,Pat Mintey,Stick Only,,Chevrolet,193,650,running,0,45
+1980,P,1980_Stockton_Winston_200,1980_03_P,7,10,12,usa,David_Pearson,David Pearson,Modesto Ford Tractor,,Ford,192,625,running,0,44
+1980,P,1980_Stockton_Winston_200,1980_03_P,8,19,60,usa,Glen_Ward,Glen Ward,Rogue Valley Spa,,Chevrolet,192,600,running,0,43
+1980,P,1980_Stockton_Winston_200,1980_03_P,9,17,33,usa,Glenn_Francis,Glenn Francis,Greenfield Auto Parts,,Buick,191,575,running,0,42
+1980,P,1980_Stockton_Winston_200,1980_03_P,10,6,10,usa,Ernie_Irvan,Ernie Irvan,Check-It Electronics,,Pontiac,190,625,running,0,41
+1980,P,1980_Stockton_Winston_200,1980_03_P,11,1,7,usa,Ron_Eaton,Ron Eaton,Lake's Body Shop,,Pontiac,187,460,suspension,68,40
+1980,P,1980_Stockton_Winston_200,1980_03_P,12,12,32,usa,Marc_Vogel,Marc Vogel,American Glass Company,,Dodge,184,445,running,0,39
+1980,P,1980_Stockton_Winston_200,1980_03_P,13,14,81,usa,John_Borneman,John Borneman,Borneman Plastering,,Pontiac,183,420,running,0,38
+1980,P,1980_Stockton_Winston_200,1980_03_P,14,21,22,usa,St_James_Davis,St. James Davis,Infield Ambulance,,Dodge,154,400,oil leak,0,37
+1980,P,1980_Stockton_Winston_200,1980_03_P,15,11,52,usa,Don_Graham,Don Graham,American River Auto Wreckers,,Buick,132,375,oil leak,0,36
+1980,P,1980_Stockton_Winston_200,1980_03_P,16,20,61,usa,Don_Stanley,Don Stanley,Press & John Auto Repair,,Chevrolet,108,350,ignition,0,35
+1980,P,1980_Stockton_Winston_200,1980_03_P,17,16,2,usa,Robert_Tartaglia,Robert Tartaglia,Dale's Diesel,,Pontiac,88,375,engine,0,34
+1980,P,1980_Stockton_Winston_200,1980_03_P,18,13,13,usa,Don_Puskarich,Don Puskarich,Oil Field Construction,,Chevrolet,81,300,engine,0,33
+1980,P,1980_Stockton_Winston_200,1980_03_P,19,22,94,usa,Steve_Pfeifer,Steve Pfeifer,Kord Racing,,Chevrolet,75,250,crash,0,32
+1980,P,1980_Stockton_Winston_200,1980_03_P,20,24,96,usa,Sharon_Bishop,Sharon Bishop,Bishop Enterprises,,Pontiac,60,225,fuel pump,0,31
+1980,P,1980_Stockton_Winston_200,1980_03_P,21,2,73,usa,Bill_Schmitt,Bill Schmitt,Fluro-Cote,,Pontiac,47,500,crash,1,30
+1980,P,1980_Stockton_Winston_200,1980_03_P,22,18,91,usa,John_Krebs,John Krebs,Rick's Body Shop,,Chevrolet,45,200,crash,0,29
+1980,P,1980_Stockton_Winston_200,1980_03_P,23,4,11,canada,Roy_Smith,Roy Smith,Aircraft Standards,,Pontiac,7,200,clutch,0,28
+1980,P,1980_Stockton_Winston_200,1980_03_P,24,23,57,usa,Jim_Hopkinson,Jim Hopkinson,Hopkinson Racing,,Chevrolet,1,200,engine,0,27
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,1,2,88,usa,Darrell_Waltrip,Darrell Waltrip   (Cup),Gatorade,,Chevrolet,95,22100,running,23,0
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,2,7,21,usa,Neil_Bonnett,Neil Bonnett   (Cup),Purolator,,Mercury,95,10950,running,20,0
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,3,8,27,usa,Benny_Parsons,Benny Parsons   (Cup),Melling Tool,,Chevrolet,95,10950,running,0,0
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,4,1,11,usa,Cale_Yarborough,Cale Yarborough   (Cup),Busch,,Chevrolet,95,9650,running,3,0
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,5,5,2,usa,Dale_Earnhardt,Dale Earnhardt   (Cup),Mike Curb / Hodgdon,,Chevrolet,95,9100,running,21,0
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,6,9,71,usa,Dave_Marcis,Dave Marcis   (Cup),Buck Stove / Hudson Transmission,,Chevrolet,94,5180,running,1,0
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,7,14,75,usa,Harry_Gant,Harry Gant   (Cup),RahMoc Enterprises,,Chevrolet,94,3930,running,1,0
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,8,6,43,usa,Richard_Petty,Richard Petty   (Cup),STP,,Chevrolet,93,8000,running,0,0
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,9,18,70,usa,J_D_McDuffie,J.D. McDuffie   (Cup),Bailey Excavating,,Chevrolet,93,3960,running,0,0
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,10,25,24,usa,Cecil_Gordon,Cecil Gordon   (Cup),Reliable RV,,Oldsmobile,93,3900,running,0,0
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,11,33,90,usa,Jody_Ridley,Jody Ridley   (Cup),Truxmore / Sunny King,,Ford,92,3990,running,0,0
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,12,20,48,usa,James_Hylton,James Hylton   (Cup),Palatine Automotive Parts,,Chevrolet,92,3270,running,0,0
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,13,4,73,usa,Bill_Schmitt,Bill Schmitt,Fluro-Cote,,Oldsmobile,92,3650,running,0,50
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,14,12,67,usa,Buddy_Arrington,Buddy Arrington   (Cup),"10,000 RPM Speed Equipment",,Dodge,92,2850,running,0,0
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,15,3,15,usa,Bobby_Allison,Bobby Allison   (Cup),Mike Curb / Hodgdon,,Ford,91,5875,valve,23,0
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,16,16,25,usa,Ronnie_Thomas,Ronnie Thomas   (Cup),Stone's Cafeteria,,Chevrolet,91,2465,running,0,0
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,17,30,13,usa,Don_Puskarich,Don Puskarich,Oil Field Construction,,Chevrolet,90,1780,running,0,49
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,18,11,3,usa,Richard_Childress,Richard Childress   (Cup),CRC Chemicals,,Chevrolet,89,2040,running,0,0
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,19,32,79,usa,Joe_Booher,Joe Booher   (Cup),Warren Racing,,Dodge,83,2005,running,0,0
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,20,23,78,usa,Jim_Robinson,Jim Robinson,San Fernando Valley Lumber,,Chevrolet,82,1470,running,0,48
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,21,34,94,usa,Steve_Pfeifer,Steve Pfeifer,K-P Racing,,Chevrolet,75,900,transmission,0,47
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,22,29,74,usa,Bobby_Wawak,Bobby Wawak   (Cup),Wawak Racing,,Buick,73,875,engine,0,0
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,23,31,17,usa,Roger_Hamby,Roger Hamby   (Cup),Kings Inn Daytona,,Chevrolet,69,850,brakes,0,0
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,24,22,29,usa,Hershel_McGriff,Hershel McGriff,Tropical Car Rental,,Chevrolet,67,825,running,0,46
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,25,28,38,usa,Don_Waterman,Don Waterman,St. John's Auto Parts,,Oldsmobile,64,1325,engine,0,45
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,26,19,66,usa,Lake_Speed,Lake Speed   (Cup),Speed Investments,,Chevrolet,62,775,engine,0,0
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,27,36,57,usa,Jim_Hopkinson,Jim Hopkinson,Bill's Custom Machine,,Chevrolet,42,750,oil leak,0,44
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,28,15,45,canada,Roy_Smith,Roy Smith,Aircraft Standards,,Oldsmobile,39,1225,throttle,3,43
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,29,35,52,usa,Ed_Hale,Ed Hale,Hale Racing,,Chevrolet,37,1200,transmission,0,42
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,30,13,12,usa,Donnie_Allison,Donnie Allison   (Cup),Kencoal Mining,,Chevrolet,26,675,engine,0,0
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,31,27,7,usa,Dick_Brooks,Dick Brooks   (Cup),Sanyo,,Chevrolet,25,1150,engine,0,0
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,32,26,08,usa,Rick_McCray,Rick McCray,McCray Racing,,Buick,17,625,transmission,0,41
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,33,10,44,usa,Terry_Labonte,Terry Labonte   (Cup),Stratagraph,,Chevrolet,12,1100,oil leak,0,0
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,34,24,81,usa,John_Borneman,John Borneman,Borneman Plastering,,Chevrolet,12,550,engine,0,40
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,35,21,64,usa,Don_Whittington,Don Whittington   (Cup),Sun Systems,,Chevrolet,11,1000,transmission,0,0
+1980,P,1980_Warner_W._Hodgdon_400,1980_04_P,36,17,40,usa,D_K_Ulrich,D.K. Ulrich   (Cup),Midwestern Farm Lines,,Chevrolet,0,1000,engine,0,0
+1980,P,1980_Winston_Monterey_200,1980_05_P,1,1,9,usa,Jimmy_Insolo,Jimmy Insolo,Palmer Glass,,Oldsmobile,66,5650,running,44,60
+1980,P,1980_Winston_Monterey_200,1980_05_P,2,6,78,usa,Jim_Robinson,Jim Robinson,San Fernando Valley Lumber,,Pontiac,66,3125,running,0,49
+1980,P,1980_Winston_Monterey_200,1980_05_P,3,4,11,canada,Roy_Smith,Roy Smith,Aircraft Standards,,Pontiac,66,2000,running,0,48
+1980,P,1980_Winston_Monterey_200,1980_05_P,4,13,38,usa,Don_Waterman,Don Waterman,St. John's Auto Parts,,Pontiac,65,1300,running,0,47
+1980,P,1980_Winston_Monterey_200,1980_05_P,5,10,08,usa,Rick_McCray,Rick McCray,McCray Racing,,Pontiac,65,1050,running,0,46
+1980,P,1980_Winston_Monterey_200,1980_05_P,6,17,33,usa,Glenn_Francis,Glenn Francis,Greenfield Auto Parts,,Buick,63,850,running,0,45
+1980,P,1980_Winston_Monterey_200,1980_05_P,7,8,12,usa,Bobby_Allison,Bobby Allison,Arley Cook / Ford Tractor,,Ford,63,1000,running,0,44
+1980,P,1980_Winston_Monterey_200,1980_05_P,8,26,25,usa,Bob_Barker,Bob Barker,Barker Racing,,Pontiac,63,700,running,0,43
+1980,P,1980_Winston_Monterey_200,1980_05_P,9,12,98,usa,Johnny_Kieper,Johnny Kieper,Wholesale Truck Parts,,Pontiac,62,700,running,0,42
+1980,P,1980_Winston_Monterey_200,1980_05_P,10,19,2,usa,Robert_Tartaglia,Robert Tartaglia,Dules Diesel,,Pontiac,62,775,running,0,41
+1980,P,1980_Winston_Monterey_200,1980_05_P,11,22,94,usa,Steve_Pfeifer,Steve Pfeifer,Ford Racing Enterprises,,Chevrolet,62,550,running,0,40
+1980,P,1980_Winston_Monterey_200,1980_05_P,12,21,57,usa,Jim_Hopkinson,Jim Hopkinson,Hopkinson Racing,,Chevrolet,62,500,running,0,39
+1980,P,1980_Winston_Monterey_200,1980_05_P,13,20,6,usa,Dick_Whalen,Dick Whalen,Mileage Maker Kits,,Chevrolet,61,475,running,0,38
+1980,P,1980_Winston_Monterey_200,1980_05_P,14,14,17,usa,Harry_Goularte,Harry Goularte,Whalen Racing Engines,,Chevrolet,61,440,running,0,37
+1980,P,1980_Winston_Monterey_200,1980_05_P,15,15,32,usa,Marc_Vogel,Marc Vogel,American Glass,,Dodge,60,410,running,0,36
+1980,P,1980_Winston_Monterey_200,1980_05_P,16,23,40,usa,Glen_Ward,Glen Ward,Valley Spa Brokerage,,Chevrolet,60,400,running,0,35
+1980,P,1980_Winston_Monterey_200,1980_05_P,17,2,43,usa,Richard_Petty,Richard Petty,Fluro-Cote,,Buick,58,1375,oil leak,0,0
+1980,P,1980_Winston_Monterey_200,1980_05_P,18,16,13,usa,Don_Puskarich,Don Puskarich,Oil Field Construction,,Oldsmobile,58,350,running,0,33
+1980,P,1980_Winston_Monterey_200,1980_05_P,19,3,73,usa,Bill_Schmitt,Bill Schmitt,Fluro-Cote / Old Milwaukee Beer,,Pontiac,53,950,engine,22,32
+1980,P,1980_Winston_Monterey_200,1980_05_P,20,11,52,usa,Don_Graham,Don Graham,City Tow,,Pontiac,53,300,suspension,0,31
+1980,P,1980_Winston_Monterey_200,1980_05_P,21,25,92,usa,Tim_McMillan,Tim McMillan,Baldwin Enterprises,,Chevrolet,49,250,running,0,30
+1980,P,1980_Winston_Monterey_200,1980_05_P,22,7,10,usa,Ernie_Irvan,Ernie Irvan,Check-It Electronics,,Pontiac,47,500,transmission,0,29
+1980,P,1980_Winston_Monterey_200,1980_05_P,23,9,81,usa,John_Borneman,John Borneman,Borneman Plastering Inc.,,Pontiac,46,350,running,0,28
+1980,P,1980_Winston_Monterey_200,1980_05_P,24,27,96,usa,Sharon_Bishop,Sharon Bishop,Bishop Enterprises,,Pontiac,31,200,engine,0,27
+1980,P,1980_Winston_Monterey_200,1980_05_P,25,18,35,usa,Pat_Mintey,Pat Mintey,Stick Only,,Chevrolet,9,200,engine,0,26
+1980,P,1980_Winston_Monterey_200,1980_05_P,26,5,29,usa,Hershel_McGriff,Hershel McGriff,"Scarborough Lumber, Inc.",,Pontiac,7,200,engine,0,25
+1980,P,1980_Winston_Monterey_200,1980_05_P,27,28,61,usa,Don_Stanley,Don Stanley,Press & John Auto Repair,,Chevrolet,1,200,engine,0,24
+1980,P,1980_Winston_Monterey_200,1980_05_P,28,24,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Auto World,,Buick,0,200,did not start,0,0
+1980,P,1980_Reed_Cams_200,1980_06_P,1,1,7,usa,Ron_Eaton,Ron Eaton,Hull Flour,,Pontiac,200,5200,running,159,60
+1980,P,1980_Reed_Cams_200,1980_06_P,2,3,95,usa,Don_Dowdy,Don Dowdy,"Jefferson Racing Team, Inc.",,Ford,200,2900,running,0,49
+1980,P,1980_Reed_Cams_200,1980_06_P,3,21,98,usa,Johnny_Kieper,Johnny Kieper,Wholesale Truck Parts,,Pontiac,200,1650,running,0,48
+1980,P,1980_Reed_Cams_200,1980_06_P,4,6,22,canada,Roy_Smith,Roy Smith,Aircraft Standards,,Pontiac,197,1200,running,0,47
+1980,P,1980_Reed_Cams_200,1980_06_P,5,11,16,usa,Jim_Bown,Jim Bown,Rose Auto Wrecking,,Pontiac,196,1000,running,0,46
+1980,P,1980_Reed_Cams_200,1980_06_P,6,4,04,usa,Neal_Newberry,Neal Newberry,Leonard Evans Chrysler-Plymouth,,Plymouth,195,750,running,0,45
+1980,P,1980_Reed_Cams_200,1980_06_P,7,13,40,canada,Billy_Hitchcox,Billy Hitchcox,Hitchcox Racing,,Pontiac,194,850,running,0,44
+1980,P,1980_Reed_Cams_200,1980_06_P,8,2,78,usa,Jim_Robinson,Jim Robinson,San Fernando Valley Lumber,,Pontiac,190,750,running,16,43
+1980,P,1980_Reed_Cams_200,1980_06_P,9,26,82,usa,Ross_Kusah,Ross Kusah,McCutcheon Fence Company,,Pontiac,189,650,running,0,42
+1980,P,1980_Reed_Cams_200,1980_06_P,10,16,60,usa,Glen_Ward,Glen Ward,Rogue Valley Spa Brokerage,,Chevrolet,189,650,running,0,41
+1980,P,1980_Reed_Cams_200,1980_06_P,11,24,3,none,Billy_Zimmerman_Jr,"Billy Zimmerman, Jr.",Seifert Racing,,Pontiac,188,750,running,0,40
+1980,P,1980_Reed_Cams_200,1980_06_P,12,23,33,usa,Archie_Somers,Archie Somers,Race Systems,,Pontiac,187,500,running,0,39
+1980,P,1980_Reed_Cams_200,1980_06_P,13,17,2,usa,Robert_Tartaglia,Robert Tartaglia,Dale's Diesel,,Pontiac,186,490,running,0,38
+1980,P,1980_Reed_Cams_200,1980_06_P,14,19,19,usa,LeRoy_Anderson,LeRoy Anderson,Jim Socci Racing Engines,,Pontiac,186,475,running,0,37
+1980,P,1980_Reed_Cams_200,1980_06_P,15,7,88,usa,Jack_Jeffery,Jack Jeffery,Acoustical Drywall,,Pontiac,178,410,engine,25,36
+1980,P,1980_Reed_Cams_200,1980_06_P,16,8,73,usa,Bill_Schmitt,Bill Schmitt,Fluro-Cote / Old Milwaukee,,Pontiac,167,700,crash,0,35
+1980,P,1980_Reed_Cams_200,1980_06_P,17,25,09,usa,Bob_Fox,Bob Fox,Fox Garage Racing,,Buick,151,375,running,0,34
+1980,P,1980_Reed_Cams_200,1980_06_P,18,22,64,usa,Garrett_Evans,Garrett Evans,Leonard Evans Chrysler-Plymouth,,Plymouth,142,350,engine,0,33
+1980,P,1980_Reed_Cams_200,1980_06_P,19,9,10,usa,David_Pearson,David Pearson,Cope Brothers Racing Engines,,Pontiac,123,325,engine,0,32
+1980,P,1980_Reed_Cams_200,1980_06_P,20,29,05,usa,Ed_Rains,Ed Rains,Sunset Logging,,Chevrolet,85,300,ignition,0,31
+1980,P,1980_Reed_Cams_200,1980_06_P,21,20,74,usa,Steve_Pfeifer,Steve Pfeifer,Bor-A-Car,,Pontiac,82,250,engine,0,30
+1980,P,1980_Reed_Cams_200,1980_06_P,22,5,38,usa,Don_Waterman,Don Waterman,St. John's Auto Parts,,Pontiac,60,225,engine,0,29
+1980,P,1980_Reed_Cams_200,1980_06_P,23,31,61,usa,Don_Stanley,Don Stanley,Press & John Automotive,,Chevrolet,55,200,ignition,0,28
+1980,P,1980_Reed_Cams_200,1980_06_P,24,12,08,usa,Rick_McCray,Rick McCray,McCray Racing,,Pontiac,53,250,transmission,0,27
+1980,P,1980_Reed_Cams_200,1980_06_P,25,15,81,usa,John_Borneman,John Borneman,Borneman Plastering,,Pontiac,50,200,transmission,0,26
+1980,P,1980_Reed_Cams_200,1980_06_P,26,10,29,usa,Hershel_McGriff,Hershel McGriff,Mercury Marine,,Pontiac,29,200,engine,0,25
+1980,P,1980_Reed_Cams_200,1980_06_P,27,18,12,none,Bill_Donnelly,Bill Donnelly,Donnelly Roofing,,Pontiac,28,200,overheating,0,24
+1980,P,1980_Reed_Cams_200,1980_06_P,28,14,13,usa,Don_Puskarich,Don Puskarich,Oil Field Construction,,Oldsmobile,26,200,engine,0,23
+1980,P,1980_Reed_Cams_200,1980_06_P,29,27,92,usa,Tim_McMillan,Tim McMillan,Baldwin Truck Brokerage,,Chevrolet,24,200,overheating,0,22
+1980,P,1980_Reed_Cams_200,1980_06_P,30,28,52,usa,Glen_Thorburn,Glen Thorburn,Thorburn Roofing,,Plymouth,18,200,engine,0,21
+1980,P,1980_Reed_Cams_200,1980_06_P,31,30,80,none,Ralph_Ridley_Jr,"Ralph Ridley, Jr.",WRG Electric,,Chevrolet,12,200,overheating,0,20
+1980,P,1980_G.I._Joes_Heidelberg_Portland_200,1980_07_P,1,2,15,usa,Bobby_Allison,Bobby Allison,Cope Brothers Racing Engines,,Pontiac,200,5000,running,185,0
+1980,P,1980_G.I._Joes_Heidelberg_Portland_200,1980_07_P,2,3,11,canada,Roy_Smith,Roy Smith,Aircraft Standards,,Pontiac,198,3200,running,0,49
+1980,P,1980_G.I._Joes_Heidelberg_Portland_200,1980_07_P,3,11,08,usa,Rick_McCray,Rick McCray,McCray Racing,,Pontiac,197,1700,running,0,48
+1980,P,1980_G.I._Joes_Heidelberg_Portland_200,1980_07_P,4,9,78,usa,Jim_Robinson,Jim Robinson,San Fernando Valley Lumber,,Pontiac,196,1250,running,0,47
+1980,P,1980_G.I._Joes_Heidelberg_Portland_200,1980_07_P,5,1,7,usa,Ron_Eaton,Ron Eaton,Lake's Body Shop,,Pontiac,195,1000,running,15,46
+1980,P,1980_G.I._Joes_Heidelberg_Portland_200,1980_07_P,6,8,98,usa,Johnny_Kieper,Johnny Kieper,Wholesale Truck parts,,Pontiac,194,900,running,0,45
+1980,P,1980_G.I._Joes_Heidelberg_Portland_200,1980_07_P,7,5,73,usa,Bill_Schmitt,Bill Schmitt,Fluro-Cote,,Buick,193,1100,running,0,44
+1980,P,1980_G.I._Joes_Heidelberg_Portland_200,1980_07_P,8,18,33,none,Richard_Ritthaler,Richard Ritthaler,Race Systems,,Pontiac,188,750,running,0,43
+1980,P,1980_G.I._Joes_Heidelberg_Portland_200,1980_07_P,9,19,8,usa,Ross_Kusah,Ross Kusah,McCutcheon Fence Company,,Pontiac,186,725,running,0,0
+1980,P,1980_G.I._Joes_Heidelberg_Portland_200,1980_07_P,10,16,3,none,Billy_Zimmerman_Jr,"Billy Zimmerman, Jr.",Seifert Racing,,Pontiac,178,725,running,0,0
+1980,P,1980_G.I._Joes_Heidelberg_Portland_200,1980_07_P,11,10,38,usa,Don_Waterman,Don Waterman,St. John's Auto Parts,,Pontiac,177,700,engine,0,40
+1980,P,1980_G.I._Joes_Heidelberg_Portland_200,1980_07_P,12,17,05,usa,Ed_Rains,Ed Rains,Sunset Logging,,Chevrolet,176,550,running,0,0
+1980,P,1980_G.I._Joes_Heidelberg_Portland_200,1980_07_P,13,13,2,usa,Robert_Tartaglia,Robert Tartaglia,Dale's Diesel,,Pontiac,160,550,running,0,38
+1980,P,1980_G.I._Joes_Heidelberg_Portland_200,1980_07_P,14,23,67,usa,Doug_Walters,Doug Walters,Walters Racing,,Chevrolet,139,450,oil leak,0,37
+1980,P,1980_G.I._Joes_Heidelberg_Portland_200,1980_07_P,15,20,60,usa,Glen_Ward,Glen Ward,Rogue Valley Spa Brokerage,,Chevrolet,125,425,engine,0,36
+1980,P,1980_G.I._Joes_Heidelberg_Portland_200,1980_07_P,16,15,57,usa,Billy_Clarkson,Billy Clarkson,Guy Racing,,Chevrolet,118,400,overheating,0,35
+1980,P,1980_G.I._Joes_Heidelberg_Portland_200,1980_07_P,17,21,96,usa,Sharon_Bishop,Sharon Bishop,Bishop Enterprises,,Pontiac,104,375,differential,0,34
+1980,P,1980_G.I._Joes_Heidelberg_Portland_200,1980_07_P,18,14,13,usa,Don_Puskarich,Don Puskarich,Oil Field Construction,,Oldsmobile,60,350,engine,0,33
+1980,P,1980_G.I._Joes_Heidelberg_Portland_200,1980_07_P,19,22,61,usa,Don_Stanley,Don Stanley,Press & John Automotive,,Chevrolet,54,325,overheating,0,32
+1980,P,1980_G.I._Joes_Heidelberg_Portland_200,1980_07_P,20,6,16,usa,Jim_Bown,Jim Bown,Rose Auto Wrecking,,Pontiac,50,300,overheating,0,31
+1980,P,1980_G.I._Joes_Heidelberg_Portland_200,1980_07_P,21,4,29,usa,Hershel_McGriff,Hershel McGriff,Scarborough Lumber Company,,Pontiac,34,250,ignition,0,30
+1980,P,1980_G.I._Joes_Heidelberg_Portland_200,1980_07_P,22,12,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Auto World,,Buick,20,225,oil leak,0,29
+1980,P,1980_G.I._Joes_Heidelberg_Portland_200,1980_07_P,23,7,10,usa,Ernie_Irvan,Ernie Irvan,Check-It Electronics,,Pontiac,18,200,engine,0,28
+1980,P,1980_Golden_State_Winston_100,1980_08_P,1,3,9,usa,Jimmy_Insolo,Jimmy Insolo,Palmer Glass,,Oldsmobile,59,5350,running,52,60
+1980,P,1980_Golden_State_Winston_100,1980_08_P,2,1,3,usa,Bob_Bondurant,Bob Bondurant,Fluro-Cote / Old Milwaukee / Bondurant School,,Buick,59,3075,running,7,49
+1980,P,1980_Golden_State_Winston_100,1980_08_P,3,12,17,usa,Harry_Goularte,Harry Goularte,Go-En Racing,,Pontiac,59,1800,running,0,48
+1980,P,1980_Golden_State_Winston_100,1980_08_P,4,5,73,usa,Bill_Schmitt,Bill Schmitt,Fluro-Cote / Old Milwaukee,,Pontiac,58,1500,running,0,47
+1980,P,1980_Golden_State_Winston_100,1980_08_P,5,9,12,usa,Neil_Bonnett,Neil Bonnett,J. Cook & Son Trucking,,Mercury,58,1000,running,0,46
+1980,P,1980_Golden_State_Winston_100,1980_08_P,6,15,94,usa,Steve_Pfeifer,Steve Pfeifer,Kord Racing Enterprises,,Chevrolet,58,850,running,0,45
+1980,P,1980_Golden_State_Winston_100,1980_08_P,7,21,72,usa,John_Soares_Jr,"John Soares, Jr.",McCluney Enterprises / RPM,,Oldsmobile,56,750,running,0,44
+1980,P,1980_Golden_State_Winston_100,1980_08_P,8,17,2,usa,Robert_Tartaglia,Robert Tartaglia,Dale's Diesel,,Pontiac,56,750,running,0,43
+1980,P,1980_Golden_State_Winston_100,1980_08_P,9,16,52,usa,Don_Graham,Don Graham,City Tow,,Pontiac,56,700,running,0,42
+1980,P,1980_Golden_State_Winston_100,1980_08_P,10,22,35,usa,Pat_Mintey,Pat Mintey,Stick Only,,Chevrolet,56,675,running,0,41
+1980,P,1980_Golden_State_Winston_100,1980_08_P,11,20,32,usa,Marc_Vogel,Marc Vogel,American Glass,,Dodge,55,550,running,0,40
+1980,P,1980_Golden_State_Winston_100,1980_08_P,12,25,60,usa,Glen_Ward,Glen Ward,Rogue Valley Spa Brokerage,,Chevrolet,55,600,running,0,39
+1980,P,1980_Golden_State_Winston_100,1980_08_P,13,7,78,usa,Jim_Robinson,Jim Robinson,San Fernando Valley Lumber,,Pontiac,54,525,running,0,38
+1980,P,1980_Golden_State_Winston_100,1980_08_P,14,2,11,canada,Roy_Smith,Roy Smith,Aircraft Standards,,Pontiac,52,440,running,0,37
+1980,P,1980_Golden_State_Winston_100,1980_08_P,15,27,77,usa,Gene_Thonesen,Gene Thonesen,Thonesen Racing,,Chevrolet,51,410,running,0,36
+1980,P,1980_Golden_State_Winston_100,1980_08_P,16,28,96,usa,Sharon_Bishop,Sharon Bishop,Bishop Enterprises,,Pontiac,47,400,running,0,35
+1980,P,1980_Golden_State_Winston_100,1980_08_P,17,19,33,usa,Glenn_Francis,Glenn Francis,Greenfield Auto Parts,,Buick,47,375,running,0,34
+1980,P,1980_Golden_State_Winston_100,1980_08_P,18,6,08,usa,Rick_McCray,Rick McCray,McCray Racing,,Pontiac,40,400,suspension,0,33
+1980,P,1980_Golden_State_Winston_100,1980_08_P,19,26,16,usa,Dave_McEwin,Dave McEwin,Mack's Sheet Metal,,Chevrolet,31,325,suspension,0,32
+1980,P,1980_Golden_State_Winston_100,1980_08_P,20,23,65,usa,Gary_Mayeda,Gary Mayeda,JRC Lumber,,Chevrolet,31,300,valve,0,31
+1980,P,1980_Golden_State_Winston_100,1980_08_P,21,11,38,usa,Don_Waterman,Don Waterman,St. John's Auto Parts,,Pontiac,23,250,engine,0,30
+1980,P,1980_Golden_State_Winston_100,1980_08_P,22,10,20,usa,Hershel_McGriff,Hershel McGriff,Scarborough Lumber,,Pontiac,21,225,clutch,0,29
+1980,P,1980_Golden_State_Winston_100,1980_08_P,23,14,13,usa,Don_Puskarich,Don Puskarich,Oil Field Construction,,Oldsmobile,19,200,engine,0,28
+1980,P,1980_Golden_State_Winston_100,1980_08_P,24,13,98,usa,Johnny_Kieper,Johnny Kieper,Wholesale Truck Parts,,Pontiac,12,200,rear end,0,27
+1980,P,1980_Golden_State_Winston_100,1980_08_P,25,8,29,usa,Ron_Esau,Ron Esau,Scarborough Lumber,,Pontiac,9,200,rear end,0,26
+1980,P,1980_Golden_State_Winston_100,1980_08_P,26,4,7,usa,Buddy_Baker,Buddy Baker,Lake's Body Shop / Hull Floors,,Pontiac,5,200,oil pan,0,25
+1980,P,1980_Golden_State_Winston_100,1980_08_P,27,24,61,usa,Don_Stanley,Don Stanley,Press & John Automotive,,Chevrolet,3,200,transmission,0,24
+1980,P,1980_Golden_State_Winston_100,1980_08_P,28,18,57,usa,Billy_Clarkson,Billy Clarkson,Guy Racing,,Chevrolet,1,200,transmission,0,23
+1980,P,1980_Budweiser_200,1980_09_P,1,24,9,usa,Bobby_Allison,Bobby Allison,Palmer Glass,,Oldsmobile,200,5700,running,126,0
+1980,P,1980_Budweiser_200,1980_09_P,2,1,11,canada,Roy_Smith,Roy Smith,Aircraft Standards,,Pontiac,197,4125,running,64,49
+1980,P,1980_Budweiser_200,1980_09_P,3,24,82,usa,Neil_Bonnett,Neil Bonnett,T.O.E.,,Buick,197,2100,running,0,0
+1980,P,1980_Budweiser_200,1980_09_P,4,3,93,usa,Hershel_McGriff,Hershel McGriff,V&G Gear Alignment,,Dodge,196,1400,running,10,47
+1980,P,1980_Budweiser_200,1980_09_P,5,2,73,usa,Bill_Schmitt,Bill Schmitt,Fluro-Cote,,Pontiac,196,1800,running,0,46
+1980,P,1980_Budweiser_200,1980_09_P,6,4,16,usa,Jim_Bown,Jim Bown,Rose Auto Wrecking,,Pontiac,195,900,running,0,45
+1980,P,1980_Budweiser_200,1980_09_P,7,5,29,canada,Terry_Forsythe,Terry Forsythe,Mercury Marine,,Pontiac,192,800,running,0,0
+1980,P,1980_Budweiser_200,1980_09_P,8,13,35,usa,Pat_Mintey,Pat Mintey,Stick Only,,Chevrolet,192,750,running,0,43
+1980,P,1980_Budweiser_200,1980_09_P,9,6,32,usa,Marc_Vogel,Marc Vogel,American Glass,,Dodge,190,850,running,0,42
+1980,P,1980_Budweiser_200,1980_09_P,10,12,52,usa,Billy_Clarkson,Billy Clarkson,R.D. Cotham Painting,,Pontiac,187,775,running,0,41
+1980,P,1980_Budweiser_200,1980_09_P,11,16,2,usa,Robert_Tartaglia,Robert Tartaglia,Dale's Diesel,,Pontiac,186,650,running,0,40
+1980,P,1980_Budweiser_200,1980_09_P,12,14,80,usa,Dan_Reed,Dan Reed,Bell & Gaines Engines,,Dodge,186,550,running,0,39
+1980,P,1980_Budweiser_200,1980_09_P,13,22,60,usa,Glen_Ward,Glen Ward,Rogue Valley Spas,,Chevrolet,183,600,running,0,38
+1980,P,1980_Budweiser_200,1980_09_P,14,18,33,usa,Glenn_Francis,Glenn Francis,Rent-A-Wreck,,Buick,177,450,running,0,37
+1980,P,1980_Budweiser_200,1980_09_P,15,20,22,usa,Steve_Pfeifer,Steve Pfeifer,Infield Ambulance,,Dodge,170,425,running,0,36
+1980,P,1980_Budweiser_200,1980_09_P,16,10,08,usa,Rick_McCray,Rick McCray,McCray Racing,,Pontiac,126,450,transmission,0,35
+1980,P,1980_Budweiser_200,1980_09_P,17,11,38,usa,Don_Waterman,Don Waterman,St. John's Auto Parts,,Pontiac,118,375,overheating,0,34
+1980,P,1980_Budweiser_200,1980_09_P,18,17,13,usa,Don_Puskarich,Don Puskarich,Oil Field Construction,,Oldsmobile,111,350,rear end,0,33
+1980,P,1980_Budweiser_200,1980_09_P,19,9,21,usa,Donnie_Allison,Donnie Allison,J. Cook & Son Trucking,,Mercury,102,425,wheel,0,0
+1980,P,1980_Budweiser_200,1980_09_P,20,21,26,usa,Dave_McEwin,Dave McEwin,Mac's Sheet Metal,,Chevrolet,71,300,ignition,0,31
+1980,P,1980_Budweiser_200,1980_09_P,21,15,57,usa,Richard_White,Richard White,Guy Racing,,Chevrolet,54,250,oil pressure,0,0
+1980,P,1980_Budweiser_200,1980_09_P,22,7,78,usa,Jim_Robinson,Jim Robinson,San Fernando Valley Lumber,,Pontiac,28,275,engine,0,29
+1980,P,1980_Budweiser_200,1980_09_P,23,19,6,usa,Pappy_Pryor,Pappy Pryor,Frank's Chevrolet,,Chevrolet,24,200,engine,0,28
+1980,P,1980_Budweiser_200,1980_09_P,24,8,28,usa,Jerry_Bowers,Jerry Bowers,Renegade Racing,,Pontiac,15,200,engine,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,1,4,27,usa,Benny_Parsons,Benny Parsons   (Cup),Melling Tool,,Chevrolet,200,24835,running,8,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,2,3,21,usa,Neil_Bonnett,Neil Bonnett   (Cup),Purolator,,Mercury,200,13335,running,8,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,3,1,11,usa,Cale_Yarborough,Cale Yarborough   (Cup),Busch,,Chevrolet,200,17035,running,65,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,4,5,15,usa,Bobby_Allison,Bobby Allison   (Cup),Mike Curb / Hodgdon,,Ford,200,10985,running,17,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,5,2,2,usa,Dale_Earnhardt,Dale Earnhardt   (Cup),Wrangler Jeans,,Chevrolet,200,10835,running,3,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,6,11,7,usa,Lake_Speed,Lake Speed   (Cup),Sanyo,,Chevrolet,199,7305,running,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,7,12,75,usa,Joe_Millikan,Joe Millikan   (Cup),RahMoc Enterprises,,Chevrolet,199,3925,running,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,8,10,44,usa,Terry_Labonte,Terry Labonte   (Cup),Apache Stove,,Chevrolet,198,8075,running,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,9,18,77,usa,John_Anderson_(1),John Anderson   (Cup),Warren Fabricating,,Chevrolet,197,3325,running,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,10,21,67,usa,Buddy_Arrington,Buddy Arrington   (Cup),Hills Racing,,Dodge,196,5655,running,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,11,22,73,usa,Bill_Schmitt,Bill Schmitt,Fluro-Cote / Old Milwaukee,,Oldsmobile,196,5385,running,0,50
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,12,20,17,usa,Glenn_Jarrett,Glenn Jarrett   (Cup),Gardena Honda,,Chevrolet,195,3850,running,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,13,28,40,usa,Stan_Barrett,Stan Barrett,Needham-Reynolds,,Chevrolet,194,4115,running,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,14,31,70,usa,J_D_McDuffie,J.D. McDuffie   (Cup),Bailey Excavating,,Chevrolet,194,3845,running,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,15,16,71,usa,Dave_Marcis,Dave Marcis   (Cup),Buck Stove / Hudson Transmission,,Chevrolet,192,3660,running,9,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,16,19,64,usa,Tommy_Gale,Tommy Gale   (Cup),Sunny King Ford & Honda,,Ford,191,3475,running,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,17,27,24,usa,Cecil_Gordon,Cecil Gordon   (Cup),Pressley's Truck Center,,Oldsmobile,191,3265,running,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,18,17,90,usa,Jody_Ridley,Jody Ridley   (Cup),Truxmore / Sunny King,,Ford,189,3055,running,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,19,35,08,usa,Rick_McCray,Rick McCray,Ken McCray,,Buick,187,2290,running,0,49
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,20,36,38,usa,Don_Waterman,Don Waterman,Edwards Auto Repair,,Oldsmobile,186,2230,running,0,48
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,21,25,3,usa,Richard_Childress,Richard Childress   (Cup),CRC Chemicals,,Chevrolet,182,2670,running,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,22,39,74,usa,Henry_Jones,Henry Jones   (Cup),Wawak Racing,,Buick,178,1550,running,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,23,14,98,usa,Hershel_McGriff,Hershel McGriff,Olympia Beer,,Chevrolet,158,1500,ignition,0,47
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,24,30,48,usa,James_Hylton,James Hylton   (Cup),Palatine Automotive Parts,,Chevrolet,148,2475,engine,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,25,7,88,usa,Darrell_Waltrip,Darrell Waltrip   (Cup),Gatorade,,Chevrolet,145,5850,engine,90,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,26,38,49,usa,Kevin_Housby,Kevin Housby   (Cup),Taylor & Martin,,Chevrolet,133,1350,lug nuts,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,27,33,93,usa,Chuck_Bown,Chuck Bown,"10,000 RPM Speed Equipment",,Dodge,120,1300,crash,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,28,37,78,usa,Jim_Robinson,Jim Robinson,San Fernando Valley Lumber,,Chevrolet,103,1250,overheating,0,46
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,29,15,68,usa,Lennie_Pond,Lennie Pond   (Cup),Kings Mountain Truck Plaza,,Chevrolet,99,1200,rear end,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,30,8,43,usa,Richard_Petty,Richard Petty   (Cup),STP,,Chevrolet,97,7325,engine,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,31,34,52,usa,Jimmy_Means,Jimmy Means   (Cup),Broadway Motors,,Chevrolet,94,1575,engine,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,32,29,33,usa,Glenn_Francis,Glenn Francis,Excel Trailer,,Chevrolet,91,1025,engine,0,45
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,33,23,42,usa,Kyle_Petty,Kyle Petty   (Cup),STP,,Chevrolet,81,975,engine,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,34,32,79,usa,Joe_Booher,Joe Booher   (Cup),Harris Electric,,Dodge,78,1425,crank,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,35,42,60,usa,Glen_Ward,Glen Ward,Rogue Valley Spa,,Chevrolet,77,875,crank,0,44
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,36,13,45,canada,Roy_Smith,Roy Smith,Aircraft Standards,,Oldsmobile,70,850,valve,0,43
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,37,24,4,usa,D_K_Ulrich,D.K. Ulrich   (Cup),Juarez Racing,,Chevrolet,55,875,valve,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,38,26,25,usa,Ronnie_Thomas,Ronnie Thomas   (Cup),Stone's Cafeteria,,Chevrolet,47,1340,brakes,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,39,9,12,usa,Donnie_Allison,Donnie Allison   (Cup),Ramey's Chevy City,,Chevrolet,31,810,rear end,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,40,40,5,usa,Joe_Ruttman,Joe Ruttman   (Cup),The 5 Racers,,Oldsmobile,29,1055,transmission,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,41,6,47,usa,Harry_Gant,Harry Gant   (Cup),Race Hill Farm,,Chevrolet,16,1305,engine,0,0
+1980,P,1980_Los_Angeles_Times_500,1980_10_P,42,41,13,usa,Don_Puskarich,Don Puskarich,Puskarich Racing,,Chevrolet,2,805,engine,0,41
+1980,P,1980_Arizona_Winston_250,1980_11_P,1,1,43,usa,Richard_Petty,Richard Petty,STP,,Chevrolet,156,5060,running,53,0
+1980,P,1980_Arizona_Winston_250,1980_11_P,2,2,4,usa,Bobby_Allison,Bobby Allison,Ulrich Racing,,Chevrolet,156,3465,running,54,0
+1980,P,1980_Arizona_Winston_250,1980_11_P,3,7,42,usa,Kyle_Petty,Kyle Petty,STP,,Chevrolet,156,1650,running,6,0
+1980,P,1980_Arizona_Winston_250,1980_11_P,4,13,93,usa,Hershel_McGriff,Hershel McGriff,Matson Graphics,,Dodge,155,1500,running,0,47
+1980,P,1980_Arizona_Winston_250,1980_11_P,5,19,81,usa,John_Borneman,John Borneman,Borneman Plastering,,Pontiac,155,1510,running,34,46
+1980,P,1980_Arizona_Winston_250,1980_11_P,6,3,73,usa,Bill_Schmitt,Bill Schmitt,Fluro-Cote / Old Milwaukee,,Oldsmobile,155,1300,running,0,45
+1980,P,1980_Arizona_Winston_250,1980_11_P,7,6,16,usa,Jim_Bown,Jim Bown,Rose Auto Wrecking,,Pontiac,154,800,running,0,44
+1980,P,1980_Arizona_Winston_250,1980_11_P,8,4,5,usa,Joe_Ruttman,Joe Ruttman,The 5 Racers,,Oldsmobile,154,750,running,0,0
+1980,P,1980_Arizona_Winston_250,1980_11_P,9,21,3,usa,Bob_Bondurant,Bob Bondurant,Bondurant School / Fluro-Cote,,Pontiac,154,750,running,0,0
+1980,P,1980_Arizona_Winston_250,1980_11_P,10,16,38,usa,Don_Waterman,Don Waterman,St. John's Auto Parts,,Pontiac,154,875,running,0,41
+1980,P,1980_Arizona_Winston_250,1980_11_P,11,12,9,usa,Mike_Bonicelli,Mike Bonicelli,Yeo Electric,,Oldsmobile,154,600,running,0,40
+1980,P,1980_Arizona_Winston_250,1980_11_P,12,8,40,usa,Stan_Barrett,Stan Barrett,Needham-Reynolds,,Chevrolet,154,550,running,0,39
+1980,P,1980_Arizona_Winston_250,1980_11_P,13,22,35,usa,Pat_Mintey,Pat Mintey,Stick Only,,Chevrolet,153,500,running,0,38
+1980,P,1980_Arizona_Winston_250,1980_11_P,14,25,17,usa,Harry_Goularte,Harry Goularte,Go-En Racing,,Chevrolet,153,450,running,0,37
+1980,P,1980_Arizona_Winston_250,1980_11_P,15,24,98,usa,Mike_Chase,Mike Chase,Wholesale Truck Parts,,Pontiac,152,425,running,0,36
+1980,P,1980_Arizona_Winston_250,1980_11_P,16,14,68,usa,Mel_Larson,Mel Larson,ThermaSol,,Chevrolet,152,400,running,0,35
+1980,P,1980_Arizona_Winston_250,1980_11_P,17,18,49,usa,Kevin_Housby,Kevin Housby,Taylor & Martin,,Chevrolet,149,375,running,0,34
+1980,P,1980_Arizona_Winston_250,1980_11_P,18,5,11,canada,Roy_Smith,Roy Smith,TEF-Plate,,Pontiac,148,350,running,9,33
+1980,P,1980_Arizona_Winston_250,1980_11_P,19,23,6,usa,Dick_Whalen,Dick Whalen,Mileage Maker Kits,,Chevrolet,146,325,running,0,32
+1980,P,1980_Arizona_Winston_250,1980_11_P,20,29,0,usa,Don_Hume,Don Hume,McCray Racing,,Buick,135,300,running,0,0
+1980,P,1980_Arizona_Winston_250,1980_11_P,21,28,94,usa,Steve_Pfeifer,Steve Pfeifer,Kord-Pfeifer Racing,,Chevrolet,124,250,crash,0,30
+1980,P,1980_Arizona_Winston_250,1980_11_P,22,27,2,usa,Robert_Tartaglia,Robert Tartaglia,Dale's Diesel,,Pontiac,119,275,water pump,0,29
+1980,P,1980_Arizona_Winston_250,1980_11_P,23,30,13,usa,Don_Puskarich,Don Puskarich,Puskarich Racing,,Oldsmobile,93,220,rear end,0,28
+1980,P,1980_Arizona_Winston_250,1980_11_P,24,26,32,usa,Marc_Vogel,Marc Vogel,American Glass,,Dodge,71,215,engine,0,27
+1980,P,1980_Arizona_Winston_250,1980_11_P,25,9,52,usa,Billy_Clarkson,Billy Clarkson,Don Graham Racing,,Pontiac,59,210,water pump,0,26
+1980,P,1980_Arizona_Winston_250,1980_11_P,26,20,15,usa,Ron_Esau,Ron Esau,Esau Racing,,Pontiac,34,205,engine,0,0
+1980,P,1980_Arizona_Winston_250,1980_11_P,27,17,08,usa,Rick_McCray,Rick McCray,McCray Racing,,Pontiac,34,250,engine,0,24
+1980,P,1980_Arizona_Winston_250,1980_11_P,28,15,95,usa,Don_Dowdy,Don Dowdy,Jefferson Racing,,Ford,33,200,rear end,0,23
+1980,P,1980_Arizona_Winston_250,1980_11_P,29,11,12,usa,Davey_Allison,Davey Allison,Allison Racing,,Matador,19,200,crash,0,0
+1980,P,1980_Arizona_Winston_250,1980_11_P,30,10,78,usa,Jim_Robinson,Jim Robinson,San Fernando Valley Lumber,,Pontiac,7,250,engine,0,21
