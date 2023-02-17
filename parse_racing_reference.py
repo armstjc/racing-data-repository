@@ -181,6 +181,7 @@ def main():
                     results_df.to_csv(f"racing_reference/nascar_cup/race_results/{i}_race_results.csv",index=False)
             except:
                 print(f'Could not get race results for the {i} NASCAR Cup season.')
+
         ## Xfinity (Busch) Series
         if i >= 1984:
             sched_df = get_racing_reference_standings(season=i,series_id="B")
@@ -237,10 +238,9 @@ def main():
             try:
                 results_df = get_racing_reference_race_results(season=i,series_id="O")
                 if len(results_df) > 0:
-                    results_df.to_csv(f"racing_reference/nascar_arca/race_results/{i}_race_results.csv",index=False)
+                    results_df.to_csv(f"racing_reference/indycar/race_results/{i}_race_results.csv",index=False)
             except:
                 print(f'Could not get race results for the {i} IndyCar season.')
-        time.sleep(5)
 
 if __name__ == "__main__":
     main()
