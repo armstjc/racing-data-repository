@@ -17,3 +17,10 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5259,143,143,Accident,"#3, 23 Incident Turn 1",None,2
 5267,7,10,Debris,Debris Backstretch,None,2
 5267,42,46,Accident,"#8, 99, 67, 62, 15, 31 Incident Backstretch",78,2
+5343,3,6,Weather,Weather,None,2
+5343,8,10,Weather,Weather,None,2
+5343,22,25,Competition,Stage 1 Conclusion,None,2
+5343,30,35,Accident,"#43, 84, 5, 13, 25, 15, 22, 32 Incident Frontstretch [Red Flag 1: 00:09:06] [Red Flag 2: 00:02:57]",None,2
+5343,41,47,Accident,"#52, 32, 97, 75, 9, 99 Incident Backstretch / Stage 2 Conclusion",15,2
+5343,59,64,Accident,"#25, 43, 24, 98, 11, 15 Incident Turn 3",52,2
+5343,69,79,Weather,Weather [Red Flag: 01:00:54],30,2
