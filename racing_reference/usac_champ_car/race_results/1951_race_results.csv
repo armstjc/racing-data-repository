@@ -1,0 +1,320 @@
+season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
+1951,UO,1951_Indianapolis_500,1951_01_UO,1,2,99,usa,Lee_Wallard,Lee Wallard,Belanger Motors,,Kurtis / Offy,200,,running,159,1000
+1951,UO,1951_Indianapolis_500,1951_01_UO,2,7,83,usa,Mike_Nazaruk,Mike Nazaruk,Jim Robbins,,Kurtis / Offy,200,,running,0,800
+1951,UO,1951_Indianapolis_500,1951_01_UO,3,3,9,usa,Jack_McGrath,Jack McGrath,Hinkle,,KK3000 / Offy,200,,running,11,350
+1951,UO,1951_Indianapolis_500,1951_01_UO,4,31,57,usa,Andy_Linden,Andy Linden,Leitenberger,,Silnes-Sherman / Offy,200,,running,0,600
+1951,UO,1951_Indianapolis_500,1951_01_UO,5,29,52,usa,Bobby_Ball,Bobby Ball,Blakely Oil,,Schroeder / Offy,200,,running,0,500
+1951,UO,1951_Indianapolis_500,1951_01_UO,6,17,1,usa,Henry_Banks,Henry Banks,Blue Crown Spark Plug,,Moore / Offy,200,,running,0,400
+1951,UO,1951_Indianapolis_500,1951_01_UO,7,24,68,usa,Carl_Forberg,Carl Forberg,Automobile Shippers,,KK3000 / Offy,193,,running,0,300
+1951,UO,1951_Indianapolis_500,1951_01_UO,8,4,27,usa,Duane_Carter,Duane Carter,Mobilgas,,Deidt / Offy,180,,running,0,250
+1951,UO,1951_Indianapolis_500,1951_01_UO,9,9,5,usa,Tony_Bettenhausen,Tony Bettenhausen,Mobiloil,,Deidt / Offy,178,,spun off,0,200
+1951,UO,1951_Indianapolis_500,1951_01_UO,10,1,18,usa,Duke_Nalon,Duke Nalon,Novi Purelube,,Kurtis / Novi,151,,stalled,0,150
+1951,UO,1951_Indianapolis_500,1951_01_UO,11,22,69,usa,Gene_Force,Gene Force,Brown Motor Co.,,KK2000 / Offy,142,,engine,0,100
+1951,UO,1951_Indianapolis_500,1951_01_UO,12,12,25,usa,Sam_Hanks,Sam Hanks,Peter Schmidt,,KK3000 / Offy,135,,engine,0,50
+1951,UO,1951_Indianapolis_500,1951_01_UO,13,16,10,usa,Bill_Schindler,Bill Schindler,Chapman,,KK2000 / Offy,129,,engine,0,
+1951,UO,1951_Indianapolis_500,1951_01_UO,14,5,16,usa,Mauri_Rose,Mauri Rose,Pennzoil,,Deidt / Offy,126,,crash,0,
+1951,UO,1951_Indianapolis_500,1951_01_UO,15,14,2,usa,Walt_Faulkner,Walt Faulkner,Agajanian Grant Piston Ring,,Kuzma / Offy,123,,engine,0,
+1951,UO,1951_Indianapolis_500,1951_01_UO,16,27,76,usa,Jimmy_Davies,Jimmy Davies,Parks,,Silnes-Pawl / Offy,110,,axle,25,
+1951,UO,1951_Indianapolis_500,1951_01_UO,17,11,59,usa,Freddie_Agabashian,Freddie Agabashian,Granatelli-Bardahl,,KK3000 / Offy,109,,clutch,0,
+1951,UO,1951_Indianapolis_500,1951_01_UO,18,15,73,usa,Carl_Scarborough,Carl Scarborough,McNamara,,KK2000 / Offy,100,,fire,0,
+1951,UO,1951_Indianapolis_500,1951_01_UO,19,33,71,usa,Bill_Mackey,Bill Mackey,Karl Hall,,Stevens / Offy,97,,clutch,0,
+1951,UO,1951_Indianapolis_500,1951_01_UO,20,19,8,usa,Chuck_Stevenson,Chuck Stevenson,Bardahl,,Marchese / Offy,93,,fire,0,
+1951,UO,1951_Indianapolis_500,1951_01_UO,21,8,3,usa,Johnnie_Parsons,Johnnie Parsons,Wynn's Friction Proofing,,KK3000 / Offy,87,,magneto,0,
+1951,UO,1951_Indianapolis_500,1951_01_UO,22,10,4,usa,Cecil_Green,Cecil Green,John Zink,,KK3000 / Offy,80,,engine,5,
+1951,UO,1951_Indianapolis_500,1951_01_UO,23,6,98,usa,Troy_Ruttman,Troy Ruttman,Agajanian Featherweight,,KK2000 / Offy,78,,engine,0,
+1951,UO,1951_Indianapolis_500,1951_01_UO,24,32,6,usa,Duke_Dinsmore,Duke Dinsmore,Brown Motor Co.,,Schroeder / Offy,73,,overheating,0,
+1951,UO,1951_Indianapolis_500,1951_01_UO,25,28,32,usa,Chet_Miller,Chet Miller,Novi Purelube,,Kurtis / Novi,56,,ignition,0,
+1951,UO,1951_Indianapolis_500,1951_01_UO,26,13,44,usa,Walt_Brown,Walt Brown,Federal Engineering,,KK3000 / Offy,55,,magneto,0,
+1951,UO,1951_Indianapolis_500,1951_01_UO,27,25,48,usa,Rodger_Ward,Rodger Ward,Deck Manufacturing Co.,,Bromme / Offy,34,,oil pipe,0,
+1951,UO,1951_Indianapolis_500,1951_01_UO,28,18,23,usa,Cliff_Griffith,Cliff Griffith,Ludson Morris,,KK2000 / Offy,30,,axle,0,
+1951,UO,1951_Indianapolis_500,1951_01_UO,29,20,81,usa,Bill_Vukovich,Bill Vukovich,Central Excavating,,Trevis / Offy,29,,oil leak,0,
+1951,UO,1951_Indianapolis_500,1951_01_UO,30,21,22,usa,George_Connor,George Connor,Blue Crown Spark Plug,,Lesovsky / Offy,29,,transmission,0,
+1951,UO,1951_Indianapolis_500,1951_01_UO,31,23,19,usa,Mack_Hellings,Mack Hellings,Tuffanelli-Derrico,,Deidt / Offy,18,,engine,0,
+1951,UO,1951_Indianapolis_500,1951_01_UO,32,26,12,usa,Johnny_McDowell,Johnny McDowell,W & J,,Maserati / Offy,15,,fuel leak,0,
+1951,UO,1951_Indianapolis_500,1951_01_UO,33,30,26,usa,Joe_James,Joe James,Bob Estes Lincoln-Mercury,,Watson / Offy,8,,transmission,0,
+1951,UO,1951_Rex_Mays_Classic,1951_02_UO,1,5,99,usa,Tony_Bettenhausen,Tony Bettenhausen,Belanger Motors,,Kurtis / Offy,100,4500,running,16,200
+1951,UO,1951_Rex_Mays_Classic,1951_02_UO,2,6,4,usa,Cecil_Green,Cecil Green,John Zink,,Kurtis / Offy,100,3240,running,62,160
+1951,UO,1951_Rex_Mays_Classic,1951_02_UO,3,4,14,usa,Duane_Carter,Duane Carter,Pat Clancy,,Ewing / Offy,100,1800,running,0,140
+1951,UO,1951_Rex_Mays_Classic,1951_02_UO,4,8,7,usa,Paul_Russo,Paul Russo,Russo-Nichels,,Russo-Nichels / Offy,99,1260,running,0,120
+1951,UO,1951_Rex_Mays_Classic,1951_02_UO,5,3,48,usa,Rodger_Ward,Rodger Ward,Deck Manufacturing,,Bromme / Offy,99,1080,running,22,100
+1951,UO,1951_Rex_Mays_Classic,1951_02_UO,6,17,71,usa,Gordon_Reid,Gordon Reid,Karl Hall,,Stevens / Offy,99,900,running,0,80
+1951,UO,1951_Rex_Mays_Classic,1951_02_UO,7,13,69,usa,Gene_Force,Gene Force,Brown Motor Co.,,Kurtis / Offy,98,720,running,0,60
+1951,UO,1951_Rex_Mays_Classic,1951_02_UO,8,18,83,usa,Mike_Nazaruk,Mike Nazaruk,Jim Robbins,,Kurtis / Offy,98,720,running,0,50
+1951,UO,1951_Rex_Mays_Classic,1951_02_UO,9,7,23,usa,Cliff_Griffith,Cliff Griffith,Dr. Morris,,Kurtis / Offy,98,540,running,0,40
+1951,UO,1951_Rex_Mays_Classic,1951_02_UO,10,14,31,usa,Manny_Ayulo,Manny Ayulo,Coast Grain,,Lesovsky / Offy,98,540,running,0,30
+1951,UO,1951_Rex_Mays_Classic,1951_02_UO,11,9,1,usa,Henry_Banks,Henry Banks,Hopkins Blue Crown,,Moore / Offy,95,450,running,0,12
+1951,UO,1951_Rex_Mays_Classic,1951_02_UO,12,15,34,usa,Johnnie_Tolan,Johnnie Tolan,Peter Wales Trucking,,Kurtis / Offy,94,450,running,0,10
+1951,UO,1951_Rex_Mays_Classic,1951_02_UO,13,16,33,usa,Bill_Mackey,Bill Mackey,Iddings,,Meyer / Offy,55,360,spun out,0,
+1951,UO,1951_Rex_Mays_Classic,1951_02_UO,14,2,76,usa,Jimmy_Davies,Jimmy Davies,Parks,,Pawl / Offy,42,360,oil plug,0,
+1951,UO,1951_Rex_Mays_Classic,1951_02_UO,15,11,57,usa,Andy_Linden,Andy Linden,George Leitenberger,,Silnes-Sherman / Offy,24,360,crankshaft,0,
+1951,UO,1951_Rex_Mays_Classic,1951_02_UO,16,12,10,usa,Bill_Schindler,Bill Schindler,H.A. Chapman,,Kurtis / Offy,20,360,magneto,0,
+1951,UO,1951_Rex_Mays_Classic,1951_02_UO,17,10,26,usa,Joe_James,Joe James,Bob Estes,,Watson / Offy,8,180,axle,0,
+1951,UO,1951_Rex_Mays_Classic,1951_02_UO,18,1,9,usa,Jack_McGrath,Jack McGrath,Jack Hinkle,,Kurtis / Offy,0,180,spun out,0,
+1951,UO,1951_Langhorne_100,1951_03_UO,1,5,99,usa,Tony_Bettenhausen,Tony Bettenhausen,Belanger Motors,,Kurtis / Offy,100,2375,running,19,200
+1951,UO,1951_Langhorne_100,1951_03_UO,2,3,10,usa,Bill_Schindler,Bill Schindler,H.A. Chapman,,Kurtis / Offy,100,1696,running,42,160
+1951,UO,1951_Langhorne_100,1951_03_UO,3,11,4,usa,Cecil_Green,Cecil Green,John Zink,,Kurtis / Offy,100,1014,running,0,140
+1951,UO,1951_Langhorne_100,1951_03_UO,4,10,31,usa,Manny_Ayulo,Manny Ayulo,Coast Grain,,Lesovsky / Offy,100,676,running,0,120
+1951,UO,1951_Langhorne_100,1951_03_UO,5,9,78,usa,Ray_Knepper,Ray Knepper,Bardahl Oil Company,,Silnes / Offy,100,507,running,0,100
+1951,UO,1951_Langhorne_100,1951_03_UO,6,15,59,usa,Freddie_Agabashian,Freddie Agabashian,Granatelli,,Kurtis / Offy,98,422,running,0,80
+1951,UO,1951_Langhorne_100,1951_03_UO,7,1,9,usa,Jack_McGrath,Jack McGrath,Jack Hinkle,,Kurtis / Offy,98,341,running,5,60
+1951,UO,1951_Langhorne_100,1951_03_UO,8,12,57,usa,Andy_Linden,Andy Linden,George Leitenberger,,Silnes-Sherman / Offy,98,341,running,0,35
+1951,UO,1951_Langhorne_100,1951_03_UO,9,17,83,usa,Mike_Nazaruk,Mike Nazaruk,Jim Robbins,,Kurtis / Offy,97,341,running,0,28
+1951,UO,1951_Langhorne_100,1951_03_UO,10,4,1,usa,Henry_Banks,Henry Banks,Hopkins Blue Crown,,Moore / Offy,90,341,running,0,30
+1951,UO,1951_Langhorne_100,1951_03_UO,11,2,23,usa,Cliff_Griffith,Cliff Griffith,Dr. Morris,,Kurtis / Offy,84,257,running,0,20
+1951,UO,1951_Langhorne_100,1951_03_UO,12,14,26,usa,Joe_James,Joe James,Bob Estes,,Watson / Offy,73,257,dnf,0,7
+1951,UO,1951_Langhorne_100,1951_03_UO,13,8,48,usa,Rodger_Ward,Rodger Ward,Deck Manufacturing,,Bromme / Offy,59,193,dnf,0,
+1951,UO,1951_Langhorne_100,1951_03_UO,14,7,81,usa,Bill_Vukovich,Bill Vukovich,Central Excavating,,Trevis / Offy,–,193,stalled,15,
+1951,UO,1951_Langhorne_100,1951_03_UO,15,13,14,usa,Duane_Carter,Duane Carter,Pat Clancy,,Ewing / Offy,–,171,dnf,0,
+1951,UO,1951_Langhorne_100,1951_03_UO,16,6,79,usa,Johnny_McDowell,Johnny McDowell,Hart Fullerton,,Kurtis / Offy,8,171,overheating,8,
+1951,UO,1951_Langhorne_100,1951_03_UO,17,16,71,usa,Gordon_Reid,Gordon Reid,Karl Hall,,Stevens / Offy,5,127,dnf,0,
+1951,UO,1951_Langhorne_100,1951_03_UO,18,18,53,usa,Neal_Carter,Neal Carter,Lutes,,Bardazon / Offy,2,127,dnf,0,
+1951,UO,1951_Darlington_250,1951_04_UO,1,7,2,usa,Walt_Faulkner,Walt Faulkner,J.C. Agajanian,,Kuzma / Offy,200,5616,running,170,500
+1951,UO,1951_Darlington_250,1951_04_UO,2,12,99,usa,Tony_Bettenhausen,Tony Bettenhausen,Belanger Motors,,Kurtis / Offy,200,3594,running,0,400
+1951,UO,1951_Darlington_250,1951_04_UO,3,2,4,usa,Cecil_Green,Cecil Green,John Zink,,Kurtis / Offy,200,2246,running,0,350
+1951,UO,1951_Darlington_250,1951_04_UO,4,19,33,usa,Bill_Mackey,Bill Mackey,Iddings,,Meyer / Offy,200,1460,running,0,300
+1951,UO,1951_Darlington_250,1951_04_UO,5,14,9,usa,Jack_McGrath,Jack McGrath,Jack Hinkle,,Kurtis / Offy,200,1347,running,0,250
+1951,UO,1951_Darlington_250,1951_04_UO,6,23,31,usa,Manny_Ayulo,Manny Ayulo,Coast Grain,,Lesovsky / Offy,200,1179,running,0,200
+1951,UO,1951_Darlington_250,1951_04_UO,7,15,1,usa,Henry_Banks,Henry Banks,Hopkins Blue Crown,,Moore / Offy,200,898,running,0,150
+1951,UO,1951_Darlington_250,1951_04_UO,8,18,83,usa,Mike_Nazaruk,Mike Nazaruk,Jim Robbins,,Kurtis / Offy,199,730,running,0,125
+1951,UO,1951_Darlington_250,1951_04_UO,9,22,8,usa,Chuck_Stevenson,Chuck Stevenson,Bardahl Oil Company,,Marchese / Offy,196,673,running,0,100
+1951,UO,1951_Darlington_250,1951_04_UO,10,3,44,usa,Walt_Brown,Walt Brown,Federal Engineering,,Kurtis / Offy,195,673,running,0,17
+1951,UO,1951_Darlington_250,1951_04_UO,11,10,23,usa,Cliff_Griffith,Cliff Griffith,Dr. Morris,,Kurtis / Offy,193,561,running,0,38
+1951,UO,1951_Darlington_250,1951_04_UO,12,27,57,usa,Andy_Linden,Andy Linden,George Leitenberger,,Silnes-Sherman / Offy,188,561,running,0,12
+1951,UO,1951_Darlington_250,1951_04_UO,13,21,7,usa,Paul_Russo,Paul Russo,Russo-Nichels,,Russo-Nichels / Offy,185,449,running,0,
+1951,UO,1951_Darlington_250,1951_04_UO,14,9,19,usa,Kenny_Eaton,Kenny Eaton,Jack Hinkle,,Kurtis / Offy,181,449,running,0,
+1951,UO,1951_Darlington_250,1951_04_UO,15,26,69,usa,Gene_Force,Gene Force,Brown Motor Co.,,Kurtis / Offy,177,224,running,0,
+1951,UO,1951_Darlington_250,1951_04_UO,16,1,79,usa,Johnny_McDowell,Johnny McDowell,Hart Fullerton,,Kurtis / Offy,170,224,running,0,
+1951,UO,1951_Darlington_250,1951_04_UO,17,25,71,usa,Gordon_Reid,Gordon Reid,Karl Hall,,Stevens / Offy,167,224,magneto,5,
+1951,UO,1951_Darlington_250,1951_04_UO,18,24,66,usa,Dick_Frazier,Dick Frazier,Lee Glessner,,Stevens / Offy,152,224,gauge,0,
+1951,UO,1951_Darlington_250,1951_04_UO,19,28,39,usa,Rex_Easton,Rex Easton,Joe Shaheen,,Hill / Offy,149,112,magneto,0,
+1951,UO,1951_Darlington_250,1951_04_UO,20,17,53,usa,Neal_Carter,Neal Carter,Lutes,,Bardazon / Offy,120,112,universal joint,0,
+1951,UO,1951_Darlington_250,1951_04_UO,21,16,10,usa,Bill_Schindler,Bill Schindler,H.A. Chapman,,Kurtis / Offy,117,112,magneto,0,
+1951,UO,1951_Darlington_250,1951_04_UO,22,13,78,usa,Ray_Knepper,Ray Knepper,Bardahl Oil Company,,Silnes / Offy,97,112,piston,0,
+1951,UO,1951_Darlington_250,1951_04_UO,23,20,37,usa,Johnnie_Parsons,Johnnie Parsons,Marion Engineering,,Kurtis / Offy,85,112,rear end,0,
+1951,UO,1951_Darlington_250,1951_04_UO,24,5,76,usa,Jimmy_Davies,Jimmy Davies,Parks,,Pawl / Offy,75,112,crankshaft,0,
+1951,UO,1951_Darlington_250,1951_04_UO,25,8,98,usa,George_Connor,George Connor,Tom Sarafoff,,Kurtis / Offy,45,112,piston,0,
+1951,UO,1951_Darlington_250,1951_04_UO,26,4,81,usa,Bill_Vukovich,Bill Vukovich,Central Excavating,,Trevis / Offy,25,112,connecting rod,25,
+1951,UO,1951_Darlington_250,1951_04_UO,27,11,73,usa,Carl_Scarborough,Carl Scarborough,McNamara,,Kurtis / Offy,17,112,oil line,0,
+1951,UO,1951_Darlington_250,1951_04_UO,28,6,26,usa,Joe_James,Joe James,Bob Estes,,Watson / Offy,6,112,flywheel,0,
+1951,UO,1951_Springfield_100,1951_05_UO,1,14,99,usa,Tony_Bettenhausen,Tony Bettenhausen,Belanger Motors,,Kurtis / Offy,100,2879,running,81,200
+1951,UO,1951_Springfield_100,1951_05_UO,2,4,9,usa,Jack_McGrath,Jack McGrath,Jack Hinkle,,Kurtis / Offy,100,2070,running,0,160
+1951,UO,1951_Springfield_100,1951_05_UO,3,7,10,usa,Bill_Schindler,Bill Schindler,H.A. Chapman,,Kurtis / Offy,100,1150,running,0,140
+1951,UO,1951_Springfield_100,1951_05_UO,4,8,1,usa,Henry_Banks,Henry Banks,Hopkins Blue Crown,,Moore / Offy,100,747,running,0,120
+1951,UO,1951_Springfield_100,1951_05_UO,5,13,8,usa,Chuck_Stevenson,Chuck Stevenson,Bardahl Oil Company,,Marchese / Offy,100,690,running,0,100
+1951,UO,1951_Springfield_100,1951_05_UO,6,12,4,usa,Troy_Ruttman,Troy Ruttman,John Zink,,Kurtis / Offy,100,575,running,0,80
+1951,UO,1951_Springfield_100,1951_05_UO,7,17,73,usa,Gordon_Reid,Gordon Reid,McNamara,,Kurtis / Offy,98,460,running,0,60
+1951,UO,1951_Springfield_100,1951_05_UO,8,5,77,usa,Joe_Garson,Joe Garson,Elgin Piston Pin,,Stevens / Offy,98,431,running,0,50
+1951,UO,1951_Springfield_100,1951_05_UO,9,15,79,usa,Johnny_McDowell,Johnny McDowell,Hart Fullerton,,Kurtis / Offy,97,402,running,0,40
+1951,UO,1951_Springfield_100,1951_05_UO,10,18,33,usa,Jim_Rigsby,Jim Rigsby,Iddings,,Meyer / Offy,97,373,running,0,30
+1951,UO,1951_Springfield_100,1951_05_UO,11,2,14,usa,Duane_Carter,Duane Carter,Pat Clancy,,Ewing / Offy,91,345,running,0,20
+1951,UO,1951_Springfield_100,1951_05_UO,12,16,26,usa,Joe_James,Joe James,Bob Estes,,Watson / Offy,86,287,oil pressure,0,10
+1951,UO,1951_Springfield_100,1951_05_UO,13,11,69,usa,Gene_Force,Gene Force,Brown Motor Co.,,Kurtis / Offy,81,258,steering,0,
+1951,UO,1951_Springfield_100,1951_05_UO,14,1,7,usa,Paul_Russo,Paul Russo,Russo-Nichels,,Russo-Nichels / Offy,77,230,oil pressure,19,
+1951,UO,1951_Springfield_100,1951_05_UO,15,6,81,usa,Bill_Vukovich,Bill Vukovich,Central Excavating,,Trevis / Offy,64,202,oil pressure,0,
+1951,UO,1951_Springfield_100,1951_05_UO,16,3,53,usa,Neal_Carter,Neal Carter,Lutes,,Bardazon / Offy,43,172,rear end,0,
+1951,UO,1951_Springfield_100,1951_05_UO,17,10,31,usa,Manny_Ayulo,Manny Ayulo,Coast Grain,,Lesovsky / Offy,15,115,spun out,0,
+1951,UO,1951_Springfield_100,1951_05_UO,18,9,76,usa,Jimmy_Davies,Jimmy Davies,Parks,,Pawl / Offy,7,115,fuel pump,0,
+1951,UO,1951_Milwaukee_200,1951_06_UO,1,5,2,usa,Walt_Faulkner,Walt Faulkner,J.C. Agajanian,,Kuzma / Offy,200,7077,running,80,400
+1951,UO,1951_Milwaukee_200,1951_06_UO,2,6,9,usa,Jack_McGrath,Jack McGrath,Jack Hinkle,,Kurtis / Offy,200,4247,running,0,320
+1951,UO,1951_Milwaukee_200,1951_06_UO,3,12,3,usa,Johnnie_Parsons,Johnnie Parsons,Wynn's Friction Proofing,,Kurtis / Offy,200,2831,running,0,280
+1951,UO,1951_Milwaukee_200,1951_06_UO,4,9,10,usa,Bill_Schindler,Bill Schindler,H.A. Chapman,,Kurtis / Offy,200,2123,running,0,116
+1951,UO,1951_Milwaukee_200,1951_06_UO,5,20,1,usa,Henry_Banks,Henry Banks,Hopkins Blue Crown,,Moore / Offy,200,1699,running,0,200
+1951,UO,1951_Milwaukee_200,1951_06_UO,6,8,8,usa,Chuck_Stevenson,Chuck Stevenson,Bardahl Oil Company,,Marchese / Offy,196,1415,running,0,160
+1951,UO,1951_Milwaukee_200,1951_06_UO,7,15,98,usa,Cliff_Griffith,Cliff Griffith,Tom Sarafoff,,Kurtis / Offy,196,1132,running,0,120
+1951,UO,1951_Milwaukee_200,1951_06_UO,8,1,79,usa,Johnny_McDowell,Johnny McDowell,Hart Fullerton,,Kurtis / Offy,195,1062,running,0,100
+1951,UO,1951_Milwaukee_200,1951_06_UO,9,2,7,usa,Paul_Russo,Paul Russo,Russo-Nichels,,Russo-Nichels / Offy,192,991,rear end,120,80
+1951,UO,1951_Milwaukee_200,1951_06_UO,10,4,99,usa,Tony_Bettenhausen,Tony Bettenhausen,Belanger Motors,,Kurtis / Offy,187,920,running,0,60
+1951,UO,1951_Milwaukee_200,1951_06_UO,11,18,33,usa,Jim_Rigsby,Jim Rigsby,Iddings,,Meyer / Offy,186,849,running,0,40
+1951,UO,1951_Milwaukee_200,1951_06_UO,12,17,78,usa,George_Connor,George Connor,Bardahl Oil Company,,Silnes / Offy,183,708,running,0,20
+1951,UO,1951_Milwaukee_200,1951_06_UO,13,7,76,usa,Jimmy_Davies,Jimmy Davies,Parks,,Pawl / Offy,172,637,fuel pump,0,
+1951,UO,1951_Milwaukee_200,1951_06_UO,14,19,71,usa,Johnnie_Tolan,Johnnie Tolan,Karl Hall,,Stevens / Offy,161,564,running,0,
+1951,UO,1951_Milwaukee_200,1951_06_UO,15,14,26,usa,Joe_James,Joe James,Bob Estes,,Watson / Offy,160,425,disqualified,0,
+1951,UO,1951_Milwaukee_200,1951_06_UO,16,10,48,usa,Mike_Nazaruk,Mike Nazaruk,Deck Manufacturing,,Bromme / Offy,133,356,running,0,
+1951,UO,1951_Milwaukee_200,1951_06_UO,17,21,31,usa,Manny_Ayulo,Manny Ayulo,Coast Grain,,Lesovsky / Offy,112,283,axle,0,
+1951,UO,1951_Milwaukee_200,1951_06_UO,18,22,44,usa,Duke_Dinsmore,Duke Dinsmore,Federal Engineering,,Kurtis / Offy,81,283,crash,0,
+1951,UO,1951_Milwaukee_200,1951_06_UO,19,13,69,usa,Gene_Force,Gene Force,Brown Motor Co.,,Kurtis / Offy,43,283,engine,0,
+1951,UO,1951_Milwaukee_200,1951_06_UO,20,16,73,usa,Gordon_Reid,Gordon Reid,McNamara,,Kurtis / Offy,33,283,magneto,0,
+1951,UO,1951_Milwaukee_200,1951_06_UO,21,3,4,usa,Bill_Vukovich,Bill Vukovich,John Zink,,Kurtis / Offy,30,142,connecting rod,0,
+1951,UO,1951_Milwaukee_200,1951_06_UO,22,11,57,usa,Andy_Linden,Andy Linden,George Leitenberger,,Silnes-Sherman / Offy,22,142,connecting rod,0,
+1951,UO,1951_Ted_Horn_Memorial,1951_07_UO,1,6,99,usa,Tony_Bettenhausen,Tony Bettenhausen,Belanger Motors,,Kurtis / Offy,100,1875,running,93,200
+1951,UO,1951_Ted_Horn_Memorial,1951_07_UO,2,1,3,usa,Johnnie_Parsons,Johnnie Parsons,Wynn's Friction Proofing,,Kurtis / Offy,100,1350,running,0,160
+1951,UO,1951_Ted_Horn_Memorial,1951_07_UO,3,2,7,usa,Paul_Russo,Paul Russo,Russo-Nichels,,Russo-Nichels / Offy,100,750,running,7,140
+1951,UO,1951_Ted_Horn_Memorial,1951_07_UO,4,7,2,usa,Walt_Faulkner,Walt Faulkner,J.C. Agajanian,,Kuzma / Offy,100,487,running,0,120
+1951,UO,1951_Ted_Horn_Memorial,1951_07_UO,5,11,39,usa,Sam_Hanks,Sam Hanks,Joe Shaheen,,Hill / Offy,100,450,running,0,100
+1951,UO,1951_Ted_Horn_Memorial,1951_07_UO,6,17,1,usa,Henry_Banks,Henry Banks,Hopkins Blue Crown,,Moore / Offy,100,375,running,0,80
+1951,UO,1951_Ted_Horn_Memorial,1951_07_UO,7,15,4,usa,Bill_Vukovich,Bill Vukovich,John Zink,,Kurtis / Offy,98,300,running,0,60
+1951,UO,1951_Ted_Horn_Memorial,1951_07_UO,8,13,98,usa,Cliff_Griffith,Cliff Griffith,Tom Sarafoff,,Kurtis / Offy,98,281,running,0,50
+1951,UO,1951_Ted_Horn_Memorial,1951_07_UO,9,5,57,usa,Andy_Linden,Andy Linden,George Leitenberger,,Silnes-Sherman / Offy,98,262,running,0,40
+1951,UO,1951_Ted_Horn_Memorial,1951_07_UO,10,12,8,usa,Chuck_Stevenson,Chuck Stevenson,Bardahl Oil Company,,Marchese / Offy,97,243,transmission,0,30
+1951,UO,1951_Ted_Horn_Memorial,1951_07_UO,11,16,77,usa,Joe_Garson,Joe Garson,Elgin Piston Pin,,Stevens / Offy,95,225,running,0,20
+1951,UO,1951_Ted_Horn_Memorial,1951_07_UO,12,10,10,usa,Bill_Schindler,Bill Schindler,H.A. Chapman,,Kurtis / Offy,94,187,running,0,10
+1951,UO,1951_Ted_Horn_Memorial,1951_07_UO,13,9,76,usa,Jimmy_Davies,Jimmy Davies,Parks,,Pawl / Offy,93,168,running,0,
+1951,UO,1951_Ted_Horn_Memorial,1951_07_UO,14,18,33,usa,Jim_Rigsby,Jim Rigsby,Iddings,,Meyer / Offy,90,150,running,0,
+1951,UO,1951_Ted_Horn_Memorial,1951_07_UO,15,14,79,usa,Johnny_McDowell,Johnny McDowell,Hart Fullerton,,Kurtis / Offy,85,131,supercharger,0,
+1951,UO,1951_Ted_Horn_Memorial,1951_07_UO,16,3,9,usa,Jack_McGrath,Jack McGrath,Jack Hinkle,,Kurtis / Offy,71,112,valve,0,
+1951,UO,1951_Ted_Horn_Memorial,1951_07_UO,17,4,14,usa,Duane_Carter,Duane Carter,Pat Clancy,,Ewing / Offy,46,75,crash,0,
+1951,UO,1951_Ted_Horn_Memorial,1951_07_UO,18,8,73,usa,Gordon_Reid,Gordon Reid,McNamara,,Kurtis / Offy,40,75,gear,0,
+1951,UO,1951_DuQuoin_150,1951_08_UO,1,1,99,usa,Tony_Bettenhausen,Tony Bettenhausen,Belanger Motors,,Kurtis / Offy,101,3100,running,101,202
+1951,UO,1951_DuQuoin_150,1951_08_UO,2,2,2,usa,Walt_Faulkner,Walt Faulkner,J.C. Agajanian,,Kuzma / Offy,98,2232,running,0,161.6
+1951,UO,1951_DuQuoin_150,1951_08_UO,3,10,39,usa,Sam_Hanks,Sam Hanks,Joe Shaheen,,Hill / Offy,98,1240,running,0,141.4
+1951,UO,1951_DuQuoin_150,1951_08_UO,4,8,8,usa,Chuck_Stevenson,Chuck Stevenson,Bardahl Oil Company,,Marchese / Offy,98,806,running,0,121.2
+1951,UO,1951_DuQuoin_150,1951_08_UO,5,9,1,usa,Henry_Banks,Henry Banks,Hopkins Blue Crown,,Moore / Offy,98,744,running,0,101
+1951,UO,1951_DuQuoin_150,1951_08_UO,6,14,31,usa,Manny_Ayulo,Manny Ayulo,Coast Grain,,Lesovsky / Offy,98,620,running,0,80.8
+1951,UO,1951_DuQuoin_150,1951_08_UO,7,5,57,usa,Andy_Linden,Andy Linden,George Leitenberger,,Silnes-Sherman / Offy,98,496,running,0,60.6
+1951,UO,1951_DuQuoin_150,1951_08_UO,8,16,34,usa,Harry_King,Harry King,Peter Wales Trucking,,Kurtis / Offy,97,465,running,0,50.5
+1951,UO,1951_DuQuoin_150,1951_08_UO,9,6,98,usa,Cliff_Griffith,Cliff Griffith,Tom Sarafoff,,Kurtis / Offy,96,434,running,0,40.4
+1951,UO,1951_DuQuoin_150,1951_08_UO,10,11,69,usa,Gene_Force,Gene Force,Brown Motor Co.,,Kurtis / Offy,93,403,running,0,30.3
+1951,UO,1951_DuQuoin_150,1951_08_UO,11,18,9,usa,Jack_McGrath,Jack McGrath,Jack Hinkle,,Kurtis / Offy,93,372,running,0,20.2
+1951,UO,1951_DuQuoin_150,1951_08_UO,12,17,33,usa,Jim_Rigsby,Jim Rigsby,Iddings,,Meyer / Offy,88,310,running,0,10.1
+1951,UO,1951_DuQuoin_150,1951_08_UO,13,3,73,usa,Gordon_Reid,Gordon Reid,McNamara,,Kurtis / Offy,87,279,radius rod,0,
+1951,UO,1951_DuQuoin_150,1951_08_UO,14,13,26,usa,Joe_James,Joe James,Bob Estes,,Watson / Offy,74,248,wheel,0,
+1951,UO,1951_DuQuoin_150,1951_08_UO,15,12,79,usa,Johnny_McDowell,Johnny McDowell,Hart Fullerton,,Kurtis / Offy,71,217,stalled,0,
+1951,UO,1951_DuQuoin_150,1951_08_UO,16,15,3,usa,Johnnie_Parsons,Johnnie Parsons,Wynn's Friction Proofing,,Kurtis / Offy,37,186,crash,0,
+1951,UO,1951_DuQuoin_150,1951_08_UO,17,4,76,usa,Jimmy_Davies,Jimmy Davies,Parks,,Pawl / Offy,6,124,crash,0,
+1951,UO,1951_DuQuoin_150,1951_08_UO,18,7,77,usa,Joe_Garson,Joe Garson,Elgin Piston Pin,,Stevens / Offy,1,124,connecting rod,0,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,1,2,9,usa,Al_Rogers,Al Rogers,Coniff,,Offy,1,3500,running,–,200
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,2,3,63,usa,Johnny_Mauro,Johnny Mauro,Leo Dobry,,Kurtis / Offy,1,2500,running,–,160
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,3,1,44,usa,Louis_Unser,Louis Unser,Federal Engineering,,Kurtis / Offy,1,1500,running,–,140
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,4,5,67,usa,Pete_Woods,Pete Woods,Johnson,,Silnes / Wayne,1,1000,running,–,120
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,5,4,7,usa,Herb_Bryers,Herb Bryers,Weiher Alignment,,McDowell,1,750,running,–,100
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,6,7,6,usa,Charles_Bryant,Charles Bryant,Grover,,Chevrolet,1,500,running,–,80
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,7,13,58,usa,Bob_Finney,Bob Finney,Frenzel,,Ford,1,200,running,–,60
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,8,6,1,usa,Shelby_Hill,Shelby Hill,Shelby Hill,,Ford,1,200,running,–,50
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,9,21,66,usa,Mack_Hellings,Mack Hellings,Belond Equa Flow,,Stevens / Offy,1,200,running,–,40
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,10,8,88,usa,Jim_Good,Jim Good,Newbill,,McDowell,1,200,running,–,30
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,11,11,23,usa,Delmar_Desch,Delmar Desch,Blattler,,Chevrolet,1,200,running,–,20
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,12,20,12,usa,Hugh_Thomas,Hugh Thomas,Bandimere,,Ford,1,200,running,–,10
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,13,–,,usa,Wayne_Sankey,Wayne Sankey,Crager,,Crager,1,,running,–,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,14,16,3,usa,Glenn_Harrison,Glenn Harrison,Crager,,Crager,1,,running,–,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,15,–,,usa,D_R_Atkinson,D.R. Atkinson,–,,Chevrolet,1,,running,–,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,16,–,61,usa,Jimmy_Jackson,Jimmy Jackson,G.M.C. 270,,Wayne,1,,running,–,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,17,–,,usa,Walt_Moffatt,Walt Moffatt,Dreyer,,–,1,,running,–,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,18,17,56,usa,Wayne_England,Wayne England,Chevrolet,,Chevrolet,1,,running,–,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,19,–,68,usa,Roger_Barlow,Roger Barlow,Simca,,Simca,1,,running,–,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,20,8,,usa,Malcolm_Brazier,Malcolm Brazier,–,,Chevrolet,0,,crash,–,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,21,10,55,usa,Walt_Killinger,Walt Killinger,–,,Offenhauser,0,,dnf,–,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,22,12,8,usa,Phil_Shafer,Phil Shafer,Shafer,,–,0,,dnf,–,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,23,14,33,usa,Milton_Mabe,Milton Mabe,Shearer Lodge,,–,0,,dnf,–,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,24,15,5,usa,Buster_Hammond,Buster Hammond,McDowell,,–,0,,dnf,–,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,25,18,24,usa,Richard_DeMark,Richard DeMark,Crager,,–,0,,dnf,–,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,26,–,,usa,George_Hammond,George Hammond,–,,–,0,,dnf,–,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,27,–,,usa,Art_McKee,Art McKee,fq,,–,0,,dnf,–,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,28,–,,usa,T_E_Russell,T.E. Russell,fq,,–,0,,dnf,–,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,29,–,,usa,Andy_Cimino,Andy Cimino,–,,–,0,,dnf,–,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,30,30,25,canada,Ray_Shadbolt,Ray Shadbolt,–,,Alfa Romeo,0,,did not start,0,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,31,31,58,usa,Jim_Hammond,Jim Hammond,McDowell,,–,0,,did not start,0,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,32,32,27,usa,Billy_Ryan,Billy Ryan,–,,Chevy,0,,did not start,0,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,33,33,15,usa,Clarence_Doley,Clarence Doley,–,,Oldsmobile,0,,did not start,0,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,34,34,2,usa,Joel_Thorne,Joel Thorne,Joel Thorne,,–,0,,did not start,0,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,35,35,62,usa,Curt_Stockwell,Curt Stockwell,Nash,,Nash-Healey,0,,did not start,0,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,36,36,10,usa,Clifford_Foltz,Clifford Foltz,–,,Ford,0,,did not start,0,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,37,37,4,usa,Harry_Syer,Harry Syer,Syer-Hal,,–,0,,did not start,0,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09_UO,38,38,,usa,Red_Lawrence,Red Lawrence,–,,Ford,0,,did not start,0,
+1951,UO,1951_Syracuse_100,1951_10_UO,1,1,99,usa,Tony_Bettenhausen,Tony Bettenhausen,Belanger Motors,,Kurtis / Offy,67,3750,running,67,134
+1951,UO,1951_Syracuse_100,1951_10_UO,2,4,2,usa,Walt_Faulkner,Walt Faulkner,J.C. Agajanian,,Kuzma / Offy,67,2700,running,0,107.2
+1951,UO,1951_Syracuse_100,1951_10_UO,3,6,4,usa,Bill_Vukovich,Bill Vukovich,John Zink,,Kurtis / Offy,67,1500,running,0,93.8
+1951,UO,1951_Syracuse_100,1951_10_UO,4,17,33,usa,Eddie_Johnson_(2),Eddie Johnson,Iddings,,Meyer / Offy,66,975,running,0,80.4
+1951,UO,1951_Syracuse_100,1951_10_UO,5,18,34,usa,Harry_King,Harry King,Peter Wales Trucking,,Kurtis / Offy,66,900,running,0,67
+1951,UO,1951_Syracuse_100,1951_10_UO,6,16,1,usa,Henry_Banks,Henry Banks,Hopkins Blue Crown,,Moore / Offy,66,750,running,0,53.6
+1951,UO,1951_Syracuse_100,1951_10_UO,7,7,9,usa,Jack_McGrath,Jack McGrath,Jack Hinkle,,Kurtis / Offy,65,600,crash,0,40.2
+1951,UO,1951_Syracuse_100,1951_10_UO,8,11,10,usa,Bill_Schindler,Bill Schindler,H.A. Chapman,,Kurtis / Offy,65,562,crash,0,33.5
+1951,UO,1951_Syracuse_100,1951_10_UO,9,14,8,usa,Chuck_Stevenson,Chuck Stevenson,Bardahl Oil Company,,Marchese / Offy,65,525,crash,0,26.8
+1951,UO,1951_Syracuse_100,1951_10_UO,10,10,79,usa,Buzz_Barton,Buzz Barton,Ess-A-R-R Engineering,,Kurtis Midget / Offy,64,417,crash,0,20.1
+1951,UO,1951_Syracuse_100,1951_10_UO,11,5,57,usa,Andy_Linden,Andy Linden,George Leitenberger,,Silnes-Sherman / Offy,56,450,spun out,0,13.4
+1951,UO,1951_Syracuse_100,1951_10_UO,12,15,31,usa,Manny_Ayulo,Manny Ayulo,Coast Grain,,Lesovsky / Offy,56,375,wheel,0,6.7
+1951,UO,1951_Syracuse_100,1951_10_UO,13,3,14,usa,Duane_Carter,Duane Carter,Pat Clancy,,Ewing / Offy,47,337,dnf,0,
+1951,UO,1951_Syracuse_100,1951_10_UO,14,12,83,usa,Tommy_Hinnershitz,Tommy Hinnershitz,Buster Warke,,Kurtis-Warke / Offy,33,300,brakes,0,
+1951,UO,1951_Syracuse_100,1951_10_UO,15,8,7,usa,Paul_Russo,Paul Russo,Russo-Nichels,,Russo-Nichels / Offy,30,262,withdrew,0,
+1951,UO,1951_Syracuse_100,1951_10_UO,16,2,26,usa,Joe_James,Joe James,Bob Estes,,Watson / Offy,19,215,motor mount,0,
+1951,UO,1951_Syracuse_100,1951_10_UO,17,13,37,usa,Johnnie_Parsons,Johnnie Parsons,Marion Engineering,,Kurtis / Offy,6,150,connecting rod,0,
+1951,UO,1951_Syracuse_100,1951_10_UO,18,9,48,usa,Mike_Nazaruk,Mike Nazaruk,Deck Manufacturing,,Bromme / Offy,3,150,radius rod,0,
+1951,UO,1951_Detroit_100,1951_11_UO,1,3,7,usa,Paul_Russo,Paul Russo,Russo-Nichels,,Russo-Nichels / Offy,100,3250,running,3,200
+1951,UO,1951_Detroit_100,1951_11_UO,2,7,2,usa,Walt_Faulkner,Walt Faulkner,J.C. Agajanian,,Kuzma / Offy,100,2340,running,0,160
+1951,UO,1951_Detroit_100,1951_11_UO,3,6,48,usa,Mike_Nazaruk,Mike Nazaruk,Deck Manufacturing,,Bromme / Offy,100,1300,running,0,140
+1951,UO,1951_Detroit_100,1951_11_UO,4,4,99,usa,Tony_Bettenhausen,Tony Bettenhausen,Belanger Motors,,Kurtis / Offy,100,845,running,97,120
+1951,UO,1951_Detroit_100,1951_11_UO,5,16,39,usa,Sam_Hanks,Sam Hanks,Joe Shaheen,,Hill / Offy,100,780,running,0,100
+1951,UO,1951_Detroit_100,1951_11_UO,6,11,31,usa,Manny_Ayulo,Manny Ayulo,Coast Grain,,Lesovsky / Offy,100,650,running,0,80
+1951,UO,1951_Detroit_100,1951_11_UO,7,13,4,usa,Bill_Vukovich,Bill Vukovich,John Zink,,Kurtis / Offy,100,520,running,0,60
+1951,UO,1951_Detroit_100,1951_11_UO,8,14,14,usa,Duane_Carter,Duane Carter,Pat Clancy,,Ewing / Offy,99,487,running,0,50
+1951,UO,1951_Detroit_100,1951_11_UO,9,10,1,usa,Henry_Banks,Henry Banks,Hopkins Blue Crown,,Moore / Offy,99,455,running,0,40
+1951,UO,1951_Detroit_100,1951_11_UO,10,18,76,usa,Johnnie_Tolan,Johnnie Tolan,Parks,,Pawl / Offy,93,423,running,0,30
+1951,UO,1951_Detroit_100,1951_11_UO,11,12,81,usa,Eddie_Johnson_(2),Eddie Johnson,Central Excavating,,Trevis / Offy,90,390,running,0,20
+1951,UO,1951_Detroit_100,1951_11_UO,12,17,83,usa,Buster_Warke,Buster Warke,Buster Warke,,Kurtis-Warke / Offy,85,325,running,0,10
+1951,UO,1951_Detroit_100,1951_11_UO,13,9,42,usa,Neal_Carter,Neal Carter,Lutes,,Gdula / Offy,63,292,connecting rod,0,
+1951,UO,1951_Detroit_100,1951_11_UO,14,8,73,usa,Gordon_Reid,Gordon Reid,McNamara,,Kurtis / Offy,33,260,gear,0,
+1951,UO,1951_Detroit_100,1951_11_UO,15,2,26,usa,Joe_James,Joe James,Bob Estes,,Watson / Offy,28,228,overheating,0,
+1951,UO,1951_Detroit_100,1951_11_UO,16,15,36,usa,Johnny_Fedricks,Johnny Fedricks,Auto Shippers,,Rassey / Offy,21,195,engine,0,
+1951,UO,1951_Detroit_100,1951_11_UO,17,1,79,usa,Johnny_McDowell,Johnny McDowell,Hart Fullerton,,Kurtis / Offy,20,150,engine,0,
+1951,UO,1951_Detroit_100,1951_11_UO,18,5,69,usa,Gene_Force,Gene Force,Brown Motor Co.,,Kurtis / Offy,6,150,connecting rod,0,
+1951,UO,1951_Denver_100,1951_12_UO,1,1,99,usa,Tony_Bettenhausen,Tony Bettenhausen,Belanger Motors,,Kurtis / Offy,100,3537,running,100,200
+1951,UO,1951_Denver_100,1951_12_UO,2,13,1,usa,Henry_Banks,Henry Banks,Hopkins Blue Crown,,Moore / Offy,100,2547,running,0,160
+1951,UO,1951_Denver_100,1951_12_UO,3,12,9,usa,Jack_McGrath,Jack McGrath,Jack Hinkle,,Kurtis / Offy,100,1415,running,0,140
+1951,UO,1951_Denver_100,1951_12_UO,4,11,4,usa,Joe_James,Joe James,John Zink,,Kurtis / Offy,100,919,running,0,120
+1951,UO,1951_Denver_100,1951_12_UO,5,15,52,usa,Bobby_Ball,Bobby Ball,McDaniel,,Kurtis / Offy,100,849,running,0,100
+1951,UO,1951_Denver_100,1951_12_UO,6,16,14,usa,Freddie_Agabashian,Freddie Agabashian,Pat Clancy,,Ewing / Offy,99,707,running,0,80
+1951,UO,1951_Denver_100,1951_12_UO,7,17,31,usa,Manny_Ayulo,Manny Ayulo,Coast Grain,,Lesovsky / Offy,96,566,running,0,60
+1951,UO,1951_Denver_100,1951_12_UO,8,14,71,usa,Rodger_Ward,Rodger Ward,Karl Hall,,Stevens / Offy,96,530,running,0,50
+1951,UO,1951_Denver_100,1951_12_UO,9,8,44,usa,Johnny_McDowell,Johnny McDowell,Federal Engineering,,Kurtis / Offy,95,495,running,0,40
+1951,UO,1951_Denver_100,1951_12_UO,10,18,42,usa,Sam_Hanks,Sam Hanks,Ed Gdula,,Gdula / Offy,95,424,running,0,30
+1951,UO,1951_Denver_100,1951_12_UO,11,7,57,usa,Bill_Vukovich,Bill Vukovich,George Leitenberger,,Silnes-Sherman / Offy,95,380,running,0,20
+1951,UO,1951_Denver_100,1951_12_UO,12,2,26,usa,Jim_Rigsby,Jim Rigsby,Bob Estes,,Watson / Offy,94,353,shocks,0,10
+1951,UO,1951_Denver_100,1951_12_UO,13,4,7,usa,Paul_Russo,Paul Russo,Russo-Nichels,,Russo-Nichels / Offy,87,318,crash,0,
+1951,UO,1951_Denver_100,1951_12_UO,14,10,3,usa,Johnnie_Parsons,Johnnie Parsons,Wynn's Friction Proofing,,Kurtis / Offy,77,283,brakes,0,
+1951,UO,1951_Denver_100,1951_12_UO,15,5,48,usa,Mike_Nazaruk,Mike Nazaruk,Deck Manufacturing,,Bromme / Offy,66,247,oil line,0,
+1951,UO,1951_Denver_100,1951_12_UO,16,9,73,usa,Gordon_Reid,Gordon Reid,McNamara,,Kurtis / Offy,65,212,shocks,0,
+1951,UO,1951_Denver_100,1951_12_UO,17,6,38,usa,Frank_Armi,Frank Armi,L & E,,Wetteroth / Offy,65,176,crash,0,
+1951,UO,1951_Denver_100,1951_12_UO,18,3,2,usa,Walt_Faulkner,Walt Faulkner,J.C. Agajanian,,Kuzma / Offy,64,176,axle,0,
+1951,UO,1951_San_Jose_100,1951_13_UO,1,1,99,usa,Tony_Bettenhausen,Tony Bettenhausen,Belanger Motors,,Kurtis / Offy,100,1979,running,96,200
+1951,UO,1951_San_Jose_100,1951_13_UO,2,3,7,usa,Paul_Russo,Paul Russo,Russo-Nichels,,Russo-Nichels / Offy,99,1425,running,0,160
+1951,UO,1951_San_Jose_100,1951_13_UO,3,14,1,usa,Henry_Banks,Henry Banks,Hopkins Blue Crown,,Moore / Offy,99,791,running,0,140
+1951,UO,1951_San_Jose_100,1951_13_UO,4,6,9,usa,Jack_McGrath,Jack McGrath,Jack Hinkle,,Kurtis / Offy,98,514,running,0,120
+1951,UO,1951_San_Jose_100,1951_13_UO,5,9,76,usa,Jimmy_Davies,Jimmy Davies,Parks,,Pawl / Offy,97,475,running,0,100
+1951,UO,1951_San_Jose_100,1951_13_UO,6,13,14,usa,Freddie_Agabashian,Freddie Agabashian,Pat Clancy,,Ewing / Offy,96,395,running,0,80
+1951,UO,1951_San_Jose_100,1951_13_UO,7,5,3,usa,Johnnie_Parsons,Johnnie Parsons,Wynn's Friction Proofing,,Kurtis / Offy,96,316,running,0,60
+1951,UO,1951_San_Jose_100,1951_13_UO,8,17,4,usa,Joe_James,Joe James,John Zink,,Kurtis / Offy,95,296,running,0,46
+1951,UO,1951_San_Jose_100,1951_13_UO,9,18,44,usa,Johnny_McDowell,Johnny McDowell,Federal Engineering,,Kurtis / Offy,92,277,running,0,40
+1951,UO,1951_San_Jose_100,1951_13_UO,10,2,26,usa,Jim_Rigsby,Jim Rigsby,Bob Estes,,Watson / Offy,85,257,overheating,4,30
+1951,UO,1951_San_Jose_100,1951_13_UO,11,16,52,usa,Bobby_Ball,Bobby Ball,McDaniel,,Kurtis / Offy,84,237,running,0,20
+1951,UO,1951_San_Jose_100,1951_13_UO,12,8,38,usa,Frank_Armi,Frank Armi,L & E,,Wetteroth / Offy,74,197,running,0,10
+1951,UO,1951_San_Jose_100,1951_13_UO,13,11,73,usa,Gordon_Reid,Gordon Reid,McNamara,,Kurtis / Offy,70,178,radius rod,0,
+1951,UO,1951_San_Jose_100,1951_13_UO,14,7,28,usa,Neal_Carter,Neal Carter,Lutes,,Kurtis / Offy,50,158,timing,0,
+1951,UO,1951_San_Jose_100,1951_13_UO,15,15,79,usa,Troy_Ruttman,Troy Ruttman,Hart Fullerton,,Kurtis / Offy,39,138,steering,0,
+1951,UO,1951_San_Jose_100,1951_13_UO,16,12,48,usa,Mike_Nazaruk,Mike Nazaruk,Deck Manufacturing,,Bromme / Offy,25,118,piston,0,
+1951,UO,1951_San_Jose_100,1951_13_UO,17,10,71,usa,Rodger_Ward,Rodger Ward,Karl Hall,,Stevens / Offy,20,79,shocks,0,
+1951,UO,1951_San_Jose_100,1951_13_UO,18,4,72,usa,Bill_Vukovich,Bill Vukovich,Viking Trailer,,Lesovsky / Offy,1,79,crash,0,
+1951,UO,1951_Phoenix_100,1951_14_UO,1,8,3,usa,Johnnie_Parsons,Johnnie Parsons,Wynn's Friction Proofing,,Kurtis / Offy,100,2584,running,8,200
+1951,UO,1951_Phoenix_100,1951_14_UO,2,1,1,usa,Henry_Banks,Henry Banks,Hopkins Blue Crown,,Moore / Offy,100,1860,running,0,160
+1951,UO,1951_Phoenix_100,1951_14_UO,3,2,76,usa,Jimmy_Davies,Jimmy Davies,Parks,,Pawl / Offy,100,1033,running,2,140
+1951,UO,1951_Phoenix_100,1951_14_UO,4,3,28,usa,Neal_Carter,Neal Carter,Lutes,,Kurtis / Offy,99,671,running,0,120
+1951,UO,1951_Phoenix_100,1951_14_UO,5,12,4,usa,Joe_James,Joe James,John Zink,,Kurtis / Offy,99,620,running,0,100
+1951,UO,1951_Phoenix_100,1951_14_UO,6,11,2,usa,Walt_Faulkner,Walt Faulkner,J.C. Agajanian,,Kuzma / Offy,99,516,running,0,64.8
+1951,UO,1951_Phoenix_100,1951_14_UO,7,10,73,usa,Gordon_Reid,Gordon Reid,McNamara,,Kurtis / Offy,98,413,running,0,60
+1951,UO,1951_Phoenix_100,1951_14_UO,8,16,10,usa,Bill_Schindler,Bill Schindler,H.A. Chapman,,Kurtis / Offy,97,387,running,0,46
+1951,UO,1951_Phoenix_100,1951_14_UO,9,9,31,usa,Manny_Ayulo,Manny Ayulo,Coast Grain,,Lesovsky / Offy,96,361,running,0,40
+1951,UO,1951_Phoenix_100,1951_14_UO,10,6,71,usa,Rodger_Ward,Rodger Ward,Karl Hall,,Stevens / Offy,95,335,running,0,30
+1951,UO,1951_Phoenix_100,1951_14_UO,11,13,26,usa,Jim_Rigsby,Jim Rigsby,Bob Estes,,Watson / Offy,93,310,running,0,20
+1951,UO,1951_Phoenix_100,1951_14_UO,12,18,44,usa,Johnny_McDowell,Johnny McDowell,Federal Engineering,,Kurtis / Offy,90,258,running,0,10
+1951,UO,1951_Phoenix_100,1951_14_UO,13,4,99,usa,Tony_Bettenhausen,Tony Bettenhausen,Belanger Motors,,Kurtis / Offy,90,232,blown tire,90,
+1951,UO,1951_Phoenix_100,1951_14_UO,14,7,9,usa,Jack_McGrath,Jack McGrath,Jack Hinkle,,Kurtis / Offy,89,206,crash,0,
+1951,UO,1951_Phoenix_100,1951_14_UO,15,5,79,usa,Bobby_Ball,Bobby Ball,Hart Fullerton,,Kurtis / Offy,77,180,throttle shaft,0,
+1951,UO,1951_Phoenix_100,1951_14_UO,16,15,38,usa,Frank_Armi,Frank Armi,L & E,,Wetteroth / Offy,77,155,throttle shaft,0,
+1951,UO,1951_Phoenix_100,1951_14_UO,17,17,14,usa,Freddie_Agabashian,Freddie Agabashian,Pat Clancy,,Ewing / Offy,6,103,lost wheel,0,
+1951,UO,1951_Phoenix_100,1951_14_UO,18,14,48,usa,Mike_Nazaruk,Mike Nazaruk,Deck Manufacturing,,Bromme / Offy,3,103,oil line,0,
+1951,UO,1951_Bay_Meadows_150,1951_15_UO,1,13,3,usa,Johnnie_Parsons,Johnnie Parsons,Wynn's Friction Proofing,,Kurtis / Offy,150,2500,running,21,300
+1951,UO,1951_Bay_Meadows_150,1951_15_UO,2,2,99,usa,Tony_Bettenhausen,Tony Bettenhausen,Belanger Motors,,Kurtis / Offy,150,1800,running,98,240
+1951,UO,1951_Bay_Meadows_150,1951_15_UO,3,9,1,usa,Henry_Banks,Henry Banks,Hopkins Blue Crown,,Moore / Offy,150,1000,running,0,210
+1951,UO,1951_Bay_Meadows_150,1951_15_UO,4,4,28,usa,Neal_Carter,Neal Carter,Lutes,,Kurtis / Offy,149,650,running,0,180
+1951,UO,1951_Bay_Meadows_150,1951_15_UO,5,3,57,usa,Andy_Linden,Andy Linden,George Leitenberger,,Silnes-Sherman / Offy,149,600,running,0,150
+1951,UO,1951_Bay_Meadows_150,1951_15_UO,6,12,69,usa,Gene_Force,Gene Force,Brown Motor Co.,,Kurtis / Offy,147,500,running,0,120
+1951,UO,1951_Bay_Meadows_150,1951_15_UO,7,5,26,usa,Jim_Rigsby,Jim Rigsby,Bob Estes,,Watson / Offy,147,400,running,8,90
+1951,UO,1951_Bay_Meadows_150,1951_15_UO,8,11,76,usa,Jimmy_Davies,Jimmy Davies,Parks,,Pawl / Offy,146,375,running,0,75
+1951,UO,1951_Bay_Meadows_150,1951_15_UO,9,10,10,usa,Bill_Schindler,Bill Schindler,H.A. Chapman,,Kurtis / Offy,146,350,running,0,60
+1951,UO,1951_Bay_Meadows_150,1951_15_UO,10,15,14,usa,Duane_Carter,Duane Carter,Pat Clancy,,Ewing / Offy,144,325,running,0,45
+1951,UO,1951_Bay_Meadows_150,1951_15_UO,11,18,31,usa,Manny_Ayulo,Manny Ayulo,Coast Grain,,Lesovsky / Offy,144,300,running,0,30
+1951,UO,1951_Bay_Meadows_150,1951_15_UO,12,8,2,usa,Freddie_Agabashian,Freddie Agabashian,J.C. Agajanian,,Kuzma / Offy,138,250,running,0,15
+1951,UO,1951_Bay_Meadows_150,1951_15_UO,13,14,79,usa,Bobby_Ball,Bobby Ball,Hart Fullerton,,Kurtis / Offy,137,225,running,0,
+1951,UO,1951_Bay_Meadows_150,1951_15_UO,14,16,73,usa,Gordon_Reid,Gordon Reid,McNamara,,Kurtis / Offy,137,200,running,0,
+1951,UO,1951_Bay_Meadows_150,1951_15_UO,15,17,48,usa,Mike_Nazaruk,Mike Nazaruk,Deck Manufactring,,Bromme / Offy,102,175,magneto,0,
+1951,UO,1951_Bay_Meadows_150,1951_15_UO,16,6,7,usa,Paul_Russo,Paul Russo,Russo-Nichels,,Russo-Nichels / Offy,72,150,crankcase,0,
+1951,UO,1951_Bay_Meadows_150,1951_15_UO,17,7,71,usa,Rodger_Ward,Rodger Ward,Karl Hall,,Stevens / Offy,43,100,bearings,0,
+1951,UO,1951_Bay_Meadows_150,1951_15_UO,18,1,9,usa,Jack_McGrath,Jack McGrath,Jack Hinkle,,Kurtis / Offy,23,100,piston,23,

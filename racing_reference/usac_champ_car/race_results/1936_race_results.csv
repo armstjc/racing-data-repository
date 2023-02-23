@@ -1,0 +1,108 @@
+season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
+1936,UO,1936_International_500,1936_01_UO,1,28,8,usa,Louis_Meyer,Louis Meyer,Ring Free,,Stevens / Miller,200,34045,running,96,600
+1936,UO,1936_International_500,1936_01_UO,2,11,22,usa,Ted_Horn,Ted Horn,Miller-Hartz,,Wetteroth / Miller,200,13935,running,16,450
+1936,UO,1936_International_500,1936_01_UO,3,4,10,usa,Doc_MacKenzie,Doc MacKenzie,Gilmore Speedway,,Wetteroth / Offy,200,6953,running,0,282
+1936,UO,1936_International_500,1936_01_UO,4,30,36,usa,Mauri_Rose,Mauri Rose,Front Wheel Drive Auto,,Miller 4D / Miller,200,4053,running,0,350
+1936,UO,1936_International_500,1936_01_UO,5,3,18,usa,Chet_Miller,Chet Miller,Boyle Products,,Summers FD / Miller,200,3653,running,0,300
+1936,UO,1936_International_500,1936_01_UO,6,25,41,usa,Ray_Pixley,Ray Pixley,Fink Auto,,Miller / Miller,200,2328,running,0,250
+1936,UO,1936_International_500,1936_01_UO,7,9,3,usa,Wilbur_Shaw,Wilbur Shaw,Gilmore Speedway,,Shaw / Offy,200,3650,running,51,200
+1936,UO,1936_International_500,1936_01_UO,8,14,17,usa,George_Barringer,George Barringer,Kennedy Tank,,Rigling / Offy,200,1650,running,0,150
+1936,UO,1936_International_500,1936_01_UO,9,32,53,usa,Zeke_Meyer,Zeke Meyer,Boyle Products,,Cooper FD / Studebaker,200,1550,running,0,100
+1936,UO,1936_International_500,1936_01_UO,10,5,38,usa,George_Connor,George Connor,Marks-Miller,,Adams / Miller,200,1425,running,0,50
+1936,UO,1936_International_500,1936_01_UO,11,12,35,usa,Freddie_Winnai,Freddie Winnai,Midwest Red Lion,,Stevens / Offy,199,850,running,0,
+1936,UO,1936_International_500,1936_01_UO,12,24,9,usa,Ralph_Hepburn,Ralph Hepburn,Art Rose,,Miller / Offy,196,700,running,0,
+1936,UO,1936_International_500,1936_01_UO,13,27,28,usa,Harry_McQuinn,Harry McQuinn,Sampson Radio,,Stevens / Miller,196,600,out of fuel,0,
+1936,UO,1936_International_500,1936_01_UO,14,10,7,usa,Shorty_Cantlon,Shorty Cantlon,Hamilton-Harris,,Weil / Miller,194,535,out of fuel,0,
+1936,UO,1936_International_500,1936_01_UO,15,1,33,usa,Rex_Mays,Rex Mays,Gilmore Speedway,,Adams / Sparks,192,920,out of fuel,12,
+1936,UO,1936_International_500,1936_01_UO,16,23,54,usa,Doc_Williams,Doc Williams,Superior Trailer / Race Car Corp.,,Cooper FD / Miller,192,505,out of fuel,0,
+1936,UO,1936_International_500,1936_01_UO,17,29,32,usa,Lou_Moore,Lou Moore,Burd Piston Ring,,Miller / Offy,185,490,out of fuel,0,
+1936,UO,1936_International_500,1936_01_UO,18,33,19,usa,Emil_Andres,Emil Andres,Stewart Carew,,Whippet / Cragar,184,475,running,0,
+1936,UO,1936_International_500,1936_01_UO,19,15,4,usa,Floyd_Roberts,Floyd Roberts,Burd Piston Ring,,Stevens / Offy,183,460,out of fuel,0,
+1936,UO,1936_International_500,1936_01_UO,20,20,14,usa,Frank_Brisko,Frank Brisko,Elgin Piston Pin,,Miller / Brisko,180,445,out of fuel,0,
+1936,UO,1936_International_500,1936_01_UO,21,17,12,usa,Al_Miller_(2),Al Miller,Boyle Products,,Smith / Miller,119,430,crash,0,
+1936,UO,1936_International_500,1936_01_UO,22,7,42,usa,Cliff_Bergere,Cliff Bergere,Bowes Seal Fast,,Stevens / Miller,116,415,engine bolt,0,
+1936,UO,1936_International_500,1936_01_UO,23,26,15,usa,Deacon_Litz,Deacon Litz,Litz-Miller,,Miller / Miller,108,400,engine,0,
+1936,UO,1936_International_500,1936_01_UO,24,2,21,usa,Babe_Stapp,Babe Stapp,Gil Pirrung,,Shaw FD / Offy,89,1585,crankshaft,25,
+1936,UO,1936_International_500,1936_01_UO,25,19,5,usa,Billy_Winn,Billy Winn,Harry Miller,,Miller / Miller,78,370,crankshaft,0,
+1936,UO,1936_International_500,1936_01_UO,26,22,52,usa,Frank_McGurk,Frank McGurk,Abel's Auto Ford,,Adams / Cragar,51,355,crankshaft,0,
+1936,UO,1936_International_500,1936_01_UO,27,8,27,usa,Louis_Tomei,Louis Tomei,Wheeler's,,Wetteroth / Miller,44,340,engine mount,0,
+1936,UO,1936_International_500,1936_01_UO,28,6,44,usa,Herb_Ardinger,Herb Ardinger,Bowes Seal Fast,,Stevens / Miller,38,325,transmission,0,
+1936,UO,1936_International_500,1936_01_UO,29,18,6,usa,Chet_Gardner,Chet Gardner,Chet Gardner,,Duesenberg / Offy,38,310,clutch,0,
+1936,UO,1936_International_500,1936_01_UO,30,16,43,usa,Jimmy_Snyder,Jimmy Snyder,Belanger-Miller,,Stevens / Miller,21,295,oil leak,0,
+1936,UO,1936_International_500,1936_01_UO,31,21,47,usa,Johnny_Seymour,Johnny Seymour,Sullivan-O'Brien,,Stevens / Miller,13,280,clutch,0,
+1936,UO,1936_International_500,1936_01_UO,32,31,46,usa,Fred_Frame,Fred Frame,Burd Piston Ring,,Miller / Miller,4,265,piston,0,
+1936,UO,1936_International_500,1936_01_UO,33,13,2,usa,Bill_Cummings,Bill Cummings,Boyle Products,,Miller FD / Offy,0,250,clutch,0,
+1936,UO,1936_Goshen_100,1936_02_UO,1,2,33,usa,Rex_Mays,Rex Mays,Gilmore Speedway,,Adams / Sparks,100,2200,running,100,120
+1936,UO,1936_Goshen_100,1936_02_UO,2,5,3,usa,Wilbur_Shaw,Wilbur Shaw,Gilmore Speedway,,Shaw / Offy,100,1200,running,0,90
+1936,UO,1936_Goshen_100,1936_02_UO,3,7,10,usa,Doc_MacKenzie,Doc MacKenzie,Gilmore Speedway,,Wetteroth / Miller,100,900,running,0,80
+1936,UO,1936_Goshen_100,1936_02_UO,4,4,4,usa,Floyd_Roberts,Floyd Roberts,Burd Piston Ring,,Stevens / Offy,100,700,running,0,70
+1936,UO,1936_Goshen_100,1936_02_UO,5,10,5,usa,Billy_Winn,Billy Winn,Harry Miller,,Miller / Miller,100,500,running,0,60
+1936,UO,1936_Goshen_100,1936_02_UO,6,6,32,usa,Mauri_Rose,Mauri Rose,Burd Piston Ring,,Miller / Offy,100,400,running,0,50
+1936,UO,1936_Goshen_100,1936_02_UO,7,8,43,usa,Jimmy_Snyder,Jimmy Snyder,Belanger-Miller,,Stevens / Miller,100,350,running,0,40
+1936,UO,1936_Goshen_100,1936_02_UO,8,3,6,usa,Chet_Gardner,Chet Gardner,Chet Gardner,,Duesenberg / Offy,100,300,running,0,30
+1936,UO,1936_Goshen_100,1936_02_UO,9,9,35,usa,Frank_Brisko,Frank Brisko,Midwest Red Lion,,Stevens / Offy,99,275,running,0,20
+1936,UO,1936_Goshen_100,1936_02_UO,10,13,7,usa,Babe_Stapp,Babe Stapp,Hamilton-Harris,,Weil / Miller,99,250,running,0,10
+1936,UO,1936_Goshen_100,1936_02_UO,11,11,2,usa,Bill_Cummings,Bill Cummings,Boyle Products,,Miller / Offy,99,225,running,0,
+1936,UO,1936_Goshen_100,1936_02_UO,12,14,46,usa,Russ_Snowberger,Russ Snowberger,–,,Miller / Offy,99,200,running,0,
+1936,UO,1936_Goshen_100,1936_02_UO,13,12,8,usa,Louis_Meyer,Louis Meyer,Ring Free,,Stevens / Miller,53,200,oil pressure,0,
+1936,UO,1936_Goshen_100,1936_02_UO,14,1,38,usa,George_Connor,George Connor,Marks-Miller,,Adams / Miller,1,200,clutch,0,
+1936,UO,1936_Syracuse_100,1936_03_UO,1,7,32,usa,Mauri_Rose,Mauri Rose,Burd Piston Ring,,Miller / Offy,100,2200,running,31,120
+1936,UO,1936_Syracuse_100,1936_03_UO,2,4,38,usa,George_Connor,George Connor,Marks-Miller,,Adams / Miller,100,1200,running,0,90
+1936,UO,1936_Syracuse_100,1936_03_UO,3,5,33,usa,Rex_Mays,Rex Mays,Gilmore Speedway,,Adams / Sparks,100,900,running,19,80
+1936,UO,1936_Syracuse_100,1936_03_UO,4,6,35,usa,Jimmy_Snyder,Jimmy Snyder,Midwest Red Lion,,Stevens / Offy,100,700,running,0,70
+1936,UO,1936_Syracuse_100,1936_03_UO,5,13,43,usa,Frank_Brisko,Frank Brisko,Belanger-Miller,,Stevens / Miller,100,500,running,0,60
+1936,UO,1936_Syracuse_100,1936_03_UO,6,11,47,usa,Bob_Sall,Bob Sall,Cantlon-Miller,,Stevens / Miller,100,400,running,0,50
+1936,UO,1936_Syracuse_100,1936_03_UO,7,14,4,usa,Shorty_Cantlon,Shorty Cantlon,Burd Piston Ring,,Stevens / Offy,98,350,running,0,10.2
+1936,UO,1936_Syracuse_100,1936_03_UO,8,1,23,usa,Russ_Snowberger,Russ Snowberger,–,,Offy,57,300,rear end,0,
+1936,UO,1936_Syracuse_100,1936_03_UO,9,2,7,usa,Billy_Winn,Billy Winn,Hamilton-Harris,,Miller / Miller,51,275,brake pedal,50,
+1936,UO,1936_Syracuse_100,1936_03_UO,10,3,25,usa,Floyd_Davis,Floyd Davis,–,,Offy,16,250,manifold bolt,0,
+1936,UO,1936_Syracuse_100,1936_03_UO,11,15,29,usa,Henry_Banks,Henry Banks,Ralph DePalma,,Miller / Miller,6,225,connecting rod,0,
+1936,UO,1936_Syracuse_100,1936_03_UO,12,9,3,usa,Wilbur_Shaw,Wilbur Shaw,Gilmore Speedway,,Shaw / Offy,1,134,crash,0,
+1936,UO,1936_Syracuse_100,1936_03_UO,13,12,2,usa,Bill_Cummings,Bill Cummings,Boyle Products,,Miller / Offy,1,133,crash,0,
+1936,UO,1936_Syracuse_100,1936_03_UO,14,10,6,usa,Chet_Gardner,Chet Gardner,Chet Gardner,,Duesenberg / Offy,1,133,crash,0,
+1936,UO,1936_Syracuse_100,1936_03_UO,15,8,15,usa,Deacon_Litz,Deacon Litz,Litz-Miller,,Miller / Miller,1,,transmission,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,1,8,8,italy,Tazio_Nuvolari,Tazio Nuvolari,Scuderia Ferrari,,Alfa Romeo / Alfa Romeo,75,23600,running,74,360
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,2,14,18,france,Jean-Pierre_Wimille,Jean-Pierre Wimille,Jean-Pierre Wimille,,Bugatti / Bugatti,75,10000,running,0,270
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,3,1,9,italy,Antonio_Brivio,Antonio Brivio,Scuderia Ferrari,,Alfa Romeo / Alfa Romeo,75,5100,running,1,240
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,4,19,16,france,Raymond_Sommer,Raymond Sommer,Scuderia Ferrari,,Alfa Romeo / Alfa Romeo,75,3500,running,0,210
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,5,23,46,uk,Pat_Fairchild,Pat Fairchild,Pat Fairchild,,ERA / ERA,75,3000,running,0,180
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,6,30,12,australia,Fred_McEvoy,Fred McEvoy,Fred McEvoy,,Maserati / Maserati,75,2200,running,0,48
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,7,24,32,usa,Mauri_Rose,Mauri Rose,Burd Piston Ring,,Miller / Offy,75,1800,running,0,120
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,8,26,2,usa,Bill_Cummings,Bill Cummings,Boyle Products,,Miller / Offy,75,1600,running,0,90
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,9,32,24,france,Philippe_Etancelin,Philippe Etancelin,Philippe Etancelin,,Maserati / Maserati,75,1500,running,0,60
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,10,5,15,usa,Deacon_Litz,Deacon Litz,Litz-Miller,,Miller / Miller,75,1400,running,0,30
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,11,12,6,usa,Chuck_Tabor,Chuck Tabor,Chet Gardner,,Duesenberg / Offy,75,375,running,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,12,27,4,usa,Emil_Andres,Emil Andres,Burd Piston Ring,,Stevens / Offy,75,370,running,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,13,41,45,uk,Earl_Howe,Earl Howe,Earl Howe,,ERA / ERA,75,365,running,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,14,34,28,usa,Dave_Evans,Dave Evans,McClure Halley,,Bugatti / Bugatti,75,360,running,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,15,42,37,uk,Brian_Lewis,Brian Lewis,T.H. Morris,,ERA / ERA,75,355,running,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,16,22,59,usa,Rick_Decker,Rick Decker,Rick Decker,,Duesenberg / Miller,75,345,running,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,17,6,34,usa,Al_Putnam,Al Putnam,Magnee & Nowiak,,Studebaker/Studebaker,74,340,running,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,18,36,48,uk,Teddy_Rayson,Teddy Rayson,A.T.G. Gardner,,Maserati / Maserati,74,335,running,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,19,31,67,usa,Roy_Lake,Roy Lake,Robert B. Lynch,,Ambler / Ambler,73,330,running,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,20,35,65,usa,Henry_Banks,Henry Banks,Louis Kimmel,,Miller / Miller,72,325,running,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,21,13,17,usa,Chet_Gardner,Chet Gardner,Chet Gardner,,Miller / Miller,72,320,running,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,22,17,66,usa,Gus_Zarka,Gus Zarka,William Watts,,Ambler / Ambler,71,315,running,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,23,10,51,usa,Bob_Swanson,Bob Swanson,R. Rastelli,,Miller / Offy,71,310,running,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,24,43,44,usa,Tony_Gulotta,Tony Gulotta,Bowes Seal Fast,,Stevens / Miller,69,305,running,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,25,7,26,usa,Phil_Shafer,Phil Shafer,Phil Shafer,,Miller,69,300,running,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,26,33,36,usa,Chet_Miller,Chet Miller,Don Campbell,,Rigling / Carew,65,295,running,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,27,37,14,usa,Frank_Brisko,Frank Brisko,Elgin Piston Pin,,Miller / Brisko,65,290,running,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,28,45,52,usa,Lewis_Balus,Lewis Balus,Virgil Williams,,Duesenberg / Duesenberg,65,285,running,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,29,40,57,usa,Ted_Chamberlain,Ted Chamberlain,George Wingerter,,Duesenberg/Miller,65,280,running,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,30,25,53,usa,Louis_Tomei,Louis Tomei,Junior Offy,,Offy,65,275,running,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,31,4,27,usa,George_Connor,George Connor,Bill White,,Weil / Miller,72,270,engine,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,32,2,7,usa,Billy_Winn,Billy Winn,Hamilton-Harris,,Miller / Miller,64,265,rear gear,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,33,38,23,usa,Russ_Snowberger,Russ Snowberger,Joel Thorne,,Offy,61,260,brakes,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,34,39,38,usa,Joel_Thorne,Joel Thorne,Marks-Miller,,Adams / Miller,49,255,universal joint,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,35,28,21,usa,Babe_Stapp,Babe Stapp,Henry Topping,,Shaw / Offy,48,250,fuel tank,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,36,21,22,usa,Ted_Horn,Ted Horn,Harry Hartz,,Wetteroth / Miller,45,245,stalled,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,37,18,43,usa,Jimmy_Snyder,Jimmy Snyder,Belanger-Miller,,Stevens / Offy,40,240,rear gear,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,38,11,5,usa,Shorty_Cantlon,Shorty Cantlon,Harry Miller,,Miller / Miller,35,235,valve,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,39,29,25,usa,Floyd_Davis,Floyd Davis,Joel Thorne,,Offy,30,230,disqualified,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,40,15,42,usa,Tony_Willman,Tony Willman,Bowes Seal Fast,,Stevens / Miller,21,225,steering,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,41,9,10,italy,Nino_Farina,Nino Farina,Scuderia Ferrari,,Alfa Romeo / Alfa Romeo,17,220,steering,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,42,16,29,france,Raph_Bethenod,Raph Bethenod,Ralph Bethoned,,Maserati / Maserati,9,215,disqualified,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,43,44,49,usa,Overton_Phillips,Overton Phillips,Overton Phillips,,Bugatti / Bugatti,8,210,connecting rod,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,44,20,62,usa,Milt_Marion,Milt Marion,Milt Marion,,Miller,3,205,clutch,0,
+1936,UO,1936_George_Vanderbilt_Cup,1936_04_UO,45,3,3,usa,Wilbur_Shaw,Wilbur Shaw,Gilmore Speedway,,Shaw / Offy,2,200,crash,0,

@@ -1,0 +1,631 @@
+season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
+1968,UO,1968_California_200,1968_01_UO,1,7,4,usa,Gordon_Johncock,Gordon Johncock,Johncock Racing Team,,Gerhardt / Offy,134,8130,running,14,400
+1968,UO,1968_California_200,1968_01_UO,2,9,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,134,4878,running,0,320
+1968,UO,1968_California_200,1968_01_UO,3,4,25,usa,Lloyd_Ruby,Lloyd Ruby,Gene White,,Mongoose / Offy,134,2601,running,0,280
+1968,UO,1968_California_200,1968_01_UO,4,11,1,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,133,2032,running,0,240
+1968,UO,1968_California_200,1968_01_UO,5,1,3,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Offy,133,1626,running,98,200
+1968,UO,1968_California_200,1968_01_UO,6,5,8,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Ford,133,1463,running,12,160
+1968,UO,1968_California_200,1968_01_UO,7,13,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Huffaker / Offy,132,1300,running,0,120
+1968,UO,1968_California_200,1968_01_UO,8,10,15,usa,Mel_Kenyon,Mel Kenyon,Thermo King Auto Air Conditioning,,Gerhardt / Offy,132,1219,running,0,100
+1968,UO,1968_California_200,1968_01_UO,9,12,90,usa,George_Snider,George Snider,Leader Card,,Watson / Ford,131,1138,running,0,80
+1968,UO,1968_California_200,1968_01_UO,10,16,99,usa,Gary_Bettenhausen,Gary Bettenhausen,Joe Hunt Magneto,,Lesovsky / Offy,130,1057,running,0,60
+1968,UO,1968_California_200,1968_01_UO,11,17,28,usa,George_Follmer,George Follmer,George Bryant,,Cheetah / Ford,127,976,running,0,40
+1968,UO,1968_California_200,1968_01_UO,12,18,56,usa,Keith_Rachwitz,Keith Rachwitz,Clyde Lynch,,Halibrand / Offy,126,894,running,0,20
+1968,UO,1968_California_200,1968_01_UO,13,22,62,usa,Bruce_Walkup,Bruce Walkup,Hayhoe Racing Enterprises�,,Vollstedt / Offy,124,813,running,0,
+1968,UO,1968_California_200,1968_01_UO,14,21,51,usa,Dempsey_Wilson,Dempsey Wilson,Lysle Greenman,,Halibrand / Chevy,122,732,running,0,
+1968,UO,1968_California_200,1968_01_UO,15,19,55,usa,Sonny_Ates,Sonny Ates,Boyce Holt Racing,,Turner / Chevy,121,650,running,0,
+1968,UO,1968_California_200,1968_01_UO,16,2,11,usa,Art_Pollard,Art Pollard,Thermo King Auto Air Conditioning,,Gerhardt / Offy,120,569,crash,10,
+1968,UO,1968_California_200,1968_01_UO,17,26,61,usa,Max_Dudley,Max Dudley,Dudley Trucking,,Gerhardt / Chevy,115,488,running,0,
+1968,UO,1968_California_200,1968_01_UO,18,23,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Offy,113,406,running,0,
+1968,UO,1968_California_200,1968_01_UO,19,24,101,usa,Bruce_Jacobi,Bruce Jacobi,Earl Smith,,Gerhardt / Offy,92,325,fuel leak,0,
+1968,UO,1968_California_200,1968_01_UO,20,14,96,usa,Johnny_Rutherford,Johnny Rutherford,E. R. E. & Green,,Eisert / Chevy,82,243,crash,0,
+1968,UO,1968_California_200,1968_01_UO,21,15,14,usa,Chuck_Hulse,Chuck Hulse,Quaker State,,Gerhardt / Offy,71,163,transmission,0,
+1968,UO,1968_California_200,1968_01_UO,22,6,9,usa,Joe_Leonard,Joe Leonard,Vel's Ford Sales,,Morris / Ford,52,163,crash,0,
+1968,UO,1968_California_200,1968_01_UO,23,3,2,usa,Mario_Andretti,Mario Andretti,Andretti Racing Team,,Brawner / Ford,40,163,half shaft,0,
+1968,UO,1968_California_200,1968_01_UO,24,20,81,usa,Arnie_Knepper,Arnie Knepper,Central Excavating,,Gerhardt / Offy,32,163,water tank,0,
+1968,UO,1968_California_200,1968_01_UO,25,25,23,usa,George_Benson,George Benson,ConzeBrothers,,Watson / Offy,9,163,engine,0,
+1968,UO,1968_California_200,1968_01_UO,26,8,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",J.C. Agajanian,,Mongoose / Offy,6,163,throttle link,0,
+1968,UO,1968_Stardust_150,1968_02_UO,1,2,3,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Ford,50,7019,running,9,300
+1968,UO,1968_Stardust_150,1968_02_UO,2,3,2,usa,Mario_Andretti,Mario Andretti,Andretti Racing Team,,Brawner / Ford,50,4211,running,41,240
+1968,UO,1968_Stardust_150,1968_02_UO,3,9,9,usa,Joe_Leonard,Joe Leonard,Vel's Ford Sales,,Morris / Ford,49,2807,running,0,210
+1968,UO,1968_Stardust_150,1968_02_UO,4,8,25,usa,Lloyd_Ruby,Lloyd Ruby,Gene White,,Mongoose / Ford,49,2035,running,0,180
+1968,UO,1968_Stardust_150,1968_02_UO,5,13,90,usa,George_Snider,George Snider,Leader Card,,Watson / Ford,48,1685,running,0,150
+1968,UO,1968_Stardust_150,1968_02_UO,6,11,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",J.C. Agajanian,,Mongoose / Ford,47,1404,running,0,120
+1968,UO,1968_Stardust_150,1968_02_UO,7,16,4,usa,Gordon_Johncock,Gordon Johncock,Johncock Racing Team,,Gerhardt / Ford,47,1123,running,0,90
+1968,UO,1968_Stardust_150,1968_02_UO,8,12,11,usa,Art_Pollard,Art Pollard,Thermo King Auto Air Conditioning,,Gerhardt / Ford,45,983,running,0,75
+1968,UO,1968_Stardust_150,1968_02_UO,9,15,55,usa,Keith_Rachwitz,Keith Rachwitz,Clyde Lynch,,Halibrand / Offy,40,912,running,0,60
+1968,UO,1968_Stardust_150,1968_02_UO,10,14,99,usa,Gary_Bettenhausen,Gary Bettenhausen,Joe Hunt Magneto,,Lesovsky / Offy,35,842,running,0,45
+1968,UO,1968_Stardust_150,1968_02_UO,11,10,96,usa,Johnny_Rutherford,Johnny Rutherford,Eisert Racing Enterprises,,Eisert / Chevy,34,772,fuel system,0,30
+1968,UO,1968_Stardust_150,1968_02_UO,12,5,8,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Ford,25,702,off course,0,15
+1968,UO,1968_Stardust_150,1968_02_UO,13,7,1,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,23,632,overheating,0,
+1968,UO,1968_Stardust_150,1968_02_UO,14,4,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,19,561,rear end,0,
+1968,UO,1968_Stardust_150,1968_02_UO,15,6,28,usa,George_Follmer,George Follmer,George Bryant,,Cheetah / Ford,2,491,suspension,0,
+1968,UO,1968_Stardust_150,1968_02_UO,16,1,48,usa,Dan_Gurney,Dan Gurney,Olsonite,,Eagle / Ford,0,421,suspension,0,
+1968,UO,1968_Stardust_150,1968_02_UO,17,17,51,usa,Dempsey_Wilson,Dempsey Wilson,Lysle Greenman,,Halibrand / Chevy,0,351,did not start,0,
+1968,UO,1968_Stardust_150,1968_02_UO,18,18,14,usa,Chuck_Hulse,Chuck Hulse,Quaker State,,Gerhardt / Offy,0,281,did not start,0,
+1968,UO,1968_Jimmy_Bryan_Memorial,1968_03_UO,1,1,3,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Offy,150,4421,running,74,300
+1968,UO,1968_Jimmy_Bryan_Memorial,1968_03_UO,2,4,25,usa,Lloyd_Ruby,Lloyd Ruby,Gene White,,Mongoose / Offy,149,2653,running,18,240
+1968,UO,1968_Jimmy_Bryan_Memorial,1968_03_UO,3,9,15,usa,Mel_Kenyon,Mel Kenyon,"City of Lebanon, Indiana",,Gerhardt / Offy,149,1769,running,0,210
+1968,UO,1968_Jimmy_Bryan_Memorial,1968_03_UO,4,12,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Huffaker / Offy,148,1282,running,0,180
+1968,UO,1968_Jimmy_Bryan_Memorial,1968_03_UO,5,16,11,usa,Art_Pollard,Art Pollard,Thermo King Auto Air Conditioning,,Gerhardt / Offy,148,1061,running,0,150
+1968,UO,1968_Jimmy_Bryan_Memorial,1968_03_UO,6,15,90,usa,George_Snider,George Snider,Leader Card,,Watson / Ford,147,884,running,0,120
+1968,UO,1968_Jimmy_Bryan_Memorial,1968_03_UO,7,13,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Offy,147,707,running,0,90
+1968,UO,1968_Jimmy_Bryan_Memorial,1968_03_UO,8,18,14,usa,Chuck_Hulse,Chuck Hulse,Quaker State,,Gerhardt / Offy,147,619,running,0,75
+1968,UO,1968_Jimmy_Bryan_Memorial,1968_03_UO,9,8,67,usa,Jim_Malloy,Jim Malloy,Jim Robbins Seat Belt,,Vollstedt / Ford,145,575,running,0,60
+1968,UO,1968_Jimmy_Bryan_Memorial,1968_03_UO,10,24,81,usa,Bob_Hurt,Bob Hurt,Central Excavating,,Gerhardt / Offy,137,531,running,0,45
+1968,UO,1968_Jimmy_Bryan_Memorial,1968_03_UO,11,23,51,usa,Dempsey_Wilson,Dempsey Wilson,Lysle Greenman,,Halibrand / Chevy,136,486,running,0,30
+1968,UO,1968_Jimmy_Bryan_Memorial,1968_03_UO,12,14,77,usa,Larry_Dickson,Larry Dickson,Dayton Steel Wheel,,Gerhardt / Ford,134,442,oil leak,0,15
+1968,UO,1968_Jimmy_Bryan_Memorial,1968_03_UO,13,21,99,usa,Gary_Bettenhausen,Gary Bettenhausen,Joe Hunt Magneto,,Lesovsky / Offy,106,398,running,0,
+1968,UO,1968_Jimmy_Bryan_Memorial,1968_03_UO,14,3,8,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Ford,80,354,crash,34,
+1968,UO,1968_Jimmy_Bryan_Memorial,1968_03_UO,15,2,2,usa,Mario_Andretti,Mario Andretti,Andretti Racing Team,,Brawner / Ford,80,310,crash,24,
+1968,UO,1968_Jimmy_Bryan_Memorial,1968_03_UO,16,7,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,80,265,engine,0,
+1968,UO,1968_Jimmy_Bryan_Memorial,1968_03_UO,17,10,96,usa,Johnny_Rutherford,Johnny Rutherford,Eisert Racing Enterprises,,Eisert / Chevy,78,221,crash,0,
+1968,UO,1968_Jimmy_Bryan_Memorial,1968_03_UO,18,6,4,usa,Gordon_Johncock,Gordon Johncock,Johncock Racing Team,,Gerhardt / Ford,56,177,rear end,0,
+1968,UO,1968_Jimmy_Bryan_Memorial,1968_03_UO,19,17,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",J.C. Agajanian,,Mongoose / Offy,53,88,piston,0,
+1968,UO,1968_Jimmy_Bryan_Memorial,1968_03_UO,20,19,62,usa,Bruce_Walkup,Bruce Walkup,Hayhoe Racing Enterprises�,,Vollstedt / Offy,46,88,turbocharger,0,
+1968,UO,1968_Jimmy_Bryan_Memorial,1968_03_UO,21,20,101,usa,Bruce_Jacobi,Bruce Jacobi,Earl Smith,,Gerhardt / Chevy,14,88,rear end,0,
+1968,UO,1968_Jimmy_Bryan_Memorial,1968_03_UO,22,11,9,usa,Joe_Leonard,Joe Leonard,Vel's Ford Sales,,Morris / Ford,1,88,half shaft,0,
+1968,UO,1968_Jimmy_Bryan_Memorial,1968_03_UO,23,5,1,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,0,88,engine,0,
+1968,UO,1968_Jimmy_Bryan_Memorial,1968_03_UO,24,22,28,usa,George_Follmer,George Follmer,George Bryant,,Cheetah / Ford,0,88,crash,0,
+1968,UO,1968_Trenton_150,1968_04_UO,1,4,3,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Offy,150,6603,running,142,300
+1968,UO,1968_Trenton_150,1968_04_UO,2,1,2,usa,Mario_Andretti,Mario Andretti,Overseas National Airways,,Brawner / Ford,150,3962,running,8,240
+1968,UO,1968_Trenton_150,1968_04_UO,3,8,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Finley / Offy,150,2641,running,0,210
+1968,UO,1968_Trenton_150,1968_04_UO,4,9,4,usa,Gordon_Johncock,Gordon Johncock,Johncock Racing Team,,Gerhardt / Offy,150,1915,running,0,180
+1968,UO,1968_Trenton_150,1968_04_UO,5,10,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",J.C. Agajanian,,Mongoose / Offy,148,1585,running,0,150
+1968,UO,1968_Trenton_150,1968_04_UO,6,14,90,usa,George_Snider,George Snider,Leader Card,,Watson / Ford,147,1321,running,0,120
+1968,UO,1968_Trenton_150,1968_04_UO,7,16,23,usa,Rick_Muther,Rick Muther,Michner Petroleum,,Lola / Ford,146,1057,running,0,90
+1968,UO,1968_Trenton_150,1968_04_UO,8,7,9,usa,Joe_Leonard,Joe Leonard,Vel's Ford Sales,,Morris / Ford,145,924,running,0,75
+1968,UO,1968_Trenton_150,1968_04_UO,9,18,61,usa,Max_Dudley,Max Dudley,Dudley Trucking,,Gerhardt / Chevy,98,858,oil leak,0,60
+1968,UO,1968_Trenton_150,1968_04_UO,10,13,15,usa,Mel_Kenyon,Mel Kenyon,"City of Lebanon, Indiana",,Gerhardt / Offy,84,792,universal joint,0,45
+1968,UO,1968_Trenton_150,1968_04_UO,11,11,67,usa,Jim_Malloy,Jim Malloy,Jim Robbins Seat Belt,,Vollstedt / Ford,74,726,crash,0,30
+1968,UO,1968_Trenton_150,1968_04_UO,12,3,25,usa,Lloyd_Ruby,Lloyd Ruby,Gene White,,Mongoose / Offy,65,660,ring / pinion,0,15
+1968,UO,1968_Trenton_150,1968_04_UO,13,12,11,usa,Art_Pollard,Art Pollard,Thermo King Auto Air Conditioning,,Gerhardt / Offy,56,594,spun out,0,
+1968,UO,1968_Trenton_150,1968_04_UO,14,22,37,usa,Bay_Darnell,Bay Darnell,Curtis Auto Center,,Curtis / Chevy,54,528,engine,0,
+1968,UO,1968_Trenton_150,1968_04_UO,15,21,57,usa,Rollie_Beale,Rollie Beale,Kenny Brenn,,Meskowski / Offy,36,462,dnf,0,
+1968,UO,1968_Trenton_150,1968_04_UO,16,2,8,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Offy,27,396,steering,0,
+1968,UO,1968_Trenton_150,1968_04_UO,17,6,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,23,330,half shaft,0,
+1968,UO,1968_Trenton_150,1968_04_UO,18,19,36,usa,Gene_Bergin,Gene Bergin,Bulldog Stables,,Gerhardt / Chevy,15,264,engine,0,
+1968,UO,1968_Trenton_150,1968_04_UO,19,17,101,usa,Bruce_Jacobi,Bruce Jacobi,Earl Smith,,Gerhardt / Offy,9,132,crash,0,
+1968,UO,1968_Trenton_150,1968_04_UO,20,23,87,usa,Chuck_Arnold,Chuck Arnold,California Speed & Sport Shop,,Halibrand / Offy,9,132,half shaft,0,
+1968,UO,1968_Trenton_150,1968_04_UO,21,5,1,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,3,132,half shaft,0,
+1968,UO,1968_Trenton_150,1968_04_UO,22,20,55,usa,Sonny_Ates,Sonny Ates,Boyce Holt Racing,,Turner / Chevy,0,132,spun out,0,
+1968,UO,1968_Trenton_150,1968_04_UO,23,15,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Offy,0,132,did not start,0,
+1968,UO,1968_Indianapolis_500,1968_05_UO,1,3,3,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Offy,200,177523,running,127,1000
+1968,UO,1968_Indianapolis_500,1968_05_UO,2,10,48,usa,Dan_Gurney,Dan Gurney,Olsonite,,Eagle / Ford,200,64678,running,0,800
+1968,UO,1968_Indianapolis_500,1968_05_UO,3,17,15,usa,Mel_Kenyon,Mel Kenyon,"City of Lebanon, Indiana",,Gerhardt / Offy,200,44843,running,0,700
+1968,UO,1968_Indianapolis_500,1968_05_UO,4,20,42,new_zealand,Denny_Hulme,Denny Hulme,Olsonite,,Eagle / Ford,200,26508,running,0,600
+1968,UO,1968_Indianapolis_500,1968_05_UO,5,5,25,usa,Lloyd_Ruby,Lloyd Ruby,Gene White Co.,,Mongoose / Offy,200,30248,running,42,500
+1968,UO,1968_Indianapolis_500,1968_05_UO,6,26,59,usa,Ronnie_Duman,Ronnie Duman,Hayhoe Racing Enterprises,,Hayhoe / Offy,199,19088,running,0,400
+1968,UO,1968_Indianapolis_500,1968_05_UO,7,23,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",Wagner Lockheed Brake Fluid,,Shrike / Offy,198,17903,running,0,300
+1968,UO,1968_Indianapolis_500,1968_05_UO,8,27,90,usa,Mike_Mosley,Mike Mosley,Zecol / Lubaid,,Watson / Offy,197,16819,running,0,250
+1968,UO,1968_Indianapolis_500,1968_05_UO,9,31,94,usa,Sammy_Sessions,Sammy Sessions,Valvoline,,Finley / Offy,197,15104,running,0,200
+1968,UO,1968_Indianapolis_500,1968_05_UO,10,25,6,usa,Bobby_Grim,Bobby Grim,Gene White Co.,,Mongoose / Offy,196,15053,running,0,150
+1968,UO,1968_Indianapolis_500,1968_05_UO,11,24,16,usa,Bob_Veith,Bob Veith,Thermo King Auto Air Conditioning,,Gerhardt / Offy,196,14393,running,0,100
+1968,UO,1968_Indianapolis_500,1968_05_UO,12,1,60,usa,Joe_Leonard,Joe Leonard,STP Oil Treatment,,Lotus / Pratt & Whitney,191,37403,fuel shaft,31,50
+1968,UO,1968_Indianapolis_500,1968_05_UO,13,11,20,usa,Art_Pollard,Art Pollard,STP Oil Treatment,,Lotus / Pratt & Whitney,188,1833,fuel shaft,0,
+1968,UO,1968_Indianapolis_500,1968_05_UO,14,13,82,usa,Jim_McElreath,Jim McElreath,Jim Greer,,Coyote / Ford,179,12793,stalled,0,
+1968,UO,1968_Indianapolis_500,1968_05_UO,15,28,84,usa,Carl_Williams,Carl Williams,Sheraton / Thompson,,Coyote / Ford,163,13138,crash,0,
+1968,UO,1968_Indianapolis_500,1968_05_UO,16,18,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Offy,158,12553,oil pressure,0,
+1968,UO,1968_Indianapolis_500,1968_05_UO,17,12,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Finley / Offy,146,11413,engine,0,
+1968,UO,1968_Indianapolis_500,1968_05_UO,18,21,18,usa,Johnny_Rutherford,Johnny Rutherford,City of Seattle,,Eagle / Ford,125,11468,crash,0,
+1968,UO,1968_Indianapolis_500,1968_05_UO,19,2,70,uk,Graham_Hill,Graham Hill,STP Oil Treatment,,Lotus / Pratt & Whitney,110,13693,crash,0,
+1968,UO,1968_Indianapolis_500,1968_05_UO,20,8,1,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,86,11013,rear end,0,
+1968,UO,1968_Indianapolis_500,1968_05_UO,21,19,45,usa,Ronnie_Bucknum,Ronnie Bucknum,Weinberger Homes,,Eagle / Ford,76,10853,fuel leak,0,
+1968,UO,1968_Indianapolis_500,1968_05_UO,22,14,27,usa,Jim_Malloy,Jim Malloy,Jim Robbins Seat Belt,,Vollstedt / Ford,64,10013,rear end,0,
+1968,UO,1968_Indianapolis_500,1968_05_UO,23,15,78,usa,Jerry_Grant,Jerry Grant,Bardahl,,Eagle / Ford,50,9643,oil leak,0,
+1968,UO,1968_Indianapolis_500,1968_05_UO,24,22,11,usa,Gary_Bettenhausen,Gary Bettenhausen,Thermo King Auto Air Conditioning,,Gerhardt / Offy,43,9743,crash,0,
+1968,UO,1968_Indianapolis_500,1968_05_UO,25,32,21,usa,Arnie_Knepper,Arnie Knepper,Bryant Heating & Cooling,,Vollstedt / Offy,42,9463,crash,0,
+1968,UO,1968_Indianapolis_500,1968_05_UO,26,6,24,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,40,10003,crash,0,
+1968,UO,1968_Indianapolis_500,1968_05_UO,27,9,4,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Gerhardt / Offy,37,9363,rear end,0,
+1968,UO,1968_Indianapolis_500,1968_05_UO,28,33,64,usa,Larry_Dickson,Larry Dickson,Overseas National Airways,,Hawk / Ford,24,9043,piston,0,
+1968,UO,1968_Indianapolis_500,1968_05_UO,29,7,8,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Offy,16,9343,oil filter,0,
+1968,UO,1968_Indianapolis_500,1968_05_UO,30,30,56,usa,Jim_Hurtubise,Jim Hurtubise,Pepsi / Frito-Lay,,Mallard / Offy,9,9213,piston,0,
+1968,UO,1968_Indianapolis_500,1968_05_UO,31,29,29,usa,George_Snider,George Snider,Vel's Parnelli Ford,,Mongoose / Ford,9,9353,oil leak,0,
+1968,UO,1968_Indianapolis_500,1968_05_UO,32,16,35,austria,Jochen_Rindt,Jochen Rindt,Repco-Brabham,,Brabham / Repco,5,9713,piston,0,
+1968,UO,1968_Indianapolis_500,1968_05_UO,33,4,2,usa,Mario_Andretti,Mario Andretti,Overseas National Airways,,Hawk / Ford,2,9843,piston,0,
+1968,UO,1968_Rex_Mays_Classic,1968_06_UO,1,7,25,usa,Lloyd_Ruby,Lloyd Ruby,Gene White,,Mongoose / Offy,150,12313,running,43,300
+1968,UO,1968_Rex_Mays_Classic,1968_06_UO,2,9,2,usa,Mario_Andretti,Mario Andretti,Overseas National Airways,,Brawner / Ford,150,7388,running,23,240
+1968,UO,1968_Rex_Mays_Classic,1968_06_UO,3,12,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,150,4925,running,0,210
+1968,UO,1968_Rex_Mays_Classic,1968_06_UO,4,10,18,usa,Johnny_Rutherford,Johnny Rutherford,City of Seattle,,Eagle / Ford,146,3571,running,0,180
+1968,UO,1968_Rex_Mays_Classic,1968_06_UO,5,20,59,usa,Bruce_Walkup,Bruce Walkup,Hayhoe Racing Enterprises�,,Brabham / Offy,145,2955,running,0,150
+1968,UO,1968_Rex_Mays_Classic,1968_06_UO,6,15,38,usa,Larry_Dickson,Larry Dickson,Jack Adams Aircraft / Wynn's,,Lola / Ford,144,2463,running,0,120
+1968,UO,1968_Rex_Mays_Classic,1968_06_UO,7,5,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Finley / Offy,144,1970,running,46,90
+1968,UO,1968_Rex_Mays_Classic,1968_06_UO,8,16,11,usa,George_Snider,George Snider,Thermo King Auto Air Conditioning,,Gerhardt / Offy,139,1724,running,0,75
+1968,UO,1968_Rex_Mays_Classic,1968_06_UO,9,13,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Offy,136,1600,running,0,46
+1968,UO,1968_Rex_Mays_Classic,1968_06_UO,10,17,27,usa,Jim_Malloy,Jim Malloy,Jim Robbins Seat Belt,,Vollstedt / Offy,135,1478,running,0,45
+1968,UO,1968_Rex_Mays_Classic,1968_06_UO,11,21,14,usa,Sammy_Sessions,Sammy Sessions,Quaker State,,Gerhardt / Offy,128,1354,running,0,30
+1968,UO,1968_Rex_Mays_Classic,1968_06_UO,12,8,4,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Gerhardt / Offy,117,1231,crash,0,7
+1968,UO,1968_Rex_Mays_Classic,1968_06_UO,13,11,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",Wagner Lockheed Brake Fluid,,Shrike / Offy,90,1108,engine,0,
+1968,UO,1968_Rex_Mays_Classic,1968_06_UO,14,6,1,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,77,985,wheel,0,
+1968,UO,1968_Rex_Mays_Classic,1968_06_UO,15,24,61,usa,Max_Dudley,Max Dudley,Dudley Trucking,,Gerhardt / Chevy,76,862,heat exhaustion,0,
+1968,UO,1968_Rex_Mays_Classic,1968_06_UO,16,3,20,usa,Art_Pollard,Art Pollard,STP Oil Treatment,,Lotus / Pratt & Whitney,61,739,fuel leak,1,
+1968,UO,1968_Rex_Mays_Classic,1968_06_UO,17,23,77,usa,Bill_Puterbaugh,Bill Puterbaugh,Dayton Steel Wheel,,Gerhardt / Ford,48,615,black flagged,0,
+1968,UO,1968_Rex_Mays_Classic,1968_06_UO,18,4,60,usa,Joe_Leonard,Joe Leonard,STP Oil Treatment,,Lotus / Pratt & Whitney,38,493,suspension,13,
+1968,UO,1968_Rex_Mays_Classic,1968_06_UO,19,19,90,usa,Mike_Mosley,Mike Mosley,Zecol / Lubaid,,Watson / Offy,33,246,hub,0,
+1968,UO,1968_Rex_Mays_Classic,1968_06_UO,20,1,8,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Ford,24,246,magneto,6,
+1968,UO,1968_Rex_Mays_Classic,1968_06_UO,21,2,3,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Offy,18,246,fuel leak,18,
+1968,UO,1968_Rex_Mays_Classic,1968_06_UO,22,14,81,usa,Ronnie_Duman,Ronnie Duman,Central Excavating,,Gerhardt / Offy,2,246,crash,0,
+1968,UO,1968_Rex_Mays_Classic,1968_06_UO,23,22,37,usa,Bay_Darnell,Bay Darnell,Curtis Auto Center,,Curtis / Chevy,2,246,crash,0,
+1968,UO,1968_Rex_Mays_Classic,1968_06_UO,24,18,23,usa,Norm_Brown,Norm Brown,Michner Petroleum,,Lola / Ford,2,246,crash,0,
+1968,UO,1968_Telegraph_Trophy_200_Heat_1,1968_07_UO,1,1,48,usa,Dan_Gurney,Dan Gurney,Olsonite,,Eagle / Ford,40,,running,40,200
+1968,UO,1968_Telegraph_Trophy_200_Heat_1,1968_07_UO,2,2,2,usa,Mario_Andretti,Mario Andretti,Overseas National Airways,,Brawner / Ford,40,,running,0,160
+1968,UO,1968_Telegraph_Trophy_200_Heat_1,1968_07_UO,3,4,8,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Ford,40,,running,0,140
+1968,UO,1968_Telegraph_Trophy_200_Heat_1,1968_07_UO,4,5,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,40,,running,0,120
+1968,UO,1968_Telegraph_Trophy_200_Heat_1,1968_07_UO,5,6,45,usa,Ronnie_Bucknum,Ronnie Bucknum,Weinberger Homes,,Eagle / Ford,39,,running,0,100
+1968,UO,1968_Telegraph_Trophy_200_Heat_1,1968_07_UO,6,11,12,usa,Mark_Donohue,Mark Donohue,Sunoco,,Eagle / Chevy,39,,running,0,80
+1968,UO,1968_Telegraph_Trophy_200_Heat_1,1968_07_UO,7,12,9,usa,Joe_Leonard,Joe Leonard,Vel's Parnelli Jones Ford,,Mongoose / Ford,37,,running,0,60
+1968,UO,1968_Telegraph_Trophy_200_Heat_1,1968_07_UO,8,10,67,usa,Jim_Malloy,Jim Malloy,Jim Robbins Seat Belt,,Vollstedt / Ford,37,,running,0,50
+1968,UO,1968_Telegraph_Trophy_200_Heat_1,1968_07_UO,9,15,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",Wagner Lockheed Brake Fluid,,Shrike / Ford,36,,running,0,40
+1968,UO,1968_Telegraph_Trophy_200_Heat_1,1968_07_UO,10,17,11,usa,Gary_Bettenhausen,Gary Bettenhausen,Thermo King Auto Air Conditioning,,Gerhardt / Ford,35,,running,0,30
+1968,UO,1968_Telegraph_Trophy_200_Heat_1,1968_07_UO,11,8,41,usa,George_Follmer,George Follmer,George Bryant,,Cheetah / Ford,35,,fuel system,0,20
+1968,UO,1968_Telegraph_Trophy_200_Heat_1,1968_07_UO,12,16,11,canada,George_Fejer,George Fejer,Chinook Mark VII,,Chinook / Ford,29,,driver ill,0,10
+1968,UO,1968_Telegraph_Trophy_200_Heat_1,1968_07_UO,13,7,4,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Eagle / Ford,28,,crash,0,
+1968,UO,1968_Telegraph_Trophy_200_Heat_1,1968_07_UO,14,13,38,usa,Art_Pollard,Art Pollard,Jack Adams Aircraft / Wynn's,,Lola / Ford,15,,oil leak,0,
+1968,UO,1968_Telegraph_Trophy_200_Heat_1,1968_07_UO,15,9,25,usa,Lloyd_Ruby,Lloyd Ruby,Gene White,,Mongoose / Ford,14,,crash,0,
+1968,UO,1968_Telegraph_Trophy_200_Heat_1,1968_07_UO,16,14,90,usa,Mike_Mosley,Mike Mosley,Zecol / Lubaid,,Watson / Ford,5,,engine,0,
+1968,UO,1968_Telegraph_Trophy_200_Heat_1,1968_07_UO,17,3,3,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Ford,1,,crash,0,
+1968,UO,1968_Telegraph_Trophy_200_Heat_2,1968_08_UO,1,1,48,usa,Dan_Gurney,Dan Gurney,Olsonite,,Eagle / Ford,40,6731,running,40,200
+1968,UO,1968_Telegraph_Trophy_200_Heat_2,1968_08_UO,2,2,2,usa,Mario_Andretti,Mario Andretti,Overseas National Airways,,Brawner / Ford,40,4441,running,0,160
+1968,UO,1968_Telegraph_Trophy_200_Heat_2,1968_08_UO,3,5,45,usa,Ronnie_Bucknum,Ronnie Bucknum,Weinberger Homes,,Eagle / Ford,39,2408,running,0,140
+1968,UO,1968_Telegraph_Trophy_200_Heat_2,1968_08_UO,4,6,12,usa,Mark_Donohue,Mark Donohue,Sunoco,,Eagle / Chevy,39,1691,running,0,120
+1968,UO,1968_Telegraph_Trophy_200_Heat_2,1968_08_UO,5,4,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,38,1929,running,0,100
+1968,UO,1968_Telegraph_Trophy_200_Heat_2,1968_08_UO,6,7,9,usa,Joe_Leonard,Joe Leonard,Vel's Parnelli Ford,,Mongoose / Ford,38,1242,running,0,80
+1968,UO,1968_Telegraph_Trophy_200_Heat_2,1968_08_UO,7,9,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",Wagner Lockheed Brake Fluid,,Brabham / Ford,36,1001,running,0,60
+1968,UO,1968_Telegraph_Trophy_200_Heat_2,1968_08_UO,8,8,67,usa,Jim_Malloy,Jim Malloy,Jim Robbins Seat Belt,,Vollstedt / Ford,35,966,running,0,50
+1968,UO,1968_Telegraph_Trophy_200_Heat_2,1968_08_UO,9,16,90,usa,Mike_Mosley,Mike Mosley,Zecol / Lubaid,,Watson / Ford,34,656,running,0,40
+1968,UO,1968_Telegraph_Trophy_200_Heat_2,1968_08_UO,10,11,41,usa,George_Follmer,George Follmer,George Bryant,,Cheetah / Ford,28,794,fuel pump,0,30
+1968,UO,1968_Telegraph_Trophy_200_Heat_2,1968_08_UO,11,14,38,usa,Larry_Dickson,Larry Dickson,Jack Adams Aircraft / Wynn's,,Lola / Ford,18,655,oil leak,0,20
+1968,UO,1968_Telegraph_Trophy_200_Heat_2,1968_08_UO,12,15,25,usa,Lloyd_Ruby,Lloyd Ruby,Gene White,,Mongoose / Ford,13,587,suspension,0,10
+1968,UO,1968_Telegraph_Trophy_200_Heat_2,1968_08_UO,13,10,11,usa,Gary_Bettenhausen,Gary Bettenhausen,Thermo King Auto Air Conditioning,,Gerhardt / Ford,13,725,oil leak,0,
+1968,UO,1968_Telegraph_Trophy_200_Heat_2,1968_08_UO,14,3,8,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Ford,13,1656,transmission,0,
+1968,UO,1968_Telegraph_Trophy_200_Heat_2,1968_08_UO,15,12,11,canada,George_Fejer,George Fejer,Chinook Mark VII,,Chinook / Ford,3,587,driver ill,0,
+1968,UO,1968_Langhorne_150,1968_09_UO,1,1,4,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Gerhardt / Offy,150,8273,running,113,300
+1968,UO,1968_Langhorne_150,1968_09_UO,2,4,3,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Ford,150,4964,running,37,240
+1968,UO,1968_Langhorne_150,1968_09_UO,3,9,11,usa,Gary_Bettenhausen,Gary Bettenhausen,Thermo King Auto Air Conditioning,,Gerhardt / Offy,146,3309,running,0,210
+1968,UO,1968_Langhorne_150,1968_09_UO,4,16,90,usa,Mike_Mosley,Mike Mosley,Zecol / Lubaid,,Watson / Offy,146,2399,running,0,180
+1968,UO,1968_Langhorne_150,1968_09_UO,5,15,38,usa,Larry_Dickson,Larry Dickson,Jack Adams Aircraft / Wynn's,,Lola / Ford,145,1985,running,0,150
+1968,UO,1968_Langhorne_150,1968_09_UO,6,22,87,usa,Sonny_Ates,Sonny Ates,California Speed & Sport Shop,,Halibrand / Offy,139,1655,running,0,120
+1968,UO,1968_Langhorne_150,1968_09_UO,7,19,61,usa,Max_Dudley,Max Dudley,Dudley Trucking,,Gerhardt / Chevy,135,1324,running,0,90
+1968,UO,1968_Langhorne_150,1968_09_UO,8,23,57,usa,Bill_Puterbaugh,Bill Puterbaugh,Kenny Brenn,,Meskowski / Offy,133,1158,running,0,75
+1968,UO,1968_Langhorne_150,1968_09_UO,9,7,8,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Offy,113,1075,suspension,0,60
+1968,UO,1968_Langhorne_150,1968_09_UO,10,20,44,usa,Chuck_Booth,Chuck Booth,Boyce Holt Racing,,Turner / Chevy,93,993,tire,0,45
+1968,UO,1968_Langhorne_150,1968_09_UO,11,13,88,usa,Bruce_Walkup,Bruce Walkup,Kenny Brenn,,Gerhardt / Ford,91,910,spun out,0,30
+1968,UO,1968_Langhorne_150,1968_09_UO,12,8,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,90,827,oil pressure,0,15
+1968,UO,1968_Langhorne_150,1968_09_UO,13,14,36,usa,Bob_Harkey,Bob Harkey,Bulldog Stables,,Gerhardt / Chevy,88,745,hit in head,0,
+1968,UO,1968_Langhorne_150,1968_09_UO,14,12,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",Wagner Lockheed Brake Fluid,,Shrike / Offy,80,662,overheating,0,
+1968,UO,1968_Langhorne_150,1968_09_UO,15,2,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Finley / Offy,70,579,crash,0,
+1968,UO,1968_Langhorne_150,1968_09_UO,16,17,14,usa,Sammy_Sessions,Sammy Sessions,Quaker State,,Gerhardt / Offy,69,496,crash,0,
+1968,UO,1968_Langhorne_150,1968_09_UO,17,5,2,usa,Mario_Andretti,Mario Andretti,Overseas National Airways,,Brawner / Ford,44,414,valve,0,
+1968,UO,1968_Langhorne_150,1968_09_UO,18,3,21,usa,Art_Pollard,Art Pollard,Bryant Heating & Cooling,,Vollstedt / Ford,41,331,magneto,0,
+1968,UO,1968_Langhorne_150,1968_09_UO,19,10,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Offy,40,165,radiator hose,0,
+1968,UO,1968_Langhorne_150,1968_09_UO,20,11,67,usa,Jim_Malloy,Jim Malloy,Jim Robbins Seat Belt,,Vollstedt / Ford,16,165,lost wheel,0,
+1968,UO,1968_Langhorne_150,1968_09_UO,21,6,25,usa,Lloyd_Ruby,Lloyd Ruby,Gene White,,Mongoose / Ford,6,165,fuel line,0,
+1968,UO,1968_Langhorne_150,1968_09_UO,22,18,101,usa,Bruce_Jacobi,Bruce Jacobi,Earl Smith,,Gerhardt / Offy,4,165,suspension,0,
+1968,UO,1968_Langhorne_150,1968_09_UO,23,21,102,usa,Gig_Stephens,Gig Stephens,Halibrand Engineering,,Halibrand / Offy,4,165,crash,0,
+1968,UO,1968_Pikes_Peak_Hill_Climb,1968_10_UO,1,1,92,usa,Bobby_Unser,Bobby Unser,Rislone,,Unser / Chevy,1,3800,running,1,30
+1968,UO,1968_Pikes_Peak_Hill_Climb,1968_10_UO,2,3,31,usa,Ted_Foltz,Ted Foltz,Godwin Bevers,,Hahn / Chevy,1,2375,running,0,24
+1968,UO,1968_Pikes_Peak_Hill_Climb,1968_10_UO,3,7,22,usa,Wes_Vandervoort,Wes Vandervoort,Rocky Mountain Paving,,Chevy,1,1900,running,0,21
+1968,UO,1968_Pikes_Peak_Hill_Climb,1968_10_UO,4,4,2,usa,Mario_Andretti,Mario Andretti,Overseas National Airways,,Hawk / Ford,1,1425,running,0,18
+1968,UO,1968_Pikes_Peak_Hill_Climb,1968_10_UO,5,6,4,usa,Paul_Kleinschmidt,Paul Kleinschmidt,Coors,,Cadillac,1,760,running,0,15
+1968,UO,1968_Pikes_Peak_Hill_Climb,1968_10_UO,6,8,61,usa,Malcolm_Brazier,Malcolm Brazier,Gruenerwald-Kearny Buick,,Buick,1,475,running,0,12
+1968,UO,1968_Pikes_Peak_Hill_Climb,1968_10_UO,7,9,9,usa,Bob_Herring,Bob Herring,Campo Construction,,Chevy,1,237,running,0,9
+1968,UO,1968_Pikes_Peak_Hill_Climb,1968_10_UO,8,11,98,usa,Grier_Manning,Grier Manning,Wagner Lockheed,,Watson / Offy,1,190,running,0,8
+1968,UO,1968_Pikes_Peak_Hill_Climb,1968_10_UO,9,12,26,usa,Ralph_Bruning,Ralph Bruning,Bruning Construction,,Ford,1,142,running,0,6
+1968,UO,1968_Pikes_Peak_Hill_Climb,1968_10_UO,10,15,43,usa,Charlie_Lowderman,Charlie Lowderman,Bill Wynne,,Chevy,1,95,running,0,5
+1968,UO,1968_Pikes_Peak_Hill_Climb,1968_10_UO,11,13,76X,usa,Bob_Daly,Bob Daly,Bob Daly,,Lincoln,1,,running,0,
+1968,UO,1968_Pikes_Peak_Hill_Climb,1968_10_UO,12,10,15,usa,Thurel_Novotny,Thurel Novotny,Auto Hospital,,GMC,1,,running,0,
+1968,UO,1968_Pikes_Peak_Hill_Climb,1968_10_UO,13,16,11,usa,Dick_Heikes,Dick Heikes,–,,Chevy,1,,running,0,
+1968,UO,1968_Pikes_Peak_Hill_Climb,1968_10_UO,14,17,41,usa,Eugene_Willbanks,Eugene Willbanks,Willbanks Racing,,Chevy,1,,running,0,
+1968,UO,1968_Pikes_Peak_Hill_Climb,1968_10_UO,15,22,99,usa,Butch_Earley,Butch Earley,Carl Earley,,Ford,1,,running,0,
+1968,UO,1968_Pikes_Peak_Hill_Climb,1968_10_UO,16,20,64,usa,Clark_Yowell,Clark Yowell,Western Sporting Goods,,Plymouth,1,,running,0,
+1968,UO,1968_Pikes_Peak_Hill_Climb,1968_10_UO,17,19,34,usa,Jerry_Colton,Jerry Colton,Western Sporting Goods,,Chevy,1,,running,0,
+1968,UO,1968_Pikes_Peak_Hill_Climb,1968_10_UO,18,21,54,usa,Tom_Dillon,Tom Dillon,Western Sporting Goods,,Chevy,1,,running,0,
+1968,UO,1968_Pikes_Peak_Hill_Climb,1968_10_UO,19,18,12,usa,LaVerne_Ravenstein,LaVerne Ravenstein,Buck's Painting,,Olds,1,,running,0,
+1968,UO,1968_Pikes_Peak_Hill_Climb,1968_10_UO,20,23,74,usa,Walt_Miller,Walt Miller,Western Sporting Goods,,Ford,1,,running,0,
+1968,UO,1968_Pikes_Peak_Hill_Climb,1968_10_UO,21,14,23,usa,Gene_Pacheco,Gene Pacheco,Raybestos,,Chevy,1,,running,0,
+1968,UO,1968_Pikes_Peak_Hill_Climb,1968_10_UO,22,2,5,usa,Al_Unser,Al Unser,Al Unser Auto Parts,,Chevy,0,,dnf,0,
+1968,UO,1968_Pikes_Peak_Hill_Climb,1968_10_UO,23,5,76,usa,Orville_Nance,Orville Nance,Burt's Auto Supply,,Chevy,0,,dnf,0,
+1968,UO,1968_Pikes_Peak_Hill_Climb,1968_10_UO,24,24,28,usa,Larry_Overholser,Larry Overholser,PP Speedway,,Chevy,0,,dnf,0,
+1968,UO,1968_Rocky_Mountain_150,1968_11_UO,1,4,1,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,57,5719,running,34,300
+1968,UO,1968_Rocky_Mountain_150,1968_11_UO,2,7,25,usa,Lloyd_Ruby,Lloyd Ruby,Gene White,,Mongoose / Ford,57,3371,running,0,240
+1968,UO,1968_Rocky_Mountain_150,1968_11_UO,3,11,67,usa,Jim_Malloy,Jim Malloy,Jim Robbins Seat Belt,,Vollstedt / Ford,56,1798,running,0,210
+1968,UO,1968_Rocky_Mountain_150,1968_11_UO,4,10,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,56,1405,running,0,180
+1968,UO,1968_Rocky_Mountain_150,1968_11_UO,5,12,20,usa,Art_Pollard,Art Pollard,STP Oil Treatment,,Lotus / Pratt & Whitney,55,1124,running,0,150
+1968,UO,1968_Rocky_Mountain_150,1968_11_UO,6,15,41,usa,Rick_Muther,Rick Muther,George Bryant,,Cheetah / Ford,55,1011,running,0,120
+1968,UO,1968_Rocky_Mountain_150,1968_11_UO,7,21,11,usa,Gary_Bettenhausen,Gary Bettenhausen,Thermo King Auto Air Conditioning,,Gerhardt / Ford,55,899,running,0,90
+1968,UO,1968_Rocky_Mountain_150,1968_11_UO,8,8,60,usa,Joe_Leonard,Joe Leonard,STP,,Lotus / Pratt & Whitney,50,843,half shaft,0,75
+1968,UO,1968_Rocky_Mountain_150,1968_11_UO,9,9,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",Wagner Lockheed Brake Fluid,,Brabham / Ford,47,787,running,0,60
+1968,UO,1968_Rocky_Mountain_150,1968_11_UO,10,17,21,canada,John_Cannon,John Cannon,Bryant Heating & Cooling,,Vollstedt / Ford,45,730,running,0,45
+1968,UO,1968_Rocky_Mountain_150,1968_11_UO,11,2,3,usa,Bobby_Unser,Bobby Unser,Rislone,,Coyote / Ford,44,974,magneto,0,30
+1968,UO,1968_Rocky_Mountain_150,1968_11_UO,12,24,14,usa,Sammy_Sessions,Sammy Sessions,Quaker State,,Gerhardt / Offy,43,618,fuel line,0,15
+1968,UO,1968_Rocky_Mountain_150,1968_11_UO,13,19,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Ford,36,562,upright,0,
+1968,UO,1968_Rocky_Mountain_150,1968_11_UO,14,13,90,usa,Mike_Mosley,Mike Mosley,Zecol / Lubaid,,Watson / Ford,36,506,upright,0,
+1968,UO,1968_Rocky_Mountain_150,1968_11_UO,15,5,2,usa,Mario_Andretti,Mario Andretti,Overseas National Airways,,Brawner / Ford,35,450,coil,0,
+1968,UO,1968_Rocky_Mountain_150,1968_11_UO,16,25,101,usa,Bud_Morley,Bud Morley,Earl Smith,,Gerhardt / Offy,31,393,dnf,0,
+1968,UO,1968_Rocky_Mountain_150,1968_11_UO,17,6,8,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Ford,30,337,fuel pump,0,
+1968,UO,1968_Rocky_Mountain_150,1968_11_UO,18,23,61,usa,Max_Dudley,Max Dudley,Dudley Trucking,,Gerhardt / Chevy,28,281,oil leak,0,
+1968,UO,1968_Rocky_Mountain_150,1968_11_UO,19,1,45,usa,Ronnie_Bucknum,Ronnie Bucknum,Weinberger Homes,,Eagle / Ford,23,625,half shaft,23,
+1968,UO,1968_Rocky_Mountain_150,1968_11_UO,20,14,96,usa,Johnny_Rutherford,Johnny Rutherford,Eisert Racing Enterprises,,Eisert / Chevy,22,169,rear end,0,
+1968,UO,1968_Rocky_Mountain_150,1968_11_UO,21,16,39,usa,Lou_Sell,Lou Sell,Wynn's / Smothers Brothers,,Eagle / Ford,17,112,gearbox,0,
+1968,UO,1968_Rocky_Mountain_150,1968_11_UO,22,20,38,usa,Jim_McElreath,Jim McElreath,Jack Adams Aircraft / Wynn's,,Lola / Ford,12,112,rod bearing,0,
+1968,UO,1968_Rocky_Mountain_150,1968_11_UO,23,18,7,usa,Jack_Eiteljorg,Jack Eiteljorg,Debbie Drake,,Eisert / Chevy,3,112,overheating,0,
+1968,UO,1968_Rocky_Mountain_150,1968_11_UO,24,22,19,usa,Arnie_Knepper,Arnie Knepper,MVS Inc.,,Cecil / Ford,1,112,ring / pinion,0,
+1968,UO,1968_Rocky_Mountain_150,1968_11_UO,25,3,4,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Eagle / Ford,0,312,upright,0,
+1968,UO,1968_Nazareth_100,1968_12_UO,1,2,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Dunlop / Offy,89,4615,running,89,200
+1968,UO,1968_Nazareth_100,1968_12_UO,2,4,2,usa,Mario_Andretti,Mario Andretti,Overseas National Airways,,Kuzma / Offy,89,3138,running,0,160
+1968,UO,1968_Nazareth_100,1968_12_UO,3,1,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",Wagner Lockheed Brake Fluid,,Watson / Offy,89,2030,running,0,140
+1968,UO,1968_Nazareth_100,1968_12_UO,4,6,11,usa,Gary_Bettenhausen,Gary Bettenhausen,Thermo King Auto Air Conditioning,,Ward / Offy,89,1338,running,0,120
+1968,UO,1968_Nazareth_100,1968_12_UO,5,3,52,usa,Carl_Williams,Carl Williams,Vargo Excavating,,Meskowski / Offy,88,1108,running,0,100
+1968,UO,1968_Nazareth_100,1968_12_UO,6,9,57,usa,Larry_Dickson,Larry Dickson,Kenny Brenn,,Meskowski / Offy,88,923,running,0,80
+1968,UO,1968_Nazareth_100,1968_12_UO,7,12,3,usa,Bobby_Unser,Bobby Unser,Rislone,,Watson / Offy,88,738,running,0,60
+1968,UO,1968_Nazareth_100,1968_12_UO,8,11,90,usa,George_Snider,George Snider,Zecol / Lubaid,,Watson / Offy,87,646,running,0,50
+1968,UO,1968_Nazareth_100,1968_12_UO,9,7,77,usa,Bill_Puterbaugh,Bill Puterbaugh,Dayton Steel Wheel,,Silnes / Offy,87,600,running,0,40
+1968,UO,1968_Nazareth_100,1968_12_UO,10,8,45,usa,Jerry_Daniels,Jerry Daniels,Weinberger Homes,,Blum / Offy,87,554,running,0,30
+1968,UO,1968_Nazareth_100,1968_12_UO,11,18,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Vollstedt / Offy,87,508,running,0,20
+1968,UO,1968_Nazareth_100,1968_12_UO,12,14,84,usa,Bruce_Walkup,Bruce Walkup,Midwest Manufacturing,,Kurtis / Offy,87,461,running,0,10
+1968,UO,1968_Nazareth_100,1968_12_UO,13,13,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Meskowski / Offy,86,415,running,0,
+1968,UO,1968_Nazareth_100,1968_12_UO,14,10,70,usa,Greg_Weld,Greg Weld,Smith Speed Shop,,Ward / Offy,33,369,oil pressure,0,
+1968,UO,1968_Nazareth_100,1968_12_UO,15,17,20,usa,Arnie_Knepper,Arnie Knepper,S & D,,Meskowski / Offy,30,323,overheating,0,
+1968,UO,1968_Nazareth_100,1968_12_UO,16,15,99,usa,Ralph_Liguori,Ralph Liguori,Joe Hunt Magneto,,Lesovsky / Offy,22,277,brake line,0,
+1968,UO,1968_Nazareth_100,1968_12_UO,17,5,25,usa,Lloyd_Ruby,Lloyd Ruby,Gene White,,Mongoose / Offy,13,231,crash,0,
+1968,UO,1968_Nazareth_100,1968_12_UO,18,16,44,usa,Chuck_Booth,Chuck Booth,Boyce Holt Racing,,Turner / Chevy,12,185,stabilizer bar,0,
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,1,5,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,40,,running,22,200
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,2,1,2,usa,Mario_Andretti,Mario Andretti,Overseas National Airways,,Brawner / Ford,40,,running,16,160
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,3,3,3,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Ford,40,,running,0,140
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,4,17,1,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,40,,running,0,120
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,5,23,4,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Gerhardt / Ford,40,,running,0,100
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,6,7,45,usa,Ronnie_Bucknum,Ronnie Bucknum,Weinberger Homes,,Eagle / Ford,39,,running,0,80
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,7,13,21,usa,Art_Pollard,Art Pollard,Bryant Heating & Cooling,,Vollstedt / Ford,38,,running,0,60
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,8,11,41,canada,John_Cannon,John Cannon,George Bryant,,Cheetah / Ford,38,,running,0,50
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,9,19,90,usa,Mike_Mosley,Mike Mosley,Zecol / Lubaid,,Watson / Ford,38,,running,0,40
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,10,14,38,usa,Jim_McElreath,Jim McElreath,Jack Adams Aircraft / Wynn's,,Lola / Ford,37,,running,0,30
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,11,20,19,usa,Arnie_Knepper,Arnie Knepper,MVS Inc.,,Cecil / Ford,36,,running,0,20
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,12,8,39,usa,Lou_Sell,Lou Sell,Wynn's / Smothers Brothers,,Eagle / Ford,33,,oil leak,0,10
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,13,6,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",Wagner Lockheed Brake Fluid,,Brabham / Ford,28,,lost wheel,0,
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,14,2,60,usa,Joe_Leonard,Joe Leonard,STP,,Lotus / Pratt & Whitney,27,200,spun out,2,
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,15,24,75,usa,Bruce_Jacobi,Bruce Jacobi,Avanti II,,Marathon / Ford,22,,spun out,0,
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,16,12,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Ford,21,599,spun out,0,
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,17,9,67,usa,Jim_Malloy,Jim Malloy,Jim Robbins Seat Belt,,Vollstedt / Ford,17,,spun out,0,
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,18,22,71,usa,Bruce_Walkup,Bruce Walkup,Stewart-Warner,,Marathon / Ford,15,,running,0,
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,19,16,8,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Ford,14,,tire,0,
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,20,21,36,usa,Bob_Harkey,Bob Harkey,Bulldog Stables,,Gerhardt / Chevy,11,,crash,0,
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,21,10,11,usa,Gary_Bettenhausen,Gary Bettenhausen,Thermo King Auto Air Conditioning,,Gerhardt / Ford,8,,half shaft,0,
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,22,18,14,usa,Sammy_Sessions,Sammy Sessions,Quaker State,,Gerhardt / Offy,2,,half shaft,0,
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,23,4,25,usa,Lloyd_Ruby,Lloyd Ruby,Gene White,,Mongoose / Ford,1,,half shaft,0,
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,24,15,22,usa,Johnny_Rutherford,Johnny Rutherford,Michner Petroleum,,Eagle / Ford,0,,suspension,0,
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,25,25,111,canada,George_Fejer,George Fejer,Chinook VII,,Chinook / Ford,0,44,did not start,0,
+1968,UO,1968_Indy_200_Heat_1,1968_13_UO,26,26,78,usa,Jerry_Grant,Jerry Grant,Bardahl,,Eagle / Ford,0,,did not start,0,
+1968,UO,1968_Indy_200_Heat_2,1968_14_UO,1,1,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,40,4837,running,40,200
+1968,UO,1968_Indy_200_Heat_2,1968_14_UO,2,2,2,usa,Mario_Andretti,Mario Andretti,Overseas National Airways,,Brawner / Ford,40,2962,running,0,160
+1968,UO,1968_Indy_200_Heat_2,1968_14_UO,3,4,1,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,40,1465,running,0,140
+1968,UO,1968_Indy_200_Heat_2,1968_14_UO,4,6,45,usa,Ronnie_Bucknum,Ronnie Bucknum,Weinberger Homes,,Eagle / Ford,40,1054,running,0,120
+1968,UO,1968_Indy_200_Heat_2,1968_14_UO,5,9,90,usa,Bud_Tingelstad,Bud Tingelstad,Zecol / Lubaid,,Watson / Ford,40,311,running,0,30
+1968,UO,1968_Indy_200_Heat_2,1968_14_UO,6,13,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",Wagner Lockheed Brake Fluid,,Brabham / Ford,39,621,running,0,80
+1968,UO,1968_Indy_200_Heat_2,1968_14_UO,7,17,8,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Ford,39,444,running,0,60
+1968,UO,1968_Indy_200_Heat_2,1968_14_UO,8,8,41,canada,John_Cannon,John Cannon,George Bryant,,Cheetah / Ford,39,666,running,0,50
+1968,UO,1968_Indy_200_Heat_2,1968_14_UO,9,7,21,usa,Art_Pollard,Art Pollard,Bryant Heating & Cooling,,Vollstedt / Ford,39,666,running,0,40
+1968,UO,1968_Indy_200_Heat_2,1968_14_UO,10,15,67,usa,Jim_Malloy,Jim Malloy,Jim Robbins Seat Belt,,Vollstedt / Ford,39,422,running,0,30
+1968,UO,1968_Indy_200_Heat_2,1968_14_UO,11,10,38,usa,Jim_McElreath,Jim McElreath,Jack Adams Aircraft / Wynn's,,Lola / Ford,39,555,running,0,20
+1968,UO,1968_Indy_200_Heat_2,1968_14_UO,12,19,11,usa,Gary_Bettenhausen,Gary Bettenhausen,Thermo King Auto Air Conditioning,,Gerhardt / Ford,38,288,running,0,10
+1968,UO,1968_Indy_200_Heat_2,1968_14_UO,13,14,75,usa,Bruce_Jacobi,Bruce Jacobi,Avanti II,,Marathon / Ford,34,399,running,0,
+1968,UO,1968_Indy_200_Heat_2,1968_14_UO,14,12,39,usa,Lou_Sell,Lou Sell,Wynn's / Smothers Brothers,,Eagle / Ford,31,444,spun out,0,
+1968,UO,1968_Indy_200_Heat_2,1968_14_UO,15,21,25,usa,Lloyd_Ruby,Lloyd Ruby,Gene White,,Mongoose / Ford,30,222,crash,0,
+1968,UO,1968_Indy_200_Heat_2,1968_14_UO,16,5,4,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Gerhardt / Ford,27,599,cam tower bolt,0,
+1968,UO,1968_Indy_200_Heat_2,1968_14_UO,17,18,36,usa,Bob_Harkey,Bob Harkey,Bulldog Stables,,Gerhardt / Chevy,14,200,crash,0,
+1968,UO,1968_Indy_200_Heat_2,1968_14_UO,18,16,71,usa,Bruce_Walkup,Bruce Walkup,Stewart-Warner,,Marathon / Ford,11,222,fuel leak,0,
+1968,UO,1968_Indy_200_Heat_2,1968_14_UO,19,20,14,usa,Sammy_Sessions,Sammy Sessions,Quaker State,,Gerhardt / Offy,9,133,crash,0,
+1968,UO,1968_Indy_200_Heat_2,1968_14_UO,20,22,22,usa,Johnny_Rutherford,Johnny Rutherford,Michner Petroleum,,Eagle / Ford,9,111,crash,0,
+1968,UO,1968_Indy_200_Heat_2,1968_14_UO,21,3,3,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Ford,2,754,radiator,0,
+1968,UO,1968_Indy_200_Heat_2,1968_14_UO,22,11,19,usa,Arnie_Knepper,Arnie Knepper,MVS Inc.,,Cecil / Ford,0,311,spun out,0,
+1968,UO,1968_Indy_200_Heat_2,1968_14_UO,23,23,78,usa,Jerry_Grant,Jerry Grant,Bardahl,,Eagle / Ford,0,89,mechanical,0,
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,1,6,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,100,,running,72,200
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,2,5,3,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Offy,100,,running,0,160
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,3,10,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Huffaker / Offy,99,,running,0,140
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,4,11,14,usa,Sammy_Sessions,Sammy Sessions,Quaker State,,Gerhardt / Offy,98,,running,0,120
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,5,7,67,usa,Jim_Malloy,Jim Malloy,Jim Robbins Seat Belt,,Vollstedt / Ford,98,,running,0,100
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,6,15,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",Wagner Lockheed Brake Fluid,,Brabham / Offy,96,,running,0,80
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,7,3,38,usa,Jim_McElreath,Jim McElreath,Jack Adams Aircraft / Wynn's,,Lola / Ford,96,,running,0,60
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,8,17,87,usa,Sonny_Ates,Sonny Ates,California Speed & Sport Shop,,Halibrand / Offy,95,,running,0,50
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,9,16,88,usa,Bruce_Walkup,Bruce Walkup,Kenny Brenn,,Gerhardt / Ford,95,,running,0,40
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,10,2,25,usa,Lloyd_Ruby,Lloyd Ruby,Gene White,,Mongoose / Offy,93,,running,0,30
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,11,23,44,usa,Chuck_Booth,Chuck Booth,Boyce Holt Racing,,Turner / Chevy,92,,running,0,20
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,12,24,84,usa,Bill_Puterbaugh,Bill Puterbaugh,Midwest Manufacturing,,Kurtis / Offy,90,,running,0,10
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,13,13,11,usa,Gary_Bettenhausen,Gary Bettenhausen,Thermo King Auto Air Conditioning,,Gerhardt / Offy,87,,running,0,
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,14,20,102,usa,Gig_Stephens,Gig Stephens,Tuonic Engineering,,Halibrand / Offy,78,,oil leak,0,
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,15,12,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Offy,65,,magneto,0,
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,16,25,61,usa,Max_Dudley,Max Dudley,Dudley Trucking,,Gerhardt / Chevy,58,,running,0,
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,17,19,52,usa,Carl_Williams,Carl Williams,Vargo Excavating,,Meskowski / Offy,58,,handling,0,
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,18,22,19,usa,Arnie_Knepper,Arnie Knepper,MVS Inc.,,Ward / Offy,55,118,fuel leak,0,
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,19,18,57,usa,Rollie_Beale,Rollie Beale,Kenny Brenn,,Meskowski / Offy,49,95,bearing,0,
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,20,21,99,usa,Ralph_Liguori,Ralph Liguori,Joe Hunt Magneto,,Lesovsky / Offy,48,71,exhaust,0,
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,21,1,4,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Gerhardt / Offy,28,47,crash,28,
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,22,4,8,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Offy,28,47,upright,0,
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,23,14,90,usa,Mario_Andretti,Mario Andretti,Zecol / Lubaid,,Watson / Offy,23,47,gearbox,0,
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,24,26,70,usa,Greg_Weld,Greg Weld,Smith Speed Shop,,Ward / Chevy,21,47,overheating,0,
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,25,8,16,usa,Johnny_Rutherford,Johnny Rutherford,Thermo King Auto Air Conditioning,,Gerhardt / Offy,0,47,crash,0,
+1968,UO,1968_Langhorne_Twin_100_1,1968_15_UO,26,9,21,usa,Art_Pollard,Art Pollard,Bryant Heating & Cooling,,Vollstedt / Ford,0,47,crash,0,
+1968,UO,1968_Langhorne_Twin_100_2,1968_16_UO,1,1,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,100,4726,running,100,200
+1968,UO,1968_Langhorne_Twin_100_2,1968_16_UO,2,15,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Offy,99,1607,running,0,160
+1968,UO,1968_Langhorne_Twin_100_2,1968_16_UO,3,5,67,usa,Jim_Malloy,Jim Malloy,Jim Robbins Seat Belt,,Vollstedt / Ford,99,1229,running,0,140
+1968,UO,1968_Langhorne_Twin_100_2,1968_16_UO,4,6,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",Wagner Lockheed Brake Fluid,,Brabham / Offy,96,1016,running,0,120
+1968,UO,1968_Langhorne_Twin_100_2,1968_16_UO,5,3,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Huffaker / Offy,94,1229,running,0,100
+1968,UO,1968_Langhorne_Twin_100_2,1968_16_UO,6,10,25,usa,Lloyd_Ruby,Lloyd Ruby,Gene White,,Mongoose / Offy,94,732,running,0,29
+1968,UO,1968_Langhorne_Twin_100_2,1968_16_UO,7,9,88,usa,Bruce_Walkup,Bruce Walkup,Kenny Brenn,,Gerhardt / Ford,94,709,running,0,60
+1968,UO,1968_Langhorne_Twin_100_2,1968_16_UO,8,17,52,usa,Carl_Williams,Carl Williams,Vargo Excavating,,Meskowski / Offy,89,496,running,0,50
+1968,UO,1968_Langhorne_Twin_100_2,1968_16_UO,9,12,84,usa,Bill_Puterbaugh,Bill Puterbaugh,Midwest Manufacturing,,Kurtis / Offy,87,591,running,0,40
+1968,UO,1968_Langhorne_Twin_100_2,1968_16_UO,10,16,61,usa,Max_Dudley,Max Dudley,Dudley Trucking,,Gerhardt / Chevy,84,472,running,0,30
+1968,UO,1968_Langhorne_Twin_100_2,1968_16_UO,11,4,14,usa,Sammy_Sessions,Sammy Sessions,Quaker State,,Gerhardt / Offy,61,874,mechanical,0,20
+1968,UO,1968_Langhorne_Twin_100_2,1968_16_UO,12,13,11,usa,Gary_Bettenhausen,Gary Bettenhausen,Thermo King Auto Air Conditioning,,Gerhardt / Offy,49,496,steering,0,10
+1968,UO,1968_Langhorne_Twin_100_2,1968_16_UO,13,8,87,usa,Sonny_Ates,Sonny Ates,California Speed & Sport Shop,,Halibrand / Offy,44,590,engine,0,
+1968,UO,1968_Langhorne_Twin_100_2,1968_16_UO,14,14,102,usa,Gig_Stephens,Gig Stephens,Tuonic Engineering,,Halibrand / Offy,35,426,injectors,0,
+1968,UO,1968_Langhorne_Twin_100_2,1968_16_UO,15,19,20,usa,Don_Thomas,Don Thomas,S & D,,Meskowski / Chevy,30,47,running,0,
+1968,UO,1968_Langhorne_Twin_100_2,1968_16_UO,16,2,3,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Offy,14,1583,upright,0,
+1968,UO,1968_Langhorne_Twin_100_2,1968_16_UO,17,7,38,usa,Jim_McElreath,Jim McElreath,Jack Adams Aircraft / Wynn's,,Lola / Ford,13,520,oil leak,0,
+1968,UO,1968_Langhorne_Twin_100_2,1968_16_UO,18,11,44,usa,Chuck_Booth,Chuck Booth,Boyce Holt Racing,,Turner / Chevy,11,401,piston,0,
+1968,UO,1968_Langhorne_Twin_100_2,1968_16_UO,19,20,101,usa,Bruce_Jacobi,Bruce Jacobi,Earl Smith,,Gerhardt / Offy,4,47,overheating,0,
+1968,UO,1968_Langhorne_Twin_100_2,1968_16_UO,20,18,90,usa,Mike_Mosley,Mike Mosley,Zecol / Lubaid,,Watson / Offy,0,47,dnf,0,
+1968,UO,1968_St._Jovite_Heat_1,1968_17_UO,1,1,2,usa,Mario_Andretti,Mario Andretti,Overseas National Airways,,Brawner / Ford,38,,running,26,200
+1968,UO,1968_St._Jovite_Heat_1,1968_17_UO,2,3,3,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Ford,38,,running,0,160
+1968,UO,1968_St._Jovite_Heat_1,1968_17_UO,3,12,45,usa,Ronnie_Bucknum,Ronnie Bucknum,Weinberger Homes,,Eagle / Ford,37,,running,0,140
+1968,UO,1968_St._Jovite_Heat_1,1968_17_UO,4,20,67,usa,Jim_Malloy,Jim Malloy,Jim Robbins Seat Belt,,Vollstedt / Ford,36,,running,0,120
+1968,UO,1968_St._Jovite_Heat_1,1968_17_UO,5,11,22,usa,Johnny_Rutherford,Johnny Rutherford,Michner Petroleum,,Eagle / Ford,36,,running,0,100
+1968,UO,1968_St._Jovite_Heat_1,1968_17_UO,6,4,21,canada,John_Cannon,John Cannon,Bryant Heating & Cooling,,Vollstedt / Ford,36,,running,0,80
+1968,UO,1968_St._Jovite_Heat_1,1968_17_UO,7,14,38,usa,Jim_McElreath,Jim McElreath,Jack Adams Aircraft / Wynn's,,Lola / Ford,35,,running,0,60
+1968,UO,1968_St._Jovite_Heat_1,1968_17_UO,8,13,71,usa,Bud_Morley,Bud Morley,Stewart-Warner,,Marathon / Ford,34,,running,0,50
+1968,UO,1968_St._Jovite_Heat_1,1968_17_UO,9,2,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,34,,running,12,40
+1968,UO,1968_St._Jovite_Heat_1,1968_17_UO,10,15,7,usa,Jack_Eiteljorg,Jack Eiteljorg,Debbie Drake,,Eisert / Chevy,34,,running,0,30
+1968,UO,1968_St._Jovite_Heat_1,1968_17_UO,11,18,61,usa,Max_Dudley,Max Dudley,Dudley Trucking,,Gerhardt / Chevy,31,,running,0,20
+1968,UO,1968_St._Jovite_Heat_1,1968_17_UO,12,19,36,usa,Bob_Harkey,Bob Harkey,Bulldog Stables,,Gerhardt / Chevy,30,,running,0,10
+1968,UO,1968_St._Jovite_Heat_1,1968_17_UO,13,6,11,usa,Gary_Bettenhausen,Gary Bettenhausen,Thermo King Auto Air Conditioning,,Gerhardt / Ford,29,,sway bar,0,
+1968,UO,1968_St._Jovite_Heat_1,1968_17_UO,14,17,11,canada,George_Fejer,George Fejer,Chinook Mark VII,,Chinook / Ford,22,,oil leak,0,
+1968,UO,1968_St._Jovite_Heat_1,1968_17_UO,15,8,4,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Eagle / Ford,16,,ring / pinion,0,
+1968,UO,1968_St._Jovite_Heat_1,1968_17_UO,16,7,39,usa,Lou_Sell,Lou Sell,Wynn's / Smothers Brothers,,Eagle / Ford,15,,oil seal,0,
+1968,UO,1968_St._Jovite_Heat_1,1968_17_UO,17,9,90,germany,Lothar_Motschenbacher,Lothar Motschenbacher,Zecol / Lubaid,,Watson / Offy,15,,drive train,0,
+1968,UO,1968_St._Jovite_Heat_1,1968_17_UO,18,10,1,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,8,,ring / pinion,0,
+1968,UO,1968_St._Jovite_Heat_1,1968_17_UO,19,5,25,usa,Lloyd_Ruby,Lloyd Ruby,Gene White,,Mongoose / Ford,4,,crash,0,
+1968,UO,1968_St._Jovite_Heat_1,1968_17_UO,20,16,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Huffaker / Ford,0,,oil line,0,
+1968,UO,1968_St._Jovite_Heat_2,1968_18_UO,1,1,2,usa,Mario_Andretti,Mario Andretti,Overseas National Airways,,Brawner / Ford,38,5902,running,38,200
+1968,UO,1968_St._Jovite_Heat_2,1968_18_UO,2,6,21,canada,John_Cannon,John Cannon,Bryant Heating & Cooling,,Vollstedt / Ford,38,2474,running,0,160
+1968,UO,1968_St._Jovite_Heat_2,1968_18_UO,3,4,67,usa,Jim_Malloy,Jim Malloy,Jim Robbins Seat Belt,,Vollstedt / Ford,38,2097,running,0,140
+1968,UO,1968_St._Jovite_Heat_2,1968_18_UO,4,3,45,usa,Ronnie_Bucknum,Ronnie Bucknum,Weinberger Homes,,Eagle / Ford,38,1999,running,0,120
+1968,UO,1968_St._Jovite_Heat_2,1968_18_UO,5,5,22,usa,Johnny_Rutherford,Johnny Rutherford,Michner Petroleum,,Eagle / Ford,37,1283,running,0,100
+1968,UO,1968_St._Jovite_Heat_2,1968_18_UO,6,13,90,germany,Lothar_Motschenbacher,Lothar Motschenbacher,Zecol / Lubaid,,Watson / Offy,37,770,running,0,80
+1968,UO,1968_St._Jovite_Heat_2,1968_18_UO,7,10,61,usa,Max_Dudley,Max Dudley,Dudley Trucking,,Gerhardt / Chevy,35,834,running,0,60
+1968,UO,1968_St._Jovite_Heat_2,1968_18_UO,8,11,36,usa,Bob_Harkey,Bob Harkey,Bulldog Stables,,Gerhardt / Chevy,35,834,running,0,50
+1968,UO,1968_St._Jovite_Heat_2,1968_18_UO,9,9,7,usa,Jack_Eiteljorg,Jack Eiteljorg,Debbie Drake,,Eisert / Chevy,34,834,running,0,40
+1968,UO,1968_St._Jovite_Heat_2,1968_18_UO,10,7,38,usa,Jim_McElreath,Jim McElreath,Jack Adams Aircraft / Wynn's,,Lola / Ford,34,1026,crash,0,30
+1968,UO,1968_St._Jovite_Heat_2,1968_18_UO,11,2,3,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Ford,24,2182,half shaft,0,20
+1968,UO,1968_St._Jovite_Heat_2,1968_18_UO,12,12,12,canada,George_Fejer,George Fejer,Chinook Mark VII,,Chinook / Ford,8,641,oil leak,0,10
+1968,UO,1968_St._Jovite_Heat_2,1968_18_UO,13,15,11,usa,Gary_Bettenhausen,Gary Bettenhausen,Thermo King Auto Air Conditioning,,Gerhardt / Ford,7,641,sway bar,0,
+1968,UO,1968_St._Jovite_Heat_2,1968_18_UO,14,14,25,usa,Lloyd_Ruby,Lloyd Ruby,Gene White,,Mongoose / Ford,5,417,upright,0,
+1968,UO,1968_St._Jovite_Heat_2,1968_18_UO,15,8,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,1,705,crash,0,
+1968,UO,1968_Tony_Bettenhausen_100,1968_19_UO,1,4,8,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Kuzma / Offy,100,4734,running,28,200
+1968,UO,1968_Tony_Bettenhausen_100,1968_19_UO,2,12,45,usa,Larry_Dickson,Larry Dickson,Weinberger Homes,,Blum / Offy,100,3219,running,0,160
+1968,UO,1968_Tony_Bettenhausen_100,1968_19_UO,3,8,90,usa,George_Snider,George Snider,Zecol / Lubaid,,Watson / Offy,100,2083,running,0,140
+1968,UO,1968_Tony_Bettenhausen_100,1968_19_UO,4,5,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",Wagner Lockheed Brake Fluid,,Watson / Offy,100,1373,running,0,120
+1968,UO,1968_Tony_Bettenhausen_100,1968_19_UO,5,11,67,usa,Jim_Malloy,Jim Malloy,Jim Robbins Seat Belt,,King / Ford,99,1136,running,0,100
+1968,UO,1968_Tony_Bettenhausen_100,1968_19_UO,6,10,84,usa,Bill_Puterbaugh,Bill Puterbaugh,Midwest Manufacturing,,Kurtis / Offy,98,947,running,0,80
+1968,UO,1968_Tony_Bettenhausen_100,1968_19_UO,7,16,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Vollstedt / Offy,98,757,running,0,60
+1968,UO,1968_Tony_Bettenhausen_100,1968_19_UO,8,15,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Meskowski / Offy,98,663,running,0,50
+1968,UO,1968_Tony_Bettenhausen_100,1968_19_UO,9,18,99,usa,Ralph_Liguori,Ralph Liguori,Joe Hunt Magneto,,Lesovsky / Offy,97,615,running,0,40
+1968,UO,1968_Tony_Bettenhausen_100,1968_19_UO,10,7,58,usa,Roger_West,Roger West,T. D. Enterprises,,Lesovsky / Offy,90,568,running,0,30
+1968,UO,1968_Tony_Bettenhausen_100,1968_19_UO,11,13,19,usa,Arnie_Knepper,Arnie Knepper,MVS Inc.,,Ward / Offy,79,521,running,0,20
+1968,UO,1968_Tony_Bettenhausen_100,1968_19_UO,12,1,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Dunlop / Offy,72,472,steering,1,10
+1968,UO,1968_Tony_Bettenhausen_100,1968_19_UO,13,2,11,usa,Gary_Bettenhausen,Gary Bettenhausen,Thermo King Auto Air Conditioning,,Ward / Offy,71,426,engine,71,
+1968,UO,1968_Tony_Bettenhausen_100,1968_19_UO,14,9,44,usa,Chuck_Booth,Chuck Booth,Boyce Holt Racing,,Turner / Chevy,22,379,crash,0,
+1968,UO,1968_Tony_Bettenhausen_100,1968_19_UO,15,14,57,usa,Bruce_Walkup,Bruce Walkup,Kenny Brenn,,Meskowski / Offy,21,331,engine,0,
+1968,UO,1968_Tony_Bettenhausen_100,1968_19_UO,16,17,108,usa,Jigger_Sirois,Jigger Sirois,Cavanaugh V8,,Kurtis / Chevy,18,284,dnf,0,
+1968,UO,1968_Tony_Bettenhausen_100,1968_19_UO,17,3,1,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Meskowski / Offy,15,237,magneto wire,0,
+1968,UO,1968_Tony_Bettenhausen_100,1968_19_UO,18,6,2,usa,Mario_Andretti,Mario Andretti,Overseas National Airways,,Kuzma / Offy,12,187,engine,0,
+1968,UO,1968_Tony_Bettenhausen_200,1968_20_UO,1,7,25,usa,Lloyd_Ruby,Lloyd Ruby,Gene White,,Mongoose / Offy,200,11540,running,34,400
+1968,UO,1968_Tony_Bettenhausen_200,1968_20_UO,2,6,2,usa,Mario_Andretti,Mario Andretti,Overseas National Airways,,Brawner / Ford,200,6924,running,0,320
+1968,UO,1968_Tony_Bettenhausen_200,1968_20_UO,3,5,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,199,3693,running,37,280
+1968,UO,1968_Tony_Bettenhausen_200,1968_20_UO,4,4,3,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Offy,198,2885,running,7,240
+1968,UO,1968_Tony_Bettenhausen_200,1968_20_UO,5,19,11,usa,Gary_Bettenhausen,Gary Bettenhausen,Thermo King Auto Air Conditioning,,Gerhardt / Offy,196,2308,running,0,200
+1968,UO,1968_Tony_Bettenhausen_200,1968_20_UO,6,11,14,usa,Sammy_Sessions,Sammy Sessions,Quaker State,,Gerhardt / Offy,194,2077,running,0,160
+1968,UO,1968_Tony_Bettenhausen_200,1968_20_UO,7,14,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",Wagner Lockheed Brake Fluid,,Mongoose / Offy,193,1846,running,0,120
+1968,UO,1968_Tony_Bettenhausen_200,1968_20_UO,8,20,67,usa,Jim_Malloy,Jim Malloy,Jim Robbins Seat Belt,,Vollstedt / Ford,192,1731,running,0,100
+1968,UO,1968_Tony_Bettenhausen_200,1968_20_UO,9,15,38,usa,Jim_McElreath,Jim McElreath,Jack Adams Aircraft / Wynn's,,Brawner / Ford,190,1616,running,0,80
+1968,UO,1968_Tony_Bettenhausen_200,1968_20_UO,10,23,19,usa,Arnie_Knepper,Arnie Knepper,MVS Inc.,,Cecil / Ford,190,1500,running,0,60
+1968,UO,1968_Tony_Bettenhausen_200,1968_20_UO,11,13,22,usa,Johnny_Rutherford,Johnny Rutherford,Michner Petroleum,,Eagle / Ford,189,1385,running,0,40
+1968,UO,1968_Tony_Bettenhausen_200,1968_20_UO,12,21,61,usa,Max_Dudley,Max Dudley,Dudley Trucking,,Gerhardt / Chevy,188,1269,running,0,20
+1968,UO,1968_Tony_Bettenhausen_200,1968_20_UO,13,18,59,usa,Bruce_Walkup,Bruce Walkup,Hayhoe Racing Enterprises�,,Brabham / Offy,187,1154,running,0,
+1968,UO,1968_Tony_Bettenhausen_200,1968_20_UO,14,1,20,usa,Art_Pollard,Art Pollard,STP Oil Treatment,,Lotus / Pratt & Whitney,179,1039,brakes,83,
+1968,UO,1968_Tony_Bettenhausen_200,1968_20_UO,15,9,4,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Eagle / Offy,161,923,universal joint,0,
+1968,UO,1968_Tony_Bettenhausen_200,1968_20_UO,16,2,60,usa,Joe_Leonard,Joe Leonard,STP,,Lotus / Pratt & Whitney,122,808,brakes,37,
+1968,UO,1968_Tony_Bettenhausen_200,1968_20_UO,17,12,90,usa,Mike_Mosley,Mike Mosley,Zecol / Lubaid,,Watson / Offy,120,692,running,0,
+1968,UO,1968_Tony_Bettenhausen_200,1968_20_UO,18,17,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Offy,107,577,running,0,
+1968,UO,1968_Tony_Bettenhausen_200,1968_20_UO,19,24,58,usa,Roger_West,Roger West,T. D. Enterprises,,Lesovsky / Offy,92,462,clutch,0,
+1968,UO,1968_Tony_Bettenhausen_200,1968_20_UO,20,3,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Finley / Offy,88,346,magneto,2,
+1968,UO,1968_Tony_Bettenhausen_200,1968_20_UO,21,22,81,usa,Jigger_Sirois,Jigger Sirois,Central Excavating,,Gerhardt / Offy,62,231,suspension,0,
+1968,UO,1968_Tony_Bettenhausen_200,1968_20_UO,22,16,15,usa,Mel_Kenyon,Mel Kenyon,"City of Lebanon, Indiana",,Gerhardt / Offy,33,231,engine,0,
+1968,UO,1968_Tony_Bettenhausen_200,1968_20_UO,23,8,8,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Offy,14,231,axle,0,
+1968,UO,1968_Tony_Bettenhausen_200,1968_20_UO,24,10,1,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,3,231,fuel pump,0,
+1968,UO,1968_Ted_Horn_Memorial,1968_21_UO,1,6,2,usa,Mario_Andretti,Mario Andretti,Overseas National Airways,,Kuzma / Offy,100,5696,running,94,200
+1968,UO,1968_Ted_Horn_Memorial,1968_21_UO,2,3,1,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Meskowski / Offy,100,3873,running,0,160
+1968,UO,1968_Ted_Horn_Memorial,1968_21_UO,3,4,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",Wagner Lockheed Brake Fluid,,Watson / Offy,100,2506,running,6,140
+1968,UO,1968_Ted_Horn_Memorial,1968_21_UO,4,16,11,usa,Gary_Bettenhausen,Gary Bettenhausen,Thermo King Auto Air Conditioning,,Ward / Offy,99,1652,running,0,120
+1968,UO,1968_Ted_Horn_Memorial,1968_21_UO,5,9,8,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Kuzma / Offy,99,1367,running,0,100
+1968,UO,1968_Ted_Horn_Memorial,1968_21_UO,6,12,84,usa,Tom_Bigelow,Tom Bigelow,Midwest Manufacturing,,Kurtis / Offy,98,1139,running,0,80
+1968,UO,1968_Ted_Horn_Memorial,1968_21_UO,7,1,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Dunlop / Offy,98,911,running,0,60
+1968,UO,1968_Ted_Horn_Memorial,1968_21_UO,8,11,20,usa,Jerry_Daniels,Jerry Daniels,S & D,,Meskowski / Chevy,96,797,running,0,50
+1968,UO,1968_Ted_Horn_Memorial,1968_21_UO,9,18,68,usa,George_Benson,George Benson,Darwin Maxson,,Meskowski / Offy,95,741,running,0,40
+1968,UO,1968_Ted_Horn_Memorial,1968_21_UO,10,13,90,usa,George_Snider,George Snider,Zecol / Lubaid,,Watson / Offy,92,684,running,0,30
+1968,UO,1968_Ted_Horn_Memorial,1968_21_UO,11,2,77,usa,Bill_Puterbaugh,Bill Puterbaugh,Dayton Steel Wheel,,Silnes / Offy,92,627,running,0,20
+1968,UO,1968_Ted_Horn_Memorial,1968_21_UO,12,7,76,usa,Bruce_Jacobi,Bruce Jacobi,Windmill Trucking Center,,Silnes / Offy,92,570,running,0,10
+1968,UO,1968_Ted_Horn_Memorial,1968_21_UO,13,8,52,usa,Carl_Williams,Carl Williams,Vargo Excavating,,Meskowski / Offy,89,513,running,0,
+1968,UO,1968_Ted_Horn_Memorial,1968_21_UO,14,14,31,usa,Art_Pollard,Art Pollard,McClure Plastics,,Vollstedt / Offy,70,456,crash,0,
+1968,UO,1968_Ted_Horn_Memorial,1968_21_UO,15,10,67,usa,Jim_Malloy,Jim Malloy,Jim Robbins Seat Belt,,King / Ford,55,399,running,0,
+1968,UO,1968_Ted_Horn_Memorial,1968_21_UO,16,17,19,usa,Arnie_Knepper,Arnie Knepper,MVS Inc.,,Ward / Offy,32,342,engine,0,
+1968,UO,1968_Ted_Horn_Memorial,1968_21_UO,17,15,99,usa,Ralph_Liguori,Ralph Liguori,Joe Hunt Magneto,,Lesovsky / Offy,31,285,brakes,0,
+1968,UO,1968_Ted_Horn_Memorial,1968_21_UO,18,5,3,usa,Bobby_Unser,Bobby Unser,Rislone,,Watson / Offy,24,228,ignition,0,
+1968,UO,1968_Hoosier_Hundred,1968_22_UO,1,7,1,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Meskowski / Offy,100,22659,running,88,200
+1968,UO,1968_Hoosier_Hundred,1968_22_UO,2,1,2,usa,Mario_Andretti,Mario Andretti,Overseas National Airways,,Kuzma / Offy,100,8662,running,0,160
+1968,UO,1968_Hoosier_Hundred,1968_22_UO,3,5,90,usa,George_Snider,George Snider,Zecol / Lubaid,,Watson / Offy,100,5452,running,0,140
+1968,UO,1968_Hoosier_Hundred,1968_22_UO,4,8,11,usa,Gary_Bettenhausen,Gary Bettenhausen,Thermo King Auto Air Conditioning,,Ward / Offy,100,3396,running,0,120
+1968,UO,1968_Hoosier_Hundred,1968_22_UO,5,6,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",Wagner Lockheed Brake Fluid,,Watson / Offy,100,2810,running,0,100
+1968,UO,1968_Hoosier_Hundred,1968_22_UO,6,12,19,usa,Arnie_Knepper,Arnie Knepper,MVS Inc.,,Ward / Offy,100,2342,running,0,80
+1968,UO,1968_Hoosier_Hundred,1968_22_UO,7,9,45,usa,Larry_Dickson,Larry Dickson,Weinberger Homes,,Blum / Offy,100,1837,running,0,60
+1968,UO,1968_Hoosier_Hundred,1968_22_UO,8,13,68,usa,George_Benson,George Benson,Darwin Maxson,,Meskowski / Offy,100,1639,running,0,50
+1968,UO,1968_Hoosier_Hundred,1968_22_UO,9,11,20,usa,Jerry_Daniels,Jerry Daniels,S & D,,Meskowski / Offy,99,1522,running,0,40
+1968,UO,1968_Hoosier_Hundred,1968_22_UO,10,17,31,usa,Art_Pollard,Art Pollard,McClure Plastics,,Vollstedt / Offy,99,1405,running,0,30
+1968,UO,1968_Hoosier_Hundred,1968_22_UO,11,16,44,usa,Chuck_Booth,Chuck Booth,Boyce Holt Racing,,Turner / Offy,93,1288,running,0,20
+1968,UO,1968_Hoosier_Hundred,1968_22_UO,12,4,8,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Kuzma / Offy,64,1171,connecting rod,0,10
+1968,UO,1968_Hoosier_Hundred,1968_22_UO,13,10,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Vollstedt / Offy,39,1054,engine,0,
+1968,UO,1968_Hoosier_Hundred,1968_22_UO,14,14,67,usa,Jim_Malloy,Jim Malloy,Jim Robbins Seat Belt,,King / Ford,37,937,engine,0,
+1968,UO,1968_Hoosier_Hundred,1968_22_UO,15,2,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Dunlop / Offy,23,2520,magneto,18,
+1968,UO,1968_Hoosier_Hundred,1968_22_UO,16,3,3,usa,Bobby_Unser,Bobby Unser,Rislone,,Watson / Offy,8,1203,water line,0,
+1968,UO,1968_Hoosier_Hundred,1968_22_UO,17,15,70,usa,Greg_Weld,Greg Weld,Smith Speed Shop,,Ward / Chevy,8,585,magneto,0,
+1968,UO,1968_Hoosier_Hundred,1968_22_UO,18,18,99,usa,Ralph_Liguori,Ralph Liguori,Joe Hunt Magneto,,Lesovsky / Offy,6,468,throttle shaft,0,
+1968,UO,1968_Trenton_200,1968_23_UO,1,2,2,usa,Mario_Andretti,Mario Andretti,Overseas National Airways,,Brawner / Offy,200,10632,running,172,400
+1968,UO,1968_Trenton_200,1968_23_UO,2,8,8,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Offy,199,6019,running,0,320
+1968,UO,1968_Trenton_200,1968_23_UO,3,13,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Offy,196,3361,running,0,280
+1968,UO,1968_Trenton_200,1968_23_UO,4,12,14,usa,Sammy_Sessions,Sammy Sessions,Quaker State,,Gerhardt / Offy,196,2133,running,0,240
+1968,UO,1968_Trenton_200,1968_23_UO,5,17,22,usa,Johnny_Rutherford,Johnny Rutherford,Michner Petroleum,,Eagle / Ford,194,1757,running,0,200
+1968,UO,1968_Trenton_200,1968_23_UO,6,11,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",Wagner Lockheed Brake Fluid,,Mongoose / Offy,192,1581,running,0,160
+1968,UO,1968_Trenton_200,1968_23_UO,7,15,90,usa,Bobby_Unser,Bobby Unser,Zecol / Lubaid,,Watson / Offy,186,1906,running,0,51
+1968,UO,1968_Trenton_200,1968_23_UO,8,24,87,usa,Wib_Spalding,Wib Spalding,California Speed & Sport Shop,,Halibrand / Offy,182,1318,running,0,100
+1968,UO,1968_Trenton_200,1968_23_UO,9,25,57,usa,Rollie_Beale,Rollie Beale,Kenny Brenn,,Meskowski / Offy,178,1230,running,0,80
+1968,UO,1968_Trenton_200,1968_23_UO,10,6,20,usa,Art_Pollard,Art Pollard,STP Oil Treatment,,Lotus / Pratt & Whitney,164,1142,suspension,0,60
+1968,UO,1968_Trenton_200,1968_23_UO,11,10,67,usa,Jim_Malloy,Jim Malloy,Jim Robbins Seat Belt,,Vollstedt / Offy,161,1054,rear end,0,40
+1968,UO,1968_Trenton_200,1968_23_UO,12,3,11,usa,Gary_Bettenhausen,Gary Bettenhausen,Thermo King Auto Air Conditioning,,Gerhardt / Offy,158,966,turbocharger,0,20
+1968,UO,1968_Trenton_200,1968_23_UO,13,9,31,usa,Carl_Williams,Carl Williams,Federal Engineering,,Gerhardt / Offy,156,878,running,0,
+1968,UO,1968_Trenton_200,1968_23_UO,14,18,19,usa,Arnie_Knepper,Arnie Knepper,MVS Inc.,,Cecil / Ford,134,791,engine,0,
+1968,UO,1968_Trenton_200,1968_23_UO,15,16,38,usa,Jim_McElreath,Jim McElreath,Jack Adams Aircraft / Wynn's,,Brawner / Offy,120,703,rear end,0,
+1968,UO,1968_Trenton_200,1968_23_UO,16,4,25,usa,Lloyd_Ruby,Lloyd Ruby,Gene White,,Mongoose / Offy,106,645,crash,21,
+1968,UO,1968_Trenton_200,1968_23_UO,17,26,17,usa,Henry_Pens,Henry Pens,Bryant Heating & Cooling,,Vollstedt / Ford,94,527,engine,0,
+1968,UO,1968_Trenton_200,1968_23_UO,18,7,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Finley / Offy,88,439,rear end,0,
+1968,UO,1968_Trenton_200,1968_23_UO,19,14,4,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Eagle / Offy,81,351,overheating,0,
+1968,UO,1968_Trenton_200,1968_23_UO,20,20,36,usa,Dennis_Zimmerman,Dennis Zimmerman,Bulldog Stables,,Gerhardt / Chevy,63,351,engine,0,
+1968,UO,1968_Trenton_200,1968_23_UO,21,21,61,usa,Max_Dudley,Max Dudley,Dudley Trucking,,Gerhardt / Chevy,50,351,oil leak,0,
+1968,UO,1968_Trenton_200,1968_23_UO,22,1,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,41,351,turbocharger,7,
+1968,UO,1968_Trenton_200,1968_23_UO,23,23,26,usa,Bob_Harkey,Bob Harkey,Bulldog Stables,,Gerhardt / Offy,29,351,oil line,0,
+1968,UO,1968_Trenton_200,1968_23_UO,24,5,1,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,17,851,crash,0,
+1968,UO,1968_Trenton_200,1968_23_UO,25,19,81,usa,Jigger_Sirois,Jigger Sirois,Central Excavating,,Gerhardt / Offy,14,351,clutch,0,
+1968,UO,1968_Trenton_200,1968_23_UO,26,22,44,usa,Sonny_Ates,Sonny Ates,Boyce Holt Racing,,Gerhardt / Chevy,3,351,engine,0,
+1968,UO,1968_Golden_State_100,1968_24_UO,1,2,1,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Meskowski / Offy,100,8314,running,100,200
+1968,UO,1968_Golden_State_100,1968_24_UO,2,3,11,usa,Gary_Bettenhausen,Gary Bettenhausen,Thermo King Auto Air Conditioning,,Ward / Offy,100,4144,running,0,160
+1968,UO,1968_Golden_State_100,1968_24_UO,3,11,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Dunlop / Offy,100,2528,running,0,140
+1968,UO,1968_Golden_State_100,1968_24_UO,4,1,2,usa,Mario_Andretti,Mario Andretti,Overseas National Airways,,Kuzma / Offy,100,1469,running,0,120
+1968,UO,1968_Golden_State_100,1968_24_UO,5,9,59,usa,Bruce_Walkup,Bruce Walkup,Hayhoe Racing Enterprises�,,Edmunds / Offy,100,1215,running,0,100
+1968,UO,1968_Golden_State_100,1968_24_UO,6,17,68,usa,George_Benson,George Benson,Maxson Offy Special,,Meskowski / Offy,100,1013,running,0,80
+1968,UO,1968_Golden_State_100,1968_24_UO,7,7,45,usa,Larry_Dickson,Larry Dickson,Weinberger Homes,,Blum / Offy,99,810,running,0,60
+1968,UO,1968_Golden_State_100,1968_24_UO,8,5,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Meskowski / Offy,99,709,running,0,50
+1968,UO,1968_Golden_State_100,1968_24_UO,9,10,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Vollstedt / Offy,98,658,running,0,40
+1968,UO,1968_Golden_State_100,1968_24_UO,10,13,31,usa,Art_Pollard,Art Pollard,McClure Plastics,,Vollstedt / Offy,97,608,running,0,30
+1968,UO,1968_Golden_State_100,1968_24_UO,11,15,76,usa,Bruce_Jacobi,Bruce Jacobi,Windmill Trucking Center,,Silnes / Offy,86,557,running,0,20
+1968,UO,1968_Golden_State_100,1968_24_UO,12,12,8,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Kuzma / Offy,79,506,crash,0,10
+1968,UO,1968_Golden_State_100,1968_24_UO,13,8,90,usa,George_Snider,George Snider,Zecol / Lubaid,,Watson / Offy,72,456,rod,0,
+1968,UO,1968_Golden_State_100,1968_24_UO,14,14,84,usa,Tom_Bigelow,Tom Bigelow,Midwest Manufacturing,,Kurtis / Offy,39,405,wheel,0,
+1968,UO,1968_Golden_State_100,1968_24_UO,15,16,99,usa,Carl_Williams,Carl Williams,Joe Hunt Magneto,,Lesovsky / Offy,36,354,valve,0,
+1968,UO,1968_Golden_State_100,1968_24_UO,16,6,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",Wagner Lockheed Brake Fluid,,Watson / Offy,30,304,clutch,0,
+1968,UO,1968_Golden_State_100,1968_24_UO,17,18,65,usa,Don_Meacham,Don Meacham,Travelon Trailer,,Shilala / Offy,18,253,water hose,0,
+1968,UO,1968_Golden_State_100,1968_24_UO,18,4,67,usa,Jim_Malloy,Jim Malloy,Jim Robbins Seat Belt,,King / Ford,4,203,magneto,0,
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,1,8,45,usa,Ronnie_Bucknum,Ronnie Bucknum,Weinberger Homes,,Eagle / Offy,125,20088,running,35,500
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,2,1,2,usa,Mario_Andretti,Mario Andretti,Overseas National Airways,,Brawner / Offy,124,11225,running,1,400
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,3,11,90,usa,Mike_Mosley,Mike Mosley,Zecol / Lubaid,,Watson / Offy,123,6250,running,15,241
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,4,10,15,usa,Mel_Kenyon,Mel Kenyon,"City of Lebanon, Indiana",,Gerhardt / Offy,121,4275,running,0,300
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,5,21,31,usa,Sonny_Ates,Sonny Ates,Federal Engineering,,Gerhardt / Offy,121,3563,running,0,250
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,6,14,24,usa,Art_Pollard,Art Pollard,Retzloff Chemical,,Lola / Ford,119,3206,running,0,101
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,7,17,14,usa,Sammy_Sessions,Sammy Sessions,Quaker State,,Gerhardt / Offy,119,2850,running,0,150
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,8,19,21,usa,Larry_Dickson,Larry Dickson,Bryant Heating & Cooling,,Vollstedt / Ford,118,2672,running,0,125
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,9,15,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Offy,117,2494,running,0,100
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,10,12,81,usa,Jigger_Sirois,Jigger Sirois,Central Excavating,,Gerhardt / Offy,113,2316,transmission,0,75
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,11,25,36,usa,Dennis_Zimmerman,Dennis Zimmerman,Bulldog Stables,,Gerhardt / Chevy,111,2138,running,0,50
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,12,23,118,usa,Al_Smith,Al Smith,Jack Steck,,Chenoweth / Chevy,107,1959,running,0,25
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,13,20,26,usa,Bob_Harkey,Bob Harkey,Bulldog Stables,,Gerhardt / Offy,103,1781,suspension,0,
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,14,9,1,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,97,2103,ring / pinion,0,
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,15,3,25,usa,Lloyd_Ruby,Lloyd Ruby,Gene White,,Mongoose / Offy,82,1425,piston,0,
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,16,5,22,usa,Johnny_Rutherford,Johnny Rutherford,Michner Petroleum,,Eagle / Ford,82,1247,overheating,0,
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,17,2,3,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Offy,75,1569,engine,74,
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,18,7,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,47,891,wheel hub,0,
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,19,16,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",Wagner Lockheed Brake Fluid,,Shrike / Offy,45,712,frame,0,
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,20,24,19,usa,Arnie_Knepper,Arnie Knepper,MVS Inc.,,Cecil / Ford,31,712,piston,0,
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,21,13,11,usa,Gary_Bettenhausen,Gary Bettenhausen,Thermo King Auto Air Conditioning,,Gerhardt / Offy,21,712,clutch,0,
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,22,4,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Finley / Offy,15,712,valve,0,
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,23,22,44,usa,Mickey_Shaw,Mickey Shaw,Boyce Holt Racing,,Gerhardt / Chevy,13,712,sump pump,0,
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,24,18,67,usa,Jim_Malloy,Jim Malloy,Jim Robbins Seat Belt,,Vollstedt / Offy,9,712,engine,0,
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,25,6,8,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Offy,0,712,rear end,0,
+1968,UO,1968_Michigan_Inaugural_250,1968_25_UO,26,26,61,usa,Max_Dudley,Max Dudley,Dudley Trucking,,Gerhardt / Chevy,0,712,lost wheel,0,
+1968,UO,1968_Hanford_250,1968_26_UO,1,7,1,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,167,11024,running,36,500
+1968,UO,1968_Hanford_250,1968_26_UO,2,4,3,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Offy,167,6810,running,27,400
+1968,UO,1968_Hanford_250,1968_26_UO,3,2,2,usa,Mario_Andretti,Mario Andretti,Overseas National Airways,,Brawner / Offy,167,3424,running,11,350
+1968,UO,1968_Hanford_250,1968_26_UO,4,1,60,usa,Joe_Leonard,Joe Leonard,STP,,Lotus / Pratt & Whitney,167,3226,running,93,300
+1968,UO,1968_Hanford_250,1968_26_UO,5,18,38,usa,Jim_McElreath,Jim McElreath,Jack Adams Aircraft / Wynn's,,Lola / Offy,164,1797,running,0,250
+1968,UO,1968_Hanford_250,1968_26_UO,6,9,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",Wagner Lockheed Brake Fluid,,Mongoose / Offy,162,1617,running,0,200
+1968,UO,1968_Hanford_250,1968_26_UO,7,16,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Offy,161,1437,running,0,150
+1968,UO,1968_Hanford_250,1968_26_UO,8,19,14,usa,Sammy_Sessions,Sammy Sessions,Quaker State,,Gerhardt / Offy,161,1347,running,0,125
+1968,UO,1968_Hanford_250,1968_26_UO,9,20,31,usa,Sonny_Ates,Sonny Ates,Federal Engineering,,Gerhardt / Offy,160,1258,running,0,100
+1968,UO,1968_Hanford_250,1968_26_UO,10,5,8,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Offy,158,1168,running,0,75
+1968,UO,1968_Hanford_250,1968_26_UO,11,10,67,usa,Jim_Malloy,Jim Malloy,Jim Robbins Seat Belt,,Vollstedt / Offy,154,1078,running,0,50
+1968,UO,1968_Hanford_250,1968_26_UO,12,22,61,usa,Max_Dudley,Max Dudley,Dudley Trucking,,Gerhardt / Chevy,150,988,running,0,25
+1968,UO,1968_Hanford_250,1968_26_UO,13,15,90,usa,Mike_Mosley,Mike Mosley,Zecol / Lubaid,,Watson / Offy,138,898,engine,0,
+1968,UO,1968_Hanford_250,1968_26_UO,14,24,99,usa,Greg_Weld,Greg Weld,Joe Hunt Magneto,,Lesovsky / Offy,133,808,running,0,
+1968,UO,1968_Hanford_250,1968_26_UO,15,6,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,105,719,fuel valve,0,
+1968,UO,1968_Hanford_250,1968_26_UO,16,23,65,usa,Bruce_Jacobi,Bruce Jacobi,Travelon Trailer,,Gerhardt / Offy,93,629,fouled plugs,0,
+1968,UO,1968_Hanford_250,1968_26_UO,17,25,55,usa,Keith_Rachwitz,Keith Rachwitz,Clyde Lynch,,Halibrand / Offy,85,539,crash,0,
+1968,UO,1968_Hanford_250,1968_26_UO,18,3,25,usa,Lloyd_Ruby,Lloyd Ruby,Gene White,,Mongoose / Offy,82,449,engine,0,
+1968,UO,1968_Hanford_250,1968_26_UO,19,14,24,usa,Carl_Williams,Carl Williams,Retzloff Chemical,,Lola / Ford,57,359,oil leak,0,
+1968,UO,1968_Hanford_250,1968_26_UO,20,21,45,usa,Ronnie_Bucknum,Ronnie Bucknum,Weinberger Homes,,Eagle / Offy,45,359,engine,0,
+1968,UO,1968_Hanford_250,1968_26_UO,21,8,11,usa,Gary_Bettenhausen,Gary Bettenhausen,Thermo King Auto Air Conditioning,,Gerhardt / Offy,41,359,engine,0,
+1968,UO,1968_Hanford_250,1968_26_UO,22,26,34,usa,George_Benson,George Benson,Speedy's Broasted Chicken,,Huffaker / Chevy,35,359,engine,0,
+1968,UO,1968_Hanford_250,1968_26_UO,23,13,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Finley / Offy,31,359,piston,0,
+1968,UO,1968_Hanford_250,1968_26_UO,24,12,15,usa,Mel_Kenyon,Mel Kenyon,"City of Lebanon, Indiana",,Gerhardt / Offy,31,359,crash,0,
+1968,UO,1968_Hanford_250,1968_26_UO,25,11,22,usa,Johnny_Rutherford,Johnny Rutherford,Michner Petroleum,,Eagle / Offy,31,359,crash,0,
+1968,UO,1968_Hanford_250,1968_26_UO,26,17,21,usa,Larry_Dickson,Larry Dickson,Bryant Heating & Cooling,,Vollstedt / Ford,31,359,magneto cap,0,
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,1,13,11,usa,Gary_Bettenhausen,Gary Bettenhausen,Thermo King Auto Air Conditioning,,Gerhardt / Offy,200,8142,running,17,400
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,2,9,25,usa,Lloyd_Ruby,Lloyd Ruby,Gene White,,Mongoose / Offy,200,5260,running,83,320
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,3,21,16,usa,George_Snider,George Snider,Thermo King Auto Air Conditioning,,Gerhardt / Offy,200,2621,running,0,14
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,4,14,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",Wagner Lockheed Brake Fluid,,Shrike / Offy,197,1628,running,0,240
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,5,10,14,usa,Sammy_Sessions,Sammy Sessions,Quaker State,,Gerhardt / Offy,196,1357,running,0,200
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,6,15,38,usa,Jim_McElreath,Jim McElreath,Jack Adams Aircraft / Wynn's,,Brawner / Offy,196,1221,running,0,160
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,7,8,4,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Gerhardt / Offy,190,1086,running,0,120
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,8,17,21,usa,Larry_Dickson,Larry Dickson,Bryant Heating & Cooling,,Vollstedt / Ford,180,1018,running,0,100
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,9,20,90,usa,Mike_Mosley,Mike Mosley,Zecol / Lubaid,,Watson / Offy,177,950,running,0,40
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,10,19,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Offy,167,882,running,0,60
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,11,7,8,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Offy,141,814,engine,0,40
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,12,11,24,usa,Arnie_Knepper,Arnie Knepper,Retzloff Chemical,,Lola / Ford,136,746,engine,0,12
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,13,16,15,usa,Mel_Kenyon,Mel Kenyon,"City of Lebanon, Indiana",,Gerhardt / Offy,128,679,engine,0,
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,14,12,45,usa,Ronnie_Bucknum,Ronnie Bucknum,Weinberger Homes,,Eagle / Offy,128,611,engine,0,
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,15,5,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,122,1183,engine,60,
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,16,23,31,usa,Sonny_Ates,Sonny Ates,Federal Engineering,,Gerhardt / Offy,93,475,crash,0,
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,17,22,22,usa,Johnny_Rutherford,Johnny Rutherford,Michner Petroleum,,Eagle / Offy,93,407,crash,0,
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,18,26,65,usa,Bruce_Jacobi,Bruce Jacobi,Travelon Trailer,,Gerhardt / Offy,65,339,engine,0,
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,19,6,3,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Offy,63,771,connecting rod,0,
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,20,2,20,usa,Art_Pollard,Art Pollard,STP Oil Treatment,,Lotus / Pratt & Whitney,47,671,universal joint,40,
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,21,25,44,usa,Rick_Muther,Rick Muther,Boyce Holt Racing,,Gerhardt / Chevy,44,271,engine,0,
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,22,4,67,usa,Jim_Malloy,Jim Malloy,Jim Robbins Seat Belt,,Vollstedt / Offy,15,271,crash,0,
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,23,3,1,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,6,771,crash,0,
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,24,1,2,usa,Mario_Andretti,Mario Andretti,Overseas National Airways,,Brawner / Offy,6,271,crash,0,
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,25,18,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Finley / Offy,6,271,oil leak,0,
+1968,UO,1968_Bobby_Ball_Memorial,1968_27_UO,26,24,26,usa,Dennis_Zimmerman,Dennis Zimmerman,Bulldog Stables,,Gerhardt / Offy,0,271,did not start,0,
+1968,UO,1968_Rex_Mays_300,1968_28_UO,1,1,48,usa,Dan_Gurney,Dan Gurney,Olsonite,,Eagle / Ford,116,18810,running,112,600
+1968,UO,1968_Rex_Mays_300,1968_28_UO,2,9,3,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Ford,115,13150,running,0,480
+1968,UO,1968_Rex_Mays_300,1968_28_UO,3,14,25,usa,Lloyd_Ruby,Lloyd Ruby,Gene White,,Mongoose / Ford,113,8960,running,0,255
+1968,UO,1968_Rex_Mays_300,1968_28_UO,4,18,24,usa,Skip_Scott,Skip Scott,Retzloff Chemical,,Lola / Ford,112,5500,running,0,
+1968,UO,1968_Rex_Mays_300,1968_28_UO,5,26,54,usa,Rick_Muther,Rick Muther,Valvoline,,Finley / Ford,107,4000,running,0,300
+1968,UO,1968_Rex_Mays_300,1968_28_UO,6,17,22,usa,Johnny_Rutherford,Johnny Rutherford,Michner Petroleum,,Eagle / Ford,103,3000,running,0,240
+1968,UO,1968_Rex_Mays_300,1968_28_UO,7,25,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",Wagner Lockheed Brake Fluid,,Mongoose / Ford,101,2500,running,0,180
+1968,UO,1968_Rex_Mays_300,1968_28_UO,8,19,41,usa,George_Follmer,George Follmer,George Follmer,,Cheetah / Ford,97,2100,running,0,150
+1968,UO,1968_Rex_Mays_300,1968_28_UO,9,15,9,canada,John_Cannon,John Cannon,Vel's Parnelli Jones Ford,,Mongoose / Ford,96,1775,running,0,120
+1968,UO,1968_Rex_Mays_300,1968_28_UO,10,16,96,usa,Peter_Revson,Peter Revson,Eisert Racing Enterprises,,Eisert / Chevy,81,1550,gearbox,0,90
+1968,UO,1968_Rex_Mays_300,1968_28_UO,11,12,4,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Eagle / Ford,79,1350,rear end,0,60
+1968,UO,1968_Rex_Mays_300,1968_28_UO,12,23,8,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Ford,74,1150,engine,0,30
+1968,UO,1968_Rex_Mays_300,1968_28_UO,13,13,45,usa,Ronnie_Bucknum,Ronnie Bucknum,Weinberger Homes,,Eagle / Ford,73,1050,oil seal,0,
+1968,UO,1968_Rex_Mays_300,1968_28_UO,14,21,90,usa,Mike_Mosley,Mike Mosley,Zecol / Lubaid,,Watson / Ford,69,950,engine,0,
+1968,UO,1968_Rex_Mays_300,1968_28_UO,15,28,19,usa,Arnie_Knepper,Arnie Knepper,MVS Inc.,,Cecil / Ford,68,850,engine,0,
+1968,UO,1968_Rex_Mays_300,1968_28_UO,16,10,20,usa,Art_Pollard,Art Pollard,STP Oil Treatment,,Lotus / Pratt & Whitney,63,800,crash,0,
+1968,UO,1968_Rex_Mays_300,1968_28_UO,17,3,60,usa,Joe_Leonard,Joe Leonard,STP,,Lotus / Pratt & Whitney,62,1050,crash,0,
+1968,UO,1968_Rex_Mays_300,1968_28_UO,18,2,2,usa,Mario_Andretti,Mario Andretti,Overseas National Airways,,Brawner / Ford,59,1200,engine,4,
+1968,UO,1968_Rex_Mays_300,1968_28_UO,19,22,11,usa,Gary_Bettenhausen,Gary Bettenhausen,Thermo King Auto Air Conditioning,,Gerhardt / Ford,51,650,oil pressure,0,
+1968,UO,1968_Rex_Mays_300,1968_28_UO,20,8,1,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,48,1125,rear end,0,
+1968,UO,1968_Rex_Mays_300,1968_28_UO,21,5,12,usa,Mark_Donohue,Mark Donohue,Sunoco,,Eagle / Chevy,35,650,suspension,0,
+1968,UO,1968_Rex_Mays_300,1968_28_UO,22,7,64,usa,Jerry_Titus,Jerry Titus,Overseas National Airways,,Brawner / Ford,27,575,suspension,0,
+1968,UO,1968_Rex_Mays_300,1968_28_UO,23,6,35,australia,Jack_Brabham,Jack Brabham,Repco-Brabham,,Brabham / Repco,27,550,oil leak,0,
+1968,UO,1968_Rex_Mays_300,1968_28_UO,24,24,67,usa,Jim_Malloy,Jim Malloy,Jim Robbins Seat Belt,,Vollstedt / Ford,26,525,shift linkage,0,
+1968,UO,1968_Rex_Mays_300,1968_28_UO,25,27,14,usa,Sammy_Sessions,Sammy Sessions,Quaker State,,Gerhardt / Offy,14,500,oil leak,0,
+1968,UO,1968_Rex_Mays_300,1968_28_UO,26,4,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,13,650,crash,0,
+1968,UO,1968_Rex_Mays_300,1968_28_UO,27,30,28,usa,Bill_Simpson,Bill Simpson,Simpson Safety Equipment,,Cheetah / Ford,5,500,oil seal,0,
+1968,UO,1968_Rex_Mays_300,1968_28_UO,28,29,38,usa,Jim_McElreath,Jim McElreath,Jack Adams Aircraft / Wynn's,,Brawner / Ford,4,500,suspension,0,
+1968,UO,1968_Rex_Mays_300,1968_28_UO,29,20,21,usa,Wally_Dallenbach,Wally Dallenbach,Bryant Heating & Cooling,,Vollstedt / Ford,2,500,engine,0,
+1968,UO,1968_Rex_Mays_300,1968_28_UO,30,11,39,usa,Lou_Sell,Lou Sell,Wynn's / Smothers Brothers,,Eagle / Ford,1,500,crash,0,

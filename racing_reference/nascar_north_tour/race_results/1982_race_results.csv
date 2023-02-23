@@ -1,0 +1,823 @@
+season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
+1982,NN,1982_Spring_Green,1982_01_NN,1,10,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Ventura,82,1150,running,54,60
+1982,NN,1982_Spring_Green,1982_01_NN,2,3,38,usa,Joey_Kourafas,Joey Kourafas,Bo Peep Sheepskin,,Grand Prix,82,,running,12,48
+1982,NN,1982_Spring_Green,1982_01_NN,3,6,24,usa,Phil_Gerbode,Phil Gerbode,Automaster Honda,,LeMans,82,,running,1,71
+1982,NN,1982_Spring_Green,1982_01_NN,4,22,41,usa,Jamie_Aube,Jamie Aube,Aube Racing,,Grand Am,82,,running,0,44
+1982,NN,1982_Spring_Green,1982_01_NN,5,23,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eustache,,LeMans,82,,running,0,52
+1982,NN,1982_Spring_Green,1982_01_NN,6,14,83,canada,Claude_Aubin,Claude Aubin,Autodrome de Laval,,Grand Am,82,,running,0,52
+1982,NN,1982_Spring_Green,1982_01_NN,7,19,4,usa,Barney_McRae,Barney McRae,Custom Corner,,Ventura,82,,running,0,53
+1982,NN,1982_Spring_Green,1982_01_NN,8,13,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,81,,running,0,56
+1982,NN,1982_Spring_Green,1982_01_NN,9,8,30,usa,Darrell_Owen,Darrell Owen,Rossi Buick-Olds,,Regal,81,,running,0,45
+1982,NN,1982_Spring_Green,1982_01_NN,10,5,12,usa,Tim_Dykman,Tim Dykman,Dykman Racing,,Grand Prix,78,,oil pressure,0,38
+1982,NN,1982_Spring_Green,1982_01_NN,11,25,50,usa,Bob_Ailes,Bob Ailes,Ailes Racing,,Ventura,76,,smoking,0,30
+1982,NN,1982_Spring_Green,1982_01_NN,12,21,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,73,,engine,0,38
+1982,NN,1982_Spring_Green,1982_01_NN,13,24,29,usa,Dave_Dion,Dave Dion,Stewart & Son Ford,,Futura,73,,running,0,36
+1982,NN,1982_Spring_Green,1982_01_NN,14,9,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,73,,running,0,42
+1982,NN,1982_Spring_Green,1982_01_NN,15,4,21,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford,,Futura,71,250,rear end,0,32
+1982,NN,1982_Spring_Green,1982_01_NN,16,16,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Ventura,59,,overheating,0,30
+1982,NN,1982_Spring_Green,1982_01_NN,17,18,25,usa,Dick_McCabe,Dick McCabe,Tower Restaurant,,Ventura,48,,clutch,0,28
+1982,NN,1982_Spring_Green,1982_01_NN,18,2,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Malibu,27,,crash,0,28
+1982,NN,1982_Spring_Green,1982_01_NN,19,7,47,usa,Richard_Pinkham,Richard Pinkham,Scarborough Exxon,,Cutlass,18,,panhard bar,0,26
+1982,NN,1982_Spring_Green,1982_01_NN,20,1,77,usa,Dick_Glines,Dick Glines,Fire 21,,LeMans,15,,crash,15,29
+1982,NN,1982_Spring_Green,1982_01_NN,21,15,00,canada,Roger_Laperle,Roger Laperle,Mont Bruno Moving,,LeMans,15,,overheating,0,20
+1982,NN,1982_Spring_Green,1982_01_NN,22,20,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,Grand Am,14,265,crash,0,26
+1982,NN,1982_Spring_Green,1982_01_NN,23,12,51,usa,Stan_Meserve,Stan Meserve,Cahill Tire,,Malibu,13,,handling,0,25
+1982,NN,1982_Spring_Green,1982_01_NN,24,26,09,usa,Ron_Barcomb,Ron Barcomb,Dollar Rent-A-Car,,Grand Am,13,,crash,0,4
+1982,NN,1982_Spring_Green,1982_01_NN,25,17,71,usa,Bobby_Dragon,Bobby Dragon,R & J Trucking,,LeMans,12,,crash,0,13
+1982,NN,1982_Spring_Green,1982_01_NN,26,11,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,1,,engine,0,26
+1982,NN,1982_Maine_100,1982_02_NN,1,3,04,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,138,1800,running,97,60
+1982,NN,1982_Maine_100,1982_02_NN,2,4,5,usa,Mike_Rowe,Mike Rowe,Homestead Farms,,Cutlass,138,,running,0,58
+1982,NN,1982_Maine_100,1982_02_NN,3,10,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,138,,running,0,56
+1982,NN,1982_Maine_100,1982_02_NN,4,11,71,usa,Bobby_Dragon,Bobby Dragon,R & J Trucking,,LeMans,138,,running,0,54
+1982,NN,1982_Maine_100,1982_02_NN,5,18,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,138,,running,0,52
+1982,NN,1982_Maine_100,1982_02_NN,6,28,28,usa,Stan_Meserve,Stan Meserve   (OC),Rice Construction,,Grand Prix,138,,running,0,0
+1982,NN,1982_Maine_100,1982_02_NN,7,34,24,usa,Phil_Gerbode,Phil Gerbode,Automaster Honda,,LeMans,138,,running,0,50
+1982,NN,1982_Maine_100,1982_02_NN,8,19,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Nova,137,,running,0,48
+1982,NN,1982_Maine_100,1982_02_NN,9,7,1,usa,Allen_Whipple,Allen Whipple,General Auto Salvage,,LeMans,137,,running,0,46
+1982,NN,1982_Maine_100,1982_02_NN,10,17,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eustache,,LeMans,137,,running,0,44
+1982,NN,1982_Maine_100,1982_02_NN,11,24,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Ventura,137,,running,0,42
+1982,NN,1982_Maine_100,1982_02_NN,12,36,47,usa,Richard_Pinkham,Richard Pinkham,Scarborough Exxon,,Cutlass,136,,running,0,40
+1982,NN,1982_Maine_100,1982_02_NN,13,31,50,usa,Bob_Ailes,Bob Ailes,Ailes Racing,,Ventura,136,,running,0,28
+1982,NN,1982_Maine_100,1982_02_NN,14,16,41,usa,Jamie_Aube,Jamie Aube,Aube Racing,,Grand Am,136,,running,0,26
+1982,NN,1982_Maine_100,1982_02_NN,15,26,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,135,200,running,0,34
+1982,NN,1982_Maine_100,1982_02_NN,16,32,30,usa,Darrell_Owen,Darrell Owen,Rossi Buick-Olds,,Regal,135,,running,0,32
+1982,NN,1982_Maine_100,1982_02_NN,17,22,44?,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Nova,135,,running,0,30
+1982,NN,1982_Maine_100,1982_02_NN,18,33,21,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford,,Futura,134,180,running,0,28
+1982,NN,1982_Maine_100,1982_02_NN,19,8,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,131,,running,0,26
+1982,NN,1982_Maine_100,1982_02_NN,20,12,40,usa,Jim_Brown,Jim Brown,M.B. Bounne Balancing,,Malibu,126,,running,0,24
+1982,NN,1982_Maine_100,1982_02_NN,21,29,6,usa,Herb_Simpson,Herb Simpson   (OC),Hudson Alignment,,Regal,122,,suspension,0,0
+1982,NN,1982_Maine_100,1982_02_NN,22,34,27,usa,Jon_Lizotte,Jon Lizotte   (OC),Randy's Auto Parts,,Cutlass,121,,fuel pump,0,0
+1982,NN,1982_Maine_100,1982_02_NN,23,14,09,usa,Ron_Barcomb,Ron Barcomb,Dollar Rent-A-Car,,Grand Am,119,,overheating,0,22
+1982,NN,1982_Maine_100,1982_02_NN,24,20,83,canada,Claude_Aubin,Claude Aubin,Autodrome de Laval,,Grand Am,108,,overheating,0,10
+1982,NN,1982_Maine_100,1982_02_NN,25,1,8,canada,Frank_Fraser,Frank Fraser   (OC),Fraser Racing,,Camaro,108,,crash,41,0
+1982,NN,1982_Maine_100,1982_02_NN,26,5,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,100,,overheating,0,18
+1982,NN,1982_Maine_100,1982_02_NN,27,2,9,usa,Harvey_Sprague,Harvey Sprague   (OC),Sprague Landscaping,,Camaro,99,,overheating,0,0
+1982,NN,1982_Maine_100,1982_02_NN,28,13,10,usa,Ralph_Nason,Ralph Nason   (OC),Unity Raceway,,Camaro,52,,handling,0,0
+1982,NN,1982_Maine_100,1982_02_NN,29,27,0,usa,Bill_Whorff,Bill Whorff   (OC),Estrebrook Will Drilling,,Nova,31,,ignition,0,0
+1982,NN,1982_Maine_100,1982_02_NN,30,6,29,usa,Dave_Dion,Dave Dion,Stewart & Son Ford,,Futura,25,,sump pump,0,16
+1982,NN,1982_Maine_100,1982_02_NN,31,21,34,usa,Steve_Poulin,Steve Poulin,Poulin Enterprises,,Grand Am,21,,crash,0,14
+1982,NN,1982_Maine_100,1982_02_NN,32,30,84,canada,Pierre_Arsenault,Pierre Arsenault   (OC),Bumper to Bumper,,Camaro,21,,overheating,0,0
+1982,NN,1982_Maine_100,1982_02_NN,33,9,44?,usa,Jeff_Stevens,Jeff Stevens   (OC),Stevens Racing,,Regal,9,,fuel line,0,0
+1982,NN,1982_Maine_100,1982_02_NN,34,15,00,canada,Roger_Laperle,Roger Laperle,Mont Bruno Moving,,LeMans,2,,crash,0,12
+1982,NN,1982_Maine_100,1982_02_NN,35,23,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Malibu,2,,shock,0,12
+1982,NN,1982_Maine_100,1982_02_NN,36,35,77,usa,Dick_Glines,Dick Glines,Fire 21,,LeMans,2,,crash,0,12
+1982,NN,1982_Laval_100,1982_03_NN,1,8,71,usa,Bobby_Dragon,Bobby Dragon,R & J Trucking,,LeMans,100,,running,54,75
+1982,NN,1982_Laval_100,1982_03_NN,2,1,34,usa,Steve_Poulin,Steve Poulin,Poulin Enterprises,,Grand Am,100,,running,46,67
+1982,NN,1982_Laval_100,1982_03_NN,3,10,00,canada,Roger_Laperle,Roger Laperle,Mont Bruno Moving,,LeMans,100,,running,0,69
+1982,NN,1982_Laval_100,1982_03_NN,4,6,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,100,,running,0,61
+1982,NN,1982_Laval_100,1982_03_NN,5,16,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Nova,100,,running,0,60
+1982,NN,1982_Laval_100,1982_03_NN,6,20,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,100,,running,0,51
+1982,NN,1982_Laval_100,1982_03_NN,7,15,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,100,,running,0,53
+1982,NN,1982_Laval_100,1982_03_NN,8,9,38?,usa,Joey_Kourafas,Joey Kourafas,Bob Ferreira,,Grand Prix,100,,running,0,46
+1982,NN,1982_Laval_100,1982_03_NN,9,22,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,100,,running,0,55
+1982,NN,1982_Laval_100,1982_03_NN,10,7,47,usa,Richard_Pinkham,Richard Pinkham,Scarborough Exxon,,Cutlass,100,,running,0,44
+1982,NN,1982_Laval_100,1982_03_NN,11,17,1,usa,Allen_Whipple,Allen Whipple,General Auto Salvage,,LeMans,100,,running,0,40
+1982,NN,1982_Laval_100,1982_03_NN,12,5,29,usa,Dave_Dion,Dave Dion,Gisela Antiques,,Futura,100,,running,0,38
+1982,NN,1982_Laval_100,1982_03_NN,13,21,24,usa,Phil_Gerbode,Phil Gerbode,Automaster Honda,,LeMans,100,,running,0,36
+1982,NN,1982_Laval_100,1982_03_NN,14,14,30,usa,Darrell_Owen,Darrell Owen,Rossi Buick-Olds,,Regal,99,,running,0,34
+1982,NN,1982_Laval_100,1982_03_NN,15,23,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,99,,running,0,32
+1982,NN,1982_Laval_100,1982_03_NN,16,4,77,usa,Dick_Glines,Dick Glines,Fire 21,,LeMans,99,,running,0,32
+1982,NN,1982_Laval_100,1982_03_NN,17,3,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Nova,99,,running,0,28
+1982,NN,1982_Laval_100,1982_03_NN,18,18,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eutasche,,LeMans,98,,engine,0,26
+1982,NN,1982_Laval_100,1982_03_NN,19,24,38?,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,97,,running,0,30
+1982,NN,1982_Laval_100,1982_03_NN,20,25,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,96,,running,0,22
+1982,NN,1982_Laval_100,1982_03_NN,21,2,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Malibu,70,,crash,0,21
+1982,NN,1982_Laval_100,1982_03_NN,22,26,21,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford,,Futura,62,,frost plug,0,18
+1982,NN,1982_Laval_100,1982_03_NN,23,11,09,usa,Ron_Barcomb,Ron Barcomb,Dollar Rent-A-Car,,Grand Am,53,,overheating,0,14
+1982,NN,1982_Laval_100,1982_03_NN,24,19,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Ventura,52,,water pump,0,16
+1982,NN,1982_Laval_100,1982_03_NN,25,13,83,canada,Claude_Aubin,Claude Aubin,Autodrome de Laval,,Grand Am,34,,valve,0,12
+1982,NN,1982_Laval_100,1982_03_NN,26,12,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt,,LeMans,27,,overheating,0,13
+1982,NN,1982_Riverside_Park_100,1982_04_NN,1,17,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,100,,running,2,75
+1982,NN,1982_Riverside_Park_100,1982_04_NN,2,6,34,usa,Steve_Poulin,Steve Poulin,Poulin Enterprises,,Grand Am,100,,running,90,69
+1982,NN,1982_Riverside_Park_100,1982_04_NN,3,7,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,100,,running,0,56
+1982,NN,1982_Riverside_Park_100,1982_04_NN,4,5,29,usa,Dave_Dion,Dave Dion,Stewart & Son Ford,,Futura,100,,running,0,66
+1982,NN,1982_Riverside_Park_100,1982_04_NN,5,8,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,100,,running,0,53
+1982,NN,1982_Riverside_Park_100,1982_04_NN,6,15,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,100,,running,0,50
+1982,NN,1982_Riverside_Park_100,1982_04_NN,7,10,38,usa,Joey_Kourafas,Joey Kourafas,Bob Ferreira,,Grand Prix,100,,running,0,55
+1982,NN,1982_Riverside_Park_100,1982_04_NN,8,4,17,usa,Bob_Brunell,Bob Brunell,Brunell Paving,,LeMans,100,,running,7,46
+1982,NN,1982_Riverside_Park_100,1982_04_NN,9,19,71,usa,Bobby_Dragon,Bobby Dragon,R & J Trucking,,LeMans,100,,running,0,45
+1982,NN,1982_Riverside_Park_100,1982_04_NN,10,16,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Nova,99,,running,0,48
+1982,NN,1982_Riverside_Park_100,1982_04_NN,11,11,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Ventura,98,,running,0,45
+1982,NN,1982_Riverside_Park_100,1982_04_NN,12,14,1,usa,Allen_Whipple,Allen Whipple,General Auto Salvage,,LeMans,98,,running,0,48
+1982,NN,1982_Riverside_Park_100,1982_04_NN,13,18,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,98,,running,0,38
+1982,NN,1982_Riverside_Park_100,1982_04_NN,14,13,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eustache,,LeMans,-9,,running,0,36
+1982,NN,1982_Riverside_Park_100,1982_04_NN,15,2,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Malibu,97,,running,1,41
+1982,NN,1982_Riverside_Park_100,1982_04_NN,16,3,21,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford,,Futura,95,,running,0,32
+1982,NN,1982_Riverside_Park_100,1982_04_NN,17,1,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,95,,running,0,29
+1982,NN,1982_Riverside_Park_100,1982_04_NN,18,20,15,usa,Mike_Rowe,Mike Rowe,Homestead Farms,,Cutlass,42,,steering,0,26
+1982,NN,1982_Riverside_Park_100,1982_04_NN,19,12,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,5,,engine,0,26
+1982,NN,1982_Riverside_Park_100,1982_04_NN,20,9,47,usa,Richard_Pinkham,Richard Pinkham,Scarborough Exxon,,Cutlass,4,,crash,0,29
+1982,NN,1982_Riverside_Park_100,1982_04_NN,21,21,41,usa,Jamie_Aube,Jamie Aube,Aube Racing,,Grand Am,1,,rear end,0,20
+1982,NN,1982_Autosport_100,1982_05_NN,1,18,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,100,,running,71,62
+1982,NN,1982_Autosport_100,1982_05_NN,2,10,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Ventura,100,,running,1,60
+1982,NN,1982_Autosport_100,1982_05_NN,3,15,1,usa,Allen_Whipple,Allen Whipple,General Auto Salvage,,LeMans,100,,running,0,64
+1982,NN,1982_Autosport_100,1982_05_NN,4,6,41,usa,Jamie_Aube,Jamie Aube,Aube Racing,,Grand Am,100,,running,18,69
+1982,NN,1982_Autosport_100,1982_05_NN,5,13,24,usa,Phil_Gerbode,Phil Gerbode,Automaster Honda,,LeMans,99,,running,0,52
+1982,NN,1982_Autosport_100,1982_05_NN,6,7,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,99,,running,0,50
+1982,NN,1982_Autosport_100,1982_05_NN,7,20,34,usa,Steve_Poulin,Steve Poulin,Poulin Enterprises,,Grand Am,99,,running,0,49
+1982,NN,1982_Autosport_100,1982_05_NN,8,11,00,canada,Roger_Laperle,Roger Laperle,Mont Bruno Moving,,LeMans,99,,running,0,58
+1982,NN,1982_Autosport_100,1982_05_NN,9,3,21,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford,,Futura,99,,running,0,46
+1982,NN,1982_Autosport_100,1982_05_NN,10,2,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Malibu Chassis,,Malibu,99,,running,9,54
+1982,NN,1982_Autosport_100,1982_05_NN,11,12,38,usa,Joey_Kourafas,Joey Kourafas,Bob Ferreira,,Grand Prix,98,,running,0,46
+1982,NN,1982_Autosport_100,1982_05_NN,12,8,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,98,,running,0,45
+1982,NN,1982_Autosport_100,1982_05_NN,13,1,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,97,,running,1,42
+1982,NN,1982_Autosport_100,1982_05_NN,14,9,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eustache,,LeMans,96,,brakes,0,43
+1982,NN,1982_Autosport_100,1982_05_NN,15,21,4,usa,Barney_McRae,Barney McRae,Custom Corner,,Ventura,96,,running,0,32
+1982,NN,1982_Autosport_100,1982_05_NN,16,16,71,usa,Bobby_Dragon,Bobby Dragon,R & J Trucking,,LeMans,89,,running,0,30
+1982,NN,1982_Autosport_100,1982_05_NN,17,19,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,81,,valve,0,29
+1982,NN,1982_Autosport_100,1982_05_NN,18,5,17,usa,Bob_Brunell,Bob Brunell,Brunell Paving,,LeMans,80,,panhard bar,0,27
+1982,NN,1982_Autosport_100,1982_05_NN,19,17,44,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Cavanagh Racing,,Nova,75,,transmission,0,24
+1982,NN,1982_Autosport_100,1982_05_NN,20,14,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,28,,crash,0,29
+1982,NN,1982_Autosport_100,1982_05_NN,21,4,30,usa,Darrell_Owen,Darrell Owen,Rossi Buick-Olds,,Regal,14,,crash,0,20
+1982,NN,1982_Wrangler_100,1982_06_NN,1,17,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,100,,running,35,69
+1982,NN,1982_Wrangler_100,1982_06_NN,2,10,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,100,,running,0,68
+1982,NN,1982_Wrangler_100,1982_06_NN,3,18,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,100,,running,0,56
+1982,NN,1982_Wrangler_100,1982_06_NN,4,8,83,canada,Claude_Aubin,Claude Aubin,Autodrome de Laval,,Grand Am,100,,running,0,67
+1982,NN,1982_Wrangler_100,1982_06_NN,5,12,38,usa,Joey_Kourafas,Joey Kourafas,Bob Ferreira,,Grand Prix,100,,running,0,60
+1982,NN,1982_Wrangler_100,1982_06_NN,6,15,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Ventura,100,,running,0,50
+1982,NN,1982_Wrangler_100,1982_06_NN,7,14,00,canada,Roger_Laperle,Roger Laperle,Mont Bruno Moving,,LeMans,100,,running,0,38
+1982,NN,1982_Wrangler_100,1982_06_NN,8,16,24,usa,Phil_Gerbode,Phil Gerbode,Automaster Honda,,LeMans,100,,running,0,46
+1982,NN,1982_Wrangler_100,1982_06_NN,9,7,41,usa,Jamie_Aube,Jamie Aube,Aube Racing,,Grand Am,99,,running,0,45
+1982,NN,1982_Wrangler_100,1982_06_NN,10,6,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eutasche,,LeMans,99,,running,0,47
+1982,NN,1982_Wrangler_100,1982_06_NN,11,20,15,usa,Mike_Rowe,Mike Rowe,Homestead Farms,,Cutlass,98,,running,0,31
+1982,NN,1982_Wrangler_100,1982_06_NN,12,21,1,usa,Allen_Whipple,Allen Whipple,General Auto Salvage,,LeMans,98,,running,0,38
+1982,NN,1982_Wrangler_100,1982_06_NN,13,1,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Nova,95,,running,2,44
+1982,NN,1982_Wrangler_100,1982_06_NN,14,2,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,94,,running,0,34
+1982,NN,1982_Wrangler_100,1982_06_NN,15,13,71,usa,Bobby_Dragon,Bobby Dragon,Monahan & Loughlin,,LeMans,92,,running,0,34
+1982,NN,1982_Wrangler_100,1982_06_NN,16,11,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Cutlass,90,,running,0,30
+1982,NN,1982_Wrangler_100,1982_06_NN,17,22,12,usa,Tim_Dykman,Tim Dykman,Tri-W Racing,,Grand Prix,85,,running,0,28
+1982,NN,1982_Wrangler_100,1982_06_NN,18,23,29,usa,Dave_Dion,Dave Dion,Stewart & Son Ford,,Futura,84,,gasket,0,16
+1982,NN,1982_Wrangler_100,1982_06_NN,19,5,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,81,,ignition,0,31
+1982,NN,1982_Wrangler_100,1982_06_NN,20,25,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,77,,smoking,0,22
+1982,NN,1982_Wrangler_100,1982_06_NN,21,4,17,usa,Bob_Brunell,Bob Brunell,Brunell Paving,,LeMans,76,,steering,0,12
+1982,NN,1982_Wrangler_100,1982_06_NN,22,3,09,usa,Ron_Barcomb,Ron Barcomb,Dollar Rent-A-Car,,LeMans,65,,ignition,63,35
+1982,NN,1982_Wrangler_100,1982_06_NN,23,24,1X,usa,Kevin_Lepage,Kevin Lepage,Hillside Machine,,Malibu,41,,handling,0,16
+1982,NN,1982_Wrangler_100,1982_06_NN,24,9,34,usa,Steve_Poulin,Steve Poulin,Poulin Enterprises,,Grand Am,30,,engine,0,16
+1982,NN,1982_Wrangler_100,1982_06_NN,25,19,50,usa,Bob_Ailes,Bob Ailes,Ailes Racing,,Ventura,13,,valve,0,2
+1982,NN,1982_Molson_200,1982_07_NN,1,19,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,200,,running,1,62
+1982,NN,1982_Molson_200,1982_07_NN,2,11,71,usa,Bobby_Dragon,Bobby Dragon,Monahan & Loughlin,,LeMans,200,,running,3,58
+1982,NN,1982_Molson_200,1982_07_NN,3,14,83,canada,Claude_Aubin,Claude Aubin,Autodrome de Laval,,Grand Am,200,,running,0,63
+1982,NN,1982_Molson_200,1982_07_NN,4,15,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Ventura,200,,running,0,66
+1982,NN,1982_Molson_200,1982_07_NN,5,6,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,200,,running,0,61
+1982,NN,1982_Molson_200,1982_07_NN,6,7,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Cutlass,200,,running,104,56
+1982,NN,1982_Molson_200,1982_07_NN,7,4,17,usa,Bob_Brunell,Bob Brunell,Brunell Paving,,LeMans,199,,running,0,38
+1982,NN,1982_Molson_200,1982_07_NN,8,9,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eutasche,,LeMans,198,,running,0,46
+1982,NN,1982_Molson_200,1982_07_NN,9,8,29,usa,Dave_Dion,Dave Dion,Stewart & Son Ford,,Futura,198,,running,0,49
+1982,NN,1982_Molson_200,1982_07_NN,10,2,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Hillside Machine,,Malibu,197,,running,2,44
+1982,NN,1982_Molson_200,1982_07_NN,11,1,30,usa,Darrell_Owen,Darrell Owen,Rossi Buick-Olds,,Regal,197,,running,90,35
+1982,NN,1982_Molson_200,1982_07_NN,12,20,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,197,,running,0,38
+1982,NN,1982_Molson_200,1982_07_NN,13,3,50,usa,Bob_Ailes,Bob Ailes,Ailes Racing,,Ventura,195,,running,0,27
+1982,NN,1982_Molson_200,1982_07_NN,14,24,38,usa,Joey_Kourafas,Joey Kourafas,Bob Ferreira,,Regal,194,,running,0,34
+1982,NN,1982_Molson_200,1982_07_NN,15,18,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,193,,running,0,42
+1982,NN,1982_Molson_200,1982_07_NN,16,17,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,190,,running,0,30
+1982,NN,1982_Molson_200,1982_07_NN,17,21,12,usa,Tim_Dykman,Tim Dykman,Tri-W Racing,,Grand Prix,152,,crash,0,28
+1982,NN,1982_Molson_200,1982_07_NN,18,22,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Nova,140,,transmission,0,31
+1982,NN,1982_Molson_200,1982_07_NN,19,12,24,usa,Phil_Gerbode,Phil Gerbode,Automaster Honda,,LeMans,132,,crash,0,24
+1982,NN,1982_Molson_200,1982_07_NN,20,13,00,canada,Roger_Laperle,Roger Laperle,Mont Bruno Moving,,LeMans,130,,crash,0,13
+1982,NN,1982_Molson_200,1982_07_NN,21,5,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,112,,crash,0,26
+1982,NN,1982_Molson_200,1982_07_NN,22,16,1,usa,Allen_Whipple,Allen Whipple,General Auto Salvage,,LeMans,85,,crash,0,25
+1982,NN,1982_Molson_200,1982_07_NN,23,10,41,usa,Jamie_Aube,Jamie Aube,Aube Racing,,Grand Am,12,,oil pan,0,17
+1982,NN,1982_Molson_200,1982_07_NN,24,23,09,usa,Ron_Barcomb,Ron Barcomb,Dollar Rent-A-Car,,LeMans,1,,engine,0,14
+1982,NN,1982_Winchester_50,1982_08_NN,1,2,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,50,,running,50,77
+1982,NN,1982_Winchester_50,1982_08_NN,2,8,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,50,,running,0,70
+1982,NN,1982_Winchester_50,1982_08_NN,3,10,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Ventura,50,,running,0,57
+1982,NN,1982_Winchester_50,1982_08_NN,4,9,71,usa,Bobby_Dragon,Bobby Dragon,Monahan & Loughlin,,LeMans,50,,running,0,56
+1982,NN,1982_Winchester_50,1982_08_NN,5,11,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,50,,running,0,52
+1982,NN,1982_Winchester_50,1982_08_NN,6,15,24,usa,Mike_Barry,Mike Barry,Automaster Honda,,LeMans,50,,running,0,40
+1982,NN,1982_Winchester_50,1982_08_NN,7,7,5,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Cutlass,50,,running,0,53
+1982,NN,1982_Winchester_50,1982_08_NN,8,12,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,49,,running,0,54
+1982,NN,1982_Winchester_50,1982_08_NN,9,16,29,usa,Dave_Dion,Dave Dion,Stewart & Son Ford,,Futura,49,,running,0,34
+1982,NN,1982_Winchester_50,1982_08_NN,10,19,1,usa,Allen_Whipple,Allen Whipple,General Auto Salvage,,LeMans,49,,running,0,48
+1982,NN,1982_Winchester_50,1982_08_NN,11,4,41,usa,Jamie_Aube,Jamie Aube,Aube Racing,,Grand Am,49,,running,0,46
+1982,NN,1982_Winchester_50,1982_08_NN,12,6,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eustache,,LeMans,49,,running,0,43
+1982,NN,1982_Winchester_50,1982_08_NN,13,14,3,usa,John_Tripp,John Tripp,Westport Auto Parts,,Regal,48,,running,0,27
+1982,NN,1982_Winchester_50,1982_08_NN,14,20,38,usa,Joey_Kourafas,Joey Kourafas,Bob Ferreira,,Grand Prix,47,,running,0,34
+1982,NN,1982_Winchester_50,1982_08_NN,15,18,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt,,LeMans,47,,running,0,23
+1982,NN,1982_Winchester_50,1982_08_NN,16,1,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,47,,running,0,32
+1982,NN,1982_Winchester_50,1982_08_NN,17,17,30,usa,Darrell_Owen,Darrell Owen,Rossi Buick-Olds,,Regal,47,,running,0,32
+1982,NN,1982_Winchester_50,1982_08_NN,18,13,12,usa,Tim_Dykman,Tim Dykman,Tri-W Racing,,Grand Prix,46,,running,0,26
+1982,NN,1982_Winchester_50,1982_08_NN,19,3,34,usa,Steve_Poulin,Steve Poulin,Poulin Enterprises,,Grand Am,40,,oil leak,0,36
+1982,NN,1982_Winchester_50,1982_08_NN,20,5,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,40,,wheel,0,31
+1982,NN,1982_Winchester_50,1982_08_NN,21,21,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Nova,4,,engine,0,20
+1982,NN,1982_Winchester_50,1982_08_NN,22,22,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Hillside Machine,,Malibu,1,,steering,0,18
+1982,NN,1982_Barre_Granite_100,1982_09_NN,1,9,29,usa,Dave_Dion,Dave Dion,Stewart & Son Ford,,Futura,100,,running,66,56
+1982,NN,1982_Barre_Granite_100,1982_09_NN,2,17,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,100,,running,0,58
+1982,NN,1982_Barre_Granite_100,1982_09_NN,3,15,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,100,,running,0,63
+1982,NN,1982_Barre_Granite_100,1982_09_NN,4,19,24,usa,Mike_Barry,Mike Barry,Automaster Honda,,LeMans,100,,running,0,45
+1982,NN,1982_Barre_Granite_100,1982_09_NN,5,14,16,usa,Stub_Fadden,Stub Fadden,Fadden's Gas,,LeMans,100,,running,0,42
+1982,NN,1982_Barre_Granite_100,1982_09_NN,6,13,71,usa,Bobby_Dragon,Bobby Dragon,Monahan & Loughlin,,LeMans,100,,running,0,58
+1982,NN,1982_Barre_Granite_100,1982_09_NN,7,5,34,usa,Steve_Poulin,Steve Poulin,Poulin Enterprises,,Grand Am,100,,running,22,60
+1982,NN,1982_Barre_Granite_100,1982_09_NN,8,16,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Ventura,100,,running,0,48
+1982,NN,1982_Barre_Granite_100,1982_09_NN,9,6,41,usa,Jamie_Aube,Jamie Aube,Aube Racing,,Grand Am,99,,running,0,45
+1982,NN,1982_Barre_Granite_100,1982_09_NN,10,12,1,usa,Allen_Whipple,Allen Whipple,General Auto Salvage,,LeMans,99,,running,0,48
+1982,NN,1982_Barre_Granite_100,1982_09_NN,11,11,00,canada,Roger_Laperle,Roger Laperle,Mont Bruno Moving,,LeMans,99,,running,0,40
+1982,NN,1982_Barre_Granite_100,1982_09_NN,12,8,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eutasche,,LeMans,99,,running,0,38
+1982,NN,1982_Barre_Granite_100,1982_09_NN,13,1,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Nova,99,,running,12,40
+1982,NN,1982_Barre_Granite_100,1982_09_NN,14,4,50,usa,Bob_Ailes,Bob Ailes,Ailes Racing,,Ventura,98,,running,0,39
+1982,NN,1982_Barre_Granite_100,1982_09_NN,15,10,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Cutlass,97,,clutch,0,34
+1982,NN,1982_Barre_Granite_100,1982_09_NN,16,7,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,Malibu,95,,crash,0,30
+1982,NN,1982_Barre_Granite_100,1982_09_NN,17,21,38,usa,Joey_Kourafas,Joey Kourafas,Bob Ferreira,,Grand Prix,89,,overheating,0,18
+1982,NN,1982_Barre_Granite_100,1982_09_NN,18,20,4,usa,Barney_McRae,Barney McRae,Custom Corner,,Ventura,81,,handling,0,27
+1982,NN,1982_Barre_Granite_100,1982_09_NN,19,2,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Hillside Machine,,Malibu,35,,hose,0,39
+1982,NN,1982_Barre_Granite_100,1982_09_NN,20,3,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt,,LeMans,31,,engine,0,22
+1982,NN,1982_Barre_Granite_100,1982_09_NN,21,16,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,31,,crash,0,29
+1982,NN,1982_Super_Molson_100,1982_10_NN,1,10,5,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Cutlass,100,,running,84,72
+1982,NN,1982_Super_Molson_100,1982_10_NN,2,18,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,100,,running,0,58
+1982,NN,1982_Super_Molson_100,1982_10_NN,3,19,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,100,,running,0,66
+1982,NN,1982_Super_Molson_100,1982_10_NN,4,14,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,99,,running,0,54
+1982,NN,1982_Super_Molson_100,1982_10_NN,5,6,41,usa,Jamie_Aube,Jamie Aube,Aube Racing,,Grand Am,99,,running,0,53
+1982,NN,1982_Super_Molson_100,1982_10_NN,6,2,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,99,,running,2,52
+1982,NN,1982_Super_Molson_100,1982_10_NN,7,12,1,usa,Allen_Whipple,Allen Whipple,General Auto Salvage,,LeMans,99,,running,0,56
+1982,NN,1982_Super_Molson_100,1982_10_NN,8,11,00,canada,Roger_Laperle,Roger Laperle,Mont Bruno Moving,,LeMans,99,,running,0,48
+1982,NN,1982_Super_Molson_100,1982_10_NN,9,20,47,usa,Beaver_Dragon,Beaver Dragon,Scarborough Exxon,,Cutlass,99,,running,0,34
+1982,NN,1982_Super_Molson_100,1982_10_NN,10,7,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,98,,running,0,49
+1982,NN,1982_Super_Molson_100,1982_10_NN,11,11,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eutasche,,LeMans,98,,running,0,46
+1982,NN,1982_Super_Molson_100,1982_10_NN,12,21,29,usa,Dave_Dion,Dave Dion,Bibeau Feres,,Futura,98,,running,0,28
+1982,NN,1982_Super_Molson_100,1982_10_NN,13,5,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Hillside Machine,,Malibu,97,,running,0,37
+1982,NN,1982_Super_Molson_100,1982_10_NN,14,15,71,usa,Bobby_Dragon,Bobby Dragon,Monahan & Loughlin,,LeMans,96,,running,0,43
+1982,NN,1982_Super_Molson_100,1982_10_NN,15,1,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,95,,running,0,32
+1982,NN,1982_Super_Molson_100,1982_10_NN,16,4,34,usa,Steve_Poulin,Steve Poulin,Poulin Racing,,Grand Am,85,,radiator,14,30
+1982,NN,1982_Super_Molson_100,1982_10_NN,17,16,83,canada,Claude_Aubin,Claude Aubin,Autodrome de Laval,,Grand Am,80,,ignition,0,29
+1982,NN,1982_Super_Molson_100,1982_10_NN,18,17,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Ventura,79,,crash,0,28
+1982,NN,1982_Super_Molson_100,1982_10_NN,19,22,4,usa,Barney_McRae,Barney McRae,Custom Corner,,Ventura,73,,running,0,24
+1982,NN,1982_Super_Molson_100,1982_10_NN,20,3,21,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford,,Futura,68,,axle,0,29
+1982,NN,1982_Super_Molson_100,1982_10_NN,21,23,44,canada,Keith_Cavanagh,Keith Cavanagh,PC Racing,,Nova,68,,running,0,27
+1982,NN,1982_Super_Molson_100,1982_10_NN,22,8,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,41,,tire,0,34
+1982,NN,1982_Super_Molson_100,1982_10_NN,23,9,38,usa,Joey_Kourafas,Joey Kourafas,Bob Ferreira,,Grand Prix,15,,oil pressure,0,16
+1982,NN,1982_Granite_State_50,1982_11_NN,1,16,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,50,,running,12,
+1982,NN,1982_Granite_State_50,1982_11_NN,2,15,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,50,,running,13,
+1982,NN,1982_Granite_State_50,1982_11_NN,3,14,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,50,,running,0,
+1982,NN,1982_Granite_State_50,1982_11_NN,4,12,71,usa,Bobby_Dragon,Bobby Dragon,71 Racing Team,,LeMans,50,,running,0,
+1982,NN,1982_Granite_State_50,1982_11_NN,5,10,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,50,,running,0,
+1982,NN,1982_Granite_State_50,1982_11_NN,6,3,21,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford,,Futura,50,,running,22,
+1982,NN,1982_Granite_State_50,1982_11_NN,7,8,41,usa,Jamie_Aube,Jamie Aube,Aube Racing,,Grand Am,50,,running,0,
+1982,NN,1982_Granite_State_50,1982_11_NN,8,5,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Ventura,50,,running,0,
+1982,NN,1982_Granite_State_50,1982_11_NN,9,7,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,50,,running,0,
+1982,NN,1982_Granite_State_50,1982_11_NN,10,9,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eutasche,,LeMans,50,,running,0,
+1982,NN,1982_Granite_State_50,1982_11_NN,11,2,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Nova,50,,running,3,
+1982,NN,1982_Granite_State_50,1982_11_NN,12,21,18,usa,Alan_Aussicker,Alan Aussicker,Aussicker Racing,,Ventura,50,,running,0,
+1982,NN,1982_Granite_State_50,1982_11_NN,13,17,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Cutlass,49,,running,0,
+1982,NN,1982_Granite_State_50,1982_11_NN,14,20,4,usa,Barney_McRae,Barney McRae,Custom Corner,,Ventura,49,,running,0,
+1982,NN,1982_Granite_State_50,1982_11_NN,15,4,30,usa,Darrell_Owen,Darrell Owen,Rossi Buick-Olds,,Regal,47,,running,0,
+1982,NN,1982_Granite_State_50,1982_11_NN,16,13,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Ventura,45,,running,0,
+1982,NN,1982_Granite_State_50,1982_11_NN,17,19,47,usa,Beaver_Dragon,Beaver Dragon,Scarborough Exxon,,Cutlass,42,,running,0,
+1982,NN,1982_Granite_State_50,1982_11_NN,18,22,29,usa,Dave_Dion,Dave Dion,Stewart & Son Ford,,Futura,15,,engine,0,
+1982,NN,1982_Granite_State_50,1982_11_NN,19,1,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,3,,crash,0,
+1982,NN,1982_Granite_State_50,1982_11_NN,20,6,34,usa,Steve_Poulin,Steve Poulin,Poulin Racing,,Grand Am,3,,crash,0,
+1982,NN,1982_Granite_State_50,1982_11_NN,21,11,1,usa,Allen_Whipple,Allen Whipple,General Auto Salvage,,LeMans,3,,crash,0,
+1982,NN,1982_Granite_State_50,1982_11_NN,22,18,24,usa,Mike_Barry,Mike Barry,Automaster Honda,,LeMans,3,,crash,0,
+1982,NN,1982_Granite_State_50,1982_11_NN,23,23,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Hillside Machine,,Malibu,1,,engine,0,
+1982,NN,1982_Granite_State_50,1982_11_NN,24,24,95,usa,Blair_Bessett,Blair Bessett,Slick 50,,Ventura,0,,did not start,0,
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,1,4,5,usa,Mike_Rowe,Mike Rowe,Homestead Farms,,Cutlass,123,,running,41,60
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,2,15,144,usa,Jeff_Stevens,Jeff Stevens   (OC),Stevens Racing,,Regal,123,,running,0,0
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,3,2,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,123,,running,0,58
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,4,1,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,123,,running,59,56
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,5,13,71,usa,Bobby_Dragon,Bobby Dragon,R & J Trucking,,LeMans,123,,running,0,54
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,6,27,50,usa,Bobby_Gahan,Bobby Gahan   (OC),NE Grand Prix,,Regal,123,,running,0,0
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,7,14,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,123,,running,0,52
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,8,8,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Cutlass,123,,running,0,50
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,9,19,10,usa,Ralph_Nason,Ralph Nason   (OC),Unity Raceway,,Camaro,122,,running,0,0
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,10,22,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,122,,running,0,48
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,11,23,6,usa,Herb_Simpson,Herb Simpson   (OC),Hudson Alignment,,Regal,122,,running,0,0
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,12,17,91,usa,Bob_Randall,Bob Randall   (OC),WSME Radio,,Nova,122,,running,0,0
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,13,26,47,usa,Beaver_Dragon,Beaver Dragon,Scarborough Exxon,,Cutlass,122,,running,0,46
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,14,10,00,canada,Roger_Laperle,Roger Laperle,Mont Bruno Moving,,LeMans,122,,running,0,34
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,15,20,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,122,,running,0,42
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,16,31,01,usa,Rick_Zemla,Rick Zemla   (OC),Steve's Auto Body,,Nova,122,,running,0,0
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,17,32,41,usa,Jamie_Aube,Jamie Aube,Aube Racing,,Grand Am,122,,running,0,40
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,18,34,128,usa,Stan_Meserve,Stan Meserve,Meserve Racing,,Ventura,122,,running,0,28
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,19,9,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Hillside Machine,,Malibu,121,,running,0,36
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,20,29,20,canada,Terry_Clattenburg,Terry Clattenburg,R & C Racing,,Ventura,121,,running,0,24
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,21,12,281,usa,Russ_Nutting,Russ Nutting   (OC),Rice Construction,,Grand Prix,121,,running,0,0
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,22,11,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Ventura,121,,running,0,32
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,23,21,1,usa,Allen_Whipple,Allen Whipple,General Auto Salvage,,LeMans,120,,running,0,30
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,24,28,26,usa,Tom_Quinney,Tom Quinney   (OC),Quinney Racing,,Camaro,120,,running,0,0
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,25,36,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Nova,120,,running,0,28
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,26,35,50,usa,Bob_Ailes,Bob Ailes,Ailes Racing,,Ventura,120,,running,0,16
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,27,30,40,usa,Kevin_Lepage,Kevin Lepage,Amalie Oil,,Malibu,116,,running,0,24
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,28,6,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Ventura,110,,running,0,22
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,29,24,9,usa,Harvey_Sprague,Harvey Sprague   (OC),Sprague Landscaping,,Camaro,88,,crash,0,0
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,30,16,07,usa,Jimmy_Burns_(1),Jimmy Burns   (OC),Burns Racing,,Grand Am,71,,engine,0,0
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,31,33,30,usa,Darrell_Owen,Darrell Owen,Rossi Buick-Olds,,Regal,52,,ignition,0,20
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,32,3,29,usa,Dave_Dion,Dave Dion,Stewart & Sons Ford,,Futura,29,,hub,0,18
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,33,5,09,usa,Ron_Barcomb,Ron Barcomb,Dollar Rent-A-Car,,LeMans,22,,ignition,0,6
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,34,7,2,usa,Dan_Perez,Dan Perez,Perez Racing,,Regal,20,,engine,0,4
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,35,18,72,canada,Junior_Hanley,Junior Hanley   (OC),Hanley Enterprises,,Camaro,7,,rear end,0,0
+1982,NN,1982_Pine_Tree_Open_100,1982_12_NN,36,25,77,usa,Dick_Glines,Dick Glines,Fire 21,,LeMans,5,,brakes,0,2
+1982,NN,1982_Holiday_100,1982_13_NN,1,13,71,usa,Bobby_Dragon,Bobby Dragon,71 Racing Team,,LeMans,100,,running,14,61
+1982,NN,1982_Holiday_100,1982_13_NN,2,19,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,100,,running,0,48
+1982,NN,1982_Holiday_100,1982_13_NN,3,11,47,usa,Beaver_Dragon,Beaver Dragon,Scarborough Exxon,,Cutlass,100,,running,0,55
+1982,NN,1982_Holiday_100,1982_13_NN,4,12,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Ventura,100,,running,0,56
+1982,NN,1982_Holiday_100,1982_13_NN,5,14,15,usa,Mike_Rowe,Mike Rowe,Homestead Farms,,Cutlass,99,,running,0,52
+1982,NN,1982_Holiday_100,1982_13_NN,6,5,34,usa,Steve_Poulin,Steve Poulin,Poulin Enterprises,,Grand Am,99,,running,0,57
+1982,NN,1982_Holiday_100,1982_13_NN,7,6,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eustache,,LeMans,99,,running,0,49
+1982,NN,1982_Holiday_100,1982_13_NN,8,10,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,99,,running,0,48
+1982,NN,1982_Holiday_100,1982_13_NN,9,2,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Hillside Machine,,Malibu,99,,running,4,51
+1982,NN,1982_Holiday_100,1982_13_NN,10,20,44,usa,Dick_McCabe,Dick McCabe,Cavanagh Racing,,Nova,99,,running,0,42
+1982,NN,1982_Holiday_100,1982_13_NN,11,8,41,usa,Jamie_Aube,Jamie Aube,Aube Racing,,Grand Am,99,,running,0,42
+1982,NN,1982_Holiday_100,1982_13_NN,12,7,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,98,,running,0,44
+1982,NN,1982_Holiday_100,1982_13_NN,13,21,4,usa,Barney_McRae,Barney McRae,Custom Corner,,Ventura,91,,handling,0,36
+1982,NN,1982_Holiday_100,1982_13_NN,14,4,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,87,,engine,81,49
+1982,NN,1982_Holiday_100,1982_13_NN,15,1,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,85,,overheating,1,44
+1982,NN,1982_Holiday_100,1982_13_NN,16,16,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,82,,running,0,30
+1982,NN,1982_Holiday_100,1982_13_NN,17,3,21,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford,,Futura,69,,overheating,0,29
+1982,NN,1982_Holiday_100,1982_13_NN,18,17,18,usa,Alan_Aussicker,Alan Aussicker,Aussicker Racing,,Ventura,50,,rear end,0,23
+1982,NN,1982_Holiday_100,1982_13_NN,19,15,50,usa,Bob_Ailes,Bob Ailes,Ailes Racing,,Ventura,14,,brakes,0,24
+1982,NN,1982_Holiday_100,1982_13_NN,20,9,1,usa,Allen_Whipple,Allen Whipple,General Auto Salvage,,LeMans,5,,crash,0,29
+1982,NN,1982_Holiday_100,1982_13_NN,21,18,29,usa,Dave_Dion,Dave Dion,Stewart & Son Ford,,Futura,5,,engine,0,20
+1982,NN,1982_Connecticut_50,1982_14_NN,1,15,09,usa,Ron_Barcomb,Ron Barcomb,Dollar Rent-A-Car,,LeMans,50,,running,11,67
+1982,NN,1982_Connecticut_50,1982_14_NN,2,10,29,usa,Dave_Dion,Dave Dion,Stewart & Son Ford,,Futura,50,,running,0,69
+1982,NN,1982_Connecticut_50,1982_14_NN,3,11,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,50,,running,0,56
+1982,NN,1982_Connecticut_50,1982_14_NN,4,12,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,LeMans,50,,running,0,60
+1982,NN,1982_Connecticut_50,1982_14_NN,5,6,41,usa,Jamie_Aube,Jamie Aube,Aube Racing,,Grand Am,50,,running,0,52
+1982,NN,1982_Connecticut_50,1982_14_NN,6,4,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eustache,,LeMans,49,,running,0,50
+1982,NN,1982_Connecticut_50,1982_14_NN,7,21,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Nova,49,,running,0,48
+1982,NN,1982_Connecticut_50,1982_14_NN,8,17,50,usa,Bob_Ailes,Bob Ailes,Ailes Racing,,Ventura,49,,running,0,38
+1982,NN,1982_Connecticut_50,1982_14_NN,9,18,4,usa,Barney_McRae,Barney McRae,Custom Corner,,Ventura,49,,running,0,44
+1982,NN,1982_Connecticut_50,1982_14_NN,10,19,6,usa,Billy_Kourafas,Billy Kourafas,The Corner Store,,Aspen,47,,running,0,33
+1982,NN,1982_Connecticut_50,1982_14_NN,11,7,47,usa,Beaver_Dragon,Beaver Dragon,Scarborough Exxon,,Cutlass,46,,crash,0,40
+1982,NN,1982_Connecticut_50,1982_14_NN,12,3,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,46,,crash,7,44
+1982,NN,1982_Connecticut_50,1982_14_NN,13,14,18,usa,Alan_Aussicker,Alan Aussicker,Aussicker Racing,,Ventura,46,,crash,0,36
+1982,NN,1982_Connecticut_50,1982_14_NN,14,5,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,42,,engine,31,39
+1982,NN,1982_Connecticut_50,1982_14_NN,15,1,21,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford,,Futura,33,,engine,0,32
+1982,NN,1982_Connecticut_50,1982_14_NN,16,13,71,usa,Bobby_Dragon,Bobby Dragon,71 Racing Team,,LeMans,31,,rear end,0,41
+1982,NN,1982_Connecticut_50,1982_14_NN,17,16,36,usa,Joey_Kourafas,Joey Kourafas,C.A. Crouch,,Malibu,27,,overheating,0,30
+1982,NN,1982_Connecticut_50,1982_14_NN,18,22,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,21,,overheating,0,26
+1982,NN,1982_Connecticut_50,1982_14_NN,19,20,3,usa,John_Tripp,John Tripp,Westport Auto Parts,,Regal,14,,running,0,24
+1982,NN,1982_Connecticut_50,1982_14_NN,20,2,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Hillside Machine,,Malibu,8,,crash,1,28
+1982,NN,1982_Connecticut_50,1982_14_NN,21,9,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,5,,rim,0,29
+1982,NN,1982_Connecticut_50,1982_14_NN,22,8,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,5,,a frame,0,18
+1982,NN,1982_Spirit_of_82,1982_15_NN,1,10,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,82,,running,38,74
+1982,NN,1982_Spirit_of_82,1982_15_NN,2,4,34,usa,Steve_Poulin,Steve Poulin,Poulin Racing,,Grand Am,82,,running,40,64
+1982,NN,1982_Spirit_of_82,1982_15_NN,3,16,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,82,,running,0,56
+1982,NN,1982_Spirit_of_82,1982_15_NN,4,17,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,82,,running,0,54
+1982,NN,1982_Spirit_of_82,1982_15_NN,5,11,5,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Cutlass,82,,running,0,52
+1982,NN,1982_Spirit_of_82,1982_15_NN,6,9,38,usa,Beaver_Dragon,Beaver Dragon,Scarborough Exxon,,Ventura,82,,running,0,51
+1982,NN,1982_Spirit_of_82,1982_15_NN,7,15,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,82,,running,0,48
+1982,NN,1982_Spirit_of_82,1982_15_NN,8,18,09,usa,Ron_Barcomb,Ron Barcomb,Dollar Rent-A-Car,,LeMans,82,,running,0,51
+1982,NN,1982_Spirit_of_82,1982_15_NN,9,12,29,usa,Dave_Dion,Dave Dion,Stewart & Son Ford,,Futura,82,,running,0,54
+1982,NN,1982_Spirit_of_82,1982_15_NN,10,13,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Ventura,82,,running,0,53
+1982,NN,1982_Spirit_of_82,1982_15_NN,11,7,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,81,,running,0,41
+1982,NN,1982_Spirit_of_82,1982_15_NN,12,8,41,usa,Jamie_Aube,Jamie Aube,Aube Racing,,Grand Am,81,,running,0,40
+1982,NN,1982_Spirit_of_82,1982_15_NN,13,22,30,usa,Bobby_Dragon,Bobby Dragon,Rossi Buick-Olds,,Regal,81,,running,0,36
+1982,NN,1982_Spirit_of_82,1982_15_NN,14,6,1,usa,Allen_Whipple,Allen Whipple,General Auto Salvage,,LeMans,80,,running,0,34
+1982,NN,1982_Spirit_of_82,1982_15_NN,15,5,50,usa,Bob_Ailes,Bob Ailes,Ailes Racing,,Ventura,79,,running,0,32
+1982,NN,1982_Spirit_of_82,1982_15_NN,16,20,44,canada,Jean-Paul_Larose,Jean-Paul Larose,Cavanagh Racing,,Nova,79,,running,0,30
+1982,NN,1982_Spirit_of_82,1982_15_NN,17,1,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,79,,running,0,29
+1982,NN,1982_Spirit_of_82,1982_15_NN,18,14,00,canada,Roger_Laperle,Roger Laperle,Mont Bruno Moving,,LeMans,75,,tie rod,0,22
+1982,NN,1982_Spirit_of_82,1982_15_NN,19,23,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Hillside Machine,,Malibu,71,,running,0,30
+1982,NN,1982_Spirit_of_82,1982_15_NN,20,21,36,usa,Tom_Glaser,Tom Glaser,Burlington Foreign Cars,,Malibu,67,,running,0,22
+1982,NN,1982_Spirit_of_82,1982_15_NN,21,3,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,61,,overheating,0,20
+1982,NN,1982_Spirit_of_82,1982_15_NN,22,2,21,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford,,Futura,45,,overheating,4,25
+1982,NN,1982_Spirit_of_82,1982_15_NN,23,24,22,canada,Don_Wardel,Don Wardel,Tyrone Farms,,Nova,10,,suspension,0,6
+1982,NN,1982_Spirit_of_82,1982_15_NN,24,19,24,usa,Mike_Barry,Mike Barry,Automaster Honda,,LeMans,3,,crash,0,6
+1982,NN,1982_Shoreline_100,1982_16_NN,1,11,29,usa,Dave_Dion,Dave Dion,Stewart & Son Ford,,Futura,100,,running,6,66
+1982,NN,1982_Shoreline_100,1982_16_NN,2,14,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,100,,running,0,66
+1982,NN,1982_Shoreline_100,1982_16_NN,3,2,21,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford,,Futura,100,,running,10,65
+1982,NN,1982_Shoreline_100,1982_16_NN,4,5,34,usa,Steve_Poulin,Steve Poulin,Poulin Enterprises,,Grand Am,100,,running,0,56
+1982,NN,1982_Shoreline_100,1982_16_NN,5,15,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,100,,running,0,54
+1982,NN,1982_Shoreline_100,1982_16_NN,6,10,5,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Cutlass,100,,running,0,62
+1982,NN,1982_Shoreline_100,1982_16_NN,7,16,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,99,,running,0,60
+1982,NN,1982_Shoreline_100,1982_16_NN,8,7,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,99,,running,0,46
+1982,NN,1982_Shoreline_100,1982_16_NN,9,17,24,usa,Mike_Barry,Mike Barry,Automaster Honda,,LeMans,99,,running,0,42
+1982,NN,1982_Shoreline_100,1982_16_NN,10,9,38,usa,Beaver_Dragon,Beaver Dragon,Scarborough Exxon,,Ventura,99,,running,0,43
+1982,NN,1982_Shoreline_100,1982_16_NN,11,12,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,99,,running,0,40
+1982,NN,1982_Shoreline_100,1982_16_NN,12,13,71,usa,Bobby_Dragon,Bobby Dragon,R & J Trucking,,LeMans,98,,running,0,38
+1982,NN,1982_Shoreline_100,1982_16_NN,13,8,41,usa,Jamie_Aube,Jamie Aube,Aube Racing,,Grand Am,98,,running,0,38
+1982,NN,1982_Shoreline_100,1982_16_NN,14,19,36,usa,Randy_LaJoie,Randy LaJoie,C.A. Crouch,,Malibu,98,,running,0,30
+1982,NN,1982_Shoreline_100,1982_16_NN,15,21,61,usa,Brad_Kennedy,Brad Kennedy,Brad's Getty,,LeMans,97,,running,0,22
+1982,NN,1982_Shoreline_100,1982_16_NN,16,20,6,usa,Billy_Kourafas,Billy Kourafas,The Corner Store,,Aspen,96,,running,0,20
+1982,NN,1982_Shoreline_100,1982_16_NN,17,3,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Hillside Machine,,Malibu,96,,running,0,29
+1982,NN,1982_Shoreline_100,1982_16_NN,18,1,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,95,,running,0,26
+1982,NN,1982_Shoreline_100,1982_16_NN,19,4,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,94,,crash,84,40
+1982,NN,1982_Shoreline_100,1982_16_NN,20,18,4,usa,Barney_McRae,Barney McRae,Custom Corner,,Ventura,94,,running,0,22
+1982,NN,1982_Shoreline_100,1982_16_NN,21,22,95,usa,Blair_Bessett,Blair Bessett,Slick 50,,Ventura,70,,engine,0,10
+1982,NN,1982_Shoreline_100,1982_16_NN,22,6,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eutasche,,LeMans,37,,brakes,0,19
+1982,NN,1982_Shoreline_100,1982_16_NN,23,23,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Ventura,31,,clutch,0,21
+1982,NN,1982_Barre_200,1982_17_NN,1,10,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,200,,running,50,60
+1982,NN,1982_Barre_200,1982_17_NN,2,14,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,200,,running,0,58
+1982,NN,1982_Barre_200,1982_17_NN,3,13,71,usa,Bobby_Dragon,Bobby Dragon,R & J Trucking,,LeMans,200,,running,123,57
+1982,NN,1982_Barre_200,1982_17_NN,4,15,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,LeMans,200,,running,0,54
+1982,NN,1982_Barre_200,1982_17_NN,5,11,5,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Nova,200,,running,0,56
+1982,NN,1982_Barre_200,1982_17_NN,6,7,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,200,,running,0,57
+1982,NN,1982_Barre_200,1982_17_NN,7,18,36,usa,Joey_Kourafas,Joey Kourafas,Burlington Foreign Cars,,Malibu,200,,running,0,55
+1982,NN,1982_Barre_200,1982_17_NN,8,17,24,usa,Mike_Barry,Mike Barry,Automaster Honda,,LeMans,199,,running,0,43
+1982,NN,1982_Barre_200,1982_17_NN,9,3,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,199,,running,19,60
+1982,NN,1982_Barre_200,1982_17_NN,10,6,1,usa,Allen_Whipple,Allen Whipple,General Auto Salvage,,LeMans,199,,running,0,49
+1982,NN,1982_Barre_200,1982_17_NN,11,12,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,198,,running,0,47
+1982,NN,1982_Barre_200,1982_17_NN,12,8,41,usa,Jamie_Aube,Jamie Aube,Aube Racing,,Grand Am,198,,running,0,38
+1982,NN,1982_Barre_200,1982_17_NN,13,1,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Hillside Machine,,Malibu,196,,running,8,36
+1982,NN,1982_Barre_200,1982_17_NN,14,4,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eustache,,LeMans,196,,running,0,35
+1982,NN,1982_Barre_200,1982_17_NN,15,2,21,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford,,Futura,194,,running,0,35
+1982,NN,1982_Barre_200,1982_17_NN,16,19,83,canada,Claude_Aubin,Claude Aubin,Autodrome de Laval,,Grand Am,189,,running,0,30
+1982,NN,1982_Barre_200,1982_17_NN,17,9,38,usa,Beaver_Dragon,Beaver Dragon,Scarborough Exxon,,Ventura,174,,running,0,38
+1982,NN,1982_Barre_200,1982_17_NN,18,5,34,usa,Steve_Poulin,Steve Poulin,Poulin Enterprises,,Grand Am,171,,crash,0,39
+1982,NN,1982_Barre_200,1982_17_NN,19,16,29,usa,Dave_Dion,Dave Dion,Stewart & Son Ford,,Futura,59,,ignition,0,24
+1982,NN,1982_Barre_200,1982_17_NN,20,20,4,usa,Blair_Bessett,Blair Bessett,Custom Corner,,Ventura,43,,handling,0,12
+1982,NN,1982_Oxford_250,1982_18_NN,1,14,24,usa,Mike_Barry,Mike Barry,Automaster Honda,,LeMans,293,16000,running,24,50
+1982,NN,1982_Oxford_250,1982_18_NN,2,6,01,usa,Butch_Lindley,Butch Lindley   (OC),Zervakis Racing,,LeMans,293,11000,running,57,0
+1982,NN,1982_Oxford_250,1982_18_NN,3,11,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,293,,running,4,58
+1982,NN,1982_Oxford_250,1982_18_NN,4,22,71,usa,Bobby_Dragon,Bobby Dragon,R & J Trucking,,LeMans,293,,running,17,56
+1982,NN,1982_Oxford_250,1982_18_NN,5,8,00,usa,Geoffrey_Bodine,Geoffrey Bodine,Mont Bruno Moving,,LeMans,293,2250,running,0,54
+1982,NN,1982_Oxford_250,1982_18_NN,6,7,15,usa,Morgan_Shepherd,Morgan Shepherd   (OC),Whitaker Racing,,Ventura,293,2050,running,0,0
+1982,NN,1982_Oxford_250,1982_18_NN,7,9,29,usa,Dave_Dion,Dave Dion   (OC),Stewart & Son Ford,,Futura,292,,running,58,0
+1982,NN,1982_Oxford_250,1982_18_NN,8,10,7?,usa,Pete_Silva,Pete Silva   (OC),Lindy White Racing,,LeMans,291,,running,0,0
+1982,NN,1982_Oxford_250,1982_18_NN,9,32,77,usa,Dick_Glines,Dick Glines,Fire 21,,LeMans,291,,running,0,52
+1982,NN,1982_Oxford_250,1982_18_NN,10,4,47,usa,Beaver_Dragon,Beaver Dragon,Scarborough Exxon,,Cutlass,291,1200,running,0,50
+1982,NN,1982_Oxford_250,1982_18_NN,11,15,6,usa,Herb_Simpson,Herb Simpson   (OC),Hudson Alignment,,Regal,290,,running,0,0
+1982,NN,1982_Oxford_250,1982_18_NN,12,35,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,290,,running,0,48
+1982,NN,1982_Oxford_250,1982_18_NN,13,13,41,usa,Jamie_Aube,Jamie Aube,Aube Racing,,Grand Am,290,,running,0,46
+1982,NN,1982_Oxford_250,1982_18_NN,14,25,10,usa,Ed_Howe,Ed Howe   (OC),Howe Racing,,Firebird,290,4500,running,86,0
+1982,NN,1982_Oxford_250,1982_18_NN,15,23,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt,,LeMans,288,,running,0,34
+1982,NN,1982_Oxford_250,1982_18_NN,16,11,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,287,,running,0,42
+1982,NN,1982_Oxford_250,1982_18_NN,17,21,31,usa,Don_Dionne,Don Dionne   (OC),Allens Avenue,,Regal,287,,running,0,0
+1982,NN,1982_Oxford_250,1982_18_NN,18,16,81,usa,Allen_Whipple,Allen Whipple,General Auto Salvage,,LeMans,286,,running,0,40
+1982,NN,1982_Oxford_250,1982_18_NN,19,30,4,none,Pete_Wilson,Pete Wilson   (OC),Wilson Auto Parts,,Camaro,284,,running,0,0
+1982,NN,1982_Oxford_250,1982_18_NN,20,24,32,usa,Bruce_Haley,Bruce Haley   (OC),Randy's Auto Supply,,Ventura,282,,running,0,0
+1982,NN,1982_Oxford_250,1982_18_NN,21,29,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Ventura,249,,running,0,38
+1982,NN,1982_Oxford_250,1982_18_NN,22,36,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,247,500,engine,0,36
+1982,NN,1982_Oxford_250,1982_18_NN,23,31,20,canada,Terry_Clattenburg,Terry Clattenburg,Clattenburg Welding,,Ventura,203,,engine,0,34
+1982,NN,1982_Oxford_250,1982_18_NN,24,37,44,usa,Jeff_Stevens,Jeff Stevens   (OC),Stevens Racing,,Regal,183,,axle,1,0
+1982,NN,1982_Oxford_250,1982_18_NN,25,5,09,usa,Ron_Barcomb,Ron Barcomb,Dollar Rent-A-Car,,LeMans,177,,clutch,0,32
+1982,NN,1982_Oxford_250,1982_18_NN,26,27,58,usa,Jimmy_Burns_(1),Jimmy Burns   (OC),Rice Construction,,Ventura,119,,oil pressure,0,0
+1982,NN,1982_Oxford_250,1982_18_NN,27,33,36,usa,Randy_LaJoie,Randy LaJoie,Burlington Foreign Cars,,Malibu,100,450,overheating,0,20
+1982,NN,1982_Oxford_250,1982_18_NN,28,2,5,usa,Mike_Rowe,Mike Rowe,Homestead Farms,,Cutlass,95,,oil cooler,29,28
+1982,NN,1982_Oxford_250,1982_18_NN,29,18,111,usa,Russ_Nutting,Russ Nutting   (OC),Ed Jaynes,,Grand Prix,86,,engine,0,0
+1982,NN,1982_Oxford_250,1982_18_NN,30,19,12,usa,Tommy_Ellis,Tommy Ellis   (OC),Industrial Boiler,,LeMans,80,435,crash,0,0
+1982,NN,1982_Oxford_250,1982_18_NN,31,12,83,canada,Claude_Aubin,Claude Aubin   (OC),Autodrome de Laval,,Camaro,57,,crash,0,0
+1982,NN,1982_Oxford_250,1982_18_NN,32,20,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,52,,overheating,0,26
+1982,NN,1982_Oxford_250,1982_18_NN,33,1,72,canada,Junior_Hanley,Junior Hanley   (OC),Prototype Engines,,Camaro,45,,crash,17,0
+1982,NN,1982_Oxford_250,1982_18_NN,34,17,99,usa,Harvey_Sprague,Harvey Sprague   (OC),Sprague Landscaping,,Camaro,44,,crash,0,0
+1982,NN,1982_Oxford_250,1982_18_NN,35,26,3,usa,Gale_Ellis,Gale Ellis   (OC),Jack's Auto Parts,,Regal,41,,axle,0,0
+1982,NN,1982_Oxford_250,1982_18_NN,36,3,42,usa,Ron_Bouchard,Ron Bouchard   (OC),Tri-W Racing,,Grand Prix,15,400,engine,0,0
+1982,NN,1982_Oxford_250,1982_18_NN,37,34,54,usa,Barney_McRae,Barney McRae,The Custom Corner,,Ventura,5,400,overheating,0,24
+1982,NN,1982_Molson_Laurentien_100,1982_19_NN,1,8,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,100,,running,94,62
+1982,NN,1982_Molson_Laurentien_100,1982_19_NN,2,11,71,usa,Bobby_Dragon,Bobby Dragon,R & J Trucking,,LeMans,100,,running,0,67
+1982,NN,1982_Molson_Laurentien_100,1982_19_NN,3,6,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,100,,running,0,64
+1982,NN,1982_Molson_Laurentien_100,1982_19_NN,4,9,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,100,,running,0,65
+1982,NN,1982_Molson_Laurentien_100,1982_19_NN,5,10,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Cutlass,100,,running,0,68
+1982,NN,1982_Molson_Laurentien_100,1982_19_NN,6,3,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,100,,running,0,55
+1982,NN,1982_Molson_Laurentien_100,1982_19_NN,7,12,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,100,,running,0,48
+1982,NN,1982_Molson_Laurentien_100,1982_19_NN,8,5,41,usa,Jamie_Aube,Jamie Aube,Aube Racing,,Grand Am,100,,running,0,51
+1982,NN,1982_Molson_Laurentien_100,1982_19_NN,9,21,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Nova,98,,running,0,44
+1982,NN,1982_Molson_Laurentien_100,1982_19_NN,10,4,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eutasche,,LeMans,98,,running,4,49
+1982,NN,1982_Molson_Laurentien_100,1982_19_NN,11,20,9,canada,Yvon_Bedard,Yvon Bedard,Motel Sportif,,Grand Prix,97,,running,0,30
+1982,NN,1982_Molson_Laurentien_100,1982_19_NN,12,16,00,canada,Roger_Laperle,Roger Laperle,Mont Bruno Moving,,LeMans,96,,flat tire,0,40
+1982,NN,1982_Molson_Laurentien_100,1982_19_NN,13,13,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,95,,running,0,45
+1982,NN,1982_Molson_Laurentien_100,1982_19_NN,14,17,95,usa,Blair_Bessett,Blair Bessett,Slick 50,,Ventura,95,,running,0,24
+1982,NN,1982_Molson_Laurentien_100,1982_19_NN,15,7,47,usa,Beaver_Dragon,Beaver Dragon,Scarborough Exxon,,Cutlass,83,,rear end,0,32
+1982,NN,1982_Molson_Laurentien_100,1982_19_NN,16,1,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,70,,fuel,0,31
+1982,NN,1982_Molson_Laurentien_100,1982_19_NN,17,18,99,none,Michel_Guenette,Michel Guenette,Les Pneus Mont Laurier,,Nova,50,,running,0,19
+1982,NN,1982_Molson_Laurentien_100,1982_19_NN,18,22,4,usa,Barney_McRae,Barney McRae,Custom Corner,,Ventura,27,,engine,0,26
+1982,NN,1982_Molson_Laurentien_100,1982_19_NN,19,2,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Hillside Machine,,Malibu,19,,flat tire,2,26
+1982,NN,1982_Molson_Laurentien_100,1982_19_NN,20,15,20,canada,Terry_Clattenburg,Terry Clattenburg,Dominion Driving,,Ventura,11,,engine,0,23
+1982,NN,1982_Molson_Laurentien_100,1982_19_NN,21,23,21,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford,,Futura,3,,valve,0,20
+1982,NN,1982_Molson_Laurentien_100,1982_19_NN,22,19,31,canada,Andre_Beaudoin,Andre Beaudoin,Station Franklin,,Nova,3,,crash,0,8
+1982,NN,1982_Molson_Laurentien_100,1982_19_NN,23,14,83,canada,Claude_Aubin,Claude Aubin,Autodrome de Laval,,Grand Am,2,,crash,0,28
+1982,NN,1982_Quebec_City_100,1982_20_NN,1,10,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Cutlass,100,,running,87,73
+1982,NN,1982_Quebec_City_100,1982_20_NN,2,13,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,100,,running,0,69
+1982,NN,1982_Quebec_City_100,1982_20_NN,3,12,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,100,,running,0,57
+1982,NN,1982_Quebec_City_100,1982_20_NN,4,16,00,canada,Roger_Laperle,Roger Laperle,Mont Bruno Moving,,LeMans,100,,running,0,56
+1982,NN,1982_Quebec_City_100,1982_20_NN,5,14,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,99,,running,0,61
+1982,NN,1982_Quebec_City_100,1982_20_NN,6,4,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,99,,running,2,51
+1982,NN,1982_Quebec_City_100,1982_20_NN,7,8,47,usa,Beaver_Dragon,Beaver Dragon,Scarborough Exxon,,Cutlass,99,,running,0,53
+1982,NN,1982_Quebec_City_100,1982_20_NN,8,6,41,usa,Jamie_Aube,Jamie Aube,Aube Racing,,Grand Am,99,,running,0,47
+1982,NN,1982_Quebec_City_100,1982_20_NN,9,18,35,canada,Langis_Caron,Langis Caron,Bilodeau Apartments,,Grand Am,99,,running,0,36
+1982,NN,1982_Quebec_City_100,1982_20_NN,10,3,21,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford,,Futura,98,,running,0,48
+1982,NN,1982_Quebec_City_100,1982_20_NN,11,11,71,usa,Bobby_Dragon,Bobby Dragon,R & J Trucking,,LeMans,97,,running,0,40
+1982,NN,1982_Quebec_City_100,1982_20_NN,12,20,55,canada,Jocelyn_Tremblay,Jocelyn Tremblay,Tremblay Racing,,Ventura,97,,running,0,28
+1982,NN,1982_Quebec_City_100,1982_20_NN,13,1,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Nova,97,,running,1,38
+1982,NN,1982_Quebec_City_100,1982_20_NN,14,5,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eustache,,LeMans,96,,running,0,44
+1982,NN,1982_Quebec_City_100,1982_20_NN,15,19,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,95,,running,0,32
+1982,NN,1982_Quebec_City_100,1982_20_NN,16,21,9,canada,Yvon_Bedard,Yvon Bedard,Motel Sportif,,Grand Prix,94,,engine,0,20
+1982,NN,1982_Quebec_City_100,1982_20_NN,17,7,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,92,,running,0,28
+1982,NN,1982_Quebec_City_100,1982_20_NN,18,9,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,74,,oil leak,0,41
+1982,NN,1982_Quebec_City_100,1982_20_NN,19,17,15,usa,Mike_Rowe,Mike Rowe,Homestead Farms,,Cutlass,53,,rocker arm,0,24
+1982,NN,1982_Quebec_City_100,1982_20_NN,20,2,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Hillside Machine,,Malibu,52,,clutch,10,28
+1982,NN,1982_Quebec_City_100,1982_20_NN,21,15,4,usa,Barney_McRae,Barney McRae,Custom Corner,,Ventura,26,,transmission,0,27
+1982,NN,1982_Molson_300,1982_21_NN,1,9,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,151,,running,51,69
+1982,NN,1982_Molson_300,1982_21_NN,2,12,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,151,,running,0,58
+1982,NN,1982_Molson_300,1982_21_NN,3,11,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,151,,running,0,56
+1982,NN,1982_Molson_300,1982_21_NN,4,22,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,151,,running,0,54
+1982,NN,1982_Molson_300,1982_21_NN,5,4,21,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford,,Futura,151,,running,88,53
+1982,NN,1982_Molson_300,1982_21_NN,6,13,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,151,,running,0,50
+1982,NN,1982_Molson_300,1982_21_NN,7,2,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Ventura,150,,running,12,62
+1982,NN,1982_Molson_300,1982_21_NN,8,20,77,usa,Harry_Gant,Harry Gant,Fire 21 / Skoal,,LeMans,150,,running,0,47
+1982,NN,1982_Molson_300,1982_21_NN,9,1,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,149,,running,0,50
+1982,NN,1982_Molson_300,1982_21_NN,10,7,41,usa,Jamie_Aube,Jamie Aube,Aube Racing,,Grand Am,149,,running,0,42
+1982,NN,1982_Molson_300,1982_21_NN,11,5,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,148,,running,0,42
+1982,NN,1982_Molson_300,1982_21_NN,12,17,55,canada,Jocelyn_Tremblay,Jocelyn Tremblay,Tremblay Racing,,Ventura,145,,running,0,28
+1982,NN,1982_Molson_300,1982_21_NN,13,10,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Ventura,138,,crash,0,42
+1982,NN,1982_Molson_300,1982_21_NN,14,6,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eustache,,LeMans,138,,clutch,0,43
+1982,NN,1982_Molson_300,1982_21_NN,15,24,9,canada,Yvon_Bedard,Yvon Bedard,Motel Sportif,,Grand Prix,135,,running,0,22
+1982,NN,1982_Molson_300,1982_21_NN,16,14,5,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Cutlass,111,,engine,0,37
+1982,NN,1982_Molson_300,1982_21_NN,17,21,00,usa,Geoffrey_Bodine,Geoffrey Bodine,Mont Bruno Moving,,LeMans,88,,crash,0,18
+1982,NN,1982_Molson_300,1982_21_NN,18,3,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Hillside Machine,,Malibu,75,,oil leak,0,41
+1982,NN,1982_Molson_300,1982_21_NN,19,23,29,usa,Bobby_Dragon,Bobby Dragon,Stewart & Son Ford,,Futura,72,,engine,0,24
+1982,NN,1982_Molson_300,1982_21_NN,20,15,24,usa,Mike_Barry,Mike Barry,Automaster Honda,,LeMans,67,,axle,0,13
+1982,NN,1982_Molson_300,1982_21_NN,21,16,83,canada,Claude_Aubin,Claude Aubin,Autodrome de Laval,,Grand Am,39,,overheating,0,22
+1982,NN,1982_Molson_300,1982_21_NN,22,8,47,usa,Beaver_Dragon,Beaver Dragon,Scarborough Exxon,,Cutlass,38,,valve,0,24
+1982,NN,1982_Molson_300,1982_21_NN,23,25,09,usa,Terry_Labonte,Terry Labonte,Dollar Rent-A-Car,,LeMans,30,,overheating,0,16
+1982,NN,1982_Molson_300,1982_21_NN,24,18,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt,,LeMans,4,,crash,0,4
+1982,NN,1982_Molson_300,1982_21_NN,25,19,15,canada,Francois_Chausse,Francois Chausse,Le Club 5A,,Ventura,4,,quit,0,4
+1982,NN,1982_Busch_100,1982_22_NN,1,5,34,usa,Steve_Poulin,Steve Poulin,Poulin Racing,,Grand Am,100,,running,76,60
+1982,NN,1982_Busch_100,1982_22_NN,2,13,24,usa,Mike_Barry,Mike Barry,Automaster Honda,,LeMans,100,,running,0,48
+1982,NN,1982_Busch_100,1982_22_NN,3,25,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,100,,running,0,56
+1982,NN,1982_Busch_100,1982_22_NN,4,14,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,100,,running,0,54
+1982,NN,1982_Busch_100,1982_22_NN,5,16,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,100,,running,0,52
+1982,NN,1982_Busch_100,1982_22_NN,6,8,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,100,,running,0,50
+1982,NN,1982_Busch_100,1982_22_NN,7,17,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,100,,running,0,55
+1982,NN,1982_Busch_100,1982_22_NN,8,22,09,usa,Ron_Barcomb,Ron Barcomb,Dollar Rent-A-Car,,LeMans,100,,running,0,36
+1982,NN,1982_Busch_100,1982_22_NN,9,18,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt,,LeMans,99,,running,0,46
+1982,NN,1982_Busch_100,1982_22_NN,10,4,21,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford,,Futura,99,,running,0,52
+1982,NN,1982_Busch_100,1982_22_NN,11,7,41,usa,Jamie_Aube,Jamie Aube,Aube Racing,,Grand Am,99,,running,0,49
+1982,NN,1982_Busch_100,1982_22_NN,12,6,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eutasche,,LeMans,99,,running,0,39
+1982,NN,1982_Busch_100,1982_22_NN,13,11,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Ventura,99,,running,0,46
+1982,NN,1982_Busch_100,1982_22_NN,14,19,4,usa,Barney_McRae,Barney McRae,Custom Corner,,Ventura,98,,running,0,38
+1982,NN,1982_Busch_100,1982_22_NN,15,9,47,usa,Beaver_Dragon,Beaver Dragon,Scarborough Exxon,,Cutlass,98,,running,0,39
+1982,NN,1982_Busch_100,1982_22_NN,16,20,55,canada,Jocelyn_Tremblay,Jocelyn Tremblay,Tremblay Racing,,Ventura,98,,running,0,21
+1982,NN,1982_Busch_100,1982_22_NN,17,23,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,Grand Am,96,,running,0,35
+1982,NN,1982_Busch_100,1982_22_NN,18,2,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Ventura,58,,clutch,15,33
+1982,NN,1982_Busch_100,1982_22_NN,19,21,95,usa,Blair_Bessett,Blair Bessett,Slick 50,,Ventura,53,,engine,0,24
+1982,NN,1982_Busch_100,1982_22_NN,20,24,36,usa,Tom_Glaser,Tom Glaser,Burlington Foreign Cars,,Malibu,33,,rear end,0,14
+1982,NN,1982_Busch_100,1982_22_NN,21,3,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Hillside Machine,,Malibu,30,,overheating,0,25
+1982,NN,1982_Busch_100,1982_22_NN,22,12,71,usa,Bobby_Dragon,Bobby Dragon,Pool World,,LeMans,25,,engine,9,18
+1982,NN,1982_Busch_100,1982_22_NN,23,1,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,8,,engine,0,18
+1982,NN,1982_Busch_100,1982_22_NN,24,10,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Nova,7,,engine,0,29
+1982,NN,1982_Natco_Tools_100,1982_23_NN,1,10,71,usa,Bobby_Dragon,Bobby Dragon,Pool World,,LeMans,100,,running,25,72
+1982,NN,1982_Natco_Tools_100,1982_23_NN,2,17,29,usa,Dave_Dion,Dave Dion,Stewart & Son Ford,,Futura,100,,running,0,58
+1982,NN,1982_Natco_Tools_100,1982_23_NN,3,12,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,100,,running,0,57
+1982,NN,1982_Natco_Tools_100,1982_23_NN,4,13,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,100,,running,0,54
+1982,NN,1982_Natco_Tools_100,1982_23_NN,5,9,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,100,,running,0,61
+1982,NN,1982_Natco_Tools_100,1982_23_NN,6,3,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,100,,running,0,66
+1982,NN,1982_Natco_Tools_100,1982_23_NN,7,14,34,usa,Steve_Poulin,Steve Poulin,Poulin Racing,,Grand Am,100,,running,0,58
+1982,NN,1982_Natco_Tools_100,1982_23_NN,8,5,41,usa,Jamie_Aube,Jamie Aube,Riverside Car Store,,Grand Am,100,,running,0,52
+1982,NN,1982_Natco_Tools_100,1982_23_NN,9,6,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,100,,running,70,45
+1982,NN,1982_Natco_Tools_100,1982_23_NN,10,8,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Cutlass,100,,running,0,53
+1982,NN,1982_Natco_Tools_100,1982_23_NN,11,4,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eutasche,,LeMans,100,,running,4,42
+1982,NN,1982_Natco_Tools_100,1982_23_NN,12,11,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,100,,running,0,40
+1982,NN,1982_Natco_Tools_100,1982_23_NN,13,22,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Ventura,99,,running,0,41
+1982,NN,1982_Natco_Tools_100,1982_23_NN,14,19,36,usa,Joey_Kourafas,Joey Kourafas,Burlington Foreign Cars,,Malibu,98,,running,0,34
+1982,NN,1982_Natco_Tools_100,1982_23_NN,15,1,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Hillside Machine,,Malibu,97,,running,0,34
+1982,NN,1982_Natco_Tools_100,1982_23_NN,16,16,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,Grand Am,95,,running,0,31
+1982,NN,1982_Natco_Tools_100,1982_23_NN,17,20,6,usa,Billy_Kourafas,Billy Kourafas,Corner Store,,Aspen,95,,running,0,18
+1982,NN,1982_Natco_Tools_100,1982_23_NN,18,21,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,93,,running,0,26
+1982,NN,1982_Natco_Tools_100,1982_23_NN,19,24,4,usa,Barney_McRae,Barney McRae,Custom Corner,,Ventura,88,,running,0,24
+1982,NN,1982_Natco_Tools_100,1982_23_NN,20,2,21,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford,,Futura,63,,oil pressure,1,30
+1982,NN,1982_Natco_Tools_100,1982_23_NN,21,18,50,usa,Bob_Ailes,Bob Ailes,Ailes Racing,,Ventura,41,,transmission,0,10
+1982,NN,1982_Natco_Tools_100,1982_23_NN,22,15,95,usa,Blair_Bessett,Blair Bessett,Slick 50,,Ventura,2,,valve,0,18
+1982,NN,1982_Natco_Tools_100,1982_23_NN,23,23,09,usa,Ron_Barcomb,Ron Barcomb,Dollar Rent-A-Car,,LeMans,1,,tires,0,6
+1982,NN,1982_Natco_Tools_100,1982_23_NN,24,7,47,usa,Beaver_Dragon,Beaver Dragon,Scarborough Exxon,,Cutlass,0,,engine,0,19
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,1,7,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Cutlass,50,,running,39,73
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,2,12,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,50,,running,0,59
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,3,10,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,50,,running,0,56
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,4,8,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,50,,running,0,63
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,5,5,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,50,,running,0,53
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,6,18,29,usa,Dave_Dion,Dave Dion,Stewart & Son Ford,,Futura,50,,running,0,52
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,7,14,71,usa,Bobby_Dragon,Bobby Dragon,Pool World,,LeMans,50,,running,0,58
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,8,16,09,usa,Ron_Barcomb,Ron Barcomb,Dollar Rent-A-Car,,LeMans,50,,running,0,45
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,9,9,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,50,,running,0,44
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,10,20,15,usa,Mike_Rowe,Mike Rowe,Homestead Farms,,Cutlass,50,,running,0,42
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,11,11,00,canada,Roger_Laperle,Roger Laperle,Mont Bruno Moving,,LeMans,50,,running,0,40
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,12,15,77,usa,Dick_Glines,Dick Glines,Fire 21,,LeMans,50,,running,0,30
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,13,13,36,usa,Joey_Kourafas,Joey Kourafas,Burlington Foreign Cars,,Malibu,50,,running,0,36
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,14,25,33,usa,Bob_Randall,Bob Randall,Norseman Motor Inn,,Cutlass,50,,running,0,24
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,15,1,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Ventura,50,,running,0,32
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,16,26,3,usa,John_Tripp,John Tripp,Westport Auto Parts,,Regal,50,,running,0,20
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,17,6,34,usa,Steve_Poulin,Steve Poulin,Poulin Racing,,Grand Am,49,,running,0,35
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,18,19,6,usa,Billy_Kourafas,Billy Kourafas,Corner Store,,Aspen,49,,running,0,16
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,19,22,4,usa,Barney_McRae,Barney McRae,Custom Corner,,Ventura,49,,running,0,24
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,20,23,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,45,,running,0,23
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,21,4,41,usa,Jamie_Aube,Jamie Aube,Riverside Auto Store,,Grand Am,40,,wheel,0,22
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,22,2,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,24,,clutch,11,35
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,23,24,50,usa,Bob_Ailes,Bob Ailes,Ailes Racing,,Ventura,12,,transmission,0,11
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,24,3,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eustache,,LeMans,11,,engine,0,20
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,25,17,95,usa,Blair_Bessett,Blair Bessett,Slick 50,,Ventura,10,,tie rod,0,12
+1982,NN,1982_Nutmeg_50_CRC_Chemicals_300_Qualifier,1982_24_NN,26,21,21,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford,,Futura,–,,engine,0,18
+1982,NN,1982_Molson_82,1982_25_NN,1,16,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,82,1100,running,55,60
+1982,NN,1982_Molson_82,1982_25_NN,2,8,00,canada,Roger_Laperle,Roger Laperle,Mont Bruno Moving,,LeMans,82,,running,0,70
+1982,NN,1982_Molson_82,1982_25_NN,3,15,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,82,,running,0,56
+1982,NN,1982_Molson_82,1982_25_NN,4,12,71,usa,Bobby_Dragon,Bobby Dragon,R & J Trucking,,LeMans,82,,running,0,55
+1982,NN,1982_Molson_82,1982_25_NN,5,11,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Ventura,82,,running,0,58
+1982,NN,1982_Molson_82,1982_25_NN,6,17,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Cutlass,82,,running,0,66
+1982,NN,1982_Molson_82,1982_25_NN,7,14,24,usa,Mike_Barry,Mike Barry,Automaster Honda,,LeMans,82,,running,0,48
+1982,NN,1982_Molson_82,1982_25_NN,8,13,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,82,,running,0,48
+1982,NN,1982_Molson_82,1982_25_NN,9,22,83,canada,Claude_Aubin,Claude Aubin,Autodrome de Laval,,Grand Am,82,,running,0,44
+1982,NN,1982_Molson_82,1982_25_NN,10,5,41,usa,Jamie_Aube,Jamie Aube,Riverside Auto Store,,Grand Am,82,270,running,0,43
+1982,NN,1982_Molson_82,1982_25_NN,11,6,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,82,,running,0,46
+1982,NN,1982_Molson_82,1982_25_NN,12,21,35,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,LeMans,82,,running,0,40
+1982,NN,1982_Molson_82,1982_25_NN,13,9,34,usa,Steve_Poulin,Steve Poulin,Poulin Enterprises,,Grand Am,81,,running,0,43
+1982,NN,1982_Molson_82,1982_25_NN,14,7,55,canada,Jocelyn_Tremblay,Jocelyn Tremblay,Tremblay Racing,,Ventura,81,,running,0,34
+1982,NN,1982_Molson_82,1982_25_NN,15,2,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Hillside Machine,,Malibu,81,,running,0,38
+1982,NN,1982_Molson_82,1982_25_NN,16,3,21,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford,,Futura,78,295,running,0,40
+1982,NN,1982_Molson_82,1982_25_NN,17,24,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,76,,running,0,28
+1982,NN,1982_Molson_82,1982_25_NN,18,19,95,usa,Blair_Bessett,Blair Bessett,Slick 50,,Ventura,76,,running,0,26
+1982,NN,1982_Molson_82,1982_25_NN,19,18,4,usa,Barney_McRae,Barney McRae,Custom Corner,,Ventura,66,,oil leak,0,24
+1982,NN,1982_Molson_82,1982_25_NN,20,4,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,65,,running,0,24
+1982,NN,1982_Molson_82,1982_25_NN,21,1,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Ventura,54,,rocker arm,27,30
+1982,NN,1982_Molson_82,1982_25_NN,22,23,9,usa,Beaver_Dragon,Beaver Dragon,Motel Sportif,,Grand Prix,30,180,engine,0,18
+1982,NN,1982_Molson_82,1982_25_NN,23,20,31,canada,Andre_Beaudoin,Andre Beaudoin,Station Franklin,,Nova,16,,hose,0,17
+1982,NN,1982_Molson_82,1982_25_NN,24,10,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,14,270,distributor,0,23
+1982,NN,1982_Molson_Monza_180,1982_26_NN,1,1,5,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Cutlass,180,2790,running,60,60
+1982,NN,1982_Molson_Monza_180,1982_26_NN,2,8,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,180,,running,0,58
+1982,NN,1982_Molson_Monza_180,1982_26_NN,3,11,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,180,,running,0,56
+1982,NN,1982_Molson_Monza_180,1982_26_NN,4,7,29,usa,Dave_Dion,Dave Dion,Stewart & Son Ford,,Futura,179,,running,55,44
+1982,NN,1982_Molson_Monza_180,1982_26_NN,5,12,24,usa,Mike_Barry,Mike Barry,Automaster Honda,,LeMans,180,,running,0,42
+1982,NN,1982_Molson_Monza_180,1982_26_NN,6,4,83,canada,Claude_Aubin,Claude Aubin,Autodrome de Laval,,Grand Am,179,,running,0,50
+1982,NN,1982_Molson_Monza_180,1982_26_NN,7,5,71,usa,Bobby_Dragon,Bobby Dragon,R & J Trucking,,LeMans,142,,crash,0,48
+1982,NN,1982_Molson_Monza_180,1982_26_NN,8,2,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,158,,running,60,46
+1982,NN,1982_Molson_Monza_180,1982_26_NN,9,19,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,179,,running,0,44
+1982,NN,1982_Molson_Monza_180,1982_26_NN,10,10,36,usa,Beaver_Dragon,Beaver Dragon,Burlington Foreign Cars,,Malibu,178,425,running,0,42
+1982,NN,1982_Molson_Monza_180,1982_26_NN,11,13,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,138,400,engine,0,40
+1982,NN,1982_Molson_Monza_180,1982_26_NN,12,15,41,usa,Jamie_Aube,Jamie Aube,Riverside Auto Store,,Grand Am,177,,running,0,38
+1982,NN,1982_Molson_Monza_180,1982_26_NN,13,17,4,usa,Barney_McRae,Barney McRae,Custom Corner,,Ventura,176,,running,0,36
+1982,NN,1982_Molson_Monza_180,1982_26_NN,14,21,55,canada,Jocelyn_Tremblay,Jocelyn Tremblay,Tremblay Racing,,Ventura,147,,running,0,24
+1982,NN,1982_Molson_Monza_180,1982_26_NN,15,20,21,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford,,Futura,147,320,overheating,0,32
+1982,NN,1982_Molson_Monza_180,1982_26_NN,16,14,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Hillside Machine,,Malibu,164,,running,0,30
+1982,NN,1982_Molson_Monza_180,1982_26_NN,17,6,34,usa,Steve_Poulin,Steve Poulin,Poulin Racing,,Grand Am,120,,rear axle,0,28
+1982,NN,1982_Molson_Monza_180,1982_26_NN,18,3,00,canada,Roger_Laperle,Roger Laperle,Mont Bruno Moving,,LeMans,89,,overheating,0,26
+1982,NN,1982_Molson_Monza_180,1982_26_NN,19,22,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,119,,fuel pump,0,14
+1982,NN,1982_Molson_Monza_180,1982_26_NN,20,18,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,103,,oil pressure,0,22
+1982,NN,1982_Molson_Monza_180,1982_26_NN,21,16,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Ventura,85,,valve,0,20
+1982,NN,1982_Molson_Monza_180,1982_26_NN,22,24,35,canada,Jean-Paul_Larose,Jean-Paul Larose,Caron Racing,,LeMans,96,,suspension,5,18
+1982,NN,1982_Molson_Monza_180,1982_26_NN,23,9,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Nova,40,,transmission,0,16
+1982,NN,1982_Molson_Monza_180,1982_26_NN,24,23,31,canada,Andre_Beaudoin,Andre Beaudoin,Station Franklin,,Nova,3,,gasket,0,4
+1982,NN,1982_Bay_State_100,1982_27_NN,1,9,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,100,1150,running,35,60
+1982,NN,1982_Bay_State_100,1982_27_NN,2,10,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,100,,running,0,69
+1982,NN,1982_Bay_State_100,1982_27_NN,3,8,36,usa,Bobby_Dragon,Bobby Dragon,Burlington Foreign Cars,,Malibu,100,,running,27,58
+1982,NN,1982_Bay_State_100,1982_27_NN,4,6,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,100,610,running,28,66
+1982,NN,1982_Bay_State_100,1982_27_NN,5,11,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,100,,running,0,58
+1982,NN,1982_Bay_State_100,1982_27_NN,6,3,47,usa,Beaver_Dragon,Beaver Dragon,Scarborough Exxon,,Cutlass,100,450,running,0,57
+1982,NN,1982_Bay_State_100,1982_27_NN,7,13,5,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Cutlass,100,,running,0,58
+1982,NN,1982_Bay_State_100,1982_27_NN,8,7,29,usa,Dave_Dion,Dave Dion,Stewart & Son Ford,,Futura,100,,running,0,48
+1982,NN,1982_Bay_State_100,1982_27_NN,9,5,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,100,,running,0,50
+1982,NN,1982_Bay_State_100,1982_27_NN,10,4,34,usa,Steve_Poulin,Steve Poulin,Poulin Racing,,Grand Am,98,,running,0,57
+1982,NN,1982_Bay_State_100,1982_27_NN,11,1,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Hillside Machine,,Malibu,97,,running,10,48
+1982,NN,1982_Bay_State_100,1982_27_NN,12,12,30,usa,Darrell_Owen,Darrell Owen,Rossi Buick-Olds,,Regal,97,,running,0,38
+1982,NN,1982_Bay_State_100,1982_27_NN,13,15,6,usa,Billy_Kourafas,Billy Kourafas,Corner Store,,Aspen,79,,running,0,27
+1982,NN,1982_Bay_State_100,1982_27_NN,14,16,21,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford,,Futura,42,330,overheating,0,41
+1982,NN,1982_Bay_State_100,1982_27_NN,15,2,41,usa,Jamie_Aube,Jamie Aube,Riverside Car Store,,Grand Am,32,,overheating,0,33
+1982,NN,1982_Bay_State_100,1982_27_NN,16,17,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,20,,handling,0,30
+1982,NN,1982_Bay_State_100,1982_27_NN,17,14,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,19,,water pump,0,30
+1982,NN,1982_Vermont_Milk_Bowl,1982_28_NN,1,5,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,150,1980,running,37,60
+1982,NN,1982_Vermont_Milk_Bowl,1982_28_NN,2,8,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Cutlass,150,,running,0,58
+1982,NN,1982_Vermont_Milk_Bowl,1982_28_NN,3,9,24,usa,Mike_Barry,Mike Barry,Automaster Honda,,LeMans,150,,running,0,46
+1982,NN,1982_Vermont_Milk_Bowl,1982_28_NN,4,4,47,usa,Beaver_Dragon,Beaver Dragon,Scarborough Exxon,,Cutlass,150,700,running,0,54
+1982,NN,1982_Vermont_Milk_Bowl,1982_28_NN,5,6,34,usa,Steve_Poulin,Steve Poulin,Poulin Racing,,Grand Am,150,,running,0,52
+1982,NN,1982_Vermont_Milk_Bowl,1982_28_NN,6,3,71,usa,Bobby_Dragon,Bobby Dragon,Richard's Automotive,,LeMans,150,,running,9,50
+1982,NN,1982_Vermont_Milk_Bowl,1982_28_NN,7,11,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,149,,running,41,48
+1982,NN,1982_Vermont_Milk_Bowl,1982_28_NN,8,13,41,usa,Jamie_Aube,Jamie Aube,Riverside Car Store,,Grand Am,149,,running,0,46
+1982,NN,1982_Vermont_Milk_Bowl,1982_28_NN,9,15,36,usa,Tom_Glaser,Tom Glaser,Burlington Foreign Cars,,Malibu,150,,running,0,44
+1982,NN,1982_Vermont_Milk_Bowl,1982_28_NN,10,12,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,141,,running,4,42
+1982,NN,1982_Vermont_Milk_Bowl,1982_28_NN,11,7,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,135,,running,0,40
+1982,NN,1982_Vermont_Milk_Bowl,1982_28_NN,12,2,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,133,435,valve,50,38
+1982,NN,1982_Vermont_Milk_Bowl,1982_28_NN,13,10,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,148,,running,0,36
+1982,NN,1982_Vermont_Milk_Bowl,1982_28_NN,14,16,33,usa,Bob_Randall,Bob Randall,Norseman Motor Inn,,Cutlass,149,,running,0,24
+1982,NN,1982_Vermont_Milk_Bowl,1982_28_NN,15,19,61,usa,Brad_Kennedy,Brad Kennedy,Brad's Getty,,LeMans,122,,running,4,32
+1982,NN,1982_Vermont_Milk_Bowl,1982_28_NN,16,21,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Hillside Machine,,Malibu,98,,running,0,30
+1982,NN,1982_Vermont_Milk_Bowl,1982_28_NN,17,18,21,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford,,Futura,89,320,engine,0,28
+1982,NN,1982_Vermont_Milk_Bowl,1982_28_NN,18,20,30,usa,Darrell_Owen,Darrell Owen,Rossi Buick-Olds,,Regal,88,,crash,0,26
+1982,NN,1982_Vermont_Milk_Bowl,1982_28_NN,19,22,95,usa,Blair_Bessett,Blair Bessett,Slick 50,,Ventura,55,,rear end,0,24
+1982,NN,1982_Vermont_Milk_Bowl,1982_28_NN,20,25,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,Nova,48,,running,0,22
+1982,NN,1982_Vermont_Milk_Bowl,1982_28_NN,21,23,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,33,,transmission,0,20
+1982,NN,1982_Vermont_Milk_Bowl,1982_28_NN,22,17,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Ventura,35,,crash,0,18
+1982,NN,1982_Vermont_Milk_Bowl,1982_28_NN,23,1,29,usa,Dave_Dion,Dave Dion,Stewart & Son Ford,,Futura,28,,header,5,6
+1982,NN,1982_Vermont_Milk_Bowl,1982_28_NN,24,24,99,usa,Marty_Borden,Marty Borden,Borden & Sons,,Nova,9,,handling,0,4
+1982,NN,1982_Vermont_Milk_Bowl,1982_28_NN,25,14,4,usa,Barney_McRae,Barney McRae,Custom Corner,,Ventura,4,,oil leak,0,12
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,1,6,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,300,11830,running,127,60
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,2,8,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,300,,running,25,58
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,3,5,47,usa,Beaver_Dragon,Beaver Dragon,Scarborough Exxon,,Cutlass,299,3435,running,0,56
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,4,11,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Ventura,298,,running,0,54
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,5,12,41,usa,Jamie_Aube,Jamie Aube,Riverside Auto Store,,Grand Am,298,,running,0,52
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,6,15,35,canada,Langis_Caron,Langis Caron,Caron Racing,,Grand Am,293,,running,0,40
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,7,22,95,usa,Blair_Bessett,Blair Bessett,Slick 50,,Ventura,287,,running,0,48
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,8,19,4,usa,Barney_McRae,Barney McRae,Custom Corner,,Ventura,286,,running,0,46
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,9,16,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Hillside Machine,,Malibu,281,,running,0,44
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,10,18,33,usa,Bob_Randall,Bob Randall,Norseman Motor Inn,,Cutlass,278,,running,0,32
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,11,7,34,usa,Steve_Poulin,Steve Poulin,Poulin Racing,,Grand Am,277,,valve,0,40
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,12,9,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,277,,running,0,38
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,13,20,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,263,,running,0,36
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,14,29,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eutasche,,LeMans,247,,running,0,34
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,15,21,36,usa,Tom_Glaser,Tom Glaser,Burlington Foreign Cars,,Malibu,247,,running,0,32
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,16,10,9,usa,Ron_Barcomb,Ron Barcomb,Dollar Rent-A-Car,,LeMans,247,,running,0,30
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,17,14,30,usa,Darrell_Owen,Darrell Owen,Rossi Buick-Olds,,Regal,219,,oil leak,0,28
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,18,31,04,usa,Mike_Rowe,Mike Rowe,Thompson Racing,,Nova,214,,running,0,26
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,19,24,00,canada,Roger_Laperle,Roger Laperle,Mont Bruno Moving,,LeMans,198,,engine,0,24
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,20,3,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Cutlass,182,,engine,0,22
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,21,2,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,149,,engine,148,20
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,22,25,83,canada,Claude_Aubin,Claude Aubin,Autodrome de Laval,,Grand Am,115,,transmission,0,18
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,23,30,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Nova,87,,overheating,0,16
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,24,4,24,usa,Mike_Barry,Mike Barry,Automaster Honda,,LeMans,68,,wheel,0,14
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,25,23,29,usa,Dave_Dion,Dave Dion,Stewart & Son Ford,,Futura,65,,engine,0,12
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,26,27,31,canada,Andre_Beaudoin,Andre Beaudoin,Station Franklin,,Nova,61,,brakes,0,2
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,27,28,61,usa,Brad_Kennedy,Brad Kennedy,Brad's Getty,,LeMans,50,,brakes,0,12
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,28,13,71,usa,Bobby_Dragon,Bobby Dragon,Richard's Automotive,,LeMans,28,,overheating,0,12
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,29,17,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,28,,overheating,0,12
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,30,26,21,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford,,Futura,27,315,overheating,0,12
+1982,NN,1982_CRC_Chemicals_300,1982_29_NN,31,1,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,7,2067,axle,0,12
+1982,NN,1982_Thriftway_200,1982_30_NN,1,6,29,usa,Dave_Dion,Dave Dion,Stewart & Son Ford,,Futura,200,5350,running,91,60
+1982,NN,1982_Thriftway_200,1982_30_NN,2,3,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore Transport,,Ventura,200,3410,running,0,58
+1982,NN,1982_Thriftway_200,1982_30_NN,3,4,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Camions Boisvert,,Nova,199,2850,running,11,56
+1982,NN,1982_Thriftway_200,1982_30_NN,4,2,07,usa,Randy_LaJoie,Randy LaJoie,LaJoie Racing,,Ventura,194,2240,running,27,44
+1982,NN,1982_Thriftway_200,1982_30_NN,5,8,34,usa,Steve_Poulin,Steve Poulin,Poulin Enterprises,,Grand Am,193,2040,running,0,52
+1982,NN,1982_Thriftway_200,1982_30_NN,6,16,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,193,1930,running,0,50
+1982,NN,1982_Thriftway_200,1982_30_NN,7,9,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,189,1830,running,0,48
+1982,NN,1982_Thriftway_200,1982_30_NN,8,15,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Hillside Machine,,Malibu,180,1680,running,0,46
+1982,NN,1982_Thriftway_200,1982_30_NN,9,1,71,usa,Bobby_Dragon,Bobby Dragon,Richard's Automotive,,LeMans,154,1625,crash,53,44
+1982,NN,1982_Thriftway_200,1982_30_NN,10,18,62,usa,Billy_Kourafas,Billy Kourafas,The Corner Store,,Aspen,148,1475,running,0,32
+1982,NN,1982_Thriftway_200,1982_30_NN,11,10,3,usa,John_Tripp,John Tripp,Westport Auto Parts,,Regal,141,1450,clutch,0,30
+1982,NN,1982_Thriftway_200,1982_30_NN,12,19,03,usa,Milt_Wright,Milt Wright,Gates Salvage Yard,,Nova,138,1420,oil leak,0,38
+1982,NN,1982_Thriftway_200,1982_30_NN,13,21,66,usa,Ed_Champagne,Ed Champagne,Honest Ed's Auto,,Nova,126,1320,transmission,0,36
+1982,NN,1982_Thriftway_200,1982_30_NN,14,11,41,usa,Jamie_Aube,Jamie Aube,Riverside Car Store,,Grand Am,98,1220,engine,0,34
+1982,NN,1982_Thriftway_200,1982_30_NN,15,17,30,usa,Darrell_Owen,Darrell Owen,Rossi Buick-Oldsmobile,,Regal,94,1170,running,0,32
+1982,NN,1982_Thriftway_200,1982_30_NN,16,12,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Les Autobus St. Eutasche,,LeMans,82,1135,head gasket,0,30
+1982,NN,1982_Thriftway_200,1982_30_NN,17,5,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,50,1115,clutch,18,18
+1982,NN,1982_Thriftway_200,1982_30_NN,18,13,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,31,1165,oil pump,0,26
+1982,NN,1982_Thriftway_200,1982_30_NN,19,7,11,canada,Claude_Leclerc,Claude Leclerc,"Garage Leclerc, Inc.",,LeMans,22,1065,engine,0,24
+1982,NN,1982_Thriftway_200,1982_30_NN,20,14,33,usa,Bob_Randall,Bob Randall,Norseman Motor Inn,,Cutlass,8,940,radiator,0,12
+1982,NN,1982_Thriftway_200,1982_30_NN,21,20,1,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford & Toyota,,Futura,1,895,engine,0,20
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,1,3,29,usa,Dave_Dion,Dave Dion   (OC),Stewart & Son Ford,,Futura,120,3150,running,83,0
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,2,10,44,usa,Jeff_Stevens,Jeff Stevens   (OC),Stevens Racing,,Regal,120,,running,11,0
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,3,12,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,120,,running,0,60
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,4,19,24,usa,Mike_Barry,Mike Barry,Automaster Honda,,LeMans,120,,running,0,48
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,5,4,47,usa,Beaver_Dragon,Beaver Dragon,Scarborough Exxon,,Cutlass,120,1250,running,0,56
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,6,11,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,120,,running,0,54
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,7,7,69,usa,Russ_Nutting,Russ Nutting   (OC),Jaynes Racing,,Grand Prix,120,,running,0,0
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,8,28,71,usa,Bobby_Dragon,Bobby Dragon,Richard's Automotive,,LeMans,119,,running,0,52
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,9,29,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,119,,running,0,50
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,10,30,15,usa,Mike_Rowe,Mike Rowe,Homestead Farms,,Cutlass,119,,running,0,48
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,11,23,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Cutlass,119,,running,0,46
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,12,16,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eustache,,LeMans,119,,running,0,44
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,13,2,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,119,375,running,5,42
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,14,34,33,usa,Bob_Randall,Bob Randall,Norseman Motor Inn,,Cutlass,118,,running,0,40
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,15,35,37,usa,Dick_Brown,Dick Brown   (OC),Aftermast Marina,,Monte Carlo,118,,running,0,0
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,16,31,17,usa,Kelly_Moore,Kelly Moore   (OC),R.C. Moore,,Regal,118,,running,0,0
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,17,1,10,usa,Ralph_Nason,Ralph Nason   (OC),Unity Raceway,,Camaro,118,,running,1,0
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,18,15,99,usa,Jim_Gerry,Jim Gerry   (OC),Delta Auto Body,,Century,117,,running,0,0
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,19,18,07,usa,Jimmy_Burns_(1),Jimmy Burns   (OC),Morris Auto Parts,,Grand Am,114,,running,0,0
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,20,6,6,usa,Herb_Simpson,Herb Simpson   (OC),Hudson Alignment,,Regal,113,,running,0,0
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,21,24,12,usa,Bruce_Haley,Bruce Haley   (OC),Randy's Auto Body,,Ventura,113,,running,0,0
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,22,5,4,usa,Barney_McRae,Barney McRae,Custom Corner,,Ventura,106,,running,0,38
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,23,14,01,usa,Rick_Zemla,Rick Zemla   (OC),Steve's Auto Body,,Nova,83,,engine,0,0
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,24,21,41,usa,Jamie_Aube,Jamie Aube,Riverside Car Store,,Grand Am,62,,clutch,0,36
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,25,20,3,usa,John_Tripp,John Tripp,Westport Auto Parts,,Regal,50,,ball joint,0,34
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,26,22,61,usa,Teddy_Palino,Teddy Palino   (OC),Morgan Auto Body,,Camaro,40,,transmission,0,0
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,27,25,35,canada,Langis_Caron,Langis Caron,Caron Racing,,Grand Am,39,100,hub,0,22
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,28,8,9,usa,Harvey_Sprague,Harvey Sprague   (OC),Sprague Landscaping,,Camaro,31,100,transmission,0,0
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,29,9,78,none,Bob_Harvey,Bob Harvey   (OC),Healey Racing,,Nova,24,100,overheating,0,0
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,30,17,15,usa,Martin_Leblanc,Martin Leblanc   (OC),Westwind Enterprises,,Nova,10,100,crash,0,0
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,31,13,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,6,,crash,0,30
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,32,36,8,usa,Kevin_Lepage,Kevin Lepage,Motel Sportif,,Grand Prix,4,100,crash,0,28
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,33,27,77,usa,Dick_Glines,Dick Glines,Fire 21,,LeMans,4,100,crash,0,16
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,34,32,8X,canada,Frank_Fraser,Frank Fraser   (OC),Hanley Enterprises,,Camaro,3,100,crash,0,0
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,35,26,50,usa,Bobby_Gahan,Bobby Gahan   (OC),New England,,Grand Prix,2,100,overheating,0,0
+1982,NN,1982_Oxford_NASCAR_100,1982_31_NN,36,33,2,usa,Jon_Lizotte,Jon Lizotte   (OC),Bachman Industries,,Grand Am,1,100,fuel pump,0,0
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,1,10,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Cutlass,100,1975,running,88,63
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,2,11,71,usa,Bobby_Dragon,Bobby Dragon,Richard's Automotive,,LeMans,100,,running,0,58
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,3,14,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,100,,running,0,57
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,4,12,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Ventura,100,,running,0,56
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,5,6,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,100,,running,0,54
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,6,13,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,100,,running,0,59
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,7,20,15,usa,Mike_Rowe,Mike Rowe,Homestead Farms,,Cutlass,100,,running,0,48
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,8,7,47,usa,Beaver_Dragon,Beaver Dragon,Scarborough Exxon,,Cutlass,100,490,running,0,52
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,9,8,33,usa,Bob_Randall,Bob Randall,Norseman Motor Inn,,Cutlass,99,,running,0,38
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,10,2,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Hillside Machine,,Malibu,99,,running,4,49
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,11,3,21,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford,,Futura,99,500,running,0,52
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,12,17,36,usa,Tom_Glaser,Tom Glaser,Burlington Foreign Cars,,Malibu,99,,running,0,38
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,13,26,34,usa,Steve_Poulin,Steve Poulin,Poulin Racing,,Grand Am,98,,running,0,36
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,14,5,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eustache,,LeMans,98,,running,0,35
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,15,16,61,usa,Brad_Kennedy,Brad Kennedy,Brad's Getty,,Grand Am,97,,running,0,33
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,16,1,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,95,,running,0,30
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,17,21,17,usa,Bob_Brunell,Bob Brunell,Brunell Asphalt,,LeMans,87,,running,0,28
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,18,22,99,usa,Joey_Kourafas,Joey Kourafas,Kourafas Racing,,Aspen,65,,overheating,0,16
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,19,24,24,usa,Bob_Glass,Bob Glass,McLaughlin Transmission,,Grand Am,41,,transmission,0,24
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,20,9,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,39,385,wheel,0,32
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,21,4,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,34,,overheating,8,27
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,22,28,51,usa,Skip_Cahill,Skip Cahill,Cahill Tire,,Malibu,34,,suspension,0,8
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,23,15,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,27,,cylinder,0,32
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,24,23,22,usa,Roger_Camerota,Roger Camerota,Camerota Auto Body,,Nova,19,,engine,0,4
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,25,25,72,usa,Stephen_Beattie,Stephen Beattie,Rusty Nail,,Futura,12,110,handling,0,12
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,26,19,07,usa,Randy_LaJoie,Randy LaJoie,LaJoie Auto Wrecking,,Ventura,5,110,oil line,0,2
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,27,18,3,usa,John_Tripp,John Tripp,Westport Auto Parts,,Regal,4,,a frame,0,22
+1982,NN,1982_Coca-Cola_Fall_Final,1982_32_NN,28,27,41,usa,Jamie_Aube,Jamie Aube,Riverside Car Store,,Grand Am,1,,rear end,0,12
+1982,NN,1982_Fall_Foliage_100,1982_33_NN,1,13,24,usa,Mike_Barry,Mike Barry,Automaster Honda,,LeMans,100,1250,running,72,51
+1982,NN,1982_Fall_Foliage_100,1982_33_NN,2,16,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Cutlass,100,,running,0,58
+1982,NN,1982_Fall_Foliage_100,1982_33_NN,3,12,71,usa,Bobby_Dragon,Bobby Dragon,Richard's Automotive,,LeMans,100,,running,0,68
+1982,NN,1982_Fall_Foliage_100,1982_33_NN,4,19,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Le Club 5A,,Cutlass,100,,running,0,54
+1982,NN,1982_Fall_Foliage_100,1982_33_NN,5,14,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,LeMans,100,,running,0,52
+1982,NN,1982_Fall_Foliage_100,1982_33_NN,6,18,29,usa,Dave_Dion,Dave Dion,Stewart & Son Ford,,Futura,100,,running,0,42
+1982,NN,1982_Fall_Foliage_100,1982_33_NN,7,17,0,usa,Dick_McCabe,Dick McCabe,R.C. Moore,,Regal,100,,running,0,48
+1982,NN,1982_Fall_Foliage_100,1982_33_NN,8,15,15,usa,Mike_Rowe,Mike Rowe,Homestead Farms,,Cutlass,100,,running,0,46
+1982,NN,1982_Fall_Foliage_100,1982_33_NN,9,11,7,usa,Chuck_Bown,Chuck Bown,Skoal Bandit,,LeMans,99,345,running,0,42
+1982,NN,1982_Fall_Foliage_100,1982_33_NN,10,10,34,usa,Steve_Poulin,Steve Poulin,Poulin Enterprises,,Grand Am,99,345,running,0,49
+1982,NN,1982_Fall_Foliage_100,1982_33_NN,11,9,36,usa,Tom_Glaser,Tom Glaser,Burlington Foreign Cars,,Malibu,99,345,running,0,32
+1982,NN,1982_Fall_Foliage_100,1982_33_NN,12,2,28,usa,Wes_Rosner,Wes Rosner,Severance Furs,,Grand Am,99,,running,0,40
+1982,NN,1982_Fall_Foliage_100,1982_33_NN,13,7,47,usa,Beaver_Dragon,Beaver Dragon,Scarborough Exxon,,Cutlass,99,,running,0,46
+1982,NN,1982_Fall_Foliage_100,1982_33_NN,14,1,21,usa,Kevin_Lepage,Kevin Lepage,Nordic Ford,,Futura,98,335,running,19,46
+1982,NN,1982_Fall_Foliage_100,1982_33_NN,15,5,41,usa,Jamie_Aube,Jamie Aube,Riverside Car Store,,Grand Am,98,,running,0,33
+1982,NN,1982_Fall_Foliage_100,1982_33_NN,16,21,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Ventura,98,,running,0,30
+1982,NN,1982_Fall_Foliage_100,1982_33_NN,17,4,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eustache,,LeMans,97,,running,0,28
+1982,NN,1982_Fall_Foliage_100,1982_33_NN,18,3,30,usa,Darrell_Owen,Darrell Owen,Rossi Buick-Olds,,Regal,96,,running,0,32
+1982,NN,1982_Fall_Foliage_100,1982_33_NN,19,8,33,usa,Bob_Randall,Bob Randall,Norseman Motor Inn,,Cutlass,90,,running,0,19
+1982,NN,1982_Fall_Foliage_100,1982_33_NN,20,6,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,LeMans,28,,crash,9,29
+1982,NN,1982_Fall_Foliage_100,1982_33_NN,21,20,99,usa,Joey_Kourafas,Joey Kourafas,Kourafas Racing,,Aspen,17,,engine,0,10

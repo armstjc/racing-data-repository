@@ -1,0 +1,634 @@
+season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
+1980,NN,1980_Spring_Green,1980_01_NN,1,10,8,usa,Mike_Barry,Mike Barry,PC Racing,,Grand Am,80,1300,running,71,61
+1980,NN,1980_Spring_Green,1980_01_NN,2,16,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait,,Ventura,80,715,running,0,63
+1980,NN,1980_Spring_Green,1980_01_NN,3,15,71,usa,Bobby_Dragon,Bobby Dragon,71 Racing Team,,Ventura,80,630,running,0,66
+1980,NN,1980_Spring_Green,1980_01_NN,4,19,7,usa,Beaver_Dragon,Beaver Dragon,H.A. Manosh,,Ventura,80,525,running,0,55
+1980,NN,1980_Spring_Green,1980_01_NN,5,18,5,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Benoit Electric,,Nova,80,400,running,0,52
+1980,NN,1980_Spring_Green,1980_01_NN,6,20,35,canada,Langis_Caron,Langis Caron,Le Club 35,,Nova,80,350,running,0,50
+1980,NN,1980_Spring_Green,1980_01_NN,7,8,34,usa,Steve_Poulin,Steve Poulin,G.M. Pantry,,Grand Am,80,325,running,0,48
+1980,NN,1980_Spring_Green,1980_01_NN,8,13,08,usa,Leland_Kangas,Leland Kangas,RC Cola,,Nova,80,325,running,0,52
+1980,NN,1980_Spring_Green,1980_01_NN,9,2,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,79,300,running,6,51
+1980,NN,1980_Spring_Green,1980_01_NN,10,7,11,canada,Claude_Leclerc,Claude Leclerc,Le Relais Chevrolet,,Nova,79,260,running,0,42
+1980,NN,1980_Spring_Green,1980_01_NN,11,1,25,usa,Randy_Corey,Randy Corey,Bob Curtiss,,Ventura,79,315,running,0,48
+1980,NN,1980_Spring_Green,1980_01_NN,12,24,97,usa,Joe_Thomas_(1),Joe Thomas,Thomas Racing,,Cougar,78,230,running,0,39
+1980,NN,1980_Spring_Green,1980_01_NN,13,13,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Grand Am,78,225,running,0,36
+1980,NN,1980_Spring_Green,1980_01_NN,14,5,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Ventura,78,200,running,0,34
+1980,NN,1980_Spring_Green,1980_01_NN,15,9,24,usa,Phil_Gerbode,Phil Gerbode,Borderline Farm,,Ventura,76,185,running,0,32
+1980,NN,1980_Spring_Green,1980_01_NN,16,6,X,usa,Pete_Silva,Pete Silva,Busch Valley,,Grand Am,57,190,engine,0,35
+1980,NN,1980_Spring_Green,1980_01_NN,17,17,59,usa,Hector_Leclair,Hector Leclair,Big Ben's,,Nova,52,220,handling,0,28
+1980,NN,1980_Spring_Green,1980_01_NN,18,4,2,usa,Dan_Perez,Dan Perez,BLM,,Regal,27,160,engine,0,26
+1980,NN,1980_Spring_Green,1980_01_NN,19,14,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Nova,22,150,handling,0,26
+1980,NN,1980_Spring_Green,1980_01_NN,20,12,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Ventura,19,140,gasket,0,22
+1980,NN,1980_Spring_Green,1980_01_NN,21,11,48,usa,Robbie_Crouch,Robbie Crouch,Kenworth,,Nova,9,135,steering,0,22
+1980,NN,1980_Spring_Green,1980_01_NN,22,21,10,usa,Ralph_Nason,Ralph Nason,Sachs Chain Saws,,Chevelle,6,240,transmission,0,30
+1980,NN,1980_Spring_Green,1980_01_NN,23,22,9,usa,Harvey_Sprague,Harvey Sprague,Lewis Stuart,,Ventura,6,200,no return,0,28
+1980,NN,1980_Spring_Green,1980_01_NN,24,23,60,usa,Dick_Glines,Dick Glines,Mello Yello,,Grand Am,6,145,no return,0,21
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,1,19,5,usa,Mike_Rowe,Mike Rowe   (OC),Morris Auto Parts,,Ventura,136,1550,running,33,0
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,2,6,28,usa,Stan_Meserve,Stan Meserve   (OC),Rice Hill,,Nova,136,850,running,0,0
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,3,24,35,canada,Langis_Caron,Langis Caron,Le Club 35,,Nova,136,600,running,0,60
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,4,21,48,usa,Robbie_Crouch,Robbie Crouch,Kenworth,,Nova,136,550,running,0,58
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,5,16,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Benoit Electric,,Nova,136,500,running,26,56
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,6,25,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Nova,136,400,running,0,54
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,7,23,X,usa,Pete_Silva,Pete Silva,Busch Valley,,Grand Am,136,350,running,0,52
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,8,2,08,usa,Leland_Kangas,Leland Kangas,RC Cola,,Nova,136,325,running,0,50
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,9,8,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait,,Ventura,136,300,running,0,48
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,10,1,44,canada,Keith_Cavanagh,Keith Cavanagh,Knowlton Pub,,Ventura,136,250,running,17,46
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,11,9,11,canada,Claude_Leclerc,Claude Leclerc,Le Relais Chevrolet,,Nova,136,225,running,0,44
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,12,5,37,usa,Beaver_Dragon,Beaver Dragon,H.A. Manosh,,Ventura,136,310,running,24,42
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,13,18,2,usa,Dana_Graves,Dana Graves   (OC),Graves Racing,,Nova,136,300,running,0,0
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,14,13,8,usa,Mike_Barry,Mike Barry,Pizzagalli Construction,,Grand Am,135,180,running,0,40
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,15,31,61,usa,Ron_Barcomb,Ron Barcomb,Tuck Press,,Nova,135,175,running,0,38
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,16,10,25,usa,Randy_Corey,Randy Corey,Bob Curtiss,,Nova,135,170,running,0,36
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,17,34,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Ventura,135,165,running,0,34
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,18,28,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,134,210,running,0,32
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,19,15,71,usa,Bobby_Dragon,Bobby Dragon,71 Racing Team,,Nova,134,150,running,0,30
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,20,30,40,usa,Jim_Brown,Jim Brown,Amalie Oil,,Ventura,134,125,running,0,28
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,21,14,34,usa,Steve_Poulin,Steve Poulin,G.M. Pantry,,Grand Am,134,110,running,0,26
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,22,36,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Grand Am,134,100,running,0,24
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,23,27,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,131,75,running,0,22
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,24,32,74,usa,Cookie_Visconti,Cookie Visconti   (OC),Visconti Racing,,Buick,129,75,running,0,0
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,25,3,9,usa,Harvey_Sprague,Harvey Sprague,Lewis Stuart,,Ventura,97,75,rear end,0,20
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,26,29,02,usa,Wally_Patrick,Wally Patrick   (OC),Patrick Racing,,Nova,86,50,crash,0,0
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,27,12,60,usa,Dick_Glines,Dick Glines,R.C. Moore,,Grand Am,82,50,engine,0,18
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,28,7,1,usa,Albert_Hammond,Albert Hammond   (OC),Hammond Racing,,Nova,73,50,overheating,0,0
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,29,11,4,usa,Jeff_Stevens,Jeff Stevens   (OC),Stevens Racing,,Camaro,66,50,driver ill,0,0
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,30,22,10,usa,Ralph_Nason,Ralph Nason,Sachs Chain Saws,,Chevelle,65,50,overheating,0,16
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,31,4,13,usa,George_Babb,George Babb   (OC),Babb Racing,,Nova,62,100,brakes,0,0
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,32,35,51,usa,Skip_Cahill,Skip Cahill,Cahill Tire,,Granada,60,50,engine,0,14
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,33,33,3,usa,Dave_Darveau,Dave Darveau   (OC),Darveau Racing,,Nova,49,50,transmission,0,0
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,34,20,38,usa,Mike_Perrotte,Mike Perrotte,Bob Ferrar,,Nova,46,50,overheating,0,12
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,35,17,29,usa,Dave_Dion,Dave Dion,Vermont Ford Dealers,,Futura,41,50,crash,0,12
+1980,NN,1980_Pine_Tree_Open_100,1980_02_NN,36,26,23,canada,Frank_Fraser,Frank Fraser   (OC),Fraser Racing,,Camaro,29,50,overheating,0,0
+1980,NN,1980_Thunder_100,1980_03_NN,1,3,10,usa,Ralph_Nason,Ralph Nason,Sachs Chain Saws,,Chevelle,100,1325,running,67,73
+1980,NN,1980_Thunder_100,1980_03_NN,2,8,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Nova,100,750,running,0,60
+1980,NN,1980_Thunder_100,1980_03_NN,3,16,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Benoit Electric,,Nova,100,600,running,0,56
+1980,NN,1980_Thunder_100,1980_03_NN,4,14,7,usa,Beaver_Dragon,Beaver Dragon,H.A. Manosh,,Ventura,100,645,running,0,62
+1980,NN,1980_Thunder_100,1980_03_NN,5,9,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Ventura,100,425,running,0,52
+1980,NN,1980_Thunder_100,1980_03_NN,6,10,X,usa,Pete_Silva,Pete Silva,Busch Valley,,Grand Am,100,460,running,0,57
+1980,NN,1980_Thunder_100,1980_03_NN,7,13,71,usa,Bobby_Dragon,Bobby Dragon,71 Racing Team,,Nova,100,345,running,0,55
+1980,NN,1980_Thunder_100,1980_03_NN,8,12,11,canada,Claude_Leclerc,Claude Leclerc,Le Relais Chevrolet,,Nova,100,260,running,0,46
+1980,NN,1980_Thunder_100,1980_03_NN,9,2,29,usa,Dave_Dion,Dave Dion,Vermont Ford Dealers,,Futura,100,350,running,33,56
+1980,NN,1980_Thunder_100,1980_03_NN,10,15,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait,,Ventura,100,230,running,0,43
+1980,NN,1980_Thunder_100,1980_03_NN,11,11,2,usa,Dan_Perez,Dan Perez,BLM,,Regal,100,215,running,0,42
+1980,NN,1980_Thunder_100,1980_03_NN,12,4,61,usa,Brad_Kennedy,Brad Kennedy,Tuck Press,,Nova,99,260,running,0,46
+1980,NN,1980_Thunder_100,1980_03_NN,13,17,35,canada,Langis_Caron,Langis Caron,Le Club 35,,Nova,99,180,running,0,36
+1980,NN,1980_Thunder_100,1980_03_NN,14,6,34,usa,Steve_Poulin,Steve Poulin,G.M. Pantry,,Grand Am,99,170,running,0,35
+1980,NN,1980_Thunder_100,1980_03_NN,15,5,77,usa,Mike_Johnson_(1),Mike Johnson,Pape Chevrolet,,Nova,99,190,running,0,38
+1980,NN,1980_Thunder_100,1980_03_NN,16,1,17,usa,Rick_Lepage,Rick Lepage,Ray's Texaco,,Zephyr,69,175,running,0,35
+1980,NN,1980_Thunder_100,1980_03_NN,17,7,25,usa,Randy_Corey,Randy Corey,Bob Curtiss,,Ventura,34,195,engine,0,34
+1980,NN,1980_Thunder_100,1980_03_NN,18,7,8,usa,Mike_Barry,Mike Barry,PC Racing,,Grand Am,34,150,crash,0,26
+1980,NN,1980_Molson_225,1980_04_NN,1,19,71,usa,Bobby_Dragon,Bobby Dragon,71 Racing Team,,Nova,225,1775,running,138,64
+1980,NN,1980_Molson_225,1980_04_NN,2,8,48,usa,Robbie_Crouch,Robbie Crouch,Kenworth,,Nova,225,1060,running,36,63
+1980,NN,1980_Molson_225,1980_04_NN,3,9,60,usa,Dick_Glines,Dick Glines,Mello Yello,,Grand Am,225,785,running,1,58
+1980,NN,1980_Molson_225,1980_04_NN,4,10,08,usa,Leland_Kangas,Leland Kangas,RC Cola,,Nova,225,630,running,0,54
+1980,NN,1980_Molson_225,1980_04_NN,5,20,7,usa,Beaver_Dragon,Beaver Dragon,H.A. Manosh,,Ventura,224,650,running,0,52
+1980,NN,1980_Molson_225,1980_04_NN,6,12,59,usa,Hector_Leclair,Hector Leclair,Big Ben's,,Nova,223,550,running,0,50
+1980,NN,1980_Molson_225,1980_04_NN,7,24,00,canada,Roger_Laperle,Roger Laperle,Super Speed,,Nova,223,470,running,0,48
+1980,NN,1980_Molson_225,1980_04_NN,8,16,11,canada,Claude_Leclerc,Claude Leclerc,Le Relais Chevrolet,,Nova,222,445,running,0,49
+1980,NN,1980_Molson_225,1980_04_NN,9,5,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Grand Am,222,400,running,0,45
+1980,NN,1980_Molson_225,1980_04_NN,10,11,34,usa,Steve_Poulin,Steve Poulin,G.M. Pantry,,Grand Am,222,395,running,0,45
+1980,NN,1980_Molson_225,1980_04_NN,11,1,69,usa,Brent_Hatch,Brent Hatch,Lloyd Smith,,Nova,221,375,running,12,44
+1980,NN,1980_Molson_225,1980_04_NN,12,13,2,usa,Dan_Perez,Dan Perez,BLM,,Regal,220,340,running,0,38
+1980,NN,1980_Molson_225,1980_04_NN,13,25,24,usa,Phil_Gerbode,Phil Gerbode,Borderline Farm,,Ventura,219,320,running,0,36
+1980,NN,1980_Molson_225,1980_04_NN,14,4,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Ventura,211,300,running,0,36
+1980,NN,1980_Molson_225,1980_04_NN,15,22,10,usa,Ralph_Nason,Ralph Nason,Sachs Chain Saws,,Chevelle,206,300,running,0,36
+1980,NN,1980_Molson_225,1980_04_NN,16,23,5,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Benoit Electric,,Nova,203,265,running,0,31
+1980,NN,1980_Molson_225,1980_04_NN,17,3,51,usa,Skip_Cahill,Skip Cahill,Cahill Tire,,Granada,198,255,rear end,0,28
+1980,NN,1980_Molson_225,1980_04_NN,18,7,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,Nova,177,260,running,0,29
+1980,NN,1980_Molson_225,1980_04_NN,19,14,8,usa,Mike_Barry,Mike Barry,PC Racing,,Grand Am,120,225,crash,28,24
+1980,NN,1980_Molson_225,1980_04_NN,20,18,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Nova,112,205,crash,0,22
+1980,NN,1980_Molson_225,1980_04_NN,21,2,38,usa,Mike_Perrotte,Mike Perrotte,McGee's Texaco,,Nova,93,255,dry sump,10,25
+1980,NN,1980_Molson_225,1980_04_NN,22,26,83,canada,Claude_Aubin,Claude Aubin,Autodrome Laval,,Nova,27,185,rear end,0,18
+1980,NN,1980_Molson_225,1980_04_NN,23,6,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,12,165,crash,0,16
+1980,NN,1980_Molson_225,1980_04_NN,24,17,X,usa,Pete_Silva,Pete Silva,Busch Valley,,Grand Am,5,150,crash,0,14
+1980,NN,1980_Molson_225,1980_04_NN,25,21,35,canada,Langis_Caron,Langis Caron,Le Club 35,,Nova,4,130,crash,0,14
+1980,NN,1980_Molson_225,1980_04_NN,26,15,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Ventura,3,180,crash,0,17
+1980,NN,1980_Clinton_County_50,1980_05_NN,1,18,7,usa,Beaver_Dragon,Beaver Dragon,H.A. Manosh,,Ventura,50,1095,running,20,67
+1980,NN,1980_Clinton_County_50,1980_05_NN,2,17,5,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Benoit Electric,,Ventura,50,550,running,0,60
+1980,NN,1980_Clinton_County_50,1980_05_NN,3,5,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,Nova,50,400,running,6,58
+1980,NN,1980_Clinton_County_50,1980_05_NN,4,13,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Nova,50,415,running,0,66
+1980,NN,1980_Clinton_County_50,1980_05_NN,5,20,71,usa,Bobby_Dragon,Bobby Dragon,71 Racing Team,,Nova,50,295,running,0,58
+1980,NN,1980_Clinton_County_50,1980_05_NN,6,8,09,usa,Ron_Barcomb,Ron Barcomb,Valley Distributors,,Ventura,50,265,running,0,51
+1980,NN,1980_Clinton_County_50,1980_05_NN,7,1,38,usa,Mike_Perrotte,Mike Perrotte,McGee's Texaco,,Nova,50,325,running,24,56
+1980,NN,1980_Clinton_County_50,1980_05_NN,8,6,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Grand Am,50,220,running,0,48
+1980,NN,1980_Clinton_County_50,1980_05_NN,9,10,10,usa,Ralph_Nason,Ralph Nason,Sachs Chain Saws,,Chevelle,50,265,running,0,51
+1980,NN,1980_Clinton_County_50,1980_05_NN,10,16,11,canada,Claude_Leclerc,Claude Leclerc,Le Relais Chevrolet,,Nova,49,200,running,0,43
+1980,NN,1980_Clinton_County_50,1980_05_NN,11,9,17,usa,Robbie_Crouch,Robbie Crouch,Ray's Texaco,,Zephyr,49,185,running,0,40
+1980,NN,1980_Clinton_County_50,1980_05_NN,12,3,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,49,190,running,0,43
+1980,NN,1980_Clinton_County_50,1980_05_NN,13,14,77,usa,Mike_Johnson_(1),Mike Johnson,Pape Chevrolet,,Nova,49,160,running,0,36
+1980,NN,1980_Clinton_County_50,1980_05_NN,14,2,24,usa,Phil_Gerbode,Phil Gerbode,Borderline Farm,,Ventura,49,150,running,0,34
+1980,NN,1980_Clinton_County_50,1980_05_NN,15,22,4,none,Don_Campi,Don Campi,Ickle Bickle Pub,,Nova,47,140,running,0,32
+1980,NN,1980_Clinton_County_50,1980_05_NN,16,21,1,usa,Paul_Mauceri,Paul Mauceri,Ickle Bickle Pub,,Nova,45,130,overheating,0,31
+1980,NN,1980_Clinton_County_50,1980_05_NN,17,4,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Ventura,45,180,running,0,37
+1980,NN,1980_Clinton_County_50,1980_05_NN,18,12,8,usa,Mike_Barry,Mike Barry,PC Racing,,Grand Am,30,195,dq,0,37
+1980,NN,1980_Clinton_County_50,1980_05_NN,19,15,2,usa,Dan_Perez,Dan Perez,BLM,,Regal,30,175,crash,0,31
+1980,NN,1980_Clinton_County_50,1980_05_NN,20,7,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Ventura,27,110,oil leak,0,22
+1980,NN,1980_Clinton_County_50,1980_05_NN,21,11,34,usa,Steve_Poulin,Steve Poulin,G.M. Pantry,,Grand Am,19,105,crash,0,20
+1980,NN,1980_Clinton_County_50,1980_05_NN,22,19,97,usa,Joe_Thomas_(1),Joe Thomas,Thomas Racing,,Cougar,18,100,engine,0,18
+1980,NN,1980_Clinton_County_50,1980_05_NN,23,23,28,usa,Larry_Caron,Larry Caron,Lums Restaurant,,Nova,9,85,engine skip,0,16
+1980,NN,1980_Clinton_County_50,1980_05_NN,24,24,61,usa,Brad_Kennedy,Brad Kennedy,Tuck Press,,Nova,8,80,handling,0,14
+1980,NN,1980_Memorial_Day_Classic,1980_06_NN,1,11,8,usa,Mike_Barry,Mike Barry,PC Racing,,Grand Am,100,1290,running,85,70
+1980,NN,1980_Memorial_Day_Classic,1980_06_NN,2,9,48,usa,Robbie_Crouch,Robbie Crouch,Kenworth,,Nova,100,775,running,0,64
+1980,NN,1980_Memorial_Day_Classic,1980_06_NN,3,14,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Nova,100,600,running,0,57
+1980,NN,1980_Memorial_Day_Classic,1980_06_NN,4,21,5,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Benoit Electric,,Ventura,100,555,running,0,63
+1980,NN,1980_Memorial_Day_Classic,1980_06_NN,5,18,29,usa,Dave_Dion,Dave Dion,Vermont Ford Dealers,,Futura,100,440,running,0,57
+1980,NN,1980_Memorial_Day_Classic,1980_06_NN,6,21,71,usa,Bobby_Dragon,Bobby Dragon,71 Racing Team,,Nova,100,400,running,0,51
+1980,NN,1980_Memorial_Day_Classic,1980_06_NN,7,13,60,usa,Dick_Glines,Dick Glines,Mello Yello,,Grand Am,99,300,running,0,48
+1980,NN,1980_Memorial_Day_Classic,1980_06_NN,8,16,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait,,Ventura,99,320,running,0,54
+1980,NN,1980_Memorial_Day_Classic,1980_06_NN,9,6,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Ventura,99,340,running,0,57
+1980,NN,1980_Memorial_Day_Classic,1980_06_NN,10,17,08,usa,Leland_Kangas,Leland Kangas,RC Cola,,Nova,99,230,running,0,42
+1980,NN,1980_Memorial_Day_Classic,1980_06_NN,11,10,10,usa,Ralph_Nason,Ralph Nason,Sachs Chain Saws,,Chevelle,99,215,running,0,41
+1980,NN,1980_Memorial_Day_Classic,1980_06_NN,12,5,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Grand Am,99,200,running,0,40
+1980,NN,1980_Memorial_Day_Classic,1980_06_NN,13,12,09,usa,Ron_Barcomb,Ron Barcomb,Valley Distributors,,Ventura,99,180,running,0,36
+1980,NN,1980_Memorial_Day_Classic,1980_06_NN,14,2,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Ventura,98,230,running,0,41
+1980,NN,1980_Memorial_Day_Classic,1980_06_NN,15,1,24,usa,Phil_Gerbode,Phil Gerbode,Borderline Farm,,Ventura,98,205,running,11,38
+1980,NN,1980_Memorial_Day_Classic,1980_06_NN,16,3,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,97,160,running,0,30
+1980,NN,1980_Memorial_Day_Classic,1980_06_NN,17,19,11,canada,Claude_Leclerc,Claude Leclerc,Le Relais Chevrolet,,Nova,97,155,running,0,28
+1980,NN,1980_Memorial_Day_Classic,1980_06_NN,18,8,61,usa,Brad_Kennedy,Brad Kennedy,Tuck Press,,Nova,97,150,running,0,28
+1980,NN,1980_Memorial_Day_Classic,1980_06_NN,19,15,38,usa,Richard_Pinkham,Richard Pinkham,Goodwin's,,Ventura,96,125,running,0,24
+1980,NN,1980_Memorial_Day_Classic,1980_06_NN,20,4,69,usa,Brent_Hatch,Brent Hatch,Lloyd Smith,,Nova,81,100,overheating,4,22
+1980,NN,1980_Memorial_Day_Classic,1980_06_NN,21,7,34,usa,Steve_Poulin,Steve Poulin,G.M. Pantry,,Grand Am,54,170,steering,0,28
+1980,NN,1980_Memorial_Day_Classic,1980_06_NN,22,22,7,usa,Beaver_Dragon,Beaver Dragon,H.A. Manosh,,Ventura,9,180,crash,0,20
+1980,NN,1980_Super_Molson_100,1980_07_NN,1,10,48,usa,Robbie_Crouch,Robbie Crouch,Green Mountain Kenworth,,Nova,100,1635,running,88,66
+1980,NN,1980_Super_Molson_100,1980_07_NN,2,16,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,100,1000,running,0,59
+1980,NN,1980_Super_Molson_100,1980_07_NN,3,17,71,usa,Bobby_Dragon,Bobby Dragon,71 Racing Team,,Nova,100,650,running,0,58
+1980,NN,1980_Super_Molson_100,1980_07_NN,4,14,35,canada,Langis_Caron,Langis Caron,Le Club 35,,Nova,100,570,running,1,62
+1980,NN,1980_Super_Molson_100,1980_07_NN,5,15,7,usa,Beaver_Dragon,Beaver Dragon,H.A. Manosh,,Ventura,100,575,running,0,58
+1980,NN,1980_Super_Molson_100,1980_07_NN,6,12,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Nova,100,485,running,0,57
+1980,NN,1980_Super_Molson_100,1980_07_NN,7,18,00,canada,Roger_Laperle,Roger Laperle,Super Speed,,Nova,100,400,running,0,48
+1980,NN,1980_Super_Molson_100,1980_07_NN,8,19,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Benoit Electric,,Ventura,100,350,running,0,46
+1980,NN,1980_Super_Molson_100,1980_07_NN,9,22,11,canada,Claude_Leclerc,Claude Leclerc,Le Relais Chevrolet,,Nova,100,325,running,0,46
+1980,NN,1980_Super_Molson_100,1980_07_NN,10,21,9,usa,Stan_Meserve,Stan Meserve,Lewis Stuart,,Ventura,100,445,running,0,56
+1980,NN,1980_Super_Molson_100,1980_07_NN,11,20,8,usa,Mike_Barry,Mike Barry,PC Racing,,Grand Am,99,385,running,0,48
+1980,NN,1980_Super_Molson_100,1980_07_NN,12,6,34,usa,Steve_Poulin,Steve Poulin,G.M. Pantry,,Grand Am,99,285,running,0,40
+1980,NN,1980_Super_Molson_100,1980_07_NN,13,3,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,98,265,running,0,36
+1980,NN,1980_Super_Molson_100,1980_07_NN,14,23,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Ventura,98,250,running,0,34
+1980,NN,1980_Super_Molson_100,1980_07_NN,15,2,24,usa,Phil_Gerbode,Phil Gerbode,Borderline Farm,,Ventura,98,225,running,0,33
+1980,NN,1980_Super_Molson_100,1980_07_NN,16,4,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Ventura,97,230,running,0,36
+1980,NN,1980_Super_Molson_100,1980_07_NN,17,5,51,usa,Skip_Cahill,Skip Cahill,Cahill Tire,,Granada,96,210,running,0,28
+1980,NN,1980_Super_Molson_100,1980_07_NN,18,7,2,usa,Dan_Perez,Dan Perez,Lite Beer,,Regal,96,200,running,0,27
+1980,NN,1980_Super_Molson_100,1980_07_NN,19,13,83,canada,Claude_Aubin,Claude Aubin,Autodrome de Laval,,Nova,33,185,rear end,0,24
+1980,NN,1980_Super_Molson_100,1980_07_NN,20,1,38,usa,Mike_Perrotte,Mike Perrotte,McGee's Texaco,,Nova,12,195,dry sump,11,28
+1980,NN,1980_Super_Molson_100,1980_07_NN,21,8,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,Nova,12,160,crash,0,20
+1980,NN,1980_Super_Molson_100,1980_07_NN,22,9,10,usa,Ralph_Nason,Ralph Nason,Sachs Chain Saws,,Chevelle,12,225,crash,0,29
+1980,NN,1980_Super_Molson_100,1980_07_NN,23,11,08,usa,Leland_Kangas,Leland Kangas,RC Cola,,Nova,7,125,crash,0,16
+1980,NN,1980_Adirondack_50,1980_08_NN,1,10,7,usa,Beaver_Dragon,Beaver Dragon,H.A. Manosh,,Ventura,50,1150,running,44,72
+1980,NN,1980_Adirondack_50,1980_08_NN,2,12,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Benoit Electric,,Ventura,50,550,running,0,60
+1980,NN,1980_Adirondack_50,1980_08_NN,3,14,48,usa,Robbie_Crouch,Robbie Crouch,Green Mountain Kenworth,,Nova,50,465,running,0,66
+1980,NN,1980_Adirondack_50,1980_08_NN,4,13,71,usa,Bobby_Dragon,Bobby Dragon,71 Racing Team,,Nova,50,325,running,0,55
+1980,NN,1980_Adirondack_50,1980_08_NN,5,11,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Nova,50,340,running,0,60
+1980,NN,1980_Adirondack_50,1980_08_NN,6,15,00,canada,Roger_Laperle,Roger Laperle,Super Speed,,Nova,49,265,running,0,50
+1980,NN,1980_Adirondack_50,1980_08_NN,7,9,11,canada,Claude_Leclerc,Claude Leclerc,Le Relais Chevrolet,,Nova,49,280,running,0,54
+1980,NN,1980_Adirondack_50,1980_08_NN,8,6,34,usa,Steve_Poulin,Steve Poulin,G.M. Pantry,,Grand Am,49,245,running,0,52
+1980,NN,1980_Adirondack_50,1980_08_NN,9,7,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,Nova,49,285,running,0,52
+1980,NN,1980_Adirondack_50,1980_08_NN,10,18,09,usa,Ron_Barcomb,Ron Barcomb,Churchill's,,Ventura,49,200,running,0,42
+1980,NN,1980_Adirondack_50,1980_08_NN,11,1,24,usa,Phil_Gerbode,Phil Gerbode,Borderline Farm,,Ventura,49,200,running,6,45
+1980,NN,1980_Adirondack_50,1980_08_NN,12,8,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Ventura,48,175,running,0,40
+1980,NN,1980_Adirondack_50,1980_08_NN,13,16,17,usa,Mike_Barry,Mike Barry,Metro Liquid Carrier,,Nova,48,160,running,0,36
+1980,NN,1980_Adirondack_50,1980_08_NN,14,5,2,usa,Dan_Perez,Dan Perez,BLM,,Regal,48,150,running,0,35
+1980,NN,1980_Adirondack_50,1980_08_NN,15,3,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,48,140,running,0,34
+1980,NN,1980_Adirondack_50,1980_08_NN,16,19,97,usa,Joe_Thomas_(1),Joe Thomas,Thomas Racing,,Cougar,47,130,running,0,30
+1980,NN,1980_Adirondack_50,1980_08_NN,17,20,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,45,125,running,0,28
+1980,NN,1980_Adirondack_50,1980_08_NN,18,2,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Ventura,45,175,running,0,35
+1980,NN,1980_Adirondack_50,1980_08_NN,19,4,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Grand Am,14,175,crash,0,31
+1980,NN,1980_Adirondack_50,1980_08_NN,20,17,25,usa,Randy_Corey,Randy Corey,Zenex Lubricants,,Ventura,1,110,engine,0,22
+1980,NN,1980_Adirondack_50,1980_08_NN,21,21,38,usa,Mike_Perrotte,Mike Perrotte,McGee's Texaco,,Nova,1,105,engine,0,20
+1980,NN,1980_Laurentien_100,1980_09_NN,1,7,34,usa,Steve_Poulin,Steve Poulin,G.M. Pantry,,Grand Am,100,1600,running,80,62
+1980,NN,1980_Laurentien_100,1980_09_NN,2,15,35,canada,Langis_Caron,Langis Caron,Le Club 35,,Nova,100,995,running,0,66
+1980,NN,1980_Laurentien_100,1980_09_NN,3,17,71,usa,Bobby_Dragon,Bobby Dragon,71 Racing Team,,Nova,100,650,running,0,57
+1980,NN,1980_Laurentien_100,1980_09_NN,4,16,00,canada,Roger_Laperle,Roger Laperle,Super Speed,,Nova,100,525,running,0,54
+1980,NN,1980_Laurentien_100,1980_09_NN,5,20,7,usa,Beaver_Dragon,Beaver Dragon,H.A. Manosh,,Ventura,100,595,running,0,59
+1980,NN,1980_Laurentien_100,1980_09_NN,6,3,24,usa,Phil_Gerbode,Phil Gerbode,Borderline Farm,,Ventura,100,450,running,15,56
+1980,NN,1980_Laurentien_100,1980_09_NN,7,18,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,100,450,running,0,48
+1980,NN,1980_Laurentien_100,1980_09_NN,8,12,11,canada,Claude_Leclerc,Claude Leclerc,Le Relais Chevrolet,,Nova,100,350,running,0,46
+1980,NN,1980_Laurentien_100,1980_09_NN,9,14,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Nova,100,325,running,0,46
+1980,NN,1980_Laurentien_100,1980_09_NN,10,5,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Grand Am,100,400,running,0,54
+1980,NN,1980_Laurentien_100,1980_09_NN,11,4,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,100,300,running,0,42
+1980,NN,1980_Laurentien_100,1980_09_NN,12,2,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Racing,,Ventura,99,345,running,0,45
+1980,NN,1980_Laurentien_100,1980_09_NN,13,8,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Ventura,99,265,running,0,36
+1980,NN,1980_Laurentien_100,1980_09_NN,14,21,17?,usa,Kevin_Lepage,Kevin Lepage,Ray's Texaco,,Zephyr,96,250,running,0,35
+1980,NN,1980_Laurentien_100,1980_09_NN,15,23,17?,usa,Bob_Brunell,Bob Brunell,Metro Liquid Carrier,,Nova,95,225,running,0,32
+1980,NN,1980_Laurentien_100,1980_09_NN,16,22,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,90,215,running,0,30
+1980,NN,1980_Laurentien_100,1980_09_NN,17,13,48,usa,Robbie_Crouch,Robbie Crouch,Green Mountain Kenworth,,Nova,80,270,engine,2,35
+1980,NN,1980_Laurentien_100,1980_09_NN,18,11,8,usa,Mike_Barry,Mike Barry,PC Racing,,Grand Am,76,250,dry sump,0,33
+1980,NN,1980_Laurentien_100,1980_09_NN,19,19,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Benoit Electric,,Ventura,63,185,brakes,0,24
+1980,NN,1980_Laurentien_100,1980_09_NN,20,24,51,usa,Skip_Cahill,Skip Cahill,Cahill Tire,,Granada,56,170,handling,0,22
+1980,NN,1980_Laurentien_100,1980_09_NN,21,10,10,usa,Ralph_Nason,Ralph Nason,Sachs Chain Saws,,Chevelle,45,220,transmission,0,28
+1980,NN,1980_Laurentien_100,1980_09_NN,22,9,09,usa,Ron_Barcomb,Ron Barcomb,Churchill's,,Ventura,23,215,spur gears,0,28
+1980,NN,1980_Laurentien_100,1980_09_NN,23,1,38,usa,Mike_Perrotte,Mike Perrotte,McGee's Texaco,,Nova,19,125,engine,3,16
+1980,NN,1980_Laurentien_100,1980_09_NN,24,6,2,usa,Dan_Perez,Dan Perez,BLM,,Regal,15,115,driveshaft,0,15
+1980,NN,1980_Laval_80,1980_10_NN,1,12,48,usa,Robbie_Crouch,Robbie Crouch,Kenworth,,Nova,80,1290,running,12,72
+1980,NN,1980_Laval_80,1980_10_NN,2,11,8,usa,Mike_Barry,Mike Barry,PC Racing,,Grand Am,80,790,running,32,69
+1980,NN,1980_Laval_80,1980_10_NN,3,19,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,80,525,running,0,56
+1980,NN,1980_Laval_80,1980_10_NN,4,15,7,usa,Beaver_Dragon,Beaver Dragon,H.A. Manosh,,Ventura,80,545,running,0,61
+1980,NN,1980_Laval_80,1980_10_NN,5,18,35,canada,Langis_Caron,Langis Caron,Le Club 35,,Nova,80,325,running,0,54
+1980,NN,1980_Laval_80,1980_10_NN,6,8,09,usa,Ron_Barcomb,Ron Barcomb,Churchill's,,Ventura,80,300,running,2,50
+1980,NN,1980_Laval_80,1980_10_NN,7,20,71,usa,Bobby_Dragon,Bobby Dragon,71 Racing Team,,Nova,80,280,running,0,48
+1980,NN,1980_Laval_80,1980_10_NN,8,21,83,canada,Claude_Aubin,Claude Aubin,Autodrome de Laval,,Nova,80,260,running,0,46
+1980,NN,1980_Laval_80,1980_10_NN,9,9,11,canada,Claude_Leclerc,Claude Leclerc,Le Relais Chevrolet,,Nova,80,240,running,0,45
+1980,NN,1980_Laval_80,1980_10_NN,10,13,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Nova,80,230,running,0,42
+1980,NN,1980_Laval_80,1980_10_NN,11,5,24,usa,Phil_Gerbode,Phil Gerbode,Borderline Farm,,Ventura,80,215,running,0,41
+1980,NN,1980_Laval_80,1980_10_NN,12,10,10,usa,Ralph_Nason,Ralph Nason,Sachs Chain Saws,,Chevelle,80,210,running,0,40
+1980,NN,1980_Laval_80,1980_10_NN,13,1,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Ventura,79,250,running,11,43
+1980,NN,1980_Laval_80,1980_10_NN,14,2,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,79,195,running,0,40
+1980,NN,1980_Laval_80,1980_10_NN,15,24,26,canada,Laurent_Rioux,Laurent Rioux,Laurent Racing,,Ventura,79,165,running,0,32
+1980,NN,1980_Laval_80,1980_10_NN,16,6,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Ventura,77,160,running,0,30
+1980,NN,1980_Laval_80,1980_10_NN,17,17,00,canada,Roger_Laperle,Roger Laperle,Super Speed,,Nova,68,195,engine,0,34
+1980,NN,1980_Laval_80,1980_10_NN,18,14,5,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Benoit Electric,,Ventura,63,240,running,20,36
+1980,NN,1980_Laval_80,1980_10_NN,19,3,2,usa,Dan_Perez,Dan Perez,BLM,,Regal,40,150,radiator,3,30
+1980,NN,1980_Laval_80,1980_10_NN,20,7,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,Nova,36,125,engine,0,24
+1980,NN,1980_Laval_80,1980_10_NN,21,4,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Malibu,36,115,oil pressure,0,20
+1980,NN,1980_Laval_80,1980_10_NN,22,22,17?,usa,Kevin_Lepage,Kevin Lepage,Ray's Texaco,,Zephyr,22,110,handling,0,18
+1980,NN,1980_Laval_80,1980_10_NN,23,16,97,usa,Joe_Thomas_(1),Joe Thomas,Thomas Racing,,Cougar,20,85,oil pressure,0,17
+1980,NN,1980_Laval_80,1980_10_NN,24,23,17?,usa,Mike_Perrotte,Mike Perrotte,Metro Liquid Carrier,,Nova,14,65,engine,0,14
+1980,NN,1980_Milton_100,1980_11_NN,1,10,8,usa,Mike_Barry,Mike Barry,PC Racing,,Grand Am,100,1385,running,81,68
+1980,NN,1980_Milton_100,1980_11_NN,2,16,5,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Benoit Electric,,Ventura,100,775,running,0,69
+1980,NN,1980_Milton_100,1980_11_NN,3,20,35,canada,Langis_Caron,Langis Caron,Le Club 35,,Nova,100,540,running,0,57
+1980,NN,1980_Milton_100,1980_11_NN,4,19,7,usa,Beaver_Dragon,Beaver Dragon,H.A. Manosh,,Ventura,100,525,running,0,56
+1980,NN,1980_Milton_100,1980_11_NN,5,15,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Nova,100,490,running,0,64
+1980,NN,1980_Milton_100,1980_11_NN,6,11,11,canada,Claude_Leclerc,Claude Leclerc,Le Relais Chevrolet,,Nova,100,385,running,0,56
+1980,NN,1980_Milton_100,1980_11_NN,7,4,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,100,325,running,0,50
+1980,NN,1980_Milton_100,1980_11_NN,8,2,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Ventura,99,325,running,19,52
+1980,NN,1980_Milton_100,1980_11_NN,9,24,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Malibu,99,275,running,0,44
+1980,NN,1980_Milton_100,1980_11_NN,10,5,24,usa,Phil_Gerbode,Phil Gerbode,Borderline Farm,,Ventura,99,260,running,0,42
+1980,NN,1980_Milton_100,1980_11_NN,11,14,61,usa,Brad_Kennedy,Brad Kennedy,Tuck Press,,Nova,98,250,running,0,40
+1980,NN,1980_Milton_100,1980_11_NN,12,18,3,usa,Richard_Pinkham,Richard Pinkham,Goodwin's,,Ventura,98,230,running,0,38
+1980,NN,1980_Milton_100,1980_11_NN,13,9,10,usa,Ralph_Nason,Ralph Nason,Sachs Chain Saws,,Chevelle,94,225,running,0,36
+1980,NN,1980_Milton_100,1980_11_NN,14,6,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Ventura,94,200,running,0,35
+1980,NN,1980_Milton_100,1980_11_NN,15,21,71,usa,Bobby_Dragon,Bobby Dragon,71 Racing Team,,Nova,83,185,running,0,32
+1980,NN,1980_Milton_100,1980_11_NN,16,1,38,usa,Mike_Perrotte,Mike Perrotte,McGee's Texaco,,Nova,61,235,overheating,0,38
+1980,NN,1980_Milton_100,1980_11_NN,17,3,2,usa,Dan_Perez,Dan Perez,BLM,,Regal,51,185,camshaft,0,33
+1980,NN,1980_Milton_100,1980_11_NN,18,22,48,usa,Robbie_Crouch,Robbie Crouch,Green Mountain Kenworth,,Nova,47,250,oil pressure,0,36
+1980,NN,1980_Milton_100,1980_11_NN,19,23,88,usa,Darrell_Waltrip,Darrell Waltrip,PC Racing,,Ventura,43,150,transmission,0,25
+1980,NN,1980_Milton_100,1980_11_NN,20,13,77,usa,Mike_Johnson_(1),Mike Johnson,Pape Chevrolet,,Nova,36,140,handling,0,22
+1980,NN,1980_Milton_100,1980_11_NN,21,7,09,usa,Ron_Barcomb,Ron Barcomb,Churchill's,,Ventura,29,160,rear end,0,26
+1980,NN,1980_Milton_100,1980_11_NN,22,17,97,usa,Joe_Thomas_(1),Joe Thomas,Thomas Racing,,Cougar,21,130,engine,0,18
+1980,NN,1980_Milton_100,1980_11_NN,23,8,69,usa,Brent_Hatch,Brent Hatch,Tuck Press,,Nova,10,110,crash,0,18
+1980,NN,1980_Milton_100,1980_11_NN,24,12,25,usa,Randy_Corey,Randy Corey,Zenox Lubricants,,Ventura,10,100,crash,0,14
+1980,NN,1980_Molson_300,1980_12_NN,1,17,71,usa,Bobby_Dragon,Bobby Dragon,71 Racing Team,,Nova,300,2350,running,18,60
+1980,NN,1980_Molson_300,1980_12_NN,2,12,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Benoit Electric,,Ventura,299,1365,running,82,61
+1980,NN,1980_Molson_300,1980_12_NN,3,6,34,usa,Steve_Poulin,Steve Poulin,G.M. Pantry,,Grand Am,299,1080,running,6,57
+1980,NN,1980_Molson_300,1980_12_NN,4,13,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Nova,298,900,running,0,58
+1980,NN,1980_Molson_300,1980_12_NN,5,10,00,canada,Roger_Laperle,Roger Laperle,Gabrieault Chevrolet,,Nova,298,790,running,1,57
+1980,NN,1980_Molson_300,1980_12_NN,6,3,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Ventura,298,680,running,0,52
+1980,NN,1980_Molson_300,1980_12_NN,7,5,24,usa,Phil_Gerbode,Phil Gerbode,Borderline Farm,,Ventura,297,635,running,0,51
+1980,NN,1980_Molson_300,1980_12_NN,8,9,11,canada,Claude_Leclerc,Claude Leclerc,Le Relais Chevrolet,,Nova,297,565,running,0,46
+1980,NN,1980_Molson_300,1980_12_NN,9,4,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Malibu,296,545,running,23,48
+1980,NN,1980_Molson_300,1980_12_NN,10,14,83,canada,Claude_Aubin,Claude Aubin,Autodrome de Laval,,Nova,295,500,running,0,43
+1980,NN,1980_Molson_300,1980_12_NN,11,20,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Ventura,288,525,running,0,45
+1980,NN,1980_Molson_300,1980_12_NN,12,19,8,usa,Mike_Barry,Mike Barry,PC Racing,,Grand Am,282,450,crash,93,40
+1980,NN,1980_Molson_300,1980_12_NN,13,16,7,usa,Beaver_Dragon,Beaver Dragon,H.A. Manosh,,Ventura,277,500,engine,0,36
+1980,NN,1980_Molson_300,1980_12_NN,14,21,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,262,375,running,0,35
+1980,NN,1980_Molson_300,1980_12_NN,15,7,09,usa,Ron_Barcomb,Ron Barcomb,Churchill's,,Ventura,213,375,handling,0,36
+1980,NN,1980_Molson_300,1980_12_NN,16,8,48,usa,Robbie_Crouch,Robbie Crouch,Green Mountain Kenworth,,Nova,193,355,transmission,55,33
+1980,NN,1980_Molson_300,1980_12_NN,17,23,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,Nova,140,320,engine,0,28
+1980,NN,1980_Molson_300,1980_12_NN,18,15,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,131,360,crash,0,28
+1980,NN,1980_Molson_300,1980_12_NN,19,24,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,90,280,engine,0,24
+1980,NN,1980_Molson_300,1980_12_NN,20,22,15,canada,Gilles_Lussier,Gilles Lussier,Benoit Electric,,Ventura,64,270,crash,0,22
+1980,NN,1980_Molson_300,1980_12_NN,21,11,61,usa,Brad_Kennedy,Brad Kennedy,Tuck Press,,Nova,52,250,engine,0,20
+1980,NN,1980_Molson_300,1980_12_NN,22,1,17,usa,Kevin_Lepage,Kevin Lepage,Ray's Texaco,,Zephyr,50,240,handling,0,18
+1980,NN,1980_Molson_300,1980_12_NN,23,2,2,usa,Dan_Perez,Dan Perez,BLM,,Regal,28,270,engine,22,21
+1980,NN,1980_Molson_300,1980_12_NN,24,18,26,canada,Laurent_Rioux,Laurent Rioux,Laurent Racing,,Ventura,14,170,rear end,0,14
+1980,NN,1980_Oxford_250,1980_13_NN,1,7,99,usa,Geoffrey_Bodine,Geoffrey Bodine   (LMS),Bodine Racing,,Grand Am,285,11200,running,74,0
+1980,NN,1980_Oxford_250,1980_13_NN,2,3,16,usa,Butch_Lindley,Butch Lindley   (LMS),Lindley Racing,,Grand Am,284,6625,out of gas,207,0
+1980,NN,1980_Oxford_250,1980_13_NN,3,4,67,usa,Morgan_Shepherd,Morgan Shepherd   (LMS),Hot Road Barn,,Grand Am,284,4350,running,0,0
+1980,NN,1980_Oxford_250,1980_13_NN,4,11,07,usa,Tom_Rosati,Tom Rosati   (OC),E.A. Grandfield,,Camaro,283,3000,running,0,0
+1980,NN,1980_Oxford_250,1980_13_NN,5,30,49,usa,Dave_Dion,Dave Dion,Vermont Ford Dealers,,Futura,282,2000,running,0,60
+1980,NN,1980_Oxford_250,1980_13_NN,6,5,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,282,1550,running,0,58
+1980,NN,1980_Oxford_250,1980_13_NN,7,12,35,canada,Langis_Caron,Langis Caron,Le Club 35,,Nova,282,1200,running,0,56
+1980,NN,1980_Oxford_250,1980_13_NN,8,13,8,usa,Mike_Barry,Mike Barry,PC Racing,,Grand Am,282,1100,running,0,54
+1980,NN,1980_Oxford_250,1980_13_NN,9,27,00,usa,Dick_McCabe,Dick McCabe,McCabe Bait,,Ventura,281,1050,running,0,52
+1980,NN,1980_Oxford_250,1980_13_NN,10,18,11,canada,Claude_Leclerc,Claude Leclerc,Le Relais Chevrolet,,Nova,281,1000,running,0,50
+1980,NN,1980_Oxford_250,1980_13_NN,11,17,23,canada,Frank_Fraser,Frank Fraser   (OC),Fraser Racing,,Camaro,281,900,running,0,0
+1980,NN,1980_Oxford_250,1980_13_NN,12,2,92,usa,Dan_Perez,Dan Perez,Burlington Lincoln,,Regal,281,800,running,0,48
+1980,NN,1980_Oxford_250,1980_13_NN,13,26,X,usa,Pete_Silva,Pete Silva,Busch Valley,,Grand Am,280,700,running,0,46
+1980,NN,1980_Oxford_250,1980_13_NN,14,1,18,usa,Bill_Dennis,Bill Dennis   (OC),West Racing,,Grand Am,280,600,running,4,0
+1980,NN,1980_Oxford_250,1980_13_NN,15,23,43,canada,Don_Biederman,Don Biederman   (OC),Biederman Racing,,Camaro,280,550,running,0,0
+1980,NN,1980_Oxford_250,1980_13_NN,16,6,96,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Nova,280,540,running,0,44
+1980,NN,1980_Oxford_250,1980_13_NN,17,19,37,usa,Beaver_Dragon,Beaver Dragon,H.A. Manosh,,Ventura,279,630,running,0,42
+1980,NN,1980_Oxford_250,1980_13_NN,18,32,87,usa,Jimmy_Burns_(1),Jimmy Burns   (OC),Burns Racing,,Nova,278,520,running,0,0
+1980,NN,1980_Oxford_250,1980_13_NN,19,35,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Ventura,276,510,running,0,40
+1980,NN,1980_Oxford_250,1980_13_NN,20,9,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Benoit Electric,,Ventura,274,500,running,0,38
+1980,NN,1980_Oxford_250,1980_13_NN,21,28,09,usa,Ron_Barcomb,Ron Barcomb,Churchill's,,Ventura,274,490,running,0,36
+1980,NN,1980_Oxford_250,1980_13_NN,22,15,08,usa,Leland_Kangas,Leland Kangas,RC Cola,,Grand Am,273,480,running,0,34
+1980,NN,1980_Oxford_250,1980_13_NN,23,33,38,usa,Richard_Pinkham,Richard Pinkham,Goodwin's,,Ventura,271,470,running,0,32
+1980,NN,1980_Oxford_250,1980_13_NN,24,10,71,usa,Bobby_Dragon,Bobby Dragon,71 Racing Team,,Nova,271,460,running,0,30
+1980,NN,1980_Oxford_250,1980_13_NN,25,36,2,canada,Terry_Clattenburg,Terry Clattenburg   (OC),Clattenburg Racing,,Camaro,269,450,running,0,0
+1980,NN,1980_Oxford_250,1980_13_NN,26,22,5,usa,Mike_Rowe,Mike Rowe   (OC),Morris Auto Parts,,Ventura,267,440,running,0,0
+1980,NN,1980_Oxford_250,1980_13_NN,27,21,61,usa,Dick_Glines,Dick Glines,R.C. Moore,,Grand Am,263,430,steering,0,28
+1980,NN,1980_Oxford_250,1980_13_NN,28,25,27,usa,Bosco_Lowe,Bosco Lowe   (LMS),Lowe Racing,,Nova,244,420,rear end,0,0
+1980,NN,1980_Oxford_250,1980_13_NN,29,8,44,usa,Jeff_Stevens,Jeff Stevens   (OC),Stevens Racing,,Camaro,217,410,handling,0,0
+1980,NN,1980_Oxford_250,1980_13_NN,30,14,9,usa,Harvey_Sprague,Harvey Sprague   (OC),Lewis Stuart,,Camaro,143,400,engine,0,0
+1980,NN,1980_Oxford_250,1980_13_NN,31,16,48,usa,Robbie_Crouch,Robbie Crouch,Green Mountain Kenworth,,Nova,135,375,transmission,0,26
+1980,NN,1980_Oxford_250,1980_13_NN,32,29,74,usa,Cookie_Visconti,Cookie Visconti   (OC),Visconti Racing,,Regal,86,350,transmission,0,0
+1980,NN,1980_Oxford_250,1980_13_NN,33,31,4,usa,Bob_Pressley,Bob Pressley   (LMS),Buck Stove,,Ventura,69,325,engine,0,0
+1980,NN,1980_Oxford_250,1980_13_NN,34,20,29,usa,Joe_Fields,Joe Fields   (OC),Fields Racing,,Malibu,68,315,overheating,0,0
+1980,NN,1980_Oxford_250,1980_13_NN,35,34,10,usa,Ralph_Nason,Ralph Nason,Sachs Chain Saws,,Chevelle,48,305,handling,0,24
+1980,NN,1980_Oxford_250,1980_13_NN,36,24,60,usa,Henry_Shaw,Henry Shaw   (OC),Shaw Racing,,Nova,39,300,engine,0,0
+1980,NN,1980_Molson_80,1980_14_NN,1,3,2,usa,Dan_Perez,Dan Perez,Burlington Lincoln,,Regal,80,1300,running,72,73
+1980,NN,1980_Molson_80,1980_14_NN,2,10,48,usa,Robbie_Crouch,Robbie Crouch,Green Mountain Kenworth,,Nova,80,780,running,0,68
+1980,NN,1980_Molson_80,1980_14_NN,3,11,8,usa,Mike_Barry,Mike Barry,PC Racing,,Grand Am,80,475,running,0,57
+1980,NN,1980_Molson_80,1980_14_NN,4,16,7,usa,Beaver_Dragon,Beaver Dragon,H.A. Manosh,,Ventura,80,500,running,0,54
+1980,NN,1980_Molson_80,1980_14_NN,5,14,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Nova,80,360,running,0,58
+1980,NN,1980_Molson_80,1980_14_NN,6,15,5,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Benoit Electric,,Ventura,80,300,running,0,52
+1980,NN,1980_Molson_80,1980_14_NN,7,17,71,usa,Bobby_Dragon,Bobby Dragon,71 Racing Team,,Nova,80,280,running,0,49
+1980,NN,1980_Molson_80,1980_14_NN,8,8,11,canada,Claude_Leclerc,Claude Leclerc,Le Relais Chevrolet,,Nova,80,260,running,0,46
+1980,NN,1980_Molson_80,1980_14_NN,9,18,83,canada,Claude_Aubin,Claude Aubin,Autodrome de Laval,,Nova,80,240,running,0,44
+1980,NN,1980_Molson_80,1980_14_NN,10,12,00,canada,Roger_Laperle,Roger Laperle,Gabrieault Chevrolet,,Nova,80,290,running,0,49
+1980,NN,1980_Molson_80,1980_14_NN,11,13,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,80,290,running,0,47
+1980,NN,1980_Molson_80,1980_14_NN,12,9,34,usa,Steve_Poulin,Steve Poulin,G.M. Pantry,,Grand Am,80,210,running,0,40
+1980,NN,1980_Molson_80,1980_14_NN,13,4,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,Nova,80,235,running,0,44
+1980,NN,1980_Molson_80,1980_14_NN,14,2,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Grand Am,80,170,running,8,36
+1980,NN,1980_Molson_80,1980_14_NN,15,7,09,usa,Ron_Barcomb,Ron Barcomb,Churchill's,,Ventura,79,165,running,0,32
+1980,NN,1980_Molson_80,1980_14_NN,16,5,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Ventura,78,210,running,0,37
+1980,NN,1980_Molson_80,1980_14_NN,17,1,17,usa,Kevin_Lepage,Kevin Lepage,Ray's Texaco,,Zephyr,78,215,running,0,35
+1980,NN,1980_Molson_80,1980_14_NN,18,21,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Ventura,78,150,running,0,26
+1980,NN,1980_Molson_80,1980_14_NN,19,20,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,74,135,running,0,24
+1980,NN,1980_Molson_80,1980_14_NN,20,6,24,usa,Phil_Gerbode,Phil Gerbode,Borderline Farm,,Ventura,58,185,handling,0,29
+1980,NN,1980_Molson_80,1980_14_NN,21,19,08,usa,Leland_Kangas,Leland Kangas,RC Cola,,Grand Am,52,115,overheating,0,20
+1980,NN,1980_Granite_State_50,1980_15_NN,1,10,48,usa,Robbie_Crouch,Robbie Crouch,Green Mountain Kenworth,,Nova,50,1155,running,33,69
+1980,NN,1980_Granite_State_50,1980_15_NN,2,11,8,usa,Mike_Barry,Mike Barry,PC Racing,,Grand Am,50,740,running,0,70
+1980,NN,1980_Granite_State_50,1980_15_NN,3,17,7,usa,Beaver_Dragon,Beaver Dragon,H.A. Manosh,,Ventura,50,585,running,0,63
+1980,NN,1980_Granite_State_50,1980_15_NN,4,21,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait,,Ventura,50,365,running,0,60
+1980,NN,1980_Granite_State_50,1980_15_NN,5,15,71,usa,Bobby_Dragon,Bobby Dragon,71 Team Racing,,Nova,50,405,running,0,60
+1980,NN,1980_Granite_State_50,1980_15_NN,6,8,11,canada,Claude_Leclerc,Claude Leclerc,Le Relais Chevrolet,,Nova,50,300,running,8,51
+1980,NN,1980_Granite_State_50,1980_15_NN,7,13,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Nova,50,270,running,0,50
+1980,NN,1980_Granite_State_50,1980_15_NN,8,9,34,usa,Steve_Poulin,Steve Poulin,G.M. Pantry,,Grand Am,50,300,running,0,53
+1980,NN,1980_Granite_State_50,1980_15_NN,9,16,38,usa,Richard_Pinkham,Richard Pinkham,Goodwin's,,Ventura,50,225,running,0,44
+1980,NN,1980_Granite_State_50,1980_15_NN,10,4,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Ventura,50,210,running,0,44
+1980,NN,1980_Granite_State_50,1980_15_NN,11,7,25,usa,Randy_Corey,Randy Corey,Zenex Lubricants,,Ventura,50,200,running,0,42
+1980,NN,1980_Granite_State_50,1980_15_NN,12,2,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,50,220,running,9,44
+1980,NN,1980_Granite_State_50,1980_15_NN,13,20,40,usa,Jim_Brown,Jim Brown,Amalie Oil,,Ventura,49,175,running,0,36
+1980,NN,1980_Granite_State_50,1980_15_NN,14,14,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Benoit Electric,,Ventura,49,160,running,0,35
+1980,NN,1980_Granite_State_50,1980_15_NN,15,6,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Phoenix,49,155,running,0,32
+1980,NN,1980_Granite_State_50,1980_15_NN,16,1,17,usa,Kevin_Lepage,Kevin Lepage,Ray's Texaco,,Zephyr,48,165,running,0,35
+1980,NN,1980_Granite_State_50,1980_15_NN,17,12,77,usa,Mike_Johnson_(1),Mike Johnson,Pape Chevrolet,,Nova,48,145,running,0,28
+1980,NN,1980_Granite_State_50,1980_15_NN,18,24,29,usa,Alan_Monette,Alan Monette,Behio Enterprises,,Nova,47,135,running,0,26
+1980,NN,1980_Granite_State_50,1980_15_NN,19,5,51,usa,Skip_Cahill,Skip Cahill,Cahill Tire,,Granada,47,125,running,0,24
+1980,NN,1980_Granite_State_50,1980_15_NN,20,23,69,usa,Phil_Gerbode,Phil Gerbode,Lloyd Smith,,Nova,46,115,running,0,22
+1980,NN,1980_Granite_State_50,1980_15_NN,21,22,31,usa,Paul_Donahue,Paul Donahue,Jamieson Inc.,,Aspen,46,110,running,0,20
+1980,NN,1980_Granite_State_50,1980_15_NN,22,19,08,usa,Leland_Kangas,Leland Kangas,RC Cola,,Grand Am,31,100,overheating,0,18
+1980,NN,1980_Granite_State_50,1980_15_NN,23,3,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Grand Am,3,75,handling,0,17
+1980,NN,1980_Granite_State_50,1980_15_NN,24,18,2,usa,Dan_Perez,Dan Perez,Burlington Lincoln,,Regal,2,175,engine,0,26
+1980,NN,1980_Quebec_City_100,1980_16_NN,1,11,8,usa,Mike_Barry,Mike Barry,PC Racing,,Grand Am,100,1790,running,84,72
+1980,NN,1980_Quebec_City_100,1980_16_NN,2,16,7,usa,Beaver_Dragon,Beaver Dragon,H.A. Manosh,,Ventura,100,1050,running,0,60
+1980,NN,1980_Quebec_City_100,1980_16_NN,3,15,71,usa,Bobby_Dragon,Bobby Dragon,71 Team Racing,,Nova,100,690,running,0,62
+1980,NN,1980_Quebec_City_100,1980_16_NN,4,20,35,canada,Langis_Caron,Langis Caron,Le Club 35,,Nova,100,525,running,0,55
+1980,NN,1980_Quebec_City_100,1980_16_NN,5,18,48,usa,Robbie_Crouch,Robbie Crouch,Green Mountain Kenworth,,Nova,100,450,running,0,54
+1980,NN,1980_Quebec_City_100,1980_16_NN,6,13,00,canada,Roger_Laperle,Roger Laperle,Gabrieault Chevrolet,,Nova,100,485,running,8,57
+1980,NN,1980_Quebec_City_100,1980_16_NN,7,14,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Nova,100,425,running,0,55
+1980,NN,1980_Quebec_City_100,1980_16_NN,8,23,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,100,400,running,0,46
+1980,NN,1980_Quebec_City_100,1980_16_NN,9,8,11,canada,Claude_Leclerc,Claude Leclerc,Le Relais Chevrolet,,Nova,100,325,running,0,44
+1980,NN,1980_Quebec_City_100,1980_16_NN,10,3,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Grand Am,99,310,running,0,44
+1980,NN,1980_Quebec_City_100,1980_16_NN,11,4,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Ventura,99,365,running,0,50
+1980,NN,1980_Quebec_City_100,1980_16_NN,12,5,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,Nova,98,375,running,0,48
+1980,NN,1980_Quebec_City_100,1980_16_NN,13,24,24,usa,Phil_Gerbode,Phil Gerbode,Borderline Farm,,Ventura,97,265,running,0,36
+1980,NN,1980_Quebec_City_100,1980_16_NN,14,1,17,usa,Kevin_Lepage,Kevin Lepage,Ray's Texaco,,Zephyr,96,250,running,2,35
+1980,NN,1980_Quebec_City_100,1980_16_NN,15,7,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Ventura,96,225,running,0,32
+1980,NN,1980_Quebec_City_100,1980_16_NN,16,5,51,usa,Skip_Cahill,Skip Cahill,Cahill Tire,,Granada,96,215,running,0,30
+1980,NN,1980_Quebec_City_100,1980_16_NN,17,22,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,92,210,running,0,28
+1980,NN,1980_Quebec_City_100,1980_16_NN,18,12,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Benoit Electric,,Ventura,88,200,running,0,26
+1980,NN,1980_Quebec_City_100,1980_16_NN,19,19,1,canada,Marcel_Corriveau,Marcel Corriveau,Giguere Auto,,Apollo,51,185,crash,0,25
+1980,NN,1980_Quebec_City_100,1980_16_NN,20,17,83,canada,Claude_Aubin,Claude Aubin,Autodrome de Laval,,Nova,50,170,running,0,22
+1980,NN,1980_Quebec_City_100,1980_16_NN,21,2,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,8,220,crash,6,27
+1980,NN,1980_Quebec_City_100,1980_16_NN,22,9,2,usa,Dan_Perez,Dan Perez,Burlington Lincoln,,Regal,8,175,crash,0,24
+1980,NN,1980_Quebec_City_100,1980_16_NN,23,21,17,usa,Mike_Perrotte,Mike Perrotte,Metro Liquid Haulers,,Nova,8,125,transmission,0,16
+1980,NN,1980_Quebec_City_100,1980_16_NN,24,10,34,usa,Steve_Poulin,Steve Poulin,G.M. Pantry,,Grand Am,2,170,crash,0,21
+1980,NN,1980_Lac_St._Jean_80,1980_17_NN,1,13,7,usa,Beaver_Dragon,Beaver Dragon,H.A. Manosh,,Ventura,80,1400,running,14,62
+1980,NN,1980_Lac_St._Jean_80,1980_17_NN,2,11,48,usa,Robbie_Crouch,Robbie Crouch,Green Mountain Kenworth,,Nova,80,810,running,0,64
+1980,NN,1980_Lac_St._Jean_80,1980_17_NN,3,6,11,canada,Claude_Leclerc,Claude Leclerc,Le Relais Chevrolet,,Nova,80,635,running,8,62
+1980,NN,1980_Lac_St._Jean_80,1980_17_NN,4,8,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Nova,80,500,running,0,55
+1980,NN,1980_Lac_St._Jean_80,1980_17_NN,5,7,00,canada,Roger_Laperle,Roger Laperle,Gabrieault Chevrolet,,Nova,80,385,running,0,59
+1980,NN,1980_Lac_St._Jean_80,1980_17_NN,6,2,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Ventura,80,380,running,58,57
+1980,NN,1980_Lac_St._Jean_80,1980_17_NN,7,4,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,Nova,80,390,running,0,60
+1980,NN,1980_Lac_St._Jean_80,1980_17_NN,8,1,17,usa,Kevin_Lepage,Kevin Lepage,Ray's Texaco,,Zephyr,80,335,running,0,53
+1980,NN,1980_Lac_St._Jean_80,1980_17_NN,9,9,34,usa,Steve_Poulin,Steve Poulin,G.M. Pantry,,Grand Am,80,260,running,0,46
+1980,NN,1980_Lac_St._Jean_80,1980_17_NN,10,17,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Grand Am,80,245,running,0,42
+1980,NN,1980_Lac_St._Jean_80,1980_17_NN,11,14,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,75,230,running,0,41
+1980,NN,1980_Lac_St._Jean_80,1980_17_NN,12,12,71,usa,Bobby_Dragon,Bobby Dragon,71 Racing Team,,Nova,73,290,overheating,0,48
+1980,NN,1980_Lac_St._Jean_80,1980_17_NN,13,15,8,usa,Mike_Barry,Mike Barry,PC Racing,,Grand Am,73,295,running,0,46
+1980,NN,1980_Lac_St._Jean_80,1980_17_NN,14,16,24,usa,Phil_Gerbode,Phil Gerbode,Borderline Farm,,Ventura,48,185,ignition,0,34
+1980,NN,1980_Lac_St._Jean_80,1980_17_NN,15,5,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Phoenix,45,240,engine,0,39
+1980,NN,1980_Lac_St._Jean_80,1980_17_NN,16,3,51,usa,Skip_Cahill,Skip Cahill,Cahill Tire,,Granada,9,170,handling,0,32
+1980,NN,1980_Lac_St._Jean_80,1980_17_NN,17,10,83,canada,Claude_Aubin,Claude Aubin,Autodrome de Laval,,Nova,4,165,ignition,0,28
+1980,NN,1980_Lac_St._Jean_80,1980_17_NN,18,18,17,usa,Mike_Perrotte,Mike Perrotte,Metro Liquid Haulers,,Nova,1,160,transmission,0,26
+1980,NN,1980_Vermont_Governor%27s_Cup,1980_18_NN,1,12,48,usa,Robbie_Crouch,Robbie Crouch,Green Mountain Kenworth,,Nova,100,1345,running,38,68
+1980,NN,1980_Vermont_Governor%27s_Cup,1980_18_NN,2,8,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Benoit Electric,,Ventura,100,700,running,55,58
+1980,NN,1980_Vermont_Governor%27s_Cup,1980_18_NN,3,15,00,canada,Roger_Laperle,Roger Laperle,Gibeault Chevrolet,,Nova,100,625,running,0,64
+1980,NN,1980_Vermont_Governor%27s_Cup,1980_18_NN,4,20,29,usa,Dave_Dion,Dave Dion,Ducharme Sane,,Futura,100,425,running,0,54
+1980,NN,1980_Vermont_Governor%27s_Cup,1980_18_NN,5,18,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait,,Ventura,99,400,running,0,52
+1980,NN,1980_Vermont_Governor%27s_Cup,1980_18_NN,6,17,71,usa,Bobby_Dragon,Bobby Dragon,71 Racing Team,,Nova,99,350,running,0,52
+1980,NN,1980_Vermont_Governor%27s_Cup,1980_18_NN,7,9,08,usa,Leland_Kangas,Leland Kangas,RC Cola,,Grand Am,99,350,running,0,54
+1980,NN,1980_Vermont_Governor%27s_Cup,1980_18_NN,8,2,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Malibu,99,490,running,6,58
+1980,NN,1980_Vermont_Governor%27s_Cup,1980_18_NN,9,7,09,usa,Ron_Barcomb,Ron Barcomb,Churchill's,,Ventura,98,300,running,0,50
+1980,NN,1980_Vermont_Governor%27s_Cup,1980_18_NN,10,11,34,usa,Steve_Poulin,Steve Poulin,G.M. Pantry,,Grand Am,98,260,running,0,43
+1980,NN,1980_Vermont_Governor%27s_Cup,1980_18_NN,11,3,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Ventura,98,295,running,0,47
+1980,NN,1980_Vermont_Governor%27s_Cup,1980_18_NN,12,4,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,Nova,98,230,running,0,38
+1980,NN,1980_Vermont_Governor%27s_Cup,1980_18_NN,13,6,69,usa,Brent_Hatch,Brent Hatch,Lloyd Smith,,Nova,97,225,running,0,38
+1980,NN,1980_Vermont_Governor%27s_Cup,1980_18_NN,14,1,17,usa,Kevin_Lepage,Kevin Lepage,Ray's Texaco,,Zephyr,97,200,running,1,34
+1980,NN,1980_Vermont_Governor%27s_Cup,1980_18_NN,15,24,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Nova,97,185,running,0,32
+1980,NN,1980_Vermont_Governor%27s_Cup,1980_18_NN,16,21,97,usa,Joe_Thomas_(1),Joe Thomas,Thomas Racing,,Cougar,94,175,running,0,31
+1980,NN,1980_Vermont_Governor%27s_Cup,1980_18_NN,17,5,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Ventura,93,170,running,0,28
+1980,NN,1980_Vermont_Governor%27s_Cup,1980_18_NN,18,13,8,usa,Mike_Barry,Mike Barry,PC Racing,,Grand Am,92,220,running,0,33
+1980,NN,1980_Vermont_Governor%27s_Cup,1980_18_NN,19,19,7,usa,Beaver_Dragon,Beaver Dragon,H.A. Manosh,,Ventura,91,250,running,0,25
+1980,NN,1980_Vermont_Governor%27s_Cup,1980_18_NN,20,23,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,68,190,suspension,0,22
+1980,NN,1980_Vermont_Governor%27s_Cup,1980_18_NN,21,16,35,canada,Langis_Caron,Langis Caron,Le Club 35,,Nova,36,135,brakes,0,20
+1980,NN,1980_Vermont_Governor%27s_Cup,1980_18_NN,22,10,2,usa,Dan_Perez,Dan Perez,Burlington Lincoln,,Regal,18,240,oil pressure,0,30
+1980,NN,1980_Vermont_Governor%27s_Cup,1980_18_NN,23,14,11?,canada,Claude_Leclerc,Claude Leclerc,Le Relais Chevrolet,,Nova,13,125,rear end,0,22
+1980,NN,1980_Vermont_Governor%27s_Cup,1980_18_NN,24,22,11?,usa,Darrell_Owen,Darrell Owen,Owen Automotive,,Nova,7,100,oil pan,0,14
+1980,NN,1980_Montreal_80,1980_19_NN,1,12,8,usa,Mike_Barry,Mike Barry,PC Racing,,Grand Am,80,1245,running,51,67
+1980,NN,1980_Montreal_80,1980_19_NN,2,15,71,usa,Bobby_Dragon,Bobby Dragon,71 Racing Team,,Nova,80,715,running,0,60
+1980,NN,1980_Montreal_80,1980_19_NN,3,18,7,usa,Beaver_Dragon,Beaver Dragon,H.A. Manosh,,Ventura,80,575,running,0,57
+1980,NN,1980_Montreal_80,1980_19_NN,4,3,24,usa,Phil_Gerbode,Phil Gerbode,Borderline Farm,,Ventura,80,400,running,0,55
+1980,NN,1980_Montreal_80,1980_19_NN,5,11,34,usa,Steve_Poulin,Steve Poulin,G.M. Pantry,,Grand Am,80,385,running,0,59
+1980,NN,1980_Montreal_80,1980_19_NN,6,20,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Benoit Electric,,Ventura,80,300,running,0,51
+1980,NN,1980_Montreal_80,1980_19_NN,7,16,48,usa,Robbie_Crouch,Robbie Crouch,Green Mountain Kenworth,,Nova,80,340,running,0,56
+1980,NN,1980_Montreal_80,1980_19_NN,8,13,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Nova,80,300,running,0,52
+1980,NN,1980_Montreal_80,1980_19_NN,9,9,11,canada,Claude_Leclerc,Claude Leclerc,Le Relais Chevrolet,,Nova,80,240,running,0,46
+1980,NN,1980_Montreal_80,1980_19_NN,10,8,09,usa,Ron_Barcomb,Ron Barcomb,Churchill's,,Ventura,79,230,running,0,42
+1980,NN,1980_Montreal_80,1980_19_NN,11,7,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,Nova,79,305,running,0,52
+1980,NN,1980_Montreal_80,1980_19_NN,12,2,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,79,210,running,29,38
+1980,NN,1980_Montreal_80,1980_19_NN,13,5,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Ventura,79,190,running,0,38
+1980,NN,1980_Montreal_80,1980_19_NN,14,4,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Malibu,79,245,running,0,45
+1980,NN,1980_Montreal_80,1980_19_NN,15,14,08,usa,Leland_Kangas,Leland Kangas,RC Cola,,Grand Am,78,165,running,0,32
+1980,NN,1980_Montreal_80,1980_19_NN,16,6,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Ventura,76,160,running,0,30
+1980,NN,1980_Montreal_80,1980_19_NN,17,1,17,usa,Kevin_Lepage,Kevin Lepage,Ray's Texaco,,Zephyr,76,170,running,0,33
+1980,NN,1980_Montreal_80,1980_19_NN,18,10,2,usa,Dan_Perez,Dan Perez,Burlington Lincoln,,Regal,62,240,brakes,0,36
+1980,NN,1980_Montreal_80,1980_19_NN,19,19,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,58,135,flat tire,0,24
+1980,NN,1980_Montreal_80,1980_19_NN,20,17,35,canada,Langis_Caron,Langis Caron,Le Club 35,,Nova,47,125,overheating,0,22
+1980,NN,1980_Montreal_80,1980_19_NN,21,21,00,canada,Roger_Laperle,Roger Laperle,Gibeault Chevrolet,,Nova,38,140,panhard bar,0,26
+1980,NN,1980_Autosport_100,1980_20_NN,1,18,35,canada,Langis_Caron,Langis Caron,Le Club 35,,Nova,100,1400,running,51,61
+1980,NN,1980_Autosport_100,1980_20_NN,2,14,00,canada,Roger_Laperle,Roger Laperle,Gibeault Chevrolet,,Nova,100,940,running,0,68
+1980,NN,1980_Autosport_100,1980_20_NN,3,8,11,canada,Claude_Leclerc,Claude Leclerc,Le Relais Chevrolet,,Nova,100,680,running,0,69
+1980,NN,1980_Autosport_100,1980_20_NN,4,13,48,usa,Robbie_Crouch,Robbie Crouch,Green Mountain Kenworth,,Nova,100,490,running,5,61
+1980,NN,1980_Autosport_100,1980_20_NN,5,17,7,usa,Beaver_Dragon,Beaver Dragon,H.A. Manosh,,Ventura,100,500,running,7,52
+1980,NN,1980_Autosport_100,1980_20_NN,6,3,24,usa,Phil_Gerbode,Phil Gerbode,Borderline Farm,,Ventura,100,375,running,9,52
+1980,NN,1980_Autosport_100,1980_20_NN,7,16,71,usa,Bobby_Dragon,Bobby Dragon,71 Racing Team,,Nova,100,415,running,0,58
+1980,NN,1980_Autosport_100,1980_20_NN,8,5,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Phoenix,100,355,running,0,52
+1980,NN,1980_Autosport_100,1980_20_NN,9,9,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Benoit Electric,,Ventura,99,315,running,0,49
+1980,NN,1980_Autosport_100,1980_20_NN,10,12,08,usa,Leland_Kangas,Leland Kangas,RC Cola,,Grand Am,99,275,running,0,42
+1980,NN,1980_Autosport_100,1980_20_NN,11,10,2,usa,Dan_Perez,Dan Perez,Burlington Lincoln,,Regal,99,345,running,0,48
+1980,NN,1980_Autosport_100,1980_20_NN,12,7,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,Nova,99,250,running,0,39
+1980,NN,1980_Autosport_100,1980_20_NN,13,23,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,Nova,95,230,running,0,36
+1980,NN,1980_Autosport_100,1980_20_NN,14,2,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,94,245,running,27,40
+1980,NN,1980_Autosport_100,1980_20_NN,15,6,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Ventura,93,270,running,0,39
+1980,NN,1980_Autosport_100,1980_20_NN,16,21,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,90,205,running,0,30
+1980,NN,1980_Autosport_100,1980_20_NN,17,24,17,usa,Kevin_Lepage,Kevin Lepage,Ray's Texaco,,Futura,45,200,transmission,0,28
+1980,NN,1980_Autosport_100,1980_20_NN,18,4,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Malibu,41,100,crash,0,27
+1980,NN,1980_Autosport_100,1980_20_NN,19,25,1,canada,Marcel_Corriveau,Marcel Corriveau,Giguere Auto,,Apollo,37,170,handling,0,24
+1980,NN,1980_Autosport_100,1980_20_NN,20,19,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait,,Ventura,36,160,crash,0,22
+1980,NN,1980_Autosport_100,1980_20_NN,21,15,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Nova,35,150,handling,0,22
+1980,NN,1980_Autosport_100,1980_20_NN,22,1,38,usa,Mike_Perrotte,Mike Perrotte,McGee's Texaco,,Nova,32,140,rear end,0,18
+1980,NN,1980_Autosport_100,1980_20_NN,23,11,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,12,175,handling,0,16
+1980,NN,1980_Autosport_100,1980_20_NN,24,22,3,canada,Laurent_Rioux,Laurent Rioux,Laurent Racing,,Ventura,5,125,crash,0,14
+1980,NN,1980_Autosport_100,1980_20_NN,25,20,8,usa,Mike_Barry,Mike Barry,PC Racing,,Grand Am,5,100,crash,0,14
+1980,NN,1980_Molson_Monza_180,1980_21_NN,1,10,8,usa,Mike_Barry,Mike Barry,PC Racing,,Grand Am,180,2550,running,75,60
+1980,NN,1980_Molson_Monza_180,1980_21_NN,2,13,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Benoit Electric,,Ventura,180,1605,running,0,63
+1980,NN,1980_Molson_Monza_180,1980_21_NN,3,20,7,usa,Beaver_Dragon,Beaver Dragon,H.A. Manosh,,Ventura,180,900,running,0,57
+1980,NN,1980_Molson_Monza_180,1980_21_NN,4,19,71,usa,Bobby_Dragon,Bobby Dragon,71 Racing Team,,Nova,180,850,running,0,56
+1980,NN,1980_Molson_Monza_180,1980_21_NN,5,18,83,canada,Claude_Aubin,Claude Aubin,Autodrome de Laval,,Nova,180,815,running,19,52
+1980,NN,1980_Molson_Monza_180,1980_21_NN,6,8,09,usa,Ron_Barcomb,Ron Barcomb,Churchill's,,Ventura,180,580,running,0,59
+1980,NN,1980_Molson_Monza_180,1980_21_NN,7,16,48,usa,Robbie_Crouch,Robbie Crouch,Green Mountain Kenworth,,Nova,180,525,running,0,55
+1980,NN,1980_Molson_Monza_180,1980_21_NN,8,15,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Nova,179,500,running,25,53
+1980,NN,1980_Molson_Monza_180,1980_21_NN,9,9,34,usa,Steve_Poulin,Steve Poulin,G.M. Pantry,,Grand Am,179,415,running,6,47
+1980,NN,1980_Molson_Monza_180,1980_21_NN,10,17,00,canada,Roger_Laperle,Roger Laperle,Gibeault Chevrolet,,Nova,180,695,running,0,48
+1980,NN,1980_Molson_Monza_180,1980_21_NN,11,11,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,179,415,running,0,41
+1980,NN,1980_Molson_Monza_180,1980_21_NN,12,3,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Malibu,180,455,running,0,51
+1980,NN,1980_Molson_Monza_180,1980_21_NN,13,21,35,canada,Langis_Caron,Langis Caron,Le Club 35,,Nova,155,325,rear end,0,36
+1980,NN,1980_Molson_Monza_180,1980_21_NN,14,5,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Ventura,176,365,running,0,44
+1980,NN,1980_Molson_Monza_180,1980_21_NN,15,4,17?,usa,Bob_Brunell,Bob Brunell,Metro Liquid Haulers,,Nova,173,280,running,0,32
+1980,NN,1980_Molson_Monza_180,1980_21_NN,16,2,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,133,330,running,16,37
+1980,NN,1980_Molson_Monza_180,1980_21_NN,17,14,08,usa,Leland_Kangas,Leland Kangas,RC Cola,,Grand Am,119,260,running,0,28
+1980,NN,1980_Molson_Monza_180,1980_21_NN,18,12,11,canada,Claude_Leclerc,Claude Leclerc,Le Relais Chevrolet,,Nova,81,250,engine,0,26
+1980,NN,1980_Molson_Monza_180,1980_21_NN,19,22,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,167,230,running,0,24
+1980,NN,1980_Molson_Monza_180,1980_21_NN,20,25,04,usa,Phil_Gerbode,Phil Gerbode,Thompson Racing,,Nova,109,220,running,0,24
+1980,NN,1980_Molson_Monza_180,1980_21_NN,21,1,17,usa,Kevin_Lepage,Kevin Lepage,Ray's Texaco,,Futura,78,210,overheating,1,20
+1980,NN,1980_Molson_Monza_180,1980_21_NN,22,6,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Phoenix,58,200,oil pressure,0,19
+1980,NN,1980_Molson_Monza_180,1980_21_NN,23,26,3,canada,Laurent_Rioux,Laurent Rioux,Laurent Racing,,Ventura,57,125,handling,0,16
+1980,NN,1980_Molson_Monza_180,1980_21_NN,24,23,28,usa,Dan_Perez,Dan Perez,Lums Restaurant,,Nova,75,125,engine,0,14
+1980,NN,1980_Molson_Monza_180,1980_21_NN,25,24,38,usa,Mike_Perrotte,Mike Perrotte,McGee's Texaco,,Nova,53,100,oil pressure,0,12
+1980,NN,1980_Molson_Monza_180,1980_21_NN,26,7,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,Nova,43,100,engine,0,17
+1980,NN,1980_New_England_300,1980_22_NN,1,15,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Nova,301,6000,running,97,61
+1980,NN,1980_New_England_300,1980_22_NN,2,17,00,canada,Roger_Laperle,Roger Laperle,Gibeault Chevrolet,,Nova,300,2045,running,0,58
+1980,NN,1980_New_England_300,1980_22_NN,3,22,7,usa,Beaver_Dragon,Beaver Dragon,H.A. Manosh,,Ventura,300,1455,running,0,56
+1980,NN,1980_New_England_300,1980_22_NN,4,4,24,usa,Phil_Gerbode,Phil Gerbode,Borderline Farm,,Ventura,299,1050,running,0,55
+1980,NN,1980_New_England_300,1980_22_NN,5,5,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Phoenix,298,850,running,0,52
+1980,NN,1980_New_England_300,1980_22_NN,6,12,11?,canada,Claude_Leclerc,Claude Leclerc,Le Relais Chevrolet,,Nova,295,700,running,0,52
+1980,NN,1980_New_England_300,1980_22_NN,7,6,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,Nova,292,630,running,0,48
+1980,NN,1980_New_England_300,1980_22_NN,8,16,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Benoit Electric,,Ventura,290,635,running,0,51
+1980,NN,1980_New_England_300,1980_22_NN,9,10,2,usa,Dan_Perez,Dan Perez,Burlington Lincoln,,Regal,288,545,out of gas,0,47
+1980,NN,1980_New_England_300,1980_22_NN,10,2,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,285,1160,running,20,47
+1980,NN,1980_New_England_300,1980_22_NN,11,1,38?,usa,Mike_Perrotte,Mike Perrotte,McGee's Texaco,,Nova,280,550,running,2,44
+1980,NN,1980_New_England_300,1980_22_NN,12,20,38,usa,Richard_Pinkham,Richard Pinkham,Goodwin's,,Ventura,279,460,running,0,38
+1980,NN,1980_New_England_300,1980_22_NN,13,3,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Malibu,263,415,oil pressure,0,38
+1980,NN,1980_New_England_300,1980_22_NN,14,13,25,usa,Randy_Corey,Randy Corey,Zenex Lubricants,,Ventura,243,375,valve,0,34
+1980,NN,1980_New_England_300,1980_22_NN,15,23,29,usa,Dave_Dion,Dave Dion,Stewart & Sons,,Futura,220,860,transmission,20,32
+1980,NN,1980_New_England_300,1980_22_NN,16,25,3,canada,Laurent_Rioux,Laurent Rioux,Laurent Racing,,Ventura,214,345,running,0,31
+1980,NN,1980_New_England_300,1980_22_NN,17,18,48,usa,Robbie_Crouch,Robbie Crouch,Green Mountain Kenworth,,Nova,207,345,water pump,0,31
+1980,NN,1980_New_England_300,1980_22_NN,18,19,71,usa,Bobby_Dragon,Bobby Dragon,71 Racing Team,,Nova,203,315,running,0,26
+1980,NN,1980_New_England_300,1980_22_NN,19,7,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Ventura,191,285,running,0,24
+1980,NN,1980_New_England_300,1980_22_NN,20,8,59,usa,Hector_Leclair,Hector Leclair,Big Ben's,,Nova,186,2680,crash,92,27
+1980,NN,1980_New_England_300,1980_22_NN,21,9,09,usa,Ron_Barcomb,Ron Barcomb,Churchill's,,Ventura,184,2000,crash,69,23
+1980,NN,1980_New_England_300,1980_22_NN,22,24,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait,,Ventura,178,245,crash,0,18
+1980,NN,1980_New_England_300,1980_22_NN,23,28,11?,usa,Darrell_Owen,Darrell Owen,Owen Automotive,,Nova,159,215,clutch,0,16
+1980,NN,1980_New_England_300,1980_22_NN,24,27,61,usa,Brad_Kennedy,Brad Kennedy,Tuck Press,,Nova,131,175,crash,0,14
+1980,NN,1980_New_England_300,1980_22_NN,25,14,08,usa,Leland_Kangas,Leland Kangas,RC Cola,,Grand Am,108,150,clutch,0,16
+1980,NN,1980_New_England_300,1980_22_NN,26,11,34,usa,Steve_Poulin,Steve Poulin,G.M. Pantry,,Grand Am,80,125,crash,0,12
+1980,NN,1980_New_England_300,1980_22_NN,27,26,8,usa,Mike_Barry,Mike Barry,PC Racing,,Grand Am,36,125,steering,0,16
+1980,NN,1980_New_England_300,1980_22_NN,28,21,35,canada,Langis_Caron,Langis Caron,Le Club 35,,Nova,30,100,engine,0,12
+1980,NN,1980_New_England_300,1980_22_NN,29,29,69,usa,Brent_Hatch,Brent Hatch,Darling's Auto Body,,Nova,5,75,crash,0,14
+1980,NN,1980_New_England_300,1980_22_NN,30,30,28,usa,Stan_Meserve,Stan Meserve,Rice Hill,,Nova,4,75,steering,0,12
+1980,NN,1980_Fall_Final_100,1980_23_NN,1,13,8,usa,Mike_Barry,Mike Barry,PC Racing,,Grand Am,100,2090,running,51,72
+1980,NN,1980_Fall_Final_100,1980_23_NN,2,8,09,usa,Ron_Barcomb,Ron Barcomb,Goodwin's,,Ventura,100,1105,running,22,67
+1980,NN,1980_Fall_Final_100,1980_23_NN,3,15,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Benoit Electric,,Ventura,100,910,running,0,63
+1980,NN,1980_Fall_Final_100,1980_23_NN,4,20,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait,,Ventura,100,700,running,0,54
+1980,NN,1980_Fall_Final_100,1980_23_NN,5,16,48,usa,Robbie_Crouch,Robbie Crouch,Green Mountain Kenworth,,Nova,100,580,running,0,52
+1980,NN,1980_Fall_Final_100,1980_23_NN,6,10,59,usa,Hector_Leclair,Hector Leclair,Big Ben's,,Nova,100,690,running,18,62
+1980,NN,1980_Fall_Final_100,1980_23_NN,7,14,11,canada,Claude_Leclerc,Claude Leclerc,Le Relais Chevrolet,,Nova,100,525,running,0,55
+1980,NN,1980_Fall_Final_100,1980_23_NN,8,12,08,usa,Leland_Kangas,Leland Kangas,RC Cola,,Grand Am,100,450,running,0,47
+1980,NN,1980_Fall_Final_100,1980_23_NN,9,21,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Nova,100,400,running,0,46
+1980,NN,1980_Fall_Final_100,1980_23_NN,10,2,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,99,450,running,0,49
+1980,NN,1980_Fall_Final_100,1980_23_NN,11,17,35,canada,Langis_Caron,Langis Caron,Le Club 35,,Nova,99,400,running,0,46
+1980,NN,1980_Fall_Final_100,1980_23_NN,12,5,24,usa,Phil_Gerbode,Phil Gerbode,Borderline Farm,,Ventura,99,350,running,0,40
+1980,NN,1980_Fall_Final_100,1980_23_NN,13,9,34,usa,Steve_Poulin,Steve Poulin,G.M. Pantry,,Grand Am,98,320,running,0,36
+1980,NN,1980_Fall_Final_100,1980_23_NN,14,27,77,usa,Bob_Timmons,Bob Timmons,Pape Chevrolet,,Nova,98,300,running,0,34
+1980,NN,1980_Fall_Final_100,1980_23_NN,15,24,61,usa,Brad_Kennedy,Brad Kennedy,Tuck Press,,Nova,97,280,running,0,32
+1980,NN,1980_Fall_Final_100,1980_23_NN,16,23,28,usa,Stan_Meserve,Stan Meserve,Rice Hill,,Nova,97,270,running,0,30
+1980,NN,1980_Fall_Final_100,1980_23_NN,17,26,51,usa,Skip_Cahill,Skip Cahill,Cahill Tire,,Granada,96,260,running,0,28
+1980,NN,1980_Fall_Final_100,1980_23_NN,18,29,50,usa,Frank_Sapowsky,Frank Sapowsky,Service Auto Supply,,Nova,93,240,running,0,26
+1980,NN,1980_Fall_Final_100,1980_23_NN,19,7,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,Nova,91,220,running,0,26
+1980,NN,1980_Fall_Final_100,1980_23_NN,20,19,7,usa,Beaver_Dragon,Beaver Dragon,H.A. Manosh,,Ventura,89,310,running,0,23
+1980,NN,1980_Fall_Final_100,1980_23_NN,21,22,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,87,200,running,0,20
+1980,NN,1980_Fall_Final_100,1980_23_NN,22,11,69,usa,Brent_Hatch,Brent Hatch,Darling's Auto Body,,Nova,75,190,running,0,18
+1980,NN,1980_Fall_Final_100,1980_23_NN,23,28,76,usa,Tom_Bolles,Tom Bolles,Clyde Chevrolet,,Nova,59,170,brakes,0,16
+1980,NN,1980_Fall_Final_100,1980_23_NN,24,6,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Nova,51,140,a frame,0,14
+1980,NN,1980_Fall_Final_100,1980_23_NN,25,1,17?,usa,Kevin_Lepage,Kevin Lepage,Ray's Texaco,,Futura,50,125,oil leak,3,18
+1980,NN,1980_Fall_Final_100,1980_23_NN,26,4,17?,usa,Bob_Brunell,Bob Brunell,Metro Liquid Haulers,,Nova,48,100,engine,0,13
+1980,NN,1980_Fall_Final_100,1980_23_NN,27,18,71,usa,Bobby_Dragon,Bobby Dragon,71 Team Racing,,Nova,40,75,crash,0,12
+1980,NN,1980_Fall_Final_100,1980_23_NN,28,3,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Malibu,40,105,crash,6,18
+1980,NN,1980_Fall_Final_100,1980_23_NN,29,25,4,usa,Wes_Rosner,Wes Rosner,Rosner Race Cars,,Nova,40,60,crash,0,12
+1980,NN,1980_Fall_Final_100,1980_23_NN,30,30,73,usa,Jerry_Marquis,Jerry Marquis,AFS Construction,,Nova,36,60,crash,0,12
+1980,NN,1980_Maine_Open_100,1980_24_NN,1,19,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait,,Ventura,123,1400,running,60,60
+1980,NN,1980_Maine_Open_100,1980_24_NN,2,13,48,usa,Robbie_Crouch,Robbie Crouch,Green Mountain Kenworth,,Nova,123,850,running,0,58
+1980,NN,1980_Maine_Open_100,1980_24_NN,3,3,35,canada,Langis_Caron,Langis Caron,Le Club 35,,Nova,123,600,running,0,56
+1980,NN,1980_Maine_Open_100,1980_24_NN,4,28,29,usa,Dave_Dion,Dave Dion,Stewart & Sons Ford,,Futura,123,550,running,0,54
+1980,NN,1980_Maine_Open_100,1980_24_NN,5,11,11,canada,Claude_Leclerc,Claude Leclerc,Le Relais Chevrolet,,Nova,123,500,running,0,52
+1980,NN,1980_Maine_Open_100,1980_24_NN,6,7,23,canada,Frank_Fraser,Frank Fraser   (OC),Fraser Racing,,Camaro,123,400,running,0,0
+1980,NN,1980_Maine_Open_100,1980_24_NN,7,2,9,usa,Harvey_Sprague,Harvey Sprague   (OC),Cundy's Harbor,,Camaro,123,350,running,61,0
+1980,NN,1980_Maine_Open_100,1980_24_NN,8,25,09,usa,Ron_Barcomb,Ron Barcomb,Churchill's,,Ventura,123,325,running,0,50
+1980,NN,1980_Maine_Open_100,1980_24_NN,9,5,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Nova,123,300,running,0,48
+1980,NN,1980_Maine_Open_100,1980_24_NN,10,15,37,usa,Beaver_Dragon,Beaver Dragon,H.A. Manosh,,Ventura,123,350,running,0,46
+1980,NN,1980_Maine_Open_100,1980_24_NN,11,21,44,usa,Jeff_Stevens,Jeff Stevens   (OC),Stevens Racing,,Camaro,123,225,running,0,0
+1980,NN,1980_Maine_Open_100,1980_24_NN,12,35,34,usa,Steve_Poulin,Steve Poulin,G.M. Pantry,,Grand Am,122,210,running,0,44
+1980,NN,1980_Maine_Open_100,1980_24_NN,13,4,27,usa,Jimmy_Burns_(1),Jimmy Burns   (OC),Perkins Home Builders,,Nova,122,350,running,0,0
+1980,NN,1980_Maine_Open_100,1980_24_NN,14,9,38,usa,Richard_Pinkham,Richard Pinkham,Goodwin's,,Ventura,122,180,running,0,42
+1980,NN,1980_Maine_Open_100,1980_24_NN,15,24,24,usa,Phil_Gerbode,Phil Gerbode,Borderline Farm,,Ventura,122,175,running,0,40
+1980,NN,1980_Maine_Open_100,1980_24_NN,16,6,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Benoit Electric,,Ventura,122,170,running,0,38
+1980,NN,1980_Maine_Open_100,1980_24_NN,17,32,00,canada,Roger_Laperle,Roger Laperle,Gibeault Chevrolet,,Nova,122,165,running,0,36
+1980,NN,1980_Maine_Open_100,1980_24_NN,18,30,88,usa,Mike_Barry,Mike Barry,PC Racing,,Grand Am,121,160,running,0,34
+1980,NN,1980_Maine_Open_100,1980_24_NN,19,29,10,usa,Ralph_Nason,Ralph Nason   (OC),Sachs Chain Saws,,Chevelle,121,150,running,0,0
+1980,NN,1980_Maine_Open_100,1980_24_NN,20,34,61,usa,Brad_Kennedy,Brad Kennedy,Tuck Press,,Nova,121,125,running,0,32
+1980,NN,1980_Maine_Open_100,1980_24_NN,21,22,4,usa,Dick_Glines,Dick Glines   (OC),Leavitt Chassis,,Camaro,121,110,running,0,0
+1980,NN,1980_Maine_Open_100,1980_24_NN,22,33,17,usa,Kevin_Lepage,Kevin Lepage,Ray's Texaco,,Futura,121,100,running,0,30
+1980,NN,1980_Maine_Open_100,1980_24_NN,23,26,13,usa,George_Babb,George Babb   (OC),M & S Auto Supply,,Nova,120,175,running,0,0
+1980,NN,1980_Maine_Open_100,1980_24_NN,24,1,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Ventura,120,75,running,2,28
+1980,NN,1980_Maine_Open_100,1980_24_NN,25,27,5,usa,Mike_Rowe,Mike Rowe   (OC),VIP Auto Parts,,Nova,111,125,engine,0,0
+1980,NN,1980_Maine_Open_100,1980_24_NN,26,8,71,usa,Bobby_Dragon,Bobby Dragon,71 Racing Team,,Nova,105,50,fuel leak,0,26
+1980,NN,1980_Maine_Open_100,1980_24_NN,27,14,94,usa,Skip_Hodgdon,Skip Hodgdon   (OC),Bernie Allen,,Camaro,96,50,running,0,0
+1980,NN,1980_Maine_Open_100,1980_24_NN,28,23,40,usa,Jim_Brown,Jim Brown,Amalie Oil,,Ventura,68,50,overheating,0,24
+1980,NN,1980_Maine_Open_100,1980_24_NN,29,31,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Malibu,56,50,handling,0,22
+1980,NN,1980_Maine_Open_100,1980_24_NN,30,12,07,usa,Tom_Rosati,Tom Rosati   (OC),E.A. Grandfield,,Camaro,38,50,crash,0,0
+1980,NN,1980_Maine_Open_100,1980_24_NN,31,18,7,usa,Bob_Gerry,Bob Gerry   (OC),Gerry Chevrolet,,Nova,29,50,handling,0,0
+1980,NN,1980_Maine_Open_100,1980_24_NN,32,36,22,usa,Reggie_Gammon,Reggie Gammon   (OC),Ken's Auto Service,,Nova,21,50,crash,0,0
+1980,NN,1980_Maine_Open_100,1980_24_NN,33,17,62,usa,Larry_Pottle,Larry Pottle   (OC),Pottle Racing,,Cougar,18,50,engine,0,0
+1980,NN,1980_Maine_Open_100,1980_24_NN,34,10,59,usa,Hector_Leclair,Hector Leclair,Big Ben's,,Nova,6,100,steering,0,20
+1980,NN,1980_Maine_Open_100,1980_24_NN,35,16,72,usa,Dan_Perez,Dan Perez,Burlington Lincoln,,Regal,3,50,crash,0,18
+1980,NN,1980_Maine_Open_100,1980_24_NN,36,20,08,usa,Leland_Kangas,Leland Kangas,RC Cola,,Grand Am,3,50,crash,0,16
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,1,9,59,usa,Hector_Leclair,Hector Leclair,Big Ben's,,Nova,150,1550,running,4,60
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,2,4,48,usa,Robbie_Crouch,Robbie Crouch,Green Mountain Kenworth,,Nova,150,850,running,48,58
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,3,7,7,usa,Beaver_Dragon,Beaver Dragon,H.A. Manosh,,Ventura,150,775,running,0,56
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,4,10,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Nova,150,550,running,0,54
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,5,3,35,canada,Langis_Caron,Langis Caron,Le Club 35,,Nova,150,475,running,0,52
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,6,6,00,canada,Roger_Laperle,Roger Laperle,Gibeault Chevrolet,,Nova,149,440,running,0,50
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,7,15,11,canada,Claude_Leclerc,Claude Leclerc,Le Relais Chevrolet,,Nova,150,400,running,0,48
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,8,5,8,usa,Mike_Barry,Mike Barry,PC Racing,,Grand Am,142,370,running,0,46
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,9,20,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,Nova,148,340,running,0,44
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,10,17,61,usa,Brad_Kennedy,Brad Kennedy,Tuck Press,,Nova,149,325,running,0,42
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,11,19,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Leavitt Chassis,,Ventura,149,310,running,0,40
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,12,13,25,usa,Randy_Corey,Randy Corey,Zenez Lubricants,,Ventura,102,300,running,46,38
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,13,16,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Malibu,147,270,running,0,36
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,14,11,24,usa,Phil_Gerbode,Phil Gerbode,Borderline Farm,,Ventura,147,250,running,0,34
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,15,24,88,usa,Bobby_Dragon,Bobby Dragon,PC Racing,,Ventura,144,235,running,0,32
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,16,22,44,canada,Keith_Cavanagh,Keith Cavanagh,Cavanagh Racing,,Phoenix,148,225,running,0,30
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,17,12,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,140,220,engine,0,28
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,18,26,15,canada,Jocelyn_Tremblay,Jocelyn Tremblay,Benoit Electric,,Ventura,92,410,running,0,26
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,19,8,34,usa,Steve_Poulin,Steve Poulin,G.M. Pantry,,Grand Am,98,190,running,0,24
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,20,1,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Benoit Electric,,Ventura,61,175,engine,52,22
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,21,14,2,usa,Dan_Perez,Dan Perez,Burlington Lincoln,,Regal,140,165,overheating,0,20
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,22,23,1,usa,Albert_Hammond,Albert Hammond,Goodwin's,,Ventura,94,160,crash,0,18
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,23,25,17,usa,Kevin_Lepage,Kevin Lepage,Ray's Texaco,,Futura,51,450,running,0,16
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,24,27,03,usa,Milt_Wright,Milt Wright,Gates Salvage,,Nova,82,320,out of gas,0,14
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,25,21,38,usa,Mike_Perrotte,Mike Perrotte,McGee's Texaco,,Nova,99,75,overheating,0,12
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,26,28,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,Nova,47,235,running,0,12
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,27,2,09,usa,Ron_Barcomb,Ron Barcomb,Churchill's,,Ventura,45,50,engine,0,12
+1980,NN,1980_Vermont_Milk_Bowl,1980_25_NN,28,18,08,usa,Leland_Kangas,Leland Kangas,RC Cola,,Grand Am,38,50,crash,0,12

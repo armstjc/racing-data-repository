@@ -1,0 +1,483 @@
+season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
+1967,UO,1967_Jimmy_Bryan_Memorial,1967_01_UO,1,1,25,usa,Lloyd_Ruby,Lloyd Ruby,Gene White,,Mongoose / Offy,150,4603,running,150,300
+1967,UO,1967_Jimmy_Bryan_Memorial,1967_01_UO,2,6,12,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Ford,150,2761,running,0,240
+1967,UO,1967_Jimmy_Bryan_Memorial,1967_01_UO,3,3,3,usa,Gordon_Johncock,Gordon Johncock,Johncock Racing Team,,Gerhardt / Ford,150,1841,running,0,210
+1967,UO,1967_Jimmy_Bryan_Memorial,1967_01_UO,4,8,82,usa,Joe_Leonard,Joe Leonard,Sheraton / Thompson,,Lotus / Ford,148,1334,running,0,180
+1967,UO,1967_Jimmy_Bryan_Memorial,1967_01_UO,5,5,84,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Lotus / Ford,148,1104,running,0,150
+1967,UO,1967_Jimmy_Bryan_Memorial,1967_01_UO,6,12,96,usa,Greg_Weld,Greg Weld,J. Frank Harrison,,Eisert / Chevy,146,920,running,0,120
+1967,UO,1967_Jimmy_Bryan_Memorial,1967_01_UO,7,4,16,usa,Art_Pollard,Art Pollard,Thermo King Auto Air Conditioning,,Gerhardt / Offy,146,736,running,0,90
+1967,UO,1967_Jimmy_Bryan_Memorial,1967_01_UO,8,11,19,usa,Arnie_Knepper,Arnie Knepper,MVS Racers,,Cecil / Ford,144,644,running,0,75
+1967,UO,1967_Jimmy_Bryan_Memorial,1967_01_UO,9,24,57,germany,Lothar_Motschenbacher,Lothar Motschenbacher,Kenny Brenn,,Gerhardt / Offy,143,598,running,0,60
+1967,UO,1967_Jimmy_Bryan_Memorial,1967_01_UO,10,19,46,usa,Mel_Kenyon,Mel Kenyon,Thermo King Auto Air Conditioning,,Gerhardt / Offy,142,552,running,0,45
+1967,UO,1967_Jimmy_Bryan_Memorial,1967_01_UO,11,23,65,usa,George_Benson,George Benson,Travelon Trailer,,Gerhardt / Offy,140,506,running,0,30
+1967,UO,1967_Jimmy_Bryan_Memorial,1967_01_UO,12,10,87,usa,Jerry_Grant,Jerry Grant,Bardahl,,Eagle / Ford,137,460,running,0,15
+1967,UO,1967_Jimmy_Bryan_Memorial,1967_01_UO,13,16,33,usa,Peter_Revson,Peter Revson,Dayton Disk Brake,,Lola / Offy,133,414,running,0,
+1967,UO,1967_Jimmy_Bryan_Memorial,1967_01_UO,14,20,77,usa,Bruce_Jacobi,Bruce Jacobi,Dayton Steel Wheel,,Gerhardt / Ford,116,368,running,0,
+1967,UO,1967_Jimmy_Bryan_Memorial,1967_01_UO,15,21,98,usa,Jim_McElreath,Jim McElreath,REV 500,,Shrike / Offy,74,322,crash,0,
+1967,UO,1967_Jimmy_Bryan_Memorial,1967_01_UO,16,14,45,usa,Norm_Brown,Norm Brown,Weinberger Homes,,Watson / Offy,74,276,crash,0,
+1967,UO,1967_Jimmy_Bryan_Memorial,1967_01_UO,17,22,85,usa,Al_Miller_(1),Al Miller,Caves Buick,,Gerhardt / Offy,73,230,crash,0,
+1967,UO,1967_Jimmy_Bryan_Memorial,1967_01_UO,18,18,53,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Huffaker / Offy,63,184,fuel pump,0,
+1967,UO,1967_Jimmy_Bryan_Memorial,1967_01_UO,19,7,6,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Ford,52,92,crash,0,
+1967,UO,1967_Jimmy_Bryan_Memorial,1967_01_UO,20,13,22,usa,Larry_Dickson,Larry Dickson,Vita Fresh Orange Juice,,Lotus / Ford,51,92,crash,0,
+1967,UO,1967_Jimmy_Bryan_Memorial,1967_01_UO,21,9,26,usa,George_Snider,George Snider,Vel's Ford Sales,,Mongoose / Ford,49,92,electrical,0,
+1967,UO,1967_Jimmy_Bryan_Memorial,1967_01_UO,22,17,55,usa,Gary_Congdon,Gary Congdon,Lynch,,Halibrand / Offy,43,92,rear end,0,
+1967,UO,1967_Jimmy_Bryan_Memorial,1967_01_UO,23,2,5,usa,Al_Unser,Al Unser,American Red Ball,,Lola / Ford,31,92,valve,0,
+1967,UO,1967_Jimmy_Bryan_Memorial,1967_01_UO,24,15,29,usa,Bob_Hurt,Bob Hurt,REV 500,,Gerhardt / Offy,26,92,differential,0,
+1967,UO,1967_Trenton_150,1967_02_UO,1,1,1,usa,Mario_Andretti,Mario Andretti,Dean Van Lines,,Brawner / Ford,150,6997,running,150,300
+1967,UO,1967_Trenton_150,1967_02_UO,2,13,12,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Ford,150,4252,running,0,240
+1967,UO,1967_Trenton_150,1967_02_UO,3,14,6,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Ford,149,2879,running,0,210
+1967,UO,1967_Trenton_150,1967_02_UO,4,4,2,usa,Jim_McElreath,Jim McElreath,Zink-Urschel-Slick,,Moore / Ford,148,2124,running,0,180
+1967,UO,1967_Trenton_150,1967_02_UO,5,10,46,usa,Mel_Kenyon,Mel Kenyon,Thermo King Auto Air Conditioning,,Gerhardt / Offy,147,1780,running,0,150
+1967,UO,1967_Trenton_150,1967_02_UO,6,20,71,usa,Gig_Stephens,Gig Stephens,Atamian Ford,,Halibrand / Offy,143,1506,running,0,120
+1967,UO,1967_Trenton_150,1967_02_UO,7,21,81,usa,Arnie_Knepper,Arnie Knepper,Central Excavating,,Dunlop / Offy,142,1231,running,0,90
+1967,UO,1967_Trenton_150,1967_02_UO,8,3,16,usa,Art_Pollard,Art Pollard,Thermo King Auto Air Conditioning,,Gerhardt / Offy,142,1094,running,0,75
+1967,UO,1967_Trenton_150,1967_02_UO,9,18,35,usa,Ralph_Liguori,Ralph Liguori,Enterprise Machine,,Flynn / Offy,141,1025,running,0,60
+1967,UO,1967_Trenton_150,1967_02_UO,10,19,52,usa,Bob_Tattersall,Bob Tattersall,Vargo Excavating,,Meskowski / Offy,134,957,magneto,0,45
+1967,UO,1967_Trenton_150,1967_02_UO,11,12,57,usa,Bob_Harkey,Bob Harkey,Kenny Brenn,,Gerhardt / Offy,132,888,fuel pump,0,30
+1967,UO,1967_Trenton_150,1967_02_UO,12,6,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,128,819,vibration,0,15
+1967,UO,1967_Trenton_150,1967_02_UO,13,16,96,usa,Greg_Weld,Greg Weld,J. Frank Harrison,,Eisert / Chevy,124,751,suspension,0,
+1967,UO,1967_Trenton_150,1967_02_UO,14,11,82,usa,Joe_Leonard,Joe Leonard,Sheraton / Thompson,,Lotus / Ford,114,682,rear end,0,
+1967,UO,1967_Trenton_150,1967_02_UO,15,7,84,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Lotus / Ford,86,613,suspension,0,
+1967,UO,1967_Trenton_150,1967_02_UO,16,15,22,usa,Larry_Dickson,Larry Dickson,Vita Fresh Orange Juice,,Meskowski / Offy,83,544,torsion bar,0,
+1967,UO,1967_Trenton_150,1967_02_UO,17,9,27,belgium,Lucien_Bianchi,Lucien Bianchi,Jim Robbins,,Vollstedt / Ford,57,476,overheating,0,
+1967,UO,1967_Trenton_150,1967_02_UO,18,5,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Offy,45,407,engine,0,
+1967,UO,1967_Trenton_150,1967_02_UO,19,17,87,usa,Ronnie_Duman,Ronnie Duman,California Speed & Sport Shop,,Halibrand / Offy,37,270,engine,0,
+1967,UO,1967_Trenton_150,1967_02_UO,20,8,3,usa,Gordon_Johncock,Gordon Johncock,Johncock Racing Team,,Gerhardt / Ford,20,270,half shaft,0,
+1967,UO,1967_Trenton_150,1967_02_UO,21,2,25,usa,Lloyd_Ruby,Lloyd Ruby,American Red Ball,,Mongoose / Offy,15,270,turbo hose,0,
+1967,UO,1967_Indianapolis_500,1967_03_UO,1,4,14,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,200,171527,running,27,1000
+1967,UO,1967_Indianapolis_500,1967_03_UO,2,9,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,198,67127,running,0,800
+1967,UO,1967_Indianapolis_500,1967_03_UO,3,5,4,usa,Joe_Leonard,Joe Leonard,Sheraton / Thompson,,Coyote / Ford,197,43177,running,0,700
+1967,UO,1967_Indianapolis_500,1967_03_UO,4,24,69,new_zealand,Denny_Hulme,Denny Hulme,City of Daytona Beach,,Eagle / Ford,197,28177,running,0,600
+1967,UO,1967_Indianapolis_500,1967_03_UO,5,11,2,usa,Jim_McElreath,Jim McElreath,John Zink Trackburner,,Moore / Ford,197,22957,running,0,500
+1967,UO,1967_Indianapolis_500,1967_03_UO,6,6,40,usa,Parnelli_Jones,Parnelli Jones,STP Oil Treatment,,Granatelli / Turbine,196,55767,gearbox,171,400
+1967,UO,1967_Indianapolis_500,1967_03_UO,7,27,8,usa,Chuck_Hulse,Chuck Hulse,Interstate Racer,,Lola / Offy,195,18397,crash,0,300
+1967,UO,1967_Indianapolis_500,1967_03_UO,8,13,16,usa,Art_Pollard,Art Pollard,Thermo King Auto Air Conditioning,,Gerhardt / Offy,195,16928,running,0,250
+1967,UO,1967_Indianapolis_500,1967_03_UO,9,8,6,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Ford,193,15773,running,0,200
+1967,UO,1967_Indianapolis_500,1967_03_UO,10,23,41,usa,Carl_Williams,Carl Williams,Bryant Racing Team,,BRP / Ford,189,16173,crash,0,150
+1967,UO,1967_Indianapolis_500,1967_03_UO,11,28,46,usa,Bob_Veith,Bob Veith,Thermo King Auto Air Conditioning,,Gerhardt / Offy,189,14461,running,0,100
+1967,UO,1967_Indianapolis_500,1967_03_UO,12,3,3,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Gerhardt / Ford,188,15518,crash,0,50
+1967,UO,1967_Indianapolis_500,1967_03_UO,13,12,39,usa,Bobby_Grim,Bobby Grim,Racing Associates,,Gerhardt / Offy,187,13244,crash,0,
+1967,UO,1967_Indianapolis_500,1967_03_UO,14,25,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Ford,182,13376,spun out,0,
+1967,UO,1967_Indianapolis_500,1967_03_UO,15,21,22,usa,Larry_Dickson,Larry Dickson,Vita-Fresh Orange Juice,,Lotus / Ford,180,12565,spun out,0,
+1967,UO,1967_Indianapolis_500,1967_03_UO,16,14,15,usa,Mel_Kenyon,Mel Kenyon,Thermo King Auto Air Conditioning,,Gerhardt / Offy,177,12273,crash,0,
+1967,UO,1967_Indianapolis_500,1967_03_UO,17,20,21,usa,Cale_Yarborough,Cale Yarborough,Bryant Heating & Cooling,,Vollstedt / Ford,176,11900,crash,0,
+1967,UO,1967_Indianapolis_500,1967_03_UO,18,29,24,scotland,Jackie_Stewart,Jackie Stewart,Bowes Seal-Fast,,Lola / Ford,168,12796,engine,0,
+1967,UO,1967_Indianapolis_500,1967_03_UO,19,22,12,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Ford,165,12961,engine,0,
+1967,UO,1967_Indianapolis_500,1967_03_UO,20,30,42,usa,Jerry_Grant,Jerry Grant,All American Racers,,Eagle / Ford,162,11845,rings,0,
+1967,UO,1967_Indianapolis_500,1967_03_UO,21,2,74,usa,Dan_Gurney,Dan Gurney,Wagner Lockheed Brake Fluid,,Eagle / Ford,160,15498,piston,2,
+1967,UO,1967_Indianapolis_500,1967_03_UO,22,18,19,usa,Arnie_Knepper,Arnie Knepper,MVS Racers,,Cecil / Ford,158,10570,engine,0,
+1967,UO,1967_Indianapolis_500,1967_03_UO,23,17,98,usa,Ronnie_Duman,Ronnie Duman,REV 500,,Shrike / Offy,154,10261,fuel,0,
+1967,UO,1967_Indianapolis_500,1967_03_UO,24,32,48,austria,Jochen_Rindt,Jochen Rindt,Wagner Lockheed Brake Fluid,,Eagle / Ford,108,10571,valve,0,
+1967,UO,1967_Indianapolis_500,1967_03_UO,25,19,45,usa,Johnny_Rutherford,Johnny Rutherford,Weinberger Homes,,Eagle / Ford,103,10000,crash,0,
+1967,UO,1967_Indianapolis_500,1967_03_UO,26,10,26,usa,George_Snider,George Snider,Wagner Lockheed Brake Fluid,,Mongoose / Ford,99,9898,crash,0,
+1967,UO,1967_Indianapolis_500,1967_03_UO,27,26,67,usa,LeeRoy_Yarbrough,LeeRoy Yarbrough,Jim Robbins Seat Belt,,Vollstedt / Ford,87,10015,crash,0,
+1967,UO,1967_Indianapolis_500,1967_03_UO,28,33,32,usa,Al_Miller_(1),Al Miller,Cleaver Brooks,,Gerhardt / Ford,74,9951,oil leak,0,
+1967,UO,1967_Indianapolis_500,1967_03_UO,29,15,53,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Huffaker / Offy,73,9406,crash,0,
+1967,UO,1967_Indianapolis_500,1967_03_UO,30,1,1,usa,Mario_Andretti,Mario Andretti,Dean Van Lines,,Hawk / Ford,58,21048,lost wheel,0,
+1967,UO,1967_Indianapolis_500,1967_03_UO,31,16,31,scotland,Jimmy_Clark,Jimmy Clark,STP Oil Treatment,,Lotus / Ford,35,9373,piston,0,
+1967,UO,1967_Indianapolis_500,1967_03_UO,32,31,81,uk,Graham_Hill,Graham Hill,STP Oil Treatment,,Lotus / Ford,23,9935,piston,0,
+1967,UO,1967_Indianapolis_500,1967_03_UO,33,7,25,usa,Lloyd_Ruby,Lloyd Ruby,American Red Ball,,Mongoose / Offy,3,9666,valve,0,
+1967,UO,1967_Rex_Mays_Classic,1967_04_UO,1,1,3,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Gerhardt / Ford,150,12397,running,108,300
+1967,UO,1967_Rex_Mays_Classic,1967_04_UO,2,4,25,usa,Lloyd_Ruby,Lloyd Ruby,American Red Ball,,Mongoose / Ford,150,7438,running,0,240
+1967,UO,1967_Rex_Mays_Classic,1967_04_UO,3,3,12,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Ford,150,4959,running,0,210
+1967,UO,1967_Rex_Mays_Classic,1967_04_UO,4,10,2,usa,Jim_McElreath,Jim McElreath,John Zink Trackburner,,Moore / Ford,150,3595,running,0,180
+1967,UO,1967_Rex_Mays_Classic,1967_04_UO,5,8,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Huffaker / Offy,149,2975,running,0,150
+1967,UO,1967_Rex_Mays_Classic,1967_04_UO,6,6,6,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Ford,149,2479,running,0,120
+1967,UO,1967_Rex_Mays_Classic,1967_04_UO,7,12,57,usa,Bob_Harkey,Bob Harkey,Kenny Brenn,,Gerhardt / Ford,148,1983,running,0,90
+1967,UO,1967_Rex_Mays_Classic,1967_04_UO,8,2,4,usa,Joe_Leonard,Joe Leonard,Sheraton / Thompson,,Coyote / Ford,146,1735,running,42,75
+1967,UO,1967_Rex_Mays_Classic,1967_04_UO,9,18,22,usa,Larry_Dickson,Larry Dickson,Vita Fresh Orange Juice,,Lotus / Ford,146,1611,running,0,60
+1967,UO,1967_Rex_Mays_Classic,1967_04_UO,10,23,15,usa,Mel_Kenyon,Mel Kenyon,Thermo King Auto Air Conditioning,,Gerhardt / Offy,144,1487,running,0,45
+1967,UO,1967_Rex_Mays_Classic,1967_04_UO,11,24,36,usa,Ronnie_Duman,Ronnie Duman,Atamian Ford,,Halibrand / Offy,143,1363,running,0,30
+1967,UO,1967_Rex_Mays_Classic,1967_04_UO,12,14,47,usa,Johnny_Rutherford,Johnny Rutherford,Weinberger Homes,,Eagle / Ford,142,1239,magneto,0,15
+1967,UO,1967_Rex_Mays_Classic,1967_04_UO,13,16,42,usa,Jerry_Grant,Jerry Grant,Friedkin Enterprises,,Eagle / Ford,131,1115,running,0,
+1967,UO,1967_Rex_Mays_Classic,1967_04_UO,14,22,73,usa,Bruce_Jacobi,Bruce Jacobi,Central Excavating,,Gerhardt / Offy,130,991,injector,0,
+1967,UO,1967_Rex_Mays_Classic,1967_04_UO,15,20,49,usa,Norm_Brown,Norm Brown,Weinberger Homes,,Gerhardt / Ford,105,867,crash,0,
+1967,UO,1967_Rex_Mays_Classic,1967_04_UO,16,11,90,usa,Jim_Hurtubise,Jim Hurtubise,Leader Card Racers,,Watson / Ford,67,743,motor bracket,0,
+1967,UO,1967_Rex_Mays_Classic,1967_04_UO,17,19,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Offy,53,619,engine,0,
+1967,UO,1967_Rex_Mays_Classic,1967_04_UO,18,17,26,usa,George_Snider,George Snider,Wagner Lockheed Brake Fluidd,,Mongoose / Ford,42,495,clutch,0,
+1967,UO,1967_Rex_Mays_Classic,1967_04_UO,19,9,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,28,247,crash,0,
+1967,UO,1967_Rex_Mays_Classic,1967_04_UO,20,7,16,usa,Art_Pollard,Art Pollard,Thermo King Auto Air Conditioning,,Gerhardt / Offy,28,247,crash,0,
+1967,UO,1967_Rex_Mays_Classic,1967_04_UO,21,5,14,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,25,247,pinion gear,0,
+1967,UO,1967_Rex_Mays_Classic,1967_04_UO,22,15,29,usa,Bob_Hurt,Bob Hurt,REV 500,,Gerhardt / Offy,22,247,engine,0,
+1967,UO,1967_Rex_Mays_Classic,1967_04_UO,23,13,89,usa,Bobby_Grim,Bobby Grim,Racing Associates,,Gerhardt / Offy,13,247,piston,0,
+1967,UO,1967_Rex_Mays_Classic,1967_04_UO,24,21,77,usa,Al_Smith,Al Smith,Dayton Steel Wheel,,Gerhardt / Ford,2,247,crash,0,
+1967,UO,1967_Langhorne_100,1967_05_UO,1,2,25,usa,Lloyd_Ruby,Lloyd Ruby,American Red Ball,,Lotus / Ford,100,5376,running,47,200
+1967,UO,1967_Langhorne_100,1967_05_UO,2,1,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,100,3486,running,53,160
+1967,UO,1967_Langhorne_100,1967_05_UO,3,6,1,usa,Mario_Andretti,Mario Andretti,Dean Van Lines,,Brawner / Ford,100,2226,running,0,140
+1967,UO,1967_Langhorne_100,1967_05_UO,4,3,3,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Gerhardt / Ford,98,1596,running,0,120
+1967,UO,1967_Langhorne_100,1967_05_UO,5,8,14,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,98,1386,running,0,100
+1967,UO,1967_Langhorne_100,1967_05_UO,6,9,6,usa,Bobby_Unser,Bobby Unser,Rislone,,Gerhardt / Ford,98,1177,running,0,80
+1967,UO,1967_Langhorne_100,1967_05_UO,7,10,4,usa,Joe_Leonard,Joe Leonard,Sheraton / Thompson,,Coyote / Ford,98,967,running,0,60
+1967,UO,1967_Langhorne_100,1967_05_UO,8,18,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Ford,97,862,running,0,50
+1967,UO,1967_Langhorne_100,1967_05_UO,9,19,49,usa,Norm_Brown,Norm Brown,Weinberger Homes,,Gerhardt / Ford,96,809,running,0,40
+1967,UO,1967_Langhorne_100,1967_05_UO,10,22,47,usa,Johnny_Rutherford,Johnny Rutherford,Weinberger Homes,,Eagle / Offy,96,757,running,0,30
+1967,UO,1967_Langhorne_100,1967_05_UO,11,15,2,usa,Jim_McElreath,Jim McElreath,John Zink Trackburner,,Moore / Ford,95,704,running,0,20
+1967,UO,1967_Langhorne_100,1967_05_UO,12,21,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Huffaker / Offy,95,652,running,0,10
+1967,UO,1967_Langhorne_100,1967_05_UO,13,16,85,usa,Al_Miller_(1),Al Miller,Caves Buick,,Gerhardt / Offy,92,599,running,0,
+1967,UO,1967_Langhorne_100,1967_05_UO,14,5,16,usa,Art_Pollard,Art Pollard,Thermo King Auto Air Conditioning,,Gerhardt / Offy,78,547,engine,0,
+1967,UO,1967_Langhorne_100,1967_05_UO,15,17,90,usa,Jim_Hurtubise,Jim Hurtubise,Leader Card Racers,,Watson / Offy,72,494,oil leak,0,
+1967,UO,1967_Langhorne_100,1967_05_UO,16,13,41,usa,Carl_Williams,Carl Williams,George Bryant,,BRP / Ford,65,442,handling,0,
+1967,UO,1967_Langhorne_100,1967_05_UO,17,4,12,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Ford,42,389,radiator,0,
+1967,UO,1967_Langhorne_100,1967_05_UO,18,11,98,usa,Ronnie_Duman,Ronnie Duman,REV 500,,Shrike / Offy,35,337,overheating,0,
+1967,UO,1967_Langhorne_100,1967_05_UO,19,12,26,usa,Arnie_Knepper,Arnie Knepper,Wagner Lockheed Brake Fluid,,Lotus / Ford,32,284,suspension,0,
+1967,UO,1967_Langhorne_100,1967_05_UO,20,7,29,usa,Bob_Hurt,Bob Hurt,REV 500,,Gerhardt / Offy,25,232,oil leak,0,
+1967,UO,1967_Langhorne_100,1967_05_UO,21,14,22,usa,Larry_Dickson,Larry Dickson,Vita Fresh Orange Juice,,Lotus / Ford,12,232,oil leak,0,
+1967,UO,1967_Langhorne_100,1967_05_UO,22,20,57,usa,Bob_Harkey,Bob Harkey,Kenny Brenn,,Gerhardt / Ford,7,232,oil / fuel leak,0,
+1967,UO,1967_Pikes_Peak_Hill_Climb,1967_06_UO,1,3,22,usa,Wes_Vandervoort,Wes Vandervoort,Rocky Mountain Paving,,Chevy,1,4000,running,1,200
+1967,UO,1967_Pikes_Peak_Hill_Climb,1967_06_UO,2,2,31,usa,Ted_Foltz,Ted Foltz,Ververs Realty,,Chevy,1,2500,running,0,160
+1967,UO,1967_Pikes_Peak_Hill_Climb,1967_06_UO,3,5,7,usa,Dan_Morgan,Dan Morgan,California Speed & Sport Shop,,Chevy,1,2000,running,0,140
+1967,UO,1967_Pikes_Peak_Hill_Climb,1967_06_UO,4,7,75,usa,Orville_Nance,Orville Nance,California Speed & Sport Shop,,Chevy,1,1500,running,0,120
+1967,UO,1967_Pikes_Peak_Hill_Climb,1967_06_UO,5,1,92,usa,Bobby_Unser,Bobby Unser,Rislone,,Chevy,1,800,running,0,100
+1967,UO,1967_Pikes_Peak_Hill_Climb,1967_06_UO,6,4,4,usa,Paul_Kleinschmidt,Paul Kleinschmidt,Coors,,Cadillac,1,500,running,0,80
+1967,UO,1967_Pikes_Peak_Hill_Climb,1967_06_UO,7,14,21,usa,Don_Wilcox,Don Wilcox,Crown Manufacturing,,Chevy,1,250,running,0,60
+1967,UO,1967_Pikes_Peak_Hill_Climb,1967_06_UO,8,13,6,usa,Ralph_Bruning,Ralph Bruning,Ralph Bruning,,Ford,1,200,running,0,50
+1967,UO,1967_Pikes_Peak_Hill_Climb,1967_06_UO,9,9,96,usa,Grier_Manning,Grier Manning,Rislone,,Offy,1,150,running,0,40
+1967,UO,1967_Pikes_Peak_Hill_Climb,1967_06_UO,10,12,76,usa,Bob_Daly,Bob Daly,Bob Daly,,Lincoln,1,100,running,0,30
+1967,UO,1967_Pikes_Peak_Hill_Climb,1967_06_UO,11,10,43,usa,Charlie_Lowderman,Charlie Lowderman,Young Machine,,Chevy,1,,running,0,20
+1967,UO,1967_Pikes_Peak_Hill_Climb,1967_06_UO,12,15,37,usa,Bob_Herring,Bob Herring,Stockwell,,Offy,1,,running,0,10
+1967,UO,1967_Pikes_Peak_Hill_Climb,1967_06_UO,13,19,28,usa,Larry_Overholser,Larry Overholser,Jolly Green,,Chevy,1,,running,0,
+1967,UO,1967_Pikes_Peak_Hill_Climb,1967_06_UO,14,6,1,usa,Mario_Andretti,Mario Andretti,Rislone,,Chevy,1,,running,0,
+1967,UO,1967_Pikes_Peak_Hill_Climb,1967_06_UO,15,8,61,usa,Malcolm_Brazier,Malcolm Brazier,Gruenerwald-Kearny Buick,,Olds,0,,dnf,0,
+1967,UO,1967_Pikes_Peak_Hill_Climb,1967_06_UO,16,11,41,usa,Don_Anderson,Don Anderson,119 Tap Room,,Chevy,0,,dnf,0,
+1967,UO,1967_Pikes_Peak_Hill_Climb,1967_06_UO,17,16,16,usa,Butch_Hardman,Butch Hardman,Golden Auto Parts,,Offy,0,,dnf,0,
+1967,UO,1967_Pikes_Peak_Hill_Climb,1967_06_UO,18,17,24,usa,Cotton_Farmer,Cotton Farmer,Aircraft Mechanics,,Chevy,0,,crash,0,
+1967,UO,1967_Pikes_Peak_Hill_Climb,1967_06_UO,19,18,47,usa,Rick_Vermillion,Rick Vermillion,Western Sporting Goods,,Chevy,0,,dnf,0,
+1967,UO,1967_Pikes_Peak_Hill_Climb,1967_06_UO,20,20,23,usa,Gene_Pacheco,Gene Pacheco,I.C.G. Electric,,Chevy,0,,dnf,0,
+1967,UO,1967_Mosport_Heat_1,1967_07_UO,1,1,6,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Ford,40,13865,running,26,200
+1967,UO,1967_Mosport_Heat_1,1967_07_UO,2,10,12,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Ford,40,8411,running,0,160
+1967,UO,1967_Mosport_Heat_1,1967_07_UO,3,3,3,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Gerhardt / Ford,40,5266,running,0,140
+1967,UO,1967_Mosport_Heat_1,1967_07_UO,4,2,25,usa,Lloyd_Ruby,Lloyd Ruby,American Red Ball,,Mongoose / Ford,40,4430,running,14,120
+1967,UO,1967_Mosport_Heat_1,1967_07_UO,5,5,20,usa,Arnie_Knepper,Arnie Knepper,Wagner Lockheed Brake Fluid,,Mongoose / Ford,40,3025,running,0,100
+1967,UO,1967_Mosport_Heat_1,1967_07_UO,6,6,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,40,3025,running,0,80
+1967,UO,1967_Mosport_Heat_1,1967_07_UO,7,17,14,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Eagle / Ford,40,2221,running,0,60
+1967,UO,1967_Mosport_Heat_1,1967_07_UO,8,9,90,usa,Jim_Hurtubise,Jim Hurtubise,Leader Card Racers,,Watson / Ford,39,1887,running,0,50
+1967,UO,1967_Mosport_Heat_1,1967_07_UO,9,16,16,usa,Art_Pollard,Art Pollard,Thermo King Auto Air Conditioning,,Gerhardt / Offy,39,1151,running,0,40
+1967,UO,1967_Mosport_Heat_1,1967_07_UO,10,18,4,usa,Joe_Leonard,Joe Leonard,Sheraton / Thompson,,Eagle / Ford,39,1820,running,0,30
+1967,UO,1967_Mosport_Heat_1,1967_07_UO,11,12,33,usa,Rick_Muther,Rick Muther,Dayton Steel Brake,,Lola / Offy,38,1619,running,0,20
+1967,UO,1967_Mosport_Heat_1,1967_07_UO,12,13,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Huffaker / Offy,38,1418,running,0,10
+1967,UO,1967_Mosport_Heat_1,1967_07_UO,13,22,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Ford,38,1284,running,0,
+1967,UO,1967_Mosport_Heat_1,1967_07_UO,14,11,45,usa,Johnny_Rutherford,Johnny Rutherford,Weinberger Homes,,Eagle / Ford,38,1151,running,0,
+1967,UO,1967_Mosport_Heat_1,1967_07_UO,15,7,41,usa,Carl_Williams,Carl Williams,George Bryant,,BRP / Ford,37,1017,running,0,
+1967,UO,1967_Mosport_Heat_1,1967_07_UO,16,21,35,usa,Ralph_Liguori,Ralph Liguori,Enterprise Machine,,Watson / Ford,29,682,running,0,
+1967,UO,1967_Mosport_Heat_1,1967_07_UO,17,8,78,usa,Jerry_Grant,Jerry Grant,Friedkin Enterprises,,Eagle / Ford,25,615,spun out,0,
+1967,UO,1967_Mosport_Heat_1,1967_07_UO,18,19,57,usa,Bob_Harkey,Bob Harkey,Kenny Brenn,,Gerhardt / Ford,17,682,oil leak,0,
+1967,UO,1967_Mosport_Heat_1,1967_07_UO,19,20,22,usa,Larry_Dickson,Larry Dickson,Vita Fresh Orange Juice,,Lotus / Ford,10,682,fuel,0,
+1967,UO,1967_Mosport_Heat_1,1967_07_UO,20,14,96,usa,Gary_Congdon,Gary Congdon,J. Frank Harrison,,Eisert / Chevy,6,481,spun out,0,
+1967,UO,1967_Mosport_Heat_1,1967_07_UO,21,15,1,usa,Mario_Andretti,Mario Andretti,Dean Van Lines,,Brawner / Chevy,3,1017,half shaft,0,
+1967,UO,1967_Mosport_Heat_1,1967_07_UO,22,4,29,usa,Bob_Hurt,Bob Hurt,REV 500,,Gerhardt / Offy,2,281,rod,0,
+1967,UO,1967_Mosport_Heat_2,1967_08_UO,1,1,6,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Ford,6,,running,6,200
+1967,UO,1967_Mosport_Heat_2,1967_08_UO,2,2,12,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Ford,6,,running,0,160
+1967,UO,1967_Mosport_Heat_2,1967_08_UO,3,3,3,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Gerhardt / Ford,6,,running,0,140
+1967,UO,1967_Mosport_Heat_2,1967_08_UO,4,4,25,usa,Lloyd_Ruby,Lloyd Ruby,American Red Ball,,Mongoose / Ford,6,,running,0,120
+1967,UO,1967_Mosport_Heat_2,1967_08_UO,5,6,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,6,,running,0,100
+1967,UO,1967_Mosport_Heat_2,1967_08_UO,6,5,20,usa,Arnie_Knepper,Arnie Knepper,Wagner Lockheed Brake Fluid,,Mongoose / Ford,6,,running,0,80
+1967,UO,1967_Mosport_Heat_2,1967_08_UO,7,7,14,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Eagle / Ford,6,,running,0,60
+1967,UO,1967_Mosport_Heat_2,1967_08_UO,8,10,4,usa,Joe_Leonard,Joe Leonard,Sheraton / Thompson,,Eagle / Ford,6,,running,0,50
+1967,UO,1967_Mosport_Heat_2,1967_08_UO,9,8,90,usa,Jim_Hurtubise,Jim Hurtubise,Leader Card Racers,,Watson / Ford,6,,running,0,40
+1967,UO,1967_Mosport_Heat_2,1967_08_UO,10,11,33,usa,Rick_Muther,Rick Muther,Dayton Steel Brake,,Lola / Offy,6,,running,0,30
+1967,UO,1967_Mosport_Heat_2,1967_08_UO,11,20,1,usa,Mario_Andretti,Mario Andretti,Dean Van Lines,,Brawner / Chevy,6,,running,0,20
+1967,UO,1967_Mosport_Heat_2,1967_08_UO,12,12,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Huffaker / Offy,6,,running,0,10
+1967,UO,1967_Mosport_Heat_2,1967_08_UO,13,13,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Ford,6,,running,0,
+1967,UO,1967_Mosport_Heat_2,1967_08_UO,14,14,45,usa,Johnny_Rutherford,Johnny Rutherford,Weinberger Homes,,Eagle / Ford,6,,running,0,
+1967,UO,1967_Mosport_Heat_2,1967_08_UO,15,15,41,usa,Carl_Williams,Carl Williams,George Bryant,,BRP / Ford,6,,running,0,
+1967,UO,1967_Mosport_Heat_2,1967_08_UO,16,19,22,usa,Larry_Dickson,Larry Dickson,Vita Fresh Orange Juice,,Lotus / Ford,6,,running,0,
+1967,UO,1967_Mosport_Heat_2,1967_08_UO,17,18,57,usa,Bob_Harkey,Bob Harkey,Kenny Brenn,,Gerhardt / Ford,6,,running,0,
+1967,UO,1967_Mosport_Heat_2,1967_08_UO,18,21,23,usa,Ronnie_Bucknum,Ronnie Bucknum,Vita Fresh Orange Juice,,Gerhardt / Ford,6,,running,0,
+1967,UO,1967_Mosport_Heat_2,1967_08_UO,19,16,35,usa,Ralph_Liguori,Ralph Liguori,Enterprise Machine,,Watson / Ford,6,,running,0,
+1967,UO,1967_Mosport_Heat_2,1967_08_UO,20,17,78,usa,Jerry_Grant,Jerry Grant,Friedkin Enterprises,,Eagle / Ford,4,,throttle,0,
+1967,UO,1967_Mosport_Heat_2,1967_08_UO,21,9,16,usa,Art_Pollard,Art Pollard,Thermo King Auto Air Conditioning,,Gerhardt / Offy,3,,rock hit head,0,
+1967,UO,1967_Hoosier_Grand_Prix,1967_09_UO,1,2,1,usa,Mario_Andretti,Mario Andretti,Dean Van Lines,,Brawner / Ford,80,3990,running,66,300
+1967,UO,1967_Hoosier_Grand_Prix,1967_09_UO,2,3,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,80,2394,running,10,240
+1967,UO,1967_Hoosier_Grand_Prix,1967_09_UO,3,4,6,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Ford,80,1596,running,4,210
+1967,UO,1967_Hoosier_Grand_Prix,1967_09_UO,4,7,2,usa,Jim_McElreath,Jim McElreath,John Zink Trackburner,,Moore / Ford,79,1157,running,0,180
+1967,UO,1967_Hoosier_Grand_Prix,1967_09_UO,5,5,20,usa,Arnie_Knepper,Arnie Knepper,Wagner Lockheed Brake Fluid,,Mongoose / Ford,78,957,running,0,150
+1967,UO,1967_Hoosier_Grand_Prix,1967_09_UO,6,12,3,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Gerhardt / Ford,78,798,running,0,120
+1967,UO,1967_Hoosier_Grand_Prix,1967_09_UO,7,6,14,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,76,638,running,0,90
+1967,UO,1967_Hoosier_Grand_Prix,1967_09_UO,8,17,41,usa,Carl_Williams,Carl Williams,George Bryant,,BRP / Ford,76,558,running,0,75
+1967,UO,1967_Hoosier_Grand_Prix,1967_09_UO,9,10,23,usa,Ronnie_Bucknum,Ronnie Bucknum,Vita Fresh Orange Juice,,Gerhardt / Ford,76,518,running,0,60
+1967,UO,1967_Hoosier_Grand_Prix,1967_09_UO,10,22,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Ford,76,478,running,0,45
+1967,UO,1967_Hoosier_Grand_Prix,1967_09_UO,11,9,90,usa,Jim_Hurtubise,Jim Hurtubise,Leader Card Racers,,Watson / Ford,75,438,running,0,30
+1967,UO,1967_Hoosier_Grand_Prix,1967_09_UO,12,11,67,usa,Jim_Malloy,Jim Malloy,Jim Robbins,,Vollstedt / Ford,73,399,running,0,15
+1967,UO,1967_Hoosier_Grand_Prix,1967_09_UO,13,14,45,usa,Johnny_Rutherford,Johnny Rutherford,Weinberger Homes,,Eagle / Ford,72,359,running,0,
+1967,UO,1967_Hoosier_Grand_Prix,1967_09_UO,14,18,96,usa,Gary_Congdon,Gary Congdon,J. Frank Harrison,,Eisert / Ford,58,319,black flagged,0,
+1967,UO,1967_Hoosier_Grand_Prix,1967_09_UO,15,24,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Huffaker / Offy,57,279,vibration,0,
+1967,UO,1967_Hoosier_Grand_Prix,1967_09_UO,16,1,25,usa,Lloyd_Ruby,Lloyd Ruby,American Red Ball,,Mongoose / Ford,41,239,fuel line,0,
+1967,UO,1967_Hoosier_Grand_Prix,1967_09_UO,17,23,17,usa,George_Follmer,George Follmer,Bryant Heating & Cooling,,Vollstedt / Ford,36,199,clutch,0,
+1967,UO,1967_Hoosier_Grand_Prix,1967_09_UO,18,20,78,usa,Jerry_Grant,Jerry Grant,Friedkin Enterprises,,Eagle / Ford,22,159,oil cooler,0,
+1967,UO,1967_Hoosier_Grand_Prix,1967_09_UO,19,8,12,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Ford,13,78,injector,0,
+1967,UO,1967_Hoosier_Grand_Prix,1967_09_UO,20,21,33,usa,Rick_Muther,Rick Muther,Dayton Disk Brake,,Lola / Offy,10,79,spun out,0,
+1967,UO,1967_Hoosier_Grand_Prix,1967_09_UO,21,16,22,usa,Larry_Dickson,Larry Dickson,Vita Fresh Orange Juice,,Lotus / Ford,9,79,engine,0,
+1967,UO,1967_Hoosier_Grand_Prix,1967_09_UO,22,19,73,usa,Bob_Hurt,Bob Hurt,Central Excavating,,Gerhardt / Offy,8,79,spun out,0,
+1967,UO,1967_Hoosier_Grand_Prix,1967_09_UO,23,13,85,usa,Al_Miller_(1),Al Miller,Caves Buick,,Gerhardt / Offy,0,79,spun out,0,
+1967,UO,1967_Hoosier_Grand_Prix,1967_09_UO,24,15,49,usa,Norm_Brown,Norm Brown,Gilmore Broadcasting,,Eagle / Ford,0,79,spun out,0,
+1967,UO,1967_Langhorne_150,1967_10_UO,1,2,1,usa,Mario_Andretti,Mario Andretti,Dean Van Lines,,Brawner / Ford,150,4085,running,150,300
+1967,UO,1967_Langhorne_150,1967_10_UO,2,1,3,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Gerhardt / Ford,150,2451,running,0,240
+1967,UO,1967_Langhorne_150,1967_10_UO,3,7,6,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Ford,148,1634,running,0,210
+1967,UO,1967_Langhorne_150,1967_10_UO,4,12,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Huffaker / Offy,147,1184,running,0,180
+1967,UO,1967_Langhorne_150,1967_10_UO,5,11,2,usa,Jim_McElreath,Jim McElreath,John Zink Trackburner,,Moore / Ford,147,980,running,0,150
+1967,UO,1967_Langhorne_150,1967_10_UO,6,14,27,usa,Jim_Malloy,Jim Malloy,Jim Robbins,,Vollstedt / Ford,146,817,running,0,120
+1967,UO,1967_Langhorne_150,1967_10_UO,7,22,57,usa,Bob_Harkey,Bob Harkey,Kenny Brenn,,Gerhardt / Ford,145,653,running,0,90
+1967,UO,1967_Langhorne_150,1967_10_UO,8,17,22,usa,Larry_Dickson,Larry Dickson,Vita Fresh Orange Juice,,Lotus / Ford,143,571,running,0,75
+1967,UO,1967_Langhorne_150,1967_10_UO,9,16,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Ford,143,531,running,0,60
+1967,UO,1967_Langhorne_150,1967_10_UO,10,24,96,usa,Gary_Congdon,Gary Congdon,J. Frank Harrison,,Eisert / Ford,140,490,running,0,45
+1967,UO,1967_Langhorne_150,1967_10_UO,11,21,21,usa,Carl_Williams,Carl Williams,George Bryant,,BRP / Ford,132,449,running,0,30
+1967,UO,1967_Langhorne_150,1967_10_UO,12,19,42,usa,Jerry_Grant,Jerry Grant,Friedkin Enterprises,,Eagle / Ford,129,408,running,0,15
+1967,UO,1967_Langhorne_150,1967_10_UO,13,8,90,usa,Jim_Hurtubise,Jim Hurtubise,Leader Card Racers,,Watson / Ford,115,367,engine,0,
+1967,UO,1967_Langhorne_150,1967_10_UO,14,15,73,usa,Bruce_Jacobi,Bruce Jacobi,Central Excavating,,Gerhardt / Offy,99,326,engine,0,
+1967,UO,1967_Langhorne_150,1967_10_UO,15,9,38,usa,Al_Smith,Al Smith,Federal Engineering,,Gerhardt / Offy,30,285,piston,0,
+1967,UO,1967_Langhorne_150,1967_10_UO,16,20,36,usa,Sammy_Sessions,Sammy Sessions,Atamian Ford,,Halibrand / Offy,25,245,mechanical,0,
+1967,UO,1967_Langhorne_150,1967_10_UO,17,6,14,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,21,204,gearbox,0,
+1967,UO,1967_Langhorne_150,1967_10_UO,18,13,17,usa,Ronnie_Duman,Ronnie Duman,Bryant Heating & Cooling,,Vollstedt / Ford,9,163,suspension,0,
+1967,UO,1967_Langhorne_150,1967_10_UO,19,3,29,usa,Bob_Hurt,Bob Hurt,REV 500,,Gerhardt / Offy,1,81,crash,0,
+1967,UO,1967_Langhorne_150,1967_10_UO,20,4,45,usa,Johnny_Rutherford,Johnny Rutherford,Weinberger Homes,,Eagle / Ford,1,81,crash,0,
+1967,UO,1967_Langhorne_150,1967_10_UO,21,5,12,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Ford,1,81,crash,0,
+1967,UO,1967_Langhorne_150,1967_10_UO,22,10,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,1,81,crash,0,
+1967,UO,1967_Langhorne_150,1967_10_UO,23,18,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",REV 500,,Shrike / Offy,1,81,crash,0,
+1967,UO,1967_Langhorne_150,1967_10_UO,24,23,20,usa,Arnie_Knepper,Arnie Knepper,Wagner Lockheed Brake Fluid,,Mongoose / Ford,1,81,crash,0,
+1967,UO,1967_Labatt_Indy_Heat_1,1967_11_UO,1,3,1,usa,Mario_Andretti,Mario Andretti,Dean Van Lines,,Brawner / Ford,36,,running,36,200
+1967,UO,1967_Labatt_Indy_Heat_1,1967_11_UO,2,7,14,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,36,,running,0,160
+1967,UO,1967_Labatt_Indy_Heat_1,1967_11_UO,3,2,23,usa,Ronnie_Bucknum,Ronnie Bucknum,Vita Fresh Orange Juice,,Gerhardt / Ford,36,,running,0,140
+1967,UO,1967_Labatt_Indy_Heat_1,1967_11_UO,4,4,25,usa,Lloyd_Ruby,Lloyd Ruby,American Red Ball,,Mongoose / Ford,36,,running,0,120
+1967,UO,1967_Labatt_Indy_Heat_1,1967_11_UO,5,12,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,36,,running,0,100
+1967,UO,1967_Labatt_Indy_Heat_1,1967_11_UO,6,6,20,usa,Joe_Leonard,Joe Leonard,Wagner Lockheed Brake Fluid,,Mongoose / Ford,36,,running,0,80
+1967,UO,1967_Labatt_Indy_Heat_1,1967_11_UO,7,8,3,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Gerhardt / Ford,36,,running,0,60
+1967,UO,1967_Labatt_Indy_Heat_1,1967_11_UO,8,11,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Huffaker / Offy,35,,running,0,50
+1967,UO,1967_Labatt_Indy_Heat_1,1967_11_UO,9,10,22,usa,Larry_Dickson,Larry Dickson,Vita Fresh Orange Juice,,Lotus / Ford,35,,running,0,40
+1967,UO,1967_Labatt_Indy_Heat_1,1967_11_UO,10,16,29,usa,Bob_Hurt,Bob Hurt,REV 500,,Gerhardt / Offy,35,,running,0,30
+1967,UO,1967_Labatt_Indy_Heat_1,1967_11_UO,11,19,33,usa,Rick_Muther,Rick Muther,Dayton Disk Brake,,Lola / Offy,35,,running,0,20
+1967,UO,1967_Labatt_Indy_Heat_1,1967_11_UO,12,13,2,usa,Jim_McElreath,Jim McElreath,John Zink Trackburner,,Moore / Ford,35,,running,0,10
+1967,UO,1967_Labatt_Indy_Heat_1,1967_11_UO,13,17,85,usa,Al_Miller_(1),Al Miller,Caves Buick,,Gerhardt / Offy,35,,running,0,
+1967,UO,1967_Labatt_Indy_Heat_1,1967_11_UO,14,14,41,usa,Carl_Williams,Carl Williams,George Bryant,,BRP / Ford,35,,running,0,
+1967,UO,1967_Labatt_Indy_Heat_1,1967_11_UO,15,21,47,usa,Johnny_Rutherford,Johnny Rutherford,Weinberger Homes,,Eagle / Ford,34,,running,0,
+1967,UO,1967_Labatt_Indy_Heat_1,1967_11_UO,16,22,96,usa,Gary_Congdon,Gary Congdon,J. Frank Harrison,,Eisert / Ford,32,,running,0,
+1967,UO,1967_Labatt_Indy_Heat_1,1967_11_UO,17,23,90,usa,Jim_Hurtubise,Jim Hurtubise,Leader Card Racers,,Watson / Ford,29,,running,0,
+1967,UO,1967_Labatt_Indy_Heat_1,1967_11_UO,18,5,78,usa,Jerry_Grant,Jerry Grant,Friedkin Enterprises,,Eagle / Ford,27,,running,0,
+1967,UO,1967_Labatt_Indy_Heat_1,1967_11_UO,19,18,67,usa,Jim_Malloy,Jim Malloy,Jim Robbins,,Vollstedt / Ford,20,,engine,0,
+1967,UO,1967_Labatt_Indy_Heat_1,1967_11_UO,20,20,73,usa,Bruce_Jacobi,Bruce Jacobi,Central Excavating,,Gerhardt / Offy,16,,crash,0,
+1967,UO,1967_Labatt_Indy_Heat_1,1967_11_UO,21,15,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Ford,13,,rear end,0,
+1967,UO,1967_Labatt_Indy_Heat_1,1967_11_UO,22,1,6,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Ford,10,,engine,0,
+1967,UO,1967_Labatt_Indy_Heat_1,1967_11_UO,23,24,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",REV 500,,Shrike / Offy,8,,running,0,
+1967,UO,1967_Labatt_Indy_Heat_1,1967_11_UO,24,9,12,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Ford,4,,crash,0,
+1967,UO,1967_Labatt_Indy_Heat_2,1967_12_UO,1,1,1,usa,Mario_Andretti,Mario Andretti,Dean Van Lines,,Brawner / Ford,36,7376,running,36,200
+1967,UO,1967_Labatt_Indy_Heat_2,1967_12_UO,2,2,14,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,36,4426,running,0,160
+1967,UO,1967_Labatt_Indy_Heat_2,1967_12_UO,3,4,25,usa,Lloyd_Ruby,Lloyd Ruby,American Red Ball,,Mongoose / Ford,36,2102,running,0,140
+1967,UO,1967_Labatt_Indy_Heat_2,1967_12_UO,4,7,3,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Gerhardt / Ford,36,1512,running,0,120
+1967,UO,1967_Labatt_Indy_Heat_2,1967_12_UO,5,5,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,36,1475,running,0,100
+1967,UO,1967_Labatt_Indy_Heat_2,1967_12_UO,6,6,20,usa,Joe_Leonard,Joe Leonard,Wagner Lockheed Brake Fluid,,Mongoose / Ford,36,1327,running,0,80
+1967,UO,1967_Labatt_Indy_Heat_2,1967_12_UO,7,16,90,usa,Jim_Hurtubise,Jim Hurtubise,Leader Card Racers,,Watson / Ford,35,811,running,0,60
+1967,UO,1967_Labatt_Indy_Heat_2,1967_12_UO,8,17,78,usa,Jerry_Grant,Jerry Grant,Friedkin Enterprises,,Eagle / Ford,35,737,running,0,50
+1967,UO,1967_Labatt_Indy_Heat_2,1967_12_UO,9,10,29,usa,Bob_Hurt,Bob Hurt,REV 500,,Gerhardt / Offy,34,995,running,0,40
+1967,UO,1967_Labatt_Indy_Heat_2,1967_12_UO,10,11,33,usa,Rick_Muther,Rick Muther,Dayton Disk Brake,,Lola / Offy,34,922,running,0,30
+1967,UO,1967_Labatt_Indy_Heat_2,1967_12_UO,11,18,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",REV 500,,Shrike / Offy,31,516,running,0,20
+1967,UO,1967_Labatt_Indy_Heat_2,1967_12_UO,12,3,23,usa,Ronnie_Bucknum,Ronnie Bucknum,Vita Fresh Orange Juice,,Gerhardt / Ford,31,1585,ignition,0,10
+1967,UO,1967_Labatt_Indy_Heat_2,1967_12_UO,13,19,47,usa,Bobby_Unser,Bobby Unser,Weinberger Homes,,Eagle / Ford,30,,fuel pickup,0,
+1967,UO,1967_Labatt_Indy_Heat_2,1967_12_UO,14,13,85,usa,Al_Miller_(1),Al Miller,Caves Buick,,Gerhardt / Offy,26,700,water leak,0,
+1967,UO,1967_Labatt_Indy_Heat_2,1967_12_UO,15,8,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Huffaker / Offy,23,848,crankshaft,0,
+1967,UO,1967_Labatt_Indy_Heat_2,1967_12_UO,16,12,2,usa,Jim_McElreath,Jim McElreath,John Zink Trackburner,,Moore / Ford,17,663,spun out,0,
+1967,UO,1967_Labatt_Indy_Heat_2,1967_12_UO,17,14,41,usa,Carl_Williams,Carl Williams,George Bryant,,BRP / Ford,15,553,valve,0,
+1967,UO,1967_Labatt_Indy_Heat_2,1967_12_UO,18,9,22,usa,Larry_Dickson,Larry Dickson,Vita Fresh Orange Juice,,Lotus / Ford,10,700,crash,0,
+1967,UO,1967_Labatt_Indy_Heat_2,1967_12_UO,19,15,96,usa,Gary_Congdon,Gary Congdon,J. Frank Harrison,,Eisert / Ford,2,405,spun out,0,
+1967,UO,1967_Tony_Bettenhausen_Memorial,1967_13_UO,1,2,14,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Meskowski / Offy,100,4826,running,100,200
+1967,UO,1967_Tony_Bettenhausen_Memorial,1967_13_UO,2,3,1,usa,Mario_Andretti,Mario Andretti,Dean Van Lines,,Kuzma / Offy,100,3303,running,0,160
+1967,UO,1967_Tony_Bettenhausen_Memorial,1967_13_UO,3,8,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Meskowski / Offy,100,2161,running,0,140
+1967,UO,1967_Tony_Bettenhausen_Memorial,1967_13_UO,4,16,70,usa,Norm_Brown,Norm Brown,Boyce Holt Racing,,Turner / Chevy,99,1447,running,0,120
+1967,UO,1967_Tony_Bettenhausen_Memorial,1967_13_UO,5,11,90,usa,Jim_Hurtubise,Jim Hurtubise,Leader Card Racers,,Watson / Offy,99,1209,crash,0,100
+1967,UO,1967_Tony_Bettenhausen_Memorial,1967_13_UO,6,9,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",REV 500,,Watson / Offy,98,1018,running,0,80
+1967,UO,1967_Tony_Bettenhausen_Memorial,1967_13_UO,7,15,81,usa,Bob_Wente,Bob Wente,Midwest Manufacturing,,Kurtis / Offy,95,828,running,0,60
+1967,UO,1967_Tony_Bettenhausen_Memorial,1967_13_UO,8,7,6,usa,Bobby_Unser,Bobby Unser,Rislone,,Watson / Offy,94,733,spun out,0,50
+1967,UO,1967_Tony_Bettenhausen_Memorial,1967_13_UO,9,10,52,usa,Carl_Williams,Carl Williams,Jake Vargo,,Meskowski / Offy,89,685,engine,0,40
+1967,UO,1967_Tony_Bettenhausen_Memorial,1967_13_UO,10,1,22,usa,Larry_Dickson,Larry Dickson,Vita Fresh Orange Juice,,Meskowski / Offy,81,637,oil tank,0,30
+1967,UO,1967_Tony_Bettenhausen_Memorial,1967_13_UO,11,6,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Dunlop / Offy,70,590,crash,0,20
+1967,UO,1967_Tony_Bettenhausen_Memorial,1967_13_UO,12,14,2,usa,Jim_McElreath,Jim McElreath,John Zink Trackburner,,Moore / Offy,66,542,mechanical,0,10
+1967,UO,1967_Tony_Bettenhausen_Memorial,1967_13_UO,13,5,12,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Kuzma / Offy,65,495,mechanical,0,
+1967,UO,1967_Tony_Bettenhausen_Memorial,1967_13_UO,14,13,19,usa,Ronnie_Duman,Ronnie Duman,MVS Racers,,Ward / Offy,44,447,spun out,0,
+1967,UO,1967_Tony_Bettenhausen_Memorial,1967_13_UO,15,18,51,usa,Rollie_Beale,Rollie Beale,Windmill Trucking,,Silnes / Offy,27,399,mechanical,0,
+1967,UO,1967_Tony_Bettenhausen_Memorial,1967_13_UO,16,12,45,usa,Johnny_Rutherford,Johnny Rutherford,Weinberger Homes,,Blum / Offy,22,352,mechanical,0,
+1967,UO,1967_Tony_Bettenhausen_Memorial,1967_13_UO,17,17,53,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Vollstedt / Offy,19,304,mechanical,0,
+1967,UO,1967_Tony_Bettenhausen_Memorial,1967_13_UO,18,4,16,usa,George_Snider,George Snider,Thermo King Auto Air Conditioning,,Ward / Offy,10,257,mechanical,0,
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,1,2,1,usa,Mario_Andretti,Mario Andretti,Dean Van Lines,,Brawner / Ford,200,11163,running,199,400
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,2,8,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,200,6698,running,0,320
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,3,1,12,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Ford,199,3572,running,1,280
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,4,7,3,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Gerhardt / Ford,198,2790,running,0,240
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,5,9,20,usa,Joe_Leonard,Joe Leonard,Wagner Lockheed Brake Fluid,,Mongoose / Ford,198,2232,running,0,200
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,6,17,2,usa,Jim_McElreath,Jim McElreath,John Zink Trackburner,,Moore / Ford,198,2009,running,0,160
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,7,14,15,usa,Mel_Kenyon,Mel Kenyon,Thermo King Auto Air Conditioning,,Gerhardt / Offy,197,1786,running,0,120
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,8,5,14,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,197,1674,running,0,100
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,9,12,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Ford,195,1562,running,0,80
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,10,18,49,usa,Norm_Brown,Norm Brown,Weinberger Homes,,Gerhardt / Ford,194,1451,running,0,60
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,11,13,22,usa,Larry_Dickson,Larry Dickson,Vita Fresh Orange Juice,,Lotus / Ford,194,1339,running,0,40
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,12,10,57,usa,Bob_Harkey,Bob Harkey,Kenny Brenn,,Gerhardt / Ford,193,1228,running,0,20
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,13,6,25,usa,Lloyd_Ruby,Lloyd Ruby,American Red Ball,,Mongoose / Offy,193,1116,running,0,
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,14,22,76,usa,Gary_Congdon,Gary Congdon,GCR,,Mongoose / Ford,191,1004,running,0,
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,15,16,39,usa,Bobby_Grim,Bobby Grim,Racing Associates,,Gerhardt / Offy,188,893,running,0,
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,16,20,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",REV 500,,Shrike / Offy,180,781,running,0,
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,17,24,85,usa,Al_Miller_(1),Al Miller,Caves Buick,,Gerhardt / Offy,180,669,running,0,
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,18,25,35,usa,Ralph_Liguori,Ralph Liguori,Enterprise Machine,,Watson / Ford,167,558,running,0,
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,19,11,90,usa,Jim_Hurtubise,Jim Hurtubise,Leader Card Racers,,Watson / Ford,122,446,mechanical,0,
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,20,26,81,usa,Bruce_Jacobi,Bruce Jacobi,Central Excavating,,Gerhardt / Offy,111,334,mechanical,0,
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,21,4,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Huffaker / Offy,96,223,clutch,0,
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,22,19,29,usa,Bob_Hurt,Bob Hurt,REV 500,,Gerhardt / Offy,48,223,spun out,0,
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,23,23,41,usa,Carl_Williams,Carl Williams,George Bryant,,BRP / Ford,30,223,crash,0,
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,24,21,17,usa,Jim_Malloy,Jim Malloy,Jim Robbins,,Vollstedt / Ford,17,223,mechanical,0,
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,25,15,47,usa,Johnny_Rutherford,Johnny Rutherford,Weinberger Homes,,Eagle / Ford,3,223,engine,0,
+1967,UO,1967_Tony_Bettenhausen_200,1967_14_UO,26,3,6,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Ford,1,223,mechanical,0,
+1967,UO,1967_Ted_Horn_Memorial,1967_15_UO,1,3,14,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Meskowski / Offy,100,5515,running,56,200
+1967,UO,1967_Ted_Horn_Memorial,1967_15_UO,2,11,1,usa,Mario_Andretti,Mario Andretti,Dean Van Lines,,Kuzma / Offy,100,3750,running,0,160
+1967,UO,1967_Ted_Horn_Memorial,1967_15_UO,3,2,12,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Kuzma / Offy,100,2426,running,44,140
+1967,UO,1967_Ted_Horn_Memorial,1967_15_UO,4,10,22,usa,Larry_Dickson,Larry Dickson,Vita Fresh Orange Juice,,Meskowski / Offy,100,1599,running,0,120
+1967,UO,1967_Ted_Horn_Memorial,1967_15_UO,5,8,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",REV 500,,Watson / Offy,100,1323,running,0,100
+1967,UO,1967_Ted_Horn_Memorial,1967_15_UO,6,1,6,usa,Bobby_Unser,Bobby Unser,Rislone,,Watson / Offy,99,1103,running,0,80
+1967,UO,1967_Ted_Horn_Memorial,1967_15_UO,7,16,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Meskowski / Offy,99,882,running,0,60
+1967,UO,1967_Ted_Horn_Memorial,1967_15_UO,8,15,52,usa,Carl_Williams,Carl Williams,Jake Vargo,,Meskowski / Offy,99,772,running,0,50
+1967,UO,1967_Ted_Horn_Memorial,1967_15_UO,9,9,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Dunlop / Offy,99,717,running,0,40
+1967,UO,1967_Ted_Horn_Memorial,1967_15_UO,10,7,19,usa,Ronnie_Duman,Ronnie Duman,MVS Racers,,Ward / Offy,98,661,running,0,30
+1967,UO,1967_Ted_Horn_Memorial,1967_15_UO,11,13,45,usa,Johnny_Rutherford,Johnny Rutherford,Weinberger Homes,,Blum / Offy,97,606,running,0,20
+1967,UO,1967_Ted_Horn_Memorial,1967_15_UO,12,14,27,usa,Bruce_Walkup,Bruce Walkup,Jim Robbins,,King / Ford,97,551,running,0,10
+1967,UO,1967_Ted_Horn_Memorial,1967_15_UO,13,12,40,usa,Bill_Puterbaugh,Bill Puterbaugh,Lyle Hyneman,,Lesovsky / Offy,97,496,running,0,
+1967,UO,1967_Ted_Horn_Memorial,1967_15_UO,14,18,20,usa,Mickey_Shaw,Mickey Shaw,S & D,,Meskowski / Offy,96,441,running,0,
+1967,UO,1967_Ted_Horn_Memorial,1967_15_UO,15,4,2,usa,Jim_McElreath,Jim McElreath,John Zink Trackburner,,Moore / Offy,36,386,dnf,0,
+1967,UO,1967_Ted_Horn_Memorial,1967_15_UO,16,6,16,usa,George_Snider,George Snider,Thermo King Auto Air Conditioning,,Ward / Offy,23,330,dnf,0,
+1967,UO,1967_Ted_Horn_Memorial,1967_15_UO,17,17,70,usa,Norm_Brown,Norm Brown,Boyce Holt Racing,,Turner / Chevy,7,275,spun out,0,
+1967,UO,1967_Ted_Horn_Memorial,1967_15_UO,18,5,35,usa,Ralph_Liguori,Ralph Liguori,Enterprise Machine,,Flynn / Offy,0,220,did not start,0,
+1967,UO,1967_Hoosier_Hundred,1967_16_UO,1,2,1,usa,Mario_Andretti,Mario Andretti,Dean Van Lines,,Kuzma / Offy,100,10976,running,86,200
+1967,UO,1967_Hoosier_Hundred,1967_16_UO,2,3,14,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Meskowski / Offy,100,7463,running,0,160
+1967,UO,1967_Hoosier_Hundred,1967_16_UO,3,6,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Dunlop / Offy,100,4829,running,0,140
+1967,UO,1967_Hoosier_Hundred,1967_16_UO,4,12,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",REV 500,,Watson / Offy,100,3183,running,0,120
+1967,UO,1967_Hoosier_Hundred,1967_16_UO,5,5,2,usa,Jim_McElreath,Jim McElreath,John Zink Trackburner,,Moore / Offy,100,2634,running,0,100
+1967,UO,1967_Hoosier_Hundred,1967_16_UO,6,1,27,usa,Bruce_Walkup,Bruce Walkup,Jim Robbins,,King / Ford,100,2195,running,14,80
+1967,UO,1967_Hoosier_Hundred,1967_16_UO,7,7,52,usa,Carl_Williams,Carl Williams,Jake Vargo,,Meskowski / Offy,99,1756,running,0,60
+1967,UO,1967_Hoosier_Hundred,1967_16_UO,8,10,12,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Kuzma / Offy,99,1536,running,0,50
+1967,UO,1967_Hoosier_Hundred,1967_16_UO,9,8,90,usa,Chuck_Hulse,Chuck Hulse,Leader Card Racers,,Watson / Offy,99,1426,running,0,40
+1967,UO,1967_Hoosier_Hundred,1967_16_UO,10,13,35,usa,Ralph_Liguori,Ralph Liguori,Enterprise Machine,,Flynn / Offy,99,1317,running,0,30
+1967,UO,1967_Hoosier_Hundred,1967_16_UO,11,11,19,usa,Ronnie_Duman,Ronnie Duman,MVS Racers,,Ward / Offy,97,1207,running,0,20
+1967,UO,1967_Hoosier_Hundred,1967_16_UO,12,14,51,usa,Rollie_Beale,Rollie Beale,Windmill Trucking,,Silnes / Offy,97,1097,running,0,10
+1967,UO,1967_Hoosier_Hundred,1967_16_UO,13,15,70,usa,Norm_Brown,Norm Brown,Boyce Holt Racing,,Turner / Chevy,97,987,running,0,
+1967,UO,1967_Hoosier_Hundred,1967_16_UO,14,16,22,usa,Larry_Dickson,Larry Dickson,Vita Fresh Orange Juice,,Meskowski / Offy,96,878,running,0,
+1967,UO,1967_Hoosier_Hundred,1967_16_UO,15,18,40,usa,Bill_Puterbaugh,Bill Puterbaugh,Lyle Hyneman,,Lesovsky / Offy,95,768,running,0,
+1967,UO,1967_Hoosier_Hundred,1967_16_UO,16,17,45,usa,Johnny_Rutherford,Johnny Rutherford,Weinberger Homes,,Blum / Offy,76,658,mechanical,0,
+1967,UO,1967_Hoosier_Hundred,1967_16_UO,17,9,16,usa,George_Snider,George Snider,Thermo King Auto Air Conditioning,,Ward / Offy,64,548,water manifold,0,
+1967,UO,1967_Hoosier_Hundred,1967_16_UO,18,4,6,usa,Bobby_Unser,Bobby Unser,Rislone,,Watson / Offy,14,437,piston,0,
+1967,UO,1967_Trenton_200,1967_17_UO,1,2,14,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,200,7166,running,38,400
+1967,UO,1967_Trenton_200,1967_17_UO,2,8,3,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Gerhardt / Ford,200,4300,running,0,320
+1967,UO,1967_Trenton_200,1967_17_UO,3,7,6,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Ford,199,2293,running,31,280
+1967,UO,1967_Trenton_200,1967_17_UO,4,24,90,usa,Jim_McElreath,Jim McElreath,Leader Card Racers,,Watson / Ford,197,1791,running,0,240
+1967,UO,1967_Trenton_200,1967_17_UO,5,13,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Ford,197,1433,running,0,200
+1967,UO,1967_Trenton_200,1967_17_UO,6,20,20,usa,Bob_Hurt,Bob Hurt,REV 500,,Gerhardt / Offy,194,1290,running,0,160
+1967,UO,1967_Trenton_200,1967_17_UO,7,22,60,usa,Mike_Mosley,Mike Mosley,Michner Petroleum,,Gerhardt / Ford,192,1146,running,0,120
+1967,UO,1967_Trenton_200,1967_17_UO,8,23,38,usa,Sammy_Sessions,Sammy Sessions,Federal Engineering,,Gerhardt / Offy,190,1075,running,0,100
+1967,UO,1967_Trenton_200,1967_17_UO,9,9,81,usa,Ronnie_Duman,Ronnie Duman,Central Excavating,,Gerhardt / Offy,178,1003,running,0,80
+1967,UO,1967_Trenton_200,1967_17_UO,10,14,21,usa,Carl_Williams,Carl Williams,Bryant Heating & Cooling,,Vollstedt / Ford,173,931,running,0,60
+1967,UO,1967_Trenton_200,1967_17_UO,11,4,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,165,860,magneto,101,40
+1967,UO,1967_Trenton_200,1967_17_UO,12,18,49,usa,Mickey_Shaw,Mickey Shaw,Weinberger Homes,,Gerhardt / Ford,160,788,running,0,20
+1967,UO,1967_Trenton_200,1967_17_UO,13,17,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",REV 500,,Shrike / Offy,144,716,mechanical,0,
+1967,UO,1967_Trenton_200,1967_17_UO,14,12,12,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Ford,123,645,oil line,26,
+1967,UO,1967_Trenton_200,1967_17_UO,15,21,87,usa,Chuck_Arnold,Chuck Arnold,California Speed & Sport Shop,,Halibrand / Offy,107,573,engine,0,
+1967,UO,1967_Trenton_200,1967_17_UO,16,16,22,usa,Larry_Dickson,Larry Dickson,Vita Fresh Orange Juice,,Lotus / Ford,104,501,engine,0,
+1967,UO,1967_Trenton_200,1967_17_UO,17,5,20,usa,Joe_Leonard,Joe Leonard,Wagner Lockheed Brake Fluid,,Lotus / Ford,102,430,suspension,0,
+1967,UO,1967_Trenton_200,1967_17_UO,18,10,85,usa,Al_Miller_(1),Al Miller,Caves Buick,,Gerhardt / Offy,94,358,mechanical,0,
+1967,UO,1967_Trenton_200,1967_17_UO,19,15,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Huffaker / Offy,57,286,spun out,0,
+1967,UO,1967_Trenton_200,1967_17_UO,20,11,39,usa,Bobby_Grim,Bobby Grim,Racing Associates,,Gerhardt / Offy,56,215,spun out,0,
+1967,UO,1967_Trenton_200,1967_17_UO,21,26,17,usa,George_Follmer,George Follmer,Bryant Heating & Cooling,,Vollstedt / Ford,53,143,crash,0,
+1967,UO,1967_Trenton_200,1967_17_UO,22,6,27,usa,Jim_Malloy,Jim Malloy,Jim Robbins,,Vollstedt / Ford,48,143,spun out,0,
+1967,UO,1967_Trenton_200,1967_17_UO,23,25,36,usa,Gig_Stephens,Gig Stephens,Atamian Ford,,Halibrand / Offy,48,143,engine,0,
+1967,UO,1967_Trenton_200,1967_17_UO,24,19,15,usa,Mel_Kenyon,Mel Kenyon,Thermo King Auto Air Conditioning,,Gerhardt / Offy,15,143,spun out,0,
+1967,UO,1967_Trenton_200,1967_17_UO,25,1,1,usa,Mario_Andretti,Mario Andretti,Dean Van Lines,,Brawner / Ford,5,143,crash,4,
+1967,UO,1967_Trenton_200,1967_17_UO,26,3,25,usa,Lloyd_Ruby,Lloyd Ruby,American Red Ball,,Mongoose / Ford,5,143,crash,0,
+1967,UO,1967_Golden_State_100,1967_18_UO,1,3,14,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Meskowski / Offy,100,7456,running,99,200
+1967,UO,1967_Golden_State_100,1967_18_UO,2,2,1,usa,Mario_Andretti,Mario Andretti,Dean Van Lines,,Kuzma / Offy,100,3676,running,0,160
+1967,UO,1967_Golden_State_100,1967_18_UO,3,4,16,usa,George_Snider,George Snider,Thermo King Auto Air Conditioning,,Ward / Offy,100,2378,running,0,140
+1967,UO,1967_Golden_State_100,1967_18_UO,4,15,52,usa,Carl_Williams,Carl Williams,Jake Vargo,,Meskowski / Offy,100,1567,running,0,120
+1967,UO,1967_Golden_State_100,1967_18_UO,5,11,45,usa,Johnny_Rutherford,Johnny Rutherford,Weinberger Homes,,Blum / Offy,100,1297,running,0,100
+1967,UO,1967_Golden_State_100,1967_18_UO,6,1,27,usa,Bruce_Walkup,Bruce Walkup,Jim Robbins,,King / Ford,99,1111,running,1,80
+1967,UO,1967_Golden_State_100,1967_18_UO,7,12,22,usa,Larry_Dickson,Larry Dickson,Vita Fresh Orange Juice,,Meskowski / Offy,99,856,running,0,60
+1967,UO,1967_Golden_State_100,1967_18_UO,8,6,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Meskowski / Offy,99,756,running,0,50
+1967,UO,1967_Golden_State_100,1967_18_UO,9,5,90,usa,Chuck_Hulse,Chuck Hulse,Leader Card Racers,,Watson / Offy,98,702,running,0,40
+1967,UO,1967_Golden_State_100,1967_18_UO,10,18,35,usa,Ralph_Liguori,Ralph Liguori,Enterprise Machine,,Flynn / Offy,98,648,running,0,30
+1967,UO,1967_Golden_State_100,1967_18_UO,11,10,47,usa,Gary_Bettenhausen,Gary Bettenhausen,Joe Hunt Magneto,,Lesovsky / Offy,95,594,running,0,20
+1967,UO,1967_Golden_State_100,1967_18_UO,12,17,31,usa,Jerry_Daniels,Jerry Daniels,Don Collins,,Vollstedt / Chrysler,93,540,running,0,10
+1967,UO,1967_Golden_State_100,1967_18_UO,13,13,19,usa,Ronnie_Duman,Ronnie Duman,MVS Racers,,Ward / Offy,83,486,running,0,
+1967,UO,1967_Golden_State_100,1967_18_UO,14,8,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lesovsky / Offy,64,432,engine,0,
+1967,UO,1967_Golden_State_100,1967_18_UO,15,14,40,usa,Bill_Puterbaugh,Bill Puterbaugh,Lyle Hyneman,,Lesovsky / Offy,40,378,dnf,0,
+1967,UO,1967_Golden_State_100,1967_18_UO,16,16,70,usa,Norm_Brown,Norm Brown,Boyce Holt Racing,,Turner / Chevy,26,324,crash,0,
+1967,UO,1967_Golden_State_100,1967_18_UO,17,9,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",REV 500,,Watson / Offy,14,270,spun out,0,
+1967,UO,1967_Golden_State_100,1967_18_UO,18,7,6,usa,Bobby_Unser,Bobby Unser,Rislone,,Watson / Offy,14,216,spun out,0,
+1967,UO,1967_Hanford_200,1967_19_UO,1,2,3,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Gerhardt / Ford,134,11496,running,5,400
+1967,UO,1967_Hanford_200,1967_19_UO,2,5,6,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Ford,134,6897,running,0,320
+1967,UO,1967_Hanford_200,1967_19_UO,3,12,25,usa,Lloyd_Ruby,Lloyd Ruby,American Red Ball,,Mongoose / Offy,133,3678,running,0,280
+1967,UO,1967_Hanford_200,1967_19_UO,4,6,14,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,133,2874,running,0,240
+1967,UO,1967_Hanford_200,1967_19_UO,5,1,16,usa,Art_Pollard,Art Pollard,Thermo King Auto Air Conditioning,,Gerhardt / Offy,133,2299,running,108,200
+1967,UO,1967_Hanford_200,1967_19_UO,6,16,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Ford,133,2069,running,0,160
+1967,UO,1967_Hanford_200,1967_19_UO,7,7,20,usa,Joe_Leonard,Joe Leonard,Vel's Ford Sales,,Mongoose / Ford,132,1839,running,21,120
+1967,UO,1967_Hanford_200,1967_19_UO,8,22,19,usa,Ronnie_Duman,Ronnie Duman,MVS Racers,,Cecil / Ford,132,1724,running,0,100
+1967,UO,1967_Hanford_200,1967_19_UO,9,11,65,usa,Chuck_Hulse,Chuck Hulse,Travelon Trailer,,Gerhardt / Offy,130,1609,running,0,80
+1967,UO,1967_Hanford_200,1967_19_UO,10,13,15,usa,Mel_Kenyon,Mel Kenyon,Thermo King Auto Air Conditioning,,Gerhardt / Offy,130,1494,running,0,60
+1967,UO,1967_Hanford_200,1967_19_UO,11,23,47,usa,Gary_Bettenhausen,Gary Bettenhausen,Joe Hunt Magneto,,Lesovsky / Offy,129,1379,running,0,40
+1967,UO,1967_Hanford_200,1967_19_UO,12,21,90,usa,Jim_McElreath,Jim McElreath,Leader Card Racers,,Watson / Ford,128,1264,running,0,20
+1967,UO,1967_Hanford_200,1967_19_UO,13,26,60,usa,Mike_Mosley,Mike Mosley,Michner Petroleum,,Gerhardt / Ford,128,1149,running,0,
+1967,UO,1967_Hanford_200,1967_19_UO,14,18,39,usa,Bobby_Grim,Bobby Grim,Racing Associates,,Gerhardt / Offy,126,1034,running,0,
+1967,UO,1967_Hanford_200,1967_19_UO,15,24,85,usa,Al_Miller_(1),Al Miller,Caves Buick,,Gerhardt / Offy,124,919,running,0,
+1967,UO,1967_Hanford_200,1967_19_UO,16,25,27,usa,Jim_Malloy,Jim Malloy,Jim Robbins,,Vollstedt / Ford,121,804,running,0,
+1967,UO,1967_Hanford_200,1967_19_UO,17,8,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Huffaker / Offy,118,689,mechanical,0,
+1967,UO,1967_Hanford_200,1967_19_UO,18,20,21,usa,Carl_Williams,Carl Williams,Bryant Heating & Cooling,,Vollstedt / Ford,89,574,mechanical,0,
+1967,UO,1967_Hanford_200,1967_19_UO,19,19,38,usa,Al_Smith,Al Smith,Federal Engineering,,Gerhardt / Offy,65,459,mechanical,0,
+1967,UO,1967_Hanford_200,1967_19_UO,20,10,29,usa,Bob_Hurt,Bob Hurt,REV 500,,Gerhardt / Offy,37,344,crash,0,
+1967,UO,1967_Hanford_200,1967_19_UO,21,9,12,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Ford,37,229,crash,0,
+1967,UO,1967_Hanford_200,1967_19_UO,22,15,22,usa,George_Snider,George Snider,Vita Fresh Orange Juice,,Lotus / Ford,26,229,mechanical,0,
+1967,UO,1967_Hanford_200,1967_19_UO,23,14,45,usa,Johnny_Rutherford,Johnny Rutherford,Weinberger Homes,,Eagle / Ford,21,229,mechanical,0,
+1967,UO,1967_Hanford_200,1967_19_UO,24,4,1,usa,Mario_Andretti,Mario Andretti,Dean Van Lines,,Brawner / Ford,18,229,crash,0,
+1967,UO,1967_Hanford_200,1967_19_UO,25,3,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,18,229,crash,0,
+1967,UO,1967_Hanford_200,1967_19_UO,26,17,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",REV 500,,Shrike / Offy,5,229,fuel leak,0,
+1967,UO,1967_Bobby_Ball_Memorial,1967_20_UO,1,2,1,usa,Mario_Andretti,Mario Andretti,Dean Van Lines,,Brawner / Ford,200,7558,running,20,400
+1967,UO,1967_Bobby_Ball_Memorial,1967_20_UO,2,3,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,200,4535,running,0,320
+1967,UO,1967_Bobby_Ball_Memorial,1967_20_UO,3,1,6,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Ford,200,2418,running,180,280
+1967,UO,1967_Bobby_Ball_Memorial,1967_20_UO,4,4,3,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Gerhardt / Offy,199,1889,running,0,240
+1967,UO,1967_Bobby_Ball_Memorial,1967_20_UO,5,5,25,usa,Lloyd_Ruby,Lloyd Ruby,American Red Ball,,Mongoose / Offy,198,1511,running,0,200
+1967,UO,1967_Bobby_Ball_Memorial,1967_20_UO,6,17,65,usa,Ronnie_Duman,Ronnie Duman,Travelon Trailer,,Gerhardt / Offy,196,1360,running,0,160
+1967,UO,1967_Bobby_Ball_Memorial,1967_20_UO,7,12,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Ford,196,1209,running,0,120
+1967,UO,1967_Bobby_Ball_Memorial,1967_20_UO,8,13,22,usa,Arnie_Knepper,Arnie Knepper,Vita Fresh Orange Juice,,Lotus / Ford,195,1133,running,0,100
+1967,UO,1967_Bobby_Ball_Memorial,1967_20_UO,9,14,15,usa,Mel_Kenyon,Mel Kenyon,Thermo King Auto Air Conditioning,,Gerhardt / Offy,194,1058,running,0,80
+1967,UO,1967_Bobby_Ball_Memorial,1967_20_UO,10,18,29,usa,Bob_Hurt,Bob Hurt,REV 500,,Gerhardt / Offy,194,982,running,0,60
+1967,UO,1967_Bobby_Ball_Memorial,1967_20_UO,11,21,85,usa,Al_Miller_(1),Al Miller,Caves Buick,,Gerhardt / Offy,183,907,running,0,40
+1967,UO,1967_Bobby_Ball_Memorial,1967_20_UO,12,20,60,usa,Rick_Muther,Rick Muther,Michner Petroleum,,Gerhardt / Ford,182,831,running,0,20
+1967,UO,1967_Bobby_Ball_Memorial,1967_20_UO,13,22,62,usa,Bruce_Walkup,Bruce Walkup,Cleaver Brooks,,Vollstedt / Offy,181,755,running,0,
+1967,UO,1967_Bobby_Ball_Memorial,1967_20_UO,14,10,16,usa,Art_Pollard,Art Pollard,Thermo King Auto Air Conditioning,,Gerhardt / Offy,168,680,running,0,
+1967,UO,1967_Bobby_Ball_Memorial,1967_20_UO,15,19,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Huffaker / Offy,124,604,piston,0,
+1967,UO,1967_Bobby_Ball_Memorial,1967_20_UO,16,11,27,usa,Jim_Malloy,Jim Malloy,Jim Robbins,,Vollstedt / Ford,100,529,engine,0,
+1967,UO,1967_Bobby_Ball_Memorial,1967_20_UO,17,7,14,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,92,453,suspension,0,
+1967,UO,1967_Bobby_Ball_Memorial,1967_20_UO,18,9,42,usa,Jerry_Grant,Jerry Grant,Friedkin Enterprises,,Eagle / Ford,86,377,rear end,0,
+1967,UO,1967_Bobby_Ball_Memorial,1967_20_UO,19,24,4,usa,Gary_Bettenhausen,Gary Bettenhausen,Joe Hunt Magneto,,Lesovsky / Offy,72,302,clutch,0,
+1967,UO,1967_Bobby_Ball_Memorial,1967_20_UO,20,16,90,usa,Jim_McElreath,Jim McElreath,Leader Card Racers,,Watson / Ford,68,226,clutch,0,
+1967,UO,1967_Bobby_Ball_Memorial,1967_20_UO,21,6,12,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Ford,53,151,radiator,0,
+1967,UO,1967_Bobby_Ball_Memorial,1967_20_UO,22,15,47,usa,Johnny_Rutherford,Johnny Rutherford,Weinberger Homes,,Eagle / Offy,33,151,crash,0,
+1967,UO,1967_Bobby_Ball_Memorial,1967_20_UO,23,23,52,usa,Carl_Williams,Carl Williams,Joe Hunt Magneto,,Ewing / Offy,32,151,engine,0,
+1967,UO,1967_Bobby_Ball_Memorial,1967_20_UO,24,8,20,usa,Joe_Leonard,Joe Leonard,Wagner Lockheed Brake Fluid,,Mongoose / Ford,29,151,rear end,0,
+1967,UO,1967_Rex_Mays_300,1967_21_UO,1,1,48,usa,Dan_Gurney,Dan Gurney,Olsonite,,Eagle / Ford,116,12000,running,68,600
+1967,UO,1967_Rex_Mays_300,1967_21_UO,2,3,2,usa,Bobby_Unser,Bobby Unser,Rislone,,Eagle / Ford,116,8500,running,6,480
+1967,UO,1967_Rex_Mays_300,1967_21_UO,3,6,1,usa,Mario_Andretti,Mario Andretti,Dean Van Lines,,Brawner / Ford,116,5500,running,38,420
+1967,UO,1967_Rex_Mays_300,1967_21_UO,4,11,25,usa,Lloyd_Ruby,Lloyd Ruby,American Red Ball,,Mongoose / Ford,115,4000,running,0,360
+1967,UO,1967_Rex_Mays_300,1967_21_UO,5,7,12,usa,Roger_McCluskey,Roger McCluskey,G.C. Murphy,,Eagle / Ford,115,3000,running,3,140
+1967,UO,1967_Rex_Mays_300,1967_21_UO,6,12,17,usa,George_Follmer,George Follmer,Bryant Heating & Cooling,,Vollstedt / Ford,111,2500,running,0,240
+1967,UO,1967_Rex_Mays_300,1967_21_UO,7,23,98,usa,Billy_Vukovich_Jr,"Billy Vukovich, Jr.",REV 500,,Mongoose / Ford,110,2100,running,0,180
+1967,UO,1967_Rex_Mays_300,1967_21_UO,8,20,45,usa,Johnny_Rutherford,Johnny Rutherford,Weinberger Homes,,Eagle / Ford,110,1775,running,0,150
+1967,UO,1967_Rex_Mays_300,1967_21_UO,9,8,22,usa,Ronnie_Bucknum,Ronnie Bucknum,Vita Fresh Orange Juice,,Lotus / Ford,103,1550,running,0,120
+1967,UO,1967_Rex_Mays_300,1967_21_UO,10,19,11,usa,Jerry_Titus,Jerry Titus,Autoteria Car Wash,,Horton / Ford,100,1350,running,0,90
+1967,UO,1967_Rex_Mays_300,1967_21_UO,11,18,67,usa,Jim_Malloy,Jim Malloy,Jim Robbins,,Vollstedt / Ford,99,1150,running,0,60
+1967,UO,1967_Rex_Mays_300,1967_21_UO,12,14,5,usa,Al_Unser,Al Unser,Retzloff Chemical,,Lola / Ford,82,1050,suspension,0,30
+1967,UO,1967_Rex_Mays_300,1967_21_UO,13,27,19,usa,Ronnie_Duman,Ronnie Duman,MVS Racers,,Cecil / Ford,81,950,lost wheel,0,
+1967,UO,1967_Rex_Mays_300,1967_21_UO,14,10,78,usa,Jerry_Grant,Jerry Grant,Friedkin Enterprises,,Eagle / Ford,74,850,magneto,0,
+1967,UO,1967_Rex_Mays_300,1967_21_UO,15,17,90,usa,Chuck_Parsons,Chuck Parsons,Leader Card Racers,,Watson / Ford,67,800,engine,0,
+1967,UO,1967_Rex_Mays_300,1967_21_UO,16,13,20,usa,Joe_Leonard,Joe Leonard,Vel's Ford Sales,,Mongoose / Ford,61,750,crash,0,
+1967,UO,1967_Rex_Mays_300,1967_21_UO,17,5,14,usa,A_J_Foyt,A.J. Foyt,Sheraton / Thompson,,Coyote / Ford,50,700,crash,0,
+1967,UO,1967_Rex_Mays_300,1967_21_UO,18,22,4,usa,Jim_Hurtubise,Jim Hurtubise,Sheraton / Thompson,,Eagle / Ford,49,650,oil leak,0,
+1967,UO,1967_Rex_Mays_300,1967_21_UO,19,28,85,usa,Al_Miller_(1),Al Miller,Caves Buick,,Gerhardt / Offy,46,625,crash,0,
+1967,UO,1967_Rex_Mays_300,1967_21_UO,20,4,24,uk,John_Surtees,John Surtees,Bowes Seal Fast,,Lola / Ford,31,600,magneto,0,
+1967,UO,1967_Rex_Mays_300,1967_21_UO,21,24,15,usa,Mel_Kenyon,Mel Kenyon,Thermo King Auto Air Conditioning,,Gerhardt / Offy,26,575,turbocharger,0,
+1967,UO,1967_Rex_Mays_300,1967_21_UO,22,2,21,scotland,Jimmy_Clark,Jimmy Clark,Sperex,,Vollstedt / Ford,25,550,valve,1,
+1967,UO,1967_Rex_Mays_300,1967_21_UO,23,30,60,usa,Rick_Muther,Rick Muther,Michner Petroleum,,Gerhardt / Ford,17,525,engine,0,
+1967,UO,1967_Rex_Mays_300,1967_21_UO,24,29,29,usa,Bob_Hurt,Bob Hurt,REV 500,,Gerhardt / Offy,16,500,piston,0,
+1967,UO,1967_Rex_Mays_300,1967_21_UO,25,26,54,usa,Wally_Dallenbach,Wally Dallenbach,Valvoline,,Huffaker / Offy,14,450,engine,0,
+1967,UO,1967_Rex_Mays_300,1967_21_UO,26,9,3,usa,Gordon_Johncock,Gordon Johncock,Gilmore Broadcasting,,Gerhardt / Ford,11,450,gearbox,0,
+1967,UO,1967_Rex_Mays_300,1967_21_UO,27,21,10,usa,Bud_Tingelstad,Bud Tingelstad,Federal Engineering,,Gerhardt / Ford,8,450,gearbox,0,
+1967,UO,1967_Rex_Mays_300,1967_21_UO,28,15,96,germany,Lothar_Motschenbacher,Lothar Motschenbacher,J. Frank Harrison,,Eisert / Chevy,8,450,clutch,0,
+1967,UO,1967_Rex_Mays_300,1967_21_UO,29,25,65,usa,Chuck_Hulse,Chuck Hulse,Travelon Trailer,,Gerhardt / Offy,8,450,oil sump,0,
+1967,UO,1967_Rex_Mays_300,1967_21_UO,30,16,16,usa,Art_Pollard,Art Pollard,Thermo King Auto Air Conditioning,,Gerhardt / Offy,5,450,valve,0,

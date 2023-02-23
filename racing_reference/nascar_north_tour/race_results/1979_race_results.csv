@@ -1,0 +1,572 @@
+season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
+1979,NN,1979_Spring_Green_79,1979_01_NN,1,12,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,'72 Nova,79,1190,running,61,56
+1979,NN,1979_Spring_Green_79,1979_01_NN,2,13,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait,,'72 Nova,79,650,running,0,48
+1979,NN,1979_Spring_Green_79,1979_01_NN,3,10,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,'70 Nova,79,550,running,4,46
+1979,NN,1979_Spring_Green_79,1979_01_NN,4,19,71,usa,Gene_Glover,Gene Glover,Glover Racing,,'72 Nova,79,435,running,0,44
+1979,NN,1979_Spring_Green_79,1979_01_NN,5,11,16,usa,Stub_Fadden,Stub Fadden,H.O. Taylor,,'78 Nova,79,380,running,0,46
+1979,NN,1979_Spring_Green_79,1979_01_NN,6,4,34,usa,Steve_Poulin,Steve Poulin,Raskaup Motors,,'75 Ventura,79,425,running,12,49
+1979,NN,1979_Spring_Green_79,1979_01_NN,7,5,1X,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Craft,,'74 Ventura,78,320,running,0,40
+1979,NN,1979_Spring_Green_79,1979_01_NN,8,14,51,usa,Jeb_Balise,Jeb Balise,Donovan Motors,,'72 Nova,78,300,running,0,36
+1979,NN,1979_Spring_Green_79,1979_01_NN,9,6,10,canada,Gilles_Lussier,Gilles Lussier,Benoit Electric,,'76 Nova,78,275,running,0,34
+1979,NN,1979_Spring_Green_79,1979_01_NN,10,3,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,'72 Nova,77,260,running,0,32
+1979,NN,1979_Spring_Green_79,1979_01_NN,11,9,5A,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Cabana Racing,,'74 Ventura,75,245,running,0,35
+1979,NN,1979_Spring_Green_79,1979_01_NN,12,23,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,'74 Nova,74,240,running,0,28
+1979,NN,1979_Spring_Green_79,1979_01_NN,13,18,21,usa,Andy_Isbister,Andy Isbister,Isbister Racing,,'72 Nova,72,220,running,0,26
+1979,NN,1979_Spring_Green_79,1979_01_NN,14,2,18,usa,Rick_Lepage,Rick Lepage,Burlington Lincoln-Mercury,,'78 Zephyr,71,200,engine,0,24
+1979,NN,1979_Spring_Green_79,1979_01_NN,15,7,07,usa,Tom_Rosati,Tom Rosati,Rosati Racing,,'72 Nova,71,215,running,0,28
+1979,NN,1979_Spring_Green_79,1979_01_NN,16,16,70,usa,Don_Brown,Don Brown,John Needham,,'70 Nova,50,180,fan belt,0,24
+1979,NN,1979_Spring_Green_79,1979_01_NN,17,22,77,usa,Mike_Johnson_(1),Mike Johnson,Pape Chevrolet,,'76 Nova,44,175,transmission,0,18
+1979,NN,1979_Spring_Green_79,1979_01_NN,18,21,71,usa,Bobby_Dragon,Bobby Dragon,Automaster,,'77 Nova,36,165,oil pressure,0,16
+1979,NN,1979_Spring_Green_79,1979_01_NN,19,20,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,'74 Nova,29,155,engine,0,14
+1979,NN,1979_Spring_Green_79,1979_01_NN,20,8,8,usa,Mike_Barry,Mike Barry,Pizzagalli Construction,,'74 Nova,15,140,overheating,0,12
+1979,NN,1979_Spring_Green_79,1979_01_NN,21,1,01,usa,Norm_Andrews,Norm Andrews,Andrews Racing,,'69 Nova,14,135,crash,2,14
+1979,NN,1979_Spring_Green_79,1979_01_NN,22,15,24,usa,Phil_Gerbode,Phil Gerbode,Bourbeau International,,'74 Nova,0,125,clutch,0,10
+1979,NN,1979_Spring_Green_79,1979_01_NN,23,17,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,'69 Nova,0,110,crash,0,6
+1979,NN,1979_Molson_100_%28May%29,1979_02_NN,1,14,83,canada,Claude_Aubin,Claude Aubin,Autodrome Laval,,'72 Nova,100,1320,running,75,62
+1979,NN,1979_Molson_100_%28May%29,1979_02_NN,2,12,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,'72 Nova,100,760,running,0,62
+1979,NN,1979_Molson_100_%28May%29,1979_02_NN,3,3,71,usa,Bobby_Dragon,Bobby Dragon,Automaster,,'77 Nova,100,665,running,13,65
+1979,NN,1979_Molson_100_%28May%29,1979_02_NN,4,8,5,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Club 5A,,'76 Nova,100,415,running,0,58
+1979,NN,1979_Molson_100_%28May%29,1979_02_NN,5,10,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,'71 Nova,100,355,running,0,55
+1979,NN,1979_Molson_100_%28May%29,1979_02_NN,6,15,00,canada,Roger_Laperle,Roger Laperle,Super Sport,,'77 Nova,100,325,running,0,50
+1979,NN,1979_Molson_100_%28May%29,1979_02_NN,7,11,34,usa,Steve_Poulin,Steve Poulin,Raskaup Motors,,'74 Ventura,100,300,running,0,48
+1979,NN,1979_Molson_100_%28May%29,1979_02_NN,8,6,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,'70 Nova,99,275,running,0,47
+1979,NN,1979_Molson_100_%28May%29,1979_02_NN,9,13,44,canada,Keith_Cavanagh,Keith Cavanagh,Knowlton Pub,,'76 Ventura,98,255,running,0,44
+1979,NN,1979_Molson_100_%28May%29,1979_02_NN,10,18,51,usa,Jeb_Balise,Jeb Balise,Donovan Motors,,'72 Nova,98,240,running,0,42
+1979,NN,1979_Molson_100_%28May%29,1979_02_NN,11,16,81,usa,Andy_Isbister,Andy Isbister,Isbister Racing,,'72 Nova,94,230,running,0,40
+1979,NN,1979_Molson_100_%28May%29,1979_02_NN,12,17,24,usa,Phil_Gerbode,Phil Gerbode,Bourbeau International,,'74 Nova,92,220,running,0,38
+1979,NN,1979_Molson_100_%28May%29,1979_02_NN,13,2,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,'74 Nova,89,200,running,0,36
+1979,NN,1979_Molson_100_%28May%29,1979_02_NN,14,4,07,usa,Tom_Rosati,Tom Rosati,Rosati Racing,,'70 Nova,53,185,steering,0,34
+1979,NN,1979_Molson_100_%28May%29,1979_02_NN,15,19,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,'69 Nova,53,175,too slow,0,32
+1979,NN,1979_Molson_100_%28May%29,1979_02_NN,16,1,8,usa,Mike_Barry,Mike Barry,Pizzagalli Construction,,'74 Nova,49,220,steering,12,37
+1979,NN,1979_Molson_100_%28May%29,1979_02_NN,17,9,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Craft,,'72 Ventura,24,165,radiator,0,29
+1979,NN,1979_Molson_100_%28May%29,1979_02_NN,18,7,10,canada,Gilles_Lussier,Gilles Lussier,Benoit Electric,,'75 Ventura,11,155,suspension,0,26
+1979,NN,1979_Molson_100_%28May%29,1979_02_NN,19,5,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,'76 Nova,11,170,crash,0,29
+1979,NN,1979_Molson_225,1979_03_NN,1,14,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,Nova,225,2080,running,39,60
+1979,NN,1979_Molson_225,1979_03_NN,2,13,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait,,Nova,225,1140,running,92,58
+1979,NN,1979_Molson_225,1979_03_NN,3,7,83,canada,Claude_Aubin,Claude Aubin,Autodrome Laval,,Nova,225,790,running,0,56
+1979,NN,1979_Molson_225,1979_03_NN,4,10,71,usa,Bobby_Dragon,Bobby Dragon,Automaster,,Nova,223,575,running,0,54
+1979,NN,1979_Molson_225,1979_03_NN,5,16,07,usa,Tom_Rosati,Tom Rosati,Rosati Racing,,Nova,222,505,running,0,52
+1979,NN,1979_Molson_225,1979_03_NN,6,15,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Craft,,Ventura,222,465,running,0,50
+1979,NN,1979_Molson_225,1979_03_NN,7,9,8,usa,Mike_Barry,Mike Barry,Pizzagalli Construction,,Nova,222,430,running,0,10
+1979,NN,1979_Molson_225,1979_03_NN,8,11,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,Nova,219,390,running,0,46
+1979,NN,1979_Molson_225,1979_03_NN,9,20,51,usa,Jeb_Balise,Jeb Balise,Donovan Motors,,Nova,218,365,running,0,44
+1979,NN,1979_Molson_225,1979_03_NN,10,22,69,usa,Brent_Hatch,Brent Hatch,Lloyd Smith,,Nova,217,345,running,0,10
+1979,NN,1979_Molson_225,1979_03_NN,11,2,35,canada,Langis_Caron,Langis Caron,LaBerge,,Nova,217,350,running,94,43
+1979,NN,1979_Molson_225,1979_03_NN,12,21,26,canada,Laurent_Rioux,Laurent Rioux,Laurent Racing,,Ventura,213,315,running,0,38
+1979,NN,1979_Molson_225,1979_03_NN,13,25,81,usa,Andy_Isbister,Andy Isbister,Isbister Racing,,Nova,204,290,running,0,36
+1979,NN,1979_Molson_225,1979_03_NN,14,4,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,Nova,200,280,running,0,36
+1979,NN,1979_Molson_225,1979_03_NN,15,24,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,Nova,199,250,running,0,32
+1979,NN,1979_Molson_225,1979_03_NN,16,3,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,179,260,engine,0,32
+1979,NN,1979_Molson_225,1979_03_NN,17,23,77,usa,Mike_Johnson_(1),Mike Johnson,Pape Chevrolet,,Nova,156,230,wheel stud,0,28
+1979,NN,1979_Molson_225,1979_03_NN,18,19,24,usa,Tim_Dykman,Tim Dykman,Bourbeau International,,Nova,127,225,front end,0,26
+1979,NN,1979_Molson_225,1979_03_NN,19,18,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,125,205,engine,0,10
+1979,NN,1979_Molson_225,1979_03_NN,20,6,16,usa,Stub_Fadden,Stub Fadden,H.O. Taylor,,Nova,102,200,engine,0,23
+1979,NN,1979_Molson_225,1979_03_NN,21,8,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Nova,70,175,engine,0,20
+1979,NN,1979_Molson_225,1979_03_NN,22,1,70,usa,Don_Brown,Don Brown,John Needham,,Nova,31,190,rear axle,0,21
+1979,NN,1979_Molson_225,1979_03_NN,23,5,10,canada,Gilles_Lussier,Gilles Lussier,Benoit Electric,,Nova,19,165,steering,0,17
+1979,NN,1979_Molson_225,1979_03_NN,24,12,34,usa,Steve_Poulin,Steve Poulin,Ruskaup Motors,,Ventura,19,140,crash,0,14
+1979,NN,1979_Molson_225,1979_03_NN,25,17,44,canada,Keith_Cavanagh,Keith Cavanagh,Knowlton Pub,,Ventura,18,140,crash,0,12
+1979,NN,1979_Molson_225,1979_03_NN,26,26,12,canada,Roger_Briere,Roger Briere,C & P Auto Parts,,Torino,9,140,engine,0,12
+1979,NN,1979_Winston_150,1979_04_NN,1,2,71,usa,Bobby_Dragon,Bobby Dragon,Automaster,,Nova,150,1575,running,82,60
+1979,NN,1979_Winston_150,1979_04_NN,2,4,10,canada,Gilles_Lussier,Gilles Lussier,Benoit Electric,,Nova,150,900,running,0,58
+1979,NN,1979_Winston_150,1979_04_NN,3,5,59,usa,Hector_Leclair,Hector Leclair,LTM,,Nova,150,675,running,0,56
+1979,NN,1979_Winston_150,1979_04_NN,4,8,8,usa,Mike_Barry,Mike Barry,Pizzagalli Construction,,Nova,150,500,running,0,54
+1979,NN,1979_Winston_150,1979_04_NN,5,21,34,usa,Steve_Poulin,Steve Poulin,Ruskaup Motors / Vic Metal,,Ventura,150,430,running,10,52
+1979,NN,1979_Winston_150,1979_04_NN,6,9,07,usa,Tom_Rosati,Tom Rosati,Independent,,Nova,149,400,running,0,50
+1979,NN,1979_Winston_150,1979_04_NN,7,1,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,Nova,147,370,running,51,48
+1979,NN,1979_Winston_150,1979_04_NN,8,6,16,usa,Stub_Fadden,Stub Fadden,H.O. Taylor,,Chevrolet,146,335,running,0,46
+1979,NN,1979_Winston_150,1979_04_NN,9,3,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait,,Nova,124,310,overheating,0,44
+1979,NN,1979_Winston_150,1979_04_NN,10,16,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Craft,,Ventura,148,300,running,0,42
+1979,NN,1979_Winston_150,1979_04_NN,11,14,51,usa,Jeb_Balise,Jeb Balise,Donovan Motors,,Nova,146,280,running,0,40
+1979,NN,1979_Winston_150,1979_04_NN,12,18,61,usa,Brad_Kennedy,Brad Kennedy,Tuck Press,,Nova,147,270,running,0,38
+1979,NN,1979_Winston_150,1979_04_NN,13,12,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,Nova,137,250,running,7,36
+1979,NN,1979_Winston_150,1979_04_NN,14,15,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,145,225,running,0,34
+1979,NN,1979_Winston_150,1979_04_NN,15,13,26,canada,Laurent_Rioux,Laurent Rioux,Laurent Racing,,Ventura,145,215,running,0,32
+1979,NN,1979_Winston_150,1979_04_NN,16,19,24,usa,Phil_Gerbode,Phil Gerbode,Bourbeau International,,Nova,138,205,running,0,30
+1979,NN,1979_Winston_150,1979_04_NN,17,17,81,usa,Andy_Isbister,Andy Isbister,Independent,,Nova,138,200,running,0,28
+1979,NN,1979_Winston_150,1979_04_NN,18,11,44,canada,Keith_Cavanagh,Keith Cavanagh,Knowlton Pub,,Ventura,95,190,running,0,26
+1979,NN,1979_Winston_150,1979_04_NN,19,10,01,usa,Norm_Andrews,Norm Andrews,Andrews Racing,,Nova,82,175,engine,0,24
+1979,NN,1979_Winston_150,1979_04_NN,20,20,19,usa,Sonny_Bonnett,Sonny Bonnett,Nordic Ford,,Granada,50,160,engine,0,22
+1979,NN,1979_Winston_150,1979_04_NN,21,7,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Nova,22,150,oil pressure,0,20
+1979,NN,1979_Molson_100_%28June_3%29,1979_05_NN,1,17,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,Nova,100,1400,running,26,63
+1979,NN,1979_Molson_100_%28June_3%29,1979_05_NN,2,18,71,usa,Bobby_Dragon,Bobby Dragon,The Automaster,,Nova,100,810,running,0,59
+1979,NN,1979_Molson_100_%28June_3%29,1979_05_NN,3,16,59,usa,Hector_Leclair,Hector Leclair,LTM,,Nova,100,610,running,0,58
+1979,NN,1979_Molson_100_%28June_3%29,1979_05_NN,4,10,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eustache,,Nova,100,410,running,0,54
+1979,NN,1979_Molson_100_%28June_3%29,1979_05_NN,5,2,26,canada,Laurent_Rioux,Laurent Rioux,Laurent Racing,,Ventura,98,355,running,0,53
+1979,NN,1979_Molson_100_%28June_3%29,1979_05_NN,6,12,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Craft,,Ventura,97,330,running,0,50
+1979,NN,1979_Molson_100_%28June_3%29,1979_05_NN,7,6,24,usa,Tim_Dykman,Tim Dykman,Bourbeau International,,Nova,95,305,running,0,48
+1979,NN,1979_Molson_100_%28June_3%29,1979_05_NN,8,8,81,usa,Andy_Isbister,Andy Isbister,Cliff Peterson,,Nova,90,275,running,0,46
+1979,NN,1979_Molson_100_%28June_3%29,1979_05_NN,9,3,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,Nova,90,260,running,0,44
+1979,NN,1979_Molson_100_%28June_3%29,1979_05_NN,10,5,44,canada,Keith_Cavanagh,Keith Cavanagh,Knowlton Pub,,Ventura,85,245,running,0,42
+1979,NN,1979_Molson_100_%28June_3%29,1979_05_NN,11,13,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,Nova,84,230,running,0,40
+1979,NN,1979_Molson_100_%28June_3%29,1979_05_NN,12,1,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Nova,78,225,transmission,74,41
+1979,NN,1979_Molson_100_%28June_3%29,1979_05_NN,13,20,X,usa,Pete_Silva,Pete Silva,Budweiser,,Nova,76,205,rear suspension,0,36
+1979,NN,1979_Molson_100_%28June_3%29,1979_05_NN,14,15,00,canada,Roger_Laperle,Roger Laperle,Super Sport,,Nova,75,185,running,0,34
+1979,NN,1979_Molson_100_%28June_3%29,1979_05_NN,15,9,10,canada,Gilles_Lussier,Gilles Lussier,Benoit Electric,,Nova,57,180,engine,0,34
+1979,NN,1979_Molson_100_%28June_3%29,1979_05_NN,16,14,51,usa,Jeb_Balise,Jeb Balise,Donovan Motors,,Nova,22,170,crash,0,30
+1979,NN,1979_Molson_100_%28June_3%29,1979_05_NN,17,7,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,22,165,transmission,0,28
+1979,NN,1979_Molson_100_%28June_3%29,1979_05_NN,18,21,07,usa,Tom_Rosati,Tom Rosati,Rosati Racing,,Ventura,18,160,handling,0,26
+1979,NN,1979_Molson_100_%28June_3%29,1979_05_NN,19,4,12,canada,Roger_Briere,Roger Briere,C & P Auto Body,,Torino,9,150,oil leak,0,24
+1979,NN,1979_Molson_100_%28June_3%29,1979_05_NN,20,11,34,usa,Steve_Poulin,Steve Poulin,Ruskaup Motors,,Ventura,1,130,crash,0,22
+1979,NN,1979_Molson_100_%28June_3%29,1979_05_NN,21,19,2,usa,Dan_Perez,Dan Perez,Mardan Chevrolet,,Nova,0,125,ignition,0,20
+1979,NN,1979_Laval_100,1979_06_NN,1,16,83,canada,Claude_Aubin,Claude Aubin,Autodrome Laval,,Nova,100,1475,running,12,60
+1979,NN,1979_Laval_100,1979_06_NN,2,6,35,canada,Langis_Caron,Langis Caron,LaBerge,,Nova,100,900,running,20,66
+1979,NN,1979_Laval_100,1979_06_NN,3,15,59,usa,Hector_Leclair,Hector Leclair,LTM,,Nova,100,660,running,0,56
+1979,NN,1979_Laval_100,1979_06_NN,4,18,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,Nova,100,470,running,0,54
+1979,NN,1979_Laval_100,1979_06_NN,5,17,71,usa,Bobby_Dragon,Bobby Dragon,The Automaster,,Nova,100,410,running,63,59
+1979,NN,1979_Laval_100,1979_06_NN,6,9,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eustache,,Nova,99,380,running,0,54
+1979,NN,1979_Laval_100,1979_06_NN,7,4,26,canada,Laurent_Rioux,Laurent Rioux,Laurent Racing,,Ventura,99,350,running,0,51
+1979,NN,1979_Laval_100,1979_06_NN,8,14,16,usa,Stub_Fadden,Stub Fadden,H.O. Taylor,,Nova,98,320,running,0,50
+1979,NN,1979_Laval_100,1979_06_NN,9,7,07,usa,Tom_Rosati,Tom Rosati,Rosati Racing,,Ventura,98,300,running,0,46
+1979,NN,1979_Laval_100,1979_06_NN,10,5,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,98,280,running,0,42
+1979,NN,1979_Laval_100,1979_06_NN,11,13,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Craft,,Ventura,97,265,running,0,40
+1979,NN,1979_Laval_100,1979_06_NN,12,8,51,usa,Jeb_Balise,Jeb Balise,Donovan Motors,,Nova,96,260,running,0,38
+1979,NN,1979_Laval_100,1979_06_NN,13,3,44,canada,Keith_Cavanagh,Keith Cavanagh,Knowlton Pub,,Ventura,95,235,running,0,41
+1979,NN,1979_Laval_100,1979_06_NN,14,24,2,usa,Dan_Bridges,Dan Bridges,Bridges Racing,,Ford,94,215,running,0,34
+1979,NN,1979_Laval_100,1979_06_NN,15,2,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,Nova,92,205,running,0,32
+1979,NN,1979_Laval_100,1979_06_NN,16,23,81,usa,Andy_Isbister,Andy Isbister,Cliff Peterson,,Nova,92,200,running,0,30
+1979,NN,1979_Laval_100,1979_06_NN,17,19,87,none,Denis_Chicoine,Denis Chicoine,Chicoine Racing,,Chevelle,79,190,crash,0,28
+1979,NN,1979_Laval_100,1979_06_NN,18,10,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,Nova,62,180,running,0,26
+1979,NN,1979_Laval_100,1979_06_NN,19,11,8,usa,Mike_Barry,Mike Barry,Pizzagalli Construction,,Nova,52,170,steering,0,24
+1979,NN,1979_Laval_100,1979_06_NN,20,22,2,usa,Dan_Perez,Dan Perez,Mardan Chevrolet,,Nova,51,150,crash,0,22
+1979,NN,1979_Laval_100,1979_06_NN,21,12,00,canada,Roger_Laperle,Roger Laperle,Super Speed,,Nova,50,145,engine,0,25
+1979,NN,1979_Laval_100,1979_06_NN,22,1,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Nova,42,135,engine,5,18
+1979,NN,1979_Laval_100,1979_06_NN,23,20,37,usa,Bill_Branham,Bill Branham,Ferrar,,Nova,19,130,engine,0,16
+1979,NN,1979_Laval_100,1979_06_NN,24,21,6,canada,J_C_Gratton,J.C. Gratton,Gratton Racing,,Ventura,4,125,ignition,0,18
+1979,NN,1979_Molson_100_%28June_18%29,1979_07_NN,1,14,7,usa,Beaver_Dragon,Beaver Dragon,Autodrome Laval,,Nova,100,1325,running,43,62
+1979,NN,1979_Molson_100_%28June_18%29,1979_07_NN,2,13,59,usa,Hector_Leclair,Hector Leclair,LTM,,Nova,100,835,running,47,59
+1979,NN,1979_Molson_100_%28June_18%29,1979_07_NN,3,7,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,Nova,100,585,running,0,57
+1979,NN,1979_Molson_100_%28June_18%29,1979_07_NN,4,11,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Craft,,Ventura,99,410,running,0,54
+1979,NN,1979_Molson_100_%28June_18%29,1979_07_NN,5,10,34,usa,Steve_Poulin,Steve Poulin,Ruskaup Motors,,Ventura,99,355,running,0,55
+1979,NN,1979_Molson_100_%28June_18%29,1979_07_NN,6,16,25,usa,Randy_Corey,Randy Corey,Ron Corey Hair Den,,Nova,98,350,running,0,50
+1979,NN,1979_Molson_100_%28June_18%29,1979_07_NN,7,4,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,98,305,running,0,48
+1979,NN,1979_Molson_100_%28June_18%29,1979_07_NN,8,3,44,canada,Keith_Cavanagh,Keith Cavanagh,Knowlton Pub,,Ventura,97,325,running,0,48
+1979,NN,1979_Molson_100_%28June_18%29,1979_07_NN,9,9,51,usa,Jeb_Balise,Jeb Balise,Donovan Motors,,Nova,96,260,running,0,44
+1979,NN,1979_Molson_100_%28June_18%29,1979_07_NN,10,5,24,usa,Tim_Dykman,Tim Dykman,Bourbeau International,,Nova,94,245,running,0,42
+1979,NN,1979_Molson_100_%28June_18%29,1979_07_NN,11,6,81,usa,Andy_Isbister,Andy Isbister,Cliff Peterson,,Nova,92,255,running,0,40
+1979,NN,1979_Molson_100_%28June_18%29,1979_07_NN,12,2,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,Nova,91,225,running,0,38
+1979,NN,1979_Molson_100_%28June_18%29,1979_07_NN,13,12,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autobus St. Eutasche,,Nova,65,205,engine,0,36
+1979,NN,1979_Molson_100_%28June_18%29,1979_07_NN,14,8,07,usa,Tom_Rosati,Tom Rosati,Rosati Racing,,Ventura,51,185,handling,0,34
+1979,NN,1979_Molson_100_%28June_18%29,1979_07_NN,15,15,2,usa,Dan_Perez,Dan Perez,Mardan Chevrolet,,Nova,39,180,overheating,0,32
+1979,NN,1979_Molson_100_%28June_18%29,1979_07_NN,16,1,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Nova,10,170,oil pressure,10,33
+1979,NN,1979_Milton_35_%28June%29,1979_08_NN,1,14,71,usa,Bobby_Dragon,Bobby Dragon,Automaster,,Nova,35,700,running,1,39
+1979,NN,1979_Milton_35_%28June%29,1979_08_NN,2,12,16,usa,Stub_Fadden,Stub Fadden,H.O. Taylor,,Nova,35,310,running,23,32
+1979,NN,1979_Milton_35_%28June%29,1979_08_NN,3,1,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Nova,35,265,running,10,31
+1979,NN,1979_Milton_35_%28June%29,1979_08_NN,4,9,34,usa,Steve_Poulin,Steve Poulin,Ruskaup Motors,,Ventura,35,175,running,0,27
+1979,NN,1979_Milton_35_%28June%29,1979_08_NN,5,6,07,usa,Tom_Rosati,Tom Rosati,Rosati Racing,,Ventura,35,165,running,0,26
+1979,NN,1979_Milton_35_%28June%29,1979_08_NN,6,16,25,usa,Randy_Corey,Randy Corey,Hair Den,,Nova,35,160,running,0,25
+1979,NN,1979_Milton_35_%28June%29,1979_08_NN,7,3,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,35,160,running,0,29
+1979,NN,1979_Milton_35_%28June%29,1979_08_NN,8,11,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Craft,,Ventura,34,125,running,0,23
+1979,NN,1979_Milton_35_%28June%29,1979_08_NN,9,8,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,Nova,34,130,running,0,25
+1979,NN,1979_Milton_35_%28June%29,1979_08_NN,10,13,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,34,110,running,0,21
+1979,NN,1979_Milton_35_%28June%29,1979_08_NN,11,4,44,canada,Keith_Cavanagh,Keith Cavanagh,Knowlton Pub,,Ventura,34,125,running,1,24
+1979,NN,1979_Milton_35_%28June%29,1979_08_NN,12,5,81,usa,Andy_Isbister,Andy Isbister,Cliff Peterson,,Nova,34,80,running,0,19
+1979,NN,1979_Milton_35_%28June%29,1979_08_NN,13,15,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,Nova,32,135,running,0,25
+1979,NN,1979_Milton_35_%28June%29,1979_08_NN,14,17,69,usa,Brent_Hatch,Brent Hatch,Lloyd Smith,,Nova,31,70,running,0,19
+1979,NN,1979_Milton_35_%28June%29,1979_08_NN,15,2,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,Nova,23,50,running,0,16
+1979,NN,1979_Milton_35_%28June%29,1979_08_NN,16,10,8,usa,Mike_Barry,Mike Barry,Pizzagalli Construction,,Nova,10,90,handling,0,21
+1979,NN,1979_Milton_35_%28June%29,1979_08_NN,17,18,18,usa,Ray_Lepage,Ray Lepage,BLM,,Zephyr,7,50,handling,0,14
+1979,NN,1979_Milton_35_%28June%29,1979_08_NN,18,7,51,usa,Jeb_Balise,Jeb Balise,Donovan Motors,,Nova,6,50,steering,0,13
+1979,NN,1979_Spirit_of_79,1979_09_NN,1,13,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,79,1425,running,11,65
+1979,NN,1979_Spirit_of_79,1979_09_NN,2,14,71,usa,Bobby_Dragon,Bobby Dragon,Automaster,,Nova,79,800,running,47,65
+1979,NN,1979_Spirit_of_79,1979_09_NN,3,16,35,canada,Langis_Caron,Langis Caron,LaBerge,,Nova,79,640,running,0,56
+1979,NN,1979_Spirit_of_79,1979_09_NN,4,8,34,usa,Steve_Poulin,Steve Poulin,Ruskaup Motors,,Ventura,79,460,running,0,54
+1979,NN,1979_Spirit_of_79,1979_09_NN,5,6,07,usa,Tom_Rosati,Tom Rosati,Rosati Motorsports,,Ventura,79,380,running,0,52
+1979,NN,1979_Spirit_of_79,1979_09_NN,6,12,16,usa,Stub_Fadden,Stub Fadden,H.O. Taylor,,Nova,79,350,running,0,50
+1979,NN,1979_Spirit_of_79,1979_09_NN,7,10,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Speed,,Ventura,79,325,running,0,48
+1979,NN,1979_Spirit_of_79,1979_09_NN,8,4,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,79,300,running,0,46
+1979,NN,1979_Spirit_of_79,1979_09_NN,9,22,29,usa,Dave_Dion,Dave Dion,Vermont's Best Ford,,Futura,78,275,running,0,44
+1979,NN,1979_Spirit_of_79,1979_09_NN,10,5,51,usa,Jeb_Balise,Jeb Balise,Donovan Motors,,Nova,77,260,running,0,42
+1979,NN,1979_Spirit_of_79,1979_09_NN,11,24,61,usa,Brad_Kennedy,Brad Kennedy,Tuck Press,,Nova,77,254,running,0,42
+1979,NN,1979_Spirit_of_79,1979_09_NN,12,18,69,usa,Brent_Hatch,Brent Hatch,Lloyd Smith,,Nova,76,240,running,0,38
+1979,NN,1979_Spirit_of_79,1979_09_NN,13,17,24,usa,Phil_Gerbode,Phil Gerbode,Bourbeau International,,Nova,74,220,running,0,36
+1979,NN,1979_Spirit_of_79,1979_09_NN,14,1,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,Nova,73,200,running,0,34
+1979,NN,1979_Spirit_of_79,1979_09_NN,15,19,19,usa,Sonny_Bonnett,Sonny Bonnett,Nordic Ford,,Granada,58,190,running,0,32
+1979,NN,1979_Spirit_of_79,1979_09_NN,16,11,26,canada,Laurent_Rioux,Laurent Rioux,Laurent Racing,,Ventura,53,180,running,0,30
+1979,NN,1979_Spirit_of_79,1979_09_NN,17,3,44,canada,Keith_Cavanagh,Keith Cavanagh,Knowlton Pub,,Ventura,49,175,differential,0,32
+1979,NN,1979_Spirit_of_79,1979_09_NN,18,23,08,usa,Joe_Myers,Joe Myers,Cake World,,Nova,42,170,running,0,26
+1979,NN,1979_Spirit_of_79,1979_09_NN,19,9,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,Nova,25,155,running,0,24
+1979,NN,1979_Spirit_of_79,1979_09_NN,20,2,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Nova,21,140,engine,21,30
+1979,NN,1979_Spirit_of_79,1979_09_NN,21,7,8,usa,Mike_Barry,Mike Barry,Pizzagalli Construction,,Nova,13,135,crash,0,23
+1979,NN,1979_Spirit_of_79,1979_09_NN,22,15,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,Nova,11,125,engine,0,23
+1979,NN,1979_Spirit_of_79,1979_09_NN,23,21,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait,,Nova,11,115,crash,0,21
+1979,NN,1979_Spirit_of_79,1979_09_NN,24,20,70,usa,Don_Brown,Don Brown,John Needham,,Nova,10,110,engine,0,17
+1979,NN,1979_Firecracker_44,1979_10_NN,1,14,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,Nova,44,875,running,31,63
+1979,NN,1979_Firecracker_44,1979_10_NN,2,10,07,usa,Tom_Rosati,Tom Rosati,Rosati Motorsports,,Ventura,44,750,running,0,60
+1979,NN,1979_Firecracker_44,1979_10_NN,3,2,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Nova,44,475,running,13,58
+1979,NN,1979_Firecracker_44,1979_10_NN,4,16,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,44,340,running,0,56
+1979,NN,1979_Firecracker_44,1979_10_NN,5,18,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait,,Nova,44,320,running,0,53
+1979,NN,1979_Firecracker_44,1979_10_NN,6,1,2,usa,Dan_Perez,Dan Perez,Mardan Chevrolet,,Nova,44,300,running,0,50
+1979,NN,1979_Firecracker_44,1979_10_NN,7,13,16,usa,Stub_Fadden,Stub Fadden,H.O. Taylor,,Nova,44,260,running,0,49
+1979,NN,1979_Firecracker_44,1979_10_NN,8,17,71,usa,Bobby_Dragon,Bobby Dragon,Automaster,,Nova,44,250,running,0,46
+1979,NN,1979_Firecracker_44,1979_10_NN,9,8,8,usa,Mike_Barry,Mike Barry,Pizzagelli Construction,,Nova,44,230,running,0,47
+1979,NN,1979_Firecracker_44,1979_10_NN,10,12,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Craft,,Ventura,44,220,running,0,42
+1979,NN,1979_Firecracker_44,1979_10_NN,11,11,34,usa,Steve_Poulin,Steve Poulin,Ruskaup Motors,,Ventura,44,200,running,0,40
+1979,NN,1979_Firecracker_44,1979_10_NN,12,7,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,Nova,43,150,running,0,38
+1979,NN,1979_Firecracker_44,1979_10_NN,13,5,44,canada,Keith_Cavanagh,Keith Cavanagh,Knowlton Pub,,Ventura,42,140,running,0,36
+1979,NN,1979_Firecracker_44,1979_10_NN,14,4,81,usa,Andy_Isbister,Andy Isbister,Cliff Peterson,,Nova,42,120,running,0,35
+1979,NN,1979_Firecracker_44,1979_10_NN,15,9,51,usa,Jeb_Balise,Jeb Balise,Donovan Motors,,Nova,42,100,running,0,32
+1979,NN,1979_Firecracker_44,1979_10_NN,16,15,24,usa,Tim_Dykman,Tim Dykman,Bourbeau International,,Nova,41,100,running,0,30
+1979,NN,1979_Firecracker_44,1979_10_NN,17,3,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,Nova,41,75,running,0,28
+1979,NN,1979_Firecracker_44,1979_10_NN,18,20,14,usa,Bernie_Griffith,Bernie Griffith,Plattsburgh Hardware,,Barracuda,41,75,running,0,26
+1979,NN,1979_Firecracker_44,1979_10_NN,19,19,19,usa,Sonny_Bonnett,Sonny Bonnett,Nordic Ford,,Granada,41,75,running,0,24
+1979,NN,1979_Firecracker_44,1979_10_NN,20,22,2?,usa,Dan_Bridges,Dan Bridges,Bill's Body Shop,,Falcon,40,50,running,0,22
+1979,NN,1979_Firecracker_44,1979_10_NN,21,6,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,35,50,engine,0,27
+1979,NN,1979_Firecracker_44,1979_10_NN,22,21,17,usa,Bob_Brunell,Bob Brunell,Brunell Paving,,Nova,1,50,steering,0,18
+1979,NN,1979_Milton_35_%28July_7%29,1979_11_NN,1,4,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Nova,35,610,running,28,36
+1979,NN,1979_Milton_35_%28July_7%29,1979_11_NN,2,14,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,Nova,35,315,running,0,32
+1979,NN,1979_Milton_35_%28July_7%29,1979_11_NN,3,10,07,usa,Tom_Rosati,Tom Rosati,Rosati Motorsports,,Ventura,35,210,running,0,31
+1979,NN,1979_Milton_35_%28July_7%29,1979_11_NN,4,3,25,usa,Randy_Corey,Randy Corey,Corey Hair Den,,Nova,35,265,running,0,35
+1979,NN,1979_Milton_35_%28July_7%29,1979_11_NN,5,13,16,usa,Stub_Fadden,Stub Fadden,H.O. Taylor,,Nova,35,190,running,0,31
+1979,NN,1979_Milton_35_%28July_7%29,1979_11_NN,6,12,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Speed,,Ventura,35,160,running,0,27
+1979,NN,1979_Milton_35_%28July_7%29,1979_11_NN,7,1,2,usa,Dan_Perez,Dan Perez,Mardan Chevrolet,,Nova,35,160,running,7,28
+1979,NN,1979_Milton_35_%28July_7%29,1979_11_NN,8,8,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,Nova,35,125,running,0,23
+1979,NN,1979_Milton_35_%28July_7%29,1979_11_NN,9,11,34,usa,Steve_Poulin,Steve Poulin,Ruskaup Motors,,Ventura,35,145,running,0,26
+1979,NN,1979_Milton_35_%28July_7%29,1979_11_NN,10,7,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,35,110,running,0,21
+1979,NN,1979_Milton_35_%28July_7%29,1979_11_NN,11,15,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,35,135,running,0,25
+1979,NN,1979_Milton_35_%28July_7%29,1979_11_NN,12,8,24,usa,Phil_Gerbode,Phil Gerbode,Bourbeau International,,Nova,34,80,running,0,19
+1979,NN,1979_Milton_35_%28July_7%29,1979_11_NN,13,2,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,Nova,34,70,running,0,18
+1979,NN,1979_Milton_35_%28July_7%29,1979_11_NN,14,5,81,usa,Andy_Isbister,Andy Isbister,Cliff Peterson,,Nova,34,60,running,0,17
+1979,NN,1979_Milton_35_%28July_7%29,1979_11_NN,15,17,69,usa,Brent_Hatch,Brent Hatch,Lloyd Smith,,Nova,30,50,running,0,16
+1979,NN,1979_Milton_35_%28July_7%29,1979_11_NN,16,9,8,usa,Mike_Barry,Mike Barry,Pizzagalli Construction,,Nova,17,65,clutch,0,17
+1979,NN,1979_Milton_35_%28July_7%29,1979_11_NN,17,16,18,usa,Rick_Lepage,Rick Lepage,BLM,,Zephyr,15,50,head gasket,0,14
+1979,NN,1979_Milton_35_%28July_7%29,1979_11_NN,18,6,44,canada,Keith_Cavanagh,Keith Cavanagh,Knowlton Pub,,Ventura,0,50,engine,0,13
+1979,NN,1979_Molson_300,1979_12_NN,1,7,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Nova,300,2320,running,34,61
+1979,NN,1979_Molson_300,1979_12_NN,2,12,71,usa,Bobby_Dragon,Bobby Dragon,Automaster,,Nova,300,1185,running,62,58
+1979,NN,1979_Molson_300,1979_12_NN,3,2,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,300,1035,running,0,59
+1979,NN,1979_Molson_300,1979_12_NN,4,11,71,usa,Gene_Glover,Gene Glover,Glover Family,,Nova,300,745,running,0,54
+1979,NN,1979_Molson_300,1979_12_NN,5,22,26,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Laurent Racing,,Ventura,299,585,running,0,0
+1979,NN,1979_Molson_300,1979_12_NN,6,8,83,canada,Claude_Aubin,Claude Aubin,Autodrome de Laval,,Nova,298,560,running,89,0
+1979,NN,1979_Molson_300,1979_12_NN,7,10,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,Nova,295,500,running,0,48
+1979,NN,1979_Molson_300,1979_12_NN,8,16,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,295,455,running,0,46
+1979,NN,1979_Molson_300,1979_12_NN,9,3,07,usa,Tom_Rosati,Tom Rosati,Rosati Motorsports,,Ventura,291,445,running,0,47
+1979,NN,1979_Molson_300,1979_12_NN,10,18,34,usa,Steve_Poulin,Steve Poulin,Ruskaup Motors,,Ventura,284,400,running,0,42
+1979,NN,1979_Molson_300,1979_12_NN,11,20,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,Nova,280,395,running,0,40
+1979,NN,1979_Molson_300,1979_12_NN,12,24,32,canada,Claude_Metivier,Claude Metivier,Roger Chadore,,Ventura,277,370,running,0,38
+1979,NN,1979_Molson_300,1979_12_NN,13,4,8,usa,Mike_Barry,Mike Barry,Pizzagelli Construction,,Nova,275,355,running,0,38
+1979,NN,1979_Molson_300,1979_12_NN,14,23,81,usa,Andy_Isbister,Andy Isbister,Cliff Peterson,,Nova,253,305,overheating,0,34
+1979,NN,1979_Molson_300,1979_12_NN,15,1,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,Nova,228,315,engine,115,35
+1979,NN,1979_Molson_300,1979_12_NN,16,19,24,usa,Tim_Dykman,Tim Dykman,Bourbeau International,,Nova,212,300,clutch,0,30
+1979,NN,1979_Molson_300,1979_12_NN,17,15,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,Nova,156,270,engine,0,0
+1979,NN,1979_Molson_300,1979_12_NN,18,14,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Speed,,Ventura,143,260,overheating,0,26
+1979,NN,1979_Molson_300,1979_12_NN,19,9,35,canada,Langis_Caron,Langis Caron,LaBerge,,Nova,84,250,overheating,0,25
+1979,NN,1979_Molson_300,1979_12_NN,20,13,16,usa,Stub_Fadden,Stub Fadden,H.O. Taylor,,Nova,81,215,tie rod,0,22
+1979,NN,1979_Molson_300,1979_12_NN,21,21,51,usa,Jeb_Balise,Jeb Balise,Donovan Motors,,Nova,63,205,radiator,0,20
+1979,NN,1979_Molson_300,1979_12_NN,22,5,25,usa,Randy_Corey,Randy Corey,Hair Den,,Nova,57,215,engine,0,20
+1979,NN,1979_Molson_300,1979_12_NN,23,17,2,usa,Dan_Perez,Dan Perez,Mardan Chevrolet,,Nova,46,170,header,0,16
+1979,NN,1979_Molson_300,1979_12_NN,24,6,10,canada,Gilles_Lussier,Gilles Lussier,Benoit Eletric,,Nova,14,185,crash,0,16
+1979,NN,1979_Busch_100,1979_13_NN,1,18,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,Nova,100,1375,running,86,64
+1979,NN,1979_Busch_100,1979_13_NN,2,14,07,usa,Tom_Rosati,Tom Rosati,E.A. Grandfield,,Ventura,100,1000,running,0,63
+1979,NN,1979_Busch_100,1979_13_NN,3,19,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,100,575,running,0,57
+1979,NN,1979_Busch_100,1979_13_NN,4,20,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Nova,100,475,running,0,62
+1979,NN,1979_Busch_100,1979_13_NN,5,4,25,usa,Randy_Corey,Randy Corey,Broadacres,,Nova,99,540,running,13,60
+1979,NN,1979_Busch_100,1979_13_NN,6,8,8,usa,Mike_Barry,Mike Barry,Pizzagalli Construction,,Nova,99,400,running,0,50
+1979,NN,1979_Busch_100,1979_13_NN,7,23,71,usa,Gene_Glover,Gene Glover,Glover Racing,,Nova,99,290,running,0,48
+1979,NN,1979_Busch_100,1979_13_NN,8,11,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Speed,,Ventura,98,265,running,0,49
+1979,NN,1979_Busch_100,1979_13_NN,9,17,69,usa,Brent_Hatch,Brent Hatch,Lloyd Smith,,Nova,98,250,running,0,44
+1979,NN,1979_Busch_100,1979_13_NN,10,6,51,usa,Jeb_Balise,Jeb Balise,Donovan Motors,,Nova,97,230,running,0,42
+1979,NN,1979_Busch_100,1979_13_NN,11,22,61,usa,Brad_Kennedy,Brad Kennedy,Tuck Press,,Nova,97,220,running,0,0
+1979,NN,1979_Busch_100,1979_13_NN,12,3,44,canada,Keith_Cavanagh,Keith Cavanagh,Knowlton Pub,,Ventura,97,210,running,0,40
+1979,NN,1979_Busch_100,1979_13_NN,13,24,34,usa,Steve_Poulin,Steve Poulin,Ruskaup Motors,,Ventura,95,195,running,0,36
+1979,NN,1979_Busch_100,1979_13_NN,14,2,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,Nova,92,175,running,0,34
+1979,NN,1979_Busch_100,1979_13_NN,15,15,26,canada,Laurent_Rioux,Laurent Rioux,Laurent Racing,,Ventura,91,170,running,0,32
+1979,NN,1979_Busch_100,1979_13_NN,16,5,81,usa,Andy_Isbister,Andy Isbister,Cliff Peterson,,Nova,86,165,running,0,30
+1979,NN,1979_Busch_100,1979_13_NN,17,12,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,Nova,55,160,crash,0,30
+1979,NN,1979_Busch_100,1979_13_NN,18,13,24,usa,Phil_Gerbode,Phil Gerbode,Bourbeau International,,Nova,55,150,crash,0,26
+1979,NN,1979_Busch_100,1979_13_NN,19,9,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,Nova,26,140,crash,0,28
+1979,NN,1979_Busch_100,1979_13_NN,20,10,19,usa,Sonny_Bonnett,Sonny Bonnett,Nordic Ford,,Granada,24,125,engine,0,0
+1979,NN,1979_Busch_100,1979_13_NN,21,1,2,usa,Dan_Perez,Dan Perez,Mardan Chevrolet,,Nova,21,120,engine miss,1,20
+1979,NN,1979_Busch_100,1979_13_NN,22,7,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,18,115,rear end,0,18
+1979,NN,1979_Busch_100,1979_13_NN,23,16,16,usa,Stub_Fadden,Stub Fadden,H.O. Taylor,,Nova,13,125,piston,0,21
+1979,NN,1979_Busch_100,1979_13_NN,24,21,08,usa,Joe_Myers,Joe Myers,Cake World,,Nova,3,95,engine,0,14
+1979,NN,1979_Molson_100_%28July_21%29,1979_14_NN,1,14,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,Nova,100,1550,running,82,66
+1979,NN,1979_Molson_100_%28July_21%29,1979_14_NN,2,10,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Nova,100,935,running,0,64
+1979,NN,1979_Molson_100_%28July_21%29,1979_14_NN,3,15,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,100,660,running,0,61
+1979,NN,1979_Molson_100_%28July_21%29,1979_14_NN,4,13,07,usa,Tom_Rosati,Tom Rosati,E.A. Grandfield,,Ventura,100,475,running,0,56
+1979,NN,1979_Molson_100_%28July_21%29,1979_14_NN,5,18,00,canada,Roger_Laperle,Roger Laperle,Super Speed,,Nova,99,410,running,0,52
+1979,NN,1979_Molson_100_%28July_21%29,1979_14_NN,6,4,25,usa,Randy_Corey,Randy Corey,Broadacres,,Nova,99,405,running,16,56
+1979,NN,1979_Molson_100_%28July_21%29,1979_14_NN,7,17,10,canada,Gilles_Lussier,Gilles Lussier,Benoit Electric,,Nova,99,350,running,0,48
+1979,NN,1979_Molson_100_%28July_21%29,1979_14_NN,8,16,83,canada,Claude_Aubin,Claude Aubin,Autodrome de Laval,,Nova,98,320,transmission,0,50
+1979,NN,1979_Molson_100_%28July_21%29,1979_14_NN,9,2,44,canada,Keith_Cavanagh,Keith Cavanagh,Knowlton Pub,,Ventura,98,300,running,0,44
+1979,NN,1979_Molson_100_%28July_21%29,1979_14_NN,10,8,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,Nova,98,280,running,0,42
+1979,NN,1979_Molson_100_%28July_21%29,1979_14_NN,11,6,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,Nova,98,270,running,0,42
+1979,NN,1979_Molson_100_%28July_21%29,1979_14_NN,12,12,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Speed,,Ventura,97,260,running,0,38
+1979,NN,1979_Molson_100_%28July_21%29,1979_14_NN,13,1,2,usa,Dan_Perez,Dan Perez,Mardan Chevrolet,,Nova,97,235,running,2,40
+1979,NN,1979_Molson_100_%28July_21%29,1979_14_NN,14,11,34,usa,Steve_Poulin,Steve Poulin,Ruskaup Motors,,Ventura,96,215,running,0,35
+1979,NN,1979_Molson_100_%28July_21%29,1979_14_NN,15,3,81,usa,Andy_Isbister,Andy Isbister,Cliff Peterson,,Nova,95,205,running,0,32
+1979,NN,1979_Molson_100_%28July_21%29,1979_14_NN,16,9,24,usa,Phil_Gerbode,Phil Gerbode,Bourbeau International,,Nova,95,200,running,0,30
+1979,NN,1979_Molson_100_%28July_21%29,1979_14_NN,17,7,12,usa,Tim_Dykman,Tim Dykman,Bourbeau International,,Nova,32,190,tie rod,0,28
+1979,NN,1979_Molson_100_%28July_21%29,1979_14_NN,18,5,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,25,185,panhard bar,0,26
+1979,NN,1979_Molson_100_%28July_21%29,1979_14_NN,19,19,26,canada,Laurent_Rioux,Laurent Rioux,Laurent Racing,,Ventura,5,170,cylinder head,0,24
+1979,NN,1979_Milton_35_%28July_28%29,1979_15_NN,1,16,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,35,560,running,18,36
+1979,NN,1979_Milton_35_%28July_28%29,1979_15_NN,2,18,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,Nova,35,350,running,0,36
+1979,NN,1979_Milton_35_%28July_28%29,1979_15_NN,3,15,71,usa,Bobby_Dragon,Bobby Dragon,Automaster,,Nova,35,215,running,0,32
+1979,NN,1979_Milton_35_%28July_28%29,1979_15_NN,4,17,X,usa,Pete_Silva,Pete Silva,Budweiser,,Nova,35,225,running,0,27
+1979,NN,1979_Milton_35_%28July_28%29,1979_15_NN,5,14,0,canada,Roger_Laperle,Roger Laperle,Super Speed,,Nova,35,165,running,0,26
+1979,NN,1979_Milton_35_%28July_28%29,1979_15_NN,6,9,07,usa,Tom_Rosati,Tom Rosati,E.A. Grandfield,,Ventura,35,250,running,0,33
+1979,NN,1979_Milton_35_%28July_28%29,1979_15_NN,7,8,34,usa,Steve_Poulin,Steve Poulin,Ruskaup Motors,,Ventura,35,135,running,0,24
+1979,NN,1979_Milton_35_%28July_28%29,1979_15_NN,8,7,8,usa,Mike_Barry,Mike Barry,Pizzagelli Construction,,Nova,35,135,running,0,25
+1979,NN,1979_Milton_35_%28July_28%29,1979_15_NN,9,2,44,canada,Keith_Cavanagh,Keith Cavanagh,Knowlton Pub,,Ventura,35,130,running,14,25
+1979,NN,1979_Milton_35_%28July_28%29,1979_15_NN,10,6,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,Nova,35,135,running,0,25
+1979,NN,1979_Milton_35_%28July_28%29,1979_15_NN,11,1,2,usa,Dan_Perez,Dan Perez,Mardan Chevrloet,,Nova,34,125,running,0,24
+1979,NN,1979_Milton_35_%28July_28%29,1979_15_NN,12,13,69,usa,Gardiner_Leavitt,Gardiner Leavitt,Tuck Press,,Nova,34,80,running,0,19
+1979,NN,1979_Milton_35_%28July_28%29,1979_15_NN,13,3,81,usa,Andy_Isbister,Andy Isbister,Joe's Upholstery,,Nova,33,70,running,0,18
+1979,NN,1979_Milton_35_%28July_28%29,1979_15_NN,14,4,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,27,60,oil pump,0,17
+1979,NN,1979_Milton_35_%28July_28%29,1979_15_NN,15,12,61,usa,Brad_Kennedy,Brad Kennedy,Tuck Press,,Nova,22,50,cut tire,0,16
+1979,NN,1979_Milton_35_%28July_28%29,1979_15_NN,16,11,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Nova,19,50,rear end,0,15
+1979,NN,1979_Milton_35_%28July_28%29,1979_15_NN,17,5,25,usa,Randy_Corey,Randy Corey,Broadacres,,Nova,18,65,oil pan,3,18
+1979,NN,1979_Milton_35_%28July_28%29,1979_15_NN,18,10,16,usa,Stub_Fadden,Stub Fadden,H.O. Taylor,,Nova,18,50,valve spring,0,13
+1979,NN,1979_Molson_100_%28July_29%29,1979_16_NN,1,14,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,Nova,100,1320,running,40,61
+1979,NN,1979_Molson_100_%28July_29%29,1979_16_NN,2,1,2,usa,Dan_Perez,Dan Perez,Mardan Chevrolet,,Nova,100,760,running,60,59
+1979,NN,1979_Molson_100_%28July_29%29,1979_16_NN,3,16,X,usa,Pete_Silva,Pete Silva,Budweiser,,Nova,100,580,running,0,56
+1979,NN,1979_Molson_100_%28July_29%29,1979_16_NN,4,3,44,canada,Keith_Cavanagh,Keith Cavanagh,Knowlton Pub,,Ventura,100,415,running,0,54
+1979,NN,1979_Molson_100_%28July_29%29,1979_16_NN,5,7,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,Nova,99,355,running,0,54
+1979,NN,1979_Molson_100_%28July_29%29,1979_16_NN,6,9,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Speed,,Ventura,99,325,running,0,53
+1979,NN,1979_Molson_100_%28July_29%29,1979_16_NN,7,15,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,99,300,running,0,48
+1979,NN,1979_Molson_100_%28July_29%29,1979_16_NN,8,8,24,usa,Phil_Gerbode,Phil Gerbode,Bourbeau International,,Nova,98,275,running,0,46
+1979,NN,1979_Molson_100_%28July_29%29,1979_16_NN,9,2,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,Nova,95,255,running,0,44
+1979,NN,1979_Molson_100_%28July_29%29,1979_16_NN,10,12,07,usa,Tom_Rosati,Tom Rosati,E.A. Grandfield,,Ventura,94,240,running,0,42
+1979,NN,1979_Molson_100_%28July_29%29,1979_16_NN,11,13,00,canada,Roger_Laperle,Roger Laperle,Super Speed,,Nova,89,230,crash,0,42
+1979,NN,1979_Molson_100_%28July_29%29,1979_16_NN,12,4,81,usa,Andy_Isbister,Andy Isbister,Joe's Upholstery,,Nova,86,220,running,0,38
+1979,NN,1979_Molson_100_%28July_29%29,1979_16_NN,13,10,34,usa,Steve_Poulin,Steve Poulin,Ruskaup Motors,,Ventura,75,200,running,0,36
+1979,NN,1979_Molson_100_%28July_29%29,1979_16_NN,14,6,25,usa,Randy_Corey,Randy Corey,Broadacres,,Nova,28,185,oil pressure,0,37
+1979,NN,1979_Molson_100_%28July_29%29,1979_16_NN,15,5,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,22,175,overheating,0,32
+1979,NN,1979_Molson_100_%28July_29%29,1979_16_NN,16,11,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Nova,20,170,overheating,0,30
+1979,NN,1979_Lake_Buick_100,1979_17_NN,1,14,71,usa,Bobby_Dragon,Bobby Dragon,Automaster Honda,,Nova,100,1305,running,40,69
+1979,NN,1979_Lake_Buick_100,1979_17_NN,2,16,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,Nova,100,725,running,0,63
+1979,NN,1979_Lake_Buick_100,1979_17_NN,3,15,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,100,550,running,0,56
+1979,NN,1979_Lake_Buick_100,1979_17_NN,4,17,X,usa,Pete_Silva,Pete Silva,Budweiser,,Nova,100,600,running,0,54
+1979,NN,1979_Lake_Buick_100,1979_17_NN,5,12,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Speed,,Ventura,99,450,running,0,56
+1979,NN,1979_Lake_Buick_100,1979_17_NN,6,1,2,usa,Dan_Perez,Dan Perez,Mardan Chevrolet,,Nova,98,375,running,26,55
+1979,NN,1979_Lake_Buick_100,1979_17_NN,7,4,44,canada,Keith_Cavanagh,Keith Cavanagh,Knowlton Pub,,Ventura,98,300,running,0,48
+1979,NN,1979_Lake_Buick_100,1979_17_NN,8,7,18,usa,Rick_Lepage,Rick Lepage,Burlington Lincoln,,Zephyr,98,270,running,0,46
+1979,NN,1979_Lake_Buick_100,1979_17_NN,9,2,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,Nova,95,250,running,0,44
+1979,NN,1979_Lake_Buick_100,1979_17_NN,10,10,34,usa,Steve_Poulin,Steve Poulin,Ruskaup Motors,,Ventura,94,240,running,0,42
+1979,NN,1979_Lake_Buick_100,1979_17_NN,11,9,8,usa,Mike_Barry,Mike Barry,Pizzagelli Construction,,Nova,93,225,running,0,45
+1979,NN,1979_Lake_Buick_100,1979_17_NN,12,21,81,usa,Andy_Isbister,Andy Isbister,Joe's Upholstery,,Nova,69,220,running,0,10
+1979,NN,1979_Lake_Buick_100,1979_17_NN,13,6,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Nova,59,200,transmission,0,36
+1979,NN,1979_Lake_Buick_100,1979_17_NN,14,13,07,usa,Tom_Rosati,Tom Rosati,E.A. Grandfield,,Ventura,38,180,oil cooler,0,37
+1979,NN,1979_Lake_Buick_100,1979_17_NN,15,18,51,usa,Jeb_Balise,Jeb Balise,Donovan Motors,,Nova,33,175,handling,0,32
+1979,NN,1979_Lake_Buick_100,1979_17_NN,16,5,25,usa,Randy_Corey,Randy Corey,Broadacres,,Nova,14,170,oil cooler,0,32
+1979,NN,1979_Lake_Buick_100,1979_17_NN,17,20,08,usa,Joe_Myers,Joe Myers,Cake World,,Nova,10,160,engine,0,28
+1979,NN,1979_Lake_Buick_100,1979_17_NN,18,11,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Nova,7,155,engine,0,26
+1979,NN,1979_Lake_Buick_100,1979_17_NN,19,3,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,0,190,engine,0,31
+1979,NN,1979_Lake_Buick_100,1979_17_NN,20,8,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,Nova,0,130,crash,0,24
+1979,NN,1979_Lake_Buick_100,1979_17_NN,21,19,29,usa,Dave_Dion,Dave Dion,Vermont Ford Dealers,,Ventura,0,125,crash,0,0
+1979,NN,1979_Super_Molson_100_%28August%29,1979_18_NN,1,10,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Nova,100,1525,running,68,67
+1979,NN,1979_Super_Molson_100_%28August%29,1979_18_NN,2,16,35,canada,Langis_Caron,Langis Caron,LaBerge,,Nova,100,900,running,0,58
+1979,NN,1979_Super_Molson_100_%28August%29,1979_18_NN,3,21,07,usa,Tom_Rosati,Tom Rosati,E.A. Grandfield,,Ventura,100,650,running,0,56
+1979,NN,1979_Super_Molson_100_%28August%29,1979_18_NN,4,13,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,Nova,100,500,running,0,57
+1979,NN,1979_Super_Molson_100_%28August%29,1979_18_NN,5,15,71,usa,Bobby_Dragon,Bobby Dragon,Automaster,,Nova,100,500,running,0,60
+1979,NN,1979_Super_Molson_100_%28August%29,1979_18_NN,6,12,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,100,425,running,0,53
+1979,NN,1979_Super_Molson_100_%28August%29,1979_18_NN,7,3,25,usa,Randy_Corey,Randy Corey,Broadacres,,Nova,99,400,running,0,51
+1979,NN,1979_Super_Molson_100_%28August%29,1979_18_NN,8,2,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,99,350,running,0,50
+1979,NN,1979_Super_Molson_100_%28August%29,1979_18_NN,9,8,26,canada,Laurent_Rioux,Laurent Rioux,Lauring Racing,,Ventura,97,330,running,0,44
+1979,NN,1979_Super_Molson_100_%28August%29,1979_18_NN,10,5,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Nova,95,315,running,0,42
+1979,NN,1979_Super_Molson_100_%28August%29,1979_18_NN,11,11,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Speed,,Ventura,95,300,running,0,40
+1979,NN,1979_Super_Molson_100_%28August%29,1979_18_NN,12,19,81,usa,Andy_Isbister,Andy Isbister,Joe's Upholstery,,Nova,95,290,running,0,38
+1979,NN,1979_Super_Molson_100_%28August%29,1979_18_NN,13,6,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,Nova,93,260,running,0,38
+1979,NN,1979_Super_Molson_100_%28August%29,1979_18_NN,14,18,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,Nova,91,240,running,0,34
+1979,NN,1979_Super_Molson_100_%28August%29,1979_18_NN,15,4,44,canada,Keith_Cavanagh,Keith Cavanagh,Knowlton Pub,,Ventura,81,230,running,0,32
+1979,NN,1979_Super_Molson_100_%28August%29,1979_18_NN,16,1,2,usa,Dan_Perez,Dan Perez,Mardan Chevrolet,,Nova,67,295,engine,16,39
+1979,NN,1979_Super_Molson_100_%28August%29,1979_18_NN,17,14,X,usa,Pete_Silva,Pete Silva,Budweiser,,Nova,54,210,steering,0,28
+1979,NN,1979_Super_Molson_100_%28August%29,1979_18_NN,18,17,12,canada,Roger_Briere,Roger Briere,C & P Auto Body,,Torino,52,200,rear end,0,26
+1979,NN,1979_Super_Molson_100_%28August%29,1979_18_NN,19,7,8,usa,Mike_Barry,Mike Barry,Pizzagalli Construction,,Nova,35,180,front end,0,27
+1979,NN,1979_Super_Molson_100_%28August%29,1979_18_NN,20,20,83,canada,Claude_Aubin,Claude Aubin,Autodrome de Laval,,Nova,32,170,valve,16,10
+1979,NN,1979_Super_Molson_100_%28August%29,1979_18_NN,21,9,34,usa,Steve_Poulin,Steve Poulin,Ruskaup Motors,,Ventura,0,160,crash,0,20
+1979,NN,1979_Milton_35_%28August%29,1979_19_NN,1,15,71,usa,Bobby_Dragon,Bobby Dragon,Automaster Honda,,Nova,35,575,running,23,38
+1979,NN,1979_Milton_35_%28August%29,1979_19_NN,2,11,16,usa,Stub_Fadden,Stub Fadden,H.O. Taylor,,Nova,35,315,running,0,33
+1979,NN,1979_Milton_35_%28August%29,1979_19_NN,3,16,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,Nova,35,215,running,0,31
+1979,NN,1979_Milton_35_%28August%29,1979_19_NN,4,12,07,usa,Tom_Rosati,Tom Rosati,E.A. Grandfield,,Ventura,35,225,running,0,27
+1979,NN,1979_Milton_35_%28August%29,1979_19_NN,5,14,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,35,165,running,0,26
+1979,NN,1979_Milton_35_%28August%29,1979_19_NN,6,1,44,canada,Keith_Cavanagh,Keith Cavanagh,Knowlton Pub,,Ventura,35,175,running,12,29
+1979,NN,1979_Milton_35_%28August%29,1979_19_NN,7,18,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Nova,35,160,running,0,28
+1979,NN,1979_Milton_35_%28August%29,1979_19_NN,8,9,34,usa,Steve_Poulin,Steve Poulin,Ruskaup Motors,,Ventura,35,125,running,0,23
+1979,NN,1979_Milton_35_%28August%29,1979_19_NN,9,8,8,usa,Mike_Barry,Mike Barry,Pizzagalli Construction,,Nova,35,155,running,0,27
+1979,NN,1979_Milton_35_%28August%29,1979_19_NN,10,13,X,usa,Pete_Silva,Pete Silva,Budweiser,,Nova,35,120,running,0,24
+1979,NN,1979_Milton_35_%28August%29,1979_19_NN,11,10,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Speed,,Ventura,35,100,running,0,20
+1979,NN,1979_Milton_35_%28August%29,1979_19_NN,12,17,10,canada,Gilles_Lussier,Gilles Lussier,Benoit Electric,,Nova,35,80,running,0,19
+1979,NN,1979_Milton_35_%28August%29,1979_19_NN,13,6,25,usa,Randy_Corey,Randy Corey,Broadacres,,Nova,35,155,running,0,25
+1979,NN,1979_Milton_35_%28August%29,1979_19_NN,14,4,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,35,60,running,0,17
+1979,NN,1979_Milton_35_%28August%29,1979_19_NN,15,5,81,usa,Andy_Isbister,Andy Isbister,Joe's Upholstery,,Nova,34,50,running,0,16
+1979,NN,1979_Milton_35_%28August%29,1979_19_NN,16,2,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,Nova,32,50,running,0,15
+1979,NN,1979_Milton_35_%28August%29,1979_19_NN,17,7,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,Nova,28,50,running,0,14
+1979,NN,1979_Milton_35_%28August%29,1979_19_NN,18,1,2,usa,Dan_Perez,Dan Perez,Mardan Chevrolet,,Nova,8,75,engine,0,17
+1979,NN,1979_Burger_King_Fan_Classic,1979_20_NN,1,1,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Nova,100,1371,running,67,64
+1979,NN,1979_Burger_King_Fan_Classic,1979_20_NN,2,4,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,Nova,100,700,running,0,58
+1979,NN,1979_Burger_King_Fan_Classic,1979_20_NN,3,6,71,usa,Bobby_Dragon,Bobby Dragon,Automaster,,Nova,100,550,running,0,56
+1979,NN,1979_Burger_King_Fan_Classic,1979_20_NN,4,5,16,usa,Stub_Fadden,Stub Fadden,H.O. Taylor,,Nova,100,450,running,0,61
+1979,NN,1979_Burger_King_Fan_Classic,1979_20_NN,5,22,00,canada,Roger_Laperle,Roger Laperle,Super Speed,,Nova,100,550,running,0,0
+1979,NN,1979_Burger_King_Fan_Classic,1979_20_NN,6,21,X,usa,Pete_Silva,Pete Silva,Budweiser,,Nova,100,732,running,0,56
+1979,NN,1979_Burger_King_Fan_Classic,1979_20_NN,7,18,34,usa,Steve_Poulin,Steve Poulin,Ruskaup Motors,,Ventura,100,350,running,0,48
+1979,NN,1979_Burger_King_Fan_Classic,1979_20_NN,8,11,29,usa,Dave_Dion,Dave Dion,Vermont Ford Dealers,,Futura,100,270,running,0,0
+1979,NN,1979_Burger_King_Fan_Classic,1979_20_NN,9,23,10,canada,Gilles_Lussier,Gilles Lussier,Benoit Electric,,Nova,100,250,running,0,44
+1979,NN,1979_Burger_King_Fan_Classic,1979_20_NN,10,3,44,canada,Keith_Cavanagh,Keith Cavanagh,Knowlton Pub,,Ventura,99,240,running,0,42
+1979,NN,1979_Burger_King_Fan_Classic,1979_20_NN,11,14,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Speed,,Ventura,98,225,running,0,43
+1979,NN,1979_Burger_King_Fan_Classic,1979_20_NN,12,12,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,Nova,98,220,running,0,38
+1979,NN,1979_Burger_King_Fan_Classic,1979_20_NN,13,17,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,Nova,97,200,running,0,36
+1979,NN,1979_Burger_King_Fan_Classic,1979_20_NN,14,15,81,usa,Andy_Isbister,Andy Isbister,Joe's Upholstery,,Nova,93,180,running,0,34
+1979,NN,1979_Burger_King_Fan_Classic,1979_20_NN,15,16,18,usa,Dan_Perez,Dan Perez,Burlington Lincoln,,Zephyr,87,175,running,0,35
+1979,NN,1979_Burger_King_Fan_Classic,1979_20_NN,16,20,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait,,Nova,78,170,radiator,0,30
+1979,NN,1979_Burger_King_Fan_Classic,1979_20_NN,17,8,25,usa,Randy_Corey,Randy Corey,Broadacres,,Nova,64,235,crash,0,36
+1979,NN,1979_Burger_King_Fan_Classic,1979_20_NN,18,7,8,usa,Mike_Barry,Mike Barry,Pizzagalli Construction,,Nova,64,155,engine,0,26
+1979,NN,1979_Burger_King_Fan_Classic,1979_20_NN,19,19,61,usa,Brad_Kennedy,Brad Kennedy,Tuck Press,,Nova,54,140,front hub,0,24
+1979,NN,1979_Burger_King_Fan_Classic,1979_20_NN,20,13,08,usa,Joe_Myers,Joe Myers,Cake World,,Nova,49,130,engine,0,22
+1979,NN,1979_Burger_King_Fan_Classic,1979_20_NN,21,9,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,48,125,oil line,0,20
+1979,NN,1979_Burger_King_Fan_Classic,1979_20_NN,22,2,7,usa,Tom_Rosati,Tom Rosati,E.A. Grandfield,,Nova,33,115,ignition,33,22
+1979,NN,1979_Burger_King_Fan_Classic,1979_20_NN,23,24,87,none,Denis_Chicoine,Denis Chicoine,Chicoine Racing,,Chevelle,24,105,overheating,0,0
+1979,NN,1979_Burger_King_Fan_Classic,1979_20_NN,24,10,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,19,100,rear end,0,18
+1979,NN,1979_Monadnock_100,1979_21_NN,1,8,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,Nova,100,1305,running,90,68
+1979,NN,1979_Monadnock_100,1979_21_NN,2,6,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,100,700,running,0,58
+1979,NN,1979_Monadnock_100,1979_21_NN,3,11,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Nova,100,550,running,0,61
+1979,NN,1979_Monadnock_100,1979_21_NN,4,7,71,usa,Bobby_Dragon,Bobby Dragon,Automaster,,Nova,100,400,running,0,54
+1979,NN,1979_Monadnock_100,1979_21_NN,5,10,34,usa,Steve_Poulin,Steve Poulin,Ruskaup Motors,,Ventura,100,350,running,0,52
+1979,NN,1979_Monadnock_100,1979_21_NN,6,3,25,usa,Randy_Corey,Randy Corey,Broadacres,,Nova,98,325,running,0,54
+1979,NN,1979_Monadnock_100,1979_21_NN,7,5,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Speed,,Ventura,97,300,running,0,48
+1979,NN,1979_Monadnock_100,1979_21_NN,8,13,73,usa,Jerry_Marquis,Jerry Marquis,Marquis Racing,,Nova,97,270,running,0,46
+1979,NN,1979_Monadnock_100,1979_21_NN,9,4,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,Nova,97,250,running,0,47
+1979,NN,1979_Monadnock_100,1979_21_NN,10,1,44,canada,Keith_Cavanagh,Keith Cavanagh,Knowlton Pub,,Ventura,97,240,running,0,46
+1979,NN,1979_Monadnock_100,1979_21_NN,11,14,4,usa,Wes_Rosner,Wes Rosner,Rosner Race Cars,,Nova,96,225,running,0,40
+1979,NN,1979_Monadnock_100,1979_21_NN,12,9,16,usa,Stub_Fadden,Stub Fadden,H.O. Taylor,,Nova,91,270,running,0,45
+1979,NN,1979_Monadnock_100,1979_21_NN,13,19,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,Nova,76,200,running,0,36
+1979,NN,1979_Monadnock_100,1979_21_NN,14,16,29,usa,Dave_Dion,Dave Dion,Vermont's Best Ford,,Futura,72,180,running,0,34
+1979,NN,1979_Monadnock_100,1979_21_NN,15,15,81,usa,Andy_Isbister,Andy Isbister,Joe's Upholstery,,Nova,37,175,axle,0,32
+1979,NN,1979_Monadnock_100,1979_21_NN,16,2,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,33,170,engine,10,32
+1979,NN,1979_Monadnock_100,1979_21_NN,17,12,07,usa,Tom_Rosati,Tom Rosati,E.A. Grandfield,,Ventura,29,160,piston,0,28
+1979,NN,1979_Monadnock_100,1979_21_NN,18,17,9,usa,Alan_Monette,Alan Monette,Monette Racing,,Nova,18,155,engine,0,26
+1979,NN,1979_Monadnock_100,1979_21_NN,19,18,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Nova,6,140,handling,0,24
+1979,NN,1979_Molson_100_%28September%29,1979_22_NN,1,16,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,100,1575,running,14,68
+1979,NN,1979_Molson_100_%28September%29,1979_22_NN,2,18,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,Nova,100,910,running,74,64
+1979,NN,1979_Molson_100_%28September%29,1979_22_NN,3,15,X,usa,Pete_Silva,Pete Silva,Budweiser,,Nova,100,660,running,0,56
+1979,NN,1979_Molson_100_%28September%29,1979_22_NN,4,14,16,usa,Stub_Fadden,Stub Fadden,H.O. Taylor,,Nova,100,475,running,0,59
+1979,NN,1979_Molson_100_%28September%29,1979_22_NN,5,17,00,canada,Roger_Laperle,Roger Laperle,Super Speed,,Nova,100,410,running,0,52
+1979,NN,1979_Molson_100_%28September%29,1979_22_NN,6,9,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Speed,,Ventura,100,380,running,0,59
+1979,NN,1979_Molson_100_%28September%29,1979_22_NN,7,6,44,canada,Keith_Cavanagh,Keith Cavanagh,Knowlton Pub,,Ventura,100,375,running,5,55
+1979,NN,1979_Molson_100_%28September%29,1979_22_NN,8,7,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,Nova,100,320,running,0,46
+1979,NN,1979_Molson_100_%28September%29,1979_22_NN,9,20,83,canada,Claude_Aubin,Claude Aubin,Autodrome Laval,,Nova,99,300,running,0,44
+1979,NN,1979_Molson_100_%28September%29,1979_22_NN,10,1,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,98,280,running,7,45
+1979,NN,1979_Molson_100_%28September%29,1979_22_NN,11,4,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Nova,98,270,running,0,40
+1979,NN,1979_Molson_100_%28September%29,1979_22_NN,12,8,24,usa,Phil_Gerbode,Phil Gerbode,Bourbeau International,,Nova,96,260,running,0,38
+1979,NN,1979_Molson_100_%28September%29,1979_22_NN,13,2,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,Nova,96,235,running,0,36
+1979,NN,1979_Molson_100_%28September%29,1979_22_NN,14,3,81,usa,Andy_Isbister,Andy Isbister,Joe's Upholstery,,Nova,92,215,running,0,36
+1979,NN,1979_Molson_100_%28September%29,1979_22_NN,15,13,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,Nova,66,205,engine,0,32
+1979,NN,1979_Molson_100_%28September%29,1979_22_NN,16,11,07,usa,Tom_Rosati,Tom Rosati,E.A. Grandfield,,Ventura,57,200,crash,0,35
+1979,NN,1979_Molson_100_%28September%29,1979_22_NN,17,12,10,canada,Gilles_Lussier,Gilles Lussier,Benoit Electric,,Ventura,57,190,drag link,0,28
+1979,NN,1979_Molson_100_%28September%29,1979_22_NN,18,5,25,usa,Randy_Corey,Randy Corey,Broadacres,,Nova,29,185,handling,0,26
+1979,NN,1979_Molson_100_%28September%29,1979_22_NN,19,10,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Nova,5,170,engine,0,24
+1979,NN,1979_Molson_100_%28September%29,1979_22_NN,20,19,26,canada,Laurent_Rioux,Laurent Rioux,Laurent Racing,,Ventura,4,150,oil pressure,0,22
+1979,NN,1979_Plattsburgh_50,1979_23_NN,1,17,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,50,800,running,21,64
+1979,NN,1979_Plattsburgh_50,1979_23_NN,2,16,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,Nova,50,675,running,0,66
+1979,NN,1979_Plattsburgh_50,1979_23_NN,3,14,16,usa,Stub_Fadden,Stub Fadden,H.O. Taylor,,Nova,50,450,running,0,56
+1979,NN,1979_Plattsburgh_50,1979_23_NN,4,8,8,usa,Mike_Barry,Mike Barry,Pizzagalli Construction,,Nova,50,340,running,0,58
+1979,NN,1979_Plattsburgh_50,1979_23_NN,5,4,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Nova,50,320,running,0,52
+1979,NN,1979_Plattsburgh_50,1979_23_NN,6,12,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Speed,,Ventura,50,300,running,0,50
+1979,NN,1979_Plattsburgh_50,1979_23_NN,7,9,24,usa,Phil_Gerbode,Phil Gerbode,Bourbeau International,,Nova,50,260,running,0,48
+1979,NN,1979_Plattsburgh_50,1979_23_NN,8,13,70,canada,Jean-Paul_Larose,Jean-Paul Larose,Autocar Rive Sud,,Nova,49,250,running,0,46
+1979,NN,1979_Plattsburgh_50,1979_23_NN,9,11,07,usa,Tom_Rosati,Tom Rosati,E.A. Grandfield,,Ventura,49,280,running,0,51
+1979,NN,1979_Plattsburgh_50,1979_23_NN,10,6,44,canada,Keith_Cavanagh,Keith Cavanagh,Knowlton Pub,,Ventura,49,220,running,0,45
+1979,NN,1979_Plattsburgh_50,1979_23_NN,11,7,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,Nova,49,200,running,0,43
+1979,NN,1979_Plattsburgh_50,1979_23_NN,12,3,81,usa,Andy_Isbister,Andy Isbister,Joe's Upholstery,,Nova,48,150,running,0,38
+1979,NN,1979_Plattsburgh_50,1979_23_NN,13,1,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,48,140,running,5,40
+1979,NN,1979_Plattsburgh_50,1979_23_NN,14,2,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,Nova,48,120,running,0,34
+1979,NN,1979_Plattsburgh_50,1979_23_NN,15,21,17,usa,Bob_Brunell,Bob Brunell,Brunell Paving,,Nova,47,100,running,0,32
+1979,NN,1979_Plattsburgh_50,1979_23_NN,16,5,25,usa,Randy_Corey,Randy Corey,Broadacres,,Nova,39,100,engine,1,34
+1979,NN,1979_Plattsburgh_50,1979_23_NN,17,15,71,usa,Bobby_Dragon,Bobby Dragon,Automaster,,Nova,29,100,timing chain,22,36
+1979,NN,1979_Plattsburgh_50,1979_23_NN,18,10,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Nova,27,75,engine,1,26
+1979,NN,1979_Plattsburgh_50,1979_23_NN,19,18,32,canada,Claude_Metivier,Claude Metivier,Roger Chadore,,Ventura,27,75,oil pressure,0,24
+1979,NN,1979_Plattsburgh_50,1979_23_NN,20,19,37,usa,Mike_Perrotte,Mike Perrotte,Bob Ferrar,,Nova,15,75,handling,0,22
+1979,NN,1979_Plattsburgh_50,1979_23_NN,21,20,38,usa,Bill_Branham,Bill Branham,Bob Ferrar,,Nova,4,60,engine,0,20
+1979,NN,1979_Super_Molson_100_%28September%29,1979_24_NN,1,14,35,canada,Langis_Caron,Langis Caron,LaBerge,,Nova,100,1660,running,81,60
+1979,NN,1979_Super_Molson_100_%28September%29,1979_24_NN,2,12,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,Nova,100,985,running,0,64
+1979,NN,1979_Super_Molson_100_%28September%29,1979_24_NN,3,13,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,100,710,running,0,59
+1979,NN,1979_Super_Molson_100_%28September%29,1979_24_NN,4,7,07,usa,Tom_Rosati,Tom Rosati,E.A. Grandfield,,Ventura,100,560,running,0,58
+1979,NN,1979_Super_Molson_100_%28September%29,1979_24_NN,5,6,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,Nova,100,560,running,8,59
+1979,NN,1979_Super_Molson_100_%28September%29,1979_24_NN,6,10,24,usa,Robbie_Crouch,Robbie Crouch,Bourbeau International,,Nova,99,560,running,0,56
+1979,NN,1979_Super_Molson_100_%28September%29,1979_24_NN,7,2,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,98,460,running,11,48
+1979,NN,1979_Super_Molson_100_%28September%29,1979_24_NN,8,5,44,canada,Keith_Cavanagh,Keith Cavanagh,Thompson Racing,,Ventura,98,410,running,0,50
+1979,NN,1979_Super_Molson_100_%28September%29,1979_24_NN,9,4,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Nova,97,390,running,0,45
+1979,NN,1979_Super_Molson_100_%28September%29,1979_24_NN,10,8,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Speed,,Ventura,96,375,running,0,44
+1979,NN,1979_Super_Molson_100_%28September%29,1979_24_NN,11,9,10,canada,Gilles_Lussier,Gilles Lussier,Benoit Electric,,Nova,98,360,running,0,0
+1979,NN,1979_Super_Molson_100_%28September%29,1979_24_NN,12,1,04,usa,Del_Thompson,Del Thompson,Thompson Racing,,Nova,95,350,running,0,38
+1979,NN,1979_Super_Molson_100_%28September%29,1979_24_NN,13,15,87,none,Denis_Chicoine,Denis Chicoine,Chicoine Racing,,Chevelle,94,320,running,0,0
+1979,NN,1979_Super_Molson_100_%28September%29,1979_24_NN,14,3,81,usa,Andy_Isbister,Andy Isbister,Joe's Upholstery,,Nova,84,300,running,0,34
+1979,NN,1979_Super_Molson_100_%28September%29,1979_24_NN,15,16,2,canada,Roger_Briere,Roger Briere,C & P Auto Body,,Torino,46,290,oil pressure,0,0
+1979,NN,1979_Super_Molson_100_%28September%29,1979_24_NN,16,11,83,canada,Claude_Aubin,Claude Aubin,Autodrome de Laval,,Nova,3,280,transmission,0,33
+1979,NN,1979_New_England_300,1979_25_NN,1,10,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant / Shea Motors,,Nova,300,6000,running,66,63
+1979,NN,1979_New_England_300,1979_25_NN,2,19,16,usa,Stub_Fadden,Stub Fadden,H.O. Taylor,,Nova,300,1800,running,0,61
+1979,NN,1979_New_England_300,1979_25_NN,3,20,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,300,1945,running,26,56
+1979,NN,1979_New_England_300,1979_25_NN,4,22,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,Nova,300,3720,running,136,54
+1979,NN,1979_New_England_300,1979_25_NN,5,25,35,canada,Langis_Caron,Langis Caron,LaBerge,,Nova,299,1025,running,0,52
+1979,NN,1979_New_England_300,1979_25_NN,6,24,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait,,Nova,299,1240,running,17,52
+1979,NN,1979_New_England_300,1979_25_NN,7,17,10,canada,Gilles_Lussier,Gilles Lussier,Benoit Electric,,Nova,297,1060,running,0,0
+1979,NN,1979_New_England_300,1979_25_NN,8,18,71,usa,Bobby_Dragon,Bobby Dragon,Automaster,,Nova,296,700,running,0,46
+1979,NN,1979_New_England_300,1979_25_NN,9,12,8,usa,Mike_Barry,Mike Barry,Pizzagalli Construction,,Nova,295,940,running,0,47
+1979,NN,1979_New_England_300,1979_25_NN,10,5,44,canada,Keith_Cavanagh,Keith Cavanagh,Knowlton Pub,,Ventura,294,730,running,0,42
+1979,NN,1979_New_England_300,1979_25_NN,11,14,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Speed,,Ventura,293,600,running,0,40
+1979,NN,1979_New_England_300,1979_25_NN,12,3,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,291,575,running,0,38
+1979,NN,1979_New_England_300,1979_25_NN,13,26,98,usa,Don_Brown,Don Brown,Hannon's Restaurant,,Nova,287,530,running,0,0
+1979,NN,1979_New_England_300,1979_25_NN,14,6,24,usa,Phil_Gerbode,Phil Gerbode,Bourbeau International,,Nova,282,500,running,0,0
+1979,NN,1979_New_England_300,1979_25_NN,15,8,18,usa,Rick_Lepage,Rick Lepage,Burlington Lincoln,,Zephyr,277,460,running,0,32
+1979,NN,1979_New_England_300,1979_25_NN,16,15,07,usa,Tom_Rosati,Tom Rosati,E.A. Grandfield,,Ventura,262,640,running,10,30
+1979,NN,1979_New_England_300,1979_25_NN,17,1,81,usa,Andy_Isbister,Andy Isbister,Joe's Upholstery,,Nova,255,475,running,0,28
+1979,NN,1979_New_England_300,1979_25_NN,18,7,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,Nova,249,400,running,0,26
+1979,NN,1979_New_England_300,1979_25_NN,19,11,51,usa,Jeb_Balise,Jeb Balise,Donovan Motors,,Nova,240,375,running,0,24
+1979,NN,1979_New_England_300,1979_25_NN,20,23,00,canada,Roger_Laperle,Roger Laperle,Super Speed,,Nova,192,365,engine,0,23
+1979,NN,1979_New_England_300,1979_25_NN,21,21,29,usa,Dave_Dion,Dave Dion,Vermont Ford Dealers,,Futura,181,450,overheating,0,0
+1979,NN,1979_New_England_300,1979_25_NN,22,30,69,usa,Del_Thompson,Del Thompson,Tuck Press,,Nova,121,300,valve,0,18
+1979,NN,1979_New_England_300,1979_25_NN,23,9,34,usa,Steve_Poulin,Steve Poulin,G.M. Pantry,,Ventura,103,905,overheating,29,18
+1979,NN,1979_New_England_300,1979_25_NN,24,2,25,usa,Randy_Corey,Randy Corey,Broadacres,,Nova,99,595,engine,16,15
+1979,NN,1979_New_England_300,1979_25_NN,25,29,83,canada,Jean-Paul_Cabana,Jean-Paul Cabana,Autodrome de Laval,,Nova,92,225,engine,0,0
+1979,NN,1979_New_England_300,1979_25_NN,26,13,X,usa,Pete_Silva,Pete Silva,Budweiser,,Nova,70,275,rear end,0,14
+1979,NN,1979_New_England_300,1979_25_NN,27,4,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Nova,65,200,throttle,0,12
+1979,NN,1979_New_England_300,1979_25_NN,28,27,2,canada,Roger_Briere,Roger Briere,C & P Auto Body,,Torino,54,200,engine,0,12
+1979,NN,1979_New_England_300,1979_25_NN,29,16,61,usa,Brad_Kennedy,Brad Kennedy,Tuck Press,,Nova,22,200,camshaft,0,12
+1979,NN,1979_New_England_300,1979_25_NN,30,28,5,usa,Stan_Meserve,Stan Meserve,Cahill Tire,,Granada,4,225,engine,0,0
+1979,NN,1979_Fall_Final_100,1979_26_NN,1,15,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,57,2175,running,23,61
+1979,NN,1979_Fall_Final_100,1979_26_NN,2,14,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait,,Nova,57,1175,running,11,58
+1979,NN,1979_Fall_Final_100,1979_26_NN,3,13,71,usa,Bobby_Dragon,Bobby Dragon,Automaster,,Nova,57,950,running,0,59
+1979,NN,1979_Fall_Final_100,1979_26_NN,4,16,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,Nova,57,700,running,0,54
+1979,NN,1979_Fall_Final_100,1979_26_NN,5,19,35,canada,Langis_Caron,Langis Caron,LaBerge,,Nova,57,600,running,0,52
+1979,NN,1979_Fall_Final_100,1979_26_NN,6,17,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Nova,57,550,running,0,50
+1979,NN,1979_Fall_Final_100,1979_26_NN,7,8,8,usa,Mike_Barry,Mike Barry,Pizzagalli Construction,,Nova,57,500,running,21,49
+1979,NN,1979_Fall_Final_100,1979_26_NN,8,9,07,usa,Tom_Rosati,Tom Rosati,E.A. Grandfield,,Nova,57,450,running,0,46
+1979,NN,1979_Fall_Final_100,1979_26_NN,9,22,08,usa,Leland_Kangas,Leland Kangas,RC Cola,,Nova,57,425,running,0,44
+1979,NN,1979_Fall_Final_100,1979_26_NN,10,11,16,usa,Stub_Fadden,Stub Fadden,H.O. Taylor,,Nova,57,400,running,0,44
+1979,NN,1979_Fall_Final_100,1979_26_NN,11,5,33,usa,Steve_Poulin,Steve Poulin,Poulin Racing,,Grand Am,57,375,running,0,43
+1979,NN,1979_Fall_Final_100,1979_26_NN,12,21,4,usa,Paul_Mauceri,Paul Mauceri,Ickle Bickle Pub,,Nova,57,350,running,0,38
+1979,NN,1979_Fall_Final_100,1979_26_NN,13,12,29,usa,Dave_Dion,Dave Dion,Vermont Ford Dealers,,Futura,57,325,running,0,36
+1979,NN,1979_Fall_Final_100,1979_26_NN,14,20,24,usa,Dan_Perez,Dan Perez,Bourbeau International,,Nova,57,315,running,0,35
+1979,NN,1979_Fall_Final_100,1979_26_NN,15,18,28,usa,Stan_Meserve,Stan Meserve,C.A. Rice,,Nova,56,300,running,0,34
+1979,NN,1979_Fall_Final_100,1979_26_NN,16,1,41,usa,Jamie_Aube,Jamie Aube,State Transmission,,Nova,56,275,running,2,30
+1979,NN,1979_Fall_Final_100,1979_26_NN,17,4,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,Nova,56,265,running,0,28
+1979,NN,1979_Fall_Final_100,1979_26_NN,18,7,51,usa,Jeb_Balise,Jeb Balise,Donovan Motors,,Nova,56,250,running,0,26
+1979,NN,1979_Fall_Final_100,1979_26_NN,19,2,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Nova,56,240,running,0,24
+1979,NN,1979_Fall_Final_100,1979_26_NN,20,26,73,usa,Jerry_Marquis,Jerry Marquis,Marquis Texaco,,Nova,55,220,running,0,22
+1979,NN,1979_Fall_Final_100,1979_26_NN,21,3,44,canada,Keith_Cavanagh,Keith Cavanagh,Knowlton Pub,,Ventura,55,210,running,0,20
+1979,NN,1979_Fall_Final_100,1979_26_NN,22,27,55,usa,Jim_Stringer,Jim Stringer,Stringer Racing,,Nova,54,200,running,0,18
+1979,NN,1979_Fall_Final_100,1979_26_NN,23,29,10,usa,Bob_Witkop,Bob Witkop,Acme Radiator,,GTO,54,175,running,0,16
+1979,NN,1979_Fall_Final_100,1979_26_NN,24,23,18,usa,Joey_Kourafas,Joey Kourafas,Burlington Lincoln,,Zephyr,53,150,ignition,0,14
+1979,NN,1979_Fall_Final_100,1979_26_NN,25,25,15,usa,Dave_Decorie,Dave Decorie,Deb's Speed Shop,,Nova,53,125,ignition,0,12
+1979,NN,1979_Fall_Final_100,1979_26_NN,26,28,81,usa,Andy_Isbister,Andy Isbister,Joe's Upholstery,,Nova,53,100,running,0,12
+1979,NN,1979_Fall_Final_100,1979_26_NN,27,24,40,usa,Jimmy_Broderick,Jimmy Broderick,Don's Getty,,Aspen,41,85,engine,0,12
+1979,NN,1979_Fall_Final_100,1979_26_NN,28,6,X,usa,Pete_Silva,Pete Silva,Budweiser,,Nova,27,85,crash,0,14
+1979,NN,1979_Fall_Final_100,1979_26_NN,29,30,26,usa,Jim_Darlington,Jim Darlington,Darlington Racing,,Chevelle,21,65,engine,0,12
+1979,NN,1979_Fall_Final_100,1979_26_NN,30,10,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Speed,,Ventura,8,65,driveshaft,0,12
+1979,NN,1979_Vermont_Milk_Bowl,1979_27_NN,1,6,16,usa,Stub_Fadden,Stub Fadden,H.O. Taylor,,Nova,100,1450,running,0,60
+1979,NN,1979_Vermont_Milk_Bowl,1979_27_NN,2,4,71,usa,Bobby_Dragon,Bobby Dragon,Automaster,,Nova,100,850,running,0,58
+1979,NN,1979_Vermont_Milk_Bowl,1979_27_NN,3,2,7,usa,Beaver_Dragon,Beaver Dragon,Vermont Mack,,Nova,100,550,running,44,56
+1979,NN,1979_Vermont_Milk_Bowl,1979_27_NN,4,8,48,usa,Robbie_Crouch,Robbie Crouch,Tower Restaurant,,Nova,100,435,running,0,54
+1979,NN,1979_Vermont_Milk_Bowl,1979_27_NN,5,5,59,usa,Hector_Leclair,Hector Leclair,Leclair Construction,,Nova,100,410,running,0,52
+1979,NN,1979_Vermont_Milk_Bowl,1979_27_NN,6,1,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait,,Nova,100,400,running,6,50
+1979,NN,1979_Vermont_Milk_Bowl,1979_27_NN,7,9,10,canada,Gilles_Lussier,Gilles Lussier,Benoit Electric,,Nova,83,360,running,47,48
+1979,NN,1979_Vermont_Milk_Bowl,1979_27_NN,8,3,07,usa,Tom_Rosati,Tom Rosati,E.A. Grandfield,,Ventura,100,325,running,0,46
+1979,NN,1979_Vermont_Milk_Bowl,1979_27_NN,9,17,25,usa,Randy_Corey,Randy Corey,Broadacres,,Nova,100,300,running,0,44
+1979,NN,1979_Vermont_Milk_Bowl,1979_27_NN,10,7,29,usa,Dave_Dion,Dave Dion,Vermont Ford Dealers,,Futura,84,275,running,0,42
+1979,NN,1979_Vermont_Milk_Bowl,1979_27_NN,11,11,1,usa,Gardiner_Leavitt,Gardiner Leavitt,Portland Speed,,Ventura,88,250,running,0,40
+1979,NN,1979_Vermont_Milk_Bowl,1979_27_NN,12,12,9,usa,Harvey_Sprague,Harvey Sprague,Sprague Racing,,Nova,99,200,running,0,38
+1979,NN,1979_Vermont_Milk_Bowl,1979_27_NN,13,15,77,usa,Mike_Johnson_(1),Mike Johnson,Pape Chevrolet,,Nova,99,175,running,0,36
+1979,NN,1979_Vermont_Milk_Bowl,1979_27_NN,14,14,44,canada,Keith_Cavanagh,Keith Cavanagh,Knowlton Pub,,Ventura,79,150,running,3,34
+1979,NN,1979_Vermont_Milk_Bowl,1979_27_NN,15,18,12,usa,Tim_Dykman,Tim Dykman,Borderline Farm,,Nova,97,125,running,0,32
+1979,NN,1979_Vermont_Milk_Bowl,1979_27_NN,16,16,11,canada,Claude_Leclerc,Claude Leclerc,Garage Leclerc,,Nova,98,125,running,0,30
+1979,NN,1979_Vermont_Milk_Bowl,1979_27_NN,17,10,X,usa,Pete_Silva,Pete Silva,Budweiser,,Nova,60,100,running,0,28
+1979,NN,1979_Vermont_Milk_Bowl,1979_27_NN,18,13,61,usa,Brad_Kennedy,Brad Kennedy,Tuck Press,,Nova,57,100,running,0,26
