@@ -496,7 +496,7 @@ def parse_basic_race_results(season: int):
 								)
 								del row_df
 					except:
-						pass
+						print('No Stage results found in this race.')
 
 				if season >= 2021:
 					for k in j['infractions']:
