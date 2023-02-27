@@ -175,7 +175,24 @@ def get_racing_reference_race_results(season:int,series_id="W"):
             sched_df = pd.read_csv(f'racing_reference/act_late_model/schedule/{season}_schedule.csv')
         except:
             raise FileNotFoundError(f'Could not find a schedule file for the {season} ACT Late Model Tour season.')
-
+    ## A1 Grand Prix
+    elif series_id.upper() == "A1":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/a1_grand_prix/schedule/{season}_schedule.csv')
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} A1 Grand Prix season.')
+    ## North American Touring Car Championship (NATCC)
+    elif series_id.upper() == "NA":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/natcc/schedule/{season}_schedule.csv')
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} North American Touring Car Championship (NATCC) season.')
+    ## NASCAR Whelen Southern Modified Tour (WSMT)
+    elif series_id.upper() == "M":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_whelen_southern_modified/schedule/{season}_schedule.csv')
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Whelen Southern Modified Tour (WSMT) season.')
     else:
         raise ValueError("The input for series_id is invalid.")
 
@@ -251,7 +268,7 @@ def get_racing_reference_race_results(season:int,series_id="W"):
 
 def main():
     current_year = datetime.now().year
-    for i in range(current_year,current_year+1):
+    for i in range(1995,current_year+1):
         ## Cup Series
         if i >= 1949:
             sched_df = get_racing_reference_standings(season=i,series_id="W")
@@ -384,23 +401,23 @@ def main():
             except:
                 print(f'Could not get race results for the {i} Indy NXT (Indy Lights) season.')
 
-        ## Needs diffrient parser for this leauge.
-        # ## Supercars Championship
-        # if i >= 1960:
-        #     sched_df = get_racing_reference_standings(season=i,series_id="V8")
-        #     if len(sched_df) > 0:
-        #         sched_df.to_csv(f"racing_reference/supercars_championship/schedule/{i}_schedule.csv",index=False)
-        #     try:
-        #         results_df = get_racing_reference_race_results(season=i,series_id="V8")
-        #         if len(results_df) > 0:
-        #             results_df.to_csv(f"racing_reference/supercars_championship/race_results/{i}_race_results.csv",index=False)
-        #     except:
-        #         print(f'Could not get race results for the {i} Supercars Championship season.')
+        # Needs diffrient parser for this leauge.
+        ## Supercars Championship
+        if i >= 1960:
+            sched_df = get_racing_reference_standings(season=i,series_id="V8")
+            if len(sched_df) > 0:
+                sched_df.to_csv(f"racing_reference/supercars_championship/schedule/{i}_schedule.csv",index=False)
+            try:
+                results_df = get_racing_reference_race_results(season=i,series_id="V8")
+                if len(results_df) > 0:
+                    results_df.to_csv(f"racing_reference/supercars_championship/race_results/{i}_race_results.csv",index=False)
+            except:
+                print(f'Could not get race results for the {i} Supercars Championship season.')
         
 
-        ####################################################################################################################################3
-        # Defunct Series
-        ####################################################################################################################################3
+        #####################################################################################################################################3
+        ## Defunct Series
+        #####################################################################################################################################3
 
         ## NASCAR Convertible Series
         if i >= 1956 and i <= 1959:
@@ -473,6 +490,43 @@ def main():
                     results_df.to_csv(f"racing_reference/iroc/race_results/{i}_race_results.csv",index=False)
             except:
                print(f'Could not get race results for the {i} USAC Champ Car Series season.')
+
+        ## A1 Grand Prix
+        if i >= 2005 and i <= 2008:
+            sched_df = get_racing_reference_standings(season=i,series_id="A1")
+            if len(sched_df) > 0:
+                sched_df.to_csv(f"racing_reference/a1_grand_prix/schedule/{i}_schedule.csv",index=False)
+            try:
+                results_df = get_racing_reference_race_results(season=i,series_id="A1")
+                if len(results_df) > 0:
+                    results_df.to_csv(f"racing_reference/a1_grand_prix/race_results/{i}_race_results.csv",index=False)
+            except:
+               print(f'Could not get race results for the {i} A1 Grand Prix season.')
+
+        ## North American Touring Car Championship (NATCC)
+        if i >= 1996 and i <= 1997:
+            sched_df = get_racing_reference_standings(season=i,series_id="NA")
+            if len(sched_df) > 0:
+                sched_df.to_csv(f"racing_reference/natcc/schedule/{i}_schedule.csv",index=False)
+            try:
+                results_df = get_racing_reference_race_results(season=i,series_id="NA")
+                if len(results_df) > 0:
+                    results_df.to_csv(f"racing_reference/natcc/race_results/{i}_race_results.csv",index=False)
+            except:
+               print(f'Could not get race results for the {i} North American Touring Car Championship (NATCC) season.')
+
+        ## NASCAR Whelen Southern Modified Tour (WSMT)
+        if i >= 2005 and i <= 2016:
+            sched_df = get_racing_reference_standings(season=i,series_id="M")
+            if len(sched_df) > 0:
+                sched_df.to_csv(f"racing_reference/nascar_whelen_southern_modified/schedule/{i}_schedule.csv",index=False)
+            try:
+                results_df = get_racing_reference_race_results(season=i,series_id="M")
+                if len(results_df) > 0:
+                    results_df.to_csv(f"racing_reference/nascar_whelen_southern_modified/race_results/{i}_race_results.csv",index=False)
+            except:
+               print(f'Could not get race results for the {i} NASCAR Whelen Southern Modified Tour (WSMT) season.')
+
 
 
 if __name__ == "__main__":
