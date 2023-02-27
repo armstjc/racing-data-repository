@@ -6,10 +6,10 @@ name: Update Racing Reference Data
 on:
   schedule:
     - cron: "0 0 * 2-11 *" 
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+  #push:
+  #  branches: [ main ]
+  #pull_request:
+  #  branches: [ main ]
 jobs:
   build:
 
