@@ -193,6 +193,67 @@ def get_racing_reference_race_results(season:int,series_id="W"):
             sched_df = pd.read_csv(f'racing_reference/nascar_whelen_southern_modified/schedule/{season}_schedule.csv')
         except:
             raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Whelen Southern Modified Tour (WSMT) season.')
+    ## CARS Tour
+    elif series_id.upper() == "US":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/cars_tour/schedule/{season}_schedule.csv')
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} CARS Tour season.')
+    ## NASCAR Southeast Series
+    elif series_id.upper() == "SE":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_southeast_series/schedule/{season}_schedule.csv')
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Southeast Series season.')
+    ## NASCAR Midwest Series
+    elif series_id.upper() == "MW":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_midwest_series/schedule/{season}_schedule.csv')
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Midwest Series season.')
+    ## NASCAR Southwest Series
+    elif series_id.upper() == "SW":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_southwest_series/schedule/{season}_schedule.csv')
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Southwest Series season.')
+    ## NASCAR Northwest Series
+    elif series_id.upper() == "NW":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_northwest_series/schedule/{season}_schedule.csv')
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Northwest Series season.')
+    ## ASA National Tour
+    elif series_id.upper() == "AS":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/asa_national_tour/schedule/{season}_schedule.csv')
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} ASA National Tour season.')
+    ## ASA National Tour
+    elif series_id.upper() == "AS":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/asa_national_tour/schedule/{season}_schedule.csv')
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} ASA National Tour season.')
+    ## Whelen Southern Modified Tour
+    elif series_id.upper() == "M":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/whelen_southern_modified_tour/schedule/{season}_schedule.csv')
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} Whelen Southern Modified Tour season.')
+    ## NASCAR Peak Mexico Series
+    elif series_id.upper() == "MX":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_peak_mexico/schedule/{season}_schedule.csv')
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Peak Mexico Series season.')
+    ## NASCAR FedEx Challenge
+    elif series_id.upper() == "M2":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_fedex_challenge/schedule/{season}_schedule.csv')
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR FedEx Challenge.')
+
     else:
         raise ValueError("The input for series_id is invalid.")
 
@@ -268,7 +329,7 @@ def get_racing_reference_race_results(season:int,series_id="W"):
 
 def main():
     current_year = datetime.now().year
-    for i in range(1995,current_year+1):
+    for i in range(current_year,current_year+1):
         ## Cup Series
         if i >= 1949:
             sched_df = get_racing_reference_standings(season=i,series_id="W")
@@ -414,10 +475,33 @@ def main():
             except:
                 print(f'Could not get race results for the {i} Supercars Championship season.')
         
+        ## NASCAR Peak Mexico
+        if i >= 2008:
+            sched_df = get_racing_reference_standings(season=i,series_id="MX")
+            if len(sched_df) > 0:
+                sched_df.to_csv(f"racing_reference/nascar_peak_mexico/schedule/{i}_schedule.csv",index=False)
+            try:
+                results_df = get_racing_reference_race_results(season=i,series_id="MX")
+                if len(results_df) > 0:
+                    results_df.to_csv(f"racing_reference/nascar_peak_mexico/race_results/{i}_race_results.csv",index=False)
+            except:
+               print(f'Could not get race results for the {i} NASCAR Peak Mexico season.')
 
-        #####################################################################################################################################3
-        ## Defunct Series
-        #####################################################################################################################################3
+        ## NASCAR FedEx Challenge
+        if i >= 2017:
+            sched_df = get_racing_reference_standings(season=i,series_id="M2")
+            if len(sched_df) > 0:
+                sched_df.to_csv(f"racing_reference/nascar_fedex_challenge/schedule/{i}_schedule.csv",index=False)
+            try:
+                results_df = get_racing_reference_race_results(season=i,series_id="M2")
+                if len(results_df) > 0:
+                    results_df.to_csv(f"racing_reference/nascar_fedex_challenge/race_results/{i}_race_results.csv",index=False)
+            except:
+               print(f'Could not get race results for the {i} NASCAR FedEx Challenge season.')
+
+        # #####################################################################################################################################3
+        # ## Defunct Series
+        # #####################################################################################################################################3
 
         ## NASCAR Convertible Series
         if i >= 1956 and i <= 1959:
@@ -527,6 +611,89 @@ def main():
             except:
                print(f'Could not get race results for the {i} NASCAR Whelen Southern Modified Tour (WSMT) season.')
 
+        ## CARS Tour
+        if i >= 1997 and i <= 2014:
+            sched_df = get_racing_reference_standings(season=i,series_id="US")
+            if len(sched_df) > 0:
+                sched_df.to_csv(f"racing_reference/cars_tour/schedule/{i}_schedule.csv",index=False)
+            try:
+                results_df = get_racing_reference_race_results(season=i,series_id="US")
+                if len(results_df) > 0:
+                    results_df.to_csv(f"racing_reference/cars_tour/race_results/{i}_race_results.csv",index=False)
+            except:
+               print(f'Could not get race results for the {i} CARS Tour season.')
+
+        ## NASCAR Southeast Series
+        if i >= 1991 and i <= 2006:
+            sched_df = get_racing_reference_standings(season=i,series_id="SE")
+            if len(sched_df) > 0:
+                sched_df.to_csv(f"racing_reference/nascar_southeast_series/schedule/{i}_schedule.csv",index=False)
+            try:
+                results_df = get_racing_reference_race_results(season=i,series_id="SE")
+                if len(results_df) > 0:
+                    results_df.to_csv(f"racing_reference/nascar_southeast_series/race_results/{i}_race_results.csv",index=False)
+            except:
+               print(f'Could not get race results for the {i} NASCAR Southeast Series season.')
+
+        ## NASCAR Midwest Series
+        if i >= 1998 and i <= 2006:
+            sched_df = get_racing_reference_standings(season=i,series_id="MW")
+            if len(sched_df) > 0:
+                sched_df.to_csv(f"racing_reference/nascar_midwest_series/schedule/{i}_schedule.csv",index=False)
+            try:
+                results_df = get_racing_reference_race_results(season=i,series_id="MW")
+                if len(results_df) > 0:
+                    results_df.to_csv(f"racing_reference/nascar_midwest_series/race_results/{i}_race_results.csv",index=False)
+            except:
+               print(f'Could not get race results for the {i} NASCAR Midwest Series season.')
+
+        ## NASCAR Southwest Series
+        if i >= 1986 and i <= 2006:
+            sched_df = get_racing_reference_standings(season=i,series_id="SW")
+            if len(sched_df) > 0:
+                sched_df.to_csv(f"racing_reference/nascar_southwest_series/schedule/{i}_schedule.csv",index=False)
+            try:
+                results_df = get_racing_reference_race_results(season=i,series_id="SW")
+                if len(results_df) > 0:
+                    results_df.to_csv(f"racing_reference/nascar_southwest_series/race_results/{i}_race_results.csv",index=False)
+            except:
+               print(f'Could not get race results for the {i} NASCAR Southwest Series season.')
+        
+        ## NASCAR Northwest Series
+        if i >= 1985 and i <= 2006:
+            sched_df = get_racing_reference_standings(season=i,series_id="NW")
+            if len(sched_df) > 0:
+                sched_df.to_csv(f"racing_reference/nascar_northwest_series/schedule/{i}_schedule.csv",index=False)
+            try:
+                results_df = get_racing_reference_race_results(season=i,series_id="NW")
+                if len(results_df) > 0:
+                    results_df.to_csv(f"racing_reference/nascar_northwest_series/race_results/{i}_race_results.csv",index=False)
+            except:
+               print(f'Could not get race results for the {i} NASCAR Northwest Series season.')
+
+        ## ASA National Tour
+        if i >= 1998 and i <= 2004:
+            sched_df = get_racing_reference_standings(season=i,series_id="NW")
+            if len(sched_df) > 0:
+                sched_df.to_csv(f"racing_reference/asa_national_tour/schedule/{i}_schedule.csv",index=False)
+            try:
+                results_df = get_racing_reference_race_results(season=i,series_id="MW")
+                if len(results_df) > 0:
+                    results_df.to_csv(f"racing_reference/asa_national_tour/race_results/{i}_race_results.csv",index=False)
+            except:
+               print(f'Could not get race results for the {i} ASA National Tour season.')
+
+        ## WHELEN SOUTHERN MODIFIED TOUR
+        if i >= 2005 and i <= 2016:
+            sched_df = get_racing_reference_standings(season=i,series_id="M")
+            if len(sched_df) > 0:
+                sched_df.to_csv(f"racing_reference/whelen_southern_modified_tour/schedule/{i}_schedule.csv",index=False)
+            try:
+                results_df = get_racing_reference_race_results(season=i,series_id="M")
+                if len(results_df) > 0:
+                    results_df.to_csv(f"racing_reference/whelen_southern_modified_tour/race_results/{i}_race_results.csv",index=False)
+            except:
+               print(f'Could not get race results for the {i} ASA National Tour season.')
 
 
 if __name__ == "__main__":

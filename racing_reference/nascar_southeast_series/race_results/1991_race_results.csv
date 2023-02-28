@@ -1,0 +1,641 @@
+season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
+1991,SE,1991_Sunoco_250,1991_01_SE,1,3,4,usa,Bobby_Gill,Bobby Gill,Hostetler Grand American Race Cars,,Chevrolet,250,7000,running,62,180
+1991,SE,1991_Sunoco_250,1991_01_SE,2,11,98,usa,Jody_Ridley,Jody Ridley,Fel-Pro / Right Way Transportation,,Ford,250,4000,running,52,170
+1991,SE,1991_Sunoco_250,1991_01_SE,3,4,5,usa,Clay_Brown,Clay Brown,Rubber & Specialties,,Chevrolet,250,,running,0,165
+1991,SE,1991_Sunoco_250,1991_01_SE,4,16,25,usa,Mike_Cope,Mike Cope,Eagles Nest Racing / Gulfwind Engines,,Buick,250,,running,0,160
+1991,SE,1991_Sunoco_250,1991_01_SE,5,2,2,usa,Jerry_Goodwin,Jerry Goodwin,Reno Performance Motorsports,,Buick,250,,running,57,155
+1991,SE,1991_Sunoco_250,1991_01_SE,6,5,32,usa,Randy_Porter,Randy Porter,BASF Automotive Finishes,,Chevrolet,250,,running,0,150
+1991,SE,1991_Sunoco_250,1991_01_SE,7,10,78,usa,Gary_Bradberry,Gary Bradberry,Bradberry Racing,,Pontiac,250,,running,0,146
+1991,SE,1991_Sunoco_250,1991_01_SE,8,8,93,usa,Junior_Niedecken,Junior Niedecken,Oyster Bar / Ard Oil,,Chevrolet,250,,running,59,142
+1991,SE,1991_Sunoco_250,1991_01_SE,9,20,40,usa,Ron_Young,Ron Young,Young Racing,,Chevrolet,250,,running,0,138
+1991,SE,1991_Sunoco_250,1991_01_SE,10,7,7,usa,Mike_Garvey,Mike Garvey,Rite-Way Grinding,,Chevrolet,250,,running,14,134
+1991,SE,1991_Sunoco_250,1991_01_SE,11,32,37,usa,Larry_Raines,Larry Raines,Gainesville Electric / Palmetto Trading,,Pontiac,248,,running,0,130
+1991,SE,1991_Sunoco_250,1991_01_SE,12,17,1,usa,Bill_Webb,Bill Webb,Budget / Baja Boats,,Chevrolet,248,,running,0,127
+1991,SE,1991_Sunoco_250,1991_01_SE,13,40,41,usa,Benny_Dean,Benny Dean,Professional Auto Service,,Chevrolet,247,,running,0,124
+1991,SE,1991_Sunoco_250,1991_01_SE,14,12,79,usa,Steve_Holzhausen,Steve Holzhausen,Gross Trucking,,Chevrolet,247,,running,0,121
+1991,SE,1991_Sunoco_250,1991_01_SE,15,9,95,usa,Jack_Cook,Jack Cook,Bob's Space Racers,,Chevrolet,246,,running,0,118
+1991,SE,1991_Sunoco_250,1991_01_SE,16,21,21,usa,Sammy_Pegram,Sammy Pegram,Fast Track Communication / Valvoline,,Buick,246,,running,0,115
+1991,SE,1991_Sunoco_250,1991_01_SE,17,13,96,usa,Greg_Davidson,Greg Davidson,Raybestos,,Pontiac,246,,running,0,112
+1991,SE,1991_Sunoco_250,1991_01_SE,18,14,28,usa,Billy_Bigley_Jr,"Billy Bigley, Jr.",Amalie Oil / Pen Air,,Buick,246,,running,0,109
+1991,SE,1991_Sunoco_250,1991_01_SE,19,37,99,usa,Charlie_Stokes,Charlie Stokes,Stokes Gas,,Chevrolet,245,,running,0,106
+1991,SE,1991_Sunoco_250,1991_01_SE,20,28,80,usa,Tommy_Evans,Tommy Evans,Evans Motors / J&J Body Shop,,Chevrolet,244,,running,0,103
+1991,SE,1991_Sunoco_250,1991_01_SE,21,22,36,usa,David_Russell,David Russell,Horsen Around Farms,,Chevrolet,243,,running,0,100
+1991,SE,1991_Sunoco_250,1991_01_SE,22,23,27,usa,James_Trammell,James Trammell,Northwest Drywall,,Chevrolet,242,,running,0,97
+1991,SE,1991_Sunoco_250,1991_01_SE,23,33,72,usa,Johnny_Cochran,Johnny Cochran,Millicom Radio & Telephone,,Chevrolet,238,,running,0,94
+1991,SE,1991_Sunoco_250,1991_01_SE,24,36,85,usa,Mike_Ramy,Mike Ramy,Precision Epoxy Products,,Pontiac,237,,running,0,91
+1991,SE,1991_Sunoco_250,1991_01_SE,25,34,69,usa,Sidney_Minton,Sidney Minton,Groenke & Associates,,Buick,237,,running,0,88
+1991,SE,1991_Sunoco_250,1991_01_SE,26,39,65,usa,Floyd_Polaco,Floyd Polaco,Floyd's Parts & Service,,Chevrolet,234,,running,0,85
+1991,SE,1991_Sunoco_250,1991_01_SE,27,18,57,usa,Jason_Keller,Jason Keller,Air Products / KEL Chemicals,,Buick,229,,ignition,0,82
+1991,SE,1991_Sunoco_250,1991_01_SE,28,25,19,usa,Jerry_Parnell,Jerry Parnell,Lovelady Racing,,Chevrolet,223,,running,0,79
+1991,SE,1991_Sunoco_250,1991_01_SE,29,27,22,usa,Tommy_Grimes,Tommy Grimes,Grimes & Son Automotive,,Pontiac,203,,crash,0,76
+1991,SE,1991_Sunoco_250,1991_01_SE,30,15,77,usa,Ted_Hodgdon,Ted Hodgdon,Valvoline / Cam Dyna / Fel-Pro,,Chevrolet,197,,crash,0,73
+1991,SE,1991_Sunoco_250,1991_01_SE,31,31,44,usa,Duane_Burrows,Duane Burrows,Duane Burrows Trucking,,Buick,191,,crash,0,70
+1991,SE,1991_Sunoco_250,1991_01_SE,32,36,07,usa,Eddie_Hanks,Eddie Hanks,E.S.R. Racing,,Buick,187,,crash,0,67
+1991,SE,1991_Sunoco_250,1991_01_SE,33,38,35,usa,Randy_Bynum,Randy Bynum,Dillon Enterprises / Custom Engines,,Pontiac,149,,running,0,64
+1991,SE,1991_Sunoco_250,1991_01_SE,34,30,17,usa,Ray_Skillman,Ray Skillman,GMC Trucks / Indy Auto Auction,,Chevrolet,127,,overheating,0,61
+1991,SE,1991_Sunoco_250,1991_01_SE,35,1,74,usa,Jamie_Prell,Jamie Prell,"Prell Auto Air, Paint & Body",,Chevrolet,89,,transmission,6,58
+1991,SE,1991_Sunoco_250,1991_01_SE,36,29,62,usa,Larry_Lancaster,Larry Lancaster,Wilson Welding,,Pontiac,88,,brakes,0,55
+1991,SE,1991_Sunoco_250,1991_01_SE,37,26,58,usa,John_Kelly,John Kelly,Circle Bar Motel & RV,,Ford,57,,engine,0,52
+1991,SE,1991_Sunoco_250,1991_01_SE,38,24,00,usa,Randy_Couch,Randy Couch,Amoco,,Chevrolet,53,,engine,0,49
+1991,SE,1991_Sunoco_250,1991_01_SE,39,6,14,usa,Rick_Crawford,Rick Crawford,Quik Mart,,Buick,44,,engine,0,46
+1991,SE,1991_Sunoco_250,1991_01_SE,40,19,71,usa,Bart_Ingram,Bart Ingram,Italiano's Subs & Pizza,,Chevrolet,32,,rear end,0,43
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,1,13,98,usa,Jody_Ridley,Jody Ridley,Fel-Pro,,Ford,200,6975,running,42,180
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,2,6,25,usa,Mike_Cope,Mike Cope,Eagles Nest Racing,,Buick,200,,running,0,170
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,3,2,7,usa,Mike_Garvey,Mike Garvey,Rite-Way Grinding,,Chevrolet,200,,running,77,165
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,4,8,32,usa,Randy_Porter,Randy Porter,BASF Automotive Finishes,,Chevrolet,200,,running,0,160
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,5,1,79,usa,Steve_Holzhausen,Steve Holzhausen,Gross Trucking,,Chevrolet,200,,running,0,155
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,6,18,78,usa,Gary_Bradberry,Gary Bradberry,Bradberry Racing,,Pontiac,200,,running,0,150
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,7,14,17,usa,Craig_Gower,Craig Gower,Collie Engines,,Chevrolet,199,,running,0,146
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,8,12,77,usa,Ted_Hodgdon,Ted Hodgdon,Valvoline,,Chevrolet,199,,running,0,142
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,9,28,93,usa,Junior_Niedecken,Junior Niedecken,Oyster Bar,,Chevrolet,199,,running,0,138
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,10,10,6,usa,Charles_Powell_III,Charles Powell III,Hardee Construction,,Ford,199,,running,0,0
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,11,27,2,usa,Guy_Thomas,Guy Thomas,Southwind Systems,,Chevrolet,198,,running,0,130
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,12,20,28,usa,Billy_Bigley_Jr,"Billy Bigley, Jr.",Amalie Engines,,Buick,198,,running,0,127
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,13,3,21,usa,Sammy_Pegram,Sammy Pegram,East Trace Comm.,,Buick,198,,running,23,124
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,14,9,3,usa,Wesley_Mills,Wesley Mills,Terminal Trucking,,Chevrolet,198,,running,0,121
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,15,23,71,usa,Bart_Ingram,Bart Ingram,Italiano's Subs & Pizza,,Chevrolet,196,,crash,0,118
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,16,28,99,usa,Charlie_Stokes,Charlie Stokes,Stokes Gas,,Chevrolet,195,,running,0,115
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,17,29,36,usa,David_Russell,David Russell,Horsen Around Farms,,Chevrolet,194,,crash,0,112
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,18,32,41,usa,Benny_Dean,Benny Dean,Professional Auto Service,,Chevrolet,191,,running,0,109
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,19,33,69,usa,Sidney_Minton,Sidney Minton,Groenke & Associates,,Buick,190,,running,0,106
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,20,31,75,usa,Robby_Johnson,Robby Johnson,Vann Air / Goshen Cushion,,Chevrolet,188,,running,0,103
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,21,38,74,usa,David_Ridling,David Ridling,Race Graphics,,Chevrolet,187,,running,0,100
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,22,16,57,usa,Jason_Keller,Jason Keller,Air Products,,Buick,185,,crash,0,97
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,23,5,4,usa,Donnie_Bishop,Donnie Bishop,Safeguard Safety Shoes,,Chevrolet,179,,crash,0,94
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,24,35,07,usa,Eddie_Hanks,Eddie Hanks,E.S.R. Racing,,Buick,171,,running,0,91
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,25,7,51,usa,Eddie_Goodson,Eddie Goodson,Goodson Construction,,Chevrolet,166,,crash,0,88
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,26,36,53,usa,Randy_Bynum,Randy Bynum,Dillon Enterprises,,Chevrolet,165,,crash,0,85
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,27,21,4,usa,Bobby_Gill,Bobby Gill,Hostetler Race Cars,,Buick,159,,crash,0,82
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,28,4,16,usa,Hal_Goodson,Hal Goodson,Downtown Radio Service,,Ford,157,,crash,0,79
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,29,19,55,usa,Hank_Jarman,Hank Jarman,Jarman's Tire & Auto,,Chevrolet,157,,engine,0,76
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,30,30,1,usa,Bill_Webb,Bill Webb,Budget / Baja Boats,,Chevrolet,157,,crash,0,73
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,31,37,58,usa,John_Kelly,John Kelly,Circle Bar Motel & RV,,Ford,154,,crash,0,70
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,32,34,65,usa,Floyd_Polaco,Floyd Polaco,Floyd's Parts & Service,,Chevrolet,147,,running,0,67
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,33,22,27,usa,James_Trammell,James Trammell,Northwest Drywall,,Chevrolet,106,,running,0,64
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,34,24,31,usa,Lee_Faulk,Lee Faulk,Race Car Parts,,Chevrolet,77,,handling,0,61
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,35,15,5,usa,Rich_Bickle,Rich Bickle,Terminal Trucking,,Chevrolet,71,,crash,0,58
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,36,11,05,usa,Rodney_Combs_Jr,"Rodney Combs, Jr.",Downtown Radio Service / Cloer Utilities,,Chevrolet,69,,crash,0,0
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,37,39,45,usa,Robert_Garner,Robert Garner,Admiral's Flagship Restaurant,,Pontiac,30,,engine,0,0
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,38,17,86,usa,Tim_Gordon,Tim Gordon,Carolina Building Systems,,Chevrolet,21,,overheating,0,0
+1991,SE,1991_Coca-Cola_200_%28April%29,1991_02_SE,39,25,40,usa,Ron_Young,Ron Young,Southern Truck & Trailer,,Chevrolet,20,,engine,0,46
+1991,SE,1991_Winston_250,1991_03_SE,1,12,7,usa,Mike_Garvey,Mike Garvey,Rite-Way Grinding,,Chevrolet,250,6700,running,20,180
+1991,SE,1991_Winston_250,1991_03_SE,2,25,14,usa,Rick_Crawford,Rick Crawford,John Holliday / Quik Mart,,Buick,250,,running,10,170
+1991,SE,1991_Winston_250,1991_03_SE,3,9,98,usa,Jody_Ridley,Jody Ridley,Fel-Pro / Right Way Transportation,,Ford,250,3050,running,11,165
+1991,SE,1991_Winston_250,1991_03_SE,4,19,32,usa,Randy_Porter,Randy Porter,BASF Automotive Finishes,,Chevrolet,249,,running,0,160
+1991,SE,1991_Winston_250,1991_03_SE,5,6,79,usa,Steve_Holzhausen,Steve Holzhausen,Dondi Motorsports / Gross Trucking,,Chevrolet,249,,running,0,155
+1991,SE,1991_Winston_250,1991_03_SE,6,26,93,usa,Junior_Niedecken,Junior Niedecken,Oyster Bar / Ard Oil,,Chevrolet,249,,running,0,150
+1991,SE,1991_Winston_250,1991_03_SE,7,17,24,usa,Mike_Harmon,Mike Harmon,Mike's Roofing / David Drummond,,Chevrolet,249,,running,0,0
+1991,SE,1991_Winston_250,1991_03_SE,8,5,2,usa,Jerry_Goodwin,Jerry Goodwin,Reno Performance Motorsports,,Buick,248,,running,0,142
+1991,SE,1991_Winston_250,1991_03_SE,9,29,1,usa,David_Bonnett,David Bonnett,CITGO / Sports Image,,Chevrolet,247,,running,0,0
+1991,SE,1991_Winston_250,1991_03_SE,10,24,77,usa,Ted_Hodgdon,Ted Hodgdon,Valvoline,,Chevrolet,245,,running,0,134
+1991,SE,1991_Winston_250,1991_03_SE,11,13,97,usa,Todd_Forbes,Todd Forbes,Noah Yoder Ford,,Ford,244,,running,0,0
+1991,SE,1991_Winston_250,1991_03_SE,12,23,82,usa,Sam_Parsons,Sam Parsons,Competition Engines,,Chevrolet,244,,running,0,127
+1991,SE,1991_Winston_250,1991_03_SE,13,36,07,usa,Eddie_Hanks,Eddie Hanks,E.S.R. Racing,,Buick,243,,running,0,124
+1991,SE,1991_Winston_250,1991_03_SE,14,4,57,usa,Jason_Keller,Jason Keller,Air Products / KEL Chemicals,,Buick,242,,running,140,121
+1991,SE,1991_Winston_250,1991_03_SE,15,7,58,usa,John_Kelly,John Kelly,Circle Bar Motel & RV,,Ford,241,,running,0,118
+1991,SE,1991_Winston_250,1991_03_SE,16,18,12,usa,Joey_Sims,Joey Sims,City Inc. / Fel-Pro,,Chevrolet,235,,running,0,115
+1991,SE,1991_Winston_250,1991_03_SE,17,8,16,usa,Hal_Goodson,Hal Goodson,Downtown Radio Service,,Ford,232,,running,0,112
+1991,SE,1991_Winston_250,1991_03_SE,18,32,30,usa,Scott_Bass,Scott Bass,Sport Shake / Sportsman Covers,,Chevrolet,228,,running,0,109
+1991,SE,1991_Winston_250,1991_03_SE,19,10,15,usa,Clay_Brown,Clay Brown,Rubber & Specialties,,Chevrolet,226,,running,0,106
+1991,SE,1991_Winston_250,1991_03_SE,20,31,75,usa,Robby_Johnson,Robby Johnson,Vann Air / Goshen Cushion,,Chevrolet,221,,running,0,103
+1991,SE,1991_Winston_250,1991_03_SE,21,1,4,usa,Bobby_Gill,Bobby Gill,Vinyl Tech Progressive Glass,,Chevrolet,220,,crash,69,100
+1991,SE,1991_Winston_250,1991_03_SE,22,35,69,usa,Sidney_Minton,Sidney Minton,John Groenke & Associates,,Buick,215,,running,0,97
+1991,SE,1991_Winston_250,1991_03_SE,23,3,80,usa,Tommy_Evans,Tommy Evans,Evans Motors / J&J Body Shop,,Chevrolet,197,,transmission,0,94
+1991,SE,1991_Winston_250,1991_03_SE,24,27,19,usa,Scotty_Lovelady,Scotty Lovelady,Lovelady Racing,,Chevrolet,185,,running,0,91
+1991,SE,1991_Winston_250,1991_03_SE,25,34,36,usa,David_Russell,David Russell,Horsen Around Farms,,Chevrolet,181,,running,0,88
+1991,SE,1991_Winston_250,1991_03_SE,26,14,96,usa,Greg_Davidson,Greg Davidson,Raybestos,,Pontiac,175,,crash,0,85
+1991,SE,1991_Winston_250,1991_03_SE,27,15,71,usa,Bart_Ingram,Bart Ingram,Italiano's Subs & Pizza,,Chevrolet,165,,running,0,82
+1991,SE,1991_Winston_250,1991_03_SE,28,33,41,usa,Benny_Dean,Benny Dean,Professional Auto Service,,Chevrolet,129,,radiator,0,79
+1991,SE,1991_Winston_250,1991_03_SE,29,28,99,usa,Charlie_Stokes,Charlie Stokes,Stokes Gas,,Chevrolet,117,,engine,0,76
+1991,SE,1991_Winston_250,1991_03_SE,30,22,40,usa,Ron_Young,Ron Young,Young Racing,,Chevrolet,101,,crash,0,73
+1991,SE,1991_Winston_250,1991_03_SE,31,30,02,usa,Guy_Thomas,Guy Thomas,Southwind Systems,,Chevrolet,80,,crash,0,70
+1991,SE,1991_Winston_250,1991_03_SE,32,20,25,usa,Mike_Cope,Mike Cope,Eagles Nest Racing / Gulfwind Engines,,Buick,70,,oil pump,0,67
+1991,SE,1991_Winston_250,1991_03_SE,33,2,28,usa,Billy_Bigley_Jr,"Billy Bigley, Jr.",Amalie Oil / Pen Air,,Buick,70,,crash,0,64
+1991,SE,1991_Winston_250,1991_03_SE,34,11,3,usa,Chris_Mullinax,Chris Mullinax,Custom Tee's Screen Print,,Chevrolet,69,,crash,0,0
+1991,SE,1991_Winston_250,1991_03_SE,35,21,21,usa,Sammy_Pegram,Sammy Pegram,Fast Track Communication / Valvoline,,Buick,46,,oil cooler,0,58
+1991,SE,1991_Winston_250,1991_03_SE,36,16,78,usa,Gary_Bradberry,Gary Bradberry,Bradberry Racing,,Pontiac,38,,crash,0,55
+1991,SE,1991_Nestle_150,1991_04_SE,1,11,48,usa,Mike_Miller,Mike Miller,U.S. Speed Supply / Wegner Engines,,Pontiac,150,3750,running,6,180
+1991,SE,1991_Nestle_150,1991_04_SE,2,1,79,usa,Steve_Holzhausen,Steve Holzhausen,Dondi Motorsports / Gross Trucking,,Chevrolet,150,,running,144,170
+1991,SE,1991_Nestle_150,1991_04_SE,3,13,23,usa,Brad_Sorenson,Brad Sorenson,Racing Radios,,Chevrolet,150,,running,0,165
+1991,SE,1991_Nestle_150,1991_04_SE,4,15,78,usa,Gary_Bradberry,Gary Bradberry,Bradberry Racing,,Buick,150,,running,0,160
+1991,SE,1991_Nestle_150,1991_04_SE,5,26,51,usa,Randy_Gilbert,Randy Gilbert,Rite In Style / U.S. Speed Supply,,Pontiac,150,,running,0,155
+1991,SE,1991_Nestle_150,1991_04_SE,6,9,7,usa,Mike_Garvey,Mike Garvey,Rite-Way Grinding,,Chevrolet,150,,running,0,150
+1991,SE,1991_Nestle_150,1991_04_SE,7,3,4,usa,Bobby_Gill,Bobby Gill,Vinyl Tech Progressive Glass,,Chevrolet,150,,running,0,146
+1991,SE,1991_Nestle_150,1991_04_SE,8,18,98,usa,Jody_Ridley,Jody Ridley,Fel-Pro / Right Way Transportation,,Ford,150,1450,running,0,142
+1991,SE,1991_Nestle_150,1991_04_SE,9,14,25,usa,Mike_Cope,Mike Cope,Eagles Nest Racing,,Buick,150,,running,0,138
+1991,SE,1991_Nestle_150,1991_04_SE,10,30,28,usa,Billy_Bigley_Jr,"Billy Bigley, Jr.",Amalie Oil / Pen Air,,Buick,150,,running,0,134
+1991,SE,1991_Nestle_150,1991_04_SE,11,7,71,usa,Bart_Ingram,Bart Ingram,Italiano's Subs & Pizza,,Chevrolet,150,,running,0,130
+1991,SE,1991_Nestle_150,1991_04_SE,12,4,31,usa,Lee_Faulk,Lee Faulk,Race Cars & Engines,,Chevrolet,150,,running,0,127
+1991,SE,1991_Nestle_150,1991_04_SE,13,25,58,usa,John_Kelly,John Kelly,Circle Bar Motel & RV,,Ford,150,,running,0,124
+1991,SE,1991_Nestle_150,1991_04_SE,14,22,93,usa,Junior_Niedecken,Junior Niedecken,Oyster Bar / Ard Oil,,Chevrolet,149,,running,0,121
+1991,SE,1991_Nestle_150,1991_04_SE,15,6,32,usa,Randy_Porter,Randy Porter,BASF Automotive Finishes,,Chevrolet,149,,running,0,118
+1991,SE,1991_Nestle_150,1991_04_SE,16,32,07,usa,Eddie_Hanks,Eddie Hanks,E.S.R. Racing,,Buick,149,,running,0,115
+1991,SE,1991_Nestle_150,1991_04_SE,17,19,77,usa,Ted_Hodgdon,Ted Hodgdon,Valvoline / Fel-Pro,,Chevrolet,149,,running,0,112
+1991,SE,1991_Nestle_150,1991_04_SE,18,21,12,usa,Joey_Sims,Joey Sims,City Inc. / Fel-Pro,,Chevrolet,149,,running,0,109
+1991,SE,1991_Nestle_150,1991_04_SE,19,27,62,usa,Larry_Lancaster,Larry Lancaster,Wilson Welding,,Pontiac,149,,running,0,106
+1991,SE,1991_Nestle_150,1991_04_SE,20,20,72,usa,Johnny_Cochran,Johnny Cochran,Millicom Radio & Telephone,,Chevrolet,148,,running,0,103
+1991,SE,1991_Nestle_150,1991_04_SE,21,23,36,usa,David_Russell,David Russell,Horsen Around Farms,,Chevrolet,148,,running,0,100
+1991,SE,1991_Nestle_150,1991_04_SE,22,29,41,usa,Benny_Dean,Benny Dean,Professional Auto Service,,Chevrolet,147,,running,0,97
+1991,SE,1991_Nestle_150,1991_04_SE,23,17,65,usa,Robby_Johnson,Robby Johnson,Vann Air / Goshen Cushion,,Chevrolet,147,,running,0,94
+1991,SE,1991_Nestle_150,1991_04_SE,24,31,99,usa,Charlie_Stokes,Charlie Stokes,Stokes Gas,,Chevrolet,146,,running,0,91
+1991,SE,1991_Nestle_150,1991_04_SE,25,24,69,usa,Sidney_Minton,Sidney Minton,John Groenke & Associates,,Buick,145,,running,0,88
+1991,SE,1991_Nestle_150,1991_04_SE,26,12,01,usa,Robin_Hayes,Robin Hayes,11-Alive / Precision Epoxy,,Chevrolet,145,,running,0,85
+1991,SE,1991_Nestle_150,1991_04_SE,27,28,15,usa,Mark_Day,Mark Day,31-W Insulation,,Chevrolet,119,,engine,0,82
+1991,SE,1991_Nestle_150,1991_04_SE,28,8,27,usa,James_Trammell,James Trammell,Northwest Drywall,,Chevrolet,118,,running,0,79
+1991,SE,1991_Nestle_150,1991_04_SE,29,5,21,usa,Sammy_Pegram,Sammy Pegram,Fast Track Communication / Valvoline,,Buick,73,,hub,0,76
+1991,SE,1991_Nestle_150,1991_04_SE,30,16,84,usa,Donnie_Bishop,Donnie Bishop,Safeguard Safety Shoes,,Pontiac,56,,ignition,0,73
+1991,SE,1991_Nestle_150,1991_04_SE,31,10,8,usa,Kevin_Evans,Kevin Evans,Evans Construction / Howe Enterprises,,Chevrolet,56,,engine,0,70
+1991,SE,1991_Nestle_150,1991_04_SE,32,2,57,usa,Jason_Keller,Jason Keller,Air Products / KEL Chemicals,,Buick,29,,radiator,0,67
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,1,9,57,usa,Jason_Keller,Jason Keller,Air Products / KEL Chemicals,,Buick,253,,running,99,180
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,2,5,48,usa,Mike_Miller,Mike Miller,Lawrence Acoustical,,Pontiac,253,,running,0,170
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,3,2,16,usa,Hal_Goodson,Hal Goodson,Downtown Radio Service,,Ford,253,,running,30,0
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,4,3,14,usa,Rick_Crawford,Rick Crawford,Quik Mart,,Buick,253,,running,0,160
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,5,27,28,usa,Billy_Bigley_Jr,"Billy Bigley, Jr.",Dr. Pepper / Amalie Oil / Pen Air,,Chevrolet,253,,running,0,155
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,6,6,40,usa,Ron_Young,Ron Young,Young Racing,,Chevrolet,252,,running,0,150
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,7,1,74,usa,Jack_Sprague,Jack Sprague,Terminal Trucking,,Pontiac,252,,running,124,0
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,8,29,00,usa,Randy_Couch,Randy Couch,Amoco,,Chevrolet,252,,running,0,142
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,9,25,11,usa,Dave_Smith_(1),Dave Smith,Eagle Transport,,Chevrolet,251,,running,0,0
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,10,14,13,usa,Jerry_McCart,Jerry McCart,Dixie Vans,,Chevrolet,251,,running,0,0
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,11,33,98,usa,Jody_Ridley,Jody Ridley,Fel-Pro / Right Way Transportation,,Ford,251,1800,running,0,130
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,12,15,77,usa,Ted_Hodgdon,Ted Hodgdon,Valvoline / Fel-Pro,,Chevrolet,250,,running,0,127
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,13,11,84,usa,Kevin_Evans,Kevin Evans,Evans Construction / Howe Enterprises,,Chevrolet,250,,running,0,0
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,14,34,93,usa,Junior_Niedecken,Junior Niedecken,Oyster Bar / Ard Oil,,Chevrolet,249,,running,0,121
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,15,23,69,usa,Sidney_Minton,Sidney Minton,John Groenke & Associates,,Buick,248,,running,0,118
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,16,18,99,usa,Charlie_Stokes,Charlie Stokes,Stokes Gas,,Chevrolet,248,,running,0,115
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,17,8,79,usa,Steve_Holzhausen,Steve Holzhausen,Dondi Motorsports / Gross Trucking,,Chevrolet,247,,suspension,0,112
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,18,12,01,usa,Robin_Hayes,Robin Hayes,11-Alive / Precision Epoxy,,Chevrolet,247,,running,0,109
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,19,38,71,usa,Bart_Ingram,Bart Ingram,Italiano's Subs & Pizza,,Chevrolet,246,,running,0,106
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,20,10,78,usa,Gary_Bradberry,Gary Bradberry,Bradberry Racing,,Pontiac,243,,running,0,103
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,21,40,52,usa,Tammy_Jo_Kirk,Tammy Jo Kirk,McCord Gaskets / TKR,,Chevrolet,242,,running,0,100
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,22,39,61,usa,Larry_Thompson,Larry Thompson,Pacific Saw & Knife,,Chevrolet,242,,running,0,97
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,23,21,41,usa,Benny_Dean,Benny Dean,Professional Auto Service,,Chevrolet,241,,running,0,94
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,24,22,75,usa,Robby_Johnson,Robby Johnson,Vann Air / Goshen Cushion,,Chevrolet,213,,running,0,91
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,25,35,36,usa,David_Russell,David Russell,Horsen Around Farms,,Chevrolet,212,,running,0,88
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,26,4,4,usa,Bobby_Gill,Bobby Gill,Vinyl Tech Progressive Glass,,Chevrolet,196,,running,0,85
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,27,30,37,usa,Larry_Raines,Larry Raines,Palmetto Trading / Broad Wheels,,Pontiac,187,,running,0,82
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,28,31,23,usa,Tommy_Ruff,Tommy Ruff,Blue Line Contracting,,Chevrolet,178,,running,0,79
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,29,7,7,usa,Mike_Garvey,Mike Garvey,Rite-Way Grinding,,Chevrolet,132,,crash,0,76
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,30,19,32,usa,Randy_Porter,Randy Porter,BASF Automotive Finishes,,Chevrolet,126,,running,0,73
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,31,20,19,usa,Scotty_Lovelady,Scotty Lovelady,Lovelady Racing,,Chevrolet,124,,running,0,70
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,32,36,07,usa,Eddie_Hanks,Eddie Hanks,E.S.R. Racing,,Buick,122,,running,0,67
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,33,28,72,usa,Johnny_Cochran,Johnny Cochran,Millicom Radio & Telephone,,Chevrolet,111,,running,0,64
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,34,26,27,usa,James_Trammell,James Trammell,Northwest Drywall,,Chevrolet,90,,running,0,61
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,35,17,91,usa,Scott_Sutherland,Scott Sutherland,Italiano's Subs & Pizza,,Chevrolet,68,,running,0,0
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,36,13,58,usa,John_Kelly,John Kelly,Circle Bar Motel & RV,,Ford,65,,running,0,55
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,37,24,12,usa,Joey_Sims,Joey Sims,City Inc. / Fel-Pro,,Pontiac,45,,running,0,52
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,38,37,21,usa,Sammy_Pegram,Sammy Pegram,Fast Track Communication / Valvoline,,Buick,40,,running,0,49
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,39,32,3,usa,Smiley_Rich,Smiley Rich,Michael Motorsports,,Chevrolet,40,,running,0,0
+1991,SE,1991_Skoal_Racing_250,1991_05_SE,40,16,25,usa,Mike_Cope,Mike Cope,Eagles Nest Racing,,Buick,21,,running,0,43
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,1,3,7,usa,Mike_Garvey,Mike Garvey,Rite-Way Grinding,,Chevrolet,150,,running,10,180
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,2,4,32,usa,Randy_Porter,Randy Porter,BASF Automotive Finishes,,Chevrolet,150,,running,13,170
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,3,6,4,usa,Bobby_Gill,Bobby Gill,Vinyl Tech Progressive Glass,,Chevrolet,150,,running,105,165
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,4,5,57,usa,Jason_Keller,Jason Keller,Air Products / KEL Chemicals,,Buick,150,,running,0,160
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,5,9,98,usa,Jody_Ridley,Jody Ridley,Fel-Pro / Right Way Transportation,,Ford,150,1800,running,0,155
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,6,19,28,usa,Billy_Bigley_Jr,"Billy Bigley, Jr.",Dr. Pepper / Amalie Oil / Pen Air,,Buick,150,,running,0,150
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,7,27,97,usa,Marty_Ward,Marty Ward,Precision Auto Sales / Wynn's,,Chevrolet,150,,running,0,146
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,8,11,21,usa,Sammy_Pegram,Sammy Pegram,Fast Track Communication / Valvoline,,Buick,150,,running,0,142
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,9,12,25,usa,Mike_Cope,Mike Cope,Bowser Motorsports,,Buick,150,,running,0,138
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,10,13,71,usa,Bart_Ingram,Bart Ingram,Italiano's Subs & Pizza,,Chevrolet,150,,running,0,134
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,11,1,79,usa,Steve_Holzhausen,Steve Holzhausen,Dondi Motorsports / Gross Trucking,,Chevrolet,149,,running,12,130
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,12,15,10,usa,Rodger_Gentry_Sr,"Rodger Gentry, Sr.",Gentry Racing,,Chevrolet,148,,running,0,127
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,13,16,72,usa,Johnny_Cochran,Johnny Cochran,Millicom Radio & Telephone,,Chevrolet,146,,running,0,124
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,14,22,99,usa,Charlie_Stokes,Charlie Stokes,Stokes Gas,,Chevrolet,142,,running,0,121
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,15,14,58,usa,John_Kelly,John Kelly,Circle Bar Motel & RV,,Ford,142,,running,0,118
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,16,23,69,usa,Sidney_Minton,Sidney Minton,John Groenke & Associates,,Buick,142,,running,0,115
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,17,18,12,usa,Joey_Sims,Joey Sims,City Inc. / Fel-Pro,,Chevrolet,142,,running,0,112
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,18,25,8,usa,Richard_Starkey,Richard Starkey,Starkey Racing,,Chevrolet,136,,running,0,109
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,19,26,07,usa,Eddie_Hanks,Eddie Hanks,E.S.R. Racing,,Buick,136,,running,0,106
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,20,8,40,usa,Ron_Young,Ron Young,Young Racing,,Chevrolet,102,,crash,0,103
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,21,10,84,usa,Donnie_Bishop,Donnie Bishop,Safeguard Safety Shoes,,Chevrolet,81,,rear end,0,100
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,22,17,02,usa,Guy_Thomas,Guy Thomas,Southwind Systems,,Chevrolet,71,,suspension,0,97
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,23,21,41,usa,Benny_Dean,Benny Dean,Professional Auto Service,,Chevrolet,70,,crash,0,94
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,24,20,36,usa,David_Russell,David Russell,Horsen Around Farms,,Chevrolet,69,,engine,0,91
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,25,29,27,usa,James_Trammell,James Trammell,Northwest Drywall,,Chevrolet,67,,rear end,0,88
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,26,7,77,usa,Ted_Hodgdon,Ted Hodgdon,Valvoline / Park Inn / Fel-Pro,,Chevrolet,34,,engine,0,85
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,27,28,17,usa,Ralph_Carnes,Ralph Carnes,Affordable Buildings,,Pontiac,31,,ignition,0,82
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,28,24,19,usa,Scotty_Lovelady,Scotty Lovelady,Lovelady Racing,,Chevrolet,12,,rear end,0,79
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,29,2,78,usa,Gary_Bradberry,Gary Bradberry,Bradberry Racing,,Buick,10,,valve,10,76
+1991,SE,1991_Kent_Gault_Mobile_Home_Sales_150,1991_06_SE,30,30,38,usa,Junior_Niedecken,Junior Niedecken,Horsen Around Farms,,Chevrolet,6,,ignition,0,73
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,1,12,57,usa,Jason_Keller,Jason Keller,Air Products / KEL Chemicals,,Buick,200,5250,running,11,180
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,2,7,98,usa,Jody_Ridley,Jody Ridley,Fel-Pro / Right Way Transportation,,Ford,200,3600,running,0,170
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,3,5,4,usa,Bobby_Gill,Bobby Gill,Vinyl Tech Progressive Glass,,Chevrolet,200,,running,60,165
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,4,3,14,usa,Rick_Crawford,Rick Crawford,John Holliday / Big-10 Tires,,Chevrolet,200,,running,24,160
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,5,2,25,usa,Mike_Cope,Mike Cope,Bowser Motorsports,,Buick,200,,running,74,155
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,6,8,2,usa,Jerry_Goodwin,Jerry Goodwin,Reno Performance Motorsports,,Buick,200,,running,0,150
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,7,4,71,usa,Bart_Ingram,Bart Ingram,Italiano's Subs & Pizza,,Chevrolet,200,,running,0,146
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,8,17,28,usa,Billy_Bigley_Jr,"Billy Bigley, Jr.",Amalie Oil / Pen Air / Dr. Pepper,,Chevrolet,200,,running,0,142
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,9,1,79,usa,Steve_Holzhausen,Steve Holzhausen,Dondi Motorsports / Gross Trucking,,Chevrolet,200,,running,31,138
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,10,22,48,usa,Mike_Miller,Mike Miller,Lawrence Acoustical,,Pontiac,199,,running,0,134
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,11,9,40,usa,Ron_Young,Ron Young,Young Racing,,Chevrolet,199,,running,0,130
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,12,15,21,usa,Sammy_Pegram,Sammy Pegram,Fast Track Communication / Valvoline,,Buick,199,,running,0,127
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,13,20,52,usa,Tammy_Jo_Kirk,Tammy Jo Kirk,McCord Gaskets / TKR,,Chevrolet,199,,running,0,124
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,14,16,69,usa,Sidney_Minton,Sidney Minton,John Groenke & Associates,,Buick,199,,running,0,121
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,15,11,78,usa,Gary_Bradberry,Gary Bradberry,Bradberry Racing,,Buick,199,,running,0,118
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,16,34,80,usa,Tommy_Evans,Tommy Evans,Evans Motors / J&J Body Shop,,Chevrolet,199,,running,0,115
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,17,24,84,usa,Kevin_Evans,Kevin Evans,Evans Construction / Howe Enterprises,,Chevrolet,198,,running,0,0
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,18,25,12,usa,Joey_Sims,Joey Sims,City Inc. / Fel-Pro,,Pontiac,198,,running,0,109
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,19,19,36,usa,David_Russell,David Russell,Horsen Around Farms,,Chevrolet,197,,running,0,106
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,20,30,19,usa,Scotty_Lovelady,Scotty Lovelady,Lovelady Racing,,Chevrolet,197,,running,0,103
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,21,13,99,usa,Charlie_Stokes,Charlie Stokes,Stokes Gas,,Chevrolet,197,,running,0,100
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,22,33,07,usa,Eddie_Hanks,Eddie Hanks,E.S.R. Racing,,Buick,190,,running,0,97
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,23,32,27,usa,James_Trammell,James Trammell,Northwest Drywall,,Chevrolet,190,,running,0,94
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,24,23,58,usa,John_Kelly,John Kelly,Circle Bar Motel & RV,,Ford,180,,suspension,0,91
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,25,18,1,usa,David_Bonnett,David Bonnett,CITGO / Sports Image,,Chevrolet,168,,overheating,0,88
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,26,14,00,usa,Randy_Couch,Randy Couch,Amoco,,Chevrolet,159,,brakes,0,85
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,27,6,7,usa,Mike_Garvey,Mike Garvey,Metal Center / Rite-Way Grinding,,Chevrolet,141,,header,0,82
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,28,31,32,usa,Randy_Porter,Randy Porter,BASF Automotive Finishes,,Chevrolet,115,,engine,0,79
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,29,27,26,usa,Jeff_Morgan,Jeff Morgan,Allen Radiator,,Pontiac,50,,engine,0,0
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,30,29,62,usa,Larry_Lancaster,Larry Lancaster,Wilson Welding,,Pontiac,48,,engine,0,73
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,31,28,41,usa,Benny_Dean,Benny Dean,Professional Auto Service,,Chevrolet,38,,rear end,0,70
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,32,10,3,usa,Duwayne_Middlebrooks,Duwayne Middlebrooks,Lunati Cams / Linda Nelson,,Buick,17,,power steering,0,0
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,33,21,38,usa,Ted_Hodgdon,Ted Hodgdon,Horsen Around Farms,,Chevrolet,2,,ignition,0,64
+1991,SE,1991_Winston_200_%28June%29,1991_07_SE,34,26,30,usa,Scott_Bass,Scott Bass,Sport Shake / Sportsman Covers,,Chevrolet,1,,crash,0,61
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,1,14,78,usa,Gary_Bradberry,Gary Bradberry,Bradberry Racing,,Buick,203,4500,running,53,180
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,2,1,32,usa,Randy_Porter,Randy Porter,BASF Automotive Finishes,,Chevrolet,203,,running,1,170
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,3,10,98,usa,Jody_Ridley,Jody Ridley,Fel-Pro / Right Way Transportation,,Ford,203,2750,running,25,165
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,4,22,71,usa,Bart_Ingram,Bart Ingram,Italiano's Subs & Pizza,,Chevrolet,203,,running,20,160
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,5,6,18,usa,Mike_Miller,Mike Miller,Lawrence Acoustical,,Pontiac,203,,running,0,155
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,6,24,58,usa,John_Kelly,John Kelly,Circle Bar Motel & RV,,Ford,203,,running,0,150
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,7,2,79,usa,Steve_Holzhausen,Steve Holzhausen,Dondi Motorsports / Gross Trucking,,Chevrolet,203,,running,98,146
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,8,16,21,usa,Sammy_Pegram,Sammy Pegram,Fast Track Communication / Valvoline,,Buick,203,,running,0,142
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,9,19,28,usa,Billy_Bigley_Jr,"Billy Bigley, Jr.",Dr. Pepper / Amalie Oil / Pen Air,,Chevrolet,202,,running,3,138
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,10,3,5,usa,Daniel_Keene,Daniel Keene,Keene Trucking / Boyd Engines,,Chevrolet,202,,running,0,0
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,11,5,11,usa,David_Rogers,David Rogers,T&M Ranch Quarter Horses,,Pontiac,202,,running,0,130
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,12,11,7,usa,Mike_Garvey,Mike Garvey,Rite-Way Grinding,,Chevrolet,201,,running,3,127
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,13,23,02,usa,Guy_Thomas,Guy Thomas,Southwind Systems,,Chevrolet,198,,running,0,124
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,14,28,07,usa,Eddie_Hanks,Eddie Hanks,E.S.R. Racing,,Buick,198,,running,0,121
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,15,18,19,usa,Scotty_Lovelady,Scotty Lovelady,Lovelady Racing,,Chevrolet,197,,running,0,118
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,16,27,69,usa,Sidney_Minton,Sidney Minton,John Groenke & Associates,,Buick,195,,running,0,115
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,17,25,26,usa,Will_Sizemore,Will Sizemore,Will's Auto Parts / Marion's Salvage,,Pontiac,194,,running,0,0
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,18,4,4,usa,Bobby_Gill,Bobby Gill,Vinyl Tech Progressive Glass,,Chevrolet,191,,running,0,109
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,19,29,33,usa,Bob_Ingersoll,Bob Ingersoll,Ingersoll Satellites,,Buick,188,,running,0,0
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,20,13,25,usa,Mike_Cope,Mike Cope,Eagles Nest Racing,,Buick,154,,running,0,103
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,21,21,36,usa,David_Russell,David Russell,Horsen Around Farms,,Chevrolet,152,,crash,0,100
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,22,17,75,usa,Robby_Johnson,Robby Johnson,Vann Air / Goshen Cushion,,Chevrolet,139,,engine,0,97
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,23,9,57,usa,Jason_Keller,Jason Keller,Air Products / KEL Chemicals,,Buick,105,,running,0,94
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,24,26,0,usa,Kristal_Loescher,Kristal Loescher,Discount Auto Parts / Valvoline / Red Hot,,Chevrolet,54,,engine,0,91
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,25,15,15,usa,Tony_Ponder,Tony Ponder,Steel & Post Building Supply,,Chevrolet,31,,crash,0,0
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,26,12,27,usa,James_Trammell,James Trammell,Northwest Drywall,,Chevrolet,31,,crash,0,85
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,27,20,99,usa,Charlie_Stokes,Charlie Stokes,Stokes Gas,,Chevrolet,22,,ignition,0,82
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,28,7,8,usa,Ted_Hodgdon,Ted Hodgdon,Dr. Pepper / Amalie Oil / Pen Air,,Chevrolet,8,,ignition,0,79
+1991,SE,1991_Bondesen_All_Pro_200,1991_08_SE,29,8,40,usa,Ron_Young,Ron Young,Young Racing,,Chevrolet,4,,engine,0,76
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,1,14,98,usa,Jody_Ridley,Jody Ridley,Fel-Pro / Right Way Transportation,,Ford,204,6700,running,17,180
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,2,6,4,usa,Bobby_Gill,Bobby Gill,Vinyl Tech Progressive Glass,,Chevrolet,204,,running,2,170
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,3,2,57,usa,Jason_Keller,Jason Keller,Air Products / KEL Chemicals,,Buick,204,,running,27,165
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,4,12,32,usa,Randy_Porter,Randy Porter,BASF Automotive Finishes,,Chevrolet,204,,running,91,160
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,5,3,18,usa,Mike_Miller,Mike Miller,Lawrence Acoustical,,Pontiac,203,,running,21,155
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,6,9,78,usa,Gary_Bradberry,Gary Bradberry,Bradberry Racing,,Buick,203,,running,0,150
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,7,15,79,usa,Steve_Holzhausen,Steve Holzhausen,Dondi Motorsports / Gross Trucking,,Chevrolet,203,,running,0,146
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,8,16,25,usa,Mike_Cope,Mike Cope,Bowser Motorsports,,Buick,203,,running,0,142
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,9,8,7,usa,Mike_Garvey,Mike Garvey,Rite-Way Grinding,,Chevrolet,202,,running,0,138
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,10,4,30,usa,Clay_Brown,Clay Brown,Sport Shake / Sportsman Covers,,Chevrolet,201,,running,0,134
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,11,13,71,usa,Bart_Ingram,Bart Ingram,Italiano's Subs & Pizza,,Chevrolet,201,,running,0,130
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,12,22,99,usa,Charlie_Stokes,Charlie Stokes,Stokes Gas,,Chevrolet,201,,running,0,127
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,13,20,52,usa,Tammy_Jo_Kirk,Tammy Jo Kirk,McCord Gaskets / TKR,,Chevrolet,201,,running,0,124
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,14,10,58,usa,John_Kelly,John Kelly,Circle Bar Motel & RV,,Ford,201,,running,0,121
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,15,23,07,usa,Eddie_Hanks,Eddie Hanks,E.S.R. Racing,,Buick,200,,running,0,118
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,16,5,14,usa,Rick_Crawford,Rick Crawford,John Holliday / Big-10 Tires,,Chevrolet,199,,oil line,2,115
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,17,18,21,usa,Sammy_Pegram,Sammy Pegram,Fast Track Communication / Valvoline,,Buick,198,,running,0,112
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,18,24,69,usa,Sidney_Minton,Sidney Minton,John Groenke & Associates,,Buick,196,,running,0,109
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,19,21,41,usa,Benny_Dean,Benny Dean,Professional Auto Service,,Chevrolet,196,,running,0,106
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,20,19,19,usa,Scotty_Lovelady,Scotty Lovelady,Lovelady Racing,,Chevrolet,195,,running,0,103
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,21,25,36,usa,David_Russell,David Russell,Horsen Around Farms,,Chevrolet,154,,clutch,0,100
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,22,26,74,usa,Jamie_Prell,Jamie Prell,"Prell Auto Air, Paint & Body",,Chevrolet,124,,crash,0,97
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,23,17,28,usa,Billy_Bigley_Jr,"Billy Bigley, Jr.",Dr. Pepper / Amalie Oil / Pen Air,,Buick,95,,valve,0,94
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,24,11,80,usa,Tommy_Evans,Tommy Evans,Evans Motors / J&J Body Shop,,Chevrolet,91,,handling,0,91
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,25,1,50,usa,Gary_Balough,Gary Balough,Cloer Motorsports,,Chevrolet,45,,ignition,44,88
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_1,1991_09_SE,26,7,51,usa,Jeff_Purvis,Jeff Purvis,Phoenix Construction,,Chevrolet,26,,sump belt,0,85
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,1,4,98,usa,Jody_Ridley,Jody Ridley,Fel-Pro / Right Way Transportation,,Ford,200,6700,running,95,180
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,2,2,14,usa,Rick_Crawford,Rick Crawford,John Holliday / Big-10 Tires,,Chevrolet,200,,running,0,170
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,3,15,28,usa,Billy_Bigley_Jr,"Billy Bigley, Jr.",Dr. Pepper / Amalie Oil / Pen Air,,Chevrolet,200,,running,0,165
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,4,3,79,usa,Steve_Holzhausen,Steve Holzhausen,Dondi Motorsports / Gross Trucking,,Chevrolet,200,,running,0,160
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,5,9,32,usa,Randy_Porter,Randy Porter,BASF Automotive Finishes,,Chevrolet,199,,running,74,155
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,6,6,57,usa,Jason_Keller,Jason Keller,Air Products / KEL Chemicals,,Buick,199,,running,0,150
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,7,8,30,usa,Clay_Brown,Clay Brown,Sport Shake / Sportsman Covers,,Chevrolet,199,,running,0,146
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,8,19,69,usa,Sidney_Minton,Sidney Minton,John Groenke & Associates,,Buick,197,,running,0,142
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,9,23,52,usa,Tammy_Jo_Kirk,Tammy Jo Kirk,McCord Gaskets / TKR,,Chevrolet,195,,running,0,138
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,10,5,7,usa,Mike_Garvey,Mike Garvey,Rite-Way Grinding,,Chevrolet,194,,running,0,134
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,11,27,19,usa,Scotty_Lovelady,Scotty Lovelady,Lovelady Racing,,Chevrolet,194,,running,0,130
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,12,10,4,usa,Bobby_Gill,Bobby Gill,Vinyl Tech Progressive Glass,,Chevrolet,192,,crash,0,127
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,13,7,18,usa,Mike_Miller,Mike Miller,Lawrence Acoustical,,Pontiac,191,,engine,2,124
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,14,22,83,usa,Bubba_Gale,Bubba Gale,Morrison Trucking,,Chevrolet,191,,running,0,121
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,15,21,36,usa,David_Russell,David Russell,Horsen Around Farms,,Chevrolet,185,,running,0,118
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,16,12,78,usa,Gary_Bradberry,Gary Bradberry,Bradberry Racing,,Buick,182,,running,0,115
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,17,18,80,usa,Tommy_Evans,Tommy Evans,Evans Motors / J&J Body Shop,,Chevrolet,176,,running,0,112
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,18,28,07,usa,Eddie_Hanks,Eddie Hanks,E.S.R. Racing,,Buick,176,,running,0,109
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,19,25,71,usa,Bart_Ingram,Bart Ingram,Italiano's Subs & Pizza,,Chevrolet,125,,engine,0,106
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,20,14,99,usa,Charlie_Stokes,Charlie Stokes,Stokes Gas,,Chevrolet,82,,handling,0,103
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,21,24,96,usa,Greg_Davidson,Greg Davidson,Raybestos,,Pontiac,59,,rear end,0,100
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,22,1,50,usa,Gary_Balough,Gary Balough,Cloer Motorsports,,Chevrolet,47,,ignition,29,97
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,23,20,21,usa,Sammy_Pegram,Sammy Pegram,Fast Track Communication / Valvoline,,Buick,24,,handling,0,94
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,24,29,27,usa,Kenny_Vaughn,Kenny Vaughn,Vaughn Racing,,Pontiac,16,,handling,0,91
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,25,13,51,usa,Jeff_Purvis,Jeff Purvis,Phoenix Construction,,Chevrolet,1,,crash,0,88
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,26,16,86,usa,Steve_Smith_(3),Steve Smith,Conrad's Engine,,Chevrolet,1,,crash,0,85
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,27,11,41,usa,Junior_Niedecken,Junior Niedecken,Professional Auto Service,,Chevrolet,1,,crash,0,82
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,28,17,25,usa,Mike_Cope,Mike Cope,Bowser Motorsports,,Buick,1,,crash,0,79
+1991,SE,1991_Winston_All_Pro_Doubleheader_Race_2,1991_10_SE,29,26,58,usa,John_Kelly,John Kelly,Circle Bar Motel & RV,,Ford,1,,crash,0,76
+1991,SE,1991_Birmingham_250,1991_11_SE,1,2,32,usa,Randy_Porter,Randy Porter,BASF Automotive Finishes,,Chevrolet,250,6350,running,115,180
+1991,SE,1991_Birmingham_250,1991_11_SE,2,1,4,usa,Bobby_Gill,Bobby Gill,Vinyl Tech Progressive Glass,,Chevrolet,250,3400,running,75,170
+1991,SE,1991_Birmingham_250,1991_11_SE,3,10,50,usa,Gary_Balough,Gary Balough,Cloer Motorsports,,Chevrolet,250,1850,running,0,165
+1991,SE,1991_Birmingham_250,1991_11_SE,4,4,79,usa,Steve_Holzhausen,Steve Holzhausen,Dondi Motorsports / Gross Trucking,,Chevrolet,250,,running,0,160
+1991,SE,1991_Birmingham_250,1991_11_SE,5,12,25,usa,Mike_Cope,Mike Cope,Bowser Motorsports,,Buick,250,1550,running,0,155
+1991,SE,1991_Birmingham_250,1991_11_SE,6,16,18,usa,Mike_Miller,Mike Miller,Lawrence Acoustical,,Pontiac,250,,running,0,150
+1991,SE,1991_Birmingham_250,1991_11_SE,7,19,1,usa,David_Bonnett,David Bonnett,CITGO / Sports Image,,Chevrolet,249,925,running,0,146
+1991,SE,1991_Birmingham_250,1991_11_SE,8,13,80,usa,Tommy_Evans,Tommy Evans,Evans Motors / J&J Body Shop,,Chevrolet,249,,running,0,142
+1991,SE,1991_Birmingham_250,1991_11_SE,9,5,7,usa,Mike_Garvey,Mike Garvey,Rite-Way Grinding,,Chevrolet,248,,running,0,138
+1991,SE,1991_Birmingham_250,1991_11_SE,10,26,52,usa,Tammy_Jo_Kirk,Tammy Jo Kirk,McCord Gaskets / TKR,,Chevrolet,248,850,running,0,134
+1991,SE,1991_Birmingham_250,1991_11_SE,11,8,78,usa,Gary_Bradberry,Gary Bradberry,Bradberry Racing,,Buick,248,1100,running,0,130
+1991,SE,1991_Birmingham_250,1991_11_SE,12,29,07,usa,Eddie_Hanks,Eddie Hanks,E.S.R. Racing,,Buick,248,,running,0,127
+1991,SE,1991_Birmingham_250,1991_11_SE,13,15,36,usa,David_Russell,David Russell,Horsen Around Farms,,Chevrolet,247,,running,0,124
+1991,SE,1991_Birmingham_250,1991_11_SE,14,22,12,usa,Red_Farmer,Red Farmer,Hut Stricklin Racing,,Buick,245,475,running,0,121
+1991,SE,1991_Birmingham_250,1991_11_SE,15,25,19,usa,Scotty_Lovelady,Scotty Lovelady,Lovelady Racing,,Chevrolet,245,,running,0,118
+1991,SE,1991_Birmingham_250,1991_11_SE,16,31,69,usa,Sidney_Minton,Sidney Minton,John Groenke & Associates,,Buick,243,,running,0,115
+1991,SE,1991_Birmingham_250,1991_11_SE,17,11,28,usa,Billy_Bigley_Jr,"Billy Bigley, Jr.",Hawk Brake / Dr. Pepper / Amalie Oil,,Chevrolet,242,,running,0,112
+1991,SE,1991_Birmingham_250,1991_11_SE,18,30,42,usa,Anthony_Cannova,Anthony Cannova,Carl's Car Clinic,,Chevrolet,238,,running,0,109
+1991,SE,1991_Birmingham_250,1991_11_SE,19,24,99,usa,Charlie_Stokes,Charlie Stokes,Stokes Gas,,Chevrolet,231,,running,0,106
+1991,SE,1991_Birmingham_250,1991_11_SE,20,6,57,usa,Jason_Keller,Jason Keller,Air Products / KEL Chemicals,,Buick,228,,dnf,0,103
+1991,SE,1991_Birmingham_250,1991_11_SE,21,7,98,usa,Jody_Ridley,Jody Ridley,Fel-Pro / Right Way Transportation,,Ford,227,1600,crash,0,100
+1991,SE,1991_Birmingham_250,1991_11_SE,22,17,51,usa,Jeff_Purvis,Jeff Purvis,Phoenix Construction,,Chevrolet,221,,ignition,21,97
+1991,SE,1991_Birmingham_250,1991_11_SE,23,9,58,usa,John_Kelly,John Kelly,Circle Bar Motel & RV,,Ford,217,,crash,39,94
+1991,SE,1991_Birmingham_250,1991_11_SE,24,32,00,usa,Joey_Sims,Joey Sims,Tarrant,,Chevrolet,211,,running,0,91
+1991,SE,1991_Birmingham_250,1991_11_SE,25,20,24,usa,Clifford_Allison,Clifford Allison,Allison Racing,,Buick,182,,engine,0,88
+1991,SE,1991_Birmingham_250,1991_11_SE,26,23,88,usa,Darrell_Brown,Darrell Brown,Brown Trucking,,Chevrolet,175,,crash,0,85
+1991,SE,1991_Birmingham_250,1991_11_SE,27,3,14,usa,Rick_Crawford,Rick Crawford,Holliday Racing / Big-10 Tires,,Chevrolet,170,,handling,0,82
+1991,SE,1991_Birmingham_250,1991_11_SE,28,28,38,usa,Jeep_Pflum,Jeep Pflum,J&M Towing,,Chevrolet,136,,overheating,0,79
+1991,SE,1991_Birmingham_250,1991_11_SE,29,18,9,usa,Joe_Ruttman,Joe Ruttman,Turbo Blue / Red Line Oil,,Buick,30,,crash,0,76
+1991,SE,1991_Birmingham_250,1991_11_SE,30,27,8,usa,Dave_Mader_III,Dave Mader III,Guaranty Pest Control,,Chevrolet,22,,ignition,0,73
+1991,SE,1991_Birmingham_250,1991_11_SE,31,21,71,usa,Bart_Ingram,Bart Ingram,Italiano's Subs & Pizza,,Chevrolet,16,,ignition,0,70
+1991,SE,1991_Birmingham_250,1991_11_SE,32,14,2,usa,Jerry_Goodwin,Jerry Goodwin,Reno Performance Motorsports,,Buick,14,,engine,0,67
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,1,2,50,usa,Gary_Balough,Gary Balough,Cloer Motorsports,,Chevrolet,200,7150,running,114,180
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,2,11,98,usa,Jody_Ridley,Jody Ridley,Fel-Pro / Right Way Transportation,,Ford,200,5500,running,0,170
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,3,3,79,usa,Steve_Holzhausen,Steve Holzhausen,Dondi Motorsports / Gross Trucking,,Chevrolet,200,,running,0,165
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,4,7,49,usa,Stanley_Smith,Stanley Smith,Interstate Batteries,,Buick,200,,running,0,160
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,5,14,57,usa,Jason_Keller,Jason Keller,Air Products / KEL Chemicals,,Buick,200,,running,0,155
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,6,10,14,usa,Rick_Crawford,Rick Crawford,John Holliday / Helicopter Parts & Service,,Chevrolet,200,,running,0,150
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,7,6,40,usa,Ron_Young,Ron Young,Young Racing,,Chevrolet,200,,running,0,146
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,8,16,81,usa,Lee_Faulk,Lee Faulk,Race Cars & Engines,,Chevrolet,200,,running,0,142
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,9,9,7,usa,Mike_Garvey,Mike Garvey,Rite-Way Grinding,,Chevrolet,200,,running,0,138
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,10,12,18,usa,Mike_Miller,Mike Miller,Lawrence Acoustical,,Pontiac,199,,running,0,134
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,11,21,37,usa,Larry_Raines,Larry Raines,Palmetto Trading / Broad Wheels,,Pontiac,199,,running,0,130
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,12,18,52,usa,Tammy_Jo_Kirk,Tammy Jo Kirk,McCord Gaskets / TKR,,Chevrolet,199,,running,0,127
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,13,20,28,usa,Billy_Bigley_Jr,"Billy Bigley, Jr.",Hawk Brake / Dr. Pepper / Amalie Oil,,Chevrolet,198,,running,0,124
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,14,5,16,usa,Hal_Goodson,Hal Goodson,Downtown Radio Service,,Ford,197,,running,0,121
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,15,19,58,usa,John_Kelly,John Kelly,Circle Bar Motel & RV,,Ford,197,,running,0,118
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,16,28,36,usa,David_Russell,David Russell,Horsen Around Farms,,Chevrolet,195,,running,0,115
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,17,31,69,usa,Sidney_Minton,Sidney Minton,John Groenke & Associates,,Buick,192,,running,0,112
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,18,17,84,usa,Donnie_Bishop,Donnie Bishop,Safeguard Safety Shoes,,Pontiac,190,,running,0,109
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,19,32,99,usa,Charlie_Stokes,Charlie Stokes,Stokes Gas,,Chevrolet,187,,running,0,106
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,20,27,19,usa,Scotty_Lovelady,Scotty Lovelady,Lovelady Racing,,Chevrolet,185,,running,0,103
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,21,1,74,usa,Jack_Sprague,Jack Sprague,Terminal Trucking,,Pontiac,181,,crash,86,100
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,22,26,55,usa,Hank_Jarman,Hank Jarman,Jarman's Tire & Auto,,Chevrolet,180,,running,0,97
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,23,23,71,usa,Bart_Ingram,Bart Ingram,Italiano's Subs & Pizza,,Chevrolet,179,,crash,0,94
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,24,30,2,usa,Brian_Butler,Brian Butler,Carolina Building Systems,,Chevrolet,153,,engine,0,91
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,25,13,32,usa,Randy_Porter,Randy Porter,BASF Automotive Finishes,,Chevrolet,130,,crash,0,88
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,26,8,30,usa,Clay_Brown,Clay Brown,Sport Shake / Sportsman Covers,,Chevrolet,125,,clutch,0,85
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,27,25,93,usa,Junior_Niedecken,Junior Niedecken,Oyster Bar / Ard Oil,,Chevrolet,125,,overheating,0,82
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,28,4,4,usa,Bobby_Gill,Bobby Gill,Vinyl Tech Progressive Glass,,Chevrolet,113,,engine,0,79
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,29,34,11,usa,Jerry_Williams,Jerry Williams,RC Cola / Chinners Construction,,Chevrolet,89,,rear end,0,76
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,30,15,78,usa,Gary_Bradberry,Gary Bradberry,Bradberry Racing,,Buick,51,,valve,0,73
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,31,29,5,usa,Toby_Porter,Toby Porter,Mac's Auto Glass / U.S. Speed Supply,,Pontiac,35,,rear end,0,70
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,32,33,07,usa,Eddie_Hanks,Eddie Hanks,E.S.R. Racing,,Buick,22,,overheating,0,67
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,33,22,25,usa,Mike_Cope,Mike Cope,Bowser Motorsports,,Buick,4,,oil pressure,0,64
+1991,SE,1991_NASCAR_Richmond_Twin_200s,1991_12_SE,34,24,51,usa,Randy_Gilbert,Randy Gilbert,Rite In Style / U.S. Speed Supply,,Pontiac,1,,crash,0,61
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,1,1,50,usa,Gary_Balough,Gary Balough,Cloer Motorsports,,Chevrolet,127,4450,running,127,180
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,2,3,84,usa,Donnie_Bishop,Donnie Bishop,Safeguard Safety Shoes,,Chevrolet,127,,running,0,170
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,3,4,57,usa,Jason_Keller,Jason Keller,Air Products / KEL Chemicals,,Buick,127,,running,0,165
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,4,8,7,usa,Mike_Garvey,Mike Garvey,Rite-Way Grinding,,Chevrolet,127,,running,0,160
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,5,2,79,usa,Steve_Holzhausen,Steve Holzhausen,Dondi Motorsports / Gross Trucking,,Chevrolet,127,,running,0,155
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,6,21,97,usa,Marty_Ward,Marty Ward,Ken's Quik Cash,,Chevrolet,127,,running,0,150
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,7,12,36,usa,David_Russell,David Russell,Horsen Around Farms,,Chevrolet,127,,running,0,146
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,8,18,25,usa,Mike_Cope,Mike Cope,Bowser Motorsports,,Buick,127,,running,0,142
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,9,10,21,usa,Sammy_Pegram,Sammy Pegram,Fast Track Communication / Valvoline,,Buick,127,,running,0,138
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,10,19,10,usa,Rodger_Gentry_Sr,"Rodger Gentry, Sr.",Gentry Racing,,Chevrolet,127,,running,0,134
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,11,13,78,usa,Gary_Bradberry,Gary Bradberry,Bradberry Racing,,Buick,127,,running,0,130
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,12,6,71,usa,Bart_Ingram,Bart Ingram,Italiano's Subs & Pizza,,Chevrolet,127,,running,0,127
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,13,23,22,usa,Doug_Noe,Doug Noe,Fresh Family Meats,,Buick,126,,running,0,124
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,14,20,99,usa,Charlie_Stokes,Charlie Stokes,Stokes Gas,,Chevrolet,126,,running,0,121
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,15,24,52,usa,Tammy_Jo_Kirk,Tammy Jo Kirk,McCord Gaskets / TKR,,Chevrolet,125,,running,0,118
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,16,16,80,usa,Lonnie_Pirkle,Lonnie Pirkle,Lance Wrecker,,Ford,124,,running,0,115
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,17,25,69,usa,Sidney_Minton,Sidney Minton,John Groenke & Associates,,Buick,124,,running,0,112
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,18,28,19,usa,Scotty_Lovelady,Scotty Lovelady,Lovelady Racing,,Chevrolet,122,,running,0,109
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,19,7,40,usa,Ron_Young,Ron Young,Young Racing,,Chevrolet,116,,running,0,106
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,20,15,1,usa,Billy_Bigley_Jr,"Billy Bigley, Jr.",Italiano's Subs & Pizza,,Chevrolet,84,,ignition,0,103
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,21,14,5,usa,Toby_Porter,Toby Porter,Mac's Auto Glass / U.S. Speed Supply,,Pontiac,56,,overheating,0,100
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,22,5,98,usa,Jody_Ridley,Jody Ridley,Fel-Pro / Right Way Transportation,,Ford,37,1160,valve,0,97
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,23,26,48,usa,Joe_Frasson,Joe Frasson,"Bear, Inc. / Southern Insurance",,Chevrolet,33,,engine,0,94
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,24,27,42,usa,Jack_Vanesse,Jack Vanesse,Dick Brooks Chevrolet,,Pontiac,32,,ignition,0,91
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,25,22,75,usa,Robby_Johnson,Robby Johnson,Johnson Racing,,Chevrolet,25,,oil cooler,0,88
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,26,9,18,usa,Mike_Miller,Mike Miller,Lawrence Acoustical,,Pontiac,1,,crash,0,85
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,27,17,11,usa,Dave_Smith_(1),Dave Smith,Eagle Transport,,Chevrolet,1,,crash,0,82
+1991,SE,1991_Coca-Cola_200_%28August%29,1991_13_SE,28,11,58,usa,John_Kelly,John Kelly,Circle Bar Motel & RV,,Ford,1,,crash,0,79
+1991,SE,1991_Post_And_Courier_150,1991_14_SE,1,3,57,usa,Jason_Keller,Jason Keller,Air Products / KEL Chemicals,,Buick,150,,running,26,180
+1991,SE,1991_Post_And_Courier_150,1991_14_SE,2,5,31,usa,Lee_Faulk,Lee Faulk,Race Cars & Engines,,Chevrolet,150,,running,0,170
+1991,SE,1991_Post_And_Courier_150,1991_14_SE,3,6,21,usa,Sammy_Pegram,Sammy Pegram,Fast Track Communication / Valvoline,,Buick,150,,running,0,165
+1991,SE,1991_Post_And_Courier_150,1991_14_SE,4,4,98,usa,Jody_Ridley,Jody Ridley,Fel-Pro / Right Way Transportation,,Ford,150,1900,running,53,160
+1991,SE,1991_Post_And_Courier_150,1991_14_SE,5,7,2,usa,Robert_Powell,Robert Powell,Coca-Cola / Wildwood Landscape,,Chevrolet,150,,running,0,155
+1991,SE,1991_Post_And_Courier_150,1991_14_SE,6,15,78,usa,Gary_Bradberry,Gary Bradberry,Bradberry Racing,,Buick,150,,running,0,150
+1991,SE,1991_Post_And_Courier_150,1991_14_SE,7,16,71,usa,Bart_Ingram,Bart Ingram,Italiano's Subs & Pizza,,Chevrolet,149,,running,0,146
+1991,SE,1991_Post_And_Courier_150,1991_14_SE,8,10,18,usa,Mike_Miller,Mike Miller,Lawrence Acoustical,,Pontiac,149,,running,0,142
+1991,SE,1991_Post_And_Courier_150,1991_14_SE,9,23,36,usa,David_Russell,David Russell,Horsen Around Farms,,Chevrolet,148,,running,0,138
+1991,SE,1991_Post_And_Courier_150,1991_14_SE,10,14,52,usa,Tammy_Jo_Kirk,Tammy Jo Kirk,McCord Gaskets / TKR,,Chevrolet,148,,running,0,134
+1991,SE,1991_Post_And_Courier_150,1991_14_SE,11,20,69,usa,Sidney_Minton,Sidney Minton,John Groenke & Associates,,Buick,147,,running,0,130
+1991,SE,1991_Post_And_Courier_150,1991_14_SE,12,22,19,usa,Scotty_Lovelady,Scotty Lovelady,Lovelady Racing,,Chevrolet,145,,running,0,127
+1991,SE,1991_Post_And_Courier_150,1991_14_SE,13,2,79,usa,Steve_Holzhausen,Steve Holzhausen,Dondi Motorsports / Gross Trucking,,Chevrolet,131,,running,10,124
+1991,SE,1991_Post_And_Courier_150,1991_14_SE,14,19,58,usa,John_Kelly,John Kelly,Circle Bar Motel & RV,,Ford,115,,engine,0,121
+1991,SE,1991_Post_And_Courier_150,1991_14_SE,15,13,28,usa,Billy_Bigley_Jr,"Billy Bigley, Jr.",Hawk Brake / Dr. Pepper / Amalie Oil,,Chevrolet,84,,overheating,0,118
+1991,SE,1991_Post_And_Courier_150,1991_14_SE,16,1,32,usa,Randy_Porter,Randy Porter,Porter Racing / Goodyear,,Chevrolet,72,,sump belt,61,115
+1991,SE,1991_Post_And_Courier_150,1991_14_SE,17,17,99,usa,Charlie_Stokes,Charlie Stokes,Stokes Gas,,Chevrolet,52,,clutch,0,112
+1991,SE,1991_Post_And_Courier_150,1991_14_SE,18,18,62,usa,Ricky_Sanders,Ricky Sanders,Wilson Welding,,Pontiac,45,,hub,0,109
+1991,SE,1991_Post_And_Courier_150,1991_14_SE,19,11,7,usa,Mike_Garvey,Mike Garvey,Rite-Way Grinding,,Chevrolet,38,,rear end,0,106
+1991,SE,1991_Post_And_Courier_150,1991_14_SE,20,12,25,usa,Mike_Cope,Mike Cope,Bowser Motorsports,,Buick,38,,crash,0,103
+1991,SE,1991_Post_And_Courier_150,1991_14_SE,21,9,40,usa,Ron_Young,Ron Young,Young Racing,,Chevrolet,38,,crash,0,100
+1991,SE,1991_Post_And_Courier_150,1991_14_SE,22,21,05,usa,Rodney_Combs_Jr,"Rodney Combs, Jr.",Firehouse Lounge / Always Ready,,Chevrolet,33,,overheating,0,97
+1991,SE,1991_Post_And_Courier_150,1991_14_SE,23,8,11,usa,Jerry_Williams,Jerry Williams,RC Cola / Chinners Construction,,Chevrolet,27,,driveshaft,0,94
+1991,SE,1991_BASF_200,1991_15_SE,1,2,84,usa,Donnie_Bishop,Donnie Bishop,Safeguard Safety Shoes,,Chevrolet,200,4150,running,95,180
+1991,SE,1991_BASF_200,1991_15_SE,2,5,18,usa,Dave_Mader_III,Dave Mader III,Race Engine Design / Turbo Blue,,Pontiac,200,,running,16,170
+1991,SE,1991_BASF_200,1991_15_SE,3,7,79,usa,Steve_Holzhausen,Steve Holzhausen,Dondi Motorsports / Gross Trucking,,Chevrolet,200,,running,0,165
+1991,SE,1991_BASF_200,1991_15_SE,4,6,50,usa,Gary_Balough,Gary Balough,Cloer Motorsports,,Chevrolet,200,,running,0,160
+1991,SE,1991_BASF_200,1991_15_SE,5,16,78,usa,Gary_Bradberry,Gary Bradberry,Bradberry Racing,,Buick,200,,running,0,155
+1991,SE,1991_BASF_200,1991_15_SE,6,13,7,usa,Mike_Garvey,Mike Garvey,Rite-Way Grinding,,Chevrolet,200,,running,0,150
+1991,SE,1991_BASF_200,1991_15_SE,7,18,40,usa,Ron_Young,Ron Young,Young Racing,,Chevrolet,199,,running,0,146
+1991,SE,1991_BASF_200,1991_15_SE,8,26,98,usa,Jody_Ridley,Jody Ridley,Fel-Pro / Right Way Transportation,,Ford,199,1450,running,0,142
+1991,SE,1991_BASF_200,1991_15_SE,9,14,3,usa,Smiley_Rich,Smiley Rich,Michael Motorsports,,Chevrolet,198,,running,0,138
+1991,SE,1991_BASF_200,1991_15_SE,10,21,28,usa,Billy_Bigley_Jr,"Billy Bigley, Jr.",Hawk Brake / Dr. Pepper / Amalie Oil,,Chevrolet,198,,running,0,134
+1991,SE,1991_BASF_200,1991_15_SE,11,25,99,usa,Charlie_Stokes,Charlie Stokes,Stokes Gas,,Chevrolet,198,,running,0,130
+1991,SE,1991_BASF_200,1991_15_SE,12,17,13,usa,Jerry_McCart,Jerry McCart,Dixie Vans / Dry Storage,,Chevrolet,197,,running,0,127
+1991,SE,1991_BASF_200,1991_15_SE,13,23,55,usa,Hank_Jarman,Hank Jarman,Jarman's Tire & Auto,,Chevrolet,196,,running,0,124
+1991,SE,1991_BASF_200,1991_15_SE,14,19,27,usa,James_Trammell,James Trammell,Northwest Drywall,,Chevrolet,196,,running,0,121
+1991,SE,1991_BASF_200,1991_15_SE,15,3,11,usa,Dave_Smith_(1),Dave Smith,Eagle Transport,,Chevrolet,195,,running,0,118
+1991,SE,1991_BASF_200,1991_15_SE,16,24,25,usa,Mike_Cope,Mike Cope,Bowser Motorsports,,Buick,194,,running,0,115
+1991,SE,1991_BASF_200,1991_15_SE,17,28,36,usa,David_Russell,David Russell,Horsen Around Farms,,Chevrolet,194,,running,0,112
+1991,SE,1991_BASF_200,1991_15_SE,18,29,8,usa,Mike_Miller,Mike Miller,Lawrence Acoustical,,Pontiac,193,,running,0,109
+1991,SE,1991_BASF_200,1991_15_SE,19,27,69,usa,Sidney_Minton,Sidney Minton,John Groenke & Associates,,Buick,193,,running,0,106
+1991,SE,1991_BASF_200,1991_15_SE,20,11,57,usa,Jason_Keller,Jason Keller,Air Products / KEL Chemicals,,Buick,170,,running,0,103
+1991,SE,1991_BASF_200,1991_15_SE,21,1,2,usa,Randy_Porter,Randy Porter,Race Engines / Goodyear,,Chevrolet,169,,crash,89,100
+1991,SE,1991_BASF_200,1991_15_SE,22,22,52,usa,Tammy_Jo_Kirk,Tammy Jo Kirk,McCord Gaskets / TKR,,Chevrolet,160,,distributor,0,97
+1991,SE,1991_BASF_200,1991_15_SE,23,15,21,usa,Sammy_Pegram,Sammy Pegram,Fast Track Communication / Valvoline,,Buick,140,,vibration,0,94
+1991,SE,1991_BASF_200,1991_15_SE,24,4,71,usa,Bart_Ingram,Bart Ingram,Italiano's Subs & Pizza,,Chevrolet,136,,rear yoke,0,91
+1991,SE,1991_BASF_200,1991_15_SE,25,10,5,usa,Toby_Porter,Toby Porter,Mac's Auto Glass / U.S. Speed Supply,,Pontiac,134,,engine,0,88
+1991,SE,1991_BASF_200,1991_15_SE,26,30,58,usa,John_Kelly,John Kelly,Circle Bar Motel & RV,,Ford,131,,valve,0,85
+1991,SE,1991_BASF_200,1991_15_SE,27,9,32,usa,Stanley_Smith,Stanley Smith,BASF Automotive Finishes,,Chevrolet,120,,handling,0,82
+1991,SE,1991_BASF_200,1991_15_SE,28,8,0,usa,Wayne_Willard,Wayne Willard,Automatic Curb / Southern Power,,Chevrolet,105,,brakes,0,79
+1991,SE,1991_BASF_200,1991_15_SE,29,20,22,usa,Tommy_Grimes,Tommy Grimes,Grimes & Son Automotive,,Pontiac,37,,brakes,0,76
+1991,SE,1991_BASF_200,1991_15_SE,30,12,62,usa,Ricky_Sanders,Ricky Sanders,Wilson Welding,,Pontiac,1,,crash,0,73
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,1,1,98,usa,Jody_Ridley,Jody Ridley,Fel-Pro / Right Way Transportation,,Ford,252,11850,running,69,180
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,2,9,75,usa,Larry_Phillips,Larry Phillips,Wolfe Enterprises / Davis Fence Co.,,Chevrolet,252,,running,32,170
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,3,3,4,usa,Bobby_Gill,Bobby Gill,Vinyl Tech / Progressive Glass,,Chevrolet,252,,running,15,165
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,4,6,7,usa,Mike_Garvey,Mike Garvey,Rite Way Grinding Metal Center,,Chevrolet,252,,running,83,160
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,5,4,78,usa,Gary_Bradberry,Gary Bradberry,Bradberry Racing,,Buick,252,,running,1,155
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,6,5,79,usa,Steve_Holzhausen,Steve Holzhausen,–,,Chevrolet,252,,running,0,150
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,7,11,17,usa,Rick_Beebe,Rick Beebe,–,,Chevrolet,251,,running,0,146
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,8,10,28,usa,Billy_Bigley_Jr,"Billy Bigley, Jr.",–,,Chevrolet,251,,running,0,142
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,9,25,80,usa,Tim_Porter,Tim Porter,–,,Chevrolet,249,,running,0,138
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,10,16,36,usa,David_Russell,David Russell,–,,Chevrolet,248,,running,0,134
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,11,15,12,usa,Terry_Ford,Terry Ford,–,,Chevrolet,246,,running,0,130
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,12,20,10,usa,Tony_Roper,Tony Roper,–,,Chevrolet,244,,running,0,127
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,13,14,25,usa,Keith_White,Keith White,–,,Chevrolet,240,,running,0,124
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,14,33,69,usa,Sidney_Minton,Sidney Minton,–,,Buick,235,,running,0,121
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,15,27,19,usa,Scotty_Lovelady,Scotty Lovelady,–,,Chevrolet,232,,running,0,118
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,16,18,15,usa,John_ONeal_Jr,"John O'Neal, Jr.",–,,Chevrolet,231,,running,0,115
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,17,32,48,usa,Jay_Truelove,Jay Truelove,–,,Chevrolet,226,,running,0,112
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,18,34,90,usa,Ron_Cornish,Ron Cornish,–,,Chevrolet,226,,running,0,109
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,19,17,71,usa,Bart_Ingram,Bart Ingram,John Dashler,,Chevrolet,218,,running,0,106
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,20,28,88,usa,Steve_Vest,Steve Vest,–,,Chevrolet,211,,running,0,103
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,21,31,96,usa,Frog_Hall,Frog Hall,–,,Chevrolet,208,,running,0,100
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,22,2,87,usa,Bryan_Reffner,Bryan Reffner,–,,Chevrolet,206,,rear bearing,52,97
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,23,23,30,usa,Scott_Bass,Scott Bass,–,,Chevrolet,194,,rear end,0,94
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,24,8,57,usa,Jason_Keller,Jason Keller,–,,Buick,170,,running,0,91
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,25,26,18,usa,Aaron_Daniel,Aaron Daniel,–,,Pontiac,139,,rear end,0,88
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,26,24,99,usa,Charlie_Stokes,Charlie Stokes,–,,Chevrolet,107,,engine,0,85
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,27,22,52,usa,Tammy_Jo_Kirk,Tammy Jo Kirk,–,,Chevrolet,83,,overheating,0,82
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,28,13,68,usa,Billy_Deckman,Billy Deckman,–,,Ford,81,,handling,0,79
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,29,30,07,usa,Eddie_Hanks,Eddie Hanks,–,,Buick,66,,crash,0,76
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,30,35,2,usa,Danny_Tuttle,Danny Tuttle,–,,Pontiac,65,,overheating,0,73
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,31,21,22,usa,Tommy_Grimes,Tommy Grimes,–,,Chevrolet,48,,engine,0,70
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,32,7,1,usa,A_J_Cooper,A.J. Cooper,–,,Oldsmobile,37,,crash,0,67
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,33,19,24,usa,Phil_Cline,Phil Cline,–,,Chevrolet,35,,crash,0,64
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,34,29,6,usa,Marshall_Jewett,Marshall Jewett,–,,Pontiac,35,,engine,0,61
+1991,SE,1991_Winston_World_Cup_400,1991_16_SE,35,12,58,usa,John_Kelly,John Kelly,–,,Ford,21,,engine,0,58
+1991,SE,1991_All_American_400,1991_17_SE,1,3,51,usa,Jeff_Purvis,Jeff Purvis,Phoenix Construction,,Chevrolet,400,,running,45,180
+1991,SE,1991_All_American_400,1991_17_SE,2,6,72,canada,Junior_Hanley,Junior Hanley,Molson X / Quaker State,,Ford,400,,running,81,170
+1991,SE,1991_All_American_400,1991_17_SE,3,11,17,usa,Darrell_Waltrip,Darrell Waltrip,Western Auto / AC Delco / Exxon,,Chevrolet,400,,running,0,165
+1991,SE,1991_All_American_400,1991_17_SE,4,10,98,usa,Jody_Ridley,Jody Ridley,Fel-Pro / Right Way / Mapco Express,,Ford,400,6025,running,12,160
+1991,SE,1991_All_American_400,1991_17_SE,5,28,57,usa,Jason_Keller,Jason Keller,Air Products / KEL Chemicals,,Chevrolet,399,,running,0,155
+1991,SE,1991_All_American_400,1991_17_SE,6,4,84,usa,Bill_Elliott,Bill Elliott,Coors Light / Melling,,Ford,398,,running,0,150
+1991,SE,1991_All_American_400,1991_17_SE,7,25,8,usa,Dorris_Vaughan,Dorris Vaughan,Lynch Racing,,Chevrolet,396,,running,0,146
+1991,SE,1991_All_American_400,1991_17_SE,8,18,14,usa,Rick_Crawford,Rick Crawford,Holliday Racing / Big-10 Tires,,Chevrolet,395,,running,0,142
+1991,SE,1991_All_American_400,1991_17_SE,9,13,32,usa,Randy_Porter,Randy Porter,Race Cars & Engines,,Chevrolet,394,,running,0,138
+1991,SE,1991_All_American_400,1991_17_SE,10,5,74,usa,Dave_Mader_III,Dave Mader III,Terminal Trucking,,Chevrolet,394,,running,28,134
+1991,SE,1991_All_American_400,1991_17_SE,11,32,71,usa,Bart_Ingram,Bart Ingram,Dashler Racing,,Chevrolet,394,,running,0,130
+1991,SE,1991_All_American_400,1991_17_SE,12,8,90,usa,Mike_Alexander,Mike Alexander,Bobby Ray Jones / Turbo Blue,,Chevrolet,392,,running,0,127
+1991,SE,1991_All_American_400,1991_17_SE,13,39,19,usa,Scotty_Lovelady,Scotty Lovelady,Lovelady Racing,,Chevrolet,390,,running,0,124
+1991,SE,1991_All_American_400,1991_17_SE,14,34,99,usa,Charlie_Stokes,Charlie Stokes,Stokes Gas,,Buick,387,,running,0,121
+1991,SE,1991_All_American_400,1991_17_SE,15,14,85,usa,Tim_Steele,Tim Steele,Texana Grill / HS Die,,Chevrolet,384,,crash,12,118
+1991,SE,1991_All_American_400,1991_17_SE,16,23,78,usa,Gary_Bradberry,Gary Bradberry,Bradberry Racing,,Buick,384,,crash,0,115
+1991,SE,1991_All_American_400,1991_17_SE,17,1,81,usa,Bob_Senneker,Bob Senneker,Rickart Ford / Kinetic Engines,,Ford,384,,crash,149,112
+1991,SE,1991_All_American_400,1991_17_SE,18,7,91,usa,Dick_Trickle,Dick Trickle,Trickle Motorsports,,Chevrolet,384,,running,0,109
+1991,SE,1991_All_American_400,1991_17_SE,19,30,88,usa,Donnie_Bishop,Donnie Bishop,Safeguard Safety Shoes,,Chevrolet,366,,running,0,106
+1991,SE,1991_All_American_400,1991_17_SE,20,33,36,usa,David_Russell,David Russell,Horsen Around Farms,,Chevrolet,366,,running,0,103
+1991,SE,1991_All_American_400,1991_17_SE,21,15,7,usa,Mike_Garvey,Mike Garvey,Rite-Way Grinding,,Chevrolet,340,,running,0,100
+1991,SE,1991_All_American_400,1991_17_SE,22,34,40,usa,Ron_Young,Ron Young,Young Racing,,Chevrolet,304,,ignition,0,97
+1991,SE,1991_All_American_400,1991_17_SE,23,17,79,usa,Steve_Holzhausen,Steve Holzhausen,Dondi Motorsports / Gross Trucking,,Chevrolet,291,,crash,0,94
+1991,SE,1991_All_American_400,1991_17_SE,24,37,58,usa,John_Kelly,John Kelly,Circle Bar Motel & RV,,Ford,280,,crash,0,91
+1991,SE,1991_All_American_400,1991_17_SE,25,26,28,usa,Billy_Bigley_Jr,"Billy Bigley, Jr.",Hawk Brake / Dr. Pepper / Amalie Oil,,Chevrolet,244,,running,0,88
+1991,SE,1991_All_American_400,1991_17_SE,26,19,45,usa,Rich_Bickle,Rich Bickle,Terminal Trucking,,Chevrolet,238,,camshaft,0,85
+1991,SE,1991_All_American_400,1991_17_SE,27,22,15,usa,Mark_Day,Mark Day,31-W Insulation,,Chevrolet,216,,engine,0,82
+1991,SE,1991_All_American_400,1991_17_SE,28,16,76,usa,Jeff_Green,Jeff Green,31-W Insulation,,Chevrolet,209,,valve,0,79
+1991,SE,1991_All_American_400,1991_17_SE,29,36,52,usa,Tammy_Jo_Kirk,Tammy Jo Kirk,McCord Gaskets / TKR,,Chevrolet,179,,engine,0,76
+1991,SE,1991_All_American_400,1991_17_SE,30,2,4,usa,Bobby_Gill,Bobby Gill,Vinyl Tech Progressive Glass,,Chevrolet,116,,engine,73,73
+1991,SE,1991_All_American_400,1991_17_SE,31,21,31,usa,Lee_Faulk,Lee Faulk,Race Engines / Bob Clark,,Chevrolet,112,,rear end,0,70
+1991,SE,1991_All_American_400,1991_17_SE,32,40,93,usa,Chad_Chaffin,Chad Chaffin,N&S Foreign Car Parts,,Chevrolet,109,,crash,0,67
+1991,SE,1991_All_American_400,1991_17_SE,33,31,69,usa,Sidney_Minton,Sidney Minton,John Groenke & Associates,,Buick,102,,transmission,0,64
+1991,SE,1991_All_American_400,1991_17_SE,34,12,53,usa,Scott_Hansen,Scott Hansen,Structural Transport,,Ford,86,,valve,0,61
+1991,SE,1991_All_American_400,1991_17_SE,35,29,2,usa,Mark_Green,Mark Green,David Green Racing,,Chevrolet,39,,valve,0,58
+1991,SE,1991_All_American_400,1991_17_SE,36,20,16,usa,Hal_Goodson,Hal Goodson,Downtown Radio Service,,Ford,36,,crash,0,55
+1991,SE,1991_All_American_400,1991_17_SE,37,38,21,usa,Sammy_Pegram,Sammy Pegram,Fast Track Communication / Valvoline,,Buick,27,,handling,0,52
+1991,SE,1991_All_American_400,1991_17_SE,38,24,30,usa,Clay_Brown,Clay Brown,Sport Shake / Sportsman Covers,,Chevrolet,8,,crash,0,49
+1991,SE,1991_All_American_400,1991_17_SE,39,9,9,usa,Bobby_Hamilton,Bobby Hamilton,Turbo Blue / Red Line Oil,,Chevrolet,8,,crash,0,46
+1991,SE,1991_All_American_400,1991_17_SE,40,27,87,usa,Bryan_Reffner,Bryan Reffner,Buckingham Trucking / Nobbytown,,Chevrolet,8,,crash,0,43
+1991,SE,1991_Coors_Gulf_Coast_Classic_200,1991_18_SE,1,1,57,usa,Jason_Keller,Jason Keller,Air Products / KEL Chemicals,,Buick,204,,running,204,180
+1991,SE,1991_Coors_Gulf_Coast_Classic_200,1991_18_SE,2,6,25,usa,Mike_Cope,Mike Cope,Bowser Motorsports,,Buick,204,,running,0,170
+1991,SE,1991_Coors_Gulf_Coast_Classic_200,1991_18_SE,3,16,79,usa,Steve_Holzhausen,Steve Holzhausen,Dondi Motorsports / Gross Trucking,,Chevrolet,204,,running,0,165
+1991,SE,1991_Coors_Gulf_Coast_Classic_200,1991_18_SE,4,9,78,usa,Gary_Bradberry,Gary Bradberry,Bradberry Racing,,Buick,204,,running,0,160
+1991,SE,1991_Coors_Gulf_Coast_Classic_200,1991_18_SE,5,4,7,usa,Mike_Garvey,Mike Garvey,Rite-Way Grinding,,Chevrolet,203,,running,0,155
+1991,SE,1991_Coors_Gulf_Coast_Classic_200,1991_18_SE,6,8,50,usa,Scott_Sutherland,Scott Sutherland,Till Office Supply,,Chevrolet,202,,running,0,150
+1991,SE,1991_Coors_Gulf_Coast_Classic_200,1991_18_SE,7,12,98,usa,Jody_Ridley,Jody Ridley,Fel-Pro / Right Way Transportation,,Ford,201,1950,running,0,146
+1991,SE,1991_Coors_Gulf_Coast_Classic_200,1991_18_SE,8,17,4,usa,Ron_Young,Ron Young,Young Racing,,Chevrolet,201,,running,0,142
+1991,SE,1991_Coors_Gulf_Coast_Classic_200,1991_18_SE,9,15,5,usa,Mike_Reichenberger,Mike Reichenberger,OMRO Auto Sales / B&BB Engines,,Chevrolet,201,,running,0,138
+1991,SE,1991_Coors_Gulf_Coast_Classic_200,1991_18_SE,10,11,58,usa,John_Kelly,John Kelly,Circle Bar Motel & RV,,Ford,200,,running,0,134
+1991,SE,1991_Coors_Gulf_Coast_Classic_200,1991_18_SE,11,7,99,usa,Charlie_Stokes,Charlie Stokes,Stokes Gas,,Chevrolet,198,,running,0,130
+1991,SE,1991_Coors_Gulf_Coast_Classic_200,1991_18_SE,12,13,28,usa,Billy_Bigley_Jr,"Billy Bigley, Jr.",Hawk Brake / Dr. Pepper / Amalie Oil,,Chevrolet,191,,running,0,127
+1991,SE,1991_Coors_Gulf_Coast_Classic_200,1991_18_SE,13,20,19,usa,Scotty_Lovelady,Scotty Lovelady,Lovelady Racing,,Chevrolet,189,,running,0,124
+1991,SE,1991_Coors_Gulf_Coast_Classic_200,1991_18_SE,14,10,49,usa,Gregg_Sanford,Gregg Sanford,Mallet Racing,,Chevrolet,189,,running,0,121
+1991,SE,1991_Coors_Gulf_Coast_Classic_200,1991_18_SE,15,19,18,usa,Bart_Ingram,Bart Ingram,U.S. Speed Supply / Wegner Engines,,Pontiac,187,,running,0,118
+1991,SE,1991_Coors_Gulf_Coast_Classic_200,1991_18_SE,16,18,36,usa,David_Russell,David Russell,Horsen Around Farms,,Chevrolet,160,,running,0,115
+1991,SE,1991_Coors_Gulf_Coast_Classic_200,1991_18_SE,17,3,64,usa,Michael_Dokken,Michael Dokken,Molly Goodhead's / Pick-N-Pull,,Chevrolet,134,,oil pump,0,112
+1991,SE,1991_Coors_Gulf_Coast_Classic_200,1991_18_SE,18,2,32,usa,Randy_Porter,Randy Porter,Race Engines / Goodyear,,Chevrolet,79,,brakes,0,109
+1991,SE,1991_Coors_Gulf_Coast_Classic_200,1991_18_SE,19,5,68,usa,Jimmy_Cope,Jimmy Cope,Inter-Bay Marine,,Chevrolet,28,,engine,0,106
+1991,SE,1991_Coors_Gulf_Coast_Classic_200,1991_18_SE,20,14,69,usa,Sidney_Minton,Sidney Minton,John Groenke & Associates,,Buick,15,,engine,0,103
+1991,SE,1991_Winston_200_%28November%29,1991_19_SE,1,4,79,usa,Steve_Holzhausen,Steve Holzhausen,Dondi Motorsports / Gross Trucking,,Chevrolet,200,3700,running,65,180
+1991,SE,1991_Winston_200_%28November%29,1991_19_SE,2,3,7,usa,Mike_Garvey,Mike Garvey,Rite-Way Grinding,,Chevrolet,200,,running,96,170
+1991,SE,1991_Winston_200_%28November%29,1991_19_SE,3,9,78,usa,Gary_Bradberry,Gary Bradberry,Bradberry Racing,,Buick,200,,running,0,165
+1991,SE,1991_Winston_200_%28November%29,1991_19_SE,4,7,57,usa,Jason_Keller,Jason Keller,Air Products / KEL Chemicals,,Buick,200,,running,0,160
+1991,SE,1991_Winston_200_%28November%29,1991_19_SE,5,11,28,usa,Billy_Bigley_Jr,"Billy Bigley, Jr.",Hawk Brake / Dr. Pepper / Amalie Oil,,Chevrolet,200,,running,0,155
+1991,SE,1991_Winston_200_%28November%29,1991_19_SE,6,16,6,usa,Jimmy_Cope,Jimmy Cope,Horsen Around Farms,,Chevrolet,200,,running,0,150
+1991,SE,1991_Winston_200_%28November%29,1991_19_SE,7,2,32,usa,Randy_Porter,Randy Porter,Race Engines / Goodyear,,Chevrolet,200,,running,6,146
+1991,SE,1991_Winston_200_%28November%29,1991_19_SE,8,12,98,usa,Jody_Ridley,Jody Ridley,Fel-Pro / Right Way Transportation,,Ford,200,1800,running,0,142
+1991,SE,1991_Winston_200_%28November%29,1991_19_SE,9,13,40,usa,Ron_Young,Ron Young,Young Racing,,Chevrolet,199,,running,0,138
+1991,SE,1991_Winston_200_%28November%29,1991_19_SE,10,8,36,usa,David_Russell,David Russell,Horsen Around Farms,,Chevrolet,199,,running,0,134
+1991,SE,1991_Winston_200_%28November%29,1991_19_SE,11,14,15,usa,Mike_Reichenberger,Mike Reichenberger,OMRO Auto Sales / B&BB Engines,,Chevrolet,197,,running,0,130
+1991,SE,1991_Winston_200_%28November%29,1991_19_SE,12,17,99,usa,Charlie_Stokes,Charlie Stokes,Stokes Gas,,Chevrolet,197,,running,0,127
+1991,SE,1991_Winston_200_%28November%29,1991_19_SE,13,20,69,usa,Sidney_Minton,Sidney Minton,John Groenke & Associates,,Buick,196,,running,0,124
+1991,SE,1991_Winston_200_%28November%29,1991_19_SE,14,15,58,usa,John_Kelly,John Kelly,Circle Bar Motel & RV,,Ford,195,,running,0,121
+1991,SE,1991_Winston_200_%28November%29,1991_19_SE,15,22,18,usa,Bart_Ingram,Bart Ingram,U.S. Speed Supply / Wegner Engines,,Pontiac,189,,running,0,118
+1991,SE,1991_Winston_200_%28November%29,1991_19_SE,16,10,50,usa,Scott_Sutherland,Scott Sutherland,Till Office Supply,,Chevrolet,185,,flat tire,0,115
+1991,SE,1991_Winston_200_%28November%29,1991_19_SE,17,23,19,usa,Scotty_Lovelady,Scotty Lovelady,Lovelady Racing,,Chevrolet,137,,engine,0,112
+1991,SE,1991_Winston_200_%28November%29,1991_19_SE,18,19,39,usa,Mike_Hovis,Mike Hovis,Polaroid,,Chevrolet,136,,running,0,109
+1991,SE,1991_Winston_200_%28November%29,1991_19_SE,19,1,5,usa,Daniel_Keene,Daniel Keene,Keene Racing / Boyd Engines,,Chevrolet,122,,overheating,35,106
+1991,SE,1991_Winston_200_%28November%29,1991_19_SE,20,6,14,usa,Duane_Burrows,Duane Burrows,Duane Burrows Trucking,,Buick,122,,drive belt,0,103
+1991,SE,1991_Winston_200_%28November%29,1991_19_SE,21,5,64,usa,Michael_Dokken,Michael Dokken,Molly Goodhead's / Pick-N-Pull,,Chevrolet,100,,ignition,0,100
+1991,SE,1991_Winston_200_%28November%29,1991_19_SE,22,18,25,usa,Mike_Cope,Mike Cope,Bowser Motorsports,,Buick,65,,valve,0,97
+1991,SE,1991_Winston_200_%28November%29,1991_19_SE,23,21,49,usa,Gregg_Sanford,Gregg Sanford,Mallet Racing,,Chevrolet,65,,engine,0,94
+1991,SE,1991_Snowball_Derby,1991_20_SE,1,9,5,usa,Rich_Bickle,Rich Bickle,Terminal Trucking,,Chevrolet,324,,running,89,180
+1991,SE,1991_Snowball_Derby,1991_20_SE,2,4,51,usa,Jeff_Purvis,Jeff Purvis,Phoenix Construction,,Chevrolet,324,,running,194,170
+1991,SE,1991_Snowball_Derby,1991_20_SE,3,29,57,usa,Jason_Keller,Jason Keller,Air Products / KEL Chemicals,,Buick,324,,running,0,165
+1991,SE,1991_Snowball_Derby,1991_20_SE,4,7,84,usa,Bob_Senneker,Bob Senneker,Kinetic Engines,,Ford,324,,running,0,160
+1991,SE,1991_Snowball_Derby,1991_20_SE,5,32,53,usa,Scott_Hansen,Scott Hansen,Structural Transport,,Ford,324,,running,16,155
+1991,SE,1991_Snowball_Derby,1991_20_SE,6,28,6,usa,Rick_Carelli,Rick Carelli,Chesrown Chevrolet / Castrol / Fischer,,Chevrolet,324,,running,14,150
+1991,SE,1991_Snowball_Derby,1991_20_SE,7,24,98,usa,Jody_Ridley,Jody Ridley,Fel-Pro / Right Way Transportation,,Ford,324,1900,running,0,146
+1991,SE,1991_Snowball_Derby,1991_20_SE,8,10,32,usa,Randy_Porter,Randy Porter,Race Engines / Goodyear / Bilstein Shocks,,Chevrolet,323,,running,0,142
+1991,SE,1991_Snowball_Derby,1991_20_SE,9,2,82,usa,Butch_Miller,Butch Miller,Porter Racing / Goodyear,,Chevrolet,323,,running,4,138
+1991,SE,1991_Snowball_Derby,1991_20_SE,10,15,74,usa,Jamie_Prell,Jamie Prell,"Prell Auto Air, Paint & Body",,Chevrolet,323,,running,0,134
+1991,SE,1991_Snowball_Derby,1991_20_SE,11,22,79,usa,Steve_Holzhausen,Steve Holzhausen,Dondi Motorsports / Gross Trucking,,Chevrolet,323,,running,0,130
+1991,SE,1991_Snowball_Derby,1991_20_SE,12,11,18,usa,Dave_Mader_III,Dave Mader III,Terminal Trucking,,Chevrolet,322,,running,0,127
+1991,SE,1991_Snowball_Derby,1991_20_SE,13,8,2,usa,Jerry_Goodwin,Jerry Goodwin,RPM Motorsports,,Pontiac,322,,running,0,124
+1991,SE,1991_Snowball_Derby,1991_20_SE,14,30,93,usa,Junior_Niedecken,Junior Niedecken,Oyster Bar / Ard Oil,,Chevrolet,322,,running,0,121
+1991,SE,1991_Snowball_Derby,1991_20_SE,15,17,36,usa,David_Russell,David Russell,Horsen Around Farms,,Chevrolet,322,,running,0,118
+1991,SE,1991_Snowball_Derby,1991_20_SE,16,37,64,usa,Michael_Dokken,Michael Dokken,Molly Goodhead's Seafood,,Chevrolet,319,,running,0,115
+1991,SE,1991_Snowball_Derby,1991_20_SE,17,1,15,usa,Clay_Brown,Clay Brown,Popie's Hot Sauce / Rubber & Specialities,,Chevrolet,319,,running,9,112
+1991,SE,1991_Snowball_Derby,1991_20_SE,18,3,72,usa,Eddie_Mercer,Eddie Mercer,Fast Eddie's / Phoenix Construction,,Chevrolet,319,,running,0,109
+1991,SE,1991_Snowball_Derby,1991_20_SE,19,12,10,usa,Mike_Miller,Mike Miller,Lawrence Acoustical,,Pontiac,316,,running,0,106
+1991,SE,1991_Snowball_Derby,1991_20_SE,20,34,45,usa,Bart_Ingram,Bart Ingram,Terminal Trucking,,Chevrolet,315,,running,0,103
+1991,SE,1991_Snowball_Derby,1991_20_SE,21,35,69,usa,Sidney_Minton,Sidney Minton,Sport Shake / Sportsman Covers,,Chevrolet,303,,running,0,100
+1991,SE,1991_Snowball_Derby,1991_20_SE,22,21,16,usa,Hal_Goodson,Hal Goodson,Downtown Radio Service,,Ford,301,,running,0,97
+1991,SE,1991_Snowball_Derby,1991_20_SE,23,31,52,usa,Tammy_Jo_Kirk,Tammy Jo Kirk,Southern Trailer Leasing,,Chevrolet,290,,running,0,94
+1991,SE,1991_Snowball_Derby,1991_20_SE,24,18,40,usa,Ron_Young,Ron Young,Wegner Automotive / Amoco,,Chevrolet,264,,ignition,0,91
+1991,SE,1991_Snowball_Derby,1991_20_SE,25,36,25,usa,Mike_Cope,Mike Cope,Bowser Motorsports,,Chevrolet,256,,clutch,0,88
+1991,SE,1991_Snowball_Derby,1991_20_SE,26,14,12,usa,Gary_Balough,Gary Balough,Phoenix Construction,,Chevrolet,225,,crash,0,85
+1991,SE,1991_Snowball_Derby,1991_20_SE,27,23,1,usa,Red_Farmer,Red Farmer,Raybestos,,Buick,221,,rear end,0,82
+1991,SE,1991_Snowball_Derby,1991_20_SE,28,6,71,usa,Tony_Raines,Tony Raines,Italiano's Subs & Pizza,,Chevrolet,212,,engine,0,79
+1991,SE,1991_Snowball_Derby,1991_20_SE,29,5,7,usa,Mike_Garvey,Mike Garvey,Rite-Way Grinding,,Chevrolet,207,,engine,0,76
+1991,SE,1991_Snowball_Derby,1991_20_SE,30,33,78,usa,Gary_Bradberry,Gary Bradberry,Bradberry Racing,,Buick,145,,overheating,0,73
+1991,SE,1991_Snowball_Derby,1991_20_SE,31,19,11,usa,David_Rogers,David Rogers,T&M Ranch Quarter Horses,,Pontiac,144,,engine,0,70
+1991,SE,1991_Snowball_Derby,1991_20_SE,32,13,99,usa,Charlie_Stokes,Charlie Stokes,Stokes Gas,,Chevrolet,132,,transmission,0,67
+1991,SE,1991_Snowball_Derby,1991_20_SE,33,38,00,usa,Randy_Couch,Randy Couch,Amoco,,Chevrolet,111,,engine,0,64
+1991,SE,1991_Snowball_Derby,1991_20_SE,34,40,24,usa,Clifford_Allison,Clifford Allison,Allison Racing,,Buick,104,,crash,0,61
+1991,SE,1991_Snowball_Derby,1991_20_SE,35,16,14,usa,Mickey_Gibbs,Mickey Gibbs,John Holliday / Big-10 Tires,,Chevrolet,99,,oil line,0,58
+1991,SE,1991_Snowball_Derby,1991_20_SE,36,39,94,usa,Stan_Fox,Stan Fox,Seal Tech,,Pontiac,66,,panard bar,0,55
+1991,SE,1991_Snowball_Derby,1991_20_SE,37,26,41,usa,Freddy_Fryar,Freddy Fryar,Seal Tech,,Buick,63,,rear end,0,52
+1991,SE,1991_Snowball_Derby,1991_20_SE,38,20,85,usa,Tim_Steele,Tim Steele,El Chico Texana Grill / HS Die,,Chevrolet,32,,ignition,0,49
+1991,SE,1991_Snowball_Derby,1991_20_SE,39,25,28,usa,Billy_Bigley_Jr,"Billy Bigley, Jr.",Hawk Brake / Dr. Pepper / Amalie Oil,,Chevrolet,17,,engine,0,46
+1991,SE,1991_Snowball_Derby,1991_20_SE,40,27,4,usa,Bobby_Gill,Bobby Gill,Vinyl Tech Progressive Glass,,Chevrolet,3,,engine,0,43

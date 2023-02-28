@@ -1,0 +1,364 @@
+season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,1,7,64,usa,Garrett_Evans,Garrett Evans,Leonard Evans Cars,,Pontiac,100,,running,9,60
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,2,2,48,usa,Jim_Walker_(2),Jim Walker,Walker Racing,,Pontiac,100,,running,25,54
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,3,5,1,usa,Don_Dowdy,Don Dowdy,Dowdy-Morin Racing,,Pontiac,100,,running,0,48
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,4,14,20,usa,Leon_Fox,Leon Fox,Fox Motors,,Pontiac,100,,running,0,47
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,5,11,17,usa,Randy_Olson,Randy Olson,RAO Construction,,Pontiac,100,,running,0,46
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,6,21,00,usa,Ron_Fritzley,Ron Fritzley,Aurora Toyota,,Pontiac,100,,running,0,45
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,7,40,90,usa,Bob_Fox,Bob Fox,Rainwater Insurance,,Pontiac,100,,running,0,44
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,8,12,20,usa,Dirk_Stephens,Dirk Stephens,Capital Industrial Supply,,Pontiac,99,,running,0,43
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,9,25,11,usa,Rob_Holden,Rob Holden,Universal Land,,Pontiac,99,,running,0,42
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,10,17,71,usa,Bob_Eastwood,Bob Eastwood,Amsoil / Junction Insurance,,Chevrolet,99,,running,0,41
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,11,18,56,usa,Steve_Hurley,Steve Hurley,Oberg Filters,,Chevrolet,99,,running,0,40
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,12,20,14,usa,J_R_Charbonneau,J.R. Charbonneau,Western Properties,,Pontiac,98,,running,0,39
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,13,32,87X,usa,Dave_Butterton,Dave Butterton,Rallye House Machinery,,Chevrolet,98,,running,0,38
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,14,33,82,usa,Jamey_Oman,Jamey Oman,Marysville Auto,,Chevrolet,98,,running,0,37
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,15,31,87,usa,Gordy_Rivenburg,Gordy Rivenburg,Pacific Truck,,Buick,97,,running,0,36
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,16,28,05,none,Paul_Patterson,Paul Patterson,Patterson Racing,,Dodge,97,,running,0,35
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,17,4,98,usa,Mike_Bliss,Mike Bliss,Bliss Roofing,,Pontiac,95,,running,0,34
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,18,29,44,usa,Laury_Cover,Laury Cover,Hitchman Trailers,,Ford,95,,running,0,33
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,19,30,15,usa,Lynn_Chandler,Lynn Chandler,Cope Brothers,,Pontiac,95,,running,0,32
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,20,27,96,usa,Sharon_Bishop,Sharon Bishop,Hillcrest Aviation,,Buick,94,,running,0,31
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,21,25,10,usa,Dave_Goulet,Dave Goulet,Trick Racing Gasoline,,Chevrolet,93,,running,0,30
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,22,36,3,usa,Tom_Kordus,Tom Kordus,Shareway Industries,,Ford,91,,running,0,29
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,23,13,63,usa,Dale_Perry,Dale Perry,Western Truck Brokers,,Pontiac,89,,running,0,28
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,24,26,36,canada,Garnett_Zimmerman,Garnett Zimmerman,Zimmerman Racing,,Chevrolet,85,,running,0,27
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,25,8,33,usa,Rick_Schultz,Rick Schultz,Duval-Little Racing,,Pontiac,84,,running,0,26
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,26,15,28,usa,Ron_Hall,Ron Hall,Ulrick's Transmission,,Chevrolet,82,,running,0,25
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,27,19,31,canada,Doug_Rutz,Doug Rutz,Lange Industries,,Pontiac,81,,running,0,24
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,28,9,7,usa,Derrike_Cope,Derrike Cope,Fuge / 7-Eleven,,Ford,81,,oil pressure,30,23
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,29,3,26,usa,Chad_Little,Chad Little,Duval-Little Racing / Coors,,Ford,75,,overheating,36,27
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,30,22,74,usa,Butch_Johnson,Butch Johnson,Estby Enterprises,,Pontiac,71,,running,0,21
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,31,35,94,usa,Jim_Thompson_(2),Jim Thompson,Jim's Texaco,,Chevrolet,50,,handling,0,20
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,32,38,88,usa,Mark_Walbridge,Mark Walbridge,Plews Enterprises,,Pontiac,32,,overheating,0,19
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,33,34,2,usa,Bobby_Baker,Bobby Baker,Baker Racing,,Chevrolet,26,,engine,0,18
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,34,6,29,usa,Larry_Barton,Larry Barton,Larry's Radiator,,Pontiac,23,,engine,0,17
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,35,1,01,usa,Vern_Roberts,Vern Roberts,Kennelly Keys Music,,Chevrolet,9,,oil leak,0,16
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,36,16,02,usa,Wilbur_Bruce,Wilbur Bruce,Hylebos Marina,,Pontiac,8,,engine,0,15
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,37,39,27,usa,Ben_Dean,Ben Dean,Fleur De Lis Florist,,Pontiac,8,,engine,0,14
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,38,10,93,usa,Ron_Rainwater,Ron Rainwater,Rainwater Insurance,,Pontiac,7,,engine,0,13
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,39,37,95,usa,Mike_Estabrook,Mike Estabrook,J & E Trucking,,Ford,7,,engine,0,12
+1985,NW,1985_KISW_100_%28May%29,1985_01_NW,40,23,13,usa,Joe_Bowers,Joe Bowers,Bowers Excavating,,Pontiac,5,,engine,0,11
+1985,NW,1985_Coors_100,1985_02_NW,1,4,7,usa,Derrike_Cope,Derrike Cope,Fuge / 7-Eleven,,Ford,100,,running,41,60
+1985,NW,1985_Coors_100,1985_02_NW,2,6,64,usa,Garrett_Evans,Garrett Evans,Leonard Evans Cars,,Pontiac,100,,running,0,49
+1985,NW,1985_Coors_100,1985_02_NW,3,10,4,usa,Chuck_Flora,Chuck Flora,Flora Racing,,Pontiac,100,,running,0,48
+1985,NW,1985_Coors_100,1985_02_NW,4,9,90,usa,Bob_Fox,Bob Fox,Rainwater Insurance,,Pontiac,100,,running,0,47
+1985,NW,1985_Coors_100,1985_02_NW,5,18,0,usa,Leon_Fox,Leon Fox,Fox Motors,,Pontiac,100,,running,0,46
+1985,NW,1985_Coors_100,1985_02_NW,6,11,33,usa,Rick_Schultz,Rick Schultz,Duval Racing,,Pontiac,100,,running,0,45
+1985,NW,1985_Coors_100,1985_02_NW,7,3,73,usa,Bill_Schmitt,Bill Schmitt,California Cooler,,Pontiac,100,,running,0,44
+1985,NW,1985_Coors_100,1985_02_NW,8,8,14,usa,Ron_Eaton,Ron Eaton,Monaco Enterprises,,Pontiac,99,,running,3,48
+1985,NW,1985_Coors_100,1985_02_NW,9,17,74,usa,Butch_Johnson,Butch Johnson,Estby Enterprises,,Pontiac,99,,running,0,42
+1985,NW,1985_Coors_100,1985_02_NW,10,15,93,usa,Ron_Rainwater,Ron Rainwater,Rainwater Insurance,,Pontiac,99,,running,0,41
+1985,NW,1985_Coors_100,1985_02_NW,11,27,09,usa,Sam_Rose,Sam Rose,Nob Hill Auto,,Pontiac,98,,running,0,40
+1985,NW,1985_Coors_100,1985_02_NW,12,26,11,usa,Rob_Holden,Rob Holden,Universal Land,,Pontiac,97,,running,0,39
+1985,NW,1985_Coors_100,1985_02_NW,13,19,00,usa,Ron_Fritzley,Ron Fritzley,Aurora Toyota,,Pontiac,97,,running,0,38
+1985,NW,1985_Coors_100,1985_02_NW,14,20,71,usa,Bob_Eastwood,Bob Eastwood,Amsoil / Junction Insurance,,Pontiac,96,,crash,0,37
+1985,NW,1985_Coors_100,1985_02_NW,15,14,17,usa,Randy_Olson,Randy Olson,RAO Construction,,Pontiac,95,,running,0,36
+1985,NW,1985_Coors_100,1985_02_NW,16,5,1,usa,Don_Dowdy,Don Dowdy,Dowdy-Morin Racing,,Pontiac,94,,engine,0,35
+1985,NW,1985_Coors_100,1985_02_NW,17,2,98,usa,Mike_Bliss,Mike Bliss,Bliss Roofing,,Pontiac,94,,crash,0,34
+1985,NW,1985_Coors_100,1985_02_NW,18,28,20,usa,Dirk_Stephens,Dirk Stephens,Capital Industrial Supply,,Pontiac,86,,running,0,33
+1985,NW,1985_Coors_100,1985_02_NW,19,1,10,usa,Dave_Goulet,Dave Goulet,Trick Racing Gasoline,,Chevrolet,77,,mechanical,16,37
+1985,NW,1985_Coors_100,1985_02_NW,20,21,28,usa,Ron_Hall,Ron Hall,Ulrick's Transmission,,Chevrolet,70,,running,0,31
+1985,NW,1985_Coors_100,1985_02_NW,21,23,92,usa,Ken_Longley,Ken Longley,Aable Auto,,Pontiac,67,,crash,0,30
+1985,NW,1985_Coors_100,1985_02_NW,22,7,26,usa,Chad_Little,Chad Little,Duval-Little Racing / Coors,,Ford,55,,crash,39,34
+1985,NW,1985_Coors_100,1985_02_NW,23,12,48,usa,Jim_Walker_(2),Jim Walker,Walker Racing,,Pontiac,29,,running,0,28
+1985,NW,1985_Coors_100,1985_02_NW,24,13,22,canada,Tom_Berrow,Tom Berrow,Berrow Racing,,Pontiac,28,,overheating,0,27
+1985,NW,1985_Coors_100,1985_02_NW,25,16,88,usa,Mark_Walbridge,Mark Walbridge,Plews Enterprises,,Pontiac,22,,mechanical,0,26
+1985,NW,1985_Coors_100,1985_02_NW,26,24,02,usa,Wilbur_Bruce,Wilbur Bruce,Hylebos Marina,,Pontiac,21,,oil line,0,25
+1985,NW,1985_Coors_100,1985_02_NW,27,22,63,usa,Dale_Perry,Dale Perry,Western Truck Brokers,,Pontiac,17,,oil pressure,0,24
+1985,NW,1985_Coors_100,1985_02_NW,28,25,13,usa,Joe_Bowers,Joe Bowers,Bowers Excavating,,Pontiac,6,,engine,0,23
+1985,NW,1985_Strohs_100_%28May%29,1985_03_NW,1,6,7,usa,Derrike_Cope,Derrike Cope,Fuge / Ross Lumber,,Ford,100,,running,82,60
+1985,NW,1985_Strohs_100_%28May%29,1985_03_NW,2,7,64,usa,Garrett_Evans,Garrett Evans,Leonard Evans Cars,,Pontiac,100,,running,0,49
+1985,NW,1985_Strohs_100_%28May%29,1985_03_NW,3,8,14,usa,Ron_Eaton,Ron Eaton,Monaco Enterprises,,Pontiac,100,,running,0,48
+1985,NW,1985_Strohs_100_%28May%29,1985_03_NW,4,17,48,usa,Jim_Walker_(2),Jim Walker,Walker Racing,,Pontiac,100,,running,0,47
+1985,NW,1985_Strohs_100_%28May%29,1985_03_NW,5,11,90,usa,Bob_Fox,Bob Fox,Rainwater Insurance,,Pontiac,100,,running,0,46
+1985,NW,1985_Strohs_100_%28May%29,1985_03_NW,6,3,11,usa,Rick_Schultz,Rick Schultz,Duval Racing,,Pontiac,100,,running,3,50
+1985,NW,1985_Strohs_100_%28May%29,1985_03_NW,7,4,92,usa,Ken_Longley,Ken Longley,Aable Auto / Phillips Scale,,Pontiac,100,,running,0,44
+1985,NW,1985_Strohs_100_%28May%29,1985_03_NW,8,16,98,usa,Mike_Bliss,Mike Bliss,Bliss Roofing,,Pontiac,100,,running,0,43
+1985,NW,1985_Strohs_100_%28May%29,1985_03_NW,9,14,80,usa,Leon_Fox,Leon Fox,Fox Motors,,Pontiac,100,,running,0,42
+1985,NW,1985_Strohs_100_%28May%29,1985_03_NW,10,13,4,usa,Chuck_Flora,Chuck Flora,Flora Racing,,Pontiac,100,,running,0,41
+1985,NW,1985_Strohs_100_%28May%29,1985_03_NW,11,5,73,usa,Bill_Schmitt,Bill Schmitt,California Cooler,,Pontiac,99,,running,0,40
+1985,NW,1985_Strohs_100_%28May%29,1985_03_NW,12,1,17,usa,Randy_Olson,Randy Olson,RAO Construction,,Pontiac,99,,running,15,44
+1985,NW,1985_Strohs_100_%28May%29,1985_03_NW,13,20,09,usa,Sam_Rose,Sam Rose,Nob Hill Auto,,Pontiac,98,,running,0,38
+1985,NW,1985_Strohs_100_%28May%29,1985_03_NW,14,21,82,usa,Jamey_Oman,Jamey Oman,Marysville Auto,,Chevrolet,96,,running,0,37
+1985,NW,1985_Strohs_100_%28May%29,1985_03_NW,15,15,70,usa,Darryl_Gardner,Darryl Gardner,Delta Floor,,Chevrolet,83,,too slow,0,
+1985,NW,1985_Strohs_100_%28May%29,1985_03_NW,16,9,26,usa,Chad_Little,Chad Little,Coors / Duval-Little Racing,,Ford,81,,crash,0,35
+1985,NW,1985_Strohs_100_%28May%29,1985_03_NW,17,12,49,usa,Billy_Clarkson,Billy Clarkson,Hallmark Enterprises,,Chevrolet,79,,crash,0,34
+1985,NW,1985_Strohs_100_%28May%29,1985_03_NW,18,18,13,usa,Joe_Bowers,Joe Bowers,Bowers Excavating,,Pontiac,75,,running,0,33
+1985,NW,1985_Strohs_100_%28May%29,1985_03_NW,19,19,2,usa,Bobby_Baker,Bobby Baker,Baker Racing,,Chevrolet,60,,running,0,32
+1985,NW,1985_Strohs_100_%28May%29,1985_03_NW,20,10,10,usa,Dave_Goulet,Dave Goulet,Trick Racing Gasoline,,Chevrolet,43,,overheating,0,31
+1985,NW,1985_Strohs_100_%28May%29,1985_03_NW,21,2,93,usa,Ron_Rainwater,Ron Rainwater,Rainwater Insurance,,Pontiac,19,,running,0,30
+1985,NW,1985_Strohs_100_%28May%29,1985_03_NW,22,22,74,usa,Butch_Johnson,Butch Johnson,Estby Enterprises,,Pontiac,17,,engine,0,29
+1985,NW,1985_Whit-Log_100,1985_04_NW,1,3,33,usa,Rick_Schultz,Rick Schultz,Duval Racing,,Pontiac,100,,running,99,60
+1985,NW,1985_Whit-Log_100,1985_04_NW,2,7,7,usa,Derrike_Cope,Derrike Cope,Fuge / Ross Lumber,,Ford,100,,running,0,49
+1985,NW,1985_Whit-Log_100,1985_04_NW,3,4,14,usa,Ron_Eaton,Ron Eaton,Monaco Enterprises,,Pontiac,100,,running,0,48
+1985,NW,1985_Whit-Log_100,1985_04_NW,4,2,48,usa,Jim_Walker_(2),Jim Walker,Walker Racing,,Pontiac,100,,running,0,47
+1985,NW,1985_Whit-Log_100,1985_04_NW,5,9,64,usa,Garrett_Evans,Garrett Evans,Leonard Evans Cars,,Pontiac,100,,running,0,46
+1985,NW,1985_Whit-Log_100,1985_04_NW,6,1,80,usa,Leon_Fox,Leon Fox,Fox Motors,,Pontiac,100,,running,1,50
+1985,NW,1985_Whit-Log_100,1985_04_NW,7,12,90,usa,Bob_Fox,Bob Fox,Rainwater Insurance,,Pontiac,100,,running,0,44
+1985,NW,1985_Whit-Log_100,1985_04_NW,8,15,74,usa,Butch_Johnson,Butch Johnson,Estby Enterprises,,Pontiac,100,,running,0,43
+1985,NW,1985_Whit-Log_100,1985_04_NW,9,5,10,usa,Dave_Goulet,Dave Goulet,Trick Racing Gasoline,,Chevrolet,100,,running,0,42
+1985,NW,1985_Whit-Log_100,1985_04_NW,10,16,9,usa,Don_Lorenz,Don Lorenz,American Auto Parts,,Dodge,99,,running,0,41
+1985,NW,1985_Whit-Log_100,1985_04_NW,11,10,4,usa,Chuck_Flora,Chuck Flora,Flora Racing,,Pontiac,99,,running,0,40
+1985,NW,1985_Whit-Log_100,1985_04_NW,12,14,17,usa,Randy_Olson,Randy Olson,RAO Construction,,Pontiac,98,,running,0,39
+1985,NW,1985_Whit-Log_100,1985_04_NW,13,13,13,usa,Joe_Bowers,Joe Bowers,Bowers Excavating,,Pontiac,98,,running,0,38
+1985,NW,1985_Whit-Log_100,1985_04_NW,14,17,99,usa,Ron_Strmiska,Ron Strmiska,Lone Tree Lumber,,Oldsmobile,97,,running,0,37
+1985,NW,1985_Whit-Log_100,1985_04_NW,15,8,70,usa,Darryl_Gardner,Darryl Gardner,Delta Floor,,Chevrolet,92,,running,0,36
+1985,NW,1985_Whit-Log_100,1985_04_NW,16,6,87,usa,Mike_Ramsey,Mike Ramsey,Whit-Log Bandit,,Chevrolet,71,,running,0,35
+1985,NW,1985_Whit-Log_100,1985_04_NW,17,19,2,usa,Bobby_Baker,Bobby Baker,Baker Racing,,Chevrolet,62,,running,0,34
+1985,NW,1985_Whit-Log_100,1985_04_NW,18,22,09,usa,Sam_Rose,Sam Rose,Nob Hill Auto,,Pontiac,54,,handling,0,33
+1985,NW,1985_Whit-Log_100,1985_04_NW,19,21,92,usa,Ken_Longley,Ken Longley,Aable Auto / Phillips Scale,,Pontiac,40,,handling,0,32
+1985,NW,1985_Whit-Log_100,1985_04_NW,20,11,98,usa,Mike_Bliss,Mike Bliss,Bliss Roofing,,Pontiac,38,,electrical,0,31
+1985,NW,1985_Whit-Log_100,1985_04_NW,21,18,66,usa,Larry_Bayless,Larry Bayless,Bayless Auto Parts,,Chevrolet,30,,crash,0,30
+1985,NW,1985_Whit-Log_100,1985_04_NW,22,20,1,usa,Don_Dowdy,Don Dowdy,Dowdy-Morin Racing,,Pontiac,29,,handling,0,29
+1985,NW,1985_Idaho_100,1985_05_NW,1,4,90,usa,Bob_Fox,Bob Fox,Rainwater Insurance,,Pontiac,100,,running,6,60
+1985,NW,1985_Idaho_100,1985_05_NW,2,6,64,usa,Garrett_Evans,Garrett Evans,Leonard Evans Cars,,Pontiac,100,,running,0,49
+1985,NW,1985_Idaho_100,1985_05_NW,3,3,10,usa,Dave_Goulet,Dave Goulet,Trick Racing Gasoline,,Chevrolet,100,,running,0,48
+1985,NW,1985_Idaho_100,1985_05_NW,4,7,33,usa,Rick_Schultz,Rick Schultz,Duval Racing,,Pontiac,100,,running,0,47
+1985,NW,1985_Idaho_100,1985_05_NW,5,13,6,usa,Steve_Mason,Steve Mason,Nagel Beverage,,Pontiac,100,,running,0,46
+1985,NW,1985_Idaho_100,1985_05_NW,6,11,80,usa,Leon_Fox,Leon Fox,Fox Motors,,Pontiac,100,,running,0,45
+1985,NW,1985_Idaho_100,1985_05_NW,7,8,14,usa,Ron_Eaton,Ron Eaton,Bennett Auto / Monaco,,Pontiac,99,,running,0,44
+1985,NW,1985_Idaho_100,1985_05_NW,8,12,13,usa,Joe_Bowers,Joe Bowers,Bowers Excavating,,Pontiac,99,,running,0,43
+1985,NW,1985_Idaho_100,1985_05_NW,9,16,93,usa,Ron_Rainwater,Ron Rainwater,Rainwater Insurance,,Pontiac,98,,running,0,42
+1985,NW,1985_Idaho_100,1985_05_NW,10,19,09,usa,Sam_Rose,Sam Rose,Rose Auto Sales,,Pontiac,98,,running,0,41
+1985,NW,1985_Idaho_100,1985_05_NW,11,15,20,usa,Dirk_Stephens,Dirk Stephens,Capital Industrial Supply,,Pontiac,97,,running,0,40
+1985,NW,1985_Idaho_100,1985_05_NW,12,17,17,usa,Jim_Campbell,Jim Campbell,Campbell Tire,,Pontiac,97,,running,0,39
+1985,NW,1985_Idaho_100,1985_05_NW,13,14,11,usa,Rob_Holden,Rob Holden,Universal Land,,Pontiac,95,,running,0,38
+1985,NW,1985_Idaho_100,1985_05_NW,14,1,7,usa,Derrike_Cope,Derrike Cope,Fuge / Ross Lumber,,Ford,94,,engine,94,42
+1985,NW,1985_Idaho_100,1985_05_NW,15,10,84,none,Chet_Ward,Chet Ward,Budget Battery,,Pontiac,90,,crash,0,36
+1985,NW,1985_Idaho_100,1985_05_NW,16,9,71,usa,John_Dillon,John Dillon,Dillon Auto Salvage,,Pontiac,88,,running,0,35
+1985,NW,1985_Idaho_100,1985_05_NW,17,21,22,usa,Doug_Elliott,Doug Elliott,Wilmorth's Muffler,,Pontiac,74,,engine,0,34
+1985,NW,1985_Idaho_100,1985_05_NW,18,2,4,usa,Chuck_Flora,Chuck Flora,Flora Racing,,Pontiac,72,,crash,0,33
+1985,NW,1985_Idaho_100,1985_05_NW,19,18,74,usa,Butch_Johnson,Butch Johnson,Estby Enterprises,,Pontiac,61,,running,0,32
+1985,NW,1985_Idaho_100,1985_05_NW,20,22,82,usa,Jamey_Oman,Jamey Oman,Marysville Auto,,Chevrolet,57,,overheating,0,31
+1985,NW,1985_Idaho_100,1985_05_NW,21,5,70,usa,Darryl_Gardner,Darryl Gardner,Delta Floor,,Chevrolet,56,,running,0,30
+1985,NW,1985_Idaho_100,1985_05_NW,22,20,2,usa,Bobby_Baker,Bobby Baker,Baker Racing,,Chevrolet,11,,ignition,0,29
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,1,10,14,usa,Ron_Eaton,Ron Eaton,Bennett Auto / Monaco,,Pontiac,100,,running,16,60
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,2,4,26,usa,Chad_Little,Chad Little,Duval-Little Racing / Coors,,Ford,100,,running,75,54
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,3,7,4,usa,Chuck_Flora,Chuck Flora,Flora Racing,,Pontiac,100,,running,0,48
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,4,8,33,usa,Rick_Schultz,Rick Schultz,Duval Racing,,Pontiac,100,,running,0,47
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,5,6,90,usa,Bob_Fox,Bob Fox,Rainwater Insurance,,Pontiac,100,,running,0,46
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,6,2,80,usa,Leon_Fox,Leon Fox,Fox Motors,,Pontiac,100,,running,0,45
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,7,15,20,usa,Dirk_Stephens,Dirk Stephens,Capital Industrial Supply,,Pontiac,100,,running,0,44
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,8,14,74,usa,Butch_Johnson,Butch Johnson,Estby Enterprises,,Pontiac,100,,running,0,43
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,9,12,10,usa,Dave_Goulet,Dave Goulet,Trick Racing Gasoline,,Chevrolet,100,,running,0,42
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,10,28,88,usa,Mark_Walbridge,Mark Walbridge,Plews Enterprises,,Pontiac,100,,running,0,41
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,11,5,7,usa,Derrike_Cope,Derrike Cope,Fuge / Ross Lumber,,Ford,100,,running,0,40
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,12,18,56,usa,Steve_Hurley,Steve Hurley,Oberg Filters,,Pontiac,99,,running,0,39
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,13,11,00,usa,Ron_Fritzley,Ron Fritzley,Aurora Toyota,,Pontiac,99,,running,0,38
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,14,3,93,usa,Ron_Rainwater,Ron Rainwater,Rainwater Insurance,,Pontiac,99,,running,0,37
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,15,21,28,usa,Ron_Hall,Ron Hall,Ulrick's Transmission,,Chevrolet,98,,running,0,36
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,16,16,09,usa,Sam_Rose,Sam Rose,Nob Hill Auto,,Pontiac,98,,running,0,35
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,17,17,13,usa,Joe_Bowers,Joe Bowers,Bowers Excavating,,Pontiac,98,,running,0,34
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,18,23,44,usa,Laury_Cover,Laury Cover,Hitchman Trailers,,Ford,97,,running,0,33
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,19,27,47,usa,Dwight_Estby,Dwight Estby,Estby Enterprises,,Pontiac,92,,running,0,32
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,20,22,84,usa,John_Dillon,John Dillon,Budget Battery,,Pontiac,91,,running,0,31
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,21,19,11,usa,Rob_Holden,Rob Holden,Universal Land Construction,,Pontiac,91,,running,0,30
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,22,9,64,usa,Garrett_Evans,Garrett Evans,Leonard Evans Cars,,Pontiac,83,,electrical,0,29
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,23,24,82,usa,Jamey_Oman,Jamey Oman,Nob Hill Auto,,Chevrolet,82,,crash,0,28
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,24,1,1,usa,Don_Dowdy,Don Dowdy,Dowdy-Morin Racing,,Pontiac,81,,suspension,9,32
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,25,25,2,usa,Bobby_Baker,Bobby Baker,Baker Racing,,Chevrolet,72,,running,0,26
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,26,20,9,usa,Don_Lorenz,Don Lorenz,American Auto Parts,,Dodge,69,,crash,0,25
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,27,13,98,usa,Mike_Bliss,Mike Bliss,Bliss Roofing,,Pontiac,36,,engine,0,24
+1985,NW,1985_Lee_Peterson_Pontiac_Centennial_100,1985_06_NW,28,26,0,usa,Chet_Jaworski,Chet Jaworski,Chet's Yard,,Chevrolet,12,,engine,0,23
+1985,NW,1985_KISW_Posi-Traction_100,1985_07_NW,1,7,64,usa,Garrett_Evans,Garrett Evans,Leonard Evans Cars,,Pontiac,100,,running,65,60
+1985,NW,1985_KISW_Posi-Traction_100,1985_07_NW,2,4,14,usa,Ron_Eaton,Ron Eaton,Bennett Auto / Monaco,,Pontiac,100,,running,0,49
+1985,NW,1985_KISW_Posi-Traction_100,1985_07_NW,3,6,90,usa,Bob_Fox,Bob Fox,Rainwater Insurance,,Pontiac,100,,running,0,48
+1985,NW,1985_KISW_Posi-Traction_100,1985_07_NW,4,8,33,usa,Rick_Schultz,Rick Schultz,Duval Racing,,Pontiac,100,,running,0,47
+1985,NW,1985_KISW_Posi-Traction_100,1985_07_NW,5,14,80,usa,Leon_Fox,Leon Fox,Fox Motors,,Pontiac,100,,running,0,46
+1985,NW,1985_KISW_Posi-Traction_100,1985_07_NW,6,11,22,canada,Tom_Berrow,Tom Berrow,Berrow Racing,,Pontiac,100,,running,0,45
+1985,NW,1985_KISW_Posi-Traction_100,1985_07_NW,7,17,10,usa,Dave_Goulet,Dave Goulet,Trick Racing Gasoline,,Chevrolet,100,,running,0,44
+1985,NW,1985_KISW_Posi-Traction_100,1985_07_NW,8,5,7,usa,Derrike_Cope,Derrike Cope,Fuge / Ross Lumber,,Ford,100,,running,0,43
+1985,NW,1985_KISW_Posi-Traction_100,1985_07_NW,9,3,00,usa,Ron_Fritzley,Ron Fritzley,Aurora Toyota,,Pontiac,99,,crash,29,47
+1985,NW,1985_KISW_Posi-Traction_100,1985_07_NW,10,9,20,usa,Dirk_Stephens,Dirk Stephens,Capital Industrial Supply,,Pontiac,99,,running,0,41
+1985,NW,1985_KISW_Posi-Traction_100,1985_07_NW,11,15,93,usa,Ron_Rainwater,Ron Rainwater,Rainwater Insurance,,Pontiac,99,,running,0,40
+1985,NW,1985_KISW_Posi-Traction_100,1985_07_NW,12,19,13,usa,Joe_Bowers,Joe Bowers,Bowers Excavating,,Pontiac,99,,crash,0,39
+1985,NW,1985_KISW_Posi-Traction_100,1985_07_NW,13,23,56,usa,Steve_Hurley,Steve Hurley,Oberg Filters,,Pontiac,99,,crash,0,38
+1985,NW,1985_KISW_Posi-Traction_100,1985_07_NW,14,2,11,usa,Rob_Holden,Rob Holden,Universal Land Construction,,Pontiac,98,,running,6,42
+1985,NW,1985_KISW_Posi-Traction_100,1985_07_NW,15,10,74,usa,Butch_Johnson,Butch Johnson,Estby Enterprises,,Pontiac,95,,crash,0,36
+1985,NW,1985_KISW_Posi-Traction_100,1985_07_NW,16,21,23,usa,Lee_Dailey,Lee Dailey,Dailey Trucking,,Chevrolet,94,,running,0,35
+1985,NW,1985_KISW_Posi-Traction_100,1985_07_NW,17,20,44,usa,Laury_Cover,Laury Cover,Hitchman Trailers,,Ford,94,,running,0,34
+1985,NW,1985_KISW_Posi-Traction_100,1985_07_NW,18,18,9,usa,Don_Lorenz,Don Lorenz,American Auto Parts,,Dodge,83,,running,0,33
+1985,NW,1985_KISW_Posi-Traction_100,1985_07_NW,19,24,09,usa,Sam_Rose,Sam Rose,Rose Auto Sales,,Pontiac,78,,handling,0,32
+1985,NW,1985_KISW_Posi-Traction_100,1985_07_NW,20,12,98,usa,Mike_Bliss,Mike Bliss,Bliss Roofing,,Pontiac,58,,engine,0,31
+1985,NW,1985_KISW_Posi-Traction_100,1985_07_NW,21,16,4,usa,Chuck_Flora,Chuck Flora,Flora Racing,,Pontiac,57,,engine,0,30
+1985,NW,1985_KISW_Posi-Traction_100,1985_07_NW,22,13,92,usa,Ken_Longley,Ken Longley,Aable Auto,,Pontiac,35,,engine,0,29
+1985,NW,1985_KISW_Posi-Traction_100,1985_07_NW,23,1,88,usa,Mark_Walbridge,Mark Walbridge,Plews Enterprises,,Pontiac,26,,mechanical,0,28
+1985,NW,1985_KISW_Posi-Traction_100,1985_07_NW,24,22,01,usa,Vern_Roberts,Vern Roberts,Old Milwuakee,,Pontiac,12,,overheating,0,27
+1985,NW,1985_McCollums_Pontiac_100,1985_08_NW,1,2,14,usa,Ron_Eaton,Ron Eaton,Bennett Auto / Monaco,,Pontiac,100,,running,55,60
+1985,NW,1985_McCollums_Pontiac_100,1985_08_NW,2,3,64,usa,Garrett_Evans,Garrett Evans,Leonard Evans Cars,,Pontiac,100,,running,3,54
+1985,NW,1985_McCollums_Pontiac_100,1985_08_NW,3,11,90,usa,Bob_Fox,Bob Fox,Rainwater Insurance,,Pontiac,100,,running,0,48
+1985,NW,1985_McCollums_Pontiac_100,1985_08_NW,4,7,80,usa,Leon_Fox,Leon Fox,Fox Motors,,Pontiac,100,,running,0,47
+1985,NW,1985_McCollums_Pontiac_100,1985_08_NW,5,4,26,usa,Chad_Little,Chad Little,Duval-Little Racing / Coors,,Ford,100,,running,0,46
+1985,NW,1985_McCollums_Pontiac_100,1985_08_NW,6,8,33,usa,Rick_Schultz,Rick Schultz,Duval Racing,,Pontiac,99,,running,0,45
+1985,NW,1985_McCollums_Pontiac_100,1985_08_NW,7,10,00,usa,Ron_Fritzley,Ron Fritzley,Aurora Toyota,,Pontiac,98,,running,0,44
+1985,NW,1985_McCollums_Pontiac_100,1985_08_NW,8,15,47,usa,Butch_Johnson,Butch Johnson,Estby Enterprises,,Pontiac,96,,running,0,43
+1985,NW,1985_McCollums_Pontiac_100,1985_08_NW,9,19,25,usa,Frank_Duval,Frank Duval,Duval-Little Racing,,Pontiac,96,,running,0,42
+1985,NW,1985_McCollums_Pontiac_100,1985_08_NW,10,6,1,usa,Don_Dowdy,Don Dowdy,Dowdy-Morin Racing,,Pontiac,88,,overheating,0,41
+1985,NW,1985_McCollums_Pontiac_100,1985_08_NW,11,14,13,usa,Joe_Bowers,Joe Bowers,Bowers Excavating,,Pontiac,79,,brakes,0,40
+1985,NW,1985_McCollums_Pontiac_100,1985_08_NW,12,12,4,usa,J_R_Charbonneau,J.R. Charbonneau,Spokane AMC-Jeep,,Pontiac,57,,running,0,39
+1985,NW,1985_McCollums_Pontiac_100,1985_08_NW,13,5,7,usa,Derrike_Cope,Derrike Cope,Fuge / Ross Lumber,,Ford,52,,overheating,0,38
+1985,NW,1985_McCollums_Pontiac_100,1985_08_NW,14,1,29,usa,Larry_Barton,Larry Barton,Larry's Radiator,,Pontiac,49,,crash,42,42
+1985,NW,1985_McCollums_Pontiac_100,1985_08_NW,15,20,28,usa,Ron_Hall,Ron Hall,Ulrick's Transmission,,Pontiac,49,,sway bar,0,36
+1985,NW,1985_McCollums_Pontiac_100,1985_08_NW,16,9,20,usa,Dirk_Stephens,Dirk Stephens,Capital Industrial Supply,,Pontiac,47,,transmission,0,35
+1985,NW,1985_McCollums_Pontiac_100,1985_08_NW,17,17,9,usa,Don_Lorenz,Don Lorenz,American Auto Parts,,Dodge,46,,overheating,0,34
+1985,NW,1985_McCollums_Pontiac_100,1985_08_NW,18,18,88,usa,Mark_Walbridge,Mark Walbridge,Plews Enterprises,,Pontiac,25,,flat tire,0,33
+1985,NW,1985_McCollums_Pontiac_100,1985_08_NW,19,16,63,usa,Dale_Perry,Dale Perry,Western Truck Brokers,,Pontiac,23,,engine,0,32
+1985,NW,1985_McCollums_Pontiac_100,1985_08_NW,20,13,93,usa,Ron_Rainwater,Ron Rainwater,Rainwater Insurance,,Pontiac,1,,suspension,0,31
+1985,NW,1985_Valley_Ford_100,1985_09_NW,1,7,64,usa,Garrett_Evans,Garrett Evans,Leonard Evans Cars,,Pontiac,100,,running,3,60
+1985,NW,1985_Valley_Ford_100,1985_09_NW,2,1,29,usa,Larry_Barton,Larry Barton,Larry's Radiator,,Pontiac,100,,running,97,54
+1985,NW,1985_Valley_Ford_100,1985_09_NW,3,10,88,usa,Mark_Walbridge,Mark Walbridge,Plews Enterprises,,Pontiac,100,,running,0,48
+1985,NW,1985_Valley_Ford_100,1985_09_NW,4,13,93,usa,Ron_Rainwater,Ron Rainwater,Rainwater Insurance,,Pontiac,99,,running,0,47
+1985,NW,1985_Valley_Ford_100,1985_09_NW,5,11,10,usa,Dave_Goulet,Dave Goulet,Trick Racing Gasoline,,Chevrolet,99,,running,0,46
+1985,NW,1985_Valley_Ford_100,1985_09_NW,6,17,09,usa,Sam_Rose,Sam Rose,Nob Hill Auto,,Pontiac,98,,running,0,45
+1985,NW,1985_Valley_Ford_100,1985_09_NW,7,15,22,canada,Tom_Berrow,Tom Berrow,Berrow Racing,,Pontiac,98,,running,0,44
+1985,NW,1985_Valley_Ford_100,1985_09_NW,8,19,74,usa,J_R_Charbonneau,J.R. Charbonneau,Spokane AMC-Jeep,,Pontiac,95,,running,0,43
+1985,NW,1985_Valley_Ford_100,1985_09_NW,9,25,13,usa,Ron_Eaton,Ron Eaton,Bowers Excavating,,Pontiac,95,,running,0,42
+1985,NW,1985_Valley_Ford_100,1985_09_NW,10,3,33,usa,Rick_Schultz,Rick Schultz,Duval Racing,,Pontiac,92,,running,0,41
+1985,NW,1985_Valley_Ford_100,1985_09_NW,11,4,26,usa,Chad_Little,Chad Little,Duval-Little Racing / Coors,,Ford,83,,running,0,40
+1985,NW,1985_Valley_Ford_100,1985_09_NW,12,9,90,usa,Bob_Fox,Bob Fox,Rainwater Insurance,,Pontiac,65,,suspension,0,39
+1985,NW,1985_Valley_Ford_100,1985_09_NW,13,14,1,usa,Don_Dowdy,Don Dowdy,Dowdy-Morin Racing,,Pontiac,60,,technical,0,38
+1985,NW,1985_Valley_Ford_100,1985_09_NW,14,20,82,usa,Jamey_Oman,Jamey Oman,Nob Hill Auto,,Chevrolet,48,,mechanical,0,37
+1985,NW,1985_Valley_Ford_100,1985_09_NW,15,23,87,usa,Gordy_Rivenburg,Gordy Rivenburg,Pacific Truck,,Buick,46,,brakes,0,36
+1985,NW,1985_Valley_Ford_100,1985_09_NW,16,6,4,usa,Chuck_Flora,Chuck Flora,Flora Racing,,Pontiac,44,,electrical,0,35
+1985,NW,1985_Valley_Ford_100,1985_09_NW,17,16,3,usa,Ken_McMahon,Ken McMahon,Jennings Insulated Glass,,Chevrolet,35,,technical,0,34
+1985,NW,1985_Valley_Ford_100,1985_09_NW,18,2,20,usa,Dirk_Stephens,Dirk Stephens,Capital Industrial Supply,,Pontiac,35,,crash,0,33
+1985,NW,1985_Valley_Ford_100,1985_09_NW,19,8,80,usa,Leon_Fox,Leon Fox,Fox Motors,,Pontiac,34,,crash,0,32
+1985,NW,1985_Valley_Ford_100,1985_09_NW,20,12,70,usa,Darryl_Gardner,Darryl Gardner,Delta Floor,,Chevrolet,34,,fan pulley,0,31
+1985,NW,1985_Valley_Ford_100,1985_09_NW,21,5,7,usa,Derrike_Cope,Derrike Cope,Fuge / Ross Lumber,,Ford,34,,crash,0,30
+1985,NW,1985_Valley_Ford_100,1985_09_NW,22,24,31,canada,Doug_Rutz,Doug Rutz,Lange Industries,,Pontiac,31,,engine,0,29
+1985,NW,1985_Valley_Ford_100,1985_09_NW,23,21,44,usa,Laury_Cover,Laury Cover,Hitchman Trailers,,Ford,19,,oil pressure,0,28
+1985,NW,1985_Valley_Ford_100,1985_09_NW,24,22,2,usa,Bobby_Baker,Bobby Baker,Baker Racing,,Chevrolet,18,,handling,0,27
+1985,NW,1985_Valley_Ford_100,1985_09_NW,25,18,35,canada,Marsh_Mormyluk,Marsh Mormyluk,Ron Hodgdon Pontiac,,Pontiac,3,,carburetor,0,26
+1985,NW,1985_KUPL_100,1985_10_NW,1,10,80,usa,Leon_Fox,Leon Fox,Fox Motors,,Pontiac,100,,running,9,60
+1985,NW,1985_KUPL_100,1985_10_NW,2,5,26,usa,Chad_Little,Chad Little,Duval-Little Racing / Coors,,Ford,100,,running,0,49
+1985,NW,1985_KUPL_100,1985_10_NW,3,12,4,usa,Chuck_Flora,Chuck Flora,Flora Racing,,Pontiac,100,,running,0,48
+1985,NW,1985_KUPL_100,1985_10_NW,4,2,93,usa,Ron_Rainwater,Ron Rainwater,Rainwater Insurance,,Pontiac,100,,running,0,47
+1985,NW,1985_KUPL_100,1985_10_NW,5,13,09,usa,Sam_Rose,Sam Rose,Nob Hill Auto,,Pontiac,98,,running,0,46
+1985,NW,1985_KUPL_100,1985_10_NW,6,7,33,usa,Rick_Schultz,Rick Schultz,Duval Racing,,Pontiac,97,,running,0,45
+1985,NW,1985_KUPL_100,1985_10_NW,7,18,3,usa,Ken_McMahon,Ken McMahon,Jennings Insulated Glass,,Chevrolet,95,,running,0,44
+1985,NW,1985_KUPL_100,1985_10_NW,8,21,28,none,Ray_Bennett,Ray Bennett,Western Peterbilt,,Chevrolet,94,,running,0,43
+1985,NW,1985_KUPL_100,1985_10_NW,9,3,64,usa,Garrett_Evans,Garrett Evans,Leonard Evans Cars,,Pontiac,91,,overheating,90,47
+1985,NW,1985_KUPL_100,1985_10_NW,10,19,13,usa,Joe_Bowers,Joe Bowers,Bowers Excavating,,Pontiac,89,,running,0,41
+1985,NW,1985_KUPL_100,1985_10_NW,11,14,92,usa,Ken_Longley,Ken Longley,Aable Auto Wrecking,,Pontiac,84,,engine,0,40
+1985,NW,1985_KUPL_100,1985_10_NW,12,23,31,usa,John_Pokorny,John Pokorny,Polosi Precision Engineering,,Chevrolet,82,,running,0,39
+1985,NW,1985_KUPL_100,1985_10_NW,13,8,7,usa,Derrike_Cope,Derrike Cope,Fuge / Ross Lumber,,Ford,62,,overheating,0,38
+1985,NW,1985_KUPL_100,1985_10_NW,14,15,9,usa,Don_Lorenz,Don Lorenz,American Auto Parts,,Dodge,56,,running,0,37
+1985,NW,1985_KUPL_100,1985_10_NW,15,1,10,usa,Dave_Goulet,Dave Goulet,Trick Racing Gasoline,,Chevrolet,49,,overheating,1,41
+1985,NW,1985_KUPL_100,1985_10_NW,16,4,90,usa,Bob_Fox,Bob Fox,Rainwater Insurance,,Pontiac,44,,oil fire,0,35
+1985,NW,1985_KUPL_100,1985_10_NW,17,16,11,usa,Rob_Holden,Rob Holden,Universal Land Construction,,Pontiac,44,,overheating,0,34
+1985,NW,1985_KUPL_100,1985_10_NW,18,6,88,usa,Ron_Eaton,Ron Eaton,Plews Enterprises,,Pontiac,35,,overheating,0,33
+1985,NW,1985_KUPL_100,1985_10_NW,19,20,82,usa,Jamey_Oman,Jamey Oman,Nob Hill Auto,,Chevrolet,31,,valve,0,32
+1985,NW,1985_KUPL_100,1985_10_NW,20,22,87,usa,Gordy_Rivenburg,Gordy Rivenburg,Pacific Truck,,Buick,31,,overheating,0,31
+1985,NW,1985_KUPL_100,1985_10_NW,21,9,66,usa,Larry_Bayless,Larry Bayless,Bayless Auto Parts,,Chevrolet,8,,crash,0,30
+1985,NW,1985_KUPL_100,1985_10_NW,22,11,22,canada,Tom_Berrow,Tom Berrow,Berrow Racing,,Pontiac,8,,crash,0,29
+1985,NW,1985_KUPL_100,1985_10_NW,23,24,47,usa,Dwight_Estby,Dwight Estby,Estby Enterprises,,Pontiac,6,,crash,0,28
+1985,NW,1985_KUPL_100,1985_10_NW,24,17,2,usa,Bobby_Baker,Bobby Baker,Baker Racing,,Chevrolet,3,,engine,0,27
+1985,NW,1985_Tri-City_100,1985_11_NW,1,8,64,usa,Garrett_Evans,Garrett Evans,Leonard Evans Cars,,Pontiac,100,,running,79,60
+1985,NW,1985_Tri-City_100,1985_11_NW,2,7,33,usa,Rick_Schultz,Rick Schultz,Duval Racing,,Pontiac,100,,running,0,49
+1985,NW,1985_Tri-City_100,1985_11_NW,3,4,29,usa,Larry_Barton,Larry Barton,Larry's Radiator,,Pontiac,100,,running,17,53
+1985,NW,1985_Tri-City_100,1985_11_NW,4,5,93,usa,Ron_Rainwater,Ron Rainwater,Rainwater Insurance,,Pontiac,100,,running,0,47
+1985,NW,1985_Tri-City_100,1985_11_NW,5,2,09,usa,Sam_Rose,Sam Rose,Nob Hill Auto,,Pontiac,100,,running,0,46
+1985,NW,1985_Tri-City_100,1985_11_NW,6,6,1,usa,Don_Dowdy,Don Dowdy,Dowdy-Morin Racing,,Pontiac,99,,running,4,50
+1985,NW,1985_Tri-City_100,1985_11_NW,7,19,80,usa,Leon_Fox,Leon Fox,Fox Motors,,Pontiac,99,,running,0,44
+1985,NW,1985_Tri-City_100,1985_11_NW,8,3,20,usa,Dirk_Stephens,Dirk Stephens,Capital Industrial Supply,,Pontiac,99,,running,0,43
+1985,NW,1985_Tri-City_100,1985_11_NW,9,16,14,usa,J_R_Charbonneau,J.R. Charbonneau,Spokane AMC-Jeep,,Pontiac,98,,running,0,42
+1985,NW,1985_Tri-City_100,1985_11_NW,10,10,90,usa,Bob_Fox,Bob Fox,Rainwater Insurance,,Pontiac,96,,running,0,41
+1985,NW,1985_Tri-City_100,1985_11_NW,11,2,14,usa,Greg_Walden,Greg Walden,Arctic Circle / Harrington,,Pontiac,95,,running,0,40
+1985,NW,1985_Tri-City_100,1985_11_NW,12,11,28,usa,Ron_Hall,Ron Hall,Ulrick's Transmission,,Chevrolet,89,,running,0,39
+1985,NW,1985_Tri-City_100,1985_11_NW,13,13,01,usa,Jerry_Lumsden,Jerry Lumsden,Jerry's Carriage / KSGA,,Ford,86,,running,0,38
+1985,NW,1985_Tri-City_100,1985_11_NW,14,12,82,usa,Jamey_Oman,Jamey Oman,Nob Hill Auto,,Pontiac,77,,gasket,0,37
+1985,NW,1985_Tri-City_100,1985_11_NW,15,11,7,usa,Derrike_Cope,Derrike Cope,Fuge / Ross Lumber,,Ford,72,,tire,0,36
+1985,NW,1985_Tri-City_100,1985_11_NW,16,15,84,usa,Joe_Bowers,Joe Bowers,Lorne Bangert Ford / Sharpe,,Ford,37,,engine,0,35
+1985,NW,1985_Tri-City_100,1985_11_NW,17,9,25,usa,Chad_Little,Chad Little,Duval / Off Broadway,,Pontiac,4,,technical,0,34
+1985,NW,1985_Tri-City_100,1985_11_NW,18,18,11,usa,Rob_Holden,Rob Holden,Universal Land Construction,,Pontiac,3,,engine,0,33
+1985,NW,1985_Tri-City_100,1985_11_NW,19,1,31,none,Terry_Martin,Terry Martin,Dr. Pepper,,Pontiac,3,,rear end,0,32
+1985,NW,1985_Tri-City_100,1985_11_NW,20,17,28X,none,Ray_Bennett,Ray Bennett,Western Peterbilt,,Pontiac,3,,crash,0,31
+1985,NW,1985_KISW_100_%28August%29,1985_12_NW,1,5,64,usa,Garrett_Evans,Garrett Evans,Leonard Evans Cars,,Pontiac,100,,running,5,60
+1985,NW,1985_KISW_100_%28August%29,1985_12_NW,2,1,90,usa,Bob_Fox,Bob Fox,Rainwater Insurance,,Pontiac,100,,running,95,54
+1985,NW,1985_KISW_100_%28August%29,1985_12_NW,3,12,33,usa,Rick_Schultz,Rick Schultz,Duval / River City Body,,Pontiac,100,,running,0,48
+1985,NW,1985_KISW_100_%28August%29,1985_12_NW,4,10,9,usa,Don_Lorenz,Don Lorenz,American Auto Parts,,Dodge,100,,running,0,47
+1985,NW,1985_KISW_100_%28August%29,1985_12_NW,5,7,11,usa,Rob_Holden,Rob Holden,Universal Land Construction,,Pontiac,100,,running,0,46
+1985,NW,1985_KISW_100_%28August%29,1985_12_NW,6,22,09,usa,Sam_Rose,Sam Rose,Nob Hill Auto,,Pontiac,100,,running,0,45
+1985,NW,1985_KISW_100_%28August%29,1985_12_NW,7,2,93,usa,Ron_Rainwater,Ron Rainwater,Rainwater Insurance,,Pontiac,99,,running,0,44
+1985,NW,1985_KISW_100_%28August%29,1985_12_NW,8,14,00,usa,Ron_Fritzley,Ron Fritzley,Aurora Toyota,,Pontiac,99,,running,0,43
+1985,NW,1985_KISW_100_%28August%29,1985_12_NW,9,17,02,usa,Wilbur_Bruce,Wilbur Bruce,Hylebos Marina,,Pontiac,99,,running,0,42
+1985,NW,1985_KISW_100_%28August%29,1985_12_NW,10,24,56,usa,Steve_Hurley,Steve Hurley,Oberg Filters,,Pontiac,97,,running,0,41
+1985,NW,1985_KISW_100_%28August%29,1985_12_NW,11,4,10,usa,Dave_Goulet,Dave Goulet,Trick Racing Gasoline,,Chevrolet,97,,running,0,40
+1985,NW,1985_KISW_100_%28August%29,1985_12_NW,12,15,29,usa,Larry_Barton,Larry Barton,Larry's Radiator,,Pontiac,97,,running,0,39
+1985,NW,1985_KISW_100_%28August%29,1985_12_NW,13,11,98,usa,Mike_Bliss,Mike Bliss,Bliss Roofing,,Pontiac,93,,running,0,38
+1985,NW,1985_KISW_100_%28August%29,1985_12_NW,14,16,26,usa,Chad_Little,Chad Little,Duval-Little Racing / Off Broadway,,Pontiac,76,,engine,0,37
+1985,NW,1985_KISW_100_%28August%29,1985_12_NW,15,9,4,usa,Chuck_Flora,Chuck Flora,Flora Racing,,Pontiac,67,,ignition,0,36
+1985,NW,1985_KISW_100_%28August%29,1985_12_NW,16,20,3,usa,Ken_McMahon,Ken McMahon,Jennings Insulated Glass,,Chevrolet,66,,fuel pump,0,35
+1985,NW,1985_KISW_100_%28August%29,1985_12_NW,17,18,13,usa,Joe_Bowers,Joe Bowers,Bowers Excavating,,Pontiac,41,,electrical,0,34
+1985,NW,1985_KISW_100_%28August%29,1985_12_NW,18,3,20,usa,Dirk_Stephens,Dirk Stephens,Capital Industrial Supply,,Pontiac,29,,mechanical,0,33
+1985,NW,1985_KISW_100_%28August%29,1985_12_NW,19,23,82,usa,Jamey_Oman,Jamey Oman,Marysville Auto,,Pontiac,29,,oil pressure,0,32
+1985,NW,1985_KISW_100_%28August%29,1985_12_NW,20,8,7,usa,Derrike_Cope,Derrike Cope,Fuge / Ross Lumber,,Ford,16,,crash,0,31
+1985,NW,1985_KISW_100_%28August%29,1985_12_NW,21,6,14,usa,Ron_Eaton,Ron Eaton,Monaco Enterprises,,Pontiac,16,,crash,0,30
+1985,NW,1985_KISW_100_%28August%29,1985_12_NW,22,13,80,usa,Leon_Fox,Leon Fox,Fox Motors,,Pontiac,16,,crash,0,29
+1985,NW,1985_KISW_100_%28August%29,1985_12_NW,23,21,15,usa,Lynn_Chandler,Lynn Chandler,Chandler Racing,,Pontiac,15,,engine,0,28
+1985,NW,1985_KISW_100_%28August%29,1985_12_NW,24,19,69,usa,Jim_Johnson,Jim Johnson,Johnson Racing,,Pontiac,12,,engine,0,27
+1985,NW,1985_McCollum_Stateline_100,1985_13_NW,1,2,33,usa,Rick_Schultz,Rick Schultz,Duval Racing,,Pontiac,100,,running,93,60
+1985,NW,1985_McCollum_Stateline_100,1985_13_NW,2,4,64,usa,Garrett_Evans,Garrett Evans,Leonard Evans Cars,,Pontiac,100,,running,0,49
+1985,NW,1985_McCollum_Stateline_100,1985_13_NW,3,9,80,usa,Leon_Fox,Leon Fox,Fox Motors,,Pontiac,100,,running,0,48
+1985,NW,1985_McCollum_Stateline_100,1985_13_NW,4,5,90,usa,Bob_Fox,Bob Fox,Rainwater Insurance,,Pontiac,100,,running,0,47
+1985,NW,1985_McCollum_Stateline_100,1985_13_NW,5,6,26,usa,Chad_Little,Chad Little,Off Broadway / Western Truck,,Ford,100,,running,0,46
+1985,NW,1985_McCollum_Stateline_100,1985_13_NW,6,13,09,usa,Sam_Rose,Sam Rose,Nob Hill Auto,,Pontiac,100,,running,0,45
+1985,NW,1985_McCollum_Stateline_100,1985_13_NW,7,12,82,usa,Jamey_Oman,Jamey Oman,Marysville Auto,,Chevrolet,99,,running,0,44
+1985,NW,1985_McCollum_Stateline_100,1985_13_NW,8,8,29,usa,Larry_Barton,Larry Barton,Larry's Radiator,,Pontiac,98,,running,0,43
+1985,NW,1985_McCollum_Stateline_100,1985_13_NW,9,1,93,usa,Ron_Rainwater,Ron Rainwater,Rainwater Insurance,,Pontiac,98,,running,7,47
+1985,NW,1985_McCollum_Stateline_100,1985_13_NW,10,15,32,none,Dave_Weaver,Dave Weaver,Weaver's Garage,,Ford,97,,running,0,41
+1985,NW,1985_McCollum_Stateline_100,1985_13_NW,11,11,14,usa,Kirk_Rogers,Kirk Rogers,Monaco Enterprises,,Pontiac,94,,ignition,0,40
+1985,NW,1985_McCollum_Stateline_100,1985_13_NW,12,16,94,usa,Bruce_Garber,Bruce Garber,Jones Automotive,,Ford,91,,running,0,39
+1985,NW,1985_McCollum_Stateline_100,1985_13_NW,13,7,13,usa,Joe_Bowers,Joe Bowers,Bowers Excavating,,Pontiac,82,,engine,0,38
+1985,NW,1985_McCollum_Stateline_100,1985_13_NW,14,11,31,none,Terry_Martin,Terry Martin,Dr. Pepper,,Pontiac,79,,suspension,0,37
+1985,NW,1985_McCollum_Stateline_100,1985_13_NW,15,10,74,usa,J_R_Charbonneau,J.R. Charbonneau,Spokane AMC-Jeep,,Pontiac,55,,ignition,0,36
+1985,NW,1985_McCollum_Stateline_100,1985_13_NW,16,14,25,usa,Frank_Duval,Frank Duval,Duval Racing,,Pontiac,54,,ignition,0,35
+1985,NW,1985_McCollum_Stateline_100,1985_13_NW,17,17,28,none,Ken_McGuire,Ken McGuire,Poor Boys Tires,,Chevrolet,28,,engine,0,34
+1985,NW,1985_Strohs_100_%28August%29,1985_14_NW,1,5,7,usa,Derrike_Cope,Derrike Cope,Fuge / Ross Lumber,,Ford,100,,running,42,60
+1985,NW,1985_Strohs_100_%28August%29,1985_14_NW,2,1,14,usa,Ron_Eaton,Ron Eaton,Monaco Enterprises,,Pontiac,100,,running,58,54
+1985,NW,1985_Strohs_100_%28August%29,1985_14_NW,3,7,64,usa,Garrett_Evans,Garrett Evans,Leonard Evans Cars,,Pontiac,100,,running,0,48
+1985,NW,1985_Strohs_100_%28August%29,1985_14_NW,4,4,33,usa,Rick_Schultz,Rick Schultz,Duval Racing,,Pontiac,100,,running,0,47
+1985,NW,1985_Strohs_100_%28August%29,1985_14_NW,5,6,4,usa,Chuck_Flora,Chuck Flora,Flora Racing,,Pontiac,100,,running,0,46
+1985,NW,1985_Strohs_100_%28August%29,1985_14_NW,6,10,98,usa,Mike_Bliss,Mike Bliss,Bliss Roofing,,Pontiac,100,,running,0,45
+1985,NW,1985_Strohs_100_%28August%29,1985_14_NW,7,11,80,usa,Leon_Fox,Leon Fox,Fox Motors,,Pontiac,100,,running,0,44
+1985,NW,1985_Strohs_100_%28August%29,1985_14_NW,8,8,93,usa,Ron_Rainwater,Ron Rainwater,Rainwater Insurance,,Pontiac,100,,running,0,43
+1985,NW,1985_Strohs_100_%28August%29,1985_14_NW,9,3,20,usa,Dirk_Stephens,Dirk Stephens,Capital Industrial Supply,,Pontiac,99,,running,0,42
+1985,NW,1985_Strohs_100_%28August%29,1985_14_NW,10,13,02,usa,Wilbur_Bruce,Wilbur Bruce,Hylebos Marina,,Pontiac,98,,running,0,41
+1985,NW,1985_Strohs_100_%28August%29,1985_14_NW,11,21,75,usa,Donovan_Haider,Donovan Haider,Sunset Air,,Pontiac,98,,running,0,40
+1985,NW,1985_Strohs_100_%28August%29,1985_14_NW,12,19,96,usa,Don_Andrews,Don Andrews,Hillcrest Aviation,,Buick,96,,running,0,39
+1985,NW,1985_Strohs_100_%28August%29,1985_14_NW,13,23,34,usa,Bruno_Stanosheck,Bruno Stanosheck,Kenser Cutting,,Oldsmobile,93,,running,0,38
+1985,NW,1985_Strohs_100_%28August%29,1985_14_NW,14,12,10,usa,Dave_Goulet,Dave Goulet,Trick Racing Gasoline,,Chevrolet,92,,crash,0,37
+1985,NW,1985_Strohs_100_%28August%29,1985_14_NW,15,18,82,usa,Jamey_Oman,Jamey Oman,Marysville Auto,,Chevrolet,91,,engine,0,36
+1985,NW,1985_Strohs_100_%28August%29,1985_14_NW,16,15,09,usa,Sam_Rose,Sam Rose,Nob Hill Auto,,Pontiac,90,,running,0,35
+1985,NW,1985_Strohs_100_%28August%29,1985_14_NW,17,17,97,usa,Dave_Butterton,Dave Butterton,Rallye House Machinery,,Pontiac,89,,mechanical,0,34
+1985,NW,1985_Strohs_100_%28August%29,1985_14_NW,18,14,13,usa,Joe_Bowers,Joe Bowers,Bowers Excavating,,Pontiac,80,,crash,0,33
+1985,NW,1985_Strohs_100_%28August%29,1985_14_NW,19,9,69,usa,Jim_Johnson,Jim Johnson,George's Drywall,,Pontiac,63,,crash,0,32
+1985,NW,1985_Strohs_100_%28August%29,1985_14_NW,20,2,90,usa,Bob_Fox,Bob Fox,Rainwater Insurance,,Pontiac,62,,transmission,0,31
+1985,NW,1985_Strohs_100_%28August%29,1985_14_NW,21,22,15,usa,Scott_Streepy,Scott Streepy,Cope Brothers / J & G Engines,,Chevrolet,50,,too slow,0,30
+1985,NW,1985_Strohs_100_%28August%29,1985_14_NW,22,16,94,usa,Russ_Kenser,Russ Kenser,Kenser Cutting,,Pontiac,43,,fuel pressure,0,29
+1985,NW,1985_Strohs_100_%28August%29,1985_14_NW,23,2,2,usa,Bobby_Baker,Bobby Baker,Baker Racing,,Chevrolet,20,,oil pump,0,28
+1985,NW,1985_Winston_Silver_State_150,1985_15_NW,1,1,64,usa,Garrett_Evans,Garrett Evans,Leonard Evans Cars,,Pontiac,150,3165,running,150,60
+1985,NW,1985_Winston_Silver_State_150,1985_15_NW,2,5,33,usa,Rick_Schultz,Rick Schultz,Duval Racing / River City Body,,Pontiac,150,1820,running,0,49
+1985,NW,1985_Winston_Silver_State_150,1985_15_NW,3,2,80,usa,Leon_Fox,Leon Fox,Fox Motors,,Pontiac,150,1285,running,0,48
+1985,NW,1985_Winston_Silver_State_150,1985_15_NW,4,13,73,usa,Bill_Schmitt,Bill Schmitt,California Cooler,,Chevrolet,149,,running,0,47
+1985,NW,1985_Winston_Silver_State_150,1985_15_NW,5,16,93,usa,Ron_Rainwater,Ron Rainwater,Rainwater Insurance,,Pontiac,149,,running,0,46
+1985,NW,1985_Winston_Silver_State_150,1985_15_NW,6,11,4,usa,Chuck_Flora,Chuck Flora,Flora Racing,,Pontiac,148,,running,0,45
+1985,NW,1985_Winston_Silver_State_150,1985_15_NW,7,7,90,usa,Bob_Fox,Bob Fox,Rainwater Insurance,,Pontiac,148,,running,0,44
+1985,NW,1985_Winston_Silver_State_150,1985_15_NW,8,9,00,usa,Ron_Strmiska,Ron Strmiska,Lone Tree Lumber,,Oldsmobile,148,,running,0,43
+1985,NW,1985_Winston_Silver_State_150,1985_15_NW,9,8,17,usa,Jim_Campbell,Jim Campbell,Carson Tire,,Pontiac,147,,running,0,42
+1985,NW,1985_Winston_Silver_State_150,1985_15_NW,10,15,13,usa,Joe_Bowers,Joe Bowers,Bowers Excavating,,Pontiac,146,,running,0,41
+1985,NW,1985_Winston_Silver_State_150,1985_15_NW,11,18,09,usa,Sam_Rose,Sam Rose,Nob Hill Auto,,Pontiac,145,,running,0,40
+1985,NW,1985_Winston_Silver_State_150,1985_15_NW,12,4,98,usa,Mike_Bliss,Mike Bliss,Bliss Roofing,,Pontiac,144,,running,0,39
+1985,NW,1985_Winston_Silver_State_150,1985_15_NW,13,24,34,usa,David_Lester,David Lester,Carson Carb & Ignition,,Buick,141,,running,0,38
+1985,NW,1985_Winston_Silver_State_150,1985_15_NW,14,22,41,usa,Bob_Davies,Bob Davies,Ken's Tire Center,,Buick,140,,running,0,37
+1985,NW,1985_Winston_Silver_State_150,1985_15_NW,15,19,31,usa,Craig_Paulson,Craig Paulson,Reno Frame,,Pontiac,84,,too slow,0,36
+1985,NW,1985_Winston_Silver_State_150,1985_15_NW,16,6,20,usa,Dirk_Stephens,Dirk Stephens,Capital Industrial Supply,,Pontiac,79,,electrical,0,35
+1985,NW,1985_Winston_Silver_State_150,1985_15_NW,17,12,14,usa,Ron_Eaton,Ron Eaton,Monaco Enterprises,,Pontiac,78,,crash,0,34
+1985,NW,1985_Winston_Silver_State_150,1985_15_NW,18,17,10,usa,Dave_Goulet,Dave Goulet,Trick Racing Gasoline,,Chevrolet,75,,suspension,0,33
+1985,NW,1985_Winston_Silver_State_150,1985_15_NW,19,3,7,usa,Derrike_Cope,Derrike Cope,Fuge / Ross Lumber,,Ford,72,,engine,0,32
+1985,NW,1985_Winston_Silver_State_150,1985_15_NW,20,10,15,none,Gordon_Smith_(2),Gordon Smith,DeCamp Farmer's Insurance,,Pontiac,69,,overheating,0,31
+1985,NW,1985_Winston_Silver_State_150,1985_15_NW,21,21,82,usa,Jamey_Oman,Jamey Oman,Marysville Auto,,Chevrolet,52,,overheating,0,30
+1985,NW,1985_Winston_Silver_State_150,1985_15_NW,22,14,9,usa,Don_Lorenz,Don Lorenz,American Auto Parts,,Dodge,33,,engine,0,29
+1985,NW,1985_Winston_Silver_State_150,1985_15_NW,23,23,2,usa,Bobby_Baker,Bobby Baker,Baker Racing,,Chevrolet,26,,gasket,0,28
+1985,NW,1985_Winston_Silver_State_150,1985_15_NW,24,20,5,usa,Darrel_Krentz,Darrel Krentz,Tahoe Beer,,Chevrolet,15,,electrical,0,27
