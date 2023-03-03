@@ -1,5 +1,5 @@
 season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
-2023,W,2023_Daytona_500,2023_01_W,1,31,47,usa,Ricky_Stenhouse_Jr,"Ricky Stenhouse, Jr.",Kroger/Cottonelle,JTG-Daugherty_Racing,Chevrolet,212,running,10,48,5
+2023,W,2023_Daytona_500,2023_01_W,1,31,47,usa,Ricky_Stenhouse_Jr,Ricky Stenhouse Jr,Kroger/Cottonelle,JTG-Daugherty_Racing,Chevrolet,212,running,10,48,5
 2023,W,2023_Daytona_500,2023_01_W,2,3,22,usa,Joey_Logano,Joey Logano,Shell Pennzoil,Roger_Penske,Ford,212,running,12,52,0
 2023,W,2023_Daytona_500,2023_01_W,3,5,20,usa,Christopher_Bell,Christopher Bell,DeWalt - Rheem,Joe_Gibbs,Toyota,212,running,20,44,0
 2023,W,2023_Daytona_500,2023_01_W,4,9,17,usa,Chris_Buescher,Chris Buescher,Fastenal,Jack_Roush,Ford,212,running,32,50,0
@@ -13,8 +13,8 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,W,2023_Daytona_500,2023_01_W,12,13,4,usa,Kevin_Harvick,Kevin Harvick,Busch Light,Stewart_Haas_Racing,Ford,212,running,1,37,0
 2023,W,2023_Daytona_500,2023_01_W,13,17,36,usa,Zane_Smith,Zane Smith,Wellcare,Bob_Jenkins,Ford,212,running,0,0,0
 2023,W,2023_Daytona_500,2023_01_W,14,35,51,usa,Cody_Ware,Cody Ware,Biohaven/Jacob Co.,Rick_Ware,Ford,212,running,0,23,0
-2023,W,2023_Daytona_500,2023_01_W,15,16,19,usa,Martin_Truex_Jr,"Martin Truex, Jr.",Bass Pro Shops,Joe_Gibbs,Toyota,212,running,13,32,0
-2023,W,2023_Daytona_500,2023_01_W,16,12,7,usa,Corey_LaJoie,Corey LaJoie,Celsius,Spire_Motorsports,Chevrolet,212,running,0,27,0
+2023,W,2023_Daytona_500,2023_01_W,15,16,19,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops,Joe_Gibbs,Toyota,212,running,13,32,0
+2023,W,2023_Daytona_500,2023_01_W,16,12,7,usa,Corey_Lajoie,Corey Lajoie,Celsius,Spire_Motorsports,Chevrolet,212,running,0,27,0
 2023,W,2023_Daytona_500,2023_01_W,17,18,11,usa,Denny_Hamlin,Denny Hamlin,FedEx 50,Joe_Gibbs,Toyota,212,running,6,22,0
 2023,W,2023_Daytona_500,2023_01_W,18,2,5,usa,Kyle_Larson,Kyle Larson,HendrickCars.com,Rick_Hendrick,Chevrolet,211,crash,6,24,0
 2023,W,2023_Daytona_500,2023_01_W,19,36,8,usa,Kyle_Busch,Kyle Busch,3CHI,Richard_Childress,Chevrolet,211,crash,6,18,0
@@ -49,10 +49,10 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,W,2023_Pala_Casino_400,2023_02_W,8,4,48,usa,Alex_Bowman,Alex Bowman,Ally,Rick_Hendrick,Chevrolet,200,running,17,39,0
 2023,W,2023_Pala_Casino_400,2023_02_W,9,28,3,usa,Austin_Dillon,Austin Dillon,Dow Coatings,Richard_Childress,Chevrolet,200,running,3,28,0
 2023,W,2023_Pala_Casino_400,2023_02_W,10,3,22,usa,Joey_Logano,Joey Logano,AAA Southern California,Roger_Penske,Ford,200,running,19,39,0
-2023,W,2023_Pala_Casino_400,2023_02_W,11,14,19,usa,Martin_Truex_Jr,"Martin Truex, Jr.",Reser's Fine Foods,Joe_Gibbs,Toyota,200,running,0,28,0
-2023,W,2023_Pala_Casino_400,2023_02_W,12,2,47,usa,Ricky_Stenhouse_Jr,"Ricky Stenhouse, Jr.",Ralphs/Tree Top,JTG-Daugherty_Racing,Chevrolet,200,running,0,25,0
+2023,W,2023_Pala_Casino_400,2023_02_W,11,14,19,usa,Martin_Truex_Jr,Martin Truex Jr,Reser's Fine Foods,Joe_Gibbs,Toyota,200,running,0,28,0
+2023,W,2023_Pala_Casino_400,2023_02_W,12,2,47,usa,Ricky_Stenhouse_Jr,Ricky Stenhouse Jr,Ralphs/Tree Top,JTG-Daugherty_Racing,Chevrolet,200,running,0,25,0
 2023,W,2023_Pala_Casino_400,2023_02_W,13,5,17,usa,Chris_Buescher,Chris Buescher,Pala Casino,Jack_Roush,Ford,200,running,0,24,0
-2023,W,2023_Pala_Casino_400,2023_02_W,14,12,7,usa,Corey_LaJoie,Corey LaJoie,NEGU,Spire_Motorsports,Chevrolet,200,running,0,24,0
+2023,W,2023_Pala_Casino_400,2023_02_W,14,12,7,usa,Corey_Lajoie,Corey Lajoie,NEGU,Spire_Motorsports,Chevrolet,200,running,0,24,0
 2023,W,2023_Pala_Casino_400,2023_02_W,15,24,21,usa,Harrison_Burton,Harrison Burton,DEX Imaging,Wood_Brothers,Ford,200,running,0,22,0
 2023,W,2023_Pala_Casino_400,2023_02_W,16,23,54,usa,Ty_Gibbs,Ty Gibbs,Monster Energy,Joe_Gibbs,Toyota,200,running,0,21,0
 2023,W,2023_Pala_Casino_400,2023_02_W,17,25,38,usa,Todd_Gilliland,Todd Gilliland,LONG JOHN SILVER'S,Bob_Jenkins,Ford,200,running,0,20,0

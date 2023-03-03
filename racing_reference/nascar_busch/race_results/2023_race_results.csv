@@ -1,11 +1,11 @@
 season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
 2023,B,2023_Beef_Its_What%27s_For_Dinner_300,2023_01_B,1,1,21,usa,Austin_Hill,Austin Hill,Bennett Transportation,Richard_Childress,Chevrolet,125,running,39,58,6
-2023,B,2023_Beef_Its_What%27s_For_Dinner_300,2023_01_B,2,7,20,usa,John_Hunter_Nemechek,John Hunter Nemechek,Mobil 1,Joe_Gibbs,Toyota,125,running,8,40,0
+2023,B,2023_Beef_Its_What%27s_For_Dinner_300,2023_01_B,2,7,20,usa,John_H._Nemechek,John H. Nemechek,Mobil 1,Joe_Gibbs,Toyota,125,running,8,40,0
 2023,B,2023_Beef_Its_What%27s_For_Dinner_300,2023_01_B,3,5,7,usa,Justin_Allgaier,Justin Allgaier,BRANDT,JR_Motorsports,Chevrolet,125,running,36,52,1
 2023,B,2023_Beef_Its_What%27s_For_Dinner_300,2023_01_B,4,16,31,usa,Parker_Retzlaff,Parker Retzlaff,FUNKAWAY,Jordan_Anderson,Chevrolet,125,running,0,33,0
 2023,B,2023_Beef_Its_What%27s_For_Dinner_300,2023_01_B,5,13,19,usa,Myatt_Snider,Myatt Snider,Tree Top,Joe_Gibbs,Toyota,125,running,0,33,0
 2023,B,2023_Beef_Its_What%27s_For_Dinner_300,2023_01_B,6,9,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,125,running,0,35,0
-2023,B,2023_Beef_Its_What%27s_For_Dinner_300,2023_01_B,7,29,39,usa,Joe_Graf_Jr,"Joe Graf, Jr.",Getcoverseal.com,Rod_Sieg,Ford,125,running,0,30,0
+2023,B,2023_Beef_Its_What%27s_For_Dinner_300,2023_01_B,7,29,39,usa,Joe_Graf_Jr,Joe Graf Jr,Getcoverseal.com,Rod_Sieg,Ford,125,running,0,30,0
 2023,B,2023_Beef_Its_What%27s_For_Dinner_300,2023_01_B,8,22,38,usa,Ryan_Sieg,Ryan Sieg,CMRroofing.com,Rod_Sieg,Ford,125,running,0,29,0
 2023,B,2023_Beef_Its_What%27s_For_Dinner_300,2023_01_B,9,3,00,usa,Cole_Custer,Cole Custer,Haas Automation,Stewart_Haas_Racing,Ford,125,running,1,30,0
 2023,B,2023_Beef_Its_What%27s_For_Dinner_300,2023_01_B,10,19,10,usa,Justin_Haley,Justin Haley,DaaBIN Store,Matt_Kaulig,Chevrolet,125,running,1,0,0
@@ -37,7 +37,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,B,2023_Beef_Its_What%27s_For_Dinner_300,2023_01_B,36,6,11,usa,Daniel_Hemric,Daniel Hemric,Cirkul,Matt_Kaulig,Chevrolet,20,crash,0,1,0
 2023,B,2023_Beef_Its_What%27s_For_Dinner_300,2023_01_B,37,27,07,usa,Blaine_Perkins,Blaine Perkins,AUTOPARKIT.com,Bobby_Dotter,Chevrolet,19,crash,0,1,0
 2023,B,2023_Beef_Its_What%27s_For_Dinner_300,2023_01_B,38,30,4,usa,Bayley_Currey,Bayley Currey,Mikes Weather Page/Firman,Johnny_Davis,Chevrolet,8,engine,0,1,0
-2023,B,2023_Production_Alliance_Group_300,2023_02_B,1,2,20,usa,John_Hunter_Nemechek,John Hunter Nemechek,Vons/Albertsons,Joe_Gibbs,Toyota,150,running,49,51,5
+2023,B,2023_Production_Alliance_Group_300,2023_02_B,1,2,20,usa,John_H._Nemechek,John H. Nemechek,Vons/Albertsons,Joe_Gibbs,Toyota,150,running,49,51,5
 2023,B,2023_Production_Alliance_Group_300,2023_02_B,2,22,1,usa,Sam_Mayer,Sam Mayer,Accelerate Pros Talent,JR_Motorsports,Chevrolet,150,running,0,39,0
 2023,B,2023_Production_Alliance_Group_300,2023_02_B,3,3,7,usa,Justin_Allgaier,Justin Allgaier,BRANDT,JR_Motorsports,Chevrolet,150,running,8,39,0
 2023,B,2023_Production_Alliance_Group_300,2023_02_B,4,5,16,usa,Chandler_Smith,Chandler Smith,"Quick Tie Products, Inc.",Matt_Kaulig,Chevrolet,150,running,1,42,0
@@ -47,7 +47,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,B,2023_Production_Alliance_Group_300,2023_02_B,8,15,10,usa,Austin_Dillon,Austin Dillon,LA Golf,Matt_Kaulig,Chevrolet,150,running,10,0,0
 2023,B,2023_Production_Alliance_Group_300,2023_02_B,9,25,25,usa,Brett_Moffitt,Brett Moffitt,AM Technical Solutions,Kevin_Cywinski,Ford,150,running,0,32,0
 2023,B,2023_Production_Alliance_Group_300,2023_02_B,10,23,48,usa,Parker_Kligerman,Parker Kligerman,Big Machine Racing Spiked,Scott_Borchetta,Chevrolet,150,running,0,34,0
-2023,B,2023_Production_Alliance_Group_300,2023_02_B,11,14,19,usa,Joe_Graf_Jr,"Joe Graf, Jr.",CoverSeal,Joe_Gibbs,Toyota,150,running,0,26,0
+2023,B,2023_Production_Alliance_Group_300,2023_02_B,11,14,19,usa,Joe_Graf_Jr,Joe Graf Jr,CoverSeal,Joe_Gibbs,Toyota,150,running,0,26,0
 2023,B,2023_Production_Alliance_Group_300,2023_02_B,12,35,11,usa,Daniel_Hemric,Daniel Hemric,Poppy Bank,Matt_Kaulig,Chevrolet,150,running,0,32,0
 2023,B,2023_Production_Alliance_Group_300,2023_02_B,13,29,26,usa,Kaz_Grala,Kaz Grala,Fire Department Coffee,Sam_Hunt,Toyota,150,running,0,24,0
 2023,B,2023_Production_Alliance_Group_300,2023_02_B,14,16,39,usa,Ryan_Sieg,Ryan Sieg,CMRroofing.com,Rod_Sieg,Ford,150,running,0,23,0
