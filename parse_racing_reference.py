@@ -328,7 +328,13 @@ def get_racing_reference_race_results(season:int,series_id="W"):
 
 
 def main():
-    current_year = datetime.now().year
+    #current_year = datetime.now().year
+    now = datetime.now()
+    current_year = now.year
+    current_month = now.month
+    current_day = now.day
+
+
     for i in range(current_year,current_year+1):
         ## Cup Series
         if i >= 1949:
@@ -695,6 +701,8 @@ def main():
             except:
                print(f'Could not get race results for the {i} ASA National Tour season.')
 
+    with open('racing_reference_status.json','w+') as f:
+        f.write(f"{{ \"year\":{current_year},\"month\":{current_month},\"day\":{current_day} }}")
 
 if __name__ == "__main__":
     main()

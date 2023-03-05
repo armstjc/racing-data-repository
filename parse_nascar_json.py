@@ -751,7 +751,11 @@ def parse_lap_times(race_id,race_level,race_season):
 	return lap_times_df
 
 def main():
-	current_year = datetime.now().year
+	#current_year = datetime.now().year
+	now = datetime.now()
+	current_year = now.year
+	current_month = now.month
+	current_day = now.day
 
 	for i in tqdm(range(current_year-1,current_year+1)):
 		df = parse_nascar_schedule(i, "all")
@@ -796,6 +800,9 @@ def main():
 				print('Couldn\'t parse the race. Breaking the loop.')
 				time.sleep(2)
 			#print(race_df)
+
+	with open('nascar_api_status.json','w+') as f:
+		f.write(f"{{ \"year\":{current_year},\"month\":{current_month},\"day\":{current_day} }}")
 
 if __name__ == "__main__":
 	main()
