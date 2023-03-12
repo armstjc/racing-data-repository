@@ -59,6 +59,17 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5312,47,53,Competition,Stage 1 Conclusion,45,2
 5312,75,78,Spin,No. 8 Spin Turn 4,51,2
 5312,90,97,Spin,No. 45 Spin Turn 2 / Stage 2 Conclusion,4,2
+5313,30,35,Debris,Debris,07,2
+5313,40,43,Spin,#8 Spin Turn 3,53,2
+5313,47,55,Competition,Stage 1 Conclusion,None,2
+5313,57,62,Spin,#25 Spin Turn 3,74,2
+5313,70,74,Accident,"#24, #92 Incident Turn 2",74,2
+5313,85,88,Accident,"#1, #8 Incident Turn 2",74,2
+5313,92,100,Competition,Stage 2 Conclusion,74,2
+5313,140,147,Accident,#08 Incident Turn 1,24,2
+5313,150,156,Spin,#2 Spin Turn 2,91,2
+5313,172,176,Spin,#78 Spin Turn 2,07,2
+5313,180,185,Accident,"#25, #26, #7 Incident Turn 4",44,2
 5343,3,6,Weather,Weather,None,2
 5343,8,10,Weather,Weather,None,2
 5343,22,25,Competition,Stage 1 Conclusion,None,2
