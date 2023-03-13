@@ -1,183 +1,183 @@
 season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
-1925,UO,1925_Culver_City_Race_1,1925_01_UO,1,3,4,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller SC,200,,running,168,500
-1925,UO,1925_Culver_City_Race_1,1925_01_UO,2,10,12,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,200,,running,0,260
-1925,UO,1925_Culver_City_Race_1,1925_01_UO,3,12,6,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,200,,running,12,140
-1925,UO,1925_Culver_City_Race_1,1925_01_UO,4,11,14,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,200,,running,0,80
-1925,UO,1925_Culver_City_Race_1,1925_01_UO,5,20,35,usa,Peter_Kreis,Peter Kreis,Duesenberg,,Duesenberg / Duesenberg SC,200,,running,0,50
-1925,UO,1925_Culver_City_Race_1,1925_01_UO,6,14,22,italy,Pietro_Bordino,Pietro Bordino,Fiat,,Fiat / Fiat SC,200,,running,0,35
-1925,UO,1925_Culver_City_Race_1,1925_01_UO,7,15,2,usa,Earl_Cooper,Earl Cooper,Weaver / Miller,,Miller / Miller SC,200,,running,0,25
-1925,UO,1925_Culver_City_Race_1,1925_01_UO,8,2,24,usa,Dave_Lewis,Dave Lewis,Miller,,Miller / Miller SC,200,,running,0,15
-1925,UO,1925_Culver_City_Race_1,1925_01_UO,9,19,19,usa,Reginald_Johnson,Reginald Johnson,Reginald Johnson,,Miller / Miller SC,200,,running,0,10
-1925,UO,1925_Culver_City_Race_1,1925_01_UO,10,16,15,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,166,,engine,0,
-1925,UO,1925_Culver_City_Race_1,1925_01_UO,11,6,10,usa,Jerry_Wonderlich,Jerry Wonderlich,Miller,,Miller / Miller,154,,engine,0,
-1925,UO,1925_Culver_City_Race_1,1925_01_UO,12,9,23,usa,Wade_Morton,Wade Morton,Duesenberg,,Duesenberg / Duesenberg SC,143,,spark plugs,0,
-1925,UO,1925_Culver_City_Race_1,1925_01_UO,13,18,28,usa,Leon_Duray,Leon Duray,Miller,,Miller / Miller SC,130,,engine,16,
-1925,UO,1925_Culver_City_Race_1,1925_01_UO,14,5,27,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,122,,engine,0,
-1925,UO,1925_Culver_City_Race_1,1925_01_UO,15,17,8,usa,Eddie_Hearne,Eddie Hearne,Miller,,Miller / Miller SC,119,,engine,0,
-1925,UO,1925_Culver_City_Race_1,1925_01_UO,16,7,9,usa,Phil_Shafer,Phil Shafer,Duesenberg,,Duesenberg / Duesenberg SC,76,,fatigue,0,
-1925,UO,1925_Culver_City_Race_1,1925_01_UO,17,8,5,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,72,,engine,0,
-1925,UO,1925_Culver_City_Race_1,1925_01_UO,18,1,11,italy,Ralph_DePalma,Ralph DePalma,Miller,,Miller / Miller SC,31,,valve,1,
-1925,UO,1925_Culver_City_Race_1,1925_01_UO,19,13,3,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,5,,engine,0,
-1925,UO,1925_Culver_City_Race_1,1925_01_UO,20,20,17,usa,Stuart_Wilkinson,Stuart Wilkinson,Miller,,Miller / Miller SC,0,,did not start,0,
-1925,UO,1925_Culver_City_Race_1,1925_01_UO,21,21,26,usa,Cliff_Durant,Cliff Durant,Flint / Miller,,Miller / Miller SC,0,,did not start,0,
-1925,UO,1925_Raisin_Day_Classic,1925_02_UO,1,6,12,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,150,,running,–,300
-1925,UO,1925_Raisin_Day_Classic,1925_02_UO,2,3,4,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller SC,150,,running,–,160
-1925,UO,1925_Raisin_Day_Classic,1925_02_UO,3,4,28,usa,Leon_Duray,Leon Duray,Miller,,Miller / Miller SC,150,,running,–,90
-1925,UO,1925_Raisin_Day_Classic,1925_02_UO,4,1,3,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,150,,running,–,50
-1925,UO,1925_Raisin_Day_Classic,1925_02_UO,5,5,2,usa,Earl_Cooper,Earl Cooper,Weaver / Miller,,Miller / Miller,150,,running,–,30
-1925,UO,1925_Raisin_Day_Classic,1925_02_UO,6,2,6,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,150,,running,–,20
-1925,UO,1925_Raisin_Day_Classic,1925_02_UO,7,8,5,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,150,,running,–,15
-1925,UO,1925_Raisin_Day_Classic,1925_02_UO,8,7,27,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,150,,running,–,10
-1925,UO,1925_Raisin_Day_Classic,1925_02_UO,9,10,14,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,143,,running,–,
-1925,UO,1925_Raisin_Day_Classic,1925_02_UO,10,9,10,usa,Jerry_Wonderlich,Jerry Wonderlich,Miller,,Miller / Miller,31,,engine,–,
-1925,UO,1925_Southern_Speed_Classic,1925_03_UO,1,–,2,usa,Earl_Cooper,Earl Cooper,Weaver / Miller,,Miller / Miller,200,,running,–,500
-1925,UO,1925_Southern_Speed_Classic,1925_03_UO,2,–,6,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,200,,running,–,260
-1925,UO,1925_Southern_Speed_Classic,1925_03_UO,3,–,4,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller SC,200,,running,–,140
-1925,UO,1925_Southern_Speed_Classic,1925_03_UO,4,–,5,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,200,,running,–,80
-1925,UO,1925_Southern_Speed_Classic,1925_03_UO,5,–,12,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,200,,running,–,50
-1925,UO,1925_Southern_Speed_Classic,1925_03_UO,6,–,14,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,200,,running,–,35
-1925,UO,1925_Southern_Speed_Classic,1925_03_UO,7,–,9,usa,Phil_Shafer,Phil Shafer,Duesenberg,,Duesenberg / Duesenberg SC,–,,running,–,25
-1925,UO,1925_Southern_Speed_Classic,1925_03_UO,8,–,16,usa,L_L_Corum,L.L. Corum,Miller,,Miller / Miller SC,–,,running,–,15
-1925,UO,1925_Southern_Speed_Classic,1925_03_UO,9,–,22,italy,Pietro_Bordino,Pietro Bordino,Fiat,,Fiat / Fiat,182,,rear end,–,
-1925,UO,1925_Southern_Speed_Classic,1925_03_UO,10,–,35,usa,Peter_Kreis,Peter Kreis,Duesenberg,,Duesenberg / Duesenberg,174,,ignition,–,
-1925,UO,1925_Southern_Speed_Classic,1925_03_UO,11,–,28,usa,Leon_Duray,Leon Duray,Miller,,Miller / Miller SC,163,,rear axle,–,
-1925,UO,1925_Southern_Speed_Classic,1925_03_UO,12,–,27,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,128,,overheating,–,
-1925,UO,1925_Southern_Speed_Classic,1925_03_UO,13,–,3,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,124,,engine,–,
-1925,UO,1925_Southern_Speed_Classic,1925_03_UO,14,–,10,usa,Jerry_Wonderlich,Jerry Wonderlich,Miller,,Miller / Miller,74,,clutch,–,
-1925,UO,1925_Southern_Speed_Classic,1925_03_UO,15,–,19,usa,Reginald_Johnson,Reginald Johnson,Reginald Johnson,,Miller / Miller SC,70,,crash,–,
-1925,UO,1925_International_500,1925_04_UO,1,2,12,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,200,28800,running,115,
-1925,UO,1925_International_500,1925_04_UO,2,5,1,usa,Dave_Lewis,Dave Lewis,Miller,,Miller FD / Miller SC,200,12700,running,50,
-1925,UO,1925_International_500,1925_04_UO,3,22,9,usa,Phil_Shafer,Phil Shafer,Duesenberg,,Duesenberg / Duesenberg SC,200,6300,running,13,
-1925,UO,1925_International_500,1925_04_UO,4,3,6,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,200,3800,running,3,
-1925,UO,1925_International_500,1925_04_UO,5,11,4,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller SC,200,3000,running,0,
-1925,UO,1925_International_500,1925_04_UO,6,1,28,usa,Leon_Duray,Leon Duray,Miller,,Miller / Miller SC,200,2200,running,0,
-1925,UO,1925_International_500,1925_04_UO,7,17,8,italy,Ralph_DePalma,Ralph DePalma,Miller,,Miller / Miller SC,200,1800,running,0,
-1925,UO,1925_International_500,1925_04_UO,8,9,35,usa,Peter_Kreis,Peter Kreis,Duesenberg,,Duesenberg / Duesenberg SC,200,1600,running,0,
-1925,UO,1925_International_500,1925_04_UO,9,13,15,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,200,1500,running,0,
-1925,UO,1925_International_500,1925_04_UO,10,8,22,italy,Pietro_Bordino,Pietro Bordino,Fiat,,Fiat / Fiat SC,200,1400,running,0,
-1925,UO,1925_International_500,1925_04_UO,11,12,5,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,200,1096,running,0,
-1925,UO,1925_International_500,1925_04_UO,12,10,27,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,200,1037,running,0,
-1925,UO,1925_International_500,1925_04_UO,13,14,24,usa,Earl_DeVore,Earl DeVore,Miller,,Miller / Miller SC,198,981,running,0,
-1925,UO,1925_International_500,1925_04_UO,14,19,14,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,188,929,truss rod,0,
-1925,UO,1925_International_500,1925_04_UO,15,15,23,usa,Wade_Morton,Wade Morton,Duesenberg,,Duesenberg / Duesenberg SC,156,880,crash,0,
-1925,UO,1925_International_500,1925_04_UO,16,6,17,usa,Ralph_Hepburn,Ralph Hepburn,Miller,,Miller / Miller,144,2334,fuel leak,15,
-1925,UO,1925_International_500,1925_04_UO,17,4,2,usa,Earl_Cooper,Earl Cooper,Miller,,Miller / Miller,127,1191,crash,4,
-1925,UO,1925_International_500,1925_04_UO,18,21,3,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,69,750,rear spring,0,
-1925,UO,1925_International_500,1925_04_UO,19,16,29,usa,Herbert_Jones,Herbert Jones,Jones-Whitaker,,Miller / Miller,69,729,crash,0,
-1925,UO,1925_International_500,1925_04_UO,20,18,19,canada,Ira_Vail,Ira Vail,R.J. Johnson,,Miller / Miller SC,63,692,connecting rod,0,
-1925,UO,1925_International_500,1925_04_UO,21,20,7,usa,M_C_Jones,M.C. Jones,H.J. Skelly,,Ford T / Fronty-Ford,33,657,transmission,0,
-1925,UO,1925_International_500,1925_04_UO,22,7,10,usa,Jules_Ellingboe,Jules Ellingboe,Miller,,Miller / Miller,24,625,steering,0,
-1925,UO,1925_Spring_Classic,1925_05_UO,1,14,12,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,200,,running,–,500
-1925,UO,1925_Spring_Classic,1925_05_UO,2,5,27,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,200,,running,–,260
-1925,UO,1925_Spring_Classic,1925_05_UO,3,13,4,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller SC,200,,running,–,140
-1925,UO,1925_Spring_Classic,1925_05_UO,4,6,6,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,200,,running,–,80
-1925,UO,1925_Spring_Classic,1925_05_UO,5,10,5,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,200,,running,–,29
-1925,UO,1925_Spring_Classic,1925_05_UO,6,12,38,usa,Peter_Kreis,Peter Kreis,Duesenberg,,Duesenberg / Duesenberg SC,200,,running,–,35
-1925,UO,1925_Spring_Classic,1925_05_UO,7,16,14,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,200,,running,–,25
-1925,UO,1925_Spring_Classic,1925_05_UO,8,18,34,usa,Earl_DeVore,Earl DeVore,Miller,,Miller / Miller SC,200,,running,–,15
-1925,UO,1925_Spring_Classic,1925_05_UO,9,7,17,usa,Ralph_Hepburn,Ralph Hepburn,Miller,,Miller / Miller SC,200,,running,–,10
-1925,UO,1925_Spring_Classic,1925_05_UO,10,17,19,usa,Jim_Hill,Jim Hill,Reginald Johnson,,Miller / Miller SC,–,,running,–,5
-1925,UO,1925_Spring_Classic,1925_05_UO,11,8,10,usa,Jerry_Wonderlich,Jerry Wonderlich,Miller,,Miller / Miller SC,–,,running,–,
-1925,UO,1925_Spring_Classic,1925_05_UO,12,3,2,usa,Earl_Cooper,Earl Cooper,Junior 8 / Miller,,Miller / Miller SC,174,,crash,–,
-1925,UO,1925_Spring_Classic,1925_05_UO,13,4,23,usa,Wade_Morton,Wade Morton,Duesenberg,,Duesenberg / Duesenberg SC,–,,running,–,
-1925,UO,1925_Spring_Classic,1925_05_UO,14,2,3,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,–,,connecting rod,–,
-1925,UO,1925_Spring_Classic,1925_05_UO,15,9,15,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,–,,engine,–,
-1925,UO,1925_Spring_Classic,1925_05_UO,16,1,28,usa,Leon_Duray,Leon Duray,Miller,,Miller / Miller SC,44,,rear axle,–,
-1925,UO,1925_Spring_Classic,1925_05_UO,17,15,9,usa,Phil_Shafer,Phil Shafer,Duesenberg,,Duesenberg / Duesenberg SC,–,,engine,–,
-1925,UO,1925_Spring_Classic,1925_05_UO,18,11,24,usa,Dave_Lewis,Dave Lewis,Miller,,Miller / Miller SC,36,,connecting rod,–,
-1925,UO,1925_Laurel_Race_1,1925_06_UO,1,1,12,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,222,,running,–,500
-1925,UO,1925_Laurel_Race_1,1925_06_UO,2,9,14,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,222,,running,–,260
-1925,UO,1925_Laurel_Race_1,1925_06_UO,3,5,6,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,222,,running,–,140
-1925,UO,1925_Laurel_Race_1,1925_06_UO,4,17,5,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,222,,running,–,80
-1925,UO,1925_Laurel_Race_1,1925_06_UO,5,8,27,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,222,,running,–,50
-1925,UO,1925_Laurel_Race_1,1925_06_UO,6,12,19,usa,Jim_Hill,Jim Hill,Reginald Johnson,,Miller / Miller SC,222,,running,–,35
-1925,UO,1925_Laurel_Race_1,1925_06_UO,7,7,4,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller SC,222,,running,–,25
-1925,UO,1925_Laurel_Race_1,1925_06_UO,8,10,17,usa,Earl_DeVore,Earl DeVore,Miller,,Miller / Miller SC,–,,crash,–,5
-1925,UO,1925_Laurel_Race_1,1925_06_UO,9,3,9,usa,Phil_Shafer,Phil Shafer,Duesenberg,,Duesenberg / Duesenberg SC,–,,dnf,–,5
-1925,UO,1925_Laurel_Race_1,1925_06_UO,10,2,35,usa,Peter_Kreis,Peter Kreis,Duesenberg,,Duesenberg / Duesenberg SC,–,,engine,–,
-1925,UO,1925_Laurel_Race_1,1925_06_UO,11,18,8,italy,Ralph_DePalma,Ralph DePalma,Miller,,Miller / Miller SC,42,,engine,–,
-1925,UO,1925_Laurel_Race_1,1925_06_UO,12,16,28,usa,Leon_Duray,Leon Duray,Miller,,Miller / Miller SC,–,,steering,–,
-1925,UO,1925_Laurel_Race_1,1925_06_UO,13,15,3,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,21,,valve,–,
-1925,UO,1925_Laurel_Race_1,1925_06_UO,14,4,2,usa,Earl_Cooper,Earl Cooper,Junior 8 / Miller,,Miller / Miller,0,,engine,–,
-1925,UO,1925_Laurel_Race_1,1925_06_UO,15,6,23,usa,Wade_Morton,Wade Morton,Duesenberg,,Duesenberg / Duesenberg SC,0,,dnf,–,
-1925,UO,1925_Autumn_Classic,1925_07_UO,1,4,4,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,200,,running,–,500
-1925,UO,1925_Autumn_Classic,1925_07_UO,2,5,6,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,200,,running,–,260
-1925,UO,1925_Autumn_Classic,1925_07_UO,3,6,2,usa,Earl_Cooper,Earl Cooper,Junior 8 / Miller,,Miller / Miller,200,,running,–,140
-1925,UO,1925_Autumn_Classic,1925_07_UO,4,13,5,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,200,,running,–,80
-1925,UO,1925_Autumn_Classic,1925_07_UO,5,8,11,usa,Leon_Duray,Leon Duray,Miller,,Miller / Miller SC,200,,running,–,50
-1925,UO,1925_Autumn_Classic,1925_07_UO,6,14,14,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,200,,running,–,35
-1925,UO,1925_Autumn_Classic,1925_07_UO,7,10,28,usa,Phil_Shafer,Phil Shafer,Miller,,Miller / Miller SC,200,,running,–,25
-1925,UO,1925_Autumn_Classic,1925_07_UO,8,9,27,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,194,,engine,–,
-1925,UO,1925_Autumn_Classic,1925_07_UO,9,12,25,usa,Vic_Spooner,Vic Spooner,Duesenberg,,Duesenberg / Duesenberg SC,183,,running,–,10
-1925,UO,1925_Autumn_Classic,1925_07_UO,10,3,17,usa,Ralph_Hepburn,Ralph Hepburn,Miller,,Miller / Miller,128,,engine,–,
-1925,UO,1925_Autumn_Classic,1925_07_UO,11,7,10,usa,Jerry_Wonderlich,Jerry Wonderlich,Miller,,Miller / Miller,97,,engine,–,
-1925,UO,1925_Autumn_Classic,1925_07_UO,12,2,24,usa,Earl_DeVore,Earl DeVore,Miller,,Miller / Miller SC,94,,engine,–,
-1925,UO,1925_Autumn_Classic,1925_07_UO,13,11,15,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,39,,fire,–,
-1925,UO,1925_Autumn_Classic,1925_07_UO,14,15,19,usa,Jim_Hill,Jim Hill,Reginald Johnson,,Miller / Miller SC,28,,valve,–,
-1925,UO,1925_Autumn_Classic,1925_07_UO,15,1,3,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,21,,engine,–,
-1925,UO,1925_Laurel_Race_2,1925_08_UO,1,–,14,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,222,,running,–,500
-1925,UO,1925_Laurel_Race_2,1925_08_UO,2,–,12,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,222,,running,–,260
-1925,UO,1925_Laurel_Race_2,1925_08_UO,3,–,4,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller SC,222,,running,–,140
-1925,UO,1925_Laurel_Race_2,1925_08_UO,4,–,17,usa,Ralph_Hepburn,Ralph Hepburn,Miller,,Miller / Miller SC,222,,running,–,80
-1925,UO,1925_Laurel_Race_2,1925_08_UO,5,–,2,usa,Earl_Cooper,Earl Cooper,Junior 8 / Miller,,Miller / Miller SC,218,,running,–,50
-1925,UO,1925_Laurel_Race_2,1925_08_UO,6,–,28,usa,Phil_Shafer,Phil Shafer,Miller,,Miller / Miller SC,215,,running,–,35
-1925,UO,1925_Laurel_Race_2,1925_08_UO,7,–,3,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,215,,running,–,25
-1925,UO,1925_Laurel_Race_2,1925_08_UO,8,–,5,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,169,,dnf,–,
-1925,UO,1925_Laurel_Race_2,1925_08_UO,9,–,6,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,76,,dnf,–,
-1925,UO,1925_Laurel_Race_2,1925_08_UO,10,–,15,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,50,,dnf,–,
-1925,UO,1925_Laurel_Race_2,1925_08_UO,11,–,11,usa,Leon_Duray,Leon Duray,Miller,,Miller / Miller SC,44,,dnf,–,
-1925,UO,1925_Laurel_Race_2,1925_08_UO,12,–,10,usa,Jerry_Wonderlich,Jerry Wonderlich,Miller,,Miller / Miller SC,31,,dnf,–,
-1925,UO,1925_Laurel_Race_2,1925_08_UO,13,–,35,usa,Peter_Kreis,Peter Kreis,Duesenberg,,Duesenberg / Duesenberg SC,31,,dnf,–,
-1925,UO,1925_Laurel_Race_2,1925_08_UO,14,–,27,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,19,,dnf,–,
-1925,UO,1925_Laurel_Race_2,1925_08_UO,15,–,24,usa,Earl_DeVore,Earl DeVore,Miller,,Miller / Miller SC,12,,crash,–,
-1925,UO,1925_Laurel_Race_2,1925_08_UO,16,16,25,usa,Vic_Spooner,Vic Spooner,Duesenberg,,Duesenberg / Duesenberg SC,0,,did not start,–,
-1925,UO,1925_Autumn_Classic_%28October%29,1925_09_UO,1,1,12,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,200,,running,93,500
-1925,UO,1925_Autumn_Classic_%28October%29,1925_09_UO,2,7,17,usa,Ralph_Hepburn,Ralph Hepburn,Miller,,Miller / Miller SC,200,,running,0,260
-1925,UO,1925_Autumn_Classic_%28October%29,1925_09_UO,3,11,2,usa,Earl_Cooper,Earl Cooper,Junior 8 / Miller,,Miller / Miller SC,200,,running,20,140
-1925,UO,1925_Autumn_Classic_%28October%29,1925_09_UO,4,3,6,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,200,,running,0,80
-1925,UO,1925_Autumn_Classic_%28October%29,1925_09_UO,5,15,4,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,–,,running,0,25
-1925,UO,1925_Autumn_Classic_%28October%29,1925_09_UO,6,5,24,usa,Earl_DeVore,Earl DeVore,Miller,,Miller / Miller SC,–,,running,0,35
-1925,UO,1925_Autumn_Classic_%28October%29,1925_09_UO,7,17,14,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,–,,running,0,25
-1925,UO,1925_Autumn_Classic_%28October%29,1925_09_UO,8,12,10,usa,Jerry_Wonderlich,Jerry Wonderlich,Miller,,Miller / Miller SC,–,,running,0,15
-1925,UO,1925_Autumn_Classic_%28October%29,1925_09_UO,9,9,28,usa,Phil_Shafer,Phil Shafer,Miller,,Miller / Miller SC,–,,running,0,10
-1925,UO,1925_Autumn_Classic_%28October%29,1925_09_UO,10,10,15,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,–,,running,0,5
-1925,UO,1925_Autumn_Classic_%28October%29,1925_09_UO,11,13,35,usa,Peter_Kreis,Peter Kreis,Duesenberg,,Duesenberg / Duesenberg SC,–,,running,0,
-1925,UO,1925_Autumn_Classic_%28October%29,1925_09_UO,12,2,3,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,97,,clutch,87,
-1925,UO,1925_Autumn_Classic_%28October%29,1925_09_UO,13,4,11,usa,Leon_Duray,Leon Duray,Miller,,Miller / Miller SC,88,,dnf,0,
-1925,UO,1925_Autumn_Classic_%28October%29,1925_09_UO,14,6,27,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,41,,dnf,0,
-1925,UO,1925_Autumn_Classic_%28October%29,1925_09_UO,15,8,5,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,27,,dnf,0,
-1925,UO,1925_Autumn_Classic_%28October%29,1925_09_UO,16,14,7,usa,Tommy_Milton,Tommy Milton,Duesenberg,,Duesenberg / Duesenberg SC,8,,oil pressure,0,
-1925,UO,1925_Autumn_Classic_%28October%29,1925_09_UO,17,16,19,usa,Jim_Hill,Jim Hill,Reginald Johnson,,Miller / Miller SC,0,,spun out,0,
-1925,UO,1925_Charlotte_Race,1925_10_UO,1,6,7,usa,Tommy_Milton,Tommy Milton,Duesenberg,,Duesenberg / Duesenberg SC,200,,running,–,500
-1925,UO,1925_Charlotte_Race,1925_10_UO,2,4,6,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,200,,running,–,260
-1925,UO,1925_Charlotte_Race,1925_10_UO,3,15,10,usa,Jerry_Wonderlich,Jerry Wonderlich,Miller,,Miller / Miller SC,200,,running,–,140
-1925,UO,1925_Charlotte_Race,1925_10_UO,4,17,4,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,–,,running,–,80
-1925,UO,1925_Charlotte_Race,1925_10_UO,5,5,27,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,–,,running,–,50
-1925,UO,1925_Charlotte_Race,1925_10_UO,6,9,5,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,–,,running,–,35
-1925,UO,1925_Charlotte_Race,1925_10_UO,7,3,2,usa,Earl_Cooper,Earl Cooper,Junior 8 / Miller,,Miller / Miller SC,–,,magneto,–,
-1925,UO,1925_Charlotte_Race,1925_10_UO,8,11,17,usa,Ralph_Hepburn,Ralph Hepburn,Miller,,Miller / Miller SC,–,,running,–,25
-1925,UO,1925_Charlotte_Race,1925_10_UO,9,8,11,usa,Leon_Duray,Leon Duray,Miller,,Miller / Miller SC,–,,running,–,15
-1925,UO,1925_Charlotte_Race,1925_10_UO,10,14,38,usa,Dave_Evans,Dave Evans,Miller,,Miller / Miller SC,–,,running,–,10
-1925,UO,1925_Charlotte_Race,1925_10_UO,11,10,15,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,–,,valve,–,
-1925,UO,1925_Charlotte_Race,1925_10_UO,12,12,35,usa,Peter_Kreis,Peter Kreis,Duesenberg,,Duesenberg / Duesenberg SC,–,,running,–,5
-1925,UO,1925_Charlotte_Race,1925_10_UO,13,1,3,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,112,,piston,–,
-1925,UO,1925_Charlotte_Race,1925_10_UO,14,7,24,usa,Earl_DeVore,Earl DeVore,Miller,,Miller / Miller SC,112,,clutch,–,
-1925,UO,1925_Charlotte_Race,1925_10_UO,15,2,12,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,75,,engine,–,
-1925,UO,1925_Charlotte_Race,1925_10_UO,16,16,14,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,74,,crash,–,
-1925,UO,1925_Charlotte_Race,1925_10_UO,17,13,19,usa,Reginald_Johnson,Reginald Johnson,Reginald Johnson,,Miller / Miller SC,53,,connecting rod,–,
-1925,UO,1925_Culver_City_Race_2,1925_11_UO,1,8,27,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,200,,running,14,500
-1925,UO,1925_Culver_City_Race_2,1925_11_UO,2,14,6,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,200,,running,0,260
-1925,UO,1925_Culver_City_Race_2,1925_11_UO,3,9,5,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,200,,running,0,140
-1925,UO,1925_Culver_City_Race_2,1925_11_UO,4,11,4,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,–,,running,0,80
-1925,UO,1925_Culver_City_Race_2,1925_11_UO,5,1,2,usa,Earl_Cooper,Earl Cooper,Junior 8 / Miller,,Miller FD / Miller SC,–,,running,181,50
-1925,UO,1925_Culver_City_Race_2,1925_11_UO,6,13,28,usa,Dave_Evans,Dave Evans,Miller,,Miller / Miller SC,–,,running,0,35
-1925,UO,1925_Culver_City_Race_2,1925_11_UO,7,10,7,usa,Tommy_Milton,Tommy Milton,Duesenberg,,Duesenberg / Duesenberg SC,173,,running,0,25
-1925,UO,1925_Culver_City_Race_2,1925_11_UO,8,3,28,usa,Leon_Duray,Leon Duray,Miller,,Miller / Miller SC,–,,connecting rod,0,
-1925,UO,1925_Culver_City_Race_2,1925_11_UO,9,15,12,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,97,,manifold gasket,0,
-1925,UO,1925_Culver_City_Race_2,1925_11_UO,10,7,3,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,55,,intake valve,5,
-1925,UO,1925_Culver_City_Race_2,1925_11_UO,11,12,15,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,46,,oil pump,0,
-1925,UO,1925_Culver_City_Race_2,1925_11_UO,12,2,17,usa,Ralph_Hepburn,Ralph Hepburn,Miller,,Miller / Miller SC,40,,oil pump,0,
-1925,UO,1925_Culver_City_Race_2,1925_11_UO,13,6,10,usa,Jerry_Wonderlich,Jerry Wonderlich,Miller,,Miller / Miller SC,24,,crash,0,
-1925,UO,1925_Culver_City_Race_2,1925_11_UO,14,5,14,usa,Ray_Cariens,Ray Cariens,Miller,,Miller / Miller SC,24,,fatal crash,0,
-1925,UO,1925_Culver_City_Race_2,1925_11_UO,15,4,24,usa,Earl_DeVore,Earl DeVore,Miller,,Miller / Miller SC,23,,valve,0,
-1925,UO,1925_Culver_City_Race_2,1925_11_UO,16,16,,usa,Phil_Shafer,Phil Shafer,–,,–,0,,did not start,0,
+1925,UO,1925_Culver_City_Race_1,1925_01,1,3,4,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller SC,200,,running,168,500
+1925,UO,1925_Culver_City_Race_1,1925_01,2,10,12,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,200,,running,0,260
+1925,UO,1925_Culver_City_Race_1,1925_01,3,12,6,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,200,,running,12,140
+1925,UO,1925_Culver_City_Race_1,1925_01,4,11,14,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,200,,running,0,80
+1925,UO,1925_Culver_City_Race_1,1925_01,5,20,35,usa,Peter_Kreis,Peter Kreis,Duesenberg,,Duesenberg / Duesenberg SC,200,,running,0,50
+1925,UO,1925_Culver_City_Race_1,1925_01,6,14,22,italy,Pietro_Bordino,Pietro Bordino,Fiat,,Fiat / Fiat SC,200,,running,0,35
+1925,UO,1925_Culver_City_Race_1,1925_01,7,15,2,usa,Earl_Cooper,Earl Cooper,Weaver / Miller,,Miller / Miller SC,200,,running,0,25
+1925,UO,1925_Culver_City_Race_1,1925_01,8,2,24,usa,Dave_Lewis,Dave Lewis,Miller,,Miller / Miller SC,200,,running,0,15
+1925,UO,1925_Culver_City_Race_1,1925_01,9,19,19,usa,Reginald_Johnson,Reginald Johnson,Reginald Johnson,,Miller / Miller SC,200,,running,0,10
+1925,UO,1925_Culver_City_Race_1,1925_01,10,16,15,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,166,,engine,0,
+1925,UO,1925_Culver_City_Race_1,1925_01,11,6,10,usa,Jerry_Wonderlich,Jerry Wonderlich,Miller,,Miller / Miller,154,,engine,0,
+1925,UO,1925_Culver_City_Race_1,1925_01,12,9,23,usa,Wade_Morton,Wade Morton,Duesenberg,,Duesenberg / Duesenberg SC,143,,spark plugs,0,
+1925,UO,1925_Culver_City_Race_1,1925_01,13,18,28,usa,Leon_Duray,Leon Duray,Miller,,Miller / Miller SC,130,,engine,16,
+1925,UO,1925_Culver_City_Race_1,1925_01,14,5,27,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,122,,engine,0,
+1925,UO,1925_Culver_City_Race_1,1925_01,15,17,8,usa,Eddie_Hearne,Eddie Hearne,Miller,,Miller / Miller SC,119,,engine,0,
+1925,UO,1925_Culver_City_Race_1,1925_01,16,7,9,usa,Phil_Shafer,Phil Shafer,Duesenberg,,Duesenberg / Duesenberg SC,76,,fatigue,0,
+1925,UO,1925_Culver_City_Race_1,1925_01,17,8,5,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,72,,engine,0,
+1925,UO,1925_Culver_City_Race_1,1925_01,18,1,11,italy,Ralph_DePalma,Ralph DePalma,Miller,,Miller / Miller SC,31,,valve,1,
+1925,UO,1925_Culver_City_Race_1,1925_01,19,13,3,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,5,,engine,0,
+1925,UO,1925_Culver_City_Race_1,1925_01,20,20,17,usa,Stuart_Wilkinson,Stuart Wilkinson,Miller,,Miller / Miller SC,0,,did not start,0,
+1925,UO,1925_Culver_City_Race_1,1925_01,21,21,26,usa,Cliff_Durant,Cliff Durant,Flint / Miller,,Miller / Miller SC,0,,did not start,0,
+1925,UO,1925_Raisin_Day_Classic,1925_02,1,6,12,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,150,,running,–,300
+1925,UO,1925_Raisin_Day_Classic,1925_02,2,3,4,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller SC,150,,running,–,160
+1925,UO,1925_Raisin_Day_Classic,1925_02,3,4,28,usa,Leon_Duray,Leon Duray,Miller,,Miller / Miller SC,150,,running,–,90
+1925,UO,1925_Raisin_Day_Classic,1925_02,4,1,3,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,150,,running,–,50
+1925,UO,1925_Raisin_Day_Classic,1925_02,5,5,2,usa,Earl_Cooper,Earl Cooper,Weaver / Miller,,Miller / Miller,150,,running,–,30
+1925,UO,1925_Raisin_Day_Classic,1925_02,6,2,6,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,150,,running,–,20
+1925,UO,1925_Raisin_Day_Classic,1925_02,7,8,5,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,150,,running,–,15
+1925,UO,1925_Raisin_Day_Classic,1925_02,8,7,27,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,150,,running,–,10
+1925,UO,1925_Raisin_Day_Classic,1925_02,9,10,14,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,143,,running,–,
+1925,UO,1925_Raisin_Day_Classic,1925_02,10,9,10,usa,Jerry_Wonderlich,Jerry Wonderlich,Miller,,Miller / Miller,31,,engine,–,
+1925,UO,1925_Southern_Speed_Classic,1925_03,1,–,2,usa,Earl_Cooper,Earl Cooper,Weaver / Miller,,Miller / Miller,200,,running,–,500
+1925,UO,1925_Southern_Speed_Classic,1925_03,2,–,6,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,200,,running,–,260
+1925,UO,1925_Southern_Speed_Classic,1925_03,3,–,4,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller SC,200,,running,–,140
+1925,UO,1925_Southern_Speed_Classic,1925_03,4,–,5,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,200,,running,–,80
+1925,UO,1925_Southern_Speed_Classic,1925_03,5,–,12,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,200,,running,–,50
+1925,UO,1925_Southern_Speed_Classic,1925_03,6,–,14,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,200,,running,–,35
+1925,UO,1925_Southern_Speed_Classic,1925_03,7,–,9,usa,Phil_Shafer,Phil Shafer,Duesenberg,,Duesenberg / Duesenberg SC,–,,running,–,25
+1925,UO,1925_Southern_Speed_Classic,1925_03,8,–,16,usa,L_L_Corum,L.L. Corum,Miller,,Miller / Miller SC,–,,running,–,15
+1925,UO,1925_Southern_Speed_Classic,1925_03,9,–,22,italy,Pietro_Bordino,Pietro Bordino,Fiat,,Fiat / Fiat,182,,rear end,–,
+1925,UO,1925_Southern_Speed_Classic,1925_03,10,–,35,usa,Peter_Kreis,Peter Kreis,Duesenberg,,Duesenberg / Duesenberg,174,,ignition,–,
+1925,UO,1925_Southern_Speed_Classic,1925_03,11,–,28,usa,Leon_Duray,Leon Duray,Miller,,Miller / Miller SC,163,,rear axle,–,
+1925,UO,1925_Southern_Speed_Classic,1925_03,12,–,27,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,128,,overheating,–,
+1925,UO,1925_Southern_Speed_Classic,1925_03,13,–,3,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,124,,engine,–,
+1925,UO,1925_Southern_Speed_Classic,1925_03,14,–,10,usa,Jerry_Wonderlich,Jerry Wonderlich,Miller,,Miller / Miller,74,,clutch,–,
+1925,UO,1925_Southern_Speed_Classic,1925_03,15,–,19,usa,Reginald_Johnson,Reginald Johnson,Reginald Johnson,,Miller / Miller SC,70,,crash,–,
+1925,UO,1925_International_500,1925_04,1,2,12,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,200,28800,running,115,
+1925,UO,1925_International_500,1925_04,2,5,1,usa,Dave_Lewis,Dave Lewis,Miller,,Miller FD / Miller SC,200,12700,running,50,
+1925,UO,1925_International_500,1925_04,3,22,9,usa,Phil_Shafer,Phil Shafer,Duesenberg,,Duesenberg / Duesenberg SC,200,6300,running,13,
+1925,UO,1925_International_500,1925_04,4,3,6,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,200,3800,running,3,
+1925,UO,1925_International_500,1925_04,5,11,4,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller SC,200,3000,running,0,
+1925,UO,1925_International_500,1925_04,6,1,28,usa,Leon_Duray,Leon Duray,Miller,,Miller / Miller SC,200,2200,running,0,
+1925,UO,1925_International_500,1925_04,7,17,8,italy,Ralph_DePalma,Ralph DePalma,Miller,,Miller / Miller SC,200,1800,running,0,
+1925,UO,1925_International_500,1925_04,8,9,35,usa,Peter_Kreis,Peter Kreis,Duesenberg,,Duesenberg / Duesenberg SC,200,1600,running,0,
+1925,UO,1925_International_500,1925_04,9,13,15,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,200,1500,running,0,
+1925,UO,1925_International_500,1925_04,10,8,22,italy,Pietro_Bordino,Pietro Bordino,Fiat,,Fiat / Fiat SC,200,1400,running,0,
+1925,UO,1925_International_500,1925_04,11,12,5,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,200,1096,running,0,
+1925,UO,1925_International_500,1925_04,12,10,27,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,200,1037,running,0,
+1925,UO,1925_International_500,1925_04,13,14,24,usa,Earl_DeVore,Earl DeVore,Miller,,Miller / Miller SC,198,981,running,0,
+1925,UO,1925_International_500,1925_04,14,19,14,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,188,929,truss rod,0,
+1925,UO,1925_International_500,1925_04,15,15,23,usa,Wade_Morton,Wade Morton,Duesenberg,,Duesenberg / Duesenberg SC,156,880,crash,0,
+1925,UO,1925_International_500,1925_04,16,6,17,usa,Ralph_Hepburn,Ralph Hepburn,Miller,,Miller / Miller,144,2334,fuel leak,15,
+1925,UO,1925_International_500,1925_04,17,4,2,usa,Earl_Cooper,Earl Cooper,Miller,,Miller / Miller,127,1191,crash,4,
+1925,UO,1925_International_500,1925_04,18,21,3,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,69,750,rear spring,0,
+1925,UO,1925_International_500,1925_04,19,16,29,usa,Herbert_Jones,Herbert Jones,Jones-Whitaker,,Miller / Miller,69,729,crash,0,
+1925,UO,1925_International_500,1925_04,20,18,19,canada,Ira_Vail,Ira Vail,R.J. Johnson,,Miller / Miller SC,63,692,connecting rod,0,
+1925,UO,1925_International_500,1925_04,21,20,7,usa,M_C_Jones,M.C. Jones,H.J. Skelly,,Ford T / Fronty-Ford,33,657,transmission,0,
+1925,UO,1925_International_500,1925_04,22,7,10,usa,Jules_Ellingboe,Jules Ellingboe,Miller,,Miller / Miller,24,625,steering,0,
+1925,UO,1925_Spring_Classic,1925_05,1,14,12,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,200,,running,–,500
+1925,UO,1925_Spring_Classic,1925_05,2,5,27,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,200,,running,–,260
+1925,UO,1925_Spring_Classic,1925_05,3,13,4,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller SC,200,,running,–,140
+1925,UO,1925_Spring_Classic,1925_05,4,6,6,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,200,,running,–,80
+1925,UO,1925_Spring_Classic,1925_05,5,10,5,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,200,,running,–,29
+1925,UO,1925_Spring_Classic,1925_05,6,12,38,usa,Peter_Kreis,Peter Kreis,Duesenberg,,Duesenberg / Duesenberg SC,200,,running,–,35
+1925,UO,1925_Spring_Classic,1925_05,7,16,14,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,200,,running,–,25
+1925,UO,1925_Spring_Classic,1925_05,8,18,34,usa,Earl_DeVore,Earl DeVore,Miller,,Miller / Miller SC,200,,running,–,15
+1925,UO,1925_Spring_Classic,1925_05,9,7,17,usa,Ralph_Hepburn,Ralph Hepburn,Miller,,Miller / Miller SC,200,,running,–,10
+1925,UO,1925_Spring_Classic,1925_05,10,17,19,usa,Jim_Hill,Jim Hill,Reginald Johnson,,Miller / Miller SC,–,,running,–,5
+1925,UO,1925_Spring_Classic,1925_05,11,8,10,usa,Jerry_Wonderlich,Jerry Wonderlich,Miller,,Miller / Miller SC,–,,running,–,
+1925,UO,1925_Spring_Classic,1925_05,12,3,2,usa,Earl_Cooper,Earl Cooper,Junior 8 / Miller,,Miller / Miller SC,174,,crash,–,
+1925,UO,1925_Spring_Classic,1925_05,13,4,23,usa,Wade_Morton,Wade Morton,Duesenberg,,Duesenberg / Duesenberg SC,–,,running,–,
+1925,UO,1925_Spring_Classic,1925_05,14,2,3,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,–,,connecting rod,–,
+1925,UO,1925_Spring_Classic,1925_05,15,9,15,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,–,,engine,–,
+1925,UO,1925_Spring_Classic,1925_05,16,1,28,usa,Leon_Duray,Leon Duray,Miller,,Miller / Miller SC,44,,rear axle,–,
+1925,UO,1925_Spring_Classic,1925_05,17,15,9,usa,Phil_Shafer,Phil Shafer,Duesenberg,,Duesenberg / Duesenberg SC,–,,engine,–,
+1925,UO,1925_Spring_Classic,1925_05,18,11,24,usa,Dave_Lewis,Dave Lewis,Miller,,Miller / Miller SC,36,,connecting rod,–,
+1925,UO,1925_Laurel_Race_1,1925_06,1,1,12,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,222,,running,–,500
+1925,UO,1925_Laurel_Race_1,1925_06,2,9,14,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,222,,running,–,260
+1925,UO,1925_Laurel_Race_1,1925_06,3,5,6,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,222,,running,–,140
+1925,UO,1925_Laurel_Race_1,1925_06,4,17,5,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,222,,running,–,80
+1925,UO,1925_Laurel_Race_1,1925_06,5,8,27,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,222,,running,–,50
+1925,UO,1925_Laurel_Race_1,1925_06,6,12,19,usa,Jim_Hill,Jim Hill,Reginald Johnson,,Miller / Miller SC,222,,running,–,35
+1925,UO,1925_Laurel_Race_1,1925_06,7,7,4,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller SC,222,,running,–,25
+1925,UO,1925_Laurel_Race_1,1925_06,8,10,17,usa,Earl_DeVore,Earl DeVore,Miller,,Miller / Miller SC,–,,crash,–,5
+1925,UO,1925_Laurel_Race_1,1925_06,9,3,9,usa,Phil_Shafer,Phil Shafer,Duesenberg,,Duesenberg / Duesenberg SC,–,,dnf,–,5
+1925,UO,1925_Laurel_Race_1,1925_06,10,2,35,usa,Peter_Kreis,Peter Kreis,Duesenberg,,Duesenberg / Duesenberg SC,–,,engine,–,
+1925,UO,1925_Laurel_Race_1,1925_06,11,18,8,italy,Ralph_DePalma,Ralph DePalma,Miller,,Miller / Miller SC,42,,engine,–,
+1925,UO,1925_Laurel_Race_1,1925_06,12,16,28,usa,Leon_Duray,Leon Duray,Miller,,Miller / Miller SC,–,,steering,–,
+1925,UO,1925_Laurel_Race_1,1925_06,13,15,3,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,21,,valve,–,
+1925,UO,1925_Laurel_Race_1,1925_06,14,4,2,usa,Earl_Cooper,Earl Cooper,Junior 8 / Miller,,Miller / Miller,0,,engine,–,
+1925,UO,1925_Laurel_Race_1,1925_06,15,6,23,usa,Wade_Morton,Wade Morton,Duesenberg,,Duesenberg / Duesenberg SC,0,,dnf,–,
+1925,UO,1925_Autumn_Classic,1925_07,1,4,4,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,200,,running,–,500
+1925,UO,1925_Autumn_Classic,1925_07,2,5,6,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,200,,running,–,260
+1925,UO,1925_Autumn_Classic,1925_07,3,6,2,usa,Earl_Cooper,Earl Cooper,Junior 8 / Miller,,Miller / Miller,200,,running,–,140
+1925,UO,1925_Autumn_Classic,1925_07,4,13,5,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,200,,running,–,80
+1925,UO,1925_Autumn_Classic,1925_07,5,8,11,usa,Leon_Duray,Leon Duray,Miller,,Miller / Miller SC,200,,running,–,50
+1925,UO,1925_Autumn_Classic,1925_07,6,14,14,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,200,,running,–,35
+1925,UO,1925_Autumn_Classic,1925_07,7,10,28,usa,Phil_Shafer,Phil Shafer,Miller,,Miller / Miller SC,200,,running,–,25
+1925,UO,1925_Autumn_Classic,1925_07,8,9,27,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,194,,engine,–,
+1925,UO,1925_Autumn_Classic,1925_07,9,12,25,usa,Vic_Spooner,Vic Spooner,Duesenberg,,Duesenberg / Duesenberg SC,183,,running,–,10
+1925,UO,1925_Autumn_Classic,1925_07,10,3,17,usa,Ralph_Hepburn,Ralph Hepburn,Miller,,Miller / Miller,128,,engine,–,
+1925,UO,1925_Autumn_Classic,1925_07,11,7,10,usa,Jerry_Wonderlich,Jerry Wonderlich,Miller,,Miller / Miller,97,,engine,–,
+1925,UO,1925_Autumn_Classic,1925_07,12,2,24,usa,Earl_DeVore,Earl DeVore,Miller,,Miller / Miller SC,94,,engine,–,
+1925,UO,1925_Autumn_Classic,1925_07,13,11,15,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,39,,fire,–,
+1925,UO,1925_Autumn_Classic,1925_07,14,15,19,usa,Jim_Hill,Jim Hill,Reginald Johnson,,Miller / Miller SC,28,,valve,–,
+1925,UO,1925_Autumn_Classic,1925_07,15,1,3,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,21,,engine,–,
+1925,UO,1925_Laurel_Race_2,1925_08,1,–,14,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,222,,running,–,500
+1925,UO,1925_Laurel_Race_2,1925_08,2,–,12,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,222,,running,–,260
+1925,UO,1925_Laurel_Race_2,1925_08,3,–,4,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller SC,222,,running,–,140
+1925,UO,1925_Laurel_Race_2,1925_08,4,–,17,usa,Ralph_Hepburn,Ralph Hepburn,Miller,,Miller / Miller SC,222,,running,–,80
+1925,UO,1925_Laurel_Race_2,1925_08,5,–,2,usa,Earl_Cooper,Earl Cooper,Junior 8 / Miller,,Miller / Miller SC,218,,running,–,50
+1925,UO,1925_Laurel_Race_2,1925_08,6,–,28,usa,Phil_Shafer,Phil Shafer,Miller,,Miller / Miller SC,215,,running,–,35
+1925,UO,1925_Laurel_Race_2,1925_08,7,–,3,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,215,,running,–,25
+1925,UO,1925_Laurel_Race_2,1925_08,8,–,5,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,169,,dnf,–,
+1925,UO,1925_Laurel_Race_2,1925_08,9,–,6,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,76,,dnf,–,
+1925,UO,1925_Laurel_Race_2,1925_08,10,–,15,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,50,,dnf,–,
+1925,UO,1925_Laurel_Race_2,1925_08,11,–,11,usa,Leon_Duray,Leon Duray,Miller,,Miller / Miller SC,44,,dnf,–,
+1925,UO,1925_Laurel_Race_2,1925_08,12,–,10,usa,Jerry_Wonderlich,Jerry Wonderlich,Miller,,Miller / Miller SC,31,,dnf,–,
+1925,UO,1925_Laurel_Race_2,1925_08,13,–,35,usa,Peter_Kreis,Peter Kreis,Duesenberg,,Duesenberg / Duesenberg SC,31,,dnf,–,
+1925,UO,1925_Laurel_Race_2,1925_08,14,–,27,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,19,,dnf,–,
+1925,UO,1925_Laurel_Race_2,1925_08,15,–,24,usa,Earl_DeVore,Earl DeVore,Miller,,Miller / Miller SC,12,,crash,–,
+1925,UO,1925_Laurel_Race_2,1925_08,16,16,25,usa,Vic_Spooner,Vic Spooner,Duesenberg,,Duesenberg / Duesenberg SC,0,,did not start,–,
+1925,UO,1925_Autumn_Classic_%28October%29,1925_09,1,1,12,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,200,,running,93,500
+1925,UO,1925_Autumn_Classic_%28October%29,1925_09,2,7,17,usa,Ralph_Hepburn,Ralph Hepburn,Miller,,Miller / Miller SC,200,,running,0,260
+1925,UO,1925_Autumn_Classic_%28October%29,1925_09,3,11,2,usa,Earl_Cooper,Earl Cooper,Junior 8 / Miller,,Miller / Miller SC,200,,running,20,140
+1925,UO,1925_Autumn_Classic_%28October%29,1925_09,4,3,6,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,200,,running,0,80
+1925,UO,1925_Autumn_Classic_%28October%29,1925_09,5,15,4,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,–,,running,0,25
+1925,UO,1925_Autumn_Classic_%28October%29,1925_09,6,5,24,usa,Earl_DeVore,Earl DeVore,Miller,,Miller / Miller SC,–,,running,0,35
+1925,UO,1925_Autumn_Classic_%28October%29,1925_09,7,17,14,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,–,,running,0,25
+1925,UO,1925_Autumn_Classic_%28October%29,1925_09,8,12,10,usa,Jerry_Wonderlich,Jerry Wonderlich,Miller,,Miller / Miller SC,–,,running,0,15
+1925,UO,1925_Autumn_Classic_%28October%29,1925_09,9,9,28,usa,Phil_Shafer,Phil Shafer,Miller,,Miller / Miller SC,–,,running,0,10
+1925,UO,1925_Autumn_Classic_%28October%29,1925_09,10,10,15,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,–,,running,0,5
+1925,UO,1925_Autumn_Classic_%28October%29,1925_09,11,13,35,usa,Peter_Kreis,Peter Kreis,Duesenberg,,Duesenberg / Duesenberg SC,–,,running,0,
+1925,UO,1925_Autumn_Classic_%28October%29,1925_09,12,2,3,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,97,,clutch,87,
+1925,UO,1925_Autumn_Classic_%28October%29,1925_09,13,4,11,usa,Leon_Duray,Leon Duray,Miller,,Miller / Miller SC,88,,dnf,0,
+1925,UO,1925_Autumn_Classic_%28October%29,1925_09,14,6,27,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,41,,dnf,0,
+1925,UO,1925_Autumn_Classic_%28October%29,1925_09,15,8,5,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,27,,dnf,0,
+1925,UO,1925_Autumn_Classic_%28October%29,1925_09,16,14,7,usa,Tommy_Milton,Tommy Milton,Duesenberg,,Duesenberg / Duesenberg SC,8,,oil pressure,0,
+1925,UO,1925_Autumn_Classic_%28October%29,1925_09,17,16,19,usa,Jim_Hill,Jim Hill,Reginald Johnson,,Miller / Miller SC,0,,spun out,0,
+1925,UO,1925_Charlotte_Race,1925_10,1,6,7,usa,Tommy_Milton,Tommy Milton,Duesenberg,,Duesenberg / Duesenberg SC,200,,running,–,500
+1925,UO,1925_Charlotte_Race,1925_10,2,4,6,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,200,,running,–,260
+1925,UO,1925_Charlotte_Race,1925_10,3,15,10,usa,Jerry_Wonderlich,Jerry Wonderlich,Miller,,Miller / Miller SC,200,,running,–,140
+1925,UO,1925_Charlotte_Race,1925_10,4,17,4,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,–,,running,–,80
+1925,UO,1925_Charlotte_Race,1925_10,5,5,27,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,–,,running,–,50
+1925,UO,1925_Charlotte_Race,1925_10,6,9,5,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,–,,running,–,35
+1925,UO,1925_Charlotte_Race,1925_10,7,3,2,usa,Earl_Cooper,Earl Cooper,Junior 8 / Miller,,Miller / Miller SC,–,,magneto,–,
+1925,UO,1925_Charlotte_Race,1925_10,8,11,17,usa,Ralph_Hepburn,Ralph Hepburn,Miller,,Miller / Miller SC,–,,running,–,25
+1925,UO,1925_Charlotte_Race,1925_10,9,8,11,usa,Leon_Duray,Leon Duray,Miller,,Miller / Miller SC,–,,running,–,15
+1925,UO,1925_Charlotte_Race,1925_10,10,14,38,usa,Dave_Evans,Dave Evans,Miller,,Miller / Miller SC,–,,running,–,10
+1925,UO,1925_Charlotte_Race,1925_10,11,10,15,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,–,,valve,–,
+1925,UO,1925_Charlotte_Race,1925_10,12,12,35,usa,Peter_Kreis,Peter Kreis,Duesenberg,,Duesenberg / Duesenberg SC,–,,running,–,5
+1925,UO,1925_Charlotte_Race,1925_10,13,1,3,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,112,,piston,–,
+1925,UO,1925_Charlotte_Race,1925_10,14,7,24,usa,Earl_DeVore,Earl DeVore,Miller,,Miller / Miller SC,112,,clutch,–,
+1925,UO,1925_Charlotte_Race,1925_10,15,2,12,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,75,,engine,–,
+1925,UO,1925_Charlotte_Race,1925_10,16,16,14,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,74,,crash,–,
+1925,UO,1925_Charlotte_Race,1925_10,17,13,19,usa,Reginald_Johnson,Reginald Johnson,Reginald Johnson,,Miller / Miller SC,53,,connecting rod,–,
+1925,UO,1925_Culver_City_Race_2,1925_11,1,8,27,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,200,,running,14,500
+1925,UO,1925_Culver_City_Race_2,1925_11,2,14,6,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,200,,running,0,260
+1925,UO,1925_Culver_City_Race_2,1925_11,3,9,5,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,200,,running,0,140
+1925,UO,1925_Culver_City_Race_2,1925_11,4,11,4,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,–,,running,0,80
+1925,UO,1925_Culver_City_Race_2,1925_11,5,1,2,usa,Earl_Cooper,Earl Cooper,Junior 8 / Miller,,Miller FD / Miller SC,–,,running,181,50
+1925,UO,1925_Culver_City_Race_2,1925_11,6,13,28,usa,Dave_Evans,Dave Evans,Miller,,Miller / Miller SC,–,,running,0,35
+1925,UO,1925_Culver_City_Race_2,1925_11,7,10,7,usa,Tommy_Milton,Tommy Milton,Duesenberg,,Duesenberg / Duesenberg SC,173,,running,0,25
+1925,UO,1925_Culver_City_Race_2,1925_11,8,3,28,usa,Leon_Duray,Leon Duray,Miller,,Miller / Miller SC,–,,connecting rod,0,
+1925,UO,1925_Culver_City_Race_2,1925_11,9,15,12,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,97,,manifold gasket,0,
+1925,UO,1925_Culver_City_Race_2,1925_11,10,7,3,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,55,,intake valve,5,
+1925,UO,1925_Culver_City_Race_2,1925_11,11,12,15,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,46,,oil pump,0,
+1925,UO,1925_Culver_City_Race_2,1925_11,12,2,17,usa,Ralph_Hepburn,Ralph Hepburn,Miller,,Miller / Miller SC,40,,oil pump,0,
+1925,UO,1925_Culver_City_Race_2,1925_11,13,6,10,usa,Jerry_Wonderlich,Jerry Wonderlich,Miller,,Miller / Miller SC,24,,crash,0,
+1925,UO,1925_Culver_City_Race_2,1925_11,14,5,14,usa,Ray_Cariens,Ray Cariens,Miller,,Miller / Miller SC,24,,fatal crash,0,
+1925,UO,1925_Culver_City_Race_2,1925_11,15,4,24,usa,Earl_DeVore,Earl DeVore,Miller,,Miller / Miller SC,23,,valve,0,
+1925,UO,1925_Culver_City_Race_2,1925_11,16,16,,usa,Phil_Shafer,Phil Shafer,–,,–,0,,did not start,0,
