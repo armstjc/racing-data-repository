@@ -5,7 +5,222 @@ from bs4 import BeautifulSoup
 from tqdm import tqdm
 from datetime import datetime
 
-def get_racing_reference_standings(season:int,series_id="W"):
+def get_racing_reference_schedule(season:int,series_id:str) -> pd.DataFrame():
+    if series_id.upper() == "W":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_cup/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Cup season.')
+    ## Xfinity (Busch) series
+    elif series_id.upper() == "B":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_busch/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} Xfinity (Busch) season.')
+    ## Craftsman Truck series
+    elif series_id.upper() == "C":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_trucks/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} Craftsman Truck season.')
+    ## ARCA series
+    elif series_id.upper() == "A":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_arca/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} ARCA season.')
+    ## ARCA East series
+    elif series_id.upper() == "P":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_arca_east/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} ARCA East season.')
+    ## ARCA West series
+    elif series_id.upper() == "E":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_arca_west/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} ARCA West season.')
+    ## Modified series
+    elif series_id.upper() == "N":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_arca/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Modified season.')
+    ## NASCAR Pinty's series
+    elif series_id.upper() == "T":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_pintys/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Pinty\'s season.')
+    ## NASCAR Convertable series
+    elif series_id.upper() == "V":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_convertible/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Convertible season.')
+    ## NASCAR Grand National East series
+    elif series_id.upper() == "G":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_grand_national_east/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Grand National East season.')
+    ## NASCAR North Tour series
+    elif series_id.upper() == "NN":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_north_tour/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR North Tour season.')
+    ## IndyCar Series
+    elif series_id.upper() == "O":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_arca/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} IndyCar season.')
+    ## Championship Auto Racing Teams (CART)
+    elif series_id.upper() == "R":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_arca/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} IndyCar season.')
+    ## United States Auto Club (USAC) Championship Car Series
+    elif series_id.upper() == "UO":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/usac_champ_car/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} USAC Championship Car Series season.')
+    ## International Race of Champions (IROC)
+    elif series_id.upper() == "I":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/iroc/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} International Race of Champions (IROC) season.')
+    ## Indy NXT (Indy Lights)
+    elif series_id.upper() == "IL":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/indy_lights/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} Indy NXT (Indy Lights) season.')
+    ## ACT Late Model Tour
+    elif series_id.upper() == "AC":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/act_late_model/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} ACT Late Model Tour season.')
+    ## A1 Grand Prix
+    elif series_id.upper() == "A1":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/a1_grand_prix/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} A1 Grand Prix season.')
+    ## North American Touring Car Championship (NATCC)
+    elif series_id.upper() == "NA":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/natcc/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} North American Touring Car Championship (NATCC) season.')
+    ## NASCAR Whelen Southern Modified Tour (WSMT)
+    elif series_id.upper() == "M":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_whelen_southern_modified/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Whelen Southern Modified Tour (WSMT) season.')
+    ## CARS Tour
+    elif series_id.upper() == "US":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/cars_tour/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} CARS Tour season.')
+    ## NASCAR Southeast Series
+    elif series_id.upper() == "SE":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_southeast_series/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Southeast Series season.')
+    ## NASCAR Midwest Series
+    elif series_id.upper() == "MW":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_midwest_series/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Midwest Series season.')
+    ## NASCAR Southwest Series
+    elif series_id.upper() == "SW":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_southwest_series/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Southwest Series season.')
+    ## NASCAR Northwest Series
+    elif series_id.upper() == "NW":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_northwest_series/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Northwest Series season.')
+    ## ASA National Tour
+    elif series_id.upper() == "AS":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/asa_national_tour/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} ASA National Tour season.')
+    ## ASA National Tour
+    elif series_id.upper() == "AS":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/asa_national_tour/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} ASA National Tour season.')
+    ## Whelen Southern Modified Tour
+    elif series_id.upper() == "M":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/whelen_southern_modified_tour/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} Whelen Southern Modified Tour season.')
+    ## NASCAR Peak Mexico Series
+    elif series_id.upper() == "MX":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_peak_mexico/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Peak Mexico Series season.')
+    ## NASCAR FedEx Challenge
+    elif series_id.upper() == "M2":
+        try:
+            sched_df = pd.read_csv(f'racing_reference/nascar_fedex_challenge/schedule/{season}_schedule.csv')
+            return sched_df
+        except:
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR FedEx Challenge.')
+
+    else:
+        raise ValueError("The input for series_id is invalid.")
+
+
+def get_racing_reference_standings(season:int,series_id="W") -> pd.DataFrame():
     main_df = pd.DataFrame()
     row_df = pd.DataFrame()
     url = f"https://www.racing-reference.info/season-stats/{season}/{series_id}/"
@@ -23,9 +238,15 @@ def get_racing_reference_standings(season:int,series_id="W"):
         #print(i)
         row_df = pd.DataFrame(columns=['season'],data=[season])
         row_df['series_id'] = series_id
-        row_df['race_num'] = int(str(i.find('div',{'class':'race-number','role':'cell'}).text).replace(" ",""))
+        race_num = int(str(i.find('div',{'class':'race-number','role':'cell'}).text).replace(" ",""))
+        row_df['race_num'] = race_num
         row_df['race_date'] = i.find('div',{'class':f'date {series_id}','role':'cell'}).text
         
+        if race_num < 10:
+            row_df['race_short_id'] = f"{season}_0{race_num}"
+        else:
+            row_df['race_short_id'] = f"{season}_{race_num}"
+
         row_df['race_track_name'] = i.find('div',{'class':f'track {series_id}','role':'cell'}).text
         race_track_url = i.find('div',{'class':f'track {series_id}'}).find('a').get("href")
         row_df['race_track_id'] = str(race_track_url).replace('https://www.racing-reference.info/tracks/','').replace(' ','')
@@ -72,201 +293,19 @@ def get_racing_reference_race_results(season:int,series_id="W"):
     """
     
     """
-    sched_df = pd.DataFrame()
-    ## Cup series
-    if series_id.upper() == "W":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/nascar_cup/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Cup season.')
-    ## Xfinity (Busch) series
-    elif series_id.upper() == "B":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/nascar_busch/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} Xfinity (Busch) season.')
-    ## Craftsman Truck series
-    elif series_id.upper() == "C":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/nascar_trucks/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} Craftsman Truck season.')
-    ## ARCA series
-    elif series_id.upper() == "A":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/nascar_arca/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} ARCA season.')
-    ## ARCA East series
-    elif series_id.upper() == "P":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/nascar_arca_east/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} ARCA East season.')
-    ## ARCA West series
-    elif series_id.upper() == "E":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/nascar_arca_west/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} ARCA West season.')
-    ## Modified series
-    elif series_id.upper() == "N":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/nascar_arca/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Modified season.')
-    ## NASCAR Pinty's series
-    elif series_id.upper() == "T":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/nascar_pintys/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Pinty\'s season.')
-    ## NASCAR Convertable series
-    elif series_id.upper() == "V":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/nascar_convertible/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Convertible season.')
-    ## NASCAR Grand National East series
-    elif series_id.upper() == "G":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/nascar_grand_national_east/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Grand National East season.')
-    ## NASCAR North Tour series
-    elif series_id.upper() == "NN":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/nascar_north_tour/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR North Tour season.')
-    ## IndyCar Series
-    elif series_id.upper() == "O":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/nascar_arca/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} IndyCar season.')
-    ## Championship Auto Racing Teams (CART)
-    elif series_id.upper() == "R":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/nascar_arca/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} IndyCar season.')
-    ## United States Auto Club (USAC) Championship Car Series
-    elif series_id.upper() == "UO":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/usac_champ_car/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} USAC Championship Car Series season.')
-    ## International Race of Champions (IROC)
-    elif series_id.upper() == "I":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/iroc/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} International Race of Champions (IROC) season.')
-    ## Indy NXT (Indy Lights)
-    elif series_id.upper() == "IL":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/indy_lights/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} Indy NXT (Indy Lights) season.')
-    ## ACT Late Model Tour
-    elif series_id.upper() == "AC":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/act_late_model/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} ACT Late Model Tour season.')
-    ## A1 Grand Prix
-    elif series_id.upper() == "A1":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/a1_grand_prix/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} A1 Grand Prix season.')
-    ## North American Touring Car Championship (NATCC)
-    elif series_id.upper() == "NA":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/natcc/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} North American Touring Car Championship (NATCC) season.')
-    ## NASCAR Whelen Southern Modified Tour (WSMT)
-    elif series_id.upper() == "M":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/nascar_whelen_southern_modified/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Whelen Southern Modified Tour (WSMT) season.')
-    ## CARS Tour
-    elif series_id.upper() == "US":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/cars_tour/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} CARS Tour season.')
-    ## NASCAR Southeast Series
-    elif series_id.upper() == "SE":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/nascar_southeast_series/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Southeast Series season.')
-    ## NASCAR Midwest Series
-    elif series_id.upper() == "MW":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/nascar_midwest_series/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Midwest Series season.')
-    ## NASCAR Southwest Series
-    elif series_id.upper() == "SW":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/nascar_southwest_series/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Southwest Series season.')
-    ## NASCAR Northwest Series
-    elif series_id.upper() == "NW":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/nascar_northwest_series/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Northwest Series season.')
-    ## ASA National Tour
-    elif series_id.upper() == "AS":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/asa_national_tour/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} ASA National Tour season.')
-    ## ASA National Tour
-    elif series_id.upper() == "AS":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/asa_national_tour/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} ASA National Tour season.')
-    ## Whelen Southern Modified Tour
-    elif series_id.upper() == "M":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/whelen_southern_modified_tour/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} Whelen Southern Modified Tour season.')
-    ## NASCAR Peak Mexico Series
-    elif series_id.upper() == "MX":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/nascar_peak_mexico/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Peak Mexico Series season.')
-    ## NASCAR FedEx Challenge
-    elif series_id.upper() == "M2":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/nascar_fedex_challenge/schedule/{season}_schedule.csv')
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR FedEx Challenge.')
-
-    else:
-        raise ValueError("The input for series_id is invalid.")
+    sched_df = get_racing_reference_schedule(season=season,series_id=series_id)
 
     race_url_arr = sched_df['race_url'].to_list()
-    race_num_arr = sched_df['race_num'].to_list()
+    #race_num_arr = sched_df['race_num'].to_list()
+    race_id_short_arr = sched_df['race_short_id'].to_list()
     #main_df = pd.DataFrame()
-    race_df = pd.DataFrame()
+    race_results_df = pd.DataFrame()
     row_df = pd.DataFrame()
 
     headers = {"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"}
     for i in tqdm(range(0,len(race_url_arr))):
-        url = race_url_arr[i]
-        response = requests.get(url,headers=headers)
+        race_results_url = race_url_arr[i]
+        response = requests.get(race_results_url,headers=headers)
         soup = BeautifulSoup(response.text, features='lxml')
 
         # table 0: Race info table.
@@ -274,11 +313,8 @@ def get_racing_reference_race_results(season:int,series_id="W"):
         html_table = soup.find_all('table',{'class':'tb race-results-tbl'})[0]
         #print(f"\n{html_table}")
 
-        race_id = str(url).replace("https://www.racing-reference.info/race-results/","").replace(f"/{series_id.upper()}","")
-        if race_num_arr[i] < 10:
-            race_id_short = f"{season}_0{race_num_arr[i]}_{series_id}"
-        else:
-            race_id_short = f"{season}_{race_num_arr[i]}_{series_id}"
+        race_id = str(race_results_url).replace("https://www.racing-reference.info/race-results/","").replace(f"/{series_id.upper()}","")
+        race_id_short = race_id_short_arr[i]
         
         for j in html_table.find_all('tr'):
             row_df = pd.DataFrame({'season':season,'series_id':series_id,'race_id':race_id,'race_id_short':race_id_short},index=[0])
@@ -320,12 +356,46 @@ def get_racing_reference_race_results(season:int,series_id="W"):
                     row_df['playoff_points_earned'] = row[10].text.strip()
                 except:
                     row_df['playoff_points_earned'] = None
-                race_df = pd.concat([race_df,row_df],ignore_index=True)
-        #print(race_df)
+                race_results_df = pd.concat([race_results_df,row_df],ignore_index=True)
+        
+                del row_df
+
         time.sleep(1)
 
-    return race_df
+    return race_results_df
 
+def get_racing_reference_entry_lists(season:int,series_id="W") -> pd.DataFrame():
+    """
+    
+    """
+    sched_df = get_racing_reference_schedule(season=season,series_id=series_id)
+
+
+    race_id_short_arr = sched_df['race_short_id'].to_list()
+    #main_df = pd.DataFrame()
+    race_entry_lists_df = pd.DataFrame()
+    row_df = pd.DataFrame()
+    has_entry_lists = False
+
+    headers = {"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"}
+
+    for i in race_id_short_arr:
+        url = f"https://www.racing-reference.info/race-results/?rType=cc&raceId={i}&series={series_id}"
+        row_df = pd.DataFrame({'season':season,'series_id':series_id,'race_id_short':i},index=[0])
+        try:
+            response = requests.get(url,headers=headers)
+            soup = BeautifulSoup(response.text, features='lxml')
+            has_entry_lists = True
+        except:
+            print(f'No entry list found for {i}.\nseries ID:{series_id}')
+            has_entry_lists = False
+
+        table = soup.find_all("tbody")
+
+
+        del row_df
+
+    return race_entry_lists_df
 
 def main():
     #current_year = datetime.now().year
@@ -335,18 +405,20 @@ def main():
     current_day = now.day
 
 
-    for i in range(current_year,current_year+1):
+    for i in range(1900,current_year+1):
         ## Cup Series
         if i >= 1949:
             sched_df = get_racing_reference_standings(season=i,series_id="W")
             if len(sched_df) > 0:
                 sched_df.to_csv(f"racing_reference/nascar_cup/schedule/{i}_schedule.csv",index=False)
-            try:
-                results_df = get_racing_reference_race_results(season=i,series_id="W")
-                if len(results_df) > 0:
-                    results_df.to_csv(f"racing_reference/nascar_cup/race_results/{i}_race_results.csv",index=False)
-            except:
-                print(f'Could not get race results for the {i} NASCAR Cup season.')
+            #try:
+            results_df = get_racing_reference_race_results(season=i,series_id="W")
+            if len(results_df) > 0:
+                results_df.to_csv(f"racing_reference/nascar_cup/race_results/{i}_race_results.csv",index=False)
+            #except:
+            #    print(f'Could not get race results for the {i} NASCAR Cup season.')
+
+            #get_racing_reference_entry_lists(i,"W")
 
         ## Xfinity (Busch) Series
         if i >= 1984:
@@ -466,7 +538,7 @@ def main():
                 if len(results_df) > 0:
                     results_df.to_csv(f"racing_reference/act_late_model/race_results/{i}_race_results.csv",index=False)
             except:
-                print(f'Could not get race results for the {i} Indy NXT (Indy Lights) season.')
+                print(f'Could not get race results for the {i} ACT Late Model Tour season.')
 
         # Needs diffrient parser for this leauge.
         ## Supercars Championship
