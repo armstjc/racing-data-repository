@@ -405,7 +405,7 @@ def main():
     current_day = now.day
 
 
-    for i in range(1900,current_year+1):
+    for i in range(current_year,current_year+1):
         ## Cup Series
         if i >= 1949:
             sched_df = get_racing_reference_standings(season=i,series_id="W")
