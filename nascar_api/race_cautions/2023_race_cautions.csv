@@ -42,39 +42,6 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5271,187,194,Competition,Stage 2 Conclusion,3,2
 5271,303,309,Spin,#21 Spin Frontstretch,3,2
 5271,311,315,Accident,"#16, #42, #54 Incident Turn 2",99,2
-5310,9,11,Unknown,Potential Fluid On Frontstretch,None,2
-5310,21,25,Accident,"#1, 07, 11 Incident Frontstretch",None,2
-5310,32,36,Competition,Stage 1 Conclusion,None,2
-5310,42,45,Accident,"#7, 45, 48, 2, 21, 10 Incident Frontstretch",None,2
-5310,62,66,Spin,#18 Spin Frontstretch / Stage 2 Conclusion,45,2
-5310,90,94,Accident,#35 Incident Frontstretch,28,2
-5310,120,123,Accident,"#8, 9 Incident Backstretch",18,2
-5310,125,125,Accident,"#7, 1, 21 Incident Backstretch",None,2
-5311,17,19,Competition,Competition Caution,None,2
-5311,28,31,Accident,#08 Incident Turn 2,None,2
-5311,37,41,Competition,Stage 1 Conclusion,None,2
-5311,45,48,Accident,"#2, 8 Incident Backstretch",9,2
-5311,63,65,Spin,#8 Spin Turn 2,7,2
-5311,72,76,Competition,Stage 2 Conclusion,9,2
-5311,87,90,Spin,#9 Spin Turn 4,None,2
-5311,92,95,Accident,"#00, 10, 19 Incident Turn 2",9,2
-5311,129,133,Spin,#43 Spin Turn 2,39,2
-5311,135,138,Accident,"#18, 21, 2 Incident Backstretch",91,2
-5312,4,6,Spin,No. 48 Spin Turn 2,None,2
-5312,47,53,Competition,Stage 1 Conclusion,45,2
-5312,75,78,Spin,No. 8 Spin Turn 4,51,2
-5312,90,97,Spin,No. 45 Spin Turn 2 / Stage 2 Conclusion,4,2
-5313,30,35,Debris,Debris,07,2
-5313,40,43,Spin,#8 Spin Turn 3,53,2
-5313,47,55,Competition,Stage 1 Conclusion,None,2
-5313,57,62,Spin,#25 Spin Turn 3,74,2
-5313,70,74,Accident,"#24, #92 Incident Turn 2",74,2
-5313,85,88,Accident,"#1, #8 Incident Turn 2",74,2
-5313,92,100,Competition,Stage 2 Conclusion,74,2
-5313,140,147,Accident,#08 Incident Turn 1,24,2
-5313,150,156,Spin,#2 Spin Turn 2,91,2
-5313,172,176,Spin,#78 Spin Turn 2,07,2
-5313,180,185,Accident,"#25, #26, #7 Incident Turn 4",44,2
 5343,3,6,Weather,Weather,None,2
 5343,8,10,Weather,Weather,None,2
 5343,22,25,Competition,Stage 1 Conclusion,None,2
