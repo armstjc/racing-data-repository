@@ -91,6 +91,11 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5314,79,86,Accident,"Nos. 7, 8, 51 Incident Backstretch / Stage 2 Conclusion",None,2
 5314,118,123,Accident,"Nos. 35, 28 Incident Turn 1",2,2
 5314,156,161,Accident,No. 31 Incident Turn 4,2,2
+5315,9,9,Unknown,#07 Stopped Turn 1,None,2
+5315,18,19,Unknown,#50 Stopped Turn 1,44,2
+5315,22,22,Debris,Debris Turns 13 and 14,44,2
+5315,29,29,Unknown,#25 Stopped Turn 1,None,2
+5315,31,32,Unknown,#00 Stuck In Gravel Turn 4,38,2
 5343,3,6,Weather,Weather,None,2
 5343,8,10,Weather,Weather,None,2
 5343,22,25,Competition,Stage 1 Conclusion,None,2
@@ -115,3 +120,6 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5345,124,129,Accident,"Nos. 42, 45, 88 Incident Turn 3",35,2
 5345,132,135,Spin,No. 42 Spin Turn 2,23,2
 5345,137,137,Accident,"No. 16, 52, 38 Incident Turn 4",None,2
+5346,3,3,Unknown,#20 Stopped Turn 13,None,2
+5346,9,10,Unknown,#42 Stuck In Gravel Turn 11,None,2
+5346,28,29,Unknown,#75 Stopped Frontstretch,56,2
