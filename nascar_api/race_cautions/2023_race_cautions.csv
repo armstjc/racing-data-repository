@@ -104,6 +104,12 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5315,22,22,Debris,Debris Turns 13 and 14,44,2
 5315,29,29,Unknown,#25 Stopped Turn 1,None,2
 5315,31,32,Unknown,#00 Stuck In Gravel Turn 4,38,2
+5316,37,42,Competition,Competition Caution,4,2
+5316,77,84,Competition,Stage 1 Conclusion,20,2
+5316,152,161,Competition,Stage 2 Conclusion,28,2
+5316,222,228,Unknown,#51 Stopped on Pit Road,43,2
+5316,232,238,Accident,"#98, 9 Incident Turn 2",1,2
+5316,240,244,Accident,"#7, 25, 15, 43, 45 Incident Turn 3",18,2
 5343,3,6,Weather,Weather,None,2
 5343,8,10,Weather,Weather,None,2
 5343,22,25,Competition,Stage 1 Conclusion,None,2
@@ -131,3 +137,15 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5346,3,3,Unknown,#20 Stopped Turn 13,None,2
 5346,9,10,Unknown,#42 Stuck In Gravel Turn 11,None,2
 5346,28,29,Unknown,#75 Stopped Frontstretch,56,2
+5355,2,5,Accident,#41 Incident Backstretch,None,2
+5355,23,25,Accident,#41 Incident Backstretch,12,2
+5355,35,35,Competition,Competition Caution,34,2
+5355,77,77,Competition,Stage 1 Conclusion,33,2
+5355,80,82,Spin,#45 Spin Backstretch,30,2
+5355,122,122,Competition,Stage 2 Conclusion,33,2
+5355,138,142,Debris,Debris on Frontstretch,45,2
+5355,146,150,Accident,"#46, 20, 5, 14 Incident Frontstretch [Red Flag 00:15:41]",30,2
+5355,157,160,Accident,"#43, 17, 33, 16 Incident Backstretch",99,2
+5355,162,166,Accident,"#88, 15, 23, 9 Incident Turn 4",99,2
+5355,168,170,Accident,#45 Incident Backstretch,23,2
+5355,172,172,Accident,"#2, 19, 38 Incident Turn 1",None,2
