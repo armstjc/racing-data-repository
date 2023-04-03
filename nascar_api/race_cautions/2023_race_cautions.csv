@@ -55,6 +55,14 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5273,66,67,Debris,Debris From #3,None,2
 5273,69,70,Debris,Debris From #12,5,2
 5273,72,73,Debris,Debris From #99,5,2
+5274,32,38,Competition,Competition Caution,None,2
+5274,46,50,Accident,"#11, 15 Incident Turn 1",None,2
+5274,72,79,Competition,Stage 1 Conclusion,15,2
+5274,96,101,Accident,"#12, 9 Incident Turn 4",15,2
+5274,232,240,Competition,Stage 2 Conclusion,38,2
+5274,307,312,Accident,#42 Incident Turn 2,38,2
+5274,373,379,Spin,#45 Spin Turn 2,None,2
+5274,381,386,Accident,"#20, 24, 4 Incident Turn 1",7,2
 5310,9,11,Unknown,Potential Fluid On Frontstretch,None,2
 5310,21,25,Accident,"#1, 07, 11 Incident Frontstretch",None,2
 5310,32,36,Competition,Stage 1 Conclusion,None,2
