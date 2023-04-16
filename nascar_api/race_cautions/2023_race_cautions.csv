@@ -132,6 +132,16 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5316,222,228,Unknown,#51 Stopped on Pit Road,43,2
 5316,232,238,Accident,"#98, 9 Incident Turn 2",1,2
 5316,240,244,Accident,"#7, 25, 15, 43, 45 Incident Turn 3",18,2
+5317,38,43,Spin,#25 Spin Turn 4,91,2
+5317,62,71,Competition,Stage 1 Conclusion,78,2
+5317,88,100,Unknown,#74 Blown Engine Turn 1,25,2
+5317,122,131,Competition,Stage 2 Conclusion,08,2
+5317,136,142,Accident,"#43, 38 Incident Turn 1",None,2
+5317,145,155,Accident,"#91, 07, 45, 28 Incident Backstretch",35,2
+5317,163,168,Spin,#92 Spin Turn 2,43,2
+5317,210,217,Accident,#51 Incident Turn 2,45,2
+5317,223,232,Accident,"#98, 1, 19, 27 Incident Turn 2",43,2
+5317,250,250,Unknown,,None,2
 5343,3,6,Weather,Weather,None,2
 5343,8,10,Weather,Weather,None,2
 5343,22,25,Competition,Stage 1 Conclusion,None,2
