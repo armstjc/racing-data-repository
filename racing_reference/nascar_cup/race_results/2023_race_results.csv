@@ -9,7 +9,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,W,2023_Daytona_500,2023_01,8,7,12,usa,Ryan_Blaney,Ryan Blaney,MenardsBlue DEFPEAK,Roger_Penske,Ford,212,running,1,29,0
 2023,W,2023_Daytona_500,2023_01,9,23,1,usa,Ross_Chastain,Ross Chastain,AdventHealth,Trackhouse_Racing,Chevrolet,212,running,6,38,1
 2023,W,2023_Daytona_500,2023_01,10,38,15,usa,Riley_Herbst,Riley Herbst,SunnyD,Rick_Ware,Ford,212,running,0,0,0
-2023,W,2023_Daytona_500,2023_01,11,40,67,usa,Travis_Pastrana,Travis Pastrana,Black Rifle Coffee,,Toyota,212,running,2,26,0
+2023,W,2023_Daytona_500,2023_01,11,40,67,usa,Travis_Pastrana,Travis Pastrana,Black Rifle Coffee,23XI_Racing,Toyota,212,running,2,26,0
 2023,W,2023_Daytona_500,2023_01,12,13,4,usa,Kevin_Harvick,Kevin Harvick,Busch Light,Stewart_Haas_Racing,Ford,212,running,1,32,0
 2023,W,2023_Daytona_500,2023_01,13,17,36,usa,Zane_Smith,Zane Smith,Wellcare,Bob_Jenkins,Ford,212,running,0,0,0
 2023,W,2023_Daytona_500,2023_01,14,35,51,usa,Cody_Ware,Cody Ware,Biohaven/Jacob Co.,Rick_Ware,Ford,212,running,0,23,0
@@ -29,7 +29,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,W,2023_Daytona_500,2023_01,28,11,34,usa,Michael_McDowell,Michael McDowell,Love's Travel Stops,Bob_Jenkins,Ford,208,running,0,15,0
 2023,W,2023_Daytona_500,2023_01,29,34,50,usa,Conor_Daly,Conor Daly,Bitnile.com,TMT_Racing,Chevrolet,206,running,0,0,0
 2023,W,2023_Daytona_500,2023_01,30,32,78,usa,B_J_McLeod,B.J. McLeod,Power Slap Rumble,B_J_McLeod,Chevrolet,204,running,0,7,0
-2023,W,2023_Daytona_500,2023_01,31,39,84,usa,Jimmie_Johnson,Jimmie Johnson,Carvana,,Chevrolet,203,crash,0,10,0
+2023,W,2023_Daytona_500,2023_01,31,39,84,usa,Jimmie_Johnson,Jimmie Johnson,Carvana,Legacy_Motor_Club,Chevrolet,203,crash,0,10,0
 2023,W,2023_Daytona_500,2023_01,32,28,31,usa,Justin_Haley,Justin Haley,Cirkul,Matt_Kaulig,Chevrolet,203,crash,0,5,0
 2023,W,2023_Daytona_500,2023_01,33,27,3,usa,Austin_Dillon,Austin Dillon,Bass Pro Shops Club,Richard_Childress,Chevrolet,202,crash,0,4,0
 2023,W,2023_Daytona_500,2023_01,34,21,24,usa,William_Byron,William Byron,RaptorTough.com,Rick_Hendrick,Chevrolet,202,crash,0,7,0
@@ -220,7 +220,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,W,2023_Echopark_Automotive_Grand_Prix,2023_06,35,30,6,usa,Brad_Keselowski,Brad Keselowski,Wyndham Rewards,Jack_Roush,Ford,56,driveshaft,0,2,0
 2023,W,2023_Echopark_Automotive_Grand_Prix,2023_06,36,35,50,usa,Conor_Daly,Conor Daly,Bitnile.com,TMT_Racing,Chevrolet,16,transmission,0,1,0
 2023,W,2023_Echopark_Automotive_Grand_Prix,2023_06,37,11,23,usa,Bubba_Wallace,Bubba Wallace,MoneyLion,23XI_Racing,Toyota,10,crash,0,1,0
-2023,W,2023_Echopark_Automotive_Grand_Prix,2023_06,38,31,84,usa,Jimmie_Johnson,Jimmie Johnson,Club Wyndham,,Chevrolet,0,dvp,0,1,0
+2023,W,2023_Echopark_Automotive_Grand_Prix,2023_06,38,31,84,usa,Jimmie_Johnson,Jimmie Johnson,Club Wyndham,Legacy_Motor_Club,Chevrolet,0,dvp,0,1,0
 2023,W,2023_Echopark_Automotive_Grand_Prix,2023_06,39,34,77,usa,Ty_Dillon,Ty Dillon,Ferris Commercial Mowers,Spire_Motorsports,Chevrolet,0,crash,0,1,0
 2023,W,2023_Toyota_Owners_400,2023_07,1,9,5,usa,Kyle_Larson,Kyle Larson,HendrickCars.com,Rick_Hendrick,Chevrolet,400,running,93,52,5
 2023,W,2023_Toyota_Owners_400,2023_07,2,30,9,usa,Josh_Berry,Josh Berry,NAPA Auto Parts,Rick_Hendrick,Chevrolet,400,running,10,0,0

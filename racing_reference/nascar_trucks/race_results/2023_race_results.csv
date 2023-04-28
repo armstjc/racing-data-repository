@@ -143,7 +143,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,C,2023_XPEL_225,2023_04,35,22,5,usa,Dean_Thompson,Dean Thompson,Thompson Pipe Group,David_Gilliland,Toyota,4,crash,0,2,0
 2023,C,2023_XPEL_225,2023_04,36,23,20,uae,Ed_Jones,Ed Jones,Little Caesars,Randy_Young,Chevrolet,0,suspension,0,1,0
 2023,C,2023_SpeedyCash_com_250,2023_05,1,5,42,usa,Carson_Hocevar,Carson Hocevar,Worldwide Express,Al_Niece,Chevrolet,172,running,1,40,5
-2023,C,2023_SpeedyCash_com_250,2023_05,2,14,4,usa,Chase_Purdy,Chase Purdy,Bama Buggies,Kyle_Busch,Chevrolet,172,running,0,41,0
+2023,C,2023_SpeedyCash_com_250,2023_05,2,14,4,usa,Chase_Purdy,Chase Purdy,Bama Buggies,Kyle_Busch,Chevrolet,172,running,0,31,0
 2023,C,2023_SpeedyCash_com_250,2023_05,3,7,52,canada,Stewart_Friesen,Stewart Friesen,Ferris Commercial Mowers,Chris_Larsen,Toyota,172,running,0,36,0
 2023,C,2023_SpeedyCash_com_250,2023_05,4,3,98,usa,Ty_Majeski,Ty Majeski,Road Ranger,Mike_Curb,Ford,172,running,0,40,0
 2023,C,2023_SpeedyCash_com_250,2023_05,5,9,35,usa,Jake_Garcia,Jake Garcia,Adaptive One Calipers,Bill_McAnally,Chevrolet,172,running,0,32,0
@@ -157,7 +157,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,C,2023_SpeedyCash_com_250,2023_05,13,21,88,usa,Matt_Crafton,Matt Crafton,Chi Chis/ Menards,Duke_Thorson,Ford,172,running,0,25,0
 2023,C,2023_SpeedyCash_com_250,2023_05,14,18,38,usa,Zane_Smith,Zane Smith,Speedy Cash,Bob_Jenkins,Ford,172,running,0,35,0
 2023,C,2023_SpeedyCash_com_250,2023_05,15,6,19,usa,Christian_Eckes,Christian Eckes,NAPA AUTOCARE,Bill_McAnally,Chevrolet,172,running,2,39,0
-2023,C,2023_SpeedyCash_com_250,2023_05,16,1,2,usa,Nick_Sanchez,Nick Sanchez,Gainbridge,Max_Siegel,Chevrolet,171,crash,168,41,2
+2023,C,2023_SpeedyCash_com_250,2023_05,16,1,2,usa,Nick_Sanchez,Nick Sanchez,Gainbridge,Max_Siegel,Chevrolet,171,crash,168,31,2
 2023,C,2023_SpeedyCash_com_250,2023_05,17,13,23,usa,Grant_Enfinger,Grant Enfinger,Champion Power Equipment,Maury_Gallagher,Chevrolet,171,running,0,21,0
 2023,C,2023_SpeedyCash_com_250,2023_05,18,19,45,usa,Lawless_Alan,Lawless Alan,"NIECE/MG Machinery, LLC",Al_Niece,Chevrolet,170,running,0,19,0
 2023,C,2023_SpeedyCash_com_250,2023_05,19,15,24,usa,Rajah_Caruth,Rajah Caruth,Wendell Scott Foundation,Maury_Gallagher,Chevrolet,169,running,0,18,0
@@ -212,3 +212,39 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,C,2023_Weather_Guard_Truck_Race_on_Dirt,2023_06,34,9,17,usa,Taylor_Gray,Taylor Gray,JBL,David_Gilliland,Toyota,8,crash,0,3,0
 2023,C,2023_Weather_Guard_Truck_Race_on_Dirt,2023_06,35,18,33,usa,Mason_Massey,Mason Massey,Brunt,Josh_Reaume,Ford,7,crash,0,2,0
 2023,C,2023_Weather_Guard_Truck_Race_on_Dirt,2023_06,36,20,20,usa,Stefan_Parsons,Stefan Parsons,Randy Young,Randy_Young,Chevrolet,7,crash,0,0,0
+2023,C,2023_Long_John_Silvers_200,2023_07,1,4,11,usa,Corey_Heim,Corey Heim,Safelite,David_Gilliland,Toyota,124,running,82,60,7
+2023,C,2023_Long_John_Silvers_200,2023_07,2,2,51,usa,Kyle_Busch,Kyle Busch,Zariz Transport,Kyle_Busch,Chevrolet,124,running,37,0,0
+2023,C,2023_Long_John_Silvers_200,2023_07,3,1,38,usa,Zane_Smith,Zane Smith,LONG JOHN SILVER'S,Bob_Jenkins,Ford,124,running,5,50,0
+2023,C,2023_Long_John_Silvers_200,2023_07,4,12,98,usa,Ty_Majeski,Ty Majeski,Soda Sense,Mike_Curb,Ford,124,running,0,42,0
+2023,C,2023_Long_John_Silvers_200,2023_07,5,9,15,usa,Tanner_Gray,Tanner Gray,JBL,David_Gilliland,Toyota,124,running,0,45,0
+2023,C,2023_Long_John_Silvers_200,2023_07,6,3,99,usa,Ben_Rhodes,Ben Rhodes,Campers Inn RV,Duke_Thorson,Ford,124,running,0,40,0
+2023,C,2023_Long_John_Silvers_200,2023_07,7,5,25,usa,Matt_DiBenedetto,Matt DiBenedetto,Rackley Roofing,Rackley_WAR,Chevrolet,124,running,0,35,0
+2023,C,2023_Long_John_Silvers_200,2023_07,8,24,17,usa,Taylor_Gray,Taylor Gray,Dead On Tools,David_Gilliland,Toyota,124,running,0,29,0
+2023,C,2023_Long_John_Silvers_200,2023_07,9,22,1,none,William_Sawalich_(2),William Sawalich,Starkey/Soundgear,David_Gilliland,Toyota,124,running,0,29,0
+2023,C,2023_Long_John_Silvers_200,2023_07,10,8,4,usa,Chase_Purdy,Chase Purdy,Bama Buggies,Kyle_Busch,Chevrolet,124,running,0,27,0
+2023,C,2023_Long_John_Silvers_200,2023_07,11,19,2,usa,Nick_Sanchez,Nick Sanchez,Gainbridge,Max_Siegel,Chevrolet,124,running,0,26,0
+2023,C,2023_Long_John_Silvers_200,2023_07,12,25,41,usa,Ross_Chastain,Ross Chastain,Worldwide Express,Al_Niece,Chevrolet,124,running,0,0,0
+2023,C,2023_Long_John_Silvers_200,2023_07,13,18,35,usa,Jake_Garcia,Jake Garcia,TBD,Bill_McAnally,Chevrolet,124,running,0,24,0
+2023,C,2023_Long_John_Silvers_200,2023_07,14,10,23,usa,Grant_Enfinger,Grant Enfinger,Champion Power Equipment,Maury_Gallagher,Chevrolet,124,running,0,23,0
+2023,C,2023_Long_John_Silvers_200,2023_07,15,6,19,usa,Christian_Eckes,Christian Eckes,Gates Hydraulics,Bill_McAnally,Chevrolet,124,running,0,35,0
+2023,C,2023_Long_John_Silvers_200,2023_07,16,31,02,usa,Kris_Wright,Kris Wright,F.N.B. Corporation,Randy_Young,Chevrolet,124,running,0,21,0
+2023,C,2023_Long_John_Silvers_200,2023_07,17,26,9,usa,Colby_Howard,Colby Howard,Grant County Mulch,Codie_Rohrbaugh,Chevrolet,124,running,0,21,0
+2023,C,2023_Long_John_Silvers_200,2023_07,18,15,66,none,Conner_Jones_(2),Conner Jones,TSport,Duke_Thorson,Ford,124,running,0,19,0
+2023,C,2023_Long_John_Silvers_200,2023_07,19,28,56,usa,Timmy_Hill,Timmy Hill,UNITS Storage,Timmy_Hill,Toyota,124,running,0,18,0
+2023,C,2023_Long_John_Silvers_200,2023_07,20,27,13,usa,Hailie_Deegan,Hailie Deegan,Ford Performance,Duke_Thorson,Ford,124,running,0,17,0
+2023,C,2023_Long_John_Silvers_200,2023_07,21,36,5,usa,Dean_Thompson,Dean Thompson,Thompson Pipe Group,David_Gilliland,Toyota,124,running,0,16,0
+2023,C,2023_Long_John_Silvers_200,2023_07,22,23,32,usa,Bret_Holmes,Bret Holmes,Bret Holmes Racing,Stacy_Holmes,Chevrolet,124,running,0,15,0
+2023,C,2023_Long_John_Silvers_200,2023_07,23,30,12,usa,Spencer_Boyd,Spencer Boyd,Freedom Warranty,Randy_Young,Chevrolet,124,running,0,14,0
+2023,C,2023_Long_John_Silvers_200,2023_07,24,29,46,none,Memphis_Villarreal,Memphis Villarreal,S & S Fishing and Rental,G2G_Racing,Toyota,124,running,0,13,0
+2023,C,2023_Long_John_Silvers_200,2023_07,25,16,24,usa,Rajah_Caruth,Rajah Caruth,Wendell Scott Foundation,Maury_Gallagher,Chevrolet,124,running,0,12,0
+2023,C,2023_Long_John_Silvers_200,2023_07,26,11,88,usa,Matt_Crafton,Matt Crafton,Jack Links/Menards,Duke_Thorson,Ford,124,running,0,11,0
+2023,C,2023_Long_John_Silvers_200,2023_07,27,14,16,usa,Tyler_Ankrum,Tyler Ankrum,LiUNA!,Shigeaki_Hattori,Toyota,124,running,0,10,0
+2023,C,2023_Long_John_Silvers_200,2023_07,28,17,04,usa,Kaden_Honeycutt,Kaden Honeycutt,Carquest,Roper_Racing,Ford,123,running,0,9,0
+2023,C,2023_Long_John_Silvers_200,2023_07,29,33,30,usa,Jonathan_Shafer,Jonathan Shafer,Osgar's Autobody,Steven_Lane,Toyota,123,running,0,8,0
+2023,C,2023_Long_John_Silvers_200,2023_07,30,13,52,canada,Stewart_Friesen,Stewart Friesen,Halmar International,Chris_Larsen,Toyota,123,running,0,7,0
+2023,C,2023_Long_John_Silvers_200,2023_07,31,21,43,usa,Daniel_Dye,Daniel Dye,Heise LED Lighting Systems,Maury_Gallagher,Chevrolet,123,running,0,6,0
+2023,C,2023_Long_John_Silvers_200,2023_07,32,20,45,usa,Lawless_Alan,Lawless Alan,AUTOChargit,Al_Niece,Chevrolet,122,running,0,5,0
+2023,C,2023_Long_John_Silvers_200,2023_07,33,32,33,usa,Mason_Massey,Mason Massey,Colonial Countertops,Josh_Reaume,Ford,122,running,0,4,0
+2023,C,2023_Long_John_Silvers_200,2023_07,34,7,42,usa,Carson_Hocevar,Carson Hocevar,Worldwide Express,Al_Niece,Chevrolet,122,running,0,8,0
+2023,C,2023_Long_John_Silvers_200,2023_07,35,34,20,usa,Brad_Perez,Brad Perez,Bonesteel Aerospace,Randy_Young,Chevrolet,118,running,0,0,0
+2023,C,2023_Long_John_Silvers_200,2023_07,36,35,22,usa,Stephen_Mallozzi,Stephen Mallozzi,Stacking Dennys,Kevin_Cywinski,Ford,116,running,0,1,0
