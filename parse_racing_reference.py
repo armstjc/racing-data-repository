@@ -194,13 +194,6 @@ def get_racing_reference_schedule(season:int,series_id:str) -> pd.DataFrame():
             return sched_df
         except:
             raise FileNotFoundError(f'Could not find a schedule file for the {season} ASA National Tour season.')
-    ## Whelen Southern Modified Tour
-    elif series_id.upper() == "M":
-        try:
-            sched_df = pd.read_csv(f'racing_reference/whelen_southern_modified_tour/schedule/{season}_schedule.csv')
-            return sched_df
-        except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} Whelen Southern Modified Tour season.')
     ## NASCAR Peak Mexico Series
     elif series_id.upper() == "MX":
         try:
@@ -761,17 +754,6 @@ def main():
             except:
                print(f'Could not get race results for the {i} ASA National Tour season.')
 
-        ## WHELEN SOUTHERN MODIFIED TOUR
-        if i >= 2005 and i <= 2016:
-            sched_df = get_racing_reference_standings(season=i,series_id="M")
-            if len(sched_df) > 0:
-                sched_df.to_csv(f"racing_reference/whelen_southern_modified_tour/schedule/{i}_schedule.csv",index=False)
-            try:
-                results_df = get_racing_reference_race_results(season=i,series_id="M")
-                if len(results_df) > 0:
-                    results_df.to_csv(f"racing_reference/whelen_southern_modified_tour/race_results/{i}_race_results.csv",index=False)
-            except:
-               print(f'Could not get race results for the {i} ASA National Tour season.')
 
     with open('racing_reference_status.json','w+') as f:
         f.write(f"{{ \"year\":{current_year},\"month\":{current_month},\"day\":{current_day} }}")
