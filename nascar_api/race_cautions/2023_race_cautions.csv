@@ -108,6 +108,14 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5284,192,195,Spin,#21 Spin Off Turn 2,51,2
 5284,207,211,Spin,#42 Spin Backstretch,None,2
 5284,216,220,Spin,"#43 Spin, #48 Spin Off Turns 3-4",42,2
+5283,39,43,Unknown,Fluid on track,16,2
+5283,92,98,Competition,Stage 1 Conclusion,17,2
+5283,186,193,Competition,Stage 2 Conclusion,41,2
+5283,195,201,Accident,"Nos. 2, 38, 42, 99, 43, 51, 34, 3, 54 Incident Backstretch",17,2
+5283,211,215,Spin,No. 47 Spin Turn 3,31,2
+5283,277,280,Spin,No. 51 Spin Turn 4,54,2
+5283,282,287,Accident,"No. 19, 45, 22, 4, 9, 6, 10, 12 Incident Turn 1",47,2
+5283,289,293,Accident,"Nos. 1, 5 Incident Turn 1",2,2
 5310,9,11,Unknown,Potential Fluid On Frontstretch,None,2
 5310,21,25,Accident,"#1, 07, 11 Incident Frontstretch",None,2
 5310,32,36,Competition,Stage 1 Conclusion,None,2
