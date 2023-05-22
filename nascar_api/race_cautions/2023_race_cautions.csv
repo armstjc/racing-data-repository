@@ -116,6 +116,11 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5283,277,280,Spin,No. 51 Spin Turn 4,54,2
 5283,282,287,Accident,"No. 19, 45, 22, 4, 9, 6, 10, 12 Incident Turn 1",47,2
 5283,289,293,Accident,"Nos. 1, 5 Incident Turn 1",2,2
+5285,42,47,Competition,Competition Break,77,2
+5285,51,56,Accident,"#13, 16, 38, 42, 51 Incident Turn 1",78,2
+5285,58,63,Accident,"#31, 34, 54 Incident Turn 4",None,2
+5286,17,20,Accident,"#43, 47 Incident Turn 4",None,2
+5286,102,110,Competition,Competition Break,19,2
 5310,9,11,Unknown,Potential Fluid On Frontstretch,None,2
 5310,21,25,Accident,"#1, 07, 11 Incident Frontstretch",None,2
 5310,32,36,Competition,Stage 1 Conclusion,None,2
