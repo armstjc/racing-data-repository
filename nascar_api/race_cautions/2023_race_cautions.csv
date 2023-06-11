@@ -248,6 +248,8 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5323,52,52,Competition,Stage 2 Conclusion,4,2
 5323,69,70,Accident,#98 Incident in Turn 9,20,2
 5323,74,75,Unknown,,26,2
+5321,22,26,Unknown,#8 Stopped On Track,38,2
+5321,62,64,Accident,#45 Incident Turn 10,39,2
 5343,3,6,Weather,Weather,None,2
 5343,8,10,Weather,Weather,None,2
 5343,22,25,Competition,Stage 1 Conclusion,None,2
