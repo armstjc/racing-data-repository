@@ -298,7 +298,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,B,2023_Call_811_Before_You_Dig_250,2023_08,31,5,1,usa,Sam_Mayer,Sam Mayer,Accelerate Pros Talent,JR_Motorsports,Chevrolet,221,crash,0,13,0
 2023,B,2023_Call_811_Before_You_Dig_250,2023_08,32,22,51,usa,Jeremy_Clements,Jeremy Clements,First Pacific Funding,Jeremy_Clements,Chevrolet,210,crash,0,5,0
 2023,B,2023_Call_811_Before_You_Dig_250,2023_08,33,18,24,usa,Connor_Mosack,Connor Mosack,Toyota Racing Development,Sam_Hunt,Toyota,205,running,0,4,0
-2023,B,2023_Call_811_Before_You_Dig_250,2023_08,34,27,96,usa,Kyle_Weatherman,Kyle Weatherman,Fanttik/BrewHaha,,Chevrolet,198,suspension,0,3,0
+2023,B,2023_Call_811_Before_You_Dig_250,2023_08,34,27,96,usa,Kyle_Weatherman,Kyle Weatherman,Fanttik/BrewHaha,Collin_Fern,Chevrolet,198,suspension,0,3,0
 2023,B,2023_Call_811_Before_You_Dig_250,2023_08,35,28,28,usa,Kyle_Sieg,Kyle Sieg,Night Owl,Rod_Sieg,Ford,145,crash,0,2,0
 2023,B,2023_Call_811_Before_You_Dig_250,2023_08,36,29,07,usa,Dawson_Cram,Dawson Cram,Sokal	,Bobby_Dotter,Chevrolet,143,crash,0,1,0
 2023,B,2023_Call_811_Before_You_Dig_250,2023_08,37,34,38,usa,Joe_Graf_Jr,Joe Graf Jr,Lefcourt Brothers,Rod_Sieg,Ford,133,crash,0,1,0
@@ -455,3 +455,79 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,B,2023_Alsco_Uniforms_300_%28May%29,2023_12,36,26,74,usa,Dawson_Cram,Dawson Cram,CHK Racing,Mike_Harmon,Chevrolet,193,running,0,1,0
 2023,B,2023_Alsco_Uniforms_300_%28May%29,2023_12,37,35,02,usa,Blaine_Perkins,Blaine Perkins,Our Motorsports,Chris_Our,Chevrolet,163,engine,0,1,0
 2023,B,2023_Alsco_Uniforms_300_%28May%29,2023_12,38,20,48,usa,Parker_Kligerman,Parker Kligerman,Big Machine Racing Spiked,Scott_Borchetta,Chevrolet,144,running,0,1,0
+2023,B,2023_Pacific_Automation_147,2023_13,1,2,00,usa,Cole_Custer,Cole Custer,Haas Automation,Stewart_Haas_Racing,Ford,77,running,5,54,6
+2023,B,2023_Pacific_Automation_147,2023_13,2,5,7,usa,Justin_Allgaier,Justin Allgaier,BRANDT,JR_Motorsports,Chevrolet,77,running,23,51,0
+2023,B,2023_Pacific_Automation_147,2023_13,3,36,1,usa,Sam_Mayer,Sam Mayer,Accelerate Pros Talent,JR_Motorsports,Chevrolet,77,running,0,38,0
+2023,B,2023_Pacific_Automation_147,2023_13,4,3,8,usa,Josh_Berry,Josh Berry,Tire Pros Love The Drive,JR_Motorsports,Chevrolet,77,running,0,39,0
+2023,B,2023_Pacific_Automation_147,2023_13,5,8,21,usa,Austin_Hill,Austin Hill,Bennett Transportation,Richard_Childress,Chevrolet,77,running,0,41,0
+2023,B,2023_Pacific_Automation_147,2023_13,6,9,19,usa,Myatt_Snider,Myatt Snider,Tree Top,Joe_Gibbs,Toyota,77,running,0,34,0
+2023,B,2023_Pacific_Automation_147,2023_13,7,1,2,usa,Sheldon_Creed,Sheldon Creed,Whelen,Richard_Childress,Chevrolet,77,running,47,45,1
+2023,B,2023_Pacific_Automation_147,2023_13,8,11,24,usa,Connor_Mosack,Connor Mosack,Open Eyes,Sam_Hunt,Toyota,77,running,0,29,0
+2023,B,2023_Pacific_Automation_147,2023_13,9,7,16,usa,Chandler_Smith,Chandler Smith,"Quick Tie Products, Inc.",Matt_Kaulig,Chevrolet,77,running,0,28,0
+2023,B,2023_Pacific_Automation_147,2023_13,10,4,20,usa,John_H._Nemechek,John H. Nemechek,Red Bird Farms,Joe_Gibbs,Toyota,77,running,2,45,0
+2023,B,2023_Pacific_Automation_147,2023_13,11,15,91,canada,Alex_Labbe,Alex Labbe,Duroking/Larue/Portland Gear,Mario_Gosselin,Chevrolet,77,running,0,26,0
+2023,B,2023_Pacific_Automation_147,2023_13,12,19,25,usa,Brett_Moffitt,Brett Moffitt,AM Technical Solutions,Kevin_Cywinski,Ford,77,running,0,25,0
+2023,B,2023_Pacific_Automation_147,2023_13,13,37,9,usa,Brandon_Jones,Brandon Jones,Menards / Schultz Potting Soil,JR_Motorsports,Chevrolet,77,running,0,24,0
+2023,B,2023_Pacific_Automation_147,2023_13,14,14,48,usa,Parker_Kligerman,Parker Kligerman,Big Machine Racing Spiked,Scott_Borchetta,Chevrolet,77,running,0,32,0
+2023,B,2023_Pacific_Automation_147,2023_13,15,27,02,usa,Blaine_Perkins,Blaine Perkins,TBD,Chris_Our,Chevrolet,77,running,0,22,0
+2023,B,2023_Pacific_Automation_147,2023_13,16,28,92,usa,Josh_Williams,Josh Williams,Alloy Employer Services,Mario_Gosselin,Chevrolet,77,running,0,21,0
+2023,B,2023_Pacific_Automation_147,2023_13,17,23,31,usa,Parker_Retzlaff,Parker Retzlaff,FUNKAWAY,Jordan_Anderson,Chevrolet,77,running,0,20,0
+2023,B,2023_Pacific_Automation_147,2023_13,18,24,39,usa,Ryan_Sieg,Ryan Sieg,CMRroofing.com,Rod_Sieg,Ford,77,running,0,19,0
+2023,B,2023_Pacific_Automation_147,2023_13,19,31,45,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,ForeverLawn,Tommy_Joe_Martins,Chevrolet,77,running,0,18,0
+2023,B,2023_Pacific_Automation_147,2023_13,20,29,53,usa,Patrick_Emerling,Patrick Emerling,Emerling-Gase Motorsports,Emerling-Gase_Motorsports,Chevrolet,77,running,0,17,0
+2023,B,2023_Pacific_Automation_147,2023_13,21,17,78,usa,Anthony_Alfredo,Anthony Alfredo,Dude Wipes,B_J_McLeod,Chevrolet,77,running,0,16,0
+2023,B,2023_Pacific_Automation_147,2023_13,22,20,51,usa,Jeremy_Clements,Jeremy Clements,"Spartan Waste, Fox Sports 98.3",Jeremy_Clements,Chevrolet,77,running,0,15,0
+2023,B,2023_Pacific_Automation_147,2023_13,23,33,38,usa,Joe_Graf_Jr,Joe Graf Jr,ARMSLIST.com,Rod_Sieg,Ford,77,running,0,14,0
+2023,B,2023_Pacific_Automation_147,2023_13,24,35,4,usa,Garrett_Smithley,Garrett Smithley,DozerWinchParts.com,Johnny_Davis,Chevrolet,77,running,0,13,0
+2023,B,2023_Pacific_Automation_147,2023_13,25,13,27,usa,Jeb_Burton,Jeb Burton,Bommarito.com / EasyCare,Jordan_Anderson,Chevrolet,77,running,0,13,0
+2023,B,2023_Pacific_Automation_147,2023_13,26,18,26,usa,Kaz_Grala,Kaz Grala,FDC Black Cherry Bourbon,Sam_Hunt,Toyota,77,running,0,11,0
+2023,B,2023_Pacific_Automation_147,2023_13,27,6,10,usa,Jordan_Taylor,Jordan Taylor,Leaf Home Water Solutions,Matt_Kaulig,Chevrolet,77,running,0,0,0
+2023,B,2023_Pacific_Automation_147,2023_13,28,21,43,usa,Leland_Honeyman,Leland Honeyman,Rokform,Tommy_Joe_Martins,Chevrolet,76,crash,0,9,0
+2023,B,2023_Pacific_Automation_147,2023_13,29,22,44,usa,Dylan_Lupton,Dylan Lupton,"Lupton Excavation, Inc",Tommy_Joe_Martins,Chevrolet,76,running,0,8,0
+2023,B,2023_Pacific_Automation_147,2023_13,30,16,18,usa,Sammy_Smith,Sammy Smith,Pilot Flying J,Joe_Gibbs,Toyota,75,running,0,7,0
+2023,B,2023_Pacific_Automation_147,2023_13,31,25,08,usa,Preston_Pardus,Preston Pardus,B2B / Chinchor Electric,Bobby_Dotter,Ford,72,running,0,6,0
+2023,B,2023_Pacific_Automation_147,2023_13,32,12,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,65,engine,0,9,0
+2023,B,2023_Pacific_Automation_147,2023_13,33,10,11,usa,Daniel_Hemric,Daniel Hemric,Cirkul,Matt_Kaulig,Chevrolet,47,running,0,4,0
+2023,B,2023_Pacific_Automation_147,2023_13,34,30,28,usa,Kyle_Sieg,Kyle Sieg,Rod Sieg,Rod_Sieg,Ford,46,rear gear,0,3,0
+2023,B,2023_Pacific_Automation_147,2023_13,35,32,35,usa,Parker_Chase,Parker Chase,Ontivity,Emerling-Gase_Motorsports,Toyota,36,tie rod,0,2,0
+2023,B,2023_Pacific_Automation_147,2023_13,36,34,66,usa,Mason_Maggio,Mason Maggio,HMS Commercial Service,Carl_Long,Toyota,28,transmission,0,0,0
+2023,B,2023_Pacific_Automation_147,2023_13,37,38,07,usa,Stefan_Parsons,Stefan Parsons,Lanphere Auto Group,Bobby_Dotter,Chevrolet,17,overheating,0,1,0
+2023,B,2023_Pacific_Automation_147,2023_13,38,26,6,usa,Brennan_Poole,Brennan Poole,Johnny Davis,Johnny_Davis,Chevrolet,15,crash,0,1,0
+2023,B,2023_DoorDash_250,2023_14,1,4,28,usa,Aric_Almirola,Aric Almirola,Micheal Roberts Construction,Rod_Sieg,Ford,79,running,17,0,0
+2023,B,2023_DoorDash_250,2023_14,2,5,10,usa,A_J_Allmendinger,A.J. Allmendinger,Gabriel Glas,Matt_Kaulig,Chevrolet,79,running,2,0,0
+2023,B,2023_DoorDash_250,2023_14,3,1,17,usa,Kyle_Larson,Kyle Larson,HendrickCars.com,Rick_Hendrick,Chevrolet,79,running,53,0,0
+2023,B,2023_DoorDash_250,2023_14,4,7,19,usa,Ty_Gibbs,Ty Gibbs,He Gets Us,Joe_Gibbs,Toyota,79,running,0,0,0
+2023,B,2023_DoorDash_250,2023_14,5,12,48,usa,Parker_Kligerman,Parker Kligerman,Big Machine Racing Spiked,Scott_Borchetta,Chevrolet,79,running,0,37,0
+2023,B,2023_DoorDash_250,2023_14,6,26,00,usa,Cole_Custer,Cole Custer,Haas Automation,Stewart_Haas_Racing,Ford,79,running,0,31,0
+2023,B,2023_DoorDash_250,2023_14,7,2,7,usa,Justin_Allgaier,Justin Allgaier,BRANDT,JR_Motorsports,Chevrolet,79,running,0,44,0
+2023,B,2023_DoorDash_250,2023_14,8,13,21,usa,Austin_Hill,Austin Hill,Bennett Transportation,Richard_Childress,Chevrolet,79,running,4,35,0
+2023,B,2023_DoorDash_250,2023_14,9,10,18,usa,Sammy_Smith,Sammy Smith,Pilot Flying J,Joe_Gibbs,Toyota,79,running,0,29,0
+2023,B,2023_DoorDash_250,2023_14,10,6,1,usa,Sam_Mayer,Sam Mayer,Accelerate Pros Talent,JR_Motorsports,Chevrolet,79,running,0,32,0
+2023,B,2023_DoorDash_250,2023_14,11,3,2,usa,Sheldon_Creed,Sheldon Creed,Whelen,Richard_Childress,Chevrolet,79,running,0,28,0
+2023,B,2023_DoorDash_250,2023_14,12,14,25,usa,Brett_Moffitt,Brett Moffitt,AM Technical Solutions,Kevin_Cywinski,Ford,79,running,0,25,0
+2023,B,2023_DoorDash_250,2023_14,13,8,11,usa,Daniel_Hemric,Daniel Hemric,Cirkul,Matt_Kaulig,Chevrolet,79,running,0,29,0
+2023,B,2023_DoorDash_250,2023_14,14,20,16,usa,Chandler_Smith,Chandler Smith,"Quick Tie Products, Inc.",Matt_Kaulig,Chevrolet,79,running,0,23,0
+2023,B,2023_DoorDash_250,2023_14,15,23,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,79,running,0,25,0
+2023,B,2023_DoorDash_250,2023_14,16,9,20,usa,John_H._Nemechek,John H. Nemechek,Yahoo,Joe_Gibbs,Toyota,79,running,1,25,0
+2023,B,2023_DoorDash_250,2023_14,17,24,51,usa,Jeremy_Clements,Jeremy Clements,Fox Sports / Spartan Waste,Jeremy_Clements,Chevrolet,79,running,0,20,0
+2023,B,2023_DoorDash_250,2023_14,18,15,91,usa,Ross_Chastain,Ross Chastain,Skip Barber Racing School,Mario_Gosselin,Chevrolet,79,running,0,0,0
+2023,B,2023_DoorDash_250,2023_14,19,25,36,usa,Josh_Bilicki,Josh Bilicki,SBC Contractors,Mario_Gosselin,Chevrolet,79,running,0,18,0
+2023,B,2023_DoorDash_250,2023_14,20,27,26,usa,Kaz_Grala,Kaz Grala,FDC Black Cherry Bourbon,Sam_Hunt,Toyota,79,running,0,17,0
+2023,B,2023_DoorDash_250,2023_14,21,28,9,usa,Brandon_Jones,Brandon Jones,Menards/Patriot Lighting,JR_Motorsports,Chevrolet,79,running,0,16,0
+2023,B,2023_DoorDash_250,2023_14,22,18,08,usa,Kyle_Weatherman,Kyle Weatherman,"Team Schuler, Fanttik",Bobby_Dotter,Ford,79,running,0,15,0
+2023,B,2023_DoorDash_250,2023_14,23,32,4,usa,Ty_Dillon,Ty Dillon,Johnny Davis,Johnny_Davis,Chevrolet,79,running,0,0,0
+2023,B,2023_DoorDash_250,2023_14,24,33,43,usa,Dylan_Lupton,Dylan Lupton,"Lupton Excavation, Inc",Tommy_Joe_Martins,Chevrolet,79,running,0,13,0
+2023,B,2023_DoorDash_250,2023_14,25,11,29,canada,Alex_Labbe,Alex Labbe,RSS Racing,,Ford,79,running,2,12,0
+2023,B,2023_DoorDash_250,2023_14,26,30,27,usa,Jeb_Burton,Jeb Burton,Bommarito.com / EasyCare,Jordan_Anderson,Chevrolet,79,running,0,11,0
+2023,B,2023_DoorDash_250,2023_14,27,17,07,mexico,Daniel_Suarez,Daniel Suarez,Refology/Blast Equality Collab,Bobby_Dotter,Chevrolet,79,running,0,0,0
+2023,B,2023_DoorDash_250,2023_14,28,34,39,usa,Ryan_Sieg,Ryan Sieg,CMRroofing.com,Rod_Sieg,Ford,79,running,0,9,0
+2023,B,2023_DoorDash_250,2023_14,29,31,53,usa,Brad_Perez,Brad Perez,APEX Coffee,Emerling-Gase_Motorsports,Toyota,79,running,0,8,0
+2023,B,2023_DoorDash_250,2023_14,30,36,02,usa,Blaine_Perkins,Blaine Perkins,"To The Point, Inc.",Chris_Our,Chevrolet,79,running,0,7,0
+2023,B,2023_DoorDash_250,2023_14,31,38,38,usa,Joe_Graf_Jr,Joe Graf Jr,ARMSLIST.com,Rod_Sieg,Ford,79,running,0,6,0
+2023,B,2023_DoorDash_250,2023_14,32,29,24,usa,Connor_Mosack,Connor Mosack,Open Eyes,Sam_Hunt,Toyota,78,running,0,5,0
+2023,B,2023_DoorDash_250,2023_14,33,19,8,usa,Josh_Berry,Josh Berry,Tire Pros Love The Drive,JR_Motorsports,Chevrolet,76,running,0,4,0
+2023,B,2023_DoorDash_250,2023_14,34,21,44,usa,Sage_Karam,Sage Karam,QualityRoofSeamers/ToughGuard,Tommy_Joe_Martins,Chevrolet,71,transmission,0,3,0
+2023,B,2023_DoorDash_250,2023_14,35,22,92,usa,Josh_Williams,Josh Williams,Alloy Employer Services,Mario_Gosselin,Chevrolet,60,suspension,0,2,0
+2023,B,2023_DoorDash_250,2023_14,36,35,45,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,ForeverLawn,Tommy_Joe_Martins,Chevrolet,59,crash,0,1,0
+2023,B,2023_DoorDash_250,2023_14,37,37,78,usa,Anthony_Alfredo,Anthony Alfredo,Dude Wipes,B_J_McLeod,Chevrolet,44,suspension,0,1,0
+2023,B,2023_DoorDash_250,2023_14,38,16,31,usa,Parker_Retzlaff,Parker Retzlaff,FUNKAWAY,Jordan_Anderson,Chevrolet,21,transmission,0,1,0
