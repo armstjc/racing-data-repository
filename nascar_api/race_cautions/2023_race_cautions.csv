@@ -150,6 +150,10 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5288,237,241,Accident,#23 Incident in Turn 1,15,2
 5289,51,53,Unknown,Uncontrolled Tire On Pit Road,31,2
 5289,93,95,Accident,#11 Incident Frontstretch,42,2
+5290,92,97,Competition,Stage 1 Conclusion,42,2
+5290,140,146,Unknown,#45 Stopped on Pit Road,24,2
+5290,148,152,Accident,"#12, 8, 48 Incident Frontstretch",2,2
+5290,187,192,Competition,Stage 2 Conclusion,41,2
 5310,9,11,Unknown,Potential Fluid On Frontstretch,None,2
 5310,21,25,Accident,"#1, 07, 11 Incident Frontstretch",None,2
 5310,32,36,Competition,Stage 1 Conclusion,None,2
