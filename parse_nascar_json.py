@@ -826,9 +826,9 @@ def main():
                 time.sleep(2)
             # print(race_df)
 
-    with open('nascar_api_status.json', 'w+') as f:
-        f.write(
-            f"{{ \"year\":{current_year},\"month\":{current_month},\"day\":{current_day} }}")
+    # with open('nascar_api_status.json', 'w+') as f:
+    #     f.write(
+    #         f"{{ \"year\":{current_year},\"month\":{current_month},\"day\":{current_day} }}")
 
 
 if __name__ == "__main__":

@@ -981,9 +981,9 @@ def main():
                 print(
                     f'Could not get race results for the {i} ASA National Tour season.')
 
-    with open('racing_reference_status.json', 'w+') as f:
-        f.write(
-            f"{{ \"year\":{current_year},\"month\":{current_month},\"day\":{current_day} }}")
+    # with open('racing_reference_status.json', 'w+') as f:
+    #     f.write(
+    #         f"{{ \"year\":{current_year},\"month\":{current_month},\"day\":{current_day} }}")
 
 
 if __name__ == "__main__":

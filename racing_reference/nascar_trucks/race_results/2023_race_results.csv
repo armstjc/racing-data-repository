@@ -240,7 +240,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,C,2023_Long_John_Silvers_200,2023_07,26,11,88,usa,Matt_Crafton,Matt Crafton,Jack Links/Menards,Duke_Thorson,Ford,124,running,0,11,0
 2023,C,2023_Long_John_Silvers_200,2023_07,27,14,16,usa,Tyler_Ankrum,Tyler Ankrum,LiUNA!,Shigeaki_Hattori,Toyota,124,running,0,10,0
 2023,C,2023_Long_John_Silvers_200,2023_07,28,17,04,usa,Kaden_Honeycutt,Kaden Honeycutt,Carquest,Roper_Racing,Ford,123,running,0,9,0
-2023,C,2023_Long_John_Silvers_200,2023_07,29,33,30,usa,Jonathan_Shafer,Jonathan Shafer,Osgar's Autobody,Steven_Lane,Toyota,123,running,0,8,0
+2023,C,2023_Long_John_Silvers_200,2023_07,29,33,30,usa,Jonathan_Shafer_(2),Jonathan Shafer,Osgar's Autobody,Steven_Lane,Toyota,123,running,0,8,0
 2023,C,2023_Long_John_Silvers_200,2023_07,30,13,52,canada,Stewart_Friesen,Stewart Friesen,Halmar International,Chris_Larsen,Toyota,123,running,0,7,0
 2023,C,2023_Long_John_Silvers_200,2023_07,31,21,43,usa,Daniel_Dye,Daniel Dye,Heise LED Lighting Systems,Maury_Gallagher,Chevrolet,123,running,0,6,0
 2023,C,2023_Long_John_Silvers_200,2023_07,32,20,45,usa,Lawless_Alan,Lawless Alan,AUTOChargit,Al_Niece,Chevrolet,122,running,0,5,0
@@ -427,3 +427,39 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,C,2023_Toyota_200,2023_12,33,24,66,usa,Conner_Jones,Conner Jones,TSport,Duke_Thorson,Ford,66,crash,0,4,0
 2023,C,2023_Toyota_200,2023_12,34,16,5,usa,Dean_Thompson,Dean Thompson,Thompson Pipe Group,David_Gilliland,Toyota,20,engine,0,3,0
 2023,C,2023_Toyota_200,2023_12,35,31,95,usa,Clay_Greenfield,Clay Greenfield,Backyard Blues Pools,,Chevrolet,0,crash,0,2,0
+2023,C,2023_Rackley_Roofing_200,2023_13,1,7,42,usa,Carson_Hocevar,Carson Hocevar,Worldwide Express,Al_Niece,Chevrolet,150,running,40,56,5
+2023,C,2023_Rackley_Roofing_200,2023_13,2,8,38,usa,Zane_Smith,Zane Smith,Speedco / Fleetguard,Bob_Jenkins,Ford,150,running,11,52,1
+2023,C,2023_Rackley_Roofing_200,2023_13,3,1,2,usa,Nick_Sanchez,Nick Sanchez,Gainbridge,Max_Siegel,Chevrolet,150,running,37,43,0
+2023,C,2023_Rackley_Roofing_200,2023_13,4,4,11,usa,Corey_Heim,Corey Heim,Safelite,David_Gilliland,Toyota,150,running,57,49,1
+2023,C,2023_Rackley_Roofing_200,2023_13,5,2,41,usa,Bayley_Currey,Bayley Currey,Unishippers,Al_Niece,Chevrolet,150,running,1,44,0
+2023,C,2023_Rackley_Roofing_200,2023_13,6,12,4,usa,Chase_Purdy,Chase Purdy,Bama Buggies,Kyle_Busch,Chevrolet,150,running,0,31,0
+2023,C,2023_Rackley_Roofing_200,2023_13,7,15,25,usa,Matt_DiBenedetto,Matt DiBenedetto,"Rackley Roofing, WAR Shocks",Rackley_WAR,Chevrolet,150,running,3,40,0
+2023,C,2023_Rackley_Roofing_200,2023_13,8,17,16,usa,Tyler_Ankrum,Tyler Ankrum,LiUNA!,Shigeaki_Hattori,Toyota,150,running,0,39,0
+2023,C,2023_Rackley_Roofing_200,2023_13,9,16,99,usa,Ben_Rhodes,Ben Rhodes,Bommarito,Duke_Thorson,Ford,150,running,0,34,0
+2023,C,2023_Rackley_Roofing_200,2023_13,10,21,35,usa,Jake_Garcia,Jake Garcia,Quanta,Bill_McAnally,Chevrolet,150,running,0,27,0
+2023,C,2023_Rackley_Roofing_200,2023_13,11,5,15,usa,Tanner_Gray,Tanner Gray,Mobil 1,David_Gilliland,Toyota,150,running,0,33,0
+2023,C,2023_Rackley_Roofing_200,2023_13,12,24,66,usa,Jake_Drew,Jake Drew,Capstone Engineering Solutions,Duke_Thorson,Ford,150,running,0,27,0
+2023,C,2023_Rackley_Roofing_200,2023_13,13,6,23,usa,Grant_Enfinger,Grant Enfinger,Champion Power Equipment,Maury_Gallagher,Chevrolet,150,running,0,27,0
+2023,C,2023_Rackley_Roofing_200,2023_13,14,10,17,usa,Taylor_Gray,Taylor Gray,JBL,David_Gilliland,Toyota,150,running,0,24,0
+2023,C,2023_Rackley_Roofing_200,2023_13,15,23,88,usa,Matt_Crafton,Matt Crafton,Paslode/Menards,Duke_Thorson,Ford,150,running,0,22,0
+2023,C,2023_Rackley_Roofing_200,2023_13,16,22,56,usa,Timmy_Hill,Timmy Hill,UNITS Storage,Timmy_Hill,Toyota,150,running,0,21,0
+2023,C,2023_Rackley_Roofing_200,2023_13,17,28,1,usa,Toni_Breidinger,Toni Breidinger,Victoria's Secret,David_Gilliland,Toyota,150,running,0,20,0
+2023,C,2023_Rackley_Roofing_200,2023_13,18,18,52,canada,Stewart_Friesen,Stewart Friesen,Ferris Commercial Mowers,Chris_Larsen,Toyota,150,running,0,19,0
+2023,C,2023_Rackley_Roofing_200,2023_13,19,29,20,usa,Nick_Leitz,Nick Leitz,Precision Measurements,Randy_Young,Chevrolet,149,running,0,18,0
+2023,C,2023_Rackley_Roofing_200,2023_13,20,32,34,usa,Mason_Maggio,Mason Maggio,Driven/ HMY,Josh_Reaume,Ford,149,running,0,17,0
+2023,C,2023_Rackley_Roofing_200,2023_13,21,34,04,usa,Cory_Roper,Cory Roper,The Dean's,Roper_Racing,Ford,148,running,0,16,0
+2023,C,2023_Rackley_Roofing_200,2023_13,22,9,43,usa,Daniel_Dye,Daniel Dye,Champion Container,Maury_Gallagher,Chevrolet,148,running,0,15,0
+2023,C,2023_Rackley_Roofing_200,2023_13,23,14,19,usa,Christian_Eckes,Christian Eckes,Instacoat Premium Products,Bill_McAnally,Chevrolet,148,running,0,15,0
+2023,C,2023_Rackley_Roofing_200,2023_13,24,27,30,usa,Jonathan_Shafer_(2),Jonathan Shafer,Rangeline Group,Steven_Lane,Toyota,147,running,0,13,0
+2023,C,2023_Rackley_Roofing_200,2023_13,25,33,12,usa,Spencer_Boyd,Spencer Boyd,Rural King,Randy_Young,Chevrolet,147,running,0,12,0
+2023,C,2023_Rackley_Roofing_200,2023_13,26,35,33,usa,Chase_Janes,Chase Janes,J&J Services,Josh_Reaume,Ford,147,running,0,11,0
+2023,C,2023_Rackley_Roofing_200,2023_13,27,31,02,usa,Layne_Riggs,Layne Riggs,Heartland,Randy_Young,Chevrolet,147,running,0,10,0
+2023,C,2023_Rackley_Roofing_200,2023_13,28,20,13,usa,Hailie_Deegan,Hailie Deegan,Ford Performance,Duke_Thorson,Ford,146,running,0,9,0
+2023,C,2023_Rackley_Roofing_200,2023_13,29,25,9,usa,Colby_Howard,Colby Howard,Grant County Mulch,Codie_Rohrbaugh,Chevrolet,144,running,0,8,0
+2023,C,2023_Rackley_Roofing_200,2023_13,30,13,51,usa,Jack_Wood,Jack Wood,Rowdy Manufacturing,Kyle_Busch,Chevrolet,144,running,0,7,0
+2023,C,2023_Rackley_Roofing_200,2023_13,31,11,98,usa,Ty_Majeski,Ty Majeski,Farm Paint/ Curb Records,Mike_Curb,Ford,133,running,0,6,0
+2023,C,2023_Rackley_Roofing_200,2023_13,32,3,24,usa,Rajah_Caruth,Rajah Caruth,Born Driven,Maury_Gallagher,Chevrolet,119,running,1,5,0
+2023,C,2023_Rackley_Roofing_200,2023_13,33,36,5,usa,Dean_Thompson,Dean Thompson,Thompson Pipe Group,David_Gilliland,Toyota,104,dvp,0,4,0
+2023,C,2023_Rackley_Roofing_200,2023_13,34,26,32,usa,Bret_Holmes,Bret Holmes,"Benton Nissan, imi",Stacy_Holmes,Chevrolet,92,crash,0,3,0
+2023,C,2023_Rackley_Roofing_200,2023_13,35,30,46,none,Memphis_Villarreal,Memphis Villarreal,LAREDO TRAILER SUPPLY/MYSTIK,G2G_Racing,Toyota,26,electrical,0,2,0
+2023,C,2023_Rackley_Roofing_200,2023_13,36,19,45,usa,Lawless_Alan,Lawless Alan,AUTOChargit,Al_Niece,Chevrolet,7,crash,0,1,0
