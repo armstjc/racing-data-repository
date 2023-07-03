@@ -154,6 +154,15 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5290,140,146,Unknown,#45 Stopped on Pit Road,24,2
 5290,148,152,Accident,"#12, 8, 48 Incident Frontstretch",2,2
 5290,187,192,Competition,Stage 2 Conclusion,41,2
+5291,4,5,Spin,No. 8 Spin Turn 6,None,2
+5291,14,15,Spin,No. 42 Spin Turn 6,None,2
+5291,31,33,Spin,No. 42 Spin Turn 6,None,2
+5291,42,43,Accident,No. 48 Incident Turn 11,42,2
+5291,46,48,Unknown,No. 48 Stopped Off Turn 5,42,2
+5291,50,52,Unknown,"Nos. 24, 4,7, 10, 5, 14, 43, 34, Turn 11",12,2
+5291,59,60,Spin,No.45 Spin Turn 6,12,2
+5291,69,70,Spin,No. 19 Spin Turn 1,21,2
+5291,75,76,Accident,"Nos. 23, 47 Incident Turn 1",45,2
 5310,9,11,Unknown,Potential Fluid On Frontstretch,None,2
 5310,21,25,Accident,"#1, 07, 11 Incident Frontstretch",None,2
 5310,32,36,Competition,Stage 1 Conclusion,None,2
@@ -267,6 +276,9 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5324,105,109,Accident,"#26, 48 Incident Turn 4",08,2
 5324,184,188,Spin,#91 Spin Turn 4,27,2
 5324,190,194,Accident,"#8, 16 Incident Turn 2",26,2
+5337,6,9,Unknown,Possible fluid on track,None,2
+5337,18,21,Spin,No. 34 Spin Turn 1,92,2
+5337,25,25,Weather,Weather - Lightning ,92,2
 5343,3,6,Weather,Weather,None,2
 5343,8,10,Weather,Weather,None,2
 5343,22,25,Competition,Stage 1 Conclusion,None,2
