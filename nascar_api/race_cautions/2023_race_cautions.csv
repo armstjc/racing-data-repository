@@ -170,6 +170,14 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5292,124,128,Accident,"Nos. 7, 19, 45, 54, 1. 38 & 43 Incident Turn 2",21,2
 5292,156,164,Accident,Nos. 11 & 48 Incident Frontstretch / Stage 2 Conclusion,21,2
 5292,179,185,Accident,"Nos. 23, 41 & 47 Incident Turn 3",48,2
+5293,29,33,Spin,#16 Spin Turn 2 / Competition,42,2
+5293,72,77,Competition,Stage 1 Conclusion,42,2
+5293,164,168,Spin,#43 Spin Turn 4,14,2
+5293,170,174,Accident,#10 Incident Turn 2,43,2
+5293,187,191,Competition,Stage 2 Conclusion,47,2
+5293,272,277,Accident,#42 Incident Turn 1,31,2
+5293,281,285,Accident,"#54, 43, 48 Incident Backstretch",77,2
+5293,289,292,Accident,#20 Incident Turn 4,2,2
 5310,9,11,Unknown,Potential Fluid On Frontstretch,None,2
 5310,21,25,Accident,"#1, 07, 11 Incident Frontstretch",None,2
 5310,32,36,Competition,Stage 1 Conclusion,None,2
