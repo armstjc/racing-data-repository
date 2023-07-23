@@ -312,6 +312,12 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5327,192,196,Spin,#31 Spin Turn 1,98,2
 5327,198,204,Accident,"#1, 19, 24 Incident Turn 2",43,2
 5327,206,206,Accident,"#2, 00 Incident Frontstretch",None,2
+5328,22,25,Competition,Stage 1 Conclusion,None,2
+5328,42,45,Competition,Stage 2 Conclusion,45,2
+5328,47,50,Accident,"Incident frontstretch: 20, 00, 18, 16, 17",45,2
+5328,81,84,Accident,"7, 35 Incident Turn 2",45,2
+5328,87,90,Accident,19 Incident Turn 2,51,2
+5328,92,92,Accident,"8, 39 Incident Turn 2 ",None,2
 5343,3,6,Weather,Weather,None,2
 5343,8,10,Weather,Weather,None,2
 5343,22,25,Competition,Stage 1 Conclusion,None,2
@@ -428,3 +434,8 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5365,51,52,Accident,Incident No. 32 Turn 9,02,2
 5365,57,58,Accident,Accident Nos. 02 22 Turn 12,66,2
 5365,60,62,Accident,Incident No. 32 Turn 1,12,2
+5366,5,8,Accident,"15, 16 Incident Turn 1",None,2
+5366,17,20,Competition,Stage 1 Conclusion,None,2
+5366,32,35,Competition,Stage 2 Conclusion,7,2
+5366,47,51,Accident,"2, 35 Incident Turn 1",32,2
+5366,53,55,Accident,"1, 7, 52, 38, 88, 41, 75, 42, 02, 45 Incident Turn 1 ",32,2
