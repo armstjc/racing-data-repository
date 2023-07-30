@@ -329,6 +329,14 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5328,81,84,Accident,"7, 35 Incident Turn 2",45,2
 5328,87,90,Accident,19 Incident Turn 2,51,2
 5328,92,92,Accident,"8, 39 Incident Turn 2 ",None,2
+5325,11,12,Unknown,#07 Stalled in Turn 6,None,2
+5325,22,24,Accident,#16 Incident in Turn 1,28,2
+5325,26,27,Unknown,#98 Stalled on the Track,28,2
+5325,33,33,Unknown,Fluid on the Track,28,2
+5325,36,36,Competition,Stage 2 Conclusion,28,2
+5325,40,41,Accident,#08 Incident in Turn 1,39,2
+5325,43,44,Accident,"#00, 8, 10, and 18 Incident in Turn 5",28,2
+5325,46,47,Unknown,Fluid on the Track [Red Flag: 9:47],None,2
 5343,3,6,Weather,Weather,None,2
 5343,8,10,Weather,Weather,None,2
 5343,22,25,Competition,Stage 1 Conclusion,None,2
@@ -450,3 +458,7 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5366,32,35,Competition,Stage 2 Conclusion,7,2
 5366,47,51,Accident,"2, 35 Incident Turn 1",32,2
 5366,53,55,Accident,"1, 7, 52, 38, 88, 41, 75, 42, 02, 45 Incident Turn 1 ",32,2
+5368,72,79,Competition,Stage 1 Conclusion,41,2
+5368,112,116,Spin,#5 Spin in Turn 2 ,38,2
+5368,119,124,Spin,#90 Spin in Turn 4,13,2
+5368,142,149,Competition,Stage 2 Conclusion,66,2
