@@ -340,6 +340,13 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5325,40,41,Accident,#08 Incident in Turn 1,39,2
 5325,43,44,Accident,"#00, 8, 10, and 18 Incident in Turn 5",28,2
 5325,46,47,Unknown,Fluid on the Track [Red Flag: 9:47],None,2
+5330,6,9,Spin, #26 Spin Turn 4,None,2
+5330,12,16,Accident,"#08, 18, 19, 20, 77 Incident Backstretch",26,2
+5330,20,23,Accident,#08 Incident Turn 2,77,2
+5330,32,36,Competition,Stage 1 Conclusion,None,2
+5330,40,42,Accident,"#24, 38 Incident Turn 1",74,2
+5330,62,66,Competition,Stage 2 Conclusion,74,2
+5330,114,118,Accident,#35 Incident Turn 3,28,2
 5343,3,6,Weather,Weather,None,2
 5343,8,10,Weather,Weather,None,2
 5343,22,25,Competition,Stage 1 Conclusion,None,2
