@@ -192,6 +192,15 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5297,72,78,Competition,Stage 1 Conclusion,51,2
 5297,232,239,Competition,Stage 2 Conclusion,48,2
 5297,392,397,Accident,#42 and 99 Incident in Turn 4,12,2
+5296,16,19,Spin,#8 Spin Turn 2 / Competition,None,2
+5296,36,39,Accident,#9 Incident Turn 2,None,2
+5296,47,50,Competition,Stage 1 Conclusion,None,2
+5296,52,55,Spin,#42 Spin Turn 4,None,2
+5296,66,69,Spin,#20 Spin Turn 2,15,2
+5296,75,82,Unknown,"Precipitation [Red Flag: Lap 76, 19:05:18]",15,2
+5296,104,107,Debris,Debris Turn 2,15,2
+5296,122,126,Competition,Stage 2 Conclusion,3,2
+5296,128,133,Accident,"#34, 38, 48 Incident Backstretch",None,2
 5310,9,11,Unknown,Potential Fluid On Frontstretch,None,2
 5310,21,25,Accident,"#1, 07, 11 Incident Frontstretch",None,2
 5310,32,36,Competition,Stage 1 Conclusion,None,2
