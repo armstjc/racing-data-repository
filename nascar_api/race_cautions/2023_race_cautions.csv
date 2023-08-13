@@ -356,6 +356,9 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5330,40,42,Accident,"#24, 38 Incident Turn 1",74,2
 5330,62,66,Competition,Stage 2 Conclusion,74,2
 5330,114,118,Accident,#35 Incident Turn 3,28,2
+5329,8,11,Weather,Weather - Lightning ,None,2
+5329,28,30,Unknown,No. 53 Car Stopped on Track Turn 17,6,2
+5329,45,46,Unknown,No. 34 Stopped on Track,None,2
 5343,3,6,Weather,Weather,None,2
 5343,8,10,Weather,Weather,None,2
 5343,22,25,Competition,Stage 1 Conclusion,None,2
