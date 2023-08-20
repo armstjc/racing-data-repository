@@ -360,6 +360,11 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5329,8,11,Weather,Weather - Lightning ,None,2
 5329,28,30,Unknown,No. 53 Car Stopped on Track Turn 17,6,2
 5329,45,46,Unknown,No. 34 Stopped on Track,None,2
+5331,22,26,Unknown,#43 Stalled on Track,28,2
+5331,32,33,Debris,Debris in the Inner Loop,24,2
+5331,47,50,Accident,#96 Incident Turn 7,16,2
+5331,77,78,Unknown,#31 Stuck in the Gravel,11,2
+5331,80,84,Accident,"#26, 7, 9, 17, 4, 10, 25 Incident Turn 5",4,2
 5343,3,6,Weather,Weather,None,2
 5343,8,10,Weather,Weather,None,2
 5343,22,25,Competition,Stage 1 Conclusion,None,2
