@@ -203,6 +203,9 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5296,128,133,Accident,"#34, 38, 48 Incident Backstretch",None,2
 5295,3,5,Accident,No. 31 Incident Turn 6,None,2
 5298,57,60,Unknown,#9 Stopped on Track (Out of Fuel),99,2
+5299,37,40,Competition,Stage 1 Conclusion,13,2
+5299,96,104,Accident,"2, 3, 4, 5, 11, 12, 20, 21, 36, 45, 47, 54 Incident in Turn 4 [Red: 9:28]",None,2
+5299,157,161,Accident,#14 and 41 Incident on the Backstretch,45,2
 5310,9,11,Unknown,Potential Fluid On Frontstretch,None,2
 5310,21,25,Accident,"#1, 07, 11 Incident Frontstretch",None,2
 5310,32,36,Competition,Stage 1 Conclusion,None,2
