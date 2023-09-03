@@ -375,6 +375,13 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5332,93,98,Accident,"#22, 44, 43, 10 Incident on the Frontstretch",27,2
 5332,100,103,Accident,"02, 07, 1, 11, 16, 18, 19, 20 and 21 Incident on the Frontstretch",35,2
 5332,105,108,Accident,"#02, 8, 19, 20, 22, 25, 51 and 92 Incident on the Backstretch",22,2
+5333,13,16,Accident,18 Incident Turn 4 ,None,2
+5333,44,50,Debris,Debris Turn 1,02,2
+5333,56,59,Debris,Debris Frontstretch,18,2
+5333,92,96,Competition,Stage 2 Conclusion,53,2
+5333,104,108,Accident,"51, 28 Incident Frontstretch",4,2
+5333,133,137,Spin,39 Spin Turn 4,51,2
+5333,143,146,Spin,48 Spin Turn 4,39,2
 5343,3,6,Weather,Weather,None,2
 5343,8,10,Weather,Weather,None,2
 5343,22,25,Competition,Stage 1 Conclusion,None,2
