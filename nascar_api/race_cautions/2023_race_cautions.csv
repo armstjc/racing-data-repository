@@ -206,6 +206,14 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5299,37,40,Competition,Stage 1 Conclusion,13,2
 5299,96,104,Accident,"2, 3, 4, 5, 11, 12, 20, 21, 36, 45, 47, 54 Incident in Turn 4 [Red: 9:28]",None,2
 5299,157,161,Accident,#14 and 41 Incident on the Backstretch,45,2
+5300,117,122,Accident,"22, 23 Incident Turn 4",1,2
+5300,180,191,Unknown,Light Power Outage in Turn 4,22,2
+5300,217,221,Unknown,78 Stopped on Track ,47,2
+5300,226,229,Accident,"2, 54 Incident Turn 2 ",7,2
+5300,232,236,Competition,Stage 2 Conclusion,31,2
+5300,311,316,Spin,51 Spin Turn 4 ,47,2
+5300,320,327,Accident,"99, 21, 48 Incident Turn 1",19,2
+5300,332,336,Accident,"8, 34, 38, 11, 20 Incident Frontstretch",None,2
 5310,9,11,Unknown,Potential Fluid On Frontstretch,None,2
 5310,21,25,Accident,"#1, 07, 11 Incident Frontstretch",None,2
 5310,32,36,Competition,Stage 1 Conclusion,None,2
