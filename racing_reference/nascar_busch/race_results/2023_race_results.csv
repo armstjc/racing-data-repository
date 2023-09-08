@@ -134,7 +134,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,B,2023_United_Rentals_200,2023_04,19,19,43,usa,Ryan_Ellis,Ryan Ellis,Rolling Plains Construction,Tommy_Joe_Martins,Chevrolet,200,running,0,18,0
 2023,B,2023_United_Rentals_200,2023_04,20,27,51,usa,Jeremy_Clements,Jeremy Clements,Fox Sports / Spartan Waste,Jeremy_Clements,Chevrolet,200,running,0,17,0
 2023,B,2023_United_Rentals_200,2023_04,21,20,92,usa,Josh_Williams,Josh Williams,Call 811 / Alloy Employer,Mario_Gosselin,Chevrolet,200,running,0,16,0
-2023,B,2023_United_Rentals_200,2023_04,22,16,27,usa,Jeb_Burton,Jeb Burton,Bommarito.com / EasyCare	,Jordan_Anderson,Chevrolet,200,running,0,15,0
+2023,B,2023_United_Rentals_200,2023_04,22,16,27,usa,Jeb_Burton,Jeb Burton,Bommarito.com / EasyCare ,Jordan_Anderson,Chevrolet,200,running,0,15,0
 2023,B,2023_United_Rentals_200,2023_04,23,21,9,usa,Brandon_Jones,Brandon Jones,Menards / Barracuda Pumps,JR_Motorsports,Chevrolet,200,running,0,14,0
 2023,B,2023_United_Rentals_200,2023_04,24,36,24,usa,Connor_Mosack,Connor Mosack,Toyota Racing Development,Sam_Hunt,Toyota,200,running,0,13,0
 2023,B,2023_United_Rentals_200,2023_04,25,22,28,usa,Kyle_Sieg,Kyle Sieg,TBD,Rod_Sieg,Ford,200,running,0,12,0
@@ -300,7 +300,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,B,2023_Call_811_Before_You_Dig_250,2023_08,33,18,24,usa,Connor_Mosack,Connor Mosack,Toyota Racing Development,Sam_Hunt,Toyota,205,running,0,4,0
 2023,B,2023_Call_811_Before_You_Dig_250,2023_08,34,27,96,usa,Kyle_Weatherman,Kyle Weatherman,Fanttik/BrewHaha,Collin_Fern,Chevrolet,198,suspension,0,3,0
 2023,B,2023_Call_811_Before_You_Dig_250,2023_08,35,28,28,usa,Kyle_Sieg,Kyle Sieg,Night Owl,Rod_Sieg,Ford,145,crash,0,2,0
-2023,B,2023_Call_811_Before_You_Dig_250,2023_08,36,29,07,usa,Dawson_Cram,Dawson Cram,Sokal	,Bobby_Dotter,Chevrolet,143,crash,0,1,0
+2023,B,2023_Call_811_Before_You_Dig_250,2023_08,36,29,07,usa,Dawson_Cram,Dawson Cram,Sokal ,Bobby_Dotter,Chevrolet,143,crash,0,1,0
 2023,B,2023_Call_811_Before_You_Dig_250,2023_08,37,34,38,usa,Joe_Graf_Jr,Joe Graf Jr,Lefcourt Brothers,Rod_Sieg,Ford,133,crash,0,1,0
 2023,B,2023_Call_811_Before_You_Dig_250,2023_08,38,33,74,usa,Kaden_Honeycutt,Kaden Honeycutt,Service Master Restore,Mike_Harmon,Chevrolet,83,engine,0,0,0
 2023,B,2023_Ag_Pro_300,2023_09,1,8,27,usa,Jeb_Burton,Jeb Burton,Solid Rock Carriers,Jordan_Anderson,Chevrolet,121,running,17,57,6
@@ -379,44 +379,44 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,B,2023_A-Game_200,2023_10,36,31,78,usa,Anthony_Alfredo,Anthony Alfredo,BOTTICELLI,B_J_McLeod,Chevrolet,123,brakes,0,1,0
 2023,B,2023_A-Game_200,2023_10,37,33,44,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,BZ Mart / ForeverLawn,Tommy_Joe_Martins,Chevrolet,119,engine,0,1,0
 2023,B,2023_A-Game_200,2023_10,38,1,48,usa,Parker_Kligerman,Parker Kligerman,Big Machine Racing Spiked,Scott_Borchetta,Chevrolet,62,crash,0,1,0
-2023,B,2023_Shriners_Childrens_200,2023_11,1,5,1,usa,Sam_Mayer,Sam Mayer,Accelerate Pros Talent,JR_Motorsports,Chevrolet,86,running,8,53,5
-2023,B,2023_Shriners_Childrens_200,2023_11,2,13,2,usa,Sheldon_Creed,Sheldon Creed,Whelen,Richard_Childress,Chevrolet,86,running,0,41,0
-2023,B,2023_Shriners_Childrens_200,2023_11,3,14,48,usa,Parker_Kligerman,Parker Kligerman,Spiked Light Coolers,Scott_Borchetta,Chevrolet,86,running,0,36,0
-2023,B,2023_Shriners_Childrens_200,2023_11,4,17,91,usa,Ross_Chastain,Ross Chastain,Protect Your Melon #BUCKLEUPNY,Mario_Gosselin,Chevrolet,86,running,0,0,0
-2023,B,2023_Shriners_Childrens_200,2023_11,5,19,24,usa,Connor_Mosack,Connor Mosack,Toyota Genuine Parts,Sam_Hunt,Toyota,86,running,0,32,0
-2023,B,2023_Shriners_Childrens_200,2023_11,6,12,20,usa,John_H._Nemechek,John H. Nemechek,Mobil 1,Joe_Gibbs,Toyota,86,running,0,39,0
-2023,B,2023_Shriners_Childrens_200,2023_11,7,4,00,usa,Cole_Custer,Cole Custer,HighPoint,Stewart_Haas_Racing,Ford,86,running,1,38,0
-2023,B,2023_Shriners_Childrens_200,2023_11,8,18,16,usa,Chandler_Smith,Chandler Smith,"Quick Tie Products, Inc.",Matt_Kaulig,Chevrolet,86,running,0,29,0
-2023,B,2023_Shriners_Childrens_200,2023_11,9,2,17,usa,Alex_Bowman,Alex Bowman,HendrickCars.com,Rick_Hendrick,Chevrolet,86,running,4,0,0
-2023,B,2023_Shriners_Childrens_200,2023_11,10,25,27,usa,Jeb_Burton,Jeb Burton,Honoring All First Responders,Jordan_Anderson,Chevrolet,86,running,0,27,0
-2023,B,2023_Shriners_Childrens_200,2023_11,11,24,9,usa,Brandon_Jones,Brandon Jones,Menards / MagickWoods,JR_Motorsports,Chevrolet,86,running,0,26,0
-2023,B,2023_Shriners_Childrens_200,2023_11,12,32,6,usa,Brennan_Poole,Brennan Poole,TeamJDMotorsports.com,Johnny_Davis,Chevrolet,86,running,0,25,0
-2023,B,2023_Shriners_Childrens_200,2023_11,13,33,4,usa,Kyle_Weatherman,Kyle Weatherman,TeamJDMotorsports.com,Johnny_Davis,Chevrolet,86,running,2,24,0
-2023,B,2023_Shriners_Childrens_200,2023_11,14,11,21,usa,Austin_Hill,Austin Hill,Bennett Transportation,Richard_Childress,Chevrolet,86,running,0,37,0
-2023,B,2023_Shriners_Childrens_200,2023_11,15,21,45,usa,Sage_Karam,Sage Karam,Rich Mar/Lakewood Vineyards,Tommy_Joe_Martins,Chevrolet,86,running,0,22,0
-2023,B,2023_Shriners_Childrens_200,2023_11,16,3,7,usa,Justin_Allgaier,Justin Allgaier,BRANDT,JR_Motorsports,Chevrolet,86,running,1,37,0
-2023,B,2023_Shriners_Childrens_200,2023_11,17,1,19,usa,Ty_Gibbs,Ty Gibbs,He Gets Us,Joe_Gibbs,Toyota,86,running,70,0,0
-2023,B,2023_Shriners_Childrens_200,2023_11,18,9,18,usa,Sammy_Smith,Sammy Smith,Pilot Flying J,Joe_Gibbs,Toyota,86,running,0,19,0
-2023,B,2023_Shriners_Childrens_200,2023_11,19,37,28,usa,Kyle_Sieg,Kyle Sieg,SFWW/LOTZE,Rod_Sieg,Ford,86,running,0,18,0
-2023,B,2023_Shriners_Childrens_200,2023_11,20,7,8,usa,Josh_Berry,Josh Berry,Bass Pro Shops/Tracker Boats,JR_Motorsports,Chevrolet,86,running,0,28,0
-2023,B,2023_Shriners_Childrens_200,2023_11,21,26,39,usa,Ryan_Sieg,Ryan Sieg,TBD,Rod_Sieg,Ford,86,running,0,16,0
-2023,B,2023_Shriners_Childrens_200,2023_11,22,36,38,usa,Joe_Graf_Jr,Joe Graf Jr,G-coin,Rod_Sieg,Ford,85,running,0,15,0
-2023,B,2023_Shriners_Childrens_200,2023_11,23,6,11,usa,Daniel_Hemric,Daniel Hemric,Cirkul,Matt_Kaulig,Chevrolet,84,running,0,14,0
-2023,B,2023_Shriners_Childrens_200,2023_11,24,22,08,canada,Alex_Labbe,Alex Labbe,Refology,Bobby_Dotter,Chevrolet,83,running,0,13,0
-2023,B,2023_Shriners_Childrens_200,2023_11,25,28,07,usa,Josh_Bilicki,Josh Bilicki,BURDICKS ALL SEASON ROOFING,Bobby_Dotter,Ford,83,running,0,12,0
-2023,B,2023_Shriners_Childrens_200,2023_11,26,29,31,usa,Parker_Retzlaff,Parker Retzlaff,FUNKAWAY,Jordan_Anderson,Chevrolet,82,running,0,11,0
-2023,B,2023_Shriners_Childrens_200,2023_11,27,8,10,usa,Kyle_Busch,Kyle Busch,LA Golf,Matt_Kaulig,Chevrolet,78,transmission,0,0,0
-2023,B,2023_Shriners_Childrens_200,2023_11,28,15,26,usa,Kaz_Grala,Kaz Grala,Island Coastal Lager,Sam_Hunt,Toyota,78,crash,0,9,0
-2023,B,2023_Shriners_Childrens_200,2023_11,29,20,25,usa,Brett_Moffitt,Brett Moffitt,AM Technical Solutions,Kevin_Cywinski,Ford,66,suspension,0,8,0
-2023,B,2023_Shriners_Childrens_200,2023_11,30,35,43,usa,Ryan_Ellis,Ryan Ellis,Costa Oil,Tommy_Joe_Martins,Chevrolet,65,running,0,7,0
-2023,B,2023_Shriners_Childrens_200,2023_11,31,27,78,usa,Anthony_Alfredo,Anthony Alfredo,BOTTICELLI,B_J_McLeod,Chevrolet,61,axle,0,6,0
-2023,B,2023_Shriners_Childrens_200,2023_11,32,38,35,usa,Stanton_Barrett,Stanton Barrett,Horseheads Brewing,Emerling-Gase_Motorsports,Toyota,56,suspension,0,5,0
-2023,B,2023_Shriners_Childrens_200,2023_11,33,23,44,usa,Stefan_Parsons,Stefan Parsons,AAN Adjusters/Gilreath Farms	,Tommy_Joe_Martins,Chevrolet,45,brakes,0,4,0
-2023,B,2023_Shriners_Childrens_200,2023_11,34,31,96,usa,Max_McLaughlin,Max McLaughlin,RandCo,,Chevrolet,43,crash,0,3,0
-2023,B,2023_Shriners_Childrens_200,2023_11,35,10,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,37,suspension,0,5,0
-2023,B,2023_Shriners_Childrens_200,2023_11,36,34,92,usa,Josh_Williams,Josh Williams,Nordic Logistics / Alloy,Mario_Gosselin,Chevrolet,23,crash,0,1,0
-2023,B,2023_Shriners_Childrens_200,2023_11,37,16,51,usa,Jeremy_Clements,Jeremy Clements,All South Electric / One Stop,Jeremy_Clements,Chevrolet,21,suspension,0,1,0
-2023,B,2023_Shriners_Childrens_200,2023_11,38,30,02,usa,Blaine_Perkins,Blaine Perkins,Gratis,Chris_Our,Chevrolet,11,transmission,0,1,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,1,3,10,usa,Kyle_Larson,Kyle Larson,HendrickCars.com,Matt_Kaulig,Chevrolet,147,running,46,0,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,2,17,7,usa,Justin_Allgaier,Justin Allgaier,BRANDT Heritage,JR_Motorsports,Chevrolet,147,running,2,43,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,3,5,00,usa,Cole_Custer,Cole Custer,Haas Automation,Stewart_Haas_Racing,Ford,147,running,0,47,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,4,10,21,usa,Austin_Hill,Austin Hill,Bennett Transportation,Richard_Childress,Chevrolet,147,running,1,46,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,5,1,20,usa,John_H._Nemechek,John H. Nemechek,Pye Barker Fire & Safety,Joe_Gibbs,Toyota,147,running,57,51,1
+2023,B,2023_Shriners_Childrens_200_1,2023_11,6,25,77,usa,Carson_Hocevar,Carson Hocevar,Premier Security,Ronnie_Bassett_Jr,Chevrolet,147,running,3,0,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,7,13,8,usa,Josh_Berry,Josh Berry,Tire Pros Love The Drive,JR_Motorsports,Chevrolet,147,running,0,33,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,8,4,1,usa,Sam_Mayer,Sam Mayer,Accelerate Pros Talent,JR_Motorsports,Chevrolet,147,running,35,42,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,9,26,26,usa,Kaz_Grala,Kaz Grala,Fire Department Coffee,Sam_Hunt,Toyota,147,running,0,28,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,10,24,24,usa,Corey_Heim,Corey Heim,Gearwrench,Sam_Hunt,Toyota,147,running,0,0,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,11,9,18,usa,Sammy_Smith,Sammy Smith,Pilot Flying J,Joe_Gibbs,Toyota,147,running,0,27,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,12,15,27,usa,Jeb_Burton,Jeb Burton,Capital City Towing,Jordan_Anderson,Chevrolet,147,running,0,25,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,13,23,48,usa,Parker_Kligerman,Parker Kligerman,Big Machine Racing Spiked,Scott_Borchetta,Chevrolet,147,running,0,26,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,14,19,51,usa,Jeremy_Clements,Jeremy Clements,First Pacific Funding,Jeremy_Clements,Chevrolet,147,running,1,23,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,15,20,78,usa,Anthony_Alfredo,Anthony Alfredo,Dude Wipes,B_J_McLeod,Chevrolet,147,running,0,22,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,16,12,11,usa,Daniel_Hemric,Daniel Hemric,Cirkul,Matt_Kaulig,Chevrolet,147,running,0,23,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,17,27,92,usa,Josh_Williams,Josh Williams,Call 811 / Alloy Employer,Mario_Gosselin,Chevrolet,147,running,0,20,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,18,21,91,usa,Ross_Chastain,Ross Chastain,Florida Watermelon Association,Mario_Gosselin,Chevrolet,147,running,0,0,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,19,30,3,usa,Ty_Dillon,Ty Dillon,Ferris Commercial Mowers,Richard_Childress,Chevrolet,147,running,0,0,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,20,14,25,usa,Brett_Moffitt,Brett Moffitt,AM Technical Solutions,Kevin_Cywinski,Ford,147,running,0,18,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,21,31,35,usa,Patrick_Emerling,Patrick Emerling,Emerling-Gase Motorsports,Emerling-Gase_Motorsports,Chevrolet,147,running,1,16,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,22,28,07,usa,Stefan_Parsons,Stefan Parsons,Ollie's,Bobby_Dotter,Chevrolet,147,running,0,15,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,23,35,6,usa,Brennan_Poole,Brennan Poole,511Auction.com,Johnny_Davis,Chevrolet,147,running,0,14,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,24,8,31,usa,Parker_Retzlaff,Parker Retzlaff,FUNKAWAY,Jordan_Anderson,Chevrolet,147,running,0,13,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,25,7,2,usa,Sheldon_Creed,Sheldon Creed,Whelen,Richard_Childress,Chevrolet,147,running,0,16,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,26,33,45,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,BZ Mart / ForeverLawn,Tommy_Joe_Martins,Chevrolet,147,running,0,11,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,27,16,39,usa,Ryan_Sieg,Ryan Sieg,CMRoofing.com,Rod_Sieg,Ford,146,running,0,14,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,28,34,53,usa,Matt_Mills,Matt Mills,J.F. Electric,Emerling-Gase_Motorsports,Ford,146,running,0,0,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,29,36,08,usa,Gray_Gaulding,Gray Gaulding,PANINI,Bobby_Dotter,Ford,146,running,1,8,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,30,29,28,usa,Kyle_Sieg,Kyle Sieg,Cedar Ridge Landscaping,Rod_Sieg,Ford,146,running,0,7,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,31,22,44,usa,Sage_Karam,Sage Karam,CRC,Tommy_Joe_Martins,Chevrolet,144,running,0,6,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,32,37,38,usa,Joe_Graf_Jr,Joe Graf Jr,Bethel Motor Speedway,Rod_Sieg,Ford,140,crash,0,5,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,33,32,43,usa,Ryan_Ellis,Ryan Ellis,Keen Parts,Tommy_Joe_Martins,Chevrolet,74,crash,0,4,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,34,11,9,usa,Brandon_Jones,Brandon Jones,Menards / Cheez-It,JR_Motorsports,Chevrolet,68,crash,0,6,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,35,2,19,usa,Ryan_Truex,Ryan Truex,Toyota Outfitters,Joe_Gibbs,Toyota,68,crash,0,7,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,36,6,16,usa,Chandler_Smith,Chandler Smith,"Quick Tie Products, Inc.",Matt_Kaulig,Chevrolet,67,crash,0,1,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,37,38,02,usa,Blaine_Perkins,Blaine Perkins,PayDay,Chris_Our,Chevrolet,35,suspension,0,1,0
+2023,B,2023_Shriners_Childrens_200_1,2023_11,38,18,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,29,crash,0,1,0
 2023,B,2023_Alsco_Uniforms_300_%28May%29,2023_12,1,1,7,usa,Justin_Allgaier,Justin Allgaier,Unilever Military DeCA RCPT,JR_Motorsports,Chevrolet,200,running,83,56,5
 2023,B,2023_Alsco_Uniforms_300_%28May%29,2023_12,2,2,20,usa,John_H._Nemechek,John H. Nemechek,Mobil 1,Joe_Gibbs,Toyota,200,running,57,53,0
 2023,B,2023_Alsco_Uniforms_300_%28May%29,2023_12,3,4,00,usa,Cole_Custer,Cole Custer,3D Systems,Stewart_Haas_Racing,Ford,200,running,0,38,0
@@ -628,7 +628,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,B,2023_Alsco_Uniforms_250,2023_17,19,4,8,usa,Josh_Berry,Josh Berry,Jarrett Logistics Systems,JR_Motorsports,Chevrolet,168,running,34,34,0
 2023,B,2023_Alsco_Uniforms_250,2023_17,20,1,16,usa,Chandler_Smith,Chandler Smith,Roofing Georgia,Matt_Kaulig,Chevrolet,168,running,5,28,0
 2023,B,2023_Alsco_Uniforms_250,2023_17,21,28,38,usa,Joe_Graf_Jr,Joe Graf Jr,Getcoverseal.com,Rod_Sieg,Ford,167,running,4,18,0
-2023,B,2023_Alsco_Uniforms_250,2023_17,22,35,35,usa,David_Starr,David Starr,FR8 Auctions / Half Off	,Emerling-Gase_Motorsports,Ford,167,running,0,15,0
+2023,B,2023_Alsco_Uniforms_250,2023_17,22,35,35,usa,David_Starr,David Starr,FR8 Auctions / Half Off ,Emerling-Gase_Motorsports,Ford,167,running,0,15,0
 2023,B,2023_Alsco_Uniforms_250,2023_17,23,19,45,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Advanced Material Handling,Tommy_Joe_Martins,Chevrolet,167,running,0,14,0
 2023,B,2023_Alsco_Uniforms_250,2023_17,24,32,08,usa,Mason_Massey,Mason Massey,"A-Z Comp, Special Olympics",Bobby_Dotter,Chevrolet,167,running,0,13,0
 2023,B,2023_Alsco_Uniforms_250,2023_17,25,30,43,usa,Ryan_Ellis,Ryan Ellis,Classic Collision,Tommy_Joe_Martins,Chevrolet,167,running,0,12,0
@@ -777,7 +777,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,B,2023_Cabo_Wabo_250,2023_21,16,13,00,usa,Cole_Custer,Cole Custer,Haas Automation,Stewart_Haas_Racing,Ford,125,running,0,14,-5
 2023,B,2023_Cabo_Wabo_250,2023_21,17,12,25,usa,Brett_Moffitt,Brett Moffitt,AM Technical Solutions,Kevin_Cywinski,Ford,125,running,4,21,0
 2023,B,2023_Cabo_Wabo_250,2023_21,18,18,78,usa,Anthony_Alfredo,Anthony Alfredo,Sim Seats,B_J_McLeod,Chevrolet,125,running,0,20,0
-2023,B,2023_Cabo_Wabo_250,2023_21,19,21,28,usa,Kyle_Sieg,Kyle Sieg,RSS Racing	,Rod_Sieg,Ford,125,running,0,18,0
+2023,B,2023_Cabo_Wabo_250,2023_21,19,21,28,usa,Kyle_Sieg,Kyle Sieg,RSS Racing ,Rod_Sieg,Ford,125,running,0,18,0
 2023,B,2023_Cabo_Wabo_250,2023_21,20,6,16,usa,Chandler_Smith,Chandler Smith,"Quick Tie Products, Inc.",Matt_Kaulig,Chevrolet,125,running,0,24,0
 2023,B,2023_Cabo_Wabo_250,2023_21,21,25,26,usa,Kaz_Grala,Kaz Grala,Toyota Genuine Parts,Sam_Hunt,Toyota,124,running,0,16,0
 2023,B,2023_Cabo_Wabo_250,2023_21,22,29,92,usa,Josh_Williams,Josh Williams,Alloy / General Formulations,Mario_Gosselin,Chevrolet,124,running,0,15,0
@@ -786,7 +786,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,B,2023_Cabo_Wabo_250,2023_21,25,33,66,usa,Sage_Karam,Sage Karam,Carl Long,Carl_Long,Ford,124,running,1,12,0
 2023,B,2023_Cabo_Wabo_250,2023_21,26,27,51,usa,Jeremy_Clements,Jeremy Clements,Wings Etc Grill & Pub,Jeremy_Clements,Chevrolet,124,running,0,11,0
 2023,B,2023_Cabo_Wabo_250,2023_21,27,28,38,usa,Joe_Graf_Jr,Joe Graf Jr,GTECHNIQ,Rod_Sieg,Ford,124,running,0,10,0
-2023,B,2023_Cabo_Wabo_250,2023_21,28,32,74,usa,Dawson_Cram,Dawson Cram,CHK Racing	,Mike_Harmon,Chevrolet,124,running,0,9,0
+2023,B,2023_Cabo_Wabo_250,2023_21,28,32,74,usa,Dawson_Cram,Dawson Cram,CHK Racing ,Mike_Harmon,Chevrolet,124,running,0,9,0
 2023,B,2023_Cabo_Wabo_250,2023_21,29,37,6,usa,Brennan_Poole,Brennan Poole,Johnny Davis,Johnny_Davis,Chevrolet,123,running,0,8,0
 2023,B,2023_Cabo_Wabo_250,2023_21,30,26,4,usa,Garrett_Smithley,Garrett Smithley,Johnny Davis,Johnny_Davis,Chevrolet,123,running,0,7,0
 2023,B,2023_Cabo_Wabo_250,2023_21,31,30,07,usa,Stefan_Parsons,Stefan Parsons,"OLLIE's, Rich Mar Florist",Bobby_Dotter,Chevrolet,123,running,0,6,0
@@ -809,7 +809,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,B,2023_Pennzoil_150_at_The_Brickyard,2023_22,10,23,25,usa,Brett_Moffitt,Brett Moffitt,AM Technical Solutions,Kevin_Cywinski,Ford,62,running,0,27,0
 2023,B,2023_Pennzoil_150_at_The_Brickyard,2023_22,11,26,35,canada,Alex_Labbe,Alex Labbe,Emerling-Gase Motorsports,Emerling-Gase_Motorsports,Toyota,62,running,0,26,0
 2023,B,2023_Pennzoil_150_at_The_Brickyard,2023_22,12,10,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,62,running,0,31,0
-2023,B,2023_Pennzoil_150_at_The_Brickyard,2023_22,13,8,20,usa,John_H._Nemechek,John H. Nemechek,Mobil 1	,Joe_Gibbs,Toyota,62,running,0,27,0
+2023,B,2023_Pennzoil_150_at_The_Brickyard,2023_22,13,8,20,usa,John_H._Nemechek,John H. Nemechek,Mobil 1 ,Joe_Gibbs,Toyota,62,running,0,27,0
 2023,B,2023_Pennzoil_150_at_The_Brickyard,2023_22,14,3,8,usa,Josh_Berry,Josh Berry,Jarrett Logistics Systems,JR_Motorsports,Chevrolet,62,running,2,25,0
 2023,B,2023_Pennzoil_150_at_The_Brickyard,2023_22,15,27,45,usa,Sage_Karam,Sage Karam,Til Valhalla Project,Tommy_Joe_Martins,Chevrolet,62,running,0,22,0
 2023,B,2023_Pennzoil_150_at_The_Brickyard,2023_22,16,14,27,usa,Jeb_Burton,Jeb Burton,PurYear Tank Lines,Jordan_Anderson,Chevrolet,62,running,0,21,0
@@ -832,44 +832,120 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,B,2023_Pennzoil_150_at_The_Brickyard,2023_22,33,34,92,usa,Josh_Williams,Josh Williams,Alloy Employer Services,Mario_Gosselin,Chevrolet,57,running,0,4,0
 2023,B,2023_Pennzoil_150_at_The_Brickyard,2023_22,34,18,16,usa,Chandler_Smith,Chandler Smith,"Quick Tie Products, Inc.",Matt_Kaulig,Chevrolet,56,suspension,0,10,0
 2023,B,2023_Pennzoil_150_at_The_Brickyard,2023_22,35,37,38,usa,Joe_Graf_Jr,Joe Graf Jr,G-coin,Rod_Sieg,Ford,46,axle,0,2,0
-2023,B,2023_Pennzoil_150_at_The_Brickyard,2023_22,36,28,34,usa,Andre_Castro,Andre Castro,Wings and Wheels Foundation	,Jesse_Iwuji,Chevrolet,39,suspension,0,1,0
+2023,B,2023_Pennzoil_150_at_The_Brickyard,2023_22,36,28,34,usa,Andre_Castro,Andre Castro,Wings and Wheels Foundation ,Jesse_Iwuji,Chevrolet,39,suspension,0,1,0
 2023,B,2023_Pennzoil_150_at_The_Brickyard,2023_22,37,7,91,usa,Ross_Chastain,Ross Chastain,Skip Barber Racing School,Mario_Gosselin,Chevrolet,38,suspension,0,0,0
 2023,B,2023_Pennzoil_150_at_The_Brickyard,2023_22,38,31,53,usa,Brad_Perez,Brad Perez,Emerling-Gase Motorsports,Emerling-Gase_Motorsports,Chevrolet,24,brakes,0,1,0
-2023,B,2023_Shriners_Childrens_200,2023_23,1,5,1,usa,Sam_Mayer,Sam Mayer,Accelerate Pros Talent,JR_Motorsports,Chevrolet,86,running,8,53,5
-2023,B,2023_Shriners_Childrens_200,2023_23,2,13,2,usa,Sheldon_Creed,Sheldon Creed,Whelen,Richard_Childress,Chevrolet,86,running,0,41,0
-2023,B,2023_Shriners_Childrens_200,2023_23,3,14,48,usa,Parker_Kligerman,Parker Kligerman,Spiked Light Coolers,Scott_Borchetta,Chevrolet,86,running,0,36,0
-2023,B,2023_Shriners_Childrens_200,2023_23,4,17,91,usa,Ross_Chastain,Ross Chastain,Protect Your Melon #BUCKLEUPNY,Mario_Gosselin,Chevrolet,86,running,0,0,0
-2023,B,2023_Shriners_Childrens_200,2023_23,5,19,24,usa,Connor_Mosack,Connor Mosack,Toyota Genuine Parts,Sam_Hunt,Toyota,86,running,0,32,0
-2023,B,2023_Shriners_Childrens_200,2023_23,6,12,20,usa,John_H._Nemechek,John H. Nemechek,Mobil 1,Joe_Gibbs,Toyota,86,running,0,39,0
-2023,B,2023_Shriners_Childrens_200,2023_23,7,4,00,usa,Cole_Custer,Cole Custer,HighPoint,Stewart_Haas_Racing,Ford,86,running,1,38,0
-2023,B,2023_Shriners_Childrens_200,2023_23,8,18,16,usa,Chandler_Smith,Chandler Smith,"Quick Tie Products, Inc.",Matt_Kaulig,Chevrolet,86,running,0,29,0
-2023,B,2023_Shriners_Childrens_200,2023_23,9,2,17,usa,Alex_Bowman,Alex Bowman,HendrickCars.com,Rick_Hendrick,Chevrolet,86,running,4,0,0
-2023,B,2023_Shriners_Childrens_200,2023_23,10,25,27,usa,Jeb_Burton,Jeb Burton,Honoring All First Responders,Jordan_Anderson,Chevrolet,86,running,0,27,0
-2023,B,2023_Shriners_Childrens_200,2023_23,11,24,9,usa,Brandon_Jones,Brandon Jones,Menards / MagickWoods,JR_Motorsports,Chevrolet,86,running,0,26,0
-2023,B,2023_Shriners_Childrens_200,2023_23,12,32,6,usa,Brennan_Poole,Brennan Poole,TeamJDMotorsports.com,Johnny_Davis,Chevrolet,86,running,0,25,0
-2023,B,2023_Shriners_Childrens_200,2023_23,13,33,4,usa,Kyle_Weatherman,Kyle Weatherman,TeamJDMotorsports.com,Johnny_Davis,Chevrolet,86,running,2,24,0
-2023,B,2023_Shriners_Childrens_200,2023_23,14,11,21,usa,Austin_Hill,Austin Hill,Bennett Transportation,Richard_Childress,Chevrolet,86,running,0,37,0
-2023,B,2023_Shriners_Childrens_200,2023_23,15,21,45,usa,Sage_Karam,Sage Karam,Rich Mar/Lakewood Vineyards,Tommy_Joe_Martins,Chevrolet,86,running,0,22,0
-2023,B,2023_Shriners_Childrens_200,2023_23,16,3,7,usa,Justin_Allgaier,Justin Allgaier,BRANDT,JR_Motorsports,Chevrolet,86,running,1,37,0
-2023,B,2023_Shriners_Childrens_200,2023_23,17,1,19,usa,Ty_Gibbs,Ty Gibbs,He Gets Us,Joe_Gibbs,Toyota,86,running,70,0,0
-2023,B,2023_Shriners_Childrens_200,2023_23,18,9,18,usa,Sammy_Smith,Sammy Smith,Pilot Flying J,Joe_Gibbs,Toyota,86,running,0,19,0
-2023,B,2023_Shriners_Childrens_200,2023_23,19,37,28,usa,Kyle_Sieg,Kyle Sieg,SFWW/LOTZE,Rod_Sieg,Ford,86,running,0,18,0
-2023,B,2023_Shriners_Childrens_200,2023_23,20,7,8,usa,Josh_Berry,Josh Berry,Bass Pro Shops/Tracker Boats,JR_Motorsports,Chevrolet,86,running,0,28,0
-2023,B,2023_Shriners_Childrens_200,2023_23,21,26,39,usa,Ryan_Sieg,Ryan Sieg,TBD,Rod_Sieg,Ford,86,running,0,16,0
-2023,B,2023_Shriners_Childrens_200,2023_23,22,36,38,usa,Joe_Graf_Jr,Joe Graf Jr,G-coin,Rod_Sieg,Ford,85,running,0,15,0
-2023,B,2023_Shriners_Childrens_200,2023_23,23,6,11,usa,Daniel_Hemric,Daniel Hemric,Cirkul,Matt_Kaulig,Chevrolet,84,running,0,14,0
-2023,B,2023_Shriners_Childrens_200,2023_23,24,22,08,canada,Alex_Labbe,Alex Labbe,Refology,Bobby_Dotter,Chevrolet,83,running,0,13,0
-2023,B,2023_Shriners_Childrens_200,2023_23,25,28,07,usa,Josh_Bilicki,Josh Bilicki,BURDICKS ALL SEASON ROOFING,Bobby_Dotter,Ford,83,running,0,12,0
-2023,B,2023_Shriners_Childrens_200,2023_23,26,29,31,usa,Parker_Retzlaff,Parker Retzlaff,FUNKAWAY,Jordan_Anderson,Chevrolet,82,running,0,11,0
-2023,B,2023_Shriners_Childrens_200,2023_23,27,8,10,usa,Kyle_Busch,Kyle Busch,LA Golf,Matt_Kaulig,Chevrolet,78,transmission,0,0,0
-2023,B,2023_Shriners_Childrens_200,2023_23,28,15,26,usa,Kaz_Grala,Kaz Grala,Island Coastal Lager,Sam_Hunt,Toyota,78,crash,0,9,0
-2023,B,2023_Shriners_Childrens_200,2023_23,29,20,25,usa,Brett_Moffitt,Brett Moffitt,AM Technical Solutions,Kevin_Cywinski,Ford,66,suspension,0,8,0
-2023,B,2023_Shriners_Childrens_200,2023_23,30,35,43,usa,Ryan_Ellis,Ryan Ellis,Costa Oil,Tommy_Joe_Martins,Chevrolet,65,running,0,7,0
-2023,B,2023_Shriners_Childrens_200,2023_23,31,27,78,usa,Anthony_Alfredo,Anthony Alfredo,BOTTICELLI,B_J_McLeod,Chevrolet,61,axle,0,6,0
-2023,B,2023_Shriners_Childrens_200,2023_23,32,38,35,usa,Stanton_Barrett,Stanton Barrett,Horseheads Brewing,Emerling-Gase_Motorsports,Toyota,56,suspension,0,5,0
-2023,B,2023_Shriners_Childrens_200,2023_23,33,23,44,usa,Stefan_Parsons,Stefan Parsons,AAN Adjusters/Gilreath Farms	,Tommy_Joe_Martins,Chevrolet,45,brakes,0,4,0
-2023,B,2023_Shriners_Childrens_200,2023_23,34,31,96,usa,Max_McLaughlin,Max McLaughlin,RandCo,,Chevrolet,43,crash,0,3,0
-2023,B,2023_Shriners_Childrens_200,2023_23,35,10,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,37,suspension,0,5,0
-2023,B,2023_Shriners_Childrens_200,2023_23,36,34,92,usa,Josh_Williams,Josh Williams,Nordic Logistics / Alloy,Mario_Gosselin,Chevrolet,23,crash,0,1,0
-2023,B,2023_Shriners_Childrens_200,2023_23,37,16,51,usa,Jeremy_Clements,Jeremy Clements,All South Electric / One Stop,Jeremy_Clements,Chevrolet,21,suspension,0,1,0
-2023,B,2023_Shriners_Childrens_200,2023_23,38,30,02,usa,Blaine_Perkins,Blaine Perkins,Gratis,Chris_Our,Chevrolet,11,transmission,0,1,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,1,5,1,usa,Sam_Mayer,Sam Mayer,Accelerate Pros Talent,JR_Motorsports,Chevrolet,86,running,8,53,5
+2023,B,2023_Shriners_Childrens_200_2,2023_23,2,13,2,usa,Sheldon_Creed,Sheldon Creed,Whelen,Richard_Childress,Chevrolet,86,running,0,41,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,3,14,48,usa,Parker_Kligerman,Parker Kligerman,Spiked Light Coolers,Scott_Borchetta,Chevrolet,86,running,0,36,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,4,17,91,usa,Ross_Chastain,Ross Chastain,Protect Your Melon #BUCKLEUPNY,Mario_Gosselin,Chevrolet,86,running,0,0,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,5,19,24,usa,Connor_Mosack,Connor Mosack,Toyota Genuine Parts,Sam_Hunt,Toyota,86,running,0,32,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,6,12,20,usa,John_H._Nemechek,John H. Nemechek,Mobil 1,Joe_Gibbs,Toyota,86,running,0,39,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,7,4,00,usa,Cole_Custer,Cole Custer,HighPoint,Stewart_Haas_Racing,Ford,86,running,1,38,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,8,18,16,usa,Chandler_Smith,Chandler Smith,"Quick Tie Products, Inc.",Matt_Kaulig,Chevrolet,86,running,0,29,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,9,2,17,usa,Alex_Bowman,Alex Bowman,HendrickCars.com,Rick_Hendrick,Chevrolet,86,running,4,0,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,10,25,27,usa,Jeb_Burton,Jeb Burton,Honoring All First Responders,Jordan_Anderson,Chevrolet,86,running,0,27,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,11,24,9,usa,Brandon_Jones,Brandon Jones,Menards / MagickWoods,JR_Motorsports,Chevrolet,86,running,0,26,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,12,32,6,usa,Brennan_Poole,Brennan Poole,TeamJDMotorsports.com,Johnny_Davis,Chevrolet,86,running,0,25,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,13,33,4,usa,Kyle_Weatherman,Kyle Weatherman,TeamJDMotorsports.com,Johnny_Davis,Chevrolet,86,running,2,24,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,14,11,21,usa,Austin_Hill,Austin Hill,Bennett Transportation,Richard_Childress,Chevrolet,86,running,0,37,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,15,21,45,usa,Sage_Karam,Sage Karam,Rich Mar/Lakewood Vineyards,Tommy_Joe_Martins,Chevrolet,86,running,0,22,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,16,3,7,usa,Justin_Allgaier,Justin Allgaier,BRANDT,JR_Motorsports,Chevrolet,86,running,1,37,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,17,1,19,usa,Ty_Gibbs,Ty Gibbs,He Gets Us,Joe_Gibbs,Toyota,86,running,70,0,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,18,9,18,usa,Sammy_Smith,Sammy Smith,Pilot Flying J,Joe_Gibbs,Toyota,86,running,0,19,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,19,37,28,usa,Kyle_Sieg,Kyle Sieg,SFWW/LOTZE,Rod_Sieg,Ford,86,running,0,18,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,20,7,8,usa,Josh_Berry,Josh Berry,Bass Pro Shops/Tracker Boats,JR_Motorsports,Chevrolet,86,running,0,28,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,21,26,39,usa,Ryan_Sieg,Ryan Sieg,TBD,Rod_Sieg,Ford,86,running,0,16,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,22,36,38,usa,Joe_Graf_Jr,Joe Graf Jr,G-coin,Rod_Sieg,Ford,85,running,0,15,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,23,6,11,usa,Daniel_Hemric,Daniel Hemric,Cirkul,Matt_Kaulig,Chevrolet,84,running,0,14,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,24,22,08,canada,Alex_Labbe,Alex Labbe,Refology,Bobby_Dotter,Chevrolet,83,running,0,13,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,25,28,07,usa,Josh_Bilicki,Josh Bilicki,BURDICKS ALL SEASON ROOFING,Bobby_Dotter,Ford,83,running,0,12,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,26,29,31,usa,Parker_Retzlaff,Parker Retzlaff,FUNKAWAY,Jordan_Anderson,Chevrolet,82,running,0,11,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,27,8,10,usa,Kyle_Busch,Kyle Busch,LA Golf,Matt_Kaulig,Chevrolet,78,transmission,0,0,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,28,15,26,usa,Kaz_Grala,Kaz Grala,Island Coastal Lager,Sam_Hunt,Toyota,78,crash,0,9,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,29,20,25,usa,Brett_Moffitt,Brett Moffitt,AM Technical Solutions,Kevin_Cywinski,Ford,66,suspension,0,8,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,30,35,43,usa,Ryan_Ellis,Ryan Ellis,Costa Oil,Tommy_Joe_Martins,Chevrolet,65,running,0,7,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,31,27,78,usa,Anthony_Alfredo,Anthony Alfredo,BOTTICELLI,B_J_McLeod,Chevrolet,61,axle,0,6,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,32,38,35,usa,Stanton_Barrett,Stanton Barrett,Horseheads Brewing,Emerling-Gase_Motorsports,Toyota,56,suspension,0,5,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,33,23,44,usa,Stefan_Parsons,Stefan Parsons,AAN Adjusters/Gilreath Farms ,Tommy_Joe_Martins,Chevrolet,45,brakes,0,4,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,34,31,96,usa,Max_McLaughlin,Max McLaughlin,RandCo,,Chevrolet,43,crash,0,3,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,35,10,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,37,suspension,0,5,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,36,34,92,usa,Josh_Williams,Josh Williams,Nordic Logistics / Alloy,Mario_Gosselin,Chevrolet,23,crash,0,1,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,37,16,51,usa,Jeremy_Clements,Jeremy Clements,All South Electric / One Stop,Jeremy_Clements,Chevrolet,21,suspension,0,1,0
+2023,B,2023_Shriners_Childrens_200_2,2023_23,38,30,02,usa,Blaine_Perkins,Blaine Perkins,Gratis,Chris_Our,Chevrolet,11,transmission,0,1,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,1,12,7,usa,Justin_Allgaier,Justin Allgaier,Hellmann's,JR_Motorsports,Chevrolet,110,running,14,40,5
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,2,2,2,usa,Sheldon_Creed,Sheldon Creed,Whelen,Richard_Childress,Chevrolet,110,running,21,54,1
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,3,6,11,usa,Daniel_Hemric,Daniel Hemric,Cirkul,Matt_Kaulig,Chevrolet,110,running,0,44,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,4,5,48,usa,Parker_Kligerman,Parker Kligerman,Spiked Coolers Light Orange,Scott_Borchetta,Chevrolet,110,running,1,36,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,5,11,00,usa,Cole_Custer,Cole Custer,Haas Automation,Stewart_Haas_Racing,Ford,110,running,1,42,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,6,38,39,usa,Ryan_Sieg,Ryan Sieg,Sci Aps,Rod_Sieg,Ford,110,running,0,31,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,7,23,31,usa,Parker_Retzlaff,Parker Retzlaff,FUNKAWAY,Jordan_Anderson,Chevrolet,110,running,0,30,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,8,20,78,usa,Anthony_Alfredo,Anthony Alfredo,Dude Wipes,B_J_McLeod,Chevrolet,110,running,0,35,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,9,33,08,usa,Gray_Gaulding,Gray Gaulding,Panini NFT,Bobby_Dotter,Chevrolet,110,running,0,28,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,10,9,10,usa,Justin_Haley,Justin Haley,Campers Inn RV,Matt_Kaulig,Chevrolet,110,running,0,0,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,11,27,45,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,Ark Encounter,Tommy_Joe_Martins,Chevrolet,110,running,0,26,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,12,10,22,usa,Jeb_Burton,Jeb Burton,State Water Heaters/ PURYEAR,,Chevrolet,110,running,0,25,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,13,24,28,usa,Kyle_Sieg,Kyle Sieg,Night Owl,Rod_Sieg,Ford,110,running,0,24,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,14,15,35,usa,Joey_Gase,Joey Gase,National Crime Prevention,Emerling-Gase_Motorsports,Chevrolet,110,running,0,23,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,15,37,27,usa,Jordan_Anderson,Jordan Anderson,Capital City Towing,Jordan_Anderson,Chevrolet,110,running,0,22,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,16,36,6,usa,Garrett_Smithley,Garrett Smithley,Hoffmann Group,Johnny_Davis,Chevrolet,110,running,0,21,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,17,13,8,usa,Josh_Berry,Josh Berry,Bass Pro Shops/Tracker Boats,JR_Motorsports,Chevrolet,110,running,0,20,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,18,22,25,usa,Brett_Moffitt,Brett Moffitt,Wawa Rechargers,Kevin_Cywinski,Ford,110,running,0,26,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,19,14,1,usa,Sam_Mayer,Sam Mayer,Tim McGraw: Standing Room Only,JR_Motorsports,Chevrolet,110,running,6,20,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,20,18,26,usa,Kaz_Grala,Kaz Grala,Island Coastal Lager,Sam_Hunt,Toyota,109,running,0,17,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,21,3,18,usa,Sammy_Smith,Sammy Smith,Pilot Flying J,Joe_Gibbs,Toyota,109,running,4,23,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,22,4,16,usa,Chandler_Smith,Chandler Smith,"Quick Tie Products, Inc.",Matt_Kaulig,Chevrolet,109,running,1,24,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,23,1,21,usa,Austin_Hill,Austin Hill,Bennett / REALTREE,Richard_Childress,Chevrolet,109,running,36,33,1
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,24,16,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,108,running,0,13,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,25,25,02,usa,Blaine_Perkins,Blaine Perkins,AUTOPARKIT.com,Chris_Our,Chevrolet,108,running,0,12,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,26,32,51,usa,Jeremy_Clements,Jeremy Clements,One Stop / All South Electric,Jeremy_Clements,Chevrolet,104,crash,0,14,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,27,21,92,usa,Josh_Williams,Josh Williams,Parking Guidance Systems,Mario_Gosselin,Chevrolet,103,crash,0,10,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,28,7,20,usa,John_H._Nemechek,John H. Nemechek,Yahoo,Joe_Gibbs,Toyota,103,crash,0,14,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,29,8,19,usa,Trevor_Bayne,Trevor Bayne,He Gets Us,Joe_Gibbs,Toyota,103,crash,26,13,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,30,34,07,usa,J_J_Yeley,J.J. Yeley,WaWa Recharge,Bobby_Dotter,Chevrolet,98,crash,0,7,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,31,30,44,usa,Caesar_Bacarella,Caesar Bacarella,Advanced Drainage Systems,Tommy_Joe_Martins,Chevrolet,92,crash,0,6,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,32,28,43,usa,Ryan_Ellis,Ryan Ellis,AAGI,Tommy_Joe_Martins,Chevrolet,91,crash,0,5,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,33,19,4,usa,Kyle_Weatherman,Kyle Weatherman,Duelly.com,Johnny_Davis,Chevrolet,45,dvp,0,4,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,34,26,38,usa,Joe_Graf_Jr,Joe Graf Jr,Wawa,Rod_Sieg,Ford,42,dvp,0,3,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,35,35,53,usa,Natalie_Decker,Natalie Decker,Wawa Rechargers,Emerling-Gase_Motorsports,Ford,42,crash,0,2,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,36,17,9,usa,Brandon_Jones,Brandon Jones,Menards/Fisher Nuts,JR_Motorsports,Chevrolet,41,crash,0,6,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,37,29,24,usa,Connor_Mosack,Connor Mosack,Toyota Racing Development,Sam_Hunt,Toyota,41,crash,0,1,0
+2023,B,2023_Wawa_250_Powered_by_Coca-Cola,2023_24,38,31,91,canada,Alex_Guenette,Alex Guenette,EVIRUM / BKFC,Mario_Gosselin,Chevrolet,41,crash,0,1,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,1,2,19,usa,Denny_Hamlin,Denny Hamlin,SportClips Haircuts,Joe_Gibbs,Toyota,148,running,14,0,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,2,9,21,usa,Austin_Hill,Austin Hill,Bennett Transportation,Richard_Childress,Chevrolet,148,running,29,49,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,3,1,20,usa,John_H._Nemechek,John H. Nemechek,Pye Barker Fire & Safety,Joe_Gibbs,Toyota,148,running,99,54,2
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,4,4,00,usa,Cole_Custer,Cole Custer,Haas Automation,Stewart_Haas_Racing,Ford,148,running,0,44,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,5,7,8,usa,Josh_Berry,Josh Berry,Bass Pro Shops/Tracker Boats,JR_Motorsports,Chevrolet,148,running,0,32,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,6,15,98,usa,Riley_Herbst,Riley Herbst,Monster Energy,Stewart_Haas_Racing,Ford,148,running,0,34,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,7,3,7,usa,Justin_Allgaier,Justin Allgaier,Hellmann's,JR_Motorsports,Chevrolet,148,running,0,43,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,8,16,2,usa,Sheldon_Creed,Sheldon Creed,Whelen,Richard_Childress,Chevrolet,148,running,0,29,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,9,14,10,usa,Kyle_Busch,Kyle Busch,LA Golf,Matt_Kaulig,Chevrolet,148,running,0,0,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,10,6,11,usa,Daniel_Hemric,Daniel Hemric,Cirkul,Matt_Kaulig,Chevrolet,148,running,0,32,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,11,5,1,usa,Sam_Mayer,Sam Mayer,Accelerate Pros Talent,JR_Motorsports,Chevrolet,148,running,0,26,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,12,10,16,usa,Chandler_Smith,Chandler Smith,"Quick Tie Products, Inc.",Matt_Kaulig,Chevrolet,148,running,0,31,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,13,19,31,usa,Parker_Retzlaff,Parker Retzlaff,Capital City Towing,Jordan_Anderson,Chevrolet,148,running,5,27,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,14,8,9,usa,Brandon_Jones,Brandon Jones,Menards/Klearvue Cabinetry,JR_Motorsports,Chevrolet,148,running,0,23,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,15,17,24,usa,Corey_Heim,Corey Heim,Toyota Outfitters,Sam_Hunt,Toyota,148,running,0,0,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,16,22,45,usa,Rajah_Caruth,Rajah Caruth,Circle,Tommy_Joe_Martins,Chevrolet,148,running,0,0,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,17,11,18,usa,Sammy_Smith,Sammy Smith,TMC,Joe_Gibbs,Toyota,148,running,0,20,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,18,24,27,usa,Jeb_Burton,Jeb Burton,Celsius,Jordan_Anderson,Chevrolet,148,running,0,19,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,19,27,07,usa,Stefan_Parsons,Stefan Parsons,Pops Mart,Bobby_Dotter,Chevrolet,148,running,0,18,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,20,31,6,usa,Brennan_Poole,Brennan Poole,County Auto Auction of Central Florida,Johnny_Davis,Chevrolet,148,running,0,17,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,21,26,51,usa,Jeremy_Clements,Jeremy Clements,Booze Pops,Jeremy_Clements,Chevrolet,148,running,0,16,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,22,33,08,usa,Chad_Finchum,Chad Finchum,Power House Diesel,Bobby_Dotter,Ford,148,running,0,15,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,23,21,91,usa,Ross_Chastain,Ross Chastain,Use Your Melon Drive Sober,Mario_Gosselin,Chevrolet,148,running,0,0,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,24,13,48,usa,Parker_Kligerman,Parker Kligerman,Spiked Light Coolers,Scott_Borchetta,Chevrolet,148,running,0,13,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,25,18,25,usa,Brett_Moffitt,Brett Moffitt,AM Technical Solutions,Kevin_Cywinski,Ford,148,running,0,12,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,26,34,38,usa,Joe_Graf_Jr,Joe Graf Jr,FGR accel/Bucked Up,Rod_Sieg,Ford,148,running,0,11,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,27,32,53,usa,Matt_Mills,Matt Mills,J.F. Electric,Emerling-Gase_Motorsports,Toyota,148,running,0,0,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,28,30,26,usa,Kaz_Grala,Kaz Grala,CRUSH Lime Margarita,Sam_Hunt,Toyota,148,running,0,9,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,29,36,43,usa,Ryan_Ellis,Ryan Ellis,Southern Elevator,Tommy_Joe_Martins,Chevrolet,148,running,0,8,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,30,20,39,usa,Ryan_Sieg,Ryan Sieg,Sci Aps,Rod_Sieg,Ford,148,running,0,7,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,31,28,4,usa,Kyle_Weatherman,Kyle Weatherman,KSDT CPA,Johnny_Davis,Chevrolet,148,running,0,6,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,32,29,66,usa,Timmy_Hill,Timmy Hill,CRC Brakleen,Carl_Long,Ford,148,running,0,0,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,33,23,78,usa,Anthony_Alfredo,Anthony Alfredo,TicketSmarter,B_J_McLeod,Chevrolet,147,running,0,4,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,34,35,02,usa,Blaine_Perkins,Blaine Perkins,To The Point,Chris_Our,Chevrolet,147,running,0,3,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,35,25,28,usa,Kyle_Sieg,Kyle Sieg,RSS Racing,Rod_Sieg,Ford,147,running,0,2,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,36,38,35,usa,Patrick_Emerling,Patrick Emerling,Sci Aps,Emerling-Gase_Motorsports,Chevrolet,145,running,0,1,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,37,37,92,usa,Josh_Williams,Josh Williams,Star Tron / Alloy,Mario_Gosselin,Chevrolet,143,running,0,1,0
+2023,B,2023_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2023_25,38,12,17,usa,Kyle_Larson,Kyle Larson,HendrickCars.com,Rick_Hendrick,Chevrolet,117,running,1,0,0

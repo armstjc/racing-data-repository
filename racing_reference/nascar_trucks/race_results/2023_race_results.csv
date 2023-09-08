@@ -377,20 +377,20 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,C,2023_North_Carolina_Education_Lottery_200,2023_11,19,18,43,usa,Daniel_Dye,Daniel Dye,Race to stop Suicide,Maury_Gallagher,Chevrolet,134,running,0,18,0
 2023,C,2023_North_Carolina_Education_Lottery_200,2023_11,20,22,9,usa,Colby_Howard,Colby Howard,Grant County Mulch,Codie_Rohrbaugh,Chevrolet,134,running,0,17,0
 2023,C,2023_North_Carolina_Education_Lottery_200,2023_11,21,26,32,usa,Bret_Holmes,Bret Holmes,Bret Holmes Racing,Stacy_Holmes,Chevrolet,134,running,0,16,0
-2023,C,2023_North_Carolina_Education_Lottery_200,2023_11,22,5,52,canada,Stewart_Friesen,Stewart Friesen,Halmar International	,Chris_Larsen,Toyota,134,running,0,24,0
+2023,C,2023_North_Carolina_Education_Lottery_200,2023_11,22,5,52,canada,Stewart_Friesen,Stewart Friesen,Halmar International ,Chris_Larsen,Toyota,134,running,0,24,0
 2023,C,2023_North_Carolina_Education_Lottery_200,2023_11,23,14,38,usa,Zane_Smith,Zane Smith,Love's / Speedco,Bob_Jenkins,Ford,134,running,0,27,0
 2023,C,2023_North_Carolina_Education_Lottery_200,2023_11,24,29,56,usa,Tyler_Hill,Tyler Hill,LeithCars.com,Timmy_Hill,Toyota,134,running,0,13,0
 2023,C,2023_North_Carolina_Education_Lottery_200,2023_11,25,31,22,usa,Mason_Maggio,Mason Maggio,ACE Hardware Rock Hill,Kevin_Cywinski,Ford,134,running,0,12,0
 2023,C,2023_North_Carolina_Education_Lottery_200,2023_11,26,36,30,usa,Ryan_Vargas,Ryan Vargas,Rangeline Group,Steven_Lane,Toyota,134,running,0,11,0
 2023,C,2023_North_Carolina_Education_Lottery_200,2023_11,27,1,15,usa,Tanner_Gray,Tanner Gray,Black's Tire,David_Gilliland,Toyota,133,running,3,14,0
 2023,C,2023_North_Carolina_Education_Lottery_200,2023_11,28,35,16,usa,Tyler_Ankrum,Tyler Ankrum,LiUNA!,Shigeaki_Hattori,Toyota,132,running,0,9,0
-2023,C,2023_North_Carolina_Education_Lottery_200,2023_11,29,27,33,usa,Josh_Reaume,Josh Reaume,JAG Metals LLC	,Josh_Reaume,Ford,131,running,0,8,0
+2023,C,2023_North_Carolina_Education_Lottery_200,2023_11,29,27,33,usa,Josh_Reaume,Josh Reaume,JAG Metals LLC ,Josh_Reaume,Ford,131,running,0,8,0
 2023,C,2023_North_Carolina_Education_Lottery_200,2023_11,30,28,20,usa,Matt_Mills,Matt Mills,J.F. Electric,Randy_Young,Chevrolet,131,running,0,7,0
 2023,C,2023_North_Carolina_Education_Lottery_200,2023_11,31,25,12,usa,Spencer_Boyd,Spencer Boyd,Derm Dude,Randy_Young,Chevrolet,131,running,0,6,0
 2023,C,2023_North_Carolina_Education_Lottery_200,2023_11,32,23,02,usa,Kris_Wright,Kris Wright,F.N.B. Corporation,Randy_Young,Chevrolet,130,running,0,5,0
 2023,C,2023_North_Carolina_Education_Lottery_200,2023_11,33,21,13,usa,Hailie_Deegan,Hailie Deegan,Ford Performance,Duke_Thorson,Ford,128,running,0,4,0
 2023,C,2023_North_Carolina_Education_Lottery_200,2023_11,34,32,90,usa,Justin_S_Carroll,Justin S. Carroll,Carroll's Automotive/Duratain,Terry_Carroll,Toyota,122,running,0,3,0
-2023,C,2023_North_Carolina_Education_Lottery_200,2023_11,35,30,46,usa,Armani_Williams,Armani Williams,Blue Sprig/ Hedgehog Health	,G2G_Racing,Toyota,65,crash,0,2,0
+2023,C,2023_North_Carolina_Education_Lottery_200,2023_11,35,30,46,usa,Armani_Williams,Armani Williams,Blue Sprig/ Hedgehog Health ,G2G_Racing,Toyota,65,crash,0,2,0
 2023,C,2023_North_Carolina_Education_Lottery_200,2023_11,36,33,34,usa,Keith_McGee,Keith McGee,Josh Reaume,Josh_Reaume,Ford,20,fuel pump,0,1,0
 2023,C,2023_Toyota_200,2023_12,1,10,23,usa,Grant_Enfinger,Grant Enfinger,Champion Power Equipment,Maury_Gallagher,Chevrolet,162,running,65,54,6
 2023,C,2023_Toyota_200,2023_12,2,3,19,usa,Christian_Eckes,Christian Eckes,BlueDEF Platinum,Bill_McAnally,Chevrolet,162,running,0,46,0
@@ -607,3 +607,39 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,C,2023_Tsport_200,2023_17,34,35,16,usa,Tyler_Ankrum,Tyler Ankrum,LiUNA!,Shigeaki_Hattori,Toyota,127,electrical,0,3,0
 2023,C,2023_Tsport_200,2023_17,35,16,9,usa,Colby_Howard,Colby Howard,Grant County Mulch,Codie_Rohrbaugh,Chevrolet,79,suspension,0,2,0
 2023,C,2023_Tsport_200,2023_17,36,27,20,usa,Greg_Van_Alst,Greg Van Alst,CB Fabricating,Randy_Young,Chevrolet,14,crash,0,1,0
+2023,C,2023_Clean_Harbors_175,2023_18,1,1,23,usa,Grant_Enfinger,Grant Enfinger,Champion Power Equipment,Maury_Gallagher,Chevrolet,175,running,95,60,7
+2023,C,2023_Clean_Harbors_175,2023_18,2,3,42,usa,Carson_Hocevar,Carson Hocevar,Worldwide Express,Al_Niece,Chevrolet,175,running,40,47,0
+2023,C,2023_Clean_Harbors_175,2023_18,3,6,19,usa,Christian_Eckes,Christian Eckes,Gates Hydraulics,Bill_McAnally,Chevrolet,175,running,5,48,0
+2023,C,2023_Clean_Harbors_175,2023_18,4,8,11,usa,Corey_Heim,Corey Heim,Safelite,David_Gilliland,Toyota,175,running,35,49,0
+2023,C,2023_Clean_Harbors_175,2023_18,5,22,88,usa,Matt_Crafton,Matt Crafton,Ideal Door/Menards,Duke_Thorson,Ford,175,running,0,35,0
+2023,C,2023_Clean_Harbors_175,2023_18,6,7,4,usa,Chase_Purdy,Chase Purdy,Bama Buggies,Kyle_Busch,Chevrolet,175,running,0,33,0
+2023,C,2023_Clean_Harbors_175,2023_18,7,13,98,usa,Ty_Majeski,Ty Majeski,Road Ranger,Mike_Curb,Ford,175,running,0,-41,-5
+2023,C,2023_Clean_Harbors_175,2023_18,8,25,7,usa,Derek_Kraus,Derek Kraus,gener8tor Skills Accelerator,Spire_Motorsports,Chevrolet,175,running,0,0,0
+2023,C,2023_Clean_Harbors_175,2023_18,9,9,35,usa,Jake_Garcia,Jake Garcia,Adaptive One Calipers,Bill_McAnally,Chevrolet,175,running,0,28,0
+2023,C,2023_Clean_Harbors_175,2023_18,10,14,41,usa,Bayley_Currey,Bayley Currey,GlobalTranz,Al_Niece,Chevrolet,175,running,0,27,0
+2023,C,2023_Clean_Harbors_175,2023_18,11,11,15,usa,Tanner_Gray,Tanner Gray,Serial 1 Premium E-Bikes,David_Gilliland,Toyota,175,running,0,28,0
+2023,C,2023_Clean_Harbors_175,2023_18,12,18,38,usa,Zane_Smith,Zane Smith,Birch Gold Group,Bob_Jenkins,Ford,175,running,0,26,0
+2023,C,2023_Clean_Harbors_175,2023_18,13,4,17,usa,Taylor_Gray,Taylor Gray,JBL,David_Gilliland,Toyota,175,running,0,32,0
+2023,C,2023_Clean_Harbors_175,2023_18,14,15,24,usa,Rajah_Caruth,Rajah Caruth,Wendell Scott Foundation,Maury_Gallagher,Chevrolet,175,running,0,23,0
+2023,C,2023_Clean_Harbors_175,2023_18,15,19,5,usa,Dean_Thompson,Dean Thompson,Thompson Pipe Group,David_Gilliland,Toyota,175,running,0,22,0
+2023,C,2023_Clean_Harbors_175,2023_18,16,10,99,usa,Ben_Rhodes,Ben Rhodes,Farm Paint/1848 Coffee,Duke_Thorson,Ford,175,running,0,22,0
+2023,C,2023_Clean_Harbors_175,2023_18,17,24,9,usa,Colby_Howard,Colby Howard,Grant County Mulch,Codie_Rohrbaugh,Chevrolet,175,running,0,20,0
+2023,C,2023_Clean_Harbors_175,2023_18,18,28,66,usa,Conner_Jones,Conner Jones,TSport,Duke_Thorson,Ford,175,running,0,19,0
+2023,C,2023_Clean_Harbors_175,2023_18,19,29,32,usa,Bret_Holmes,Bret Holmes,Precision Garage Door,Stacy_Holmes,Chevrolet,175,running,0,18,0
+2023,C,2023_Clean_Harbors_175,2023_18,20,16,16,usa,Tyler_Ankrum,Tyler Ankrum,LiUNA!,Shigeaki_Hattori,Toyota,175,running,0,17,0
+2023,C,2023_Clean_Harbors_175,2023_18,21,20,45,usa,Lawless_Alan,Lawless Alan,AUTOParkIt,Al_Niece,Chevrolet,175,running,0,16,0
+2023,C,2023_Clean_Harbors_175,2023_18,22,17,13,usa,Hailie_Deegan,Hailie Deegan,Ford Performance,Duke_Thorson,Ford,175,running,0,15,0
+2023,C,2023_Clean_Harbors_175,2023_18,23,27,61,usa,Sean_Hingorani,Sean Hingorani,Fidelity Capital,Shigeaki_Hattori,Toyota,175,running,0,14,0
+2023,C,2023_Clean_Harbors_175,2023_18,24,2,2,usa,Nick_Sanchez,Nick Sanchez,Gainbridge,Max_Siegel,Chevrolet,175,running,0,27,0
+2023,C,2023_Clean_Harbors_175,2023_18,25,26,51,usa,Matt_Mills,Matt Mills,J.F. Electric,Kyle_Busch,Chevrolet,175,running,0,12,0
+2023,C,2023_Clean_Harbors_175,2023_18,26,12,1,usa,William_Sawalich,William Sawalich,Starkey/Soundgear,David_Gilliland,Toyota,175,running,0,21,0
+2023,C,2023_Clean_Harbors_175,2023_18,27,23,25,usa,Matt_DiBenedetto,Matt DiBenedetto,Rackley Roofing,Rackley_WAR,Chevrolet,173,running,0,10,0
+2023,C,2023_Clean_Harbors_175,2023_18,28,5,43,usa,Daniel_Dye,Daniel Dye,Hamlin & Associates,Maury_Gallagher,Chevrolet,173,running,0,9,0
+2023,C,2023_Clean_Harbors_175,2023_18,29,32,56,usa,Tyler_Hill,Tyler Hill,MF1 Fantasy Racing,Timmy_Hill,Toyota,173,running,0,8,0
+2023,C,2023_Clean_Harbors_175,2023_18,30,21,52,canada,Stewart_Friesen,Stewart Friesen,Ferris Commercial Mowers,Chris_Larsen,Toyota,172,running,0,7,0
+2023,C,2023_Clean_Harbors_175,2023_18,31,33,33,usa,Derek_Lemke,Derek Lemke,Super Cubes LLC,Josh_Reaume,Ford,172,running,0,6,0
+2023,C,2023_Clean_Harbors_175,2023_18,32,30,12,usa,Spencer_Boyd,Spencer Boyd,Cronauer Law,Randy_Young,Chevrolet,172,running,0,5,0
+2023,C,2023_Clean_Harbors_175,2023_18,33,35,22,usa,Josh_Reaume,Josh Reaume,JAG Metals LLC.,Kevin_Cywinski,Ford,171,running,0,4,0
+2023,C,2023_Clean_Harbors_175,2023_18,34,36,20,usa,Greg_Van_Alst,Greg Van Alst,CB Fabricating,Randy_Young,Chevrolet,63,crash,0,3,0
+2023,C,2023_Clean_Harbors_175,2023_18,35,34,30,usa,Brad_Perez,Brad Perez,Bread Rocket,Steven_Lane,Toyota,62,crash,0,0,0
+2023,C,2023_Clean_Harbors_175,2023_18,36,31,02,usa,Josh_Bilicki,Josh Bilicki,Insurance King,Randy_Young,Chevrolet,9,crash,0,0,0
