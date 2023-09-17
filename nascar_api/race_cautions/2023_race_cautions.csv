@@ -223,6 +223,12 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5301,167,171,Competition,Stage 2 Conclusion,2,2
 5301,175,179,Accident,#21 Incident Turn 3,14,2
 5301,262,266,Unknown,#17 Slow On Track,14,2
+5302,70,76,Accident,Nos. 2 & 16 Incident Frontstretch,51,2
+5302,107,113,Unknown,Precipitation,21,2
+5302,127,140,Weather,Stage 1 Conclusion/Red Flag - Weather,16,2
+5302,252,260,Competition,Stage 2 Conclusion,99,2
+5302,263,271,Accident,"Nos. 7, 43, 22, 51, 31 & 77 Incident Turn 3",21,2
+5302,363,369,Accident,No. 19 Incident Frontstretch,None,2
 5310,9,11,Unknown,Potential Fluid On Frontstretch,None,2
 5310,21,25,Accident,"#1, 07, 11 Incident Frontstretch",None,2
 5310,32,36,Competition,Stage 1 Conclusion,None,2
