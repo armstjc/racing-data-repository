@@ -448,6 +448,10 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5336,161,165,Spin,#44 Spin Turn 2,None,2
 5336,180,183,Debris,Debris Backstretch,25,2
 5336,185,190,Accident,"#26, 08 Incident Turn 3",91,2
+5338,22,24,Competition,Stage 1 Conclusion,25,2
+5338,40,43,Spin,No. 53 Spin Turn 15/Stage 2 Conclusion,92,2
+5338,57,59,Debris,Debris Turn 17,43,2
+5338,61,62,Accident,"Nos. 7, 27 Incident Turn 1",53,2
 5343,3,6,Weather,Weather,None,2
 5343,8,10,Weather,Weather,None,2
 5343,22,25,Competition,Stage 1 Conclusion,None,2
