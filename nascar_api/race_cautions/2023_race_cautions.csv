@@ -244,6 +244,13 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5304,122,125,Competition,Stage 2 Conclusion,42,2
 5304,163,168,Accident,"#3, 6, 14, 16, 17, 21, 42, 54 Incident Frontstretch [Red Flag: 9:57]",11,2
 5304,172,175,Debris,Debris On The Backstretch,2,2
+5305,27,29,Competition,Stage 1 Conclusion ,47,2
+5305,49,53,Accident,"Nos. 78, 7 Incident Turn 4",47,2
+5305,77,78,Accident,"Nos. 11, 77 Incident Turn 17",34,2
+5305,81,82,Accident,"Nos. 34, 43 Incident Turn 7",78,2
+5305,86,87,Spin,No. 15 Spin,None,2
+5305,95,96,Accident,No. 99 Incident Turn 8,47,2
+5305,98,99,Unknown,No. 47 Stalled Turn 2,99,2
 5310,9,11,Unknown,Potential Fluid On Frontstretch,None,2
 5310,21,25,Accident,"#1, 07, 11 Incident Frontstretch",None,2
 5310,32,36,Competition,Stage 1 Conclusion,None,2
