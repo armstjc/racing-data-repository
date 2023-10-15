@@ -459,6 +459,11 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5338,40,43,Spin,No. 53 Spin Turn 15/Stage 2 Conclusion,92,2
 5338,57,59,Debris,Debris Turn 17,43,2
 5338,61,62,Accident,"Nos. 7, 27 Incident Turn 1",53,2
+5339,5,10,Unknown,Fluid on the Frontstretch from #53,None,2
+5339,14,18,Accident,#38 and 25 Incident on the Frontstretch,None,2
+5339,47,52,Competition,Stage 1 Conclusion,43,2
+5339,55,58,Accident,"26, 45, 51, 78, 91 and 92 Incident in Turn 1 [Red Flag: 8:34]",25,2
+5339,92,96,Competition,Stage 2 Conclusion,43,2
 5343,3,6,Weather,Weather,None,2
 5343,8,10,Weather,Weather,None,2
 5343,22,25,Competition,Stage 1 Conclusion,None,2
