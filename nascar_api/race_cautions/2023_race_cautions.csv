@@ -251,6 +251,13 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5305,86,87,Spin,No. 15 Spin,None,2
 5305,95,96,Accident,No. 99 Incident Turn 8,47,2
 5305,98,99,Unknown,No. 47 Stalled Turn 2,99,2
+5306,66,71,Accident,#43 Incident on the Frontstretch,99,2
+5306,82,86,Competition,Stage 1 Conclusion,43,2
+5306,112,117,Accident,#42 Incident in Turn 2,16,2
+5306,146,149,Accident,#48 Incident on the Frontstretch,78,2
+5306,167,171,Competition,Stage 2 Conclusion,None,2
+5306,211,215,Accident,#14 Incident in Turn 2,78,2
+5306,218,222,Accident,#54 Incident in Turn 2 ,14,2
 5310,9,11,Unknown,Potential Fluid On Frontstretch,None,2
 5310,21,25,Accident,"#1, 07, 11 Incident Frontstretch",None,2
 5310,32,36,Competition,Stage 1 Conclusion,None,2
