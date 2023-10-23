@@ -258,6 +258,11 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5306,167,171,Competition,Stage 2 Conclusion,None,2
 5306,211,215,Accident,#14 Incident in Turn 2,78,2
 5306,218,222,Accident,#54 Incident in Turn 2 ,14,2
+5307,78,85,Spin,#47 Spin Backstretch/Stage 1 Conclusion,34,2
+5307,167,172,Competition,Stage 2 Conclusion,99,2
+5307,214,221,Accident,#5 Incident Pit Road Entrance [Red Flag: 00:12:35],6,2
+5307,223,229,Accident,"#15, 42, 6, 1 Incident Backstretch",48,2
+5307,237,242,Accident,#11 Incident Turn 1,99,2
 5310,9,11,Unknown,Potential Fluid On Frontstretch,None,2
 5310,21,25,Accident,"#1, 07, 11 Incident Frontstretch",None,2
 5310,32,36,Competition,Stage 1 Conclusion,None,2
