@@ -482,6 +482,21 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5340,98,103,Accident,"#25, 16, 2 Incident Backstretch",43,2
 5340,165,170,Debris,Debris on Pit Road,11,2
 5340,172,177,Accident,#8 Incident Turn 4,48,2
+5341,6,10,Spin,#38 Spin Turn 2,None,2
+5341,43,49,Accident,#29 Incident Turn 2,35,2
+5341,62,68,Competition,Stage 1 Conclusion,27,2
+5341,74,79,Accident,"#00, 11 Incident Turn 2",43,2
+5341,89,94,Spin,#39 Spin Turn 2,53,2
+5341,122,129,Competition,Stage 2 Conclusion,53,2
+5341,154,160,Accident,"#1, 11 Incident Turn 2",35,2
+5341,163,169,Accident,"#53, 28 Incident Turn 2",None,2
+5341,177,182,Unknown,#48 Slowed on frontstretch,28,2
+5341,187,196,Accident,"#51, 26, 24, 27, 00, 41 Incident Turn 2",35,2
+5341,201,206,Spin,#53 Spin Turn 4,48,2
+5341,209,214,Accident,"#4, 43 Incident Frontstretch",48,2
+5341,221,225,Accident,"#26, 19 Incident Turn 2",48,2
+5341,238,242,Spin,#78 Spin Turn 4,35,2
+5341,245,254,Accident,"#26, 45, 11, 1, 19, 51, 92, 28, 44, 08, 9, 91 Incident Backstretch [Red Flag – 28:19]",38,2
 5343,3,6,Weather,Weather,None,2
 5343,8,10,Weather,Weather,None,2
 5343,22,25,Competition,Stage 1 Conclusion,None,2
