@@ -66,7 +66,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,C,2023_Victorias_Voice_Foundation_200,2023_02,29,24,24,usa,Rajah_Caruth,Rajah Caruth,Wendell Scott Foundation,Maury_Gallagher,Chevrolet,122,running,0,18,0
 2023,C,2023_Victorias_Voice_Foundation_200,2023_02,30,2,2,usa,Nick_Sanchez,Nick Sanchez,Gainbridge,Max_Siegel,Chevrolet,103,crash,8,7,0
 2023,C,2023_Victorias_Voice_Foundation_200,2023_02,31,13,17,usa,John_H._Nemechek,John H. Nemechek,Berry's Manufacturing,David_Gilliland,Toyota,98,vibration,0,0,0
-2023,C,2023_Victorias_Voice_Foundation_200,2023_02,32,5,13,usa,Hailie_Deegan,Hailie Deegan,Duke Thorson,Duke_Thorson,Ford,59,crash,0,5,0
+2023,C,2023_Victorias_Voice_Foundation_200,2023_02,32,5,13,usa,Hailie_Deegan,Hailie Deegan,Pennzoil,Duke_Thorson,Ford,59,crash,0,5,0
 2023,C,2023_Victorias_Voice_Foundation_200,2023_02,33,34,46,usa,Brennan_Poole,Brennan Poole,South Point,G2G_Racing,Toyota,20,rear gear,0,0,0
 2023,C,2023_Victorias_Voice_Foundation_200,2023_02,34,6,32,usa,Bret_Holmes,Bret Holmes,Pate Holdings,Stacy_Holmes,Chevrolet,16,crash,0,3,0
 2023,C,2023_Victorias_Voice_Foundation_200,2023_02,35,33,34,usa,Josh_Reaume,Josh Reaume,Reaume Brothers Racing,Josh_Reaume,Ford,4,transmission,0,2,0
@@ -785,3 +785,39 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,C,2023_Baptist_Health_200,2023_22,32,28,04,usa,Spencer_Davis,Spencer Davis,Fly Alliance/CarQuest,Roper_Racing,Ford,65,electrical,0,5,0
 2023,C,2023_Baptist_Health_200,2023_22,33,30,12,usa,Spencer_Boyd,Spencer Boyd,Crowe Equipment,Randy_Young,Chevrolet,50,electrical,0,4,0
 2023,C,2023_Baptist_Health_200,2023_22,34,7,38,usa,Zane_Smith,Zane Smith,Ambetter Health,Bob_Jenkins,Ford,134,running,34,3,0
+2023,C,2023_CRAFTSMAN_150,2023_23,1,8,19,usa,Christian_Eckes,Christian Eckes,NAPA AUTOCARE,Bill_McAnally,Chevrolet,179,running,36,51,5
+2023,C,2023_CRAFTSMAN_150,2023_23,2,14,35,usa,Jake_Garcia,Jake Garcia,Quanta Services,Bill_McAnally,Chevrolet,179,running,0,37,0
+2023,C,2023_CRAFTSMAN_150,2023_23,3,5,4,usa,Chase_Purdy,Chase Purdy,Bama Buggies,Kyle_Busch,Chevrolet,179,running,8,43,0
+2023,C,2023_CRAFTSMAN_150,2023_23,4,10,1,usa,Jesse_Love,Jesse Love,HomeSmiles,David_Gilliland,Toyota,179,running,0,33,0
+2023,C,2023_CRAFTSMAN_150,2023_23,5,6,99,usa,Ben_Rhodes,Ben Rhodes,Kubota,Duke_Thorson,Ford,179,running,0,32,0
+2023,C,2023_CRAFTSMAN_150,2023_23,6,17,23,usa,Grant_Enfinger,Grant Enfinger,Champion Power Equipment,Maury_Gallagher,Chevrolet,179,running,0,31,0
+2023,C,2023_CRAFTSMAN_150,2023_23,7,15,5,usa,Dean_Thompson,Dean Thompson,Thompson Pipe Group,David_Gilliland,Toyota,179,running,0,30,0
+2023,C,2023_CRAFTSMAN_150,2023_23,8,27,02,usa,Kaden_Honeycutt,Kaden Honeycutt,Randco Industries,Randy_Young,Chevrolet,179,running,0,29,0
+2023,C,2023_CRAFTSMAN_150,2023_23,9,25,15,usa,Tanner_Gray,Tanner Gray,Cometic/Factory Canopies,David_Gilliland,Toyota,179,running,0,28,0
+2023,C,2023_CRAFTSMAN_150,2023_23,10,3,2,usa,Nick_Sanchez,Nick Sanchez,Gainbridge,Max_Siegel,Chevrolet,179,running,5,33,0
+2023,C,2023_CRAFTSMAN_150,2023_23,11,28,88,usa,Matt_Crafton,Matt Crafton,Ideal Door/Menards,Duke_Thorson,Ford,179,running,0,26,0
+2023,C,2023_CRAFTSMAN_150,2023_23,12,9,24,usa,Rajah_Caruth,Rajah Caruth,Wendell Scott Foundation,Maury_Gallagher,Chevrolet,179,running,0,25,0
+2023,C,2023_CRAFTSMAN_150,2023_23,13,31,45,usa,Lawless_Alan,Lawless Alan,AUTOParkIt,Al_Niece,Chevrolet,179,running,0,24,0
+2023,C,2023_CRAFTSMAN_150,2023_23,14,2,98,usa,Ty_Majeski,Ty Majeski,Curb Records/ Farm Paint,Mike_Curb,Ford,179,running,48,41,1
+2023,C,2023_CRAFTSMAN_150,2023_23,15,23,13,usa,Hailie_Deegan,Hailie Deegan,PIT BOSS,Duke_Thorson,Ford,179,running,0,22,0
+2023,C,2023_CRAFTSMAN_150,2023_23,16,32,22,usa,Christian_Rose,Christian Rose,Disability Opportunity Fund,Kevin_Cywinski,Ford,179,running,0,21,0
+2023,C,2023_CRAFTSMAN_150,2023_23,17,34,04,usa,Spencer_Davis,Spencer Davis,Fly Alliance/CarQuest,Roper_Racing,Ford,179,running,0,20,0
+2023,C,2023_CRAFTSMAN_150,2023_23,18,1,11,usa,Corey_Heim,Corey Heim,Safelite,David_Gilliland,Toyota,179,running,47,19,1
+2023,C,2023_CRAFTSMAN_150,2023_23,19,35,20,usa,Nick_Leitz,Nick Leitz,Precision Measurements,Randy_Young,Chevrolet,179,running,0,18,0
+2023,C,2023_CRAFTSMAN_150,2023_23,20,36,56,usa,Tyler_Hill,Tyler Hill,Consolidation Coach/UNITS,Timmy_Hill,Toyota,179,running,0,17,0
+2023,C,2023_CRAFTSMAN_150,2023_23,21,26,9,usa,Colby_Howard,Colby Howard,Grant County Mulch,Codie_Rohrbaugh,Chevrolet,179,running,0,16,0
+2023,C,2023_CRAFTSMAN_150,2023_23,22,19,16,usa,Tyler_Ankrum,Tyler Ankrum,LiUNA!,Shigeaki_Hattori,Toyota,178,running,0,15,0
+2023,C,2023_CRAFTSMAN_150,2023_23,23,12,17,usa,Taylor_Gray,Taylor Gray,Dead On Tools,David_Gilliland,Toyota,177,running,0,21,0
+2023,C,2023_CRAFTSMAN_150,2023_23,24,20,52,canada,Stewart_Friesen,Stewart Friesen,Halmar International,Chris_Larsen,Toyota,175,running,0,13,0
+2023,C,2023_CRAFTSMAN_150,2023_23,25,4,38,usa,Zane_Smith,Zane Smith,Speedco / Delo,Bob_Jenkins,Ford,172,crash,35,29,0
+2023,C,2023_CRAFTSMAN_150,2023_23,26,21,75,usa,Sean_Hingorani,Sean Hingorani,Fidelity Capital,Charlie_Henderson,Chevrolet,167,crash,0,11,0
+2023,C,2023_CRAFTSMAN_150,2023_23,27,7,51,usa,Jack_Wood,Jack Wood,Rubbin' is Racing,Kyle_Busch,Chevrolet,162,crash,0,10,0
+2023,C,2023_CRAFTSMAN_150,2023_23,28,16,77,usa,Derek_Kraus,Derek Kraus,Western States Flooring,,Chevrolet,156,crash,0,9,0
+2023,C,2023_CRAFTSMAN_150,2023_23,29,13,42,usa,Carson_Hocevar,Carson Hocevar,Worldwide Express,Al_Niece,Chevrolet,146,crash,0,8,0
+2023,C,2023_CRAFTSMAN_150,2023_23,30,24,25,usa,Stefan_Parsons,Stefan Parsons,Rackley Roofing/Millennium,Rackley_WAR,Chevrolet,128,crash,0,7,0
+2023,C,2023_CRAFTSMAN_150,2023_23,31,11,41,usa,Bayley_Currey,Bayley Currey,GlobalTranz,Al_Niece,Chevrolet,128,crash,0,6,0
+2023,C,2023_CRAFTSMAN_150,2023_23,32,22,43,usa,Daniel_Dye,Daniel Dye,GMS Racing,Maury_Gallagher,Chevrolet,128,crash,0,5,0
+2023,C,2023_CRAFTSMAN_150,2023_23,33,18,61,usa,Jake_Drew,Jake Drew,Cyclum Truck Stops,Shigeaki_Hattori,Toyota,100,crash,0,4,0
+2023,C,2023_CRAFTSMAN_150,2023_23,34,29,66,usa,Conner_Jones,Conner Jones,Lung Cancer Awareness,Duke_Thorson,Ford,100,crash,0,3,0
+2023,C,2023_CRAFTSMAN_150,2023_23,35,33,7,usa,Marco_Andretti,Marco Andretti,Gainbridge,Spire_Motorsports,Chevrolet,54,crash,0,2,0
+2023,C,2023_CRAFTSMAN_150,2023_23,36,30,30,usa,Chris_Hacker,Chris Hacker,On Point Motorsports,Steven_Lane,Toyota,53,crash,0,1,0
