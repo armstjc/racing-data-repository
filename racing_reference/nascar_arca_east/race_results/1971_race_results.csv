@@ -29,7 +29,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1971,P,1971_Motor_Trend_500,1971_01_P,28,25,15,usa,Paul_Dorrity,Paul Dorrity,Joe Mackie's Star-Winners Inn,,'71 Chevrolet,50,1035,engine,0,102
 1971,P,1971_Motor_Trend_500,1971_01_P,29,23,6,usa,Jerry_Oliver,Jerry Oliver,Concord Olds,,'70 Oldsmobile,47,1025,engine,0,99
 1971,P,1971_Motor_Trend_500,1971_01_P,30,37,79,usa,Frank_Warren,Frank Warren   (Cup),Prince Chrysler Plymouth,,'69 Plymouth,40,1015,transmission,0,0
-1971,P,1971_Motor_Trend_500,1971_01_P,31,38,107,usa,Mike_Pittlekow,Mike Pittlekow,–,,'69 Chevrolet,38,1015,clutch,0,96
+1971,P,1971_Motor_Trend_500,1971_01_P,31,38,107,usa,Mike_Pittlekow,Mike Pittlekow,-,,'69 Chevrolet,38,1015,clutch,0,96
 1971,P,1971_Motor_Trend_500,1971_01_P,32,32,77,usa,Ray_Johnstone,Ray Johnstone,Ray Johnstone,,'69 Plymouth,36,1095,crash,0,0
 1971,P,1971_Motor_Trend_500,1971_01_P,33,18,88,usa,Don_Noel,Don Noel,Cambria Spring Co.,,'70 Ford,27,1090,engine,0,90
 1971,P,1971_Motor_Trend_500,1971_01_P,34,39,33,usa,Glenn_Francis,Glenn Francis,Bill Andersen,,'70 Chevrolet,27,1015,engine,0,87
@@ -102,13 +102,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1971,P,1971_Orange_400,1971_03_P,10,3,02,usa,Dick_Bown,Dick Bown,Mike Ober,,'70 Plymouth,200,175,valve spring,0,41
 1971,P,1971_Orange_400,1971_03_P,11,13,01,usa,Pete_Torres,Pete Torres,Pete Torres,,'69 Ford,180,160,engine,0,40
 1971,P,1971_Orange_400,1971_03_P,12,9,62,usa,Tru_Cheek,Tru Cheek,Jess Gillard / Wayne England,,'70 Chevrolet,143,135,rear end,0,39
-1971,P,1971_Orange_400,1971_03_P,13,14,22,usa,L_T_Jones,L.T. Jones,–,,'69 Plymouth,78,125,left a frame,0,38
-1971,P,1971_Orange_400,1971_03_P,14,5,09,none,Wilbur_Pratt,Wilbur Pratt,–,,'69 Mercury,51,100,overheating,0,37
+1971,P,1971_Orange_400,1971_03_P,13,14,22,usa,L_T_Jones,L.T. Jones,-,,'69 Plymouth,78,125,left a frame,0,38
+1971,P,1971_Orange_400,1971_03_P,14,5,09,none,Wilbur_Pratt,Wilbur Pratt,-,,'69 Mercury,51,100,overheating,0,37
 1971,P,1971_Orange_400,1971_03_P,15,4,77,usa,Ray_Johnstone,Ray Johnstone,Ray Johnstone,,'70 Plymouth,25,100,overheating,0,36
 1971,P,1971_Orange_400,1971_03_P,16,15,20,usa,Jack_Roberts,Jack Roberts,Wynn's Oil Co.,,'69 Chevrolet,20,100,transmission,0,35
 1971,P,1971_Orange_400,1971_03_P,17,17,26,usa,Carl_Joiner,Carl Joiner,Dean Thorne,,'69 Chevrolet,0,100,crash,0,34
 1971,P,1971_Orange_400,1971_03_P,18,18,55,usa,Jerry_Barnett,Jerry Barnett,Joe Barnett,,'70 Chevrolet,0,,did not start,0,0
-1971,P,1971_Orange_400,1971_03_P,19,19,25,usa,Frank_Jones,Frank Jones,–,,'69 Chevrolet,0,,did not start,0,0
+1971,P,1971_Orange_400,1971_03_P,19,19,25,usa,Frank_Jones,Frank Jones,-,,'69 Chevrolet,0,,did not start,0,0
 1971,P,1971-04,1971_04_P,1,3,08,usa,John_Soares_Jr,"John Soares, Jr.","John Soares, Jr.",,'70 Plymouth,150,950,running,87,
 1971,P,1971-04,1971_04_P,2,5,7,usa,Jack_McCoy,Jack McCoy,Ernie Conn,,'71 Dodge,150,500,running,0,
 1971,P,1971-04,1971_04_P,3,1,96,usa,Ray_Elder,Ray Elder,Fred Elder,,'70 Dodge,150,635,running,14,
@@ -136,11 +136,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1971,P,1971_Vegas_150,1971_05_P,3,5,00,usa,Frank_James,Frank James,Jim Calder,,'69 Chevrolet,150,380,running,0,48
 1971,P,1971_Vegas_150,1971_05_P,4,10,95,usa,Bob_Kauf,Bob Kauf,Paul Stockwell,,'70 Chevrolet,149,245,running,0,47
 1971,P,1971_Vegas_150,1971_05_P,5,6,99,usa,Pat_Fay,Pat Fay,Martin Fay,,'71 Ford,147,200,running,0,46
-1971,P,1971_Vegas_150,1971_05_P,6,13,83,usa,John_Lyons,John Lyons,–,,'70 Chevrolet,145,165,running,0,45
+1971,P,1971_Vegas_150,1971_05_P,6,13,83,usa,John_Lyons,John Lyons,-,,'70 Chevrolet,145,165,running,0,45
 1971,P,1971_Vegas_150,1971_05_P,7,14,8,usa,Bob_England,Bob England,Bob England,,'70 Chevrolet,143,140,running,0,44
 1971,P,1971_Vegas_150,1971_05_P,8,9,21,usa,Roger_Parr,Roger Parr,Roger Parr,,'70 Plymouth,141,110,running,0,43
 1971,P,1971_Vegas_150,1971_05_P,9,15,64,usa,J_C_Danielsen,J.C. Danielsen,Danielson Distributors,,'69 Ford,135,115,running,0,42
-1971,P,1971_Vegas_150,1971_05_P,10,18,22,usa,L_T_Jones,L.T. Jones,–,,'70 Plymouth,132,105,running,0,41
+1971,P,1971_Vegas_150,1971_05_P,10,18,22,usa,L_T_Jones,L.T. Jones,-,,'70 Plymouth,132,105,running,0,41
 1971,P,1971_Vegas_150,1971_05_P,11,8,62,usa,Tru_Cheek,Tru Cheek,Jess Gillard / Wayne England,,'70 Chevrolet,131,105,running,0,40
 1971,P,1971_Vegas_150,1971_05_P,12,2,02,usa,Dick_Bown,Dick Bown,Mike Ober,,'70 Plymouth,123,110,running,19,39
 1971,P,1971_Vegas_150,1971_05_P,13,7,33,usa,Glenn_Francis,Glenn Francis,Bill Andersen,,'70 Chevrolet,118,100,running,0,38
@@ -160,11 +160,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1971,P,1971_Stockton_150,1971_06_P,8,10,2,usa,Johnny_Steele,Johnny Steele,Johnny Steele,,'69 Ford,144,125,running,0,43
 1971,P,1971_Stockton_150,1971_06_P,9,2,38,usa,Jimmy_Insolo,Jimmy Insolo,Marvin Rowley,,'69 Chevrolet,142,120,running,9,42
 1971,P,1971_Stockton_150,1971_06_P,10,16,8,usa,Bob_England,Bob England,Bob England,,'70 Chevrolet,140,105,running,0,41
-1971,P,1971_Stockton_150,1971_06_P,11,13,83,usa,John_Lyons,John Lyons,–,,'69 Chevrolet,140,110,running,0,40
+1971,P,1971_Stockton_150,1971_06_P,11,13,83,usa,John_Lyons,John Lyons,-,,'69 Chevrolet,140,110,running,0,40
 1971,P,1971_Stockton_150,1971_06_P,12,19,95,usa,Bob_Kauf,Bob Kauf,Paul Stockwell,,'69 Chevrolet,139,100,running,0,39
 1971,P,1971_Stockton_150,1971_06_P,13,1,08,usa,John_Soares_Jr,"John Soares, Jr.","John Soares, Jr.",,'70 Plymouth,134,110,running,32,38
 1971,P,1971_Stockton_150,1971_06_P,14,12,33,usa,Glenn_Francis,Glenn Francis,Bill Andersen,,'69 Chevrolet,125,110,running,0,37
-1971,P,1971_Stockton_150,1971_06_P,15,17,22,usa,L_T_Jones,L.T. Jones,–,,'70 Plymouth,115,105,running,0,36
+1971,P,1971_Stockton_150,1971_06_P,15,17,22,usa,L_T_Jones,L.T. Jones,-,,'70 Plymouth,115,105,running,0,36
 1971,P,1971_Stockton_150,1971_06_P,16,20,78,usa,Joe_Roletto,Joe Roletto,Champion Speed Shop,,'70 Chevrolet,114,100,running,0,35
 1971,P,1971_Stockton_150,1971_06_P,17,18,64,usa,J_C_Danielsen,J.C. Danielsen,Danielson Distributors,,'69 Ford,93,90,running,0,34
 1971,P,1971_Stockton_150,1971_06_P,18,5,15,usa,Paul_Dorrity,Paul Dorrity,Glen Dorrity,,'70 Chevrolet,84,70,drive shaft,0,33
@@ -179,12 +179,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1971,P,1971_Ascot_200,1971_07_P,7,2,00,usa,Frank_James,Frank James,Jim Calder,,'69 Chevrolet,186,235,running,0,44
 1971,P,1971_Ascot_200,1971_07_P,8,12,8,usa,Bob_England,Bob England,Bob England,,'70 Chevrolet,184,200,running,0,43
 1971,P,1971_Ascot_200,1971_07_P,9,18,40,usa,Les_Loeser_Jr,"Les Loeser, Jr.","Les Loeser, Sr.",,'69 Ford,165,200,out of gas,0,42
-1971,P,1971_Ascot_200,1971_07_P,10,14,22,usa,L_T_Jones,L.T. Jones,–,,'69 Plymouth,143,175,running,0,41
+1971,P,1971_Ascot_200,1971_07_P,10,14,22,usa,L_T_Jones,L.T. Jones,-,,'69 Plymouth,143,175,running,0,41
 1971,P,1971_Ascot_200,1971_07_P,11,15,4,usa,Dick_Kranzler,Dick Kranzler,Dick Kranzler,,'71 Chevrolet,117,160,handling,0,40
 1971,P,1971_Ascot_200,1971_07_P,12,13,107,usa,Markey_James,Markey James,Jim Calder,,'69 Chevrolet,103,135,crash,0,39
 1971,P,1971_Ascot_200,1971_07_P,13,11,62,usa,Tru_Cheek,Tru Cheek,Jess Gillard / Wayne England,,'69 Chevrolet,93,125,water pump,0,38
 1971,P,1971_Ascot_200,1971_07_P,14,10,95,usa,Bob_Kauf,Bob Kauf,Wrought Iron Co.,,'70 Chevrolet,75,100,sway bar,0,37
-1971,P,1971_Ascot_200,1971_07_P,15,4,83,usa,John_Lyons,John Lyons,–,,'69 Chevrolet,70,115,engine,0,36
+1971,P,1971_Ascot_200,1971_07_P,15,4,83,usa,John_Lyons,John Lyons,-,,'69 Chevrolet,70,115,engine,0,36
 1971,P,1971_Ascot_200,1971_07_P,16,9,01,usa,Pete_Torres,Pete Torres,Pete Torres,,'69 Ford,57,100,overheating,0,35
 1971,P,1971_Ascot_200,1971_07_P,17,5,55,usa,Jerry_Barnett,Jerry Barnett,Joe Barnett,,'70 Chevrolet,35,110,engine,0,34
 1971,P,1971_Ascot_200,1971_07_P,18,19,45,usa,Bob_Clough,Bob Clough,Bob Clough,,'69 Ford,25,100,head gasket,0,33
@@ -218,7 +218,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1971,P,1971_Winston_Golden_State_400,1971_08_P,25,26,82,usa,Ron_Gautsche,Ron Gautsche,Ron Gautsche,,'69 Ford,48,735,overheating,0,78
 1971,P,1971_Winston_Golden_State_400,1971_08_P,26,35,9,usa,Bill_Osborne_(2),Bill Osborne,Paul Burchard,,'71 Ford,37,720,valve,0,75
 1971,P,1971_Winston_Golden_State_400,1971_08_P,27,10,64,usa,Elmo_Langley,Elmo Langley   (Cup),Elmo Langley,,'69 Mercury,35,710,head gasket,0,0
-1971,P,1971_Winston_Golden_State_400,1971_08_P,28,28,83,usa,John_Lyons,John Lyons,–,,'69 Chevrolet,35,700,crash,0,69
+1971,P,1971_Winston_Golden_State_400,1971_08_P,28,28,83,usa,John_Lyons,John Lyons,-,,'69 Chevrolet,35,700,crash,0,69
 1971,P,1971_Winston_Golden_State_400,1971_08_P,29,17,91,usa,Johnny_Anderson,Johnny Anderson,Don Nuzum,,'69 Chevrolet,34,690,engine,0,66
 1971,P,1971_Winston_Golden_State_400,1971_08_P,30,33,55,usa,Jerry_Barnett,Jerry Barnett,Joe Barnett,,'70 Chevrolet,32,680,engine,0,63
 1971,P,1971_Winston_Golden_State_400,1971_08_P,31,23,26,usa,Carl_Joiner,Carl Joiner,Dean Thorne,,'69 Chevrolet,31,685,water pump,0,60
@@ -247,9 +247,9 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1971,P,1971_Salem_Mighty_Mite_100,1971_09_P,14,15,8,usa,Bob_England,Bob England,Bob England,,'70 Chevrolet,93,100,running,0,37
 1971,P,1971_Salem_Mighty_Mite_100,1971_09_P,15,9,41,usa,Ernie_Stierly,Ernie Stierly,Ernie Stierly,,'69 Chevrolet,89,105,running,0,36
 1971,P,1971_Salem_Mighty_Mite_100,1971_09_P,16,11,55,usa,Jerry_Barnett,Jerry Barnett,Joe Barnett,,'70 Chevrolet,64,105,ignition,0,35
-1971,P,1971_Salem_Mighty_Mite_100,1971_09_P,17,16,28,usa,Vic_Irvan,Vic Irvan,–,,'69 Ford,37,95,rear end,0,34
+1971,P,1971_Salem_Mighty_Mite_100,1971_09_P,17,16,28,usa,Vic_Irvan,Vic Irvan,-,,'69 Ford,37,95,rear end,0,34
 1971,P,1971_Salem_Mighty_Mite_100,1971_09_P,18,14,6,usa,Ed_Brown,Ed Brown,Cos Cancilla,,'70 Oldsmobile,30,65,ball bearing,0,33
-1971,P,1971_Salem_Mighty_Mite_100,1971_09_P,19,18,56,usa,Dick_Westman,Dick Westman,–,,'69 AMC,2,60,technical,0,32
+1971,P,1971_Salem_Mighty_Mite_100,1971_09_P,19,18,56,usa,Dick_Westman,Dick Westman,-,,'69 AMC,2,60,technical,0,32
 1971,P,1971_Spanaway_150,1971_10_P,1,1,7,usa,Jack_McCoy,Jack McCoy,Ernie Conn,,'71 Dodge,150,1130,running,83,50
 1971,P,1971_Spanaway_150,1971_10_P,2,5,38,usa,Jimmy_Insolo,Jimmy Insolo,Marvin Rowley,,'69 Chevrolet,150,680,running,40,49
 1971,P,1971_Spanaway_150,1971_10_P,3,10,08,usa,John_Soares_Jr,"John Soares, Jr.","John Soares, Jr.",,'71 Plymouth,150,400,running,0,48
@@ -261,7 +261,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1971,P,1971_Spanaway_150,1971_10_P,9,13,0,usa,Chuck_Bown,Chuck Bown,Dick Bown,,'70 Plymouth,144,110,running,0,42
 1971,P,1971_Spanaway_150,1971_10_P,10,16,1,usa,Scotty_Cain,Scotty Cain,Bob Clough,,'69 Ford,137,105,running,0,41
 1971,P,1971_Spanaway_150,1971_10_P,11,21,2,usa,Johnny_Steele,Johnny Steele,Johnny Steele,,'69 Ford,136,105,engine,0,40
-1971,P,1971_Spanaway_150,1971_10_P,12,12,28,usa,Doug_McGriff,Doug McGriff,–,,'69 Ford,115,105,crash,0,39
+1971,P,1971_Spanaway_150,1971_10_P,12,12,28,usa,Doug_McGriff,Doug McGriff,-,,'69 Ford,115,105,crash,0,39
 1971,P,1971_Spanaway_150,1971_10_P,13,17,95,usa,Bob_Kauf,Bob Kauf,Paul Stockwell,,'71 Chevrolet,114,100,crash,0,38
 1971,P,1971_Spanaway_150,1971_10_P,14,11,00,usa,Frank_James,Frank James,Jim Calder,,'69 Chevrolet,105,105,running,0,37
 1971,P,1971_Spanaway_150,1971_10_P,15,8,55,usa,Jerry_Barnett,Jerry Barnett,Joe Barnett,,'71 Chevrolet,98,105,crash,0,36
@@ -276,7 +276,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1971,P,1971_Apple_State_150,1971_11_P,2,1,96,usa,Ray_Elder,Ray Elder,Fred Elder,,'70 Dodge,150,785,running,42,49
 1971,P,1971_Apple_State_150,1971_11_P,3,5,02,usa,Dick_Bown,Dick Bown,Mike Ober,,'71 Plymouth,150,395,running,0,48
 1971,P,1971_Apple_State_150,1971_11_P,4,6,38,usa,Jimmy_Insolo,Jimmy Insolo,Marvin Rowley,,'69 Chevrolet,148,225,running,0,47
-1971,P,1971_Apple_State_150,1971_11_P,5,11,41,usa,Fred_Hay,Fred Hay,–,,'69 Chevrolet,140,215,head gasket,0,46
+1971,P,1971_Apple_State_150,1971_11_P,5,11,41,usa,Fred_Hay,Fred Hay,-,,'69 Chevrolet,140,215,head gasket,0,46
 1971,P,1971_Apple_State_150,1971_11_P,6,10,1,usa,Scotty_Cain,Scotty Cain,Bob Clough,,'69 Ford,139,170,running,0,45
 1971,P,1971_Apple_State_150,1971_11_P,7,4,7,usa,Jack_McCoy,Jack McCoy,Ernie Conn,,'71 Dodge,131,160,running,0,44
 1971,P,1971_Apple_State_150,1971_11_P,8,2,00,usa,Frank_James,Frank James,Jim Calder,,'69 Chevrolet,128,125,running,0,43
@@ -286,11 +286,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1971,P,1971_Apple_State_150,1971_11_P,12,15,8,usa,Bob_England,Bob England,Bob England,,'70 Chevrolet,101,115,running,0,39
 1971,P,1971_Apple_State_150,1971_11_P,13,18,01,usa,Pete_Torres,Pete Torres,Pete Torres,,'69 Ford,82,100,running,0,38
 1971,P,1971_Apple_State_150,1971_11_P,14,9,88,usa,Don_Noel,Don Noel,Don Noel,,'71 Ford,81,110,engine,0,37
-1971,P,1971_Apple_State_150,1971_11_P,15,19,2,usa,Dwayne_Belt,Dwayne Belt,–,,'69 Ford,54,100,overheating,0,36
+1971,P,1971_Apple_State_150,1971_11_P,15,19,2,usa,Dwayne_Belt,Dwayne Belt,-,,'69 Ford,54,100,overheating,0,36
 1971,P,1971_Apple_State_150,1971_11_P,16,14,55,usa,Jerry_Barnett,Jerry Barnett,Joe Barnett,,'71 Chevrolet,54,100,ball joint,0,35
 1971,P,1971_Apple_State_150,1971_11_P,17,17,82,usa,Ron_Gautsche,Ron Gautsche,Ron Gautsche,,'69 Ford,44,100,engine,0,34
 1971,P,1971_Apple_State_150,1971_11_P,18,8,95,usa,Bob_Kauf,Bob Kauf,Paul Stockwell,,'70 Chevrolet,40,105,ignition,0,33
-1971,P,1971_Apple_State_150,1971_11_P,19,21,28,usa,Ron_Cooper,Ron Cooper,–,,'69 Ford,15,100,overheating,0,32
+1971,P,1971_Apple_State_150,1971_11_P,19,21,28,usa,Ron_Cooper,Ron Cooper,-,,'69 Ford,15,100,overheating,0,32
 1971,P,1971_Apple_State_150,1971_11_P,20,7,0,usa,Chuck_Bown,Chuck Bown,Dick Bown,,'70 Plymouth,12,55,engine,0,31
 1971,P,1971_Apple_State_150,1971_11_P,21,20,45,usa,Bill_Lee,Bill Lee,Bob Clough,,'69 Ford,1,50,engine,0,30
 1971,P,1971_Umatilla_100,1971_12_P,1,3,96,usa,Ray_Elder,Ray Elder,Fred Elder,,'70 Dodge,100,1030,running,8,50
@@ -306,7 +306,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1971,P,1971_Umatilla_100,1971_12_P,11,14,8,usa,Bob_England,Bob England,Bob England,,'70 Plymouth,92,110,running,0,40
 1971,P,1971_Umatilla_100,1971_12_P,12,13,41,usa,Ernie_Stierly,Ernie Stierly,Ernie Stierly,,'69 Chevrolet,79,105,head gasket,0,39
 1971,P,1971_Umatilla_100,1971_12_P,13,7,85,usa,Don_Noel,Don Noel,Don Noel,,'71 Ford,56,115,fan belt,0,38
-1971,P,1971_Umatilla_100,1971_12_P,14,12,28,usa,Ron_Cooper,Ron Cooper,–,,'69 Ford,50,100,overheating,0,37
+1971,P,1971_Umatilla_100,1971_12_P,14,12,28,usa,Ron_Cooper,Ron Cooper,-,,'69 Ford,50,100,overheating,0,37
 1971,P,1971_Umatilla_100,1971_12_P,15,8,4,usa,Dick_Kranzler,Dick Kranzler,Dick Kranzler,,'71 Chevrolet,20,110,overheating,0,36
 1971,P,1971_Umatilla_100,1971_12_P,16,15,95,usa,Bob_Kauf,Bob Kauf,Paul Stockwell,,'70 Chevrolet,10,100,engine,0,35
 1971,P,1971_Umatilla_100,1971_12_P,17,16,82,usa,Ron_Gautsche,Ron Gautsche,Ron Gautsche,,'69 Ford,3,100,engine,0,34
@@ -325,11 +325,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1971,P,1971_Rose_City_100,1971_13_P,11,8,26,usa,Carl_Joiner,Carl Joiner,Dean Thorne,,'69 Chevrolet,88,115,running,0,40
 1971,P,1971_Rose_City_100,1971_13_P,12,22,95,usa,Bob_Kauf,Bob Kauf,Paul Stockwell,,'70 Chevrolet,84,100,running,0,39
 1971,P,1971_Rose_City_100,1971_13_P,13,6,41,usa,Ernie_Stierly,Ernie Stierly,Ernie Stierly,,'69 Chevrolet,83,115,running,0,38
-1971,P,1971_Rose_City_100,1971_13_P,14,18,56,usa,Dick_Westman,Dick Westman,–,,'70 AMC,73,100,running,0,37
+1971,P,1971_Rose_City_100,1971_13_P,14,18,56,usa,Dick_Westman,Dick Westman,-,,'70 AMC,73,100,running,0,37
 1971,P,1971_Rose_City_100,1971_13_P,15,19,8,usa,Bob_England,Bob England,Bob England,,'70 Chevrolet,66,100,running,0,36
 1971,P,1971_Rose_City_100,1971_13_P,16,4,38,usa,Jimmy_Insolo,Jimmy Insolo,Marvin Rowley,,'69 Chevrolet,62,105,overheating,0,35
 1971,P,1971_Rose_City_100,1971_13_P,17,13,00,usa,Frank_James,Frank James,Jim Calder,,'69 Chevrolet,41,100,sway bar,0,34
-1971,P,1971_Rose_City_100,1971_13_P,18,20,28,usa,Ron_Cooper,Ron Cooper,–,,'69 Ford,27,100,overheating,0,33
+1971,P,1971_Rose_City_100,1971_13_P,18,20,28,usa,Ron_Cooper,Ron Cooper,-,,'69 Ford,27,100,overheating,0,33
 1971,P,1971_Rose_City_100,1971_13_P,19,7,02,usa,Dick_Bown,Dick Bown,Mike Ober,,'71 Plymouth,17,115,oil pressure,0,32
 1971,P,1971_Rose_City_100,1971_13_P,20,21,2,usa,Johnny_Steele,Johnny Steele,Johnny Steele,,'69 Ford,6,100,overheating,0,31
 1971,P,1971_Rose_City_100,1971_13_P,21,11,82,usa,Ron_Gautsche,Ron Gautsche,Ron Gautsche,,'69 Ford,6,50,overheating,0,30
@@ -341,7 +341,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1971,P,1971_Royal_Canadian_150,1971_14_P,5,6,08,usa,John_Soares_Jr,"John Soares, Jr.","John Soares, Jr.",,'71 Dodge,147,200,running,0,46
 1971,P,1971_Royal_Canadian_150,1971_14_P,6,7,00,usa,Frank_James,Frank James,Jim Calder,,'69 Chevrolet,144,160,running,0,45
 1971,P,1971_Royal_Canadian_150,1971_14_P,7,9,0,usa,Chuck_Bown,Chuck Bown,Dick Bown,,'70 Plymouth,141,150,out of gas,0,44
-1971,P,1971_Royal_Canadian_150,1971_14_P,8,11,28,usa,Ron_Cooper,Ron Cooper,–,,'69 Ford,138,115,running,0,43
+1971,P,1971_Royal_Canadian_150,1971_14_P,8,11,28,usa,Ron_Cooper,Ron Cooper,-,,'69 Ford,138,115,running,0,43
 1971,P,1971_Royal_Canadian_150,1971_14_P,9,13,55,usa,Jerry_Barnett,Jerry Barnett,Joe Barnett,,'71 Chevrolet,135,110,running,0,42
 1971,P,1971_Royal_Canadian_150,1971_14_P,10,8,95,usa,Bob_Kauf,Bob Kauf,Paul Stockwell,,'70 Chevrolet,130,100,running,0,41
 1971,P,1971_Royal_Canadian_150,1971_14_P,11,3,88,usa,Don_Noel,Don Noel,Don Noel,,'71 Ford,120,115,engine,0,40
@@ -358,13 +358,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1971,P,1971_Medford_100,1971_15_P,8,15,38,usa,Jimmy_Insolo,Jimmy Insolo,Marvin Rowley,,'69 Chevrolet,99,120,running,0,43
 1971,P,1971_Medford_100,1971_15_P,9,20,8,usa,Bob_England,Bob England,Bob England,,'70 Chevrolet,96,105,running,0,42
 1971,P,1971_Medford_100,1971_15_P,10,19,7,usa,Jack_McCoy,Jack McCoy,Ernie Conn,,'71 Dodge,96,100,running,0,41
-1971,P,1971_Medford_100,1971_15_P,11,11,11,usa,Bill_ONeil,Bill O'Neil,–,,'70 Chevrolet,95,105,running,0,40
+1971,P,1971_Medford_100,1971_15_P,11,11,11,usa,Bill_ONeil,Bill O'Neil,-,,'70 Chevrolet,95,105,running,0,40
 1971,P,1971_Medford_100,1971_15_P,12,8,41,usa,Ernie_Stierly,Ernie Stierly,Ernie Stierly,,'69 Chevrolet,94,110,running,0,39
-1971,P,1971_Medford_100,1971_15_P,13,16,1,usa,Larry_Bell,Larry Bell,–,,'69 Ford,89,100,running,0,38
+1971,P,1971_Medford_100,1971_15_P,13,16,1,usa,Larry_Bell,Larry Bell,-,,'69 Ford,89,100,running,0,38
 1971,P,1971_Medford_100,1971_15_P,14,6,55,usa,Jerry_Barnett,Jerry Barnett,Joe Barnett,,'70 Chevrolet,54,115,crash,0,37
 1971,P,1971_Medford_100,1971_15_P,15,12,95,usa,Bob_Kauf,Bob Kauf,Paul Stockwell,,'69 Chevrolet,44,100,overheating,0,36
-1971,P,1971_Medford_100,1971_15_P,16,7,56,usa,Dick_Westman,Dick Westman,–,,'70 AMC,27,100,rear axle,0,35
-1971,P,1971_Medford_100,1971_15_P,17,18,28,usa,Vic_Irvan,Vic Irvan,–,,'69 Ford,25,95,overheating,0,34
+1971,P,1971_Medford_100,1971_15_P,16,7,56,usa,Dick_Westman,Dick Westman,-,,'70 AMC,27,100,rear axle,0,35
+1971,P,1971_Medford_100,1971_15_P,17,18,28,usa,Vic_Irvan,Vic Irvan,-,,'69 Ford,25,95,overheating,0,34
 1971,P,1971_Medford_100,1971_15_P,18,10,4,usa,Dick_Kranzler,Dick Kranzler,Dick Kranzler,,'71 Chevrolet,2,65,crash,0,33
 1971,P,1971_Medford_100,1971_15_P,19,17,0,usa,Chuck_Bown,Chuck Bown,Dick Bown,,'70 Plymouth,2,60,crash,0,32
 1971,P,1971_Medford_100,1971_15_P,20,13,01,usa,Pete_Torres,Pete Torres,Pete Torres,,'69 Ford,2,50,crash,0,31
@@ -374,7 +374,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1971,P,1971_Roseburg_Northwest_100,1971_16_P,4,5,0,usa,Chuck_Bown,Chuck Bown,Dick Bown,,'70 Plymouth,99,260,running,0,47
 1971,P,1971_Roseburg_Northwest_100,1971_16_P,5,4,00,usa,Frank_James,Frank James,Jim Calder,,'69 Chevrolet,97,205,running,0,46
 1971,P,1971_Roseburg_Northwest_100,1971_16_P,6,9,55,usa,Jerry_Barnett,Jerry Barnett,Joe Barnett,,'71 Chevrolet,97,175,running,0,45
-1971,P,1971_Roseburg_Northwest_100,1971_16_P,7,11,1,usa,Larry_Bell,Larry Bell,–,,'69 Ford,94,155,running,0,44
+1971,P,1971_Roseburg_Northwest_100,1971_16_P,7,11,1,usa,Larry_Bell,Larry Bell,-,,'69 Ford,94,155,running,0,44
 1971,P,1971_Roseburg_Northwest_100,1971_16_P,8,15,6,usa,Ed_Brown,Ed Brown,Cos Cancilla,,'70 Oldsmobile,94,130,running,0,43
 1971,P,1971_Roseburg_Northwest_100,1971_16_P,9,8,08,usa,John_Soares_Jr,"John Soares, Jr.","John Soares, Jr.",,'71 Plymouth,94,120,running,0,42
 1971,P,1971_Roseburg_Northwest_100,1971_16_P,10,6,38,usa,Jimmy_Insolo,Jimmy Insolo,Marvin Rowley,,'69 Chevrolet,90,120,running,0,41
@@ -383,11 +383,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1971,P,1971_Roseburg_Northwest_100,1971_16_P,13,7,41,usa,Ernie_Stierly,Ernie Stierly,Ernie Stierly,,'69 Chevrolet,35,115,overheating,0,38
 1971,P,1971_Roseburg_Northwest_100,1971_16_P,14,14,95,usa,Bob_Kauf,Bob Kauf,Paul Stockwell,,'69 Chevrolet,25,100,overheating,0,37
 1971,P,1971_Roseburg_Northwest_100,1971_16_P,15,10,88,usa,Don_Noel,Don Noel,Don Noel,,'71 Ford,18,105,radiator,0,36
-1971,P,1971_Roseburg_Northwest_100,1971_16_P,16,16,56,usa,Dick_Westman,Dick Westman,–,,'70 AMC,12,100,oil pressure,0,35
-1971,P,1971_Roseburg_Northwest_100,1971_16_P,17,12,28,usa,Vic_Irvan,Vic Irvan,–,,'69 Ford,3,105,rear end,0,34
+1971,P,1971_Roseburg_Northwest_100,1971_16_P,16,16,56,usa,Dick_Westman,Dick Westman,-,,'70 AMC,12,100,oil pressure,0,35
+1971,P,1971_Roseburg_Northwest_100,1971_16_P,17,12,28,usa,Vic_Irvan,Vic Irvan,-,,'69 Ford,3,105,rear end,0,34
 1971,P,1971_Roseburg_Northwest_100,1971_16_P,18,19,4,usa,Dick_Kranzler,Dick Kranzler,Dick Kranzler,,'71 Chevrolet,3,100,oil pressure,0,33
 1971,P,1971_Roseburg_Northwest_100,1971_16_P,19,18,7,usa,Jack_McCoy,Jack McCoy,Ernie Conn,,'71 Dodge,1,100,piston,0,32
-1971,P,1971_Roseburg_Northwest_100,1971_16_P,20,20,2,usa,Dwayne_Belt,Dwayne Belt,–,,'69 Ford,0,100,did not start,0,31
+1971,P,1971_Roseburg_Northwest_100,1971_16_P,20,20,2,usa,Dwayne_Belt,Dwayne Belt,-,,'69 Ford,0,100,did not start,0,31
 1971,P,1971_Las_Vegas_Lucky_21_150,1971_17_P,1,2,96,usa,Ray_Elder,Ray Elder,Fred Elder,,'70 Dodge,150,985,running,105,50
 1971,P,1971_Las_Vegas_Lucky_21_150,1971_17_P,2,1,7,usa,Jack_McCoy,Jack McCoy,Ernie Conn,,'71 Dodge,149,735,running,20,49
 1971,P,1971_Las_Vegas_Lucky_21_150,1971_17_P,3,4,38,usa,Jimmy_Insolo,Jimmy Insolo,Marvin Rowley,,'69 Chevrolet,145,410,running,0,48
@@ -395,7 +395,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1971,P,1971_Las_Vegas_Lucky_21_150,1971_17_P,5,10,107,usa,Markey_James,Markey James,Jim Calder,,'70 Chevrolet,144,205,running,0,46
 1971,P,1971_Las_Vegas_Lucky_21_150,1971_17_P,6,15,08,usa,John_Soares_Jr,"John Soares, Jr.","John Soares, Jr.",,'70 Plymouth,143,160,running,0,45
 1971,P,1971_Las_Vegas_Lucky_21_150,1971_17_P,7,6,4,usa,Dick_Kranzler,Dick Kranzler,Dick Kranzler,,'71 Chevrolet,133,135,running,0,44
-1971,P,1971_Las_Vegas_Lucky_21_150,1971_17_P,8,14,5,usa,Sam_Fairchild,Sam Fairchild,–,,'70 Dodge,124,125,running,0,43
+1971,P,1971_Las_Vegas_Lucky_21_150,1971_17_P,8,14,5,usa,Sam_Fairchild,Sam Fairchild,-,,'70 Dodge,124,125,running,0,43
 1971,P,1971_Las_Vegas_Lucky_21_150,1971_17_P,9,12,1,usa,Scotty_Cain,Scotty Cain,Bob Clough,,'69 Ford,110,110,running,0,42
 1971,P,1971_Las_Vegas_Lucky_21_150,1971_17_P,10,3,88,usa,Don_Noel,Don Noel,Don Noel,,'71 Ford,70,115,overheating,25,41
 1971,P,1971_Las_Vegas_Lucky_21_150,1971_17_P,11,17,56,usa,Ken_Shoemaker,Ken Shoemaker,Chester Papienski,,'69 Chevrolet,38,100,ignition,0,40
@@ -423,7 +423,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1971,P,1971_Orange_Show_150,1971_18_P,16,10,21,usa,Roger_Parr,Roger Parr,Roger Parr,,'70 Plymouth,64,105,oil pressure,0,35
 1971,P,1971_Orange_Show_150,1971_18_P,17,8,82,usa,Ron_Gautsche,Ron Gautsche,Ron Gautsche,,'69 Ford,24,90,overheating,0,34
 1971,P,1971_Orange_Show_150,1971_18_P,18,3,9,usa,Bill_Osborne_(2),Bill Osborne,Paul Burchard,,'71 Ford,20,75,crash,0,33
-1971,P,1971_Orange_Show_150,1971_18_P,19,19,81,usa,Bruce_Kratt,Bruce Kratt,–,,'70 Dodge,7,75,oil pressure,0,32
+1971,P,1971_Orange_Show_150,1971_18_P,19,19,81,usa,Bruce_Kratt,Bruce Kratt,-,,'70 Dodge,7,75,oil pressure,0,32
 1971,P,1971_Orange_Show_150,1971_18_P,20,20,01,usa,Bob_Kauf,Bob Kauf,Pete Torres,,'69 Ford,3,70,oil pressure,0,31
 1971,P,1971_Saugus_150,1971_19_P,1,1,96,usa,Ray_Elder,Ray Elder,Hargis Engineering,,'70 Dodge,150,980,running,145,50
 1971,P,1971_Saugus_150,1971_19_P,2,5,55,usa,Jerry_Barnett,Jerry Barnett,Sigman Engineering,,'70 Chevrolet,150,885,running,0,49
@@ -502,12 +502,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1971,P,1971_Evergreen_200,1971_22_P,16,9,34,usa,Harry_Schilling,Harry Schilling,Thomas Hynes,,'70 Dodge,70,150,ignition,0,35
 1971,P,1971_Evergreen_200,1971_22_P,17,3,02,usa,Dick_Bown,Dick Bown,Glasshouse Tavern / BOR-A-CAR,,'71 Plymouth,68,160,shock,0,34
 1971,P,1971_Evergreen_200,1971_22_P,18,5,0,usa,Chuck_Bown,Chuck Bown,Dick Bown,,'70 Plymouth,65,150,transmission,0,33
-1971,P,1971_Evergreen_200,1971_22_P,19,20,17,usa,Arlyn_Wolanski,Arlyn Wolanski,–,,'69 Ford,60,150,engine,0,32
+1971,P,1971_Evergreen_200,1971_22_P,19,20,17,usa,Arlyn_Wolanski,Arlyn Wolanski,-,,'69 Ford,60,150,engine,0,32
 1971,P,1971_Evergreen_200,1971_22_P,20,18,38,usa,Jimmy_Insolo,Jimmy Insolo,Marvin Rowley,,'69 Chevrolet,52,150,ignition,0,31
-1971,P,1971_Evergreen_200,1971_22_P,21,24,56,usa,Dick_Westman,Dick Westman,–,,'70 AMC,51,100,blown tire,0,30
+1971,P,1971_Evergreen_200,1971_22_P,21,24,56,usa,Dick_Westman,Dick Westman,-,,'70 AMC,51,100,blown tire,0,30
 1971,P,1971_Evergreen_200,1971_22_P,22,19,99,usa,Pat_Fay,Pat Fay,Martin Fay,,'71 Ford,37,100,engine,0,29
 1971,P,1971_Evergreen_200,1971_22_P,23,15,107,usa,Markey_James,Markey James,Jim Calder,,'69 Chevrolet,20,100,transmission,0,28
-1971,P,1971_Evergreen_200,1971_22_P,24,13,41,usa,Fred_Hay,Fred Hay,–,,'69 Chevrolet,8,100,water pump,0,27
+1971,P,1971_Evergreen_200,1971_22_P,24,13,41,usa,Fred_Hay,Fred Hay,-,,'69 Chevrolet,8,100,water pump,0,27
 1971,P,1971_Evergreen_200,1971_22_P,25,22,82,usa,Ron_Gautsche,Ron Gautsche,Ron Gautsche,,'69 Ford,2,100,oil line,0,26
 1971,P,1971_Spokane_100,1971_23_P,1,6,04,usa,Hershel_McGriff,Hershel McGriff,Beryl Jackson,,'70 Plymouth,100,1140,running,58,50
 1971,P,1971_Spokane_100,1971_23_P,2,5,0,usa,Chuck_Bown,Chuck Bown,Dick Bown,,'70 Plymouth,100,775,running,0,49
@@ -561,17 +561,17 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1971,P,1971_San_Gabriel_Valley_100,1971_25_P,7,6,4,usa,Dick_Kranzler,Dick Kranzler,Dick Kranzler,,'71 Chevrolet,97,175,running,0,44
 1971,P,1971_San_Gabriel_Valley_100,1971_25_P,8,12,1,usa,Scotty_Cain,Scotty Cain,Bob Clough,,'69 Ford,97,130,running,0,43
 1971,P,1971_San_Gabriel_Valley_100,1971_25_P,9,10,107,usa,Markey_James,Markey James,Jim Calder,,'70 Chevrolet,97,120,running,0,42
-1971,P,1971_San_Gabriel_Valley_100,1971_25_P,10,17,92,usa,Cliff_Vose,Cliff Vose,–,,'69 Chevrolet,97,110,running,0,41
+1971,P,1971_San_Gabriel_Valley_100,1971_25_P,10,17,92,usa,Cliff_Vose,Cliff Vose,-,,'69 Chevrolet,97,110,running,0,41
 1971,P,1971_San_Gabriel_Valley_100,1971_25_P,11,7,43,usa,Frank_Burnett,Frank Burnett,Burnett's Drive-In,,'69 Plymouth,96,100,running,0,40
 1971,P,1971_San_Gabriel_Valley_100,1971_25_P,12,13,8,usa,Bob_England,Bob England,Bob England,,'70 Chevrolet,96,100,running,0,39
 1971,P,1971_San_Gabriel_Valley_100,1971_25_P,13,18,68,usa,Don_Simkins,Don Simkins,Don Simkins,,'70 Oldsmobile,95,115,running,0,38
 1971,P,1971_San_Gabriel_Valley_100,1971_25_P,14,19,28,usa,Vic_Irvan,Vic Irvan,Dean Thorne,,'69 Chevrolet,95,105,running,0,37
 1971,P,1971_San_Gabriel_Valley_100,1971_25_P,15,24,25,usa,Chuck_Hetrick,Chuck Hetrick,Donald Hetrick,,'70 Chevrolet,95,100,running,0,36
-1971,P,1971_San_Gabriel_Valley_100,1971_25_P,16,20,74,usa,Tom_Patton,Tom Patton,–,,'69 Chevrolet,93,100,running,0,35
+1971,P,1971_San_Gabriel_Valley_100,1971_25_P,16,20,74,usa,Tom_Patton,Tom Patton,-,,'69 Chevrolet,93,100,running,0,35
 1971,P,1971_San_Gabriel_Valley_100,1971_25_P,17,21,01,usa,Pete_Torres,Pete Torres,Pete Torres,,'69 Ford,93,115,running,0,34
-1971,P,1971_San_Gabriel_Valley_100,1971_25_P,18,15,78,usa,John_Soares_Jr,"John Soares, Jr.",–,,'69 Chevrolet,87,100,oil leak,0,33
-1971,P,1971_San_Gabriel_Valley_100,1971_25_P,19,23,17,usa,Sig_Nelson,Sig Nelson,–,,'69 Ford,81,100,overheating,0,32
-1971,P,1971_San_Gabriel_Valley_100,1971_25_P,20,14,5N,usa,Sam_Fairchild,Sam Fairchild,–,,'69 Dodge,69,100,brakes,0,31
+1971,P,1971_San_Gabriel_Valley_100,1971_25_P,18,15,78,usa,John_Soares_Jr,"John Soares, Jr.",-,,'69 Chevrolet,87,100,oil leak,0,33
+1971,P,1971_San_Gabriel_Valley_100,1971_25_P,19,23,17,usa,Sig_Nelson,Sig Nelson,-,,'69 Ford,81,100,overheating,0,32
+1971,P,1971_San_Gabriel_Valley_100,1971_25_P,20,14,5N,usa,Sam_Fairchild,Sam Fairchild,-,,'69 Dodge,69,100,brakes,0,31
 1971,P,1971_San_Gabriel_Valley_100,1971_25_P,21,2,96,usa,Ray_Elder,Ray Elder,Hargis Engineering,,'70 Dodge,43,225,engine,0,30
 1971,P,1971_San_Gabriel_Valley_100,1971_25_P,22,8,95,usa,Bob_Kauf,Bob Kauf,Paul Stockwell,,'70 Chevrolet,35,50,engine,0,29
 1971,P,1971_San_Gabriel_Valley_100,1971_25_P,23,11,20,usa,Jack_Roberts,Jack Roberts,Wynn's Oil Co.,,'69 Chevrolet,22,50,overheating,0,28

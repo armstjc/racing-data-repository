@@ -107,7 +107,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2015,AC,2015_Spring_Green_115,2015_04,23,25,49NH,usa,Matt_Anderson,Matt Anderson,Watts,,Chevrolet,113,500,running,0,51
 2015,AC,2015_Spring_Green_115,2015_04,24,20,20NY,usa,Bucko_Branham,Bucko Branham,Garrant & Son Sanitation,,Chevrolet,105,500,rear end,0,24
 2015,AC,2015_Spring_Green_115,2015_04,25,22,91CT,usa,Larry_Gelinas,Larry Gelinas,Vermont Stone Art,,Ford,94,500,crash,0,24
-2015,AC,2015_Spring_Green_115,2015_04,26,26,77QC,canada,Charles_Harvey,Charles Harvey,–,,Chevrolet,80,500,handling,0,49
+2015,AC,2015_Spring_Green_115,2015_04,26,26,77QC,canada,Charles_Harvey,Charles Harvey,-,,Chevrolet,80,500,handling,0,49
 2015,AC,2015_Spring_Green_115,2015_04,27,23,41QC,canada,Jonathan_Bouvrette,Jonathan Bouvrette,DLGL Software / GloboCam,,Toyota,73,500,overheating,0,49
 2015,AC,2015_Spring_Green_115,2015_04,28,17,58VT,usa,Jimmy_Hebert,Jimmy Hebert,Hebert Excavation / Lowery's Auto Sales,,Chevrolet,42,500,engine,0,49
 2015,AC,2015_Spring_Green_115,2015_04,29,28,83QC,canada,Martin_Goulet,Martin Goulet,JR Services Sanitaire,,Chevrolet,0,500,electrical,0,49
@@ -285,7 +285,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2015,AC,2015_Chaudiere_200,2015_11,6,8,19QC,canada,Dany_Trepanier,Dany Trepanier,Construction JC-7,,Ford,200,1000,running,0,85
 2015,AC,2015_Chaudiere_200,2015_11,7,11,4NY,usa,Brandon_Atkins,Brandon Atkins,Northline Utilities / neat1968.org,,Dodge,200,1600,running,0,83
 2015,AC,2015_Chaudiere_200,2015_11,8,22,41QC,canada,Jonathan_Bouvrette,Jonathan Bouvrette,DLGL Software / GloboCam,,Toyota,200,1025,running,0,81
-2015,AC,2015_Chaudiere_200,2015_11,9,10,98QC,canada,Etienne_Cliche,Etienne Cliche,Cliche Motorsports,,–,199,800,running,0,54
+2015,AC,2015_Chaudiere_200,2015_11,9,10,98QC,canada,Etienne_Cliche,Etienne Cliche,Cliche Motorsports,,-,199,800,running,0,54
 2015,AC,2015_Chaudiere_200,2015_11,10,9,50ME,usa,Jeff_White,Jeff White,Knowles Lumber / Leighton's Garage,,Chevrolet,199,800,running,0,77
 2015,AC,2015_Chaudiere_200,2015_11,11,19,58VT,usa,Jimmy_Hebert,Jimmy Hebert,Hebert Excavation / Lowery's Auto Sales,,Chevrolet,199,865,running,0,75
 2015,AC,2015_Chaudiere_200,2015_11,12,21,6QC,canada,Simon_Roussin,Simon Roussin,Prince Edward Performance,,Chevrolet,199,755,running,0,73
@@ -295,7 +295,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2015,AC,2015_Chaudiere_200,2015_11,16,17,30NH,usa,Rich_Dubeau,Rich Dubeau,Upper Valley Stove / Upper Valley Equipment,,Chevrolet,199,700,running,0,65
 2015,AC,2015_Chaudiere_200,2015_11,17,23,9NH,usa,Kyle_Welch,Kyle Welch,Kid's Place/The Graphic Shop/Peterboro Tool,,Chevrolet,198,700,running,0,63
 2015,AC,2015_Chaudiere_200,2015_11,18,15,5QC,canada,Patrick_Cliche,Patrick Cliche,EZ Websolution,,Chevrolet,198,700,running,0,61
-2015,AC,2015_Chaudiere_200,2015_11,19,27,75QC,canada,Marco_Bilodeau,Marco Bilodeau,Bilodeau Motorsports,,–,197,700,running,0,34
+2015,AC,2015_Chaudiere_200,2015_11,19,27,75QC,canada,Marco_Bilodeau,Marco Bilodeau,Bilodeau Motorsports,,-,197,700,running,0,34
 2015,AC,2015_Chaudiere_200,2015_11,20,24,38QC,canada,Gaetan_Gaudreault,Gaetan Gaudreault,Gaubeau Construction,,Chevrolet,197,700,running,0,57
 2015,AC,2015_Chaudiere_200,2015_11,21,26,57QC,canada,Carl_Poulin,Carl Poulin,Poulin Motorsports,,Chevrolet,196,700,running,0,30
 2015,AC,2015_Chaudiere_200,2015_11,22,3,11QC,canada,Claude_Leclerc,Claude Leclerc,Attaches Montreal / Dimension-Porte-Fenetre,,Chevrolet,164,700,running,0,53

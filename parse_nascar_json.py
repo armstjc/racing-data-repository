@@ -46,8 +46,10 @@ def nascar_series_identification(series: str):
             str.lower(series) == str.lower("Budweiser Late Model Series") or\
             str.lower(series) == str.lower("Budweiser Sportsman") or \
             str.lower(series) == str.lower("Budweiser Sportsman Series") or \
-            str.lower(series) == str.lower("Budweiser Late Sportsman Series") or \
-            str.lower(series) == str.lower("Budweiser Late Model Sportsman Series") or \
+            str.lower(series) == \
+            str.lower("Budweiser Late Sportsman Series") or \
+            str.lower(series) == \
+            str.lower("Budweiser Late Model Sportsman Series") or \
             str.lower(series) == str.lower("Busch") or \
             str.lower(series) == str.lower("Busch Series") or \
             str.lower(series) == str.lower("Grand National") or \
@@ -112,13 +114,13 @@ def parse_nascar_schedule(season: int, series="Cup"):
             row_df['race_name'] = i['race_name']
             row_df['race_type_id'] = i['race_type_id']
 
-            if i['restrictor_plate'] == True:
+            if i['restrictor_plate'] is True:
                 row_df['restrictor_plate'] = 1
-            elif i['restrictor_plate'] == False:
+            elif i['restrictor_plate'] is False:
                 row_df['restrictor_plate'] = 0
             else:
                 raise Exception(
-                    "There is something teribly wrong with your computer.")
+                    "There is something terribly wrong with your computer.")
 
             row_df['track_id'] = i['track_id']
             row_df['track_name'] = i['track_name']
@@ -132,7 +134,7 @@ def parse_nascar_schedule(season: int, series="Cup"):
 
             try:
                 row_df['tunein_date'] = i['tunein_date']
-            except:
+            except Exception:
                 row_df['tunein_date'] = None
 
             row_df['scheduled_distance'] = i['scheduled_distance']
@@ -142,17 +144,17 @@ def parse_nascar_schedule(season: int, series="Cup"):
 
             try:
                 row_df['stage_1_laps'] = i['stage_1_laps']
-            except:
+            except Exception:
                 row_df['stage_1_laps'] = None
 
             try:
                 row_df['stage_2_laps'] = i['stage_2_laps']
-            except:
+            except Exception:
                 row_df['stage_2_laps'] = None
 
             try:
                 row_df['stage_3_laps'] = i['stage_3_laps']
-            except:
+            except Exception:
                 row_df['stage_3_laps'] = None
 
             row_df['number_of_cars_in_field'] = i['number_of_cars_in_field']
@@ -167,7 +169,7 @@ def parse_nascar_schedule(season: int, series="Cup"):
 
             try:
                 row_df['margin_of_victory'] = i['margin_of_victory']
-            except:
+            except Exception:
                 row_df['margin_of_victory'] = None
 
             row_df['race_purse'] = i['race_purse']
@@ -178,16 +180,16 @@ def parse_nascar_schedule(season: int, series="Cup"):
             row_df['master_race_id'] = i['master_race_id']
 
             try:
-                if row_df['inspection_complete'] == True:
+                if row_df['inspection_complete'] is True:
                     row_df['inspection_complete'] = 1
-                elif row_df['inspection_complete'] == False:
+                elif row_df['inspection_complete'] is False:
                     row_df['inspection_complete'] = 0
-            except:
+            except Exception:
                 row_df['inspection_complete'] = None
 
             try:
                 row_df['playoff_round'] = i['playoff_round']
-            except:
+            except Exception:
                 row_df['playoff_round'] = None
 
             try:
@@ -195,17 +197,17 @@ def parse_nascar_schedule(season: int, series="Cup"):
                     row_df['is_qualifying_race'] = 1
                 elif row_df['is_qualifying_race'] == False:
                     row_df['is_qualifying_race'] = 0
-            except:
+            except Exception:
                 row_df['is_qualifying_race'] = None
 
             try:
                 row_df['qualifying_race_no'] = i['qualifying_race_no']
-            except:
+            except Exception:
                 row_df['qualifying_race_no'] = None
 
             try:
                 row_df['qualifying_race_id'] = i['qualifying_race_id']
-            except:
+            except Exception:
                 row_df['qualifying_race_id'] = None
 
             try:
@@ -213,12 +215,12 @@ def parse_nascar_schedule(season: int, series="Cup"):
                     row_df['has_qualifying'] = 1
                 elif row_df['has_qualifying'] == False:
                     row_df['has_qualifying'] = 0
-            except:
+            except Exception:
                 row_df['has_qualifying'] = None
 
             try:
                 row_df['winner_driver_id'] = i['winner_driver_id']
-            except:
+            except Exception:
                 row_df['winner_driver_id'] = None
             row_df['pole_winner_laptime'] = i['pole_winner_laptime']
             main_df = pd.concat([main_df, row_df], ignore_index=True)
@@ -304,7 +306,7 @@ def parse_basic_race_results(season: int):
             has_race_data = True
             json_data = json.loads(response.read())
             time.sleep(1)
-        except:
+        except Exception:
             time.sleep(3)
             has_race_data = False
 
@@ -324,7 +326,7 @@ def parse_basic_race_results(season: int):
 
                 try:
                     row_df['tunein_date'] = j['tunein_date']
-                except:
+                except Exception:
                     row_df['tunein_date'] = None
 
                 row_df['scheduled_distance'] = j['scheduled_distance']
@@ -337,7 +339,7 @@ def parse_basic_race_results(season: int):
 
                 try:
                     row_df['stage_4_laps'] = j['stage_4_laps']
-                except:
+                except Exception:
                     row_df['stage_4_laps'] = None
 
                 row_df['number_of_cars_in_field'] = j['number_of_cars_in_field']
@@ -358,12 +360,12 @@ def parse_basic_race_results(season: int):
 
                 try:
                     row_df['inspection_complete'] = j['inspection_complete']
-                except:
+                except Exception:
                     row_df['inspection_complete'] = None
 
                 try:
                     row_df['playoff_round'] = j['playoff_round']
-                except:
+                except Exception:
                     row_df['playoff_round'] = None
 
                 race_info_df = pd.concat(
@@ -383,7 +385,7 @@ def parse_basic_race_results(season: int):
 
                     try:
                         row_df['driver_hometown'] = k['driver_hometown']
-                    except:
+                    except Exception:
                         row_df['driver_hometown'] = None
 
                     row_df['hometown_city'] = k['hometown_city']
@@ -391,7 +393,7 @@ def parse_basic_race_results(season: int):
 
                     try:
                         row_df['hometown_country'] = k['hometown_country']
-                    except:
+                    except Exception:
                         row_df['hometown_country'] = None
 
                     row_df['team_id'] = k['team_id']
@@ -408,7 +410,7 @@ def parse_basic_race_results(season: int):
 
                     try:
                         row_df['playoff_points_earned'] = k['playoff_points_earned']
-                    except:
+                    except Exception:
                         row_df['playoff_points_earned'] = None
 
                     row_df['laps_completed'] = k['laps_completed']
@@ -421,7 +423,7 @@ def parse_basic_race_results(season: int):
 
                     try:
                         row_df['crew_chief_id'] = k['crew_chief_id']
-                    except:
+                    except Exception:
                         row_df['crew_chief_id'] = None
 
                     row_df['crew_chief_fullname'] = k['crew_chief_fullname']
@@ -433,17 +435,17 @@ def parse_basic_race_results(season: int):
 
                     try:
                         row_df['disqualified'] = k['disqualified']
-                    except:
+                    except Exception:
                         row_df['disqualified'] = None
 
                     try:
                         row_df['diff_laps'] = k['diff_laps']
-                    except:
+                    except Exception:
                         row_df['diff_laps'] = None
 
                     try:
                         row_df['diff_time'] = k['diff_time']
-                    except:
+                    except Exception:
                         row_df['diff_time'] = None
 
                     race_results_df = pd.concat(
@@ -503,7 +505,7 @@ def parse_basic_race_results(season: int):
                                     ignore_index=True
                                 )
                                 del row_df
-                    except:
+                    except Exception:
                         print('No Stage results found in this race.')
 
                 if season >= 2021:
@@ -601,7 +603,7 @@ def parse_weekend_runs(season: int):
 
             try:
                 run_date_utc = j['run_date_utc']
-            except:
+            except Exception:
                 run_date_utc = None
 
             for k in j['results']:
@@ -619,19 +621,19 @@ def parse_weekend_runs(season: int):
 
                 try:
                     row_df['vehicle_number'] = str(k['vehicle_number'])
-                except:
+                except Exception:
                     row_df['vehicle_number'] = None
 
                 try:
                     row_df['manufacturer'] = k['manufacturer']
-                except:
+                except Exception:
                     row_df['manufacturer'] = None
 
                 row_df['driver_id'] = k['driver_id']
 
                 try:
                     row_df['driver_name'] = k['driver_name']
-                except:
+                except Exception:
                     row_df['driver_name'] = None
 
                 row_df['finishing_position'] = k['finishing_position']
@@ -644,7 +646,7 @@ def parse_weekend_runs(season: int):
 
                 try:
                     row_df['disqualified'] = k['disqualified']
-                except:
+                except Exception:
                     row_df['disqualified'] = None
 
                 weekend_runs_df = pd.concat(
@@ -716,7 +718,7 @@ def parse_live_points(season: int):
                 points_df = pd.concat([points_df, row_df], ignore_index=True)
 
                 del row_df
-        except:
+        except Exception:
             time.sleep(1)
     return points_df
 
@@ -725,14 +727,17 @@ def parse_lap_times(race_id, race_level, race_season):
     lap_times_df = pd.DataFrame()
     row_df = pd.DataFrame()
 
-    url = f'https://cf.nascar.com/cacher/{race_season}/{race_level}/{race_id}/lap-times.json'
+    url = f'https://cf.nascar.com/cacher/{race_season}/' +\
+        f'{race_level}/{race_id}/lap-times.json'
 
     try:
         response = urlopen(url)
         json_data = json.loads(response.read())
-    except:
+    except Exception:
         raise Exception(
-            f"Could not get lap data for {race_id} in the {race_level} level's {race_season} season.")
+            f"Could not get lap data for {race_id} in the " +
+            f"{race_level} level's {race_season} season."
+        )
 
     for j in json_data['laps']:
         driver_number = str(j['Number'])
@@ -770,8 +775,8 @@ def main():
     # current_year = datetime.now().year
     now = datetime.now()
     current_year = now.year
-    current_month = now.month
-    current_day = now.day
+    # current_month = now.month
+    # current_day = now.day
 
     for i in tqdm(range(current_year, current_year+1)):
         df = parse_nascar_schedule(i, "all")
@@ -782,24 +787,34 @@ def main():
     # parse_basic_race_results(current_year)
     for i in range(current_year, current_year+1):
         print(f'\nGetting the NASCAR race info for the {i} season.')
-        info_df, results_df, cautions_df, leaders_df,\
-            stage_df, infractions_df, pitstops_df,\
-            = parse_basic_race_results(i)
+        info_df, results_df, \
+            cautions_df, leaders_df, \
+            stage_df, infractions_df, \
+            pitstops_df, = parse_basic_race_results(i)
 
-        info_df.to_csv(f"nascar_api/race_info/{i}_race_info.csv", index=False)
+        info_df.to_csv(
+            f"nascar_api/race_info/{i}_race_info.csv", index=False
+        )
         results_df.to_csv(
-            f"nascar_api/race_results/{i}_race_results.csv", index=False)
+            f"nascar_api/race_results/{i}_race_results.csv", index=False
+        )
         cautions_df.to_csv(
-            f"nascar_api/race_cautions/{i}_race_cautions.csv", index=False)
+            f"nascar_api/race_cautions/{i}_race_cautions.csv", index=False
+        )
         leaders_df.to_csv(
-            f"nascar_api/race_leaders/{i}_race_leaders.csv", index=False)
+            f"nascar_api/race_leaders/{i}_race_leaders.csv", index=False
+        )
         stage_df.to_csv(
-            f"nascar_api/race_stage_results/{i}_race_stage_results.csv", index=False)
+            f"nascar_api/race_stage_results/{i}_race_stage_results.csv",
+            index=False
+        )
         infractions_df.to_csv(
-            f"nascar_api/race_infractions/{i}_race_infractions.csv", index=False)
+            f"nascar_api/race_infractions/{i}_race_infractions.csv",
+            index=False
+        )
         pitstops_df.to_csv(
-            f"nascar_api/race_pit_stops/{i}_race_pit_stops.csv", index=False)
-        # weekend_runs_df.to_csv(f"nascar_api/weekend_runs/{i}_weekend_runs.csv", index=False)
+            f"nascar_api/race_pit_stops/{i}_race_pit_stops.csv", index=False
+        )
 
     for i in range(current_year, current_year+1):
         print(f'\nGetting the NASCAR weekend runs for the {i} season.')
@@ -817,18 +832,20 @@ def main():
         for j in tqdm(range(0, len(race_ids_list))):
             try:
                 race_df = parse_lap_times(
-                    race_ids_list[j], race_levels_list[j], race_seasons_list[j])
+                    race_ids_list[j],
+                    race_levels_list[j],
+                    race_seasons_list[j]
+                )
                 race_df.to_csv(
-                    f"nascar_api/lap_times/{race_seasons_list[j]}_{race_ids_list[j]}_lap_times.csv", index=False)
+                    "nascar_api/lap_times/" +
+                    f"{race_seasons_list[j]}_{race_ids_list[j]}_lap_times.csv",
+                    index=False
+                )
                 time.sleep(1)
-            except:
+            except Exception:
                 print('Couldn\'t parse the race. Breaking the loop.')
                 time.sleep(2)
             # print(race_df)
-
-    # with open('nascar_api_status.json', 'w+') as f:
-    #     f.write(
-    #         f"{{ \"year\":{current_year},\"month\":{current_month},\"day\":{current_day} }}")
 
 
 if __name__ == "__main__":

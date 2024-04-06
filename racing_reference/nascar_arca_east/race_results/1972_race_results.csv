@@ -22,7 +22,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1972,P,1972_Winston_Western_500,1972_01_P,21,28,19,usa,Henley_Gray,Henley Gray   (Cup),Henley Gray,,'69 Ford,122,1610,running,0,0
 1972,P,1972_Winston_Western_500,1972_01_P,22,27,6,usa,Jerry_Oliver,Jerry Oliver   (Cup),Cos Concilla,,'72 Oldsmobile,122,1100,running,0,0
 1972,P,1972_Winston_Western_500,1972_01_P,23,29,4,usa,Dick_Kranzler,Dick Kranzler,John Millwee Racing Special,,'72 Chevrolet,119,1090,running,0,205
-1972,P,1972_Winston_Western_500,1972_01_P,24,15,42,usa,Larry_Esau,Larry Esau,–,,'72 Chevrolet,118,1080,running,0,202
+1972,P,1972_Winston_Western_500,1972_01_P,24,15,42,usa,Larry_Esau,Larry Esau,-,,'72 Chevrolet,118,1080,running,0,202
 1972,P,1972_Winston_Western_500,1972_01_P,25,14,00,usa,Frank_James,Frank James,Jim Calder,,'72 Chevrolet,115,1070,fan blade,0,196
 1972,P,1972_Winston_Western_500,1972_01_P,26,31,15,usa,David_Pearson,David Pearson   (Cup),Bud Moore,,'72 Ford,112,3060,radiator,0,0
 1972,P,1972_Winston_Western_500,1972_01_P,27,23,8,usa,Ed_Negre,Ed Negre   (Cup),Ed Negre,,'69 Ford,107,1550,engine,0,0
@@ -100,7 +100,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1972,P,1972_San_Jose_150,1972_03_P,8,14,80,usa,Dave_Alonzo,Dave Alonzo,Gerald Alonzo,,'69 Dodge,144,110,running,0,79
 1972,P,1972_San_Jose_150,1972_03_P,9,22,31,usa,Markey_James,Markey James,McLaren's Automotive,,'72 Chevrolet,143,105,running,0,77.75
 1972,P,1972_San_Jose_150,1972_03_P,10,8,96,usa,Ray_Elder,Ray Elder,Fred Elder,,'70 Dodge,143,300,running,0,76.75
-1972,P,1972_San_Jose_150,1972_03_P,11,19,28,usa,Vic_Irvan,Vic Irvan,–,,'69 Ford,141,100,running,0,75.25
+1972,P,1972_San_Jose_150,1972_03_P,11,19,28,usa,Vic_Irvan,Vic Irvan,-,,'69 Ford,141,100,running,0,75.25
 1972,P,1972_San_Jose_150,1972_03_P,12,9,4,usa,Dick_Kranzler,Dick Kranzler,Dick Kranzler,,'72 Chevrolet,140,100,running,0,74
 1972,P,1972_San_Jose_150,1972_03_P,13,21,34,usa,Ron_McKenna,Ron McKenna,Barbara Graham,,'71 Chevrolet,139,100,running,0,72.75
 1972,P,1972_San_Jose_150,1972_03_P,14,26,57,usa,Don_Graham,Don Graham,Don Guy,,'72 Chevrolet,136,100,running,0,71
@@ -109,9 +109,9 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1972,P,1972_San_Jose_150,1972_03_P,17,2,04,usa,Hershel_McGriff,Hershel McGriff,Beryl Jackson,,'70 Plymouth,121,95,crash,0,64.25
 1972,P,1972_San_Jose_150,1972_03_P,18,7,91,usa,Johnny_Anderson,Johnny Anderson,Don Nuzum,,'69 Chevrolet,119,85,crash,0,62.75
 1972,P,1972_San_Jose_150,1972_03_P,19,11,95,usa,Bob_Kauf,Bob Kauf,Wrought Iron Co.,,'72 Chevrolet,108,75,running,0,59
-1972,P,1972_San_Jose_150,1972_03_P,20,24,11,usa,Phil_Pedlar,Phil Pedlar,–,,'70 Dodge,101,60,running,0,56.25
+1972,P,1972_San_Jose_150,1972_03_P,20,24,11,usa,Phil_Pedlar,Phil Pedlar,-,,'70 Dodge,101,60,running,0,56.25
 1972,P,1972_San_Jose_150,1972_03_P,21,10,15,usa,Paul_Dorrity,Paul Dorrity,Glen Dorrity,,'71 Chevrolet,64,60,suspension,0,46
-1972,P,1972_San_Jose_150,1972_03_P,22,20,44,usa,T_B_Smallwood,T.B. Smallwood,–,,'69 Chevrolet,63,50,handling,0,44.75
+1972,P,1972_San_Jose_150,1972_03_P,22,20,44,usa,T_B_Smallwood,T.B. Smallwood,-,,'69 Chevrolet,63,50,handling,0,44.75
 1972,P,1972_San_Jose_150,1972_03_P,23,6,2,usa,Johnny_Steele,Johnny Steele,Johnny Steele,,'71 Ford,61,50,overheating,0,43.25
 1972,P,1972_San_Jose_150,1972_03_P,24,17,40,usa,Les_Loeser_Jr,"Les Loeser, Jr.",Jerry Lankford,,'72 Chevrolet,9,50,cam,0,29.25
 1972,P,1972_San_Jose_150,1972_03_P,25,23,78,usa,Bob_England,Bob England,Bob England,,'69 Chevrolet,8,50,crash,0,28
@@ -130,7 +130,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1972,P,1972_Stockton_150,1972_04_P,12,4,15,usa,Paul_Dorrity,Paul Dorrity,Glen Dorrity,,'72 Chevrolet,137,100,running,0,73.25
 1972,P,1972_Stockton_150,1972_04_P,13,21,34,usa,Ron_McKenna,Ron McKenna,Barbara Graham,,'71 Chevrolet,134,100,running,0,71.5
 1972,P,1972_Stockton_150,1972_04_P,14,6,68,usa,Sonny_Easley,Sonny Easley,Jerry Lankford,,'69 Ford,133,100,running,0,70.25
-1972,P,1972_Stockton_150,1972_04_P,15,17,28,usa,Vic_Irvan,Vic Irvan,–,,'69 Ford,126,100,running,0,67.5
+1972,P,1972_Stockton_150,1972_04_P,15,17,28,usa,Vic_Irvan,Vic Irvan,-,,'69 Ford,126,100,running,0,67.5
 1972,P,1972_Stockton_150,1972_04_P,16,13,95,usa,Bob_Kauf,Bob Kauf,Paul Stockwell,,'72 Chevrolet,98,100,tires,0,59.5
 1972,P,1972_Stockton_150,1972_04_P,17,18,33,usa,Glenn_Francis,Glenn Francis,Bill Andersen,,'70 Chevrolet,85,95,transmission,0,55.25
 1972,P,1972_Stockton_150,1972_04_P,18,20,6,usa,Ed_Brown,Ed Brown,Concord Olds,,'72 Oldsmobile,69,90,overheating,0,50.25
@@ -150,7 +150,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1972,P,1972_Sierra_Mesa_100,1972_05_P,8,1,04,usa,Hershel_McGriff,Hershel McGriff,Beryl Jackson,,'70 Plymouth,95,150,running,9,66.75
 1972,P,1972_Sierra_Mesa_100,1972_05_P,9,18,34,usa,Ron_McKenna,Ron McKenna,Barbara Graham,,'71 Chevrolet,93,135,running,0,65.25
 1972,P,1972_Sierra_Mesa_100,1972_05_P,10,21,06,usa,Bill_Butts,Bill Butts,Speedway Engineering,,'72 Dodge,92,125,running,0,64
-1972,P,1972_Sierra_Mesa_100,1972_05_P,11,12,11,usa,Harry_Schilling,Harry Schilling,–,,'70 Dodge,82,120,running,0,60.5
+1972,P,1972_Sierra_Mesa_100,1972_05_P,11,12,11,usa,Harry_Schilling,Harry Schilling,-,,'70 Dodge,82,120,running,0,60.5
 1972,P,1972_Sierra_Mesa_100,1972_05_P,12,6,00,usa,Frank_James,Frank James,Jim Calder,,'72 Chevrolet,82,110,oil pan,0,59.5
 1972,P,1972_Sierra_Mesa_100,1972_05_P,13,15,3,usa,John_Soares_Jr,"John Soares, Jr.","John Soares, Jr.",,'70 Dodge,72,100,running,0,56
 1972,P,1972_Sierra_Mesa_100,1972_05_P,14,24,8,usa,Bob_England,Bob England,Bob England,,'70 Chevrolet,66,100,running,0,53.5
@@ -167,7 +167,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1972,P,1972_Tri-City_150,1972_06_P,1,4,7,usa,Jack_McCoy,Jack McCoy,Ernie Conn,,'71 Dodge,150,1450,running,15,87.5
 1972,P,1972_Tri-City_150,1972_06_P,2,2,02,usa,Dick_Bown,Dick Bown,Mike Ober,,'72 Plymouth,148,975,running,64,86
 1972,P,1972_Tri-City_150,1972_06_P,3,3,96,usa,Ray_Elder,Ray Elder,Fred Elder,,'70 Dodge,147,875,running,0,84.75
-1972,P,1972_Tri-City_150,1972_06_P,4,7,22,usa,Jack_Jeffery,Jack Jeffery,–,,'70 Dodge,147,375,running,0,83.75
+1972,P,1972_Tri-City_150,1972_06_P,4,7,22,usa,Jack_Jeffery,Jack Jeffery,-,,'70 Dodge,147,375,running,0,83.75
 1972,P,1972_Tri-City_150,1972_06_P,5,13,09,usa,Carl_Adams,Carl Adams,Paul Burchard,,'71 Ford,147,275,running,0,82.75
 1972,P,1972_Tri-City_150,1972_06_P,6,1,04,usa,Hershel_McGriff,Hershel McGriff,Beryl Jackson,,'70 Plymouth,146,200,running,71,81.5
 1972,P,1972_Tri-City_150,1972_06_P,7,18,84,usa,J_C_Danielsen,J.C. Danielsen,Jim Danielson,,'71 Mercury,143,175,running,0,79.75
@@ -175,12 +175,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1972,P,1972_Tri-City_150,1972_06_P,9,11,9,usa,Sam_Rose,Sam Rose,Sam Rose,,'69 Chevrolet,143,165,running,0,77.75
 1972,P,1972_Tri-City_150,1972_06_P,10,23,6,usa,Ed_Brown,Ed Brown,Concord Olds,,'72 Oldsmobile,142,150,running,0,76.5
 1972,P,1972_Tri-City_150,1972_06_P,11,8,26,usa,Carl_Joiner,Carl Joiner,Dean Thorne,,'72 Chevrolet,138,140,running,0,74.5
-1972,P,1972_Tri-City_150,1972_06_P,12,21,65,usa,Dale_Lee,Dale Lee,–,,'70 Plymouth,137,140,running,0,73.25
+1972,P,1972_Tri-City_150,1972_06_P,12,21,65,usa,Dale_Lee,Dale Lee,-,,'70 Plymouth,137,140,running,0,73.25
 1972,P,1972_Tri-City_150,1972_06_P,13,22,8,usa,John_Soares_Jr,"John Soares, Jr.","John Soares, Jr.",,'69 Chevrolet,135,110,running,0,71.75
 1972,P,1972_Tri-City_150,1972_06_P,14,12,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,125,100,running,0,68.25
 1972,P,1972_Tri-City_150,1972_06_P,15,20,34,usa,Ron_McKenna,Ron McKenna,Barbara Graham,,'69 Chevrolet,102,100,running,0,61.5
 1972,P,1972_Tri-City_150,1972_06_P,16,10,95,usa,Harry_Jefferson,Harry Jefferson,George Jefferson,,'71 Ford,89,100,overheating,0,57.25
-1972,P,1972_Tri-City_150,1972_06_P,17,19,11,usa,Harry_Schilling,Harry Schilling,–,,'70 Dodge,84,100,oil leak,0,55
+1972,P,1972_Tri-City_150,1972_06_P,17,19,11,usa,Harry_Schilling,Harry Schilling,-,,'70 Dodge,84,100,oil leak,0,55
 1972,P,1972_Tri-City_150,1972_06_P,18,24,39,usa,George_Wiltshire,George Wiltshire,Wiltshire Brothers,,'70 Dodge,49,80,suspension,0,45.25
 1972,P,1972_Tri-City_150,1972_06_P,19,9,27,usa,Chuck_Bown,Chuck Bown,Dick Bown,,'70 Plymouth,48,75,engine,0,44
 1972,P,1972_Tri-City_150,1972_06_P,20,6,06,usa,Bill_Butts,Bill Butts,Gary Sigman,,'72 Dodge,37,70,overheating,0,40.25
@@ -204,12 +204,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1972,P,1972_Yakima_500,1972_07_P,14,19,8,usa,John_Soares_Jr,"John Soares, Jr.","John Soares, Jr.",,'70 Chevrolet,122,125,transmission,0,67.5
 1972,P,1972_Yakima_500,1972_07_P,15,5,06,usa,Bill_Butts,Bill Butts,Gary Sigman,,'72 Dodge,111,125,transmission,0,63.75
 1972,P,1972_Yakima_500,1972_07_P,16,17,50,usa,Sam_Fairchild,Sam Fairchild,Homer Woods,,'70 Dodge,81,125,differential,0,55.25
-1972,P,1972_Yakima_500,1972_07_P,17,18,32,usa,Tony_Heckart,Tony Heckart,–,,'69 Mercury,78,125,differential,0,53.5
+1972,P,1972_Yakima_500,1972_07_P,17,18,32,usa,Tony_Heckart,Tony Heckart,-,,'69 Mercury,78,125,differential,0,53.5
 1972,P,1972_Yakima_500,1972_07_P,18,20,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,49,125,overheating,0,45.25
 1972,P,1972_Yakima_500,1972_07_P,19,21,39,usa,George_Wiltshire,George Wiltshire,Wiltshire Brothers,,'70 Dodge,38,100,suspension,0,41.5
 1972,P,1972_Yakima_500,1972_07_P,20,7,26,usa,Carl_Joiner,Carl Joiner,Dean Thorne,,'72 Chevrolet,36,100,oil leak,0,40.5
-1972,P,1972_Yakima_500,1972_07_P,21,20,65,usa,Dale_Lee,Dale Lee,–,,'70 Plymouth,17,100,engine,0,34.25
-1972,P,1972_Yakima_500,1972_07_P,22,14,22,usa,Jack_Jeffery,Jack Jeffery,–,,'70 Dodge,14,100,crash,0,32.5
+1972,P,1972_Yakima_500,1972_07_P,21,20,65,usa,Dale_Lee,Dale Lee,-,,'70 Plymouth,17,100,engine,0,34.25
+1972,P,1972_Yakima_500,1972_07_P,22,14,22,usa,Jack_Jeffery,Jack Jeffery,-,,'70 Dodge,14,100,crash,0,32.5
 1972,P,1972_Evergreen_200,1972_08_P,1,2,96,usa,Ray_Elder,Ray Elder,Fred Elder,,'70 Dodge,200,2150,running,189,100
 1972,P,1972_Evergreen_200,1972_08_P,2,9,09,usa,Carl_Adams,Carl Adams,Paul Burchard,,'71 Ford,197,1250,running,0,98.25
 1972,P,1972_Evergreen_200,1972_08_P,3,4,02,usa,Dick_Bown,Dick Bown,Mike Ober,,'72 Plymouth,196,900,running,0,97
@@ -217,14 +217,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1972,P,1972_Evergreen_200,1972_08_P,5,7,00,usa,Frank_James,Frank James,Jim Calder,,'72 Chevrolet,195,450,running,0,94.75
 1972,P,1972_Evergreen_200,1972_08_P,6,5,26,usa,Carl_Joiner,Carl Joiner,Dean Thorne,,'72 Chevrolet,192,350,running,0,92
 1972,P,1972_Evergreen_200,1972_08_P,7,10,4,usa,Dick_Kranzler,Dick Kranzler,Dick Kranzler,,'72 Chevrolet,191,300,running,0,91.75
-1972,P,1972_Evergreen_200,1972_08_P,8,6,22,usa,Jack_Jeffery,Jack Jeffery,–,,'72 Dodge,191,250,running,0,90.75
+1972,P,1972_Evergreen_200,1972_08_P,8,6,22,usa,Jack_Jeffery,Jack Jeffery,-,,'72 Dodge,191,250,running,0,90.75
 1972,P,1972_Evergreen_200,1972_08_P,9,17,6,usa,Ed_Brown,Ed Brown,Concord Olds,,'70 Oldsmobile,189,200,running,0,89.25
 1972,P,1972_Evergreen_200,1972_08_P,10,13,41,usa,Ernie_Stierly,Ernie Stierly,Ernie Stierly,,'72 Mercury,184,200,running,0,87
 1972,P,1972_Evergreen_200,1972_08_P,11,21,8,usa,John_Soares_Jr,"John Soares, Jr.",Bob England,,'69 Chevrolet,176,125,running,0,84
 1972,P,1972_Evergreen_200,1972_08_P,12,14,84,usa,J_C_Danielsen,J.C. Danielsen,Jim Danielson,,'70 Mercury,173,125,fuel pump,0,82.25
 1972,P,1972_Evergreen_200,1972_08_P,13,18,34,usa,Ron_McKenna,Ron McKenna,Barbara Graham,,'71 Chevrolet,161,125,suspension,0,78.25
 1972,P,1972_Evergreen_200,1972_08_P,14,1,7,usa,Jack_McCoy,Jack McCoy,Ernie Conn,,'71 Dodge,155,125,engine,10,75.75
-1972,P,1972_Evergreen_200,1972_08_P,15,8,27,usa,Ralph_Arnold,Ralph Arnold,–,,'70 Dodge,153,125,running,0,74.25
+1972,P,1972_Evergreen_200,1972_08_P,15,8,27,usa,Ralph_Arnold,Ralph Arnold,-,,'70 Dodge,153,125,running,0,74.25
 1972,P,1972_Evergreen_200,1972_08_P,16,22,50,usa,Sam_Fairchild,Sam Fairchild,Homer Woods,,'70 Dodge,138,125,running,0,69.5
 1972,P,1972_Evergreen_200,1972_08_P,17,3,04,usa,Hershel_McGriff,Hershel McGriff,Beryl Jackson,,'70 Plymouth,95,125,gear box,1,57.75
 1972,P,1972_Evergreen_200,1972_08_P,18,16,29,canada,Dave_Cooper,Dave Cooper,Dick Midgley,,'70 Chevrolet,78,125,running,0,52.5
@@ -294,7 +294,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1972,P,1972_Portland_100,1972_11_P,4,7,26,usa,Carl_Joiner,Carl Joiner,Dean Thorne,,'69 Chevrolet,100,425,running,0,72
 1972,P,1972_Portland_100,1972_11_P,5,2,96,usa,Ray_Elder,Ray Elder,Fred Elder,,'71 Dodge,99,550,running,0,70.75
 1972,P,1972_Portland_100,1972_11_P,6,8,09,usa,Carl_Adams,Carl Adams,Paul Burchard,,'69 Ford,99,250,running,0,69.75
-1972,P,1972_Portland_100,1972_11_P,7,17,22,usa,Jack_Jeffery,Jack Jeffery,–,,'70 Dodge,98,175,running,0,68.5
+1972,P,1972_Portland_100,1972_11_P,7,17,22,usa,Jack_Jeffery,Jack Jeffery,-,,'70 Dodge,98,175,running,0,68.5
 1972,P,1972_Portland_100,1972_11_P,8,12,6,usa,Ed_Brown,Ed Brown,Concord Olds,,'71 Oldsmobile,98,135,running,0,67.5
 1972,P,1972_Portland_100,1972_11_P,9,10,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,95,120,running,0,65.75
 1972,P,1972_Portland_100,1972_11_P,10,15,3,usa,John_Soares_Jr,"John Soares, Jr.","John Soares, Jr.",,'71 Plymouth,94,110,running,0,64.5
@@ -305,30 +305,30 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1972,P,1972_Portland_100,1972_11_P,15,6,68,usa,Sonny_Easley,Sonny Easley,Jerry Lankford,,'69 Ford,61,100,running,0,51.25
 1972,P,1972_Portland_100,1972_11_P,16,19,8,usa,Bob_England,Bob England,Bob England,,'70 Chevrolet,56,100,running,0,49
 1972,P,1972_Portland_100,1972_11_P,17,4,27,usa,Chuck_Bown,Chuck Bown,Dick Bown,,'70 Plymouth,46,100,crash,0,45.5
-1972,P,1972_Portland_100,1972_11_P,18,18,86,usa,Jackie_Kuper,Jackie Kuper,–,,'69 Chevrolet,33,100,spring,0,41.25
+1972,P,1972_Portland_100,1972_11_P,18,18,86,usa,Jackie_Kuper,Jackie Kuper,-,,'69 Chevrolet,33,100,spring,0,41.25
 1972,P,1972_Portland_100,1972_11_P,19,11,06,usa,Bill_Butts,Bill Butts,Gary Sigman,,'72 Dodge,21,100,oil cooler,0,37.25
 1972,P,1972_Portland_100,1972_11_P,20,20,2,usa,Johnny_Steele,Johnny Steele,Johnny Steele,,'71 Ford,1,100,engine,0,31.25
-1972,P,1972_Spokane_100,1972_12_P,1,1,04,usa,Hershel_McGriff,Hershel McGriff,Beryl Jackson,,'70 Plymouth,100,1350,running,–,75
-1972,P,1972_Spokane_100,1972_12_P,2,2,7,usa,Jack_McCoy,Jack McCoy,Ernie Conn,,'71 Dodge,100,900,running,–,74
-1972,P,1972_Spokane_100,1972_12_P,3,5,22,usa,Jack_Jeffery,Jack Jeffery,–,,'70 Dodge,99,600,running,–,72.75
-1972,P,1972_Spokane_100,1972_12_P,4,10,06,usa,Bill_Butts,Bill Butts,Gary Sigman,,'72 Dodge,99,450,running,–,71.75
-1972,P,1972_Spokane_100,1972_12_P,5,3,96,usa,Ray_Elder,Ray Elder,Fred Elder,,'70 Dodge,99,450,running,–,70.75
-1972,P,1972_Spokane_100,1972_12_P,6,19,27,usa,Chuck_Bown,Chuck Bown,Dick Bown,,'70 Plymouth,98,175,running,–,69.5
-1972,P,1972_Spokane_100,1972_12_P,7,7,41,usa,Ernie_Stierly,Ernie Stierly,Ernie Stierly,,'69 Chevrolet,98,165,running,–,68.5
-1972,P,1972_Spokane_100,1972_12_P,8,4,3,usa,John_Soares_Jr,"John Soares, Jr.","John Soares, Jr.",,'70 Dodge,98,150,running,–,67.5
-1972,P,1972_Spokane_100,1972_12_P,9,20,02,usa,Dick_Bown,Dick Bown,Mike Ober,,'72 Plymouth,97,140,running,–,66.25
-1972,P,1972_Spokane_100,1972_12_P,10,9,88,usa,Don_Noel,Don Noel,Don Noel,,'71 Ford,97,125,running,–,65.25
-1972,P,1972_Spokane_100,1972_12_P,11,14,2,usa,Ralph_Arnold,Ralph Arnold,–,,'69 Chevrolet,94,120,running,–,63.5
-1972,P,1972_Spokane_100,1972_12_P,12,15,84,usa,J_C_Danielsen,J.C. Danielsen,Jim Danielson,,'70 Mercury,94,100,running,–,62.5
-1972,P,1972_Spokane_100,1972_12_P,13,17,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'70 Chevrolet,90,100,running,–,60.5
-1972,P,1972_Spokane_100,1972_12_P,14,11,4,usa,Dick_Kranzler,Dick Kranzler,Dick Kranzler,,'69 Chevrolet,88,100,running,–,59
-1972,P,1972_Spokane_100,1972_12_P,15,13,09,usa,Carl_Adams,Carl Adams,Paul Burchard,,'71 Ford,80,100,brakes,–,56
-1972,P,1972_Spokane_100,1972_12_P,16,12,85,none,Dick_Barton,Dick Barton,–,,'69 Chevrolet,77,100,brakes,–,54.25
-1972,P,1972_Spokane_100,1972_12_P,17,6,68,usa,Sonny_Easley,Sonny Easley,Jerry Lankford,,'70 Ford,60,100,brakes,–,49
-1972,P,1972_Spokane_100,1972_12_P,18,16,24,usa,Jack_Simpson,Jack Simpson,Mike Mintey,,'69 Chevrolet,34,100,oil leak,–,41.5
-1972,P,1972_Spokane_100,1972_12_P,19,21,19,usa,Larry_Snodderly,Larry Snodderly,–,,'69 Chevrolet,8,100,engine,–,0
-1972,P,1972_Spokane_100,1972_12_P,20,8,9,usa,Sam_Rose,Sam Rose,Sam Rose,,'69 Chevrolet,5,100,crash,–,32.35
-1972,P,1972_Spokane_100,1972_12_P,21,18,8,none,Jim_Ruff,Jim Ruff,–,,'70 Dodge,1,100,transmission,–,0
+1972,P,1972_Spokane_100,1972_12_P,1,1,04,usa,Hershel_McGriff,Hershel McGriff,Beryl Jackson,,'70 Plymouth,100,1350,running,-,75
+1972,P,1972_Spokane_100,1972_12_P,2,2,7,usa,Jack_McCoy,Jack McCoy,Ernie Conn,,'71 Dodge,100,900,running,-,74
+1972,P,1972_Spokane_100,1972_12_P,3,5,22,usa,Jack_Jeffery,Jack Jeffery,-,,'70 Dodge,99,600,running,-,72.75
+1972,P,1972_Spokane_100,1972_12_P,4,10,06,usa,Bill_Butts,Bill Butts,Gary Sigman,,'72 Dodge,99,450,running,-,71.75
+1972,P,1972_Spokane_100,1972_12_P,5,3,96,usa,Ray_Elder,Ray Elder,Fred Elder,,'70 Dodge,99,450,running,-,70.75
+1972,P,1972_Spokane_100,1972_12_P,6,19,27,usa,Chuck_Bown,Chuck Bown,Dick Bown,,'70 Plymouth,98,175,running,-,69.5
+1972,P,1972_Spokane_100,1972_12_P,7,7,41,usa,Ernie_Stierly,Ernie Stierly,Ernie Stierly,,'69 Chevrolet,98,165,running,-,68.5
+1972,P,1972_Spokane_100,1972_12_P,8,4,3,usa,John_Soares_Jr,"John Soares, Jr.","John Soares, Jr.",,'70 Dodge,98,150,running,-,67.5
+1972,P,1972_Spokane_100,1972_12_P,9,20,02,usa,Dick_Bown,Dick Bown,Mike Ober,,'72 Plymouth,97,140,running,-,66.25
+1972,P,1972_Spokane_100,1972_12_P,10,9,88,usa,Don_Noel,Don Noel,Don Noel,,'71 Ford,97,125,running,-,65.25
+1972,P,1972_Spokane_100,1972_12_P,11,14,2,usa,Ralph_Arnold,Ralph Arnold,-,,'69 Chevrolet,94,120,running,-,63.5
+1972,P,1972_Spokane_100,1972_12_P,12,15,84,usa,J_C_Danielsen,J.C. Danielsen,Jim Danielson,,'70 Mercury,94,100,running,-,62.5
+1972,P,1972_Spokane_100,1972_12_P,13,17,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'70 Chevrolet,90,100,running,-,60.5
+1972,P,1972_Spokane_100,1972_12_P,14,11,4,usa,Dick_Kranzler,Dick Kranzler,Dick Kranzler,,'69 Chevrolet,88,100,running,-,59
+1972,P,1972_Spokane_100,1972_12_P,15,13,09,usa,Carl_Adams,Carl Adams,Paul Burchard,,'71 Ford,80,100,brakes,-,56
+1972,P,1972_Spokane_100,1972_12_P,16,12,85,none,Dick_Barton,Dick Barton,-,,'69 Chevrolet,77,100,brakes,-,54.25
+1972,P,1972_Spokane_100,1972_12_P,17,6,68,usa,Sonny_Easley,Sonny Easley,Jerry Lankford,,'70 Ford,60,100,brakes,-,49
+1972,P,1972_Spokane_100,1972_12_P,18,16,24,usa,Jack_Simpson,Jack Simpson,Mike Mintey,,'69 Chevrolet,34,100,oil leak,-,41.5
+1972,P,1972_Spokane_100,1972_12_P,19,21,19,usa,Larry_Snodderly,Larry Snodderly,-,,'69 Chevrolet,8,100,engine,-,0
+1972,P,1972_Spokane_100,1972_12_P,20,8,9,usa,Sam_Rose,Sam Rose,Sam Rose,,'69 Chevrolet,5,100,crash,-,32.35
+1972,P,1972_Spokane_100,1972_12_P,21,18,8,none,Jim_Ruff,Jim Ruff,-,,'70 Dodge,1,100,transmission,-,0
 1972,P,1972_Meridian_100,1972_13_P,1,1,98,usa,Ray_Elder,Ray Elder,Olympia Brewing Co.,,'70 Dodge,100,1300,running,100,75
 1972,P,1972_Meridian_100,1972_13_P,2,3,04,usa,Hershel_McGriff,Hershel McGriff,Beryl Jackson,,'70 Plymouth,100,675,running,0,74
 1972,P,1972_Meridian_100,1972_13_P,3,2,7,usa,Jack_McCoy,Jack McCoy,Ernie Conn,,'71 Dodge,100,475,running,0,73
@@ -340,22 +340,22 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1972,P,1972_Meridian_100,1972_13_P,9,14,41,usa,Ernie_Stierly,Ernie Stierly,Ernie Stierly,,'69 Chevrolet,98,110,running,0,66.5
 1972,P,1972_Meridian_100,1972_13_P,10,10,09,usa,Carl_Adams,Carl Adams,Paul Burchard,,'71 Ford,98,100,running,0,65.5
 1972,P,1972_Meridian_100,1972_13_P,11,9,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,98,100,running,0,64.5
-1972,P,1972_Meridian_100,1972_13_P,12,15,32,usa,Bill_Crow,Bill Crow,–,,'70 Dodge,97,100,running,0,0
+1972,P,1972_Meridian_100,1972_13_P,12,15,32,usa,Bill_Crow,Bill Crow,-,,'70 Dodge,97,100,running,0,0
 1972,P,1972_Meridian_100,1972_13_P,13,12,4,usa,Dick_Kranzler,Dick Kranzler,Dick Kranzler,,'72 Chevrolet,97,100,running,0,62.25
 1972,P,1972_Meridian_100,1972_13_P,14,7,3,usa,John_Soares_Jr,"John Soares, Jr.","John Soares, Jr.",,'70 Dodge,37,100,running,0,46.25
-1972,P,1972_Meridian_100,1972_13_P,15,13,8,none,Jim_Ruff,Jim Ruff,–,,'70 Chevrolet,2,100,oil pressure,0,0
+1972,P,1972_Meridian_100,1972_13_P,15,13,8,none,Jim_Ruff,Jim Ruff,-,,'70 Chevrolet,2,100,oil pressure,0,0
 1972,P,1972_Spanaway_150,1972_14_P,1,2,7,usa,Jack_McCoy,Jack McCoy,Noble Auto Parts,,'71 Dodge,150,1150,running,150,87.5
 1972,P,1972_Spanaway_150,1972_14_P,2,1,04,usa,Hershel_McGriff,Hershel McGriff,Beryl Jackson,,'70 Plymouth,150,750,running,0,86.5
 1972,P,1972_Spanaway_150,1972_14_P,3,3,02,usa,Dick_Bown,Dick Bown,Ober Logging,,'72 Plymouth,148,480,running,0,85
 1972,P,1972_Spanaway_150,1972_14_P,4,4,96,usa,Ray_Elder,Ray Elder,Olympia Brewing Co.,,'71 Dodge,148,485,running,0,84
 1972,P,1972_Spanaway_150,1972_14_P,5,8,88,usa,Don_Noel,Don Noel,Don Noel,,'71 Ford,147,250,running,0,82.75
 1972,P,1972_Spanaway_150,1972_14_P,6,5,27,usa,Chuck_Bown,Chuck Bown,Dick Bown,,'70 Plymouth,147,175,running,0,81.75
-1972,P,1972_Spanaway_150,1972_14_P,7,19,22,usa,Jack_Jeffery,Jack Jeffery,–,,'70 Dodge,147,150,running,0,80.75
+1972,P,1972_Spanaway_150,1972_14_P,7,19,22,usa,Jack_Jeffery,Jack Jeffery,-,,'70 Dodge,147,150,running,0,80.75
 1972,P,1972_Spanaway_150,1972_14_P,8,11,09,usa,Carl_Adams,Carl Adams,Paul Burchard,,'71 Ford,145,125,running,0,79.25
 1972,P,1972_Spanaway_150,1972_14_P,9,16,84,usa,J_C_Danielsen,J.C. Danielsen,Jim Danielson,,'71 Mercury,144,120,running,0,78
 1972,P,1972_Spanaway_150,1972_14_P,10,14,3,usa,John_Soares_Jr,"John Soares, Jr.","John Soares, Jr.",,'70 Dodge,144,120,running,0,77
-1972,P,1972_Spanaway_150,1972_14_P,11,17,85,usa,Wally_Dunham,Wally Dunham,–,,'69 Chevrolet,142,110,running,0,75.5
-1972,P,1972_Spanaway_150,1972_14_P,12,18,2,usa,Ralph_Arnold,Ralph Arnold,–,,'69 Ford,142,105,running,0,74.5
+1972,P,1972_Spanaway_150,1972_14_P,11,17,85,usa,Wally_Dunham,Wally Dunham,-,,'69 Chevrolet,142,110,running,0,75.5
+1972,P,1972_Spanaway_150,1972_14_P,12,18,2,usa,Ralph_Arnold,Ralph Arnold,-,,'69 Ford,142,105,running,0,74.5
 1972,P,1972_Spanaway_150,1972_14_P,13,12,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,134,100,running,0,71.5
 1972,P,1972_Spanaway_150,1972_14_P,14,23,8,usa,Bob_England,Bob England,Bob England,,'70 Chevrolet,132,100,running,0,70
 1972,P,1972_Spanaway_150,1972_14_P,15,7,06,usa,Bill_Butts,Bill Butts,Gary Sigman,,'72 Dodge,117,100,oil leak,0,65.25
@@ -363,19 +363,19 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1972,P,1972_Spanaway_150,1972_14_P,17,21,32,usa,Kevin_Terris,Kevin Terris,Dean Barnicle,,'69 Mercury,102,80,suspension,0,59.5
 1972,P,1972_Spanaway_150,1972_14_P,18,9,26,usa,Carl_Joiner,Carl Joiner,Dean Thorne,,'72 Chevrolet,87,75,engine,0,54.75
 1972,P,1972_Spanaway_150,1972_14_P,19,13,68,usa,Sonny_Easley,Sonny Easley,Jerry Lankford,,'69 Ford,83,70,engine,0,52.75
-1972,P,1972_Spanaway_150,1972_14_P,20,10,86,usa,Jackie_Kuper,Jackie Kuper,–,,'69 Chevrolet,58,70,brakes,0,45.5
+1972,P,1972_Spanaway_150,1972_14_P,20,10,86,usa,Jackie_Kuper,Jackie Kuper,-,,'69 Chevrolet,58,70,brakes,0,45.5
 1972,P,1972_Spanaway_150,1972_14_P,21,15,6,usa,Ed_Brown,Ed Brown,Concord Olds,,'72 Oldsmobile,43,65,crank shaft,0,40.75
 1972,P,1972_Spanaway_150,1972_14_P,22,6,01,usa,Dave_Hall,Dave Hall,Gerald Craker,,'69 Chevrolet,14,65,head gasket,0,32.5
 1972,P,1972_Spanaway_150,1972_14_P,23,22,4,usa,Dick_Kranzler,Dick Kranzler,Dick Kranzler,,'72 Chevrolet,13,55,ignition,0,31.25
 1972,P,1972_Langley_150,1972_15_P,1,3,04,usa,Hershel_McGriff,Hershel McGriff,Beryl Jackson,,'70 Plymouth,150,1150,running,140,87.5
-1972,P,1972_Langley_150,1972_15_P,2,12,22,usa,Jack_Jeffery,Jack Jeffery,–,,'70 Dodge,149,750,running,0,86.25
+1972,P,1972_Langley_150,1972_15_P,2,12,22,usa,Jack_Jeffery,Jack Jeffery,-,,'70 Dodge,149,750,running,0,86.25
 1972,P,1972_Langley_150,1972_15_P,3,17,06,usa,Bill_Butts,Bill Butts,Gary Sigman,,'72 Dodge,148,480,running,0,85
 1972,P,1972_Langley_150,1972_15_P,4,1,96,usa,Ray_Elder,Ray Elder,Olympia Brewing Co.,,'71 Dodge,147,485,running,10,83.75
 1972,P,1972_Langley_150,1972_15_P,5,15,84,usa,J_C_Danielsen,J.C. Danielsen,Jim Danielson,,'71 Mercury,146,250,running,0,82.5
-1972,P,1972_Langley_150,1972_15_P,6,11,86,usa,Jackie_Kuper,Jackie Kuper,–,,'69 Chevrolet,146,175,running,0,81.5
+1972,P,1972_Langley_150,1972_15_P,6,11,86,usa,Jackie_Kuper,Jackie Kuper,-,,'69 Chevrolet,146,175,running,0,81.5
 1972,P,1972_Langley_150,1972_15_P,7,2,27,usa,Chuck_Bown,Chuck Bown,Dick Bown,,'70 Plymouth,146,150,running,0,80.5
 1972,P,1972_Langley_150,1972_15_P,8,13,09,usa,Carl_Adams,Carl Adams,Paul Burchard,,'71 Ford,145,125,running,0,79.25
-1972,P,1972_Langley_150,1972_15_P,9,9,29,canada,Dave_Cooper,Dave Cooper,–,,'70 Chevrolet,144,120,running,0,78
+1972,P,1972_Langley_150,1972_15_P,9,9,29,canada,Dave_Cooper,Dave Cooper,-,,'70 Chevrolet,144,120,running,0,78
 1972,P,1972_Langley_150,1972_15_P,10,5,02,usa,Dick_Bown,Dick Bown,Mike Ober,,'72 Plymouth,143,120,running,0,76.75
 1972,P,1972_Langley_150,1972_15_P,11,8,88,usa,Don_Noel,Don Noel,Don Noel,,'71 Ford,142,110,running,0,75.5
 1972,P,1972_Langley_150,1972_15_P,12,10,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,141,105,running,0,74.25
@@ -385,9 +385,9 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1972,P,1972_Langley_150,1972_15_P,16,7,3,usa,John_Soares_Jr,"John Soares, Jr.","John Soares, Jr.",,'70 Dodge,75,100,differential,0,52.75
 1972,P,1972_Langley_150,1972_15_P,17,16,32,usa,Kevin_Terris,Kevin Terris,Dean Barnicle,,'70 Dodge,56,80,crash,0,48
 1972,P,1972_Langley_150,1972_15_P,18,21,24,usa,Jack_Simpson,Jack Simpson,Mike Mintey,,'72 Chevrolet,51,75,running,0,45.75
-1972,P,1972_Langley_150,1972_15_P,19,18,2,usa,Ralph_Arnold,Ralph Arnold,–,,'69 Ford,30,70,suspension,0,39.5
+1972,P,1972_Langley_150,1972_15_P,19,18,2,usa,Ralph_Arnold,Ralph Arnold,-,,'69 Ford,30,70,suspension,0,39.5
 1972,P,1972_Langley_150,1972_15_P,20,19,01,usa,Don_Hall,Don Hall,Hall Racing,,'69 Chevrolet,14,70,overheating,0,34.5
-1972,P,1972_Langley_150,1972_15_P,21,14,21,canada,Jim_McMillan,Jim McMillan,–,,'69 Chevrolet,9,65,overheating,0,32.25
+1972,P,1972_Langley_150,1972_15_P,21,14,21,canada,Jim_McMillan,Jim McMillan,-,,'69 Chevrolet,9,65,overheating,0,32.25
 1972,P,1972_Victoria_150,1972_16_P,1,5,02,usa,Dick_Bown,Dick Bown,Mike Ober,,'72 Plymouth,150,1050,running,111,87.5
 1972,P,1972_Victoria_150,1972_16_P,2,3,04,usa,Hershel_McGriff,Hershel McGriff,Beryl Jackson,,'70 Plymouth,150,650,running,0,86.5
 1972,P,1972_Victoria_150,1972_16_P,3,9,68,usa,Sonny_Easley,Sonny Easley,Jerry Lankford,,'69 Ford,150,450,running,0,85.5
@@ -398,29 +398,29 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1972,P,1972_Victoria_150,1972_16_P,8,14,9,usa,Sam_Rose,Sam Rose,Sam Rose,,'69 Chevrolet,147,115,running,0,79.75
 1972,P,1972_Victoria_150,1972_16_P,9,15,84,usa,J_C_Danielsen,J.C. Danielsen,Jim Danielson,,'71 Mercury,146,110,running,0,78.5
 1972,P,1972_Victoria_150,1972_16_P,10,10,4,usa,Dick_Kranzler,Dick Kranzler,Dick Kranzler,,'72 Chevrolet,145,105,running,0,77.25
-1972,P,1972_Victoria_150,1972_16_P,11,17,86,usa,Jackie_Kuper,Jackie Kuper,–,,'69 Chevrolet,145,100,running,0,76.25
+1972,P,1972_Victoria_150,1972_16_P,11,17,86,usa,Jackie_Kuper,Jackie Kuper,-,,'69 Chevrolet,145,100,running,0,76.25
 1972,P,1972_Victoria_150,1972_16_P,12,20,6,usa,Ed_Brown,Ed Brown,Concord Olds,,'72 Oldsmobile,144,100,running,0,75
 1972,P,1972_Victoria_150,1972_16_P,13,16,09,usa,Carl_Adams,Carl Adams,Paul Burchard,,'71 Ford,143,100,running,0,73.75
 1972,P,1972_Victoria_150,1972_16_P,14,2,27,usa,Chuck_Bown,Chuck Bown,Dick Bown,,'70 Plymouth,101,100,transmission,0,62.25
 1972,P,1972_Victoria_150,1972_16_P,15,4,7,usa,Jack_McCoy,Jack McCoy,Ernie Conn,,'71 Dodge,92,100,differential,0,59
-1972,P,1972_Victoria_150,1972_16_P,16,7,22,usa,Jack_Jeffery,Jack Jeffery,–,,'69 Dodge,76,100,drive shaft,0,54
-1972,P,1972_Victoria_150,1972_16_P,17,11,58,usa,Gus_Stanfield,Gus Stanfield,–,,'69 Ford,60,100,oil pressure,0,49
+1972,P,1972_Victoria_150,1972_16_P,16,7,22,usa,Jack_Jeffery,Jack Jeffery,-,,'69 Dodge,76,100,drive shaft,0,54
+1972,P,1972_Victoria_150,1972_16_P,17,11,58,usa,Gus_Stanfield,Gus Stanfield,-,,'69 Ford,60,100,oil pressure,0,49
 1972,P,1972_Victoria_150,1972_16_P,18,19,24,usa,Jack_Simpson,Jack Simpson,Jack Simpson,,'72 Ford,38,90,brakes,0,42.5
 1972,P,1972_Victoria_150,1972_16_P,19,13,06,usa,Bill_Butts,Bill Butts,Gary Sigman,,'72 Dodge,34,85,distributor,0,40.5
-1972,P,1972_Victoria_150,1972_16_P,20,21,21,canada,Jim_McMillan,Jim McMillan,–,,'69 Chevrolet,28,80,overheating,0,38
+1972,P,1972_Victoria_150,1972_16_P,20,21,21,canada,Jim_McMillan,Jim McMillan,-,,'69 Chevrolet,28,80,overheating,0,38
 1972,P,1972_Victoria_150,1972_16_P,21,12,88,usa,Don_Noel,Don Noel,Don Noel,,'71 Ford,23,75,oil pressure,0,35.75
 1972,P,1972_Skagit_150,1972_17_P,1,3,04,usa,Hershel_McGriff,Hershel McGriff,Beryl Jackson,,'70 Plymouth,150,1150,running,18,87.5
 1972,P,1972_Skagit_150,1972_17_P,2,2,96,usa,Ray_Elder,Ray Elder,Fred Elder,,'71 Dodge,150,950,running,132,86.5
 1972,P,1972_Skagit_150,1972_17_P,3,6,27,usa,Chuck_Bown,Chuck Bown,Dick Bown,,'70 Plymouth,147,490,running,0,84.75
 1972,P,1972_Skagit_150,1972_17_P,4,1,84,usa,J_C_Danielsen,J.C. Danielsen,Jim Danielson,,'71 Mercury,147,295,running,0,83.75
 1972,P,1972_Skagit_150,1972_17_P,5,19,02,usa,Dick_Bown,Dick Bown,Mike Ober,,'72 Plymouth,146,250,running,0,82.5
-1972,P,1972_Skagit_150,1972_17_P,6,14,86,usa,Jackie_Kuper,Jackie Kuper,–,,'69 Chevrolet,145,170,running,0,81.25
-1972,P,1972_Skagit_150,1972_17_P,7,13,2,usa,Ralph_Arnold,Ralph Arnold,–,,'69 Chevrolet,142,145,running,0,79.5
+1972,P,1972_Skagit_150,1972_17_P,6,14,86,usa,Jackie_Kuper,Jackie Kuper,-,,'69 Chevrolet,145,170,running,0,81.25
+1972,P,1972_Skagit_150,1972_17_P,7,13,2,usa,Ralph_Arnold,Ralph Arnold,-,,'69 Chevrolet,142,145,running,0,79.5
 1972,P,1972_Skagit_150,1972_17_P,8,11,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,141,125,running,0,78.25
 1972,P,1972_Skagit_150,1972_17_P,9,12,3,usa,John_Soares_Jr,"John Soares, Jr.","John Soares, Jr.",,'70 Dodge,139,110,running,0,76.75
 1972,P,1972_Skagit_150,1972_17_P,10,20,32,usa,Kevin_Terris,Kevin Terris,Dean Barnicle,,'70 Dodge,132,105,running,0,74
 1972,P,1972_Skagit_150,1972_17_P,11,16,24,usa,Jack_Simpson,Jack Simpson,Jack Simpson,,'72 Ford,125,105,running,0,71.25
-1972,P,1972_Skagit_150,1972_17_P,12,9,22,usa,Jack_Jeffery,Jack Jeffery,–,,'69 Dodge,94,100,ignition,0,62.5
+1972,P,1972_Skagit_150,1972_17_P,12,9,22,usa,Jack_Jeffery,Jack Jeffery,-,,'69 Dodge,94,100,ignition,0,62.5
 1972,P,1972_Skagit_150,1972_17_P,13,7,88,usa,Don_Noel,Don Noel,Don Noel,,'71 Ford,73,100,engine,0,56.25
 1972,P,1972_Skagit_150,1972_17_P,14,10,06,usa,Bill_Butts,Bill Butts,Gary Sigman,,'72 Dodge,48,100,crash,0,49
 1972,P,1972_Skagit_150,1972_17_P,15,4,09,usa,Carl_Adams,Carl Adams,Paul Burchard,,'71 Ford,41,100,oil cooler,0,46.25
@@ -442,7 +442,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1972,P,1972_Redwood_Acres_100,1972_18_P,11,10,32,usa,Jim_Walker_(2),Jim Walker,Jim Walker,,'69 Mercury,119,110,running,0,0
 1972,P,1972_Redwood_Acres_100,1972_18_P,12,12,88,usa,Don_Noel,Don Noel,Don Noel,,'71 Ford,92,105,engine,0,62
 1972,P,1972_Redwood_Acres_100,1972_18_P,13,3,09,usa,Carl_Adams,Carl Adams,Paul Burchard,,'71 Ford,66,100,transmission,0,54.5
-1972,P,1972_Redwood_Acres_100,1972_18_P,14,14,75,usa,Bill_ONeil,Bill O'Neil,–,,'70 Chevrolet,44,100,differential,0,48
+1972,P,1972_Redwood_Acres_100,1972_18_P,14,14,75,usa,Bill_ONeil,Bill O'Neil,-,,'70 Chevrolet,44,100,differential,0,48
 1972,P,1972_Redwood_Acres_100,1972_18_P,15,15,2,usa,Johnny_Steele,Johnny Steele,Johnny Steele,,'70 Ford,8,100,engine,0,38
 1972,P,1972_Las_Vegas_Lucky_21_150,1972_19_P,1,3,04,usa,Hershel_McGriff,Hershel McGriff,Beryl Jackson,,'70 Plymouth,150,1450,running,53,87.5
 1972,P,1972_Las_Vegas_Lucky_21_150,1972_19_P,2,2,02,usa,Dick_Bown,Dick Bown,Mike Ober,,'72 Plymouth,148,950,running,0,86
@@ -575,24 +575,24 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1972,P,1972_Evergreen_250,1972_24_P,9,10,37,usa,Chuck_Wahl,Chuck Wahl,DuWayne Wahl,,'72 Ford,242,425,running,0,102.5
 1972,P,1972_Evergreen_250,1972_24_P,10,12,95,usa,Bob_Kauf,Bob Kauf,Paul Stockwell,,'72 Chevrolet,240,375,running,0,101
 1972,P,1972_Evergreen_250,1972_24_P,11,18,4,usa,Dick_Kranzler,Dick Kranzler,Dick Kranzler,,'72 Chevrolet,232,325,running,0,98
-1972,P,1972_Evergreen_250,1972_24_P,12,22,6,usa,Jackie_Kuper,Jackie Kuper,–,,'69 Chevrolet,231,275,running,0,0
+1972,P,1972_Evergreen_250,1972_24_P,12,22,6,usa,Jackie_Kuper,Jackie Kuper,-,,'69 Chevrolet,231,275,running,0,0
 1972,P,1972_Evergreen_250,1972_24_P,13,16,00,usa,Frank_James,Frank James,Jim Calder,,'72 Chevrolet,230,250,running,0,95.5
 1972,P,1972_Evergreen_250,1972_24_P,14,26,78,usa,Bob_England,Bob England,Bob England,,'69 Chevrolet,230,240,running,0,0
 1972,P,1972_Evergreen_250,1972_24_P,15,14,09,usa,Carl_Adams,Carl Adams,Paul Burchard,,'71 Ford,229,230,running,0,93.25
 1972,P,1972_Evergreen_250,1972_24_P,16,6,3,usa,John_Soares_Jr,"John Soares, Jr.","John Soares, Jr.",,'70 Dodge,194,225,running,0,83.5
 1972,P,1972_Evergreen_250,1972_24_P,17,5,02,usa,Dick_Bown,Dick Bown,Mike Ober,,'72 Plymouth,192,220,running,0,82
-1972,P,1972_Evergreen_250,1972_24_P,18,8,49,usa,Chuck_Bigelow,Chuck Bigelow,–,,'69 Dodge,174,210,crash,0,76.5
+1972,P,1972_Evergreen_250,1972_24_P,18,8,49,usa,Chuck_Bigelow,Chuck Bigelow,-,,'69 Dodge,174,210,crash,0,76.5
 1972,P,1972_Evergreen_250,1972_24_P,19,28,68,usa,Don_Simkins,Don Simkins,Don Simkins,,'70 Oldsmobile,152,205,oil leak,0,70
 1972,P,1972_Evergreen_250,1972_24_P,20,20,91,usa,Johnny_Anderson,Johnny Anderson,Don Nuzum,,'69 Chevrolet,133,200,crash,0,64.25
 1972,P,1972_Evergreen_250,1972_24_P,21,27,31,usa,Markey_James,Markey James,Tony Oddo,,'72 Chevrolet,126,190,crash,0,61.5
 1972,P,1972_Evergreen_250,1972_24_P,22,1,04,usa,Hershel_McGriff,Hershel McGriff,Beryl Jackson,,'70 Plymouth,111,280,timing chain,63,56.75
-1972,P,1972_Evergreen_250,1972_24_P,23,9,22,usa,Jack_Jeffery,Jack Jeffery,–,,'70 Dodge,99,170,differential,0,52.75
+1972,P,1972_Evergreen_250,1972_24_P,23,9,22,usa,Jack_Jeffery,Jack Jeffery,-,,'70 Dodge,99,170,differential,0,52.75
 1972,P,1972_Evergreen_250,1972_24_P,24,24,47,usa,Sam_Stanley,Sam Stanley,Charles Wagoner,,'71 Ford,88,160,engine,0,49
 1972,P,1972_Evergreen_250,1972_24_P,25,7,26,usa,Carl_Joiner,Carl Joiner,Dean Thorne,,'69 Chevrolet,60,150,engine,0,41
 1972,P,1972_Evergreen_250,1972_24_P,26,29,1,usa,Don_Hall,Don Hall,Hall Racing,,'69 Chevrolet,39,150,engine,0,0
 1972,P,1972_Evergreen_250,1972_24_P,27,30,2,usa,Johnny_Steele,Johnny Steele,Johnny Steele,,'70 Ford,36,150,ignition,0,33
-1972,P,1972_Evergreen_250,1972_24_P,28,25,73,usa,Louis_Williams,Louis Williams,–,,'69 Plymouth,28,150,engine,0,0
-1972,P,1972_Evergreen_250,1972_24_P,29,21,28,usa,Ralph_Arnold,Ralph Arnold,–,,'69 Ford,12,140,engine,0,25
+1972,P,1972_Evergreen_250,1972_24_P,28,25,73,usa,Louis_Williams,Louis Williams,-,,'69 Plymouth,28,150,engine,0,0
+1972,P,1972_Evergreen_250,1972_24_P,29,21,28,usa,Ralph_Arnold,Ralph Arnold,-,,'69 Ford,12,140,engine,0,25
 1972,P,1972_Evergreen_250,1972_24_P,30,23,38,usa,Jimmy_Insolo,Jimmy Insolo,Roger Paquette,,'72 Chevrolet,7,130,water leak,0,22.75
 1972,P,1972_Umatilla_125,1972_25_P,1,1,96,usa,Ray_Elder,Ray Elder,Olympia Brewing Co.,,'71 Dodge,125,1350,running,125,81.25
 1972,P,1972_Umatilla_125,1972_25_P,2,4,06,usa,Bill_Butts,Bill Butts,Gary Sigman,,'72 Dodge,125,750,running,0,80.25
@@ -600,12 +600,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1972,P,1972_Umatilla_125,1972_25_P,4,2,04,usa,Hershel_McGriff,Hershel McGriff,Beryl Jackson,,'70 Plymouth,125,295,running,0,78.25
 1972,P,1972_Umatilla_125,1972_25_P,5,11,95,usa,Bob_Kauf,Bob Kauf,Paul Stockwell,,'72 Chevrolet,124,250,running,0,77
 1972,P,1972_Umatilla_125,1972_25_P,6,8,09,usa,Carl_Adams,Carl Adams,Paul Burchard,,'71 Ford,124,170,running,0,76
-1972,P,1972_Umatilla_125,1972_25_P,7,12,22,usa,Jack_Jeffery,Jack Jeffery,–,,'70 Dodge,124,145,running,0,75
+1972,P,1972_Umatilla_125,1972_25_P,7,12,22,usa,Jack_Jeffery,Jack Jeffery,-,,'70 Dodge,124,145,running,0,75
 1972,P,1972_Umatilla_125,1972_25_P,8,14,4,usa,Dick_Kranzler,Dick Kranzler,Dick Kranzler,,'72 Chevrolet,124,125,running,0,74
 1972,P,1972_Umatilla_125,1972_25_P,9,9,86,usa,Sonny_Easley,Sonny Easley,Jerry Lankford,,'69 Ford,123,110,running,0,72.75
 1972,P,1972_Umatilla_125,1972_25_P,10,18,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,123,105,running,0,71.75
-1972,P,1972_Umatilla_125,1972_25_P,11,7,19,usa,Larry_Snodderly,Larry Snodderly,–,,'69 Chevrolet,123,105,running,0,70.75
-1972,P,1972_Umatilla_125,1972_25_P,12,5,01,usa,Donnie_Allison,Donnie Allison,–,,'69 Chevrolet,123,100,engine,0,69.75
+1972,P,1972_Umatilla_125,1972_25_P,11,7,19,usa,Larry_Snodderly,Larry Snodderly,-,,'69 Chevrolet,123,105,running,0,70.75
+1972,P,1972_Umatilla_125,1972_25_P,12,5,01,usa,Donnie_Allison,Donnie Allison,-,,'69 Chevrolet,123,100,engine,0,69.75
 1972,P,1972_Umatilla_125,1972_25_P,13,15,84,usa,J_C_Danielsen,J.C. Danielsen,Jim Danielson,,'71 Mercury,121,100,running,0,68.25
 1972,P,1972_Umatilla_125,1972_25_P,14,13,3,usa,John_Soares_Jr,"John Soares, Jr.","John Soares, Jr.",,'70 Dodge,119,100,running,0,66.75
 1972,P,1972_Umatilla_125,1972_25_P,15,10,7,usa,Jack_McCoy,Jack McCoy,Noble Auto Parts,,'72 Dodge,114,100,running,0,64.5
@@ -613,16 +613,16 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1972,P,1972_Umatilla_125,1972_25_P,17,16,00,usa,Frank_James,Frank James,Jim Calder,,'72 Chevrolet,111,100,running,0,61.75
 1972,P,1972_Umatilla_125,1972_25_P,18,3,02,usa,Dick_Bown,Dick Bown,Mike Ober,,'72 Plymouth,109,100,running,0,60.25
 1972,P,1972_Umatilla_125,1972_25_P,19,17,31,usa,Markey_James,Markey James,Tony Oddo,,'72 Chevrolet,109,100,ignition,0,59.25
-1972,P,1972_Umatilla_125,1972_25_P,20,20,85,usa,Wally_Dunham,Wally Dunham,–,,'69 Chevrolet,62,100,transmission,0,46.5
+1972,P,1972_Umatilla_125,1972_25_P,20,20,85,usa,Wally_Dunham,Wally Dunham,-,,'69 Chevrolet,62,100,transmission,0,46.5
 1972,P,1972_Umatilla_125,1972_25_P,21,24,91,usa,Johnny_Anderson,Johnny Anderson,Don Nuzum,,'69 Chevrolet,54,75,overheating,0,43.5
 1972,P,1972_Umatilla_125,1972_25_P,22,21,38,usa,Jimmy_Insolo,Jimmy Insolo,Roger Paquette,,'72 Chevrolet,42,75,engine,0,39.5
 1972,P,1972_Umatilla_125,1972_25_P,23,23,47,usa,Johnny_Steele,Johnny Steele,Charles Wagoner,,'71 Ford,15,75,oil leak,0,31.75
-1972,P,1972_Umatilla_125,1972_25_P,24,19,77,none,Dick_Barton,Dick Barton,–,,'69 Chevrolet,6,75,ignition,0,28.5
+1972,P,1972_Umatilla_125,1972_25_P,24,19,77,none,Dick_Barton,Dick Barton,-,,'69 Chevrolet,6,75,ignition,0,28.5
 1972,P,1972_Yakima_125,1972_26_P,1,3,7,usa,Jack_McCoy,Jack McCoy,Noble Auto Parts,,'72 Dodge,125,1750,running,21,81.25
 1972,P,1972_Yakima_125,1972_26_P,2,6,94,usa,Harry_Jefferson,Harry Jefferson,George Jefferson,,'69 Ford,125,1175,running,0,0
 1972,P,1972_Yakima_125,1972_26_P,3,5,06,usa,Bill_Butts,Bill Butts,Gary Sigman,,'72 Dodge,125,775,running,0,79.25
 1972,P,1972_Yakima_125,1972_26_P,4,2,04,usa,Hershel_McGriff,Hershel McGriff,Beryl Jackson,,'70 Plymouth,125,375,running,0,78.25
-1972,P,1972_Yakima_125,1972_26_P,5,8,49,usa,Chuck_Bigelow,Chuck Bigelow,–,,'69 Dodge,124,275,running,0,77
+1972,P,1972_Yakima_125,1972_26_P,5,8,49,usa,Chuck_Bigelow,Chuck Bigelow,-,,'69 Dodge,124,275,running,0,77
 1972,P,1972_Yakima_125,1972_26_P,6,12,84,usa,J_C_Danielsen,J.C. Danielsen,Jim Danielson,,'71 Mercury,123,200,running,0,75.75
 1972,P,1972_Yakima_125,1972_26_P,7,16,41,usa,Ernie_Stierly,Ernie Stierly,Ernie Stierly,,'69 Chevrolet,122,175,running,0,74.5
 1972,P,1972_Yakima_125,1972_26_P,8,4,96,usa,Ray_Elder,Ray Elder,Olympia Brewing Co.,,'72 Dodge,122,365,running,0,73.5
@@ -634,13 +634,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1972,P,1972_Yakima_125,1972_26_P,14,21,31,usa,Markey_James,Markey James,Tony Oddo,,'72 Chevrolet,119,100,running,0,66.75
 1972,P,1972_Yakima_125,1972_26_P,15,19,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,108,100,running,0,63
 1972,P,1972_Yakima_125,1972_26_P,16,1,02,usa,Dick_Bown,Dick Bown,Mike Ober,,'72 Plymouth,105,100,differential,104,61.25
-1972,P,1972_Yakima_125,1972_26_P,17,15,19,usa,Larry_Snodderly,Larry Snodderly,–,,'69 Chevrolet,72,100,overheating,0,52
+1972,P,1972_Yakima_125,1972_26_P,17,15,19,usa,Larry_Snodderly,Larry Snodderly,-,,'69 Chevrolet,72,100,overheating,0,52
 1972,P,1972_Yakima_125,1972_26_P,18,24,47,usa,Johnny_Steele,Johnny Steele,Charles Wagoner,,'71 Ford,65,80,engine,0,48.25
 1972,P,1972_Yakima_125,1972_26_P,19,9,26,usa,Donnie_Allison,Donnie Allison,Dean Thorne,,'69 Chevrolet,45,75,lug nut,0,0
 1972,P,1972_Yakima_125,1972_26_P,20,7,3,usa,Bill_Amick,Bill Amick,Bill Amick,,'69 Ford,33,70,steering,0,0
 1972,P,1972_Yakima_125,1972_26_P,21,11,95,usa,Bob_Kauf,Bob Kauf,Paul Stockwell,,'72 Chevrolet,27,70,oil pan,0,35.75
-1972,P,1972_Yakima_125,1972_26_P,22,18,73,usa,Louis_Williams,Louis Williams,–,,'69 Plymouth,26,70,engine,0,0
-1972,P,1972_Yakima_125,1972_26_P,23,22,6,usa,John_Soares_Jr,"John Soares, Jr.",–,,'72 Oldsmobile,25,60,crash,0,33.25
+1972,P,1972_Yakima_125,1972_26_P,22,18,73,usa,Louis_Williams,Louis Williams,-,,'69 Plymouth,26,70,engine,0,0
+1972,P,1972_Yakima_125,1972_26_P,23,22,6,usa,John_Soares_Jr,"John Soares, Jr.",-,,'72 Oldsmobile,25,60,crash,0,33.25
 1972,P,1972_Yakima_125,1972_26_P,24,23,14,usa,Willie_McNeal,Willie McNeal,Frances McNeal,,'69 Chevrolet,24,55,crash,0,0
 1972,P,1972_Yakima_125,1972_26_P,25,25,78,usa,Bob_England,Bob England,Bob England,,'69 Chevrolet,1,55,engine,0,0
 1972,P,1972_Portland_200,1972_27_P,1,2,04,usa,Hershel_McGriff,Hershel McGriff,Beryl Jackson,,'70 Plymouth,200,1850,running,125,100
@@ -654,10 +654,10 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1972,P,1972_Portland_200,1972_27_P,9,16,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,194,200,running,0,90.5
 1972,P,1972_Portland_200,1972_27_P,10,11,95,usa,Bob_Kauf,Bob Kauf,Paul Stockwell,,'72 Chevrolet,193,175,running,0,89.25
 1972,P,1972_Portland_200,1972_27_P,11,10,09,usa,Carl_Adams,Carl Adams,Paul Burchard,,'71 Ford,191,150,running,0,87.75
-1972,P,1972_Portland_200,1972_27_P,12,12,3,usa,Bob_England,Bob England,–,,'70 Dodge,186,150,running,0,85.5
+1972,P,1972_Portland_200,1972_27_P,12,12,3,usa,Bob_England,Bob England,-,,'70 Dodge,186,150,running,0,85.5
 1972,P,1972_Portland_200,1972_27_P,13,18,41,usa,Ernie_Stierly,Ernie Stierly,Ernie Stierly,,'69 Chevrolet,186,125,running,0,84.5
 1972,P,1972_Portland_200,1972_27_P,14,15,4,usa,Dick_Kranzler,Dick Kranzler,Dick Kranzler,,'72 Chevrolet,186,125,running,0,83.5
-1972,P,1972_Portland_200,1972_27_P,15,4,73,usa,John_Soares_Jr,"John Soares, Jr.",–,,'70 Ford,184,125,running,0,82
+1972,P,1972_Portland_200,1972_27_P,15,4,73,usa,John_Soares_Jr,"John Soares, Jr.",-,,'70 Ford,184,125,running,0,82
 1972,P,1972_Portland_200,1972_27_P,16,21,84,usa,J_C_Danielsen,J.C. Danielsen,Jim Danielson,,'71 Mercury,177,125,running,0,79.25
 1972,P,1972_Portland_200,1972_27_P,17,17,31,usa,Markey_James,Markey James,Tony Oddo,,'72 Chevrolet,168,125,running,0,76
 1972,P,1972_Portland_200,1972_27_P,18,13,86,usa,Sonny_Easley,Sonny Easley,Jerry Lankford,,'69 Ford,126,125,head gasket,0,64.5
@@ -704,7 +704,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1972,P,1972_Sacramento_100,1972_29_P,10,17,4,usa,Dick_Kranzler,Dick Kranzler,Dick Kranzler,,'72 Chevrolet,71,150,running,0,58.75
 1972,P,1972_Sacramento_100,1972_29_P,11,11,3,usa,John_Soares_Jr,"John Soares, Jr.","John Soares, Jr.",,'70 Dodge,71,125,running,0,57.75
 1972,P,1972_Sacramento_100,1972_29_P,12,5,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,65,120,running,0,55.25
-1972,P,1972_Sacramento_100,1972_29_P,13,16,75,usa,Larry_Pries,Larry Pries,–,,'69 Chevrolet,57,100,running,0,52.25
+1972,P,1972_Sacramento_100,1972_29_P,13,16,75,usa,Larry_Pries,Larry Pries,-,,'69 Chevrolet,57,100,running,0,52.25
 1972,P,1972_Sacramento_100,1972_29_P,14,14,57,usa,Don_Graham,Don Graham,Don Guy,,'72 Chevrolet,56,100,running,0,51
 1972,P,1972_Sacramento_100,1972_29_P,15,19,31,usa,Markey_James,Markey James,Tony Oddo,,'72 Chevrolet,44,100,a frame,0,47
 1972,P,1972_Sacramento_100,1972_29_P,16,20,2,usa,Johnny_Steele,Johnny Steele,Johnny Steele,,'70 Ford,39,100,shocks,0,44.75
@@ -724,13 +724,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1972,P,1972_Sierra_Mesa_200,1972_30_P,9,11,82,usa,Ron_Gautsche,Ron Gautsche,Tognotti's Speed Shop,,'71 Ford,180,215,tires,0,87
 1972,P,1972_Sierra_Mesa_200,1972_30_P,10,20,57W,usa,Don_Graham,Don Graham,Sierra Tire Co.,,'72 Chevrolet,180,200,running,0,86
 1972,P,1972_Sierra_Mesa_200,1972_30_P,11,10,37,usa,Chuck_Wahl,Chuck Wahl,DuWayne Wahl,,'72 Chevrolet,161,200,differential,0,80.25
-1972,P,1972_Sierra_Mesa_200,1972_30_P,12,7,26,usa,Chuck_Bown,Chuck Bown,–,,'72 Chevrolet,141,175,axle,0,74.25
+1972,P,1972_Sierra_Mesa_200,1972_30_P,12,7,26,usa,Chuck_Bown,Chuck Bown,-,,'72 Chevrolet,141,175,axle,0,74.25
 1972,P,1972_Sierra_Mesa_200,1972_30_P,13,8,06,usa,Bill_Butts,Bill Butts,Gary Sigman,,'72 Dodge,138,150,overheating,0,72.5
 1972,P,1972_Sierra_Mesa_200,1972_30_P,14,9,4,usa,Dick_Kranzler,Dick Kranzler,Dick Kranzler,,'72 Chevrolet,112,150,overheating,0,65
 1972,P,1972_Sierra_Mesa_200,1972_30_P,15,15,78,usa,Bob_England,Bob England,Bob England,,'70 Chevrolet,98,150,suspension,0,60.5
 1972,P,1972_Sierra_Mesa_200,1972_30_P,16,18,34,usa,Ron_McKenna,Ron McKenna,Barbara Graham,,'71 Chevrolet,90,125,oil pressure,0,57.5
 1972,P,1972_Sierra_Mesa_200,1972_30_P,17,6,15,usa,Paul_Dorrity,Paul Dorrity,Glen Dorrity,,'69 Chevrolet,79,115,running,0,53.75
 1972,P,1972_Sierra_Mesa_200,1972_30_P,18,19,63,usa,Frank_Burnett,Frank Burnett,Paul Jenkins,,'69 Plymouth,49,110,engine,0,45.25
-1972,P,1972_Sierra_Mesa_200,1972_30_P,19,14,89,usa,Clint_Hutchins,Clint Hutchins,–,,'72 Mercury,18,100,overheating,0,36.5
+1972,P,1972_Sierra_Mesa_200,1972_30_P,19,14,89,usa,Clint_Hutchins,Clint Hutchins,-,,'72 Mercury,18,100,overheating,0,36.5
 1972,P,1972_Sierra_Mesa_200,1972_30_P,20,17,01,usa,Pete_Torres,Pete Torres,Pete Torres,,'69 Ford,2,100,rod bearing,0,31.5
-1972,P,1972_Sierra_Mesa_200,1972_30_P,21,21,11,usa,John_Soares_Jr,"John Soares, Jr.",–,,'70 Plymouth,1,90,engine,0,30.25
+1972,P,1972_Sierra_Mesa_200,1972_30_P,21,21,11,usa,John_Soares_Jr,"John Soares, Jr.",-,,'70 Plymouth,1,90,engine,0,30.25

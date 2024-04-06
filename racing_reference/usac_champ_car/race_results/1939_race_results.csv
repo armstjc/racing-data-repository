@@ -34,7 +34,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1939,UO,1939_International_500,1939_01,33,31,53,usa,Deacon_Litz,Deacon Litz,Maserati,,Maserati / Maserati SC,7,525,valve,0,
 1939,UO,1939_Milwaukee_100,1939_02,1,4,2,usa,Babe_Stapp,Babe Stapp,Boyle Racing Headquarters,,Offy,100,2200,running,18,200
 1939,UO,1939_Milwaukee_100,1939_02,2,13,41,usa,George_Barringer,George Barringer,Bill White,,Weil / Miller,100,1500,running,0,165
-1939,UO,1939_Milwaukee_100,1939_02,3,15,28,usa,Louis_Durant,Louis Durant,Schoof's,,–,100,1000,running,0,135
+1939,UO,1939_Milwaukee_100,1939_02,3,15,28,usa,Louis_Durant,Louis Durant,Schoof's,,-,100,1000,running,0,135
 1939,UO,1939_Milwaukee_100,1939_02,4,9,21,usa,Russ_Snowberger,Russ Snowberger,Miller D-X,,Snowberger / Miller,99,700,running,0,110
 1939,UO,1939_Milwaukee_100,1939_02,5,14,23,canada,George_Robson,George Robson,W. A. Rotary Valve,,Miller / Offy,99,500,running,0,90
 1939,UO,1939_Milwaukee_100,1939_02,6,11,6,usa,Duke_Nalon,Duke Nalon,Burd Piston Ring,,Offy,99,350,running,0,75
@@ -50,16 +50,16 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1939,UO,1939_Milwaukee_100,1939_02,16,16,26,usa,Frank_McGurk,Frank McGurk,Conze Brothers,,Offy,21,,connecting rod,0,
 1939,UO,1939_Milwaukee_100,1939_02,17,3,15,usa,Rex_Mays,Rex Mays,Offenhauser,,Offy,8,,wrist pin,0,
 1939,UO,1939_Syracuse_100,1939_03,1,5,16,usa,Mauri_Rose,Mauri Rose,Burd Piston Ring,,Shaw / Offy,100,2200,running,46,200
-1939,UO,1939_Syracuse_100,1939_03,2,3,3,usa,George_Connor,George Connor,Boyle Racing Headquarters,,–,100,1200,running,0,165
+1939,UO,1939_Syracuse_100,1939_03,2,3,3,usa,George_Connor,George Connor,Boyle Racing Headquarters,,-,100,1200,running,0,165
 1939,UO,1939_Syracuse_100,1939_03,3,4,4,usa,Ted_Horn,Ted Horn,Riverside Tire,,Miller / Miller,100,900,running,0,135
 1939,UO,1939_Syracuse_100,1939_03,4,7,19,usa,Floyd_Davis,Floyd Davis,West Allis Auto,,Wetteroth / Offy,100,600,running,0,110
 1939,UO,1939_Syracuse_100,1939_03,5,10,41,usa,George_Barringer,George Barringer,Bill White,,Weil / Offy,100,400,running,0,90
 1939,UO,1939_Syracuse_100,1939_03,6,11,38,usa,Frank_Brisko,Frank Brisko,National Seal,,Blume / Brisko,100,350,running,0,75
-1939,UO,1939_Syracuse_100,1939_03,7,13,29,usa,Louis_Durant,Louis Durant,Schoof's,,–,99,325,running,0,65
+1939,UO,1939_Syracuse_100,1939_03,7,13,29,usa,Louis_Durant,Louis Durant,Schoof's,,-,99,325,running,0,65
 1939,UO,1939_Syracuse_100,1939_03,8,12,47,usa,Shorty_Cantlon,Shorty Cantlon,Associated Enterprises,,Stevens / Offy,99,300,running,0,55
 1939,UO,1939_Syracuse_100,1939_03,9,14,44,usa,Emil_Andres,Emil Andres,Riverside Tire,,Stevens / Offy,98,275,running,0,45
 1939,UO,1939_Syracuse_100,1939_03,10,9,23,canada,George_Robson,George Robson,W. A. Rotary Valve,,Miller / Offy,66,250,engine,0,35
-1939,UO,1939_Syracuse_100,1939_03,11,6,2,usa,Babe_Stapp,Babe Stapp,Boyle Racing Headquarters,,Offy,–,100,–,0,25
+1939,UO,1939_Syracuse_100,1939_03,11,6,2,usa,Babe_Stapp,Babe Stapp,Boyle Racing Headquarters,,Offy,-,100,-,0,25
 1939,UO,1939_Syracuse_100,1939_03,12,2,6,usa,Duke_Nalon,Duke Nalon,Burd Piston Ring,,Offy,54,200,engine,26,15
 1939,UO,1939_Syracuse_100,1939_03,13,1,15,usa,Rex_Mays,Rex Mays,Offenhauser,,Offy,28,100,crash,28,
-1939,UO,1939_Syracuse_100,1939_03,14,8,26,usa,Frank_McGurk,Frank McGurk,Conze Brothers,,Offy,20,100,–,0,
+1939,UO,1939_Syracuse_100,1939_03,14,8,26,usa,Frank_McGurk,Frank McGurk,Conze Brothers,,Offy,20,100,-,0,

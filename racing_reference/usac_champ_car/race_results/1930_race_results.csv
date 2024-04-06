@@ -1,19 +1,19 @@
 season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
 1930,UO,1930_Langhorne_Race,1930_01,1,1,7,usa,Bill_Cummings,Bill Cummings,Century Tire,,Miller / Miller,100,2000,running,100,120
-1930,UO,1930_Langhorne_Race,1930_01,2,–,12,usa,Deacon_Litz,Deacon Litz,Duesenberg,,Duesenberg / Duesenberg,100,800,running,0,90
-1930,UO,1930_Langhorne_Race,1930_01,3,–,8,usa,Freddie_Winnai,Freddie Winnai,Duesenberg,,Duesenberg / Duesenberg,100,500,running,0,80
-1930,UO,1930_Langhorne_Race,1930_01,4,–,36,usa,Bill_Albertson,Bill Albertson,Socony-Miller,,X / Miller,100,400,running,0,70
-1930,UO,1930_Langhorne_Race,1930_01,5,–,9,usa,Frank_Brisko,Frank Brisko,Miller,,X / Miller,100,350,running,0,60
-1930,UO,1930_Langhorne_Race,1930_01,6,–,21,usa,Zeke_Meyer,Zeke Meyer,Miller,,Miller / Miller,100,300,running,0,50
-1930,UO,1930_Langhorne_Race,1930_01,7,–,3,usa,Wilbur_Shaw,Wilbur Shaw,Empire State Motors,,Smith / Miller,100,250,running,0,25.2
-1930,UO,1930_Langhorne_Race,1930_01,8,–,4,usa,Fred_Frame,Fred Frame,Miller,,Miller / Miller,100,200,running,0,30
-1930,UO,1930_Langhorne_Race,1930_01,9,–,33,usa,Frank_Farmer,Frank Farmer,Betholine,,Miller / Miller,91,100,crash,0,
-1930,UO,1930_Langhorne_Race,1930_01,10,–,7,usa,Jimmy_Gleason,Jimmy Gleason,Waverly Oil,,Miller / Miller,88,150,running,0,20
-1930,UO,1930_Langhorne_Race,1930_01,11,–,6,usa,Herman_Schurch,Herman Schurch,Miller,,X / Miller,79,,running,0,10
-1930,UO,1930_Langhorne_Race,1930_01,12,–,,usa,Henry_Turgeon,Henry Turgeon,Miller,,X / Miller,77,,running,0,
-1930,UO,1930_Langhorne_Race,1930_01,13,–,23,usa,Al_Stewart,Al Stewart,Duesenberg,,Duesenberg / Duesenberg,31,,crash,0,
-1930,UO,1930_Langhorne_Race,1930_01,14,–,22,usa,Russ_Snowberger,Russ Snowberger,Russell 8,,Snowberger / Studebaker,21,,engine,0,
-1930,UO,1930_Langhorne_Race,1930_01,15,–,1,italy,Ralph_DePalma,Ralph DePalma,Miller,,Miller / Miller,13,,engine,0,
+1930,UO,1930_Langhorne_Race,1930_01,2,-,12,usa,Deacon_Litz,Deacon Litz,Duesenberg,,Duesenberg / Duesenberg,100,800,running,0,90
+1930,UO,1930_Langhorne_Race,1930_01,3,-,8,usa,Freddie_Winnai,Freddie Winnai,Duesenberg,,Duesenberg / Duesenberg,100,500,running,0,80
+1930,UO,1930_Langhorne_Race,1930_01,4,-,36,usa,Bill_Albertson,Bill Albertson,Socony-Miller,,X / Miller,100,400,running,0,70
+1930,UO,1930_Langhorne_Race,1930_01,5,-,9,usa,Frank_Brisko,Frank Brisko,Miller,,X / Miller,100,350,running,0,60
+1930,UO,1930_Langhorne_Race,1930_01,6,-,21,usa,Zeke_Meyer,Zeke Meyer,Miller,,Miller / Miller,100,300,running,0,50
+1930,UO,1930_Langhorne_Race,1930_01,7,-,3,usa,Wilbur_Shaw,Wilbur Shaw,Empire State Motors,,Smith / Miller,100,250,running,0,25.2
+1930,UO,1930_Langhorne_Race,1930_01,8,-,4,usa,Fred_Frame,Fred Frame,Miller,,Miller / Miller,100,200,running,0,30
+1930,UO,1930_Langhorne_Race,1930_01,9,-,33,usa,Frank_Farmer,Frank Farmer,Betholine,,Miller / Miller,91,100,crash,0,
+1930,UO,1930_Langhorne_Race,1930_01,10,-,7,usa,Jimmy_Gleason,Jimmy Gleason,Waverly Oil,,Miller / Miller,88,150,running,0,20
+1930,UO,1930_Langhorne_Race,1930_01,11,-,6,usa,Herman_Schurch,Herman Schurch,Miller,,X / Miller,79,,running,0,10
+1930,UO,1930_Langhorne_Race,1930_01,12,-,,usa,Henry_Turgeon,Henry Turgeon,Miller,,X / Miller,77,,running,0,
+1930,UO,1930_Langhorne_Race,1930_01,13,-,23,usa,Al_Stewart,Al Stewart,Duesenberg,,Duesenberg / Duesenberg,31,,crash,0,
+1930,UO,1930_Langhorne_Race,1930_01,14,-,22,usa,Russ_Snowberger,Russ Snowberger,Russell 8,,Snowberger / Studebaker,21,,engine,0,
+1930,UO,1930_Langhorne_Race,1930_01,15,-,1,italy,Ralph_DePalma,Ralph DePalma,Miller,,Miller / Miller,13,,engine,0,
 1930,UO,1930_International_500,1930_02,1,1,4,usa,Billy_Arnold,Billy Arnold,Miller-Hartz,,Summers FD / Miller,200,36800,running,198,
 1930,UO,1930_International_500,1930_02,2,3,16,usa,Shorty_Cantlon,Shorty Cantlon,Miller-Schofield,,Stevens / Miller,200,10000,running,0,
 1930,UO,1930_International_500,1930_02,3,4,23,usa,Louis_Schneider,Louis Schneider,Bowes Seal Fast,,Stevens / Miller,200,5000,running,0,
@@ -52,20 +52,20 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1930,UO,1930_International_500,1930_02,36,36,48,usa,Rick_Decker,Rick Decker,Hoosier Pete / Clemons Motors,,Mercedes / Mercedes,8,280,oil tank,0,
 1930,UO,1930_International_500,1930_02,37,28,26,italy,Baconin_Borzacchini,Baconin Borzacchini,Alfieri Maserati,,Maserati / Maserati,7,285,magneto,0,
 1930,UO,1930_International_500,1930_02,38,5,18,usa,Chet_Gardner,Chet Gardner,Buckeye Duesenberg,,Duesenberg / Duesenberg,1,275,spun out,0,
-1930,UO,1930_Detroit_Race,1930_03,1,4,3,usa,Wilbur_Shaw,Wilbur Shaw,Empire State Motors,,Smith / Miller,100,,running,–,120
-1930,UO,1930_Detroit_Race,1930_03,2,8,22,usa,Russ_Snowberger,Russ Snowberger,Russell 8,,Studebaker / Studebaker,100,,running,–,90
-1930,UO,1930_Detroit_Race,1930_03,3,7,6,usa,Bill_Cummings,Bill Cummings,Duesenberg,,Duesenberg / Duesenberg,100,,running,–,80
-1930,UO,1930_Detroit_Race,1930_03,4,9,17,usa,Ernie_Triplett,Ernie Triplett,MAVV,,Whippet / Miller,99,,running,–,70
-1930,UO,1930_Detroit_Race,1930_03,5,14,41,usa,Chet_Miller,Chet Miller,Fronty-Ford,,Ford / Fronty-Ford,95,,running,–,60
-1930,UO,1930_Detroit_Race,1930_03,6,10,35,usa,Luther_Johnson,Luther Johnson,Romthe,,Studebaker / Studebaker,88,,running,–,50
-1930,UO,1930_Detroit_Race,1930_03,7,11,25,usa,Stubby_Stubblefield,Stubby Stubblefield,Allen-Miller Products,,Miller / Miller,87,,crash,–,
-1930,UO,1930_Detroit_Race,1930_03,8,3,8,usa,Babe_Stapp,Babe Stapp,Duesenberg,,Duesenberg / Duesenberg,–,,clutch,–,
-1930,UO,1930_Detroit_Race,1930_03,9,13,21,usa,Zeke_Meyer,Zeke Meyer,Miller,,Miller / Miller,73,,ignition,–,
-1930,UO,1930_Detroit_Race,1930_03,10,6,23,usa,Louis_Schneider,Louis Schneider,Bowes Seal Fast,,Stevens / Miller,50,,crash,–,
-1930,UO,1930_Detroit_Race,1930_03,11,12,33,usa,Frank_Farmer,Frank Farmer,Betholine,,Miller / Miller,22,,driveshaft,–,
-1930,UO,1930_Detroit_Race,1930_03,12,2,16,usa,Shorty_Cantlon,Shorty Cantlon,Miller-Schofield,,Stevens / Miller,21,,axle,–,
-1930,UO,1930_Detroit_Race,1930_03,13,1,18,usa,Chet_Gardner,Chet Gardner,Buckeye Duesenberg,,Duesenberg / Duesenberg,21,,crash,–,
-1930,UO,1930_Detroit_Race,1930_03,14,5,4,usa,Billy_Arnold,Billy Arnold,Miller-Hartz,,Summers / Miller,5,,oil leak,–,
+1930,UO,1930_Detroit_Race,1930_03,1,4,3,usa,Wilbur_Shaw,Wilbur Shaw,Empire State Motors,,Smith / Miller,100,,running,-,120
+1930,UO,1930_Detroit_Race,1930_03,2,8,22,usa,Russ_Snowberger,Russ Snowberger,Russell 8,,Studebaker / Studebaker,100,,running,-,90
+1930,UO,1930_Detroit_Race,1930_03,3,7,6,usa,Bill_Cummings,Bill Cummings,Duesenberg,,Duesenberg / Duesenberg,100,,running,-,80
+1930,UO,1930_Detroit_Race,1930_03,4,9,17,usa,Ernie_Triplett,Ernie Triplett,MAVV,,Whippet / Miller,99,,running,-,70
+1930,UO,1930_Detroit_Race,1930_03,5,14,41,usa,Chet_Miller,Chet Miller,Fronty-Ford,,Ford / Fronty-Ford,95,,running,-,60
+1930,UO,1930_Detroit_Race,1930_03,6,10,35,usa,Luther_Johnson,Luther Johnson,Romthe,,Studebaker / Studebaker,88,,running,-,50
+1930,UO,1930_Detroit_Race,1930_03,7,11,25,usa,Stubby_Stubblefield,Stubby Stubblefield,Allen-Miller Products,,Miller / Miller,87,,crash,-,
+1930,UO,1930_Detroit_Race,1930_03,8,3,8,usa,Babe_Stapp,Babe Stapp,Duesenberg,,Duesenberg / Duesenberg,-,,clutch,-,
+1930,UO,1930_Detroit_Race,1930_03,9,13,21,usa,Zeke_Meyer,Zeke Meyer,Miller,,Miller / Miller,73,,ignition,-,
+1930,UO,1930_Detroit_Race,1930_03,10,6,23,usa,Louis_Schneider,Louis Schneider,Bowes Seal Fast,,Stevens / Miller,50,,crash,-,
+1930,UO,1930_Detroit_Race,1930_03,11,12,33,usa,Frank_Farmer,Frank Farmer,Betholine,,Miller / Miller,22,,driveshaft,-,
+1930,UO,1930_Detroit_Race,1930_03,12,2,16,usa,Shorty_Cantlon,Shorty Cantlon,Miller-Schofield,,Stevens / Miller,21,,axle,-,
+1930,UO,1930_Detroit_Race,1930_03,13,1,18,usa,Chet_Gardner,Chet Gardner,Buckeye Duesenberg,,Duesenberg / Duesenberg,21,,crash,-,
+1930,UO,1930_Detroit_Race,1930_03,14,5,4,usa,Billy_Arnold,Billy Arnold,Miller-Hartz,,Summers / Miller,5,,oil leak,-,
 1930,UO,1930_Altoona_Race_1,1930_04,1,1,4,usa,Billy_Arnold,Billy Arnold,Miller-Hartz,,Summers / Miller,160,,running,160,240
 1930,UO,1930_Altoona_Race_1,1930_04,2,7,12,usa,Deacon_Litz,Deacon Litz,Henry Maley,,Miller / Miller,160,,running,0,180
 1930,UO,1930_Altoona_Race_1,1930_04,3,10,33,usa,Frank_Farmer,Frank Farmer,Betholine,,Miller / Miller,160,,running,0,160
@@ -90,8 +90,8 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1930,UO,1930_Akron_Race,1930_05,6,3,33,usa,Frank_Farmer,Frank Farmer,Betholine,,Miller / Miller,189,,running,0,50
 1930,UO,1930_Akron_Race,1930_05,7,1,3,usa,Wilbur_Shaw,Wilbur Shaw,Empire State Motors,,Smith / Miller,185,,running,26,40
 1930,UO,1930_Akron_Race,1930_05,8,9,21,usa,Zeke_Meyer,Zeke Meyer,Miller,,Miller / Miller,164,,ignition,0,
-1930,UO,1930_Akron_Race,1930_05,9,5,10,usa,Mel_Keneally,Mel Keneally,MAVV,,Whippet / Miller,–,,dnf,0,
-1930,UO,1930_Akron_Race,1930_05,10,8,25,usa,Whiz_Sloan,Whiz Sloan,Leiber,,X / Fronty-Ford,–,,clutch,0,
+1930,UO,1930_Akron_Race,1930_05,9,5,10,usa,Mel_Keneally,Mel Keneally,MAVV,,Whippet / Miller,-,,dnf,0,
+1930,UO,1930_Akron_Race,1930_05,10,8,25,usa,Whiz_Sloan,Whiz Sloan,Leiber,,X / Fronty-Ford,-,,clutch,0,
 1930,UO,1930_Bridgeville_Race,1930_06,1,4,3,usa,Wilbur_Shaw,Wilbur Shaw,Empire State Motors,,Smith / Miller,200,,running,187,120
 1930,UO,1930_Bridgeville_Race,1930_06,2,7,22,usa,Russ_Snowberger,Russ Snowberger,Russell 8,,Studebaker / Studebaker,200,,running,0,90
 1930,UO,1930_Bridgeville_Race,1930_06,3,5,63,usa,Bert_Karnatz,Bert Karnatz,Fronty-Ford,,Ford / Fronty-Ford,200,,running,0,80
@@ -116,18 +116,18 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1930,UO,1930_Altoona_Race_2,1930_07,10,10,19,usa,Speed_Gardner,Speed Gardner,Fred Clemons,,Miller / Miller,53,,running,0,11.6
 1930,UO,1930_Altoona_Race_2,1930_07,11,3,25,usa,Stubby_Stubblefield,Stubby Stubblefield,Allen-Miller Products,,Miller / Miller,23,,piston,0,
 1930,UO,1930_Altoona_Race_2,1930_07,12,12,35,usa,Jimmy_Gleason,Jimmy Gleason,Romthe,,Studebaker / Studebaker,18,,connecting rod,0,
-1930,UO,1930_Syracuse_Race,1930_08,1,3,6,usa,Bill_Cummings,Bill Cummings,Duesenberg,,Duesenberg / Duesenberg,100,,running,–,120
-1930,UO,1930_Syracuse_Race,1930_08,2,11,41,usa,Deacon_Litz,Deacon Litz,Miller,,X / Miller,100,,running,–,90
-1930,UO,1930_Syracuse_Race,1930_08,3,10,14,usa,Shorty_Cantlon,Shorty Cantlon,Miller-Schofield,,Stevens / Miller,100,,running,–,80
-1930,UO,1930_Syracuse_Race,1930_08,4,7,9,usa,Stubby_Stubblefield,Stubby Stubblefield,Bowes Seal Fast,,Stevens / Miller,100,,running,–,70
-1930,UO,1930_Syracuse_Race,1930_08,5,2,33,usa,Frank_Farmer,Frank Farmer,Betholine,,Miller / Miller,100,,running,–,60
-1930,UO,1930_Syracuse_Race,1930_08,6,8,16,usa,Frank_Brisko,Frank Brisko,Miller-Schofield,,Stevens / Miller,97,,running,–,50
-1930,UO,1930_Syracuse_Race,1930_08,7,1,5,usa,Billy_Arnold,Billy Arnold,Duesenberg,,Duesenberg / Duesenberg,92,,dnf,–,
-1930,UO,1930_Syracuse_Race,1930_08,8,15,21,usa,Zeke_Meyer,Zeke Meyer,Miller,,Miller / Miller,92,,running,–,40
-1930,UO,1930_Syracuse_Race,1930_08,9,13,52,usa,Gordon_Condon,Gordon Condon,Miller,,X / Miller,86,,running,–,30
-1930,UO,1930_Syracuse_Race,1930_08,10,12,18,usa,Phil_Pardee,Phil Pardee,Buckeye Duesenberg,,Duesenberg / Duesenberg,73,,running,–,20
-1930,UO,1930_Syracuse_Race,1930_08,11,9,22,usa,Russ_Snowberger,Russ Snowberger,Russell 8,,Studebaker / Studebaker,40,,dnf,–,
-1930,UO,1930_Syracuse_Race,1930_08,12,6,52,usa,George_Young,George Young,Miller,,X / Miller,31,,dnf,–,
-1930,UO,1930_Syracuse_Race,1930_08,13,4,4,usa,Fred_Frame,Fred Frame,Miller-Hartz,,Miller / Miller,26,,dnf,–,
-1930,UO,1930_Syracuse_Race,1930_08,14,14,19,usa,Chet_Gardner,Chet Gardner,Buckeye Duesenberg,,Duesenberg / Duesenberg,25,,crash,–,
-1930,UO,1930_Syracuse_Race,1930_08,15,5,1,usa,Louis_Meyer,Louis Meyer,Miller,,Stevens / Miller,5,,dnf,–,
+1930,UO,1930_Syracuse_Race,1930_08,1,3,6,usa,Bill_Cummings,Bill Cummings,Duesenberg,,Duesenberg / Duesenberg,100,,running,-,120
+1930,UO,1930_Syracuse_Race,1930_08,2,11,41,usa,Deacon_Litz,Deacon Litz,Miller,,X / Miller,100,,running,-,90
+1930,UO,1930_Syracuse_Race,1930_08,3,10,14,usa,Shorty_Cantlon,Shorty Cantlon,Miller-Schofield,,Stevens / Miller,100,,running,-,80
+1930,UO,1930_Syracuse_Race,1930_08,4,7,9,usa,Stubby_Stubblefield,Stubby Stubblefield,Bowes Seal Fast,,Stevens / Miller,100,,running,-,70
+1930,UO,1930_Syracuse_Race,1930_08,5,2,33,usa,Frank_Farmer,Frank Farmer,Betholine,,Miller / Miller,100,,running,-,60
+1930,UO,1930_Syracuse_Race,1930_08,6,8,16,usa,Frank_Brisko,Frank Brisko,Miller-Schofield,,Stevens / Miller,97,,running,-,50
+1930,UO,1930_Syracuse_Race,1930_08,7,1,5,usa,Billy_Arnold,Billy Arnold,Duesenberg,,Duesenberg / Duesenberg,92,,dnf,-,
+1930,UO,1930_Syracuse_Race,1930_08,8,15,21,usa,Zeke_Meyer,Zeke Meyer,Miller,,Miller / Miller,92,,running,-,40
+1930,UO,1930_Syracuse_Race,1930_08,9,13,52,usa,Gordon_Condon,Gordon Condon,Miller,,X / Miller,86,,running,-,30
+1930,UO,1930_Syracuse_Race,1930_08,10,12,18,usa,Phil_Pardee,Phil Pardee,Buckeye Duesenberg,,Duesenberg / Duesenberg,73,,running,-,20
+1930,UO,1930_Syracuse_Race,1930_08,11,9,22,usa,Russ_Snowberger,Russ Snowberger,Russell 8,,Studebaker / Studebaker,40,,dnf,-,
+1930,UO,1930_Syracuse_Race,1930_08,12,6,52,usa,George_Young,George Young,Miller,,X / Miller,31,,dnf,-,
+1930,UO,1930_Syracuse_Race,1930_08,13,4,4,usa,Fred_Frame,Fred Frame,Miller-Hartz,,Miller / Miller,26,,dnf,-,
+1930,UO,1930_Syracuse_Race,1930_08,14,14,19,usa,Chet_Gardner,Chet Gardner,Buckeye Duesenberg,,Duesenberg / Duesenberg,25,,crash,-,
+1930,UO,1930_Syracuse_Race,1930_08,15,5,1,usa,Louis_Meyer,Louis Meyer,Miller,,Stevens / Miller,5,,dnf,-,

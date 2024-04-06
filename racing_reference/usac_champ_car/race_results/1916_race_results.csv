@@ -1,14 +1,14 @@
 season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
 1916,UO,1916_Metropolitan_Trophy_Race,1916_01,1,5,11,usa,Eddie_Rickenbacker,Eddie Rickenbacker,Maxwell,,Maxwell / Maxwell,75,,running,17,600
 1916,UO,1916_Metropolitan_Trophy_Race,1916_01,2,3,7,france,Jules_Devigne,Jules Devigne,Delage,,Delage / Delage,75,,running,0,320
-1916,UO,1916_Metropolitan_Trophy_Race,1916_01,3,–,21,canada,Ira_Vail,Ira Vail,Hudson Motor Car,,Hudson / Hudson,75,,running,0,170
-1916,UO,1916_Metropolitan_Trophy_Race,1916_01,4,–,14,usa,Charles_Devlin,Charles Devlin,Duesenberg,,Duesenberg / Duesenberg,75,,running,0,90
-1916,UO,1916_Metropolitan_Trophy_Race,1916_01,5,–,17,usa,George_Adams,George Adams,Adams,,Adams / Duesenberg,75,,running,0,55
-1916,UO,1916_Metropolitan_Trophy_Race,1916_01,6,–,4,usa,Bert_Watson,Bert Watson,J. J. R.,,RiChard / Duesenberg,–,,running,0,35
-1916,UO,1916_Metropolitan_Trophy_Race,1916_01,7,–,19,uk,Dario_Resta,Dario Resta,Peugeot Auto Racing,,Peugeot / Peugeot,58,,engine,44,
-1916,UO,1916_Metropolitan_Trophy_Race,1916_01,8,–,12,italy,Aldo_Franchi,Aldo Franchi,Peusun,,Peugeot / Sunbeam,25,,dnf,0,
-1916,UO,1916_Metropolitan_Trophy_Race,1916_01,9,–,6,usa,Carl_Limberg,Carl Limberg,Delage,,Delage / Delage,14,,fatal crash,14,
-1916,UO,1916_Metropolitan_Trophy_Race,1916_01,10,–,9,usa,Ralph_Mulford,Ralph Mulford,Peugeot Auto Racing,,Peugeot / Peugeot,8,,piston,0,
+1916,UO,1916_Metropolitan_Trophy_Race,1916_01,3,-,21,canada,Ira_Vail,Ira Vail,Hudson Motor Car,,Hudson / Hudson,75,,running,0,170
+1916,UO,1916_Metropolitan_Trophy_Race,1916_01,4,-,14,usa,Charles_Devlin,Charles Devlin,Duesenberg,,Duesenberg / Duesenberg,75,,running,0,90
+1916,UO,1916_Metropolitan_Trophy_Race,1916_01,5,-,17,usa,George_Adams,George Adams,Adams,,Adams / Duesenberg,75,,running,0,55
+1916,UO,1916_Metropolitan_Trophy_Race,1916_01,6,-,4,usa,Bert_Watson,Bert Watson,J. J. R.,,RiChard / Duesenberg,-,,running,0,35
+1916,UO,1916_Metropolitan_Trophy_Race,1916_01,7,-,19,uk,Dario_Resta,Dario Resta,Peugeot Auto Racing,,Peugeot / Peugeot,58,,engine,44,
+1916,UO,1916_Metropolitan_Trophy_Race,1916_01,8,-,12,italy,Aldo_Franchi,Aldo Franchi,Peusun,,Peugeot / Sunbeam,25,,dnf,0,
+1916,UO,1916_Metropolitan_Trophy_Race,1916_01,9,-,6,usa,Carl_Limberg,Carl Limberg,Delage,,Delage / Delage,14,,fatal crash,14,
+1916,UO,1916_Metropolitan_Trophy_Race,1916_01,10,-,9,usa,Ralph_Mulford,Ralph Mulford,Peugeot Auto Racing,,Peugeot / Peugeot,8,,piston,0,
 1916,UO,1916_International_300,1916_02,1,4,17,uk,Dario_Resta,Dario Resta,Peugeot Auto Racing,,Peugeot / Peugeot,120,12000,running,103,
 1916,UO,1916_International_300,1916_02,2,10,1,usa,Wilbur_DAlene,Wilbur D'Alene,Duesenberg,,Duesenberg / Duesenberg,120,6000,running,0,
 1916,UO,1916_International_300,1916_02,3,20,10,usa,Ralph_Mulford,Ralph Mulford,Peugeot Auto Racing,,Peugeot / Peugeot,120,3000,running,0,
@@ -43,7 +43,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1916,UO,1916_Chicago_Race,1916_03,11,11,15,greece,George_Buzane,George Buzane,Duesenberg,,Duesenberg / Duesenberg,150,,running,0,
 1916,UO,1916_Chicago_Race,1916_03,12,19,12,usa,Art_Johnson,Art Johnson,Crawford,,Crawford / Duesenberg,145,,running,0,
 1916,UO,1916_Chicago_Race,1916_03,13,15,28,usa,Otto_Henning,Otto Henning,Duesenberg,,Duesenberg / Duesenberg,123,,running,0,
-1916,UO,1916_Chicago_Race,1916_03,14,5,5,usa,Charles_Thompson,Charles Thompson,Olsen,,–,107,,connecting rod,0,
+1916,UO,1916_Chicago_Race,1916_03,14,5,5,usa,Charles_Thompson,Charles Thompson,Olsen,,-,107,,connecting rod,0,
 1916,UO,1916_Chicago_Race,1916_03,15,18,25,usa,Art_Klein,Art Klein,Kleinart,,King / Duesenberg,86,,dnf,0,
 1916,UO,1916_Chicago_Race,1916_03,16,16,10,usa,Ora_Haibe,Ora Haibe,Swan Ostewig,,Ostewig / Stutz,69,,valve,0,
 1916,UO,1916_Chicago_Race,1916_03,17,20,19,usa,Bert_Watson,Bert Watson,J. J. R.,,RiChard / Duesenberg,68,,connecting rod,0,
@@ -52,17 +52,17 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1916,UO,1916_Chicago_Race,1916_03,20,6,33,usa,Barney_Oldfield_(2),Barney Oldfield,Delage,,Delage / Delage,9,,driveshaft,0,
 1916,UO,1916_Chicago_Race,1916_03,21,21,23,usa,Tom_Alley,Tom Alley,Kleinart,,King / Duesenberg,5,,smoking,0,
 1916,UO,1916_Des_Moines_Race,1916_04,1,1,10,italy,Ralph_DePalma,Ralph DePalma,Mercedes,,Mercedes / Mercedes,150,,running,143,600
-1916,UO,1916_Des_Moines_Race,1916_04,2,–,3,canada,Pete_Henderson,Pete Henderson,Maxwell,,Maxwell / Maxwell,150,,running,0,320
-1916,UO,1916_Des_Moines_Race,1916_04,3,–,12,usa,Eddie_Rickenbacker,Eddie Rickenbacker,Maxwell,,Maxwell / Maxwell,150,,running,7,170
-1916,UO,1916_Des_Moines_Race,1916_04,4,–,20,usa,Dave_Lewis,Dave Lewis,Crawford,,Crawford / Duesenberg,150,,running,0,90
-1916,UO,1916_Des_Moines_Race,1916_04,5,–,18,usa,Earl_Cooper,Earl Cooper,Stutz,,Stutz / Wisconsin,150,,running,0,55
-1916,UO,1916_Des_Moines_Race,1916_04,6,–,14,usa,Ralph_Mulford,Ralph Mulford,Hudson Motor Car,,Hudson / Hudson,150,,running,0,35
-1916,UO,1916_Des_Moines_Race,1916_04,7,–,7,usa,Frank_Galvin,Frank Galvin,Sunbeam Motor Car,,Sunbeam / Sunbeam,150,,running,0,20
-1916,UO,1916_Des_Moines_Race,1916_04,8,–,15,usa,Billy_Chandler,Billy Chandler,Stutz,,Stutz / Wisconsin,141,,running,0,15
-1916,UO,1916_Des_Moines_Race,1916_04,9,–,22,usa,Eddie_ODonnell,Eddie O'Donnell,Duesenberg,,Duesenberg / Duesenberg,86,,steering,0,
-1916,UO,1916_Des_Moines_Race,1916_04,10,–,3,usa,Wilbur_DAlene,Wilbur D'Alene,Duesenberg,,Duesenberg / Duesenberg,29,,crash,0,
-1916,UO,1916_Des_Moines_Race,1916_04,11,–,,usa,Tommy_Milton,Tommy Milton,Duesenberg,,Duesenberg / Duesenberg,29,,crash / wheel,0,
-1916,UO,1916_Des_Moines_Race,1916_04,12,–,,usa,Hughie_Hughes,Hughie Hughes,Duesenberg,,Duesenberg / Duesenberg,0,,dnf,0,
+1916,UO,1916_Des_Moines_Race,1916_04,2,-,3,canada,Pete_Henderson,Pete Henderson,Maxwell,,Maxwell / Maxwell,150,,running,0,320
+1916,UO,1916_Des_Moines_Race,1916_04,3,-,12,usa,Eddie_Rickenbacker,Eddie Rickenbacker,Maxwell,,Maxwell / Maxwell,150,,running,7,170
+1916,UO,1916_Des_Moines_Race,1916_04,4,-,20,usa,Dave_Lewis,Dave Lewis,Crawford,,Crawford / Duesenberg,150,,running,0,90
+1916,UO,1916_Des_Moines_Race,1916_04,5,-,18,usa,Earl_Cooper,Earl Cooper,Stutz,,Stutz / Wisconsin,150,,running,0,55
+1916,UO,1916_Des_Moines_Race,1916_04,6,-,14,usa,Ralph_Mulford,Ralph Mulford,Hudson Motor Car,,Hudson / Hudson,150,,running,0,35
+1916,UO,1916_Des_Moines_Race,1916_04,7,-,7,usa,Frank_Galvin,Frank Galvin,Sunbeam Motor Car,,Sunbeam / Sunbeam,150,,running,0,20
+1916,UO,1916_Des_Moines_Race,1916_04,8,-,15,usa,Billy_Chandler,Billy Chandler,Stutz,,Stutz / Wisconsin,141,,running,0,15
+1916,UO,1916_Des_Moines_Race,1916_04,9,-,22,usa,Eddie_ODonnell,Eddie O'Donnell,Duesenberg,,Duesenberg / Duesenberg,86,,steering,0,
+1916,UO,1916_Des_Moines_Race,1916_04,10,-,3,usa,Wilbur_DAlene,Wilbur D'Alene,Duesenberg,,Duesenberg / Duesenberg,29,,crash,0,
+1916,UO,1916_Des_Moines_Race,1916_04,11,-,,usa,Tommy_Milton,Tommy Milton,Duesenberg,,Duesenberg / Duesenberg,29,,crash / wheel,0,
+1916,UO,1916_Des_Moines_Race,1916_04,12,-,,usa,Hughie_Hughes,Hughie Hughes,Duesenberg,,Duesenberg / Duesenberg,0,,dnf,0,
 1916,UO,1916_Minneapolis_Race,1916_05,1,3,10,italy,Ralph_DePalma,Ralph DePalma,Mercedes,,Mercedes / Mercedes,75,,running,50,600
 1916,UO,1916_Minneapolis_Race,1916_05,2,2,3,usa,Johnny_Aitken,Johnny Aitken,Peugeot Auto Racing,,Peugeot / Peugeot,75,,running,9,320
 1916,UO,1916_Minneapolis_Race,1916_05,3,4,20,belgium,Josef_Christiaens,Josef Christiaens,Sunbeam Motor Car,,Sunbeam / Sunbeam,75,,running,16,170
@@ -77,23 +77,23 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1916,UO,1916_Minneapolis_Race,1916_05,12,1,18,usa,Louis_Chevrolet,Louis Chevrolet,Frontenac Motors,,Frontenac / Frontenac,26,,rocker arm,0,
 1916,UO,1916_Minneapolis_Race,1916_05,13,8,17,usa,Frank_Galvin,Frank Galvin,Sunbeam Motor Car,,Sunbeam / Sunbeam,21,,magneto,0,
 1916,UO,1916_Minneapolis_Race,1916_05,14,12,9,norway,Swan_Ostewig,Swan Ostewig,Swan Ostewig,,Ostewig / Stutz,15,,clutch,0,
-1916,UO,1916_Omaha_Race,1916_06,1,2,2,uk,Dario_Resta,Dario Resta,Peugeot Auto Racing,,Peugeot / Peugeot,120,,running,–,600
-1916,UO,1916_Omaha_Race,1916_06,2,1,1,usa,Ralph_Mulford,Ralph Mulford,Peugeot Auto Racing,,Peugeot / Peugeot,120,,running,–,320
-1916,UO,1916_Omaha_Race,1916_06,3,12,,usa,Tommy_Milton,Tommy Milton,Duesenberg,,Duesenberg / Duesenberg,120,,running,–,170
-1916,UO,1916_Omaha_Race,1916_06,4,7,,canada,Pete_Henderson,Pete Henderson,Maxwell,,Maxwell / Maxwell,120,,running,–,90
-1916,UO,1916_Omaha_Race,1916_06,5,17,,usa,Mel_Stringer,Mel Stringer,Mercer Motors,,Mercer / Mercer,120,,running,–,55
-1916,UO,1916_Omaha_Race,1916_06,6,16,,usa,Art_Klein,Art Klein,Kleinart,,King / Duesenberg,103,,dnf,–,
-1916,UO,1916_Omaha_Race,1916_06,7,3,10,italy,Ralph_DePalma,Ralph DePalma,Mercedes,,Mercedes / Mercedes,87,,valve cap,–,
-1916,UO,1916_Omaha_Race,1916_06,8,15,,usa,William_Muller,William Muller,Dans L'Argent,,Muller / Hudson,–,,running,–,35
-1916,UO,1916_Omaha_Race,1916_06,9,9,,canada,Ira_Vail,Ira Vail,Hudson Motor Car,,Hudson / Hudson,80,,dnf,–,
-1916,UO,1916_Omaha_Race,1916_06,10,8,,usa,Jack_Gable,Jack Gable,Peugeot Auto Racing,,Peugeot / Peugeot,76,,crash,–,
-1916,UO,1916_Omaha_Race,1916_06,11,5,12,usa,Eddie_Rickenbacker,Eddie Rickenbacker,Maxwell,,Maxwell / Maxwell,–,,valve,–,
-1916,UO,1916_Omaha_Race,1916_06,12,13,,usa,Art_Johnson,Art Johnson,Crawford,,Crawford / Duesenberg,–,,dnf,–,
-1916,UO,1916_Omaha_Race,1916_06,13,4,13,usa,Wilbur_DAlene,Wilbur D'Alene,Duesenberg,,Duesenberg / Duesenberg,–,,dnf,–,
-1916,UO,1916_Omaha_Race,1916_06,14,14,,usa,Billy_Chandler,Billy Chandler,Crawford,,Crawford / Duesenberg,26,,dnf,–,
-1916,UO,1916_Omaha_Race,1916_06,15,11,,usa,Hughie_Hughes,Hughie Hughes,Delage,,Delage / Delage,16,,crash,–,
-1916,UO,1916_Omaha_Race,1916_06,16,10,,italy,Aldo_Franchi,Aldo Franchi,Peusun,,Peugeot / Sunbeam,10,,crash,–,
-1916,UO,1916_Omaha_Race,1916_06,17,6,,usa,Dave_Lewis,Dave Lewis,Crawford,,Crawford / Duesenberg,6,,dnf,–,
+1916,UO,1916_Omaha_Race,1916_06,1,2,2,uk,Dario_Resta,Dario Resta,Peugeot Auto Racing,,Peugeot / Peugeot,120,,running,-,600
+1916,UO,1916_Omaha_Race,1916_06,2,1,1,usa,Ralph_Mulford,Ralph Mulford,Peugeot Auto Racing,,Peugeot / Peugeot,120,,running,-,320
+1916,UO,1916_Omaha_Race,1916_06,3,12,,usa,Tommy_Milton,Tommy Milton,Duesenberg,,Duesenberg / Duesenberg,120,,running,-,170
+1916,UO,1916_Omaha_Race,1916_06,4,7,,canada,Pete_Henderson,Pete Henderson,Maxwell,,Maxwell / Maxwell,120,,running,-,90
+1916,UO,1916_Omaha_Race,1916_06,5,17,,usa,Mel_Stringer,Mel Stringer,Mercer Motors,,Mercer / Mercer,120,,running,-,55
+1916,UO,1916_Omaha_Race,1916_06,6,16,,usa,Art_Klein,Art Klein,Kleinart,,King / Duesenberg,103,,dnf,-,
+1916,UO,1916_Omaha_Race,1916_06,7,3,10,italy,Ralph_DePalma,Ralph DePalma,Mercedes,,Mercedes / Mercedes,87,,valve cap,-,
+1916,UO,1916_Omaha_Race,1916_06,8,15,,usa,William_Muller,William Muller,Dans L'Argent,,Muller / Hudson,-,,running,-,35
+1916,UO,1916_Omaha_Race,1916_06,9,9,,canada,Ira_Vail,Ira Vail,Hudson Motor Car,,Hudson / Hudson,80,,dnf,-,
+1916,UO,1916_Omaha_Race,1916_06,10,8,,usa,Jack_Gable,Jack Gable,Peugeot Auto Racing,,Peugeot / Peugeot,76,,crash,-,
+1916,UO,1916_Omaha_Race,1916_06,11,5,12,usa,Eddie_Rickenbacker,Eddie Rickenbacker,Maxwell,,Maxwell / Maxwell,-,,valve,-,
+1916,UO,1916_Omaha_Race,1916_06,12,13,,usa,Art_Johnson,Art Johnson,Crawford,,Crawford / Duesenberg,-,,dnf,-,
+1916,UO,1916_Omaha_Race,1916_06,13,4,13,usa,Wilbur_DAlene,Wilbur D'Alene,Duesenberg,,Duesenberg / Duesenberg,-,,dnf,-,
+1916,UO,1916_Omaha_Race,1916_06,14,14,,usa,Billy_Chandler,Billy Chandler,Crawford,,Crawford / Duesenberg,26,,dnf,-,
+1916,UO,1916_Omaha_Race,1916_06,15,11,,usa,Hughie_Hughes,Hughie Hughes,Delage,,Delage / Delage,16,,crash,-,
+1916,UO,1916_Omaha_Race,1916_06,16,10,,italy,Aldo_Franchi,Aldo Franchi,Peusun,,Peugeot / Sunbeam,10,,crash,-,
+1916,UO,1916_Omaha_Race,1916_06,17,6,,usa,Dave_Lewis,Dave Lewis,Crawford,,Crawford / Duesenberg,6,,dnf,-,
 1916,UO,1916_Montamarathon-Potlach_Trophy_Race,1916_07,1,3,1,usa,Eddie_Rickenbacker,Eddie Rickenbacker,Maxwell,,Maxwell / Maxwell,150,,running,39,800
 1916,UO,1916_Montamarathon-Potlach_Trophy_Race,1916_07,2,4,12,usa,Tommy_Milton,Tommy Milton,Duesenberg,,Duesenberg / Duesenberg,150,,running,16,420
 1916,UO,1916_Montamarathon-Potlach_Trophy_Race,1916_07,3,8,8,usa,Dave_Lewis,Dave Lewis,Crawford,,Crawford / Duesenberg,150,,running,0,220
@@ -136,95 +136,95 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1916,UO,1916_International_Sweepstakes,1916_08,26,3,22,usa,Tommy_Milton,Tommy Milton,Duesenberg,,Duesenberg / Duesenberg,16,,pump,0,
 1916,UO,1916_International_Sweepstakes,1916_08,27,21,1,belgium,Josef_Christiaens,Josef Christiaens,Sunbeam Motor Car,,Sunbeam / Sunbeam,15,,clutch,0,
 1916,UO,1916_International_Sweepstakes,1916_08,28,9,10,italy,Ralph_DePalma,Ralph DePalma,Mercedes,,Mercedes / Mercedes,11,,connecting rod,0,
-1916,UO,1916_Harvest_Auto_Classic,1916_09,1,–,1,usa,Johnny_Aitken,Johnny Aitken,Peugeot Auto Racing,,Peugeot / Peugeot,40,,running,–,500
-1916,UO,1916_Harvest_Auto_Classic,1916_09,2,–,19,usa,Hughie_Hughes,Hughie Hughes,Hoskins,,Duesenberg / Duesenberg,40,,running,–,260
-1916,UO,1916_Harvest_Auto_Classic,1916_09,3,–,8,usa,Wilbur_DAlene,Wilbur D'Alene,Duesenberg,,Duesenberg / Duesenberg,40,,running,–,140
-1916,UO,1916_Harvest_Auto_Classic,1916_09,4,–,14,greece,George_Buzane,George Buzane,Duesenberg,,Duesenberg / Duesenberg,40,,running,–,80
-1916,UO,1916_Harvest_Auto_Classic,1916_09,5,–,6,usa,Dave_Lewis,Dave Lewis,Premier,,Premier / Premier,40,,running,–,50
-1916,UO,1916_Harvest_Auto_Classic,1916_09,6,–,22,usa,Omar_Toft,Omar Toft,Duesenberg,,Toft / Duesenberg,40,,running,–,30
-1916,UO,1916_Harvest_Auto_Classic,1916_09,7,–,9,canada,Pete_Henderson,Pete Henderson,Maxwell,,Maxwell / Maxwell,40,,running,–,15
-1916,UO,1916_Harvest_Auto_Classic,1916_09,8,–,18,italy,Ralph_DePalma,Ralph DePalma,Peugeot Auto Racing,,Peugeot / Peugeot,40,,running,–,10
-1916,UO,1916_Harvest_Auto_Classic,1916_09,9,–,10,usa,Eddie_Rickenbacker,Eddie Rickenbacker,Maxwell,,Maxwell / Maxwell,38,,crash,–,
-1916,UO,1916_Harvest_Auto_Classic,1916_09,10,–,17,usa,Jay_McNey,Jay McNey,Swan Ostewig,,Ostewig / Stutz,36,,running,–,
-1916,UO,1916_Harvest_Auto_Classic,1916_09,11,–,7,usa,Tommy_Milton,Tommy Milton,Duesenberg,,Duesenberg / Duesenberg,8,,ignition,–,
-1916,UO,1916_Harvest_Auto_Classic,1916_09,12,–,5,usa,Howdy_Wilcox,Howdy Wilcox,Premier,,Premier / Premier,8,,quit,–,
-1916,UO,1916_Harvest_Auto_Classic,1916_09,13,–,,usa,Charles_Devlin,Charles Devlin,–,,–,0,,mechanical,–,
-1916,UO,1916_Astor_Cup,1916_10,1,–,10,usa,Johnny_Aitken,Johnny Aitken,Peugeot Auto Racing,,Peugeot / Peugeot,125,,running,–,800
-1916,UO,1916_Astor_Cup,1916_10,2,–,12,usa,Eddie_Rickenbacker,Eddie Rickenbacker,Maxwell,,Maxwell / Maxwell,125,,running,–,420
-1916,UO,1916_Astor_Cup,1916_10,3,–,5,canada,Ira_Vail,Ira Vail,Hudson Motor Car,,Hudson / Hudson,125,,running,–,220
-1916,UO,1916_Astor_Cup,1916_10,4,–,16,usa,Jack_LeCain,Jack LeCain,Delage,,Delage / Delage,125,,running,–,120
-1916,UO,1916_Astor_Cup,1916_10,5,–,4,usa,Eddie_Pullen,Eddie Pullen,Mercer Motors,,Mercer / Mercer,125,,running,–,70
-1916,UO,1916_Astor_Cup,1916_10,6,–,8,usa,Art_Klein,Art Klein,Crawford,,Crawford / Duesenberg,125,,running,–,45
-1916,UO,1916_Astor_Cup,1916_10,7,–,18,france,Jules_Devigne,Jules Devigne,Delage,,Delage / Delage,125,,running,–,30
-1916,UO,1916_Astor_Cup,1916_10,8,–,6,usa,Ralph_Mulford,Ralph Mulford,Duesenberg,,Duesenberg / Duesenberg,125,,running,–,25
-1916,UO,1916_Astor_Cup,1916_10,9,–,28,usa,Hughie_Hughes,Hughie Hughes,Duesenberg,,Duesenberg / Duesenberg,125,,running,–,15
-1916,UO,1916_Astor_Cup,1916_10,10,–,3,usa,Tommy_Milton,Tommy Milton,Duesenberg,,Duesenberg / Duesenberg,125,,running,–,10
-1916,UO,1916_Astor_Cup,1916_10,11,–,36,usa,Jim_Meyer,Jim Meyer,Pugh,,Pugh / Duesenberg,125,,running,–,
-1916,UO,1916_Astor_Cup,1916_10,12,–,27,usa,George_Adams,George Adams,Adams,,Adams / Duesenberg,125,,running,–,
-1916,UO,1916_Astor_Cup,1916_10,13,–,9,usa,Wilbur_DAlene,Wilbur D'Alene,Crawford,,Crawford / Duesenberg,125,,running,–,
-1916,UO,1916_Astor_Cup,1916_10,14,–,37,usa,Andy_Burt,Andy Burt,Duesenberg,,Ogren / Duesenberg,125,,running,–,
-1916,UO,1916_Astor_Cup,1916_10,15,–,14,canada,Pete_Henderson,Pete Henderson,Maxwell,,Maxwell / Maxwell,–,,connecting rod,–,
-1916,UO,1916_Astor_Cup,1916_10,16,–,15,usa,Frank_Galvin,Frank Galvin,Premier,,Premier / Premier,–,,connecting rod,–,
-1916,UO,1916_Astor_Cup,1916_10,17,–,22,usa,Howdy_Wilcox,Howdy Wilcox,Peugeot Auto Racing,,Peugeot / Peugeot,–,,connecting rod,–,
-1916,UO,1916_Astor_Cup,1916_10,18,–,24,greece,George_Buzane,George Buzane,Duesenberg,,Duesenberg / Duesenberg,–,,wrist pin,–,
-1916,UO,1916_Astor_Cup,1916_10,19,–,25,usa,Dave_Lewis,Dave Lewis,Premier,,Premier / Premier,–,,rod,–,
-1916,UO,1916_Astor_Cup,1916_10,20,–,34,usa,Milton_McBride,Milton McBride,Olson,,Olson / Duesenberg,–,,rod,–,
-1916,UO,1916_Astor_Cup,1916_10,21,–,32,usa,Robert_Moore,Robert Moore,Crawford,,Crawford / Duesenberg,–,,rod,–,
-1916,UO,1916_Astor_Cup,1916_10,22,–,,usa,Ken_Rawlings,Ken Rawlings,West Duluth / Duesenberg,,Duesenberg / Duesenberg,–,,engine,–,
-1916,UO,1916_Astor_Cup,1916_10,23,–,33,usa,Otto_Henning,Otto Henning,Duesenberg,,Duesenberg / Duesenberg,–,,manifold,–,
-1916,UO,1916_Astor_Cup,1916_10,24,–,21,usa,William_Muller,William Muller,Dans L'Argent,,Duesenberg / Duesenberg,–,,connecting rod,–,
-1916,UO,1916_Astor_Cup,1916_10,25,–,29,usa,Jack_Gable,Jack Gable,Peugeot Auto Racing,,Peugeot / Peugeot,–,,clutch,–,
-1916,UO,1916_Astor_Cup,1916_10,26,–,26,usa,Charles_Devlin,Charles Devlin,Duesenberg,,Duesenberg / Duesenberg,–,,clutch,–,
-1916,UO,1916_Astor_Cup,1916_10,27,–,11,usa,Glover_Ruckstell,Glover Ruckstell,Mercer Motors,,Mercer / Mercer,61,,crash,–,
-1916,UO,1916_Astor_Cup,1916_10,28,–,1,belgium,Josef_Christiaens,Josef Christiaens,Sunbeam Motor Car,,Sunbeam / Sunbeam,50,,piston,–,
-1916,UO,1916_Astor_Cup,1916_10,29,–,2,uk,Dario_Resta,Dario Resta,Peugeot Auto Racing,,Peugeot / Peugeot,48,,valve,–,
-1916,UO,1916_Astor_Cup,1916_10,30,–,19,usa,Louis_Chevrolet,Louis Chevrolet,Sunbeam Motor Car,,Sunbeam / Sunbeam,13,,oil leak,–,
-1916,UO,1916_Astor_Cup,1916_10,31,–,35,usa,Bert_Watson,Bert Watson,Olson,,Olson / Duesenberg,0,,oil leak,–,
-1916,UO,1916_Grand_American_Auto_Race,1916_11,1,4,4,uk,Dario_Resta,Dario Resta,Peugeot Auto Racing,,Peugeot / Peugeot,125,,running,–,800
-1916,UO,1916_Grand_American_Auto_Race,1916_11,2,14,10,usa,Johnny_Aitken,Johnny Aitken,Peugeot Auto Racing,,Peugeot / Peugeot,125,,running,–,420
-1916,UO,1916_Grand_American_Auto_Race,1916_11,3,9,22,usa,Eddie_Rickenbacker,Eddie Rickenbacker,Maxwell,,Maxwell / Maxwell,125,,running,–,220
-1916,UO,1916_Grand_American_Auto_Race,1916_11,4,6,6,usa,Dave_Lewis,Dave Lewis,Premier,,Premier / Premier,125,,running,–,120
-1916,UO,1916_Grand_American_Auto_Race,1916_11,5,3,3,canada,Pete_Henderson,Pete Henderson,Maxwell,,Maxwell / Maxwell,125,,running,–,70
-1916,UO,1916_Grand_American_Auto_Race,1916_11,6,10,11,usa,Frank_Galvin,Frank Galvin,Premier,,Premier / Premier,125,,running,–,45
-1916,UO,1916_Grand_American_Auto_Race,1916_11,7,17,21,usa,Earl_DeVore,Earl DeVore,Duesenberg,,Duesenberg / Duesenberg,125,,running,–,30
-1916,UO,1916_Grand_American_Auto_Race,1916_11,8,11,2,usa,Andy_Burt,Andy Burt,Duesenberg,,Duesenberg / Duesenberg,125,,running,–,25
-1916,UO,1916_Grand_American_Auto_Race,1916_11,9,13,15,usa,Jack_Gable,Jack Gable,Peugeot Auto Racing,,Peugeot / Peugeot,125,,running,–,15
-1916,UO,1916_Grand_American_Auto_Race,1916_11,10,18,18,canada,Ira_Vail,Ira Vail,Hudson Motor Car,,Hudson / Hudson,125,,running,–,10
-1916,UO,1916_Grand_American_Auto_Race,1916_11,11,8,1,usa,Howdy_Wilcox,Howdy Wilcox,Peugeot Auto Racing,,Peugeot / Peugeot,124,,connecting rod,–,
-1916,UO,1916_Grand_American_Auto_Race,1916_11,12,5,5,usa,Ken_Rawlings,Ken Rawlings,West Duluth / Duesenberg,,Duesenberg / Duesenberg,120,,running,–,
-1916,UO,1916_Grand_American_Auto_Race,1916_11,13,15,9,italy,Ralph_DePalma,Ralph DePalma,Peugeot Auto Racing,,Peugeot / Peugeot,97,,valve,–,
-1916,UO,1916_Grand_American_Auto_Race,1916_11,14,19,,norway,Swan_Ostewig,Swan Ostewig,Swan Ostewig,,Ostewig / Stutz,86,,clutch,–,
-1916,UO,1916_Grand_American_Auto_Race,1916_11,15,1,8,usa,Art_Klein,Art Klein,Crawford,,Crawford / Duesenberg,56,,crankshaft,–,
-1916,UO,1916_Grand_American_Auto_Race,1916_11,16,2,13,usa,Wilbur_DAlene,Wilbur D'Alene,Crawford,,Crawford / Duesenberg,–,,driveshaft,–,
-1916,UO,1916_Grand_American_Auto_Race,1916_11,17,12,14,greece,George_Buzane,George Buzane,Duesenberg,,Duesenberg / Duesenberg,–,,running,–,
-1916,UO,1916_Grand_American_Auto_Race,1916_11,18,16,17,usa,Tommy_Milton,Tommy Milton,Duesenberg,,Duesenberg / Duesenberg,21,,clutch,–,
-1916,UO,1916_Grand_American_Auto_Race,1916_11,19,7,19,usa,Hughie_Hughes,Hughie Hughes,Duesenberg,,Duesenberg / Duesenberg,–,,valve spring,–,
+1916,UO,1916_Harvest_Auto_Classic,1916_09,1,-,1,usa,Johnny_Aitken,Johnny Aitken,Peugeot Auto Racing,,Peugeot / Peugeot,40,,running,-,500
+1916,UO,1916_Harvest_Auto_Classic,1916_09,2,-,19,usa,Hughie_Hughes,Hughie Hughes,Hoskins,,Duesenberg / Duesenberg,40,,running,-,260
+1916,UO,1916_Harvest_Auto_Classic,1916_09,3,-,8,usa,Wilbur_DAlene,Wilbur D'Alene,Duesenberg,,Duesenberg / Duesenberg,40,,running,-,140
+1916,UO,1916_Harvest_Auto_Classic,1916_09,4,-,14,greece,George_Buzane,George Buzane,Duesenberg,,Duesenberg / Duesenberg,40,,running,-,80
+1916,UO,1916_Harvest_Auto_Classic,1916_09,5,-,6,usa,Dave_Lewis,Dave Lewis,Premier,,Premier / Premier,40,,running,-,50
+1916,UO,1916_Harvest_Auto_Classic,1916_09,6,-,22,usa,Omar_Toft,Omar Toft,Duesenberg,,Toft / Duesenberg,40,,running,-,30
+1916,UO,1916_Harvest_Auto_Classic,1916_09,7,-,9,canada,Pete_Henderson,Pete Henderson,Maxwell,,Maxwell / Maxwell,40,,running,-,15
+1916,UO,1916_Harvest_Auto_Classic,1916_09,8,-,18,italy,Ralph_DePalma,Ralph DePalma,Peugeot Auto Racing,,Peugeot / Peugeot,40,,running,-,10
+1916,UO,1916_Harvest_Auto_Classic,1916_09,9,-,10,usa,Eddie_Rickenbacker,Eddie Rickenbacker,Maxwell,,Maxwell / Maxwell,38,,crash,-,
+1916,UO,1916_Harvest_Auto_Classic,1916_09,10,-,17,usa,Jay_McNey,Jay McNey,Swan Ostewig,,Ostewig / Stutz,36,,running,-,
+1916,UO,1916_Harvest_Auto_Classic,1916_09,11,-,7,usa,Tommy_Milton,Tommy Milton,Duesenberg,,Duesenberg / Duesenberg,8,,ignition,-,
+1916,UO,1916_Harvest_Auto_Classic,1916_09,12,-,5,usa,Howdy_Wilcox,Howdy Wilcox,Premier,,Premier / Premier,8,,quit,-,
+1916,UO,1916_Harvest_Auto_Classic,1916_09,13,-,,usa,Charles_Devlin,Charles Devlin,-,,-,0,,mechanical,-,
+1916,UO,1916_Astor_Cup,1916_10,1,-,10,usa,Johnny_Aitken,Johnny Aitken,Peugeot Auto Racing,,Peugeot / Peugeot,125,,running,-,800
+1916,UO,1916_Astor_Cup,1916_10,2,-,12,usa,Eddie_Rickenbacker,Eddie Rickenbacker,Maxwell,,Maxwell / Maxwell,125,,running,-,420
+1916,UO,1916_Astor_Cup,1916_10,3,-,5,canada,Ira_Vail,Ira Vail,Hudson Motor Car,,Hudson / Hudson,125,,running,-,220
+1916,UO,1916_Astor_Cup,1916_10,4,-,16,usa,Jack_LeCain,Jack LeCain,Delage,,Delage / Delage,125,,running,-,120
+1916,UO,1916_Astor_Cup,1916_10,5,-,4,usa,Eddie_Pullen,Eddie Pullen,Mercer Motors,,Mercer / Mercer,125,,running,-,70
+1916,UO,1916_Astor_Cup,1916_10,6,-,8,usa,Art_Klein,Art Klein,Crawford,,Crawford / Duesenberg,125,,running,-,45
+1916,UO,1916_Astor_Cup,1916_10,7,-,18,france,Jules_Devigne,Jules Devigne,Delage,,Delage / Delage,125,,running,-,30
+1916,UO,1916_Astor_Cup,1916_10,8,-,6,usa,Ralph_Mulford,Ralph Mulford,Duesenberg,,Duesenberg / Duesenberg,125,,running,-,25
+1916,UO,1916_Astor_Cup,1916_10,9,-,28,usa,Hughie_Hughes,Hughie Hughes,Duesenberg,,Duesenberg / Duesenberg,125,,running,-,15
+1916,UO,1916_Astor_Cup,1916_10,10,-,3,usa,Tommy_Milton,Tommy Milton,Duesenberg,,Duesenberg / Duesenberg,125,,running,-,10
+1916,UO,1916_Astor_Cup,1916_10,11,-,36,usa,Jim_Meyer,Jim Meyer,Pugh,,Pugh / Duesenberg,125,,running,-,
+1916,UO,1916_Astor_Cup,1916_10,12,-,27,usa,George_Adams,George Adams,Adams,,Adams / Duesenberg,125,,running,-,
+1916,UO,1916_Astor_Cup,1916_10,13,-,9,usa,Wilbur_DAlene,Wilbur D'Alene,Crawford,,Crawford / Duesenberg,125,,running,-,
+1916,UO,1916_Astor_Cup,1916_10,14,-,37,usa,Andy_Burt,Andy Burt,Duesenberg,,Ogren / Duesenberg,125,,running,-,
+1916,UO,1916_Astor_Cup,1916_10,15,-,14,canada,Pete_Henderson,Pete Henderson,Maxwell,,Maxwell / Maxwell,-,,connecting rod,-,
+1916,UO,1916_Astor_Cup,1916_10,16,-,15,usa,Frank_Galvin,Frank Galvin,Premier,,Premier / Premier,-,,connecting rod,-,
+1916,UO,1916_Astor_Cup,1916_10,17,-,22,usa,Howdy_Wilcox,Howdy Wilcox,Peugeot Auto Racing,,Peugeot / Peugeot,-,,connecting rod,-,
+1916,UO,1916_Astor_Cup,1916_10,18,-,24,greece,George_Buzane,George Buzane,Duesenberg,,Duesenberg / Duesenberg,-,,wrist pin,-,
+1916,UO,1916_Astor_Cup,1916_10,19,-,25,usa,Dave_Lewis,Dave Lewis,Premier,,Premier / Premier,-,,rod,-,
+1916,UO,1916_Astor_Cup,1916_10,20,-,34,usa,Milton_McBride,Milton McBride,Olson,,Olson / Duesenberg,-,,rod,-,
+1916,UO,1916_Astor_Cup,1916_10,21,-,32,usa,Robert_Moore,Robert Moore,Crawford,,Crawford / Duesenberg,-,,rod,-,
+1916,UO,1916_Astor_Cup,1916_10,22,-,,usa,Ken_Rawlings,Ken Rawlings,West Duluth / Duesenberg,,Duesenberg / Duesenberg,-,,engine,-,
+1916,UO,1916_Astor_Cup,1916_10,23,-,33,usa,Otto_Henning,Otto Henning,Duesenberg,,Duesenberg / Duesenberg,-,,manifold,-,
+1916,UO,1916_Astor_Cup,1916_10,24,-,21,usa,William_Muller,William Muller,Dans L'Argent,,Duesenberg / Duesenberg,-,,connecting rod,-,
+1916,UO,1916_Astor_Cup,1916_10,25,-,29,usa,Jack_Gable,Jack Gable,Peugeot Auto Racing,,Peugeot / Peugeot,-,,clutch,-,
+1916,UO,1916_Astor_Cup,1916_10,26,-,26,usa,Charles_Devlin,Charles Devlin,Duesenberg,,Duesenberg / Duesenberg,-,,clutch,-,
+1916,UO,1916_Astor_Cup,1916_10,27,-,11,usa,Glover_Ruckstell,Glover Ruckstell,Mercer Motors,,Mercer / Mercer,61,,crash,-,
+1916,UO,1916_Astor_Cup,1916_10,28,-,1,belgium,Josef_Christiaens,Josef Christiaens,Sunbeam Motor Car,,Sunbeam / Sunbeam,50,,piston,-,
+1916,UO,1916_Astor_Cup,1916_10,29,-,2,uk,Dario_Resta,Dario Resta,Peugeot Auto Racing,,Peugeot / Peugeot,48,,valve,-,
+1916,UO,1916_Astor_Cup,1916_10,30,-,19,usa,Louis_Chevrolet,Louis Chevrolet,Sunbeam Motor Car,,Sunbeam / Sunbeam,13,,oil leak,-,
+1916,UO,1916_Astor_Cup,1916_10,31,-,35,usa,Bert_Watson,Bert Watson,Olson,,Olson / Duesenberg,0,,oil leak,-,
+1916,UO,1916_Grand_American_Auto_Race,1916_11,1,4,4,uk,Dario_Resta,Dario Resta,Peugeot Auto Racing,,Peugeot / Peugeot,125,,running,-,800
+1916,UO,1916_Grand_American_Auto_Race,1916_11,2,14,10,usa,Johnny_Aitken,Johnny Aitken,Peugeot Auto Racing,,Peugeot / Peugeot,125,,running,-,420
+1916,UO,1916_Grand_American_Auto_Race,1916_11,3,9,22,usa,Eddie_Rickenbacker,Eddie Rickenbacker,Maxwell,,Maxwell / Maxwell,125,,running,-,220
+1916,UO,1916_Grand_American_Auto_Race,1916_11,4,6,6,usa,Dave_Lewis,Dave Lewis,Premier,,Premier / Premier,125,,running,-,120
+1916,UO,1916_Grand_American_Auto_Race,1916_11,5,3,3,canada,Pete_Henderson,Pete Henderson,Maxwell,,Maxwell / Maxwell,125,,running,-,70
+1916,UO,1916_Grand_American_Auto_Race,1916_11,6,10,11,usa,Frank_Galvin,Frank Galvin,Premier,,Premier / Premier,125,,running,-,45
+1916,UO,1916_Grand_American_Auto_Race,1916_11,7,17,21,usa,Earl_DeVore,Earl DeVore,Duesenberg,,Duesenberg / Duesenberg,125,,running,-,30
+1916,UO,1916_Grand_American_Auto_Race,1916_11,8,11,2,usa,Andy_Burt,Andy Burt,Duesenberg,,Duesenberg / Duesenberg,125,,running,-,25
+1916,UO,1916_Grand_American_Auto_Race,1916_11,9,13,15,usa,Jack_Gable,Jack Gable,Peugeot Auto Racing,,Peugeot / Peugeot,125,,running,-,15
+1916,UO,1916_Grand_American_Auto_Race,1916_11,10,18,18,canada,Ira_Vail,Ira Vail,Hudson Motor Car,,Hudson / Hudson,125,,running,-,10
+1916,UO,1916_Grand_American_Auto_Race,1916_11,11,8,1,usa,Howdy_Wilcox,Howdy Wilcox,Peugeot Auto Racing,,Peugeot / Peugeot,124,,connecting rod,-,
+1916,UO,1916_Grand_American_Auto_Race,1916_11,12,5,5,usa,Ken_Rawlings,Ken Rawlings,West Duluth / Duesenberg,,Duesenberg / Duesenberg,120,,running,-,
+1916,UO,1916_Grand_American_Auto_Race,1916_11,13,15,9,italy,Ralph_DePalma,Ralph DePalma,Peugeot Auto Racing,,Peugeot / Peugeot,97,,valve,-,
+1916,UO,1916_Grand_American_Auto_Race,1916_11,14,19,,norway,Swan_Ostewig,Swan Ostewig,Swan Ostewig,,Ostewig / Stutz,86,,clutch,-,
+1916,UO,1916_Grand_American_Auto_Race,1916_11,15,1,8,usa,Art_Klein,Art Klein,Crawford,,Crawford / Duesenberg,56,,crankshaft,-,
+1916,UO,1916_Grand_American_Auto_Race,1916_11,16,2,13,usa,Wilbur_DAlene,Wilbur D'Alene,Crawford,,Crawford / Duesenberg,-,,driveshaft,-,
+1916,UO,1916_Grand_American_Auto_Race,1916_11,17,12,14,greece,George_Buzane,George Buzane,Duesenberg,,Duesenberg / Duesenberg,-,,running,-,
+1916,UO,1916_Grand_American_Auto_Race,1916_11,18,16,17,usa,Tommy_Milton,Tommy Milton,Duesenberg,,Duesenberg / Duesenberg,21,,clutch,-,
+1916,UO,1916_Grand_American_Auto_Race,1916_11,19,7,19,usa,Hughie_Hughes,Hughie Hughes,Duesenberg,,Duesenberg / Duesenberg,-,,valve spring,-,
 1916,UO,1916_Harkness_Trophy_Race,1916_12,1,15,10,usa,Johnny_Aitken,Johnny Aitken,Peugeot Auto Racing,,Peugeot / Peugeot,50,,running,16,500
 1916,UO,1916_Harkness_Trophy_Race,1916_12,2,8,11,usa,Frank_Galvin,Frank Galvin,Premier,,Premier / Premier,50,,running,5,260
-1916,UO,1916_Harkness_Trophy_Race,1916_12,3,17,1,usa,Howdy_Wilcox,Howdy Wilcox,Peugeot Auto Racing,,Peugeot / Peugeot,50,,running,–,140
-1916,UO,1916_Harkness_Trophy_Race,1916_12,4,14,3,canada,Pete_Henderson,Pete Henderson,Maxwell,,Maxwell / Maxwell,50,,running,–,80
-1916,UO,1916_Harkness_Trophy_Race,1916_12,5,12,17,usa,Earl_DeVore,Earl DeVore,Duesenberg,,Duesenberg / Duesenberg,50,,running,–,50
-1916,UO,1916_Harkness_Trophy_Race,1916_12,6,1,19,usa,James_Benedict,James Benedict,Duesenberg,,Duesenberg / Duesenberg,50,,running,–,30
-1916,UO,1916_Harkness_Trophy_Race,1916_12,7,10,14,usa,Hughie_Hughes,Hughie Hughes,Duesenberg,,Duesenberg / Duesenberg,50,,running,–,15
-1916,UO,1916_Harkness_Trophy_Race,1916_12,8,2,8,usa,Art_Klein,Art Klein,Crawford,,Crawford / Duesenberg,–,,running,–,10
-1916,UO,1916_Harkness_Trophy_Race,1916_12,9,11,25,usa,Tommy_Milton,Tommy Milton,Duesenberg,,Duesenberg / Duesenberg,–,,running,–,
-1916,UO,1916_Harkness_Trophy_Race,1916_12,10,3,29,usa,Jim_Meyer,Jim Meyer,Pugh,,Pugh / Duesenberg,–,,running,–,
-1916,UO,1916_Harkness_Trophy_Race,1916_12,11,7,15,usa,Charles_Devlin,Charles Devlin,Duesenberg,,Duesenberg / Duesenberg,–,,running,–,
-1916,UO,1916_Harkness_Trophy_Race,1916_12,12,21,27,usa,William_Muller,William Muller,Crawford,,Crawford / Duesenberg,–,,running,–,
-1916,UO,1916_Harkness_Trophy_Race,1916_12,13,26,24,usa,George_Adams,George Adams,Adams,,Adams / Duesenberg,–,,dnf,–,
-1916,UO,1916_Harkness_Trophy_Race,1916_12,14,9,,usa,D_Bailey_Gish,D. Bailey Gish,Duesenberg,,Duesenberg / Duesenberg,–,,dnf,–,
-1916,UO,1916_Harkness_Trophy_Race,1916_12,15,16,26,greece,George_Buzane,George Buzane,Duesenberg,,Duesenberg / Duesenberg,–,,dnf,–,
-1916,UO,1916_Harkness_Trophy_Race,1916_12,16,5,28,usa,Milton_McBride,Milton McBride,Olson,,Olson / Duesenberg,–,,dnf,–,
-1916,UO,1916_Harkness_Trophy_Race,1916_12,17,13,16,france,Jules_Devigne,Jules Devigne,Delage,,Delage / Delage,–,,dnf,–,
-1916,UO,1916_Harkness_Trophy_Race,1916_12,18,22,31,usa,Bert_Watson,Bert Watson,Olson,,Olson / Duesenberg,–,,dnf,–,
-1916,UO,1916_Harkness_Trophy_Race,1916_12,19,24,2,usa,Andy_Burt,Andy Burt,Duesenberg,,Ogren / Duesenberg,–,,dnf,–,
-1916,UO,1916_Harkness_Trophy_Race,1916_12,20,25,22,usa,Otto_Henning,Otto Henning,Duesenberg,,Ogren / Duesenberg,–,,dnf,–,
-1916,UO,1916_Harkness_Trophy_Race,1916_12,21,27,,usa,Rea_Lentz,Rea Lentz,Romano,,Romano / Curtis,–,,dnf,–,
+1916,UO,1916_Harkness_Trophy_Race,1916_12,3,17,1,usa,Howdy_Wilcox,Howdy Wilcox,Peugeot Auto Racing,,Peugeot / Peugeot,50,,running,-,140
+1916,UO,1916_Harkness_Trophy_Race,1916_12,4,14,3,canada,Pete_Henderson,Pete Henderson,Maxwell,,Maxwell / Maxwell,50,,running,-,80
+1916,UO,1916_Harkness_Trophy_Race,1916_12,5,12,17,usa,Earl_DeVore,Earl DeVore,Duesenberg,,Duesenberg / Duesenberg,50,,running,-,50
+1916,UO,1916_Harkness_Trophy_Race,1916_12,6,1,19,usa,James_Benedict,James Benedict,Duesenberg,,Duesenberg / Duesenberg,50,,running,-,30
+1916,UO,1916_Harkness_Trophy_Race,1916_12,7,10,14,usa,Hughie_Hughes,Hughie Hughes,Duesenberg,,Duesenberg / Duesenberg,50,,running,-,15
+1916,UO,1916_Harkness_Trophy_Race,1916_12,8,2,8,usa,Art_Klein,Art Klein,Crawford,,Crawford / Duesenberg,-,,running,-,10
+1916,UO,1916_Harkness_Trophy_Race,1916_12,9,11,25,usa,Tommy_Milton,Tommy Milton,Duesenberg,,Duesenberg / Duesenberg,-,,running,-,
+1916,UO,1916_Harkness_Trophy_Race,1916_12,10,3,29,usa,Jim_Meyer,Jim Meyer,Pugh,,Pugh / Duesenberg,-,,running,-,
+1916,UO,1916_Harkness_Trophy_Race,1916_12,11,7,15,usa,Charles_Devlin,Charles Devlin,Duesenberg,,Duesenberg / Duesenberg,-,,running,-,
+1916,UO,1916_Harkness_Trophy_Race,1916_12,12,21,27,usa,William_Muller,William Muller,Crawford,,Crawford / Duesenberg,-,,running,-,
+1916,UO,1916_Harkness_Trophy_Race,1916_12,13,26,24,usa,George_Adams,George Adams,Adams,,Adams / Duesenberg,-,,dnf,-,
+1916,UO,1916_Harkness_Trophy_Race,1916_12,14,9,,usa,D_Bailey_Gish,D. Bailey Gish,Duesenberg,,Duesenberg / Duesenberg,-,,dnf,-,
+1916,UO,1916_Harkness_Trophy_Race,1916_12,15,16,26,greece,George_Buzane,George Buzane,Duesenberg,,Duesenberg / Duesenberg,-,,dnf,-,
+1916,UO,1916_Harkness_Trophy_Race,1916_12,16,5,28,usa,Milton_McBride,Milton McBride,Olson,,Olson / Duesenberg,-,,dnf,-,
+1916,UO,1916_Harkness_Trophy_Race,1916_12,17,13,16,france,Jules_Devigne,Jules Devigne,Delage,,Delage / Delage,-,,dnf,-,
+1916,UO,1916_Harkness_Trophy_Race,1916_12,18,22,31,usa,Bert_Watson,Bert Watson,Olson,,Olson / Duesenberg,-,,dnf,-,
+1916,UO,1916_Harkness_Trophy_Race,1916_12,19,24,2,usa,Andy_Burt,Andy Burt,Duesenberg,,Ogren / Duesenberg,-,,dnf,-,
+1916,UO,1916_Harkness_Trophy_Race,1916_12,20,25,22,usa,Otto_Henning,Otto Henning,Duesenberg,,Ogren / Duesenberg,-,,dnf,-,
+1916,UO,1916_Harkness_Trophy_Race,1916_12,21,27,,usa,Rea_Lentz,Rea Lentz,Romano,,Romano / Curtis,-,,dnf,-,
 1916,UO,1916_Harkness_Trophy_Race,1916_12,22,6,4,uk,Dario_Resta,Dario Resta,Peugeot Auto Racing,,Peugeot / Peugeot,32,,crankshaft,22,
-1916,UO,1916_Harkness_Trophy_Race,1916_12,23,20,12,usa,Eddie_Rickenbacker,Eddie Rickenbacker,Maxwell,,Maxwell / Maxwell,–,,dnf,–,
-1916,UO,1916_Harkness_Trophy_Race,1916_12,24,4,6,usa,Dave_Lewis,Dave Lewis,Premier,,Premier / Premier,–,,carburetor,–,
-1916,UO,1916_Harkness_Trophy_Race,1916_12,25,18,18,usa,Jack_LeCain,Jack LeCain,Delage,,Delage / Delage,–,,dnf,–,
-1916,UO,1916_Harkness_Trophy_Race,1916_12,26,19,5,canada,Ira_Vail,Ira Vail,Hudson Motor Car,,Hudson / Hudson,–,,dnf,–,
+1916,UO,1916_Harkness_Trophy_Race,1916_12,23,20,12,usa,Eddie_Rickenbacker,Eddie Rickenbacker,Maxwell,,Maxwell / Maxwell,-,,dnf,-,
+1916,UO,1916_Harkness_Trophy_Race,1916_12,24,4,6,usa,Dave_Lewis,Dave Lewis,Premier,,Premier / Premier,-,,carburetor,-,
+1916,UO,1916_Harkness_Trophy_Race,1916_12,25,18,18,usa,Jack_LeCain,Jack LeCain,Delage,,Delage / Delage,-,,dnf,-,
+1916,UO,1916_Harkness_Trophy_Race,1916_12,26,19,5,canada,Ira_Vail,Ira Vail,Hudson Motor Car,,Hudson / Hudson,-,,dnf,-,
 1916,UO,1916_William_K_Vanderbilt_Cup,1916_13,1,16,1,uk,Dario_Resta,Dario Resta,Peugeot Auto Racing,,Peugeot / Peugeot,35,,running,31,900
 1916,UO,1916_William_K_Vanderbilt_Cup,1916_13,2,3,8,usa,Earl_Cooper,Earl Cooper,Stutz,,Stutz / Wisconsin,35,,running,0,470
 1916,UO,1916_William_K_Vanderbilt_Cup,1916_13,3,9,21,usa,William_Weightman,William Weightman,Duesenberg,,Duesenberg / Duesenberg,35,,running,0,240
@@ -275,5 +275,5 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1916,UO,1916_Ascot_Derby,1916_15,8,8,6,usa,Sterling_Price,Sterling Price,Gandy,,Duesenberg / Duesenberg,128,,running,0,20
 1916,UO,1916_Ascot_Derby,1916_15,9,5,7,greece,George_Buzane,George Buzane,Duesenberg,,Duesenberg / Duesenberg,46,,pinion gear,0,
 1916,UO,1916_Ascot_Derby,1916_15,10,7,2,usa,William_Weightman,William Weightman,Duesenberg,,Duesenberg / Duesenberg,45,,crankshaft,0,
-1916,UO,1916_Ascot_Derby,1916_15,11,11,9,usa,CB_Perry,C.B. Perry,Perry Special,,–,21,,engine,0,
+1916,UO,1916_Ascot_Derby,1916_15,11,11,9,usa,CB_Perry,C.B. Perry,Perry Special,,-,21,,engine,0,
 1916,UO,1916_Ascot_Derby,1916_15,12,10,5,usa,William_Taylor,William Taylor,Horstman,,Mercer / Mercer,19,,steering gear,0,

@@ -43,7 +43,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1936,UO,1936_Goshen_100,1936_02,9,9,35,usa,Frank_Brisko,Frank Brisko,Midwest Red Lion,,Stevens / Offy,99,275,running,0,20
 1936,UO,1936_Goshen_100,1936_02,10,13,7,usa,Babe_Stapp,Babe Stapp,Hamilton-Harris,,Weil / Miller,99,250,running,0,10
 1936,UO,1936_Goshen_100,1936_02,11,11,2,usa,Bill_Cummings,Bill Cummings,Boyle Products,,Miller / Offy,99,225,running,0,
-1936,UO,1936_Goshen_100,1936_02,12,14,46,usa,Russ_Snowberger,Russ Snowberger,–,,Miller / Offy,99,200,running,0,
+1936,UO,1936_Goshen_100,1936_02,12,14,46,usa,Russ_Snowberger,Russ Snowberger,-,,Miller / Offy,99,200,running,0,
 1936,UO,1936_Goshen_100,1936_02,13,12,8,usa,Louis_Meyer,Louis Meyer,Ring Free,,Stevens / Miller,53,200,oil pressure,0,
 1936,UO,1936_Goshen_100,1936_02,14,1,38,usa,George_Connor,George Connor,Marks-Miller,,Adams / Miller,1,200,clutch,0,
 1936,UO,1936_Syracuse_100,1936_03,1,7,32,usa,Mauri_Rose,Mauri Rose,Burd Piston Ring,,Miller / Offy,100,2200,running,31,120
@@ -53,9 +53,9 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1936,UO,1936_Syracuse_100,1936_03,5,13,43,usa,Frank_Brisko,Frank Brisko,Belanger-Miller,,Stevens / Miller,100,500,running,0,60
 1936,UO,1936_Syracuse_100,1936_03,6,11,47,usa,Bob_Sall,Bob Sall,Cantlon-Miller,,Stevens / Miller,100,400,running,0,50
 1936,UO,1936_Syracuse_100,1936_03,7,14,4,usa,Shorty_Cantlon,Shorty Cantlon,Burd Piston Ring,,Stevens / Offy,98,350,running,0,10.2
-1936,UO,1936_Syracuse_100,1936_03,8,1,23,usa,Russ_Snowberger,Russ Snowberger,–,,Offy,57,300,rear end,0,
+1936,UO,1936_Syracuse_100,1936_03,8,1,23,usa,Russ_Snowberger,Russ Snowberger,-,,Offy,57,300,rear end,0,
 1936,UO,1936_Syracuse_100,1936_03,9,2,7,usa,Billy_Winn,Billy Winn,Hamilton-Harris,,Miller / Miller,51,275,brake pedal,50,
-1936,UO,1936_Syracuse_100,1936_03,10,3,25,usa,Floyd_Davis,Floyd Davis,–,,Offy,16,250,manifold bolt,0,
+1936,UO,1936_Syracuse_100,1936_03,10,3,25,usa,Floyd_Davis,Floyd Davis,-,,Offy,16,250,manifold bolt,0,
 1936,UO,1936_Syracuse_100,1936_03,11,15,29,usa,Henry_Banks,Henry Banks,Ralph DePalma,,Miller / Miller,6,225,connecting rod,0,
 1936,UO,1936_Syracuse_100,1936_03,12,9,3,usa,Wilbur_Shaw,Wilbur Shaw,Gilmore Speedway,,Shaw / Offy,1,134,crash,0,
 1936,UO,1936_Syracuse_100,1936_03,13,12,2,usa,Bill_Cummings,Bill Cummings,Boyle Products,,Miller / Offy,1,133,crash,0,

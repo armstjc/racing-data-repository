@@ -34,14 +34,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1941,UO,1941_International_500,1941_01,33,33,28,usa,Sam_Hanks,Sam Hanks,Tom Joyce 7-Up,,Kurtis / Offy,0,525,did not start,0,
 1941,UO,1941_Milwaukee_100,1941_02,1,1,1,usa,Rex_Mays,Rex Mays,Bowes Seal Fast,,Stevens / Winfield,100,2000,running,100,200
 1941,UO,1941_Milwaukee_100,1941_02,2,5,14,usa,George_Connor,George Connor,Boyle Racing Headquarters,,Hartz / Offy,99,1000,running,0,165
-1941,UO,1941_Milwaukee_100,1941_02,3,4,16,usa,Mauri_Rose,Mauri Rose,Noc-Out Hose Clamp,,Wetteroth / Offy,–,1000,running,0,135
-1941,UO,1941_Milwaukee_100,1941_02,4,7,55,usa,Al_Putnam,Al Putnam,Schoof's,,Wetteroth / Offy,–,700,running,0,110
-1941,UO,1941_Milwaukee_100,1941_02,5,10,62,usa,Emil_Andres,Emil Andres,George Lyons,,Stevens / Offy,–,500,running,0,90
-1941,UO,1941_Milwaukee_100,1941_02,6,3,25,usa,Tony_Bettenhausen,Tony Bettenhausen,Blue Crown Spark Plug,,Lencki / Lencki,–,400,running,0,75
-1941,UO,1941_Milwaukee_100,1941_02,7,2,29,canada,George_Robson,George Robson,Joe Marks,,Marks / Offy,–,300,running,0,65
-1941,UO,1941_Milwaukee_100,1941_02,8,12,37,usa,Chet_Miller,Chet Miller,Greenfield Super Service,,Studebaker,–,200,running,0,55
-1941,UO,1941_Milwaukee_100,1941_02,9,8,30,usa,Frank_McGurk,Frank McGurk,–,,Offy,–,175,running,0,45
-1941,UO,1941_Milwaukee_100,1941_02,10,11,26,usa,Overton_Phillips,Overton Phillips,Overton Phillips,,Bugatti / Miller,–,155,oil leak,0,
+1941,UO,1941_Milwaukee_100,1941_02,3,4,16,usa,Mauri_Rose,Mauri Rose,Noc-Out Hose Clamp,,Wetteroth / Offy,-,1000,running,0,135
+1941,UO,1941_Milwaukee_100,1941_02,4,7,55,usa,Al_Putnam,Al Putnam,Schoof's,,Wetteroth / Offy,-,700,running,0,110
+1941,UO,1941_Milwaukee_100,1941_02,5,10,62,usa,Emil_Andres,Emil Andres,George Lyons,,Stevens / Offy,-,500,running,0,90
+1941,UO,1941_Milwaukee_100,1941_02,6,3,25,usa,Tony_Bettenhausen,Tony Bettenhausen,Blue Crown Spark Plug,,Lencki / Lencki,-,400,running,0,75
+1941,UO,1941_Milwaukee_100,1941_02,7,2,29,canada,George_Robson,George Robson,Joe Marks,,Marks / Offy,-,300,running,0,65
+1941,UO,1941_Milwaukee_100,1941_02,8,12,37,usa,Chet_Miller,Chet Miller,Greenfield Super Service,,Studebaker,-,200,running,0,55
+1941,UO,1941_Milwaukee_100,1941_02,9,8,30,usa,Frank_McGurk,Frank McGurk,-,,Offy,-,175,running,0,45
+1941,UO,1941_Milwaukee_100,1941_02,10,11,26,usa,Overton_Phillips,Overton Phillips,Overton Phillips,,Bugatti / Miller,-,155,oil leak,0,
 1941,UO,1941_Milwaukee_100,1941_02,11,6,15,usa,Duke_Nalon,Duke Nalon,Ziffrin,,Alfa Romeo / Alfa Romeo,58,135,crash,0,
 1941,UO,1941_Milwaukee_100,1941_02,12,9,10,usa,Tony_Willman,Tony Willman,Gilmore Red Lion,,Weil / Duray,6,125,carburetor,0,
 1941,UO,1941_Milwaukee_100,1941_02,13,13,23,usa,Shorty_Cantlon,Shorty Cantlon,Hollywood Payday,,Stevens / Offy,0,100,did not start,0,
@@ -52,11 +52,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1941,UO,1941_Syracuse_100,1941_03,4,9,16,usa,Mauri_Rose,Mauri Rose,Noc-Out Hose Clamp,,Wetteroth / Offy,99,1300,running,0,110
 1941,UO,1941_Syracuse_100,1941_03,5,5,23,usa,Floyd_Davis,Floyd Davis,Hollywood Payday,,Stevens / Offy,99,900,running,0,90
 1941,UO,1941_Syracuse_100,1941_03,6,4,10,usa,Tony_Willman,Tony Willman,Gilmore Red Lion,,Weil / Duray,99,800,running,0,75
-1941,UO,1941_Syracuse_100,1941_03,7,11,30,usa,Frank_McGurk,Frank McGurk,–,,Offy,99,500,running,0,65
-1941,UO,1941_Syracuse_100,1941_03,8,10,37,usa,Walt_Brown,Walt Brown,–,,Offy,99,300,running,0,55
+1941,UO,1941_Syracuse_100,1941_03,7,11,30,usa,Frank_McGurk,Frank McGurk,-,,Offy,99,500,running,0,65
+1941,UO,1941_Syracuse_100,1941_03,8,10,37,usa,Walt_Brown,Walt Brown,-,,Offy,99,300,running,0,55
 1941,UO,1941_Syracuse_100,1941_03,9,3,29,canada,George_Robson,George Robson,Joe Marks,,Marks / Offy,85,275,crash,0,45
 1941,UO,1941_Syracuse_100,1941_03,10,2,15,usa,Duke_Nalon,Duke Nalon,Ziffrin,,Alfa Romeo / Alfa Romeo,78,250,ring gear,0,35
 1941,UO,1941_Syracuse_100,1941_03,11,8,55,usa,Al_Putnam,Al Putnam,Schoof's,,Wetteroth / Offy,61,225,dnf,0,
-1941,UO,1941_Syracuse_100,1941_03,12,12,38,usa,Lee_Wallard,Lee Wallard,–,,Volker,43,200,dnf,0,
+1941,UO,1941_Syracuse_100,1941_03,12,12,38,usa,Lee_Wallard,Lee Wallard,-,,Volker,43,200,dnf,0,
 1941,UO,1941_Syracuse_100,1941_03,13,14,62,usa,Emil_Andres,Emil Andres,George Lyons,,Stevens / Offy,34,150,dnf,0,
 1941,UO,1941_Syracuse_100,1941_03,14,13,26,usa,Overton_Phillips,Overton Phillips,Overton Phillips,,Bugatti / Miller,17,150,dnf,0,

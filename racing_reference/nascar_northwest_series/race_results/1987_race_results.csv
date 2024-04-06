@@ -302,37 +302,37 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1987,NW,1987_Goodys_100,1987_12_NW,16,9,20,usa,Dirk_Stephens,Dirk Stephens,Capital Industrial Supply,,Chevrolet,40,,ignition,0,115
 1987,NW,1987_Goodys_100,1987_12_NW,17,8,21,usa,Mike_Barrett,Mike Barrett,Rayburn / Quality Brake,,Pontiac,18,,engine,0,112
 1987,NW,1987_Goodys_100,1987_12_NW,18,15,51,canada,Harvey_Hoogenboom,Harvey Hoogenboom,Super Saver Gas,,Chevrolet,16,,engine,0,109
-1987,NW,1987-13,1987_13_NW,1,–,,usa,Tobey_Butler,Tobey Butler,–,,Ford,–,,–,–,
-1987,NW,1987-13,1987_13_NW,2,–,,canada,Tom_Berrow,Tom Berrow,–,,Ford,–,,–,–,
-1987,NW,1987-13,1987_13_NW,3,–,,canada,Roy_Haslam,Roy Haslam,–,,Ford,–,,–,–,
-1987,NW,1987-13,1987_13_NW,4,–,,usa,Jerry_Bowers,Jerry Bowers,–,,–,–,,–,–,
-1987,NW,1987-13,1987_13_NW,5,–,,usa,Ron_Hall,Ron Hall,–,,–,–,,–,–,
-1987,NW,1987-14,1987_14_NW,1,5,14,usa,Kirk_Rogers,Kirk Rogers,Monaco Enterprises,,Pontiac,100,,running,–,180
-1987,NW,1987-14,1987_14_NW,2,3,38,usa,Tobey_Butler,Tobey Butler,Coors Light,,Ford,100,,running,–,170
-1987,NW,1987-14,1987_14_NW,3,7,25,usa,Jerry_Bowers,Jerry Bowers,Vancouver Oil / Triple Kwik,,Pontiac,100,,running,–,165
-1987,NW,1987-14,1987_14_NW,4,8,3,usa,Gordon_Hemrich,Gordon Hemrich,Labatt's Blue,,Pontiac,100,,running,–,160
-1987,NW,1987-14,1987_14_NW,5,1,7,usa,Ron_Eaton,Ron Eaton,Lake's Collision,,Chevrolet,100,,running,–,155
-1987,NW,1987-14,1987_14_NW,6,10,22,canada,Doug_Rutz,Doug Rutz,RC Cola,,Pontiac,100,,running,–,150
-1987,NW,1987-14,1987_14_NW,7,15,28,usa,Ron_Hall,Ron Hall,Ulrick's Transmission,,Chevrolet,100,,running,–,146
-1987,NW,1987-14,1987_14_NW,8,6,26,usa,Chad_Little,Chad Little,Coors / TCB Racing,,Ford,100,,running,–,142
-1987,NW,1987-14,1987_14_NW,9,13,12,usa,Mark_Bold,Mark Bold,Creekside Restraurant,,Chevrolet,100,,running,–,138
-1987,NW,1987-14,1987_14_NW,10,2,64,usa,Garrett_Evans,Garrett Evans,Socci Racing Engines,,Pontiac,100,,running,–,134
-1987,NW,1987-14,1987_14_NW,11,17,9,usa,Sam_Rose,Sam Rose,Nob Hill Auto Sales,,Chevrolet,99,,running,–,130
-1987,NW,1987-14,1987_14_NW,12,26,31,none,Bob_Bryson,Bob Bryson,Okanogan Spa,,Chevrolet,99,,running,–,127
-1987,NW,1987-14,1987_14_NW,13,4,17,canada,Tom_Berrow,Tom Berrow,Sunshine Vette / Target Brake,,Pontiac,99,,running,–,124
-1987,NW,1987-14,1987_14_NW,14,20,46,usa,Paul_Dunbar,Paul Dunbar,Dunbar Automotive,,Pontiac,99,,running,–,121
-1987,NW,1987-14,1987_14_NW,15,24,4,none,Jim_Quinn,Jim Quinn,Johnny Zee's Amusement,,Chevrolet,94,,running,–,118
-1987,NW,1987-14,1987_14_NW,16,14,1,usa,Stan_Smith,Stan Smith,Felpro / MSW,,Buick,93,,running,–,115
-1987,NW,1987-14,1987_14_NW,17,9,2,usa,Larry_Barton,Larry Barton,Socci / Larry's Radiator,,Chevrolet,91,,crash,–,112
-1987,NW,1987-14,1987_14_NW,18,16,65,usa,Kelly_Tanner,Kelly Tanner,Tanner Racing,,Chevrolet,91,,crash,–,109
-1987,NW,1987-14,1987_14_NW,19,18,93,usa,Ron_Rainwater,Ron Rainwater,Al Rainwater Insurance,,Chevrolet,83,,handling,–,106
-1987,NW,1987-14,1987_14_NW,20,19,51,canada,Harvey_Hoogenboom,Harvey Hoogenboom,Super Save Gas,,Chevrolet,68,,oil pressure,–,103
-1987,NW,1987-14,1987_14_NW,21,11,20,usa,Dirk_Stephens,Dirk Stephens,Capital Industrial Supply,,Chevrolet,60,,transmission,–,100
-1987,NW,1987-14,1987_14_NW,22,21,40,usa,Kevin_Hampton,Kevin Hampton,Hampton Oil Field Services,,Pontiac,36,,throttle,–,97
-1987,NW,1987-14,1987_14_NW,23,23,69,usa,Dave_Butterton,Dave Butterton,Sunshine Greenhouses,,Pontiac,27,,handling,–,94
-1987,NW,1987-14,1987_14_NW,24,12,88,canada,Roy_Haslam,Roy Haslam,Port City Chassis West,,Chevrolet,19,,crash,–,91
-1987,NW,1987-14,1987_14_NW,25,22,35,canada,Marsh_Mormyluk,Marsh Mormyluk,Hodgson / Campbell Auto,,Pontiac,19,,transmission,–,88
-1987,NW,1987-14,1987_14_NW,26,25,44,usa,Laury_Cover,Laury Cover,Hitchman's Trailers,,Ford,1,,engine,–,85
+1987,NW,1987-13,1987_13_NW,1,-,,usa,Tobey_Butler,Tobey Butler,-,,Ford,-,,-,-,
+1987,NW,1987-13,1987_13_NW,2,-,,canada,Tom_Berrow,Tom Berrow,-,,Ford,-,,-,-,
+1987,NW,1987-13,1987_13_NW,3,-,,canada,Roy_Haslam,Roy Haslam,-,,Ford,-,,-,-,
+1987,NW,1987-13,1987_13_NW,4,-,,usa,Jerry_Bowers,Jerry Bowers,-,,-,-,,-,-,
+1987,NW,1987-13,1987_13_NW,5,-,,usa,Ron_Hall,Ron Hall,-,,-,-,,-,-,
+1987,NW,1987-14,1987_14_NW,1,5,14,usa,Kirk_Rogers,Kirk Rogers,Monaco Enterprises,,Pontiac,100,,running,-,180
+1987,NW,1987-14,1987_14_NW,2,3,38,usa,Tobey_Butler,Tobey Butler,Coors Light,,Ford,100,,running,-,170
+1987,NW,1987-14,1987_14_NW,3,7,25,usa,Jerry_Bowers,Jerry Bowers,Vancouver Oil / Triple Kwik,,Pontiac,100,,running,-,165
+1987,NW,1987-14,1987_14_NW,4,8,3,usa,Gordon_Hemrich,Gordon Hemrich,Labatt's Blue,,Pontiac,100,,running,-,160
+1987,NW,1987-14,1987_14_NW,5,1,7,usa,Ron_Eaton,Ron Eaton,Lake's Collision,,Chevrolet,100,,running,-,155
+1987,NW,1987-14,1987_14_NW,6,10,22,canada,Doug_Rutz,Doug Rutz,RC Cola,,Pontiac,100,,running,-,150
+1987,NW,1987-14,1987_14_NW,7,15,28,usa,Ron_Hall,Ron Hall,Ulrick's Transmission,,Chevrolet,100,,running,-,146
+1987,NW,1987-14,1987_14_NW,8,6,26,usa,Chad_Little,Chad Little,Coors / TCB Racing,,Ford,100,,running,-,142
+1987,NW,1987-14,1987_14_NW,9,13,12,usa,Mark_Bold,Mark Bold,Creekside Restraurant,,Chevrolet,100,,running,-,138
+1987,NW,1987-14,1987_14_NW,10,2,64,usa,Garrett_Evans,Garrett Evans,Socci Racing Engines,,Pontiac,100,,running,-,134
+1987,NW,1987-14,1987_14_NW,11,17,9,usa,Sam_Rose,Sam Rose,Nob Hill Auto Sales,,Chevrolet,99,,running,-,130
+1987,NW,1987-14,1987_14_NW,12,26,31,none,Bob_Bryson,Bob Bryson,Okanogan Spa,,Chevrolet,99,,running,-,127
+1987,NW,1987-14,1987_14_NW,13,4,17,canada,Tom_Berrow,Tom Berrow,Sunshine Vette / Target Brake,,Pontiac,99,,running,-,124
+1987,NW,1987-14,1987_14_NW,14,20,46,usa,Paul_Dunbar,Paul Dunbar,Dunbar Automotive,,Pontiac,99,,running,-,121
+1987,NW,1987-14,1987_14_NW,15,24,4,none,Jim_Quinn,Jim Quinn,Johnny Zee's Amusement,,Chevrolet,94,,running,-,118
+1987,NW,1987-14,1987_14_NW,16,14,1,usa,Stan_Smith,Stan Smith,Felpro / MSW,,Buick,93,,running,-,115
+1987,NW,1987-14,1987_14_NW,17,9,2,usa,Larry_Barton,Larry Barton,Socci / Larry's Radiator,,Chevrolet,91,,crash,-,112
+1987,NW,1987-14,1987_14_NW,18,16,65,usa,Kelly_Tanner,Kelly Tanner,Tanner Racing,,Chevrolet,91,,crash,-,109
+1987,NW,1987-14,1987_14_NW,19,18,93,usa,Ron_Rainwater,Ron Rainwater,Al Rainwater Insurance,,Chevrolet,83,,handling,-,106
+1987,NW,1987-14,1987_14_NW,20,19,51,canada,Harvey_Hoogenboom,Harvey Hoogenboom,Super Save Gas,,Chevrolet,68,,oil pressure,-,103
+1987,NW,1987-14,1987_14_NW,21,11,20,usa,Dirk_Stephens,Dirk Stephens,Capital Industrial Supply,,Chevrolet,60,,transmission,-,100
+1987,NW,1987-14,1987_14_NW,22,21,40,usa,Kevin_Hampton,Kevin Hampton,Hampton Oil Field Services,,Pontiac,36,,throttle,-,97
+1987,NW,1987-14,1987_14_NW,23,23,69,usa,Dave_Butterton,Dave Butterton,Sunshine Greenhouses,,Pontiac,27,,handling,-,94
+1987,NW,1987-14,1987_14_NW,24,12,88,canada,Roy_Haslam,Roy Haslam,Port City Chassis West,,Chevrolet,19,,crash,-,91
+1987,NW,1987-14,1987_14_NW,25,22,35,canada,Marsh_Mormyluk,Marsh Mormyluk,Hodgson / Campbell Auto,,Pontiac,19,,transmission,-,88
+1987,NW,1987-14,1987_14_NW,26,25,44,usa,Laury_Cover,Laury Cover,Hitchman's Trailers,,Ford,1,,engine,-,85
 1987,NW,1987_Coors_150,1987_15_NW,1,2,14,usa,Kirk_Rogers,Kirk Rogers,Monaco Enterprises,,Pontiac,150,,running,140,180
 1987,NW,1987_Coors_150,1987_15_NW,2,5,20,usa,Dirk_Stephens,Dirk Stephens,Capital Industrial Supply,,Chevrolet,150,,running,0,170
 1987,NW,1987_Coors_150,1987_15_NW,3,4,64,usa,Garrett_Evans,Garrett Evans,Socci Racing Engines,,Pontiac,150,,running,10,165

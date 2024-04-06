@@ -80,7 +80,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1976,P,1976_Winston_Evergreen_150,1976_03_P,9,12,57,usa,Ron_Gautsche,Ron Gautsche,Performance Enterprises,,Chevrolet,131,240,running,0,74.75
 1976,P,1976_Winston_Evergreen_150,1976_03_P,10,10,41,usa,Ernie_Stierly,Ernie Stierly,Allied Plating,,Chevrolet,128,230,brakes,0,73
 1976,P,1976_Winston_Evergreen_150,1976_03_P,11,15,33,usa,Glenn_Francis,Glenn Francis,Zorvite Absorbants,,Chevrolet,122,200,drive line,0,70.5
-1976,P,1976_Winston_Evergreen_150,1976_03_P,12,14,74,usa,Jim_Thompson_(2),Jim Thompson,–,,Plymouth,106,175,running,0,65.5
+1976,P,1976_Winston_Evergreen_150,1976_03_P,12,14,74,usa,Jim_Thompson_(2),Jim Thompson,-,,Plymouth,106,175,running,0,65.5
 1976,P,1976_Winston_Evergreen_150,1976_03_P,13,6,37,usa,Chuck_Wahl,Chuck Wahl,Excel Trailer,,Chevrolet,89,180,clutch,0,60.25
 1976,P,1976_Winston_Evergreen_150,1976_03_P,14,9,2,usa,Richard_White,Richard White,Boulevard Automotive / Lindsey Auto,,Chevrolet,85,150,running,0,58.25
 1976,P,1976_Winston_Evergreen_150,1976_03_P,15,13,44,usa,Phil_Goulet,Phil Goulet,Goulet Farms,,Chevrolet,78,145,running,0,55.5
@@ -94,7 +94,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1976,P,1976_Winston_Victoria_100,1976_04_P,4,1,29,canada,Roy_Smith,Roy Smith,Mercury Marine,,Chevrolet,99,365,running,40,71.75
 1976,P,1976_Winston_Victoria_100,1976_04_P,5,9,57,usa,Ron_Gautsche,Ron Gautsche,Performance Enterprises,,Chevrolet,99,270,running,0,70.75
 1976,P,1976_Winston_Victoria_100,1976_04_P,6,8,82,usa,Sumner_McKnight,Sumner McKnight,Performance Enterprises,,Chevrolet,99,210,running,0,69.75
-1976,P,1976_Winston_Victoria_100,1976_04_P,7,7,12,canada,Terry_Forsythe,Terry Forsythe,–,,Chevrolet,98,195,running,0,68.5
+1976,P,1976_Winston_Victoria_100,1976_04_P,7,7,12,canada,Terry_Forsythe,Terry Forsythe,-,,Chevrolet,98,195,running,0,68.5
 1976,P,1976_Winston_Victoria_100,1976_04_P,8,10,2,usa,Richard_White,Richard White,Boulevard Automotive,,Chevrolet,96,190,running,0,67
 1976,P,1976_Winston_Victoria_100,1976_04_P,9,11,33,usa,Glenn_Francis,Glenn Francis,Zorbite Absorbants,,Chevrolet,89,185,running,0,64.25
 1976,P,1976_Winston_Victoria_100,1976_04_P,10,12,39,usa,Terry_Wood,Terry Wood,Strout Machine,,Chevrolet,88,160,running,0,63
@@ -125,7 +125,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1976,P,1976_Winston_Portland_100,1976_06_P,9,14,44,usa,Phil_Goulet,Phil Goulet,Goulet Farms,,Chevrolet,98,210,running,0,66.5
 1976,P,1976_Winston_Portland_100,1976_06_P,10,13,82,usa,Sumner_McKnight,Sumner McKnight,Performance Enterprises,,Chevrolet,98,200,running,0,65.5
 1976,P,1976_Winston_Portland_100,1976_06_P,11,8,38,usa,Don_Waterman,Don Waterman,Waterman Racing,,Chevrolet,98,195,running,0,64.5
-1976,P,1976_Winston_Portland_100,1976_06_P,12,11,74,usa,Jim_Thompson_(2),Jim Thompson,–,,Chevrolet,98,170,running,0,63.5
+1976,P,1976_Winston_Portland_100,1976_06_P,12,11,74,usa,Jim_Thompson_(2),Jim Thompson,-,,Chevrolet,98,170,running,0,63.5
 1976,P,1976_Winston_Portland_100,1976_06_P,13,12,57,usa,Ron_Gautsche,Ron Gautsche,Performance Enterprises,,Chevrolet,98,155,running,0,62.5
 1976,P,1976_Winston_Portland_100,1976_06_P,14,9,33,usa,Glenn_Francis,Glenn Francis,Zorbite Absorbants,,Chevrolet,96,160,running,0,61
 1976,P,1976_Winston_Portland_100,1976_06_P,15,15,39,usa,Terry_Wood,Terry Wood,San Bernardino Auto Parts,,Chevrolet,44,135,overheating,0,47
@@ -143,8 +143,8 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1976,P,1976_Winston_Shasta_100,1976_07_P,11,12,94,usa,Sonny_Easley,Sonny Easley,Phil Kord Racing,,Chevrolet,15,135,clutch,0,43.75
 1976,P,1976_Winston_Shasta_100,1976_07_P,12,10,21,usa,Doug_Presley,Doug Presley,Mike White,,Chevrolet,15,170,oil pressure,0,0
 1976,P,1976_Winston_Shasta_100,1976_07_P,13,13,26,usa,Dan_Joiner,Dan Joiner,Joiner Racing,,Chevrolet,14,130,rear end,0,0
-1976,P,1976_Winston_Shasta_100,1976_07_P,14,14,66,none,Carl_Booker,Carl Booker,–,,Chevrolet,13,125,engine,0,0
-1976,P,1976_Winston_Shasta_100,1976_07_P,15,15,30,none,Dave_Turfman,Dave Turfman,–,,Chevrolet,5,120,oil leak,0,0
+1976,P,1976_Winston_Shasta_100,1976_07_P,14,14,66,none,Carl_Booker,Carl Booker,-,,Chevrolet,13,125,engine,0,0
+1976,P,1976_Winston_Shasta_100,1976_07_P,15,15,30,none,Dave_Turfman,Dave Turfman,-,,Chevrolet,5,120,oil leak,0,0
 1976,P,1976_Winston_Saugus_100,1976_08_P,1,7,5,usa,Jim_Thirkettle,Jim Thirkettle,Allied Box & Crate,,Chevrolet,100,1205,running,45,85
 1976,P,1976_Winston_Saugus_100,1976_08_P,2,10,01,usa,Chuck_Bown,Chuck Bown,Lake's Drywall,,Chevrolet,100,755,running,0,74
 1976,P,1976_Winston_Saugus_100,1976_08_P,3,14,63,usa,Vince_Giamformaggio,Vince Giamformaggio,Cal-French Inc.,,Chevrolet,100,490,running,0,73
@@ -163,7 +163,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1976,P,1976_Winston_Saugus_100,1976_08_P,16,15,13,usa,Don_Puskarich,Don Puskarich,Oil Field Construction,,Chevrolet,49,120,overheating,0,47.25
 1976,P,1976_Winston_Saugus_100,1976_08_P,17,2,32,usa,Marv_Acton,Marv Acton,Midland Motor Homes,,Chevrolet,20,65,overheating,0,39
 1976,P,1976_Winston_Saugus_100,1976_08_P,18,19,80,usa,John_Weibel,John Weibel,Redlands Auto Dismantlers,,Chevrolet,1,50,engine,0,33.25
-1976,P,1976_Winston_Saugus_100,1976_08_P,19,12,51,usa,John_Soares_Jr,"John Soares, Jr.",–,,Chevrolet,1,50,clutch,0,32.25
+1976,P,1976_Winston_Saugus_100,1976_08_P,19,12,51,usa,John_Soares_Jr,"John Soares, Jr.",-,,Chevrolet,1,50,clutch,0,32.25
 1976,P,1976_Winston_Evergreen_200,1976_09_P,1,1,04,usa,Neal_Newberry,Neal Newberry,Hamm's,,Dodge,200,1980,running,200,110
 1976,P,1976_Winston_Evergreen_200,1976_09_P,2,3,01,usa,Chuck_Bown,Chuck Bown,Lake's Drywall,,Chevrolet,199,1310,running,0,98.75
 1976,P,1976_Winston_Evergreen_200,1976_09_P,3,7,88,usa,Jackie_Kuper,Jackie Kuper,Jackie Kuper,,Chevrolet,198,1075,running,0,0
@@ -172,14 +172,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1976,P,1976_Winston_Evergreen_200,1976_09_P,6,9,98,usa,Johnny_Kieper,Johnny Kieper,Wholesale Truck Parts,,Chevrolet,192,400,running,0,93
 1976,P,1976_Winston_Evergreen_200,1976_09_P,7,13,82,usa,Sumner_McKnight,Sumner McKnight,Performance Enterprises,,Chevrolet,191,350,running,0,91.75
 1976,P,1976_Winston_Evergreen_200,1976_09_P,8,10,29,canada,Ross_Surgenor,Ross Surgenor,Dick Midgley,,Chevrolet,191,330,running,0,90.75
-1976,P,1976_Winston_Evergreen_200,1976_09_P,9,17,74,usa,Jim_Thompson_(2),Jim Thompson,–,,Plymouth,191,320,running,0,0
+1976,P,1976_Winston_Evergreen_200,1976_09_P,9,17,74,usa,Jim_Thompson_(2),Jim Thompson,-,,Plymouth,191,320,running,0,0
 1976,P,1976_Winston_Evergreen_200,1976_09_P,10,16,57,usa,Ron_Gautsche,Ron Gautsche,Performance Enterprises,,Chevrolet,186,300,running,0,87.5
-1976,P,1976_Winston_Evergreen_200,1976_09_P,11,24,1,usa,Ed_Rains,Ed Rains,–,,Plymouth,185,250,running,0,0
+1976,P,1976_Winston_Evergreen_200,1976_09_P,11,24,1,usa,Ed_Rains,Ed Rains,-,,Plymouth,185,250,running,0,0
 1976,P,1976_Winston_Evergreen_200,1976_09_P,12,21,22,usa,John_Hamson,John Hamson,Ed Cholakian,,Chevrolet,176,240,running,0,83
 1976,P,1976_Winston_Evergreen_200,1976_09_P,13,18,33,usa,Glenn_Francis,Glenn Francis,Zorvite Absorbants,,Chevrolet,171,230,running,0,80.75
-1976,P,1976_Winston_Evergreen_200,1976_09_P,14,20,51,none,Roger_Steres,Roger Steres,–,,Chevrolet,145,225,engine,0,0
+1976,P,1976_Winston_Evergreen_200,1976_09_P,14,20,51,none,Roger_Steres,Roger Steres,-,,Chevrolet,145,225,engine,0,0
 1976,P,1976_Winston_Evergreen_200,1976_09_P,15,15,41,usa,Ernie_Stierly,Ernie Stierly,Allied Plating,,Chevrolet,116,220,engine,0,65
-1976,P,1976_Winston_Evergreen_200,1976_09_P,16,22,28,none,Herb_Price,Herb Price,–,,Chevrolet,110,215,clutch,0,0
+1976,P,1976_Winston_Evergreen_200,1976_09_P,16,22,28,none,Herb_Price,Herb Price,-,,Chevrolet,110,215,clutch,0,0
 1976,P,1976_Winston_Evergreen_200,1976_09_P,17,5,73,usa,Bill_Schmitt,Bill Schmitt,Old Milwaukee,,Chevrolet,108,210,valve,0,61
 1976,P,1976_Winston_Evergreen_200,1976_09_P,18,8,7,usa,John_Soares_Jr,"John Soares, Jr.",Frederick Nelson,,Chevrolet,99,205,engine,0,57.75
 1976,P,1976_Winston_Evergreen_200,1976_09_P,19,12,2,usa,Richard_White,Richard White,Boulevard Automotive,,Chevrolet,73,200,clutch,0,50.25
@@ -197,17 +197,17 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1976,P,1976_Winston_Yakima_100,1976_10_P,7,3,2,usa,Richard_White,Richard White,Boulevard Automotive,,Chevrolet,99,245,running,0,68.75
 1976,P,1976_Winston_Yakima_100,1976_10_P,8,4,44,usa,Gary_Johnson,Gary Johnson,Noble Auto Parts,,Chevrolet,98,225,running,0,67.5
 1976,P,1976_Winston_Yakima_100,1976_10_P,9,13,33,usa,Glenn_Francis,Glenn Francis,Zorvite Absorbants,,Chevrolet,98,230,running,0,66.5
-1976,P,1976_Winston_Yakima_100,1976_10_P,10,16,74,usa,Jim_Thompson_(2),Jim Thompson,–,,Chevrolet,98,205,running,0,0
+1976,P,1976_Winston_Yakima_100,1976_10_P,10,16,74,usa,Jim_Thompson_(2),Jim Thompson,-,,Chevrolet,98,205,running,0,0
 1976,P,1976_Winston_Yakima_100,1976_10_P,11,10,57,usa,Ron_Gautsche,Ron Gautsche,Performance Enterprises,,Chevrolet,96,195,running,0,64
 1976,P,1976_Winston_Yakima_100,1976_10_P,12,14,32,usa,Marv_Acton,Marv Acton,Midland Motor Homes,,Dodge,95,205,running,0,62.75
-1976,P,1976_Winston_Yakima_100,1976_10_P,13,17,1,usa,Ed_Rains,Ed Rains,–,,Chevrolet,94,185,running,0,61.5
+1976,P,1976_Winston_Yakima_100,1976_10_P,13,17,1,usa,Ed_Rains,Ed Rains,-,,Chevrolet,94,185,running,0,61.5
 1976,P,1976_Winston_Yakima_100,1976_10_P,14,20,82,usa,Sumner_McKnight,Sumner McKnight,Performance Enterprises,,Chevrolet,93,180,timing chain,0,60.25
 1976,P,1976_Winston_Yakima_100,1976_10_P,15,15,22,usa,John_Hamson,John Hamson,Ed Cholakian,,Chevrolet,91,185,running,0,58.75
 1976,P,1976_Winston_Yakima_100,1976_10_P,16,2,13,usa,Don_Puskarich,Don Puskarich,Oil Field Construction,,Chevrolet,74,185,brakes,0,53.5
 1976,P,1976_Winston_Yakima_100,1976_10_P,17,9,88,usa,Jackie_Kuper,Jackie Kuper,Jackie Kuper,,Chevrolet,65,165,transmission,0,0
 1976,P,1976_Winston_Yakima_100,1976_10_P,18,12,37,usa,Chuck_Wahl,Chuck Wahl,Excel Trailer,,Chevrolet,55,160,water pump,0,46.75
 1976,P,1976_Winston_Yakima_100,1976_10_P,19,19,92,usa,Chris_Monoleos,Chris Monoleos,Chris Monoleos,,Chevrolet,23,155,suspension,0,37.75
-1976,P,1976_Winston_Yakima_100,1976_10_P,20,18,28,none,Herb_Price,Herb Price,–,,Ford,22,150,sway bar,0,0
+1976,P,1976_Winston_Yakima_100,1976_10_P,20,18,28,none,Herb_Price,Herb Price,-,,Ford,22,150,sway bar,0,0
 1976,P,1976_Winston_Yakima_100,1976_10_P,21,21,12,usa,Pete_Torres,Pete Torres,Fuentes Enterprises,,Ford,11,100,oil leak,0,32.75
 1976,P,1976_Winston_Portland_150,1976_11_P,1,8,95,usa,Harry_Jefferson,Harry Jefferson,Jefferson Logging,,Ford,150,1260,running,41,97.5
 1976,P,1976_Winston_Portland_150,1976_11_P,2,5,73,usa,Bill_Schmitt,Bill Schmitt,Old Milwaukee,,Chevrolet,150,790,running,0,86.5
@@ -225,11 +225,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1976,P,1976_Winston_Portland_150,1976_11_P,14,14,26,usa,Janet_Guthrie,Janet Guthrie,Marquardt Racing,,Chevrolet,144,180,running,0,73
 1976,P,1976_Winston_Portland_150,1976_11_P,15,1,44,usa,Gary_Johnson,Gary Johnson,Noble Auto Parts,,Chevrolet,141,175,running,0,71.25
 1976,P,1976_Winston_Portland_150,1976_11_P,16,13,44x,usa,Phil_Goulet,Phil Goulet,Goulet Farms,,Chevrolet,141,170,running,0,70.25
-1976,P,1976_Winston_Portland_150,1976_11_P,17,24,1,usa,Ed_Rains,Ed Rains,–,,Chevrolet,136,165,running,0,68
+1976,P,1976_Winston_Portland_150,1976_11_P,17,24,1,usa,Ed_Rains,Ed Rains,-,,Chevrolet,136,165,running,0,68
 1976,P,1976_Winston_Portland_150,1976_11_P,18,17,33,usa,Glenn_Francis,Glenn Francis,Zorvite Absorbants,,Chevrolet,116,160,running,0,62
 1976,P,1976_Winston_Portland_150,1976_11_P,19,21,92,usa,Chris_Monoleos,Chris Monoleos,Chris Monoleos,,Chevrolet,112,155,suspension,0,60
 1976,P,1976_Winston_Portland_150,1976_11_P,20,11,77,usa,John_Soares_Jr,"John Soares, Jr.",Frederick Nelson,,Chevrolet,100,150,transmission,0,56
-1976,P,1976_Winston_Portland_150,1976_11_P,21,15,28,none,Herb_Price,Herb Price,–,,Ford,63,50,engine,0,0
+1976,P,1976_Winston_Portland_150,1976_11_P,21,15,28,none,Herb_Price,Herb Price,-,,Ford,63,50,engine,0,0
 1976,P,1976_Winston_Portland_150,1976_11_P,22,10,98,usa,Johnny_Kieper,Johnny Kieper,Wholesale Truck Parts,,Chevrolet,28,50,engine,0,36
 1976,P,1976_Winston_Portland_150,1976_11_P,23,18,57,usa,Ron_Gautsche,Ron Gautsche,Performance Enterprises,,Chevrolet,17,50,rocker arm,0,32.25
 1976,P,1976_Winston_Portland_150,1976_11_P,24,23,12,usa,Pete_Torres,Pete Torres,Pete Torres,,Ford,16,50,suspension,0,31

@@ -137,14 +137,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1948,UO,1948_Milwaukee_200,1948_07,11,6,12,usa,Lee_Wallard,Lee Wallard,John Iddings,,Meyer / Offy,140,750,running,0,40
 1948,UO,1948_Milwaukee_200,1948_07,12,15,29,usa,Walt_Brown,Walt Brown,Auto Shippers,,Offy,137,744,clutch,0,20
 1948,UO,1948_Milwaukee_200,1948_07,13,9,98,usa,Johnny_Mantz,Johnny Mantz,J.C. Agajanian,,Kurtis / Offy,135,603,crash,97,
-1948,UO,1948_Milwaukee_200,1948_07,14,14,26,canada,Hal_Robson,Hal Robson,Ray Carter,,Kurtis,–,591,dnf,0,
-1948,UO,1948_Milwaukee_200,1948_07,15,10,45,usa,Mel_Hansen,Mel Hansen,Speedway Cocktail,,Lencki / Lencki,–,544,dnf,27,
+1948,UO,1948_Milwaukee_200,1948_07,14,14,26,canada,Hal_Robson,Hal Robson,Ray Carter,,Kurtis,-,591,dnf,0,
+1948,UO,1948_Milwaukee_200,1948_07,15,10,45,usa,Mel_Hansen,Mel Hansen,Speedway Cocktail,,Lencki / Lencki,-,544,dnf,27,
 1948,UO,1948_Milwaukee_200,1948_07,16,7,8,usa,Emil_Andres,Emil Andres,Charlie Pritchard,,Kurtis / Offy,56,530,spindle rod,0,
-1948,UO,1948_Milwaukee_200,1948_07,17,16,78,usa,George_Connor,George Connor,William Schoof,,Wetteroth / Offy,–,421,dnf,0,
-1948,UO,1948_Milwaukee_200,1948_07,18,21,46,usa,Johnny_Byrne,Johnny Byrne,Arthur Schmidt,,Schmidt / Ford,–,369,dnf,0,
-1948,UO,1948_Milwaukee_200,1948_07,19,19,89,usa,George_Lynch,George Lynch,Larry Jewell,,Offy,–,385,dnf,0,
+1948,UO,1948_Milwaukee_200,1948_07,17,16,78,usa,George_Connor,George Connor,William Schoof,,Wetteroth / Offy,-,421,dnf,0,
+1948,UO,1948_Milwaukee_200,1948_07,18,21,46,usa,Johnny_Byrne,Johnny Byrne,Arthur Schmidt,,Schmidt / Ford,-,369,dnf,0,
+1948,UO,1948_Milwaukee_200,1948_07,19,19,89,usa,George_Lynch,George Lynch,Larry Jewell,,Offy,-,385,dnf,0,
 1948,UO,1948_Milwaukee_200,1948_07,20,17,22,usa,Tony_Bettenhausen,Tony Bettenhausen,Thorne Engineering,,Adams / Sparks,20,312,axle,0,
-1948,UO,1948_Milwaukee_200,1948_07,21,18,18,usa,Steve_Truchan,Steve Truchan,Steve Truchan,,Offy,–,259,dnf,0,
+1948,UO,1948_Milwaukee_200,1948_07,21,18,18,usa,Steve_Truchan,Steve Truchan,Steve Truchan,,Offy,-,259,dnf,0,
 1948,UO,1948_DuQuoin_100_%28September%29,1948_08,1,7,12,usa,Lee_Wallard,Lee Wallard,John Iddings,,Meyer / Offy,100,2500,running,68,200
 1948,UO,1948_DuQuoin_100_%28September%29,1948_08,2,6,32,usa,Myron_Fohr,Myron Fohr,Carl Marchese,,Marchese / Offy,100,1800,running,0,160
 1948,UO,1948_DuQuoin_100_%28September%29,1948_08,3,3,1,usa,Ted_Horn,Ted Horn,Horn Enterprises,,Horn / Offy,100,1000,running,0,140
@@ -175,23 +175,23 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1948,UO,1948_Atlanta_100,1948_09,10,2,5,usa,Rex_Mays,Rex Mays,Bowes Seal Fast,,Kurtis / Winfield,28,279,fuel tank,5,
 1948,UO,1948_Atlanta_100,1948_09,11,4,49,usa,Paul_Russo,Paul Russo,Norm Olson,,Olson / Offy,18,232,engine,0,
 1948,UO,1948_Atlanta_100,1948_09,12,1,1,usa,Ted_Horn,Ted Horn,Horn Enterprises,,Horn / Offy,15,232,crankshaft,15,
-1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,1,1,9,usa,Al_Rogers,Al Rogers,Joe Coniff,,Coniff / Offy,1,3500,running,–,200
-1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,2,3,6,usa,Herb_Bryers,Herb Bryers,Grover,,Chevrolet,1,2300,running,–,160
-1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,3,5,33,usa,Johnny_Mauro,Johnny Mauro,Johnny Mauro,,Alfa Romeo / Alfa Romeo,1,1200,running,–,140
-1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,4,4,7,usa,Russ_Snowberger,Russ Snowberger,Russ�Snowberger,,McDowell,1,850,running,–,120
-1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,5,8,5,usa,Buster_Hammond,Buster Hammond,Connie Weidell,,McDowell,1,600,running,–,100
-1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,6,13,12,usa,Hugh_Thomas,Hugh Thomas,Bandimere,,Ford,1,350,running,–,80
-1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,7,2,25,usa,Louis_Unser,Louis Unser,Maserati,,Maserati / Offy,1,200,running,–,60
-1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,8,7,17,usa,J_C_Shoemaker,J.C. Shoemaker,7 Falls,,McDowell,1,200,running,–,50
-1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,9,11,11,usa,Wayne_Sankey,Wayne Sankey,Laycock Motors,,–,1,200,running,–,40
-1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,10,10,8,usa,Delmar_Desch,Delmar Desch,Bernhard,,Chevrolet,1,200,running,–,30
-1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,11,15,37,usa,Walt_Killinger,Walt Killinger,Walt�Killinger,,Miller,0,,dnf,–,20
-1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,12,12,49,usa,Art_Hillis,Art Hillis,Woestman,,Miller,0,,dnf,–,10
-1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,13,6,29,usa,George_Hammond,George Hammond,Hammond,,Offy,0,,dnf,–,
-1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,14,14,4,usa,Jim_Good,Jim Good,Johnny Mauro,,–,0,,dnf,–,
-1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,15,9,26,usa,Bill_Milliken,Bill Milliken,Bill�Milliken,,Miller / Miller,0,,dnf,–,
-1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,16,16,,usa,Keith_Andrews,Keith Andrews,Stephens,,–,0,,did not start,–,
-1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,18,18,,usa,Joel_Thorne,Joel Thorne,–,,–,0,,did not start,–,
+1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,1,1,9,usa,Al_Rogers,Al Rogers,Joe Coniff,,Coniff / Offy,1,3500,running,-,200
+1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,2,3,6,usa,Herb_Bryers,Herb Bryers,Grover,,Chevrolet,1,2300,running,-,160
+1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,3,5,33,usa,Johnny_Mauro,Johnny Mauro,Johnny Mauro,,Alfa Romeo / Alfa Romeo,1,1200,running,-,140
+1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,4,4,7,usa,Russ_Snowberger,Russ Snowberger,Russ�Snowberger,,McDowell,1,850,running,-,120
+1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,5,8,5,usa,Buster_Hammond,Buster Hammond,Connie Weidell,,McDowell,1,600,running,-,100
+1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,6,13,12,usa,Hugh_Thomas,Hugh Thomas,Bandimere,,Ford,1,350,running,-,80
+1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,7,2,25,usa,Louis_Unser,Louis Unser,Maserati,,Maserati / Offy,1,200,running,-,60
+1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,8,7,17,usa,J_C_Shoemaker,J.C. Shoemaker,7 Falls,,McDowell,1,200,running,-,50
+1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,9,11,11,usa,Wayne_Sankey,Wayne Sankey,Laycock Motors,,-,1,200,running,-,40
+1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,10,10,8,usa,Delmar_Desch,Delmar Desch,Bernhard,,Chevrolet,1,200,running,-,30
+1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,11,15,37,usa,Walt_Killinger,Walt Killinger,Walt�Killinger,,Miller,0,,dnf,-,20
+1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,12,12,49,usa,Art_Hillis,Art Hillis,Woestman,,Miller,0,,dnf,-,10
+1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,13,6,29,usa,George_Hammond,George Hammond,Hammond,,Offy,0,,dnf,-,
+1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,14,14,4,usa,Jim_Good,Jim Good,Johnny Mauro,,-,0,,dnf,-,
+1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,15,9,26,usa,Bill_Milliken,Bill Milliken,Bill�Milliken,,Miller / Miller,0,,dnf,-,
+1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,16,16,,usa,Keith_Andrews,Keith Andrews,Stephens,,-,0,,did not start,-,
+1948,UO,1948_Pikes_Peak_Hill_Climb,1948_10,18,18,,usa,Joel_Thorne,Joel Thorne,-,,-,0,,did not start,-,
 1948,UO,1948_Springfield_100_%28September%29,1948_11,1,7,32,usa,Myron_Fohr,Myron Fohr,Carl Marchese,,Marchese / Offy,100,2110,running,28,200
 1948,UO,1948_Springfield_100_%28September%29,1948_11,2,5,8,usa,Emil_Andres,Emil Andres,Charlie Pritchard,,Kurtis / Offy,100,1520,running,40,160
 1948,UO,1948_Springfield_100_%28September%29,1948_11,3,3,1,usa,Ted_Horn,Ted Horn,Horn Enterprises,,Horn / Offy,100,844,running,0,140

@@ -32,20 +32,20 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1929,UO,1929_International_500,1929_01,31,3,18,usa,Ralph_Hepburn,Ralph Hepburn,Packard Cable,,Miller FD / Miller SC,14,408,transmission,0,
 1929,UO,1929_International_500,1929_01,32,12,10,usa,Bill_Spence,Bill Spence,A.S. Duesenberg,,Duesenberg / Duesenberg SC,14,403,fatal crash,0,
 1929,UO,1929_International_500,1929_01,33,1,8,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve,,Miller FD / Miller SC,3,400,crash,0,
-1929,UO,1929_Detroit_Race,1929_02,1,2,8,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve,,Miller FD / Miller SC,100,,running,–,200
-1929,UO,1929_Detroit_Race,1929_02,2,3,1,usa,Louis_Meyer,Louis Meyer,Miller,,Miller / Miller SC,100,,running,–,110
-1929,UO,1929_Detroit_Race,1929_02,3,4,3,usa,Lou_Moore,Lou Moore,Majestic Miller,,Miller / Miller SC,100,,running,–,60
-1929,UO,1929_Detroit_Race,1929_02,4,13,12,usa,Russ_Snowberger,Russ Snowberger,Cooper Engineering,,Cooper FD / Miller SC,100,,running,–,35
-1929,UO,1929_Detroit_Race,1929_02,5,9,45,usa,Wilbur_Shaw,Wilbur Shaw,Miller,,Miller / Miller SC,99,,running,–,20
-1929,UO,1929_Detroit_Race,1929_02,6,11,24,usa,Bob_Robinson,Bob Robinson,Duesenberg,,Duesenberg / Duesenberg SC,98,,running,–,15
-1929,UO,1929_Detroit_Race,1929_02,7,12,42,usa,Freddie_Winnai,Freddie Winnai,Duesenberg,,Duesenberg / Duesenberg SC,98,,running,–,10
-1929,UO,1929_Detroit_Race,1929_02,8,14,54,usa,Paul_Bost,Paul Bost,Miller,,Miller / Miller SC,97,,running,–,5
-1929,UO,1929_Detroit_Race,1929_02,9,7,32,usa,Billy_Arnold,Billy Arnold,Spindler,,Miller / Miller SC,88,,running,–,
-1929,UO,1929_Detroit_Race,1929_02,10,10,44,italy,Ralph_DePalma,Ralph DePalma,Miller,,Miller / Miller SC,87,,piston,–,
-1929,UO,1929_Detroit_Race,1929_02,11,8,19,usa,Chet_Gardner,Chet Gardner,Boyle Valve,,Miller / Miller SC,86,,running,–,
-1929,UO,1929_Detroit_Race,1929_02,12,6,49,usa,Jimmy_Gleason,Jimmy Gleason,Miller,,Fengler / Miller SC,72,,engine,–,
-1929,UO,1929_Detroit_Race,1929_02,13,5,,usa,Shorty_Cantlon,Shorty Cantlon,Fronty-Ford,,Ford / Fronty-Ford,–,,head gasket,–,
-1929,UO,1929_Detroit_Race,1929_02,14,1,2,usa,Ray_Keech,Ray Keech,Simplex Piston Ring,,Miller / Miller SC,–,,plunger plug,–,
+1929,UO,1929_Detroit_Race,1929_02,1,2,8,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve,,Miller FD / Miller SC,100,,running,-,200
+1929,UO,1929_Detroit_Race,1929_02,2,3,1,usa,Louis_Meyer,Louis Meyer,Miller,,Miller / Miller SC,100,,running,-,110
+1929,UO,1929_Detroit_Race,1929_02,3,4,3,usa,Lou_Moore,Lou Moore,Majestic Miller,,Miller / Miller SC,100,,running,-,60
+1929,UO,1929_Detroit_Race,1929_02,4,13,12,usa,Russ_Snowberger,Russ Snowberger,Cooper Engineering,,Cooper FD / Miller SC,100,,running,-,35
+1929,UO,1929_Detroit_Race,1929_02,5,9,45,usa,Wilbur_Shaw,Wilbur Shaw,Miller,,Miller / Miller SC,99,,running,-,20
+1929,UO,1929_Detroit_Race,1929_02,6,11,24,usa,Bob_Robinson,Bob Robinson,Duesenberg,,Duesenberg / Duesenberg SC,98,,running,-,15
+1929,UO,1929_Detroit_Race,1929_02,7,12,42,usa,Freddie_Winnai,Freddie Winnai,Duesenberg,,Duesenberg / Duesenberg SC,98,,running,-,10
+1929,UO,1929_Detroit_Race,1929_02,8,14,54,usa,Paul_Bost,Paul Bost,Miller,,Miller / Miller SC,97,,running,-,5
+1929,UO,1929_Detroit_Race,1929_02,9,7,32,usa,Billy_Arnold,Billy Arnold,Spindler,,Miller / Miller SC,88,,running,-,
+1929,UO,1929_Detroit_Race,1929_02,10,10,44,italy,Ralph_DePalma,Ralph DePalma,Miller,,Miller / Miller SC,87,,piston,-,
+1929,UO,1929_Detroit_Race,1929_02,11,8,19,usa,Chet_Gardner,Chet Gardner,Boyle Valve,,Miller / Miller SC,86,,running,-,
+1929,UO,1929_Detroit_Race,1929_02,12,6,49,usa,Jimmy_Gleason,Jimmy Gleason,Miller,,Fengler / Miller SC,72,,engine,-,
+1929,UO,1929_Detroit_Race,1929_02,13,5,,usa,Shorty_Cantlon,Shorty Cantlon,Fronty-Ford,,Ford / Fronty-Ford,-,,head gasket,-,
+1929,UO,1929_Detroit_Race,1929_02,14,1,2,usa,Ray_Keech,Ray Keech,Simplex Piston Ring,,Miller / Miller SC,-,,plunger plug,-,
 1929,UO,1929_Altoona_Race_1,1929_03,1,4,1,usa,Louis_Meyer,Louis Meyer,Miller,,Miller / Miller SC,119,,running,0,300
 1929,UO,1929_Altoona_Race_1,1929_03,2,2,25,usa,Cliff_Bergere,Cliff Bergere,Armacost,,Miller FD / Miller SC,116,,running,0,160
 1929,UO,1929_Altoona_Race_1,1929_03,3,3,26,usa,Deacon_Litz,Deacon Litz,Rusco Durac,,Miller / Miller SC,116,,running,0,90
@@ -60,30 +60,30 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1929,UO,1929_Altoona_Race_1,1929_03,12,11,19,usa,Chet_Gardner,Chet Gardner,Boyle Valve,,Miller / Miller SC,64,,engine,0,
 1929,UO,1929_Altoona_Race_1,1929_03,13,13,3,usa,Lou_Moore,Lou Moore,Majestic Miller,,Miller / Miller SC,23,,valve,0,
 1929,UO,1929_Altoona_Race_1,1929_03,14,12,46,usa,Bill_Lindau,Bill Lindau,Pittsburgh,,Miller / Miller SC,17,,fuel line,0,
-1929,UO,1929_Syracuse_Race,1929_04,1,14,45,usa,Wilbur_Shaw,Wilbur Shaw,Miller,,Miller / Miller SC,100,,running,–,200
-1929,UO,1929_Syracuse_Race,1929_04,2,4,28,usa,Frank_Brisko,Frank Brisko,Burbach,,Miller / Miller SC,100,,running,–,110
-1929,UO,1929_Syracuse_Race,1929_04,3,12,42,usa,Freddie_Winnai,Freddie Winnai,Duesenberg,,Duesenberg / Duesenberg SC,100,,running,–,60
-1929,UO,1929_Syracuse_Race,1929_04,4,11,16,usa,Zeke_Meyer,Zeke Meyer,Miller,,Miller / Miller SC,100,,running,–,35
-1929,UO,1929_Syracuse_Race,1929_04,5,13,54,usa,Paul_Bost,Paul Bost,Miller,,Miller / Miller SC,100,,running,–,20
-1929,UO,1929_Syracuse_Race,1929_04,6,3,32,usa,Billy_Arnold,Billy Arnold,Miller,,Miller / Miller SC,100,,running,–,15
-1929,UO,1929_Syracuse_Race,1929_04,7,8,36,usa,Bill_Albertson,Bill Albertson,Miller,,Miller / Miller SC,100,,running,–,10
-1929,UO,1929_Syracuse_Race,1929_04,8,7,2,usa,Jimmy_Gleason,Jimmy Gleason,Simplex Piston Ring,,Miller / Miller SC,–,,overheating,–,
-1929,UO,1929_Syracuse_Race,1929_04,9,6,1,usa,Louis_Meyer,Louis Meyer,Miller,,Miller / Miller SC,71,,oil line,–,
-1929,UO,1929_Syracuse_Race,1929_04,10,5,4,usa,Herman_Schurch,Herman Schurch,Miller,,Miller / Miller SC,55,,crash,–,
-1929,UO,1929_Syracuse_Race,1929_04,11,9,6,usa,Fred_Frame,Fred Frame,Boyle Valve,,Miller / Miller SC,47,,cam housing,–,
-1929,UO,1929_Syracuse_Race,1929_04,12,2,26,usa,Deacon_Litz,Deacon Litz,Rusco Durac,,Miller / Miller SC,45,,connecting rod,–,
-1929,UO,1929_Syracuse_Race,1929_04,13,10,47,usa,Chet_Gardner,Chet Gardner,Duesenberg,,Duesenberg / Duesenberg SC,44,,supercharger,–,
-1929,UO,1929_Syracuse_Race,1929_04,14,1,4,usa,Shorty_Cantlon,Shorty Cantlon,Miller,,Miller / Miller SC,4,,supercharger,–,
-1929,UO,1929_Altoona_Race_2,1929_05,1,4,1,usa,Louis_Meyer,Louis Meyer,Miller,,Miller / Miller SC,160,,running,–,400
-1929,UO,1929_Altoona_Race_2,1929_05,2,6,6,usa,Fred_Frame,Fred Frame,Boyle Valve,,Miller / Miller SC,160,,running,–,210
-1929,UO,1929_Altoona_Race_2,1929_05,3,13,28,usa,Myron_Stevens,Myron Stevens,Burbach,,Miller / Miller SC,160,,running,–,110
-1929,UO,1929_Altoona_Race_2,1929_05,4,12,4,usa,Shorty_Cantlon,Shorty Cantlon,Detroit,,Detroit FD / Miller SC,160,,running,–,60
-1929,UO,1929_Altoona_Race_2,1929_05,5,11,37,usa,Wilbur_Shaw,Wilbur Shaw,Boyle Valve,,Miller FD / Miller SC,160,,running,–,20
-1929,UO,1929_Altoona_Race_2,1929_05,6,5,32,usa,Billy_Arnold,Billy Arnold,Spindler,,Miller / Miller SC,160,,running,–,25
-1929,UO,1929_Altoona_Race_2,1929_05,7,8,42,usa,Freddie_Winnai,Freddie Winnai,Duesenberg,,Duesenberg / Duesenberg SC,160,,running,–,15
-1929,UO,1929_Altoona_Race_2,1929_05,8,1,3,usa,Lou_Moore,Lou Moore,Majestic Miller,,Miller / Miller SC,116,,running,–,10
-1929,UO,1929_Altoona_Race_2,1929_05,9,9,48,usa,Speed_Gardner,Speed Gardner,Chromolite,,Miller / Miller SC,108,,running,–,
-1929,UO,1929_Altoona_Race_2,1929_05,10,3,25,usa,Cliff_Bergere,Cliff Bergere,Armacost,,Miller FD / Miller SC,148,,water line,–,
-1929,UO,1929_Altoona_Race_2,1929_05,11,7,47,usa,Chet_Gardner,Chet Gardner,Buckeye Duesenberg,,Duesenberg / Duesenberg SC,56,,engine,–,
-1929,UO,1929_Altoona_Race_2,1929_05,12,10,49,usa,Gordon_Condon,Gordon Condon,Miller,,Fengler / Miller SC,14,,supercharger,–,
-1929,UO,1929_Altoona_Race_2,1929_05,13,2,26,usa,Deacon_Litz,Deacon Litz,Rusco Durac,,Miller / Miller SC,9,,connecting rod,–,
+1929,UO,1929_Syracuse_Race,1929_04,1,14,45,usa,Wilbur_Shaw,Wilbur Shaw,Miller,,Miller / Miller SC,100,,running,-,200
+1929,UO,1929_Syracuse_Race,1929_04,2,4,28,usa,Frank_Brisko,Frank Brisko,Burbach,,Miller / Miller SC,100,,running,-,110
+1929,UO,1929_Syracuse_Race,1929_04,3,12,42,usa,Freddie_Winnai,Freddie Winnai,Duesenberg,,Duesenberg / Duesenberg SC,100,,running,-,60
+1929,UO,1929_Syracuse_Race,1929_04,4,11,16,usa,Zeke_Meyer,Zeke Meyer,Miller,,Miller / Miller SC,100,,running,-,35
+1929,UO,1929_Syracuse_Race,1929_04,5,13,54,usa,Paul_Bost,Paul Bost,Miller,,Miller / Miller SC,100,,running,-,20
+1929,UO,1929_Syracuse_Race,1929_04,6,3,32,usa,Billy_Arnold,Billy Arnold,Miller,,Miller / Miller SC,100,,running,-,15
+1929,UO,1929_Syracuse_Race,1929_04,7,8,36,usa,Bill_Albertson,Bill Albertson,Miller,,Miller / Miller SC,100,,running,-,10
+1929,UO,1929_Syracuse_Race,1929_04,8,7,2,usa,Jimmy_Gleason,Jimmy Gleason,Simplex Piston Ring,,Miller / Miller SC,-,,overheating,-,
+1929,UO,1929_Syracuse_Race,1929_04,9,6,1,usa,Louis_Meyer,Louis Meyer,Miller,,Miller / Miller SC,71,,oil line,-,
+1929,UO,1929_Syracuse_Race,1929_04,10,5,4,usa,Herman_Schurch,Herman Schurch,Miller,,Miller / Miller SC,55,,crash,-,
+1929,UO,1929_Syracuse_Race,1929_04,11,9,6,usa,Fred_Frame,Fred Frame,Boyle Valve,,Miller / Miller SC,47,,cam housing,-,
+1929,UO,1929_Syracuse_Race,1929_04,12,2,26,usa,Deacon_Litz,Deacon Litz,Rusco Durac,,Miller / Miller SC,45,,connecting rod,-,
+1929,UO,1929_Syracuse_Race,1929_04,13,10,47,usa,Chet_Gardner,Chet Gardner,Duesenberg,,Duesenberg / Duesenberg SC,44,,supercharger,-,
+1929,UO,1929_Syracuse_Race,1929_04,14,1,4,usa,Shorty_Cantlon,Shorty Cantlon,Miller,,Miller / Miller SC,4,,supercharger,-,
+1929,UO,1929_Altoona_Race_2,1929_05,1,4,1,usa,Louis_Meyer,Louis Meyer,Miller,,Miller / Miller SC,160,,running,-,400
+1929,UO,1929_Altoona_Race_2,1929_05,2,6,6,usa,Fred_Frame,Fred Frame,Boyle Valve,,Miller / Miller SC,160,,running,-,210
+1929,UO,1929_Altoona_Race_2,1929_05,3,13,28,usa,Myron_Stevens,Myron Stevens,Burbach,,Miller / Miller SC,160,,running,-,110
+1929,UO,1929_Altoona_Race_2,1929_05,4,12,4,usa,Shorty_Cantlon,Shorty Cantlon,Detroit,,Detroit FD / Miller SC,160,,running,-,60
+1929,UO,1929_Altoona_Race_2,1929_05,5,11,37,usa,Wilbur_Shaw,Wilbur Shaw,Boyle Valve,,Miller FD / Miller SC,160,,running,-,20
+1929,UO,1929_Altoona_Race_2,1929_05,6,5,32,usa,Billy_Arnold,Billy Arnold,Spindler,,Miller / Miller SC,160,,running,-,25
+1929,UO,1929_Altoona_Race_2,1929_05,7,8,42,usa,Freddie_Winnai,Freddie Winnai,Duesenberg,,Duesenberg / Duesenberg SC,160,,running,-,15
+1929,UO,1929_Altoona_Race_2,1929_05,8,1,3,usa,Lou_Moore,Lou Moore,Majestic Miller,,Miller / Miller SC,116,,running,-,10
+1929,UO,1929_Altoona_Race_2,1929_05,9,9,48,usa,Speed_Gardner,Speed Gardner,Chromolite,,Miller / Miller SC,108,,running,-,
+1929,UO,1929_Altoona_Race_2,1929_05,10,3,25,usa,Cliff_Bergere,Cliff Bergere,Armacost,,Miller FD / Miller SC,148,,water line,-,
+1929,UO,1929_Altoona_Race_2,1929_05,11,7,47,usa,Chet_Gardner,Chet Gardner,Buckeye Duesenberg,,Duesenberg / Duesenberg SC,56,,engine,-,
+1929,UO,1929_Altoona_Race_2,1929_05,12,10,49,usa,Gordon_Condon,Gordon Condon,Miller,,Fengler / Miller SC,14,,supercharger,-,
+1929,UO,1929_Altoona_Race_2,1929_05,13,2,26,usa,Deacon_Litz,Deacon Litz,Rusco Durac,,Miller / Miller SC,9,,connecting rod,-,

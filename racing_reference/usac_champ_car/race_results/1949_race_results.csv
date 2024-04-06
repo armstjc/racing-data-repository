@@ -1,14 +1,14 @@
 season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
 1949,UO,1949_Arlington_100,1949_01,1,6,12,usa,Johnnie_Parsons,Johnnie Parsons,Kurtis Kraft,,Kurtis / Offy,95,2143,running,42,200
 1949,UO,1949_Arlington_100,1949_01,2,1,15,usa,Rex_Mays,Rex Mays,Erwin Wolfe,,Kurtis / Offy,94,1643,running,0,160
-1949,UO,1949_Arlington_100,1949_01,3,7,98,usa,Johnny_Mantz,Johnny Mantz,J.C. Agajanian,,Kurtis / Offy,–,857,running,0,140
-1949,UO,1949_Arlington_100,1949_01,4,5,2,usa,Myron_Fohr,Myron Fohr,Carl Marchese,,Marchese / Offy,–,1600,running,0,120
-1949,UO,1949_Arlington_100,1949_01,5,11,22,usa,Frank_Burany,Frank Burany,William Schoof,,Offy,–,514,running,0,100
-1949,UO,1949_Arlington_100,1949_01,6,10,23,usa,Milt_Fankhauser,Milt Fankhauser,Milt Fankhauser,,Miller / Offy,–,429,running,0,80
-1949,UO,1949_Arlington_100,1949_01,7,2,66,usa,Johnny_McDowell,Johnny McDowell,John Iddings,,Offy,–,343,running,3,60
+1949,UO,1949_Arlington_100,1949_01,3,7,98,usa,Johnny_Mantz,Johnny Mantz,J.C. Agajanian,,Kurtis / Offy,-,857,running,0,140
+1949,UO,1949_Arlington_100,1949_01,4,5,2,usa,Myron_Fohr,Myron Fohr,Carl Marchese,,Marchese / Offy,-,1600,running,0,120
+1949,UO,1949_Arlington_100,1949_01,5,11,22,usa,Frank_Burany,Frank Burany,William Schoof,,Offy,-,514,running,0,100
+1949,UO,1949_Arlington_100,1949_01,6,10,23,usa,Milt_Fankhauser,Milt Fankhauser,Milt Fankhauser,,Miller / Offy,-,429,running,0,80
+1949,UO,1949_Arlington_100,1949_01,7,2,66,usa,Johnny_McDowell,Johnny McDowell,John Iddings,,Offy,-,343,running,3,60
 1949,UO,1949_Arlington_100,1949_01,8,3,64,usa,Troy_Ruttman,Troy Ruttman,Ray Carter,,Wetteroth / Offy,73,343,steering,50,50
-1949,UO,1949_Arlington_100,1949_01,9,8,14,usa,Bayliss_Levrett,Bayliss Levrett,Bayliss Levrett,,Offy,–,257,–,0,40
-1949,UO,1949_Arlington_100,1949_01,10,9,27,usa,Jimmy_Davies,Jimmy Davies,Grant Piston Ring,,Offy,–,257,–,0,
+1949,UO,1949_Arlington_100,1949_01,9,8,14,usa,Bayliss_Levrett,Bayliss Levrett,Bayliss Levrett,,Offy,-,257,-,0,40
+1949,UO,1949_Arlington_100,1949_01,10,9,27,usa,Jimmy_Davies,Jimmy Davies,Grant Piston Ring,,Offy,-,257,-,0,
 1949,UO,1949_Arlington_100,1949_01,11,4,4,usa,Bill_Sheffler,Bill Sheffler,Bill Sheffler,,Bromme / Offy,25,214,mechanical,0,
 1949,UO,1949_International_500,1949_02,1,4,7,usa,Bill_Holland,Bill Holland,Blue Crown Spark Plug,,Deidt FD / Offenhauser,200,51575,running,146,1000
 1949,UO,1949_International_500,1949_02,2,12,12,usa,Johnnie_Parsons,Johnnie Parsons,Kurtis-Kraft,,Kurtis 1000 316 / Offenhauser,200,18250,running,0,800
@@ -60,7 +60,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1949,UO,1949_Milwaukee_100,1949_03,15,16,4,usa,Bill_Sheffler,Bill Sheffler,Sheffler Offy,,Bromme / Offy,37,412,rear axle,0,
 1949,UO,1949_Milwaukee_100,1949_03,16,2,37,usa,George_Connor,George Connor,Grancor,,Bromme / Offy,36,412,connecting rod,11,
 1949,UO,1949_Milwaukee_100,1949_03,17,13,72,usa,Ted_Duncan,Ted Duncan,Lutes,,Offy,30,206,brakes,0,
-1949,UO,1949_Milwaukee_100,1949_03,18,9,46,usa,Troy_Ruttman,Troy Ruttman,Robert Flavell,,–,5,206,piston,0,
+1949,UO,1949_Milwaukee_100,1949_03,18,9,46,usa,Troy_Ruttman,Troy Ruttman,Robert Flavell,,-,5,206,piston,0,
 1949,UO,1949_Trenton_100,1949_04,1,2,2,usa,Myron_Fohr,Myron Fohr,Carl Marchese,,Marchese / Offy,100,2148,running,100,200
 1949,UO,1949_Trenton_100,1949_04,2,3,55,usa,Mel_Hansen,Mel Hansen,Bowes Fast Seal,,Lesovsky / Offy,100,1547,running,0,160
 1949,UO,1949_Trenton_100,1949_04,3,14,18,usa,Walt_Brown,Walt Brown,Love Machine & Tool,,Kurtis / Offy,100,859,running,0,140
@@ -70,33 +70,33 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1949,UO,1949_Trenton_100,1949_04,7,4,32,usa,Johnny_McDowell,Johnny McDowell,Iddings,,Meyer / Offy,100,343,running,0,60
 1949,UO,1949_Trenton_100,1949_04,8,9,19,usa,Paul_Russo,Paul Russo,Tuffy's Offy,,Kurtis / Offy,100,343,running,0,50
 1949,UO,1949_Trenton_100,1949_04,9,5,57,usa,Mack_Hellings,Mack Hellings,Pat Clancy,,Offy,99,257,crash,0,40
-1949,UO,1949_Trenton_100,1949_04,10,1,77,usa,Rex_Mays,Rex Mays,Erwin Wolfe,,Kurtis / Offy,–,257,dnf,0,30
-1949,UO,1949_Trenton_100,1949_04,11,8,12,usa,Johnnie_Parsons,Johnnie Parsons,Kurtis Kraft,,Kurtis / Offy,–,214,mechanical,0,20
-1949,UO,1949_Trenton_100,1949_04,12,7,98,usa,Johnny_Mantz,Johnny Mantz,J.C. Agajanian,,Kurtis / Offy,–,214,dnf,0,10
-1949,UO,1949_Trenton_100,1949_04,13,16,72,usa,Ted_Duncan,Ted Duncan,Bill Corley,,Offy,–,171,dnf,0,
-1949,UO,1949_Trenton_100,1949_04,14,6,33,usa,Jack_McGrath,Jack McGrath,City of Tacoma,,Kurtis / Offy,–,171,dnf,0,
-1949,UO,1949_Trenton_100,1949_04,15,11,56,usa,Lee_Wallard,Lee Wallard,Steve Truchan,,Offy,–,171,dnf,0,
-1949,UO,1949_Trenton_100,1949_04,16,12,7,usa,Bill_Holland,Bill Holland,Blue Crown Spark Plug,,Offy,–,171,radiator,0,
-1949,UO,1949_Trenton_100,1949_04,17,17,14,usa,Hal_Cole,Hal Cole,Hal�Cole,,Kurtis / Offy,–,85,dnf,0,
-1949,UO,1949_Trenton_100,1949_04,18,18,54,usa,Buster_Warke,Buster Warke,Pew,,Offy,–,85,dnf,0,
+1949,UO,1949_Trenton_100,1949_04,10,1,77,usa,Rex_Mays,Rex Mays,Erwin Wolfe,,Kurtis / Offy,-,257,dnf,0,30
+1949,UO,1949_Trenton_100,1949_04,11,8,12,usa,Johnnie_Parsons,Johnnie Parsons,Kurtis Kraft,,Kurtis / Offy,-,214,mechanical,0,20
+1949,UO,1949_Trenton_100,1949_04,12,7,98,usa,Johnny_Mantz,Johnny Mantz,J.C. Agajanian,,Kurtis / Offy,-,214,dnf,0,10
+1949,UO,1949_Trenton_100,1949_04,13,16,72,usa,Ted_Duncan,Ted Duncan,Bill Corley,,Offy,-,171,dnf,0,
+1949,UO,1949_Trenton_100,1949_04,14,6,33,usa,Jack_McGrath,Jack McGrath,City of Tacoma,,Kurtis / Offy,-,171,dnf,0,
+1949,UO,1949_Trenton_100,1949_04,15,11,56,usa,Lee_Wallard,Lee Wallard,Steve Truchan,,Offy,-,171,dnf,0,
+1949,UO,1949_Trenton_100,1949_04,16,12,7,usa,Bill_Holland,Bill Holland,Blue Crown Spark Plug,,Offy,-,171,radiator,0,
+1949,UO,1949_Trenton_100,1949_04,17,17,14,usa,Hal_Cole,Hal Cole,Hal�Cole,,Kurtis / Offy,-,85,dnf,0,
+1949,UO,1949_Trenton_100,1949_04,18,18,54,usa,Buster_Warke,Buster Warke,Pew,,Offy,-,85,dnf,0,
 1949,UO,1949_Springfield_100_%28August%29,1949_05,1,1,55,usa,Mel_Hansen,Mel Hansen,Bowes Seal Fast,,Lesovsky / Offy,100,2500,running,100,200
 1949,UO,1949_Springfield_100_%28August%29,1949_05,2,2,15,usa,Rex_Mays,Rex Mays,Erwin Wolfe,,Kurtis / Offy,100,1800,running,0,160
 1949,UO,1949_Springfield_100_%28August%29,1949_05,3,16,12,usa,Johnnie_Parsons,Johnnie Parsons,Kurtis Kraft,,Kurtis / Offy,100,1000,running,0,140
 1949,UO,1949_Springfield_100_%28August%29,1949_05,4,3,3,usa,Bill_Holland,Bill Holland,Love Machine & Tools,,Offy,100,700,running,0,120
 1949,UO,1949_Springfield_100_%28August%29,1949_05,5,11,6,usa,Lee_Wallard,Lee Wallard,Iddings,,Offy,100,600,running,0,100
-1949,UO,1949_Springfield_100_%28August%29,1949_05,6,6,2,usa,Myron_Fohr,Myron Fohr,Carl Marchese,,Marchese / Offy,–,500,–,0,80
-1949,UO,1949_Springfield_100_%28August%29,1949_05,7,7,9,usa,Walt_Brown,Walt Brown,Tuffy's Offy,,Kurtis / Offy,–,400,–,0,60
-1949,UO,1949_Springfield_100_%28August%29,1949_05,8,17,98,usa,Johnny_Mantz,Johnny Mantz,J.C. Agajanian,,Kurtis / Offy,–,400,–,0,50
-1949,UO,1949_Springfield_100_%28August%29,1949_05,9,13,34,usa,Ralph_Pratt,Ralph Pratt,Belanger Motors,,Offy,–,300,–,0,40
-1949,UO,1949_Springfield_100_%28August%29,1949_05,10,10,19,usa,Paul_Russo,Paul Russo,Tuffy's Offy,,Kurtis / Offy,–,300,–,0,30
-1949,UO,1949_Springfield_100_%28August%29,1949_05,11,12,10,belgium,Charles_Van_Acker,Charles Van Acker,Walter Redmer,,Offy,–,250,–,0,20
-1949,UO,1949_Springfield_100_%28August%29,1949_05,12,15,93,usa,Hank_Rogers,Hank Rogers,Scopa,,Offy,–,250,–,0,10
-1949,UO,1949_Springfield_100_%28August%29,1949_05,13,9,71,usa,Wally_Stokes,Wally Stokes,Lutes,,Offy,–,200,–,0,
-1949,UO,1949_Springfield_100_%28August%29,1949_05,14,18,68,usa,Jackie_Holmes,Jackie Holmes,Pioneer Auto,,Wetteroth / Offy,–,200,–,0,
-1949,UO,1949_Springfield_100_%28August%29,1949_05,15,4,14,usa,Duane_Carter,Duane Carter,Neal's Rest,,Kurtis / Offy,–,200,–,0,
-1949,UO,1949_Springfield_100_%28August%29,1949_05,16,5,37,usa,George_Connor,George Connor,Grancor,,Bromme / Offy,–,200,–,0,
-1949,UO,1949_Springfield_100_%28August%29,1949_05,17,14,69,usa,Bayliss_Levrett,Bayliss Levrett,Wynn's Friction Proofing,,Kurtis / Offy,–,100,–,0,
-1949,UO,1949_Springfield_100_%28August%29,1949_05,18,8,99,usa,Tony_Bettenhausen,Tony Bettenhausen,Meyer & Drake,,Kurtis / Offy,–,100,–,0,
+1949,UO,1949_Springfield_100_%28August%29,1949_05,6,6,2,usa,Myron_Fohr,Myron Fohr,Carl Marchese,,Marchese / Offy,-,500,-,0,80
+1949,UO,1949_Springfield_100_%28August%29,1949_05,7,7,9,usa,Walt_Brown,Walt Brown,Tuffy's Offy,,Kurtis / Offy,-,400,-,0,60
+1949,UO,1949_Springfield_100_%28August%29,1949_05,8,17,98,usa,Johnny_Mantz,Johnny Mantz,J.C. Agajanian,,Kurtis / Offy,-,400,-,0,50
+1949,UO,1949_Springfield_100_%28August%29,1949_05,9,13,34,usa,Ralph_Pratt,Ralph Pratt,Belanger Motors,,Offy,-,300,-,0,40
+1949,UO,1949_Springfield_100_%28August%29,1949_05,10,10,19,usa,Paul_Russo,Paul Russo,Tuffy's Offy,,Kurtis / Offy,-,300,-,0,30
+1949,UO,1949_Springfield_100_%28August%29,1949_05,11,12,10,belgium,Charles_Van_Acker,Charles Van Acker,Walter Redmer,,Offy,-,250,-,0,20
+1949,UO,1949_Springfield_100_%28August%29,1949_05,12,15,93,usa,Hank_Rogers,Hank Rogers,Scopa,,Offy,-,250,-,0,10
+1949,UO,1949_Springfield_100_%28August%29,1949_05,13,9,71,usa,Wally_Stokes,Wally Stokes,Lutes,,Offy,-,200,-,0,
+1949,UO,1949_Springfield_100_%28August%29,1949_05,14,18,68,usa,Jackie_Holmes,Jackie Holmes,Pioneer Auto,,Wetteroth / Offy,-,200,-,0,
+1949,UO,1949_Springfield_100_%28August%29,1949_05,15,4,14,usa,Duane_Carter,Duane Carter,Neal's Rest,,Kurtis / Offy,-,200,-,0,
+1949,UO,1949_Springfield_100_%28August%29,1949_05,16,5,37,usa,George_Connor,George Connor,Grancor,,Bromme / Offy,-,200,-,0,
+1949,UO,1949_Springfield_100_%28August%29,1949_05,17,14,69,usa,Bayliss_Levrett,Bayliss Levrett,Wynn's Friction Proofing,,Kurtis / Offy,-,100,-,0,
+1949,UO,1949_Springfield_100_%28August%29,1949_05,18,8,99,usa,Tony_Bettenhausen,Tony Bettenhausen,Meyer & Drake,,Kurtis / Offy,-,100,-,0,
 1949,UO,1949_Milwaukee_200,1949_06,1,5,12,usa,Johnnie_Parsons,Johnnie Parsons,Kurtis Kraft,,Kurtis / Offy,200,6500,running,132,400
 1949,UO,1949_Milwaukee_200,1949_06,2,14,9,usa,Walt_Brown,Walt Brown,Tuffy's Offy,,Kurtis / Offy,200,3900,running,0,320
 1949,UO,1949_Milwaukee_200,1949_06,3,2,15,usa,Rex_Mays,Rex Mays,Erwin Wolfe,,Kurtis / Offy,200,2600,running,0,280
@@ -120,50 +120,50 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1949,UO,1949_Milwaukee_200,1949_06,21,9,6,usa,Lee_Wallard,Lee Wallard,Iddings,,Offy,35,177,hub,0,
 1949,UO,1949_Milwaukee_200,1949_06,22,21,44,usa,Kenny_Eaton,Kenny Eaton,Bill Corley,,Offy,31,177,rear end,0,
 1949,UO,1949_DuQuoin_100,1949_07,1,1,99,usa,Tony_Bettenhausen,Tony Bettenhausen,Meyer & Drake,,Kurtis / Offy,100,2164,running,70,200
-1949,UO,1949_DuQuoin_100,1949_07,2,–,7,usa,Bill_Holland,Bill Holland,Love Machine & Tool,,Offy,100,2058,running,0,160
-1949,UO,1949_DuQuoin_100,1949_07,3,3,22,usa,George_Connor,George Connor,Grancor,,Bromme / Offy,–,865,–,0,140
-1949,UO,1949_DuQuoin_100,1949_07,4,–,6,usa,Lee_Wallard,Lee Wallard,Iddings,,Offy,–,606,–,0,120
-1949,UO,1949_DuQuoin_100,1949_07,5,–,18,usa,Walt_Brown,Walt Brown,Tuffy's Offy,,Kurtis / Offy,–,519,–,0,100
-1949,UO,1949_DuQuoin_100,1949_07,6,–,19,usa,Paul_Russo,Paul Russo,Tuffy's Offy,,Kurtis / Offy,–,433,–,0,80
-1949,UO,1949_DuQuoin_100,1949_07,7,–,34,usa,Ralph_Pratt,Ralph Pratt,Belanger Motors,,Offy,–,346,–,0,60
-1949,UO,1949_DuQuoin_100,1949_07,8,–,2,usa,Myron_Fohr,Myron Fohr,Carl Marchese,,Marchese / Offy,–,346,–,0,50
-1949,UO,1949_DuQuoin_100,1949_07,9,–,17,usa,Duane_Carter,Duane Carter,Belanger Motors,,Stevens / Offy,–,260,–,0,40
-1949,UO,1949_DuQuoin_100,1949_07,10,–,10,belgium,Charles_Van_Acker,Charles Van Acker,Walter Redmer,,Offy,–,260,–,0,30
-1949,UO,1949_DuQuoin_100,1949_07,11,–,12,usa,Johnnie_Parsons,Johnnie Parsons,Kurtis Kraft,,Kurtis / Offy,–,217,–,0,20
-1949,UO,1949_DuQuoin_100,1949_07,12,–,93,usa,Billy_DeVore,Billy DeVore,Scopa,,Offy,–,216,–,0,10
-1949,UO,1949_DuQuoin_100,1949_07,13,–,24,usa,Emil_Andres,Emil Andres,William Schoof,,Offy,–,173,–,0,
-1949,UO,1949_DuQuoin_100,1949_07,14,2,55,usa,Mel_Hansen,Mel Hansen,Bowes Seal Fast,,Offy,–,173,–,30,
-1949,UO,1949_DuQuoin_100,1949_07,15,5,14,usa,Rex_Mays,Rex Mays,Neal's Rest,,Kurtis / Offy,–,173,–,0,
-1949,UO,1949_DuQuoin_100,1949_07,16,–,21,usa,George_Lynch,George Lynch,Auto Shippers,,Offy,–,173,–,0,
-1949,UO,1949_DuQuoin_100,1949_07,17,4,74,usa,Neal_Carter,Neal Carter,Lutes,,Offy,–,87,–,0,
-1949,UO,1949_DuQuoin_100,1949_07,18,–,71,usa,Bayliss_Levrett,Bayliss Levrett,Veedol,,Offy,–,87,–,0,
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,1,1,9,usa,Al_Rogers,Al Rogers,Conover & Coniff,,Offy,1,,running,–,200
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,2,2,35,usa,Louis_Unser,Louis Unser,Federal Engineering,,Maserati,1,,running,–,160
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,3,5,6,usa,Charles_Bryant,Charles Bryant,Grover,,Chevy,1,,running,–,140
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,4,–,26,usa,George_Hammond,George Hammond,Auto Shippers,,Snowberger / Offy,1,,running,–,120
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,5,8,2,usa,Mack_Hellings,Mack Hellings,Don Lee,,Kurtis / Alfa Romeo,1,,running,–,100
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,6,–,8,usa,Phil_Shafer,Phil Shafer,Shafer Buick,,Buick,1,,running,–,80
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,7,–,12,usa,Hugh_Thomas,Hugh Thomas,Bandimere,,Chrysler,1,,running,–,60
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,8,9,17,usa,J_C_Shoemaker,J.C. Shoemaker,Glen Cove,,McDowell,1,,running,–,50
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,9,10,21,usa,Russ_Snowberger,Russ Snowberger,Federal Engineering,,Maserati / Offy,1,,running,–,40
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,10,7,7,usa,Herb_Bryers,Herb Bryers,McDowell,,McDowell,1,,running,–,30
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,11,3,14,usa,Buster_Hammond,Buster Hammond,Wynn's Friction Proof,,Offy,1,,running,–,20
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,12,–,22,usa,Walt_Killinger,Walt Killinger,Stephens-Frenzel,,–,1,,running,–,10
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,13,–,10,usa,Art_McKee,Art McKee,Ted Foltz,,–,1,,running,–,
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,14,–,33,usa,Milton_Mabe,Milton Mabe,–,,Miller,1,,running,–,
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,15,–,94,usa,Art_Hillis,Art Hillis,Woestman,,–,1,,running,–,
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,16,–,3,usa,Glenn_Harrison,Glenn Harrison,Cragar,,Cragar,1,,running,–,
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,17,11,23,usa,Delmar_Desch,Delmar Desch,Tattersfield,,Chevy,1,,running,–,
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,18,–,5,usa,Lloyd_Axel,Lloyd Axel,McDowell,,McDowell,1,,running,–,
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,19,4,16,usa,Johnny_Mauro,Johnny Mauro,Alfa Romeo,,Alfa Romeo / Alfa Romeo,0,,crash,–,
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,20,6,4,usa,Jim_Good,Jim Good,Cragar,,Cragar,0,,crash,–,
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,21,21,61,usa,Jimmy_Jackson,Jimmy Jackson,–,,Crager,0,,did not start,0,
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,22,22,,usa,Jim_Hammond,Jim Hammond,–,,Offy,0,,did not start,0,
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,23,23,,usa,Buddy_Shay,Buddy Shay,Stephens,,–,0,,did not start,0,
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,24,24,,usa,Walt_Von_Tilius,Walt Von Tilius,Wayne,,–,0,,did not start,0,
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,25,25,11,usa,Wayne_Sankey,Wayne Sankey,Laycock,,–,0,,did not start,0,
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,26,26,,usa,Joel_Thorne,Joel Thorne,Thomas,,–,0,,did not start,0,
-1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,27,27,,usa,Norman_Robinson,Norman Robinson,Ormistoe,,–,0,,did not start,0,
+1949,UO,1949_DuQuoin_100,1949_07,2,-,7,usa,Bill_Holland,Bill Holland,Love Machine & Tool,,Offy,100,2058,running,0,160
+1949,UO,1949_DuQuoin_100,1949_07,3,3,22,usa,George_Connor,George Connor,Grancor,,Bromme / Offy,-,865,-,0,140
+1949,UO,1949_DuQuoin_100,1949_07,4,-,6,usa,Lee_Wallard,Lee Wallard,Iddings,,Offy,-,606,-,0,120
+1949,UO,1949_DuQuoin_100,1949_07,5,-,18,usa,Walt_Brown,Walt Brown,Tuffy's Offy,,Kurtis / Offy,-,519,-,0,100
+1949,UO,1949_DuQuoin_100,1949_07,6,-,19,usa,Paul_Russo,Paul Russo,Tuffy's Offy,,Kurtis / Offy,-,433,-,0,80
+1949,UO,1949_DuQuoin_100,1949_07,7,-,34,usa,Ralph_Pratt,Ralph Pratt,Belanger Motors,,Offy,-,346,-,0,60
+1949,UO,1949_DuQuoin_100,1949_07,8,-,2,usa,Myron_Fohr,Myron Fohr,Carl Marchese,,Marchese / Offy,-,346,-,0,50
+1949,UO,1949_DuQuoin_100,1949_07,9,-,17,usa,Duane_Carter,Duane Carter,Belanger Motors,,Stevens / Offy,-,260,-,0,40
+1949,UO,1949_DuQuoin_100,1949_07,10,-,10,belgium,Charles_Van_Acker,Charles Van Acker,Walter Redmer,,Offy,-,260,-,0,30
+1949,UO,1949_DuQuoin_100,1949_07,11,-,12,usa,Johnnie_Parsons,Johnnie Parsons,Kurtis Kraft,,Kurtis / Offy,-,217,-,0,20
+1949,UO,1949_DuQuoin_100,1949_07,12,-,93,usa,Billy_DeVore,Billy DeVore,Scopa,,Offy,-,216,-,0,10
+1949,UO,1949_DuQuoin_100,1949_07,13,-,24,usa,Emil_Andres,Emil Andres,William Schoof,,Offy,-,173,-,0,
+1949,UO,1949_DuQuoin_100,1949_07,14,2,55,usa,Mel_Hansen,Mel Hansen,Bowes Seal Fast,,Offy,-,173,-,30,
+1949,UO,1949_DuQuoin_100,1949_07,15,5,14,usa,Rex_Mays,Rex Mays,Neal's Rest,,Kurtis / Offy,-,173,-,0,
+1949,UO,1949_DuQuoin_100,1949_07,16,-,21,usa,George_Lynch,George Lynch,Auto Shippers,,Offy,-,173,-,0,
+1949,UO,1949_DuQuoin_100,1949_07,17,4,74,usa,Neal_Carter,Neal Carter,Lutes,,Offy,-,87,-,0,
+1949,UO,1949_DuQuoin_100,1949_07,18,-,71,usa,Bayliss_Levrett,Bayliss Levrett,Veedol,,Offy,-,87,-,0,
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,1,1,9,usa,Al_Rogers,Al Rogers,Conover & Coniff,,Offy,1,,running,-,200
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,2,2,35,usa,Louis_Unser,Louis Unser,Federal Engineering,,Maserati,1,,running,-,160
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,3,5,6,usa,Charles_Bryant,Charles Bryant,Grover,,Chevy,1,,running,-,140
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,4,-,26,usa,George_Hammond,George Hammond,Auto Shippers,,Snowberger / Offy,1,,running,-,120
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,5,8,2,usa,Mack_Hellings,Mack Hellings,Don Lee,,Kurtis / Alfa Romeo,1,,running,-,100
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,6,-,8,usa,Phil_Shafer,Phil Shafer,Shafer Buick,,Buick,1,,running,-,80
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,7,-,12,usa,Hugh_Thomas,Hugh Thomas,Bandimere,,Chrysler,1,,running,-,60
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,8,9,17,usa,J_C_Shoemaker,J.C. Shoemaker,Glen Cove,,McDowell,1,,running,-,50
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,9,10,21,usa,Russ_Snowberger,Russ Snowberger,Federal Engineering,,Maserati / Offy,1,,running,-,40
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,10,7,7,usa,Herb_Bryers,Herb Bryers,McDowell,,McDowell,1,,running,-,30
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,11,3,14,usa,Buster_Hammond,Buster Hammond,Wynn's Friction Proof,,Offy,1,,running,-,20
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,12,-,22,usa,Walt_Killinger,Walt Killinger,Stephens-Frenzel,,-,1,,running,-,10
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,13,-,10,usa,Art_McKee,Art McKee,Ted Foltz,,-,1,,running,-,
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,14,-,33,usa,Milton_Mabe,Milton Mabe,-,,Miller,1,,running,-,
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,15,-,94,usa,Art_Hillis,Art Hillis,Woestman,,-,1,,running,-,
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,16,-,3,usa,Glenn_Harrison,Glenn Harrison,Cragar,,Cragar,1,,running,-,
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,17,11,23,usa,Delmar_Desch,Delmar Desch,Tattersfield,,Chevy,1,,running,-,
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,18,-,5,usa,Lloyd_Axel,Lloyd Axel,McDowell,,McDowell,1,,running,-,
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,19,4,16,usa,Johnny_Mauro,Johnny Mauro,Alfa Romeo,,Alfa Romeo / Alfa Romeo,0,,crash,-,
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,20,6,4,usa,Jim_Good,Jim Good,Cragar,,Cragar,0,,crash,-,
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,21,21,61,usa,Jimmy_Jackson,Jimmy Jackson,-,,Crager,0,,did not start,0,
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,22,22,,usa,Jim_Hammond,Jim Hammond,-,,Offy,0,,did not start,0,
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,23,23,,usa,Buddy_Shay,Buddy Shay,Stephens,,-,0,,did not start,0,
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,24,24,,usa,Walt_Von_Tilius,Walt Von Tilius,Wayne,,-,0,,did not start,0,
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,25,25,11,usa,Wayne_Sankey,Wayne Sankey,Laycock,,-,0,,did not start,0,
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,26,26,,usa,Joel_Thorne,Joel Thorne,Thomas,,-,0,,did not start,0,
+1949,UO,1949_Pikes_Peak_Hill_Climb,1949_08,27,27,,usa,Norman_Robinson,Norman Robinson,Ormistoe,,-,0,,did not start,0,
 1949,UO,1949_Syracuse_100,1949_09,1,10,12,usa,Johnnie_Parsons,Johnnie Parsons,Kurtis Kraft,,Kurtis / Offy,100,3243,running,14,200
 1949,UO,1949_Syracuse_100,1949_09,2,3,24,usa,Paul_Russo,Paul Russo,Charlie Pritchard,,Offy,100,2335,running,46,160
 1949,UO,1949_Syracuse_100,1949_09,3,1,55,usa,Spider_Webb,Spider Webb,Bowes Seal Fast,,Offy,100,1297,running,0,140
@@ -180,7 +180,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1949,UO,1949_Syracuse_100,1949_09,14,16,72,usa,Milt_Fankhauser,Milt Fankhauser,Karl Hall,,Offy,82,259,dnf,0,
 1949,UO,1949_Syracuse_100,1949_09,15,2,15,usa,Rex_Mays,Rex Mays,Erwin Wolfe,,Kurtis / Offy,73,259,dnf,40,
 1949,UO,1949_Syracuse_100,1949_09,16,5,6,usa,Lee_Wallard,Lee Wallard,Iddings,,Offy,68,259,dnf,0,
-1949,UO,1949_Syracuse_100,1949_09,17,17,,usa,George_Fonder,George Fonder,Ray Brady,,–,44,130,dnf,0,
+1949,UO,1949_Syracuse_100,1949_09,17,17,,usa,George_Fonder,George Fonder,Ray Brady,,-,44,130,dnf,0,
 1949,UO,1949_Detroit_100,1949_10,1,2,99,usa,Tony_Bettenhausen,Tony Bettenhausen,Meyer & Drake,,Kurtis / Offy,100,4875,running,51,200
 1949,UO,1949_Detroit_100,1949_10,2,3,55,usa,Spider_Webb,Spider Webb,Bowes Seal Fast,,Lesovsky / Offy,100,3510,running,45,160
 1949,UO,1949_Detroit_100,1949_10,3,13,2,usa,Myron_Fohr,Myron Fohr,Carl Marchese,,Marchese / Offy,99,1950,running,0,140
@@ -189,7 +189,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1949,UO,1949_Detroit_100,1949_10,6,5,57,usa,Jimmy_Davies,Jimmy Davies,Pat Clancy,,Ewing / Offy,92,975,running,0,80
 1949,UO,1949_Detroit_100,1949_10,7,16,7,usa,Bill_Holland,Bill Holland,Love Machine & Tool,,Offy,88,780,running,0,60
 1949,UO,1949_Detroit_100,1949_10,8,14,18,usa,Walt_Brown,Walt Brown,Tuffy's Offy,,Kurtis / Offy,72,780,running,0,50
-1949,UO,1949_Detroit_100,1949_10,9,4,74,usa,Neal_Carter,Neal Carter,–,,Offy,63,585,running,0,40
+1949,UO,1949_Detroit_100,1949_10,9,4,74,usa,Neal_Carter,Neal Carter,-,,Offy,63,585,running,0,40
 1949,UO,1949_Detroit_100,1949_10,10,1,69,usa,Duke_Dinsmore,Duke Dinsmore,Wynn's Friction Proofing,,Kurtis / Offy,62,585,running,4,30
 1949,UO,1949_Detroit_100,1949_10,11,9,15,usa,Rex_Mays,Rex Mays,Erwin Wolfe,,Kurtis / Offy,59,487,running,0,20
 1949,UO,1949_Detroit_100,1949_10,12,6,12,usa,Johnnie_Parsons,Johnnie Parsons,Kurtis Kraft,,Kurtis / Offy,49,487,crash,0,
@@ -202,19 +202,19 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1949,UO,1949_Springfield_100_%28September%29,1949_11,3,12,6,usa,Lee_Wallard,Lee Wallard,Iddings,,Offy,100,700,running,0,140
 1949,UO,1949_Springfield_100_%28September%29,1949_11,4,11,2,usa,Chuck_Stevenson,Chuck Stevenson,Carl Marchese,,Marchese/Offenhauser,100,490,running,0,120
 1949,UO,1949_Springfield_100_%28September%29,1949_11,5,15,18,usa,Walt_Brown,Walt Brown,Tuffy's Offy,,Kurtis / Offy,100,420,running,0,100
-1949,UO,1949_Springfield_100_%28September%29,1949_11,6,5,22,usa,George_Connor,George Connor,Grancor,,Bromme/Offenhauser,–,350,running,16,80
-1949,UO,1949_Springfield_100_%28September%29,1949_11,7,10,34,usa,Duane_Carter,Duane Carter,Belanger Motors,,Offy,–,280,running,0,60
-1949,UO,1949_Springfield_100_%28September%29,1949_11,8,13,10,belgium,Charles_Van_Acker,Charles Van Acker,Walter Redmer,,Offy,–,280,running,0,50
-1949,UO,1949_Springfield_100_%28September%29,1949_11,9,6,99,usa,Tony_Bettenhausen,Tony Bettenhausen,Belanger Motors,,Kurtis / Meyer-Drake,–,210,running,0,40
-1949,UO,1949_Springfield_100_%28September%29,1949_11,10,8,55,usa,Spider_Webb,Spider Webb,Bowes Seal Fast,,Lesovsky / Offy,–,210,running,0,30
-1949,UO,1949_Springfield_100_%28September%29,1949_11,11,4,74,usa,Neal_Carter,Neal Carter,Lutes,,Offy,–,175,dnf,7,
-1949,UO,1949_Springfield_100_%28September%29,1949_11,12,14,7,usa,Bill_Holland,Bill Holland,Love Machine & Tool,,Offy,–,175,dnf,0,
-1949,UO,1949_Springfield_100_%28September%29,1949_11,13,1,57,usa,Jimmy_Davies,Jimmy Davies,Pat Clancy,,Ewing / Offy,–,140,dnf,37,
-1949,UO,1949_Springfield_100_%28September%29,1949_11,14,16,14,usa,Johnny_Fedricks,Johnny Fedricks,Neal's Rest,,Kurtis / Offy,–,140,dnf,0,
-1949,UO,1949_Springfield_100_%28September%29,1949_11,15,3,24,usa,Paul_Russo,Paul Russo,Charlie Pritchard,,Offy,–,140,dnf,0,
-1949,UO,1949_Springfield_100_%28September%29,1949_11,16,2,69,usa,Bayliss_Levrett,Bayliss Levrett,Wynn's Friction Proofing,,Kurtis / Offy,–,140,dnf,0,
-1949,UO,1949_Springfield_100_%28September%29,1949_11,17,18,71,canada,Hal_Robson,Hal Robson,Veedol,,Offy,–,70,dnf,0,
-1949,UO,1949_Springfield_100_%28September%29,1949_11,18,7,26,usa,George_Lynch,George Lynch,Auto Shippers,,Snowberger / Offy,–,70,dnf,0,
+1949,UO,1949_Springfield_100_%28September%29,1949_11,6,5,22,usa,George_Connor,George Connor,Grancor,,Bromme/Offenhauser,-,350,running,16,80
+1949,UO,1949_Springfield_100_%28September%29,1949_11,7,10,34,usa,Duane_Carter,Duane Carter,Belanger Motors,,Offy,-,280,running,0,60
+1949,UO,1949_Springfield_100_%28September%29,1949_11,8,13,10,belgium,Charles_Van_Acker,Charles Van Acker,Walter Redmer,,Offy,-,280,running,0,50
+1949,UO,1949_Springfield_100_%28September%29,1949_11,9,6,99,usa,Tony_Bettenhausen,Tony Bettenhausen,Belanger Motors,,Kurtis / Meyer-Drake,-,210,running,0,40
+1949,UO,1949_Springfield_100_%28September%29,1949_11,10,8,55,usa,Spider_Webb,Spider Webb,Bowes Seal Fast,,Lesovsky / Offy,-,210,running,0,30
+1949,UO,1949_Springfield_100_%28September%29,1949_11,11,4,74,usa,Neal_Carter,Neal Carter,Lutes,,Offy,-,175,dnf,7,
+1949,UO,1949_Springfield_100_%28September%29,1949_11,12,14,7,usa,Bill_Holland,Bill Holland,Love Machine & Tool,,Offy,-,175,dnf,0,
+1949,UO,1949_Springfield_100_%28September%29,1949_11,13,1,57,usa,Jimmy_Davies,Jimmy Davies,Pat Clancy,,Ewing / Offy,-,140,dnf,37,
+1949,UO,1949_Springfield_100_%28September%29,1949_11,14,16,14,usa,Johnny_Fedricks,Johnny Fedricks,Neal's Rest,,Kurtis / Offy,-,140,dnf,0,
+1949,UO,1949_Springfield_100_%28September%29,1949_11,15,3,24,usa,Paul_Russo,Paul Russo,Charlie Pritchard,,Offy,-,140,dnf,0,
+1949,UO,1949_Springfield_100_%28September%29,1949_11,16,2,69,usa,Bayliss_Levrett,Bayliss Levrett,Wynn's Friction Proofing,,Kurtis / Offy,-,140,dnf,0,
+1949,UO,1949_Springfield_100_%28September%29,1949_11,17,18,71,canada,Hal_Robson,Hal Robson,Veedol,,Offy,-,70,dnf,0,
+1949,UO,1949_Springfield_100_%28September%29,1949_11,18,7,26,usa,George_Lynch,George Lynch,Auto Shippers,,Snowberger / Offy,-,70,dnf,0,
 1949,UO,1949_Springfield_100_%28September%29,1949_11,19,19,49,usa,Mike_Salay,Mike Salay,Virginia,,Salay / Offy,0,,did not start,0,
 1949,UO,1949_Langhorne_100,1949_12,1,4,12,usa,Johnnie_Parsons,Johnnie Parsons,Kurtis Kraft,,Kurtis / Offy,100,1798,running,79,200
 1949,UO,1949_Langhorne_100,1949_12,2,5,71,usa,Neal_Carter,Neal Carter,Veedol,,Offy,100,1294,running,0,160
@@ -245,7 +245,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1949,UO,1949_Golden_State_100,1949_13,10,11,24,usa,Paul_Russo,Paul Russo,Tuffy's Offy,,Kurtis / Offy,68,,running,0,
 1949,UO,1949_Golden_State_100,1949_13,11,4,22,usa,George_Connor,George Connor,Grancor,,Bromme / Offy,72,,dnf,0,
 1949,UO,1949_Golden_State_100,1949_13,12,6,72,usa,Milt_Fankhauser,Milt Fankhauser,Karl Hall,,Offy,64,,dnf,0,
-1949,UO,1949_Golden_State_100,1949_13,13,9,7,usa,Bill_Holland,Bill Holland,Love Machine & Tool,,Offy,–,,rear axle,0,
+1949,UO,1949_Golden_State_100,1949_13,13,9,7,usa,Bill_Holland,Bill Holland,Love Machine & Tool,,Offy,-,,rear axle,0,
 1949,UO,1949_Golden_State_100,1949_13,14,7,69,usa,Duke_Dinsmore,Duke Dinsmore,Wynn's Friction Proofing,,Kurtis / Offy,57,,overheating,0,
 1949,UO,1949_Golden_State_100,1949_13,15,16,14,usa,Hal_Cole,Hal Cole,Neal's Rest,,Kurtis / Offy,23,,oil pressure,0,
 1949,UO,1949_Golden_State_100,1949_13,16,12,34,usa,Duane_Carter,Duane Carter,Belanger Motors,,Offy,21,,dnf,0,

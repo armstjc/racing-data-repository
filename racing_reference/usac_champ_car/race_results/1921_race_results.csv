@@ -1,22 +1,22 @@
 season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
-1921,UO,1921_Beverly_Hills_Heat_1,1921_01,1,–,4,italy,Ralph_DePalma,Ralph DePalma,Ballot,,Ballot / Ballot,20,,running,3,50
-1921,UO,1921_Beverly_Hills_Heat_1,1921_01,2,–,10,usa,Roscoe_Sarles,Roscoe Sarles,Duesenberg Straight 8,,Duesenberg / Duesenberg,20,,running,10,10
-1921,UO,1921_Beverly_Hills_Heat_1,1921_01,3,–,14,usa,Eddie_Hearne,Eddie Hearne,Revere / Duesenberg Straight 8,,Duesenberg / Duesenberg,20,,running,7,
-1921,UO,1921_Beverly_Hills_Heat_1,1921_01,4,–,9,canada,Ira_Vail,Ira Vail,Duesenberg Straight 8,,Duesenberg / Duesenberg,20,,running,0,
-1921,UO,1921_Beverly_Hills_Heat_1,1921_01,5,–,2,usa,Tommy_Milton,Tommy Milton,Durant / Miller,,Miller / Miller,20,,running,0,
-1921,UO,1921_Beverly_Hills_Heat_1,1921_01,6,–,3,usa,Alton_Soules,Alton Soules,Frontenac Motors,,Frontenac / Frontenac,18,,running,0,
-1921,UO,1921_Beverly_Hills_Heat_1,1921_01,7,–,11,usa,Eddie_Miller,Eddie Miller,Duesenberg Straight 8,,Duesenberg / Duesenberg,17,,engine,0,
-1921,UO,1921_Beverly_Hills_Heat_1,1921_01,8,–,12,usa,Jimmy_Murphy,Jimmy Murphy,Duesenberg Straight 8,,Duesenberg / Duesenberg,7,,dnf,0,
-1921,UO,1921_Beverly_Hills_Heat_1,1921_01,9,–,7,none,Al_Thiele,Al Thiele,Duesenberg Straight 8,,Duesenberg / Duesenberg,4,,dnf,0,
-1921,UO,1921_Beverly_Hills_Heat_2,1921_02,1,2,10,usa,Roscoe_Sarles,Roscoe Sarles,Duesenberg Straight 8,,Duesenberg / Duesenberg,20,,running,–,40
-1921,UO,1921_Beverly_Hills_Heat_2,1921_02,2,4,2,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller,20,,running,–,10
-1921,UO,1921_Beverly_Hills_Heat_2,1921_02,3,8,12,usa,Jimmy_Murphy,Jimmy Murphy,Duesenberg Straight 8,,Duesenberg / Duesenberg,20,,running,–,
-1921,UO,1921_Beverly_Hills_Heat_2,1921_02,4,4,9,canada,Ira_Vail,Ira Vail,Duesenberg Straight 8,,Duesenberg / Duesenberg,20,,running,–,
-1921,UO,1921_Beverly_Hills_Heat_2,1921_02,5,3,14,usa,Eddie_Hearne,Eddie Hearne,Revere / Duesenberg Straight 8,,Duesenberg / Duesenberg,20,,running,–,
-1921,UO,1921_Beverly_Hills_Heat_2,1921_02,6,7,11,usa,Eddie_Miller,Eddie Miller,Duesenberg Straight 8,,Duesenberg / Duesenberg,17,,engine,–,
-1921,UO,1921_Beverly_Hills_Heat_2,1921_02,7,6,3,usa,Alton_Soules,Alton Soules,Frontenac Motors,,Frontenac / Frontenac,12,,dnf,–,
-1921,UO,1921_Beverly_Hills_Heat_2,1921_02,8,9,7,none,Al_Thiele,Al Thiele,Duesenberg Straight 8,,Duesenberg / Duesenberg,7,,dnf,–,
-1921,UO,1921_Beverly_Hills_Heat_2,1921_02,9,1,4,italy,Ralph_DePalma,Ralph DePalma,Ballot,,Ballot / Ballot,4,,dnf,–,
+1921,UO,1921_Beverly_Hills_Heat_1,1921_01,1,-,4,italy,Ralph_DePalma,Ralph DePalma,Ballot,,Ballot / Ballot,20,,running,3,50
+1921,UO,1921_Beverly_Hills_Heat_1,1921_01,2,-,10,usa,Roscoe_Sarles,Roscoe Sarles,Duesenberg Straight 8,,Duesenberg / Duesenberg,20,,running,10,10
+1921,UO,1921_Beverly_Hills_Heat_1,1921_01,3,-,14,usa,Eddie_Hearne,Eddie Hearne,Revere / Duesenberg Straight 8,,Duesenberg / Duesenberg,20,,running,7,
+1921,UO,1921_Beverly_Hills_Heat_1,1921_01,4,-,9,canada,Ira_Vail,Ira Vail,Duesenberg Straight 8,,Duesenberg / Duesenberg,20,,running,0,
+1921,UO,1921_Beverly_Hills_Heat_1,1921_01,5,-,2,usa,Tommy_Milton,Tommy Milton,Durant / Miller,,Miller / Miller,20,,running,0,
+1921,UO,1921_Beverly_Hills_Heat_1,1921_01,6,-,3,usa,Alton_Soules,Alton Soules,Frontenac Motors,,Frontenac / Frontenac,18,,running,0,
+1921,UO,1921_Beverly_Hills_Heat_1,1921_01,7,-,11,usa,Eddie_Miller,Eddie Miller,Duesenberg Straight 8,,Duesenberg / Duesenberg,17,,engine,0,
+1921,UO,1921_Beverly_Hills_Heat_1,1921_01,8,-,12,usa,Jimmy_Murphy,Jimmy Murphy,Duesenberg Straight 8,,Duesenberg / Duesenberg,7,,dnf,0,
+1921,UO,1921_Beverly_Hills_Heat_1,1921_01,9,-,7,none,Al_Thiele,Al Thiele,Duesenberg Straight 8,,Duesenberg / Duesenberg,4,,dnf,0,
+1921,UO,1921_Beverly_Hills_Heat_2,1921_02,1,2,10,usa,Roscoe_Sarles,Roscoe Sarles,Duesenberg Straight 8,,Duesenberg / Duesenberg,20,,running,-,40
+1921,UO,1921_Beverly_Hills_Heat_2,1921_02,2,4,2,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller,20,,running,-,10
+1921,UO,1921_Beverly_Hills_Heat_2,1921_02,3,8,12,usa,Jimmy_Murphy,Jimmy Murphy,Duesenberg Straight 8,,Duesenberg / Duesenberg,20,,running,-,
+1921,UO,1921_Beverly_Hills_Heat_2,1921_02,4,4,9,canada,Ira_Vail,Ira Vail,Duesenberg Straight 8,,Duesenberg / Duesenberg,20,,running,-,
+1921,UO,1921_Beverly_Hills_Heat_2,1921_02,5,3,14,usa,Eddie_Hearne,Eddie Hearne,Revere / Duesenberg Straight 8,,Duesenberg / Duesenberg,20,,running,-,
+1921,UO,1921_Beverly_Hills_Heat_2,1921_02,6,7,11,usa,Eddie_Miller,Eddie Miller,Duesenberg Straight 8,,Duesenberg / Duesenberg,17,,engine,-,
+1921,UO,1921_Beverly_Hills_Heat_2,1921_02,7,6,3,usa,Alton_Soules,Alton Soules,Frontenac Motors,,Frontenac / Frontenac,12,,dnf,-,
+1921,UO,1921_Beverly_Hills_Heat_2,1921_02,8,9,7,none,Al_Thiele,Al Thiele,Duesenberg Straight 8,,Duesenberg / Duesenberg,7,,dnf,-,
+1921,UO,1921_Beverly_Hills_Heat_2,1921_02,9,1,4,italy,Ralph_DePalma,Ralph DePalma,Ballot,,Ballot / Ballot,4,,dnf,-,
 1921,UO,1921_Beverly_Hills_Heat_3,1921_03,1,2,12,usa,Jimmy_Murphy,Jimmy Murphy,Duesenberg Straight 8,,Duesenberg / Duesenberg,20,,running,2,30
 1921,UO,1921_Beverly_Hills_Heat_3,1921_03,2,1,2,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller,20,,running,15,10
 1921,UO,1921_Beverly_Hills_Heat_3,1921_03,3,3,9,canada,Ira_Vail,Ira Vail,Duesenberg Straight 8,,Duesenberg / Duesenberg,20,,running,0,
@@ -24,12 +24,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1921,UO,1921_Beverly_Hills_Heat_3,1921_03,5,5,3,usa,Alton_Soules,Alton Soules,Frontenac Motors,,Frontenac / Frontenac,0,,dnf,0,
 1921,UO,1921_Beverly_Hills_Heat_3,1921_03,6,6,14,usa,Eddie_Hearne,Eddie Hearne,Duesenberg Straight 8,,Duesenberg / Duesenberg,0,,did not start,0,
 1921,UO,1921_Beverly_Hills_Heat_3,1921_03,7,7,7,none,Al_Thiele,Al Thiele,Duesenberg Straight 8,,Duesenberg / Duesenberg,0,,did not start,0,
-1921,UO,1921_Beverly_Hills_Heat_4,1921_04,1,1,2,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller,20,,running,–,20
-1921,UO,1921_Beverly_Hills_Heat_4,1921_04,2,3,11,usa,Eddie_Miller,Eddie Miller,Duesenberg Straight 8,,Duesenberg / Duesenberg,20,,running,–,
-1921,UO,1921_Beverly_Hills_Heat_4,1921_04,3,2,9,canada,Ira_Vail,Ira Vail,Duesenberg Straight 8,,Duesenberg / Duesenberg,20,,running,–,
-1921,UO,1921_Beverly_Hills_Heat_4,1921_04,4,4,3,usa,Alton_Soules,Alton Soules,Frontenac Motors,,Frontenac / Frontenac,0,,dnf,–,
-1921,UO,1921_Beverly_Hills_Heat_4,1921_04,5,5,14,usa,Eddie_Hearne,Eddie Hearne,Duesneberg,,Duesenberg / Duesenberg,0,,dnf,–,
-1921,UO,1921_Beverly_Hills_Heat_4,1921_04,6,6,7,none,Al_Thiele,Al Thiele,Duesneberg,,Duesenberg / Duesenberg,0,,did not start,–,
+1921,UO,1921_Beverly_Hills_Heat_4,1921_04,1,1,2,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller,20,,running,-,20
+1921,UO,1921_Beverly_Hills_Heat_4,1921_04,2,3,11,usa,Eddie_Miller,Eddie Miller,Duesenberg Straight 8,,Duesenberg / Duesenberg,20,,running,-,
+1921,UO,1921_Beverly_Hills_Heat_4,1921_04,3,2,9,canada,Ira_Vail,Ira Vail,Duesenberg Straight 8,,Duesenberg / Duesenberg,20,,running,-,
+1921,UO,1921_Beverly_Hills_Heat_4,1921_04,4,4,3,usa,Alton_Soules,Alton Soules,Frontenac Motors,,Frontenac / Frontenac,0,,dnf,-,
+1921,UO,1921_Beverly_Hills_Heat_4,1921_04,5,5,14,usa,Eddie_Hearne,Eddie Hearne,Duesneberg,,Duesenberg / Duesenberg,0,,dnf,-,
+1921,UO,1921_Beverly_Hills_Heat_4,1921_04,6,6,7,none,Al_Thiele,Al Thiele,Duesneberg,,Duesenberg / Duesenberg,0,,did not start,-,
 1921,UO,1921_Beverly_Hills_Main_1,1921_05,1,1,4,italy,Ralph_DePalma,Ralph DePalma,Ballot,,Ballot / Ballot,40,,running,7,130
 1921,UO,1921_Beverly_Hills_Main_1,1921_05,2,4,2,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller,40,,running,0,60
 1921,UO,1921_Beverly_Hills_Main_1,1921_05,3,2,10,usa,Roscoe_Sarles,Roscoe Sarles,Duesenberg Straight 8,,Duesenberg / Duesenberg,40,,running,31,25
@@ -103,71 +103,71 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1921,UO,1921_International_500,1921_12,21,7,18,usa,Louis_Fontaine,Louis Fontaine,Junior 8,,Brett / Brett,33,,crash,0,
 1921,UO,1921_International_500,1921_12,22,22,25,usa,Joe_Thomas_(2),Joe Thomas,Duesenberg Straight 8,,Duesenberg / Duesenberg,24,,crash,0,
 1921,UO,1921_International_500,1921_12,23,12,10,usa,Howdy_Wilcox,Howdy Wilcox,Peugeot Auto Racing,,Peugeot / Peugeot,22,,connecting rod,0,
-1921,UO,1921_Universal_Trophy_Race,1921_13,1,–,6,usa,Roscoe_Sarles,Roscoe Sarles,Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,–,250
-1921,UO,1921_Universal_Trophy_Race,1921_13,2,–,1,usa,Eddie_Hearne,Eddie Hearne,Revere / Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,–,130
-1921,UO,1921_Universal_Trophy_Race,1921_13,3,–,7,usa,Eddie_Miller,Eddie Miller,Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,–,70
-1921,UO,1921_Universal_Trophy_Race,1921_13,4,–,27,usa,Tom_Alley,Tom Alley,Frontenac Motors,,Frontenac / Frontenac,200,,running,–,40
-1921,UO,1921_Universal_Trophy_Race,1921_13,5,–,12,usa,Alton_Soules,Alton Soules,Frontenac Motors,,Frontenac / Frontenac,200,,running,–,20
-1921,UO,1921_Universal_Trophy_Race,1921_13,6,–,4,usa,Jimmy_Murphy,Jimmy Murphy,Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,–,10
-1921,UO,1921_Universal_Trophy_Race,1921_13,7,–,3,usa,Frank_Elliott,Frank Elliott,Leach,,Miller / Miller,195,,running,–,
-1921,UO,1921_Universal_Trophy_Race,1921_13,8,–,2,usa,Tommy_Milton,Tommy Milton,Frontenac Motors,,Frontenac / Frontenac,190,,running,–,
-1921,UO,1921_Universal_Trophy_Race,1921_13,9,–,5,usa,Joe_Thomas_(2),Joe Thomas,Duesenberg Straight 8,,Duesenberg / Duesenberg,190,,running,–,
-1921,UO,1921_Universal_Trophy_Race,1921_13,10,–,,usa,Jules_Ellingboe,Jules Ellingboe,Frontenac Motors,,Frontenac / Frontenac,126,,bearing,–,
-1921,UO,1921_Universal_Trophy_Race,1921_13,11,–,,usa,Jerry_Wonderlich,Jerry Wonderlich,Duesenberg Straight 8,,Duesenberg / Duesenberg,4,,clutch,–,
+1921,UO,1921_Universal_Trophy_Race,1921_13,1,-,6,usa,Roscoe_Sarles,Roscoe Sarles,Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,-,250
+1921,UO,1921_Universal_Trophy_Race,1921_13,2,-,1,usa,Eddie_Hearne,Eddie Hearne,Revere / Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,-,130
+1921,UO,1921_Universal_Trophy_Race,1921_13,3,-,7,usa,Eddie_Miller,Eddie Miller,Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,-,70
+1921,UO,1921_Universal_Trophy_Race,1921_13,4,-,27,usa,Tom_Alley,Tom Alley,Frontenac Motors,,Frontenac / Frontenac,200,,running,-,40
+1921,UO,1921_Universal_Trophy_Race,1921_13,5,-,12,usa,Alton_Soules,Alton Soules,Frontenac Motors,,Frontenac / Frontenac,200,,running,-,20
+1921,UO,1921_Universal_Trophy_Race,1921_13,6,-,4,usa,Jimmy_Murphy,Jimmy Murphy,Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,-,10
+1921,UO,1921_Universal_Trophy_Race,1921_13,7,-,3,usa,Frank_Elliott,Frank Elliott,Leach,,Miller / Miller,195,,running,-,
+1921,UO,1921_Universal_Trophy_Race,1921_13,8,-,2,usa,Tommy_Milton,Tommy Milton,Frontenac Motors,,Frontenac / Frontenac,190,,running,-,
+1921,UO,1921_Universal_Trophy_Race,1921_13,9,-,5,usa,Joe_Thomas_(2),Joe Thomas,Duesenberg Straight 8,,Duesenberg / Duesenberg,190,,running,-,
+1921,UO,1921_Universal_Trophy_Race,1921_13,10,-,,usa,Jules_Ellingboe,Jules Ellingboe,Frontenac Motors,,Frontenac / Frontenac,126,,bearing,-,
+1921,UO,1921_Universal_Trophy_Race,1921_13,11,-,,usa,Jerry_Wonderlich,Jerry Wonderlich,Duesenberg Straight 8,,Duesenberg / Duesenberg,4,,clutch,-,
 1921,UO,1921_Tacoma_Montamarathon,1921_14,1,1,2,usa,Tommy_Milton,Tommy Milton,Durant / Miller,,Miller / Miller,125,,running,21,500
 1921,UO,1921_Tacoma_Montamarathon,1921_14,2,2,6,usa,Roscoe_Sarles,Roscoe Sarles,Duesenberg Straight 8,,Duesenberg / Duesenberg,125,,running,51,260
 1921,UO,1921_Tacoma_Montamarathon,1921_14,3,3,5,usa,Joe_Thomas_(2),Joe Thomas,Duesenberg Straight 8,,Duesenberg / Duesenberg,125,,running,0,140
 1921,UO,1921_Tacoma_Montamarathon,1921_14,4,9,7,usa,Eddie_Miller,Eddie Miller,Duesenberg Straight 8,,Duesenberg / Duesenberg,125,,running,0,80
 1921,UO,1921_Tacoma_Montamarathon,1921_14,5,4,1,usa,Eddie_Hearne,Eddie Hearne,Revere / Duesenberg Straight 8,,Duesenberg / Duesenberg,125,,running,0,50
 1921,UO,1921_Tacoma_Montamarathon,1921_14,6,8,27,usa,Tom_Alley,Tom Alley,Frontenac Motors,,Frontenac / Frontenac,125,,running,0,35
-1921,UO,1921_Tacoma_Montamarathon,1921_14,7,5,21,usa,Eddie_Pullen,Eddie Pullen,Duesenberg Straight 8,,Duesenberg / Duesenberg,–,,running,0,25
-1921,UO,1921_Tacoma_Montamarathon,1921_14,8,7,3,usa,Frank_Elliott,Frank Elliott,Leach,,Miller / Miller,–,,running,0,15
+1921,UO,1921_Tacoma_Montamarathon,1921_14,7,5,21,usa,Eddie_Pullen,Eddie Pullen,Duesenberg Straight 8,,Duesenberg / Duesenberg,-,,running,0,25
+1921,UO,1921_Tacoma_Montamarathon,1921_14,8,7,3,usa,Frank_Elliott,Frank Elliott,Leach,,Miller / Miller,-,,running,0,15
 1921,UO,1921_Tacoma_Montamarathon,1921_14,9,10,4,usa,Jimmy_Murphy,Jimmy Murphy,Duesenberg Straight 8,,Duesenberg / Duesenberg,97,,air leak,0,
 1921,UO,1921_Tacoma_Montamarathon,1921_14,10,6,12,usa,Alton_Soules,Alton Soules,Frontenac Motors,,Frontenac / Frontenac,61,,piston,53,
-1921,UO,1921_Cotati_Race_1,1921_15,1,–,1,usa,Eddie_Hearne,Eddie Hearne,Disteel / Duesenberg Straight 8,,Duesenberg / Duesenberg,120,,running,–,300
-1921,UO,1921_Cotati_Race_1,1921_15,2,–,6,usa,Roscoe_Sarles,Roscoe Sarles,Duesenberg Straight 8,,Duesenberg / Duesenberg,120,,running,–,160
-1921,UO,1921_Cotati_Race_1,1921_15,3,–,2,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller,120,,running,–,90
-1921,UO,1921_Cotati_Race_1,1921_15,4,–,11,usa,Eddie_Miller,Eddie Miller,Duesenberg Straight 8,,Duesenberg / Duesenberg,120,,running,–,50
-1921,UO,1921_Cotati_Race_1,1921_15,5,–,12,usa,Alton_Soules,Alton Soules,Frontenac Motors,,Frontenac / Frontenac,120,,running,–,30
-1921,UO,1921_Cotati_Race_1,1921_15,6,–,5,usa,Joe_Thomas_(2),Joe Thomas,Duesenberg Straight 8,,Duesenberg / Duesenberg,120,,running,–,20
-1921,UO,1921_Cotati_Race_1,1921_15,7,–,27,usa,Tom_Alley,Tom Alley,Frontenac Motors,,Frontenac / Frontenac,120,,running,–,15
-1921,UO,1921_Cotati_Race_1,1921_15,8,–,7,usa,Jerry_Wonderlich,Jerry Wonderlich,Duesenberg Straight 8,,Duesenberg / Duesenberg,120,,running,–,10
-1921,UO,1921_Cotati_Race_1,1921_15,9,–,3,usa,Frank_Elliott,Frank Elliott,Leach,,Miller / Miller,37,,spring,–,
-1921,UO,1921_Cotati_Race_1,1921_15,10,10,,usa,Jim_Crosby,Jim Crosby,Lanspar,,–,0,,did not start,–,
-1921,UO,1921_Cotati_Race_1,1921_15,11,11,,usa,Mike_Moosie,Mike Moosie,Kleinworth,,–,0,,did not start,–,
-1921,UO,1921_Autumn_Classic,1921_16,1,–,3,usa,I_P_Fetterman,I.P. Fetterman,Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,–,400
-1921,UO,1921_Autumn_Classic,1921_16,2,–,4,usa,Jimmy_Murphy,Jimmy Murphy,Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,–,210
-1921,UO,1921_Autumn_Classic,1921_16,3,–,6,usa,Roscoe_Sarles,Roscoe Sarles,Leach,,Miller / Miller,200,,running,–,110
-1921,UO,1921_Autumn_Classic,1921_16,4,–,7,usa,Eddie_Miller,Eddie Miller,Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,–,60
-1921,UO,1921_Autumn_Classic,1921_16,5,–,1,usa,Eddie_Hearne,Eddie Hearne,Disteel / Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,–,24
-1921,UO,1921_Autumn_Classic,1921_16,6,–,5,usa,Joe_Thomas_(2),Joe Thomas,Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,–,25
-1921,UO,1921_Autumn_Classic,1921_16,7,–,22,usa,Howdy_Wilcox,Howdy Wilcox,Frontenac Motors,,Frontenac / Frontenac,200,,running,–,15
-1921,UO,1921_Autumn_Classic,1921_16,8,–,10,usa,Jules_Ellingboe,Jules Ellingboe,Frontenac Motors,,Frontenac / Frontenac,200,,running,–,10
-1921,UO,1921_Autumn_Classic,1921_16,9,–,,usa,Frank_Elliott,Frank Elliott,Frontenac Motors,,Frontenac / Frontenac,190,,running,–,
-1921,UO,1921_Autumn_Classic,1921_16,10,–,2,usa,Tommy_Milton,Tommy Milton,Frontenac Motors,,Frontenac / Frontenac,84,,dnf,–,
-1921,UO,1921_Autumn_Classic,1921_16,11,–,7,usa,Bennett_Hill,Bennett Hill,Frontenac Motors,,Frontenac / Frontenac,19,,dnf,–,
-1921,UO,1921_Fresno_Race_2,1921_17,1,–,25,usa,Earl_Cooper,Earl Cooper,Duesenberg Straight 8,,Duesenberg / Duesenberg,150,,running,–,300
-1921,UO,1921_Fresno_Race_2,1921_17,2,–,4,usa,Jimmy_Murphy,Jimmy Murphy,Duesenberg Straight 8,,Duesenberg / Duesenberg,150,,running,–,160
-1921,UO,1921_Fresno_Race_2,1921_17,3,–,9,usa,Frank_Elliott,Frank Elliott,Leach,,Miller / Miller,150,,running,–,90
-1921,UO,1921_Fresno_Race_2,1921_17,4,–,1,usa,Eddie_Hearne,Eddie Hearne,Disteel / Duesenberg Straight 8,,Duesenberg / Duesenberg,150,,running,–,50
-1921,UO,1921_Fresno_Race_2,1921_17,5,–,10,usa,Roscoe_Sarles,Roscoe Sarles,Duesenberg Straight 8,,Duesenberg / Duesenberg,150,,running,–,30
-1921,UO,1921_Fresno_Race_2,1921_17,6,–,11,usa,Eddie_Miller,Eddie Miller,Duesenberg Straight 8,,Duesenberg / Duesenberg,150,,running,–,20
-1921,UO,1921_Fresno_Race_2,1921_17,7,–,21,usa,Jerry_Wonderlich,Jerry Wonderlich,Duesenberg Straight 8,,Duesenberg / Duesenberg,150,,running,–,15
-1921,UO,1921_Fresno_Race_2,1921_17,8,–,8,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller,–,,engine,–,
-1921,UO,1921_Fresno_Race_2,1921_17,9,–,12,usa,Alton_Soules,Alton Soules,Frontenac Motors,,Frontenac / Frontenac,–,,fatal crash,–,
-1921,UO,1921_Cotati_Race_2,1921_18,1,–,6,usa,Roscoe_Sarles,Roscoe Sarles,Duesenberg Straight 8,,Duesenberg / Duesenberg,120,,running,16,300
-1921,UO,1921_Cotati_Race_2,1921_18,2,–,5,usa,Joe_Thomas_(2),Joe Thomas,Duesenberg Straight 8,,Duesenberg / Duesenberg,120,,running,38,160
-1921,UO,1921_Cotati_Race_2,1921_18,3,–,1,usa,Eddie_Hearne,Eddie Hearne,Disteel / Duesenberg Straight 8,,Duesenberg / Duesenberg,120,,running,66,90
-1921,UO,1921_Cotati_Race_2,1921_18,4,–,4,italy,Ralph_DePalma,Ralph DePalma,Ballot,,Ballot / Ballot,120,,running,0,50
-1921,UO,1921_Cotati_Race_2,1921_18,5,–,8,usa,Jimmy_Murphy,Jimmy Murphy,Duesenberg Straight 8,,Duesenberg / Duesenberg,120,,running,0,30
-1921,UO,1921_Cotati_Race_2,1921_18,6,–,3,usa,Frank_Elliott,Frank Elliott,Leach,,Miller / Miller,120,,running,0,20
-1921,UO,1921_Cotati_Race_2,1921_18,7,–,11,usa,Eddie_Miller,Eddie Miller,Duesenberg Straight 8,,Duesenberg / Duesenberg,120,,running,0,15
-1921,UO,1921_Cotati_Race_2,1921_18,8,–,7,usa,Jerry_Wonderlich,Jerry Wonderlich,Duesenberg Straight 8,,Duesenberg / Duesenberg,120,,running,0,10
-1921,UO,1921_Cotati_Race_2,1921_18,9,–,27,usa,Tom_Alley,Tom Alley,Frontenac Motors,,Frontenac / Frontenac,93,,valve spring,0,
-1921,UO,1921_Cotati_Race_2,1921_18,10,–,2,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller,16,,ignition,0,
-1921,UO,1921_Beverly_Hills_Race_11,1921_19,1,–,1,usa,Eddie_Hearne,Eddie Hearne,Disteel / Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,30,500
+1921,UO,1921_Cotati_Race_1,1921_15,1,-,1,usa,Eddie_Hearne,Eddie Hearne,Disteel / Duesenberg Straight 8,,Duesenberg / Duesenberg,120,,running,-,300
+1921,UO,1921_Cotati_Race_1,1921_15,2,-,6,usa,Roscoe_Sarles,Roscoe Sarles,Duesenberg Straight 8,,Duesenberg / Duesenberg,120,,running,-,160
+1921,UO,1921_Cotati_Race_1,1921_15,3,-,2,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller,120,,running,-,90
+1921,UO,1921_Cotati_Race_1,1921_15,4,-,11,usa,Eddie_Miller,Eddie Miller,Duesenberg Straight 8,,Duesenberg / Duesenberg,120,,running,-,50
+1921,UO,1921_Cotati_Race_1,1921_15,5,-,12,usa,Alton_Soules,Alton Soules,Frontenac Motors,,Frontenac / Frontenac,120,,running,-,30
+1921,UO,1921_Cotati_Race_1,1921_15,6,-,5,usa,Joe_Thomas_(2),Joe Thomas,Duesenberg Straight 8,,Duesenberg / Duesenberg,120,,running,-,20
+1921,UO,1921_Cotati_Race_1,1921_15,7,-,27,usa,Tom_Alley,Tom Alley,Frontenac Motors,,Frontenac / Frontenac,120,,running,-,15
+1921,UO,1921_Cotati_Race_1,1921_15,8,-,7,usa,Jerry_Wonderlich,Jerry Wonderlich,Duesenberg Straight 8,,Duesenberg / Duesenberg,120,,running,-,10
+1921,UO,1921_Cotati_Race_1,1921_15,9,-,3,usa,Frank_Elliott,Frank Elliott,Leach,,Miller / Miller,37,,spring,-,
+1921,UO,1921_Cotati_Race_1,1921_15,10,10,,usa,Jim_Crosby,Jim Crosby,Lanspar,,-,0,,did not start,-,
+1921,UO,1921_Cotati_Race_1,1921_15,11,11,,usa,Mike_Moosie,Mike Moosie,Kleinworth,,-,0,,did not start,-,
+1921,UO,1921_Autumn_Classic,1921_16,1,-,3,usa,I_P_Fetterman,I.P. Fetterman,Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,-,400
+1921,UO,1921_Autumn_Classic,1921_16,2,-,4,usa,Jimmy_Murphy,Jimmy Murphy,Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,-,210
+1921,UO,1921_Autumn_Classic,1921_16,3,-,6,usa,Roscoe_Sarles,Roscoe Sarles,Leach,,Miller / Miller,200,,running,-,110
+1921,UO,1921_Autumn_Classic,1921_16,4,-,7,usa,Eddie_Miller,Eddie Miller,Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,-,60
+1921,UO,1921_Autumn_Classic,1921_16,5,-,1,usa,Eddie_Hearne,Eddie Hearne,Disteel / Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,-,24
+1921,UO,1921_Autumn_Classic,1921_16,6,-,5,usa,Joe_Thomas_(2),Joe Thomas,Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,-,25
+1921,UO,1921_Autumn_Classic,1921_16,7,-,22,usa,Howdy_Wilcox,Howdy Wilcox,Frontenac Motors,,Frontenac / Frontenac,200,,running,-,15
+1921,UO,1921_Autumn_Classic,1921_16,8,-,10,usa,Jules_Ellingboe,Jules Ellingboe,Frontenac Motors,,Frontenac / Frontenac,200,,running,-,10
+1921,UO,1921_Autumn_Classic,1921_16,9,-,,usa,Frank_Elliott,Frank Elliott,Frontenac Motors,,Frontenac / Frontenac,190,,running,-,
+1921,UO,1921_Autumn_Classic,1921_16,10,-,2,usa,Tommy_Milton,Tommy Milton,Frontenac Motors,,Frontenac / Frontenac,84,,dnf,-,
+1921,UO,1921_Autumn_Classic,1921_16,11,-,7,usa,Bennett_Hill,Bennett Hill,Frontenac Motors,,Frontenac / Frontenac,19,,dnf,-,
+1921,UO,1921_Fresno_Race_2,1921_17,1,-,25,usa,Earl_Cooper,Earl Cooper,Duesenberg Straight 8,,Duesenberg / Duesenberg,150,,running,-,300
+1921,UO,1921_Fresno_Race_2,1921_17,2,-,4,usa,Jimmy_Murphy,Jimmy Murphy,Duesenberg Straight 8,,Duesenberg / Duesenberg,150,,running,-,160
+1921,UO,1921_Fresno_Race_2,1921_17,3,-,9,usa,Frank_Elliott,Frank Elliott,Leach,,Miller / Miller,150,,running,-,90
+1921,UO,1921_Fresno_Race_2,1921_17,4,-,1,usa,Eddie_Hearne,Eddie Hearne,Disteel / Duesenberg Straight 8,,Duesenberg / Duesenberg,150,,running,-,50
+1921,UO,1921_Fresno_Race_2,1921_17,5,-,10,usa,Roscoe_Sarles,Roscoe Sarles,Duesenberg Straight 8,,Duesenberg / Duesenberg,150,,running,-,30
+1921,UO,1921_Fresno_Race_2,1921_17,6,-,11,usa,Eddie_Miller,Eddie Miller,Duesenberg Straight 8,,Duesenberg / Duesenberg,150,,running,-,20
+1921,UO,1921_Fresno_Race_2,1921_17,7,-,21,usa,Jerry_Wonderlich,Jerry Wonderlich,Duesenberg Straight 8,,Duesenberg / Duesenberg,150,,running,-,15
+1921,UO,1921_Fresno_Race_2,1921_17,8,-,8,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller,-,,engine,-,
+1921,UO,1921_Fresno_Race_2,1921_17,9,-,12,usa,Alton_Soules,Alton Soules,Frontenac Motors,,Frontenac / Frontenac,-,,fatal crash,-,
+1921,UO,1921_Cotati_Race_2,1921_18,1,-,6,usa,Roscoe_Sarles,Roscoe Sarles,Duesenberg Straight 8,,Duesenberg / Duesenberg,120,,running,16,300
+1921,UO,1921_Cotati_Race_2,1921_18,2,-,5,usa,Joe_Thomas_(2),Joe Thomas,Duesenberg Straight 8,,Duesenberg / Duesenberg,120,,running,38,160
+1921,UO,1921_Cotati_Race_2,1921_18,3,-,1,usa,Eddie_Hearne,Eddie Hearne,Disteel / Duesenberg Straight 8,,Duesenberg / Duesenberg,120,,running,66,90
+1921,UO,1921_Cotati_Race_2,1921_18,4,-,4,italy,Ralph_DePalma,Ralph DePalma,Ballot,,Ballot / Ballot,120,,running,0,50
+1921,UO,1921_Cotati_Race_2,1921_18,5,-,8,usa,Jimmy_Murphy,Jimmy Murphy,Duesenberg Straight 8,,Duesenberg / Duesenberg,120,,running,0,30
+1921,UO,1921_Cotati_Race_2,1921_18,6,-,3,usa,Frank_Elliott,Frank Elliott,Leach,,Miller / Miller,120,,running,0,20
+1921,UO,1921_Cotati_Race_2,1921_18,7,-,11,usa,Eddie_Miller,Eddie Miller,Duesenberg Straight 8,,Duesenberg / Duesenberg,120,,running,0,15
+1921,UO,1921_Cotati_Race_2,1921_18,8,-,7,usa,Jerry_Wonderlich,Jerry Wonderlich,Duesenberg Straight 8,,Duesenberg / Duesenberg,120,,running,0,10
+1921,UO,1921_Cotati_Race_2,1921_18,9,-,27,usa,Tom_Alley,Tom Alley,Frontenac Motors,,Frontenac / Frontenac,93,,valve spring,0,
+1921,UO,1921_Cotati_Race_2,1921_18,10,-,2,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller,16,,ignition,0,
+1921,UO,1921_Beverly_Hills_Race_11,1921_19,1,-,1,usa,Eddie_Hearne,Eddie Hearne,Disteel / Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,30,500
 1921,UO,1921_Beverly_Hills_Race_11,1921_19,2,2,2,usa,Tommy_Milton,Tommy Milton,Miller,,Miller / Miller,200,,running,121,260
-1921,UO,1921_Beverly_Hills_Race_11,1921_19,3,–,3,usa,Frank_Elliott,Frank Elliott,Leach,,Miller / Miller,200,,running,0,140
+1921,UO,1921_Beverly_Hills_Race_11,1921_19,3,-,3,usa,Frank_Elliott,Frank Elliott,Leach,,Miller / Miller,200,,running,0,140
 1921,UO,1921_Beverly_Hills_Race_11,1921_19,4,4,8,usa,Jimmy_Murphy,Jimmy Murphy,Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,41,80
 1921,UO,1921_Beverly_Hills_Race_11,1921_19,5,9,16,usa,Harry_Hartz,Harry Hartz,Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,0,50
 1921,UO,1921_Beverly_Hills_Race_11,1921_19,6,5,7,usa,Eddie_Miller,Eddie Miller,Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,0,35
@@ -175,19 +175,19 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1921,UO,1921_Beverly_Hills_Race_11,1921_19,8,10,5,usa,Joe_Thomas_(2),Joe Thomas,Frontenac Motors,,Frontenac / Frontenac,187,,running,0,15
 1921,UO,1921_Beverly_Hills_Race_11,1921_19,9,1,6,usa,Roscoe_Sarles,Roscoe Sarles,Duesenberg Straight 8,,Duesenberg / Duesenberg,180,,piston,5,
 1921,UO,1921_Beverly_Hills_Race_11,1921_19,10,8,27,usa,Art_Klein,Art Klein,Frontenac Motors,,Frontenac / Frontenac,174,,running,3,10
-1921,UO,1921_Beverly_Hills_Race_11,1921_19,11,7,12,usa,Jerry_Wonderlich,Jerry Wonderlich,Frontenac Motors,,Frontenac / Frontenac,–,,valve,0,
-1921,UO,1921_Beverly_Hills_Race_11,1921_19,12,–,21,usa,Al_Melcher,Al Melcher,Duesenberg Straight 8,,Duesenberg / Duesenberg,7,,ignition,0,
+1921,UO,1921_Beverly_Hills_Race_11,1921_19,11,7,12,usa,Jerry_Wonderlich,Jerry Wonderlich,Frontenac Motors,,Frontenac / Frontenac,-,,valve,0,
+1921,UO,1921_Beverly_Hills_Race_11,1921_19,12,-,21,usa,Al_Melcher,Al Melcher,Duesenberg Straight 8,,Duesenberg / Duesenberg,7,,ignition,0,
 1921,UO,1921_Beverly_Hills_Race_11,1921_19,13,6,11,france,Charles_Basle,Charles Basle,Frontenac Motors,,Frontenac / Frontenac,5,,fouled plugs,0,
 1921,UO,1921_Beverly_Hills_Race_11,1921_19,14,14,15,usa,Ralph_Snoddy,Ralph Snoddy,Delage,,Delage / Delage,0,,did not start,0,
-1921,UO,1921_San_Carlos_Race,1921_20,1,–,8,usa,Jimmy_Murphy,Jimmy Murphy,Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,187,500
-1921,UO,1921_San_Carlos_Race,1921_20,2,–,2,usa,Tommy_Milton,Tommy Milton,Leach,,Miller / Miller,200,,running,8,260
-1921,UO,1921_San_Carlos_Race,1921_20,3,–,1,usa,Eddie_Hearne,Eddie Hearne,Disteel / Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,0,140
-1921,UO,1921_San_Carlos_Race,1921_20,4,–,16,usa,Harry_Hartz,Harry Hartz,Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,0,80
-1921,UO,1921_San_Carlos_Race,1921_20,5,–,4,italy,Ralph_DePalma,Ralph DePalma,Ballot,,Miller / Miller,200,,running,1,50
-1921,UO,1921_San_Carlos_Race,1921_20,6,–,6,usa,Roscoe_Sarles,Roscoe Sarles,Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,0,35
-1921,UO,1921_San_Carlos_Race,1921_20,7,–,5,usa,Joe_Thomas_(2),Joe Thomas,Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,4,25
-1921,UO,1921_San_Carlos_Race,1921_20,8,–,,usa,Don_Fretwell,Don Fretwell,Lanspar,,–,200,,running,0,15
-1921,UO,1921_San_Carlos_Race,1921_20,9,–,9,usa,Bennett_Hill,Bennett Hill,Frontenac Motors,,Frontenac / Frontenac,–,,running,0,10
-1921,UO,1921_San_Carlos_Race,1921_20,10,–,11,usa,Eddie_Miller,Eddie Miller,Duesenberg Straight 8,,Duesenberg / Duesenberg,143,,camshaft,0,
-1921,UO,1921_San_Carlos_Race,1921_20,11,–,,usa,Eddie_Pullen,Eddie Pullen,–,,–,–,,–,0,
-1921,UO,1921_San_Carlos_Race,1921_20,12,–,3,usa,Frank_Elliott,Frank Elliott,Leach,,Miller / Miller,74,,crash,0,
+1921,UO,1921_San_Carlos_Race,1921_20,1,-,8,usa,Jimmy_Murphy,Jimmy Murphy,Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,187,500
+1921,UO,1921_San_Carlos_Race,1921_20,2,-,2,usa,Tommy_Milton,Tommy Milton,Leach,,Miller / Miller,200,,running,8,260
+1921,UO,1921_San_Carlos_Race,1921_20,3,-,1,usa,Eddie_Hearne,Eddie Hearne,Disteel / Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,0,140
+1921,UO,1921_San_Carlos_Race,1921_20,4,-,16,usa,Harry_Hartz,Harry Hartz,Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,0,80
+1921,UO,1921_San_Carlos_Race,1921_20,5,-,4,italy,Ralph_DePalma,Ralph DePalma,Ballot,,Miller / Miller,200,,running,1,50
+1921,UO,1921_San_Carlos_Race,1921_20,6,-,6,usa,Roscoe_Sarles,Roscoe Sarles,Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,0,35
+1921,UO,1921_San_Carlos_Race,1921_20,7,-,5,usa,Joe_Thomas_(2),Joe Thomas,Duesenberg Straight 8,,Duesenberg / Duesenberg,200,,running,4,25
+1921,UO,1921_San_Carlos_Race,1921_20,8,-,,usa,Don_Fretwell,Don Fretwell,Lanspar,,-,200,,running,0,15
+1921,UO,1921_San_Carlos_Race,1921_20,9,-,9,usa,Bennett_Hill,Bennett Hill,Frontenac Motors,,Frontenac / Frontenac,-,,running,0,10
+1921,UO,1921_San_Carlos_Race,1921_20,10,-,11,usa,Eddie_Miller,Eddie Miller,Duesenberg Straight 8,,Duesenberg / Duesenberg,143,,camshaft,0,
+1921,UO,1921_San_Carlos_Race,1921_20,11,-,,usa,Eddie_Pullen,Eddie Pullen,-,,-,-,,-,0,
+1921,UO,1921_San_Carlos_Race,1921_20,12,-,3,usa,Frank_Elliott,Frank Elliott,Leach,,Miller / Miller,74,,crash,0,

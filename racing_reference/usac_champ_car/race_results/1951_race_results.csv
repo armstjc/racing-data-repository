@@ -63,8 +63,8 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1951,UO,1951_Langhorne_100,1951_03,11,2,23,usa,Cliff_Griffith,Cliff Griffith,Dr. Morris,,Kurtis / Offy,84,257,running,0,20
 1951,UO,1951_Langhorne_100,1951_03,12,14,26,usa,Joe_James,Joe James,Bob Estes,,Watson / Offy,73,257,dnf,0,7
 1951,UO,1951_Langhorne_100,1951_03,13,8,48,usa,Rodger_Ward,Rodger Ward,Deck Manufacturing,,Bromme / Offy,59,193,dnf,0,
-1951,UO,1951_Langhorne_100,1951_03,14,7,81,usa,Bill_Vukovich,Bill Vukovich,Central Excavating,,Trevis / Offy,–,193,stalled,15,
-1951,UO,1951_Langhorne_100,1951_03,15,13,14,usa,Duane_Carter,Duane Carter,Pat Clancy,,Ewing / Offy,–,171,dnf,0,
+1951,UO,1951_Langhorne_100,1951_03,14,7,81,usa,Bill_Vukovich,Bill Vukovich,Central Excavating,,Trevis / Offy,-,193,stalled,15,
+1951,UO,1951_Langhorne_100,1951_03,15,13,14,usa,Duane_Carter,Duane Carter,Pat Clancy,,Ewing / Offy,-,171,dnf,0,
 1951,UO,1951_Langhorne_100,1951_03,16,6,79,usa,Johnny_McDowell,Johnny McDowell,Hart Fullerton,,Kurtis / Offy,8,171,overheating,8,
 1951,UO,1951_Langhorne_100,1951_03,17,16,71,usa,Gordon_Reid,Gordon Reid,Karl Hall,,Stevens / Offy,5,127,dnf,0,
 1951,UO,1951_Langhorne_100,1951_03,18,18,53,usa,Neal_Carter,Neal Carter,Lutes,,Bardazon / Offy,2,127,dnf,0,
@@ -172,44 +172,44 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1951,UO,1951_DuQuoin_150,1951_08,16,15,3,usa,Johnnie_Parsons,Johnnie Parsons,Wynn's Friction Proofing,,Kurtis / Offy,37,186,crash,0,
 1951,UO,1951_DuQuoin_150,1951_08,17,4,76,usa,Jimmy_Davies,Jimmy Davies,Parks,,Pawl / Offy,6,124,crash,0,
 1951,UO,1951_DuQuoin_150,1951_08,18,7,77,usa,Joe_Garson,Joe Garson,Elgin Piston Pin,,Stevens / Offy,1,124,connecting rod,0,
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,1,2,9,usa,Al_Rogers,Al Rogers,Coniff,,Offy,1,3500,running,–,200
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,2,3,63,usa,Johnny_Mauro,Johnny Mauro,Leo Dobry,,Kurtis / Offy,1,2500,running,–,160
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,3,1,44,usa,Louis_Unser,Louis Unser,Federal Engineering,,Kurtis / Offy,1,1500,running,–,140
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,4,5,67,usa,Pete_Woods,Pete Woods,Johnson,,Silnes / Wayne,1,1000,running,–,120
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,5,4,7,usa,Herb_Bryers,Herb Bryers,Weiher Alignment,,McDowell,1,750,running,–,100
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,6,7,6,usa,Charles_Bryant,Charles Bryant,Grover,,Chevrolet,1,500,running,–,80
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,7,13,58,usa,Bob_Finney,Bob Finney,Frenzel,,Ford,1,200,running,–,60
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,8,6,1,usa,Shelby_Hill,Shelby Hill,Shelby Hill,,Ford,1,200,running,–,50
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,9,21,66,usa,Mack_Hellings,Mack Hellings,Belond Equa Flow,,Stevens / Offy,1,200,running,–,40
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,10,8,88,usa,Jim_Good,Jim Good,Newbill,,McDowell,1,200,running,–,30
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,11,11,23,usa,Delmar_Desch,Delmar Desch,Blattler,,Chevrolet,1,200,running,–,20
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,12,20,12,usa,Hugh_Thomas,Hugh Thomas,Bandimere,,Ford,1,200,running,–,10
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,13,–,,usa,Wayne_Sankey,Wayne Sankey,Crager,,Crager,1,,running,–,
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,14,16,3,usa,Glenn_Harrison,Glenn Harrison,Crager,,Crager,1,,running,–,
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,15,–,,usa,D_R_Atkinson,D.R. Atkinson,–,,Chevrolet,1,,running,–,
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,16,–,61,usa,Jimmy_Jackson,Jimmy Jackson,G.M.C. 270,,Wayne,1,,running,–,
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,17,–,,usa,Walt_Moffatt,Walt Moffatt,Dreyer,,–,1,,running,–,
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,18,17,56,usa,Wayne_England,Wayne England,Chevrolet,,Chevrolet,1,,running,–,
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,19,–,68,usa,Roger_Barlow,Roger Barlow,Simca,,Simca,1,,running,–,
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,20,8,,usa,Malcolm_Brazier,Malcolm Brazier,–,,Chevrolet,0,,crash,–,
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,21,10,55,usa,Walt_Killinger,Walt Killinger,–,,Offenhauser,0,,dnf,–,
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,22,12,8,usa,Phil_Shafer,Phil Shafer,Shafer,,–,0,,dnf,–,
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,23,14,33,usa,Milton_Mabe,Milton Mabe,Shearer Lodge,,–,0,,dnf,–,
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,24,15,5,usa,Buster_Hammond,Buster Hammond,McDowell,,–,0,,dnf,–,
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,25,18,24,usa,Richard_DeMark,Richard DeMark,Crager,,–,0,,dnf,–,
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,26,–,,usa,George_Hammond,George Hammond,–,,–,0,,dnf,–,
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,27,–,,usa,Art_McKee,Art McKee,fq,,–,0,,dnf,–,
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,28,–,,usa,T_E_Russell,T.E. Russell,fq,,–,0,,dnf,–,
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,29,–,,usa,Andy_Cimino,Andy Cimino,–,,–,0,,dnf,–,
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,30,30,25,canada,Ray_Shadbolt,Ray Shadbolt,–,,Alfa Romeo,0,,did not start,0,
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,31,31,58,usa,Jim_Hammond,Jim Hammond,McDowell,,–,0,,did not start,0,
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,32,32,27,usa,Billy_Ryan,Billy Ryan,–,,Chevy,0,,did not start,0,
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,33,33,15,usa,Clarence_Doley,Clarence Doley,–,,Oldsmobile,0,,did not start,0,
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,34,34,2,usa,Joel_Thorne,Joel Thorne,Joel Thorne,,–,0,,did not start,0,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,1,2,9,usa,Al_Rogers,Al Rogers,Coniff,,Offy,1,3500,running,-,200
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,2,3,63,usa,Johnny_Mauro,Johnny Mauro,Leo Dobry,,Kurtis / Offy,1,2500,running,-,160
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,3,1,44,usa,Louis_Unser,Louis Unser,Federal Engineering,,Kurtis / Offy,1,1500,running,-,140
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,4,5,67,usa,Pete_Woods,Pete Woods,Johnson,,Silnes / Wayne,1,1000,running,-,120
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,5,4,7,usa,Herb_Bryers,Herb Bryers,Weiher Alignment,,McDowell,1,750,running,-,100
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,6,7,6,usa,Charles_Bryant,Charles Bryant,Grover,,Chevrolet,1,500,running,-,80
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,7,13,58,usa,Bob_Finney,Bob Finney,Frenzel,,Ford,1,200,running,-,60
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,8,6,1,usa,Shelby_Hill,Shelby Hill,Shelby Hill,,Ford,1,200,running,-,50
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,9,21,66,usa,Mack_Hellings,Mack Hellings,Belond Equa Flow,,Stevens / Offy,1,200,running,-,40
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,10,8,88,usa,Jim_Good,Jim Good,Newbill,,McDowell,1,200,running,-,30
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,11,11,23,usa,Delmar_Desch,Delmar Desch,Blattler,,Chevrolet,1,200,running,-,20
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,12,20,12,usa,Hugh_Thomas,Hugh Thomas,Bandimere,,Ford,1,200,running,-,10
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,13,-,,usa,Wayne_Sankey,Wayne Sankey,Crager,,Crager,1,,running,-,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,14,16,3,usa,Glenn_Harrison,Glenn Harrison,Crager,,Crager,1,,running,-,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,15,-,,usa,D_R_Atkinson,D.R. Atkinson,-,,Chevrolet,1,,running,-,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,16,-,61,usa,Jimmy_Jackson,Jimmy Jackson,G.M.C. 270,,Wayne,1,,running,-,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,17,-,,usa,Walt_Moffatt,Walt Moffatt,Dreyer,,-,1,,running,-,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,18,17,56,usa,Wayne_England,Wayne England,Chevrolet,,Chevrolet,1,,running,-,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,19,-,68,usa,Roger_Barlow,Roger Barlow,Simca,,Simca,1,,running,-,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,20,8,,usa,Malcolm_Brazier,Malcolm Brazier,-,,Chevrolet,0,,crash,-,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,21,10,55,usa,Walt_Killinger,Walt Killinger,-,,Offenhauser,0,,dnf,-,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,22,12,8,usa,Phil_Shafer,Phil Shafer,Shafer,,-,0,,dnf,-,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,23,14,33,usa,Milton_Mabe,Milton Mabe,Shearer Lodge,,-,0,,dnf,-,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,24,15,5,usa,Buster_Hammond,Buster Hammond,McDowell,,-,0,,dnf,-,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,25,18,24,usa,Richard_DeMark,Richard DeMark,Crager,,-,0,,dnf,-,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,26,-,,usa,George_Hammond,George Hammond,-,,-,0,,dnf,-,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,27,-,,usa,Art_McKee,Art McKee,fq,,-,0,,dnf,-,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,28,-,,usa,T_E_Russell,T.E. Russell,fq,,-,0,,dnf,-,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,29,-,,usa,Andy_Cimino,Andy Cimino,-,,-,0,,dnf,-,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,30,30,25,canada,Ray_Shadbolt,Ray Shadbolt,-,,Alfa Romeo,0,,did not start,0,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,31,31,58,usa,Jim_Hammond,Jim Hammond,McDowell,,-,0,,did not start,0,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,32,32,27,usa,Billy_Ryan,Billy Ryan,-,,Chevy,0,,did not start,0,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,33,33,15,usa,Clarence_Doley,Clarence Doley,-,,Oldsmobile,0,,did not start,0,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,34,34,2,usa,Joel_Thorne,Joel Thorne,Joel Thorne,,-,0,,did not start,0,
 1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,35,35,62,usa,Curt_Stockwell,Curt Stockwell,Nash,,Nash-Healey,0,,did not start,0,
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,36,36,10,usa,Clifford_Foltz,Clifford Foltz,–,,Ford,0,,did not start,0,
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,37,37,4,usa,Harry_Syer,Harry Syer,Syer-Hal,,–,0,,did not start,0,
-1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,38,38,,usa,Red_Lawrence,Red Lawrence,–,,Ford,0,,did not start,0,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,36,36,10,usa,Clifford_Foltz,Clifford Foltz,-,,Ford,0,,did not start,0,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,37,37,4,usa,Harry_Syer,Harry Syer,Syer-Hal,,-,0,,did not start,0,
+1951,UO,1951_Pikes_Peak_Hill_Climb,1951_09,38,38,,usa,Red_Lawrence,Red Lawrence,-,,Ford,0,,did not start,0,
 1951,UO,1951_Syracuse_100,1951_10,1,1,99,usa,Tony_Bettenhausen,Tony Bettenhausen,Belanger Motors,,Kurtis / Offy,67,3750,running,67,134
 1951,UO,1951_Syracuse_100,1951_10,2,4,2,usa,Walt_Faulkner,Walt Faulkner,J.C. Agajanian,,Kuzma / Offy,67,2700,running,0,107.2
 1951,UO,1951_Syracuse_100,1951_10,3,6,4,usa,Bill_Vukovich,Bill Vukovich,John Zink,,Kurtis / Offy,67,1500,running,0,93.8

@@ -51,11 +51,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1990,E,1990_Pontiac_Excitement_200,1990_02_E,8,11,4,usa,Elton_Sawyer,Elton Sawyer   (Busch),Ray Hill,,Buick,200,4213,running,0,0
 1990,E,1990_Pontiac_Excitement_200,1990_02_E,9,6,8,usa,Bobby_Hamilton,Bobby Hamilton   (Busch),Filmar Racing,,Oldsmobile,200,4038,running,0,0
 1990,E,1990_Pontiac_Excitement_200,1990_02_E,10,3,99,usa,Tommy_Ellis,Tommy Ellis   (Busch),Goo Goo Clusters,,Buick,200,3958,running,0,0
-1990,E,1990_Pontiac_Excitement_200,1990_02_E,11,15,12,usa,Jeff_Burton,Jeff Burton   (Busch),Gwaltney Meats,,Buick,199,2503,running,–,0
+1990,E,1990_Pontiac_Excitement_200,1990_02_E,11,15,12,usa,Jeff_Burton,Jeff Burton   (Busch),Gwaltney Meats,,Buick,199,2503,running,-,0
 1990,E,1990_Pontiac_Excitement_200,1990_02_E,12,29,6,usa,Tommy_Houston,Tommy Houston   (Busch),Rose's Stores,,Buick,199,3678,running,1,0
 1990,E,1990_Pontiac_Excitement_200,1990_02_E,13,25,86,usa,Dana_Patten,Dana Patten   (Busch),Just Say No,,Buick,199,2880,running,0,0
 1990,E,1990_Pontiac_Excitement_200,1990_02_E,14,18,41,usa,Jamie_Aube,Jamie Aube,EJP,,Buick,199,3300,running,0,121
-1990,E,1990_Pontiac_Excitement_200,1990_02_E,15,26,5,usa,Ward_Burton,Ward Burton   (Busch),Golden Skillet,,Buick,199,1170,running,–,0
+1990,E,1990_Pontiac_Excitement_200,1990_02_E,15,26,5,usa,Ward_Burton,Ward Burton   (Busch),Golden Skillet,,Buick,199,1170,running,-,0
 1990,E,1990_Pontiac_Excitement_200,1990_02_E,16,31,14,usa,Wayne_Patterson,Wayne Patterson   (Busch),Budweiser,,Pontiac,199,1150,running,0,0
 1990,E,1990_Pontiac_Excitement_200,1990_02_E,17,4,25,usa,Jimmy_Hensley,Jimmy Hensley   (Busch),Crown / Fast Fare,,Oldsmobile,198,2183,running,0,0
 1990,E,1990_Pontiac_Excitement_200,1990_02_E,18,23,87,usa,Joe_Nemechek,Joe Nemechek   (Busch),NEMCO Motorsports,,Buick,198,1040,running,0,0
@@ -162,7 +162,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1990,E,1990_Diet_Coke_100,1990_05_E,10,10,33,usa,Ed_St_Angelo_Jr,"Ed St. Angelo, Jr.",St. Angelo Buick / AC Automotive,,Buick,136,700,running,0,134
 1990,E,1990_Diet_Coke_100,1990_05_E,11,26,88,usa,Larry_Caron,Larry Caron,East End Auto,,Buick,136,815,running,0,130
 1990,E,1990_Diet_Coke_100,1990_05_E,12,14,72,usa,Ken_Bouchard,Ken Bouchard,ADAP Auto Parts,,Pontiac,136,600,running,0,127
-1990,E,1990_Diet_Coke_100,1990_05_E,13,20,3,usa,Bobby_Gill,Bobby Gill,Veryfine Juices / VinylTech,,–,136,575,running,0,124
+1990,E,1990_Diet_Coke_100,1990_05_E,13,20,3,usa,Bobby_Gill,Bobby Gill,Veryfine Juices / VinylTech,,-,136,575,running,0,124
 1990,E,1990_Diet_Coke_100,1990_05_E,14,15,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,136,710,running,0,121
 1990,E,1990_Diet_Coke_100,1990_05_E,15,19,31,usa,Steve_Grissom,Steve Grissom,Big Mama Meat Snacks,,Oldsmobile,135,625,running,0,118
 1990,E,1990_Diet_Coke_100,1990_05_E,16,31,17,usa,Bob_Brunell,Bob Brunell,Bob Brunell,,Pontiac,133,500,running,0,115
@@ -170,17 +170,17 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1990,E,1990_Diet_Coke_100,1990_05_E,18,25,06,usa,Ricky_Miller,Ricky Miller,Big A Auto Parts,,Pontiac,133,550,running,0,109
 1990,E,1990_Diet_Coke_100,1990_05_E,19,27,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Buick,133,425,running,0,106
 1990,E,1990_Diet_Coke_100,1990_05_E,20,5,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Chevrolet,133,500,running,0,103
-1990,E,1990_Diet_Coke_100,1990_05_E,21,29,77,usa,Bob_Gerry,Bob Gerry,–,,Chevrolet,133,350,running,0,100
+1990,E,1990_Diet_Coke_100,1990_05_E,21,29,77,usa,Bob_Gerry,Bob Gerry,-,,Chevrolet,133,350,running,0,100
 1990,E,1990_Diet_Coke_100,1990_05_E,22,21,69,usa,Jeff_Spraker,Jeff Spraker,Loctite,,Oldsmobile,133,325,running,0,97
 1990,E,1990_Diet_Coke_100,1990_05_E,23,24,39,usa,Lloyd_Gillie,Lloyd Gillie,Gillie's Truck Caps,,Buick,132,300,running,0,94
-1990,E,1990_Diet_Coke_100,1990_05_E,24,22,04,usa,Jay_Currier,Jay Currier,Currier Construction,,Buick,128,275,–,0,91
-1990,E,1990_Diet_Coke_100,1990_05_E,25,12,19,usa,Ron_Moon,Ron Moon,MAP Racing,,Buick,43,250,–,0,88
-1990,E,1990_Diet_Coke_100,1990_05_E,26,11,35,usa,Mike_Weeden,Mike Weeden,All-Pro Auto Parts,,Pontiac,42,225,–,0,85
-1990,E,1990_Diet_Coke_100,1990_05_E,27,4,25,usa,Ricky_Craven,Ricky Craven,Speedee Oil Change,,Pontiac,41,210,–,36,82
-1990,E,1990_Diet_Coke_100,1990_05_E,28,1,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Co.,,Buick,28,200,–,5,79
-1990,E,1990_Diet_Coke_100,1990_05_E,29,23,36,usa,Bobby_Gada,Bobby Gada,Gada Racing,,Pontiac,26,200,–,0,76
-1990,E,1990_Diet_Coke_100,1990_05_E,30,18,59,usa,Bob_Healey,Bob Healey,Renault Machine & Tool,,Pontiac,16,200,–,0,73
-1990,E,1990_Diet_Coke_100,1990_05_E,31,28,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive,,Buick,4,200,–,0,70
+1990,E,1990_Diet_Coke_100,1990_05_E,24,22,04,usa,Jay_Currier,Jay Currier,Currier Construction,,Buick,128,275,-,0,91
+1990,E,1990_Diet_Coke_100,1990_05_E,25,12,19,usa,Ron_Moon,Ron Moon,MAP Racing,,Buick,43,250,-,0,88
+1990,E,1990_Diet_Coke_100,1990_05_E,26,11,35,usa,Mike_Weeden,Mike Weeden,All-Pro Auto Parts,,Pontiac,42,225,-,0,85
+1990,E,1990_Diet_Coke_100,1990_05_E,27,4,25,usa,Ricky_Craven,Ricky Craven,Speedee Oil Change,,Pontiac,41,210,-,36,82
+1990,E,1990_Diet_Coke_100,1990_05_E,28,1,0,usa,Dick_McCabe,Dick McCabe,McCabe Bait Co.,,Buick,28,200,-,5,79
+1990,E,1990_Diet_Coke_100,1990_05_E,29,23,36,usa,Bobby_Gada,Bobby Gada,Gada Racing,,Pontiac,26,200,-,0,76
+1990,E,1990_Diet_Coke_100,1990_05_E,30,18,59,usa,Bob_Healey,Bob Healey,Renault Machine & Tool,,Pontiac,16,200,-,0,73
+1990,E,1990_Diet_Coke_100,1990_05_E,31,28,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive,,Buick,4,200,-,0,70
 1990,E,1990_Pontiac_Pacesetters_300,1990_06_E,1,2,25,usa,Jimmy_Hensley,Jimmy Hensley   (Busch),Crown / Fast Fare,,Oldsmobile,300,18339,running,44,0
 1990,E,1990_Pontiac_Pacesetters_300,1990_06_E,2,27,79,usa,Dave_Rezendes,Dave Rezendes   (Busch),"K.R. Rezendes, Inc.",,Oldsmobile,300,9414,running,56,0
 1990,E,1990_Pontiac_Pacesetters_300,1990_06_E,3,12,63,usa,Chuck_Bown,Chuck Bown   (Busch),Nescafe Classic,,Pontiac,300,9264,running,28,0
@@ -227,25 +227,25 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1990,E,1990_Big_Apple_Stores_100,1990_07_E,7,3,0,usa,Dick_McCabe,Dick McCabe,Car Connection,,Buick,133,775,running,0,146
 1990,E,1990_Big_Apple_Stores_100,1990_07_E,8,12,60,usa,Dale_Shaw,Dale Shaw,Plum Potter Automotive,,Pontiac,133,945,running,0,142
 1990,E,1990_Big_Apple_Stores_100,1990_07_E,9,14,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Chevrolet,133,675,running,0,138
-1990,E,1990_Big_Apple_Stores_100,1990_07_E,10,13,22,usa,Tracy_Gordon,Tracy Gordon,–,,Oldsmobile,133,675,running,0,134
+1990,E,1990_Big_Apple_Stores_100,1990_07_E,10,13,22,usa,Tracy_Gordon,Tracy Gordon,-,,Oldsmobile,133,675,running,0,134
 1990,E,1990_Big_Apple_Stores_100,1990_07_E,11,27,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Buick,133,625,running,0,130
-1990,E,1990_Big_Apple_Stores_100,1990_07_E,12,4,9,usa,Joe_Bessey,Joe Bessey,Cola Transport,,Pontiac,132,780,–,0,127
+1990,E,1990_Big_Apple_Stores_100,1990_07_E,12,4,9,usa,Joe_Bessey,Joe Bessey,Cola Transport,,Pontiac,132,780,-,0,127
 1990,E,1990_Big_Apple_Stores_100,1990_07_E,13,7,47,usa,Kelly_Moore,Kelly Moore,Exxon Superflo / Crest Chevrolet,,Chevrolet,132,745,running,0,124
-1990,E,1990_Big_Apple_Stores_100,1990_07_E,14,18,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,132,720,–,0,121
-1990,E,1990_Big_Apple_Stores_100,1990_07_E,15,20,59,usa,Bob_Healey,Bob Healey,Renault Machine & Tool,,Pontiac,132,625,–,0,118
-1990,E,1990_Big_Apple_Stores_100,1990_07_E,16,9,7,usa,Billy_Clark,Billy Clark,Skoal Bandit,,Pontiac,132,640,–,0,115
+1990,E,1990_Big_Apple_Stores_100,1990_07_E,14,18,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,132,720,-,0,121
+1990,E,1990_Big_Apple_Stores_100,1990_07_E,15,20,59,usa,Bob_Healey,Bob Healey,Renault Machine & Tool,,Pontiac,132,625,-,0,118
+1990,E,1990_Big_Apple_Stores_100,1990_07_E,16,9,7,usa,Billy_Clark,Billy Clark,Skoal Bandit,,Pontiac,132,640,-,0,115
 1990,E,1990_Big_Apple_Stores_100,1990_07_E,17,16,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,132,605,running,0,112
-1990,E,1990_Big_Apple_Stores_100,1990_07_E,18,15,36,usa,Bobby_Gada,Bobby Gada,Gada Racing,,Pontiac,131,450,–,0,109
-1990,E,1990_Big_Apple_Stores_100,1990_07_E,19,24,34,usa,David_Smith,David Smith,Smith Racing,,Buick,131,425,–,0,106
-1990,E,1990_Big_Apple_Stores_100,1990_07_E,20,19,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive,,Buick,130,400,–,0,103
-1990,E,1990_Big_Apple_Stores_100,1990_07_E,21,21,17,usa,Bob_Brunell,Bob Brunell,Bob Brunell,,Pontiac,129,360,–,0,100
-1990,E,1990_Big_Apple_Stores_100,1990_07_E,22,25,88,usa,Larry_Caron,Larry Caron,East End Auto,,Buick,127,325,–,0,97
-1990,E,1990_Big_Apple_Stores_100,1990_07_E,23,10,19,usa,Ron_Moon,Ron Moon,MAP Racing,,Buick,123,300,–,0,94
-1990,E,1990_Big_Apple_Stores_100,1990_07_E,24,22,4,usa,Wes_Rosner,Wes Rosner,Wes Rosner,,Pontiac,120,275,–,0,91
-1990,E,1990_Big_Apple_Stores_100,1990_07_E,25,23,06,usa,Ricky_Miller,Ricky Miller,Big A Auto Parts,,Pontiac,117,250,–,0,88
-1990,E,1990_Big_Apple_Stores_100,1990_07_E,26,28,04,usa,Jay_Currier,Jay Currier,Currier Construction,,Buick,111,225,–,0,85
+1990,E,1990_Big_Apple_Stores_100,1990_07_E,18,15,36,usa,Bobby_Gada,Bobby Gada,Gada Racing,,Pontiac,131,450,-,0,109
+1990,E,1990_Big_Apple_Stores_100,1990_07_E,19,24,34,usa,David_Smith,David Smith,Smith Racing,,Buick,131,425,-,0,106
+1990,E,1990_Big_Apple_Stores_100,1990_07_E,20,19,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive,,Buick,130,400,-,0,103
+1990,E,1990_Big_Apple_Stores_100,1990_07_E,21,21,17,usa,Bob_Brunell,Bob Brunell,Bob Brunell,,Pontiac,129,360,-,0,100
+1990,E,1990_Big_Apple_Stores_100,1990_07_E,22,25,88,usa,Larry_Caron,Larry Caron,East End Auto,,Buick,127,325,-,0,97
+1990,E,1990_Big_Apple_Stores_100,1990_07_E,23,10,19,usa,Ron_Moon,Ron Moon,MAP Racing,,Buick,123,300,-,0,94
+1990,E,1990_Big_Apple_Stores_100,1990_07_E,24,22,4,usa,Wes_Rosner,Wes Rosner,Wes Rosner,,Pontiac,120,275,-,0,91
+1990,E,1990_Big_Apple_Stores_100,1990_07_E,25,23,06,usa,Ricky_Miller,Ricky Miller,Big A Auto Parts,,Pontiac,117,250,-,0,88
+1990,E,1990_Big_Apple_Stores_100,1990_07_E,26,28,04,usa,Jay_Currier,Jay Currier,Currier Construction,,Buick,111,225,-,0,85
 1990,E,1990_Big_Apple_Stores_100,1990_07_E,27,26,69,usa,Jeff_Spraker,Jeff Spraker,Loctite,,Oldsmobile,67,210,brakes,0,82
-1990,E,1990_Big_Apple_Stores_100,1990_07_E,28,5,01,usa,Joey_Kourafas,Joey Kourafas,New England Racing,,Pontiac,39,500,–,0,79
+1990,E,1990_Big_Apple_Stores_100,1990_07_E,28,5,01,usa,Joey_Kourafas,Joey Kourafas,New England Racing,,Pontiac,39,500,-,0,79
 1990,E,1990_Budweiser_200,1990_08_E,1,4,30,usa,Michael_Waltrip,Michael Waltrip   (Busch),Kool Aid,,Pontiac,200,10975,running,132,0
 1990,E,1990_Budweiser_200,1990_08_E,2,9,7,usa,Harry_Gant,Harry Gant   (Busch),Skoal,,Buick,200,5080,running,36,0
 1990,E,1990_Budweiser_200,1990_08_E,3,1,44,usa,Bobby_Labonte,Bobby Labonte   (Busch),Penrose Firecracker,,Oldsmobile,200,4655,running,0,0
@@ -291,25 +291,25 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1990,E,1990_Thomas_Chevrolet_150,1990_09_E,7,20,58,usa,Rodney_Franklin,Rodney Franklin,L.F. Franklin & Sons,,Pontiac,152,1050,running,0,146
 1990,E,1990_Thomas_Chevrolet_150,1990_09_E,8,19,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Chevrolet,151,1255,running,0,142
 1990,E,1990_Thomas_Chevrolet_150,1990_09_E,9,26,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Buick,150,1050,running,0,138
-1990,E,1990_Thomas_Chevrolet_150,1990_09_E,10,28,34,usa,David_Smith,David Smith,Smith Racing,,Buick,149,1125,–,0,134
-1990,E,1990_Thomas_Chevrolet_150,1990_09_E,11,18,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber / Valet Park,,Buick,149,1195,–,0,130
-1990,E,1990_Thomas_Chevrolet_150,1990_09_E,12,25,18,usa,Larry_Brolsma,Larry Brolsma,Cedar Ridge RV Sales,,Oldsmobile,149,800,–,0,127
+1990,E,1990_Thomas_Chevrolet_150,1990_09_E,10,28,34,usa,David_Smith,David Smith,Smith Racing,,Buick,149,1125,-,0,134
+1990,E,1990_Thomas_Chevrolet_150,1990_09_E,11,18,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber / Valet Park,,Buick,149,1195,-,0,130
+1990,E,1990_Thomas_Chevrolet_150,1990_09_E,12,25,18,usa,Larry_Brolsma,Larry Brolsma,Cedar Ridge RV Sales,,Oldsmobile,149,800,-,0,127
 1990,E,1990_Thomas_Chevrolet_150,1990_09_E,13,13,69,usa,Jeff_Spraker,Jeff Spraker,Loctite,,Oldsmobile,149,980,running,0,124
 1990,E,1990_Thomas_Chevrolet_150,1990_09_E,14,23,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,149,920,running,0,121
-1990,E,1990_Thomas_Chevrolet_150,1990_09_E,15,21,36,usa,Bobby_Gada,Bobby Gada,Gada Racing,,Pontiac,149,910,–,0,118
-1990,E,1990_Thomas_Chevrolet_150,1990_09_E,16,15,59,usa,Bob_Healey,Bob Healey,Renault Machine & Tool,,Pontiac,147,800,–,0,115
-1990,E,1990_Thomas_Chevrolet_150,1990_09_E,17,7,71,usa,Bobby_Dragon,Bobby Dragon,Budweiser,,Pontiac,144,640,–,0,112
-1990,E,1990_Thomas_Chevrolet_150,1990_09_E,18,24,17,usa,Bob_Brunell,Bob Brunell,Bob Brunell,,Pontiac,139,540,–,0,109
-1990,E,1990_Thomas_Chevrolet_150,1990_09_E,19,17,19,usa,Ron_Moon,Ron Moon,MAP Racing,,Buick,116,520,–,0,106
-1990,E,1990_Thomas_Chevrolet_150,1990_09_E,20,4,21,usa,Dave_Davis,Dave Davis,Davis Brothers,,Buick,103,690,–,0,103
+1990,E,1990_Thomas_Chevrolet_150,1990_09_E,15,21,36,usa,Bobby_Gada,Bobby Gada,Gada Racing,,Pontiac,149,910,-,0,118
+1990,E,1990_Thomas_Chevrolet_150,1990_09_E,16,15,59,usa,Bob_Healey,Bob Healey,Renault Machine & Tool,,Pontiac,147,800,-,0,115
+1990,E,1990_Thomas_Chevrolet_150,1990_09_E,17,7,71,usa,Bobby_Dragon,Bobby Dragon,Budweiser,,Pontiac,144,640,-,0,112
+1990,E,1990_Thomas_Chevrolet_150,1990_09_E,18,24,17,usa,Bob_Brunell,Bob Brunell,Bob Brunell,,Pontiac,139,540,-,0,109
+1990,E,1990_Thomas_Chevrolet_150,1990_09_E,19,17,19,usa,Ron_Moon,Ron Moon,MAP Racing,,Buick,116,520,-,0,106
+1990,E,1990_Thomas_Chevrolet_150,1990_09_E,20,4,21,usa,Dave_Davis,Dave Davis,Davis Brothers,,Buick,103,690,-,0,103
 1990,E,1990_Thomas_Chevrolet_150,1990_09_E,21,3,49,usa,Ed_Ferree,Ed Ferree,Wolf's Head Oil / Ferree Chevrolet,,Pontiac,90,500,crash,0,100
 1990,E,1990_Thomas_Chevrolet_150,1990_09_E,22,8,96,usa,Tom_Peck,Tom Peck,Thomas Racing,,Oldsmobile,71,450,mechanical,0,97
-1990,E,1990_Thomas_Chevrolet_150,1990_09_E,23,27,39,usa,Lloyd_Gillie,Lloyd Gillie,Gillie's Truck Caps,,Buick,51,600,–,0,94
-1990,E,1990_Thomas_Chevrolet_150,1990_09_E,24,11,01,usa,Joey_Kourafas,Joey Kourafas,New England Racing,,Pontiac,44,560,–,0,91
-1990,E,1990_Thomas_Chevrolet_150,1990_09_E,25,22,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive,,Buick,41,550,–,0,88
-1990,E,1990_Thomas_Chevrolet_150,1990_09_E,26,10,06,usa,Ricky_Miller,Ricky Miller,Big A Auto Parts,,Pontiac,29,400,–,0,85
-1990,E,1990_Thomas_Chevrolet_150,1990_09_E,27,9,35,usa,Mike_Weeden,Mike Weeden,All-Pro Auto Parts,,Pontiac,28,400,–,0,82
-1990,E,1990_Thomas_Chevrolet_150,1990_09_E,28,5,25,usa,Ricky_Craven,Ricky Craven,Speedee Oil Change,,Pontiac,15,400,–,0,79
+1990,E,1990_Thomas_Chevrolet_150,1990_09_E,23,27,39,usa,Lloyd_Gillie,Lloyd Gillie,Gillie's Truck Caps,,Buick,51,600,-,0,94
+1990,E,1990_Thomas_Chevrolet_150,1990_09_E,24,11,01,usa,Joey_Kourafas,Joey Kourafas,New England Racing,,Pontiac,44,560,-,0,91
+1990,E,1990_Thomas_Chevrolet_150,1990_09_E,25,22,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive,,Buick,41,550,-,0,88
+1990,E,1990_Thomas_Chevrolet_150,1990_09_E,26,10,06,usa,Ricky_Miller,Ricky Miller,Big A Auto Parts,,Pontiac,29,400,-,0,85
+1990,E,1990_Thomas_Chevrolet_150,1990_09_E,27,9,35,usa,Mike_Weeden,Mike Weeden,All-Pro Auto Parts,,Pontiac,28,400,-,0,82
+1990,E,1990_Thomas_Chevrolet_150,1990_09_E,28,5,25,usa,Ricky_Craven,Ricky Craven,Speedee Oil Change,,Pontiac,15,400,-,0,79
 1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,1,5,41,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn,,Buick,150,7225,running,75,180
 1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,2,2,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,150,2800,running,45,170
 1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,3,4,15,usa,Mike_Rowe,Mike Rowe,O'Connor GMC,,Pontiac,150,2125,running,0,165
@@ -318,46 +318,46 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,6,18,71,usa,Bobby_Dragon,Bobby Dragon,Budweiser,,Pontiac,150,1245,running,0,150
 1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,7,16,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,150,1130,running,0,146
 1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,8,21,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Buick,150,1170,running,0,142
-1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,9,7,25,usa,Ricky_Craven,Ricky Craven,Speedee Oil Change,,Pontiac,149,960,–,0,138
-1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,10,6,9,usa,Joe_Bessey,Joe Bessey,Cola Transport,,Pontiac,149,925,–,0,134
-1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,11,17,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive,,Buick,148,840,–,0,130
-1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,12,19,06,usa,Ricky_Miller,Ricky Miller,Big A Auto Parts,,Pontiac,147,705,–,0,127
-1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,13,9,7,usa,Billy_Clark,Billy Clark,Skoal Bandit,,Pontiac,147,645,–,0,124
+1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,9,7,25,usa,Ricky_Craven,Ricky Craven,Speedee Oil Change,,Pontiac,149,960,-,0,138
+1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,10,6,9,usa,Joe_Bessey,Joe Bessey,Cola Transport,,Pontiac,149,925,-,0,134
+1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,11,17,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive,,Buick,148,840,-,0,130
+1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,12,19,06,usa,Ricky_Miller,Ricky Miller,Big A Auto Parts,,Pontiac,147,705,-,0,127
+1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,13,9,7,usa,Billy_Clark,Billy Clark,Skoal Bandit,,Pontiac,147,645,-,0,124
 1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,14,23,39,usa,Lloyd_Gillie,Lloyd Gillie,Gillie's Truck Caps,,Buick,147,610,running,0,121
-1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,15,15,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,147,660,–,0,118
-1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,16,26,21,usa,Dave_Davis,Dave Davis,Davis Brothers,,Buick,145,530,–,0,115
-1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,17,20,59,usa,Bob_Healey,Bob Healey,Renault Machine & Tool,,Pontiac,142,505,–,0,112
-1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,18,11,33,usa,Ed_St_Angelo_Jr,"Ed St. Angelo, Jr.",St. Angelo Buick / AC Automotive,,Buick,135,485,–,0,109
-1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,19,24,34,usa,David_Smith,David Smith,Smith Racing,,Buick,122,465,–,0,106
+1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,15,15,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,147,660,-,0,118
+1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,16,26,21,usa,Dave_Davis,Dave Davis,Davis Brothers,,Buick,145,530,-,0,115
+1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,17,20,59,usa,Bob_Healey,Bob Healey,Renault Machine & Tool,,Pontiac,142,505,-,0,112
+1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,18,11,33,usa,Ed_St_Angelo_Jr,"Ed St. Angelo, Jr.",St. Angelo Buick / AC Automotive,,Buick,135,485,-,0,109
+1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,19,24,34,usa,David_Smith,David Smith,Smith Racing,,Buick,122,465,-,0,106
 1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,20,25,69,usa,Jeff_Spraker,Jeff Spraker,Loctite,,Oldsmobile,119,445,crash,0,103
-1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,21,8,0,usa,Dick_McCabe,Dick McCabe,Car Connection,,Buick,106,335,–,0,100
-1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,22,13,60,usa,Dale_Shaw,Dale Shaw,R & D Racing & Fabrication,,Pontiac,87,325,–,0,97
-1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,23,22,04,usa,Jay_Currier,Jay Currier,Currier Construction,,Buick,85,325,–,0,94
-1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,24,12,36,usa,Bobby_Gada,Bobby Gada,Bobby Gada,,Pontiac,60,325,–,0,91
+1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,21,8,0,usa,Dick_McCabe,Dick McCabe,Car Connection,,Buick,106,335,-,0,100
+1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,22,13,60,usa,Dale_Shaw,Dale Shaw,R & D Racing & Fabrication,,Pontiac,87,325,-,0,97
+1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,23,22,04,usa,Jay_Currier,Jay Currier,Currier Construction,,Buick,85,325,-,0,94
+1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,24,12,36,usa,Bobby_Gada,Bobby Gada,Bobby Gada,,Pontiac,60,325,-,0,91
 1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,25,1,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Chevrolet,33,325,crash,30,88
-1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,26,10,72,usa,Ken_Bouchard,Ken Bouchard,ADAP Auto Parts,,Pontiac,24,325,–,0,85
+1990,E,1990_All-Pro_Auto_Parts_150,1990_10_E,26,10,72,usa,Ken_Bouchard,Ken Bouchard,ADAP Auto Parts,,Pontiac,24,325,-,0,85
 1990,E,1990_Busch_150_%28July_1%29,1990_11_E,1,5,41,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn,,Buick,150,7125,running,127,180
 1990,E,1990_Busch_150_%28July_1%29,1990_11_E,2,17,35,usa,Mike_Weeden,Mike Weeden,All-Pro Auto Parts,,Pontiac,150,2750,running,0,170
 1990,E,1990_Busch_150_%28July_1%29,1990_11_E,3,6,7,usa,Billy_Clark,Billy Clark,Skoal Bandit / Cumberland Farms,,Pontiac,150,1975,running,0,165
 1990,E,1990_Busch_150_%28July_1%29,1990_11_E,4,11,60,usa,Dale_Shaw,Dale Shaw,R & D Racing & Fabrication,,Pontiac,150,1465,running,0,160
 1990,E,1990_Busch_150_%28July_1%29,1990_11_E,5,3,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,150,1680,running,0,155
 1990,E,1990_Busch_150_%28July_1%29,1990_11_E,6,9,0,usa,Dick_McCabe,Dick McCabe,Car Connection,,Buick,150,1100,running,0,150
-1990,E,1990_Busch_150_%28July_1%29,1990_11_E,7,1,06,usa,Ricky_Miller,Ricky Miller,Big A Auto Parts,,Pontiac,149,1155,–,0,146
-1990,E,1990_Busch_150_%28July_1%29,1990_11_E,8,10,25,usa,Ricky_Craven,Ricky Craven,Speedee Oil Change,,Pontiac,149,995,–,0,142
+1990,E,1990_Busch_150_%28July_1%29,1990_11_E,7,1,06,usa,Ricky_Miller,Ricky Miller,Big A Auto Parts,,Pontiac,149,1155,-,0,146
+1990,E,1990_Busch_150_%28July_1%29,1990_11_E,8,10,25,usa,Ricky_Craven,Ricky Craven,Speedee Oil Change,,Pontiac,149,995,-,0,142
 1990,E,1990_Busch_150_%28July_1%29,1990_11_E,9,16,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,149,935,running,0,138
-1990,E,1990_Busch_150_%28July_1%29,1990_11_E,10,15,59,usa,Bob_Healey,Bob Healey,Renault Machine & Tool,,Pontiac,149,875,–,0,134
+1990,E,1990_Busch_150_%28July_1%29,1990_11_E,10,15,59,usa,Bob_Healey,Bob Healey,Renault Machine & Tool,,Pontiac,149,875,-,0,134
 1990,E,1990_Busch_150_%28July_1%29,1990_11_E,11,24,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Chevrolet,149,765,running,0,130
-1990,E,1990_Busch_150_%28July_1%29,1990_11_E,12,14,21,usa,Dave_Davis,Dave Davis,Davis Brothers,,Buick,149,705,–,0,127
+1990,E,1990_Busch_150_%28July_1%29,1990_11_E,12,14,21,usa,Dave_Davis,Dave Davis,Davis Brothers,,Buick,149,705,-,0,127
 1990,E,1990_Busch_150_%28July_1%29,1990_11_E,13,7,36,usa,Bobby_Gada,Bobby Gada,Gada Racing,,Pontiac,149,645,running,0,124
 1990,E,1990_Busch_150_%28July_1%29,1990_11_E,14,19,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,149,610,running,0,121
-1990,E,1990_Busch_150_%28July_1%29,1990_11_E,15,20,34,usa,David_Smith,David Smith,Smith Racing,,Buick,147,680,–,0,118
-1990,E,1990_Busch_150_%28July_1%29,1990_11_E,16,21,17,usa,Bob_Brunell,Bob Brunell,Bob Brunell,,Buick,147,560,–,0,115
+1990,E,1990_Busch_150_%28July_1%29,1990_11_E,15,20,34,usa,David_Smith,David Smith,Smith Racing,,Buick,147,680,-,0,118
+1990,E,1990_Busch_150_%28July_1%29,1990_11_E,16,21,17,usa,Bob_Brunell,Bob Brunell,Bob Brunell,,Buick,147,560,-,0,115
 1990,E,1990_Busch_150_%28July_1%29,1990_11_E,17,23,5,usa,Barney_McRae,Barney McRae,Jol-Jen,,Pontiac,146,530,running,0,112
 1990,E,1990_Busch_150_%28July_1%29,1990_11_E,18,4,15,usa,Mike_Rowe,Mike Rowe,O'Connor GMC,,Pontiac,136,490,running,0,109
 1990,E,1990_Busch_150_%28July_1%29,1990_11_E,19,18,69,usa,Jeff_Spraker,Jeff Spraker,Loctite,,Pontiac,123,460,running,0,106
 1990,E,1990_Busch_150_%28July_1%29,1990_11_E,20,13,71,usa,Bobby_Dragon,Bobby Dragon,Budweiser,,Pontiac,86,445,engine,0,103
 1990,E,1990_Busch_150_%28July_1%29,1990_11_E,21,22,39,usa,Lloyd_Gillie,Lloyd Gillie,Gillie's Truck Caps,,Buick,84,335,engine,0,100
-1990,E,1990_Busch_150_%28July_1%29,1990_11_E,22,8,01,usa,Joey_Kourafas,Joey Kourafas,New England Racing,,Pontiac,74,325,–,0,97
+1990,E,1990_Busch_150_%28July_1%29,1990_11_E,22,8,01,usa,Joey_Kourafas,Joey Kourafas,New England Racing,,Pontiac,74,325,-,0,97
 1990,E,1990_Busch_150_%28July_1%29,1990_11_E,23,2,72,usa,Ken_Bouchard,Ken Bouchard,ADAP Auto Parts,,Pontiac,56,625,engine,23,94
 1990,E,1990_Busch_150_%28July_1%29,1990_11_E,24,12,4,usa,Wes_Rosner,Wes Rosner,Wes Rosner,,Pontiac,17,325,dnf,0,91
 1990,E,1990_True_Value_Oxford_250,1990_12_E,1,7,63,usa,Chuck_Bown,Chuck Bown   (Busch),Nescafe Classic,,Pontiac,306,51782,running,255,0
@@ -457,32 +457,32 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1990,E,1990_Busch_150_%28July_21%29,1990_14_E,6,15,7,usa,Billy_Clark,Billy Clark,Skoal Bandit / Cumberland Farms,,Pontiac,150,1295,running,0,150
 1990,E,1990_Busch_150_%28July_21%29,1990_14_E,7,7,01,usa,Joey_Kourafas,Joey Kourafas,New England Racing,,Pontiac,150,1205,running,0,146
 1990,E,1990_Busch_150_%28July_21%29,1990_14_E,8,17,41,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn,,Buick,150,1400,running,0,142
-1990,E,1990_Busch_150_%28July_21%29,1990_14_E,9,9,99,usa,Rodney_Arndt,Rodney Arndt,–,,–,150,765,running,0,0
+1990,E,1990_Busch_150_%28July_21%29,1990_14_E,9,9,99,usa,Rodney_Arndt,Rodney Arndt,-,,-,150,765,running,0,0
 1990,E,1990_Busch_150_%28July_21%29,1990_14_E,10,22,69,usa,Jeff_Spraker,Jeff Spraker,Spraker Racing,,Oldsmobile,150,980,running,0,138
 1990,E,1990_Busch_150_%28July_21%29,1990_14_E,11,6,49,usa,Ed_Ferree,Ed Ferree,Ferree Chevrolet,,Pontiac,150,650,running,0,134
-1990,E,1990_Busch_150_%28July_21%29,1990_14_E,12,24,85,usa,Manley_Vosburgh,Manley Vosburgh,–,,–,148,600,–,0,0
-1990,E,1990_Busch_150_%28July_21%29,1990_14_E,13,3,65,usa,Dean_Chrystal,Dean Chrystal,Dean Chrystal,,Chevrolet,147,550,–,0,130
-1990,E,1990_Busch_150_%28July_21%29,1990_14_E,14,23,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive,,Buick,143,500,–,0,127
-1990,E,1990_Busch_150_%28July_21%29,1990_14_E,15,4,17,usa,Art_Clark,Art Clark,–,,–,142,845,–,0,0
+1990,E,1990_Busch_150_%28July_21%29,1990_14_E,12,24,85,usa,Manley_Vosburgh,Manley Vosburgh,-,,-,148,600,-,0,0
+1990,E,1990_Busch_150_%28July_21%29,1990_14_E,13,3,65,usa,Dean_Chrystal,Dean Chrystal,Dean Chrystal,,Chevrolet,147,550,-,0,130
+1990,E,1990_Busch_150_%28July_21%29,1990_14_E,14,23,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive,,Buick,143,500,-,0,127
+1990,E,1990_Busch_150_%28July_21%29,1990_14_E,15,4,17,usa,Art_Clark,Art Clark,-,,-,142,845,-,0,0
 1990,E,1990_Busch_150_%28July_21%29,1990_14_E,16,11,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Chevrolet,131,610,engine,0,124
-1990,E,1990_Busch_150_%28July_21%29,1990_14_E,17,21,54,usa,Buck_Catalano,Buck Catalano,–,,–,123,460,–,0,0
-1990,E,1990_Busch_150_%28July_21%29,1990_14_E,18,20,28,usa,Eldon_King,Eldon King,–,,–,118,450,–,0,0
-1990,E,1990_Busch_150_%28July_21%29,1990_14_E,19,10,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,116,715,–,0,121
-1990,E,1990_Busch_150_%28July_21%29,1990_14_E,20,13,91,usa,Dave_Heitzhaus,Dave Heitzhaus,–,,–,112,430,–,0,0
-1990,E,1990_Busch_150_%28July_21%29,1990_14_E,21,25,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Pontiac,67,670,–,0,118
-1990,E,1990_Busch_150_%28July_21%29,1990_14_E,22,19,00,usa,Tom_Keyes,Tom Keyes,–,,–,57,410,–,0,0
-1990,E,1990_Busch_150_%28July_21%29,1990_14_E,23,18,86,usa,Gary_Schwab,Gary Schwab,Perry's Ice Cream,,Oldsmobile,51,400,–,0,0
-1990,E,1990_Busch_150_%28July_21%29,1990_14_E,24,12,66,canada,Dean_Ferri,Dean Ferri,Dean Ferri,,Pontiac,42,400,–,0,0
-1990,E,1990_Busch_150_%28July_21%29,1990_14_E,25,26,71,usa,Danny_Knoll,Danny Knoll,–,,–,22,400,–,0,0
-1990,E,1990_Busch_150_%28July_21%29,1990_14_E,26,8,60,usa,Dale_Shaw,Dale Shaw,R & D Racing & Fabrication,,Pontiac,19,400,–,0,115
-1990,E,1990_Busch_150_%28July_21%29,1990_14_E,27,27,15,usa,Dave_Gould,Dave Gould,–,,–,0,400,–,0,112
+1990,E,1990_Busch_150_%28July_21%29,1990_14_E,17,21,54,usa,Buck_Catalano,Buck Catalano,-,,-,123,460,-,0,0
+1990,E,1990_Busch_150_%28July_21%29,1990_14_E,18,20,28,usa,Eldon_King,Eldon King,-,,-,118,450,-,0,0
+1990,E,1990_Busch_150_%28July_21%29,1990_14_E,19,10,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,116,715,-,0,121
+1990,E,1990_Busch_150_%28July_21%29,1990_14_E,20,13,91,usa,Dave_Heitzhaus,Dave Heitzhaus,-,,-,112,430,-,0,0
+1990,E,1990_Busch_150_%28July_21%29,1990_14_E,21,25,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Pontiac,67,670,-,0,118
+1990,E,1990_Busch_150_%28July_21%29,1990_14_E,22,19,00,usa,Tom_Keyes,Tom Keyes,-,,-,57,410,-,0,0
+1990,E,1990_Busch_150_%28July_21%29,1990_14_E,23,18,86,usa,Gary_Schwab,Gary Schwab,Perry's Ice Cream,,Oldsmobile,51,400,-,0,0
+1990,E,1990_Busch_150_%28July_21%29,1990_14_E,24,12,66,canada,Dean_Ferri,Dean Ferri,Dean Ferri,,Pontiac,42,400,-,0,0
+1990,E,1990_Busch_150_%28July_21%29,1990_14_E,25,26,71,usa,Danny_Knoll,Danny Knoll,-,,-,22,400,-,0,0
+1990,E,1990_Busch_150_%28July_21%29,1990_14_E,26,8,60,usa,Dale_Shaw,Dale Shaw,R & D Racing & Fabrication,,Pontiac,19,400,-,0,115
+1990,E,1990_Busch_150_%28July_21%29,1990_14_E,27,27,15,usa,Dave_Gould,Dave Gould,-,,-,0,400,-,0,112
 1990,E,1990_Snap-On_Tools_100,1990_15_E,1,3,15,usa,Mike_Rowe,Mike Rowe,O'Connor GMC,,Pontiac,120,7775,running,68,180
 1990,E,1990_Snap-On_Tools_100,1990_15_E,2,1,01,usa,Joey_Kourafas,Joey Kourafas,New England Racing,,Pontiac,120,3180,running,0,170
 1990,E,1990_Snap-On_Tools_100,1990_15_E,3,7,41,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn,,Buick,120,2700,running,0,165
 1990,E,1990_Snap-On_Tools_100,1990_15_E,4,6,35,usa,Mike_Weeden,Mike Weeden,Bot-L-Gas,,Pontiac,120,1550,running,0,160
 1990,E,1990_Snap-On_Tools_100,1990_15_E,5,11,19,usa,Ron_Moon,Ron Moon,MAP Racing,,Oldsmobile,120,1125,running,0,155
 1990,E,1990_Snap-On_Tools_100,1990_15_E,6,10,3,usa,Herb_Simpson,Herb Simpson,Hudson Alignment,,Pontiac,120,825,running,0,150
-1990,E,1990_Snap-On_Tools_100,1990_15_E,7,12,22,usa,Tracy_Gordon,Tracy Gordon,–,,Oldsmobile,120,775,running,0,146
+1990,E,1990_Snap-On_Tools_100,1990_15_E,7,12,22,usa,Tracy_Gordon,Tracy Gordon,-,,Oldsmobile,120,775,running,0,146
 1990,E,1990_Snap-On_Tools_100,1990_15_E,8,26,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive,,Buick,120,1145,running,0,142
 1990,E,1990_Snap-On_Tools_100,1990_15_E,9,4,0,usa,Dick_McCabe,Dick McCabe,Car Connection,,Buick,120,885,running,0,138
 1990,E,1990_Snap-On_Tools_100,1990_15_E,10,8,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Chevrolet,120,875,running,0,134
@@ -491,17 +491,17 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1990,E,1990_Snap-On_Tools_100,1990_15_E,13,15,69,usa,Jeff_Spraker,Jeff Spraker,Loctite,,Oldsmobile,120,745,running,0,124
 1990,E,1990_Snap-On_Tools_100,1990_15_E,14,14,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Buick,120,810,running,0,121
 1990,E,1990_Snap-On_Tools_100,1990_15_E,15,2,25,usa,Ricky_Craven,Ricky Craven,Speedee Oil Change,,Pontiac,120,1075,running,52,118
-1990,E,1990_Snap-On_Tools_100,1990_15_E,16,13,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive,,Buick,119,640,–,0,115
+1990,E,1990_Snap-On_Tools_100,1990_15_E,16,13,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive,,Buick,119,640,-,0,115
 1990,E,1990_Snap-On_Tools_100,1990_15_E,17,25,47,usa,Kelly_Moore,Kelly Moore,Maine Lubrication,,Chevrolet,119,605,running,0,112
-1990,E,1990_Snap-On_Tools_100,1990_15_E,18,17,17,usa,Bob_Brunell,Bob Brunell,Bob Brunell,,Pontiac,119,450,–,0,109
-1990,E,1990_Snap-On_Tools_100,1990_15_E,19,16,60,usa,Dale_Shaw,Dale Shaw,R & D Racing & Fabrication,,Pontiac,117,535,–,0,106
-1990,E,1990_Snap-On_Tools_100,1990_15_E,20,9,7,usa,Billy_Clark,Billy Clark,Skoal Bandit / Cumberland Farms,,Pontiac,115,500,–,0,103
-1990,E,1990_Snap-On_Tools_100,1990_15_E,21,24,6,usa,Brad_Kennedy,Brad Kennedy,–,,–,112,350,–,0,100
-1990,E,1990_Snap-On_Tools_100,1990_15_E,22,21,34,usa,David_Smith,David Smith,Smith Racing,,Buick,89,325,–,0,97
-1990,E,1990_Snap-On_Tools_100,1990_15_E,23,20,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,86,400,–,0,94
-1990,E,1990_Snap-On_Tools_100,1990_15_E,24,19,27,usa,Jon_Lizotte,Jon Lizotte,–,,–,30,275,–,0,91
-1990,E,1990_Snap-On_Tools_100,1990_15_E,25,23,06,usa,Ricky_Miller,Ricky Miller,Big A Auto Parts,,Pontiac,30,250,–,0,88
-1990,E,1990_Snap-On_Tools_100,1990_15_E,26,22,38,usa,Dave_Bushley,Dave Bushley,–,,–,2,225,–,0,85
+1990,E,1990_Snap-On_Tools_100,1990_15_E,18,17,17,usa,Bob_Brunell,Bob Brunell,Bob Brunell,,Pontiac,119,450,-,0,109
+1990,E,1990_Snap-On_Tools_100,1990_15_E,19,16,60,usa,Dale_Shaw,Dale Shaw,R & D Racing & Fabrication,,Pontiac,117,535,-,0,106
+1990,E,1990_Snap-On_Tools_100,1990_15_E,20,9,7,usa,Billy_Clark,Billy Clark,Skoal Bandit / Cumberland Farms,,Pontiac,115,500,-,0,103
+1990,E,1990_Snap-On_Tools_100,1990_15_E,21,24,6,usa,Brad_Kennedy,Brad Kennedy,-,,-,112,350,-,0,100
+1990,E,1990_Snap-On_Tools_100,1990_15_E,22,21,34,usa,David_Smith,David Smith,Smith Racing,,Buick,89,325,-,0,97
+1990,E,1990_Snap-On_Tools_100,1990_15_E,23,20,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,86,400,-,0,94
+1990,E,1990_Snap-On_Tools_100,1990_15_E,24,19,27,usa,Jon_Lizotte,Jon Lizotte,-,,-,30,275,-,0,91
+1990,E,1990_Snap-On_Tools_100,1990_15_E,25,23,06,usa,Ricky_Miller,Ricky Miller,Big A Auto Parts,,Pontiac,30,250,-,0,88
+1990,E,1990_Snap-On_Tools_100,1990_15_E,26,22,38,usa,Dave_Bushley,Dave Bushley,-,,-,2,225,-,0,85
 1990,E,1990_Kroger_200,1990_16_E,1,17,31,usa,Steve_Grissom,Steve Grissom   (Busch),Big Mama Meat Snacks,,Oldsmobile,200,11193,running,77,0
 1990,E,1990_Kroger_200,1990_16_E,2,25,75,usa,Ernie_Irvan,Ernie Irvan   (Busch),U-Can-Rent,,Oldsmobile,200,5400,running,0,0
 1990,E,1990_Kroger_200,1990_16_E,3,14,3,usa,Dale_Earnhardt,Dale Earnhardt   (Busch),GM Goodwrench,,Chevrolet,200,3900,running,0,0
@@ -547,26 +547,26 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,7,7,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Chevrolet,150,1005,running,0,146
 1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,8,13,19,usa,Ron_Moon,Ron Moon,Emerson Buick-Pontiac,,Buick,150,725,running,0,142
 1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,9,16,16,usa,Stub_Fadden,Stub Fadden,Fadden Automotive / Patten's Gas,,Buick,149,885,running,0,138
-1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,10,11,9,usa,Joe_Bessey,Joe Bessey,Cola Transport,,Pontiac,149,875,–,0,134
+1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,10,11,9,usa,Joe_Bessey,Joe Bessey,Cola Transport,,Pontiac,149,875,-,0,134
 1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,11,10,72,usa,Ken_Bouchard,Ken Bouchard,ADAP Auto Parts,,Pontiac,149,625,running,0,130
-1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,12,12,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,149,780,–,0,127
+1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,12,12,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,149,780,-,0,127
 1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,13,29,69,usa,Jeff_Spraker,Jeff Spraker,Loctite,,Oldsmobile,148,745,running,0,124
-1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,14,8,0,usa,Dick_McCabe,Dick McCabe,Car Connection,,Buick,148,710,–,0,121
+1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,14,8,0,usa,Dick_McCabe,Dick McCabe,Car Connection,,Buick,148,710,-,0,121
 1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,15,4,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,148,575,running,0,118
-1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,16,22,8,usa,Tom_Bolles,Tom Bolles,Bolles Chrysler-Eagle,,Oldsmobile,148,500,–,0,115
-1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,17,18,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive,,Buick,146,605,–,0,112
-1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,18,28,06,usa,Ricky_Miller,Ricky Miller,Big A Auto Parts,,Pontiac,146,570,–,0,109
-1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,19,24,6,usa,Brad_Kennedy,Brad Kennedy,Fadden Automotive,,Buick,145,425,–,0,106
-1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,20,15,36,usa,Bobby_Gada,Bobby Gada,Gada Racing,,Pontiac,142,500,–,0,103
-1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,21,20,34,usa,David_Smith,David Smith,Smith Racing,,Buick,122,350,–,0,100
-1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,22,14,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Buick,114,325,–,0,97
-1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,23,19,05,usa,Dave_Gould,Dave Gould,Chrysler / Mopar Performance,,Chrysler,100,300,–,0,94
-1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,24,17,17,usa,Bob_Brunell,Bob Brunell,Bakelite,,Pontiac,83,275,–,0,91
-1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,25,21,27,usa,Jon_Lizotte,Jon Lizotte,Lincoln St. Radiator,,Pontiac,82,250,–,0,88
-1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,26,25,38,usa,Dave_Bushley,Dave Bushley,Mainely Heating Oil / Pete's Auto Repair,,Pontiac,39,225,–,0,85
-1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,27,23,3,usa,Herb_Simpson,Herb Simpson,Hudson Alignment,,Pontiac,18,210,–,0,82
-1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,28,26,39,usa,Lloyd_Gillie,Lloyd Gillie,Gillie's Truck Caps,,Buick,10,210,–,0,79
-1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,29,27,60,usa,Dale_Shaw,Dale Shaw,R & D Racing & Fabrication,,Pontiac,1,210,–,0,76
+1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,16,22,8,usa,Tom_Bolles,Tom Bolles,Bolles Chrysler-Eagle,,Oldsmobile,148,500,-,0,115
+1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,17,18,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive,,Buick,146,605,-,0,112
+1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,18,28,06,usa,Ricky_Miller,Ricky Miller,Big A Auto Parts,,Pontiac,146,570,-,0,109
+1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,19,24,6,usa,Brad_Kennedy,Brad Kennedy,Fadden Automotive,,Buick,145,425,-,0,106
+1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,20,15,36,usa,Bobby_Gada,Bobby Gada,Gada Racing,,Pontiac,142,500,-,0,103
+1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,21,20,34,usa,David_Smith,David Smith,Smith Racing,,Buick,122,350,-,0,100
+1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,22,14,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Buick,114,325,-,0,97
+1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,23,19,05,usa,Dave_Gould,Dave Gould,Chrysler / Mopar Performance,,Chrysler,100,300,-,0,94
+1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,24,17,17,usa,Bob_Brunell,Bob Brunell,Bakelite,,Pontiac,83,275,-,0,91
+1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,25,21,27,usa,Jon_Lizotte,Jon Lizotte,Lincoln St. Radiator,,Pontiac,82,250,-,0,88
+1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,26,25,38,usa,Dave_Bushley,Dave Bushley,Mainely Heating Oil / Pete's Auto Repair,,Pontiac,39,225,-,0,85
+1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,27,23,3,usa,Herb_Simpson,Herb Simpson,Hudson Alignment,,Pontiac,18,210,-,0,82
+1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,28,26,39,usa,Lloyd_Gillie,Lloyd Gillie,Gillie's Truck Caps,,Buick,10,210,-,0,79
+1990,E,1990_Maine_Dodge_Dealers_100,1990_17_E,29,27,60,usa,Dale_Shaw,Dale Shaw,R & D Racing & Fabrication,,Pontiac,1,210,-,0,76
 1990,E,1990_ADAP_150,1990_18_E,1,10,25,usa,Ricky_Craven,Ricky Craven,Speedee Oil Change,,Pontiac,160,7575,running,28,180
 1990,E,1990_ADAP_150,1990_18_E,2,8,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,160,3670,running,57,170
 1990,E,1990_ADAP_150,1990_18_E,3,14,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Chevrolet,160,1875,running,0,165
@@ -590,10 +590,10 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1990,E,1990_ADAP_150,1990_18_E,21,5,41,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn,,Buick,93,1060,suspension,14,100
 1990,E,1990_ADAP_150,1990_18_E,22,21,4,usa,Wes_Rosner,Wes Rosner,Wes Rosner,,Pontiac,75,,crash,0,97
 1990,E,1990_ADAP_150,1990_18_E,23,18,59,usa,Bob_Healey,Bob Healey,Renault Machine & Tool,,Pontiac,58,,oil leak,0,94
-1990,E,1990_ADAP_150,1990_18_E,24,26,38,usa,Dave_Bushley,Dave Bushley,–,,–,50,,suspension,0,91
+1990,E,1990_ADAP_150,1990_18_E,24,26,38,usa,Dave_Bushley,Dave Bushley,-,,-,50,,suspension,0,91
 1990,E,1990_ADAP_150,1990_18_E,25,1,0,usa,Dick_McCabe,Dick McCabe,Cates Car Connection,,Buick,47,480,engine,45,88
 1990,E,1990_ADAP_150,1990_18_E,26,22,60,usa,Dale_Shaw,Dale Shaw,R & D Racing & Fabrication,,Pontiac,39,470,crash,0,85
-1990,E,1990_ADAP_150,1990_18_E,27,9,8,usa,Tom_Bolles,Tom Bolles,Edward Bolles,,–,39,,crash,0,82
+1990,E,1990_ADAP_150,1990_18_E,27,9,8,usa,Tom_Bolles,Tom Bolles,Edward Bolles,,-,39,,crash,0,82
 1990,E,1990_ADAP_150,1990_18_E,28,25,3,usa,Herb_Simpson,Herb Simpson,Hudson Alignment,,Pontiac,17,,rear end,0,79
 1990,E,1990_ADAP_150,1990_18_E,29,28,10,usa,Dave_Lind,Dave Lind,Dave Lind Tire & Auto,,Buick,16,,broken shock,0,76
 1990,E,1990_ADAP_150,1990_18_E,30,4,35,usa,Mike_Weeden,Mike Weeden,All-Pro Auto Parts,,Pontiac,10,460,engine,0,73
@@ -609,16 +609,16 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1990,E,1990_ADAP_Auto_Parts_Twin_100s,1990_19_E,10,11,7,usa,Billy_Clark,Billy Clark,Skoal Bandit,,Pontiac,100,725,running,0,134
 1990,E,1990_ADAP_Auto_Parts_Twin_100s,1990_19_E,11,9,36,usa,Bobby_Gada,Bobby Gada,Gada Racing,,Pontiac,100,665,running,0,130
 1990,E,1990_ADAP_Auto_Parts_Twin_100s,1990_19_E,12,17,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Buick,99,630,running,0,127
-1990,E,1990_ADAP_Auto_Parts_Twin_100s,1990_19_E,13,14,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,99,570,–,0,124
-1990,E,1990_ADAP_Auto_Parts_Twin_100s,1990_19_E,14,15,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive,,Buick,99,375,–,0,121
-1990,E,1990_ADAP_Auto_Parts_Twin_100s,1990_19_E,15,16,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,98,550,–,0,118
+1990,E,1990_ADAP_Auto_Parts_Twin_100s,1990_19_E,13,14,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,99,570,-,0,124
+1990,E,1990_ADAP_Auto_Parts_Twin_100s,1990_19_E,14,15,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive,,Buick,99,375,-,0,121
+1990,E,1990_ADAP_Auto_Parts_Twin_100s,1990_19_E,15,16,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,98,550,-,0,118
 1990,E,1990_ADAP_Auto_Parts_Twin_100s,1990_19_E,16,21,69,usa,Jeff_Spraker,Jeff Spraker,Spraker Racing,,Oldsmobile,98,465,running,0,115
-1990,E,1990_ADAP_Auto_Parts_Twin_100s,1990_19_E,17,18,17,usa,Bob_Brunell,Bob Brunell,Bob Brunell,,Pontiac,96,430,–,0,112
-1990,E,1990_ADAP_Auto_Parts_Twin_100s,1990_19_E,18,19,59,usa,Bob_Healey,Bob Healey,Renault Machine & Tool,,Pontiac,94,295,–,0,109
-1990,E,1990_ADAP_Auto_Parts_Twin_100s,1990_19_E,19,3,19,usa,Ron_Moon,Ron Moon,MAP Racing,,Buick,86,290,–,0,106
-1990,E,1990_ADAP_Auto_Parts_Twin_100s,1990_19_E,20,13,35,usa,Mike_Weeden,Mike Weeden,All-Pro Auto Parts,,Pontiac,79,385,–,0,103
-1990,E,1990_ADAP_Auto_Parts_Twin_100s,1990_19_E,21,20,06,usa,Ricky_Miller,Ricky Miller,Big A Auto Parts,,Pontiac,63,275,–,0,100
-1990,E,1990_ADAP_Auto_Parts_Twin_100s,1990_19_E,22,22,4,usa,Wes_Rosner,Wes Rosner,Wes Rosner,,Pontiac,17,250,–,0,97
+1990,E,1990_ADAP_Auto_Parts_Twin_100s,1990_19_E,17,18,17,usa,Bob_Brunell,Bob Brunell,Bob Brunell,,Pontiac,96,430,-,0,112
+1990,E,1990_ADAP_Auto_Parts_Twin_100s,1990_19_E,18,19,59,usa,Bob_Healey,Bob Healey,Renault Machine & Tool,,Pontiac,94,295,-,0,109
+1990,E,1990_ADAP_Auto_Parts_Twin_100s,1990_19_E,19,3,19,usa,Ron_Moon,Ron Moon,MAP Racing,,Buick,86,290,-,0,106
+1990,E,1990_ADAP_Auto_Parts_Twin_100s,1990_19_E,20,13,35,usa,Mike_Weeden,Mike Weeden,All-Pro Auto Parts,,Pontiac,79,385,-,0,103
+1990,E,1990_ADAP_Auto_Parts_Twin_100s,1990_19_E,21,20,06,usa,Ricky_Miller,Ricky Miller,Big A Auto Parts,,Pontiac,63,275,-,0,100
+1990,E,1990_ADAP_Auto_Parts_Twin_100s,1990_19_E,22,22,4,usa,Wes_Rosner,Wes Rosner,Wes Rosner,,Pontiac,17,250,-,0,97
 1990,E,1990_Peak_Antifreeze_125,1990_20_E,1,6,51,usa,Mike_McLaughlin,Mike McLaughlin,Coors Extra Gold,,Oldsmobile,125,19225,running,12,180
 1990,E,1990_Peak_Antifreeze_125,1990_20_E,2,2,41,usa,Jamie_Aube,Jamie Aube,Sand Bar Beach Resort,,Buick,125,11550,running,0,170
 1990,E,1990_Peak_Antifreeze_125,1990_20_E,3,11,72,usa,Ken_Bouchard,Ken Bouchard,ADAP Auto Parts,,Pontiac,125,5650,running,0,165
@@ -673,20 +673,20 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1990,E,1990_ADAP_200,1990_21_E,13,3,15,usa,Mike_Rowe,Mike Rowe,O'Connor GMC,,Pontiac,196,780,running,41,124
 1990,E,1990_ADAP_200,1990_21_E,14,14,13,usa,Ted_Christopher,Ted Christopher,A. Auidi & Sons,,Buick,196,575,running,0,121
 1990,E,1990_ADAP_200,1990_21_E,15,8,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Chevrolet,196,835,running,0,118
-1990,E,1990_ADAP_200,1990_21_E,16,24,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive,,Buick,194,720,–,0,115
-1990,E,1990_ADAP_200,1990_21_E,17,17,17,usa,Bob_Brunell,Bob Brunell,Bob Brunell,,Pontiac,193,695,–,0,112
-1990,E,1990_ADAP_200,1990_21_E,18,25,88,usa,Mike_Perrotte,Mike Perrotte,–,,Oldsmobile,182,540,–,0,109
-1990,E,1990_ADAP_200,1990_21_E,19,19,06,usa,Ricky_Miller,Ricky Miller,Big A Auto Parts / Parker & Plummer,,Pontiac,157,670,–,0,106
+1990,E,1990_ADAP_200,1990_21_E,16,24,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive,,Buick,194,720,-,0,115
+1990,E,1990_ADAP_200,1990_21_E,17,17,17,usa,Bob_Brunell,Bob Brunell,Bob Brunell,,Pontiac,193,695,-,0,112
+1990,E,1990_ADAP_200,1990_21_E,18,25,88,usa,Mike_Perrotte,Mike Perrotte,-,,Oldsmobile,182,540,-,0,109
+1990,E,1990_ADAP_200,1990_21_E,19,19,06,usa,Ricky_Miller,Ricky Miller,Big A Auto Parts / Parker & Plummer,,Pontiac,157,670,-,0,106
 1990,E,1990_ADAP_200,1990_21_E,20,6,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,149,650,running,0,103
-1990,E,1990_ADAP_200,1990_21_E,21,26,18,usa,Larry_Brolsma,Larry Brolsma,Cedar Ridge RV Sales,,Oldsmobile,139,510,–,0,100
-1990,E,1990_ADAP_200,1990_21_E,22,21,12,usa,Dave_Davis,Dave Davis,Davis Brothers,,Buick,135,500,–,0,97
+1990,E,1990_ADAP_200,1990_21_E,21,26,18,usa,Larry_Brolsma,Larry Brolsma,Cedar Ridge RV Sales,,Oldsmobile,139,510,-,0,100
+1990,E,1990_ADAP_200,1990_21_E,22,21,12,usa,Dave_Davis,Dave Davis,Davis Brothers,,Buick,135,500,-,0,97
 1990,E,1990_ADAP_200,1990_21_E,23,29,39,usa,Lloyd_Gillie,Lloyd Gillie,Gillie's Truck Caps,,Buick,115,480,running,0,94
-1990,E,1990_ADAP_200,1990_21_E,24,27,34,usa,David_Smith,David Smith,Smith Racing,,Buick,110,460,–,0,91
-1990,E,1990_ADAP_200,1990_21_E,25,20,19,usa,Ron_Moon,Ron Moon,MAP Racing,,Buick,102,435,–,0,88
-1990,E,1990_ADAP_200,1990_21_E,26,12,89,usa,Gary_Schwab,Gary Schwab,Perry's Ice Cream,,Oldsmobile,71,430,–,0,85
-1990,E,1990_ADAP_200,1990_21_E,27,28,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,65,545,–,0,83
+1990,E,1990_ADAP_200,1990_21_E,24,27,34,usa,David_Smith,David Smith,Smith Racing,,Buick,110,460,-,0,91
+1990,E,1990_ADAP_200,1990_21_E,25,20,19,usa,Ron_Moon,Ron Moon,MAP Racing,,Buick,102,435,-,0,88
+1990,E,1990_ADAP_200,1990_21_E,26,12,89,usa,Gary_Schwab,Gary Schwab,Perry's Ice Cream,,Oldsmobile,71,430,-,0,85
+1990,E,1990_ADAP_200,1990_21_E,27,28,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,65,545,-,0,83
 1990,E,1990_ADAP_200,1990_21_E,28,15,76,usa,Tom_Bolles,Tom Bolles,Edward Bolles,,Oldsmobile,58,400,crash,0,79
-1990,E,1990_ADAP_200,1990_21_E,29,22,66,canada,Dean_Ferri,Dean Ferri,Dean Ferri,,Pontiac,23,400,–,0,76
+1990,E,1990_ADAP_200,1990_21_E,29,22,66,canada,Dean_Ferri,Dean Ferri,Dean Ferri,,Pontiac,23,400,-,0,76
 1990,E,1990_ADAP_200,1990_21_E,30,30,69,usa,Jeff_Spraker,Jeff Spraker,Spraker Racing,,Buick,13,510,transmission,0,73
 1990,E,1990_Ames_Splitfire_200,1990_22_E,1,3,7,usa,Harry_Gant,Harry Gant   (Busch),Skoal,,Buick,200,10975,running,152,0
 1990,E,1990_Ames_Splitfire_200,1990_22_E,2,8,22,usa,Rick_Mast,Rick Mast   (Busch),Raven Boats,,Buick,200,5625,running,3,0
@@ -732,26 +732,26 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1990,E,1990_Bud_150,1990_23_E,2,7,15,usa,Mike_Rowe,Mike Rowe,O'Connor GMC,,Pontiac,150,3000,running,95,170
 1990,E,1990_Bud_150,1990_23_E,3,6,0,usa,Dick_McCabe,Dick McCabe,Cates Car Connection,,Buick,150,2325,running,0,165
 1990,E,1990_Bud_150,1990_23_E,4,24,52,usa,Bruce_Haley,Bruce Haley,Randy's Auto Parts,,Chevrolet,150,1615,running,0,160
-1990,E,1990_Bud_150,1990_23_E,5,21,59,usa,Bob_Healey,Bob Healey,–,,Pontiac,150,1225,running,0,155
+1990,E,1990_Bud_150,1990_23_E,5,21,59,usa,Bob_Healey,Bob Healey,-,,Pontiac,150,1225,running,0,155
 1990,E,1990_Bud_150,1990_23_E,6,3,35,usa,Mike_Weeden,Mike Weeden,All Pro Auto Parts,,Pontiac,150,1255,running,0,150
 1990,E,1990_Bud_150,1990_23_E,7,4,01,usa,Joey_Kourafas,Joey Kourafas,Indy Racing,,Pontiac,150,1145,running,0,146
 1990,E,1990_Bud_150,1990_23_E,8,12,98,usa,Ron_Lamell,Ron Lamell,Lamell Lumber,,Buick,150,1080,running,0,142
 1990,E,1990_Bud_150,1990_23_E,9,10,5,usa,Barney_McRae,Barney McRae,Motion Racing,,Buick,150,970,running,0,138
 1990,E,1990_Bud_150,1990_23_E,10,11,36,usa,Bobby_Gada,Bobby Gada,Gada Racing,,Pontiac,150,935,running,0,134
 1990,E,1990_Bud_150,1990_23_E,11,8,41,usa,Jamie_Aube,Jamie Aube,Lake Morey Inn,,Buick,150,1350,running,0,130
-1990,E,1990_Bud_150,1990_23_E,12,17,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive,,Buick,148,715,–,0,127
-1990,E,1990_Bud_150,1990_23_E,13,23,17,usa,Bob_Brunell,Bob Brunell,Bob Brunell,,Pontiac,148,655,–,0,124
+1990,E,1990_Bud_150,1990_23_E,12,17,61,usa,Mike_Olsen,Mike Olsen,Fadden Automotive,,Buick,148,715,-,0,127
+1990,E,1990_Bud_150,1990_23_E,13,23,17,usa,Bob_Brunell,Bob Brunell,Bob Brunell,,Pontiac,148,655,-,0,124
 1990,E,1990_Bud_150,1990_23_E,14,20,69,usa,Jeff_Spraker,Jeff Spraker,Spraker Racing,,Buick,147,620,running,0,121
-1990,E,1990_Bud_150,1990_23_E,15,13,9,usa,Joe_Bessey,Joe Bessey,Cola Transport,,Pontiac,147,670,–,0,118
-1990,E,1990_Bud_150,1990_23_E,16,14,04,usa,Jay_Currier,Jay Currier,Currier Construction,,Buick,140,390,–,0,115
-1990,E,1990_Bud_150,1990_23_E,17,15,72,usa,Ken_Bouchard,Ken Bouchard,ADAP Auto Parts,,Pontiac,133,525,–,0,112
-1990,E,1990_Bud_150,1990_23_E,18,18,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,116,505,–,0,109
-1990,E,1990_Bud_150,1990_23_E,19,2,7,usa,Billy_Clark,Billy Clark,Skoal Bandit,,Pontiac,87,485,–,0,106
+1990,E,1990_Bud_150,1990_23_E,15,13,9,usa,Joe_Bessey,Joe Bessey,Cola Transport,,Pontiac,147,670,-,0,118
+1990,E,1990_Bud_150,1990_23_E,16,14,04,usa,Jay_Currier,Jay Currier,Currier Construction,,Buick,140,390,-,0,115
+1990,E,1990_Bud_150,1990_23_E,17,15,72,usa,Ken_Bouchard,Ken Bouchard,ADAP Auto Parts,,Pontiac,133,525,-,0,112
+1990,E,1990_Bud_150,1990_23_E,18,18,16,usa,Stub_Fadden,Stub Fadden,Patten's Gas,,Buick,116,505,-,0,109
+1990,E,1990_Bud_150,1990_23_E,19,2,7,usa,Billy_Clark,Billy Clark,Skoal Bandit,,Pontiac,87,485,-,0,106
 1990,E,1990_Bud_150,1990_23_E,20,5,47,usa,Kelly_Moore,Kelly Moore,Jordan Lumber,,Chevrolet,84,765,oil line,0,103
-1990,E,1990_Bud_150,1990_23_E,21,16,38,usa,Dave_Bushley,Dave Bushley,–,,Pontiac,31,335,–,0,100
-1990,E,1990_Bud_150,1990_23_E,22,22,06,usa,Ricky_Miller,Ricky Miller,Big A Auto Parts / Parker & Plummer,,Pontiac,28,435,–,0,97
-1990,E,1990_Bud_150,1990_23_E,23,9,3,usa,Herb_Simpson,Herb Simpson,Hudson Alignment,,Pontiac,17,425,–,0,94
-1990,E,1990_Bud_150,1990_23_E,24,19,34,usa,David_Smith,David Smith,Smith Racing,,Buick,16,325,–,0,91
+1990,E,1990_Bud_150,1990_23_E,21,16,38,usa,Dave_Bushley,Dave Bushley,-,,Pontiac,31,335,-,0,100
+1990,E,1990_Bud_150,1990_23_E,22,22,06,usa,Ricky_Miller,Ricky Miller,Big A Auto Parts / Parker & Plummer,,Pontiac,28,435,-,0,97
+1990,E,1990_Bud_150,1990_23_E,23,9,3,usa,Herb_Simpson,Herb Simpson,Hudson Alignment,,Pontiac,17,425,-,0,94
+1990,E,1990_Bud_150,1990_23_E,24,19,34,usa,David_Smith,David Smith,Smith Racing,,Buick,16,325,-,0,91
 1990,E,1990_Chevy_Dealers_of_New_England_250,1990_24_E,1,18,22,usa,Rick_Mast,Rick Mast   (Busch),Raven Boats,,Buick,250,27850,running,145,0
 1990,E,1990_Chevy_Dealers_of_New_England_250,1990_24_E,2,35,44,usa,Bobby_Labonte,Bobby Labonte   (Busch),Penrose Firecracker,,Oldsmobile,250,16825,running,0,0
 1990,E,1990_Chevy_Dealers_of_New_England_250,1990_24_E,3,29,51,usa,Mike_McLaughlin,Mike McLaughlin,Coors Extra Gold,,Oldsmobile,250,10995,running,0,165

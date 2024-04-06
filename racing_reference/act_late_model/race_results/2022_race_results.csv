@@ -4,20 +4,20 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2022,AC,2022_Northeast_Classic,2022_01,3,12,91QC,canada,Patrick_Laperle,Patrick Laperle,Frameco,,Ford,50,2050,running,0,102
 2022,AC,2022_Northeast_Classic,2022_01,4,13,04VT,usa,D_J_Shaw,D.J. Shaw,A.H. Fence Co.,,Ford,50,1200,running,0,101
 2022,AC,2022_Northeast_Classic,2022_01,5,2,5ME,usa,Dillon_Moltz,Dillon Moltz,RB Performance,,Chevrolet,50,1275,running,13,104
-2022,AC,2022_Northeast_Classic,2022_01,6,1,19QC,canada,Dany_Trepanier,Dany Trepanier,Trepanier Motorsports,,–,50,1000,running,0,97
+2022,AC,2022_Northeast_Classic,2022_01,6,1,19QC,canada,Dany_Trepanier,Dany Trepanier,Trepanier Motorsports,,-,50,1000,running,0,97
 2022,AC,2022_Northeast_Classic,2022_01,7,25,4ME,usa,Ben_Rowe,Ben Rowe,Richard Moody & Sons,,Ford,50,950,running,0,94
 2022,AC,2022_Northeast_Classic,2022_01,8,10,4NH,usa,Jamie_Swallow_Jr,"Jamie Swallow, Jr.",Swallow & Sons Concrete,,Chevrolet,50,800,running,0,95
-2022,AC,2022_Northeast_Classic,2022_01,9,17,18QC,canada,J_P_Bergeron,J.P. Bergeron,Bergeron Motorsports,,–,50,750,running,0,93
+2022,AC,2022_Northeast_Classic,2022_01,9,17,18QC,canada,J_P_Bergeron,J.P. Bergeron,Bergeron Motorsports,,-,50,750,running,0,93
 2022,AC,2022_Northeast_Classic,2022_01,10,32,04NH,usa,Shawn_Swallow,Shawn Swallow,North Conway Incinerators,,Chevrolet,50,810,running,0,88
 2022,AC,2022_Northeast_Classic,2022_01,11,23,8NH,usa,Connor_McDougal,Connor McDougal,Eleveight Designs,,Chevrolet,50,700,running,0,86
-2022,AC,2022_Northeast_Classic,2022_01,12,22,30RI,usa,Jacob_Burns,Jacob Burns,Burns Motorsports,,–,50,700,running,0,84
+2022,AC,2022_Northeast_Classic,2022_01,12,22,30RI,usa,Jacob_Burns,Jacob Burns,Burns Motorsports,,-,50,700,running,0,84
 2022,AC,2022_Northeast_Classic,2022_01,13,7,27NC,usa,Robby_Gordon_Douglas,Robby Gordon Douglas,East Derry Collision,,Chevrolet,50,700,running,0,82
 2022,AC,2022_Northeast_Classic,2022_01,14,29,3NH,usa,Brenna_Humphrey,Brenna Humphrey,Downforce Motorsports,,Chevrolet,50,700,running,0,80
 2022,AC,2022_Northeast_Classic,2022_01,15,4,58VT,usa,Jimmy_Hebert,Jimmy Hebert,Hebert Excavation,,Ford,43,700,crash,0,81
 2022,AC,2022_Northeast_Classic,2022_01,16,27,36NH,usa,Erick_Sands,Erick Sands,Seacoast Truck & Auto,,Chevrolet,43,700,crash,0,76
 2022,AC,2022_Northeast_Classic,2022_01,17,30,33QC,canada,Remi_Perreault,Remi Perreault,Perreault Motorsports,,Chevrolet,43,700,handling,0,74
 2022,AC,2022_Northeast_Classic,2022_01,18,16,04ME,usa,Jamie_Swallow_Sr,"Jamie Swallow, Sr.",Swallow Motorsports,,Chevrolet,43,700,crash,0,72
-2022,AC,2022_Northeast_Classic,2022_01,19,28,50RI,usa,Michael_Benevides,Michael Benevides,Benevides Motorsports,,–,43,700,handling,0,70
+2022,AC,2022_Northeast_Classic,2022_01,19,28,50RI,usa,Michael_Benevides,Michael Benevides,Benevides Motorsports,,-,43,700,handling,0,70
 2022,AC,2022_Northeast_Classic,2022_01,20,24,45VT,usa,Derek_Ming,Derek Ming,Mitchell Brothers Racing,,Ford,43,700,handling,0,68
 2022,AC,2022_Northeast_Classic,2022_01,21,9,48QC,canada,Raphael_Lessard,Raphael Lessard,Larue Industrial Snowblowers,,Ford,41,700,crash,0,70
 2022,AC,2022_Northeast_Classic,2022_01,22,19,07MA,usa,Woody_Pitkat,Woody Pitkat,Summit Ice,,Ford,41,700,crash,0,66
@@ -26,10 +26,10 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2022,AC,2022_Northeast_Classic,2022_01,25,21,00NH,usa,Jimmy_Renfrew_Jr,"Jimmy Renfrew, Jr.",R&R Public Wholesalers / R&R Race Parts,,Chevrolet,30,700,mechanical,0,60
 2022,AC,2022_Northeast_Classic,2022_01,26,20,15ME,usa,Mike_Hopkins,Mike Hopkins,Port City Racecars / Hopkins Energy,,Chevrolet,29,700,handling,0,62
 2022,AC,2022_Northeast_Classic,2022_01,27,26,49NH,usa,Matt_Anderson,Matt Anderson,Hawthorne Automotive,,Chevrolet,26,700,lug nut,0,60
-2022,AC,2022_Northeast_Classic,2022_01,28,31,03QC,canada,Sebastien_Couture,Sebastien Couture,Couture Motorsports,,–,26,700,mechanical,0,60
+2022,AC,2022_Northeast_Classic,2022_01,28,31,03QC,canada,Sebastien_Couture,Sebastien Couture,Couture Motorsports,,-,26,700,mechanical,0,60
 2022,AC,2022_Northeast_Classic,2022_01,29,18,7NH,usa,Cody_LeBlanc,Cody LeBlanc,Naylen Farms,,Chevrolet,17,700,wiring,0,60
 2022,AC,2022_Northeast_Classic,2022_01,30,6,91CT,usa,Jake_Johnson,Jake Johnson,Jim Morrissette's Oil Burner Service,,Ford,15,700,mechanical,0,62
-2022,AC,2022_Northeast_Classic,2022_01,31,15,21QC,canada,Alexandre_Tardif,Alexandre Tardif,Tardif Motorsports,,–,13,700,crash,0,60
+2022,AC,2022_Northeast_Classic,2022_01,31,15,21QC,canada,Alexandre_Tardif,Alexandre Tardif,Tardif Motorsports,,-,13,700,crash,0,60
 2022,AC,2022_Northeast_Classic,2022_01,32,14,27NH,usa,Cam_Huntress,Cam Huntress,Camaro Heaven,,Chevrolet,0,700,did not start,0,60
 2022,AC,2022_24th_Community_Bank_NA_150,2022_02,1,12,40VT,usa,Nick_Sweet,Nick Sweet,Mansfield Helflight,,Chevrolet,150,3950,running,98,125
 2022,AC,2022_24th_Community_Bank_NA_150,2022_02,2,4,60NH,usa,Derrick_Odonnell,Derrick O'Donnell,The Oil Boys,,Chevrolet,150,1830,running,0,105
@@ -55,7 +55,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2022,AC,2022_24th_Community_Bank_NA_150,2022_02,22,9,62VT,usa,Chip_Grenier,Chip Grenier,REM Development,,Ford,148,540,running,0,68
 2022,AC,2022_24th_Community_Bank_NA_150,2022_02,23,17,04NH,usa,Shawn_Swallow,Shawn Swallow,North Conway Incinerators,,Chevrolet,148,530,running,0,65
 2022,AC,2022_24th_Community_Bank_NA_150,2022_02,24,24,7VT,usa,Cooper_Bouchard,Cooper Bouchard,KAS Inc.,,Ford,148,520,running,0,60
-2022,AC,2022_24th_Community_Bank_NA_150,2022_02,25,22,21QC,canada,Alexandre_Tardif,Alexandre Tardif,Tardif Motorsports,,–,148,510,running,0,60
+2022,AC,2022_24th_Community_Bank_NA_150,2022_02,25,22,21QC,canada,Alexandre_Tardif,Alexandre Tardif,Tardif Motorsports,,-,148,510,running,0,60
 2022,AC,2022_24th_Community_Bank_NA_150,2022_02,26,1,86VT,usa,Marcel_J_Gravel,Marcel J. Gravel,Pete's Equipment Sales & Rentals,,Toyota,132,500,handling,52,65
 2022,AC,2022_24th_Community_Bank_NA_150,2022_02,27,27,7NH,usa,Cody_LeBlanc,Cody LeBlanc,Naylen Farms,,Chevrolet,88,500,ignition,0,60
 2022,AC,2022_24th_Community_Bank_NA_150,2022_02,28,16,91QC,canada,Patrick_Laperle,Patrick Laperle,Frameco,,Ford,49,500,handling,0,60

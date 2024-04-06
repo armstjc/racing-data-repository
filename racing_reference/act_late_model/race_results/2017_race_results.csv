@@ -36,7 +36,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2017,AC,2017_Spring_Green_116,2017_02,6,12,9NH,usa,Kyle_Welch,Kyle Welch,Peterboro Tool,,Chevrolet,117,600,running,0,99
 2017,AC,2017_Spring_Green_116,2017_02,7,4,19QC,canada,Dany_Trepanier,Dany Trepanier,JC-7 Signature,,Ford,117,600,running,55,80
 2017,AC,2017_Spring_Green_116,2017_02,8,25,97NH,usa,Joey_Polewarczyk_Jr,"Joey Polewarczyk, Jr.",Pole's Automotive,,Ford,117,600,running,0,67
-2017,AC,2017_Spring_Green_116,2017_02,9,16,4VT,usa,Chris_Riendeau,Chris Riendeau,Riendeau Motorsports,,–,117,530,running,0,67
+2017,AC,2017_Spring_Green_116,2017_02,9,16,4VT,usa,Chris_Riendeau,Chris Riendeau,Riendeau Motorsports,,-,117,530,running,0,67
 2017,AC,2017_Spring_Green_116,2017_02,10,7,54VT,usa,Mike_Ziter,Mike Ziter,Jeffords Steel & Engineering,,Chevrolet,117,570,running,0,88
 2017,AC,2017_Spring_Green_116,2017_02,11,23,16VT,usa,Scott_Dragon,Scott Dragon,Richard Green Trucking,,Chevrolet,117,510,running,0,87
 2017,AC,2017_Spring_Green_116,2017_02,12,17,0NH,usa,Miles_Chipman,Miles Chipman,Racer Parts NH,,Chevrolet,117,525,running,0,84
@@ -58,7 +58,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2017,AC,2017_Community_Bank_150,2017_03,1,12,37VT,usa,Scott_Payea,Scott Payea,Harrison Concrete & Redi-Mix,,Dodge,150,3400,running,22,118
 2017,AC,2017_Community_Bank_150,2017_03,2,10,28ME,usa,Rowland_Robinson_Jr,"Rowland Robinson, Jr.",Camp Pickled,,Ford,150,2570,running,0,104
 2017,AC,2017_Community_Bank_150,2017_03,3,9,5CT,usa,Dillon_Moltz,Dillon Moltz,RB Performance,,Chevrolet,150,1225,running,2,107
-2017,AC,2017_Community_Bank_150,2017_03,4,7,40VT,usa,Nick_Sweet,Nick Sweet,Chase Motorsports,,–,150,1000,running,0,101
+2017,AC,2017_Community_Bank_150,2017_03,4,7,40VT,usa,Nick_Sweet,Nick Sweet,Chase Motorsports,,-,150,1000,running,0,101
 2017,AC,2017_Community_Bank_150,2017_03,5,22,38VT,usa,Tyler_Cahoon,Tyler Cahoon,Berlin Optical Expressions,,Chevrolet,150,1025,running,0,98
 2017,AC,2017_Community_Bank_150,2017_03,6,8,66VT,usa,Jason_Corliss,Jason Corliss,Burnett Scrap Metals,,Ford,149,800,crash,0,97
 2017,AC,2017_Community_Bank_150,2017_03,7,11,16VT,usa,Scott_Dragon,Scott Dragon,Richard Green Trucking,,Chevrolet,149,800,running,0,97
@@ -67,7 +67,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2017,AC,2017_Community_Bank_150,2017_03,10,4,58VT,usa,Jimmy_Hebert,Jimmy Hebert,Hebert Excavation,,Chevrolet,135,750,running,0,88
 2017,AC,2017_Community_Bank_150,2017_03,11,1,5VT,usa,Bobby_Therrien,Bobby Therrien,Maplewood,,Chevrolet,128,680,crash,126,100
 2017,AC,2017_Community_Bank_150,2017_03,12,6,54VT,usa,Mike_Ziter,Mike Ziter,Jeffords Steel & Engineering,,Chevrolet,127,685,handling,0,88
-2017,AC,2017_Community_Bank_150,2017_03,13,20,27VT,usa,Kyle_Pembroke,Kyle Pembroke,Pembroke Motorsports,,–,126,640,crash,0,82
+2017,AC,2017_Community_Bank_150,2017_03,13,20,27VT,usa,Kyle_Pembroke,Kyle Pembroke,Pembroke Motorsports,,-,126,640,crash,0,82
 2017,AC,2017_Community_Bank_150,2017_03,14,13,04VT,usa,Eric_Badore,Eric Badore,A.H. Fence,,Chevrolet,108,620,handling,0,82
 2017,AC,2017_Community_Bank_150,2017_03,15,21,9NH,usa,Kyle_Welch,Kyle Welch,Peterboro Tool,,Chevrolet,106,610,handling,0,78
 2017,AC,2017_Community_Bank_150,2017_03,16,23,82MA,usa,Mark_Hudson,Mark Hudson,MH Enterprises,,Chevrolet,83,600,handling,0,76
@@ -210,7 +210,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2017,AC,2017_Labor_Day_Classic,2017_08,21,10,41QC,canada,Jonathan_Bouvrette,Jonathan Bouvrette,Moto Illimetee,,Ford,174,460,handling,0,70
 2017,AC,2017_Labor_Day_Classic,2017_08,22,21,77MA,usa,Jimmy_Linardy,Jimmy Linardy,Kayem Hot Dogs,,Chevrolet,159,440,electrical,0,64
 2017,AC,2017_Labor_Day_Classic,2017_08,23,2,5VT,usa,Bobby_Therrien,Bobby Therrien,Casella,,Chevrolet,157,420,suspension,53,70
-2017,AC,2017_Labor_Day_Classic,2017_08,24,9,9VT,usa,Chip_Grenier,Chip Grenier,Grenier Motorsports,,–,109,400,handling,0,37
+2017,AC,2017_Labor_Day_Classic,2017_08,24,9,9VT,usa,Chip_Grenier,Chip Grenier,Grenier Motorsports,,-,109,400,handling,0,37
 2017,AC,2017_Labor_Day_Classic,2017_08,25,17,42VT,usa,Matt_White,Matt White,White's Heating,,Chevrolet,84,400,suspension,0,35
 2017,AC,2017_Labor_Day_Classic,2017_08,26,13,27VT,usa,Kyle_Pembroke,Kyle Pembroke,Bay State Financial,,Chevrolet,0,400,ignition,0,37
 2017,AC,2017_World_Series_75,2017_09,1,5,17MA,usa,Eddie_MacDonald_(2),Eddie MacDonald,Hancock Electric,,Chevrolet,75,2675,running,60,99

@@ -5,11 +5,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1926,UO,1926_Carl_G_Fisher_Trophy_Race,1926_01,4,6,6,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,240,,running,0,90
 1926,UO,1926_Carl_G_Fisher_Trophy_Race,1926_01,5,5,16,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,240,,running,0,55
 1926,UO,1926_Carl_G_Fisher_Trophy_Race,1926_01,6,12,17,usa,Earl_DeVore,Earl DeVore,Nickel Plate / Miller,,Miller / Miller SC,240,,running,51,35
-1926,UO,1926_Carl_G_Fisher_Trophy_Race,1926_01,7,18,35,usa,Ben_Jones,Ben Jones,Duesenberg,,Duesenberg / Duesenberg SC,–,,running,0,25
-1926,UO,1926_Carl_G_Fisher_Trophy_Race,1926_01,8,11,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,–,,running,0,15
-1926,UO,1926_Carl_G_Fisher_Trophy_Race,1926_01,9,10,23,usa,Dave_Evans,Dave Evans,Duesenberg,,Duesenberg / Duesenberg SC,–,,running,0,10
-1926,UO,1926_Carl_G_Fisher_Trophy_Race,1926_01,10,2,12,usa,Leon_Duray,Leon Duray,Miller,,Miller / Miller SC,–,,magneto,125,
-1926,UO,1926_Carl_G_Fisher_Trophy_Race,1926_01,11,14,15,usa,Peter_Kreis,Peter Kreis,Miller,,Miller / Miller SC,–,,dnf,0,
+1926,UO,1926_Carl_G_Fisher_Trophy_Race,1926_01,7,18,35,usa,Ben_Jones,Ben Jones,Duesenberg,,Duesenberg / Duesenberg SC,-,,running,0,25
+1926,UO,1926_Carl_G_Fisher_Trophy_Race,1926_01,8,11,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,-,,running,0,15
+1926,UO,1926_Carl_G_Fisher_Trophy_Race,1926_01,9,10,23,usa,Dave_Evans,Dave Evans,Duesenberg,,Duesenberg / Duesenberg SC,-,,running,0,10
+1926,UO,1926_Carl_G_Fisher_Trophy_Race,1926_01,10,2,12,usa,Leon_Duray,Leon Duray,Miller,,Miller / Miller SC,-,,magneto,125,
+1926,UO,1926_Carl_G_Fisher_Trophy_Race,1926_01,11,14,15,usa,Peter_Kreis,Peter Kreis,Miller,,Miller / Miller SC,-,,dnf,0,
 1926,UO,1926_Carl_G_Fisher_Trophy_Race,1926_01,12,9,14,usa,Jerry_Wonderlich,Jerry Wonderlich,Miller,,Miller / Miller SC,88,,dnf,0,
 1926,UO,1926_Carl_G_Fisher_Trophy_Race,1926_01,13,17,19,usa,Zeke_Meyer,Zeke Meyer,Miller,,Miller / Miller SC,78,,dnf,0,
 1926,UO,1926_Carl_G_Fisher_Trophy_Race,1926_01,14,8,8,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,52,,engine,0,
@@ -27,7 +27,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1926,UO,1926_Culver_City_Race,1926_02,8,13,8,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,200,,running,0,15
 1926,UO,1926_Culver_City_Race,1926_02,9,14,9,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve / Miller,,Miller / Miller SC,200,,running,0,10
 1926,UO,1926_Culver_City_Race,1926_02,10,5,12,usa,Leon_Duray,Leon Duray,Miller,,Miller / Miller SC,200,,running,16,5
-1926,UO,1926_Culver_City_Race,1926_02,11,2,15,usa,Peter_Kreis,Peter Kreis,Miller,,Miller / Miller SC,–,,running,2,
+1926,UO,1926_Culver_City_Race,1926_02,11,2,15,usa,Peter_Kreis,Peter Kreis,Miller,,Miller / Miller SC,-,,running,2,
 1926,UO,1926_Culver_City_Race,1926_02,12,1,4,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,179,,supercharger,1,
 1926,UO,1926_Culver_City_Race,1926_02,13,3,7,usa,Dave_Lewis,Dave Lewis,Miller,,Miller FD / Miller SC,93,,water leak,68,
 1926,UO,1926_Culver_City_Race,1926_02,14,7,14,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,64,,steering gear,0,
@@ -49,22 +49,22 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1926,UO,1926_Atlantic_City_Race,1926_03,14,16,8,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,28,,oil pressure,0,
 1926,UO,1926_Atlantic_City_Race,1926_03,15,15,27,russia,Baron_de_Rachewsky,Baron de Rachewsky,Bugatti,,Bugatti / Bugatti,11,,engine,0,
 1926,UO,1926_Atlantic_City_Race,1926_03,16,6,6,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,6,,connecting rod,0,
-1926,UO,1926_Charlotte_Race,1926_04,1,4,17,usa,Earl_DeVore,Earl DeVore,Nickel Plate / Miller,,Miller / Miller SC,200,,running,–,500
-1926,UO,1926_Charlotte_Race,1926_04,2,1,3,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,200,,running,–,260
-1926,UO,1926_Charlotte_Race,1926_04,3,6,14,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,200,,running,–,140
-1926,UO,1926_Charlotte_Race,1926_04,4,14,11,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,200,,running,–,80
-1926,UO,1926_Charlotte_Race,1926_04,5,11,6,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,200,,running,–,50
-1926,UO,1926_Charlotte_Race,1926_04,6,16,41,usa,Zeke_Meyer,Zeke Meyer,Miller,,Miller / Miller SC,188,,running,–,35
-1926,UO,1926_Charlotte_Race,1926_04,7,7,15,usa,Peter_Kreis,Peter Kreis,Miller,,Miller FD / Miller SC,183,,running,–,25
-1926,UO,1926_Charlotte_Race,1926_04,8,5,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,154,,running,–,15
-1926,UO,1926_Charlotte_Race,1926_04,9,9,9,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve,,Miller / Miller SC,143,,valve,–,
-1926,UO,1926_Charlotte_Race,1926_04,10,13,35,usa,Ben_Jones,Ben Jones,Duesenberg,,Duesenberg / Duesenberg SC,115,,running,–,10
-1926,UO,1926_Charlotte_Race,1926_04,11,2,16,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,93,,supercharger,–,
-1926,UO,1926_Charlotte_Race,1926_04,12,10,4,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,61,,supercharger,–,
-1926,UO,1926_Charlotte_Race,1926_04,13,8,28,usa,Dave_Evans,Dave Evans,Duesenberg,,Duesenberg / Duesenberg SC,39,,valve,–,
-1926,UO,1926_Charlotte_Race,1926_04,14,3,1,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,24,,oil leak,–,
-1926,UO,1926_Charlotte_Race,1926_04,15,15,2,usa,Eddie_Hearne,Eddie Hearne,Duesenberg,,Duesenberg / Duesenberg SC,7,,crankshaft,–,
-1926,UO,1926_Charlotte_Race,1926_04,16,12,5,usa,Ralph_Hepburn,Ralph Hepburn,Locomobile Junior 8,,Fengler / Locomobile SC,5,,head gasket,–,
+1926,UO,1926_Charlotte_Race,1926_04,1,4,17,usa,Earl_DeVore,Earl DeVore,Nickel Plate / Miller,,Miller / Miller SC,200,,running,-,500
+1926,UO,1926_Charlotte_Race,1926_04,2,1,3,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,200,,running,-,260
+1926,UO,1926_Charlotte_Race,1926_04,3,6,14,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,200,,running,-,140
+1926,UO,1926_Charlotte_Race,1926_04,4,14,11,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,200,,running,-,80
+1926,UO,1926_Charlotte_Race,1926_04,5,11,6,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,200,,running,-,50
+1926,UO,1926_Charlotte_Race,1926_04,6,16,41,usa,Zeke_Meyer,Zeke Meyer,Miller,,Miller / Miller SC,188,,running,-,35
+1926,UO,1926_Charlotte_Race,1926_04,7,7,15,usa,Peter_Kreis,Peter Kreis,Miller,,Miller FD / Miller SC,183,,running,-,25
+1926,UO,1926_Charlotte_Race,1926_04,8,5,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,154,,running,-,15
+1926,UO,1926_Charlotte_Race,1926_04,9,9,9,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve,,Miller / Miller SC,143,,valve,-,
+1926,UO,1926_Charlotte_Race,1926_04,10,13,35,usa,Ben_Jones,Ben Jones,Duesenberg,,Duesenberg / Duesenberg SC,115,,running,-,10
+1926,UO,1926_Charlotte_Race,1926_04,11,2,16,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,93,,supercharger,-,
+1926,UO,1926_Charlotte_Race,1926_04,12,10,4,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,61,,supercharger,-,
+1926,UO,1926_Charlotte_Race,1926_04,13,8,28,usa,Dave_Evans,Dave Evans,Duesenberg,,Duesenberg / Duesenberg SC,39,,valve,-,
+1926,UO,1926_Charlotte_Race,1926_04,14,3,1,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,24,,oil leak,-,
+1926,UO,1926_Charlotte_Race,1926_04,15,15,2,usa,Eddie_Hearne,Eddie Hearne,Duesenberg,,Duesenberg / Duesenberg SC,7,,crankshaft,-,
+1926,UO,1926_Charlotte_Race,1926_04,16,12,5,usa,Ralph_Hepburn,Ralph Hepburn,Locomobile Junior 8,,Fengler / Locomobile SC,5,,head gasket,-,
 1926,UO,1926_International_500,1926_05,1,20,15,usa,Frank_Lockhart,Frank Lockhart,Miller,,Miller / Miller SC,160,35600,running,95,
 1926,UO,1926_International_500,1926_05,2,2,3,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,158,13900,running,6,
 1926,UO,1926_International_500,1926_05,3,14,36,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve,,Miller / Miller SC,158,6700,running,0,
@@ -110,96 +110,96 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1926,UO,1926_Altoona_Race_1,1926_06,15,14,17,usa,Earl_DeVore,Earl DeVore,Altoona / Miller,,Miller / Miller SC,16,,oil line,0,
 1926,UO,1926_Altoona_Race_1,1926_06,16,16,32,uk,Jack_Foley,Jack Foley,Duesenberg,,Duesenberg / Duesenberg SC,15,,valve,0,
 1926,UO,1926_Altoona_Race_1,1926_06,17,17,34,usa,Dan_O,Dan O'Brien,Miller,,Miller / Miller SC,9,,overheating,0,
-1926,UO,1926_Independence_Day_Classic_Preliminary,1926_07,1,1,1,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,40,,running,–,100
-1926,UO,1926_Independence_Day_Classic_Preliminary,1926_07,2,4,3,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,40,,running,–,55
-1926,UO,1926_Independence_Day_Classic_Preliminary,1926_07,3,2,9,usa,Ralph_Hepburn,Ralph Hepburn,Miller,,Miller / Miller SC,40,,running,–,30
-1926,UO,1926_Independence_Day_Classic_Preliminary,1926_07,4,5,6,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,40,,running,–,20
-1926,UO,1926_Independence_Day_Classic_Preliminary,1926_07,5,8,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,39,,running,–,10
-1926,UO,1926_Independence_Day_Classic_Preliminary,1926_07,6,3,5,usa,Earl_Cooper,Earl Cooper,Miller,,Miller FD / Miller SC,22,,engine,–,
-1926,UO,1926_Independence_Day_Classic_Preliminary,1926_07,7,7,10,usa,Phil_Shafer,Phil Shafer,Miller,,Miller / Miller SC,15,,steering gear,–,
-1926,UO,1926_Independence_Day_Classic_Preliminary,1926_07,8,8,17,usa,Earl_DeVore,Earl DeVore,Miller,,Miller / Miller SC,12,,connecting rod,–,
-1926,UO,1926_Independence_Day_Classic_Main,1926_08,1,6,5,usa,Earl_Cooper,Earl Cooper,Miller,,Miller FD / Miller SC,160,,running,–,400
-1926,UO,1926_Independence_Day_Classic_Main,1926_08,2,3,16,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,160,,running,–,210
-1926,UO,1926_Independence_Day_Classic_Main,1926_08,3,1,1,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,160,,running,–,110
-1926,UO,1926_Independence_Day_Classic_Main,1926_08,4,4,8,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,160,,running,–,21
-1926,UO,1926_Independence_Day_Classic_Main,1926_08,5,7,6,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,160,,running,–,40
-1926,UO,1926_Independence_Day_Classic_Main,1926_08,6,11,14,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,160,,running,–,25
-1926,UO,1926_Independence_Day_Classic_Main,1926_08,7,13,31,usa,Wade_Morton,Wade Morton,Miller,,Miller / Miller SC,160,,running,–,15
-1926,UO,1926_Independence_Day_Classic_Main,1926_08,8,14,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,156,,running,–,10
-1926,UO,1926_Independence_Day_Classic_Main,1926_08,9,9,10,usa,Phil_Shafer,Phil Shafer,Miller,,Miller / Miller SC,146,,running,–,
-1926,UO,1926_Independence_Day_Classic_Main,1926_08,10,12,4,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,117,,steering,–,
-1926,UO,1926_Independence_Day_Classic_Main,1926_08,11,17,29,usa,Ben_Jones,Ben Jones,Duesenberg,,Duesenberg / Duesenberg SC,93,,carburetor,–,
-1926,UO,1926_Independence_Day_Classic_Main,1926_08,12,10,12,usa,Harlan_Fengler,Harlan Fengler,Locomobile Junior 8,,Fengler / Locomobile SC,77,,supercharger,–,
-1926,UO,1926_Independence_Day_Classic_Main,1926_08,13,15,24,canada,John_Duff,John Duff,Elcar,,Miller / Miller SC,64,,crash,–,
-1926,UO,1926_Independence_Day_Classic_Main,1926_08,14,2,7,usa,Dave_Lewis,Dave Lewis,Miller,,Miller FD / Miller SC,54,,valve,–,
-1926,UO,1926_Independence_Day_Classic_Main,1926_08,15,5,18,usa,Eddie_Hearne,Eddie Hearne,Locomobile Junior 8,,Fengler / Locomobile SC,37,,oil pump,–,
-1926,UO,1926_Independence_Day_Classic_Main,1926_08,16,18,28,usa,Dave_Evans,Dave Evans,Duesenberg,,Duesenberg / Duesenberg SC,24,,supercharger,–,
-1926,UO,1926_Independence_Day_Classic_Main,1926_08,17,8,34,usa,Dan_O,Dan O'Brien,Miller,,Miller / Miller SC,22,,supercharger,–,
-1926,UO,1926_Independence_Day_Classic_Main,1926_08,18,16,33,usa,Thane_Houser,Thane Houser,Miller,,Miller / Miller SC,13,,smoking,–,
-1926,UO,1926_Sesquicentennial_Classic_Heat_1,1926_09,1,–,3,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,40,,running,–,120
-1926,UO,1926_Sesquicentennial_Classic_Heat_1,1926_09,2,–,16,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,40,,running,–,70
-1926,UO,1926_Sesquicentennial_Classic_Heat_1,1926_09,3,–,18,usa,Eddie_Hearne,Eddie Hearne,Locomobile Junior 8,,Fengler / Locomobile SC,40,,running,–,40
-1926,UO,1926_Sesquicentennial_Classic_Heat_1,1926_09,4,–,15,usa,Frank_Lockhart,Frank Lockhart,Miller,,Miller / Miller SC,40,,running,–,25
-1926,UO,1926_Sesquicentennial_Classic_Heat_1,1926_09,5,–,10,usa,Phil_Shafer,Phil Shafer,Miller,,Miller / Miller SC,39,,running,–,15
-1926,UO,1926_Sesquicentennial_Classic_Heat_1,1926_09,6,–,28,usa,Dave_Evans,Dave Evans,Duesenberg,,Duesenberg / Duesenberg SC,37,,running,–,
-1926,UO,1926_Sesquicentennial_Classic_Heat_1,1926_09,7,–,7,usa,Dave_Lewis,Dave Lewis,Miller,,Miller FD / Miller SC,29,,connecting rod,–,
-1926,UO,1926_Sesquicentennial_Classic_Heat_1,1926_09,8,–,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,22,,camshaft,–,
-1926,UO,1926_Sesquicentennial_Classic_Heat_1,1926_09,9,–,36,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve,,Miller / Miller SC,15,,spark plugs,–,
-1926,UO,1926_Sesquicentennial_Classic_Heat_1,1926_09,10,–,31,uk,E_A_D_Eldridge,E.A.D. Eldridge,Miller,,Miller / Miller SC,10,,valve,–,
-1926,UO,1926_Sesquicentennial_Classic_Heat_1,1926_09,11,–,4,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,4,,valve,–,
-1926,UO,1926_Sesquicentennial_Classic_Heat_2,1926_10,1,–,14,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,40,,running,–,120
-1926,UO,1926_Sesquicentennial_Classic_Heat_2,1926_10,2,–,6,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,40,,running,–,70
-1926,UO,1926_Sesquicentennial_Classic_Heat_2,1926_10,3,–,35,usa,Ben_Jones,Ben Jones,Duesenberg,,Duesenberg / Duesenberg SC,38,,running,–,40
-1926,UO,1926_Sesquicentennial_Classic_Heat_2,1926_10,4,–,1,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,18,,valve,–,
-1926,UO,1926_Sesquicentennial_Classic_Heat_2,1926_10,5,–,17,usa,Earl_DeVore,Earl DeVore,Nickel Plate / Miller,,Miller / Miller SC,16,,supercharger,–,
-1926,UO,1926_Sesquicentennial_Classic_Heat_2,1926_10,6,–,5,usa,Earl_Cooper,Earl Cooper,Miller,,Miller FD / Miller SC,8,,oil leak,–,
-1926,UO,1926_Sesquicentennial_Classic_Heat_2,1926_10,7,–,9,usa,Ralph_Hepburn,Ralph Hepburn,Miller,,Miller / Miller SC,7,,engine,–,
-1926,UO,1926_Sesquicentennial_Classic_Heat_2,1926_10,8,–,12,usa,Harlan_Fengler,Harlan Fengler,Locomobile Junior 8,,Fengler / Locomobile SC,4,,spark plugs,–,
-1926,UO,1926_Sesquicentennial_Classic_Heat_2,1926_10,9,–,8,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,4,,spark plugs,–,
-1926,UO,1926_Sesquicentennial_Classic_Heat_2,1926_10,10,–,34,usa,Dan_O,Dan O'Brien,Miller,,Miller / Miller SC,2,,piston,–,
-1926,UO,1926_Sesquicentennial_Classic_Semi,1926_11,1,–,8,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,40,,running,–,120
-1926,UO,1926_Sesquicentennial_Classic_Semi,1926_11,2,–,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,40,,running,–,70
-1926,UO,1926_Sesquicentennial_Classic_Semi,1926_11,3,–,36,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve,,Miller / Miller SC,40,,running,–,40
-1926,UO,1926_Sesquicentennial_Classic_Semi,1926_11,4,–,12,usa,Harlan_Fengler,Harlan Fengler,Locomobile Junior 8,,Fengler / Locomobile SC,40,,running,–,25
-1926,UO,1926_Sesquicentennial_Classic_Semi,1926_11,5,–,5,usa,Earl_Cooper,Earl Cooper,Miller,,Miller FD / Miller SC,27,,running,–,15
-1926,UO,1926_Sesquicentennial_Classic_Semi,1926_11,6,–,9,usa,Ralph_Hepburn,Ralph Hepburn,Miller,,Miller / Miller SC,13,,oil line,–,
-1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,1,–,3,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,80,,running,–,240
-1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,2,–,8,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,80,,running,–,140
-1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,3,–,14,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,80,,running,–,80
-1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,4,–,10,usa,Phil_Shafer,Phil Shafer,Miller,,Miller / Miller SC,80,,running,–,50
-1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,5,–,36,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve,,Miller / Miller SC,80,,running,–,30
-1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,6,–,12,usa,Harlan_Fengler,Harlan Fengler,Locomobile Junior 8,,Fengler / Locomobile SC,80,,running,–,20
-1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,7,–,28,usa,Dave_Evans,Dave Evans,Duesenberg,,Duesenberg / Duesenberg SC,80,,running,–,10
-1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,8,–,6,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,–,,dnf,–,
-1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,9,–,35,usa,Ben_Jones,Ben Jones,Duesenberg,,Duesenberg / Duesenberg SC,72,,supercharger,–,
-1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,10,–,15,usa,Frank_Lockhart,Frank Lockhart,Miller,,Miller / Miller SC,59,,oil line,–,
-1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,11,–,16,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,19,,supercharger,–,
-1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,12,–,5,usa,Earl_Cooper,Earl Cooper,Miller,,Miller FD / Miller SC,12,,bearing,–,
-1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,13,–,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,4,,valve,–,
-1926,UO,1926_Charlotte_Heat_1,1926_13,1,2,5,usa,Earl_Cooper,Earl Cooper,Miller,,Miller FD / Miller SC,20,,running,–,50
-1926,UO,1926_Charlotte_Heat_1,1926_13,2,7,27,usa,Frank_Lockhart,Frank Lockhart,Miller,,Miller / Miller SC,20,,running,–,25
-1926,UO,1926_Charlotte_Heat_1,1926_13,3,1,4,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,20,,running,–,15
-1926,UO,1926_Charlotte_Heat_1,1926_13,4,3,6,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,20,,running,–,10
-1926,UO,1926_Charlotte_Heat_1,1926_13,5,6,14,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,19,,running,–,5
-1926,UO,1926_Charlotte_Heat_1,1926_13,6,8,1,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,9,,valve,–,
-1926,UO,1926_Charlotte_Heat_1,1926_13,7,4,8,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,5,,supercharger,–,
-1926,UO,1926_Charlotte_Heat_1,1926_13,8,5,12,usa,Harlan_Fengler,Harlan Fengler,Locomobile Junior 8,,Fengler / Locomobile SC,4,,valve,–,
-1926,UO,1926_Charlotte_Heat_2,1926_14,1,–,7,usa,Dave_Lewis,Dave Lewis,Miller,,Miller FD / Miller SC,20,,running,6,50
-1926,UO,1926_Charlotte_Heat_2,1926_14,2,–,16,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,20,,running,3,25
-1926,UO,1926_Charlotte_Heat_2,1926_14,3,–,3,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,20,,running,1,15
-1926,UO,1926_Charlotte_Heat_2,1926_14,4,–,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,20,,running,0,10
-1926,UO,1926_Charlotte_Heat_2,1926_14,5,–,36,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve,,Miller / Miller SC,20,,running,10,5
-1926,UO,1926_Charlotte_Heat_2,1926_14,6,–,17,usa,Earl_DeVore,Earl DeVore,Nickel Plate / Miller,,Miller / Miller SC,6,,air pressure,0,
-1926,UO,1926_Charlotte_Heat_2,1926_14,7,–,18,usa,Eddie_Hearne,Eddie Hearne,Locomobile Junior 8,,Fengler / Locomobile SC,6,,manifold,0,
-1926,UO,1926_Charlotte_Semi,1926_15,1,–,27,usa,Frank_Lockhart,Frank Lockhart,Miller,,Miller / Miller SC,40,,running,21,100
-1926,UO,1926_Charlotte_Semi,1926_15,2,–,3,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,40,,running,14,55
-1926,UO,1926_Charlotte_Semi,1926_15,3,–,36,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve,,Miller / Miller SC,40,,running,0,30
-1926,UO,1926_Charlotte_Semi,1926_15,4,–,6,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,39,,running,0,20
-1926,UO,1926_Charlotte_Semi,1926_15,5,–,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,32,,running,0,10
-1926,UO,1926_Charlotte_Semi,1926_15,6,–,4,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,24,,valve,0,
-1926,UO,1926_Charlotte_Semi,1926_15,7,–,14,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,17,,overheating,0,
-1926,UO,1926_Charlotte_Semi,1926_15,8,–,35,usa,Ben_Jones,Ben Jones,Duesenberg,,Duesenberg / Duesenberg SC,6,,supercharger,0,
-1926,UO,1926_Charlotte_Semi,1926_15,9,–,5,usa,Earl_Cooper,Earl Cooper,Miller,,Miller FD / Miller SC,6,,radiator,5,
+1926,UO,1926_Independence_Day_Classic_Preliminary,1926_07,1,1,1,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,40,,running,-,100
+1926,UO,1926_Independence_Day_Classic_Preliminary,1926_07,2,4,3,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,40,,running,-,55
+1926,UO,1926_Independence_Day_Classic_Preliminary,1926_07,3,2,9,usa,Ralph_Hepburn,Ralph Hepburn,Miller,,Miller / Miller SC,40,,running,-,30
+1926,UO,1926_Independence_Day_Classic_Preliminary,1926_07,4,5,6,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,40,,running,-,20
+1926,UO,1926_Independence_Day_Classic_Preliminary,1926_07,5,8,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,39,,running,-,10
+1926,UO,1926_Independence_Day_Classic_Preliminary,1926_07,6,3,5,usa,Earl_Cooper,Earl Cooper,Miller,,Miller FD / Miller SC,22,,engine,-,
+1926,UO,1926_Independence_Day_Classic_Preliminary,1926_07,7,7,10,usa,Phil_Shafer,Phil Shafer,Miller,,Miller / Miller SC,15,,steering gear,-,
+1926,UO,1926_Independence_Day_Classic_Preliminary,1926_07,8,8,17,usa,Earl_DeVore,Earl DeVore,Miller,,Miller / Miller SC,12,,connecting rod,-,
+1926,UO,1926_Independence_Day_Classic_Main,1926_08,1,6,5,usa,Earl_Cooper,Earl Cooper,Miller,,Miller FD / Miller SC,160,,running,-,400
+1926,UO,1926_Independence_Day_Classic_Main,1926_08,2,3,16,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,160,,running,-,210
+1926,UO,1926_Independence_Day_Classic_Main,1926_08,3,1,1,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,160,,running,-,110
+1926,UO,1926_Independence_Day_Classic_Main,1926_08,4,4,8,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,160,,running,-,21
+1926,UO,1926_Independence_Day_Classic_Main,1926_08,5,7,6,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,160,,running,-,40
+1926,UO,1926_Independence_Day_Classic_Main,1926_08,6,11,14,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,160,,running,-,25
+1926,UO,1926_Independence_Day_Classic_Main,1926_08,7,13,31,usa,Wade_Morton,Wade Morton,Miller,,Miller / Miller SC,160,,running,-,15
+1926,UO,1926_Independence_Day_Classic_Main,1926_08,8,14,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,156,,running,-,10
+1926,UO,1926_Independence_Day_Classic_Main,1926_08,9,9,10,usa,Phil_Shafer,Phil Shafer,Miller,,Miller / Miller SC,146,,running,-,
+1926,UO,1926_Independence_Day_Classic_Main,1926_08,10,12,4,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,117,,steering,-,
+1926,UO,1926_Independence_Day_Classic_Main,1926_08,11,17,29,usa,Ben_Jones,Ben Jones,Duesenberg,,Duesenberg / Duesenberg SC,93,,carburetor,-,
+1926,UO,1926_Independence_Day_Classic_Main,1926_08,12,10,12,usa,Harlan_Fengler,Harlan Fengler,Locomobile Junior 8,,Fengler / Locomobile SC,77,,supercharger,-,
+1926,UO,1926_Independence_Day_Classic_Main,1926_08,13,15,24,canada,John_Duff,John Duff,Elcar,,Miller / Miller SC,64,,crash,-,
+1926,UO,1926_Independence_Day_Classic_Main,1926_08,14,2,7,usa,Dave_Lewis,Dave Lewis,Miller,,Miller FD / Miller SC,54,,valve,-,
+1926,UO,1926_Independence_Day_Classic_Main,1926_08,15,5,18,usa,Eddie_Hearne,Eddie Hearne,Locomobile Junior 8,,Fengler / Locomobile SC,37,,oil pump,-,
+1926,UO,1926_Independence_Day_Classic_Main,1926_08,16,18,28,usa,Dave_Evans,Dave Evans,Duesenberg,,Duesenberg / Duesenberg SC,24,,supercharger,-,
+1926,UO,1926_Independence_Day_Classic_Main,1926_08,17,8,34,usa,Dan_O,Dan O'Brien,Miller,,Miller / Miller SC,22,,supercharger,-,
+1926,UO,1926_Independence_Day_Classic_Main,1926_08,18,16,33,usa,Thane_Houser,Thane Houser,Miller,,Miller / Miller SC,13,,smoking,-,
+1926,UO,1926_Sesquicentennial_Classic_Heat_1,1926_09,1,-,3,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,40,,running,-,120
+1926,UO,1926_Sesquicentennial_Classic_Heat_1,1926_09,2,-,16,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,40,,running,-,70
+1926,UO,1926_Sesquicentennial_Classic_Heat_1,1926_09,3,-,18,usa,Eddie_Hearne,Eddie Hearne,Locomobile Junior 8,,Fengler / Locomobile SC,40,,running,-,40
+1926,UO,1926_Sesquicentennial_Classic_Heat_1,1926_09,4,-,15,usa,Frank_Lockhart,Frank Lockhart,Miller,,Miller / Miller SC,40,,running,-,25
+1926,UO,1926_Sesquicentennial_Classic_Heat_1,1926_09,5,-,10,usa,Phil_Shafer,Phil Shafer,Miller,,Miller / Miller SC,39,,running,-,15
+1926,UO,1926_Sesquicentennial_Classic_Heat_1,1926_09,6,-,28,usa,Dave_Evans,Dave Evans,Duesenberg,,Duesenberg / Duesenberg SC,37,,running,-,
+1926,UO,1926_Sesquicentennial_Classic_Heat_1,1926_09,7,-,7,usa,Dave_Lewis,Dave Lewis,Miller,,Miller FD / Miller SC,29,,connecting rod,-,
+1926,UO,1926_Sesquicentennial_Classic_Heat_1,1926_09,8,-,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,22,,camshaft,-,
+1926,UO,1926_Sesquicentennial_Classic_Heat_1,1926_09,9,-,36,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve,,Miller / Miller SC,15,,spark plugs,-,
+1926,UO,1926_Sesquicentennial_Classic_Heat_1,1926_09,10,-,31,uk,E_A_D_Eldridge,E.A.D. Eldridge,Miller,,Miller / Miller SC,10,,valve,-,
+1926,UO,1926_Sesquicentennial_Classic_Heat_1,1926_09,11,-,4,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,4,,valve,-,
+1926,UO,1926_Sesquicentennial_Classic_Heat_2,1926_10,1,-,14,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,40,,running,-,120
+1926,UO,1926_Sesquicentennial_Classic_Heat_2,1926_10,2,-,6,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,40,,running,-,70
+1926,UO,1926_Sesquicentennial_Classic_Heat_2,1926_10,3,-,35,usa,Ben_Jones,Ben Jones,Duesenberg,,Duesenberg / Duesenberg SC,38,,running,-,40
+1926,UO,1926_Sesquicentennial_Classic_Heat_2,1926_10,4,-,1,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,18,,valve,-,
+1926,UO,1926_Sesquicentennial_Classic_Heat_2,1926_10,5,-,17,usa,Earl_DeVore,Earl DeVore,Nickel Plate / Miller,,Miller / Miller SC,16,,supercharger,-,
+1926,UO,1926_Sesquicentennial_Classic_Heat_2,1926_10,6,-,5,usa,Earl_Cooper,Earl Cooper,Miller,,Miller FD / Miller SC,8,,oil leak,-,
+1926,UO,1926_Sesquicentennial_Classic_Heat_2,1926_10,7,-,9,usa,Ralph_Hepburn,Ralph Hepburn,Miller,,Miller / Miller SC,7,,engine,-,
+1926,UO,1926_Sesquicentennial_Classic_Heat_2,1926_10,8,-,12,usa,Harlan_Fengler,Harlan Fengler,Locomobile Junior 8,,Fengler / Locomobile SC,4,,spark plugs,-,
+1926,UO,1926_Sesquicentennial_Classic_Heat_2,1926_10,9,-,8,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,4,,spark plugs,-,
+1926,UO,1926_Sesquicentennial_Classic_Heat_2,1926_10,10,-,34,usa,Dan_O,Dan O'Brien,Miller,,Miller / Miller SC,2,,piston,-,
+1926,UO,1926_Sesquicentennial_Classic_Semi,1926_11,1,-,8,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,40,,running,-,120
+1926,UO,1926_Sesquicentennial_Classic_Semi,1926_11,2,-,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,40,,running,-,70
+1926,UO,1926_Sesquicentennial_Classic_Semi,1926_11,3,-,36,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve,,Miller / Miller SC,40,,running,-,40
+1926,UO,1926_Sesquicentennial_Classic_Semi,1926_11,4,-,12,usa,Harlan_Fengler,Harlan Fengler,Locomobile Junior 8,,Fengler / Locomobile SC,40,,running,-,25
+1926,UO,1926_Sesquicentennial_Classic_Semi,1926_11,5,-,5,usa,Earl_Cooper,Earl Cooper,Miller,,Miller FD / Miller SC,27,,running,-,15
+1926,UO,1926_Sesquicentennial_Classic_Semi,1926_11,6,-,9,usa,Ralph_Hepburn,Ralph Hepburn,Miller,,Miller / Miller SC,13,,oil line,-,
+1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,1,-,3,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,80,,running,-,240
+1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,2,-,8,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,80,,running,-,140
+1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,3,-,14,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,80,,running,-,80
+1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,4,-,10,usa,Phil_Shafer,Phil Shafer,Miller,,Miller / Miller SC,80,,running,-,50
+1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,5,-,36,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve,,Miller / Miller SC,80,,running,-,30
+1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,6,-,12,usa,Harlan_Fengler,Harlan Fengler,Locomobile Junior 8,,Fengler / Locomobile SC,80,,running,-,20
+1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,7,-,28,usa,Dave_Evans,Dave Evans,Duesenberg,,Duesenberg / Duesenberg SC,80,,running,-,10
+1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,8,-,6,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,-,,dnf,-,
+1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,9,-,35,usa,Ben_Jones,Ben Jones,Duesenberg,,Duesenberg / Duesenberg SC,72,,supercharger,-,
+1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,10,-,15,usa,Frank_Lockhart,Frank Lockhart,Miller,,Miller / Miller SC,59,,oil line,-,
+1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,11,-,16,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,19,,supercharger,-,
+1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,12,-,5,usa,Earl_Cooper,Earl Cooper,Miller,,Miller FD / Miller SC,12,,bearing,-,
+1926,UO,1926_Sesquicentennial_Classic_Main,1926_12,13,-,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,4,,valve,-,
+1926,UO,1926_Charlotte_Heat_1,1926_13,1,2,5,usa,Earl_Cooper,Earl Cooper,Miller,,Miller FD / Miller SC,20,,running,-,50
+1926,UO,1926_Charlotte_Heat_1,1926_13,2,7,27,usa,Frank_Lockhart,Frank Lockhart,Miller,,Miller / Miller SC,20,,running,-,25
+1926,UO,1926_Charlotte_Heat_1,1926_13,3,1,4,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,20,,running,-,15
+1926,UO,1926_Charlotte_Heat_1,1926_13,4,3,6,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,20,,running,-,10
+1926,UO,1926_Charlotte_Heat_1,1926_13,5,6,14,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,19,,running,-,5
+1926,UO,1926_Charlotte_Heat_1,1926_13,6,8,1,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,9,,valve,-,
+1926,UO,1926_Charlotte_Heat_1,1926_13,7,4,8,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,5,,supercharger,-,
+1926,UO,1926_Charlotte_Heat_1,1926_13,8,5,12,usa,Harlan_Fengler,Harlan Fengler,Locomobile Junior 8,,Fengler / Locomobile SC,4,,valve,-,
+1926,UO,1926_Charlotte_Heat_2,1926_14,1,-,7,usa,Dave_Lewis,Dave Lewis,Miller,,Miller FD / Miller SC,20,,running,6,50
+1926,UO,1926_Charlotte_Heat_2,1926_14,2,-,16,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,20,,running,3,25
+1926,UO,1926_Charlotte_Heat_2,1926_14,3,-,3,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,20,,running,1,15
+1926,UO,1926_Charlotte_Heat_2,1926_14,4,-,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,20,,running,0,10
+1926,UO,1926_Charlotte_Heat_2,1926_14,5,-,36,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve,,Miller / Miller SC,20,,running,10,5
+1926,UO,1926_Charlotte_Heat_2,1926_14,6,-,17,usa,Earl_DeVore,Earl DeVore,Nickel Plate / Miller,,Miller / Miller SC,6,,air pressure,0,
+1926,UO,1926_Charlotte_Heat_2,1926_14,7,-,18,usa,Eddie_Hearne,Eddie Hearne,Locomobile Junior 8,,Fengler / Locomobile SC,6,,manifold,0,
+1926,UO,1926_Charlotte_Semi,1926_15,1,-,27,usa,Frank_Lockhart,Frank Lockhart,Miller,,Miller / Miller SC,40,,running,21,100
+1926,UO,1926_Charlotte_Semi,1926_15,2,-,3,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,40,,running,14,55
+1926,UO,1926_Charlotte_Semi,1926_15,3,-,36,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve,,Miller / Miller SC,40,,running,0,30
+1926,UO,1926_Charlotte_Semi,1926_15,4,-,6,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,39,,running,0,20
+1926,UO,1926_Charlotte_Semi,1926_15,5,-,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,32,,running,0,10
+1926,UO,1926_Charlotte_Semi,1926_15,6,-,4,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller / Miller SC,24,,valve,0,
+1926,UO,1926_Charlotte_Semi,1926_15,7,-,14,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,17,,overheating,0,
+1926,UO,1926_Charlotte_Semi,1926_15,8,-,35,usa,Ben_Jones,Ben Jones,Duesenberg,,Duesenberg / Duesenberg SC,6,,supercharger,0,
+1926,UO,1926_Charlotte_Semi,1926_15,9,-,5,usa,Earl_Cooper,Earl Cooper,Miller,,Miller FD / Miller SC,6,,radiator,5,
 1926,UO,1926_Charlotte_Semi,1926_15,10,10,7,usa,Dave_Lewis,Dave Lewis,Miller,,Miller FD / Miller SC,0,,did not start,0,
 1926,UO,1926_Charlotte_Main,1926_16,1,6,27,usa,Frank_Lockhart,Frank Lockhart,Miller,,Miller / Miller SC,120,,running,90,300
 1926,UO,1926_Charlotte_Main,1926_16,2,2,6,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,120,,running,1,160
@@ -212,72 +212,72 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1926,UO,1926_Charlotte_Main,1926_16,9,4,36,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve,,Miller / Miller SC,72,,supercharger,0,
 1926,UO,1926_Charlotte_Main,1926_16,10,11,28,usa,Dave_Evans,Dave Evans,Duesenberg,,Duesenberg / Duesenberg SC,11,,engine,0,
 1926,UO,1926_Charlotte_Main,1926_16,11,9,35,usa,Ben_Jones,Ben Jones,Duesenberg,,Duesenberg / Duesenberg SC,2,,supercharger,0,
-1926,UO,1926_Altoona_Race_2,1926_17,1,5,27,usa,Frank_Lockhart,Frank Lockhart,Miller,,Miller / Miller SC,200,,running,–,500
-1926,UO,1926_Altoona_Race_2,1926_17,2,15,15,usa,Peter_Kreis,Peter Kreis,Miller,,Miller FD / Miller SC,200,,running,–,260
-1926,UO,1926_Altoona_Race_2,1926_17,3,6,12,usa,Leon_Duray,Leon Duray,Miller,,Miller FD / Miller SC,200,,running,–,140
-1926,UO,1926_Altoona_Race_2,1926_17,4,1,3,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,200,,running,–,80
-1926,UO,1926_Altoona_Race_2,1926_17,5,16,4,usa,Bob_McDonogh,Bob McDonogh,Duesenberg,,Duesenberg / Duesenberg SC,200,,running,–,50
-1926,UO,1926_Altoona_Race_2,1926_17,6,4,8,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,200,,running,–,35
-1926,UO,1926_Altoona_Race_2,1926_17,7,2,16,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,200,,running,–,25
-1926,UO,1926_Altoona_Race_2,1926_17,8,11,6,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,200,,running,–,15
-1926,UO,1926_Altoona_Race_2,1926_17,9,9,18,usa,Eddie_Hearne,Eddie Hearne,Locomobile Junior 8,,Fengler / Locomobile SC,200,,running,–,10
-1926,UO,1926_Altoona_Race_2,1926_17,10,7,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,–,,running,–,5
-1926,UO,1926_Altoona_Race_2,1926_17,11,8,17,usa,Earl_DeVore,Earl DeVore,Nickel Plate / Miller,,Miller / Miller SC,–,,throttle,–,
-1926,UO,1926_Altoona_Race_2,1926_17,12,10,19,usa,Harlan_Fengler,Harlan Fengler,Locomobile Junior 8,,Fengler / Locomobile SC,114,,engine,–,
-1926,UO,1926_Altoona_Race_2,1926_17,13,17,34,usa,Fred_Lecklider,Fred Lecklider,Miller,,Miller / Miller SC,111,,supercharger,–,
-1926,UO,1926_Altoona_Race_2,1926_17,14,3,7,usa,Dave_Lewis,Dave Lewis,Miller,,Miller FD / Miller SC,55,,fuel tank,–,
-1926,UO,1926_Altoona_Race_2,1926_17,15,13,10,usa,Tony_Gulotta,Tony Gulotta,Miller,,Miller / Miller SC,48,,valve,–,
-1926,UO,1926_Altoona_Race_2,1926_17,16,14,5,usa,Earl_Cooper,Earl Cooper,Miller,,Miller FD / Miller SC,41,,valve,–,
-1926,UO,1926_Altoona_Race_2,1926_17,17,12,36,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve,,Miller / Miller SC,34,,scavenger pump,–,
-1926,UO,1926_Altoona_Race_2,1926_17,18,18,14,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,22,,supercharger,–,
-1926,UO,1926_Rockingham_Heat_1,1926_18,1,–,16,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,20,,running,–,50
-1926,UO,1926_Rockingham_Heat_1,1926_18,2,–,3,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,20,,running,–,25
-1926,UO,1926_Rockingham_Heat_1,1926_18,3,–,27,usa,Frank_Lockhart,Frank Lockhart,Miller,,Miller / Miller SC,20,,running,–,15
-1926,UO,1926_Rockingham_Heat_1,1926_18,4,–,36,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve,,Miller / Miller SC,20,,running,–,10
-1926,UO,1926_Rockingham_Heat_1,1926_18,5,–,7,usa,Dave_Lewis,Dave Lewis,Miller,,Miller FD / Miller SC,20,,running,–,5
-1926,UO,1926_Rockingham_Heat_1,1926_18,6,–,18,usa,Ralph_Hepburn,Ralph Hepburn,Locomobile Junior 8,,Fengler / Locomobile SC,20,,running,–,
-1926,UO,1926_Rockingham_Heat_1,1926_18,7,–,1,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,20,,running,–,
-1926,UO,1926_Rockingham_Heat_1,1926_18,8,–,19,usa,Wade_Morton,Wade Morton,Locomobile Junior 8,,Fengler / Locomobile SC,19,,running,–,
-1926,UO,1926_Rockingham_Heat_1,1926_18,9,–,9,usa,Dave_Evans,Dave Evans,Duesenberg,,Duesenberg / Duesenberg SC,19,,running,–,
-1926,UO,1926_Rockingham_Heat_1,1926_18,10,–,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,19,,running,–,
-1926,UO,1926_Rockingham_Heat_1,1926_18,11,–,12,usa,Leon_Duray,Leon Duray,Miller,,Miller FD / Miller SC,19,,running,–,
-1926,UO,1926_Rockingham_Heat_1,1926_18,12,–,8,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,19,,running,–,
-1926,UO,1926_Rockingham_Heat_1,1926_18,13,–,15,usa,Peter_Kreis,Peter Kreis,Miller,,Miller FD / Miller SC,19,,running,–,
-1926,UO,1926_Rockingham_Heat_1,1926_18,14,–,6,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,19,,running,–,
-1926,UO,1926_Rockingham_Heat_1,1926_18,15,–,5,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller FD / Miller SC,17,,valve,–,
-1926,UO,1926_Rockingham_Heat_1,1926_18,16,–,10,usa,Tony_Gulotta,Tony Gulotta,Miller,,Miller / Miller SC,10,,magneto,–,
-1926,UO,1926_Rockingham_Heat_1,1926_18,17,–,17,usa,Earl_DeVore,Earl DeVore,Nickel Plate / Miller,,Miller / Miller SC,5,,connecting rod,–,
-1926,UO,1926_Rockingham_Heat_1,1926_18,18,–,14,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,3,,spark plug,–,
-1926,UO,1926_Rockingham_Heat_2,1926_19,1,–,12,usa,Leon_Duray,Leon Duray,Miller,,Miller FD / Miller SC,20,,running,20,50
-1926,UO,1926_Rockingham_Heat_2,1926_19,2,–,3,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,20,,running,0,25
-1926,UO,1926_Rockingham_Heat_2,1926_19,3,–,27,usa,Frank_Lockhart,Frank Lockhart,Miller,,Miller / Miller SC,20,,running,0,15
-1926,UO,1926_Rockingham_Heat_2,1926_19,4,–,7,usa,Dave_Lewis,Dave Lewis,Miller,,Miller FD / Miller SC,20,,running,0,10
-1926,UO,1926_Rockingham_Heat_2,1926_19,5,–,16,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,20,,running,0,5
-1926,UO,1926_Rockingham_Heat_2,1926_19,6,–,36,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve,,Miller / Miller SC,20,,running,0,
-1926,UO,1926_Rockingham_Heat_2,1926_19,7,–,9,usa,Dave_Evans,Dave Evans,Duesenberg,,Duesenberg / Duesenberg SC,20,,running,0,
-1926,UO,1926_Rockingham_Heat_2,1926_19,8,–,14,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,20,,running,0,
-1926,UO,1926_Rockingham_Heat_2,1926_19,9,–,1,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,11,,brakes,0,
-1926,UO,1926_Rockingham_Heat_2,1926_19,10,–,15,usa,Peter_Kreis,Peter Kreis,Miller,,Miller FD / Miller SC,4,,spark plugs,0,
-1926,UO,1926_Rockingham_Heat_2,1926_19,11,–,8,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,4,,spark plugs,0,
-1926,UO,1926_Rockingham_Heat_2,1926_19,12,–,6,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,3,,spark plugs,0,
-1926,UO,1926_Rockingham_Heat_2,1926_19,13,–,18,usa,Ralph_Hepburn,Ralph Hepburn,Locomobile Junior 8,,Fengler / Locomobile SC,2,,spark plugs,0,
-1926,UO,1926_Rockingham_Race,1926_20,1,–,3,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,160,,running,91,400
-1926,UO,1926_Rockingham_Race,1926_20,2,–,15,usa,Peter_Kreis,Peter Kreis,Miller,,Miller FD / Miller SC,160,,running,0,210
-1926,UO,1926_Rockingham_Race,1926_20,3,–,12,usa,Leon_Duray,Leon Duray,Miller,,Miller FD / Miller SC,160,,running,0,110
-1926,UO,1926_Rockingham_Race,1926_20,4,–,9,usa,Dave_Evans,Dave Evans,Duesenberg,,Duesenberg / Duesenberg SC,160,,running,0,60
-1926,UO,1926_Rockingham_Race,1926_20,5,–,6,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,160,,running,0,40
-1926,UO,1926_Rockingham_Race,1926_20,6,–,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,160,,running,0,25
-1926,UO,1926_Rockingham_Race,1926_20,7,–,10,usa,Tony_Gulotta,Tony Gulotta,Miller,,Miller / Miller SC,158,,running,0,15
-1926,UO,1926_Rockingham_Race,1926_20,8,–,16,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,156,,running,0,10
-1926,UO,1926_Rockingham_Race,1926_20,9,–,27,usa,Frank_Lockhart,Frank Lockhart,Miller,,Miller / Miller SC,142,,connecting rod,69,
-1926,UO,1926_Rockingham_Race,1926_20,10,–,19,usa,Wade_Morton,Wade Morton,Locomobile Junior 8,,Fengler / Locomobile SC,140,,connecting rod,0,
-1926,UO,1926_Rockingham_Race,1926_20,11,–,18,usa,Ralph_Hepburn,Ralph Hepburn,Locomobile Junior 8,,Fengler / Locomobile SC,108,,valve,0,
-1926,UO,1926_Rockingham_Race,1926_20,12,–,36,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve,,Miller / Miller SC,91,,oil line,0,
-1926,UO,1926_Rockingham_Race,1926_20,13,–,8,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,91,,steering gear,0,
-1926,UO,1926_Rockingham_Race,1926_20,14,–,7,usa,Dave_Lewis,Dave Lewis,Miller,,Miller FD / Miller SC,53,,piston,0,
-1926,UO,1926_Rockingham_Race,1926_20,15,–,14,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,43,,overheating,0,
-1926,UO,1926_Rockingham_Race,1926_20,16,–,1,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,35,,fuel leak,0,
-1926,UO,1926_Rockingham_Race,1926_20,17,–,17,usa,Earl_DeVore,Earl DeVore,Nickel Plate / Miller,,Miller / Miller SC,8,,piston,0,
+1926,UO,1926_Altoona_Race_2,1926_17,1,5,27,usa,Frank_Lockhart,Frank Lockhart,Miller,,Miller / Miller SC,200,,running,-,500
+1926,UO,1926_Altoona_Race_2,1926_17,2,15,15,usa,Peter_Kreis,Peter Kreis,Miller,,Miller FD / Miller SC,200,,running,-,260
+1926,UO,1926_Altoona_Race_2,1926_17,3,6,12,usa,Leon_Duray,Leon Duray,Miller,,Miller FD / Miller SC,200,,running,-,140
+1926,UO,1926_Altoona_Race_2,1926_17,4,1,3,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,200,,running,-,80
+1926,UO,1926_Altoona_Race_2,1926_17,5,16,4,usa,Bob_McDonogh,Bob McDonogh,Duesenberg,,Duesenberg / Duesenberg SC,200,,running,-,50
+1926,UO,1926_Altoona_Race_2,1926_17,6,4,8,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,200,,running,-,35
+1926,UO,1926_Altoona_Race_2,1926_17,7,2,16,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,200,,running,-,25
+1926,UO,1926_Altoona_Race_2,1926_17,8,11,6,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,200,,running,-,15
+1926,UO,1926_Altoona_Race_2,1926_17,9,9,18,usa,Eddie_Hearne,Eddie Hearne,Locomobile Junior 8,,Fengler / Locomobile SC,200,,running,-,10
+1926,UO,1926_Altoona_Race_2,1926_17,10,7,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,-,,running,-,5
+1926,UO,1926_Altoona_Race_2,1926_17,11,8,17,usa,Earl_DeVore,Earl DeVore,Nickel Plate / Miller,,Miller / Miller SC,-,,throttle,-,
+1926,UO,1926_Altoona_Race_2,1926_17,12,10,19,usa,Harlan_Fengler,Harlan Fengler,Locomobile Junior 8,,Fengler / Locomobile SC,114,,engine,-,
+1926,UO,1926_Altoona_Race_2,1926_17,13,17,34,usa,Fred_Lecklider,Fred Lecklider,Miller,,Miller / Miller SC,111,,supercharger,-,
+1926,UO,1926_Altoona_Race_2,1926_17,14,3,7,usa,Dave_Lewis,Dave Lewis,Miller,,Miller FD / Miller SC,55,,fuel tank,-,
+1926,UO,1926_Altoona_Race_2,1926_17,15,13,10,usa,Tony_Gulotta,Tony Gulotta,Miller,,Miller / Miller SC,48,,valve,-,
+1926,UO,1926_Altoona_Race_2,1926_17,16,14,5,usa,Earl_Cooper,Earl Cooper,Miller,,Miller FD / Miller SC,41,,valve,-,
+1926,UO,1926_Altoona_Race_2,1926_17,17,12,36,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve,,Miller / Miller SC,34,,scavenger pump,-,
+1926,UO,1926_Altoona_Race_2,1926_17,18,18,14,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,22,,supercharger,-,
+1926,UO,1926_Rockingham_Heat_1,1926_18,1,-,16,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,20,,running,-,50
+1926,UO,1926_Rockingham_Heat_1,1926_18,2,-,3,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,20,,running,-,25
+1926,UO,1926_Rockingham_Heat_1,1926_18,3,-,27,usa,Frank_Lockhart,Frank Lockhart,Miller,,Miller / Miller SC,20,,running,-,15
+1926,UO,1926_Rockingham_Heat_1,1926_18,4,-,36,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve,,Miller / Miller SC,20,,running,-,10
+1926,UO,1926_Rockingham_Heat_1,1926_18,5,-,7,usa,Dave_Lewis,Dave Lewis,Miller,,Miller FD / Miller SC,20,,running,-,5
+1926,UO,1926_Rockingham_Heat_1,1926_18,6,-,18,usa,Ralph_Hepburn,Ralph Hepburn,Locomobile Junior 8,,Fengler / Locomobile SC,20,,running,-,
+1926,UO,1926_Rockingham_Heat_1,1926_18,7,-,1,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,20,,running,-,
+1926,UO,1926_Rockingham_Heat_1,1926_18,8,-,19,usa,Wade_Morton,Wade Morton,Locomobile Junior 8,,Fengler / Locomobile SC,19,,running,-,
+1926,UO,1926_Rockingham_Heat_1,1926_18,9,-,9,usa,Dave_Evans,Dave Evans,Duesenberg,,Duesenberg / Duesenberg SC,19,,running,-,
+1926,UO,1926_Rockingham_Heat_1,1926_18,10,-,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,19,,running,-,
+1926,UO,1926_Rockingham_Heat_1,1926_18,11,-,12,usa,Leon_Duray,Leon Duray,Miller,,Miller FD / Miller SC,19,,running,-,
+1926,UO,1926_Rockingham_Heat_1,1926_18,12,-,8,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,19,,running,-,
+1926,UO,1926_Rockingham_Heat_1,1926_18,13,-,15,usa,Peter_Kreis,Peter Kreis,Miller,,Miller FD / Miller SC,19,,running,-,
+1926,UO,1926_Rockingham_Heat_1,1926_18,14,-,6,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,19,,running,-,
+1926,UO,1926_Rockingham_Heat_1,1926_18,15,-,5,usa,Bob_McDonogh,Bob McDonogh,Miller,,Miller FD / Miller SC,17,,valve,-,
+1926,UO,1926_Rockingham_Heat_1,1926_18,16,-,10,usa,Tony_Gulotta,Tony Gulotta,Miller,,Miller / Miller SC,10,,magneto,-,
+1926,UO,1926_Rockingham_Heat_1,1926_18,17,-,17,usa,Earl_DeVore,Earl DeVore,Nickel Plate / Miller,,Miller / Miller SC,5,,connecting rod,-,
+1926,UO,1926_Rockingham_Heat_1,1926_18,18,-,14,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,3,,spark plug,-,
+1926,UO,1926_Rockingham_Heat_2,1926_19,1,-,12,usa,Leon_Duray,Leon Duray,Miller,,Miller FD / Miller SC,20,,running,20,50
+1926,UO,1926_Rockingham_Heat_2,1926_19,2,-,3,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,20,,running,0,25
+1926,UO,1926_Rockingham_Heat_2,1926_19,3,-,27,usa,Frank_Lockhart,Frank Lockhart,Miller,,Miller / Miller SC,20,,running,0,15
+1926,UO,1926_Rockingham_Heat_2,1926_19,4,-,7,usa,Dave_Lewis,Dave Lewis,Miller,,Miller FD / Miller SC,20,,running,0,10
+1926,UO,1926_Rockingham_Heat_2,1926_19,5,-,16,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,20,,running,0,5
+1926,UO,1926_Rockingham_Heat_2,1926_19,6,-,36,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve,,Miller / Miller SC,20,,running,0,
+1926,UO,1926_Rockingham_Heat_2,1926_19,7,-,9,usa,Dave_Evans,Dave Evans,Duesenberg,,Duesenberg / Duesenberg SC,20,,running,0,
+1926,UO,1926_Rockingham_Heat_2,1926_19,8,-,14,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,20,,running,0,
+1926,UO,1926_Rockingham_Heat_2,1926_19,9,-,1,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,11,,brakes,0,
+1926,UO,1926_Rockingham_Heat_2,1926_19,10,-,15,usa,Peter_Kreis,Peter Kreis,Miller,,Miller FD / Miller SC,4,,spark plugs,0,
+1926,UO,1926_Rockingham_Heat_2,1926_19,11,-,8,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,4,,spark plugs,0,
+1926,UO,1926_Rockingham_Heat_2,1926_19,12,-,6,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,3,,spark plugs,0,
+1926,UO,1926_Rockingham_Heat_2,1926_19,13,-,18,usa,Ralph_Hepburn,Ralph Hepburn,Locomobile Junior 8,,Fengler / Locomobile SC,2,,spark plugs,0,
+1926,UO,1926_Rockingham_Race,1926_20,1,-,3,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,160,,running,91,400
+1926,UO,1926_Rockingham_Race,1926_20,2,-,15,usa,Peter_Kreis,Peter Kreis,Miller,,Miller FD / Miller SC,160,,running,0,210
+1926,UO,1926_Rockingham_Race,1926_20,3,-,12,usa,Leon_Duray,Leon Duray,Miller,,Miller FD / Miller SC,160,,running,0,110
+1926,UO,1926_Rockingham_Race,1926_20,4,-,9,usa,Dave_Evans,Dave Evans,Duesenberg,,Duesenberg / Duesenberg SC,160,,running,0,60
+1926,UO,1926_Rockingham_Race,1926_20,5,-,6,usa,Frank_Elliott,Frank Elliott,Miller,,Miller / Miller SC,160,,running,0,40
+1926,UO,1926_Rockingham_Race,1926_20,6,-,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,160,,running,0,25
+1926,UO,1926_Rockingham_Race,1926_20,7,-,10,usa,Tony_Gulotta,Tony Gulotta,Miller,,Miller / Miller SC,158,,running,0,15
+1926,UO,1926_Rockingham_Race,1926_20,8,-,16,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,156,,running,0,10
+1926,UO,1926_Rockingham_Race,1926_20,9,-,27,usa,Frank_Lockhart,Frank Lockhart,Miller,,Miller / Miller SC,142,,connecting rod,69,
+1926,UO,1926_Rockingham_Race,1926_20,10,-,19,usa,Wade_Morton,Wade Morton,Locomobile Junior 8,,Fengler / Locomobile SC,140,,connecting rod,0,
+1926,UO,1926_Rockingham_Race,1926_20,11,-,18,usa,Ralph_Hepburn,Ralph Hepburn,Locomobile Junior 8,,Fengler / Locomobile SC,108,,valve,0,
+1926,UO,1926_Rockingham_Race,1926_20,12,-,36,usa,Cliff_Woodbury,Cliff Woodbury,Boyle Valve,,Miller / Miller SC,91,,oil line,0,
+1926,UO,1926_Rockingham_Race,1926_20,13,-,8,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,91,,steering gear,0,
+1926,UO,1926_Rockingham_Race,1926_20,14,-,7,usa,Dave_Lewis,Dave Lewis,Miller,,Miller FD / Miller SC,53,,piston,0,
+1926,UO,1926_Rockingham_Race,1926_20,15,-,14,usa,Norman_Batten,Norman Batten,Miller,,Miller / Miller SC,43,,overheating,0,
+1926,UO,1926_Rockingham_Race,1926_20,16,-,1,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,35,,fuel leak,0,
+1926,UO,1926_Rockingham_Race,1926_20,17,-,17,usa,Earl_DeVore,Earl DeVore,Nickel Plate / Miller,,Miller / Miller SC,8,,piston,0,
 1926,UO,1926_Charlotte_Heat_1_%28November%29,1926_21,1,3,27,usa,Frank_Lockhart,Frank Lockhart,Miller,,Miller / Miller SC,20,,running,18,50
 1926,UO,1926_Charlotte_Heat_1_%28November%29,1926_21,2,1,16,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,20,,running,2,25
 1926,UO,1926_Charlotte_Heat_1_%28November%29,1926_21,3,5,6,usa,Frank_Elliott,Frank Elliott,Locomobile Junior 8,,Miller / Locomobile SC,20,,running,0,15
@@ -290,25 +290,25 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1926,UO,1926_Charlotte_Heat_2_%28November%29,1926_22,4,4,8,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,20,,running,0,10
 1926,UO,1926_Charlotte_Heat_2_%28November%29,1926_22,5,3,1,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,20,,running,0,5
 1926,UO,1926_Charlotte_Heat_2_%28November%29,1926_22,6,5,4,usa,Ralph_Hepburn,Ralph Hepburn,Locomobile Junior 8,,Fengler / Locomobile SC,20,,running,0,
-1926,UO,1926_Charlotte_Semi_%28November%29,1926_23,1,2,3,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,40,,running,–,100
-1926,UO,1926_Charlotte_Semi_%28November%29,1926_23,2,3,12,usa,Leon_Duray,Leon Duray,Miller,,Miller FD / Miller SC,40,,running,–,50
-1926,UO,1926_Charlotte_Semi_%28November%29,1926_23,3,4,7,usa,Dave_Lewis,Dave Lewis,Miller,,Miller FD / Miller SC,40,,running,–,30
-1926,UO,1926_Charlotte_Semi_%28November%29,1926_23,4,1,16,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,40,,running,–,20
-1926,UO,1926_Charlotte_Semi_%28November%29,1926_23,5,6,1,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,40,,running,–,10
-1926,UO,1926_Charlotte_Semi_%28November%29,1926_23,6,9,6,usa,Frank_Elliott,Frank Elliott,Locomobile Junior 8,,Miller / Locomobile SC,40,,running,–,5
-1926,UO,1926_Charlotte_Semi_%28November%29,1926_23,7,11,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,40,,running,–,
-1926,UO,1926_Charlotte_Semi_%28November%29,1926_23,8,10,15,usa,Peter_Kreis,Peter Kreis,Miller,,Miller FD / Miller SC,29,,supercharger,–,
-1926,UO,1926_Charlotte_Semi_%28November%29,1926_23,9,8,4,usa,Ralph_Hepburn,Ralph Hepburn,Locomobile Junior 8,,Fengler / Locomobile SC,26,,fouled plugs,–,
-1926,UO,1926_Charlotte_Semi_%28November%29,1926_23,10,12,61,usa,Louis_Meyer,Louis Meyer,Miller,,Miller / Miller SC,15,,connecting rod,–,
-1926,UO,1926_Charlotte_Semi_%28November%29,1926_23,11,7,8,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,6,,fouled plugs,–,
-1926,UO,1926_Charlotte_Semi_%28November%29,1926_23,12,5,27,usa,Frank_Lockhart,Frank Lockhart,Miller,,Miller / Miller SC,6,,supercharger,–,
-1926,UO,1926_Charlotte_Main_%28November%29,1926_24,1,–,12,usa,Leon_Duray,Leon Duray,Miller,,Miller FD / Miller SC,80,,running,–,200
-1926,UO,1926_Charlotte_Main_%28November%29,1926_24,2,–,6,usa,Frank_Elliott,Frank Elliott,Locomobile Junior 8,,Miller / Locomobile SC,80,,running,–,100
-1926,UO,1926_Charlotte_Main_%28November%29,1926_24,3,–,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,80,,running,–,60
-1926,UO,1926_Charlotte_Main_%28November%29,1926_24,4,–,3,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,79,,running,–,35
-1926,UO,1926_Charlotte_Main_%28November%29,1926_24,5,–,8,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,72,,running,–,20
-1926,UO,1926_Charlotte_Main_%28November%29,1926_24,6,1,16,usa,Frank_Lockhart,Frank Lockhart,Miller,,Miller / Miller SC,44,,valve,–,
-1926,UO,1926_Charlotte_Main_%28November%29,1926_24,7,–,1,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,41,,running,–,10
-1926,UO,1926_Charlotte_Main_%28November%29,1926_24,8,–,7,usa,Dave_Lewis,Dave Lewis,Miller,,Miller FD / Miller SC,38,,clutch,–,
-1926,UO,1926_Charlotte_Main_%28November%29,1926_24,9,–,4,usa,Ralph_Hepburn,Ralph Hepburn,Locomobile Junior 8,,Fengler / Locomobile SC,1,,supercharger,–,
-1926,UO,1926_Charlotte_Main_%28November%29,1926_24,10,10,61,usa,Louis_Meyer,Louis Meyer,Miller,,Miller / Miller SC,0,,did not start,–,
+1926,UO,1926_Charlotte_Semi_%28November%29,1926_23,1,2,3,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,40,,running,-,100
+1926,UO,1926_Charlotte_Semi_%28November%29,1926_23,2,3,12,usa,Leon_Duray,Leon Duray,Miller,,Miller FD / Miller SC,40,,running,-,50
+1926,UO,1926_Charlotte_Semi_%28November%29,1926_23,3,4,7,usa,Dave_Lewis,Dave Lewis,Miller,,Miller FD / Miller SC,40,,running,-,30
+1926,UO,1926_Charlotte_Semi_%28November%29,1926_23,4,1,16,usa,Bennett_Hill,Bennett Hill,Miller,,Miller / Miller SC,40,,running,-,20
+1926,UO,1926_Charlotte_Semi_%28November%29,1926_23,5,6,1,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,40,,running,-,10
+1926,UO,1926_Charlotte_Semi_%28November%29,1926_23,6,9,6,usa,Frank_Elliott,Frank Elliott,Locomobile Junior 8,,Miller / Locomobile SC,40,,running,-,5
+1926,UO,1926_Charlotte_Semi_%28November%29,1926_23,7,11,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,40,,running,-,
+1926,UO,1926_Charlotte_Semi_%28November%29,1926_23,8,10,15,usa,Peter_Kreis,Peter Kreis,Miller,,Miller FD / Miller SC,29,,supercharger,-,
+1926,UO,1926_Charlotte_Semi_%28November%29,1926_23,9,8,4,usa,Ralph_Hepburn,Ralph Hepburn,Locomobile Junior 8,,Fengler / Locomobile SC,26,,fouled plugs,-,
+1926,UO,1926_Charlotte_Semi_%28November%29,1926_23,10,12,61,usa,Louis_Meyer,Louis Meyer,Miller,,Miller / Miller SC,15,,connecting rod,-,
+1926,UO,1926_Charlotte_Semi_%28November%29,1926_23,11,7,8,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,6,,fouled plugs,-,
+1926,UO,1926_Charlotte_Semi_%28November%29,1926_23,12,5,27,usa,Frank_Lockhart,Frank Lockhart,Miller,,Miller / Miller SC,6,,supercharger,-,
+1926,UO,1926_Charlotte_Main_%28November%29,1926_24,1,-,12,usa,Leon_Duray,Leon Duray,Miller,,Miller FD / Miller SC,80,,running,-,200
+1926,UO,1926_Charlotte_Main_%28November%29,1926_24,2,-,6,usa,Frank_Elliott,Frank Elliott,Locomobile Junior 8,,Miller / Locomobile SC,80,,running,-,100
+1926,UO,1926_Charlotte_Main_%28November%29,1926_24,3,-,22,usa,William_Shattuc,William Shattuc,Miller,,Miller / Miller SC,80,,running,-,60
+1926,UO,1926_Charlotte_Main_%28November%29,1926_24,4,-,3,usa,Harry_Hartz,Harry Hartz,Miller,,Miller / Miller SC,79,,running,-,35
+1926,UO,1926_Charlotte_Main_%28November%29,1926_24,5,-,8,usa,Fred_Comer,Fred Comer,Miller,,Miller / Miller SC,72,,running,-,20
+1926,UO,1926_Charlotte_Main_%28November%29,1926_24,6,1,16,usa,Frank_Lockhart,Frank Lockhart,Miller,,Miller / Miller SC,44,,valve,-,
+1926,UO,1926_Charlotte_Main_%28November%29,1926_24,7,-,1,usa,Pete_DePaolo,Pete DePaolo,Duesenberg,,Duesenberg / Duesenberg SC,41,,running,-,10
+1926,UO,1926_Charlotte_Main_%28November%29,1926_24,8,-,7,usa,Dave_Lewis,Dave Lewis,Miller,,Miller FD / Miller SC,38,,clutch,-,
+1926,UO,1926_Charlotte_Main_%28November%29,1926_24,9,-,4,usa,Ralph_Hepburn,Ralph Hepburn,Locomobile Junior 8,,Fengler / Locomobile SC,1,,supercharger,-,
+1926,UO,1926_Charlotte_Main_%28November%29,1926_24,10,10,61,usa,Louis_Meyer,Louis Meyer,Miller,,Miller / Miller SC,0,,did not start,-,

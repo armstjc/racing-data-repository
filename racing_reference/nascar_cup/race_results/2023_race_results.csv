@@ -23,7 +23,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,W,2023_Daytona_500,2023_01,22,10,6,usa,Brad_Keselowski,Brad Keselowski,Nexlizet,Jack_Roush,Ford,211,crash,42,32,1
 2023,W,2023_Daytona_500,2023_01,23,6,2,usa,Austin_Cindric,Austin Cindric,Discount Tire,Roger_Penske,Ford,210,crash,0,29,0
 2023,W,2023_Daytona_500,2023_01,24,22,42,usa,Noah_Gragson,Noah Gragson,Wendy's,Legacy_Motor_Club,Chevrolet,210,running,0,13,0
-2023,W,2023_Daytona_500,2023_01,25,33,54,usa,Ty_Gibbs,Ty Gibbs,Monster Energy – Interstate Batteries,Joe_Gibbs,Toyota,210,running,0,17,0
+2023,W,2023_Daytona_500,2023_01,25,33,54,usa,Ty_Gibbs,Ty Gibbs,Monster Energy - Interstate Batteries,Joe_Gibbs,Toyota,210,running,0,17,0
 2023,W,2023_Daytona_500,2023_01,26,19,21,usa,Harrison_Burton,Harrison Burton,Motorcraft Dex Imaging,Wood_Brothers,Ford,210,running,9,13,0
 2023,W,2023_Daytona_500,2023_01,27,14,38,usa,Todd_Gilliland,Todd Gilliland,gener8tor Skills,Bob_Jenkins,Ford,208,crash,0,15,0
 2023,W,2023_Daytona_500,2023_01,28,11,34,usa,Michael_McDowell,Michael McDowell,Love's Travel Stops,Bob_Jenkins,Ford,208,running,0,21,0
@@ -35,7 +35,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,W,2023_Daytona_500,2023_01,34,21,24,usa,William_Byron,William Byron,RaptorTough.com,Rick_Hendrick,Chevrolet,202,crash,0,7,0
 2023,W,2023_Daytona_500,2023_01,35,30,14,usa,Chase_Briscoe,Chase Briscoe,Mahindra Tractors,Stewart_Haas_Racing,Ford,182,crash,5,2,0
 2023,W,2023_Daytona_500,2023_01,36,20,41,usa,Ryan_Preece,Ryan Preece,HaasTooling.com,Stewart_Haas_Racing,Ford,181,crash,4,11,0
-2023,W,2023_Daytona_500,2023_01,37,25,43,usa,Erik_Jones,Erik Jones,GUNS N’ ROSES,Legacy_Motor_Club,Chevrolet,118,crash,0,1,0
+2023,W,2023_Daytona_500,2023_01,37,25,43,usa,Erik_Jones,Erik Jones,GUNS N' ROSES,Legacy_Motor_Club,Chevrolet,118,crash,0,1,0
 2023,W,2023_Daytona_500,2023_01,38,8,9,usa,Chase_Elliott,Chase Elliott,NAPA Auto Parts,Rick_Hendrick,Chevrolet,118,crash,0,9,0
 2023,W,2023_Daytona_500,2023_01,39,26,45,usa,Tyler_Reddick,Tyler Reddick,Monster Energy,23XI_Racing,Toyota,117,crash,0,1,0
 2023,W,2023_Daytona_500,2023_01,40,37,77,usa,Ty_Dillon,Ty Dillon,Ferris,Spire_Motorsports,Chevrolet,26,engine,0,1,0
@@ -363,7 +363,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,W,2023_GEICO_500,2023_10,29,19,16,usa,A_J_Allmendinger,A.J. Allmendinger,Farmsmart,Matt_Kaulig,Chevrolet,195,crash,0,8,0
 2023,W,2023_GEICO_500,2023_10,30,8,22,usa,Joey_Logano,Joey Logano,Shell PennzoilAutotrader,Roger_Penske,Ford,195,running,3,10,0
 2023,W,2023_GEICO_500,2023_10,31,3,54,usa,Ty_Gibbs,Ty Gibbs,Monster Energy,Joe_Gibbs,Toyota,194,fuel,4,6,0
-2023,W,2023_GEICO_500,2023_10,32,30,42,usa,Noah_Gragson,Noah Gragson,Wendy’s Beef is in the Bag,Legacy_Motor_Club,Chevrolet,189,crash,1,10,0
+2023,W,2023_GEICO_500,2023_10,32,30,42,usa,Noah_Gragson,Noah Gragson,Wendy's Beef is in the Bag,Legacy_Motor_Club,Chevrolet,189,crash,1,10,0
 2023,W,2023_GEICO_500,2023_10,33,9,5,usa,Kyle_Larson,Kyle Larson,HendrickCars.com,Rick_Hendrick,Chevrolet,189,crash,0,10,0
 2023,W,2023_GEICO_500,2023_10,34,16,41,usa,Ryan_Preece,Ryan Preece,Hunt Brothers Pizza,Stewart_Haas_Racing,Ford,189,crash,2,9,0
 2023,W,2023_GEICO_500,2023_10,35,21,34,usa,Michael_McDowell,Michael McDowell,Love's Travel Stops,Bob_Jenkins,Ford,189,running,0,2,0
@@ -850,7 +850,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2023,W,2023_Verizon_200_at_the_Brickyard,2023_24,6,13,14,usa,Chase_Briscoe,Chase Briscoe,HighPoint.com,Stewart_Haas_Racing,Ford,82,running,0,33,0
 2023,W,2023_Verizon_200_at_the_Brickyard,2023_24,7,12,19,usa,Martin_Truex_Jr,Martin Truex Jr,Auto-Owners Insurance,Joe_Gibbs,Toyota,82,running,0,31,0
 2023,W,2023_Verizon_200_at_the_Brickyard,2023_24,8,6,5,usa,Kyle_Larson,Kyle Larson,HendrickCars.com,Rick_Hendrick,Chevrolet,82,running,0,36,0
-2023,W,2023_Verizon_200_at_the_Brickyard,2023_24,9,7,20,usa,Christopher_Bell,Christopher Bell,Rheem / PSC Industries – Johns Manville,Joe_Gibbs,Toyota,82,running,11,32,0
+2023,W,2023_Verizon_200_at_the_Brickyard,2023_24,9,7,20,usa,Christopher_Bell,Christopher Bell,Rheem / PSC Industries - Johns Manville,Joe_Gibbs,Toyota,82,running,11,32,0
 2023,W,2023_Verizon_200_at_the_Brickyard,2023_24,10,8,91,new_zealand,Shane_Van_Gisbergen,Shane Van Gisbergen,Enhance Health,Trackhouse_Racing,Chevrolet,82,running,1,0,0
 2023,W,2023_Verizon_200_at_the_Brickyard,2023_24,11,17,17,usa,Chris_Buescher,Chris Buescher,Castrol Edge,Jack_Roush,Ford,82,running,0,26,0
 2023,W,2023_Verizon_200_at_the_Brickyard,2023_24,12,10,54,usa,Ty_Gibbs,Ty Gibbs,Monster Energy,Joe_Gibbs,Toyota,82,running,0,25,0

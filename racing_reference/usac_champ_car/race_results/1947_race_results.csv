@@ -37,7 +37,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1947,UO,1947_Milwaukee_100_%28June%29,1947_02,6,10,41,usa,Billy_DeVore,Billy DeVore,William Schoof,,Wetteroth / Offy,99,1061,running,0,80
 1947,UO,1947_Milwaukee_100_%28June%29,1947_02,7,5,31,usa,Walt_Brown,Walt Brown,Auto Shippers,,Offy,93,850,running,0,60
 1947,UO,1947_Milwaukee_100_%28June%29,1947_02,8,13,3,usa,Emil_Andres,Emil Andres,Tucker Partners,,Lencki / Lencki,84,850,running,0,50
-1947,UO,1947_Milwaukee_100_%28June%29,1947_02,9,6,27,usa,Myron_Fohr,Myron Fohr,Carl Marchese,,–,82,850,running,0,40
+1947,UO,1947_Milwaukee_100_%28June%29,1947_02,9,6,27,usa,Myron_Fohr,Myron Fohr,Carl Marchese,,-,82,850,running,0,40
 1947,UO,1947_Milwaukee_100_%28June%29,1947_02,10,15,34,usa,Art_Scovell,Art Scovell,Tattersfield,,Alfa Romeo / Alfa Romeo,80,850,running,0,30
 1947,UO,1947_Milwaukee_100_%28June%29,1947_02,11,2,58,usa,Les_Anderson,Les Anderson,Kennedy Tank,,Maserati / Offy,79,637,dnf,2,20
 1947,UO,1947_Milwaukee_100_%28June%29,1947_02,12,4,10,usa,Duke_Dinsmore,Duke Dinsmore,William Schoof,,Wetteroth / Offy,74,637,magneto,0,10
@@ -74,11 +74,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1947,UO,1947_Atlanta_100,1947_04,7,11,41,usa,Billy_DeVore,Billy DeVore,William�Schoof�,,Wetteroth / Offy,77,298,running,0,60
 1947,UO,1947_Atlanta_100,1947_04,8,3,27,usa,Paul_Russo,Paul Russo,Andrews,,Offy,77,298,running,0,15
 1947,UO,1947_Atlanta_100,1947_04,9,6,31,usa,Walt_Brown,Walt Brown,Lou�Rassey�,,Offy,76,298,fire,1,40
-1947,UO,1947_Atlanta_100,1947_04,10,14,45,usa,Buster_Warke,Buster Warke,Fred�Johnstone�,,Offy,–,298,dnf,0,30
-1947,UO,1947_Atlanta_100,1947_04,11,5,10,usa,Duke_Dinsmore,Duke Dinsmore,William�Schoof�,,Wetteroth / Offy,–,224,–,0,20
-1947,UO,1947_Atlanta_100,1947_04,12,1,9,usa,Rex_Mays,Rex Mays,Bowes Seal Fast,,Kurtis / Winfield,–,224,–,0,10
+1947,UO,1947_Atlanta_100,1947_04,10,14,45,usa,Buster_Warke,Buster Warke,Fred�Johnstone�,,Offy,-,298,dnf,0,30
+1947,UO,1947_Atlanta_100,1947_04,11,5,10,usa,Duke_Dinsmore,Duke Dinsmore,William�Schoof�,,Wetteroth / Offy,-,224,-,0,20
+1947,UO,1947_Atlanta_100,1947_04,12,1,9,usa,Rex_Mays,Rex Mays,Bowes Seal Fast,,Kurtis / Winfield,-,224,-,0,10
 1947,UO,1947_Atlanta_100,1947_04,13,2,3,usa,Emil_Andres,Emil Andres,Murrell Belanger,,Adams / Offy,47,168,lost wheel,47,
-1947,UO,1947_Atlanta_100,1947_04,14,9,14,usa,George_Connor,George Connor,Ed Walsh,,Kurtis / Offy,–,168,dnf,0,
+1947,UO,1947_Atlanta_100,1947_04,14,9,14,usa,George_Connor,George Connor,Ed Walsh,,Kurtis / Offy,-,168,dnf,0,
 1947,UO,1947_Bainbridge_100,1947_05,1,5,1,usa,Ted_Horn,Ted Horn,Ted Horn,,Horn / Offy,90,2230,running,37,200
 1947,UO,1947_Bainbridge_100,1947_05,2,3,8,usa,Bill_Holland,Bill Holland,Fred Peters,,Wetteroth / Offy,89,1593,running,31,160
 1947,UO,1947_Bainbridge_100,1947_05,3,11,44,belgium,Charles_Van_Acker,Charles Van Acker,Tucker Partners,,Stevens / Lencki,89,955,running,0,140
@@ -109,7 +109,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1947,UO,1947_Milwaukee_100_%28July%29,1947_06,13,17,25,usa,Jackie_Holmes,Jackie Holmes,Floyd Dreyer,,Dreyer,32,325,oil tank,0,
 1947,UO,1947_Milwaukee_100_%28July%29,1947_06,14,11,31,usa,Walt_Brown,Walt Brown,Auto Shippers,,Offy,31,325,steering,0,
 1947,UO,1947_Milwaukee_100_%28July%29,1947_06,15,7,10,usa,Duke_Dinsmore,Duke Dinsmore,William Schoof,,Wetteroth / Offy,27,292,connecting rod,26,
-1947,UO,1947_Milwaukee_100_%28July%29,1947_06,16,12,42,usa,Myron_Fohr,Myron Fohr,Carl Marchese,,–,20,291,connecting rod,0,
+1947,UO,1947_Milwaukee_100_%28July%29,1947_06,16,12,42,usa,Myron_Fohr,Myron Fohr,Carl Marchese,,-,20,291,connecting rod,0,
 1947,UO,1947_Milwaukee_100_%28July%29,1947_06,17,6,3,usa,Emil_Andres,Emil Andres,Murrell Belanger,,Offy,5,253,piston,0,
 1947,UO,1947_Milwaukee_100_%28July%29,1947_06,18,5,8,usa,Bill_Holland,Bill Holland,Fred Peters,,Wetteroth / Offy,0,223,rear end,0,
 1947,UO,1947_George_Robson_Memorial,1947_07,1,3,16,usa,Tony_Bettenhausen,Tony Bettenhausen,Murrell Belanger,,Stevens / Offy,100,1858,running,92,200
@@ -133,7 +133,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1947,UO,1947_Milwaukee_100_%28August%29,1947_08,4,11,16,usa,Tony_Bettenhausen,Tony Bettenhausen,Murrell Belanger,,Stevens / Offy,100,894,running,0,76.8
 1947,UO,1947_Milwaukee_100_%28August%29,1947_08,5,7,3,usa,Emil_Andres,Emil Andres,Murrell Belanger,,Adams / Offy,100,671,running,79,100
 1947,UO,1947_Milwaukee_100_%28August%29,1947_08,6,16,15,usa,Paul_Russo,Paul Russo,Erwin Wolfe,,Shaw / Offy,100,558,running,0,80
-1947,UO,1947_Milwaukee_100_%28August%29,1947_08,7,5,42,usa,Myron_Fohr,Myron Fohr,Carl Marchese,,–,100,452,running,0,60
+1947,UO,1947_Milwaukee_100_%28August%29,1947_08,7,5,42,usa,Myron_Fohr,Myron Fohr,Carl Marchese,,-,100,452,running,0,60
 1947,UO,1947_Milwaukee_100_%28August%29,1947_08,8,8,8,usa,Bill_Holland,Bill Holland,Fred Peters,,Wetteroth / Offy,100,452,running,0,50
 1947,UO,1947_Milwaukee_100_%28August%29,1947_08,9,15,25,usa,Jackie_Holmes,Jackie Holmes,Floyd Dreyer,,Dreyer,100,452,running,0,40
 1947,UO,1947_Milwaukee_100_%28August%29,1947_08,10,13,44,belgium,Charles_Van_Acker,Charles Van Acker,Tucker Partners,,Stevens / Lencki,100,452,running,0,30
@@ -144,28 +144,28 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1947,UO,1947_Milwaukee_100_%28August%29,1947_08,15,4,31,usa,Walt_Brown,Walt Brown,Auto Shippers,,Offy,40,227,engine,0,
 1947,UO,1947_Milwaukee_100_%28August%29,1947_08,16,9,9,usa,Rex_Mays,Rex Mays,Bowes Seal Fast,,Kurtis / Winfield,17,227,engine,0,
 1947,UO,1947_Milwaukee_100_%28August%29,1947_08,17,12,41,usa,Walt_Ader,Walt Ader,William Schoof,,Wetteroth / Offy,10,168,engine,0,
-1947,UO,1947_Pikes_Peak_Hill_Climb,1947_09,1,–,25,usa,Louis_Unser,Louis Unser,Richard Cott,,Maserati / Maserati,1,4900,running,1,200
+1947,UO,1947_Pikes_Peak_Hill_Climb,1947_09,1,-,25,usa,Louis_Unser,Louis Unser,Richard Cott,,Maserati / Maserati,1,4900,running,1,200
 1947,UO,1947_Pikes_Peak_Hill_Climb,1947_09,2,1,9,usa,Al_Rogers,Al Rogers,Joe Coniff,,Offy,1,2910,running,0,160
 1947,UO,1947_Pikes_Peak_Hill_Climb,1947_09,3,4,60,usa,Russ_Snowberger,Russ Snowberger,Village Inn,,McDowell,1,1540,running,0,140
 1947,UO,1947_Pikes_Peak_Hill_Climb,1947_09,4,5,7,usa,J_C_Shoemaker,J.C. Shoemaker,J.C.�Shoemaker,,Miller,1,870,running,0,120
 1947,UO,1947_Pikes_Peak_Hill_Climb,1947_09,5,3,5,usa,Johnny_Mauro,Johnny Mauro,Filcoolator,,McDowell,1,600,running,0,100
-1947,UO,1947_Pikes_Peak_Hill_Climb,1947_09,6,–,35,usa,Bill_Milliken,Bill Milliken,Bill�Milliken,,Bugatti / Bugatti,1,330,running,0,80
-1947,UO,1947_Pikes_Peak_Hill_Climb,1947_09,7,–,43,usa,Delmar_Desch,Delmar Desch,Bernhard,,Chevrolet,0,60,overheating,0,60
+1947,UO,1947_Pikes_Peak_Hill_Climb,1947_09,6,-,35,usa,Bill_Milliken,Bill Milliken,Bill�Milliken,,Bugatti / Bugatti,1,330,running,0,80
+1947,UO,1947_Pikes_Peak_Hill_Climb,1947_09,7,-,43,usa,Delmar_Desch,Delmar Desch,Bernhard,,Chevrolet,0,60,overheating,0,60
 1947,UO,1947_Pikes_Peak_Hill_Climb,1947_09,8,6,6,usa,Hugh_Thomas,Hugh Thomas,Brandimore,,Ford V8,0,50,out of water,0,50
 1947,UO,1947_Pikes_Peak_Hill_Climb,1947_09,9,2,31,usa,George_Hammond,George Hammond,Auto Shippers,,Offy,0,40,spun,0,40
-1947,UO,1947_Pikes_Peak_Hill_Climb,1947_09,10,–,64,usa,Walt_Killinger,Walt Killinger,Johnny Mauro,,Miller,0,30,transmission,0,
-1947,UO,1947_Pikes_Peak_Hill_Climb,1947_09,11,–,11,usa,Wayne_Sankey,Wayne Sankey,Laycock Motors,,–,0,,disqualified,0,
+1947,UO,1947_Pikes_Peak_Hill_Climb,1947_09,10,-,64,usa,Walt_Killinger,Walt Killinger,Johnny Mauro,,Miller,0,30,transmission,0,
+1947,UO,1947_Pikes_Peak_Hill_Climb,1947_09,11,-,11,usa,Wayne_Sankey,Wayne Sankey,Laycock Motors,,-,0,,disqualified,0,
 1947,UO,1947_Springfield_100,1947_10,1,5,16,usa,Tony_Bettenhausen,Tony Bettenhausen,Murrell Belanger,,Stevens / Offy,100,1734,running,100,200
 1947,UO,1947_Springfield_100,1947_10,2,4,1,usa,Ted_Horn,Ted Horn,Ted Horn,,Horn / Offy,100,1706,running,0,160
 1947,UO,1947_Springfield_100,1947_10,3,12,39,usa,Steve_Truchan,Steve Truchan,Steve Truchan,,Truchan / Offy,100,1020,running,0,140
 1947,UO,1947_Springfield_100,1947_10,4,13,25,usa,Jackie_Holmes,Jackie Holmes,Floyd Dreyer,,Dreyer,99,680,running,0,120
 1947,UO,1947_Springfield_100,1947_10,5,14,71,usa,Charlie_Rogers,Charlie Rogers,Larry Jewell,,HAL / Miller,99,510,running,0,100
 1947,UO,1947_Springfield_100,1947_10,6,7,27,usa,Walt_Ader,Walt Ader,Andrews,,Offy,98,424,running,0,80
-1947,UO,1947_Springfield_100,1947_10,7,9,42,usa,Myron_Fohr,Myron Fohr,Carl Marchese,,–,98,344,running,0,60
+1947,UO,1947_Springfield_100,1947_10,7,9,42,usa,Myron_Fohr,Myron Fohr,Carl Marchese,,-,98,344,running,0,60
 1947,UO,1947_Springfield_100,1947_10,8,3,8,usa,Walt_Brown,Walt Brown,Fred Peters,,Wetteroth / Offy,97,344,running,0,50
 1947,UO,1947_Springfield_100,1947_10,9,6,10,usa,Bill_Holland,Bill Holland,William Schoof,,Wetteroth / Offy,65,344,rear axle,0,40
 1947,UO,1947_Springfield_100,1947_10,10,1,3,usa,Emil_Andres,Emil Andres,Murrell Belanger,,Offy,60,344,dnf,0,30
-1947,UO,1947_Springfield_100,1947_10,11,16,55,usa,George_Metzler,George Metzler,Lee Glessner,,–,55,258,dnf,0,20
+1947,UO,1947_Springfield_100,1947_10,11,16,55,usa,George_Metzler,George Metzler,Lee Glessner,,-,55,258,dnf,0,20
 1947,UO,1947_Springfield_100,1947_10,12,15,45,usa,Johnny_Shackleford,Johnny Shackleford,Fred Johnstone,,Offy,50,258,dnf,0,10
 1947,UO,1947_Springfield_100,1947_10,13,2,33,usa,Mel_Hansen,Mel Hansen,Tucker Partners,,Lencki,45,195,dnf,0,
 1947,UO,1947_Springfield_100,1947_10,14,8,15,usa,Paul_Russo,Paul Russo,Erwin Wolfe,,Shaw / Offy,40,195,dnf,0,

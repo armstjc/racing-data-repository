@@ -191,10 +191,10 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1978,P,1978_Winston_Spokane_100,1978_08_P,10,9,55,usa,Bill_Baker,Bill Baker,Golden West Lumber,,Chevrolet,100,230,running,0,41
 1978,P,1978_Winston_Spokane_100,1978_08_P,11,17,0,usa,Steve_Pfeifer,Steve Pfeifer,McCluney Racing,,Oldsmobile,100,200,running,0,40
 1978,P,1978_Winston_Spokane_100,1978_08_P,12,13,17,usa,Harry_Goularte,Harry Goularte,Associated Concrete,,Chevrolet,98,180,running,0,39
-1978,P,1978_Winston_Spokane_100,1978_08_P,13,20,24,none,Steve_Rouse,Steve Rouse,–,,Chevrolet,97,170,running,0,0
+1978,P,1978_Winston_Spokane_100,1978_08_P,13,20,24,none,Steve_Rouse,Steve Rouse,-,,Chevrolet,97,170,running,0,0
 1978,P,1978_Winston_Spokane_100,1978_08_P,14,15,08,usa,Rick_McCray,Rick McCray,Bob's Paint & Body,,Chevrolet,97,160,running,0,37
 1978,P,1978_Winston_Spokane_100,1978_08_P,15,16,91,usa,John_Krebs,John Krebs,Speedway Engineering,,Chevrolet,53,150,distributor,0,36
-1978,P,1978_Winston_Spokane_100,1978_08_P,16,14,05,usa,Ed_Rains,Ed Rains,–,,Chevrolet,42,140,suspension,0,0
+1978,P,1978_Winston_Spokane_100,1978_08_P,16,14,05,usa,Ed_Rains,Ed Rains,-,,Chevrolet,42,140,suspension,0,0
 1978,P,1978_Winston_Spokane_100,1978_08_P,17,6,01,usa,Jimmy_Insolo,Jimmy Insolo,Lake's Drywall,,Pontiac,40,135,engine,16,34
 1978,P,1978_Winston_Spokane_100,1978_08_P,18,11,06,usa,Pappy_Pryor,Pappy Pryor,Pappy Pryor,,Pontiac,11,130,tires,0,0
 1978,P,1978_Winston_Spokane_100,1978_08_P,19,19,92,usa,Chris_Monoleos,Chris Monoleos,Kendall Buckstaff Racing,,Chevrolet,2,125,transmission,0,32
@@ -219,7 +219,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1978,P,1978_Winston_Yakima_100,1978_09_P,18,16,08,usa,Rick_McCray,Rick McCray,Bob's Paint & Body,,Chevrolet,24,170,oil leak,0,33
 1978,P,1978_Winston_Yakima_100,1978_09_P,19,19,35,usa,Pat_Mintey,Pat Mintey,RES Electric,,Chevrolet,24,260,ignition,0,32
 1978,P,1978_Winston_Yakima_100,1978_09_P,20,14,18,canada,Rick_ODell,Rick O'Dell,John Edgett,,Pontiac,11,150,steering,0,0
-1978,P,1978_Winston_Yakima_100,1978_09_P,21,22,05,usa,Ed_Rains,Ed Rains,–,,Chevrolet,6,140,engine,0,0
+1978,P,1978_Winston_Yakima_100,1978_09_P,21,22,05,usa,Ed_Rains,Ed Rains,-,,Chevrolet,6,140,engine,0,0
 1978,P,1978_Winston_Yakima_100,1978_09_P,22,18,91,usa,John_Krebs,John Krebs,Speedway Engineering,,Chevrolet,5,135,engine,0,29
 1978,P,1978_Winston_Yakima_100,1978_09_P,23,11,95,usa,Harry_Jefferson,Harry Jefferson,Jefferson Logging,,Ford,3,135,crash,0,28
 1978,P,1978_Winston_Victoria_100,1978_10_P,1,8,01,usa,Jimmy_Insolo,Jimmy Insolo,Lake's Drywall,,Pontiac,100,1150,running,42,60
@@ -256,14 +256,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1978,P,1978_Winston_Langley_100,1978_11_P,10,11,52,usa,Don_Graham,Don Graham,City Tow,,Buick,98,230,running,0,41
 1978,P,1978_Winston_Langley_100,1978_11_P,11,14,2,usa,Richard_White,Richard White,Boulevard Automotive,,Chevrolet,98,250,running,0,40
 1978,P,1978_Winston_Langley_100,1978_11_P,12,15,35,usa,Pat_Mintey,Pat Mintey,RES Electric,,Chevrolet,97,280,running,0,39
-1978,P,1978_Winston_Langley_100,1978_11_P,13,17,90,usa,Bob_Fox,Bob Fox,–,,Chevrolet,96,170,running,0,0
+1978,P,1978_Winston_Langley_100,1978_11_P,13,17,90,usa,Bob_Fox,Bob Fox,-,,Chevrolet,96,170,running,0,0
 1978,P,1978_Winston_Langley_100,1978_11_P,14,16,08,usa,Rick_McCray,Rick McCray,Bob's Paint & Body,,Chevrolet,96,160,running,0,37
 1978,P,1978_Winston_Langley_100,1978_11_P,15,13,55,usa,Bill_Baker,Bill Baker,Golden West Lumber,,Chevrolet,96,200,running,0,36
 1978,P,1978_Winston_Langley_100,1978_11_P,16,3,29,canada,Roy_Smith,Roy Smith,Mercury Marine,,Chevrolet,95,140,running,0,35
 1978,P,1978_Winston_Langley_100,1978_11_P,17,19,0,usa,Steve_Pfeifer,Steve Pfeifer,Leisure Living,,Oldsmobile,95,135,running,0,34
 1978,P,1978_Winston_Langley_100,1978_11_P,18,10,4,usa,Jack_Jeffery,Jack Jeffery,Bowers Machine,,Pontiac,81,130,steering,0,33
 1978,P,1978_Winston_Langley_100,1978_11_P,19,20,91,usa,John_Krebs,John Krebs,Speedway Engineering,,Chevrolet,73,125,running,0,32
-1978,P,1978_Winston_Langley_100,1978_11_P,20,18,19,usa,LeRoy_Anderson,LeRoy Anderson,–,,Chevrolet,56,120,suspension,0,0
+1978,P,1978_Winston_Langley_100,1978_11_P,20,18,19,usa,LeRoy_Anderson,LeRoy Anderson,-,,Chevrolet,56,120,suspension,0,0
 1978,P,1978_Winston_Evergreen_100,1978_12_P,1,10,81,usa,John_Borneman,John Borneman,Borneman Plastering,,Pontiac,77,1450,running,5,60
 1978,P,1978_Winston_Evergreen_100,1978_12_P,2,6,45,canada,George_Stuart,George Stuart,George Stuart,,Chevrolet,77,950,running,0,49
 1978,P,1978_Winston_Evergreen_100,1978_12_P,3,1,01,usa,Jimmy_Insolo,Jimmy Insolo,Lake's Drywall,,Pontiac,77,650,running,16,48
@@ -276,9 +276,9 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1978,P,1978_Winston_Evergreen_100,1978_12_P,10,18,08,usa,Rick_McCray,Rick McCray,Bob's Paint & Body,,Chevrolet,76,300,running,0,41
 1978,P,1978_Winston_Evergreen_100,1978_12_P,11,11,35,usa,Pat_Mintey,Pat Mintey,RES Electric,,Chevrolet,76,350,running,0,40
 1978,P,1978_Winston_Evergreen_100,1978_12_P,12,9,2,usa,Richard_White,Richard White,Boulevard Automotive,,Chevrolet,75,285,running,0,39
-1978,P,1978_Winston_Evergreen_100,1978_12_P,13,22,19,usa,LeRoy_Anderson,LeRoy Anderson,–,,Chevrolet,75,225,running,0,0
+1978,P,1978_Winston_Evergreen_100,1978_12_P,13,22,19,usa,LeRoy_Anderson,LeRoy Anderson,-,,Chevrolet,75,225,running,0,0
 1978,P,1978_Winston_Evergreen_100,1978_12_P,14,12,52,usa,Don_Graham,Don Graham,City Tow,,Buick,75,215,running,0,37
-1978,P,1978_Winston_Evergreen_100,1978_12_P,15,25,85,usa,Leonard_Sundholm,Leonard Sundholm,–,,Chevrolet,73,200,running,0,0
+1978,P,1978_Winston_Evergreen_100,1978_12_P,15,25,85,usa,Leonard_Sundholm,Leonard Sundholm,-,,Chevrolet,73,200,running,0,0
 1978,P,1978_Winston_Evergreen_100,1978_12_P,16,16,0,usa,Steve_Pfeifer,Steve Pfeifer,CARI Machine,,Oldsmobile,72,190,running,0,35
 1978,P,1978_Winston_Evergreen_100,1978_12_P,17,17,91,usa,John_Krebs,John Krebs,Speedway Engineering,,Chevrolet,69,180,running,0,34
 1978,P,1978_Winston_Evergreen_100,1978_12_P,18,15,55,usa,Bill_Baker,Bill Baker,Golden West Lumber,,Chevrolet,66,170,engine,0,33
@@ -288,7 +288,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1978,P,1978_Winston_Evergreen_100,1978_12_P,22,20,96,usa,Sharon_Bishop,Sharon Bishop,Bishop Enterprises,,Chevrolet,40,135,oil pressure,0,0
 1978,P,1978_Winston_Evergreen_100,1978_12_P,23,19,92,usa,Chris_Monoleos,Chris Monoleos,Kendall Buckstaff Racing,,Chevrolet,38,130,clutch,0,28
 1978,P,1978_Winston_Evergreen_100,1978_12_P,24,4,07,usa,Ron_Eaton,Ron Eaton,Ron Eaton,,Chevrolet,26,125,oil leak,0,27
-1978,P,1978_Winston_Evergreen_100,1978_12_P,25,23,12,usa,Jim_Bown,Jim Bown,–,,Chevrolet,2,120,axle stud,0,0
+1978,P,1978_Winston_Evergreen_100,1978_12_P,25,23,12,usa,Jim_Bown,Jim Bown,-,,Chevrolet,2,120,axle stud,0,0
 1978,P,1978_Coca_Cola_100,1978_13_P,1,5,73,usa,Bill_Schmitt,Bill Schmitt,Old Milwaukee,,Pontiac,100,1475,running,86,60
 1978,P,1978_Coca_Cola_100,1978_13_P,2,4,47,usa,Art_Roth,Art Roth,Creager Truck Lines,,Chevrolet,100,875,running,0,0
 1978,P,1978_Coca_Cola_100,1978_13_P,3,16,81,usa,John_Borneman,John Borneman,Borneman Plastering,,Pontiac,100,615,running,0,48
@@ -305,13 +305,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1978,P,1978_Coca_Cola_100,1978_13_P,14,24,91,usa,John_Krebs,John Krebs,Speedway Engineering,,Chevrolet,98,215,running,0,37
 1978,P,1978_Coca_Cola_100,1978_13_P,15,19,52,usa,Don_Graham,Don Graham,City Tow,,Buick,97,200,running,0,36
 1978,P,1978_Coca_Cola_100,1978_13_P,16,6,55,usa,Bill_Baker,Bill Baker,Golden West Lumber,,Chevrolet,97,190,running,0,35
-1978,P,1978_Coca_Cola_100,1978_13_P,17,23,05,usa,Ed_Rains,Ed Rains,–,,Chevrolet,95,180,running,0,0
+1978,P,1978_Coca_Cola_100,1978_13_P,17,23,05,usa,Ed_Rains,Ed Rains,-,,Chevrolet,95,180,running,0,0
 1978,P,1978_Coca_Cola_100,1978_13_P,18,22,0,usa,Steve_Pfeifer,Steve Pfeifer,CARI Machine,,Oldsmobile,95,170,running,0,33
-1978,P,1978_Coca_Cola_100,1978_13_P,19,20,12,usa,Jim_Bown,Jim Bown,–,,Chevrolet,92,160,running,0,0
+1978,P,1978_Coca_Cola_100,1978_13_P,19,20,12,usa,Jim_Bown,Jim Bown,-,,Chevrolet,92,160,running,0,0
 1978,P,1978_Coca_Cola_100,1978_13_P,20,2,44,usa,Gary_Johnson,Gary Johnson,Armstrong Electric,,Pontiac,87,200,engine,0,31
 1978,P,1978_Coca_Cola_100,1978_13_P,21,1,38,usa,Don_Waterman,Don Waterman,Waterman Racing,,Chevrolet,72,140,crash,1,0
 1978,P,1978_Coca_Cola_100,1978_13_P,22,13,18,canada,Rick_ODell,Rick O'Dell,John Edgett,,Chevrolet,57,135,fuel pump,0,0
-1978,P,1978_Coca_Cola_100,1978_13_P,23,17,21,usa,Doug_McGriff,Doug McGriff,–,,Chevrolet,32,135,crash,0,0
+1978,P,1978_Coca_Cola_100,1978_13_P,23,17,21,usa,Doug_McGriff,Doug McGriff,-,,Chevrolet,32,135,crash,0,0
 1978,P,1978_Coca_Cola_100,1978_13_P,24,15,08,usa,Rick_McCray,Rick McCray,Bob's Paint & Body,,Chevrolet,1,135,valve,0,27
 1978,P,1978_Winston_Las_Vegas_100,1978_14_P,1,5,32,usa,Ray_Elder,Ray Elder,Midland Motor Homes,,Dodge,100,1150,running,23,60
 1978,P,1978_Winston_Las_Vegas_100,1978_14_P,2,3,2,usa,Richard_White,Richard White,Boulevard Automotive,,Chevrolet,100,850,running,16,49
@@ -341,10 +341,10 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1978,P,1978_Winston_Gardena_100,1978_15_P,7,14,16,usa,Alan_Brown_(1),Alan Brown,Phil's Mobile / Add-More Corp.,,Chevrolet,93,380,running,0,0
 1978,P,1978_Winston_Gardena_100,1978_15_P,8,11,55,usa,Bill_Baker,Bill Baker,Golden West Lumber,,Chevrolet,91,410,running,0,43
 1978,P,1978_Winston_Gardena_100,1978_15_P,9,4,08,usa,Rick_McCray,Rick McCray,Bob's Paint & Body,,Chevrolet,84,340,running,0,42
-1978,P,1978_Winston_Gardena_100,1978_15_P,10,12,65,none,Hank_Millwee,Hank Millwee,–,,Chevrolet,80,325,running,0,0
+1978,P,1978_Winston_Gardena_100,1978_15_P,10,12,65,none,Hank_Millwee,Hank Millwee,-,,Chevrolet,80,325,running,0,0
 1978,P,1978_Winston_Gardena_100,1978_15_P,11,8,52,usa,Don_Graham,Don Graham,City Tow,,Buick,62,270,overheating,0,40
 1978,P,1978_Winston_Gardena_100,1978_15_P,12,3,17,usa,Harry_Goularte,Harry Goularte,Associated Concrete,,Chevrolet,51,245,engine,0,39
-1978,P,1978_Winston_Gardena_100,1978_15_P,13,15,69,new_zealand,Stuart_Lyndon,Stuart Lyndon,–,,Ford,48,225,battery,0,38
+1978,P,1978_Winston_Gardena_100,1978_15_P,13,15,69,new_zealand,Stuart_Lyndon,Stuart Lyndon,-,,Ford,48,225,battery,0,38
 1978,P,1978_Winston_Gardena_100,1978_15_P,14,17,0,usa,Steve_Pfeifer,Steve Pfeifer,CARI Machine,,Oldsmobile,46,215,crash,0,37
 1978,P,1978_Winston_Gardena_100,1978_15_P,15,9,02,usa,Frank_Bigelow,Frank Bigelow,Coventry Automotive,,Chevrolet,41,200,overheating,0,36
 1978,P,1978_Winston_Gardena_100,1978_15_P,16,10,4,usa,Jack_Jeffery,Jack Jeffery,Bowers Machine,,Oldsmobile,40,190,crash,0,35
@@ -375,7 +375,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1978,P,1978_Winston_Sears_Point_100,1978_16_P,21,9,81,usa,John_Borneman,John Borneman,Borneman Plastering,,Pontiac,10,320,engine,0,30
 1978,P,1978_Winston_Sears_Point_100,1978_16_P,22,20,86,usa,Dick_Whalen,Dick Whalen,Dean Enterprises,,Chevrolet,10,260,transmission,0,29
 1978,P,1978_Winston_Sears_Point_100,1978_16_P,23,18,03,usa,Ron_McGee,Ron McGee,Mc Productions,,Chevrolet,2,250,engine,0,28
-1978,P,1978_Winston_Sears_Point_100,1978_16_P,24,26,21,usa,Jeff_Barnicle,Jeff Barnicle,–,,Chevrolet,1,240,suspension,0,27
+1978,P,1978_Winston_Sears_Point_100,1978_16_P,24,26,21,usa,Jeff_Barnicle,Jeff Barnicle,-,,Chevrolet,1,240,suspension,0,27
 1978,P,1978_Winston_Sears_Point_100,1978_16_P,25,24,77,usa,Robert_Tartaglia,Robert Tartaglia,Don Guy,,Chevrolet,1,230,oil leak,0,26
 1978,P,1978_Winston_Sears_Point_100,1978_16_P,26,23,22,usa,St_James_Davis,St. James Davis,LaDonna Davis,,Dodge,0,220,did not start,0,0
 1978,P,1978_Winston_Shasta_150,1978_17_P,1,8,01,usa,Jimmy_Insolo,Jimmy Insolo,Lake's Drywall,,Pontiac,150,1250,running,12,60
@@ -394,13 +394,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1978,P,1978_Winston_Shasta_150,1978_17_P,14,2,2,usa,Richard_White,Richard White,Boulevard Automotive,,Chevrolet,143,230,running,0,37
 1978,P,1978_Winston_Shasta_150,1978_17_P,15,15,08,usa,Rick_McCray,Rick McCray,Bob's Paint & Body,,Chevrolet,141,170,running,0,36
 1978,P,1978_Winston_Shasta_150,1978_17_P,16,11,17,usa,Harry_Goularte,Harry Goularte,Associated Concrete,,Chevrolet,136,160,overheating,0,35
-1978,P,1978_Winston_Shasta_150,1978_17_P,17,18,5,usa,Don_Dupree,Don Dupree,–,,Chevrolet,134,150,running,0,0
+1978,P,1978_Winston_Shasta_150,1978_17_P,17,18,5,usa,Don_Dupree,Don Dupree,-,,Chevrolet,134,150,running,0,0
 1978,P,1978_Winston_Shasta_150,1978_17_P,18,19,96,usa,Sharon_Bishop,Sharon Bishop,Bishop Enterprises,,Chevrolet,133,145,running,0,0
 1978,P,1978_Winston_Shasta_150,1978_17_P,19,6,48,usa,Jim_Walker_(2),Jim Walker,Jim Walker,,Chevrolet,131,140,engine,0,0
-1978,P,1978_Winston_Shasta_150,1978_17_P,20,16,05,usa,Ed_Rains,Ed Rains,–,,Chevrolet,127,135,running,0,31
+1978,P,1978_Winston_Shasta_150,1978_17_P,20,16,05,usa,Ed_Rains,Ed Rains,-,,Chevrolet,127,135,running,0,31
 1978,P,1978_Winston_Shasta_150,1978_17_P,21,14,0,usa,Steve_Pfeifer,Steve Pfeifer,CARI Machine,,Oldsmobile,64,135,transmission,0,30
 1978,P,1978_Winston_Shasta_150,1978_17_P,22,20,22,usa,St_James_Davis,St. James Davis,LaDonna Davis,,Dodge,15,135,smoking,0,29
-1978,P,1978_Winston_Shasta_150,1978_17_P,23,21,17x,usa,Hal_Callentine,Hal Callentine,–,,Chevrolet,5,135,ignition,0,0
+1978,P,1978_Winston_Shasta_150,1978_17_P,23,21,17x,usa,Hal_Callentine,Hal Callentine,-,,Chevrolet,5,135,ignition,0,0
 1978,P,1978_Winston_Coos_Bay_100,1978_18_P,1,1,4,usa,Jack_Jeffery,Jack Jeffery,Bowers Machine,,Pontiac,100,1150,running,100,60
 1978,P,1978_Winston_Coos_Bay_100,1978_18_P,2,7,73,usa,Bill_Schmitt,Bill Schmitt,Old Milwaukee,,Pontiac,100,1000,running,0,49
 1978,P,1978_Winston_Coos_Bay_100,1978_18_P,3,3,47,usa,Art_Roth,Art Roth,Creager Truck Lines,,Chevrolet,100,600,running,0,48
@@ -410,7 +410,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1978,P,1978_Winston_Coos_Bay_100,1978_18_P,7,16,17,usa,Harry_Goularte,Harry Goularte,Associated Concrete,,Chevrolet,99,300,running,0,44
 1978,P,1978_Winston_Coos_Bay_100,1978_18_P,8,10,91,usa,John_Krebs,John Krebs,Getty's Automotive,,Chevrolet,97,275,running,0,43
 1978,P,1978_Winston_Coos_Bay_100,1978_18_P,9,15,35,usa,Pat_Mintey,Pat Mintey,Stick Only,,Chevrolet,97,360,running,0,42
-1978,P,1978_Winston_Coos_Bay_100,1978_18_P,10,12,05,usa,Ed_Rains,Ed Rains,–,,Chevrolet,97,230,running,0,41
+1978,P,1978_Winston_Coos_Bay_100,1978_18_P,10,12,05,usa,Ed_Rains,Ed Rains,-,,Chevrolet,97,230,running,0,41
 1978,P,1978_Winston_Coos_Bay_100,1978_18_P,11,14,06,usa,Pappy_Pryor,Pappy Pryor,Pappy Pryor,,Chevrolet,94,200,running,0,40
 1978,P,1978_Winston_Coos_Bay_100,1978_18_P,12,6,51,usa,Frank_Swords,Frank Swords,Boyd Rollins,,Chevrolet,92,180,running,0,0
 1978,P,1978_Winston_Coos_Bay_100,1978_18_P,13,19,0,usa,Steve_Pfeifer,Steve Pfeifer,CARI Machine,,Oldsmobile,89,170,running,0,38
@@ -423,12 +423,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1978,P,1978_Yakima_Winston_100,1978_19_P,1,6,01,usa,Jimmy_Insolo,Jimmy Insolo,Lake's Drywall,,Pontiac,100,1275,running,96,60
 1978,P,1978_Yakima_Winston_100,1978_19_P,2,8,07,usa,Ron_Eaton,Ron Eaton,Ron Eaton,,Pontiac,100,875,running,0,49
 1978,P,1978_Yakima_Winston_100,1978_19_P,3,4,81,usa,John_Borneman,John Borneman,Borneman Plastering,,Pontiac,100,615,running,0,48
-1978,P,1978_Yakima_Winston_100,1978_19_P,4,11,90,usa,Bob_Fox,Bob Fox,–,,Chevrolet,100,475,running,0,47
+1978,P,1978_Yakima_Winston_100,1978_19_P,4,11,90,usa,Bob_Fox,Bob Fox,-,,Chevrolet,100,475,running,0,47
 1978,P,1978_Yakima_Winston_100,1978_19_P,5,3,17,usa,Harry_Goularte,Harry Goularte,Associated Concrete,,Pontiac,99,450,running,0,46
 1978,P,1978_Yakima_Winston_100,1978_19_P,6,13,2,usa,Richard_White,Richard White,Boulevard Automotive,,Chevrolet,99,475,running,0,45
 1978,P,1978_Yakima_Winston_100,1978_19_P,7,1,04,usa,Neal_Newberry,Neal Newberry,Gary Henkel,,Plymouth,99,380,running,4,44
 1978,P,1978_Yakima_Winston_100,1978_19_P,8,10,4,usa,Jack_Jeffery,Jack Jeffery,Bowers Machine,,Pontiac,99,360,running,0,43
-1978,P,1978_Yakima_Winston_100,1978_19_P,9,16,19,usa,LeRoy_Anderson,LeRoy Anderson,–,,Chevrolet,98,340,running,0,42
+1978,P,1978_Yakima_Winston_100,1978_19_P,9,16,19,usa,LeRoy_Anderson,LeRoy Anderson,-,,Chevrolet,98,340,running,0,42
 1978,P,1978_Yakima_Winston_100,1978_19_P,10,17,41,usa,Ross_Kusah,Ross Kusah,Ernie Stierly,,Chevrolet,98,325,running,0,41
 1978,P,1978_Yakima_Winston_100,1978_19_P,11,12,44,usa,Gary_Johnson,Gary Johnson,Armstrong Electric,,Pontiac,98,320,running,0,40
 1978,P,1978_Yakima_Winston_100,1978_19_P,12,22,08,usa,Rick_McCray,Rick McCray,Bob's Paint & Body,,Chevrolet,95,245,running,0,39
@@ -459,7 +459,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1978,P,1978_Midland_Motor_Home_100,1978_20_P,15,14,8,usa,Ken_McCray_Jr,"Ken McCray, Jr.",Speedway Auto Parts,,Chevrolet,56,150,crash,0,36
 1978,P,1978_Midland_Motor_Home_100,1978_20_P,16,15,4,usa,Dean_Huss_Jr,"Dean Huss, Jr.",Huss Trucking Co.,,Chevrolet,40,140,crash,0,0
 1978,P,1978_Midland_Motor_Home_100,1978_20_P,17,9,16,usa,Alan_Brown_(1),Alan Brown,Phil's Mobile,,Pontiac,40,135,crash,0,34
-1978,P,1978_Midland_Motor_Home_100,1978_20_P,18,19,04,usa,Jim_Miller_Jr,"Jim Miller, Jr.",–,,Chevrolet,15,130,crash,0,0
+1978,P,1978_Midland_Motor_Home_100,1978_20_P,18,19,04,usa,Jim_Miller_Jr,"Jim Miller, Jr.",-,,Chevrolet,15,130,crash,0,0
 1978,P,1978_Midland_Motor_Home_100,1978_20_P,19,8,3,usa,Ivan_Baldwin,Ivan Baldwin,Midland Motor Homes,,Dodge,9,125,spring,0,32
 1978,P,1978_Midland_Motor_Home_100,1978_20_P,20,20,22,usa,St_James_Davis,St. James Davis,LaDonna Davis,,Dodge,1,120,suspension,0,31
 1978,P,1978_Los_Angeles_Times_500,1978_21_P,1,2,15,usa,Bobby_Allison,Bobby Allison   (Cup),Norris Industries,,Ford,200,24025,running,134,0

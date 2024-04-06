@@ -10,11 +10,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2021,AC,2021_Northeast_Classic,2021_01,9,13,27NC,usa,Robby_Gordon_Douglas,Robby Gordon Douglas,East Derry Collision,,Chevrolet,50,750,running,0,90
 2021,AC,2021_Northeast_Classic,2021_01,10,11,7NH,usa,Dylan_Payea,Dylan Payea,Payea Motorsports,,Dodge,50,725,running,0,89
 2021,AC,2021_Northeast_Classic,2021_01,11,8,25NH,usa,Jesse_Switser,Jesse Switser,Utley Construction / Town Corner Store,,Ford,50,675,running,0,86
-2021,AC,2021_Northeast_Classic,2021_01,12,18,50RI,usa,Michael_Benevides,Michael Benevides,Benevides Motorsports,,–,50,650,running,0,84
+2021,AC,2021_Northeast_Classic,2021_01,12,18,50RI,usa,Michael_Benevides,Michael Benevides,Benevides Motorsports,,-,50,650,running,0,84
 2021,AC,2021_Northeast_Classic,2021_01,13,22,41VT,usa,Jamie_Aube,Jamie Aube,LTK Insulation,,Chevrolet,49,625,running,0,82
 2021,AC,2021_Northeast_Classic,2021_01,14,20,71CT,usa,Michael_Lindquist,Michael Lindquist,Wilton Auto & Tire Center,,Chevrolet,49,600,running,0,80
 2021,AC,2021_Northeast_Classic,2021_01,15,21,15NY,usa,Gerard_Giordano_Jr,"Gerard Giordano, Jr.",K-1 Logistics,,Chevrolet,49,600,running,0,78
-2021,AC,2021_Northeast_Classic,2021_01,16,19,49NH,usa,Matt_Anderson,Matt Anderson,WATTS / Hawthorne Automotive,,–,49,600,running,0,76
+2021,AC,2021_Northeast_Classic,2021_01,16,19,49NH,usa,Matt_Anderson,Matt Anderson,WATTS / Hawthorne Automotive,,-,49,600,running,0,76
 2021,AC,2021_Northeast_Classic,2021_01,17,10,03MA,usa,Derek_Gluchacki,Derek Gluchacki,All Phases Renovations,,Ford,48,600,running,0,77
 2021,AC,2021_Northeast_Classic,2021_01,18,23,65NH,usa,Tom_Sheehan,Tom Sheehan,LTK Insulation,,Chevrolet,47,600,running,0,72
 2021,AC,2021_Northeast_Classic,2021_01,19,15,04NH,usa,Shawn_Swallow,Shawn Swallow,North Conway Incinerators,,Chevrolet,43,600,engine,0,72
@@ -31,7 +31,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2021,AC,2021_Community_Bank_NA_150,2021_02,5,19,4ME,usa,Ben_Rowe,Ben Rowe,Richard Moody Racing,,Ford,150,975,running,0,98
 2021,AC,2021_Community_Bank_NA_150,2021_02,6,7,04VT,usa,D_J_Shaw,D.J. Shaw,A.H. Fence Co.,,Ford,150,800,running,0,99
 2021,AC,2021_Community_Bank_NA_150,2021_02,7,20,2VT,usa,Stephen_Donahue,Stephen Donahue,Norm Andrews Excavating,,Chevrolet,150,850,running,0,94
-2021,AC,2021_Community_Bank_NA_150,2021_02,8,23,7NH,usa,Dylan_Payea,Dylan Payea,Payea Motorsports,,–,150,750,running,0,92
+2021,AC,2021_Community_Bank_NA_150,2021_02,8,23,7NH,usa,Dylan_Payea,Dylan Payea,Payea Motorsports,,-,150,750,running,0,92
 2021,AC,2021_Community_Bank_NA_150,2021_02,9,5,99VT,usa,Cody_Blake,Cody Blake,North Country Federal Credit Union,,Chevrolet,150,725,running,0,65
 2021,AC,2021_Community_Bank_NA_150,2021_02,10,3,5VT,usa,Bobby_Therrien,Bobby Therrien,Casella Waste Management,,Chevrolet,150,725,running,0,89
 2021,AC,2021_Community_Bank_NA_150,2021_02,11,1,27VT,usa,Kyle_Pembroke,Kyle Pembroke,Kinney Drugs,,Chevrolet,150,680,running,54,91
@@ -41,10 +41,10 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2021,AC,2021_Community_Bank_NA_150,2021_02,15,13,40VT,usa,Nick_Sweet,Nick Sweet,Mansfield Heliflight,,Chevrolet,149,610,running,0,46
 2021,AC,2021_Community_Bank_NA_150,2021_02,16,6,9VT,usa,Chip_Grenier,Chip Grenier,TM Development,,Ford,149,600,running,0,66
 2021,AC,2021_Community_Bank_NA_150,2021_02,17,12,5MA,usa,Tom_Carey_III,Tom Carey III,Brookside Equipment Sales,,Chevrolet,145,590,running,0,78
-2021,AC,2021_Community_Bank_NA_150,2021_02,18,18,7VT,usa,Boomer_Morris,Boomer Morris,Morris Motorsports,,–,129,580,handling,0,49
+2021,AC,2021_Community_Bank_NA_150,2021_02,18,18,7VT,usa,Boomer_Morris,Boomer Morris,Morris Motorsports,,-,129,580,handling,0,49
 2021,AC,2021_Community_Bank_NA_150,2021_02,19,17,25NH,usa,Jesse_Switser,Jesse Switser,Utley Construction / Town Corner Store,,Ford,80,570,mechanical,0,70
 2021,AC,2021_Community_Bank_NA_150,2021_02,20,27,7MA,usa,Cooper_Bouchard,Cooper Bouchard,KAS Inc. / Master Tech,,Ford,62,560,crash,0,68
-2021,AC,2021_Community_Bank_NA_150,2021_02,21,10,0VT,usa,Scott_Dragon,Scott Dragon,Dragon Motorsports,,–,55,550,crash,1,40
+2021,AC,2021_Community_Bank_NA_150,2021_02,21,10,0VT,usa,Scott_Dragon,Scott Dragon,Dragon Motorsports,,-,55,550,crash,1,40
 2021,AC,2021_Community_Bank_NA_150,2021_02,22,14,64VT,usa,Christopher_Pelkey,Christopher Pelkey,Memorial Sandblast,,Chevrolet,55,540,crash,0,65
 2021,AC,2021_Community_Bank_NA_150,2021_02,23,28,36NH,usa,Erick_Sands,Erick Sands,Seacoast Truck & Auto,,Chevrolet,55,530,crash,0,62
 2021,AC,2021_Community_Bank_NA_150,2021_02,24,4,66VT,usa,Jason_Corliss,Jason Corliss,Burnett Scrap Metals,,Ford,55,520,crash,0,60
@@ -52,7 +52,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2021,AC,2021_Community_Bank_NA_150,2021_02,26,2,42VT,usa,Matt_White,Matt White,White's Heating,,Chevrolet,46,500,engine,0,38
 2021,AC,2021_Community_Bank_NA_150,2021_02,27,26,39VT,usa,Mike_Foster,Mike Foster,KMI Freight Bookers,,Ford,42,500,mechanical,0,35
 2021,AC,2021_Community_Bank_NA_150,2021_02,28,24,16VT,usa,Brandon_Lanphear,Brandon Lanphear,Richard Green Trucking,,Chevrolet,32,500,crash,0,60
-2021,AC,2021_Community_Bank_NA_150,2021_02,29,16,58VT,usa,Jimmy_Hebert,Jimmy Hebert,Hebert Motorsports,,–,22,500,mechanical,0,62
+2021,AC,2021_Community_Bank_NA_150,2021_02,29,16,58VT,usa,Jimmy_Hebert,Jimmy Hebert,Hebert Motorsports,,-,22,500,mechanical,0,62
 2021,AC,2021_Community_Bank_NA_150,2021_02,30,29,8VT,usa,Anthony_Hill_(2),Anthony Hill,GP Motorsports / Northern Bulders,,Chevrolet,15,500,handling,0,60
 2021,AC,2021_Lee_USA_150,2021_03,1,3,04VT,usa,D_J_Shaw,D.J. Shaw,A.H. Fence Co.,,Ford,150,2800,running,31,117
 2021,AC,2021_Lee_USA_150,2021_03,2,5,5ME,usa,Dillon_Moltz,Dillon Moltz,RB Performance,,Chevrolet,150,1545,running,0,98
@@ -68,10 +68,10 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2021,AC,2021_Lee_USA_150,2021_03,12,13,49NH,usa,Matt_Anderson,Matt Anderson,WATTS / Hawthorne Automotive,,Toyota,148,525,running,0,84
 2021,AC,2021_Lee_USA_150,2021_03,13,21,5MA,usa,Tom_Carey_III,Tom Carey III,Brookside Equipment Sales,,Chevrolet,146,500,running,0,82
 2021,AC,2021_Lee_USA_150,2021_03,14,20,70VT,usa,Kevin_Vaudrien,Kevin Vaudrien,Bud's General Contracting,,Chevrolet,145,475,running,0,45
-2021,AC,2021_Lee_USA_150,2021_03,15,2,7NH,usa,Dylan_Payea,Dylan Payea,Payea Motorsports,,–,140,450,crash,0,81
+2021,AC,2021_Lee_USA_150,2021_03,15,2,7NH,usa,Dylan_Payea,Dylan Payea,Payea Motorsports,,-,140,450,crash,0,81
 2021,AC,2021_Lee_USA_150,2021_03,16,15,21VT,usa,Reilly_Lanphear,Reilly Lanphear,Reilly Lanphear Racing,,Chevrolet,95,450,crash,0,77
 2021,AC,2021_Lee_USA_150,2021_03,17,10,25NH,usa,Jesse_Switser,Jesse Switser,Utley Construction / Town Corner Store,,Ford,95,450,crash,0,76
-2021,AC,2021_Lee_USA_150,2021_03,18,14,17MA,usa,Eddie_MacDonald_(2),Eddie MacDonald,MacDonald Motorsports,,–,58,450,handling,0,39
+2021,AC,2021_Lee_USA_150,2021_03,18,14,17MA,usa,Eddie_MacDonald_(2),Eddie MacDonald,MacDonald Motorsports,,-,58,450,handling,0,39
 2021,AC,2021_Lee_USA_150,2021_03,19,9,4NH,usa,Jamie_Swallow_Jr,"Jamie Swallow, Jr.",Swallow & Sons Concrete,,Chevrolet,51,450,handling,0,35
 2021,AC,2021_Lee_USA_150,2021_03,20,22,77MA,usa,Jimmy_Linardy,Jimmy Linardy,Kayem Hot Dogs,,Chevrolet,33,450,handling,0,67
 2021,AC,2021_Lee_USA_150,2021_03,21,17,10NH,usa,Bryan_Mason,Bryan Mason,Mason Enterprises,,Chevrolet,23,450,handling,0,31
@@ -91,17 +91,17 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2021,AC,2021_Caron_Fabrication_Spring_Green,2021_04,13,13,61NH,usa,Ryan_Olsen,Ryan Olsen,J+J Auto Care / NAPA FMS Auto Parts,,Chevrolet,120,500,running,0,85
 2021,AC,2021_Caron_Fabrication_Spring_Green,2021_04,14,21,22VT,usa,Peyton_Lanphear,Peyton Lanphear,Alchemist,,Chevrolet,120,475,running,0,80
 2021,AC,2021_Caron_Fabrication_Spring_Green,2021_04,15,15,36NH,usa,Erick_Sands,Erick Sands,Seacoast Truck & Auto,,Chevrolet,119,450,running,0,80
-2021,AC,2021_Caron_Fabrication_Spring_Green,2021_04,16,23,99NH,usa,Ben_Belanger,Ben Belanger,Belanger Motorsports,,–,119,450,running,0,41
-2021,AC,2021_Caron_Fabrication_Spring_Green,2021_04,17,14,9NH,usa,Matt_Morrill,Matt Morrill,Morrill Motorsports,,–,119,450,running,0,41
+2021,AC,2021_Caron_Fabrication_Spring_Green,2021_04,16,23,99NH,usa,Ben_Belanger,Ben Belanger,Belanger Motorsports,,-,119,450,running,0,41
+2021,AC,2021_Caron_Fabrication_Spring_Green,2021_04,17,14,9NH,usa,Matt_Morrill,Matt Morrill,Morrill Motorsports,,-,119,450,running,0,41
 2021,AC,2021_Caron_Fabrication_Spring_Green,2021_04,18,24,49NH,usa,Matt_Anderson,Matt Anderson,WATTS,,Toyota,118,450,running,0,72
 2021,AC,2021_Caron_Fabrication_Spring_Green,2021_04,19,25,17ME,usa,Kris_Matchett,Kris Matchett,HP Fairfield / Erskin Trucking,,Chevrolet,118,450,running,0,35
 2021,AC,2021_Caron_Fabrication_Spring_Green,2021_04,20,18,21VT,usa,Reilly_Lanphear,Reilly Lanphear,Reilly Lanphear Racing,,Chevrolet,118,450,running,0,68
 2021,AC,2021_Caron_Fabrication_Spring_Green,2021_04,21,26,69ME,usa,David_MacDonald,David MacDonald,DM Construction,,Chevrolet,113,450,running,0,66
-2021,AC,2021_Caron_Fabrication_Spring_Green,2021_04,22,11,58VT,usa,Jimmy_Hebert,Jimmy Hebert,Hebert Motorsports,,–,92,450,running,0,68
+2021,AC,2021_Caron_Fabrication_Spring_Green,2021_04,22,11,58VT,usa,Jimmy_Hebert,Jimmy Hebert,Hebert Motorsports,,-,92,450,running,0,68
 2021,AC,2021_Caron_Fabrication_Spring_Green,2021_04,23,5,25NH,usa,Jesse_Switser,Jesse Switser,Utley Construction / Town Corner Store,,Ford,86,450,handling,0,63
 2021,AC,2021_Caron_Fabrication_Spring_Green,2021_04,24,6,15VT,usa,Joey_Laquerre,Joey Laquerre,Laquerre's Marine,,Ford,84,450,handling,0,61
 2021,AC,2021_Caron_Fabrication_Spring_Green,2021_04,25,27,91CT,usa,Jake_Johnson,Jake Johnson,Jim Morrissette's Oil Burner Service,,Ford,17,450,steering,0,35
-2021,AC,2021_Caron_Fabrication_Spring_Green,2021_04,26,17,7NH,usa,Dylan_Payea,Dylan Payea,Payea Motorsports,,–,10,450,crash,0,63
+2021,AC,2021_Caron_Fabrication_Spring_Green,2021_04,26,17,7NH,usa,Dylan_Payea,Dylan Payea,Payea Motorsports,,-,10,450,crash,0,63
 2021,AC,2021_Caron_Fabrication_Spring_Green,2021_04,27,20,5ME,usa,Dillon_Moltz,Dillon Moltz,Brackett Mechanical / RB Performance,,Chevrolet,10,450,crash,0,25
 2021,AC,2021_Hudson_150,2021_05,1,2,00NH,usa,Jimmy_Renfrew_Jr,"Jimmy Renfrew, Jr.",R&R Public Wholesalers,,Chevrolet,150,2800,running,147,96
 2021,AC,2021_Hudson_150,2021_05,2,11,5MA,usa,Tom_Carey_III,Tom Carey III,Brookside Equipment Sales,,Chevrolet,150,1530,running,0,108
@@ -110,11 +110,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2021,AC,2021_Hudson_150,2021_05,5,10,04VT,usa,D_J_Shaw,D.J. Shaw,A.H. Fence Co.,,Ford,150,775,running,0,100
 2021,AC,2021_Hudson_150,2021_05,6,14,03MA,usa,Derek_Gluchacki,Derek Gluchacki,All Phases Renovations,,Ford,150,640,running,0,96
 2021,AC,2021_Hudson_150,2021_05,7,3,2VT,usa,Stephen_Donahue,Stephen Donahue,Norm Andrews Excavating,,Chevrolet,150,705,running,0,94
-2021,AC,2021_Hudson_150,2021_05,8,12,58VT,usa,Jimmy_Hebert,Jimmy Hebert,Hebert Motorsports,,–,149,620,running,0,92
+2021,AC,2021_Hudson_150,2021_05,8,12,58VT,usa,Jimmy_Hebert,Jimmy Hebert,Hebert Motorsports,,-,149,620,running,0,92
 2021,AC,2021_Hudson_150,2021_05,9,6,04NH,usa,Shawn_Swallow,Shawn Swallow,North Conway Incinerators,,Chevrolet,149,610,running,0,92
-2021,AC,2021_Hudson_150,2021_05,10,17,33MA,usa,Jaret_Curtis,Jaret Curtis,Tow Bandit Trailers,,–,149,625,running,0,54
+2021,AC,2021_Hudson_150,2021_05,10,17,33MA,usa,Jaret_Curtis,Jaret Curtis,Tow Bandit Trailers,,-,149,625,running,0,54
 2021,AC,2021_Hudson_150,2021_05,11,7,82NH,usa,Jason_Ryan,Jason Ryan,Jan's Aquatics,,Chevrolet,149,550,running,0,54
-2021,AC,2021_Hudson_150,2021_05,12,9,88MA,usa,Chase_Curtis,Chase Curtis,Tow Bandit Trailers,,–,149,525,running,0,49
+2021,AC,2021_Hudson_150,2021_05,12,9,88MA,usa,Chase_Curtis,Chase Curtis,Tow Bandit Trailers,,-,149,525,running,0,49
 2021,AC,2021_Hudson_150,2021_05,13,15,49NH,usa,Matt_Anderson,Matt Anderson,WATTS,,Toyota,149,500,running,0,82
 2021,AC,2021_Hudson_150,2021_05,14,13,11NH,usa,Kevin_Vaudrien,Kevin Vaudrien,Bud's General Contracting,,Chevrolet,145,475,running,0,45
 2021,AC,2021_Hudson_150,2021_05,15,18,69ME,usa,David_MacDonald,David MacDonald,DM Construction,,Chevrolet,145,450,running,0,78
@@ -123,18 +123,18 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2021,AC,2021_Hudson_150,2021_05,18,5,36NH,usa,Erick_Sands,Erick Sands,Seacoast Truck & Auto,,Chevrolet,108,450,crash,0,76
 2021,AC,2021_Oxford_150,2021_06,1,1,15ME,usa,Mike_Hopkins,Mike Hopkins,Port City Racecars / Hopkins Energy,,Chevrolet,150,2800,running,150,87
 2021,AC,2021_Oxford_150,2021_06,2,9,03MA,usa,Derek_Gluchacki,Derek Gluchacki,All Phases Renovations,,Ford,150,1545,running,0,107
-2021,AC,2021_Oxford_150,2021_06,3,5,88VT,usa,Nick_Sweet,Nick Sweet,Sweet Motorsports,,–,150,1050,running,0,69
+2021,AC,2021_Oxford_150,2021_06,3,5,88VT,usa,Nick_Sweet,Nick Sweet,Sweet Motorsports,,-,150,1050,running,0,69
 2021,AC,2021_Oxford_150,2021_06,4,10,04VT,usa,D_J_Shaw,D.J. Shaw,A.H. Fence Co.,,Ford,150,800,running,0,102
 2021,AC,2021_Oxford_150,2021_06,5,14,00NH,usa,Jimmy_Renfrew_Jr,"Jimmy Renfrew, Jr.",R&R Public Wholesalers,,Chevrolet,150,775,running,0,74
 2021,AC,2021_Oxford_150,2021_06,6,16,5MA,usa,Tom_Carey_III,Tom Carey III,Brookside Equipment Sales,,Chevrolet,150,640,running,0,96
-2021,AC,2021_Oxford_150,2021_06,7,2,7NH,usa,Dylan_Payea,Dylan Payea,Payea Motorsports,,–,150,705,running,0,94
+2021,AC,2021_Oxford_150,2021_06,7,2,7NH,usa,Dylan_Payea,Dylan Payea,Payea Motorsports,,-,150,705,running,0,94
 2021,AC,2021_Oxford_150,2021_06,8,15,4ME,usa,Ben_Rowe,Ben Rowe,Richard Moody Racing,,Ford,150,620,running,0,92
 2021,AC,2021_Oxford_150,2021_06,9,12,31MA,usa,Trent_Goodrow,Trent Goodrow,Uppa Baby Strollers,,Chevrolet,150,610,running,0,90
 2021,AC,2021_Oxford_150,2021_06,10,19,04NH,usa,Shawn_Swallow,Shawn Swallow,North Conway Incinerators,,Chevrolet,150,625,running,0,88
 2021,AC,2021_Oxford_150,2021_06,11,18,5ME,usa,Dillon_Moltz,Dillon Moltz,Brackett Mechanical / RB Performance,,Chevrolet,150,550,running,0,51
 2021,AC,2021_Oxford_150,2021_06,12,13,45NH,usa,Kasey_Beattie,Kasey Beattie,Creative Counters,,Chevrolet,150,525,running,0,50
 2021,AC,2021_Oxford_150,2021_06,13,8,25NH,usa,Jesse_Switser,Jesse Switser,Utley Construction / Town Corner Store,,Ford,150,500,running,0,86
-2021,AC,2021_Oxford_150,2021_06,14,11,58VT,usa,Jimmy_Hebert,Jimmy Hebert,Hebert Motorsports,,–,149,475,running,0,84
+2021,AC,2021_Oxford_150,2021_06,14,11,58VT,usa,Jimmy_Hebert,Jimmy Hebert,Hebert Motorsports,,-,149,475,running,0,84
 2021,AC,2021_Oxford_150,2021_06,15,29,1NH,usa,Corey_Mason,Corey Mason,Kelley & Roy Horse Pulling,,Chevrolet,149,515,running,0,43
 2021,AC,2021_Oxford_150,2021_06,16,3,2VT,usa,Stephen_Donahue,Stephen Donahue,Norm Andrews Excavating,,Chevrolet,149,450,running,0,79
 2021,AC,2021_Oxford_150,2021_06,17,4,86VT,usa,Marcel_J_Gravel,Marcel J. Gravel,Pete's Equipment Sales & Rentals,,Toyota,149,450,running,0,52
@@ -162,11 +162,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2021,AC,2021_Midsummer_Classic_+250,2021_07,10,1,22RI,usa,Mark_Jenison,Mark Jenison,Support Our Troops & Veterans,,Ford,249,1025,running,1,95
 2021,AC,2021_Midsummer_Classic_+250,2021_07,11,8,36NH,usa,Erick_Sands,Erick Sands,Seacoast Truck & Auto,,Chevrolet,248,950,running,0,88
 2021,AC,2021_Midsummer_Classic_+250,2021_07,12,13,00NH,usa,Jimmy_Renfrew_Jr,"Jimmy Renfrew, Jr.",R&R Public Wholesalers,,Chevrolet,248,900,running,0,49
-2021,AC,2021_Midsummer_Classic_+250,2021_07,13,2,88VT,usa,Nick_Sweet,Nick Sweet,Sweet Motorsports,,–,248,850,running,112,60
-2021,AC,2021_Midsummer_Classic_+250,2021_07,14,15,0VT,usa,Scott_Dragon,Scott Dragon,Dragon Motorsports,,–,247,800,running,0,46
+2021,AC,2021_Midsummer_Classic_+250,2021_07,13,2,88VT,usa,Nick_Sweet,Nick Sweet,Sweet Motorsports,,-,248,850,running,112,60
+2021,AC,2021_Midsummer_Classic_+250,2021_07,14,15,0VT,usa,Scott_Dragon,Scott Dragon,Dragon Motorsports,,-,247,800,running,0,46
 2021,AC,2021_Midsummer_Classic_+250,2021_07,15,6,10NH,usa,Bryan_Mason,Bryan Mason,Mason Enterprise,,Chevrolet,247,800,running,0,43
 2021,AC,2021_Midsummer_Classic_+250,2021_07,16,24,49NH,usa,Matt_Anderson,Matt Anderson,WATTS,,Toyota,246,800,running,0,76
-2021,AC,2021_Midsummer_Classic_+250,2021_07,17,16,03NH,usa,Jason_Kenison,Jason Kenison,Kenison Motorsports,,–,246,800,running,0,39
+2021,AC,2021_Midsummer_Classic_+250,2021_07,17,16,03NH,usa,Jason_Kenison,Jason Kenison,Kenison Motorsports,,-,246,800,running,0,39
 2021,AC,2021_Midsummer_Classic_+250,2021_07,18,19,2VT,usa,Stephen_Donahue,Stephen Donahue,Norm Andrews Excavating,,Chevrolet,212,800,electrical,0,72
 2021,AC,2021_Midsummer_Classic_+250,2021_07,19,5,27NH,usa,Wayne_Helliwell_Jr,"Wayne Helliwell, Jr.",E-Keys 4 Cars / Unique Ford,,Ford,197,800,ignition,0,63
 2021,AC,2021_Midsummer_Classic_+250,2021_07,20,23,61NH,usa,Ryan_Olsen,Ryan Olsen,J & J Auto Care / NAPA FMS Auto Parts,,Chevrolet,194,800,alternator,0,68
@@ -175,13 +175,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2021,AC,2021_Midsummer_Classic_+250,2021_07,23,17,15ME,usa,Mike_Hopkins,Mike Hopkins,Port City Racecars / Hopkins Energy,,Chevrolet,155,800,suspension,0,52
 2021,AC,2021_Midsummer_Classic_+250,2021_07,24,22,21VT,usa,Reilly_Lanphear,Reilly Lanphear,Reilly Lanphear Racing,,Chevrolet,133,800,handling,0,60
 2021,AC,2021_Midsummer_Classic_+250,2021_07,25,18,78NH,usa,Quinten_Welch,Quinten Welch,Joey McGinnis Snow Plowing,,Chevrolet,122,800,suspension,0,61
-2021,AC,2021_Midsummer_Classic_+250,2021_07,26,29,74ME,usa,Justin_Eldridge,Justin Eldridge,Eldridge Motorsports,,–,78,800,suspension,0,25
+2021,AC,2021_Midsummer_Classic_+250,2021_07,26,29,74ME,usa,Justin_Eldridge,Justin Eldridge,Eldridge Motorsports,,-,78,800,suspension,0,25
 2021,AC,2021_Midsummer_Classic_+250,2021_07,27,26,39VT,usa,Mike_Foster,Mike Foster,KMI Freight Bookers,,Ford,65,800,handling,0,25
 2021,AC,2021_Midsummer_Classic_+250,2021_07,28,25,27NC,usa,Robby_Gordon_Douglas,Robby Gordon Douglas,East Derry Collision,,Chevrolet,49,800,crash,0,50
 2021,AC,2021_Midsummer_Classic_+250,2021_07,29,28,4NH,usa,Jamie_Swallow_Jr,"Jamie Swallow, Jr.",SDS Logging / Swallow & Sons Concrete,,Chevrolet,39,800,crash,0,60
-2021,AC,2021_Midsummer_Classic_+250,2021_07,30,10,58VT,usa,Jimmy_Hebert,Jimmy Hebert,Hebert Motorsports,,–,18,800,steering,0,61
+2021,AC,2021_Midsummer_Classic_+250,2021_07,30,10,58VT,usa,Jimmy_Hebert,Jimmy Hebert,Hebert Motorsports,,-,18,800,steering,0,61
 2021,AC,2021_Midsummer_Classic_+250,2021_07,31,12,5ME,usa,Dillon_Moltz,Dillon Moltz,RB Performance / Brackett Mechanical,,Chevrolet,16,800,battery,0,52
-2021,AC,2021_Oxford_Plains_125,2021_08,1,10,58VT,usa,Jimmy_Hebert,Jimmy Hebert,Hebert Motorsports,,–,125,3000,running,27,116
+2021,AC,2021_Oxford_Plains_125,2021_08,1,10,58VT,usa,Jimmy_Hebert,Jimmy Hebert,Hebert Motorsports,,-,125,3000,running,27,116
 2021,AC,2021_Oxford_Plains_125,2021_08,2,13,04VT,usa,D_J_Shaw,D.J. Shaw,A.H. Fence Co.,,Ford,125,1530,running,0,108
 2021,AC,2021_Oxford_Plains_125,2021_08,3,4,4ME,usa,Ben_Rowe,Ben Rowe,Richard Moody Racing,,Ford,125,1065,running,74,115
 2021,AC,2021_Oxford_Plains_125,2021_08,4,17,00NH,usa,Jimmy_Renfrew_Jr,"Jimmy Renfrew, Jr.",R&R Public Wholesalers,,Chevrolet,125,800,running,0,78
@@ -193,7 +193,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2021,AC,2021_Oxford_Plains_125,2021_08,10,16,31MA,usa,Trent_Goodrow,Trent Goodrow,Uppa Baby Strollers,,Chevrolet,125,625,running,0,88
 2021,AC,2021_Oxford_Plains_125,2021_08,11,22,31CT,usa,Ryan_Morgan,Ryan Morgan,Brookyn's Country View Restaurant,,Chevrolet,125,615,running,0,51
 2021,AC,2021_Oxford_Plains_125,2021_08,12,3,17ME,usa,Kris_Matchett,Kris Matchett,HP Fairfield,,Chevrolet,125,525,running,0,49
-2021,AC,2021_Oxford_Plains_125,2021_08,13,1,9NH,usa,Matt_Morrill,Matt Morrill,Morrill Motorsports,,–,125,500,running,4,52
+2021,AC,2021_Oxford_Plains_125,2021_08,13,1,9NH,usa,Matt_Morrill,Matt Morrill,Morrill Motorsports,,-,125,500,running,4,52
 2021,AC,2021_Oxford_Plains_125,2021_08,14,21,36NH,usa,Erick_Sands,Erick Sands,Seacoast Truck & Auto,,Chevrolet,125,475,running,0,80
 2021,AC,2021_Oxford_Plains_125,2021_08,15,8,25NH,usa,Jesse_Switser,Jesse Switser,Utley Construction,,Ford,125,450,running,0,81
 2021,AC,2021_Oxford_Plains_125,2021_08,16,6,2VT,usa,Stephen_Donahue,Stephen Donahue,Norm Andrews Excavating,,Chevrolet,125,450,running,0,80
@@ -212,8 +212,8 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2021,AC,2021_Optical_Expressions_Berlin_Labor_Day_Classic,2021_09,1,14,68VT,usa,Brooks_Clark,Brooks Clark,Sticks & Stuff,,Chevrolet,200,5300,running,23,117
 2021,AC,2021_Optical_Expressions_Berlin_Labor_Day_Classic,2021_09,2,12,58VT,usa,Jimmy_Hebert,Jimmy Hebert,Hebert Excavation,,Ford,200,2530,running,0,108
 2021,AC,2021_Optical_Expressions_Berlin_Labor_Day_Classic,2021_09,3,10,66VT,usa,Jason_Corliss,Jason Corliss,Burnett Scrap Metals,,Ford,200,1550,running,0,79
-2021,AC,2021_Optical_Expressions_Berlin_Labor_Day_Classic,2021_09,4,3,60NH,usa,Derrick_Odonnell,Derrick O'Donnell,O'Donnell Motorsports,,–,200,1015,running,174,86
-2021,AC,2021_Optical_Expressions_Berlin_Labor_Day_Classic,2021_09,5,6,0VT,usa,Scott_Dragon,Scott Dragon,Dragon Motorsports,,–,200,975,running,0,76
+2021,AC,2021_Optical_Expressions_Berlin_Labor_Day_Classic,2021_09,4,3,60NH,usa,Derrick_Odonnell,Derrick O'Donnell,O'Donnell Motorsports,,-,200,1015,running,174,86
+2021,AC,2021_Optical_Expressions_Berlin_Labor_Day_Classic,2021_09,5,6,0VT,usa,Scott_Dragon,Scott Dragon,Dragon Motorsports,,-,200,975,running,0,76
 2021,AC,2021_Optical_Expressions_Berlin_Labor_Day_Classic,2021_09,6,2,17VT,usa,Darrell_Morin,Darrell Morin,Grinnell Electric,,Chevrolet,200,850,running,0,71
 2021,AC,2021_Optical_Expressions_Berlin_Labor_Day_Classic,2021_09,7,7,27VT,usa,Kyle_Pembroke,Kyle Pembroke,Kinney Drugs,,Chevrolet,200,875,running,0,94
 2021,AC,2021_Optical_Expressions_Berlin_Labor_Day_Classic,2021_09,8,4,64VT,usa,Christopher_Pelkey,Christopher Pelkey,Hutch Concrete,,Chevrolet,200,750,running,0,96
@@ -257,12 +257,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2021,AC,2021_Fall_Foliage_200,2021_10,18,20,22VT,usa,Peyton_Lanphear,Peyton Lanphear,Alchemist,,Chevrolet,193,500,running,0,72
 2021,AC,2021_Fall_Foliage_200,2021_10,19,22,49NH,usa,Matt_Anderson,Matt Anderson,WATTS,,Toyota,192,500,running,0,70
 2021,AC,2021_Fall_Foliage_200,2021_10,20,14,69ME,usa,David_MacDonald,David MacDonald,DM Construction,,Chevrolet,188,500,running,0,68
-2021,AC,2021_Fall_Foliage_200,2021_10,21,13,0VT,usa,Scott_Dragon,Scott Dragon,Dragon Motorsports,,–,176,500,engine,0,31
+2021,AC,2021_Fall_Foliage_200,2021_10,21,13,0VT,usa,Scott_Dragon,Scott Dragon,Dragon Motorsports,,-,176,500,engine,0,31
 2021,AC,2021_Fall_Foliage_200,2021_10,22,21,21VT,usa,Reilly_Lanphear,Reilly Lanphear,StoweAreaRealty.com,,Chevrolet,134,500,steering,0,64
 2021,AC,2021_Fall_Foliage_200,2021_10,23,16,4NH,usa,Jamie_Swallow_Jr,"Jamie Swallow, Jr.",SDS Logging / Swallow & Sons Concrete,,Chevrolet,43,500,ignition,0,37
 2021,AC,2021_Fall_Foliage_200,2021_10,24,11,00NH,usa,Jimmy_Renfrew_Jr,"Jimmy Renfrew, Jr.",R&R Public Wholesalers,,Chevrolet,17,500,radiator,0,35
-2021,AC,2021_Fall_Foliage_200,2021_10,25,25,5MA,usa,Tom_Carey_III,Tom Carey III,Roger McHugh,,–,0,,did not start,0,0
-2021,AC,2021_Fall_Foliage_200,2021_10,26,26,30NH,usa,Rich_Dubeau,Rich Dubeau,–,,–,0,,did not start,0,0
+2021,AC,2021_Fall_Foliage_200,2021_10,25,25,5MA,usa,Tom_Carey_III,Tom Carey III,Roger McHugh,,-,0,,did not start,0,0
+2021,AC,2021_Fall_Foliage_200,2021_10,26,26,30NH,usa,Rich_Dubeau,Rich Dubeau,-,,-,0,,did not start,0,0
 2021,AC,2021_World_Series_75,2021_11,1,4,03MA,usa,Derek_Gluchacki,Derek Gluchacki,All Phases Renovations,,Ford,75,2950,running,72,125
 2021,AC,2021_World_Series_75,2021_11,2,11,04VT,usa,D_J_Shaw,D.J. Shaw,A.H. Fence Co.,,Ford,75,1530,running,0,106
 2021,AC,2021_World_Series_75,2021_11,3,5,4ME,usa,Ben_Rowe,Ben Rowe,Richard Moody Racing,,Ford,75,1065,running,0,106
@@ -286,7 +286,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2021,AC,2021_World_Series_75,2021_11,21,18,41VT,usa,Jamie_Aube,Jamie Aube,LTK Insulation,,Chevrolet,74,450,running,0,31
 2021,AC,2021_World_Series_75,2021_11,22,23,65NH,usa,Tom_Sheehan,Tom Sheehan,LTK Insulation,,Chevrolet,71,450,running,0,29
 2021,AC,2021_World_Series_75,2021_11,23,16,26VT,usa,John_Donahue,John Donahue,Wells River,,Chevrolet,40,450,crash,0,27
-2021,AC,2021_World_Series_75,2021_11,24,24,15NH,usa,Dennis_Dumas,Dennis Dumas,–,,–,0,,did not start,0,0
+2021,AC,2021_World_Series_75,2021_11,24,24,15NH,usa,Dennis_Dumas,Dennis Dumas,-,,-,0,,did not start,0,0
 2021,AC,2021_Haunted_Hundred,2021_12,1,3,4ME,usa,Ben_Rowe,Ben Rowe,Richard Moody Racing,,Ford,100,2750,running,45,116
 2021,AC,2021_Haunted_Hundred,2021_12,2,13,04VT,usa,D_J_Shaw,D.J. Shaw,A.H. Fence Co.,,Ford,100,1530,running,2,102
 2021,AC,2021_Haunted_Hundred,2021_12,3,14,36NH,usa,Erick_Sands,Erick Sands,Seacoast Truck & Auto,,Chevrolet,100,1065,running,0,105

@@ -46,7 +46,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1979,P,1979_Winston_Mesa_Marin_100,1979_02_P,10,8,08,usa,Rick_McCray,Rick McCray,Ken McCray,,Pontiac,99,425,running,0,41
 1979,P,1979_Winston_Mesa_Marin_100,1979_02_P,11,7,02,usa,Frank_Bigelow,Frank Bigelow,Bigelow Racing,,Chevrolet,99,270,running,0,40
 1979,P,1979_Winston_Mesa_Marin_100,1979_02_P,12,20,35,usa,Pat_Mintey,Pat Mintey,Stick Only,,Chevrolet,99,245,running,0,39
-1979,P,1979_Winston_Mesa_Marin_100,1979_02_P,13,19,69,new_zealand,Stuart_Lyndon,Stuart Lyndon,–,,Ford,98,225,running,0,38
+1979,P,1979_Winston_Mesa_Marin_100,1979_02_P,13,19,69,new_zealand,Stuart_Lyndon,Stuart Lyndon,-,,Ford,98,225,running,0,38
 1979,P,1979_Winston_Mesa_Marin_100,1979_02_P,14,22,80,usa,Eddie_Westwood,Eddie Westwood,Used Items,,Dodge,98,215,running,0,37
 1979,P,1979_Winston_Mesa_Marin_100,1979_02_P,15,9,78,usa,Jim_Robinson,Jim Robinson,San-Val Lumber,,Chevrolet,95,200,brakes,0,36
 1979,P,1979_Winston_Mesa_Marin_100,1979_02_P,16,17,92,usa,Chris_Monoleos,Chris Monoleos,Buckstaff,,Chevrolet,90,190,running,0,35
@@ -101,7 +101,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1979,P,1979_Reed_Cam_150,1979_04_P,8,16,10,usa,Tim_Williamson,Tim Williamson,Palmer Glass,,Oldsmobile,147,425,running,0,43
 1979,P,1979_Reed_Cam_150,1979_04_P,9,14,4,usa,Chuck_Flora,Chuck Flora,Bowers Mfg.,,Pontiac,147,400,running,0,42
 1979,P,1979_Reed_Cam_150,1979_04_P,10,27,09,usa,Bob_Fox,Bob Fox,Fox's Garage,,Buick,145,375,running,0,41
-1979,P,1979_Reed_Cam_150,1979_04_P,11,21,15,usa,Glen_Thorburn,Glen Thorburn,–,,Dodge,144,350,running,0,40
+1979,P,1979_Reed_Cam_150,1979_04_P,11,21,15,usa,Glen_Thorburn,Glen Thorburn,-,,Dodge,144,350,running,0,40
 1979,P,1979_Reed_Cam_150,1979_04_P,12,19,35,usa,Pat_Mintey,Pat Mintey,Stick Only,,Chevrolet,135,370,rear end,0,39
 1979,P,1979_Reed_Cam_150,1979_04_P,13,22,57,usa,Robert_Tartaglia,Robert Tartaglia,Don Guy Racing,,Chevrolet,130,290,running,0,38
 1979,P,1979_Reed_Cam_150,1979_04_P,14,4,18,canada,Rick_ODell,Rick O'Dell,John Edgett,,Chevrolet,121,240,running,0,37
@@ -111,10 +111,10 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1979,P,1979_Reed_Cam_150,1979_04_P,18,11,95,usa,Harry_Jefferson,Harry Jefferson,Jefferson Logging,,Ford,115,200,running,0,33
 1979,P,1979_Reed_Cam_150,1979_04_P,19,3,12,usa,David_Pearson,David Pearson,J.A. Cook,,Ford,103,190,engine,0,32
 1979,P,1979_Reed_Cam_150,1979_04_P,20,12,19,usa,LeRoy_Anderson,LeRoy Anderson,Jim Socci Racing Engines,,Pontiac,102,180,ignition,0,31
-1979,P,1979_Reed_Cam_150,1979_04_P,21,28,55,usa,Ed_Rains,Ed Rains,–,,Chevrolet,88,175,running,0,30
+1979,P,1979_Reed_Cam_150,1979_04_P,21,28,55,usa,Ed_Rains,Ed Rains,-,,Chevrolet,88,175,running,0,30
 1979,P,1979_Reed_Cam_150,1979_04_P,22,17,41,usa,Ernie_Stierly,Ernie Stierly,Allied Plating,,Chevrolet,79,170,clutch,0,29
 1979,P,1979_Reed_Cam_150,1979_04_P,23,23,26,usa,Mark_Walbridge,Mark Walbridge,Walbridge Investment Co.,,Chevrolet,69,165,oil leak,0,28
-1979,P,1979_Reed_Cam_150,1979_04_P,24,25,33,usa,Rudy_Tomich,Rudy Tomich,–,,Chevrolet,53,160,engine,0,27
+1979,P,1979_Reed_Cam_150,1979_04_P,24,25,33,usa,Rudy_Tomich,Rudy Tomich,-,,Chevrolet,53,160,engine,0,27
 1979,P,1979_Reed_Cam_150,1979_04_P,25,6,08,usa,Rick_McCray,Rick McCray,Ken McCray,,Pontiac,53,260,transmission,0,26
 1979,P,1979_Reed_Cam_150,1979_04_P,26,29,01,usa,Jimmy_Insolo,Jimmy Insolo,Allstate Building Materials,,Pontiac,51,460,crash,0,25
 1979,P,1979_Reed_Cam_150,1979_04_P,27,24,06,usa,Pappy_Pryor,Pappy Pryor,Frank's Chevrolet,,Chevrolet,50,160,oil pump,0,24
@@ -132,7 +132,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1979,P,1979_Valley_Ford_100,1979_05_P,10,14,42,usa,Phil_Goulet,Phil Goulet,Goulet Farms,,Chevrolet,98,325,running,0,41
 1979,P,1979_Valley_Ford_100,1979_05_P,11,13,78,usa,Jim_Robinson,Jim Robinson,San-Val Lumber,,Chevrolet,98,270,running,0,40
 1979,P,1979_Valley_Ford_100,1979_05_P,12,16,35,usa,Pat_Mintey,Pat Mintey,Stick Only,,Chevrolet,96,295,running,0,39
-1979,P,1979_Valley_Ford_100,1979_05_P,13,18,15,usa,Glen_Thorburn,Glen Thorburn,–,,Dodge,95,225,running,0,38
+1979,P,1979_Valley_Ford_100,1979_05_P,13,18,15,usa,Glen_Thorburn,Glen Thorburn,-,,Dodge,95,225,running,0,38
 1979,P,1979_Valley_Ford_100,1979_05_P,14,19,96,usa,Sharon_Bishop,Sharon Bishop,Bishop Enterprises,,Pontiac,94,215,running,0,37
 1979,P,1979_Valley_Ford_100,1979_05_P,15,20,18,canada,Rick_ODell,Rick O'Dell,John Edgett,,Chevrolet,91,200,running,0,36
 1979,P,1979_Valley_Ford_100,1979_05_P,16,17,57,usa,Robert_Tartaglia,Robert Tartaglia,Don Guy Racing,,Chevrolet,89,190,running,0,35
@@ -148,15 +148,15 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1979,P,1979_Kyte_Coca-Cola_100,1979_06_P,5,15,2,usa,Richard_White,Richard White,Boulevard Automotive,,Pontiac,100,530,running,0,46
 1979,P,1979_Kyte_Coca-Cola_100,1979_06_P,6,1,98,usa,Johnny_Kieper,Johnny Kieper,Wholesale Truck Parts,,Chevrolet,99,425,running,10,45
 1979,P,1979_Kyte_Coca-Cola_100,1979_06_P,7,9,08,usa,Rick_McCray,Rick McCray,Ken McCray,,Pontiac,99,380,running,0,44
-1979,P,1979_Kyte_Coca-Cola_100,1979_06_P,8,11,95,usa,Hershel_McGriff,Hershel McGriff,–,,Ford,99,360,running,0,43
+1979,P,1979_Kyte_Coca-Cola_100,1979_06_P,8,11,95,usa,Hershel_McGriff,Hershel McGriff,-,,Ford,99,360,running,0,43
 1979,P,1979_Kyte_Coca-Cola_100,1979_06_P,9,5,38,usa,Don_Waterman,Don Waterman,Waterman Racing,,Chevrolet,99,340,running,0,42
 1979,P,1979_Kyte_Coca-Cola_100,1979_06_P,10,20,35,usa,Pat_Mintey,Pat Mintey,Stick Only,,Chevrolet,97,375,running,0,41
 1979,P,1979_Kyte_Coca-Cola_100,1979_06_P,11,16,42,usa,Phil_Goulet,Phil Goulet,Goulet Farms,,Chevrolet,96,270,running,0,40
 1979,P,1979_Kyte_Coca-Cola_100,1979_06_P,12,22,57,usa,Robert_Tartaglia,Robert Tartaglia,Don Guy Racing,,Chevrolet,96,245,running,0,39
 1979,P,1979_Kyte_Coca-Cola_100,1979_06_P,13,3,18,canada,Rick_ODell,Rick O'Dell,John Edgett,,Chevrolet,92,225,running,0,38
 1979,P,1979_Kyte_Coca-Cola_100,1979_06_P,14,4,4,usa,Chuck_Flora,Chuck Flora,Bowers Mfg.,,Pontiac,82,215,ignition,0,37
-1979,P,1979_Kyte_Coca-Cola_100,1979_06_P,15,14,50,usa,Don_Dupree,Don Dupree,–,,Chevrolet,78,200,running,0,36
-1979,P,1979_Kyte_Coca-Cola_100,1979_06_P,16,24,51,usa,Don_Hume,Don Hume,–,,Chevrolet,66,190,engine,0,35
+1979,P,1979_Kyte_Coca-Cola_100,1979_06_P,15,14,50,usa,Don_Dupree,Don Dupree,-,,Chevrolet,78,200,running,0,36
+1979,P,1979_Kyte_Coca-Cola_100,1979_06_P,16,24,51,usa,Don_Hume,Don Hume,-,,Chevrolet,66,190,engine,0,35
 1979,P,1979_Kyte_Coca-Cola_100,1979_06_P,17,17,26,usa,Dan_Joiner,Dan Joiner,Joiner Racing,,Chevrolet,61,180,rear end,0,34
 1979,P,1979_Kyte_Coca-Cola_100,1979_06_P,18,2,78,usa,Jim_Robinson,Jim Robinson,San-Val Lumber,,Chevrolet,45,170,engine,29,33
 1979,P,1979_Kyte_Coca-Cola_100,1979_06_P,19,23,96,usa,Sharon_Bishop,Sharon Bishop,Bishop Enterprises,,Pontiac,45,160,water pump,0,32
@@ -164,7 +164,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1979,P,1979_Kyte_Coca-Cola_100,1979_06_P,21,7,01,usa,Jimmy_Insolo,Jimmy Insolo,Allstate Building Materials,,Pontiac,33,450,engine,0,30
 1979,P,1979_Kyte_Coca-Cola_100,1979_06_P,22,21,09,usa,Bob_Fox,Bob Fox,James Fox,,Buick,29,150,transmission,0,29
 1979,P,1979_Kyte_Coca-Cola_100,1979_06_P,23,8,73,usa,Bill_Schmitt,Bill Schmitt,Western Racing Associates,,Pontiac,10,200,crash,0,28
-1979,P,1979_Kyte_Coca-Cola_100,1979_06_P,24,18,1,usa,Don_Dowdy,Don Dowdy,–,,Chevrolet,2,150,oil leak,0,27
+1979,P,1979_Kyte_Coca-Cola_100,1979_06_P,24,18,1,usa,Don_Dowdy,Don Dowdy,-,,Chevrolet,2,150,oil leak,0,27
 1979,P,1979_Winston_Roseville_100,1979_07_P,1,1,10,usa,Tim_Williamson,Tim Williamson,Palmer Glass,,Oldsmobile,100,1770,running,100,60
 1979,P,1979_Winston_Roseville_100,1979_07_P,2,7,01,usa,Jimmy_Insolo,Jimmy Insolo,Allstate Building Materials,,Pontiac,100,1530,running,0,49
 1979,P,1979_Winston_Roseville_100,1979_07_P,3,6,73,usa,Bill_Schmitt,Bill Schmitt,Western Racing Associates,,Pontiac,100,865,running,0,48
@@ -204,11 +204,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1979,P,1979_Winston_Las_Vegas_100,1979_09_P,4,7,78,usa,Jim_Robinson,Jim Robinson,San-Val Lumber,,Chevrolet,99,500,running,0,47
 1979,P,1979_Winston_Las_Vegas_100,1979_09_P,5,5,2,usa,Richard_White,Richard White,Boulevard Automotive,,Pontiac,99,495,running,0,46
 1979,P,1979_Winston_Las_Vegas_100,1979_09_P,6,8,10,usa,Tim_Williamson,Tim Williamson,Palmer Glass,,Oldsmobile,99,325,running,0,45
-1979,P,1979_Winston_Las_Vegas_100,1979_09_P,7,9,25,usa,Bob_Barker,Bob Barker,–,,Pontiac,97,300,running,0,44
+1979,P,1979_Winston_Las_Vegas_100,1979_09_P,7,9,25,usa,Bob_Barker,Bob Barker,-,,Pontiac,97,300,running,0,44
 1979,P,1979_Winston_Las_Vegas_100,1979_09_P,8,3,35,usa,Pat_Mintey,Pat Mintey,Don's Machine Shop,,Chevrolet,94,325,running,0,43
 1979,P,1979_Winston_Las_Vegas_100,1979_09_P,9,15,14,usa,Dick_Kranzler,Dick Kranzler,Parnelli Jones Enterprises,,Chevrolet,93,260,running,0,42
-1979,P,1979_Winston_Las_Vegas_100,1979_09_P,10,14,69,new_zealand,Stuart_Lyndon,Stuart Lyndon,–,,Ford,93,230,running,0,41
-1979,P,1979_Winston_Las_Vegas_100,1979_09_P,11,13,36,usa,Doc_Faustina,Doc Faustina,–,,Chevrolet,69,200,overheating,0,0
+1979,P,1979_Winston_Las_Vegas_100,1979_09_P,10,14,69,new_zealand,Stuart_Lyndon,Stuart Lyndon,-,,Ford,93,230,running,0,41
+1979,P,1979_Winston_Las_Vegas_100,1979_09_P,11,13,36,usa,Doc_Faustina,Doc Faustina,-,,Chevrolet,69,200,overheating,0,0
 1979,P,1979_Winston_Las_Vegas_100,1979_09_P,12,11,57,usa,Robert_Tartaglia,Robert Tartaglia,Don Guy Racing,,Chevrolet,60,180,overheating,0,39
 1979,P,1979_Winston_Las_Vegas_100,1979_09_P,13,10,02,usa,Frank_Bigelow,Frank Bigelow,Bigelow Racing,,Pontiac,54,170,brakes,0,38
 1979,P,1979_Winston_Las_Vegas_100,1979_09_P,14,4,81,usa,John_Borneman,John Borneman,Borneman Plastering,,Pontiac,40,160,brakes,0,37
@@ -259,13 +259,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1979,P,1979_Evergreen_Winston_100,1979_11_P,16,22,45,usa,Leonard_Sundholm,Leonard Sundholm,Moss Bay Building Supply,,Pontiac,74,190,running,0,35
 1979,P,1979_Evergreen_Winston_100,1979_11_P,17,11,95,usa,Harry_Jefferson,Harry Jefferson,Valley,,Ford,69,180,suspension,0,34
 1979,P,1979_Evergreen_Winston_100,1979_11_P,18,10,4,usa,Chuck_Flora,Chuck Flora,C&J Racing,,Pontiac,52,170,engine,0,33
-1979,P,1979_Evergreen_Winston_100,1979_11_P,19,21,51,usa,Don_Hume,Don Hume,–,,Pontiac,50,160,crash,0,32
+1979,P,1979_Evergreen_Winston_100,1979_11_P,19,21,51,usa,Don_Hume,Don Hume,-,,Pontiac,50,160,crash,0,32
 1979,P,1979_Evergreen_Winston_100,1979_11_P,20,4,73,usa,Bill_Schmitt,Bill Schmitt,Western Racing Associates,,Pontiac,42,200,engine,0,31
 1979,P,1979_Evergreen_Winston_100,1979_11_P,21,19,29,canada,Terry_Forsythe,Terry Forsythe,Mercury Marine,,Pontiac,27,145,overheating,0,30
 1979,P,1979_Evergreen_Winston_100,1979_11_P,22,13,98,usa,Johnny_Kieper,Johnny Kieper,Wholesale Truck Parts,,Pontiac,21,140,overheating,0,29
 1979,P,1979_Evergreen_Winston_100,1979_11_P,23,23,57,usa,Robert_Tartaglia,Robert Tartaglia,Don Guy Racing,,Chevrolet,8,135,crash,0,28
 1979,P,1979_Spokane_Winston_100,1979_12_P,1,5,01,usa,Jimmy_Insolo,Jimmy Insolo,Allstate Building Materials,,Pontiac,100,2070,running,80,60
-1979,P,1979_Spokane_Winston_100,1979_12_P,2,9,24,usa,Kirk_Rogers,Kirk Rogers,–,,Pontiac,100,1205,running,9,49
+1979,P,1979_Spokane_Winston_100,1979_12_P,2,9,24,usa,Kirk_Rogers,Kirk Rogers,-,,Pontiac,100,1205,running,9,49
 1979,P,1979_Spokane_Winston_100,1979_12_P,3,12,18,canada,Rick_ODell,Rick O'Dell,J.R. Edgett Construction,,Pontiac,100,840,running,7,48
 1979,P,1979_Spokane_Winston_100,1979_12_P,4,11,8,usa,Jackie_Kuper,Jackie Kuper,S&W Construction,,Chevrolet,100,535,running,0,47
 1979,P,1979_Spokane_Winston_100,1979_12_P,5,6,11,canada,Roy_Smith,Roy Smith,Aircraft Standards,,Pontiac,100,480,running,0,46
@@ -276,9 +276,9 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1979,P,1979_Spokane_Winston_100,1979_12_P,10,13,57,usa,Robert_Tartaglia,Robert Tartaglia,Don Guy Racing,,Chevrolet,93,325,running,0,41
 1979,P,1979_Spokane_Winston_100,1979_12_P,11,15,08,usa,Rick_McCray,Rick McCray,Ken McCray,,Pontiac,92,370,running,0,40
 1979,P,1979_Spokane_Winston_100,1979_12_P,12,14,09,usa,Bob_Fox,Bob Fox,Hobert Hotel,,Buick,90,245,running,0,39
-1979,P,1979_Spokane_Winston_100,1979_12_P,13,19,98,usa,Neil_Feighner,Neil Feighner,–,,Pontiac,74,225,crash,0,0
+1979,P,1979_Spokane_Winston_100,1979_12_P,13,19,98,usa,Neil_Feighner,Neil Feighner,-,,Pontiac,74,225,crash,0,0
 1979,P,1979_Spokane_Winston_100,1979_12_P,14,4,78,usa,Jim_Robinson,Jim Robinson,San-Val Supply,,Chevrolet,68,215,running,1,37
-1979,P,1979_Spokane_Winston_100,1979_12_P,15,18,4,none,Steve_Rouse,Steve Rouse,–,,Chevrolet,48,200,oil leak,0,0
+1979,P,1979_Spokane_Winston_100,1979_12_P,15,18,4,none,Steve_Rouse,Steve Rouse,-,,Chevrolet,48,200,oil leak,0,0
 1979,P,1979_Spokane_Winston_100,1979_12_P,16,8,04,usa,Neal_Newberry,Neal Newberry,B&G Custom Auto Upholstery,,Plymouth,37,190,rear end,0,35
 1979,P,1979_Spokane_Winston_100,1979_12_P,17,3,07,usa,Jack_Jeffery,Jack Jeffery,Acoustical Drywall,,Pontiac,14,180,engine,0,34
 1979,P,1979_Spokane_Winston_100,1979_12_P,18,16,35,usa,Pat_Mintey,Pat Mintey,Don's Machine Shop,,Chevrolet,12,220,oil leak,0,33
@@ -302,7 +302,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1979,P,1979_Rose_City_Winston_100,1979_13_P,17,23,42,usa,Phil_Goulet,Phil Goulet,Goulet Farms,,Chevrolet,38,180,running,0,34
 1979,P,1979_Rose_City_Winston_100,1979_13_P,18,13,2,usa,Richard_White,Richard White,Boulevard Automotive,,Pontiac,33,220,overheating,0,33
 1979,P,1979_Rose_City_Winston_100,1979_13_P,19,19,35,usa,Pat_Mintey,Pat Mintey,Don's Machine Shop,,Chevrolet,21,210,overheating,0,32
-1979,P,1979_Rose_City_Winston_100,1979_13_P,20,20,21,usa,Ed_McCoy,Ed McCoy,–,,Chevrolet,17,150,crash,0,0
+1979,P,1979_Rose_City_Winston_100,1979_13_P,20,20,21,usa,Ed_McCoy,Ed McCoy,-,,Chevrolet,17,150,crash,0,0
 1979,P,1979_Rose_City_Winston_100,1979_13_P,21,14,29,canada,Terry_Forsythe,Terry Forsythe,Stratacraft Boats,,Pontiac,12,100,crash,0,30
 1979,P,1979_Rose_City_Winston_100,1979_13_P,22,9,08,usa,Rick_McCray,Rick McCray,Ken McCray,,Pontiac,12,200,crash,0,29
 1979,P,1979_Rose_City_Winston_100,1979_13_P,23,17,19,usa,LeRoy_Anderson,LeRoy Anderson,Jim Socci Racing Engines,,Pontiac,11,100,engine,0,28
@@ -314,7 +314,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1979,P,1979_Winston_Gardena_100,1979_14_P,6,14,96,usa,Sharon_Bishop,Sharon Bishop,Chehalis Auto Electric,,Chevrolet,91,425,running,0,45
 1979,P,1979_Winston_Gardena_100,1979_14_P,7,9,91,usa,John_Krebs,John Krebs,AMW Plastering,,Buick,87,380,running,0,44
 1979,P,1979_Winston_Gardena_100,1979_14_P,8,13,92,usa,Chris_Monoleos,Chris Monoleos,Buckstaff,,Chevrolet,86,360,running,0,43
-1979,P,1979_Winston_Gardena_100,1979_14_P,9,10,40,none,Andy_Hall,Andy Hall,–,,Chevrolet,84,340,suspension,0,42
+1979,P,1979_Winston_Gardena_100,1979_14_P,9,10,40,none,Andy_Hall,Andy Hall,-,,Chevrolet,84,340,suspension,0,42
 1979,P,1979_Winston_Gardena_100,1979_14_P,10,11,35,usa,Pat_Mintey,Pat Mintey,Don's Machine Shop,,Chevrolet,70,375,overheating,0,41
 1979,P,1979_Winston_Gardena_100,1979_14_P,11,6,32,usa,Ed_Sauer,Ed Sauer,Midland Motor Homes,,Dodge,70,270,running,0,40
 1979,P,1979_Winston_Gardena_100,1979_14_P,12,7,2,usa,Richard_White,Richard White,Boulevard Automotive,,Pontiac,65,295,overheating,52,39

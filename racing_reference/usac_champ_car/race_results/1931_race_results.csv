@@ -50,9 +50,9 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1931,UO,1931_Detroit_Race,1931_02,9,8,34,usa,Fred_Frame,Fred Frame,Duesenberg,,Duesenberg / Duesenberg,100,,running,0,20
 1931,UO,1931_Detroit_Race,1931_02,10,13,27,usa,Chet_Miller,Chet Miller,Buddy Marr,,Hudson / Hudson,100,,running,0,10
 1931,UO,1931_Detroit_Race,1931_02,11,7,6,usa,Wilbur_Shaw,Wilbur Shaw,Duesenberg,,Duesenberg / Duesenberg,100,,running,0,
-1931,UO,1931_Detroit_Race,1931_02,12,4,15,usa,Shorty_Cantlon,Shorty Cantlon,All Oil,,Miller / Miller,–,,valve,0,
-1931,UO,1931_Detroit_Race,1931_02,13,9,39,usa,Babe_Stapp,Babe Stapp,Herman Rigling & H.C. Henning,,Rigling / Duesenberg,–,,connecting rod,0,
-1931,UO,1931_Detroit_Race,1931_02,14,11,26,usa,Gene_Haustein,Gene Haustein,Mistle Fronty,,Ford T / Fronty-Ford,–,,head gasket,0,
+1931,UO,1931_Detroit_Race,1931_02,12,4,15,usa,Shorty_Cantlon,Shorty Cantlon,All Oil,,Miller / Miller,-,,valve,0,
+1931,UO,1931_Detroit_Race,1931_02,13,9,39,usa,Babe_Stapp,Babe Stapp,Herman Rigling & H.C. Henning,,Rigling / Duesenberg,-,,connecting rod,0,
+1931,UO,1931_Detroit_Race,1931_02,14,11,26,usa,Gene_Haustein,Gene Haustein,Mistle Fronty,,Ford T / Fronty-Ford,-,,head gasket,0,
 1931,UO,1931_Altoona_Race_1,1931_03,1,3,14,usa,Lou_Moore,Lou Moore,Boyle Valve,,Miller / Miller,80,,running,80,120
 1931,UO,1931_Altoona_Race_1,1931_03,2,7,33,usa,Jimmy_Gleason,Jimmy Gleason,Duesenberg,,Duesenberg / Duesenberg,80,,running,0,90
 1931,UO,1931_Altoona_Race_1,1931_03,3,8,6,usa,Wilbur_Shaw,Wilbur Shaw,Duesenberg,,Duesenberg / Duesenberg,80,,running,0,80
@@ -68,34 +68,34 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1931,UO,1931_Altoona_Race_1,1931_03,13,10,27,usa,Chet_Miller,Chet Miller,Buddy Marr,,Hudson / Hudson,29,,rr wheel,0,
 1931,UO,1931_Altoona_Race_1,1931_03,14,12,58,usa,George_Wingerter,George Wingerter,Duesenberg,,Duesenberg / Duesenberg,2,,engine,0,
 1931,UO,1931_Altoona_Race_1,1931_03,15,15,88,usa,Bill_Denver,Bill Denver,Ray Brady,,Hudson / Hudson,0,,did not start,0,
-1931,UO,1931_Altoona_Heat_1,1931_04,1,2,33,usa,Jimmy_Gleason,Jimmy Gleason,Duesenberg,,Duesenberg / Duesenberg,20,,running,–,30
-1931,UO,1931_Altoona_Heat_1,1931_04,2,7,57,usa,Zeke_Meyer,Zeke Meyer,Bill Richards,,Hudson / Hudson,20,,running,–,22.5
-1931,UO,1931_Altoona_Heat_1,1931_04,3,5,2,usa,Shorty_Cantlon,Shorty Cantlon,Bowes Seal Fast,,Miller / Miller,20,,running,–,20
-1931,UO,1931_Altoona_Heat_1,1931_04,4,6,36,usa,Paul_Bost,Paul Bost,Jones-Miller,,Willys-Knight / Miller,20,,running,–,17.5
-1931,UO,1931_Altoona_Heat_1,1931_04,5,8,25,usa,Deacon_Litz,Deacon Litz,Buckeye Duesenberg,,Duesenberg / Duesenberg,20,,running,–,15
-1931,UO,1931_Altoona_Heat_1,1931_04,6,10,27,usa,Chet_Miller,Chet Miller,Buddy Marr,,Hudson / Hudson,20,,running,–,12.5
-1931,UO,1931_Altoona_Heat_1,1931_04,7,9,23,usa,Louis_Schneider,Louis Schneider,Bowes Seal Fast,,Stevens / Miller,20,,running,–,10
-1931,UO,1931_Altoona_Heat_1,1931_04,8,11,3,usa,Bill_Cummings,Bill Cummings,Empire State Gas Motors,,Cooper / Miller,20,,running,–,7.5
-1931,UO,1931_Altoona_Heat_1,1931_04,9,15,68,usa,Speed_Gardner,Speed Gardner,Jones-Miller,,Miller / Miller,20,,running,–,5
-1931,UO,1931_Altoona_Heat_1,1931_04,10,13,88,usa,Bill_Denver,Bill Denver,Ray Brady,,Hudson / Hudson,20,,running,–,2.5
-1931,UO,1931_Altoona_Heat_1,1931_04,11,14,35,usa,M_C_Jones,M.C. Jones,Jones-Miller,,Willys-Knight / Miller,20,,running,–,
-1931,UO,1931_Altoona_Heat_1,1931_04,12,16,42,usa,Al_Aspen,Al Aspen,Ray Brady & Gabriel Nardi,,Duesenberg / Duesenberg,20,,running,–,
-1931,UO,1931_Altoona_Heat_1,1931_04,13,1,14,usa,Lou_Moore,Lou Moore,Boyle Valve,,Miller / Miller,17,,crash,–,
-1931,UO,1931_Altoona_Heat_1,1931_04,14,3,6,usa,Wilbur_Shaw,Wilbur Shaw,Duesenberg,,Duesenberg / Duesenberg,13,,timing gear,–,
-1931,UO,1931_Altoona_Heat_1,1931_04,15,4,34,usa,Fred_Frame,Fred Frame,Duesenberg,,Duesenberg / Duesenberg,11,,piston,–,
-1931,UO,1931_Altoona_Heat_1,1931_04,16,12,59,usa,Sam_Ross,Sam Ross,Miller,,Rigling / Miller,2,,engine,–,
-1931,UO,1931_Altoona_Heat_1,1931_04,17,17,19,usa,Ralph_Hepburn,Ralph Hepburn,Harry Miller,,Miller / Miller,0,,did not start,–,
-1931,UO,1931_Altoona_Heat_2,1931_05,1,1,2,usa,Shorty_Cantlon,Shorty Cantlon,Bowes Seal Fast,,Miller / Miller,20,,running,–,30
-1931,UO,1931_Altoona_Heat_2,1931_05,2,3,57,usa,Zeke_Meyer,Zeke Meyer,Bill Richards,,Hudson / Hudson,20,,running,–,22.5
-1931,UO,1931_Altoona_Heat_2,1931_05,3,2,36,usa,Paul_Bost,Paul Bost,Jones-Miller,,Willys-Knight / Miller,20,,running,–,20
-1931,UO,1931_Altoona_Heat_2,1931_05,4,4,25,usa,Deacon_Litz,Deacon Litz,Buckeye Duesenberg,,Duesenberg / Duesenberg,20,,running,–,17.5
-1931,UO,1931_Altoona_Heat_2,1931_05,5,6,27,usa,Chet_Miller,Chet Miller,Buddy Marr,,Hudson / Hudson,20,,running,–,15
-1931,UO,1931_Altoona_Heat_2,1931_05,6,5,23,usa,Louis_Schneider,Louis Schneider,Bowes Seal Fast,,Stevens / Miller,20,,running,–,12.5
-1931,UO,1931_Altoona_Heat_2,1931_05,7,7,3,usa,Bill_Cummings,Bill Cummings,Empire State Gas Motors,,Cooper / Miller,20,,running,–,10
-1931,UO,1931_Altoona_Heat_2,1931_05,8,10,35,usa,M_C_Jones,M.C. Jones,Jones-Miller,,Willys-Knight / Miller,20,,running,–,7.5
-1931,UO,1931_Altoona_Heat_2,1931_05,9,11,42,usa,Al_Aspen,Al Aspen,Ray Brady & Gabriel Nardi,,Duesenberg / Duesenberg,20,,running,–,5
-1931,UO,1931_Altoona_Heat_2,1931_05,10,9,88,usa,Bill_Denver,Bill Denver,Ray Brady,,Hudson / Hudson,20,,running,–,2.5
-1931,UO,1931_Altoona_Heat_2,1931_05,11,8,59,usa,Sam_Ross,Sam Ross,Miller,,Rigling / Miller,17,,running,–,
+1931,UO,1931_Altoona_Heat_1,1931_04,1,2,33,usa,Jimmy_Gleason,Jimmy Gleason,Duesenberg,,Duesenberg / Duesenberg,20,,running,-,30
+1931,UO,1931_Altoona_Heat_1,1931_04,2,7,57,usa,Zeke_Meyer,Zeke Meyer,Bill Richards,,Hudson / Hudson,20,,running,-,22.5
+1931,UO,1931_Altoona_Heat_1,1931_04,3,5,2,usa,Shorty_Cantlon,Shorty Cantlon,Bowes Seal Fast,,Miller / Miller,20,,running,-,20
+1931,UO,1931_Altoona_Heat_1,1931_04,4,6,36,usa,Paul_Bost,Paul Bost,Jones-Miller,,Willys-Knight / Miller,20,,running,-,17.5
+1931,UO,1931_Altoona_Heat_1,1931_04,5,8,25,usa,Deacon_Litz,Deacon Litz,Buckeye Duesenberg,,Duesenberg / Duesenberg,20,,running,-,15
+1931,UO,1931_Altoona_Heat_1,1931_04,6,10,27,usa,Chet_Miller,Chet Miller,Buddy Marr,,Hudson / Hudson,20,,running,-,12.5
+1931,UO,1931_Altoona_Heat_1,1931_04,7,9,23,usa,Louis_Schneider,Louis Schneider,Bowes Seal Fast,,Stevens / Miller,20,,running,-,10
+1931,UO,1931_Altoona_Heat_1,1931_04,8,11,3,usa,Bill_Cummings,Bill Cummings,Empire State Gas Motors,,Cooper / Miller,20,,running,-,7.5
+1931,UO,1931_Altoona_Heat_1,1931_04,9,15,68,usa,Speed_Gardner,Speed Gardner,Jones-Miller,,Miller / Miller,20,,running,-,5
+1931,UO,1931_Altoona_Heat_1,1931_04,10,13,88,usa,Bill_Denver,Bill Denver,Ray Brady,,Hudson / Hudson,20,,running,-,2.5
+1931,UO,1931_Altoona_Heat_1,1931_04,11,14,35,usa,M_C_Jones,M.C. Jones,Jones-Miller,,Willys-Knight / Miller,20,,running,-,
+1931,UO,1931_Altoona_Heat_1,1931_04,12,16,42,usa,Al_Aspen,Al Aspen,Ray Brady & Gabriel Nardi,,Duesenberg / Duesenberg,20,,running,-,
+1931,UO,1931_Altoona_Heat_1,1931_04,13,1,14,usa,Lou_Moore,Lou Moore,Boyle Valve,,Miller / Miller,17,,crash,-,
+1931,UO,1931_Altoona_Heat_1,1931_04,14,3,6,usa,Wilbur_Shaw,Wilbur Shaw,Duesenberg,,Duesenberg / Duesenberg,13,,timing gear,-,
+1931,UO,1931_Altoona_Heat_1,1931_04,15,4,34,usa,Fred_Frame,Fred Frame,Duesenberg,,Duesenberg / Duesenberg,11,,piston,-,
+1931,UO,1931_Altoona_Heat_1,1931_04,16,12,59,usa,Sam_Ross,Sam Ross,Miller,,Rigling / Miller,2,,engine,-,
+1931,UO,1931_Altoona_Heat_1,1931_04,17,17,19,usa,Ralph_Hepburn,Ralph Hepburn,Harry Miller,,Miller / Miller,0,,did not start,-,
+1931,UO,1931_Altoona_Heat_2,1931_05,1,1,2,usa,Shorty_Cantlon,Shorty Cantlon,Bowes Seal Fast,,Miller / Miller,20,,running,-,30
+1931,UO,1931_Altoona_Heat_2,1931_05,2,3,57,usa,Zeke_Meyer,Zeke Meyer,Bill Richards,,Hudson / Hudson,20,,running,-,22.5
+1931,UO,1931_Altoona_Heat_2,1931_05,3,2,36,usa,Paul_Bost,Paul Bost,Jones-Miller,,Willys-Knight / Miller,20,,running,-,20
+1931,UO,1931_Altoona_Heat_2,1931_05,4,4,25,usa,Deacon_Litz,Deacon Litz,Buckeye Duesenberg,,Duesenberg / Duesenberg,20,,running,-,17.5
+1931,UO,1931_Altoona_Heat_2,1931_05,5,6,27,usa,Chet_Miller,Chet Miller,Buddy Marr,,Hudson / Hudson,20,,running,-,15
+1931,UO,1931_Altoona_Heat_2,1931_05,6,5,23,usa,Louis_Schneider,Louis Schneider,Bowes Seal Fast,,Stevens / Miller,20,,running,-,12.5
+1931,UO,1931_Altoona_Heat_2,1931_05,7,7,3,usa,Bill_Cummings,Bill Cummings,Empire State Gas Motors,,Cooper / Miller,20,,running,-,10
+1931,UO,1931_Altoona_Heat_2,1931_05,8,10,35,usa,M_C_Jones,M.C. Jones,Jones-Miller,,Willys-Knight / Miller,20,,running,-,7.5
+1931,UO,1931_Altoona_Heat_2,1931_05,9,11,42,usa,Al_Aspen,Al Aspen,Ray Brady & Gabriel Nardi,,Duesenberg / Duesenberg,20,,running,-,5
+1931,UO,1931_Altoona_Heat_2,1931_05,10,9,88,usa,Bill_Denver,Bill Denver,Ray Brady,,Hudson / Hudson,20,,running,-,2.5
+1931,UO,1931_Altoona_Heat_2,1931_05,11,8,59,usa,Sam_Ross,Sam Ross,Miller,,Rigling / Miller,17,,running,-,
 1931,UO,1931_Altoona_Main,1931_06,1,1,2,usa,Shorty_Cantlon,Shorty Cantlon,Bowes Seal Fast,,Miller / Miller,80,,running,29,120
 1931,UO,1931_Altoona_Main,1931_06,2,7,3,usa,Bill_Cummings,Bill Cummings,Empire State Gas Motors,,Cooper / Miller,80,,running,51,90
 1931,UO,1931_Altoona_Main,1931_06,3,5,27,usa,Chet_Miller,Chet Miller,Buddy Marr,,Hudson / Hudson,80,,running,0,80
@@ -108,19 +108,19 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 1931,UO,1931_Altoona_Main,1931_06,10,9,88,usa,Bill_Denver,Bill Denver,Ray Brady,,Hudson / Hudson,80,,running,0,10
 1931,UO,1931_Altoona_Main,1931_06,11,3,57,usa,Zeke_Meyer,Zeke Meyer,Bill Richards,,Hudson / Hudson,28,,valve,0,
 1931,UO,1931_Altoona_Main,1931_06,12,12,33,usa,Jimmy_Gleason,Jimmy Gleason,Duesenberg,,Duesenberg / Duesenberg,0,,did not start,0,
-1931,UO,1931_Syracuse_Race,1931_07,1,5,14,usa,Lou_Moore,Lou Moore,Boyle Valve,,Miller / Miller,100,,running,–,120
-1931,UO,1931_Syracuse_Race,1931_07,2,6,59,usa,Sam_Ross,Sam Ross,Miller,,Rigling / Miller,100,,running,–,90
-1931,UO,1931_Syracuse_Race,1931_07,3,1,3,usa,Shorty_Cantlon,Shorty Cantlon,Empire State Gas Motors,,Cooper / Miller,100,,running,–,76
-1931,UO,1931_Syracuse_Race,1931_07,4,9,26,usa,Gene_Haustein,Gene Haustein,Mistle Fronty,,Ford T / Fronty-Ford,100,,running,–,70
-1931,UO,1931_Syracuse_Race,1931_07,5,12,27,usa,Chet_Miller,Chet Miller,Buddy Marr,,Hudson / Hudson,100,,running,–,60
-1931,UO,1931_Syracuse_Race,1931_07,6,8,41,usa,Herman_Schurch,Herman Schurch,Miller,,Miller / Miller,100,,running,–,50
-1931,UO,1931_Syracuse_Race,1931_07,7,16,42,usa,Al_Aspen,Al Aspen,Ray Brady & Gabriel Nardi,,Duesenberg / Duesenberg,100,,running,–,40
-1931,UO,1931_Syracuse_Race,1931_07,8,13,22,usa,Doc_MacKenzie,Doc MacKenzie,Hawkeye,,Duesenberg / Duesenberg,100,,running,–,30
-1931,UO,1931_Syracuse_Race,1931_07,9,11,88,usa,Bill_Denver,Bill Denver,Ray Brady,,Hudson / Hudson,100,,running,–,20
-1931,UO,1931_Syracuse_Race,1931_07,10,2,4,usa,Russ_Snowberger,Russ Snowberger,Russell 8,,Snowberger / Studebaker,51,,engine,–,
-1931,UO,1931_Syracuse_Race,1931_07,11,7,61,usa,Wilbur_Shaw,Wilbur Shaw,Duesenberg,,Duesenberg / Duesenberg,48,,connecting rod,–,
-1931,UO,1931_Syracuse_Race,1931_07,12,4,34,usa,Fred_Frame,Fred Frame,Duesenberg,,Duesenberg / Duesenberg,22,,carburetor,–,
-1931,UO,1931_Syracuse_Race,1931_07,13,3,19,usa,Ralph_Hepburn,Ralph Hepburn,Harry Miller,,Miller / Miller,17,,quit,–,
-1931,UO,1931_Syracuse_Race,1931_07,14,10,36,usa,Paul_Bost,Paul Bost,Jones-Miller,,Willys-Knight / Miller,11,,connecting rod,–,
-1931,UO,1931_Syracuse_Race,1931_07,15,14,23,usa,Louis_Schneider,Louis Schneider,Bowes Seal Fast,,Stevens / Miller,8,,quit,–,
-1931,UO,1931_Syracuse_Race,1931_07,16,15,25,usa,Deacon_Litz,Deacon Litz,Buckeye Duesenberg,,Duesenberg / Duesenberg,7,,quit,–,
+1931,UO,1931_Syracuse_Race,1931_07,1,5,14,usa,Lou_Moore,Lou Moore,Boyle Valve,,Miller / Miller,100,,running,-,120
+1931,UO,1931_Syracuse_Race,1931_07,2,6,59,usa,Sam_Ross,Sam Ross,Miller,,Rigling / Miller,100,,running,-,90
+1931,UO,1931_Syracuse_Race,1931_07,3,1,3,usa,Shorty_Cantlon,Shorty Cantlon,Empire State Gas Motors,,Cooper / Miller,100,,running,-,76
+1931,UO,1931_Syracuse_Race,1931_07,4,9,26,usa,Gene_Haustein,Gene Haustein,Mistle Fronty,,Ford T / Fronty-Ford,100,,running,-,70
+1931,UO,1931_Syracuse_Race,1931_07,5,12,27,usa,Chet_Miller,Chet Miller,Buddy Marr,,Hudson / Hudson,100,,running,-,60
+1931,UO,1931_Syracuse_Race,1931_07,6,8,41,usa,Herman_Schurch,Herman Schurch,Miller,,Miller / Miller,100,,running,-,50
+1931,UO,1931_Syracuse_Race,1931_07,7,16,42,usa,Al_Aspen,Al Aspen,Ray Brady & Gabriel Nardi,,Duesenberg / Duesenberg,100,,running,-,40
+1931,UO,1931_Syracuse_Race,1931_07,8,13,22,usa,Doc_MacKenzie,Doc MacKenzie,Hawkeye,,Duesenberg / Duesenberg,100,,running,-,30
+1931,UO,1931_Syracuse_Race,1931_07,9,11,88,usa,Bill_Denver,Bill Denver,Ray Brady,,Hudson / Hudson,100,,running,-,20
+1931,UO,1931_Syracuse_Race,1931_07,10,2,4,usa,Russ_Snowberger,Russ Snowberger,Russell 8,,Snowberger / Studebaker,51,,engine,-,
+1931,UO,1931_Syracuse_Race,1931_07,11,7,61,usa,Wilbur_Shaw,Wilbur Shaw,Duesenberg,,Duesenberg / Duesenberg,48,,connecting rod,-,
+1931,UO,1931_Syracuse_Race,1931_07,12,4,34,usa,Fred_Frame,Fred Frame,Duesenberg,,Duesenberg / Duesenberg,22,,carburetor,-,
+1931,UO,1931_Syracuse_Race,1931_07,13,3,19,usa,Ralph_Hepburn,Ralph Hepburn,Harry Miller,,Miller / Miller,17,,quit,-,
+1931,UO,1931_Syracuse_Race,1931_07,14,10,36,usa,Paul_Bost,Paul Bost,Jones-Miller,,Willys-Knight / Miller,11,,connecting rod,-,
+1931,UO,1931_Syracuse_Race,1931_07,15,14,23,usa,Louis_Schneider,Louis Schneider,Bowes Seal Fast,,Stevens / Miller,8,,quit,-,
+1931,UO,1931_Syracuse_Race,1931_07,16,15,25,usa,Deacon_Litz,Deacon Litz,Buckeye Duesenberg,,Duesenberg / Duesenberg,7,,quit,-,

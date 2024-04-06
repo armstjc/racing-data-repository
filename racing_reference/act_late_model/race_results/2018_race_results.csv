@@ -24,7 +24,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2018,AC,2018_Community_Bank_150,2018_01,23,6,5VT,usa,Bobby_Therrien,Bobby Therrien,Casella Waste,,Chevrolet,94,530,crash,0,62
 2018,AC,2018_Community_Bank_150,2018_01,24,23,30NH,usa,Rich_Dubeau,Rich Dubeau,Upper Valley Equipment Rental,,Toyota,77,520,engine,0,60
 2018,AC,2018_Community_Bank_150,2018_01,25,19,91QC,canada,Patrick_Laperle,Patrick Laperle,Laperle Motorsports,,Ford,75,510,crash,0,38
-2018,AC,2018_Community_Bank_150,2018_01,26,2,78CT,usa,"Walter_Sutcliffe,_Jr","Walter Sutcliffe, Jr.",Sutcliffe Motorsports,,–,73,500,handling,0,37
+2018,AC,2018_Community_Bank_150,2018_01,26,2,78CT,usa,"Walter_Sutcliffe,_Jr","Walter Sutcliffe, Jr.",Sutcliffe Motorsports,,-,73,500,handling,0,37
 2018,AC,2018_Community_Bank_150,2018_01,27,16,5MA,usa,Tom_Carey_III,Tom Carey III,Brookside Equipment Sales,,Chevrolet,41,500,crash,0,38
 2018,AC,2018_Community_Bank_150,2018_01,28,14,10NH,usa,Bryan_Mason,Bryan Mason,Mason Motorsports,,Chevrolet,38,500,handling,0,61
 2018,AC,2018_Community_Bank_150,2018_01,29,27,1NH,usa,Corey_Mason,Corey Mason,J.D. Plumbing & Heating,,Chevrolet,16,500,engine,0,60
@@ -56,7 +56,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2018,AC,2018_New_Hampshire_Governors_Cup_150,2018_02,25,21,04MA,usa,C_J_McLaughlin,C.J. McLaughlin,Eagle Leasing,,Chevrolet,68,500,handling,0,25
 2018,AC,2018_Oxford_150,2018_03,1,2,17MA,usa,Eddie_MacDonald_(2),Eddie MacDonald,Exit Realty / Beatrice Associates,,Chevrolet,150,5175,running,74,118
 2018,AC,2018_Oxford_150,2018_03,2,4,58VT,usa,Jimmy_Hebert,Jimmy Hebert,Hebert Excavation,,Chevrolet,150,2545,running,0,106
-2018,AC,2018_Oxford_150,2018_03,3,1,88VT,usa,Nick_Sweet,Nick Sweet,NES Enterprise,,–,150,1525,running,76,78
+2018,AC,2018_Oxford_150,2018_03,3,1,88VT,usa,Nick_Sweet,Nick Sweet,NES Enterprise,,-,150,1525,running,76,78
 2018,AC,2018_Oxford_150,2018_03,4,8,1NH,usa,Corey_Mason,Corey Mason,J.D. Plumbing & Heating,,Chevrolet,150,1200,running,0,104
 2018,AC,2018_Oxford_150,2018_03,5,10,37VT,usa,Scott_Payea,Scott Payea,Harrison Redi-Mix,,Dodge,149,1075,running,0,101
 2018,AC,2018_Oxford_150,2018_03,6,17,5VT,usa,Bobby_Therrien,Bobby Therrien,Casella Waste,,Chevrolet,149,856,running,0,86
@@ -160,7 +160,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2018,AC,2018_Autosaver_Group_150,2018_07,5,6,1NH,usa,Corey_Mason,Corey Mason,J.D. Plumbing & Heating,,Chevrolet,150,775,running,0,102
 2018,AC,2018_Autosaver_Group_150,2018_07,6,8,78NH,usa,Quinten_Welch,Quinten Welch,Hiltz Excavating,,Chevrolet,150,640,running,0,99
 2018,AC,2018_Autosaver_Group_150,2018_07,7,15,2VT,usa,Stephen_Donahue,Stephen Donahue,Bolduc Metal Recycling,,Chevrolet,150,655,running,0,95
-2018,AC,2018_Autosaver_Group_150,2018_07,8,1,11NY,usa,Josh_Masterson,Josh Masterson,Masterson Motorsports,,–,150,620,running,0,59
+2018,AC,2018_Autosaver_Group_150,2018_07,8,1,11NY,usa,Josh_Masterson,Josh Masterson,Masterson Motorsports,,-,150,620,running,0,59
 2018,AC,2018_Autosaver_Group_150,2018_07,9,18,21NH,usa,Oren_Remick,Oren Remick,Promis,,Chevrolet,150,610,running,0,67
 2018,AC,2018_Autosaver_Group_150,2018_07,10,5,72MA,usa,Ryan_Kuhn,Ryan Kuhn,Everett's Auto Parts,,Chevrolet,150,625,running,0,57
 2018,AC,2018_Autosaver_Group_150,2018_07,11,21,15VT,usa,Craig_Bushey,Craig Bushey,Bushey Motorsports,,Ford,149,550,running,0,51
@@ -168,9 +168,9 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2018,AC,2018_Autosaver_Group_150,2018_07,13,7,3NH,usa,Mike_Kenison,Mike Kenison,D.K. & Sons Auto Repair,,Chevrolet,149,500,running,0,50
 2018,AC,2018_Autosaver_Group_150,2018_07,14,9,7NH,usa,Dylan_Payea,Dylan Payea,www.sweetheartsandheroes.com,,Chevrolet,149,475,running,0,81
 2018,AC,2018_Autosaver_Group_150,2018_07,15,13,22NH,usa,Scott_Corey,Scott Corey,WAWEO Auto Repair,,Toyota,149,450,running,0,79
-2018,AC,2018_Autosaver_Group_150,2018_07,16,19,74VT,usa,Jerry_Lesage,Jerry Lesage,Lesage Motorsports,,–,148,440,running,0,76
+2018,AC,2018_Autosaver_Group_150,2018_07,16,19,74VT,usa,Jerry_Lesage,Jerry Lesage,Lesage Motorsports,,-,148,440,running,0,76
 2018,AC,2018_Autosaver_Group_150,2018_07,17,23,11QC,canada,Claude_Leclerc,Claude Leclerc,Prolon Racing Attache Montreal,,Chevrolet,148,430,running,0,74
-2018,AC,2018_Autosaver_Group_150,2018_07,18,29,7MA,usa,Paul_Newcomb_Jr,"Paul Newcomb, Jr.",Newcomb Motorsports,,–,147,420,running,0,62
+2018,AC,2018_Autosaver_Group_150,2018_07,18,29,7MA,usa,Paul_Newcomb_Jr,"Paul Newcomb, Jr.",Newcomb Motorsports,,-,147,420,running,0,62
 2018,AC,2018_Autosaver_Group_150,2018_07,19,22,9MA,usa,Brian_Tagg,Brian Tagg,Harvest Moon Health Foods,,Chevrolet,147,410,running,0,70
 2018,AC,2018_Autosaver_Group_150,2018_07,20,30,26VT,usa,John_Donahue,John Donahue,Donahue Motorsports,,Chevrolet,147,400,running,0,33
 2018,AC,2018_Autosaver_Group_150,2018_07,21,24,77MA,usa,Jimmy_Linardy,Jimmy Linardy,Kayem Hot Dogs,,Chevrolet,146,400,running,0,66

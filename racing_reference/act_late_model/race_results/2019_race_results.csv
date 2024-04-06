@@ -60,7 +60,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2019,AC,2019_Community_Bank_150,2019_02,23,26,94VT,usa,Brendan_Moodie,Brendan Moodie,Sunset Motor Inn,,Chevrolet,72,530,engine,0,62
 2019,AC,2019_Community_Bank_150,2019_02,24,17,25VT,usa,Trevor_Lyman,Trevor Lyman,USAC,,Chevrolet,65,520,handling,0,37
 2019,AC,2019_Community_Bank_150,2019_02,25,12,10VT,usa,Josh_Demers,Josh Demers,Demers Auto,,Chevrolet,52,510,transmission,0,35
-2019,AC,2019_Community_Bank_150,2019_02,26,20,17VT,usa,Darrell_Morin,Darrell Morin,Morin Motorsports,,–,52,500,crash,0,35
+2019,AC,2019_Community_Bank_150,2019_02,26,20,17VT,usa,Darrell_Morin,Darrell Morin,Morin Motorsports,,-,52,500,crash,0,35
 2019,AC,2019_Caron_Fabrication_Spring_Green,2019_03,1,7,37VT,usa,Scott_Payea,Scott Payea,RPM Racing Engines,,Dodge,119,2725,running,69,125
 2019,AC,2019_Caron_Fabrication_Spring_Green,2019_03,2,12,78NH,usa,Quinten_Welch,Quinten Welch,Joe McInnis Snowplowing,,Chevrolet,119,1545,running,2,113
 2019,AC,2019_Caron_Fabrication_Spring_Green,2019_03,3,6,30NH,usa,Rich_Dubeau,Rich Dubeau,Upper Valley Equipment Rental,,Toyota,119,1025,running,20,107
@@ -85,7 +85,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2019,AC,2019_Caron_Fabrication_Spring_Green,2019_03,22,15,9VT,usa,Chip_Grenier,Chip Grenier,Grenier Motorsports,,Ford,85,400,handing,0,65
 2019,AC,2019_Caron_Fabrication_Spring_Green,2019_03,23,30,21VT,usa,Reilly_Lanphear,Reilly Lanphear,Harrison Concrete & Redi Mix,,Chevrolet,71,400,handing,0,62
 2019,AC,2019_Caron_Fabrication_Spring_Green,2019_03,24,3,10ME,usa,Jesse_Switser,Jesse Switser,Creative Counters,,Chevrolet,63,400,procedure,0,35
-2019,AC,2019_Caron_Fabrication_Spring_Green,2019_03,25,14,22NH,usa,Scott_Corey,Scott Corey,Corey Motorsports,,–,63,400,handing,0,37
+2019,AC,2019_Caron_Fabrication_Spring_Green,2019_03,25,14,22NH,usa,Scott_Corey,Scott Corey,Corey Motorsports,,-,63,400,handing,0,37
 2019,AC,2019_Caron_Fabrication_Spring_Green,2019_03,26,26,31MA,usa,Trent_Goodrow,Trent Goodrow,Goodrow Motorsports,,Chevrolet,63,400,crash,0,60
 2019,AC,2019_Caron_Fabrication_Spring_Green,2019_03,27,1,27NH,usa,Wayne_Helliwell_Jr,"Wayne Helliwell, Jr.",E-Keys 4 Cars,,Ford,48,400,handing,18,66
 2019,AC,2019_Caron_Fabrication_Spring_Green,2019_03,28,8,3NH,usa,Mike_Kenison,Mike Kenison,Caron Fabrication,,Chevrolet,28,400,crash,0,37
@@ -114,7 +114,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2019,AC,2019_Claude_Leclerc_150,2019_04,21,19,03QC,canada,Sebastien_Couture,Sebastien Couture,Piche Logitex,,Chevrolet,134,500,crash,0,56
 2019,AC,2019_Claude_Leclerc_150,2019_04,22,21,25QC,canada,Pier-Luc_Labbe,Pier-Luc Labbe,Les Ateliers / Precitech,,Chevrolet,95,500,crash,0,54
 2019,AC,2019_Claude_Leclerc_150,2019_04,23,22,33QC,canada,Remi_Perreault,Remi Perreault,Artopex,,Chevrolet,81,500,crash,0,52
-2019,AC,2019_Claude_Leclerc_150,2019_04,24,18,2QC,canada,Dany_Poulin,Dany Poulin,Pieces d'Autos,,–,73,500,procedure,0,25
+2019,AC,2019_Claude_Leclerc_150,2019_04,24,18,2QC,canada,Dany_Poulin,Dany Poulin,Pieces d'Autos,,-,73,500,procedure,0,25
 2019,AC,2019_Claude_Leclerc_150,2019_04,25,7,48QC,canada,Alex_Guenette,Alex Guenette,Larue Industrial Snow Blowers,,Chevrolet,58,500,driveshaft,0,27
 2019,AC,2019_Claude_Leclerc_150,2019_04,26,13,22QC,canada,Christophe_Paquet,Christophe Paquet,Developpement SCP,,Toyota,37,500,mechanical,0,51
 2019,AC,2019_Thompson_75,2019_05,1,2,58VT,usa,Jimmy_Hebert,Jimmy Hebert,Hebert Excavation,,Chevrolet,75,5225,running,40,123
@@ -136,7 +136,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2019,AC,2019_Thompson_75,2019_05,17,21,11QC,canada,Claude_Leclerc,Claude Leclerc,Prolon Racing Team,,Chevrolet,75,460,running,0,74
 2019,AC,2019_Thompson_75,2019_05,18,19,42CT,usa,Michael_Wray,Michael Wray,DMW Graphics,,Chevrolet,75,440,running,0,37
 2019,AC,2019_Thompson_75,2019_05,19,26,22VT,usa,Peyton_Lanphear,Peyton Lanphear,Harrison Concrete & Redi Mix,,Chevrolet,75,420,running,0,70
-2019,AC,2019_Thompson_75,2019_05,20,24,50RI,usa,Michael_Benevides,Michael Benevides,Benevides Motorsports,,–,75,400,running,0,58
+2019,AC,2019_Thompson_75,2019_05,20,24,50RI,usa,Michael_Benevides,Michael Benevides,Benevides Motorsports,,-,75,400,running,0,58
 2019,AC,2019_Thompson_75,2019_05,21,23,70RI,usa,Jason_Larivee_Jr,"Jason Larivee, Jr.",S.H. Concrete Works,,Chevrolet,73,400,running,0,31
 2019,AC,2019_Thompson_75,2019_05,22,25,21VT,usa,Reilly_Lanphear,Reilly Lanphear,Harrison Concrete & Redi Mix,,Chevrolet,73,400,running,0,64
 2019,AC,2019_Thompson_75,2019_05,23,22,16ME,usa,Tom_Rosati,Tom Rosati,Rosati Motorsports,,Chevrolet,64,400,crash,0,52
@@ -159,7 +159,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2019,AC,2019_Dream_Ride_150,2019_06,12,4,64VT,usa,Christopher_Pelkey,Christopher Pelkey,Vermeer Northeast,,Chevrolet,148,575,running,0,88
 2019,AC,2019_Dream_Ride_150,2019_06,13,7,04NH,usa,Shawn_Swallow,Shawn Swallow,North Conway Incinerators,,Chevrolet,147,550,running,0,57
 2019,AC,2019_Dream_Ride_150,2019_06,14,18,70RI,usa,Jason_Larivee_Jr,"Jason Larivee, Jr.",S.H. Concrete Works,,Chevrolet,147,525,running,0,70
-2019,AC,2019_Dream_Ride_150,2019_06,15,20,56RI,usa,Michael_Toner,Michael Toner,J.L. Electric,,–,147,500,running,0,43
+2019,AC,2019_Dream_Ride_150,2019_06,15,20,56RI,usa,Michael_Toner,Michael Toner,J.L. Electric,,-,147,500,running,0,43
 2019,AC,2019_Dream_Ride_150,2019_06,16,15,42CT,usa,Michael_Wray,Michael Wray,DMW Graphics,,Chevrolet,146,480,running,0,41
 2019,AC,2019_Dream_Ride_150,2019_06,17,17,21VT,usa,Reilly_Lanphear,Reilly Lanphear,Harrison Concrete & Redi Mix,,Chevrolet,146,460,running,0,74
 2019,AC,2019_Dream_Ride_150,2019_06,18,21,55MA,usa,Randy_Cole_Jr,"Randy Cole, Jr.",Cole Companies,,Chevrolet,144,440,running,0,37
@@ -186,7 +186,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2019,AC,2019_Midsummer_250,2019_07,16,20,49NH,usa,Matt_Anderson,Matt Anderson,Watts,,Chevrolet,244,900,running,0,76
 2019,AC,2019_Midsummer_250,2019_07,17,25,72VT,usa,Scott_Coburn,Scott Coburn,Coburn Motorsports,,Chevrolet,240,875,running,0,74
 2019,AC,2019_Midsummer_250,2019_07,18,21,55NH,usa,Cody_LeBlanc,Cody LeBlanc,White Mountains Community College,,Chevrolet,226,850,crash,0,47
-2019,AC,2019_Midsummer_250,2019_07,19,17,25NH,usa,Jesse_Switser,Jesse Switser,Switser Motorsports,,–,217,825,wheel bearing,0,46
+2019,AC,2019_Midsummer_250,2019_07,19,17,25NH,usa,Jesse_Switser,Jesse Switser,Switser Motorsports,,-,217,825,wheel bearing,0,46
 2019,AC,2019_Midsummer_250,2019_07,20,7,41QC,canada,Jonathan_Bouvrette,Jonathan Bouvrette,Duroking Construction,,Cadillac,175,800,handling,0,72
 2019,AC,2019_Midsummer_250,2019_07,21,8,22RI,usa,Mark_Jenison,Mark Jenison,Support Our Troops & Vets,,Ford,169,800,crash,0,67
 2019,AC,2019_Midsummer_250,2019_07,22,12,19NH,usa,Bryan_Kruczek,Bryan Kruczek,Vynorius Piledriving,,Chevrolet,124,800,overheating,0,66
@@ -212,7 +212,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2019,AC,2019_Oxford_Plains_150,2019_08,16,32,73ME,usa,Dylan_Turner,Dylan Turner,Kaigel Transportation,,Chevrolet,150,440,running,0,41
 2019,AC,2019_Oxford_Plains_150,2019_08,17,34,36VT,usa,Joel_Hodgdon,Joel Hodgdon,Richard Bell Land Surveying,,Dodge,150,430,running,0,39
 2019,AC,2019_Oxford_Plains_150,2019_08,18,1,55NH,usa,Cody_LeBlanc,Cody LeBlanc,White Mountains Community College,,Chevrolet,150,420,running,8,77
-2019,AC,2019_Oxford_Plains_150,2019_08,19,6,25NH,usa,Jesse_Switser,Jesse Switser,Switser Motorsports,,–,150,410,running,33,43
+2019,AC,2019_Oxford_Plains_150,2019_08,19,6,25NH,usa,Jesse_Switser,Jesse Switser,Switser Motorsports,,-,150,410,running,33,43
 2019,AC,2019_Oxford_Plains_150,2019_08,20,11,9QC,canada,Mathieu_Kingsbury,Mathieu Kingsbury,Duroking,,Ford,150,400,running,0,72
 2019,AC,2019_Oxford_Plains_150,2019_08,21,18,64VT,usa,Christopher_Pelkey,Christopher Pelkey,Vermeer Northeast,,Chevrolet,150,400,running,0,69
 2019,AC,2019_Oxford_Plains_150,2019_08,22,17,41QC,canada,Jonathan_Bouvrette,Jonathan Bouvrette,Duroking Construction,,Cadillac,149,400,running,0,55
@@ -224,7 +224,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2019,AC,2019_Oxford_Plains_150,2019_08,28,21,04NH,usa,Shawn_Swallow,Shawn Swallow,North Conway Incinerators,,Chevrolet,136,400,crash,0,27
 2019,AC,2019_Oxford_Plains_150,2019_08,29,14,15VT,usa,Craig_Bushey,Craig Bushey,Laquerre's Marine,,Ford,135,400,engine,0,25
 2019,AC,2019_Oxford_Plains_150,2019_08,30,27,24VT,usa,Steve_Fisher,Steve Fisher,Frank's Motorcycle,,Chevrolet,134,400,handling,0,25
-2019,AC,2019_Oxford_Plains_150,2019_08,31,15,47NH,usa,Brock_Davis,Brock Davis,Davis Motorsports,,–,89,400,crash,0,26
+2019,AC,2019_Oxford_Plains_150,2019_08,31,15,47NH,usa,Brock_Davis,Brock Davis,Davis Motorsports,,-,89,400,crash,0,26
 2019,AC,2019_Oxford_Plains_150,2019_08,32,31,22VT,usa,Peyton_Lanphear,Peyton Lanphear,Harrison Concrete & Redi Mix,,Chevrolet,78,400,handling,0,60
 2019,AC,2019_Oxford_Plains_150,2019_08,33,22,16VT,usa,Scott_Dragon,Scott Dragon,Richard Green Trucking,,Chevrolet,73,400,crash,0,35
 2019,AC,2019_Oxford_Plains_150,2019_08,34,8,26VT,usa,John_Donahue,John Donahue,Wells River Chevrolet,,Chevrolet,22,400,steering,0,60
@@ -253,7 +253,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2019,AC,2019_Coca-Cola_Labor_Day_Classic_200,2019_09,21,6,2VT,usa,Stephen_Donahue,Stephen Donahue,Bolduc Metal Recycling,,Chevrolet,181,400,running,0,41
 2019,AC,2019_Coca-Cola_Labor_Day_Classic_200,2019_09,22,18,64VT,usa,Christopher_Pelkey,Christopher Pelkey,Vermeer Northeast,,Chevrolet,150,400,crash,0,64
 2019,AC,2019_Coca-Cola_Labor_Day_Classic_200,2019_09,23,16,36VT,usa,Joel_Hodgdon,Joel Hodgdon,Richard Bell Land Surveying,,Dodge,114,400,handling,0,62
-2019,AC,2019_Coca-Cola_Labor_Day_Classic_200,2019_09,24,25,3VT,usa,Ricky_Roberts,Ricky Roberts,Roberts Motorsports,,–,68,400,handling,0,35
+2019,AC,2019_Coca-Cola_Labor_Day_Classic_200,2019_09,24,25,3VT,usa,Ricky_Roberts,Ricky Roberts,Roberts Motorsports,,-,68,400,handling,0,35
 2019,AC,2019_Coca-Cola_Labor_Day_Classic_200,2019_09,25,27,11QC,canada,Claude_Leclerc,Claude Leclerc,Prolon Racing Team,,Chevrolet,47,400,handling,0,60
 2019,AC,2019_Coca-Cola_Labor_Day_Classic_200,2019_09,26,8,7NH,usa,Dylan_Payea,Dylan Payea,Sweethearts & Heroes,,Dodge,45,400,rear end,0,64
 2019,AC,2019_Coca-Cola_Labor_Day_Classic_200,2019_09,27,5,17VT,usa,Darrell_Morin,Darrell Morin,Grinnell Electric,,Chevrolet,41,400,front end,0,37
