@@ -1,1 +1,73 @@
-
+race_id,weekend_run_id,timing_run_id,run_type,run_name,run_date,run_date_utc,run_id,car_number,vehicle_number,manufacturer,driver_id,driver_name,finishing_position,best_lap_time,best_lap_speed,best_lap_number,laps_completed,comment,delta_leader,disqualified
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,11,11,Toyota,1361,Denny Hamlin,1,13.139,68.498,16,20,,0.0,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,22,22,Ford,3859,Joey Logano,2,13.25,67.924,18,19,,-0.111,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,54,54,Toyota,4368,Ty Gibbs,3,13.261,67.868,13,19,,-0.122,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,48,48,Chevrolet,4045,Alex Bowman,4,13.266,67.843,18,21,,-0.127,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,8,8,Chevrolet,454,Kyle Busch,5,13.273,67.807,18,20,,-0.134,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,24,24,Chevrolet,4184,William Byron,6,13.316,67.588,15,20,,-0.177,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,1,1,Chevrolet,4001,Ross Chastain,7,13.319,67.573,11,19,,-0.18,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,5,5,Chevrolet,4030,Kyle Larson,8,13.324,67.547,13,21,,-0.185,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,23,23,Toyota,4025,Bubba Wallace,9,13.359,67.37,19,20,,-0.22,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,51,51,Ford,4172,Justin Haley,10,13.368,67.325,18,20,,-0.229,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,45,45,Toyota,4065,Tyler Reddick,11,13.376,67.285,15,20,,-0.237,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,41,41,Ford,4070,Ryan Preece,12,13.378,67.275,12,21,,-0.239,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,6,6,Ford,1816,Brad Keselowski,13,13.388,67.224,19,19,,-0.249,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,9,9,Chevrolet,4062,Chase Elliott,14,13.401,67.159,19,21,,-0.262,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,34,34,Ford,3832,Michael McDowell,15,13.429,67.019,17,19,,-0.29,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,38,38,Ford,4231,Todd Gilliland,16,13.429,67.019,18,20,,-0.29,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,10,10,Ford,4224,Noah Gragson,17,13.433,66.999,18,20,,-0.294,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,7,7,Chevrolet,4096,Corey LaJoie,18,13.434,66.994,18,21,,-0.295,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,19,19,Toyota,3368,Martin Truex Jr,19,13.453,66.9,16,19,,-0.314,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,47,47,Chevrolet,3888,Ricky Stenhouse Jr,20,13.459,66.87,14,20,,-0.32,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,42,42,Toyota,4092,John H. Nemechek,21,13.474,66.795,19,20,,-0.335,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,14,14,Ford,4228,Chase Briscoe,22,13.484,66.746,15,18,,-0.345,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,16,16,Chevrolet,4106,Josh Williams,23,13.498,66.676,14,18,,-0.359,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,77,77,Chevrolet,4326,Carson Hocevar,24,13.499,66.672,16,18,,-0.36,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,4,4,Ford,4123,Josh Berry,25,13.513,66.602,18,20,,-0.374,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,12,12,Ford,4023,Ryan Blaney,26,13.514,66.598,16,21,,-0.375,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,99,99,Chevrolet,4113,Daniel Suárez,27,13.524,66.548,19,20,,-0.385,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,3,3,Chevrolet,3873,Austin Dillon,28,13.535,66.494,15,20,,-0.396,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,43,43,Toyota,4059,Erik Jones,29,13.57,66.323,15,18,,-0.431,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,17,17,Ford,3989,Chris Buescher,30,13.574,66.303,19,20,,-0.435,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,2,2,Ford,4180,Austin Cindric,31,13.582,66.264,17,18,,-0.443,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,31,31,Chevrolet,4093,Daniel Hemric,32,13.592,66.215,12,20,,-0.453,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,20,20,Toyota,4153,Christopher Bell,33,13.593,66.21,18,20,,-0.454,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,15,15,Ford,4191,Kaz Grala,34,13.605,66.152,17,19,,-0.466,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,21,21,Ford,4217,Harrison Burton,35,13.617,66.094,16,19,,-0.478,False
+5376,5469,5,1,Final Practice,2024-02-03T14:40:00,2024-02-03T22:40:00,5469,71,71,Chevrolet,4272,Zane Smith,36,13.704,65.674,12,17,,-0.565,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,11,11,Toyota,1361,Denny Hamlin,1,0.0,0.0,0,0,,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,22,22,Ford,3859,Joey Logano,2,0.0,0.0,0,0,,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,54,54,Toyota,4368,Ty Gibbs,3,0.0,0.0,0,0,,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,48,48,Chevrolet,4045,Alex Bowman,4,0.0,0.0,0,0,,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,8,8,Chevrolet,454,Kyle Busch,5,0.0,0.0,0,0,,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,24,24,Chevrolet,4184,William Byron,6,0.0,0.0,0,0,,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,1,1,Chevrolet,4001,Ross Chastain,7,0.0,0.0,0,0,,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,5,5,Chevrolet,4030,Kyle Larson,8,0.0,0.0,0,0,,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,23,23,Toyota,4025,Bubba Wallace,9,0.0,0.0,0,0,,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,51,51,Ford,4172,Justin Haley,10,0.0,0.0,0,0,,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,45,45,Toyota,4065,Tyler Reddick,11,0.0,0.0,0,0,,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,41,41,Ford,4070,Ryan Preece,12,0.0,0.0,0,0,,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,6,6,Ford,1816,Brad Keselowski,13,0.0,0.0,0,0,,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,9,9,Chevrolet,4062,Chase Elliott,14,0.0,0.0,0,0,,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,34,34,Ford,3832,Michael McDowell,15,0.0,0.0,0,0,,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,38,38,Ford,4231,Todd Gilliland,16,0.0,0.0,0,0,,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,10,10,Ford,4224,Noah Gragson,17,0.0,0.0,0,0,,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,7,7,Chevrolet,4096,Corey LaJoie,18,0.0,0.0,0,0,,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,19,19,Toyota,3368,Martin Truex Jr,19,0.0,0.0,0,0,,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,47,47,Chevrolet,3888,Ricky Stenhouse Jr,20,0.0,0.0,0,0,,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,42,42,Toyota,4092,John H. Nemechek,21,0.0,0.0,0,0,,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,14,14,Ford,4228,Chase Briscoe,22,0.0,0.0,0,0,,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,12,12,Ford,4023,Ryan Blaney,23,0.0,0.0,0,0,,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,16,16,Chevrolet,4106,Josh Williams,24,0.0,0.0,0,0,DNQ,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,77,77,Chevrolet,4326,Carson Hocevar,25,0.0,0.0,0,0,DNQ,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,4,4,Ford,4123,Josh Berry,26,0.0,0.0,0,0,DNQ,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,99,99,Chevrolet,4113,Daniel Suárez,27,0.0,0.0,0,0,DNQ,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,3,3,Chevrolet,3873,Austin Dillon,28,0.0,0.0,0,0,DNQ,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,43,43,Toyota,4059,Erik Jones,29,0.0,0.0,0,0,DNQ,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,17,17,Ford,3989,Chris Buescher,30,0.0,0.0,0,0,DNQ,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,2,2,Ford,4180,Austin Cindric,31,0.0,0.0,0,0,DNQ,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,31,31,Chevrolet,4093,Daniel Hemric,32,0.0,0.0,0,0,DNQ,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,20,20,Toyota,4153,Christopher Bell,33,0.0,0.0,0,0,DNQ,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,15,15,Ford,4191,Kaz Grala,34,0.0,0.0,0,0,DNQ,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,21,21,Ford,4217,Harrison Burton,35,0.0,0.0,0,0,DNQ,0.0,False
+5376,5470,12,2,Busch Light Clash at The Coliseum Busch Pole Qualifying,2024-02-04T16:30:00,2024-02-05T00:30:00,5470,71,71,Chevrolet,4272,Zane Smith,36,0.0,0.0,0,0,DNQ,0.0,False

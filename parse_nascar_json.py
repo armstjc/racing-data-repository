@@ -738,6 +738,7 @@ def parse_lap_times(race_id, race_level, race_season):
             f"Could not get lap data for {race_id} in the " +
             f"{race_level} level's {race_season} season."
         )
+    laps_arr = []
 
     for j in json_data['laps']:
         driver_number = str(j['Number'])
@@ -761,13 +762,13 @@ def parse_lap_times(race_id, race_level, race_season):
             row_df['lap_speed'] = k['LapSpeed']
             row_df['lap_running_position'] = k['RunningPos']
 
-            lap_times_df = pd.concat(
-                [lap_times_df, row_df],
-                ignore_index=True
-            )
+            laps_arr.append(row_df)
 
             del row_df
-
+    lap_times_df = pd.concat(
+        laps_arr,
+        ignore_index=True
+    )
     return lap_times_df
 
 
