@@ -297,7 +297,7 @@ def get_racing_reference_standings(season: int, series_id="W") -> pd.DataFrame:
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) " +
         "AppleWebKit/537.36 (KHTML, like Gecko) " +
-        "Chrome/102.0.0.0 Safari/537.36"
+        "Chrome/123.0.0.0 Safari/537.36"
     }
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.text, features='lxml')
@@ -407,7 +407,7 @@ def get_racing_reference_race_results(season: int, series_id="W"):
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) " +
         "AppleWebKit/537.36 (KHTML, like Gecko) " +
-        "Chrome/102.0.0.0 Safari/537.36"
+        "Chrome/123.0.0.0 Safari/537.36"
     }
     for i in tqdm(range(0, len(race_url_arr))):
         race_results_url = race_url_arr[i]
