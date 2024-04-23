@@ -18,9 +18,9 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Daytona_500,2008_01,17,4,11,usa,Denny_Hamlin,Denny Hamlin,FedEx Express,Joe_Gibbs,Toyota,200,341416,running,32,117
 2008,W,2008_Daytona_500,2008_01,18,42,00,usa,David_Reutimann,David Reutimann,Aaron's Dream Machine,Michael_Waltrip,Toyota,200,290721,running,0,109
 2008,W,2008_Daytona_500,2008_01,19,11,99,usa,Carl_Edwards,Carl Edwards,Office Depot,Jack_Roush,Ford,200,321520,running,0,106
-2008,W,2008_Daytona_500,2008_01,20,25,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,200,303978,running,0,103
+2008,W,2008_Daytona_500,2008_01,20,25,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,200,303978,running,0,103
 2008,W,2008_Daytona_500,2008_01,21,27,66,usa,Scott_Riggs,Scott Riggs,State Water Heaters,Gene_Haas,Chevrolet,200,287928,running,0,100
-2008,W,2008_Daytona_500,2008_01,22,21,15,usa,Paul_Menard,Paul Menard,Menards / Peak,"Dale_Earnhardt,_Inc.",Chevrolet,200,279295,running,0,97
+2008,W,2008_Daytona_500,2008_01,22,21,15,usa,Paul_Menard,Paul Menard,Menards / Peak,Dale_Earnhardt_Inc,Chevrolet,200,279295,running,0,97
 2008,W,2008_Daytona_500,2008_01,23,33,70,usa,Jeremy_Mayfield,Jeremy Mayfield,Junior Johnson's Midnight Moon,Gene_Haas,Chevrolet,200,271220,running,0,94
 2008,W,2008_Daytona_500,2008_01,24,31,07,usa,Clint_Bowyer,Clint Bowyer,Jack Daniel's,Richard_Childress,Chevrolet,200,284545,running,4,96
 2008,W,2008_Daytona_500,2008_01,25,37,96,usa,J_J_Yeley,J.J. Yeley,DLP HDTV / Circuit City,Jeff_Moorad,Toyota,200,277095,running,0,88
@@ -29,13 +29,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Daytona_500,2008_01,28,32,38,usa,David_Gilliland,David Gilliland,FreeCreditReport.com,Yates_Racing,Ford,200,267088,running,0,79
 2008,W,2008_Daytona_500,2008_01,29,2,55,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Michael_Waltrip,Toyota,200,275746,running,3,81
 2008,W,2008_Daytona_500,2008_01,30,30,28,usa,Travis_Kvapil,Travis Kvapil,K & N Filters,Yates_Racing,Ford,200,291202,running,0,73
-2008,W,2008_Daytona_500,2008_01,31,12,8,usa,Mark_Martin,Mark Martin,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,200,301846,running,0,70
+2008,W,2008_Daytona_500,2008_01,31,12,8,usa,Mark_Martin,Mark Martin,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,200,301846,running,0,70
 2008,W,2008_Daytona_500,2008_01,32,15,42,colombia,Juan_Pablo_Montoya,Juan Pablo Montoya,Texaco / Havoline,Chip_Ganassi,Dodge,200,290753,running,0,67
 2008,W,2008_Daytona_500,2008_01,33,40,40,scotland,Dario_Franchitti,Dario Franchitti,Dodge Journey,Chip_Ganassi,Dodge,199,270613,running,0,64
 2008,W,2008_Daytona_500,2008_01,34,39,45,usa,Kyle_Petty,Kyle Petty,Wells Fargo,Petty_Enterprises,Dodge,197,269867,running,0,61
 2008,W,2008_Daytona_500,2008_01,35,9,5,usa,Casey_Mears,Casey Mears,Kellogg's / Carquest,Rick_Hendrick,Chevrolet,194,284820,crash,0,58
 2008,W,2008_Daytona_500,2008_01,36,28,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt,Jack_Roush,Ford,194,308129,running,1,60
-2008,W,2008_Daytona_500,2008_01,37,29,01,usa,Regan_Smith,Regan Smith,Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,194,267095,running,0,52
+2008,W,2008_Daytona_500,2008_01,37,29,01,usa,Regan_Smith,Regan Smith,Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,194,267095,running,0,52
 2008,W,2008_Daytona_500,2008_01,38,34,22,usa,Dave_Blaney,Dave Blaney,Caterpillar,Bill_Davis,Toyota,189,259288,crash,1,54
 2008,W,2008_Daytona_500,2008_01,39,8,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,186,319599,suspension,5,51
 2008,W,2008_Daytona_500,2008_01,40,22,34,usa,John_Andretti,John Andretti,Makoto Ginger Dressing,Bob_Jenkins,Chevrolet,184,258613,running,0,43
@@ -47,7 +47,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Auto_Club_500,2008_02,3,2,24,usa,Jeff_Gordon,Jeff Gordon,DuPont / Cromax Pro,Rick_Hendrick,Chevrolet,250,214186,running,68,170
 2008,W,2008_Auto_Club_500,2008_02,4,22,18,usa,Kyle_Busch,Kyle Busch,Interstate Batteries,Joe_Gibbs,Toyota,250,154050,running,14,165
 2008,W,2008_Auto_Club_500,2008_02,5,4,17,usa,Matt_Kenseth,Matt Kenseth,Carhartt / DeWalt,Jack_Roush,Ford,250,169841,running,4,160
-2008,W,2008_Auto_Club_500,2008_02,6,11,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,250,144308,running,0,150
+2008,W,2008_Auto_Club_500,2008_02,6,11,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,250,144308,running,0,150
 2008,W,2008_Auto_Club_500,2008_02,7,6,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Toyota,250,158061,running,0,146
 2008,W,2008_Auto_Club_500,2008_02,8,10,29,usa,Kevin_Harvick,Kevin Harvick,Shell / Pennzoil,Richard_Childress,Chevrolet,250,148761,running,1,147
 2008,W,2008_Auto_Club_500,2008_02,9,20,9,usa,Kasey_Kahne,Kasey Kahne,Budweiser,Gillett_Evernham_Motorsports,Dodge,250,133616,running,1,143
@@ -57,7 +57,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Auto_Club_500,2008_02,13,36,2,usa,Kurt_Busch,Kurt Busch,Miller Lite,Roger_Penske,Dodge,250,92800,running,0,124
 2008,W,2008_Auto_Club_500,2008_02,14,24,6,usa,David_Ragan,David Ragan,AAA Insurance Southern California,Jack_Roush,Ford,250,104850,running,0,121
 2008,W,2008_Auto_Club_500,2008_02,15,14,16,usa,Greg_Biffle,Greg Biffle,3M,Jack_Roush,Ford,250,104350,running,9,123
-2008,W,2008_Auto_Club_500,2008_02,16,16,8,usa,Mark_Martin,Mark Martin,Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,250,128208,running,0,115
+2008,W,2008_Auto_Club_500,2008_02,16,16,8,usa,Mark_Martin,Mark Martin,Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,250,128208,running,0,115
 2008,W,2008_Auto_Club_500,2008_02,17,32,38,usa,David_Gilliland,David Gilliland,FreeCreditReport.com,Yates_Racing,Ford,250,111508,running,0,112
 2008,W,2008_Auto_Club_500,2008_02,18,28,7,usa,Robby_Gordon,Robby Gordon,Jim Beam,Robby_Gordon,Dodge,250,116708,running,1,114
 2008,W,2008_Auto_Club_500,2008_02,19,3,07,usa,Clint_Bowyer,Clint Bowyer,DirecTV,Richard_Childress,Chevrolet,250,106150,running,0,106
@@ -68,11 +68,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Auto_Club_500,2008_02,24,27,19,usa,Elliott_Sadler,Elliott Sadler,U2 3D / Garmin,Gillett_Evernham_Motorsports,Dodge,249,114770,running,0,91
 2008,W,2008_Auto_Club_500,2008_02,25,19,43,usa,Bobby_Labonte,Bobby Labonte,Cheerios / Hamburger Helper,Petty_Enterprises,Dodge,249,125136,running,0,88
 2008,W,2008_Auto_Club_500,2008_02,26,38,21,usa,Bill_Elliott,Bill Elliott,Little Debbie Nut Bars,Wood_Brothers,Ford,249,105345,running,0,85
-2008,W,2008_Auto_Club_500,2008_02,27,29,15,usa,Paul_Menard,Paul Menard,Menards / Quaker State,"Dale_Earnhardt,_Inc.",Chevrolet,248,94300,running,0,82
+2008,W,2008_Auto_Club_500,2008_02,27,29,15,usa,Paul_Menard,Paul Menard,Menards / Quaker State,Dale_Earnhardt_Inc,Chevrolet,248,94300,running,0,82
 2008,W,2008_Auto_Club_500,2008_02,28,41,55,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Michael_Waltrip,Toyota,248,92247,running,0,79
 2008,W,2008_Auto_Club_500,2008_02,29,25,96,usa,J_J_Yeley,J.J. Yeley,DLP HDTV / Fry's Electronics,Jeff_Moorad,Toyota,248,93500,running,0,76
 2008,W,2008_Auto_Club_500,2008_02,30,34,22,usa,Dave_Blaney,Dave Blaney,CAT Paving Products,Bill_Davis,Toyota,248,85250,running,0,73
-2008,W,2008_Auto_Club_500,2008_02,31,17,01,usa,Regan_Smith,Regan Smith,Coors Light,"Dale_Earnhardt,_Inc.",Chevrolet,248,91575,running,0,70
+2008,W,2008_Auto_Club_500,2008_02,31,17,01,usa,Regan_Smith,Regan Smith,Coors Light,Dale_Earnhardt_Inc,Chevrolet,248,91575,running,0,70
 2008,W,2008_Auto_Club_500,2008_02,32,26,40,scotland,Dario_Franchitti,Dario Franchitti,Target / Polaroid,Chip_Ganassi,Dodge,248,89875,running,1,72
 2008,W,2008_Auto_Club_500,2008_02,33,37,44,usa,Dale_Jarrett,Dale Jarrett,UPS,Michael_Waltrip,Toyota,247,82600,running,3,69
 2008,W,2008_Auto_Club_500,2008_02,34,43,78,usa,Joe_Nemechek,Joe Nemechek,Furniture Row / Denver Mattress,Barney_Visser,Chevrolet,246,81450,running,0,61
@@ -94,19 +94,19 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_UAW-Dodge_400,2008_03,7,38,6,usa,David_Ragan,David Ragan,AAA Insurance,Jack_Roush,Ford,267,124450,running,0,146
 2008,W,2008_UAW-Dodge_400,2008_03,8,29,28,usa,Travis_Kvapil,Travis Kvapil,Yates Racing,Yates_Racing,Ford,267,140264,running,0,142
 2008,W,2008_UAW-Dodge_400,2008_03,9,27,11,usa,Denny_Hamlin,Denny Hamlin,FedEx Kinko's,Joe_Gibbs,Toyota,267,144441,running,0,138
-2008,W,2008_UAW-Dodge_400,2008_03,10,3,8,usa,Mark_Martin,Mark Martin,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,267,140983,running,1,139
+2008,W,2008_UAW-Dodge_400,2008_03,10,3,8,usa,Mark_Martin,Mark Martin,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,267,140983,running,1,139
 2008,W,2008_UAW-Dodge_400,2008_03,11,1,18,usa,Kyle_Busch,Kyle Busch,M&M's,Joe_Gibbs,Toyota,267,131575,running,56,135
 2008,W,2008_UAW-Dodge_400,2008_03,12,10,19,usa,Elliott_Sadler,Elliott Sadler,Stanley,Gillett_Evernham_Motorsports,Dodge,267,129170,running,0,127
 2008,W,2008_UAW-Dodge_400,2008_03,13,11,5,usa,Casey_Mears,Casey Mears,Pop-Tarts / Carquest,Rick_Hendrick,Chevrolet,267,116975,running,0,124
 2008,W,2008_UAW-Dodge_400,2008_03,14,15,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,267,144400,running,0,121
-2008,W,2008_UAW-Dodge_400,2008_03,15,18,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,267,131208,running,0,118
+2008,W,2008_UAW-Dodge_400,2008_03,15,18,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,267,131208,running,0,118
 2008,W,2008_UAW-Dodge_400,2008_03,16,23,70,usa,Jeremy_Mayfield,Jeremy Mayfield,Haas Automation,Gene_Haas,Chevrolet,267,99175,running,0,115
 2008,W,2008_UAW-Dodge_400,2008_03,17,39,43,usa,Bobby_Labonte,Bobby Labonte,Cheerios Helping Hearts,Petty_Enterprises,Dodge,267,134311,running,0,112
 2008,W,2008_UAW-Dodge_400,2008_03,18,35,41,usa,Reed_Sorenson,Reed Sorenson,Target / Polaroid,Chip_Ganassi,Dodge,267,123489,running,0,109
 2008,W,2008_UAW-Dodge_400,2008_03,19,31,42,colombia,Juan_Pablo_Montoya,Juan Pablo Montoya,Texaco / Havoline,Chip_Ganassi,Dodge,267,123083,running,0,106
 2008,W,2008_UAW-Dodge_400,2008_03,20,13,17,usa,Matt_Kenseth,Matt Kenseth,USG Sheetrock,Jack_Roush,Ford,267,141166,running,70,108
 2008,W,2008_UAW-Dodge_400,2008_03,21,19,49,usa,Ken_Schrader,Ken Schrader,Qtrax.com,Beth_Ann_Morgenthau,Dodge,267,108033,running,0,100
-2008,W,2008_UAW-Dodge_400,2008_03,22,40,15,usa,Paul_Menard,Paul Menard,Menards / Johns Manville,"Dale_Earnhardt,_Inc.",Chevrolet,266,100075,running,0,97
+2008,W,2008_UAW-Dodge_400,2008_03,22,40,15,usa,Paul_Menard,Paul Menard,Menards / Johns Manville,Dale_Earnhardt_Inc,Chevrolet,266,100075,running,0,97
 2008,W,2008_UAW-Dodge_400,2008_03,23,34,38,usa,David_Gilliland,David Gilliland,FreeCreditReport.com,Yates_Racing,Ford,266,108083,running,0,94
 2008,W,2008_UAW-Dodge_400,2008_03,24,43,83,usa,Brian_Vickers,Brian Vickers,Red Bull,Dietrich_Mateschitz,Toyota,266,89850,running,0,91
 2008,W,2008_UAW-Dodge_400,2008_03,25,36,26,usa,Jamie_McMurray,Jamie McMurray,Crown Royal,Jack_Roush,Ford,266,97350,running,0,88
@@ -118,7 +118,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_UAW-Dodge_400,2008_03,31,22,55,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Michael_Waltrip,Toyota,265,93833,running,0,70
 2008,W,2008_UAW-Dodge_400,2008_03,32,41,45,usa,Kyle_Petty,Kyle Petty,Wells Fargo,Petty_Enterprises,Dodge,265,91522,running,0,67
 2008,W,2008_UAW-Dodge_400,2008_03,33,42,40,scotland,Dario_Franchitti,Dario Franchitti,Target / Polaroid,Chip_Ganassi,Dodge,265,92225,running,0,64
-2008,W,2008_UAW-Dodge_400,2008_03,34,28,01,usa,Regan_Smith,Regan Smith,Coors Light,"Dale_Earnhardt,_Inc.",Chevrolet,264,89575,running,0,61
+2008,W,2008_UAW-Dodge_400,2008_03,34,28,01,usa,Regan_Smith,Regan Smith,Coors Light,Dale_Earnhardt_Inc,Chevrolet,264,89575,running,0,61
 2008,W,2008_UAW-Dodge_400,2008_03,35,4,24,usa,Jeff_Gordon,Jeff Gordon,DuPont / Nicorette,Rick_Hendrick,Chevrolet,262,130286,crash,19,63
 2008,W,2008_UAW-Dodge_400,2008_03,36,7,66,usa,Scott_Riggs,Scott Riggs,State Water Heaters,Gene_Haas,Chevrolet,260,81150,running,2,60
 2008,W,2008_UAW-Dodge_400,2008_03,37,14,00,usa,David_Reutimann,David Reutimann,Aaron's Dream Machine,Michael_Waltrip,Toyota,258,80925,running,0,52
@@ -146,10 +146,10 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Kobalt_Tools_500,2008_04,16,19,42,colombia,Juan_Pablo_Montoya,Juan Pablo Montoya,Wrigley's Big Red,Chip_Ganassi,Dodge,324,104058,running,0,115
 2008,W,2008_Kobalt_Tools_500,2008_04,17,39,5,usa,Casey_Mears,Casey Mears,Kellogg's / Carquest,Rick_Hendrick,Chevrolet,324,89850,running,0,112
 2008,W,2008_Kobalt_Tools_500,2008_04,18,28,66,usa,Scott_Riggs,Scott Riggs,State Water Heaters,Gene_Haas,Chevrolet,324,93808,running,0,109
-2008,W,2008_Kobalt_Tools_500,2008_04,19,20,15,usa,Paul_Menard,Paul Menard,Menards / Energizer,"Dale_Earnhardt,_Inc.",Chevrolet,324,83225,running,0,106
+2008,W,2008_Kobalt_Tools_500,2008_04,19,20,15,usa,Paul_Menard,Paul Menard,Menards / Energizer,Dale_Earnhardt_Inc,Chevrolet,324,83225,running,0,106
 2008,W,2008_Kobalt_Tools_500,2008_04,20,30,00,usa,David_Reutimann,David Reutimann,Aaron's Dream Machine,Michael_Waltrip,Toyota,323,92808,running,0,103
-2008,W,2008_Kobalt_Tools_500,2008_04,21,3,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,323,105633,running,0,100
-2008,W,2008_Kobalt_Tools_500,2008_04,22,10,8,usa,Mark_Martin,Mark Martin,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,323,108458,running,0,97
+2008,W,2008_Kobalt_Tools_500,2008_04,21,3,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,323,105633,running,0,100
+2008,W,2008_Kobalt_Tools_500,2008_04,22,10,8,usa,Mark_Martin,Mark Martin,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,323,108458,running,0,97
 2008,W,2008_Kobalt_Tools_500,2008_04,23,14,6,usa,David_Ragan,David Ragan,AAA,Jack_Roush,Ford,323,83850,running,0,94
 2008,W,2008_Kobalt_Tools_500,2008_04,24,26,7,usa,Robby_Gordon,Robby Gordon,Valvoline / Jim Beam,Robby_Gordon,Dodge,323,95858,running,0,91
 2008,W,2008_Kobalt_Tools_500,2008_04,25,33,77,usa,Sam_Hornish_Jr,"Sam Hornish, Jr.",Penske Truck Rental,Roger_Penske,Dodge,323,117550,running,0,88
@@ -165,7 +165,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Kobalt_Tools_500,2008_04,35,21,10,canada,Patrick_Carpentier,Patrick Carpentier,Cintas,Gillett_Evernham_Motorsports,Dodge,320,68990,running,0,58
 2008,W,2008_Kobalt_Tools_500,2008_04,36,17,78,usa,Joe_Nemechek,Joe Nemechek,Furniture Row Racing,Barney_Visser,Chevrolet,320,68955,running,0,55
 2008,W,2008_Kobalt_Tools_500,2008_04,37,37,96,usa,J_J_Yeley,J.J. Yeley,DLP HDTV / H.H. Gregg,Jeff_Moorad,Toyota,320,76920,running,0,52
-2008,W,2008_Kobalt_Tools_500,2008_04,38,41,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,320,76885,running,0,49
+2008,W,2008_Kobalt_Tools_500,2008_04,38,41,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,320,76885,running,0,49
 2008,W,2008_Kobalt_Tools_500,2008_04,39,36,70,usa,Jeremy_Mayfield,Jeremy Mayfield,Haas Automation,Gene_Haas,Chevrolet,318,68850,running,0,46
 2008,W,2008_Kobalt_Tools_500,2008_04,40,24,26,usa,Jamie_McMurray,Jamie McMurray,Irwin Industrial Tools,Jack_Roush,Ford,317,76810,running,0,43
 2008,W,2008_Kobalt_Tools_500,2008_04,41,40,45,usa,Kyle_Petty,Kyle Petty,Paralyzed Veterans of America,Petty_Enterprises,Dodge,313,68765,running,0,40
@@ -178,12 +178,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Food_City_500,2008_05,5,15,88,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",National Guard / AMP Energy,Rick_Hendrick,Chevrolet,506,106475,running,0,155
 2008,W,2008_Food_City_500,2008_05,6,12,11,usa,Denny_Hamlin,Denny Hamlin,FedEx Express,Joe_Gibbs,Toyota,506,128591,running,98,155
 2008,W,2008_Food_City_500,2008_05,7,20,9,usa,Kasey_Kahne,Kasey Kahne,Budweiser,Gillett_Evernham_Motorsports,Dodge,506,122916,running,0,146
-2008,W,2008_Food_City_500,2008_05,8,16,8,usa,Aric_Almirola,Aric Almirola,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,506,126483,running,0,142
+2008,W,2008_Food_City_500,2008_05,8,16,8,usa,Aric_Almirola,Aric Almirola,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,506,126483,running,0,142
 2008,W,2008_Food_City_500,2008_05,9,32,38,usa,David_Gilliland,David Gilliland,FreeCreditReport.com,Yates_Racing,Ford,506,116083,running,0,138
 2008,W,2008_Food_City_500,2008_05,10,4,17,usa,Matt_Kenseth,Matt Kenseth,Dish Network,Jack_Roush,Ford,506,139016,running,0,134
 2008,W,2008_Food_City_500,2008_05,11,2,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,506,135636,running,0,130
 2008,W,2008_Food_City_500,2008_05,12,36,2,usa,Kurt_Busch,Kurt Busch,Miller Lite,Roger_Penske,Dodge,506,91825,running,0,127
-2008,W,2008_Food_City_500,2008_05,13,11,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,506,122133,running,0,124
+2008,W,2008_Food_City_500,2008_05,13,11,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,506,122133,running,0,124
 2008,W,2008_Food_City_500,2008_05,14,6,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Toyota,506,139911,running,267,131
 2008,W,2008_Food_City_500,2008_05,15,21,42,colombia,Juan_Pablo_Montoya,Juan Pablo Montoya,Texaco / Havoline,Chip_Ganassi,Dodge,505,118633,running,0,118
 2008,W,2008_Food_City_500,2008_05,16,9,99,usa,Carl_Edwards,Carl Edwards,Office Depot,Jack_Roush,Ford,504,133125,running,0,115
@@ -196,13 +196,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Food_City_500,2008_05,23,40,55,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Michael_Waltrip,Toyota,503,96833,running,5,99
 2008,W,2008_Food_City_500,2008_05,24,28,7,usa,Robby_Gordon,Robby Gordon,RVs.com,Robby_Gordon,Dodge,503,104897,running,0,91
 2008,W,2008_Food_City_500,2008_05,25,25,96,usa,J_J_Yeley,J.J. Yeley,DLP HDTV,Jeff_Moorad,Toyota,503,95575,running,0,88
-2008,W,2008_Food_City_500,2008_05,26,17,01,usa,Regan_Smith,Regan Smith,Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,503,96350,running,0,85
+2008,W,2008_Food_City_500,2008_05,26,17,01,usa,Regan_Smith,Regan Smith,Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,503,96350,running,0,85
 2008,W,2008_Food_City_500,2008_05,27,30,28,usa,Travis_Kvapil,Travis Kvapil,11 Million,Yates_Racing,Ford,503,113814,running,0,82
 2008,W,2008_Food_City_500,2008_05,28,35,45,usa,Kyle_Petty,Kyle Petty,Marathon American Spirit Motor Oil,Petty_Enterprises,Dodge,501,86450,running,0,79
 2008,W,2008_Food_City_500,2008_05,29,7,77,usa,Sam_Hornish_Jr,"Sam Hornish, Jr.",Mobil 1,Roger_Penske,Dodge,501,128925,running,0,76
 2008,W,2008_Food_City_500,2008_05,30,33,70,usa,Jeremy_Mayfield,Jeremy Mayfield,Haas Automation,Gene_Haas,Chevrolet,500,86000,running,0,73
 2008,W,2008_Food_City_500,2008_05,31,23,41,usa,Reed_Sorenson,Reed Sorenson,Target / Polaroid,Chip_Ganassi,Dodge,500,109414,running,0,70
-2008,W,2008_Food_City_500,2008_05,32,29,15,usa,Paul_Menard,Paul Menard,Menards / Peak,"Dale_Earnhardt,_Inc.",Chevrolet,499,90125,running,0,67
+2008,W,2008_Food_City_500,2008_05,32,29,15,usa,Paul_Menard,Paul Menard,Menards / Peak,Dale_Earnhardt_Inc,Chevrolet,499,90125,running,0,67
 2008,W,2008_Food_City_500,2008_05,33,13,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,499,124150,running,0,64
 2008,W,2008_Food_City_500,2008_05,34,34,22,usa,Dave_Blaney,Dave Blaney,Caterpillar,Bill_Davis,Toyota,498,82975,running,0,61
 2008,W,2008_Food_City_500,2008_05,35,42,78,usa,Joe_Nemechek,Joe Nemechek,Furniture Row / Denver Mattress,Barney_Visser,Chevrolet,498,81975,running,0,58
@@ -227,14 +227,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Goody%27s_Cool_Orange_500,2008_06,11,4,6,usa,David_Ragan,David Ragan,AAA Insurance,Jack_Roush,Ford,500,87200,running,0,130
 2008,W,2008_Goody%27s_Cool_Orange_500,2008_06,12,11,29,usa,Kevin_Harvick,Kevin Harvick,Shell / Pennzoil,Richard_Childress,Chevrolet,500,119961,running,0,127
 2008,W,2008_Goody%27s_Cool_Orange_500,2008_06,13,29,42,colombia,Juan_Pablo_Montoya,Juan Pablo Montoya,Wrigley's Big Red,Chip_Ganassi,Dodge,500,105983,running,0,124
-2008,W,2008_Goody%27s_Cool_Orange_500,2008_06,14,33,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,500,86325,running,0,121
+2008,W,2008_Goody%27s_Cool_Orange_500,2008_06,14,33,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,500,86325,running,0,121
 2008,W,2008_Goody%27s_Cool_Orange_500,2008_06,15,25,19,usa,Elliott_Sadler,Elliott Sadler,McDonald's,Gillett_Evernham_Motorsports,Dodge,500,104045,running,0,118
-2008,W,2008_Goody%27s_Cool_Orange_500,2008_06,16,35,15,usa,Paul_Menard,Paul Menard,Menards / Pittsburgh Paints,"Dale_Earnhardt,_Inc.",Chevrolet,500,84200,running,0,115
+2008,W,2008_Goody%27s_Cool_Orange_500,2008_06,16,35,15,usa,Paul_Menard,Paul Menard,Menards / Pittsburgh Paints,Dale_Earnhardt_Inc,Chevrolet,500,84200,running,0,115
 2008,W,2008_Goody%27s_Cool_Orange_500,2008_06,17,6,9,usa,Kasey_Kahne,Kasey Kahne,Budweiser,Gillett_Evernham_Motorsports,Dodge,500,105766,running,0,112
 2008,W,2008_Goody%27s_Cool_Orange_500,2008_06,18,14,28,usa,Travis_Kvapil,Travis Kvapil,Yates Racing,Yates_Racing,Ford,499,102764,running,0,109
 2008,W,2008_Goody%27s_Cool_Orange_500,2008_06,19,13,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,499,118575,running,0,106
 2008,W,2008_Goody%27s_Cool_Orange_500,2008_06,20,19,16,usa,Greg_Biffle,Greg Biffle,Jackson Hewitt,Jack_Roush,Ford,499,85175,running,0,103
-2008,W,2008_Goody%27s_Cool_Orange_500,2008_06,21,42,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,499,105258,running,0,100
+2008,W,2008_Goody%27s_Cool_Orange_500,2008_06,21,42,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,499,105258,running,0,100
 2008,W,2008_Goody%27s_Cool_Orange_500,2008_06,22,43,40,scotland,Dario_Franchitti,Dario Franchitti,Kennametal,Chip_Ganassi,Dodge,499,81925,running,0,97
 2008,W,2008_Goody%27s_Cool_Orange_500,2008_06,23,40,83,usa,Brian_Vickers,Brian Vickers,Red Bull,Dietrich_Mateschitz,Toyota,497,73625,out of fuel,0,94
 2008,W,2008_Goody%27s_Cool_Orange_500,2008_06,24,21,38,usa,David_Gilliland,David Gilliland,FreeCreditReport.com,Yates_Racing,Ford,497,92433,running,0,91
@@ -255,7 +255,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Goody%27s_Cool_Orange_500,2008_06,39,15,44,usa,David_Reutimann,David Reutimann,UPS,Michael_Waltrip,Toyota,441,68000,rear end,3,51
 2008,W,2008_Goody%27s_Cool_Orange_500,2008_06,40,41,7,usa,Robby_Gordon,Robby Gordon,Charter Communications,Robby_Gordon,Dodge,440,85472,running,0,43
 2008,W,2008_Goody%27s_Cool_Orange_500,2008_06,41,36,66,usa,Scott_Riggs,Scott Riggs,State Water Heaters,Gene_Haas,Chevrolet,420,67875,running,0,40
-2008,W,2008_Goody%27s_Cool_Orange_500,2008_06,42,3,8,usa,Aric_Almirola,Aric Almirola,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,379,102973,engine,0,37
+2008,W,2008_Goody%27s_Cool_Orange_500,2008_06,42,3,8,usa,Aric_Almirola,Aric Almirola,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,379,102973,engine,0,37
 2008,W,2008_Goody%27s_Cool_Orange_500,2008_06,43,18,22,usa,Dave_Blaney,Dave Blaney,Caterpillar,Bill_Davis,Toyota,374,67246,engine,4,39
 2008,W,2008_Samsung_500,2008_07,1,2,99,usa,Carl_Edwards,Carl Edwards,Aflac,Jack_Roush,Ford,339,541150,running,123,195
 2008,W,2008_Samsung_500,2008_07,2,5,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,339,364286,running,65,175
@@ -264,7 +264,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Samsung_500,2008_07,5,14,11,usa,Denny_Hamlin,Denny Hamlin,FedEx Ground,Joe_Gibbs,Toyota,339,206841,running,0,155
 2008,W,2008_Samsung_500,2008_07,6,35,31,usa,Jeff_Burton,Jeff Burton,Prilosec OTC,Richard_Childress,Chevrolet,339,197033,running,0,150
 2008,W,2008_Samsung_500,2008_07,7,24,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Toyota,339,184236,running,0,146
-2008,W,2008_Samsung_500,2008_07,8,31,8,usa,Mark_Martin,Mark Martin,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,339,174358,running,0,142
+2008,W,2008_Samsung_500,2008_07,8,31,8,usa,Mark_Martin,Mark Martin,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,339,174358,running,0,142
 2008,W,2008_Samsung_500,2008_07,9,8,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt,Jack_Roush,Ford,339,173891,running,68,143
 2008,W,2008_Samsung_500,2008_07,10,25,07,usa,Clint_Bowyer,Clint Bowyer,Jack Daniel's,Richard_Childress,Chevrolet,339,145025,running,0,134
 2008,W,2008_Samsung_500,2008_07,11,21,29,usa,Kevin_Harvick,Kevin Harvick,Shell / Pennzoil,Richard_Childress,Chevrolet,338,167411,running,0,130
@@ -273,7 +273,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Samsung_500,2008_07,14,32,26,usa,Jamie_McMurray,Jamie McMurray,Crown Royal Cask No. 16,Jack_Roush,Ford,338,128375,running,0,121
 2008,W,2008_Samsung_500,2008_07,15,41,38,usa,David_Gilliland,David Gilliland,Yates Racing,Yates_Racing,Ford,338,138083,running,0,118
 2008,W,2008_Samsung_500,2008_07,16,36,83,usa,Brian_Vickers,Brian Vickers,Red Bull,Dietrich_Mateschitz,Toyota,338,116725,running,0,115
-2008,W,2008_Samsung_500,2008_07,17,19,15,usa,Paul_Menard,Paul Menard,Menards / Quaker State,"Dale_Earnhardt,_Inc.",Chevrolet,338,123125,running,0,112
+2008,W,2008_Samsung_500,2008_07,17,19,15,usa,Paul_Menard,Paul Menard,Menards / Quaker State,Dale_Earnhardt_Inc,Chevrolet,338,123125,running,0,112
 2008,W,2008_Samsung_500,2008_07,18,38,28,usa,Travis_Kvapil,Travis Kvapil,Yates Racing,Yates_Racing,Ford,338,140639,running,0,109
 2008,W,2008_Samsung_500,2008_07,19,11,42,colombia,Juan_Pablo_Montoya,Juan Pablo Montoya,Texaco / Havoline,Chip_Ganassi,Dodge,337,139733,running,0,106
 2008,W,2008_Samsung_500,2008_07,20,30,43,usa,Bobby_Labonte,Bobby Labonte,Cheerios / Sam's Club,Petty_Enterprises,Dodge,337,149511,running,0,103
@@ -291,8 +291,8 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Samsung_500,2008_07,32,17,77,usa,Sam_Hornish_Jr,"Sam Hornish, Jr.",Mobil 1,Roger_Penske,Dodge,333,134925,running,0,67
 2008,W,2008_Samsung_500,2008_07,33,40,00,usa,Michael_McDowell,Michael McDowell,Aaron's Dream Machine,Michael_Waltrip,Toyota,332,91700,running,0,64
 2008,W,2008_Samsung_500,2008_07,34,28,21,usa,Bill_Elliott,Bill Elliott,Motorcraft,Wood_Brothers,Ford,332,105495,running,0,61
-2008,W,2008_Samsung_500,2008_07,35,34,01,usa,Regan_Smith,Regan Smith,"Dale Earnhardt, Inc.","Dale_Earnhardt,_Inc.",Chevrolet,331,94025,running,0,58
-2008,W,2008_Samsung_500,2008_07,36,12,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,330,115908,engine,2,60
+2008,W,2008_Samsung_500,2008_07,35,34,01,usa,Regan_Smith,Regan Smith,"Dale Earnhardt, Inc.",Dale_Earnhardt_Inc,Chevrolet,331,94025,running,0,58
+2008,W,2008_Samsung_500,2008_07,36,12,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,330,115908,engine,2,60
 2008,W,2008_Samsung_500,2008_07,37,43,78,usa,Joe_Nemechek,Joe Nemechek,Furniture Row Racing,Barney_Visser,Chevrolet,330,83775,running,0,52
 2008,W,2008_Samsung_500,2008_07,38,39,70,usa,Jeremy_Mayfield,Jeremy Mayfield,Haas Automation,Gene_Haas,Chevrolet,329,82625,running,0,49
 2008,W,2008_Samsung_500,2008_07,39,16,16,usa,Greg_Biffle,Greg Biffle,Dish Network,Jack_Roush,Ford,312,90500,running,0,46
@@ -304,10 +304,10 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Subway_Fresh_Fit_500,2008_08,2,24,07,usa,Clint_Bowyer,Clint Bowyer,DirecTV,Richard_Childress,Chevrolet,312,170350,running,0,170
 2008,W,2008_Subway_Fresh_Fit_500,2008_08,3,16,11,usa,Denny_Hamlin,Denny Hamlin,FedEx Kinko's / March of Dimes,Joe_Gibbs,Toyota,312,164516,running,0,165
 2008,W,2008_Subway_Fresh_Fit_500,2008_08,4,3,99,usa,Carl_Edwards,Carl Edwards,Aflac,Jack_Roush,Ford,312,158585,running,0,160
-2008,W,2008_Subway_Fresh_Fit_500,2008_08,5,4,8,usa,Mark_Martin,Mark Martin,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,312,150258,running,68,160
+2008,W,2008_Subway_Fresh_Fit_500,2008_08,5,4,8,usa,Mark_Martin,Mark Martin,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,312,150258,running,68,160
 2008,W,2008_Subway_Fresh_Fit_500,2008_08,6,39,31,usa,Jeff_Burton,Jeff Burton,AT&T Mobility,Richard_Childress,Chevrolet,312,140008,running,0,150
 2008,W,2008_Subway_Fresh_Fit_500,2008_08,7,13,88,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",National Guard / AMP Energy,Rick_Hendrick,Chevrolet,312,99125,running,87,151
-2008,W,2008_Subway_Fresh_Fit_500,2008_08,8,9,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,312,113008,running,0,142
+2008,W,2008_Subway_Fresh_Fit_500,2008_08,8,9,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,312,113008,running,0,142
 2008,W,2008_Subway_Fresh_Fit_500,2008_08,9,18,16,usa,Greg_Biffle,Greg Biffle,3M,Jack_Roush,Ford,312,89475,running,0,138
 2008,W,2008_Subway_Fresh_Fit_500,2008_08,10,6,18,usa,Kyle_Busch,Kyle Busch,Snickers,Joe_Gibbs,Toyota,312,95925,running,0,134
 2008,W,2008_Subway_Fresh_Fit_500,2008_08,11,30,5,usa,Casey_Mears,Casey Mears,Kellogg's / Carquest,Rick_Hendrick,Chevrolet,311,90875,running,0,130
@@ -320,7 +320,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Subway_Fresh_Fit_500,2008_08,18,26,44,usa,David_Reutimann,David Reutimann,UPS,Michael_Waltrip,Toyota,311,75300,running,0,109
 2008,W,2008_Subway_Fresh_Fit_500,2008_08,19,17,29,usa,Kevin_Harvick,Kevin Harvick,Reese's,Richard_Childress,Chevrolet,311,113336,running,0,106
 2008,W,2008_Subway_Fresh_Fit_500,2008_08,20,31,77,usa,Sam_Hornish_Jr,"Sam Hornish, Jr.",Mobil 1,Roger_Penske,Dodge,311,114250,running,0,103
-2008,W,2008_Subway_Fresh_Fit_500,2008_08,21,14,15,usa,Paul_Menard,Paul Menard,Menards / Johns Manville,"Dale_Earnhardt,_Inc.",Chevrolet,311,78225,running,0,100
+2008,W,2008_Subway_Fresh_Fit_500,2008_08,21,14,15,usa,Paul_Menard,Paul Menard,Menards / Johns Manville,Dale_Earnhardt_Inc,Chevrolet,311,78225,running,0,100
 2008,W,2008_Subway_Fresh_Fit_500,2008_08,22,32,28,usa,Travis_Kvapil,Travis Kvapil,Ford. Drive One.,Yates_Racing,Ford,310,98314,running,0,97
 2008,W,2008_Subway_Fresh_Fit_500,2008_08,23,40,2,usa,Kurt_Busch,Kurt Busch,Miller Lite,Roger_Penske,Dodge,310,65875,running,0,94
 2008,W,2008_Subway_Fresh_Fit_500,2008_08,24,28,55,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Michael_Waltrip,Toyota,310,82833,running,0,91
@@ -334,7 +334,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Subway_Fresh_Fit_500,2008_08,32,21,40,scotland,Dario_Franchitti,Dario Franchitti,Wrigley's Juicy Fruit,Chip_Ganassi,Dodge,309,75125,running,0,67
 2008,W,2008_Subway_Fresh_Fit_500,2008_08,33,37,10,canada,Patrick_Carpentier,Patrick Carpentier,LifeLock,Gillett_Evernham_Motorsports,Dodge,308,65450,running,0,64
 2008,W,2008_Subway_Fresh_Fit_500,2008_08,34,29,00,usa,Michael_McDowell,Michael McDowell,Aaron's Dream Machine,Michael_Waltrip,Toyota,307,64375,running,0,61
-2008,W,2008_Subway_Fresh_Fit_500,2008_08,35,38,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,298,72250,running,0,58
+2008,W,2008_Subway_Fresh_Fit_500,2008_08,35,38,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,298,72250,running,0,58
 2008,W,2008_Subway_Fresh_Fit_500,2008_08,36,5,9,usa,Kasey_Kahne,Kasey Kahne,Budweiser,Gillett_Evernham_Motorsports,Dodge,273,94091,running,0,55
 2008,W,2008_Subway_Fresh_Fit_500,2008_08,37,42,70,usa,Johnny_Sauter,Johnny Sauter,Haas Automation,Gene_Haas,Chevrolet,271,63975,running,0,52
 2008,W,2008_Subway_Fresh_Fit_500,2008_08,38,27,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt NANO Technology,Jack_Roush,Ford,269,111466,running,0,49
@@ -356,14 +356,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Aaron%27s_499,2008_09,11,35,7,usa,Robby_Gordon,Robby Gordon,RVs.com,Robby_Gordon,Dodge,188,123758,running,0,130
 2008,W,2008_Aaron%27s_499,2008_09,12,38,31,usa,Jeff_Burton,Jeff Burton,AT&T Mobility,Richard_Childress,Chevrolet,188,137908,running,1,132
 2008,W,2008_Aaron%27s_499,2008_09,13,10,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,188,146461,running,1,129
-2008,W,2008_Aaron%27s_499,2008_09,14,22,15,usa,Paul_Menard,Paul Menard,Menards / Turtle Wax,"Dale_Earnhardt,_Inc.",Chevrolet,188,102450,running,3,126
+2008,W,2008_Aaron%27s_499,2008_09,14,22,15,usa,Paul_Menard,Paul Menard,Menards / Turtle Wax,Dale_Earnhardt_Inc,Chevrolet,188,102450,running,3,126
 2008,W,2008_Aaron%27s_499,2008_09,15,40,38,usa,David_Gilliland,David Gilliland,FreeCreditReport.com,Yates_Racing,Ford,188,111183,running,2,123
 2008,W,2008_Aaron%27s_499,2008_09,16,19,66,usa,Scott_Riggs,Scott Riggs,State Water Heaters,Gene_Haas,Chevrolet,188,106533,running,0,115
 2008,W,2008_Aaron%27s_499,2008_09,17,32,26,usa,Jamie_McMurray,Jamie McMurray,Crown Royal,Jack_Roush,Ford,188,99425,running,0,112
 2008,W,2008_Aaron%27s_499,2008_09,18,31,16,usa,Greg_Biffle,Greg Biffle,3M / American Red Cross,Jack_Roush,Ford,188,98525,running,0,109
 2008,W,2008_Aaron%27s_499,2008_09,19,20,24,usa,Jeff_Gordon,Jeff Gordon,DuPont / Pepsi,Rick_Hendrick,Chevrolet,188,134961,running,1,111
 2008,W,2008_Aaron%27s_499,2008_09,20,30,44,usa,David_Reutimann,David Reutimann,UPS,Michael_Waltrip,Toyota,188,90525,running,0,103
-2008,W,2008_Aaron%27s_499,2008_09,21,29,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,188,98000,running,1,105
+2008,W,2008_Aaron%27s_499,2008_09,21,29,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,188,98000,running,1,105
 2008,W,2008_Aaron%27s_499,2008_09,22,16,09,usa,Sterling_Marlin,Sterling Marlin,Miccosukee Resorts & Gaming,James_Finch,Chevrolet,188,84025,running,0,97
 2008,W,2008_Aaron%27s_499,2008_09,23,42,9,usa,Kasey_Kahne,Kasey Kahne,Budweiser,Gillett_Evernham_Motorsports,Dodge,188,117566,running,1,99
 2008,W,2008_Aaron%27s_499,2008_09,24,39,29,usa,Kevin_Harvick,Kevin Harvick,Shell / Pennzoil,Richard_Childress,Chevrolet,188,129736,running,1,96
@@ -375,11 +375,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Aaron%27s_499,2008_09,30,4,84,usa,A_J_Allmendinger,A.J. Allmendinger,Red Bull,Dietrich_Mateschitz,Toyota,187,80225,crash,1,78
 2008,W,2008_Aaron%27s_499,2008_09,31,17,10,canada,Patrick_Carpentier,Patrick Carpentier,LifeLock,Gillett_Evernham_Motorsports,Dodge,186,82975,running,0,70
 2008,W,2008_Aaron%27s_499,2008_09,32,15,45,usa,Kyle_Petty,Kyle Petty,Marathon American Spirit Motor Oil,Petty_Enterprises,Dodge,186,79825,running,0,67
-2008,W,2008_Aaron%27s_499,2008_09,33,28,8,usa,Aric_Almirola,Aric Almirola,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,186,114808,running,0,64
+2008,W,2008_Aaron%27s_499,2008_09,33,28,8,usa,Aric_Almirola,Aric Almirola,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,186,114808,running,0,64
 2008,W,2008_Aaron%27s_499,2008_09,34,34,43,usa,Bobby_Labonte,Bobby Labonte,Cheerios / Betty Crocker,Petty_Enterprises,Dodge,183,116511,running,0,61
 2008,W,2008_Aaron%27s_499,2008_09,35,37,77,usa,Sam_Hornish_Jr,"Sam Hornish, Jr.",Mobil 1,Roger_Penske,Dodge,180,125000,running,0,58
 2008,W,2008_Aaron%27s_499,2008_09,36,12,21,usa,Jon_Wood,Jon Wood,Little Debbie Snack Cakes,Wood_Brothers,Ford,179,97620,running,0,55
-2008,W,2008_Aaron%27s_499,2008_09,37,33,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,174,110133,crash,0,52
+2008,W,2008_Aaron%27s_499,2008_09,37,33,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,174,110133,crash,0,52
 2008,W,2008_Aaron%27s_499,2008_09,38,2,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Toyota,173,138886,crash,61,59
 2008,W,2008_Aaron%27s_499,2008_09,39,23,2,usa,Kurt_Busch,Kurt Busch,Miller Lite,Roger_Penske,Dodge,173,78550,crash,0,46
 2008,W,2008_Aaron%27s_499,2008_09,40,11,99,usa,Carl_Edwards,Carl Edwards,Office Depot,Jack_Roush,Ford,153,125725,running,0,43
@@ -388,9 +388,9 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Aaron%27s_499,2008_09,43,25,41,usa,Reed_Sorenson,Reed Sorenson,Polaroid,Chip_Ganassi,Dodge,4,105352,engine,0,34
 2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,1,31,07,usa,Clint_Bowyer,Clint Bowyer,BB&T,Richard_Childress,Chevrolet,410,226550,running,13,190
 2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,2,7,18,usa,Kyle_Busch,Kyle Busch,Pedigree,Joe_Gibbs,Toyota,410,171100,running,0,170
-2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,3,2,8,usa,Mark_Martin,Mark Martin,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,410,174108,running,0,165
+2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,3,2,8,usa,Mark_Martin,Mark Martin,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,410,174108,running,0,165
 2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,4,15,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Toyota,410,157911,running,0,160
-2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,5,3,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,410,133708,running,0,155
+2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,5,3,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,410,133708,running,0,155
 2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,6,10,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,410,137975,running,0,150
 2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,7,19,99,usa,Carl_Edwards,Carl Edwards,Office Depot,Jack_Roush,Ford,410,131375,running,0,146
 2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,8,11,29,usa,Kevin_Harvick,Kevin Harvick,Shell / Pennzoil,Richard_Childress,Chevrolet,410,125411,running,0,142
@@ -406,7 +406,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,18,17,22,usa,Dave_Blaney,Dave Blaney,Caterpillar,Bill_Davis,Toyota,408,90383,running,0,109
 2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,19,30,66,usa,Scott_Riggs,Scott Riggs,Haas Automation,Gene_Haas,Chevrolet,408,88158,running,0,106
 2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,20,8,19,usa,Elliott_Sadler,Elliott Sadler,Stanley,Gillett_Evernham_Motorsports,Dodge,408,100470,running,0,103
-2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,21,26,01,usa,Regan_Smith,Regan Smith,Steak-umm Burgers,"Dale_Earnhardt,_Inc.",Chevrolet,408,81000,running,0,100
+2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,21,26,01,usa,Regan_Smith,Regan Smith,Steak-umm Burgers,Dale_Earnhardt_Inc,Chevrolet,408,81000,running,0,100
 2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,22,14,44,usa,David_Reutimann,David Reutimann,UPS,Michael_Waltrip,Toyota,407,71275,running,0,97
 2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,23,35,77,usa,Sam_Hornish_Jr,"Sam Hornish, Jr.",Mobil 1,Roger_Penske,Dodge,407,113650,running,0,94
 2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,24,1,11,usa,Denny_Hamlin,Denny Hamlin,FedEx Express,Joe_Gibbs,Toyota,407,123166,running,381,101
@@ -416,7 +416,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,28,32,83,usa,Brian_Vickers,Brian Vickers,Red Bull,Dietrich_Mateschitz,Toyota,406,70075,running,0,79
 2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,29,36,78,usa,Joe_Nemechek,Joe Nemechek,Furniture Row Racing,Barney_Visser,Chevrolet,406,66950,running,0,76
 2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,30,12,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,400,121411,running,0,73
-2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,31,25,15,usa,Paul_Menard,Paul Menard,Menards / Moen,"Dale_Earnhardt,_Inc.",Chevrolet,397,77150,running,0,70
+2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,31,25,15,usa,Paul_Menard,Paul Menard,Menards / Moen,Dale_Earnhardt_Inc,Chevrolet,397,77150,running,0,70
 2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,32,6,42,colombia,Juan_Pablo_Montoya,Juan Pablo Montoya,Texaco / Havoline,Chip_Ganassi,Dodge,389,94408,running,0,67
 2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,33,37,70,usa,Johnny_Sauter,Johnny Sauter,Haas Automation,Gene_Haas,Chevrolet,374,67325,running,0,64
 2008,W,2008_Crown_Royal_Presents_the_Dan_Lowry_400,2008_10,34,43,96,usa,J_J_Yeley,J.J. Yeley,DLP HDTV,Jeff_Moorad,Toyota,365,74250,running,0,61
@@ -442,9 +442,9 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Dodge_Challenger_500,2008_11,11,25,26,usa,Jamie_McMurray,Jamie McMurray,Crown Royal,Jack_Roush,Ford,367,95925,running,3,135
 2008,W,2008_Dodge_Challenger_500,2008_11,12,5,2,usa,Kurt_Busch,Kurt Busch,Miller Lite,Roger_Penske,Dodge,367,87650,running,1,132
 2008,W,2008_Dodge_Challenger_500,2008_11,13,3,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,367,137061,running,0,124
-2008,W,2008_Dodge_Challenger_500,2008_11,14,22,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,367,116383,running,11,126
+2008,W,2008_Dodge_Challenger_500,2008_11,14,22,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,367,116383,running,11,126
 2008,W,2008_Dodge_Challenger_500,2008_11,15,38,07,usa,Clint_Bowyer,Clint Bowyer,Jack Daniel's,Richard_Childress,Chevrolet,367,99750,running,0,118
-2008,W,2008_Dodge_Challenger_500,2008_11,16,27,8,usa,Mark_Martin,Mark Martin,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,367,117908,running,0,115
+2008,W,2008_Dodge_Challenger_500,2008_11,16,27,8,usa,Mark_Martin,Mark Martin,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,367,117908,running,0,115
 2008,W,2008_Dodge_Challenger_500,2008_11,17,9,66,usa,Scott_Riggs,Scott Riggs,State Water Heaters,Gene_Haas,Chevrolet,367,99008,running,0,112
 2008,W,2008_Dodge_Challenger_500,2008_11,18,10,43,usa,Bobby_Labonte,Bobby Labonte,Cheerios / Betty Crocker,Petty_Enterprises,Dodge,367,119011,running,0,109
 2008,W,2008_Dodge_Challenger_500,2008_11,19,30,44,usa,David_Reutimann,David Reutimann,UPS,Michael_Waltrip,Toyota,367,81300,running,0,106
@@ -457,14 +457,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Dodge_Challenger_500,2008_11,26,31,96,usa,J_J_Yeley,J.J. Yeley,DLP HDTV,Jeff_Moorad,Toyota,365,84675,running,1,90
 2008,W,2008_Dodge_Challenger_500,2008_11,27,26,84,usa,A_J_Allmendinger,A.J. Allmendinger,Red Bull,Dietrich_Mateschitz,Toyota,364,72475,running,0,82
 2008,W,2008_Dodge_Challenger_500,2008_11,28,18,00,usa,Michael_McDowell,Michael McDowell,Brain Cancer Action Week,Michael_Waltrip,Toyota,364,85872,running,0,79
-2008,W,2008_Dodge_Challenger_500,2008_11,29,16,01,usa,Regan_Smith,Regan Smith,Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,363,82625,running,0,76
+2008,W,2008_Dodge_Challenger_500,2008_11,29,16,01,usa,Regan_Smith,Regan Smith,Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,363,82625,running,0,76
 2008,W,2008_Dodge_Challenger_500,2008_11,30,20,21,usa,Bill_Elliott,Bill Elliott,Motorcraft,Wood_Brothers,Ford,363,92795,running,0,73
 2008,W,2008_Dodge_Challenger_500,2008_11,31,17,78,usa,Joe_Nemechek,Joe Nemechek,Furniture Row Racing,Barney_Visser,Chevrolet,363,71200,running,0,70
 2008,W,2008_Dodge_Challenger_500,2008_11,32,39,41,usa,Reed_Sorenson,Reed Sorenson,Target,Chip_Ganassi,Dodge,362,98239,running,0,67
 2008,W,2008_Dodge_Challenger_500,2008_11,33,40,7,usa,Robby_Gordon,Robby Gordon,Jim Beam,Robby_Gordon,Dodge,361,79800,running,0,64
 2008,W,2008_Dodge_Challenger_500,2008_11,34,14,40,usa,Sterling_Marlin,Sterling Marlin,Dodge Challenger,Chip_Ganassi,Dodge,350,78725,running,0,61
 2008,W,2008_Dodge_Challenger_500,2008_11,35,29,5,usa,Casey_Mears,Casey Mears,Kellogg's / Carquest,Rick_Hendrick,Chevrolet,341,88475,running,0,58
-2008,W,2008_Dodge_Challenger_500,2008_11,36,41,15,usa,Paul_Menard,Paul Menard,Menards / NIBCO,"Dale_Earnhardt,_Inc.",Chevrolet,340,78325,running,0,55
+2008,W,2008_Dodge_Challenger_500,2008_11,36,41,15,usa,Paul_Menard,Paul Menard,Menards / NIBCO,Dale_Earnhardt_Inc,Chevrolet,340,78325,running,0,55
 2008,W,2008_Dodge_Challenger_500,2008_11,37,32,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,295,112200,running,0,52
 2008,W,2008_Dodge_Challenger_500,2008_11,38,23,77,usa,Sam_Hornish_Jr,"Sam Hornish, Jr.",Mobil 1,Roger_Penske,Dodge,270,115475,running,0,49
 2008,W,2008_Dodge_Challenger_500,2008_11,39,11,29,usa,Kevin_Harvick,Kevin Harvick,Shell / Pennzoil,Richard_Childress,Chevrolet,265,116711,running,0,46
@@ -486,11 +486,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Coca_Cola_600,2008_12,12,5,6,usa,David_Ragan,David Ragan,AAA Insurance,Jack_Roush,Ford,400,115100,running,2,132
 2008,W,2008_Coca_Cola_600,2008_12,13,20,77,usa,Sam_Hornish_Jr,"Sam Hornish, Jr.",Mobil 1,Roger_Penske,Dodge,400,147325,running,0,124
 2008,W,2008_Coca_Cola_600,2008_12,14,19,29,usa,Kevin_Harvick,Kevin Harvick,Shell / Pennzoil,Richard_Childress,Chevrolet,400,146636,running,0,121
-2008,W,2008_Coca_Cola_600,2008_12,15,7,8,usa,Mark_Martin,Mark Martin,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,400,136908,running,0,118
+2008,W,2008_Coca_Cola_600,2008_12,15,7,8,usa,Mark_Martin,Mark Martin,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,400,136908,running,0,118
 2008,W,2008_Coca_Cola_600,2008_12,16,8,2,usa,Kurt_Busch,Kurt Busch,Miller Lite,Roger_Penske,Dodge,400,97250,running,64,120
 2008,W,2008_Coca_Cola_600,2008_12,17,11,22,usa,Dave_Blaney,Dave Blaney,Caterpillar,Bill_Davis,Toyota,400,117993,running,2,117
 2008,W,2008_Coca_Cola_600,2008_12,18,31,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Toyota,399,152961,running,23,114
-2008,W,2008_Coca_Cola_600,2008_12,19,37,01,usa,Regan_Smith,Regan Smith,Principal Financial Group / DEI,"Dale_Earnhardt,_Inc.",Chevrolet,399,104850,running,0,106
+2008,W,2008_Coca_Cola_600,2008_12,19,37,01,usa,Regan_Smith,Regan Smith,Principal Financial Group / DEI,Dale_Earnhardt_Inc,Chevrolet,399,104850,running,0,106
 2008,W,2008_Coca_Cola_600,2008_12,20,27,84,usa,A_J_Allmendinger,A.J. Allmendinger,Red Bull,Dietrich_Mateschitz,Toyota,399,92225,running,0,103
 2008,W,2008_Coca_Cola_600,2008_12,21,38,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,399,133375,running,1,105
 2008,W,2008_Coca_Cola_600,2008_12,22,17,41,usa,Reed_Sorenson,Reed Sorenson,Target,Chip_Ganassi,Dodge,399,123639,running,0,97
@@ -505,14 +505,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Coca_Cola_600,2008_12,31,26,40,usa,Sterling_Marlin,Sterling Marlin,Wii Fit,Chip_Ganassi,Dodge,396,97025,running,0,70
 2008,W,2008_Coca_Cola_600,2008_12,32,40,00,usa,Michael_McDowell,Michael McDowell,Aaron's Dream Machine,Michael_Waltrip,Toyota,395,100558,running,0,67
 2008,W,2008_Coca_Cola_600,2008_12,33,33,33,usa,Ken_Schrader,Ken Schrader,Camping World,Richard_Childress,Chevrolet,395,86725,running,0,64
-2008,W,2008_Coca_Cola_600,2008_12,34,24,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,395,119183,running,0,61
+2008,W,2008_Coca_Cola_600,2008_12,34,24,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,395,119183,running,0,61
 2008,W,2008_Coca_Cola_600,2008_12,35,43,70,usa,Johnny_Sauter,Johnny Sauter,Haas Automation,Gene_Haas,Chevrolet,395,85500,running,0,-92
 2008,W,2008_Coca_Cola_600,2008_12,36,36,45,usa,Kyle_Petty,Kyle Petty,Coca-Cola,Petty_Enterprises,Dodge,389,94922,running,0,55
 2008,W,2008_Coca_Cola_600,2008_12,37,34,10,canada,Patrick_Carpentier,Patrick Carpentier,LifeLock,Gillett_Evernham_Motorsports,Dodge,363,85150,engine,0,52
 2008,W,2008_Coca_Cola_600,2008_12,38,35,96,usa,J_J_Yeley,J.J. Yeley,DLP HDTV,Jeff_Moorad,Toyota,353,93035,running,0,49
 2008,W,2008_Coca_Cola_600,2008_12,39,10,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,351,149861,engine,35,51
 2008,W,2008_Coca_Cola_600,2008_12,40,32,38,usa,David_Gilliland,David Gilliland,FreeCreditReport.com,Yates_Racing,Ford,343,84815,running,0,43
-2008,W,2008_Coca_Cola_600,2008_12,41,25,15,usa,Paul_Menard,Paul Menard,Menards / Johns Manville,"Dale_Earnhardt,_Inc.",Chevrolet,244,92705,overheating,0,40
+2008,W,2008_Coca_Cola_600,2008_12,41,25,15,usa,Paul_Menard,Paul Menard,Menards / Johns Manville,Dale_Earnhardt_Inc,Chevrolet,244,92705,overheating,0,40
 2008,W,2008_Coca_Cola_600,2008_12,42,3,83,usa,Brian_Vickers,Brian Vickers,Red Bull,Dietrich_Mateschitz,Toyota,184,90875,crash,61,42
 2008,W,2008_Coca_Cola_600,2008_12,43,22,7,usa,Robby_Gordon,Robby Gordon,Jim Beam,Robby_Gordon,Dodge,181,92891,engine,0,34
 2008,W,2008_Best_Buy_400_Benefiting_Student_Clubs_for_Autism_Speaks,2008_13,1,3,18,usa,Kyle_Busch,Kyle Busch,Combos,Joe_Gibbs,Toyota,400,302550,running,158,190
@@ -520,7 +520,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Best_Buy_400_Benefiting_Student_Clubs_for_Autism_Speaks,2008_13,3,1,16,usa,Greg_Biffle,Greg Biffle,3M,Jack_Roush,Ford,400,183525,running,164,175
 2008,W,2008_Best_Buy_400_Benefiting_Student_Clubs_for_Autism_Speaks,2008_13,4,21,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt NANO Technology,Jack_Roush,Ford,400,173541,running,1,165
 2008,W,2008_Best_Buy_400_Benefiting_Student_Clubs_for_Autism_Speaks,2008_13,5,7,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,400,159386,running,3,160
-2008,W,2008_Best_Buy_400_Benefiting_Student_Clubs_for_Autism_Speaks,2008_13,6,20,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,400,145433,running,0,150
+2008,W,2008_Best_Buy_400_Benefiting_Student_Clubs_for_Autism_Speaks,2008_13,6,20,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,400,145433,running,0,150
 2008,W,2008_Best_Buy_400_Benefiting_Student_Clubs_for_Autism_Speaks,2008_13,7,4,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,399,152136,running,2,151
 2008,W,2008_Best_Buy_400_Benefiting_Student_Clubs_for_Autism_Speaks,2008_13,8,38,31,usa,Jeff_Burton,Jeff Burton,AT&T Mobility,Richard_Childress,Chevrolet,399,147383,running,0,142
 2008,W,2008_Best_Buy_400_Benefiting_Student_Clubs_for_Autism_Speaks,2008_13,9,18,22,usa,Dave_Blaney,Dave Blaney,Caterpillar,Bill_Davis,Toyota,399,116583,running,0,138
@@ -535,9 +535,9 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Best_Buy_400_Benefiting_Student_Clubs_for_Autism_Speaks,2008_13,18,16,77,usa,Sam_Hornish_Jr,"Sam Hornish, Jr.",Penske Truck Rental,Roger_Penske,Dodge,397,130150,running,0,109
 2008,W,2008_Best_Buy_400_Benefiting_Student_Clubs_for_Autism_Speaks,2008_13,19,41,7,usa,Robby_Gordon,Robby Gordon,Jim Beam,Robby_Gordon,Dodge,397,108308,running,0,106
 2008,W,2008_Best_Buy_400_Benefiting_Student_Clubs_for_Autism_Speaks,2008_13,20,2,2,usa,Kurt_Busch,Kurt Busch,Miller Lite,Roger_Penske,Dodge,396,85900,running,0,103
-2008,W,2008_Best_Buy_400_Benefiting_Student_Clubs_for_Autism_Speaks,2008_13,21,29,01,usa,Regan_Smith,Regan Smith,Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,396,93875,running,0,100
-2008,W,2008_Best_Buy_400_Benefiting_Student_Clubs_for_Autism_Speaks,2008_13,22,13,15,usa,Paul_Menard,Paul Menard,Menards / Pittsburgh Paints,"Dale_Earnhardt,_Inc.",Chevrolet,396,92175,running,0,97
-2008,W,2008_Best_Buy_400_Benefiting_Student_Clubs_for_Autism_Speaks,2008_13,23,30,8,usa,Mark_Martin,Mark Martin,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,394,118633,running,0,94
+2008,W,2008_Best_Buy_400_Benefiting_Student_Clubs_for_Autism_Speaks,2008_13,21,29,01,usa,Regan_Smith,Regan Smith,Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,396,93875,running,0,100
+2008,W,2008_Best_Buy_400_Benefiting_Student_Clubs_for_Autism_Speaks,2008_13,22,13,15,usa,Paul_Menard,Paul Menard,Menards / Pittsburgh Paints,Dale_Earnhardt_Inc,Chevrolet,396,92175,running,0,97
+2008,W,2008_Best_Buy_400_Benefiting_Student_Clubs_for_Autism_Speaks,2008_13,23,30,8,usa,Mark_Martin,Mark Martin,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,394,118633,running,0,94
 2008,W,2008_Best_Buy_400_Benefiting_Student_Clubs_for_Autism_Speaks,2008_13,24,27,96,usa,J_J_Yeley,J.J. Yeley,DLP HDTV,Jeff_Moorad,Toyota,394,92175,running,0,91
 2008,W,2008_Best_Buy_400_Benefiting_Student_Clubs_for_Autism_Speaks,2008_13,25,10,40,usa,Jeremy_Mayfield,Jeremy Mayfield,Target,Chip_Ganassi,Dodge,394,90700,running,0,88
 2008,W,2008_Best_Buy_400_Benefiting_Student_Clubs_for_Autism_Speaks,2008_13,26,42,41,usa,Reed_Sorenson,Reed Sorenson,Target,Chip_Ganassi,Dodge,394,108764,running,0,85
@@ -567,14 +567,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Pocono_500,2008_14,7,13,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt,Jack_Roush,Ford,200,130866,running,2,151
 2008,W,2008_Pocono_500,2008_14,8,11,2,usa,Kurt_Busch,Kurt Busch,Miller Lite,Roger_Penske,Dodge,200,87175,running,0,142
 2008,W,2008_Pocono_500,2008_14,9,6,99,usa,Carl_Edwards,Carl Edwards,Aflac,Jack_Roush,Ford,200,123700,running,2,143
-2008,W,2008_Pocono_500,2008_14,10,3,8,usa,Mark_Martin,Mark Martin,Steak-umm Burgers,"Dale_Earnhardt,_Inc.",Chevrolet,200,114083,running,0,134
+2008,W,2008_Pocono_500,2008_14,10,3,8,usa,Mark_Martin,Mark Martin,Steak-umm Burgers,Dale_Earnhardt_Inc,Chevrolet,200,114083,running,0,134
 2008,W,2008_Pocono_500,2008_14,11,37,43,usa,Bobby_Labonte,Bobby Labonte,Cheerios / Betty Crocker,Petty_Enterprises,Dodge,200,121536,running,0,130
 2008,W,2008_Pocono_500,2008_14,12,8,84,usa,A_J_Allmendinger,A.J. Allmendinger,Red Bull,Dietrich_Mateschitz,Toyota,200,75200,running,0,127
 2008,W,2008_Pocono_500,2008_14,13,28,29,usa,Kevin_Harvick,Kevin Harvick,Shell / Pennzoil,Richard_Childress,Chevrolet,200,118061,running,0,124
 2008,W,2008_Pocono_500,2008_14,14,38,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,200,117711,running,0,121
 2008,W,2008_Pocono_500,2008_14,15,33,16,usa,Greg_Biffle,Greg Biffle,3M,Jack_Roush,Ford,200,81175,running,4,123
 2008,W,2008_Pocono_500,2008_14,16,42,38,usa,David_Gilliland,David Gilliland,FreeCreditReport.com,Yates_Racing,Ford,200,89583,running,0,115
-2008,W,2008_Pocono_500,2008_14,17,25,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,200,101808,running,2,117
+2008,W,2008_Pocono_500,2008_14,17,25,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,200,101808,running,2,117
 2008,W,2008_Pocono_500,2008_14,18,27,12,usa,Ryan_Newman,Ryan Newman,Kodak,Roger_Penske,Dodge,200,109350,running,0,109
 2008,W,2008_Pocono_500,2008_14,19,36,44,usa,David_Reutimann,David Reutimann,UPS,Michael_Waltrip,Toyota,200,70225,running,0,106
 2008,W,2008_Pocono_500,2008_14,20,22,26,usa,Jamie_McMurray,Jamie McMurray,Irwin Industrial Tools,Jack_Roush,Ford,200,80250,running,0,103
@@ -582,10 +582,10 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Pocono_500,2008_14,22,32,22,usa,Dave_Blaney,Dave Blaney,Caterpillar,Bill_Davis,Toyota,200,83408,running,1,102
 2008,W,2008_Pocono_500,2008_14,23,23,28,usa,Travis_Kvapil,Travis Kvapil,Dish Network / Dish DVRs,Yates_Racing,Ford,200,97064,running,0,94
 2008,W,2008_Pocono_500,2008_14,24,30,6,usa,David_Ragan,David Ragan,AAA Insurance,Jack_Roush,Ford,200,76675,running,0,91
-2008,W,2008_Pocono_500,2008_14,25,17,15,usa,Paul_Menard,Paul Menard,Menards / Pittsburgh Paints,"Dale_Earnhardt,_Inc.",Chevrolet,200,76450,running,0,88
+2008,W,2008_Pocono_500,2008_14,25,17,15,usa,Paul_Menard,Paul Menard,Menards / Pittsburgh Paints,Dale_Earnhardt_Inc,Chevrolet,200,76450,running,0,88
 2008,W,2008_Pocono_500,2008_14,26,34,5,usa,Casey_Mears,Casey Mears,Kellogg's / Carquest,Rick_Hendrick,Chevrolet,200,83800,running,0,85
 2008,W,2008_Pocono_500,2008_14,27,39,00,usa,Michael_McDowell,Michael McDowell,Champion Mortgage,Michael_Waltrip,Toyota,200,80808,running,0,82
-2008,W,2008_Pocono_500,2008_14,28,4,01,usa,Regan_Smith,Regan Smith,Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,200,73000,running,0,79
+2008,W,2008_Pocono_500,2008_14,28,4,01,usa,Regan_Smith,Regan Smith,Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,200,73000,running,0,79
 2008,W,2008_Pocono_500,2008_14,29,5,78,usa,Joe_Nemechek,Joe Nemechek,Furniture Row / Denver Mattress,Barney_Visser,Chevrolet,200,64850,running,0,76
 2008,W,2008_Pocono_500,2008_14,30,43,45,usa,Terry_Labonte,Terry Labonte,Paralyzed Veterans of America,Petty_Enterprises,Dodge,200,74747,running,0,73
 2008,W,2008_Pocono_500,2008_14,31,29,21,usa,Bill_Elliott,Bill Elliott,U.S. Air Force,Wood_Brothers,Ford,200,82895,running,0,70
@@ -611,13 +611,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_LifeLock_400,2008_15,8,13,6,usa,David_Ragan,David Ragan,AAA Insurance,Jack_Roush,Ford,203,98975,running,6,147
 2008,W,2008_LifeLock_400,2008_15,9,27,19,usa,Elliott_Sadler,Elliott Sadler,McDonald's Big Mac,Gillett_Evernham_Motorsports,Dodge,203,112120,running,0,138
 2008,W,2008_LifeLock_400,2008_15,10,23,26,usa,Jamie_McMurray,Jamie McMurray,Crown Royal Cask No. 16,Jack_Roush,Ford,203,95125,running,1,139
-2008,W,2008_LifeLock_400,2008_15,11,26,15,usa,Paul_Menard,Paul Menard,Menards / Sylvania,"Dale_Earnhardt,_Inc.",Chevrolet,203,91875,running,0,130
+2008,W,2008_LifeLock_400,2008_15,11,26,15,usa,Paul_Menard,Paul Menard,Menards / Sylvania,Dale_Earnhardt_Inc,Chevrolet,203,91875,running,0,130
 2008,W,2008_LifeLock_400,2008_15,12,10,29,usa,Kevin_Harvick,Kevin Harvick,Shell / Pennzoil,Richard_Childress,Chevrolet,203,124786,running,0,127
 2008,W,2008_LifeLock_400,2008_15,13,1,18,usa,Kyle_Busch,Kyle Busch,M&M's,Joe_Gibbs,Toyota,203,101800,running,5,129
 2008,W,2008_LifeLock_400,2008_15,14,5,11,usa,Denny_Hamlin,Denny Hamlin,FedEx Freight,Joe_Gibbs,Toyota,203,115841,running,1,126
 2008,W,2008_LifeLock_400,2008_15,15,2,31,usa,Jeff_Burton,Jeff Burton,AT&T Mobility,Richard_Childress,Chevrolet,203,123008,running,0,118
 2008,W,2008_LifeLock_400,2008_15,16,19,28,usa,Travis_Kvapil,Travis Kvapil,FreeCreditReport.com,Yates_Racing,Ford,203,107314,running,0,115
-2008,W,2008_LifeLock_400,2008_15,17,17,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,203,110383,running,0,112
+2008,W,2008_LifeLock_400,2008_15,17,17,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,203,110383,running,0,112
 2008,W,2008_LifeLock_400,2008_15,18,8,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,203,124286,running,0,109
 2008,W,2008_LifeLock_400,2008_15,19,39,84,usa,A_J_Allmendinger,A.J. Allmendinger,Red Bull,Dietrich_Mateschitz,Toyota,203,78650,running,1,111
 2008,W,2008_LifeLock_400,2008_15,20,7,16,usa,Greg_Biffle,Greg Biffle,Dish Network / Dish DVRs,Jack_Roush,Ford,203,88875,running,0,103
@@ -625,14 +625,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_LifeLock_400,2008_15,22,35,77,usa,Sam_Hornish_Jr,"Sam Hornish, Jr.",Mobil 1,Roger_Penske,Dodge,203,121325,running,2,102
 2008,W,2008_LifeLock_400,2008_15,23,38,55,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Michael_Waltrip,Toyota,203,96408,running,1,99
 2008,W,2008_LifeLock_400,2008_15,24,43,10,canada,Patrick_Carpentier,Patrick Carpentier,LifeLock,Gillett_Evernham_Motorsports,Dodge,202,78800,crash,0,91
-2008,W,2008_LifeLock_400,2008_15,25,15,8,usa,Mark_Martin,Mark Martin,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,202,110933,out of fuel,0,88
+2008,W,2008_LifeLock_400,2008_15,25,15,8,usa,Mark_Martin,Mark Martin,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,202,110933,out of fuel,0,88
 2008,W,2008_LifeLock_400,2008_15,26,11,07,usa,Clint_Bowyer,Clint Bowyer,Jack Daniel's,Richard_Childress,Chevrolet,202,91825,running,0,85
 2008,W,2008_LifeLock_400,2008_15,27,24,38,usa,David_Gilliland,David Gilliland,FreeCreditReport.com,Yates_Racing,Ford,202,92383,running,0,82
 2008,W,2008_LifeLock_400,2008_15,28,42,78,usa,Joe_Nemechek,Joe Nemechek,Furniture Row / Denver Mattress,Barney_Visser,Chevrolet,202,72975,running,0,79
 2008,W,2008_LifeLock_400,2008_15,29,36,45,usa,Terry_Labonte,Terry Labonte,Marathon American Spirit Motor Oil,Petty_Enterprises,Dodge,202,89933,running,0,76
 2008,W,2008_LifeLock_400,2008_15,30,25,5,usa,Casey_Mears,Casey Mears,Kellogg's / Carquest,Rick_Hendrick,Chevrolet,201,91200,running,0,73
 2008,W,2008_LifeLock_400,2008_15,31,20,43,usa,Bobby_Labonte,Bobby Labonte,Marathon American Spirit Motor Oil,Petty_Enterprises,Dodge,201,112486,running,0,70
-2008,W,2008_LifeLock_400,2008_15,32,31,01,usa,Regan_Smith,Regan Smith,Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,201,82950,running,0,67
+2008,W,2008_LifeLock_400,2008_15,32,31,01,usa,Regan_Smith,Regan Smith,Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,201,82950,running,0,67
 2008,W,2008_LifeLock_400,2008_15,33,34,66,usa,Scott_Riggs,Scott Riggs,State Water Heaters,Gene_Haas,Chevrolet,201,84983,running,0,64
 2008,W,2008_LifeLock_400,2008_15,34,32,41,usa,Reed_Sorenson,Reed Sorenson,Target,Chip_Ganassi,Dodge,200,99489,running,0,61
 2008,W,2008_LifeLock_400,2008_15,35,28,44,usa,David_Reutimann,David Reutimann,UPS,Michael_Waltrip,Toyota,200,72125,running,0,58
@@ -659,7 +659,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Toyota_Save_Mart_350,2008_16,13,20,31,usa,Jeff_Burton,Jeff Burton,AT&T Mobility,Richard_Childress,Chevrolet,112,128508,running,0,124
 2008,W,2008_Toyota_Save_Mart_350,2008_16,14,26,83,usa,Brian_Vickers,Brian Vickers,Red Bull,Dietrich_Mateschitz,Toyota,112,84200,running,0,121
 2008,W,2008_Toyota_Save_Mart_350,2008_16,15,2,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,112,135336,running,27,123
-2008,W,2008_Toyota_Save_Mart_350,2008_16,16,25,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,112,113433,running,0,115
+2008,W,2008_Toyota_Save_Mart_350,2008_16,16,25,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,112,113433,running,0,115
 2008,W,2008_Toyota_Save_Mart_350,2008_16,17,11,45,usa,Terry_Labonte,Terry Labonte,Wells Fargo,Petty_Enterprises,Dodge,112,97883,running,0,112
 2008,W,2008_Toyota_Save_Mart_350,2008_16,18,18,26,usa,Jamie_McMurray,Jamie McMurray,Crown Royal,Jack_Roush,Ford,112,89375,running,0,109
 2008,W,2008_Toyota_Save_Mart_350,2008_16,19,6,19,usa,Elliott_Sadler,Elliott Sadler,Stanley Tools,Gillett_Evernham_Motorsports,Dodge,112,106695,running,0,106
@@ -671,13 +671,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Toyota_Save_Mart_350,2008_16,25,35,55,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Michael_Waltrip,Toyota,112,86672,running,0,88
 2008,W,2008_Toyota_Save_Mart_350,2008_16,26,24,78,usa,Joe_Nemechek,Joe Nemechek,Furniture Row / DenverMattress.com,Barney_Visser,Chevrolet,112,72800,running,0,85
 2008,W,2008_Toyota_Save_Mart_350,2008_16,27,13,11,usa,Denny_Hamlin,Denny Hamlin,FedEx Office,Joe_Gibbs,Toyota,112,110441,running,0,82
-2008,W,2008_Toyota_Save_Mart_350,2008_16,28,40,8,usa,Aric_Almirola,Aric Almirola,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,112,108933,running,0,79
-2008,W,2008_Toyota_Save_Mart_350,2008_16,29,22,01,canada,Ron_Fellows,Ron Fellows,Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,112,82550,running,0,76
+2008,W,2008_Toyota_Save_Mart_350,2008_16,28,40,8,usa,Aric_Almirola,Aric Almirola,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,112,108933,running,0,79
+2008,W,2008_Toyota_Save_Mart_350,2008_16,29,22,01,canada,Ron_Fellows,Ron Fellows,Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,112,82550,running,0,76
 2008,W,2008_Toyota_Save_Mart_350,2008_16,30,32,29,usa,Kevin_Harvick,Kevin Harvick,Shell / Pennzoil,Richard_Childress,Chevrolet,112,118661,running,0,73
 2008,W,2008_Toyota_Save_Mart_350,2008_16,31,17,77,usa,Sam_Hornish_Jr,"Sam Hornish, Jr.",Mobil 1,Roger_Penske,Dodge,112,116825,running,0,70
 2008,W,2008_Toyota_Save_Mart_350,2008_16,32,3,2,usa,Kurt_Busch,Kurt Busch,Miller Lite,Roger_Penske,Dodge,111,74605,running,0,67
 2008,W,2008_Toyota_Save_Mart_350,2008_16,33,1,9,usa,Kasey_Kahne,Kasey Kahne,Budweiser,Gillett_Evernham_Motorsports,Dodge,111,110936,running,4,69
-2008,W,2008_Toyota_Save_Mart_350,2008_16,34,29,15,usa,Paul_Menard,Paul Menard,Menards / Johns Manville,"Dale_Earnhardt,_Inc.",Chevrolet,111,78880,running,0,61
+2008,W,2008_Toyota_Save_Mart_350,2008_16,34,29,15,usa,Paul_Menard,Paul Menard,Menards / Johns Manville,Dale_Earnhardt_Inc,Chevrolet,111,78880,running,0,61
 2008,W,2008_Toyota_Save_Mart_350,2008_16,35,28,66,italy,Max_Papis,Max Papis,Haas Automation,Gene_Haas,Chevrolet,111,70745,running,0,58
 2008,W,2008_Toyota_Save_Mart_350,2008_16,36,8,7,usa,Robby_Gordon,Robby Gordon,Camping World / RVs.com / DLP HDTV,Robby_Gordon,Dodge,110,78635,running,0,55
 2008,W,2008_Toyota_Save_Mart_350,2008_16,37,36,84,usa,A_J_Allmendinger,A.J. Allmendinger,Red Bull,Dietrich_Mateschitz,Toyota,109,70500,running,0,52
@@ -690,7 +690,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Lenox_Industrial_Tools_301,2008_17,1,26,2,usa,Kurt_Busch,Kurt Busch,Miller Lite,Roger_Penske,Dodge,284,204950,running,10,190
 2008,W,2008_Lenox_Industrial_Tools_301,2008_17,2,36,55,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Michael_Waltrip,Toyota,284,209333,running,0,170
 2008,W,2008_Lenox_Industrial_Tools_301,2008_17,3,30,96,usa,J_J_Yeley,J.J. Yeley,DLP HDTV,Jeff_Moorad,Toyota,284,143025,running,0,165
-2008,W,2008_Lenox_Industrial_Tools_301,2008_17,4,8,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,284,148183,running,0,160
+2008,W,2008_Lenox_Industrial_Tools_301,2008_17,4,8,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,284,148183,running,0,160
 2008,W,2008_Lenox_Industrial_Tools_301,2008_17,5,11,19,usa,Elliott_Sadler,Elliott Sadler,Best Buy / Hancock / Garmin,Gillett_Evernham_Motorsports,Dodge,284,135895,running,0,155
 2008,W,2008_Lenox_Industrial_Tools_301,2008_17,6,6,41,usa,Reed_Sorenson,Reed Sorenson,Target,Chip_Ganassi,Dodge,284,124039,running,0,150
 2008,W,2008_Lenox_Industrial_Tools_301,2008_17,7,24,5,usa,Casey_Mears,Casey Mears,Carquest / Kellogg's,Rick_Hendrick,Chevrolet,284,103975,running,53,151
@@ -709,13 +709,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Lenox_Industrial_Tools_301,2008_17,20,43,78,usa,Joe_Nemechek,Joe Nemechek,Furniture Row / DenverMattress.com,Barney_Visser,Chevrolet,284,76500,running,1,108
 2008,W,2008_Lenox_Industrial_Tools_301,2008_17,21,15,16,usa,Greg_Biffle,Greg Biffle,3M,Jack_Roush,Ford,284,85200,running,0,100
 2008,W,2008_Lenox_Industrial_Tools_301,2008_17,22,18,07,usa,Clint_Bowyer,Clint Bowyer,Jack Daniel's,Richard_Childress,Chevrolet,284,91400,running,0,97
-2008,W,2008_Lenox_Industrial_Tools_301,2008_17,23,39,8,usa,Aric_Almirola,Aric Almirola,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,284,111808,running,0,94
+2008,W,2008_Lenox_Industrial_Tools_301,2008_17,23,39,8,usa,Aric_Almirola,Aric Almirola,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,284,111808,running,0,94
 2008,W,2008_Lenox_Industrial_Tools_301,2008_17,24,5,88,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",National Guard / AMP Energy,Rick_Hendrick,Chevrolet,284,84400,running,29,96
 2008,W,2008_Lenox_Industrial_Tools_301,2008_17,25,27,18,usa,Kyle_Busch,Kyle Busch,Interstate Batteries,Joe_Gibbs,Toyota,284,91300,running,0,88
 2008,W,2008_Lenox_Industrial_Tools_301,2008_17,26,22,7,usa,Robby_Gordon,Robby Gordon,Camping World,Robby_Gordon,Dodge,284,100058,running,1,90
-2008,W,2008_Lenox_Industrial_Tools_301,2008_17,27,25,01,usa,Regan_Smith,Regan Smith,Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,283,83575,running,0,82
+2008,W,2008_Lenox_Industrial_Tools_301,2008_17,27,25,01,usa,Regan_Smith,Regan Smith,Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,283,83575,running,0,82
 2008,W,2008_Lenox_Industrial_Tools_301,2008_17,28,33,38,usa,David_Gilliland,David Gilliland,FreeCreditReport.com,Yates_Racing,Ford,283,89433,running,0,79
-2008,W,2008_Lenox_Industrial_Tools_301,2008_17,29,42,15,usa,Paul_Menard,Paul Menard,Menards / Sylvania,"Dale_Earnhardt,_Inc.",Chevrolet,282,82900,running,0,76
+2008,W,2008_Lenox_Industrial_Tools_301,2008_17,29,42,15,usa,Paul_Menard,Paul Menard,Menards / Sylvania,Dale_Earnhardt_Inc,Chevrolet,282,82900,running,0,76
 2008,W,2008_Lenox_Industrial_Tools_301,2008_17,30,14,9,usa,Kasey_Kahne,Kasey Kahne,Budweiser,Gillett_Evernham_Motorsports,Dodge,282,105141,running,0,73
 2008,W,2008_Lenox_Industrial_Tools_301,2008_17,31,1,10,canada,Patrick_Carpentier,Patrick Carpentier,Berlin City Auto Group,Gillett_Evernham_Motorsports,Dodge,282,78450,running,4,75
 2008,W,2008_Lenox_Industrial_Tools_301,2008_17,32,32,42,colombia,Juan_Pablo_Montoya,Juan Pablo Montoya,Texaco / Havoline,Chip_Ganassi,Dodge,282,101608,running,0,67
@@ -739,21 +739,21 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Coke_Zero_400_Powered_by_Coca-Cola,2008_18,7,41,9,usa,Kasey_Kahne,Kasey Kahne,Budweiser,Gillett_Evernham_Motorsports,Dodge,162,148491,running,0,146
 2008,W,2008_Coke_Zero_400_Powered_by_Coca-Cola,2008_18,8,3,88,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",National Guard / AMP Energy,Rick_Hendrick,Chevrolet,162,123325,running,51,152
 2008,W,2008_Coke_Zero_400_Powered_by_Coca-Cola,2008_18,9,25,07,usa,Clint_Bowyer,Clint Bowyer,Jack Daniel's,Richard_Childress,Chevrolet,162,121175,running,0,138
-2008,W,2008_Coke_Zero_400_Powered_by_Coca-Cola,2008_18,10,2,8,usa,Mark_Martin,Mark Martin,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,162,139258,running,0,134
+2008,W,2008_Coke_Zero_400_Powered_by_Coca-Cola,2008_18,10,2,8,usa,Mark_Martin,Mark Martin,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,162,139258,running,0,134
 2008,W,2008_Coke_Zero_400_Powered_by_Coca-Cola,2008_18,11,28,83,usa,Brian_Vickers,Brian Vickers,Red Bull,Dietrich_Mateschitz,Toyota,162,109800,running,0,130
 2008,W,2008_Coke_Zero_400_Powered_by_Coca-Cola,2008_18,12,14,29,usa,Kevin_Harvick,Kevin Harvick,Reese's,Richard_Childress,Chevrolet,162,146761,running,0,127
 2008,W,2008_Coke_Zero_400_Powered_by_Coca-Cola,2008_18,13,20,43,usa,Bobby_Labonte,Bobby Labonte,Cheerios / Pillsbury Cinnabon,Petty_Enterprises,Dodge,162,136936,running,0,124
 2008,W,2008_Coke_Zero_400_Powered_by_Coca-Cola,2008_18,14,10,10,canada,Patrick_Carpentier,Patrick Carpentier,Auto Value / Bumper to Bumper,Gillett_Evernham_Motorsports,Dodge,162,97650,running,0,121
-2008,W,2008_Coke_Zero_400_Powered_by_Coca-Cola,2008_18,15,1,15,usa,Paul_Menard,Paul Menard,Menards / Vertis,"Dale_Earnhardt,_Inc.",Chevrolet,162,119750,running,19,123
+2008,W,2008_Coke_Zero_400_Powered_by_Coca-Cola,2008_18,15,1,15,usa,Paul_Menard,Paul Menard,Menards / Vertis,Dale_Earnhardt_Inc,Chevrolet,162,119750,running,19,123
 2008,W,2008_Coke_Zero_400_Powered_by_Coca-Cola,2008_18,16,43,45,usa,Terry_Labonte,Terry Labonte,Richard Petty Driving Experience,Petty_Enterprises,Dodge,162,114233,running,0,115
-2008,W,2008_Coke_Zero_400_Powered_by_Coca-Cola,2008_18,17,35,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Swing Vote,"Dale_Earnhardt,_Inc.",Chevrolet,162,127558,running,0,-38
+2008,W,2008_Coke_Zero_400_Powered_by_Coca-Cola,2008_18,17,35,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Swing Vote,Dale_Earnhardt_Inc,Chevrolet,162,127558,running,0,-38
 2008,W,2008_Coke_Zero_400_Powered_by_Coca-Cola,2008_18,18,4,78,usa,Joe_Nemechek,Joe Nemechek,Furniture Row Racing,Barney_Visser,Chevrolet,162,92550,running,0,109
 2008,W,2008_Coke_Zero_400_Powered_by_Coca-Cola,2008_18,19,12,22,usa,Dave_Blaney,Dave Blaney,Caterpillar,Bill_Davis,Toyota,162,109108,running,0,106
 2008,W,2008_Coke_Zero_400_Powered_by_Coca-Cola,2008_18,20,17,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Toyota,162,141786,running,0,103
 2008,W,2008_Coke_Zero_400_Powered_by_Coca-Cola,2008_18,21,34,44,usa,David_Reutimann,David Reutimann,UPS,Michael_Waltrip,Toyota,162,93350,running,0,100
 2008,W,2008_Coke_Zero_400_Powered_by_Coca-Cola,2008_18,22,39,41,usa,Reed_Sorenson,Reed Sorenson,Polaroid / Tums,Chip_Ganassi,Dodge,162,119839,running,0,97
 2008,W,2008_Coke_Zero_400_Powered_by_Coca-Cola,2008_18,23,30,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,162,143736,running,4,99
-2008,W,2008_Coke_Zero_400_Powered_by_Coca-Cola,2008_18,24,8,01,usa,Regan_Smith,Regan Smith,Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,162,99225,running,0,91
+2008,W,2008_Coke_Zero_400_Powered_by_Coca-Cola,2008_18,24,8,01,usa,Regan_Smith,Regan Smith,Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,162,99225,running,0,91
 2008,W,2008_Coke_Zero_400_Powered_by_Coca-Cola,2008_18,25,21,00,usa,Michael_McDowell,Michael McDowell,Champion Mortgage,Michael_Waltrip,Toyota,162,102633,running,0,88
 2008,W,2008_Coke_Zero_400_Powered_by_Coca-Cola,2008_18,26,15,11,usa,Denny_Hamlin,Denny Hamlin,FedEx Office,Joe_Gibbs,Toyota,162,124716,running,6,90
 2008,W,2008_Coke_Zero_400_Powered_by_Coca-Cola,2008_18,27,29,55,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Michael_Waltrip,Toyota,162,98622,running,1,87
@@ -781,7 +781,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Lifelock.com_400,2008_19,6,15,83,usa,Brian_Vickers,Brian Vickers,Red Bull,Dietrich_Mateschitz,Toyota,267,119875,running,2,155
 2008,W,2008_Lifelock.com_400,2008_19,7,9,17,usa,Matt_Kenseth,Matt Kenseth,USG,Jack_Roush,Ford,267,152291,running,7,151
 2008,W,2008_Lifelock.com_400,2008_19,8,14,6,usa,David_Ragan,David Ragan,AAA Insurance,Jack_Roush,Ford,267,114300,running,0,142
-2008,W,2008_Lifelock.com_400,2008_19,9,19,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Cub Cadet,"Dale_Earnhardt,_Inc.",Chevrolet,267,135583,running,2,143
+2008,W,2008_Lifelock.com_400,2008_19,9,19,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Cub Cadet,Dale_Earnhardt_Inc,Chevrolet,267,135583,running,2,143
 2008,W,2008_Lifelock.com_400,2008_19,10,17,12,usa,Ryan_Newman,Ryan Newman,Kodak / The Mummy,Roger_Penske,Dodge,267,143400,running,0,134
 2008,W,2008_Lifelock.com_400,2008_19,11,6,24,usa,Jeff_Gordon,Jeff Gordon,DuPont / Nicorette,Rick_Hendrick,Chevrolet,267,146811,running,6,135
 2008,W,2008_Lifelock.com_400,2008_19,12,26,19,usa,Elliott_Sadler,Elliott Sadler,Best Buy / Garmin,Gillett_Evernham_Motorsports,Dodge,267,124870,running,0,127
@@ -789,7 +789,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Lifelock.com_400,2008_19,14,29,44,usa,David_Reutimann,David Reutimann,UPS,Michael_Waltrip,Toyota,267,95700,running,0,121
 2008,W,2008_Lifelock.com_400,2008_19,15,8,9,usa,Kasey_Kahne,Kasey Kahne,Budweiser,Gillett_Evernham_Motorsports,Dodge,267,125241,running,0,118
 2008,W,2008_Lifelock.com_400,2008_19,16,2,88,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",AMP Energy / National Guard,Rick_Hendrick,Chevrolet,267,101150,running,0,115
-2008,W,2008_Lifelock.com_400,2008_19,17,16,8,usa,Mark_Martin,Mark Martin,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,267,126608,running,0,112
+2008,W,2008_Lifelock.com_400,2008_19,17,16,8,usa,Mark_Martin,Mark Martin,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,267,126608,running,0,112
 2008,W,2008_Lifelock.com_400,2008_19,18,22,42,colombia,Juan_Pablo_Montoya,Juan Pablo Montoya,Wrigley's Juicy Fruit Slim Pack,Chip_Ganassi,Dodge,267,119658,running,0,109
 2008,W,2008_Lifelock.com_400,2008_19,19,3,31,usa,Jeff_Burton,Jeff Burton,AT&T Mobility,Richard_Childress,Chevrolet,267,132958,running,0,106
 2008,W,2008_Lifelock.com_400,2008_19,20,38,66,usa,Scott_Riggs,Scott Riggs,Haas Automation,Gene_Haas,Chevrolet,267,115958,running,0,103
@@ -798,7 +798,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Lifelock.com_400,2008_19,23,30,22,usa,Dave_Blaney,Dave Blaney,Caterpillar,Bill_Davis,Toyota,267,105558,running,0,94
 2008,W,2008_Lifelock.com_400,2008_19,24,40,96,usa,J_J_Yeley,J.J. Yeley,DLP HDTV,Jeff_Moorad,Toyota,267,96050,running,0,91
 2008,W,2008_Lifelock.com_400,2008_19,25,31,7,usa,Robby_Gordon,Robby Gordon,Jim Beam / SaveOurName.com,Robby_Gordon,Dodge,267,109708,running,0,88
-2008,W,2008_Lifelock.com_400,2008_19,26,27,15,usa,Paul_Menard,Paul Menard,Menards / Quaker State,"Dale_Earnhardt,_Inc.",Chevrolet,267,94325,running,0,85
+2008,W,2008_Lifelock.com_400,2008_19,26,27,15,usa,Paul_Menard,Paul Menard,Menards / Quaker State,Dale_Earnhardt_Inc,Chevrolet,267,94325,running,0,85
 2008,W,2008_Lifelock.com_400,2008_19,27,43,70,usa,Jason_Leffler,Jason Leffler,Haas Automation,Gene_Haas,Chevrolet,267,82725,running,0,82
 2008,W,2008_Lifelock.com_400,2008_19,28,18,2,usa,Kurt_Busch,Kurt Busch,Miller Lite,Roger_Penske,Dodge,267,85125,running,1,84
 2008,W,2008_Lifelock.com_400,2008_19,29,20,43,usa,Bobby_Labonte,Bobby Labonte,Cheerios / Betty Crocker / Petty's 50th,Petty_Enterprises,Dodge,267,121361,running,0,76
@@ -806,7 +806,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Lifelock.com_400,2008_19,31,32,41,usa,Reed_Sorenson,Reed Sorenson,Target / Maxwell House / Tums,Chip_Ganassi,Dodge,266,108689,running,0,70
 2008,W,2008_Lifelock.com_400,2008_19,32,4,99,usa,Carl_Edwards,Carl Edwards,Office Depot,Jack_Roush,Ford,266,128700,running,15,72
 2008,W,2008_Lifelock.com_400,2008_19,33,25,5,usa,Casey_Mears,Casey Mears,Carquest / Kellogg's,Rick_Hendrick,Chevrolet,266,100025,running,0,64
-2008,W,2008_Lifelock.com_400,2008_19,34,33,01,usa,Regan_Smith,Regan Smith,Principal Financial Group / DEI,"Dale_Earnhardt,_Inc.",Chevrolet,266,88875,running,0,61
+2008,W,2008_Lifelock.com_400,2008_19,34,33,01,usa,Regan_Smith,Regan Smith,Principal Financial Group / DEI,Dale_Earnhardt_Inc,Chevrolet,266,88875,running,0,61
 2008,W,2008_Lifelock.com_400,2008_19,35,37,21,usa,Bill_Elliott,Bill Elliott,U.S. Air Force,Wood_Brothers,Ford,266,98995,running,0,58
 2008,W,2008_Lifelock.com_400,2008_19,36,28,55,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Michael_Waltrip,Toyota,265,92108,running,0,55
 2008,W,2008_Lifelock.com_400,2008_19,37,35,77,usa,Sam_Hornish_Jr,"Sam Hornish, Jr.",Mobil 1,Roger_Penske,Dodge,264,125800,running,0,52
@@ -826,7 +826,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,8,12,16,usa,Greg_Biffle,Greg Biffle,Dish Network / Dish DVRs,Jack_Roush,Ford,160,196225,running,0,142
 2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,9,32,31,usa,Jeff_Burton,Jeff Burton,Prilosec OTC,Richard_Childress,Chevrolet,160,233783,running,10,143
 2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,10,26,84,usa,A_J_Allmendinger,A.J. Allmendinger,Red Bull,Dietrich_Mateschitz,Toyota,160,178775,running,4,139
-2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,11,2,8,usa,Mark_Martin,Mark Martin,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,160,210383,running,0,130
+2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,11,2,8,usa,Mark_Martin,Mark Martin,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,160,210383,running,0,130
 2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,12,11,88,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",National Guard / AMP Energy,Rick_Hendrick,Chevrolet,160,180950,running,8,132
 2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,13,3,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,160,207975,running,0,124
 2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,14,16,6,usa,David_Ragan,David Ragan,AAA Insurance,Jack_Roush,Ford,160,170000,running,0,121
@@ -839,14 +839,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,21,38,77,usa,Sam_Hornish_Jr,"Sam Hornish, Jr.",Mobil 1,Roger_Penske,Dodge,160,195400,running,0,100
 2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,22,24,47,australia,Marcos_Ambrose,Marcos Ambrose,Little Debbie Snacks,Tad_Geschickter,Ford,160,148825,running,0,97
 2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,23,14,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Toyota,160,197461,running,0,94
-2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,24,25,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Cub Cadet,"Dale_Earnhardt,_Inc.",Chevrolet,160,182408,running,3,96
+2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,24,25,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Cub Cadet,Dale_Earnhardt_Inc,Chevrolet,160,182408,running,3,96
 2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,25,35,66,usa,Scott_Riggs,Scott Riggs,State Water Heaters,Gene_Haas,Chevrolet,160,166133,running,1,93
 2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,26,31,5,usa,Casey_Mears,Casey Mears,Kellogg's / Carquest,Rick_Hendrick,Chevrolet,160,162725,running,0,85
 2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,27,43,45,usa,Terry_Labonte,Terry Labonte,Marathon American Spirit Motor Oil,Petty_Enterprises,Dodge,160,161083,running,0,82
 2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,28,39,96,usa,J_J_Yeley,J.J. Yeley,DLP HDTV,Jeff_Moorad,Toyota,160,153825,running,0,79
 2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,29,36,78,usa,Joe_Nemechek,Joe Nemechek,Furniture Row / DenverMattress.com,Barney_Visser,Chevrolet,160,142225,running,0,76
 2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,30,33,44,usa,David_Reutimann,David Reutimann,UPS,Michael_Waltrip,Toyota,160,145200,running,0,73
-2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,31,42,01,usa,Regan_Smith,Regan Smith,Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,160,152600,running,1,75
+2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,31,42,01,usa,Regan_Smith,Regan Smith,Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,160,152600,running,1,75
 2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,32,21,70,usa,Jason_Leffler,Jason Leffler,Hunt Brothers Pizza,Gene_Haas,Chevrolet,160,140700,running,0,67
 2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,33,29,7,usa,Robby_Gordon,Robby Gordon,Menards / Johns Manville,Robby_Gordon,Dodge,160,163558,running,0,64
 2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,34,30,00,usa,Michael_McDowell,Michael McDowell,Champion Mortgage,Michael_Waltrip,Toyota,160,150097,running,1,66
@@ -856,7 +856,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,38,10,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt,Jack_Roush,Ford,144,187241,running,0,49
 2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,39,13,42,colombia,Juan_Pablo_Montoya,Juan Pablo Montoya,Wrigley's Big Red Slim Pack,Chip_Ganassi,Dodge,124,167408,crash,0,46
 2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,40,7,2,usa,Kurt_Busch,Kurt Busch,Miller Lite,Roger_Penske,Dodge,119,139425,running,0,43
-2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,41,37,15,usa,Paul_Menard,Paul Menard,Menards / Johns Manville,"Dale_Earnhardt,_Inc.",Chevrolet,118,147300,running,0,40
+2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,41,37,15,usa,Paul_Menard,Paul Menard,Menards / Johns Manville,Dale_Earnhardt_Inc,Chevrolet,118,147300,running,0,40
 2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,42,17,83,usa,Brian_Vickers,Brian Vickers,Red Bull,Dietrich_Mateschitz,Toyota,93,147600,engine,1,42
 2008,W,2008_Allstate_400_At_The_Brickyard,2008_20,43,34,55,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Michael_Waltrip,Toyota,91,139494,running,0,34
 2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,1,15,99,usa,Carl_Edwards,Carl Edwards,Office Depot,Jack_Roush,Ford,200,241875,running,53,190
@@ -866,14 +866,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,5,16,6,usa,David_Ragan,David Ragan,AAA Insurance,Jack_Roush,Ford,200,111725,running,1,160
 2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,6,30,07,usa,Clint_Bowyer,Clint Bowyer,Jack Daniel's,Richard_Childress,Chevrolet,200,111950,running,0,150
 2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,7,7,9,usa,Kasey_Kahne,Kasey Kahne,Budweiser,Gillett_Evernham_Motorsports,Dodge,200,122316,running,41,151
-2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,8,2,8,usa,Mark_Martin,Mark Martin,Steak-umm Burgers,"Dale_Earnhardt,_Inc.",Chevrolet,200,126933,running,55,152
+2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,8,2,8,usa,Mark_Martin,Mark Martin,Steak-umm Burgers,Dale_Earnhardt_Inc,Chevrolet,200,126933,running,55,152
 2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,9,41,26,usa,Jamie_McMurray,Jamie McMurray,Crown Royal,Jack_Roush,Ford,200,93675,running,2,143
 2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,10,4,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,200,126311,running,0,134
 2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,11,5,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt,Jack_Roush,Ford,200,120591,running,3,135
 2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,12,12,88,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",National Guard / AMP Energy,Rick_Hendrick,Chevrolet,200,83500,running,1,132
 2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,13,9,16,usa,Greg_Biffle,Greg Biffle,Dish Network Turbo HD,Jack_Roush,Ford,200,83475,running,2,129
 2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,14,6,12,usa,Ryan_Newman,Ryan Newman,Avis,Roger_Penske,Dodge,200,115850,running,0,121
-2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,15,17,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,200,103308,running,0,118
+2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,15,17,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,200,103308,running,0,118
 2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,16,19,28,usa,Travis_Kvapil,Travis Kvapil,Hitachi Power Tools,Yates_Racing,Ford,200,99589,running,0,115
 2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,17,34,45,usa,Chad_McCumbee,Chad McCumbee,Marathon American Spirit Motor Oil,Petty_Enterprises,Dodge,200,89133,running,0,112
 2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,18,18,70,usa,Tony_Raines,Tony Raines,Haas Automation,Gene_Haas,Chevrolet,200,66975,running,0,109
@@ -883,7 +883,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,22,33,5,usa,Casey_Mears,Casey Mears,Cheez-It / Carquest,Rick_Hendrick,Chevrolet,200,84050,running,0,97
 2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,23,14,11,usa,Denny_Hamlin,Denny Hamlin,FedEx Express,Joe_Gibbs,Toyota,200,105341,running,0,94
 2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,24,35,00,usa,Michael_McDowell,Michael McDowell,Champion Mortgage,Michael_Waltrip,Toyota,200,86833,running,0,91
-2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,25,36,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,200,76850,running,0,88
+2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,25,36,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,200,76850,running,0,88
 2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,26,26,77,usa,Sam_Hornish_Jr,"Sam Hornish, Jr.",Mobil 1,Roger_Penske,Dodge,200,110875,running,0,85
 2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,27,29,19,usa,Elliott_Sadler,Elliott Sadler,Best Buy / Garmin,Gillett_Evernham_Motorsports,Dodge,200,95295,running,0,82
 2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,28,8,83,usa,Brian_Vickers,Brian Vickers,Red Bull,Dietrich_Mateschitz,Toyota,200,76200,running,0,79
@@ -900,13 +900,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,39,43,96,usa,J_J_Yeley,J.J. Yeley,DLP HDTV,Jeff_Moorad,Toyota,196,71175,out of fuel,0,46
 2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,40,13,42,colombia,Juan_Pablo_Montoya,Juan Pablo Montoya,Texaco / Havoline,Chip_Ganassi,Dodge,146,90933,engine,0,43
 2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,41,23,78,usa,Joe_Nemechek,Joe Nemechek,Furniture Row / DenverMattress.com,Barney_Visser,Chevrolet,138,62880,crash,0,40
-2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,42,22,15,usa,Paul_Menard,Paul Menard,Menards / Energizer,"Dale_Earnhardt,_Inc.",Chevrolet,137,70730,crash,0,37
+2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,42,22,15,usa,Paul_Menard,Paul Menard,Menards / Energizer,Dale_Earnhardt_Inc,Chevrolet,137,70730,crash,0,37
 2008,W,2008_Sunoco_Red_Cross_Pennsylvania_500,2008_21,43,42,55,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Michael_Waltrip,Toyota,24,62999,engine,1,39
 2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,1,1,18,usa,Kyle_Busch,Kyle Busch,M&M's,Joe_Gibbs,Toyota,90,227000,running,52,195
 2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,2,9,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Toyota,90,192036,running,1,175
 2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,3,43,21,australia,Marcos_Ambrose,Marcos Ambrose,Little Debbie,Wood_Brothers,Ford,90,141095,running,0,165
 2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,4,25,42,colombia,Juan_Pablo_Montoya,Juan Pablo Montoya,Big Red Slim Pack,Chip_Ganassi,Dodge,90,137983,running,2,165
-2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,5,18,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,90,133783,running,0,155
+2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,5,18,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,90,133783,running,0,155
 2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,6,11,29,usa,Kevin_Harvick,Kevin Harvick,Shell / Pennzoil,Richard_Childress,Chevrolet,90,134661,running,0,150
 2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,7,4,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,90,132236,running,2,151
 2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,8,10,11,usa,Denny_Hamlin,Denny Hamlin,FedEx Ground,Joe_Gibbs,Toyota,90,113866,running,0,142
@@ -914,7 +914,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,10,19,2,usa,Kurt_Busch,Kurt Busch,Miller Lite,Roger_Penske,Dodge,90,81225,running,0,134
 2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,11,37,84,usa,A_J_Allmendinger,A.J. Allmendinger,Red Bull,Dietrich_Mateschitz,Toyota,90,74075,running,0,130
 2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,12,13,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt,Jack_Roush,Ford,90,120241,running,0,127
-2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,13,32,01,canada,Ron_Fellows,Ron Fellows,Bass Pro Shops / Red Head,"Dale_Earnhardt,_Inc.",Chevrolet,90,80475,running,0,124
+2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,13,32,01,canada,Ron_Fellows,Ron Fellows,Bass Pro Shops / Red Head,Dale_Earnhardt_Inc,Chevrolet,90,80475,running,0,124
 2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,14,7,9,usa,Kasey_Kahne,Kasey Kahne,Budweiser,Gillett_Evernham_Motorsports,Dodge,90,100141,running,0,121
 2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,15,22,19,usa,Elliott_Sadler,Elliott Sadler,Best Buy / Garmin,Gillett_Evernham_Motorsports,Dodge,90,96520,running,0,118
 2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,16,20,26,usa,Jamie_McMurray,Jamie McMurray,Crown Royal,Jack_Roush,Ford,90,76800,running,0,115
@@ -929,14 +929,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,25,36,00,usa,Michael_McDowell,Michael McDowell,Champion Mortgage,Michael_Waltrip,Toyota,90,82733,running,0,88
 2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,26,16,12,usa,Ryan_Newman,Ryan Newman,Kodak,Roger_Penske,Dodge,90,104700,running,0,85
 2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,27,31,7,usa,Robby_Gordon,Robby Gordon,Jim Beam,Robby_Gordon,Dodge,90,87758,running,0,82
-2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,28,27,15,usa,Paul_Menard,Paul Menard,Menards / Quaker State,"Dale_Earnhardt,_Inc.",Chevrolet,90,73350,running,0,79
+2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,28,27,15,usa,Paul_Menard,Paul Menard,Menards / Quaker State,Dale_Earnhardt_Inc,Chevrolet,90,73350,running,0,79
 2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,29,6,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,90,111011,running,0,76
 2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,30,14,6,usa,David_Ragan,David Ragan,AAA Insurance,Jack_Roush,Ford,90,73425,running,0,73
 2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,31,30,41,usa,Reed_Sorenson,Reed Sorenson,Target,Chip_Ganassi,Dodge,90,91989,running,0,70
 2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,32,34,77,usa,Sam_Hornish_Jr,"Sam Hornish, Jr.",Mobil 1,Roger_Penske,Dodge,90,107125,running,0,67
 2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,33,28,44,usa,David_Reutimann,David Reutimann,UPS,Michael_Waltrip,Toyota,89,64850,running,0,64
 2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,34,35,66,usa,Scott_Riggs,Scott Riggs,State Water Heaters,Gene_Haas,Chevrolet,89,72933,running,0,61
-2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,35,15,8,usa,Aric_Almirola,Aric Almirola,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,89,95283,running,0,58
+2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,35,15,8,usa,Aric_Almirola,Aric Almirola,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,89,95283,running,0,58
 2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,36,23,28,usa,Travis_Kvapil,Travis Kvapil,Hitachi Li-Ion Power,Yates_Racing,Ford,89,88164,running,0,55
 2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,37,38,96,usa,P_J_Jones,P.J. Jones,DLP HDTV / TheHiDefinitionStore.com,Jeff_Moorad,Toyota,89,68825,running,0,52
 2008,W,2008_Centurion_Boats_at_the_Glen,2008_22,38,41,78,usa,Joe_Nemechek,Joe Nemechek,Furniture Row Racing,Barney_Visser,Chevrolet,86,60650,crash,0,49
@@ -950,7 +950,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,3,16,6,usa,David_Ragan,David Ragan,AAA Insurance,Jack_Roush,Ford,200,119950,running,3,170
 2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,4,9,16,usa,Greg_Biffle,Greg Biffle,3M,Jack_Roush,Ford,200,108700,running,1,165
 2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,5,14,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt,Jack_Roush,Ford,200,134516,running,0,155
-2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,6,15,8,usa,Mark_Martin,Mark Martin,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,200,123908,running,0,150
+2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,6,15,8,usa,Mark_Martin,Mark Martin,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,200,123908,running,0,150
 2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,7,1,83,usa,Brian_Vickers,Brian Vickers,Red Bull,Dietrich_Mateschitz,Toyota,200,99800,running,21,151
 2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,8,38,29,usa,Kevin_Harvick,Kevin Harvick,Shell / Pennzoil,Richard_Childress,Chevrolet,200,134186,running,0,142
 2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,9,3,19,usa,Elliott_Sadler,Elliott Sadler,Stanley Tools,Gillett_Evernham_Motorsports,Dodge,200,117620,running,0,138
@@ -960,7 +960,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,13,26,28,usa,Travis_Kvapil,Travis Kvapil,Carfax,Yates_Racing,Ford,200,109489,running,0,124
 2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,14,7,44,usa,David_Reutimann,David Reutimann,UPS,Michael_Waltrip,Toyota,200,85725,running,0,121
 2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,15,10,66,usa,Scott_Riggs,Scott Riggs,Haas Automation,Gene_Haas,Chevrolet,200,99433,running,1,123
-2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,16,25,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Cub Cadet,"Dale_Earnhardt,_Inc.",Chevrolet,200,110533,running,0,115
+2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,16,25,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Cub Cadet,Dale_Earnhardt_Inc,Chevrolet,200,110533,running,0,115
 2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,17,2,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's / Kobalt Tools,Rick_Hendrick,Chevrolet,200,135386,running,12,117
 2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,18,29,5,usa,Casey_Mears,Casey Mears,Kellogg's / Carquest,Rick_Hendrick,Chevrolet,199,93150,running,0,109
 2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,19,42,55,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Michael_Waltrip,Toyota,199,94608,running,0,106
@@ -968,12 +968,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,21,20,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,199,116625,running,0,100
 2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,22,23,77,usa,Sam_Hornish_Jr,"Sam Hornish, Jr.",Mobil 1,Roger_Penske,Dodge,199,121125,running,0,97
 2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,23,4,88,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",National Guard / AMP Energy,Rick_Hendrick,Chevrolet,199,91800,running,43,99
-2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,24,36,15,usa,Paul_Menard,Paul Menard,Menards / Moen,"Dale_Earnhardt,_Inc.",Chevrolet,199,85025,running,0,91
+2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,24,36,15,usa,Paul_Menard,Paul Menard,Menards / Moen,Dale_Earnhardt_Inc,Chevrolet,199,85025,running,0,91
 2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,25,19,42,colombia,Juan_Pablo_Montoya,Juan Pablo Montoya,Texaco / Havoline,Chip_Ganassi,Dodge,199,105058,running,0,88
 2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,26,40,38,usa,David_Gilliland,David Gilliland,CitiFinancial,Yates_Racing,Ford,199,90408,running,0,85
 2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,27,35,43,usa,Bobby_Labonte,Bobby Labonte,Cheerios / Betty Crocker,Petty_Enterprises,Dodge,199,112861,running,0,82
 2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,28,33,84,usa,A_J_Allmendinger,A.J. Allmendinger,Red Bull,Dietrich_Mateschitz,Toyota,199,75675,running,0,79
-2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,29,8,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,199,83500,running,0,76
+2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,29,8,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,199,83500,running,0,76
 2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,30,6,10,canada,Patrick_Carpentier,Patrick Carpentier,Tow Truck In A Box,Gillett_Evernham_Motorsports,Dodge,199,72925,running,0,73
 2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,31,30,70,usa,Tony_Raines,Tony Raines,Haas Automation,Gene_Haas,Chevrolet,199,72300,running,0,70
 2008,W,2008_3M_Performance_400_Presented_by_Bondo,2008_23,32,17,45,usa,Terry_Labonte,Terry Labonte,Marathon American Spirit Motor Oil,Petty_Enterprises,Dodge,198,86358,running,0,67
@@ -1000,10 +1000,10 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Sharpie_500,2008_24,10,27,6,usa,David_Ragan,David Ragan,AAA Insurance,Jack_Roush,Ford,500,115775,running,0,134
 2008,W,2008_Sharpie_500,2008_24,11,14,16,usa,Greg_Biffle,Greg Biffle,Dish Network Turbo HD,Jack_Roush,Ford,500,110525,running,0,130
 2008,W,2008_Sharpie_500,2008_24,12,41,26,usa,Jamie_McMurray,Jamie McMurray,Sharpie Pen,Jack_Roush,Ford,500,114175,running,0,127
-2008,W,2008_Sharpie_500,2008_24,13,23,8,usa,Aric_Almirola,Aric Almirola,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,500,136733,running,0,124
-2008,W,2008_Sharpie_500,2008_24,14,4,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,500,109225,running,0,121
+2008,W,2008_Sharpie_500,2008_24,13,23,8,usa,Aric_Almirola,Aric Almirola,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,500,136733,running,0,124
+2008,W,2008_Sharpie_500,2008_24,14,4,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,500,109225,running,0,121
 2008,W,2008_Sharpie_500,2008_24,15,19,2,usa,Kurt_Busch,Kurt Busch,Miller Lite,Roger_Penske,Dodge,500,99175,running,0,118
-2008,W,2008_Sharpie_500,2008_24,16,16,15,usa,Paul_Menard,Paul Menard,Menards / Quaker State,"Dale_Earnhardt,_Inc.",Chevrolet,499,106550,running,0,115
+2008,W,2008_Sharpie_500,2008_24,16,16,15,usa,Paul_Menard,Paul Menard,Menards / Quaker State,Dale_Earnhardt_Inc,Chevrolet,499,106550,running,0,115
 2008,W,2008_Sharpie_500,2008_24,17,20,70,usa,Tony_Raines,Tony Raines,Hunt Brothers Pizza,Gene_Haas,Chevrolet,499,94200,running,0,112
 2008,W,2008_Sharpie_500,2008_24,18,40,88,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",National Guard / AMP Energy,Rick_Hendrick,Chevrolet,498,104725,running,0,109
 2008,W,2008_Sharpie_500,2008_24,19,39,42,colombia,Juan_Pablo_Montoya,Juan Pablo Montoya,Juicy Fruit Slim Pack,Chip_Ganassi,Dodge,498,124008,running,0,106
@@ -1022,7 +1022,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Sharpie_500,2008_24,32,10,19,usa,Elliott_Sadler,Elliott Sadler,Stanley,Gillett_Evernham_Motorsports,Dodge,490,112900,running,0,67
 2008,W,2008_Sharpie_500,2008_24,33,34,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,482,141531,running,0,64
 2008,W,2008_Sharpie_500,2008_24,34,8,84,usa,A_J_Allmendinger,A.J. Allmendinger,Red Bull,Dietrich_Mateschitz,Toyota,400,86335,running,0,61
-2008,W,2008_Sharpie_500,2008_24,35,12,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Red Head,"Dale_Earnhardt,_Inc.",Chevrolet,396,117233,running,0,58
+2008,W,2008_Sharpie_500,2008_24,35,12,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Red Head,Dale_Earnhardt_Inc,Chevrolet,396,117233,running,0,58
 2008,W,2008_Sharpie_500,2008_24,36,30,41,usa,Reed_Sorenson,Reed Sorenson,Tums Quik Pack,Chip_Ganassi,Dodge,383,113304,running,0,55
 2008,W,2008_Sharpie_500,2008_24,37,35,77,usa,Sam_Hornish_Jr,"Sam Hornish, Jr.",Mobil 1,Roger_Penske,Dodge,297,131530,crash,0,52
 2008,W,2008_Sharpie_500,2008_24,38,36,22,usa,Dave_Blaney,Dave Blaney,Caterpillar,Bill_Davis,Toyota,279,85845,crash,0,49
@@ -1049,7 +1049,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Pepsi_500,2008_25,16,17,12,usa,Ryan_Newman,Ryan Newman,Kodak,Roger_Penske,Dodge,250,135225,running,0,115
 2008,W,2008_Pepsi_500,2008_25,17,27,31,usa,Jeff_Burton,Jeff Burton,AT&T Mobility,Richard_Childress,Chevrolet,250,137508,running,1,117
 2008,W,2008_Pepsi_500,2008_25,18,5,10,canada,Patrick_Carpentier,Patrick Carpentier,Sears Auto Center / Valvoline,Gillett_Evernham_Motorsports,Dodge,250,96700,running,0,109
-2008,W,2008_Pepsi_500,2008_25,19,7,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,250,125458,running,0,106
+2008,W,2008_Pepsi_500,2008_25,19,7,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,250,125458,running,0,106
 2008,W,2008_Pepsi_500,2008_25,20,23,42,colombia,Juan_Pablo_Montoya,Juan Pablo Montoya,Texaco / Havoline,Chip_Ganassi,Dodge,250,124033,running,0,103
 2008,W,2008_Pepsi_500,2008_25,21,24,43,usa,Bobby_Labonte,Bobby Labonte,Cheerios / Betty Crocker / Totino's,Petty_Enterprises,Dodge,250,130086,running,0,100
 2008,W,2008_Pepsi_500,2008_25,22,14,20,usa,Tony_Stewart,Tony Stewart,Subway / Home Depot,Joe_Gibbs,Toyota,250,137936,running,0,97
@@ -1060,14 +1060,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Pepsi_500,2008_25,27,41,41,usa,Reed_Sorenson,Reed Sorenson,Target,Chip_Ganassi,Dodge,249,117964,running,0,82
 2008,W,2008_Pepsi_500,2008_25,28,34,28,usa,Travis_Kvapil,Travis Kvapil,"Hitachi ""Inspire the Next""",Yates_Racing,Ford,249,117739,running,0,79
 2008,W,2008_Pepsi_500,2008_25,29,8,22,usa,Dave_Blaney,Dave Blaney,Caterpillar,Bill_Davis,Toyota,249,104583,running,0,76
-2008,W,2008_Pepsi_500,2008_25,30,10,8,usa,Aric_Almirola,Aric Almirola,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,249,124533,running,0,73
+2008,W,2008_Pepsi_500,2008_25,30,10,8,usa,Aric_Almirola,Aric Almirola,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,249,124533,running,0,73
 2008,W,2008_Pepsi_500,2008_25,31,32,77,usa,Sam_Hornish_Jr,"Sam Hornish, Jr.",Penske Truck Rental,Roger_Penske,Dodge,249,132900,running,0,70
 2008,W,2008_Pepsi_500,2008_25,32,40,21,australia,Marcos_Ambrose,Marcos Ambrose,Little Debbie,Wood_Brothers,Ford,249,105595,running,0,67
 2008,W,2008_Pepsi_500,2008_25,33,30,55,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Michael_Waltrip,Toyota,249,99808,running,1,69
 2008,W,2008_Pepsi_500,2008_25,34,6,19,usa,Elliott_Sadler,Elliott Sadler,McDonald's,Gillett_Evernham_Motorsports,Dodge,249,113495,running,0,61
 2008,W,2008_Pepsi_500,2008_25,35,35,00,usa,Mike_Skinner,Mike Skinner,Affliction Clothing,Michael_Waltrip,Toyota,249,96647,running,0,58
-2008,W,2008_Pepsi_500,2008_25,36,25,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,249,95050,running,0,55
-2008,W,2008_Pepsi_500,2008_25,37,29,15,usa,Paul_Menard,Paul Menard,Menards / Johns Manville,"Dale_Earnhardt,_Inc.",Chevrolet,249,95000,running,0,52
+2008,W,2008_Pepsi_500,2008_25,36,25,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,249,95050,running,0,55
+2008,W,2008_Pepsi_500,2008_25,37,29,15,usa,Paul_Menard,Paul Menard,Menards / Johns Manville,Dale_Earnhardt_Inc,Chevrolet,249,95000,running,0,52
 2008,W,2008_Pepsi_500,2008_25,38,38,45,usa,Kyle_Petty,Kyle Petty,Wells Fargo,Petty_Enterprises,Dodge,249,86950,running,0,49
 2008,W,2008_Pepsi_500,2008_25,39,9,2,usa,Kurt_Busch,Kurt Busch,Miller Lite,Roger_Penske,Dodge,248,86900,running,0,46
 2008,W,2008_Pepsi_500,2008_25,40,36,7,usa,Robby_Gordon,Robby Gordon,Monster Energy,Robby_Gordon,Dodge,248,94850,running,0,43
@@ -1078,7 +1078,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,2,8,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Toyota,400,205461,running,23,175
 2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,3,11,11,usa,Denny_Hamlin,Denny Hamlin,FedEx Express,Joe_Gibbs,Toyota,400,165366,running,4,170
 2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,4,4,88,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",AMP Energy / National Guard,Rick_Hendrick,Chevrolet,400,119800,running,90,165
-2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,5,17,8,usa,Mark_Martin,Mark Martin,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,400,137533,running,0,155
+2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,5,17,8,usa,Mark_Martin,Mark Martin,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,400,137533,running,0,155
 2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,6,5,31,usa,Jeff_Burton,Jeff Burton,AT&T Mobility,Richard_Childress,Chevrolet,400,137808,running,0,150
 2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,7,7,29,usa,Kevin_Harvick,Kevin Harvick,Shell / Pennzoil,Richard_Childress,Chevrolet,400,130011,running,80,151
 2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,8,10,24,usa,Jeff_Gordon,Jeff Gordon,DuPont / Nicorette,Rick_Hendrick,Chevrolet,400,127461,running,6,147
@@ -1089,14 +1089,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,13,2,99,usa,Carl_Edwards,Carl Edwards,Office Depot,Jack_Roush,Ford,400,121325,running,0,124
 2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,14,6,16,usa,Greg_Biffle,Greg Biffle,3M,Jack_Roush,Ford,400,83700,running,0,121
 2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,15,1,18,usa,Kyle_Busch,Kyle Busch,M&M's,Joe_Gibbs,Toyota,400,94425,running,53,123
-2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,16,18,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,400,104558,running,6,120
+2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,16,18,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,400,104558,running,6,120
 2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,17,24,28,usa,Travis_Kvapil,Travis Kvapil,Hitachi Power Tools,Yates_Racing,Ford,400,100939,running,0,112
 2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,18,26,38,usa,David_Gilliland,David Gilliland,CitiFinancial,Yates_Racing,Ford,400,91383,running,0,109
 2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,19,14,9,usa,Kasey_Kahne,Kasey Kahne,Budweiser,Gillett_Evernham_Motorsports,Dodge,400,102641,running,0,106
 2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,20,38,00,usa,Michael_McDowell,Michael McDowell,Champion Mortgage,Michael_Waltrip,Toyota,400,91883,running,0,103
 2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,21,23,43,usa,Bobby_Labonte,Bobby Labonte,Cheerios / Betty Crocker,Petty_Enterprises,Dodge,400,109661,running,0,100
 2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,22,32,22,usa,Dave_Blaney,Dave Blaney,Caterpillar,Bill_Davis,Toyota,400,86083,running,0,97
-2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,23,29,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,400,80600,running,0,94
+2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,23,29,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,400,80600,running,0,94
 2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,24,41,45,usa,Kyle_Petty,Kyle Petty,Marathon American Spirit Motor Oil,Petty_Enterprises,Dodge,400,83058,running,0,91
 2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,25,39,10,canada,Patrick_Carpentier,Patrick Carpentier,Valvoline,Gillett_Evernham_Motorsports,Dodge,400,71650,running,0,88
 2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,26,30,41,usa,Reed_Sorenson,Reed Sorenson,Target,Chip_Ganassi,Dodge,400,98114,running,0,85
@@ -1107,7 +1107,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,31,33,66,usa,Scott_Riggs,Scott Riggs,State Water Heaters,Gene_Haas,Chevrolet,400,67275,running,0,70
 2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,32,13,6,usa,David_Ragan,David Ragan,AAA Insurance,Jack_Roush,Ford,400,75125,running,0,67
 2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,33,16,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,399,109075,running,0,64
-2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,34,28,15,usa,Paul_Menard,Paul Menard,Menards / Energizer,"Dale_Earnhardt,_Inc.",Chevrolet,399,75825,running,0,61
+2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,34,28,15,usa,Paul_Menard,Paul Menard,Menards / Energizer,Dale_Earnhardt_Inc,Chevrolet,399,75825,running,0,61
 2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,35,37,21,usa,Bill_Elliott,Bill Elliott,U.S. Air Force,Wood_Brothers,Ford,399,85070,running,0,58
 2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,36,15,83,usa,Brian_Vickers,Brian Vickers,Red Bull,Dietrich_Mateschitz,Toyota,398,74575,running,0,55
 2008,W,2008_Chevy_Rock_And_Roll_400,2008_26,37,21,19,usa,Elliott_Sadler,Elliott Sadler,Best Buy / Garmin,Gillett_Evernham_Motorsports,Dodge,398,92795,running,0,52
@@ -1123,7 +1123,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Sylvania_300,2008_27,4,7,31,usa,Jeff_Burton,Jeff Burton,AT&T Mobility,Richard_Childress,Chevrolet,300,159708,running,0,160
 2008,W,2008_Sylvania_300,2008_27,5,4,88,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",AMP Energy / National Guard,Rick_Hendrick,Chevrolet,300,113125,running,79,160
 2008,W,2008_Sylvania_300,2008_27,6,20,2,usa,Kurt_Busch,Kurt Busch,Miller Lite,Roger_Penske,Dodge,300,101125,running,0,150
-2008,W,2008_Sylvania_300,2008_27,7,18,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,300,123008,running,0,146
+2008,W,2008_Sylvania_300,2008_27,7,18,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,300,123008,running,0,146
 2008,W,2008_Sylvania_300,2008_27,8,8,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Toyota,300,131561,running,1,147
 2008,W,2008_Sylvania_300,2008_27,9,6,11,usa,Denny_Hamlin,Denny Hamlin,FedEx Express,Joe_Gibbs,Toyota,300,121016,running,0,138
 2008,W,2008_Sylvania_300,2008_27,10,11,29,usa,Kevin_Harvick,Kevin Harvick,Shell / Pennzoil,Richard_Childress,Chevrolet,300,132111,running,0,134
@@ -1134,12 +1134,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Sylvania_300,2008_27,15,27,44,usa,David_Reutimann,David Reutimann,UPS,Michael_Waltrip,Toyota,300,80225,running,0,118
 2008,W,2008_Sylvania_300,2008_27,16,24,28,usa,Travis_Kvapil,Travis Kvapil,Valvoline,Yates_Racing,Ford,300,106239,running,0,115
 2008,W,2008_Sylvania_300,2008_27,17,22,42,colombia,Juan_Pablo_Montoya,Juan Pablo Montoya,Juicy Fruit Slim Pack,Chip_Ganassi,Dodge,300,106058,running,0,112
-2008,W,2008_Sylvania_300,2008_27,18,15,8,usa,Aric_Almirola,Aric Almirola,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,300,112008,running,0,109
+2008,W,2008_Sylvania_300,2008_27,18,15,8,usa,Aric_Almirola,Aric Almirola,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,300,112008,running,0,109
 2008,W,2008_Sylvania_300,2008_27,19,33,66,usa,Scott_Riggs,Scott Riggs,State Water Heaters,Gene_Haas,Chevrolet,300,95708,running,0,106
 2008,W,2008_Sylvania_300,2008_27,20,43,70,usa,Johnny_Sauter,Johnny Sauter,Haas Automation,Gene_Haas,Chevrolet,300,81200,running,0,103
-2008,W,2008_Sylvania_300,2008_27,21,28,15,usa,Paul_Menard,Paul Menard,Menards / Sylvania,"Dale_Earnhardt,_Inc.",Chevrolet,300,85000,running,0,100
+2008,W,2008_Sylvania_300,2008_27,21,28,15,usa,Paul_Menard,Paul Menard,Menards / Sylvania,Dale_Earnhardt_Inc,Chevrolet,300,85000,running,0,100
 2008,W,2008_Sylvania_300,2008_27,22,30,41,usa,Reed_Sorenson,Reed Sorenson,Target,Chip_Ganassi,Dodge,299,103914,running,0,97
-2008,W,2008_Sylvania_300,2008_27,23,29,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,299,86850,running,0,94
+2008,W,2008_Sylvania_300,2008_27,23,29,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,299,86850,running,0,94
 2008,W,2008_Sylvania_300,2008_27,24,23,19,usa,Elliott_Sadler,Elliott Sadler,Stanley Tools,Gillett_Evernham_Motorsports,Dodge,299,102445,running,0,91
 2008,W,2008_Sylvania_300,2008_27,25,32,55,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Michael_Waltrip,Toyota,299,92458,running,0,88
 2008,W,2008_Sylvania_300,2008_27,26,38,7,usa,Robby_Gordon,Robby Gordon,Jim Beam / Operation Homefront,Robby_Gordon,Dodge,299,97758,running,0,85
@@ -1163,7 +1163,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,1,5,16,usa,Greg_Biffle,Greg Biffle,3M,Jack_Roush,Ford,400,218450,running,29,190
 2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,2,8,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt,Jack_Roush,Ford,400,208041,running,136,180
 2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,3,22,99,usa,Carl_Edwards,Carl Edwards,Office Depot,Jack_Roush,Ford,400,175150,running,85,170
-2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,4,2,8,usa,Mark_Martin,Mark Martin,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,400,154508,running,0,160
+2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,4,2,8,usa,Mark_Martin,Mark Martin,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,400,154508,running,0,160
 2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,5,20,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,400,162711,running,81,160
 2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,6,24,29,usa,Kevin_Harvick,Kevin Harvick,Shell / Pennzoil,Richard_Childress,Chevrolet,400,139461,running,1,155
 2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,7,1,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,400,146011,running,30,151
@@ -1179,8 +1179,8 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,17,14,44,usa,David_Reutimann,David Reutimann,UPS,Michael_Waltrip,Toyota,399,74725,running,0,112
 2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,18,23,6,usa,David_Ragan,David Ragan,AAA Insurance,Jack_Roush,Ford,399,82750,running,0,109
 2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,19,7,38,usa,David_Gilliland,David Gilliland,Ford. Drive One.,Yates_Racing,Ford,399,88483,running,0,106
-2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,20,16,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,399,105308,running,0,103
-2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,21,34,15,usa,Paul_Menard,Paul Menard,Menards / Pittsburgh Paints,"Dale_Earnhardt,_Inc.",Chevrolet,398,81500,running,0,100
+2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,20,16,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,399,105308,running,0,103
+2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,21,34,15,usa,Paul_Menard,Paul Menard,Menards / Pittsburgh Paints,Dale_Earnhardt_Inc,Chevrolet,398,81500,running,0,100
 2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,22,41,7,usa,Robby_Gordon,Robby Gordon,Menards,Robby_Gordon,Dodge,398,94758,running,0,97
 2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,23,15,28,usa,Travis_Kvapil,Travis Kvapil,Hitachi Power Tools,Yates_Racing,Ford,397,101164,running,0,94
 2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,24,10,88,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",National Guard / AMP Energy,Rick_Hendrick,Chevrolet,397,80750,running,0,91
@@ -1196,7 +1196,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,34,4,2,usa,Kurt_Busch,Kurt Busch,Miller Lite,Roger_Penske,Dodge,394,67825,running,0,61
 2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,35,27,78,usa,Joe_Nemechek,Joe Nemechek,Furniture Row / DenverMattress.com,Barney_Visser,Chevrolet,388,67600,running,0,58
 2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,36,9,26,usa,Jamie_McMurray,Jamie McMurray,Irwin Industrial Tools,Jack_Roush,Ford,369,75450,running,35,60
-2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,37,26,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,365,75325,running,0,52
+2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,37,26,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,365,75325,running,0,52
 2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,38,3,11,usa,Denny_Hamlin,Denny Hamlin,FedEx Ground,Joe_Gibbs,Toyota,362,102266,running,0,49
 2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,39,35,42,colombia,Juan_Pablo_Montoya,Juan Pablo Montoya,Big Red Slim Pack,Chip_Ganassi,Dodge,351,94933,crash,0,46
 2008,W,2008_Camping_World_RV_400_Presented_by_AAA,2008_28,40,38,45,usa,Kyle_Petty,Kyle Petty,Wells Fargo,Petty_Enterprises,Dodge,349,66875,running,0,43
@@ -1220,7 +1220,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,15,9,83,usa,Brian_Vickers,Brian Vickers,Red Bull,Dietrich_Mateschitz,Toyota,267,102150,running,0,118
 2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,16,15,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,267,136775,running,0,115
 2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,17,16,26,usa,Jamie_McMurray,Jamie McMurray,Crown Royal,Jack_Roush,Ford,267,102250,running,0,112
-2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,18,2,8,usa,Mark_Martin,Mark Martin,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,266,126108,running,0,109
+2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,18,2,8,usa,Mark_Martin,Mark Martin,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,266,126108,running,0,109
 2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,19,40,44,usa,David_Reutimann,David Reutimann,UPS,Michael_Waltrip,Toyota,266,91250,running,1,111
 2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,20,42,42,colombia,Juan_Pablo_Montoya,Juan Pablo Montoya,Texaco / Havoline,Chip_Ganassi,Dodge,266,120808,running,0,103
 2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,21,8,9,usa,Kasey_Kahne,Kasey Kahne,Budweiser,Gillett_Evernham_Motorsports,Dodge,266,119841,running,0,100
@@ -1229,12 +1229,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,24,21,43,usa,Bobby_Labonte,Bobby Labonte,Cheerios / Betty Crocker,Petty_Enterprises,Dodge,266,124761,running,0,91
 2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,25,7,21,usa,Bill_Elliott,Bill Elliott,Motorcraft,Wood_Brothers,Ford,266,102770,running,0,88
 2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,26,17,41,usa,Reed_Sorenson,Reed Sorenson,Target,Chip_Ganassi,Dodge,266,113739,running,0,85
-2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,27,6,15,usa,Paul_Menard,Paul Menard,Menards / Super Clean,"Dale_Earnhardt,_Inc.",Chevrolet,266,93825,running,0,82
+2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,27,6,15,usa,Paul_Menard,Paul Menard,Menards / Super Clean,Dale_Earnhardt_Inc,Chevrolet,266,93825,running,0,82
 2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,28,27,18,usa,Kyle_Busch,Kyle Busch,M&M's,Joe_Gibbs,Toyota,266,100125,running,1,84
 2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,29,19,10,canada,Patrick_Carpentier,Patrick Carpentier,LifeLock,Gillett_Evernham_Motorsports,Dodge,266,86425,running,3,81
 2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,30,31,2,usa,Kurt_Busch,Kurt Busch,Miller Lite,Roger_Penske,Dodge,265,84675,running,0,73
 2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,31,26,22,usa,Dave_Blaney,Dave Blaney,Caterpillar,Bill_Davis,Toyota,265,100633,running,0,70
-2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,32,35,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,265,89275,running,0,67
+2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,32,35,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,265,89275,running,0,67
 2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,33,23,77,usa,Sam_Hornish_Jr,"Sam Hornish, Jr.",Penske Truck Rental,Roger_Penske,Dodge,265,126650,running,0,64
 2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,34,33,28,usa,Travis_Kvapil,Travis Kvapil,Hitachi Power Tools,Yates_Racing,Ford,264,109039,running,0,61
 2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,35,29,55,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Michael_Waltrip,Toyota,264,94908,running,1,63
@@ -1245,9 +1245,9 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,40,41,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Toyota,260,128336,running,0,43
 2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,41,22,45,usa,Kyle_Petty,Kyle Petty,Wells Fargo,Petty_Enterprises,Dodge,257,88922,running,0,40
 2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,42,38,66,usa,Scott_Riggs,Scott Riggs,State Water Heaters,Gene_Haas,Chevrolet,235,79205,running,0,37
-2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,43,5,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,229,110425,transmission,27,39
+2008,W,2008_Camping_World_RV_400_Presented_by_Coleman,2008_29,43,5,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,229,110425,transmission,27,39
 2008,W,2008_AMP_Energy_500,2008_30,1,34,20,usa,Tony_Stewart,Tony Stewart,Subway / Home Depot,Joe_Gibbs,Toyota,190,270136,running,24,195
-2008,W,2008_AMP_Energy_500,2008_30,2,5,15,usa,Paul_Menard,Paul Menard,Menards / Johns Manville,"Dale_Earnhardt,_Inc.",Chevrolet,190,177400,running,6,175
+2008,W,2008_AMP_Energy_500,2008_30,2,5,15,usa,Paul_Menard,Paul Menard,Menards / Johns Manville,Dale_Earnhardt_Inc,Chevrolet,190,177400,running,6,175
 2008,W,2008_AMP_Energy_500,2008_30,3,16,6,usa,David_Ragan,David Ragan,AAA Travel,Jack_Roush,Ford,190,149200,running,11,170
 2008,W,2008_AMP_Energy_500,2008_30,4,17,31,usa,Jeff_Burton,Jeff Burton,AT&T Mobility,Richard_Childress,Chevrolet,190,162983,running,8,165
 2008,W,2008_AMP_Energy_500,2008_30,5,35,07,usa,Clint_Bowyer,Clint Bowyer,Jack Daniel's,Richard_Childress,Chevrolet,190,125525,running,0,155
@@ -1258,12 +1258,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_AMP_Energy_500,2008_30,10,40,19,usa,Elliott_Sadler,Elliott Sadler,Monopoly at McDonald's,Gillett_Evernham_Motorsports,Dodge,190,116370,running,4,139
 2008,W,2008_AMP_Energy_500,2008_30,11,7,78,usa,Joe_Nemechek,Joe Nemechek,Furniture Row / DenverMattress.com,Barney_Visser,Chevrolet,190,81875,running,1,135
 2008,W,2008_AMP_Energy_500,2008_30,12,14,00,usa,Kenny_Wallace,Kenny Wallace,Champion Mortgage,Michael_Waltrip,Toyota,190,97758,running,3,132
-2008,W,2008_AMP_Energy_500,2008_30,13,3,8,usa,Aric_Almirola,Aric Almirola,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,190,117783,running,3,129
+2008,W,2008_AMP_Energy_500,2008_30,13,3,8,usa,Aric_Almirola,Aric Almirola,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,190,117783,running,3,129
 2008,W,2008_AMP_Energy_500,2008_30,14,2,5,usa,Casey_Mears,Casey Mears,Pop-Tarts / Carquest,Rick_Hendrick,Chevrolet,190,95725,running,2,126
 2008,W,2008_AMP_Energy_500,2008_30,15,37,18,usa,Kyle_Busch,Kyle Busch,Pedigree,Joe_Gibbs,Toyota,190,95250,running,20,123
 2008,W,2008_AMP_Energy_500,2008_30,16,43,96,usa,Ken_Schrader,Ken Schrader,DLP HDTV,Jeff_Moorad,Toyota,190,88300,running,0,115
 2008,W,2008_AMP_Energy_500,2008_30,17,23,45,usa,Terry_Labonte,Terry Labonte,Marathon American Spirit Motor Oil,Petty_Enterprises,Dodge,190,90858,running,0,112
-2008,W,2008_AMP_Energy_500,2008_30,18,4,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,190,88650,running,0,109
+2008,W,2008_AMP_Energy_500,2008_30,18,4,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,190,88650,running,0,109
 2008,W,2008_AMP_Energy_500,2008_30,19,25,55,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Michael_Waltrip,Toyota,187,88072,running,1,111
 2008,W,2008_AMP_Energy_500,2008_30,20,39,29,usa,Kevin_Harvick,Kevin Harvick,Shell / Pennzoil,Richard_Childress,Chevrolet,179,129486,running,22,108
 2008,W,2008_AMP_Energy_500,2008_30,21,33,2,usa,Kurt_Busch,Kurt Busch,Miller Lite,Roger_Penske,Dodge,177,78275,running,2,105
@@ -1286,7 +1286,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_AMP_Energy_500,2008_30,38,26,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,104,120186,crash,3,54
 2008,W,2008_AMP_Energy_500,2008_30,39,36,11,usa,Denny_Hamlin,Denny Hamlin,FedEx Express,Joe_Gibbs,Toyota,98,106116,crash,9,51
 2008,W,2008_AMP_Energy_500,2008_30,40,41,38,usa,David_Gilliland,David Gilliland,Ford. Drive One.,Yates_Racing,Ford,68,70985,crash,0,43
-2008,W,2008_AMP_Energy_500,2008_30,41,10,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,68,101868,crash,1,45
+2008,W,2008_AMP_Energy_500,2008_30,41,10,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,68,101868,crash,1,45
 2008,W,2008_AMP_Energy_500,2008_30,42,18,09,usa,Sterling_Marlin,Sterling Marlin,Miccosukee Resorts & Gaming,James_Finch,Chevrolet,68,70705,engine,0,37
 2008,W,2008_AMP_Energy_500,2008_30,43,24,12,usa,Ryan_Newman,Ryan Newman,Alltel / Samsung HDTV,Roger_Penske,Dodge,48,112653,engine,0,34
 2008,W,2008_Bank_Of_America_500,2008_31,1,4,31,usa,Jeff_Burton,Jeff Burton,AT&T Mobility,Richard_Childress,Chevrolet,334,280208,running,58,190
@@ -1297,12 +1297,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Bank_Of_America_500,2008_31,6,1,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,334,169036,running,67,160
 2008,W,2008_Bank_Of_America_500,2008_31,7,3,16,usa,Greg_Biffle,Greg Biffle,3M,Jack_Roush,Ford,334,101625,running,16,151
 2008,W,2008_Bank_Of_America_500,2008_31,8,8,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,334,141961,running,47,147
-2008,W,2008_Bank_Of_America_500,2008_31,9,14,8,usa,Mark_Martin,Mark Martin,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,334,120358,running,0,138
+2008,W,2008_Bank_Of_America_500,2008_31,9,14,8,usa,Mark_Martin,Mark Martin,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,334,120358,running,0,138
 2008,W,2008_Bank_Of_America_500,2008_31,10,13,6,usa,David_Ragan,David Ragan,AAA Insurance,Jack_Roush,Ford,334,94875,running,1,139
 2008,W,2008_Bank_Of_America_500,2008_31,11,7,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Toyota,334,140536,running,42,135
 2008,W,2008_Bank_Of_America_500,2008_31,12,5,07,usa,Clint_Bowyer,Clint Bowyer,Jack Daniel's,Richard_Childress,Chevrolet,334,92725,running,0,127
 2008,W,2008_Bank_Of_America_500,2008_31,13,6,29,usa,Kevin_Harvick,Kevin Harvick,Shell / Pennzoil,Richard_Childress,Chevrolet,334,121061,running,0,124
-2008,W,2008_Bank_Of_America_500,2008_31,14,18,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,334,116383,running,4,126
+2008,W,2008_Bank_Of_America_500,2008_31,14,18,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,334,116383,running,4,126
 2008,W,2008_Bank_Of_America_500,2008_31,15,30,41,usa,Reed_Sorenson,Reed Sorenson,Target,Chip_Ganassi,Dodge,334,102064,running,6,123
 2008,W,2008_Bank_Of_America_500,2008_31,16,12,11,usa,Denny_Hamlin,Denny Hamlin,FedEx Office,Joe_Gibbs,Toyota,334,107741,running,0,115
 2008,W,2008_Bank_Of_America_500,2008_31,17,20,43,usa,Bobby_Labonte,Bobby Labonte,Cheerios / Let's Pink Together,Petty_Enterprises,Dodge,333,109036,running,0,112
@@ -1311,10 +1311,10 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Bank_Of_America_500,2008_31,20,22,19,usa,Elliott_Sadler,Elliott Sadler,Stanley / Susan G. Komen,Gillett_Evernham_Motorsports,Dodge,333,99345,running,0,103
 2008,W,2008_Bank_Of_America_500,2008_31,21,16,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,333,109350,running,10,105
 2008,W,2008_Bank_Of_America_500,2008_31,22,36,77,usa,Sam_Hornish_Jr,"Sam Hornish, Jr.",Mobil 1,Roger_Penske,Dodge,332,114025,running,0,97
-2008,W,2008_Bank_Of_America_500,2008_31,23,29,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,332,78600,running,0,94
+2008,W,2008_Bank_Of_America_500,2008_31,23,29,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,332,78600,running,0,94
 2008,W,2008_Bank_Of_America_500,2008_31,24,31,55,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Michael_Waltrip,Toyota,332,85458,running,1,96
 2008,W,2008_Bank_Of_America_500,2008_31,25,28,38,usa,David_Gilliland,David Gilliland,Ford. Drive One.,Yates_Racing,Ford,332,83633,running,0,88
-2008,W,2008_Bank_Of_America_500,2008_31,26,27,15,usa,Paul_Menard,Paul Menard,Menards / Moen,"Dale_Earnhardt,_Inc.",Chevrolet,331,76675,running,0,85
+2008,W,2008_Bank_Of_America_500,2008_31,26,27,15,usa,Paul_Menard,Paul Menard,Menards / Moen,Dale_Earnhardt_Inc,Chevrolet,331,76675,running,0,85
 2008,W,2008_Bank_Of_America_500,2008_31,27,32,22,usa,Dave_Blaney,Dave Blaney,Caterpillar,Bill_Davis,Toyota,331,80108,running,0,82
 2008,W,2008_Bank_Of_America_500,2008_31,28,37,21,usa,Bill_Elliott,Bill Elliott,U.S. Air Force,Wood_Brothers,Ford,330,83595,running,0,79
 2008,W,2008_Bank_Of_America_500,2008_31,29,23,5,usa,Casey_Mears,Casey Mears,Pop-Tarts / Carquest,Rick_Hendrick,Chevrolet,330,83025,running,0,76
@@ -1341,7 +1341,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Tums_QuikPak_500,2008_32,7,6,29,usa,Kevin_Harvick,Kevin Harvick,Shell / Pennzoil,Richard_Childress,Chevrolet,504,131636,running,0,146
 2008,W,2008_Tums_QuikPak_500,2008_32,8,11,17,usa,Matt_Kenseth,Matt Kenseth,R&L Carriers,Jack_Roush,Ford,504,123416,running,8,147
 2008,W,2008_Tums_QuikPak_500,2008_32,9,5,07,usa,Clint_Bowyer,Clint Bowyer,Jack Daniel's,Richard_Childress,Chevrolet,504,93675,running,0,138
-2008,W,2008_Tums_QuikPak_500,2008_32,10,18,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,504,110708,running,0,134
+2008,W,2008_Tums_QuikPak_500,2008_32,10,18,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,504,110708,running,0,134
 2008,W,2008_Tums_QuikPak_500,2008_32,11,17,83,usa,Brian_Vickers,Brian Vickers,Red Bull,Dietrich_Mateschitz,Toyota,504,84775,running,0,-20
 2008,W,2008_Tums_QuikPak_500,2008_32,12,3,16,usa,Greg_Biffle,Greg Biffle,Dish Network Turbo HD,Jack_Roush,Ford,504,87750,running,9,132
 2008,W,2008_Tums_QuikPak_500,2008_32,13,13,6,usa,David_Ragan,David Ragan,AAA Insurance,Jack_Roush,Ford,504,85300,running,0,124
@@ -1351,14 +1351,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Tums_QuikPak_500,2008_32,17,2,31,usa,Jeff_Burton,Jeff Burton,AT&T Mobility,Richard_Childress,Chevrolet,503,116233,running,0,112
 2008,W,2008_Tums_QuikPak_500,2008_32,18,31,55,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Michael_Waltrip,Toyota,503,97258,running,0,109
 2008,W,2008_Tums_QuikPak_500,2008_32,19,25,28,usa,Travis_Kvapil,Travis Kvapil,All Sport,Yates_Racing,Ford,502,100889,running,0,106
-2008,W,2008_Tums_QuikPak_500,2008_32,20,15,8,usa,Aric_Almirola,Aric Almirola,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,502,107683,running,53,108
+2008,W,2008_Tums_QuikPak_500,2008_32,20,15,8,usa,Aric_Almirola,Aric Almirola,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,502,107683,running,53,108
 2008,W,2008_Tums_QuikPak_500,2008_32,21,32,66,usa,Scott_Riggs,Scott Riggs,Haas Automation,Gene_Haas,Chevrolet,502,90733,running,1,105
 2008,W,2008_Tums_QuikPak_500,2008_32,22,33,22,usa,Dave_Blaney,Dave Blaney,Caterpillar,Bill_Davis,Toyota,502,86633,running,0,97
 2008,W,2008_Tums_QuikPak_500,2008_32,23,16,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,501,111000,running,0,94
 2008,W,2008_Tums_QuikPak_500,2008_32,24,26,44,usa,David_Reutimann,David Reutimann,UPS,Michael_Waltrip,Toyota,501,73025,running,0,91
 2008,W,2008_Tums_QuikPak_500,2008_32,25,41,45,usa,Chad_McCumbee,Chad McCumbee,Marathon American Spirit Motor Oil,Petty_Enterprises,Dodge,501,83958,running,0,88
 2008,W,2008_Tums_QuikPak_500,2008_32,26,7,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Toyota,500,117161,running,0,85
-2008,W,2008_Tums_QuikPak_500,2008_32,27,27,15,usa,Paul_Menard,Paul Menard,Menards / Super Clean,"Dale_Earnhardt,_Inc.",Chevrolet,500,79350,running,0,82
+2008,W,2008_Tums_QuikPak_500,2008_32,27,27,15,usa,Paul_Menard,Paul Menard,Menards / Super Clean,Dale_Earnhardt_Inc,Chevrolet,500,79350,running,0,82
 2008,W,2008_Tums_QuikPak_500,2008_32,28,40,96,usa,Ken_Schrader,Ken Schrader,DLP HDTV,Jeff_Moorad,Toyota,500,79100,running,0,79
 2008,W,2008_Tums_QuikPak_500,2008_32,29,9,18,usa,Kyle_Busch,Kyle Busch,M&M's,Joe_Gibbs,Toyota,497,85975,running,0,76
 2008,W,2008_Tums_QuikPak_500,2008_32,30,35,84,usa,Scott_Speed,Scott Speed,Red Bull,Dietrich_Mateschitz,Toyota,497,70900,running,0,73
@@ -1373,7 +1373,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Tums_QuikPak_500,2008_32,39,38,00,usa,Mike_Bliss,Mike Bliss,Champion Mortgage,Michael_Waltrip,Toyota,455,67250,rear end,0,46
 2008,W,2008_Tums_QuikPak_500,2008_32,40,34,7,usa,Robby_Gordon,Robby Gordon,Menards,Robby_Gordon,Dodge,453,75200,running,0,43
 2008,W,2008_Tums_QuikPak_500,2008_32,41,22,19,usa,Elliott_Sadler,Elliott Sadler,Best Buy / Garmin,Gillett_Evernham_Motorsports,Dodge,437,93495,running,0,40
-2008,W,2008_Tums_QuikPak_500,2008_32,42,30,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,417,75090,running,0,37
+2008,W,2008_Tums_QuikPak_500,2008_32,42,30,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,417,75090,running,0,37
 2008,W,2008_Tums_QuikPak_500,2008_32,43,42,78,usa,Joe_Nemechek,Joe Nemechek,Furniture Row / DenverMattress.com,Barney_Visser,Chevrolet,115,66555,crash,0,34
 2008,W,2008_Pep_Boys_Auto_500,2008_33,1,4,99,usa,Carl_Edwards,Carl Edwards,Office Depot,Jack_Roush,Ford,325,357800,running,98,190
 2008,W,2008_Pep_Boys_Auto_500,2008_33,2,1,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's / Kobalt Tools,Rick_Hendrick,Chevrolet,325,256836,running,28,175
@@ -1389,14 +1389,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Pep_Boys_Auto_500,2008_33,12,22,5,usa,Casey_Mears,Casey Mears,Kellogg's / Carquest,Rick_Hendrick,Chevrolet,325,112975,running,0,127
 2008,W,2008_Pep_Boys_Auto_500,2008_33,13,6,29,usa,Kevin_Harvick,Kevin Harvick,Shell / Pennzoil,Richard_Childress,Chevrolet,325,144461,running,0,124
 2008,W,2008_Pep_Boys_Auto_500,2008_33,14,39,10,usa,A_J_Allmendinger,A.J. Allmendinger,Valvoline / Sears Auto Center,Gillett_Evernham_Motorsports,Dodge,325,103975,running,0,121
-2008,W,2008_Pep_Boys_Auto_500,2008_33,15,16,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,325,129208,running,0,118
+2008,W,2008_Pep_Boys_Auto_500,2008_33,15,16,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,325,129208,running,0,118
 2008,W,2008_Pep_Boys_Auto_500,2008_33,16,17,12,usa,Ryan_Newman,Ryan Newman,Kodak,Roger_Penske,Dodge,325,133950,running,0,115
 2008,W,2008_Pep_Boys_Auto_500,2008_33,17,8,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Toyota,325,140211,running,0,112
 2008,W,2008_Pep_Boys_Auto_500,2008_33,18,3,31,usa,Jeff_Burton,Jeff Burton,AT&T Mobility,Richard_Childress,Chevrolet,325,135383,running,0,109
 2008,W,2008_Pep_Boys_Auto_500,2008_33,19,35,7,usa,Robby_Gordon,Robby Gordon,Jim Beam,Robby_Gordon,Dodge,324,119208,running,0,106
 2008,W,2008_Pep_Boys_Auto_500,2008_33,20,5,07,usa,Clint_Bowyer,Clint Bowyer,Jack Daniel's,Richard_Childress,Chevrolet,324,108800,running,0,103
 2008,W,2008_Pep_Boys_Auto_500,2008_33,21,18,83,usa,Brian_Vickers,Brian Vickers,Red Bull,Dietrich_Mateschitz,Toyota,324,99450,running,0,100
-2008,W,2008_Pep_Boys_Auto_500,2008_33,22,14,8,usa,Mark_Martin,Mark Martin,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,323,124683,running,0,97
+2008,W,2008_Pep_Boys_Auto_500,2008_33,22,14,8,usa,Mark_Martin,Mark Martin,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,323,124683,running,0,97
 2008,W,2008_Pep_Boys_Auto_500,2008_33,23,25,28,usa,Travis_Kvapil,Travis Kvapil,Hitachi Power Tools,Yates_Racing,Ford,323,117914,running,0,94
 2008,W,2008_Pep_Boys_Auto_500,2008_33,24,36,77,usa,Sam_Hornish_Jr,"Sam Hornish, Jr.",Mobil 1,Roger_Penske,Dodge,323,132625,running,0,91
 2008,W,2008_Pep_Boys_Auto_500,2008_33,25,23,19,usa,Elliott_Sadler,Elliott Sadler,Ronald McDonald House Charities,Gillett_Evernham_Motorsports,Dodge,323,115095,running,0,88
@@ -1404,8 +1404,8 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Pep_Boys_Auto_500,2008_33,27,28,38,usa,David_Gilliland,David Gilliland,Aflac Cancer Center,Yates_Racing,Ford,323,103008,running,0,82
 2008,W,2008_Pep_Boys_Auto_500,2008_33,28,26,44,usa,David_Reutimann,David Reutimann,UPS,Michael_Waltrip,Toyota,323,86150,running,0,79
 2008,W,2008_Pep_Boys_Auto_500,2008_33,29,38,47,australia,Marcos_Ambrose,Marcos Ambrose,Little Debbie Snack Cakes,Michael_Waltrip,Toyota,323,100033,running,0,76
-2008,W,2008_Pep_Boys_Auto_500,2008_33,30,32,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,322,94225,running,0,73
-2008,W,2008_Pep_Boys_Auto_500,2008_33,31,27,15,usa,Paul_Menard,Paul Menard,Menards / Johns Manville,"Dale_Earnhardt,_Inc.",Chevrolet,322,93075,running,0,70
+2008,W,2008_Pep_Boys_Auto_500,2008_33,30,32,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,322,94225,running,0,73
+2008,W,2008_Pep_Boys_Auto_500,2008_33,31,27,15,usa,Paul_Menard,Paul Menard,Menards / Johns Manville,Dale_Earnhardt_Inc,Chevrolet,322,93075,running,0,70
 2008,W,2008_Pep_Boys_Auto_500,2008_33,32,43,70,usa,Tony_Raines,Tony Raines,Haas Automation,Gene_Haas,Chevrolet,322,82400,running,0,67
 2008,W,2008_Pep_Boys_Auto_500,2008_33,33,15,9,usa,Kasey_Kahne,Kasey Kahne,Budweiser,Gillett_Evernham_Motorsports,Dodge,320,113166,running,0,64
 2008,W,2008_Pep_Boys_Auto_500,2008_33,34,34,84,usa,Scott_Speed,Scott Speed,Red Bull,Dietrich_Mateschitz,Toyota,320,82175,running,1,66
@@ -1425,11 +1425,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Dickies_500,2008_34,5,19,16,usa,Greg_Biffle,Greg Biffle,3M,Jack_Roush,Ford,334,177775,running,2,160
 2008,W,2008_Dickies_500,2008_34,6,29,18,usa,Kyle_Busch,Kyle Busch,M&M's,Joe_Gibbs,Toyota,334,166675,running,2,155
 2008,W,2008_Dickies_500,2008_34,7,23,29,usa,Kevin_Harvick,Kevin Harvick,Shell / Pennzoil,Richard_Childress,Chevrolet,334,191311,running,0,146
-2008,W,2008_Dickies_500,2008_34,8,2,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,334,165358,running,0,142
+2008,W,2008_Dickies_500,2008_34,8,2,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,334,165358,running,0,142
 2008,W,2008_Dickies_500,2008_34,9,6,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt,Jack_Roush,Ford,334,170016,running,0,138
 2008,W,2008_Dickies_500,2008_34,10,12,44,usa,David_Reutimann,David Reutimann,UPS,Michael_Waltrip,Toyota,334,128400,running,5,139
 2008,W,2008_Dickies_500,2008_34,11,18,6,usa,David_Ragan,David Ragan,AAA,Jack_Roush,Ford,334,124875,running,0,130
-2008,W,2008_Dickies_500,2008_34,12,20,8,usa,Mark_Martin,Mark Martin,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,334,147033,running,0,127
+2008,W,2008_Dickies_500,2008_34,12,20,8,usa,Mark_Martin,Mark Martin,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,334,147033,running,0,127
 2008,W,2008_Dickies_500,2008_34,13,38,31,usa,Jeff_Burton,Jeff Burton,AT&T Mobility,Richard_Childress,Chevrolet,333,156783,running,0,124
 2008,W,2008_Dickies_500,2008_34,14,14,5,usa,Casey_Mears,Casey Mears,Carquest / Kellogg's,Rick_Hendrick,Chevrolet,333,120700,running,0,121
 2008,W,2008_Dickies_500,2008_34,15,7,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's / Kobalt Tools,Rick_Hendrick,Chevrolet,333,156861,running,0,118
@@ -1439,7 +1439,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Dickies_500,2008_34,19,37,25,usa,Brad_Keselowski,Brad Keselowski,GoDaddy.com,Rick_Hendrick,Chevrolet,332,99775,running,0,106
 2008,W,2008_Dickies_500,2008_34,20,5,88,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",AMP Energy / National Guard,Rick_Hendrick,Chevrolet,332,113675,running,1,108
 2008,W,2008_Dickies_500,2008_34,21,24,47,australia,Marcos_Ambrose,Marcos Ambrose,Little Debbie,Michael_Waltrip,Toyota,332,121158,running,0,100
-2008,W,2008_Dickies_500,2008_34,22,11,15,usa,Paul_Menard,Paul Menard,Menards / Johns Manville,"Dale_Earnhardt,_Inc.",Chevrolet,332,110675,running,0,97
+2008,W,2008_Dickies_500,2008_34,22,11,15,usa,Paul_Menard,Paul Menard,Menards / Johns Manville,Dale_Earnhardt_Inc,Chevrolet,332,110675,running,0,97
 2008,W,2008_Dickies_500,2008_34,23,21,77,usa,Sam_Hornish_Jr,"Sam Hornish, Jr.",Penske Truck Rental,Roger_Penske,Dodge,332,146250,running,0,94
 2008,W,2008_Dickies_500,2008_34,24,28,9,usa,Kasey_Kahne,Kasey Kahne,Budweiser,Gillett_Evernham_Motorsports,Dodge,331,133116,running,0,91
 2008,W,2008_Dickies_500,2008_34,25,10,66,usa,Scott_Riggs,Scott Riggs,State Water Heaters,Gene_Haas,Chevrolet,331,118508,running,0,88
@@ -1451,7 +1451,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Dickies_500,2008_34,31,39,21,usa,Bill_Elliott,Bill Elliott,Little Debbie,Wood_Brothers,Ford,330,115595,running,0,70
 2008,W,2008_Dickies_500,2008_34,32,42,28,usa,Travis_Kvapil,Travis Kvapil,Academy Sports & Outdoors,Yates_Racing,Ford,330,127264,running,0,67
 2008,W,2008_Dickies_500,2008_34,33,33,84,usa,Scott_Speed,Scott Speed,Red Bull,Dietrich_Mateschitz,Toyota,330,99350,running,0,64
-2008,W,2008_Dickies_500,2008_34,34,25,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,329,105600,running,0,61
+2008,W,2008_Dickies_500,2008_34,34,25,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,329,105600,running,0,61
 2008,W,2008_Dickies_500,2008_34,35,30,19,usa,Elliott_Sadler,Elliott Sadler,Stanley Tools,Gillett_Evernham_Motorsports,Dodge,329,122795,running,0,58
 2008,W,2008_Dickies_500,2008_34,36,22,7,usa,Robby_Gordon,Robby Gordon,Mapei / Menards,Robby_Gordon,Dodge,329,113772,running,0,55
 2008,W,2008_Dickies_500,2008_34,37,9,41,usa,Reed_Sorenson,Reed Sorenson,Target,Chip_Ganassi,Dodge,328,123239,running,0,52
@@ -1474,7 +1474,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil,2008_35,11,31,16,usa,Greg_Biffle,Greg Biffle,3M / American Red Cross,Jack_Roush,Ford,313,86350,running,7,135
 2008,W,2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil,2008_35,12,28,07,usa,Clint_Bowyer,Clint Bowyer,Jack Daniel's,Richard_Childress,Chevrolet,313,91300,running,0,127
 2008,W,2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil,2008_35,13,11,9,usa,Kasey_Kahne,Kasey Kahne,Budweiser,Gillett_Evernham_Motorsports,Dodge,313,105816,running,0,124
-2008,W,2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil,2008_35,14,10,8,usa,Mark_Martin,Mark Martin,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,313,107733,running,0,121
+2008,W,2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil,2008_35,14,10,8,usa,Mark_Martin,Mark Martin,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,313,107733,running,0,121
 2008,W,2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil,2008_35,15,34,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt,Jack_Roush,Ford,313,117291,running,0,118
 2008,W,2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil,2008_35,16,13,10,usa,A_J_Allmendinger,A.J. Allmendinger,McDonald's,Gillett_Evernham_Motorsports,Dodge,313,71525,running,0,115
 2008,W,2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil,2008_35,17,26,42,colombia,Juan_Pablo_Montoya,Juan Pablo Montoya,Texaco / Havoline,Chip_Ganassi,Dodge,313,99133,running,0,112
@@ -1483,10 +1483,10 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil,2008_35,20,23,22,usa,Dave_Blaney,Dave Blaney,Bad Boy Mowers,Bill_Davis,Toyota,312,88883,running,0,103
 2008,W,2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil,2008_35,21,40,28,usa,Travis_Kvapil,Travis Kvapil,All Sport,Yates_Racing,Ford,312,97339,running,0,100
 2008,W,2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil,2008_35,22,29,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Toyota,312,115436,running,0,97
-2008,W,2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil,2008_35,23,21,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,312,80225,running,0,94
+2008,W,2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil,2008_35,23,21,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,312,80225,running,0,94
 2008,W,2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil,2008_35,24,25,55,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Michael_Waltrip,Toyota,311,83683,running,0,91
 2008,W,2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil,2008_35,25,4,44,usa,David_Reutimann,David Reutimann,UPS,Michael_Waltrip,Toyota,311,70000,running,0,88
-2008,W,2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil,2008_35,26,9,15,usa,Paul_Menard,Paul Menard,Menards / Peak,"Dale_Earnhardt,_Inc.",Chevrolet,311,77175,running,0,85
+2008,W,2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil,2008_35,26,9,15,usa,Paul_Menard,Paul Menard,Menards / Peak,Dale_Earnhardt_Inc,Chevrolet,311,77175,running,0,85
 2008,W,2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil,2008_35,27,32,96,usa,Ken_Schrader,Ken Schrader,DLP HDTV,Jeff_Moorad,Toyota,311,76550,running,0,82
 2008,W,2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil,2008_35,28,27,7,usa,Robby_Gordon,Robby Gordon,Jim Beam / Operation Homefront,Robby_Gordon,Dodge,311,85558,running,0,79
 2008,W,2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil,2008_35,29,39,21,usa,Bill_Elliott,Bill Elliott,Little Debbie Snacks,Wood_Brothers,Ford,311,84120,running,0,76
@@ -1503,7 +1503,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil,2008_35,40,38,84,usa,Scott_Speed,Scott Speed,Red Bull,Dietrich_Mateschitz,Toyota,269,64300,crash,1,48
 2008,W,2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil,2008_35,41,7,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,266,113091,engine,0,40
 2008,W,2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil,2008_35,42,36,83,usa,Brian_Vickers,Brian Vickers,Red Bull,Dietrich_Mateschitz,Toyota,29,72030,crash,0,37
-2008,W,2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil,2008_35,43,20,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,27,95327,overheating,0,34
+2008,W,2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil,2008_35,43,20,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,27,95327,overheating,0,34
 2008,W,2008_Ford_400,2008_36,1,4,99,usa,Carl_Edwards,Carl Edwards,Office Depot,Jack_Roush,Ford,267,371025,running,157,195
 2008,W,2008_Ford_400,2008_36,2,5,29,usa,Kevin_Harvick,Kevin Harvick,Shell / Pennzoil,Richard_Childress,Chevrolet,267,273661,running,1,175
 2008,W,2008_Ford_400,2008_36,3,7,26,usa,Jamie_McMurray,Jamie McMurray,Crown Royal,Jack_Roush,Ford,267,192375,running,0,165
@@ -1513,7 +1513,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Ford_400,2008_36,7,19,28,usa,Travis_Kvapil,Travis Kvapil,All Sport,Yates_Racing,Ford,267,120414,running,0,146
 2008,W,2008_Ford_400,2008_36,8,12,5,usa,Casey_Mears,Casey Mears,Kellogg's / Carquest,Rick_Hendrick,Chevrolet,267,98925,running,0,142
 2008,W,2008_Ford_400,2008_36,9,13,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Toyota,267,122636,running,11,143
-2008,W,2008_Ford_400,2008_36,10,10,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,267,107158,running,0,134
+2008,W,2008_Ford_400,2008_36,10,10,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,267,107158,running,0,134
 2008,W,2008_Ford_400,2008_36,11,43,10,usa,A_J_Allmendinger,A.J. Allmendinger,Valvoline,Gillett_Evernham_Motorsports,Dodge,267,75750,running,0,130
 2008,W,2008_Ford_400,2008_36,12,15,21,usa,Bill_Elliott,Bill Elliott,Motorcraft,Wood_Brothers,Ford,267,87245,running,0,127
 2008,W,2008_Ford_400,2008_36,13,25,11,usa,Denny_Hamlin,Denny Hamlin,FedEx Express,Joe_Gibbs,Toyota,267,108341,running,0,124
@@ -1533,12 +1533,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,W,2008_Ford_400,2008_36,27,34,38,usa,David_Gilliland,David Gilliland,Digital TV Transition,Yates_Racing,Ford,266,80133,running,0,82
 2008,W,2008_Ford_400,2008_36,28,24,19,usa,Elliott_Sadler,Elliott Sadler,Hellmann's,Gillett_Evernham_Motorsports,Dodge,266,94520,running,0,79
 2008,W,2008_Ford_400,2008_36,29,21,09,usa,Sterling_Marlin,Sterling Marlin,Miccosukee Resorts & Gaming,James_Finch,Chevrolet,266,64875,running,0,76
-2008,W,2008_Ford_400,2008_36,30,36,15,usa,Paul_Menard,Paul Menard,Menards / Johns Manville,"Dale_Earnhardt,_Inc.",Chevrolet,266,76150,running,0,73
+2008,W,2008_Ford_400,2008_36,30,36,15,usa,Paul_Menard,Paul Menard,Menards / Johns Manville,Dale_Earnhardt_Inc,Chevrolet,266,76150,running,0,73
 2008,W,2008_Ford_400,2008_36,31,9,41,usa,Reed_Sorenson,Reed Sorenson,Target,Chip_Ganassi,Dodge,266,94664,running,0,70
 2008,W,2008_Ford_400,2008_36,32,20,84,usa,Brian_Vickers,Brian Vickers,Red Bull,Dietrich_Mateschitz,Toyota,265,66725,running,0,67
 2008,W,2008_Ford_400,2008_36,33,35,43,usa,Bobby_Labonte,Bobby Labonte,Liberty Medical,Petty_Enterprises,Dodge,265,100961,running,0,64
-2008,W,2008_Ford_400,2008_36,34,26,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,"Dale_Earnhardt,_Inc.",Chevrolet,265,74275,running,0,61
-2008,W,2008_Ford_400,2008_36,35,40,8,usa,Aric_Almirola,Aric Almirola,U.S. Army,"Dale_Earnhardt,_Inc.",Chevrolet,265,97783,running,0,58
+2008,W,2008_Ford_400,2008_36,34,26,01,usa,Regan_Smith,Regan Smith,DEI / Principal Financial Group,Dale_Earnhardt_Inc,Chevrolet,265,74275,running,0,61
+2008,W,2008_Ford_400,2008_36,35,40,8,usa,Aric_Almirola,Aric Almirola,U.S. Army,Dale_Earnhardt_Inc,Chevrolet,265,97783,running,0,58
 2008,W,2008_Ford_400,2008_36,36,16,78,usa,Joe_Nemechek,Joe Nemechek,Furniture Row Racing,Barney_Visser,Chevrolet,264,63400,running,0,55
 2008,W,2008_Ford_400,2008_36,37,32,70,usa,Tony_Raines,Tony Raines,Haas Automation,Gene_Haas,Chevrolet,264,63200,running,0,52
 2008,W,2008_Ford_400,2008_36,38,42,55,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Michael_Waltrip,Toyota,264,72547,running,0,49

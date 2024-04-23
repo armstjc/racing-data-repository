@@ -28,7 +28,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2012,P,2012_Talking_Stick_Resort_50,2012_01,27,21,18,usa,Billy_Kann,Billy Kann,Interstate Batteries,,Toyota,47,,running,0,17
 2012,P,2012_Talking_Stick_Resort_50,2012_01,28,29,30,usa,Justin_Funkhouser,Justin Funkhouser,Mobile Gold Buyers / Holleran's Performance,,Chevrolet,47,,running,0,16
 2012,P,2012_Talking_Stick_Resort_50,2012_01,29,30,15,usa,Jack_Sellers,Jack Sellers,Bay Bio Diesel,,Chevrolet,46,,running,0,15
-2012,P,2012_Talking_Stick_Resort_50,2012_01,30,11,8,usa,Johnny_Borneman_III,"Johnny Borneman, III",Twisted X Boots / Red Line Oil,,Chevrolet,41,,electrical,0,14
+2012,P,2012_Talking_Stick_Resort_50,2012_01,30,11,8,usa,Johnny_Borneman_III,Johnny Borneman III,Twisted X Boots / Red Line Oil,,Chevrolet,41,,electrical,0,14
 2012,P,2012_Toyota_NAPA_150_Presented_by_Gene_Price_Motorsports,2012_02,1,1,6,usa,Derek_Thorn,Derek Thorn,Sunrise Ford / Lucas Oil / Eibach,,Ford,150,,running,141,48
 2012,P,2012_Toyota_NAPA_150_Presented_by_Gene_Price_Motorsports,2012_02,2,7,17,usa,David_Mayhew,David Mayhew,MMI Services / Ron's Rear Ends,,Chevrolet,150,,running,0,42
 2012,P,2012_Toyota_NAPA_150_Presented_by_Gene_Price_Motorsports,2012_02,3,2,03,usa,Dylan_Kwasniewski,Dylan Kwasniewski,Rockstar / Royal Purple,,Ford,150,,running,9,42
@@ -119,7 +119,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2012,P,2012_Graham_Tire_150,2012_05,15,12,49,usa,Jason_Bowles,Jason Bowles   (East),Inox Lube / Piston Energy Drinks,,Dodge,154,,running,0,
 2012,P,2012_Graham_Tire_150,2012_05,16,19,14,mexico,Daniel_Suarez,Daniel Suarez   (East),Telcel / Finsa / Roca Aero,,Toyota,154,,running,0,
 2012,P,2012_Graham_Tire_150,2012_05,17,35,21,usa,Michael_Self,Michael Self,Rockwell / Golden Gate Meat,,Chevrolet,154,,running,0,40
-2012,P,2012_Graham_Tire_150,2012_05,18,6,07,usa,Corey_Lajoie,Corey Lajoie   (East),Dewey Automotive / Sims Metal,,Ford,154,,running,0,
+2012,P,2012_Graham_Tire_150,2012_05,18,6,07,usa,Corey_LaJoie,Corey LaJoie   (East),Dewey Automotive / Sims Metal,,Ford,154,,running,0,
 2012,P,2012_Graham_Tire_150,2012_05,19,29,83,usa,Dylan_Presnell,Dylan Presnell   (East),American Mountain Rentals / Amtrol,,Toyota,153,,running,0,
 2012,P,2012_Graham_Tire_150,2012_05,20,24,16,usa,Travis_Miller,Travis Miller   (East),X Team Racing,,Toyota,153,,running,0,
 2012,P,2012_Graham_Tire_150,2012_05,21,8,2,usa,Ryan_Gifford,Ryan Gifford   (East),Universal Technical Institute / NTI,,Toyota,153,,running,0,
@@ -212,7 +212,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2012,P,2012_Pick-N-Pull_Racing_To_Stop_Hunger_200,2012_08,27,27,15,usa,Jack_Sellers,Jack Sellers,Bay Bio Diesel,,Chevrolet,18,,brakes,0,17
 2012,P,2012_Pick-N-Pull_Racing_To_Stop_Hunger_200,2012_08,28,23,5,usa,Dylan_Hutchison,Dylan Hutchison,Bay Bio Diesel / Johnnie Walker,,Chevrolet,18,,transmission,0,16
 2012,P,2012_Pick-N-Pull_Racing_To_Stop_Hunger_200,2012_08,29,16,19,usa,Kyle_Heckman,Kyle Heckman,MMI Services / Ron's Rear Ends,,Chevrolet,5,,rear end,0,15
-2012,P,2012_Pick-N-Pull_Racing_To_Stop_Hunger_200,2012_08,30,9,61,usa,Johnny_Borneman_III,"Johnny Borneman, III",Red Line Oil,,Chevrolet,1,,clutch,0,14
+2012,P,2012_Pick-N-Pull_Racing_To_Stop_Hunger_200,2012_08,30,9,61,usa,Johnny_Borneman_III,Johnny Borneman III,Red Line Oil,,Chevrolet,1,,clutch,0,14
 2012,P,2012_NAPA_Auto_Parts_150,2012_09,1,3,20,usa,Eric_Holmes,Eric Holmes,NAPA Auto Parts,,Toyota,150,,running,65,48
 2012,P,2012_NAPA_Auto_Parts_150,2012_09,2,4,21,usa,Michael_Self,Michael Self,Rockwell / Golden Gate Meat,,Chevrolet,150,,running,48,43
 2012,P,2012_NAPA_Auto_Parts_150,2012_09,3,7,6,usa,Derek_Thorn,Derek Thorn,Sunrise Ford / Lucas Oil / Eibach,,Ford,150,,running,0,41
@@ -235,7 +235,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2012,P,2012_NAPA_Auto_Parts_150,2012_09,20,21,38,usa,Zack_Huffman,Zack Huffman,Holleran's Performance,,Ford,139,,running,0,24
 2012,P,2012_NAPA_Auto_Parts_150,2012_09,21,22,54,usa,Anthony_Giannone,Anthony Giannone,K&N Air Fillters / MGP,,Chevrolet,130,,running,0,23
 2012,P,2012_NAPA_Auto_Parts_150,2012_09,22,20,14,usa,John_Wood_(4),John Wood,Cooks / Holleran's Performance,,Toyota,129,,crash,0,22
-2012,P,2012_NAPA_Auto_Parts_150,2012_09,23,23,55,usa,"Bobby_Hillis,_Jr","Bobby Hillis, Jr.",First Impression Press / Hinkley Lighting,,Dodge,21,,brakes,0,21
+2012,P,2012_NAPA_Auto_Parts_150,2012_09,23,23,55,usa,"Bobby_Hillis,_Jr.","Bobby Hillis, Jr.",First Impression Press / Hinkley Lighting,,Dodge,21,,brakes,0,21
 2012,P,2012_NAPA_Toyota_150,2012_10,1,2,26,usa,Greg_Pursley,Greg Pursley,GPM / Star Nursery / Real Water,,Ford,153,,running,153,48
 2012,P,2012_NAPA_Toyota_150,2012_10,2,8,6,usa,Derek_Thorn,Derek Thorn,Sunrise Ford / Lucas Oil / Eibach,,Ford,153,,running,0,42
 2012,P,2012_NAPA_Toyota_150,2012_10,3,5,24,canada,Cameron_Hayley,Cameron Hayley,Cabinets by Hayley,,Toyota,153,,running,0,41
@@ -260,7 +260,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2012,P,2012_NAPA_Toyota_150,2012_10,22,13,52,usa,Ryan_Philpott,Ryan Philpott,Philpott Race Cars,,Ford,137,,running,0,22
 2012,P,2012_NAPA_Toyota_150,2012_10,23,20,15,usa,Jack_Sellers,Jack Sellers,Bay Bio Diesel,,Chevrolet,134,,running,0,21
 2012,P,2012_NAPA_Toyota_150,2012_10,24,24,07,usa,Daniel_Graeff,Daniel Graeff,Children's Tumor Foundation,,Ford,98,,crash,0,20
-2012,P,2012_Pork_Be_Inspired_150,2012_11,1,2,07,usa,Corey_Lajoie,Corey Lajoie   (East),Dewey Automotive / Sims Metal,,Ford,150,,running,134,
+2012,P,2012_Pork_Be_Inspired_150,2012_11,1,2,07,usa,Corey_LaJoie,Corey LaJoie   (East),Dewey Automotive / Sims Metal,,Ford,150,,running,134,
 2012,P,2012_Pork_Be_Inspired_150,2012_11,2,5,6,usa,Kyle_Larson,Kyle Larson   (East),L&M Ethanol,,Toyota,150,,running,9,
 2012,P,2012_Pork_Be_Inspired_150,2012_11,3,3,1,usa,Sergio_Pena,Sergio Pena   (East),Don Valley North Toyota Dealership,,Toyota,150,,running,0,
 2012,P,2012_Pork_Be_Inspired_150,2012_11,4,4,9,usa,Chase_Elliott,Chase Elliott   (East),Aaron's / HendrickCars.com,,Chevrolet,150,,running,0,
@@ -400,5 +400,5 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2012,P,2012_Casino_Arizona_50,2012_15,26,29,30,usa,John_Wood_(4),John Wood,Holleran's Performance,,Toyota,48,,running,0,18
 2012,P,2012_Casino_Arizona_50,2012_15,27,3,6,usa,Derek_Thorn,Derek Thorn,Sunrise Ford / Lucas Oil / Eibach,,Ford,47,,running,0,17
 2012,P,2012_Casino_Arizona_50,2012_15,28,14,83,canada,Kelly_Admiraal,Kelly Admiraal,Honoring The Fallen Tribute Car,,Chevrolet,40,,running,0,16
-2012,P,2012_Casino_Arizona_50,2012_15,29,8,8,usa,Johnny_Borneman_III,"Johnny Borneman, III",Twisted X Boots / Red Line Oil,,Chevrolet,11,,crash,0,15
+2012,P,2012_Casino_Arizona_50,2012_15,29,8,8,usa,Johnny_Borneman_III,Johnny Borneman III,Twisted X Boots / Red Line Oil,,Chevrolet,11,,crash,0,15
 2012,P,2012_Casino_Arizona_50,2012_15,30,30,36,usa,Griffin_Steinfeld,Griffin Steinfeld,Our Military Kids,,Ford,4,,clutch,0,14

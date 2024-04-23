@@ -24,7 +24,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2007,M,2007_Whelen_Southern_Modified_Tour_150_%28March%29,2007_01,23,12,07,usa,Frank_Fleming,Frank Fleming,Patterson Automotive / Pro Health Center,,Pontiac,84,340,overheating,0,94
 2007,M,2007_Whelen_Southern_Modified_Tour_150_%28March%29,2007_01,24,8,19,usa,Chuck_Hossfeld,Chuck Hossfeld,Hill Enterprises / Coors Light,,Pontiac,82,320,parked,0,91
 2007,M,2007_Whelen_Southern_Modified_Tour_150_%28March%29,2007_01,25,21,99,usa,Jamie_Tomaino_(2),Jamie Tomaino,Help Wanted,,Chevrolet,33,300,quit,0,88
-2007,M,2007_Whelen_Southern_Modified_Tour_150_%28March%29,2007_01,26,20,21,usa,J_R_Bertuccio,J.R. Bertuccio,Gershaw Recycling,,Chevrolet,23,300,crash,0,85
+2007,M,2007_Whelen_Southern_Modified_Tour_150_%28March%29,2007_01,26,20,21,usa,J.R._Bertuccio,J.R. Bertuccio,Gershaw Recycling,,Chevrolet,23,300,crash,0,85
 2007,M,2007_Whelen_150,2007_02,1,5,70,usa,Andy_Seuss,Andy Seuss,Manchester Urology,,Chevrolet,157,2000,running,116,180
 2007,M,2007_Whelen_150,2007_02,2,1,36,usa,L_W_Miller,L.W. Miller,John Baker Plumbing & Utilities,,Pontiac,157,1500,running,5,170
 2007,M,2007_Whelen_150,2007_02,3,19,42,usa,Brandon_Ward,Brandon Ward,Rayco Safety / Restoration Professionals,,Chevrolet,157,1500,running,0,165
@@ -132,7 +132,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2007,M,2007_Advance_Auto_Parts_199,2007_06,22,22,74,usa,Alex_Hoag,Alex Hoag,Black Rock Speedway,,Ford,73,360,crash,0,97
 2007,M,2007_Advance_Auto_Parts_199,2007_06,23,23,26,usa,Wesley_Swartout,Wesley Swartout,HIK Motorsports,,Ford,68,340,carburetor,0,94
 2007,M,2007_Advance_Auto_Parts_199,2007_06,24,19,7,usa,Thomas_Stinson,Thomas Stinson,Stinson Racing,,Chevrolet,32,320,crash,0,91
-2007,M,2007_Made_In_America_Whelen_300,2007_07,1,1,4,usa,Donny_Lia,Donny Lia   (North),-,,Dodge,300,11950,running,234,0
+2007,M,2007_Made_In_America_Whelen_300,2007_07,1,1,4,usa,Donny_Lia,Donny Lia   (North),–,,Dodge,300,11950,running,234,0
 2007,M,2007_Made_In_America_Whelen_300,2007_07,2,4,86,usa,Ted_Christopher,Ted Christopher   (North),Al-Lee Installations,,Chevrolet,300,6750,running,63,0
 2007,M,2007_Made_In_America_Whelen_300,2007_07,3,40,36,usa,L_W_Miller,L.W. Miller,John Baker Plumbing & Utilities,,Pontiac,300,3950,running,0,180
 2007,M,2007_Made_In_America_Whelen_300,2007_07,4,19,28,usa,James_Civali,James Civali   (North),Ramar-Hall / Liberty Limousine,,Chevrolet,300,4650,running,0,0
@@ -150,7 +150,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2007,M,2007_Made_In_America_Whelen_300,2007_07,16,38,05,usa,Joe_Hartmann,Joe Hartmann   (North),WMS Construction,,Chevrolet,299,2025,running,0,0
 2007,M,2007_Made_In_America_Whelen_300,2007_07,17,31,00,usa,Jerry_Marquis,Jerry Marquis   (North),Reynolds Auto Wrecking,,Chevrolet,296,2300,running,0,0
 2007,M,2007_Made_In_America_Whelen_300,2007_07,18,14,94,usa,Eric_Beers,Eric Beers   (North),Sunoco Race Fuels,,Chevrolet,296,2425,running,0,0
-2007,M,2007_Made_In_America_Whelen_300,2007_07,19,36,99,usa,Jamie_Tomaino_(2),Jamie Tomaino   (North),-,,Chevrolet,293,2350,running,0,0
+2007,M,2007_Made_In_America_Whelen_300,2007_07,19,36,99,usa,Jamie_Tomaino_(2),Jamie Tomaino   (North),–,,Chevrolet,293,2350,running,0,0
 2007,M,2007_Made_In_America_Whelen_300,2007_07,20,13,19,usa,Ron_Silk,Ron Silk   (North),Major Motion Transport / Silk Plumbing & Heat,,Chevrolet,293,2475,running,3,0
 2007,M,2007_Made_In_America_Whelen_300,2007_07,21,26,02,usa,Buddy_Emory,Buddy Emory,RCS Construction / Ams Oil,,Chevrolet,292,1650,running,0,138
 2007,M,2007_Made_In_America_Whelen_300,2007_07,22,22,1,usa,Burt_Myers,Burt Myers,All Star Truck Repair / DMC Auto Exchange,,Chevrolet,291,1600,running,0,134
@@ -169,7 +169,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2007,M,2007_Made_In_America_Whelen_300,2007_07,35,28,79,usa,Woody_Pitkat,Woody Pitkat   (North),Hill Enterprises / Coors Light,,Pontiac,110,2150,oil leak,0,0
 2007,M,2007_Made_In_America_Whelen_300,2007_07,36,10,23,usa,Brian_Loftin,Brian Loftin,L&R Transmissions / OMF Solutions,,Chevrolet,80,1450,crash,0,124
 2007,M,2007_Made_In_America_Whelen_300,2007_07,37,5,58,usa,Kevin_Goodale,Kevin Goodale   (North),Riverhead Building Supply,,Chevrolet,80,2000,crash,0,0
-2007,M,2007_Made_In_America_Whelen_300,2007_07,38,29,11,usa,Anthony_Sesley,Anthony Sesley   (North),A-1 Auto Center,,Chevrolet,80,1300,radiator,0,0
+2007,M,2007_Made_In_America_Whelen_300,2007_07,38,29,11,usa,Anthony_Sesely,Anthony Sesely   (North),A-1 Auto Center,,Chevrolet,80,1300,radiator,0,0
 2007,M,2007_Made_In_America_Whelen_300,2007_07,39,35,33,usa,Wade_Cole,Wade Cole   (North),Performance Engines,,Chevrolet,79,1700,clutch,0,0
 2007,M,2007_Made_In_America_Whelen_300,2007_07,40,43,18,usa,Zach_Brewer,Zach Brewer,DMC Auto Exchange,,Chevrolet,63,1450,crash,0,121
 2007,M,2007_Made_In_America_Whelen_300,2007_07,41,32,8,usa,Glenn_Tyler,Glenn Tyler   (North),Sypher Construction / 1-800-Concrete,,Chevrolet,63,1700,crash,0,0

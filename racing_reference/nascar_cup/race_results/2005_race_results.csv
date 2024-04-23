@@ -1,7 +1,7 @@
 season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
 2005,W,2005_Daytona_500,2005_01,1,15,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,203,1497150,running,29,185
 2005,W,2005_Daytona_500,2005_01,2,13,97,usa,Kurt_Busch,Kurt Busch,Sharpie / Irwin Industrial Tools,Jack_Roush,Ford,203,1106130,running,0,170
-2005,W,2005_Daytona_500,2005_01,3,5,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Bud Born on Date 17 Feb. 2005,"Dale_Earnhardt,_Inc.",Chevrolet,203,828796,running,2,170
+2005,W,2005_Daytona_500,2005_01,3,5,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Bud Born on Date 17 Feb. 2005,Dale_Earnhardt_Inc,Chevrolet,203,828796,running,2,170
 2005,W,2005_Daytona_500,2005_01,4,12,10,usa,Scott_Riggs,Scott Riggs,Valvoline,James_Rocco,Chevrolet,203,643896,running,0,160
 2005,W,2005_Daytona_500,2005_01,5,2,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,203,533579,running,3,160
 2005,W,2005_Daytona_500,2005_01,6,32,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,203,395313,running,0,150
@@ -32,10 +32,10 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Daytona_500,2005_01,31,42,14,usa,John_Andretti,John Andretti,VB/APlus at Sunoco,Greg_Pollex,Ford,187,247538,crash,0,70
 2005,W,2005_Daytona_500,2005_01,32,17,42,usa,Jamie_McMurray,Jamie McMurray,Texaco / Havoline,Chip_Ganassi,Dodge,184,257613,crash,0,67
 2005,W,2005_Daytona_500,2005_01,33,16,22,usa,Scott_Wimmer,Scott Wimmer,Caterpillar,Bill_Davis,Dodge,182,265110,crash,8,69
-2005,W,2005_Daytona_500,2005_01,34,10,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,178,252593,engine,0,61
+2005,W,2005_Daytona_500,2005_01,34,10,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,178,252593,engine,0,61
 2005,W,2005_Daytona_500,2005_01,35,22,32,usa,Bobby_Hamilton_Jr,"Bobby Hamilton, Jr.",Tide Coldwater,Cal_Wells,Chevrolet,173,245468,running,0,58
 2005,W,2005_Daytona_500,2005_01,36,40,11,usa,Jason_Leffler,Jason Leffler,FedEx Express,Joe_Gibbs,Chevrolet,168,244988,crash,0,55
-2005,W,2005_Daytona_500,2005_01,37,3,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,161,304563,engine,42,57
+2005,W,2005_Daytona_500,2005_01,37,3,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,161,304563,engine,42,57
 2005,W,2005_Daytona_500,2005_01,38,19,5,usa,Kyle_Busch,Kyle Busch,Kellogg's,Rick_Hendrick,Chevrolet,148,252063,running,0,49
 2005,W,2005_Daytona_500,2005_01,39,31,49,usa,Ken_Schrader,Ken Schrader,Schwan's Home Service,Beth_Ann_Morgenthau,Dodge,120,243288,engine,0,46
 2005,W,2005_Daytona_500,2005_01,40,21,00,usa,Kenny_Wallace,Kenny Wallace,Aaron's Dream Machine 50th Anniversary,Michael_Waltrip,Chevrolet,39,243038,engine,0,43
@@ -73,13 +73,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Auto_Club_500,2005_02,29,24,14,usa,John_Andretti,John Andretti,VB/APlus at Sunoco,Greg_Pollex,Ford,248,77950,running,0,76
 2005,W,2005_Auto_Club_500,2005_02,30,28,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,246,126936,engine,0,73
 2005,W,2005_Auto_Club_500,2005_02,31,43,37,usa,Kevin_Lepage,Kevin Lepage,Carter's Royal Dispos-All,John_Carter,Dodge,241,77525,running,0,70
-2005,W,2005_Auto_Club_500,2005_02,32,40,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,237,124728,running,0,67
+2005,W,2005_Auto_Club_500,2005_02,32,40,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,237,124728,running,0,67
 2005,W,2005_Auto_Club_500,2005_02,33,12,10,usa,Scott_Riggs,Scott Riggs,Valvoline,James_Rocco,Chevrolet,229,95597,engine,0,64
 2005,W,2005_Auto_Club_500,2005_02,34,42,07,usa,Dave_Blaney,Dave Blaney,Jack Daniel's,Richard_Childress,Chevrolet,224,84900,running,0,61
 2005,W,2005_Auto_Club_500,2005_02,35,25,7,usa,Robby_Gordon,Robby Gordon,Harrah's,Robby_Gordon,Chevrolet,222,76700,engine,0,58
 2005,W,2005_Auto_Club_500,2005_02,36,11,44,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,216,76550,rear end,0,55
 2005,W,2005_Auto_Club_500,2005_02,37,39,11,usa,Jason_Leffler,Jason Leffler,FedEx Express,Joe_Gibbs,Chevrolet,215,76325,engine,0,52
-2005,W,2005_Auto_Club_500,2005_02,38,30,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,203,103289,engine,0,49
+2005,W,2005_Auto_Club_500,2005_02,38,30,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,203,103289,engine,0,49
 2005,W,2005_Auto_Club_500,2005_02,39,4,01,usa,Joe_Nemechek,Joe Nemechek,U.S. Army,Nelson_Bowers,Chevrolet,180,104255,engine,63,56
 2005,W,2005_Auto_Club_500,2005_02,40,17,9,usa,Kasey_Kahne,Kasey Kahne,Dodge Dealers / UAW / Mountain Dew,Ray_Evernham,Dodge,167,107880,crash,0,43
 2005,W,2005_Auto_Club_500,2005_02,41,21,21,usa,Ricky_Rudd,Ricky Rudd,Motorcraft Genuine Parts,Wood_Brothers,Ford,145,102894,engine,0,40
@@ -105,7 +105,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_UAW-Daimler_Chrysler_400,2005_03,18,13,88,usa,Dale_Jarrett,Dale Jarrett,UPS,Yates_Racing,Ford,267,125683,running,0,109
 2005,W,2005_UAW-Daimler_Chrysler_400,2005_03,19,12,01,usa,Joe_Nemechek,Joe Nemechek,U.S. Army,Nelson_Bowers,Chevrolet,267,112583,running,0,106
 2005,W,2005_UAW-Daimler_Chrysler_400,2005_03,20,26,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,267,117220,running,0,103
-2005,W,2005_UAW-Daimler_Chrysler_400,2005_03,21,36,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,266,115439,running,0,100
+2005,W,2005_UAW-Daimler_Chrysler_400,2005_03,21,36,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,266,115439,running,0,100
 2005,W,2005_UAW-Daimler_Chrysler_400,2005_03,22,17,11,usa,Jason_Leffler,Jason Leffler,FedEx Express,Joe_Gibbs,Chevrolet,266,84425,running,0,97
 2005,W,2005_UAW-Daimler_Chrysler_400,2005_03,23,39,43,usa,Jeff_Green,Jeff Green,Cheerios / Betty Crocker,Petty_Enterprises,Dodge,266,115061,running,1,99
 2005,W,2005_UAW-Daimler_Chrysler_400,2005_03,24,30,4,usa,Mike_Wallace,Mike Wallace,Lucas Oil Products,Larry_McClure,Chevrolet,266,85950,running,1,96
@@ -126,7 +126,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_UAW-Daimler_Chrysler_400,2005_03,39,27,7,usa,Robby_Gordon,Robby Gordon,Harrah's,Robby_Gordon,Chevrolet,57,75625,engine,0,46
 2005,W,2005_UAW-Daimler_Chrysler_400,2005_03,40,43,89,usa,Morgan_Shepherd,Morgan Shepherd,Victory in Jesus / Red Line Oil,Morgan_Shepherd,Dodge,39,75400,engine,2,48
 2005,W,2005_UAW-Daimler_Chrysler_400,2005_03,41,31,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Chevrolet,15,109780,crash,0,40
-2005,W,2005_UAW-Daimler_Chrysler_400,2005_03,42,34,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,11,122433,crash,0,37
+2005,W,2005_UAW-Daimler_Chrysler_400,2005_03,42,34,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,11,122433,crash,0,37
 2005,W,2005_UAW-Daimler_Chrysler_400,2005_03,43,32,25,usa,Brian_Vickers,Brian Vickers,GMAC / ditech.com,Rick_Hendrick,Chevrolet,11,83166,crash,0,34
 2005,W,2005_Golden_Corral_500,2005_04,1,4,99,usa,Carl_Edwards,Carl Edwards,Scotts,Jack_Roush,Ford,325,165450,running,9,185
 2005,W,2005_Golden_Corral_500,2005_04,2,3,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,325,173241,running,156,180
@@ -134,7 +134,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Golden_Corral_500,2005_04,4,12,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,325,105150,running,2,165
 2005,W,2005_Golden_Corral_500,2005_04,5,5,9,usa,Kasey_Kahne,Kasey Kahne,Dodge Dealers / UAW,Ray_Evernham,Dodge,325,115875,running,0,155
 2005,W,2005_Golden_Corral_500,2005_04,6,8,25,usa,Brian_Vickers,Brian Vickers,GMAC / ditech.com,Rick_Hendrick,Chevrolet,325,85325,running,0,150
-2005,W,2005_Golden_Corral_500,2005_04,7,37,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,325,109689,running,0,146
+2005,W,2005_Golden_Corral_500,2005_04,7,37,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,325,109689,running,0,146
 2005,W,2005_Golden_Corral_500,2005_04,8,27,07,usa,Dave_Blaney,Dave Blaney,Snap-On Tools / Jack Daniel's,Richard_Childress,Chevrolet,325,83625,running,1,147
 2005,W,2005_Golden_Corral_500,2005_04,9,17,10,usa,Scott_Riggs,Scott Riggs,Valvoline,James_Rocco,Chevrolet,325,100983,running,0,138
 2005,W,2005_Golden_Corral_500,2005_04,10,11,38,usa,Elliott_Sadler,Elliott Sadler,Combos,Yates_Racing,Ford,325,123066,running,0,134
@@ -151,7 +151,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Golden_Corral_500,2005_04,21,36,29,usa,Kevin_Harvick,Kevin Harvick,"GM Goodwrench 20 Years ""2001""",Richard_Childress,Chevrolet,324,106826,running,0,100
 2005,W,2005_Golden_Corral_500,2005_04,22,18,91,usa,Bill_Elliott,Bill Elliott,Visteon,Ray_Evernham,Dodge,324,66510,running,0,97
 2005,W,2005_Golden_Corral_500,2005_04,23,34,88,usa,Dale_Jarrett,Dale Jarrett,UPS,Yates_Racing,Ford,323,104618,running,1,99
-2005,W,2005_Golden_Corral_500,2005_04,24,35,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,323,113518,running,0,91
+2005,W,2005_Golden_Corral_500,2005_04,24,35,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,323,113518,running,0,91
 2005,W,2005_Golden_Corral_500,2005_04,25,10,11,usa,Jason_Leffler,Jason Leffler,FedEx Express,Joe_Gibbs,Chevrolet,323,66285,running,0,88
 2005,W,2005_Golden_Corral_500,2005_04,26,28,49,usa,Ken_Schrader,Ken Schrader,Red Baron Frozen Pizza,Beth_Ann_Morgenthau,Dodge,323,68735,running,0,85
 2005,W,2005_Golden_Corral_500,2005_04,27,32,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,322,99553,running,0,82
@@ -174,7 +174,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Food_City_500,2005_05,1,13,29,usa,Kevin_Harvick,Kevin Harvick,GM Goodwrench,Richard_Childress,Chevrolet,500,189001,running,109,185
 2005,W,2005_Food_City_500,2005_05,2,1,38,usa,Elliott_Sadler,Elliott Sadler,M&M's,Yates_Racing,Ford,500,164261,running,35,175
 2005,W,2005_Food_City_500,2005_05,3,11,20,usa,Tony_Stewart,Tony Stewart,The Home Depot,Joe_Gibbs,Chevrolet,500,151986,running,0,165
-2005,W,2005_Food_City_500,2005_05,4,19,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,500,144033,running,0,160
+2005,W,2005_Food_City_500,2005_05,4,19,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,500,144033,running,0,160
 2005,W,2005_Food_City_500,2005_05,5,21,88,usa,Dale_Jarrett,Dale Jarrett,UPS,Yates_Racing,Ford,500,128828,running,0,155
 2005,W,2005_Food_City_500,2005_05,6,14,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,500,132986,running,1,155
 2005,W,2005_Food_City_500,2005_05,7,5,77,usa,Travis_Kvapil,Travis Kvapil,Kodak / Jasper Engines,Doug_Bawel,Dodge,500,96595,running,0,146
@@ -189,7 +189,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Food_City_500,2005_05,16,25,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,497,128401,running,50,120
 2005,W,2005_Food_City_500,2005_05,17,8,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,497,110260,running,0,112
 2005,W,2005_Food_City_500,2005_05,18,16,44,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,496,79765,running,10,114
-2005,W,2005_Food_City_500,2005_05,19,27,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,496,110669,running,19,111
+2005,W,2005_Food_City_500,2005_05,19,27,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,496,110669,running,19,111
 2005,W,2005_Food_City_500,2005_05,20,2,07,usa,Dave_Blaney,Dave Blaney,Jack Daniel's,Richard_Childress,Chevrolet,495,93750,running,0,103
 2005,W,2005_Food_City_500,2005_05,21,29,50,usa,Jimmy_Spencer,Jimmy Spencer,U.S. Micro Corporation,Don_Arnold,Dodge,492,79290,running,0,100
 2005,W,2005_Food_City_500,2005_05,22,38,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Chevrolet,468,117315,running,0,97
@@ -226,7 +226,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Advance_Auto_Parts_500,2005_06,10,10,01,usa,Joe_Nemechek,Joe Nemechek,U.S. Army,Nelson_Bowers,Chevrolet,500,103508,running,0,134
 2005,W,2005_Advance_Auto_Parts_500,2005_06,11,18,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,500,118186,running,1,135
 2005,W,2005_Advance_Auto_Parts_500,2005_06,12,12,11,usa,Jason_Leffler,Jason Leffler,FedEx Express,Joe_Gibbs,Chevrolet,500,69375,running,0,127
-2005,W,2005_Advance_Auto_Parts_500,2005_06,13,26,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,500,118133,running,0,124
+2005,W,2005_Advance_Auto_Parts_500,2005_06,13,26,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,500,118133,running,0,124
 2005,W,2005_Advance_Auto_Parts_500,2005_06,14,32,88,usa,Dale_Jarrett,Dale Jarrett,UPS,Yates_Racing,Ford,500,106733,running,0,121
 2005,W,2005_Advance_Auto_Parts_500,2005_06,15,3,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,499,111095,running,68,123
 2005,W,2005_Advance_Auto_Parts_500,2005_06,16,30,31,usa,Jeff_Burton,Jeff Burton,Cingular Wireless,Richard_Childress,Chevrolet,499,98895,running,0,115
@@ -243,7 +243,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Advance_Auto_Parts_500,2005_06,27,17,77,usa,Travis_Kvapil,Travis Kvapil,Kodak / Jasper Engines,Doug_Bawel,Dodge,490,77810,engine,0,82
 2005,W,2005_Advance_Auto_Parts_500,2005_06,28,41,37,usa,Kevin_Lepage,Kevin Lepage,Carter's Royal Dispos-All,John_Carter,Dodge,489,65010,running,0,79
 2005,W,2005_Advance_Auto_Parts_500,2005_06,29,8,16,usa,Greg_Biffle,Greg Biffle,Jackson Hewitt,Jack_Roush,Ford,487,82825,running,0,76
-2005,W,2005_Advance_Auto_Parts_500,2005_06,30,31,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,477,95414,running,0,73
+2005,W,2005_Advance_Auto_Parts_500,2005_06,30,31,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,477,95414,running,0,73
 2005,W,2005_Advance_Auto_Parts_500,2005_06,31,33,22,usa,Scott_Wimmer,Scott Wimmer,Caterpillar,Bill_Davis,Dodge,466,85097,running,0,70
 2005,W,2005_Advance_Auto_Parts_500,2005_06,32,5,29,usa,Kevin_Harvick,Kevin Harvick,GM Goodwrench,Richard_Childress,Chevrolet,436,111661,running,0,67
 2005,W,2005_Advance_Auto_Parts_500,2005_06,33,6,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Chevrolet,435,102225,engine,32,69
@@ -262,10 +262,10 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Samsung_Radio_Shack_500,2005_07,3,18,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,334,216400,running,0,165
 2005,W,2005_Samsung_Radio_Shack_500,2005_07,4,32,41,usa,Casey_Mears,Casey Mears,Fujifilm,Chip_Ganassi,Dodge,334,207908,running,15,165
 2005,W,2005_Samsung_Radio_Shack_500,2005_07,5,13,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Chip_Ganassi,Dodge,334,158700,running,3,160
-2005,W,2005_Samsung_Radio_Shack_500,2005_07,6,21,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,334,146050,running,7,155
+2005,W,2005_Samsung_Radio_Shack_500,2005_07,6,21,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,334,146050,running,7,155
 2005,W,2005_Samsung_Radio_Shack_500,2005_07,7,19,97,usa,Kurt_Busch,Kurt Busch,Irwin Industrial Tools / Sharpie,Jack_Roush,Ford,334,134975,running,2,151
 2005,W,2005_Samsung_Radio_Shack_500,2005_07,8,4,21,usa,Ricky_Rudd,Ricky Rudd,Motorcraft / Rent-A-Center,Wood_Brothers,Ford,334,124675,running,0,142
-2005,W,2005_Samsung_Radio_Shack_500,2005_07,9,11,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,334,117375,running,0,138
+2005,W,2005_Samsung_Radio_Shack_500,2005_07,9,11,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,334,117375,running,0,138
 2005,W,2005_Samsung_Radio_Shack_500,2005_07,10,6,2,usa,Rusty_Wallace,Rusty Wallace,Kodak / Miller Lite,Roger_Penske,Dodge,334,119200,running,0,134
 2005,W,2005_Samsung_Radio_Shack_500,2005_07,11,2,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,334,123850,running,34,135
 2005,W,2005_Samsung_Radio_Shack_500,2005_07,12,41,31,usa,Jeff_Burton,Jeff Burton,Cingular Wireless,Richard_Childress,Chevrolet,334,115850,running,0,127
@@ -301,9 +301,9 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Samsung_Radio_Shack_500,2005_07,42,36,22,usa,Scott_Wimmer,Scott Wimmer,Caterpillar,Bill_Davis,Dodge,39,74225,crash,0,37
 2005,W,2005_Samsung_Radio_Shack_500,2005_07,43,23,43,usa,Jeff_Green,Jeff Green,Cheerios / Pillsbury Bake-Off,Petty_Enterprises,Dodge,31,74439,crash,0,34
 2005,W,2005_Subway_Fresh_500,2005_08,1,2,97,usa,Kurt_Busch,Kurt Busch,Irwin Industrial Tools / Sharpie,Jack_Roush,Ford,312,264000,running,219,190
-2005,W,2005_Subway_Fresh_500,2005_08,2,28,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,312,181939,running,23,175
+2005,W,2005_Subway_Fresh_500,2005_08,2,28,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,312,181939,running,23,175
 2005,W,2005_Subway_Fresh_500,2005_08,3,20,31,usa,Jeff_Burton,Jeff Burton,Cingular Wireless,Richard_Childress,Chevrolet,312,147995,running,0,165
-2005,W,2005_Subway_Fresh_500,2005_08,4,15,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,312,150018,running,0,160
+2005,W,2005_Subway_Fresh_500,2005_08,4,15,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,312,150018,running,0,160
 2005,W,2005_Subway_Fresh_500,2005_08,5,5,25,usa,Brian_Vickers,Brian Vickers,ditech.com / GMAC,Rick_Hendrick,Chevrolet,312,110325,running,50,160
 2005,W,2005_Subway_Fresh_500,2005_08,6,4,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Chevrolet,312,121950,running,0,150
 2005,W,2005_Subway_Fresh_500,2005_08,7,11,99,usa,Carl_Edwards,Carl Edwards,Scotts,Jack_Roush,Ford,312,94775,running,0,146
@@ -345,7 +345,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Subway_Fresh_500,2005_08,43,41,00,usa,Carl_Long,Carl Long,Buyer's Choice Auto Warranties,Raynard_McGlynn,Chevrolet,52,58935,engine,0,34
 2005,W,2005_Aaron%27s_499,2005_09,1,2,24,usa,Jeff_Gordon,Jeff Gordon,DuPont / Pepsi / Star Wars Episode III,Rick_Hendrick,Chevrolet,194,355116,running,139,190
 2005,W,2005_Aaron%27s_499,2005_09,2,11,20,usa,Tony_Stewart,Tony Stewart,The Home Depot,Joe_Gibbs,Chevrolet,194,243616,running,2,175
-2005,W,2005_Aaron%27s_499,2005_09,3,38,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,194,197294,running,2,170
+2005,W,2005_Aaron%27s_499,2005_09,3,38,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,194,197294,running,2,170
 2005,W,2005_Aaron%27s_499,2005_09,4,22,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,194,165925,running,0,160
 2005,W,2005_Aaron%27s_499,2005_09,5,13,42,usa,Jamie_McMurray,Jamie McMurray,Texaco / Havoline,Chip_Ganassi,Dodge,194,128840,running,0,155
 2005,W,2005_Aaron%27s_499,2005_09,6,3,38,usa,Elliott_Sadler,Elliott Sadler,M&M's,Yates_Racing,Ford,194,145896,running,9,155
@@ -357,13 +357,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Aaron%27s_499,2005_09,12,1,29,usa,Kevin_Harvick,Kevin Harvick,GM Goodwrench,Richard_Childress,Chevrolet,194,139706,running,12,132
 2005,W,2005_Aaron%27s_499,2005_09,13,29,16,usa,Greg_Biffle,Greg Biffle,National Guard / Charter Communications,Jack_Roush,Ford,194,105690,running,2,129
 2005,W,2005_Aaron%27s_499,2005_09,14,26,41,usa,Casey_Mears,Casey Mears,Target,Chip_Ganassi,Dodge,193,116093,running,0,121
-2005,W,2005_Aaron%27s_499,2005_09,15,36,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,193,133213,running,3,123
+2005,W,2005_Aaron%27s_499,2005_09,15,36,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,193,133213,running,3,123
 2005,W,2005_Aaron%27s_499,2005_09,16,43,09,usa,Johnny_Sauter,Johnny Sauter,Miccosukee Gaming & Resorts,James_Finch,Dodge,192,93165,running,0,115
 2005,W,2005_Aaron%27s_499,2005_09,17,31,33,usa,Kerry_Earnhardt,Kerry Earnhardt,Bass Pro Shops / Tracker Boats,Richard_Childress,Chevrolet,190,82950,running,0,112
 2005,W,2005_Aaron%27s_499,2005_09,18,9,77,usa,Travis_Kvapil,Travis Kvapil,Kodak / Jasper Engines,Doug_Bawel,Dodge,188,95510,crash,0,109
 2005,W,2005_Aaron%27s_499,2005_09,19,8,07,usa,Dave_Blaney,Dave Blaney,Jack Daniel's,Richard_Childress,Chevrolet,187,93820,running,0,106
 2005,W,2005_Aaron%27s_499,2005_09,20,6,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,186,131301,crash,8,108
-2005,W,2005_Aaron%27s_499,2005_09,21,32,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,"Dale_Earnhardt,_Inc.",Chevrolet,186,80120,crash,0,100
+2005,W,2005_Aaron%27s_499,2005_09,21,32,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker Boats,Dale_Earnhardt_Inc,Chevrolet,186,80120,crash,0,100
 2005,W,2005_Aaron%27s_499,2005_09,22,20,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,180,114133,running,0,97
 2005,W,2005_Aaron%27s_499,2005_09,23,15,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Chevrolet,174,117915,engine,1,99
 2005,W,2005_Aaron%27s_499,2005_09,24,19,9,usa,Kasey_Kahne,Kasey Kahne,Dodge Dealers / UAW / The Longest Yard,Ray_Evernham,Dodge,172,113760,running,0,91
@@ -393,7 +393,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Dodge_Charger_500,2005_10,5,2,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,370,161216,running,47,160
 2005,W,2005_Dodge_Charger_500,2005_10,6,13,42,usa,Jamie_McMurray,Jamie McMurray,Texaco / Havoline,Chip_Ganassi,Dodge,370,108775,running,0,150
 2005,W,2005_Dodge_Charger_500,2005_10,7,9,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,370,136166,running,55,151
-2005,W,2005_Dodge_Charger_500,2005_10,8,39,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,370,134333,running,0,142
+2005,W,2005_Dodge_Charger_500,2005_10,8,39,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,370,134333,running,0,142
 2005,W,2005_Dodge_Charger_500,2005_10,9,10,99,usa,Carl_Edwards,Carl Edwards,Office Depot / Scotts,Jack_Roush,Ford,370,100525,running,4,143
 2005,W,2005_Dodge_Charger_500,2005_10,10,15,20,usa,Tony_Stewart,Tony Stewart,The Home Depot,Joe_Gibbs,Chevrolet,370,131586,running,0,134
 2005,W,2005_Dodge_Charger_500,2005_10,11,27,01,usa,Joe_Nemechek,Joe Nemechek,U.S. Army,Nelson_Bowers,Chevrolet,370,109583,running,2,135
@@ -419,7 +419,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Dodge_Charger_500,2005_10,31,43,92,usa,Stanton_Barrett,Stanton Barrett,Front Row Motorsports,Bob_Jenkins,Chevrolet,365,66750,running,0,70
 2005,W,2005_Dodge_Charger_500,2005_10,32,38,37,usa,Kevin_Lepage,Kevin Lepage,R&J Racing,John_Carter,Dodge,363,66575,running,1,72
 2005,W,2005_Dodge_Charger_500,2005_10,33,8,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,333,96195,crash,1,69
-2005,W,2005_Dodge_Charger_500,2005_10,34,19,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,330,93489,running,0,61
+2005,W,2005_Dodge_Charger_500,2005_10,34,19,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,330,93489,running,0,61
 2005,W,2005_Dodge_Charger_500,2005_10,35,17,77,usa,Travis_Kvapil,Travis Kvapil,Kodak / Jasper Engines,Doug_Bawel,Dodge,323,74050,running,0,58
 2005,W,2005_Dodge_Charger_500,2005_10,36,18,10,usa,Scott_Riggs,Scott Riggs,Valvoline,James_Rocco,Chevrolet,311,83447,running,0,55
 2005,W,2005_Dodge_Charger_500,2005_10,37,11,97,usa,Kurt_Busch,Kurt Busch,Irwin Industrial Tools / Sharpie,Jack_Roush,Ford,306,118125,running,0,52
@@ -437,12 +437,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Chevy_American_Revolution_400,2005_11,6,9,16,usa,Greg_Biffle,Greg Biffle,National Guard,Jack_Roush,Ford,400,103225,running,0,150
 2005,W,2005_Chevy_American_Revolution_400,2005_11,7,5,38,usa,Elliott_Sadler,Elliott Sadler,M&M's,Yates_Racing,Ford,400,117341,running,0,146
 2005,W,2005_Chevy_American_Revolution_400,2005_11,8,39,18,usa,Bobby_Labonte,Bobby Labonte,Boniva,Joe_Gibbs,Chevrolet,400,118100,running,0,142
-2005,W,2005_Chevy_American_Revolution_400,2005_11,9,23,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,400,105914,running,0,138
+2005,W,2005_Chevy_American_Revolution_400,2005_11,9,23,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,400,105914,running,0,138
 2005,W,2005_Chevy_American_Revolution_400,2005_11,10,17,42,usa,Jamie_McMurray,Jamie McMurray,Texaco / Havoline,Chip_Ganassi,Dodge,400,87600,running,0,134
 2005,W,2005_Chevy_American_Revolution_400,2005_11,11,6,21,usa,Ricky_Rudd,Ricky Rudd,Motorcraft Genuine Parts,Wood_Brothers,Ford,400,101214,running,0,130
 2005,W,2005_Chevy_American_Revolution_400,2005_11,12,26,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,400,116746,running,2,132
 2005,W,2005_Chevy_American_Revolution_400,2005_11,13,15,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,400,98720,running,0,124
-2005,W,2005_Chevy_American_Revolution_400,2005_11,14,27,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,400,113633,running,0,121
+2005,W,2005_Chevy_American_Revolution_400,2005_11,14,27,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,400,113633,running,0,121
 2005,W,2005_Chevy_American_Revolution_400,2005_11,15,14,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,400,84755,running,0,118
 2005,W,2005_Chevy_American_Revolution_400,2005_11,16,12,31,usa,Jeff_Burton,Jeff Burton,Cingular Wireless,Richard_Childress,Chevrolet,400,95295,running,0,115
 2005,W,2005_Chevy_American_Revolution_400,2005_11,17,4,97,usa,Kurt_Busch,Kurt Busch,Irwin Industrial Tools / Sharpie,Jack_Roush,Ford,400,116695,running,11,117
@@ -478,7 +478,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Coca-Cola_600,2005_12,4,36,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,400,175195,running,0,160
 2005,W,2005_Coca-Cola_600,2005_12,5,1,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,400,238191,running,43,160
 2005,W,2005_Coca-Cola_600,2005_12,6,29,16,usa,Greg_Biffle,Greg Biffle,National Guard / Charter Communications,Jack_Roush,Ford,400,134725,running,1,155
-2005,W,2005_Coca-Cola_600,2005_12,7,30,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker,"Dale_Earnhardt,_Inc.",Chevrolet,400,111500,running,4,151
+2005,W,2005_Coca-Cola_600,2005_12,7,30,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker,Dale_Earnhardt_Inc,Chevrolet,400,111500,running,4,151
 2005,W,2005_Coca-Cola_600,2005_12,8,7,88,usa,Dale_Jarrett,Dale Jarrett,UPS,Yates_Racing,Ford,400,144208,running,0,142
 2005,W,2005_Coca-Cola_600,2005_12,9,21,49,usa,Ken_Schrader,Ken Schrader,Schwan's Home Service,Beth_Ann_Morgenthau,Dodge,400,106150,running,6,143
 2005,W,2005_Coca-Cola_600,2005_12,10,20,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,400,144958,running,15,139
@@ -504,10 +504,10 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Coca-Cola_600,2005_12,30,2,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,382,140261,crash,49,78
 2005,W,2005_Coca-Cola_600,2005_12,31,14,25,usa,Brian_Vickers,Brian Vickers,GMAC / ditech.com,Rick_Hendrick,Chevrolet,379,104475,crash,98,80
 2005,W,2005_Coca-Cola_600,2005_12,32,18,77,usa,Travis_Kvapil,Travis Kvapil,Kodak / Jasper Engines,Doug_Bawel,Dodge,376,93750,running,23,72
-2005,W,2005_Coca-Cola_600,2005_12,33,15,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,373,128983,running,0,64
+2005,W,2005_Coca-Cola_600,2005_12,33,15,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,373,128983,running,0,64
 2005,W,2005_Coca-Cola_600,2005_12,34,24,41,usa,Casey_Mears,Casey Mears,Target,Chip_Ganassi,Dodge,338,98017,running,1,66
 2005,W,2005_Coca-Cola_600,2005_12,35,16,21,usa,Ricky_Rudd,Ricky Rudd,U.S. Air Force / Motorcraft,Wood_Brothers,Ford,305,107489,engine,1,63
-2005,W,2005_Coca-Cola_600,2005_12,36,23,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,245,107364,crash,1,60
+2005,W,2005_Coca-Cola_600,2005_12,36,23,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,245,107364,crash,1,60
 2005,W,2005_Coca-Cola_600,2005_12,37,3,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,245,131456,crash,0,52
 2005,W,2005_Coca-Cola_600,2005_12,38,26,44,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,245,79910,crash,17,54
 2005,W,2005_Coca-Cola_600,2005_12,39,41,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Chip_Ganassi,Dodge,215,107708,crash,0,46
@@ -527,7 +527,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_MBNA_RacePoints_400,2005_13,10,3,38,usa,Elliott_Sadler,Elliott Sadler,M&M's,Yates_Racing,Ford,400,138851,running,128,139
 2005,W,2005_MBNA_RacePoints_400,2005_13,11,21,10,usa,Scott_Riggs,Scott Riggs,Valvoline,James_Rocco,Chevrolet,400,114758,running,0,130
 2005,W,2005_MBNA_RacePoints_400,2005_13,12,17,31,usa,Jeff_Burton,Jeff Burton,Cingular Wireless GoPhone,Richard_Childress,Chevrolet,399,113830,running,0,127
-2005,W,2005_MBNA_RacePoints_400,2005_13,13,18,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,399,116759,running,0,124
+2005,W,2005_MBNA_RacePoints_400,2005_13,13,18,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,399,116759,running,0,124
 2005,W,2005_MBNA_RacePoints_400,2005_13,14,13,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,399,113305,running,0,121
 2005,W,2005_MBNA_RacePoints_400,2005_13,15,6,20,usa,Tony_Stewart,Tony Stewart,The Home Depot,Joe_Gibbs,Chevrolet,399,130496,running,0,118
 2005,W,2005_MBNA_RacePoints_400,2005_13,16,8,99,usa,Carl_Edwards,Carl Edwards,Office Depot,Jack_Roush,Ford,398,98060,running,0,115
@@ -536,7 +536,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_MBNA_RacePoints_400,2005_13,19,30,45,usa,Kyle_Petty,Kyle Petty,Georgia-Pacific / Brawny,Petty_Enterprises,Dodge,398,98078,running,0,106
 2005,W,2005_MBNA_RacePoints_400,2005_13,20,36,11,usa,Jason_Leffler,Jason Leffler,FedEx Freight,Joe_Gibbs,Chevrolet,398,83320,running,0,103
 2005,W,2005_MBNA_RacePoints_400,2005_13,21,38,32,usa,Bobby_Hamilton_Jr,"Bobby Hamilton, Jr.",Tide to Go,Cal_Wells,Chevrolet,398,94768,running,0,100
-2005,W,2005_MBNA_RacePoints_400,2005_13,22,15,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,397,123968,running,0,97
+2005,W,2005_MBNA_RacePoints_400,2005_13,22,15,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,397,123968,running,0,97
 2005,W,2005_MBNA_RacePoints_400,2005_13,23,14,88,usa,Dale_Jarrett,Dale Jarrett,UPS,Yates_Racing,Ford,397,114518,running,0,94
 2005,W,2005_MBNA_RacePoints_400,2005_13,24,28,41,usa,Casey_Mears,Casey Mears,Target,Chip_Ganassi,Dodge,397,98413,running,0,91
 2005,W,2005_MBNA_RacePoints_400,2005_13,25,7,29,usa,Kevin_Harvick,Kevin Harvick,GM Goodwrench,Richard_Childress,Chevrolet,396,122216,running,0,88
@@ -562,7 +562,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Pocono_500,2005_14,2,3,25,usa,Brian_Vickers,Brian Vickers,ditech.com / GMAC,Rick_Hendrick,Chevrolet,201,169275,running,121,180
 2005,W,2005_Pocono_500,2005_14,3,18,01,usa,Joe_Nemechek,Joe Nemechek,U.S. Army,Nelson_Bowers,Chevrolet,201,145358,running,0,165
 2005,W,2005_Pocono_500,2005_14,4,38,5,usa,Kyle_Busch,Kyle Busch,Kellogg's,Rick_Hendrick,Chevrolet,201,120025,running,0,160
-2005,W,2005_Pocono_500,2005_14,5,1,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,201,135239,running,29,160
+2005,W,2005_Pocono_500,2005_14,5,1,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,201,135239,running,29,160
 2005,W,2005_Pocono_500,2005_14,6,21,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,201,124841,running,0,150
 2005,W,2005_Pocono_500,2005_14,7,13,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,201,109125,running,0,146
 2005,W,2005_Pocono_500,2005_14,8,8,29,usa,Kevin_Harvick,Kevin Harvick,GM Goodwrench,Richard_Childress,Chevrolet,201,125011,running,0,142
@@ -590,7 +590,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Pocono_500,2005_14,30,23,16,usa,Greg_Biffle,Greg Biffle,Post-it / National Guard,Jack_Roush,Ford,198,78975,running,0,73
 2005,W,2005_Pocono_500,2005_14,31,42,4,usa,Mike_Wallace,Mike Wallace,Lucas Oil Products,Larry_McClure,Chevrolet,198,60325,running,1,75
 2005,W,2005_Pocono_500,2005_14,32,10,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,197,108111,running,0,67
-2005,W,2005_Pocono_500,2005_14,33,34,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,195,108333,running,0,64
+2005,W,2005_Pocono_500,2005_14,33,34,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,195,108333,running,0,64
 2005,W,2005_Pocono_500,2005_14,34,17,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,194,104766,crash,0,61
 2005,W,2005_Pocono_500,2005_14,35,9,0,usa,Mike_Bliss,Mike Bliss,NetZero / Best Buy,Gene_Haas,Chevrolet,194,59625,running,0,58
 2005,W,2005_Pocono_500,2005_14,36,11,22,usa,Scott_Wimmer,Scott Wimmer,Caterpillar,Bill_Davis,Dodge,170,79063,suspension,0,55
@@ -607,7 +607,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Batman_Begins_400,2005_15,4,21,17,usa,Matt_Kenseth,Matt Kenseth,Carhartt,Jack_Roush,Ford,200,138261,running,0,160
 2005,W,2005_Batman_Begins_400,2005_15,5,23,99,usa,Carl_Edwards,Carl Edwards,AAA / Office Depot,Jack_Roush,Ford,200,98650,running,0,155
 2005,W,2005_Batman_Begins_400,2005_15,6,11,01,usa,Joe_Nemechek,Joe Nemechek,U.S. Army,Nelson_Bowers,Chevrolet,200,110148,running,1,155
-2005,W,2005_Batman_Begins_400,2005_15,7,30,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,200,116454,running,3,151
+2005,W,2005_Batman_Begins_400,2005_15,7,30,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,200,116454,running,3,151
 2005,W,2005_Batman_Begins_400,2005_15,8,18,38,usa,Elliott_Sadler,Elliott Sadler,M&M's,Yates_Racing,Ford,200,126106,running,0,142
 2005,W,2005_Batman_Begins_400,2005_15,9,17,5,usa,Kyle_Busch,Kyle Busch,Kellogg's,Rick_Hendrick,Chevrolet,200,89265,running,0,138
 2005,W,2005_Batman_Begins_400,2005_15,10,12,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,200,110548,running,0,134
@@ -617,7 +617,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Batman_Begins_400,2005_15,14,6,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Chevrolet,200,110915,running,0,121
 2005,W,2005_Batman_Begins_400,2005_15,15,1,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,200,122781,running,3,123
 2005,W,2005_Batman_Begins_400,2005_15,16,22,22,usa,Scott_Wimmer,Scott Wimmer,Caterpillar,Bill_Davis,Dodge,200,101798,running,0,115
-2005,W,2005_Batman_Begins_400,2005_15,17,41,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,200,118448,running,0,112
+2005,W,2005_Batman_Begins_400,2005_15,17,41,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,200,118448,running,0,112
 2005,W,2005_Batman_Begins_400,2005_15,18,4,9,usa,Kasey_Kahne,Kasey Kahne,Dodge Dealers / UAW,Ray_Evernham,Dodge,200,106965,running,0,109
 2005,W,2005_Batman_Begins_400,2005_15,19,16,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,200,118881,running,2,111
 2005,W,2005_Batman_Begins_400,2005_15,20,26,11,usa,Jason_Leffler,Jason Leffler,FedEx / Kinko's,Joe_Gibbs,Chevrolet,200,75890,running,0,103
@@ -665,7 +665,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Dodge_Save_Mart_350,2005_16,19,29,07,usa,Dave_Blaney,Dave Blaney,Jack Daniel's,Richard_Childress,Chevrolet,110,84250,running,0,106
 2005,W,2005_Dodge_Save_Mart_350,2005_16,20,36,41,usa,Casey_Mears,Casey Mears,Target,Chip_Ganassi,Dodge,110,103033,running,0,103
 2005,W,2005_Dodge_Save_Mart_350,2005_16,21,39,77,usa,Travis_Kvapil,Travis Kvapil,Kodak / Jasper Engines,Doug_Bawel,Dodge,110,84475,running,0,100
-2005,W,2005_Dodge_Save_Mart_350,2005_16,22,34,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,110,101539,running,0,97
+2005,W,2005_Dodge_Save_Mart_350,2005_16,22,34,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,110,101539,running,0,97
 2005,W,2005_Dodge_Save_Mart_350,2005_16,23,12,01,usa,Joe_Nemechek,Joe Nemechek,U.S. Army,Nelson_Bowers,Chevrolet,110,96808,running,0,94
 2005,W,2005_Dodge_Save_Mart_350,2005_16,24,16,10,usa,Scott_Riggs,Scott Riggs,Valvoline,James_Rocco,Chevrolet,110,92688,running,0,91
 2005,W,2005_Dodge_Save_Mart_350,2005_16,25,27,22,usa,Scott_Wimmer,Scott Wimmer,Caterpillar,Bill_Davis,Dodge,110,90367,running,0,88
@@ -685,11 +685,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Dodge_Save_Mart_350,2005_16,39,31,0,usa,Mike_Bliss,Mike Bliss,NetZero / Best Buy,Gene_Haas,Chevrolet,102,66325,running,0,46
 2005,W,2005_Dodge_Save_Mart_350,2005_16,40,13,5,usa,Kyle_Busch,Kyle Busch,Kellogg's,Rick_Hendrick,Chevrolet,97,74200,running,0,43
 2005,W,2005_Dodge_Save_Mart_350,2005_16,41,26,9,usa,Kasey_Kahne,Kasey Kahne,Dodge Dealers / UAW,Ray_Evernham,Dodge,92,98150,running,0,40
-2005,W,2005_Dodge_Save_Mart_350,2005_16,42,10,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,88,113383,running,0,37
+2005,W,2005_Dodge_Save_Mart_350,2005_16,42,10,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,88,113383,running,0,37
 2005,W,2005_Dodge_Save_Mart_350,2005_16,43,35,27,usa,Tom_Hubert,Tom Hubert,Freddie B's / Napa,Kirk_Shelmerdine,Ford,33,66203,oil pressure,0,34
 2005,W,2005_Pepsi_400,2005_17,1,1,20,usa,Tony_Stewart,Tony Stewart,The Home Depot,Joe_Gibbs,Chevrolet,160,368261,running,151,190
 2005,W,2005_Pepsi_400,2005_17,2,33,42,usa,Jamie_McMurray,Jamie McMurray,Home123 Corp.,Chip_Ganassi,Dodge,160,201750,running,0,170
-2005,W,2005_Pepsi_400,2005_17,3,39,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,160,207108,running,0,165
+2005,W,2005_Pepsi_400,2005_17,3,39,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,160,207108,running,0,165
 2005,W,2005_Pepsi_400,2005_17,4,9,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,160,159608,running,0,160
 2005,W,2005_Pepsi_400,2005_17,5,13,88,usa,Dale_Jarrett,Dale Jarrett,UPS,Yates_Racing,Ford,160,157683,running,1,160
 2005,W,2005_Pepsi_400,2005_17,6,3,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,160,156416,running,0,150
@@ -726,11 +726,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Pepsi_400,2005_17,37,28,97,usa,Kurt_Busch,Kurt Busch,Smirnoff Ice,Jack_Roush,Ford,102,131750,running,0,52
 2005,W,2005_Pepsi_400,2005_17,38,12,32,usa,Bobby_Hamilton_Jr,"Bobby Hamilton, Jr.",Tide,Cal_Wells,Chevrolet,101,90833,crash,0,49
 2005,W,2005_Pepsi_400,2005_17,39,23,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,88,97050,running,0,46
-2005,W,2005_Pepsi_400,2005_17,40,17,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,87,106114,crash,0,43
+2005,W,2005_Pepsi_400,2005_17,40,17,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,87,106114,crash,0,43
 2005,W,2005_Pepsi_400,2005_17,41,2,10,usa,Scott_Riggs,Scott Riggs,Valvoline / Herbie: Fully Loaded,James_Rocco,Chevrolet,64,97372,running,0,40
 2005,W,2005_Pepsi_400,2005_17,42,10,33,usa,Kerry_Earnhardt,Kerry Earnhardt,Bass Pro Shops / Tracker,Richard_Childress,Chevrolet,53,78665,brakes,0,37
 2005,W,2005_Pepsi_400,2005_17,43,29,41,usa,Casey_Mears,Casey Mears,Target,Chip_Ganassi,Dodge,35,86874,crash,0,34
-2005,W,2005_USG_Sheetrock_400,2005_18,1,25,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser / MLB All-Star Game,"Dale_Earnhardt,_Inc.",Chevrolet,267,325033,running,11,185
+2005,W,2005_USG_Sheetrock_400,2005_18,1,25,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser / MLB All-Star Game,Dale_Earnhardt_Inc,Chevrolet,267,325033,running,11,185
 2005,W,2005_USG_Sheetrock_400,2005_18,2,4,17,usa,Matt_Kenseth,Matt Kenseth,USG Sheetrock,Jack_Roush,Ford,267,265201,running,176,180
 2005,W,2005_USG_Sheetrock_400,2005_18,3,1,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,267,217266,running,21,170
 2005,W,2005_USG_Sheetrock_400,2005_18,4,5,25,usa,Brian_Vickers,Brian Vickers,GMAC / ditech.com,Rick_Hendrick,Chevrolet,267,146300,running,0,160
@@ -765,7 +765,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_USG_Sheetrock_400,2005_18,33,14,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,249,126211,crash,0,64
 2005,W,2005_USG_Sheetrock_400,2005_18,34,11,0,usa,Mike_Bliss,Mike Bliss,NetZero / Best Buy,Gene_Haas,Chevrolet,249,76325,crash,0,61
 2005,W,2005_USG_Sheetrock_400,2005_18,35,12,7,usa,Robby_Gordon,Robby Gordon,Menards,Robby_Gordon,Chevrolet,222,76125,running,0,58
-2005,W,2005_USG_Sheetrock_400,2005_18,36,27,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,214,103139,crash,0,55
+2005,W,2005_USG_Sheetrock_400,2005_18,36,27,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,214,103139,crash,0,55
 2005,W,2005_USG_Sheetrock_400,2005_18,37,23,38,usa,Elliott_Sadler,Elliott Sadler,Combos,Yates_Racing,Ford,210,115691,running,0,52
 2005,W,2005_USG_Sheetrock_400,2005_18,38,10,07,usa,Dave_Blaney,Dave Blaney,Jack Daniel's,Richard_Childress,Chevrolet,200,83500,handling,0,49
 2005,W,2005_USG_Sheetrock_400,2005_18,39,21,99,usa,Carl_Edwards,Carl Edwards,Office Depot,Jack_Roush,Ford,170,93290,running,0,46
@@ -781,7 +781,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_New_England_300,2005_19,6,2,9,usa,Kasey_Kahne,Kasey Kahne,Dodge Dealers / UAW,Ray_Evernham,Dodge,300,133600,running,18,155
 2005,W,2005_New_England_300,2005_19,7,4,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,300,132116,running,22,151
 2005,W,2005_New_England_300,2005_19,8,6,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,300,113933,running,0,142
-2005,W,2005_New_England_300,2005_19,9,24,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,300,126508,running,0,138
+2005,W,2005_New_England_300,2005_19,9,24,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,300,126508,running,0,138
 2005,W,2005_New_England_300,2005_19,10,16,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,300,127486,running,0,134
 2005,W,2005_New_England_300,2005_19,11,1,25,usa,Brian_Vickers,Brian Vickers,ditech.com / GMAC,Rick_Hendrick,Chevrolet,300,94300,running,10,135
 2005,W,2005_New_England_300,2005_19,12,20,99,usa,Carl_Edwards,Carl Edwards,Office Depot,Jack_Roush,Ford,300,92300,running,0,127
@@ -789,7 +789,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_New_England_300,2005_19,14,25,31,usa,Jeff_Burton,Jeff Burton,Cingular Wireless,Richard_Childress,Chevrolet,300,102445,running,0,121
 2005,W,2005_New_England_300,2005_19,15,19,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,300,90400,running,0,118
 2005,W,2005_New_England_300,2005_19,16,34,88,usa,Dale_Jarrett,Dale Jarrett,UPS,Yates_Racing,Ford,300,123858,running,0,115
-2005,W,2005_New_England_300,2005_19,17,28,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,300,102764,running,0,112
+2005,W,2005_New_England_300,2005_19,17,28,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,300,102764,running,0,112
 2005,W,2005_New_England_300,2005_19,18,22,01,usa,Joe_Nemechek,Joe Nemechek,U.S. Army,Nelson_Bowers,Chevrolet,300,100108,running,0,109
 2005,W,2005_New_England_300,2005_19,19,11,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,299,99995,running,0,106
 2005,W,2005_New_England_300,2005_19,20,37,07,usa,Dave_Blaney,Dave Blaney,Jack Daniel's,Richard_Childress,Chevrolet,299,83400,running,0,103
@@ -841,13 +841,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Pennsylvania_500,2005_20,23,27,32,usa,Bobby_Hamilton_Jr,"Bobby Hamilton, Jr.",Tide,Cal_Wells,Chevrolet,203,80083,running,0,94
 2005,W,2005_Pennsylvania_500,2005_20,24,19,11,usa,Jason_Leffler,Jason Leffler,FedEx Ground,Joe_Gibbs,Chevrolet,203,64750,running,0,91
 2005,W,2005_Pennsylvania_500,2005_20,25,11,22,usa,Scott_Wimmer,Scott Wimmer,Caterpillar,Bill_Davis,Dodge,203,84483,running,0,88
-2005,W,2005_Pennsylvania_500,2005_20,26,24,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,203,91389,running,0,85
+2005,W,2005_Pennsylvania_500,2005_20,26,24,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,203,91389,running,0,85
 2005,W,2005_Pennsylvania_500,2005_20,27,15,9,usa,Kasey_Kahne,Kasey Kahne,Dodge Dealers / UAW,Ray_Evernham,Dodge,202,96000,running,0,82
 2005,W,2005_Pennsylvania_500,2005_20,28,25,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Chip_Ganassi,Dodge,202,91683,running,0,79
 2005,W,2005_Pennsylvania_500,2005_20,29,31,4,usa,Mike_Wallace,Mike Wallace,Lucas / Wide Open Energy Drink,Larry_McClure,Chevrolet,202,63125,running,1,81
 2005,W,2005_Pennsylvania_500,2005_20,30,33,45,usa,Kyle_Petty,Kyle Petty,Chick-Fil-A / Kyle Petty Charity Ride,Petty_Enterprises,Dodge,202,70522,running,0,73
 2005,W,2005_Pennsylvania_500,2005_20,31,12,49,usa,Ken_Schrader,Ken Schrader,Schwan's Home Service,Beth_Ann_Morgenthau,Dodge,202,60325,running,0,70
-2005,W,2005_Pennsylvania_500,2005_20,32,38,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,201,107583,running,0,67
+2005,W,2005_Pennsylvania_500,2005_20,32,38,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,201,107583,running,0,67
 2005,W,2005_Pennsylvania_500,2005_20,33,18,10,usa,Scott_Riggs,Scott Riggs,Valvoline,James_Rocco,Chevrolet,201,68925,running,0,64
 2005,W,2005_Pennsylvania_500,2005_20,34,32,66,usa,Mike_Garvey,Mike Garvey,Peak Fitness,Jeff_Stec,Ford,201,61275,running,0,61
 2005,W,2005_Pennsylvania_500,2005_20,35,37,37,usa,Kevin_Lepage,Kevin Lepage,BoSPOKER.net,John_Carter,Dodge,201,59625,running,0,58
@@ -874,7 +874,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Allstate_400_At_The_Brickyard,2005_21,13,28,45,usa,Kyle_Petty,Kyle Petty,Georgia-Pacific / Marsh Stores,Petty_Enterprises,Dodge,160,169983,running,1,129
 2005,W,2005_Allstate_400_At_The_Brickyard,2005_21,14,24,88,usa,Dale_Jarrett,Dale Jarrett,UPS,Yates_Racing,Ford,160,187333,running,0,121
 2005,W,2005_Allstate_400_At_The_Brickyard,2005_21,15,15,43,usa,Jeff_Green,Jeff Green,Box Tops for Education / Cheerios,Petty_Enterprises,Dodge,160,181561,running,0,118
-2005,W,2005_Allstate_400_At_The_Brickyard,2005_21,16,3,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,160,179739,running,0,115
+2005,W,2005_Allstate_400_At_The_Brickyard,2005_21,16,3,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,160,179739,running,0,115
 2005,W,2005_Allstate_400_At_The_Brickyard,2005_21,17,23,42,usa,Jamie_McMurray,Jamie McMurray,Texaco / Havoline,Chip_Ganassi,Dodge,160,156900,running,0,112
 2005,W,2005_Allstate_400_At_The_Brickyard,2005_21,18,37,97,usa,Kurt_Busch,Kurt Busch,Crown Royal,Jack_Roush,Ford,160,206825,running,0,109
 2005,W,2005_Allstate_400_At_The_Brickyard,2005_21,19,14,29,usa,Kevin_Harvick,Kevin Harvick,"GM Goodwrench 20 Years ""Brickyard 400""",Richard_Childress,Chevrolet,160,190336,running,0,106
@@ -900,8 +900,8 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Allstate_400_At_The_Brickyard,2005_21,39,25,32,usa,Bobby_Hamilton_Jr,"Bobby Hamilton, Jr.",Tide,Cal_Wells,Chevrolet,119,131080,running,0,46
 2005,W,2005_Allstate_400_At_The_Brickyard,2005_21,40,36,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries / Victory Tribute,Joe_Gibbs,Chevrolet,116,165575,crash,0,43
 2005,W,2005_Allstate_400_At_The_Brickyard,2005_21,41,9,21,usa,Ricky_Rudd,Ricky Rudd,Motorcraft Genuine Parts,Wood_Brothers,Ford,73,158109,crash,0,40
-2005,W,2005_Allstate_400_At_The_Brickyard,2005_21,42,17,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker,"Dale_Earnhardt,_Inc.",Chevrolet,62,130790,crash,0,37
-2005,W,2005_Allstate_400_At_The_Brickyard,2005_21,43,27,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,62,178444,crash,0,34
+2005,W,2005_Allstate_400_At_The_Brickyard,2005_21,42,17,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker,Dale_Earnhardt_Inc,Chevrolet,62,130790,crash,0,37
+2005,W,2005_Allstate_400_At_The_Brickyard,2005_21,43,27,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,62,178444,crash,0,34
 2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,1,1,20,usa,Tony_Stewart,Tony Stewart,The Home Depot,Joe_Gibbs,Chevrolet,92,269006,running,83,190
 2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,2,39,7,usa,Robby_Gordon,Robby Gordon,Jim Beam,Robby_Gordon,Chevrolet,92,151345,running,2,175
 2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,3,41,36,usa,Boris_Said,Boris Said,Centrix Financial,Bob_Sutton,Chevrolet,92,116460,running,0,165
@@ -911,7 +911,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,7,6,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,92,94960,running,0,146
 2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,8,22,25,usa,Brian_Vickers,Brian Vickers,ditech.com / GMAC,Rick_Hendrick,Chevrolet,92,83060,running,0,142
 2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,9,17,01,usa,Joe_Nemechek,Joe Nemechek,U.S. Army,Nelson_Bowers,Chevrolet,92,99638,running,0,138
-2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,10,16,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,92,117948,running,0,134
+2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,10,16,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,92,117948,running,0,134
 2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,11,8,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,92,97325,running,0,130
 2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,12,12,38,usa,Elliott_Sadler,Elliott Sadler,M&M's,Yates_Racing,Ford,92,105641,running,0,127
 2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,13,11,42,usa,Jamie_McMurray,Jamie McMurray,Home123 Corp.,Chip_Ganassi,Dodge,92,76675,running,0,124
@@ -928,7 +928,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,24,32,43,usa,Jeff_Green,Jeff Green,Cheerios / Betty Crocker,Petty_Enterprises,Dodge,92,91496,running,0,91
 2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,25,37,32,canada,Ron_Fellows,Ron Fellows,Tide,Cal_Wells,Chevrolet,92,72272,running,0,88
 2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,26,27,0,usa,Mike_Bliss,Mike Bliss,NetZero / Best Buy,Gene_Haas,Chevrolet,92,62065,running,0,85
-2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,27,42,1,usa,Paul_Menard,Paul Menard,Kraft / Ritz,"Dale_Earnhardt,_Inc.",Chevrolet,92,58755,running,0,82
+2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,27,42,1,usa,Paul_Menard,Paul Menard,Kraft / Ritz,Dale_Earnhardt_Inc,Chevrolet,92,58755,running,0,82
 2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,28,38,37,usa,Anthony_Lazzaro,Anthony Lazzaro,Patron Tequila / BoSPOKER.net,John_Carter,Dodge,92,61595,running,0,79
 2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,29,40,92,usa,Johnny_Miller_(2),Johnny Miller,Oak Glove Co.,Bob_Jenkins,Chevrolet,92,58375,running,0,76
 2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,30,7,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,92,103266,running,1,78
@@ -942,7 +942,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,38,3,16,usa,Greg_Biffle,Greg Biffle,Subway / National Guard,Jack_Roush,Ford,84,75050,running,0,49
 2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,39,5,97,usa,Kurt_Busch,Kurt Busch,Irwin Industrial Tools,Jack_Roush,Ford,80,109350,crash,0,46
 2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,40,33,77,usa,Travis_Kvapil,Travis Kvapil,Kodak / Jasper Engines,Doug_Bawel,Dodge,76,64775,running,0,43
-2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,41,19,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,71,83839,crash,1,45
+2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,41,19,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,71,83839,crash,1,45
 2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,42,36,4,usa,P_J_Jones,P.J. Jones,Lucas Oil Products,Larry_McClure,Chevrolet,41,56505,crash,0,37
 2005,W,2005_Sirius_Satellite_Radio_at_the_Glen,2005_22,43,18,31,usa,Jeff_Burton,Jeff Burton,Cingular Wireless,Richard_Childress,Chevrolet,31,83058,crash,0,34
 2005,W,2005_GFS_Marketplace_400,2005_23,1,11,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,200,181550,running,6,185
@@ -962,7 +962,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_GFS_Marketplace_400,2005_23,15,2,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,200,122201,running,0,118
 2005,W,2005_GFS_Marketplace_400,2005_23,16,18,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Chevrolet,200,110265,running,0,115
 2005,W,2005_GFS_Marketplace_400,2005_23,17,14,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,200,88840,running,10,117
-2005,W,2005_GFS_Marketplace_400,2005_23,18,16,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,200,117948,running,1,114
+2005,W,2005_GFS_Marketplace_400,2005_23,18,16,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,200,117948,running,1,114
 2005,W,2005_GFS_Marketplace_400,2005_23,19,9,21,usa,Ricky_Rudd,Ricky Rudd,Motorcraft Genuine Parts,Wood_Brothers,Ford,200,101454,running,0,106
 2005,W,2005_GFS_Marketplace_400,2005_23,20,28,42,usa,Jamie_McMurray,Jamie McMurray,Texaco / Havoline,Chip_Ganassi,Dodge,200,83790,running,0,103
 2005,W,2005_GFS_Marketplace_400,2005_23,21,37,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Chip_Ganassi,Dodge,200,101298,running,1,105
@@ -971,7 +971,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_GFS_Marketplace_400,2005_23,24,26,43,usa,Jeff_Green,Jeff Green,Cheerios / Betty Crocker,Petty_Enterprises,Dodge,200,101501,running,0,91
 2005,W,2005_GFS_Marketplace_400,2005_23,25,27,49,usa,Ken_Schrader,Ken Schrader,Schwan's Home Service,Beth_Ann_Morgenthau,Dodge,200,72190,running,0,63
 2005,W,2005_GFS_Marketplace_400,2005_23,26,40,31,usa,Jeff_Burton,Jeff Burton,Cingular Wireless,Richard_Childress,Chevrolet,200,98535,running,0,85
-2005,W,2005_GFS_Marketplace_400,2005_23,27,24,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,199,98699,running,0,82
+2005,W,2005_GFS_Marketplace_400,2005_23,27,24,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,199,98699,running,0,82
 2005,W,2005_GFS_Marketplace_400,2005_23,28,23,4,usa,John_Andretti,John Andretti,Lucas Oil Products,Larry_McClure,Chevrolet,199,71225,running,0,79
 2005,W,2005_GFS_Marketplace_400,2005_23,29,3,9,usa,Kasey_Kahne,Kasey Kahne,Dodge Dealers / UAW,Ray_Evernham,Dodge,199,103190,running,15,81
 2005,W,2005_GFS_Marketplace_400,2005_23,30,39,7,usa,Robby_Gordon,Robby Gordon,Menards,Robby_Gordon,Chevrolet,199,71365,running,0,73
@@ -996,13 +996,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Sharpie_500,2005_24,6,2,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,500,155886,running,27,155
 2005,W,2005_Sharpie_500,2005_24,7,27,0,usa,Mike_Bliss,Mike Bliss,CertainTeed,Gene_Haas,Chevrolet,500,106650,running,4,151
 2005,W,2005_Sharpie_500,2005_24,8,17,20,usa,Tony_Stewart,Tony Stewart,The Home Depot,Joe_Gibbs,Chevrolet,500,146086,running,0,142
-2005,W,2005_Sharpie_500,2005_24,9,41,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,500,144333,running,0,138
+2005,W,2005_Sharpie_500,2005_24,9,41,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,500,144333,running,0,138
 2005,W,2005_Sharpie_500,2005_24,10,13,97,usa,Kurt_Busch,Kurt Busch,Sharpie Mini,Jack_Roush,Ford,500,148625,running,0,134
 2005,W,2005_Sharpie_500,2005_24,11,7,49,usa,Ken_Schrader,Ken Schrader,Schwan's Home Service,Beth_Ann_Morgenthau,Dodge,500,96000,running,0,130
 2005,W,2005_Sharpie_500,2005_24,12,35,01,usa,Joe_Nemechek,Joe Nemechek,U.S. Army,Nelson_Bowers,Chevrolet,500,126558,running,0,127
 2005,W,2005_Sharpie_500,2005_24,13,9,38,usa,Elliott_Sadler,Elliott Sadler,M&M's,Yates_Racing,Ford,500,131291,running,2,129
 2005,W,2005_Sharpie_500,2005_24,14,32,22,usa,Scott_Wimmer,Scott Wimmer,Caterpillar,Bill_Davis,Dodge,500,119133,running,0,121
-2005,W,2005_Sharpie_500,2005_24,15,22,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,500,121139,running,0,118
+2005,W,2005_Sharpie_500,2005_24,15,22,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,500,121139,running,0,118
 2005,W,2005_Sharpie_500,2005_24,16,25,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,500,107025,running,0,115
 2005,W,2005_Sharpie_500,2005_24,17,15,4,usa,Mike_Wallace,Mike Wallace,Lucas Oil / Food City,Larry_McClure,Chevrolet,500,91675,running,0,112
 2005,W,2005_Sharpie_500,2005_24,18,16,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,500,117345,running,18,114
@@ -1043,7 +1043,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Sony_HD_500,2005_25,10,22,01,usa,Joe_Nemechek,Joe Nemechek,U.S. Army,Nelson_Bowers,Chevrolet,254,130583,running,0,134
 2005,W,2005_Sony_HD_500,2005_25,11,2,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,254,109825,running,4,135
 2005,W,2005_Sony_HD_500,2005_25,12,3,97,usa,Kurt_Busch,Kurt Busch,Smirnoff Ice,Jack_Roush,Ford,254,143025,running,39,132
-2005,W,2005_Sony_HD_500,2005_25,13,19,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,254,123364,running,3,129
+2005,W,2005_Sony_HD_500,2005_25,13,19,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,254,123364,running,3,129
 2005,W,2005_Sony_HD_500,2005_25,14,18,29,usa,Kevin_Harvick,Kevin Harvick,GM Goodwrench,Richard_Childress,Chevrolet,254,136136,running,0,121
 2005,W,2005_Sony_HD_500,2005_25,15,34,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,254,123908,running,0,118
 2005,W,2005_Sony_HD_500,2005_25,16,5,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,254,137316,running,0,115
@@ -1068,7 +1068,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Sony_HD_500,2005_25,35,16,31,usa,Jeff_Burton,Jeff Burton,Cingular Wireless,Richard_Childress,Chevrolet,248,108470,crash,0,58
 2005,W,2005_Sony_HD_500,2005_25,36,10,10,usa,Scott_Riggs,Scott Riggs,Valvoline,James_Rocco,Chevrolet,246,99622,crash,0,55
 2005,W,2005_Sony_HD_500,2005_25,37,36,66,usa,Mike_Garvey,Mike Garvey,Jani-King,Jeff_Stec,Ford,232,82025,running,0,52
-2005,W,2005_Sony_HD_500,2005_25,38,41,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,211,129383,engine,2,54
+2005,W,2005_Sony_HD_500,2005_25,38,41,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,211,129383,engine,2,54
 2005,W,2005_Sony_HD_500,2005_25,39,8,11,usa,J_J_Yeley,J.J. Yeley,FedEx Freight,Joe_Gibbs,Chevrolet,209,81915,running,0,46
 2005,W,2005_Sony_HD_500,2005_25,40,30,91,usa,Bill_Elliott,Bill Elliott,McDonald's,Ray_Evernham,Dodge,180,81865,engine,0,43
 2005,W,2005_Sony_HD_500,2005_25,41,20,45,usa,Kyle_Petty,Kyle Petty,Brawny / Georgia-Pacific,Petty_Enterprises,Dodge,171,81815,engine,0,40
@@ -1093,7 +1093,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Chevy_Rock_And_Roll_400,2005_26,17,19,38,usa,Elliott_Sadler,Elliott Sadler,M&M's,Yates_Racing,Ford,400,104741,running,0,112
 2005,W,2005_Chevy_Rock_And_Roll_400,2005_26,18,12,31,usa,Jeff_Burton,Jeff Burton,Cingular / Big & Rich,Richard_Childress,Chevrolet,400,94645,running,0,109
 2005,W,2005_Chevy_Rock_And_Roll_400,2005_26,19,42,49,usa,Ken_Schrader,Ken Schrader,Schwan's Home Service,Beth_Ann_Morgenthau,Dodge,400,68075,running,0,106
-2005,W,2005_Chevy_Rock_And_Roll_400,2005_26,20,29,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser True Music / 3 Doors Down,"Dale_Earnhardt,_Inc.",Chevrolet,400,112808,running,0,103
+2005,W,2005_Chevy_Rock_And_Roll_400,2005_26,20,29,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser True Music / 3 Doors Down,Dale_Earnhardt_Inc,Chevrolet,400,112808,running,0,103
 2005,W,2005_Chevy_Rock_And_Roll_400,2005_26,21,18,99,usa,Carl_Edwards,Carl Edwards,Scotts,Jack_Roush,Ford,400,83225,running,0,100
 2005,W,2005_Chevy_Rock_And_Roll_400,2005_26,22,23,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Chevrolet,399,102175,running,0,97
 2005,W,2005_Chevy_Rock_And_Roll_400,2005_26,23,17,41,usa,Casey_Mears,Casey Mears,Target / Lysol,Chip_Ganassi,Dodge,399,94433,running,0,94
@@ -1104,7 +1104,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Chevy_Rock_And_Roll_400,2005_26,28,36,09,usa,Johnny_Sauter,Johnny Sauter,Miccosukee Gaming & Resorts,James_Finch,Dodge,399,63225,running,0,79
 2005,W,2005_Chevy_Rock_And_Roll_400,2005_26,29,37,10,usa,Scott_Riggs,Scott Riggs,Valvoline / Nickelback,James_Rocco,Chevrolet,398,83647,running,0,76
 2005,W,2005_Chevy_Rock_And_Roll_400,2005_26,30,6,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,398,112211,running,0,73
-2005,W,2005_Chevy_Rock_And_Roll_400,2005_26,31,28,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,396,93064,running,0,70
+2005,W,2005_Chevy_Rock_And_Roll_400,2005_26,31,28,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,396,93064,running,0,70
 2005,W,2005_Chevy_Rock_And_Roll_400,2005_26,32,43,66,usa,Mike_Garvey,Mike Garvey,Peak Fitness,Jeff_Stec,Ford,395,65225,running,0,67
 2005,W,2005_Chevy_Rock_And_Roll_400,2005_26,33,27,07,usa,Dave_Blaney,Dave Blaney,Jack Daniel's / Drive-By Truckers,Richard_Childress,Chevrolet,395,71550,running,0,64
 2005,W,2005_Chevy_Rock_And_Roll_400,2005_26,34,21,37,usa,Tony_Raines,Tony Raines,Patron Tequila / BoSPOKER.net,John_Carter,Dodge,394,62475,running,0,61
@@ -1121,7 +1121,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Sylvania_300,2005_27,2,1,20,usa,Tony_Stewart,Tony Stewart,The Home Depot,Joe_Gibbs,Chevrolet,300,233636,running,173,180
 2005,W,2005_Sylvania_300,2005_27,3,4,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,300,169311,running,0,165
 2005,W,2005_Sylvania_300,2005_27,4,26,16,usa,Greg_Biffle,Greg Biffle,National Guard,Jack_Roush,Ford,300,123950,running,1,165
-2005,W,2005_Sylvania_300,2005_27,5,3,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,300,144408,running,8,160
+2005,W,2005_Sylvania_300,2005_27,5,3,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,300,144408,running,8,160
 2005,W,2005_Sylvania_300,2005_27,6,7,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,300,123758,running,0,150
 2005,W,2005_Sylvania_300,2005_27,7,15,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,300,111425,running,31,151
 2005,W,2005_Sylvania_300,2005_27,8,10,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,300,127141,running,0,142
@@ -1131,7 +1131,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Sylvania_300,2005_27,12,20,42,usa,Jamie_McMurray,Jamie McMurray,Texaco / Havoline,Chip_Ganassi,Dodge,300,87900,running,0,127
 2005,W,2005_Sylvania_300,2005_27,13,31,25,usa,Brian_Vickers,Brian Vickers,GMAC / ditech.com,Rick_Hendrick,Chevrolet,300,86250,running,8,104
 2005,W,2005_Sylvania_300,2005_27,14,2,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,300,123136,running,2,126
-2005,W,2005_Sylvania_300,2005_27,15,36,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,300,103214,running,0,118
+2005,W,2005_Sylvania_300,2005_27,15,36,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,300,103214,running,0,118
 2005,W,2005_Sylvania_300,2005_27,16,8,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,300,101045,running,0,115
 2005,W,2005_Sylvania_300,2005_27,17,18,43,usa,Jeff_Green,Jeff Green,Cheerios / Betty Crocker,Petty_Enterprises,Dodge,300,103886,running,1,117
 2005,W,2005_Sylvania_300,2005_27,18,33,88,usa,Dale_Jarrett,Dale Jarrett,UPS,Yates_Racing,Ford,300,108108,running,0,109
@@ -1185,12 +1185,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_MBNA_NASCAR_RacePoints_400,2005_28,23,10,97,usa,Kurt_Busch,Kurt Busch,Crown Royal,Jack_Roush,Ford,401,133500,running,192,104
 2005,W,2005_MBNA_NASCAR_RacePoints_400,2005_28,24,29,10,usa,Scott_Riggs,Scott Riggs,Valvoline,James_Rocco,Chevrolet,401,87733,running,0,91
 2005,W,2005_MBNA_NASCAR_RacePoints_400,2005_28,25,37,11,usa,J_J_Yeley,J.J. Yeley,FedEx Freight,Joe_Gibbs,Chevrolet,401,68200,running,0,88
-2005,W,2005_MBNA_NASCAR_RacePoints_400,2005_28,26,27,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,401,94764,running,1,90
+2005,W,2005_MBNA_NASCAR_RacePoints_400,2005_28,26,27,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,401,94764,running,1,90
 2005,W,2005_MBNA_NASCAR_RacePoints_400,2005_28,27,21,43,usa,Jeff_Green,Jeff Green,Cheerios / Betty Crocker,Petty_Enterprises,Dodge,401,96336,running,0,82
 2005,W,2005_MBNA_NASCAR_RacePoints_400,2005_28,28,42,49,usa,Ken_Schrader,Ken Schrader,Red Baron Frozen Pizza,Beth_Ann_Morgenthau,Dodge,401,66750,running,0,79
 2005,W,2005_MBNA_NASCAR_RacePoints_400,2005_28,29,19,42,usa,Jamie_McMurray,Jamie McMurray,Texaco / Havoline,Chip_Ganassi,Dodge,400,72100,running,0,76
 2005,W,2005_MBNA_NASCAR_RacePoints_400,2005_28,30,30,0,usa,Mike_Bliss,Mike Bliss,Best Buy,Gene_Haas,Chevrolet,399,64450,running,0,73
-2005,W,2005_MBNA_NASCAR_RacePoints_400,2005_28,31,4,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,397,111183,running,0,70
+2005,W,2005_MBNA_NASCAR_RacePoints_400,2005_28,31,4,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,397,111183,running,0,70
 2005,W,2005_MBNA_NASCAR_RacePoints_400,2005_28,32,28,18,usa,Bobby_Labonte,Bobby Labonte,MBNA RacePoints VISA,Joe_Gibbs,Chevrolet,397,98175,running,0,67
 2005,W,2005_MBNA_NASCAR_RacePoints_400,2005_28,33,8,32,usa,Bobby_Hamilton_Jr,"Bobby Hamilton, Jr.",Tide,Cal_Wells,Chevrolet,386,73947,running,0,64
 2005,W,2005_MBNA_NASCAR_RacePoints_400,2005_28,34,43,78,usa,Kenny_Wallace,Kenny Wallace,Furniture Row Racing,Barney_Visser,Chevrolet,381,63275,running,0,61
@@ -1230,7 +1230,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_UAW-Ford_500,2005_29,25,41,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,185,107433,running,0,88
 2005,W,2005_UAW-Ford_500,2005_29,26,39,49,usa,Ken_Schrader,Ken Schrader,Red Baron Frozen Pizza,Beth_Ann_Morgenthau,Dodge,183,73750,crash,1,90
 2005,W,2005_UAW-Ford_500,2005_29,27,8,16,usa,Greg_Biffle,Greg Biffle,Post-it / National Guard,Jack_Roush,Ford,172,91950,running,0,82
-2005,W,2005_UAW-Ford_500,2005_29,28,17,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker,"Dale_Earnhardt,_Inc.",Chevrolet,170,73400,engine,0,79
+2005,W,2005_UAW-Ford_500,2005_29,28,17,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker,Dale_Earnhardt_Inc,Chevrolet,170,73400,engine,0,79
 2005,W,2005_UAW-Ford_500,2005_29,29,19,11,usa,J_J_Yeley,J.J. Yeley,FedEx Ground,Joe_Gibbs,Chevrolet,165,73250,running,1,81
 2005,W,2005_UAW-Ford_500,2005_29,30,37,66,usa,Kevin_Lepage,Kevin Lepage,Ace & TJ Show / Peak Fitness,Jeff_Stec,Ford,160,73575,running,0,73
 2005,W,2005_UAW-Ford_500,2005_29,31,9,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,158,121366,running,3,75
@@ -1242,9 +1242,9 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_UAW-Ford_500,2005_29,37,12,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,65,120711,crash,0,52
 2005,W,2005_UAW-Ford_500,2005_29,38,26,41,usa,Casey_Mears,Casey Mears,Target / Breast Cancer Research Foundation,Chip_Ganassi,Dodge,65,79850,crash,5,54
 2005,W,2005_UAW-Ford_500,2005_29,39,34,33,usa,Kerry_Earnhardt,Kerry Earnhardt,Bass Pro Shops / Tracker,Richard_Childress,Chevrolet,57,71725,crash,0,46
-2005,W,2005_UAW-Ford_500,2005_29,40,20,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,19,118983,crash,0,43
+2005,W,2005_UAW-Ford_500,2005_29,40,20,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,19,118983,crash,0,43
 2005,W,2005_UAW-Ford_500,2005_29,41,24,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,19,89435,crash,0,40
-2005,W,2005_UAW-Ford_500,2005_29,42,25,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,19,98524,crash,0,37
+2005,W,2005_UAW-Ford_500,2005_29,42,25,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,19,98524,crash,0,37
 2005,W,2005_UAW-Ford_500,2005_29,43,35,00,usa,Mike_Skinner,Mike Skinner,Aaron's,William_Edwards,Ford,19,71528,crash,0,34
 2005,W,2005_Banquet_400_Presented_by_ConAgra_Foods,2005_30,1,19,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,267,339725,running,139,190
 2005,W,2005_Banquet_400_Presented_by_ConAgra_Foods,2005_30,2,8,16,usa,Greg_Biffle,Greg Biffle,National Guard,Jack_Roush,Ford,267,210025,running,47,175
@@ -1279,13 +1279,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Banquet_400_Presented_by_ConAgra_Foods,2005_30,31,32,36,usa,Boris_Said,Boris Said,Centrix Financial,Bob_Sutton,Chevrolet,265,76925,running,0,70
 2005,W,2005_Banquet_400_Presented_by_ConAgra_Foods,2005_30,32,7,11,usa,Denny_Hamlin,Denny Hamlin,FedEx Kinko's,Joe_Gibbs,Chevrolet,265,76725,running,0,67
 2005,W,2005_Banquet_400_Presented_by_ConAgra_Foods,2005_30,33,35,44,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,265,77475,running,0,64
-2005,W,2005_Banquet_400_Presented_by_ConAgra_Foods,2005_30,34,38,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,265,123733,running,0,61
+2005,W,2005_Banquet_400_Presented_by_ConAgra_Foods,2005_30,34,38,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,265,123733,running,0,61
 2005,W,2005_Banquet_400_Presented_by_ConAgra_Foods,2005_30,35,15,4,usa,Mike_Wallace,Mike Wallace,Lucas / Wide Open Energy Drink,Larry_McClure,Chevrolet,263,76125,running,1,63
 2005,W,2005_Banquet_400_Presented_by_ConAgra_Foods,2005_30,36,6,66,usa,Kevin_Lepage,Kevin Lepage,Peak Fitness / EAS,Jeff_Stec,Ford,263,75925,running,0,0
 2005,W,2005_Banquet_400_Presented_by_ConAgra_Foods,2005_30,37,43,51,usa,Stuart_Kirby,Stuart Kirby,Marathon American Spirit Motor Oil,Joe_Auer,Chevrolet,263,75700,running,0,52
 2005,W,2005_Banquet_400_Presented_by_ConAgra_Foods,2005_30,38,31,88,usa,Dale_Jarrett,Dale Jarrett,UPS,Yates_Racing,Ford,258,109658,running,0,49
 2005,W,2005_Banquet_400_Presented_by_ConAgra_Foods,2005_30,39,39,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Chevrolet,222,109875,crash,0,46
-2005,W,2005_Banquet_400_Presented_by_ConAgra_Foods,2005_30,40,36,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,215,102314,engine,0,43
+2005,W,2005_Banquet_400_Presented_by_ConAgra_Foods,2005_30,40,36,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,215,102314,engine,0,43
 2005,W,2005_Banquet_400_Presented_by_ConAgra_Foods,2005_30,41,27,92,usa,P_J_Jones,P.J. Jones,Harrah's,Bob_Jenkins,Dodge,184,74875,handling,0,40
 2005,W,2005_Banquet_400_Presented_by_ConAgra_Foods,2005_30,42,18,02,usa,Brandon_Ash,Brandon Ash,Strickers Auction Co.,Ed_Ash,Dodge,161,74690,rear end,0,37
 2005,W,2005_Banquet_400_Presented_by_ConAgra_Foods,2005_30,43,25,32,usa,Bobby_Hamilton_Jr,"Bobby Hamilton, Jr.",Tide,Cal_Wells,Chevrolet,63,74841,engine,0,34
@@ -1317,7 +1317,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_UAW-GM_Quality_500,2005_31,26,18,17,usa,Matt_Kenseth,Matt Kenseth,Carhartt,Jack_Roush,Ford,326,113561,running,0,85
 2005,W,2005_UAW-GM_Quality_500,2005_31,27,1,38,usa,Elliott_Sadler,Elliott Sadler,M&M's,Yates_Racing,Ford,326,157001,running,112,92
 2005,W,2005_UAW-GM_Quality_500,2005_31,28,35,29,usa,Kevin_Harvick,Kevin Harvick,Snap-On Tools / GM Goodwrench,Richard_Childress,Chevrolet,291,112136,running,0,79
-2005,W,2005_UAW-GM_Quality_500,2005_31,29,32,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,278,95214,crash,31,81
+2005,W,2005_UAW-GM_Quality_500,2005_31,29,32,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,278,95214,crash,31,81
 2005,W,2005_UAW-GM_Quality_500,2005_31,30,20,88,usa,Dale_Jarrett,Dale Jarrett,UPS,Yates_Racing,Ford,278,102433,crash,0,73
 2005,W,2005_UAW-GM_Quality_500,2005_31,31,29,42,usa,Jamie_McMurray,Jamie McMurray,Texaco / Havoline,Chip_Ganassi,Dodge,278,75075,crash,0,70
 2005,W,2005_UAW-GM_Quality_500,2005_31,32,23,7,usa,Robby_Gordon,Robby Gordon,Jim Beam,Robby_Gordon,Chevrolet,278,64375,engine,0,67
@@ -1330,7 +1330,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_UAW-GM_Quality_500,2005_31,39,13,5,usa,Kyle_Busch,Kyle Busch,Kellogg's,Rick_Hendrick,Chevrolet,150,71450,crash,7,51
 2005,W,2005_UAW-GM_Quality_500,2005_31,40,30,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Chip_Ganassi,Dodge,124,91248,crash,0,43
 2005,W,2005_UAW-GM_Quality_500,2005_31,41,24,32,usa,Bobby_Hamilton_Jr,"Bobby Hamilton, Jr.",Tide,Cal_Wells,Chevrolet,94,63215,crash,0,40
-2005,W,2005_UAW-GM_Quality_500,2005_31,42,28,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,61,110508,crash,0,37
+2005,W,2005_UAW-GM_Quality_500,2005_31,42,28,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,61,110508,crash,0,37
 2005,W,2005_UAW-GM_Quality_500,2005_31,43,36,4,usa,Mike_Wallace,Mike Wallace,Lucas Oil Products,Larry_McClure,Chevrolet,40,63318,timing chain,0,34
 2005,W,2005_Subway_500,2005_32,1,15,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,500,184926,running,151,185
 2005,W,2005_Subway_500,2005_32,2,1,20,usa,Tony_Stewart,Tony Stewart,The Home Depot / Lithium-Ion,Joe_Gibbs,Chevrolet,500,179651,running,283,180
@@ -1349,7 +1349,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Subway_500,2005_32,15,29,29,usa,Kevin_Harvick,Kevin Harvick,GM Goodwrench,Richard_Childress,Chevrolet,500,115986,running,0,118
 2005,W,2005_Subway_500,2005_32,16,19,07,usa,Dave_Blaney,Dave Blaney,Jack Daniel's,Richard_Childress,Chevrolet,500,78600,running,10,120
 2005,W,2005_Subway_500,2005_32,17,34,9,usa,Kasey_Kahne,Kasey Kahne,Dodge Dealers / UAW,Ray_Evernham,Dodge,500,103975,running,0,112
-2005,W,2005_Subway_500,2005_32,18,20,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,500,113483,running,0,109
+2005,W,2005_Subway_500,2005_32,18,20,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,500,113483,running,0,109
 2005,W,2005_Subway_500,2005_32,19,3,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,500,101083,running,0,106
 2005,W,2005_Subway_500,2005_32,20,22,16,usa,Greg_Biffle,Greg Biffle,Subway / National Guard,Jack_Roush,Ford,500,85275,running,6,108
 2005,W,2005_Subway_500,2005_32,21,12,77,usa,Travis_Kvapil,Travis Kvapil,Kodak / Jasper Engines,Doug_Bawel,Dodge,500,76525,running,0,100
@@ -1358,7 +1358,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Subway_500,2005_32,24,26,10,usa,Scott_Riggs,Scott Riggs,Valvoline / Herbie: Fully Loaded,James_Rocco,Chevrolet,499,87433,running,0,91
 2005,W,2005_Subway_500,2005_32,25,36,22,usa,Scott_Wimmer,Scott Wimmer,Caterpillar,Bill_Davis,Dodge,499,85047,running,0,88
 2005,W,2005_Subway_500,2005_32,26,18,99,usa,Carl_Edwards,Carl Edwards,Office Depot,Jack_Roush,Ford,499,82650,running,0,85
-2005,W,2005_Subway_500,2005_32,27,39,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,498,94299,running,12,87
+2005,W,2005_Subway_500,2005_32,27,39,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,498,94299,running,12,87
 2005,W,2005_Subway_500,2005_32,28,7,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,497,93280,running,0,79
 2005,W,2005_Subway_500,2005_32,29,9,38,usa,Elliott_Sadler,Elliott Sadler,M&M's,Yates_Racing,Ford,497,103791,running,0,76
 2005,W,2005_Subway_500,2005_32,30,43,32,usa,Bobby_Hamilton_Jr,"Bobby Hamilton, Jr.",Tide,Cal_Wells,Chevrolet,494,66725,running,0,73
@@ -1378,14 +1378,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Bass_Pro_Shops_MBNA_500,2005_33,1,2,99,usa,Carl_Edwards,Carl Edwards,Office Depot,Jack_Roush,Ford,325,314700,running,115,185
 2005,W,2005_Bass_Pro_Shops_MBNA_500,2005_33,2,24,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,325,236836,running,0,170
 2005,W,2005_Bass_Pro_Shops_MBNA_500,2005_33,3,4,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,325,174200,running,43,170
-2005,W,2005_Bass_Pro_Shops_MBNA_500,2005_33,4,17,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,325,207808,running,142,170
+2005,W,2005_Bass_Pro_Shops_MBNA_500,2005_33,4,17,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,325,207808,running,142,170
 2005,W,2005_Bass_Pro_Shops_MBNA_500,2005_33,5,23,17,usa,Matt_Kenseth,Matt Kenseth,USG Sheetrock,Jack_Roush,Ford,325,161486,running,1,160
 2005,W,2005_Bass_Pro_Shops_MBNA_500,2005_33,6,28,42,usa,Jamie_McMurray,Jamie McMurray,Texaco / Havoline,Chip_Ganassi,Dodge,325,119500,running,0,150
 2005,W,2005_Bass_Pro_Shops_MBNA_500,2005_33,7,16,16,usa,Greg_Biffle,Greg Biffle,Charter Communications / National Guard,Jack_Roush,Ford,325,118150,running,5,151
 2005,W,2005_Bass_Pro_Shops_MBNA_500,2005_33,8,41,31,usa,Jeff_Burton,Jeff Burton,Cingular Wireless,Richard_Childress,Chevrolet,325,133645,running,0,142
 2005,W,2005_Bass_Pro_Shops_MBNA_500,2005_33,9,10,20,usa,Tony_Stewart,Tony Stewart,The Home Depot,Joe_Gibbs,Chevrolet,325,143311,running,1,143
 2005,W,2005_Bass_Pro_Shops_MBNA_500,2005_33,10,3,38,usa,Elliott_Sadler,Elliott Sadler,M&M's,Yates_Racing,Ford,325,157641,running,10,139
-2005,W,2005_Bass_Pro_Shops_MBNA_500,2005_33,11,37,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,325,123889,running,0,130
+2005,W,2005_Bass_Pro_Shops_MBNA_500,2005_33,11,37,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,325,123889,running,0,130
 2005,W,2005_Bass_Pro_Shops_MBNA_500,2005_33,12,7,5,usa,Kyle_Busch,Kyle Busch,Kellogg's,Rick_Hendrick,Chevrolet,325,104475,running,4,132
 2005,W,2005_Bass_Pro_Shops_MBNA_500,2005_33,13,21,0,usa,Mike_Bliss,Mike Bliss,Best Buy,Gene_Haas,Chevrolet,325,94725,running,1,129
 2005,W,2005_Bass_Pro_Shops_MBNA_500,2005_33,14,9,88,usa,Dale_Jarrett,Dale Jarrett,UPS,Yates_Racing,Ford,325,126858,running,0,121
@@ -1414,7 +1414,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Bass_Pro_Shops_MBNA_500,2005_33,37,32,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,258,108008,running,0,52
 2005,W,2005_Bass_Pro_Shops_MBNA_500,2005_33,38,18,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,226,103200,running,0,49
 2005,W,2005_Bass_Pro_Shops_MBNA_500,2005_33,39,43,32,usa,Bobby_Hamilton_Jr,"Bobby Hamilton, Jr.",Tide,Bob_Jenkins,Chevrolet,219,76725,engine,0,46
-2005,W,2005_Bass_Pro_Shops_MBNA_500,2005_33,40,8,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker,"Dale_Earnhardt,_Inc.",Chevrolet,176,76600,crash,0,43
+2005,W,2005_Bass_Pro_Shops_MBNA_500,2005_33,40,8,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker,Dale_Earnhardt_Inc,Chevrolet,176,76600,crash,0,43
 2005,W,2005_Bass_Pro_Shops_MBNA_500,2005_33,41,22,39,usa,Reed_Sorenson,Reed Sorenson,Discount Tire,Chip_Ganassi,Dodge,133,76475,crash,0,40
 2005,W,2005_Bass_Pro_Shops_MBNA_500,2005_33,42,13,66,usa,Kevin_Lepage,Kevin Lepage,Peak Fitness / Vassarette,Jeff_Stec,Ford,113,76365,engine,0,37
 2005,W,2005_Bass_Pro_Shops_MBNA_500,2005_33,43,15,37,usa,Mike_Skinner,Mike Skinner,BoSPOKER.net,John_Carter,Dodge,5,76588,crash,0,34
@@ -1425,14 +1425,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Dickies_500,2005_34,5,11,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,334,201866,running,2,160
 2005,W,2005_Dickies_500,2005_34,6,16,20,usa,Tony_Stewart,Tony Stewart,The Home Depot,Joe_Gibbs,Chevrolet,334,190486,running,15,155
 2005,W,2005_Dickies_500,2005_34,7,14,11,usa,Denny_Hamlin,Denny Hamlin,FedEx Kinko's,Joe_Gibbs,Chevrolet,334,134300,running,0,146
-2005,W,2005_Dickies_500,2005_34,8,10,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,334,173183,running,0,142
+2005,W,2005_Dickies_500,2005_34,8,10,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,334,173183,running,0,142
 2005,W,2005_Dickies_500,2005_34,9,12,38,usa,Elliott_Sadler,Elliott Sadler,Combos,Yates_Racing,Ford,334,153516,running,0,138
 2005,W,2005_Dickies_500,2005_34,10,18,97,usa,Kurt_Busch,Kurt Busch,Crown Royal,Jack_Roush,Ford,334,163000,running,0,134
 2005,W,2005_Dickies_500,2005_34,11,40,42,usa,Jamie_McMurray,Jamie McMurray,Texaco / Havoline,Chip_Ganassi,Dodge,334,117025,running,0,130
 2005,W,2005_Dickies_500,2005_34,12,29,88,usa,Dale_Jarrett,Dale Jarrett,The UPS Store / Toys for Tots,Yates_Racing,Ford,334,138883,running,0,127
 2005,W,2005_Dickies_500,2005_34,13,20,21,usa,Ricky_Rudd,Ricky Rudd,Motorcraft Genuine Parts,Wood_Brothers,Ford,334,129539,running,0,124
 2005,W,2005_Dickies_500,2005_34,14,2,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,334,144086,running,0,121
-2005,W,2005_Dickies_500,2005_34,15,27,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker,"Dale_Earnhardt,_Inc.",Chevrolet,334,94075,running,0,118
+2005,W,2005_Dickies_500,2005_34,15,27,1,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker,Dale_Earnhardt_Inc,Chevrolet,334,94075,running,0,118
 2005,W,2005_Dickies_500,2005_34,16,33,29,usa,Kevin_Harvick,Kevin Harvick,GM Goodwrench,Richard_Childress,Chevrolet,334,140261,running,1,120
 2005,W,2005_Dickies_500,2005_34,17,6,0,usa,Mike_Bliss,Mike Bliss,Best Buy's Geek Squad,Gene_Haas,Chevrolet,334,96325,running,0,112
 2005,W,2005_Dickies_500,2005_34,18,42,43,usa,Jeff_Green,Jeff Green,Cheerios / Betty Crocker,Petty_Enterprises,Dodge,334,124811,running,0,109
@@ -1458,7 +1458,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Dickies_500,2005_34,38,25,32,usa,Bobby_Hamilton_Jr,"Bobby Hamilton, Jr.",Tide,Cal_Wells,Chevrolet,328,87550,running,0,49
 2005,W,2005_Dickies_500,2005_34,39,36,50,usa,Jimmy_Spencer,Jimmy Spencer,Allied Steel Structures,Don_Arnold,Dodge,327,87350,running,0,46
 2005,W,2005_Dickies_500,2005_34,40,24,5,usa,Kyle_Busch,Kyle Busch,Carquest,Rick_Hendrick,Chevrolet,325,95150,running,0,43
-2005,W,2005_Dickies_500,2005_34,41,31,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,294,114149,engine,1,45
+2005,W,2005_Dickies_500,2005_34,41,31,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,294,114149,engine,1,45
 2005,W,2005_Dickies_500,2005_34,42,15,9,usa,Kasey_Kahne,Kasey Kahne,Dodge Dealers / UAW,Ray_Evernham,Dodge,151,118810,engine,0,37
 2005,W,2005_Dickies_500,2005_34,43,28,37,usa,Mike_Skinner,Mike Skinner,Patron Tequila / BoSPOKER.net,John_Carter,Dodge,151,86870,rear end,0,34
 2005,W,2005_Checker_Auto_Parts_500,2005_35,1,15,5,usa,Kyle_Busch,Kyle Busch,Kellogg's,Rick_Hendrick,Chevrolet,312,199225,running,63,185
@@ -1493,14 +1493,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Checker_Auto_Parts_500,2005_35,30,33,49,usa,Ken_Schrader,Ken Schrader,Schwan's Home Service,Beth_Ann_Morgenthau,Dodge,310,62000,running,0,73
 2005,W,2005_Checker_Auto_Parts_500,2005_35,31,32,0,usa,Mike_Bliss,Mike Bliss,NetZero,Gene_Haas,Chevrolet,310,61375,running,0,70
 2005,W,2005_Checker_Auto_Parts_500,2005_35,32,16,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,310,109161,running,0,67
-2005,W,2005_Checker_Auto_Parts_500,2005_35,33,42,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,310,89264,running,0,64
+2005,W,2005_Checker_Auto_Parts_500,2005_35,33,42,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,310,89264,running,0,64
 2005,W,2005_Checker_Auto_Parts_500,2005_35,34,41,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Chip_Ganassi,Dodge,310,88883,running,0,61
 2005,W,2005_Checker_Auto_Parts_500,2005_35,35,7,32,usa,Bobby_Hamilton_Jr,"Bobby Hamilton, Jr.",Tide,Cal_Wells,Chevrolet,217,70397,crash,0,58
 2005,W,2005_Checker_Auto_Parts_500,2005_35,36,23,50,usa,Jimmy_Spencer,Jimmy Spencer,U.S. Micro Corporation,Don_Arnold,Dodge,214,60700,crash,0,55
 2005,W,2005_Checker_Auto_Parts_500,2005_35,37,27,37,usa,Mike_Skinner,Mike Skinner,Patron Tequila / BoSPOKER.net,John_Carter,Dodge,214,60575,crash,0,52
 2005,W,2005_Checker_Auto_Parts_500,2005_35,38,31,10,usa,Scott_Riggs,Scott Riggs,Valvoline,James_Rocco,Chevrolet,205,68450,crash,0,49
 2005,W,2005_Checker_Auto_Parts_500,2005_35,39,37,09,usa,Johnny_Sauter,Johnny Sauter,Miccosukee Gaming & Resorts,James_Finch,Dodge,149,60325,suspension,0,0
-2005,W,2005_Checker_Auto_Parts_500,2005_35,40,19,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,112,107583,crash,0,43
+2005,W,2005_Checker_Auto_Parts_500,2005_35,40,19,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,112,107583,crash,0,43
 2005,W,2005_Checker_Auto_Parts_500,2005_35,41,43,78,usa,Jerry_Robertson,Jerry Robertson,Furniture Row Racing,Barney_Visser,Chevrolet,51,60035,engine,0,40
 2005,W,2005_Checker_Auto_Parts_500,2005_35,42,36,95,usa,Stanton_Barrett,Stanton Barrett,Langley Properties / Cheetah Speed Sys.,Stanton_Barrett,Chevrolet,24,59910,crash,0,37
 2005,W,2005_Checker_Auto_Parts_500,2005_35,43,35,34,usa,Chad_Chaffin,Chad Chaffin,Fiesta Inn Resort,William_Edwards,Chevrolet,14,60115,overheating,0,34
@@ -1522,7 +1522,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Ford_400,2005_36,16,3,9,usa,Kasey_Kahne,Kasey Kahne,Dodge Dealers / UAW,Ray_Evernham,Dodge,267,99625,running,0,115
 2005,W,2005_Ford_400,2005_36,17,9,88,usa,Dale_Jarrett,Dale Jarrett,UPS,Yates_Racing,Ford,266,101308,running,0,112
 2005,W,2005_Ford_400,2005_36,18,8,42,usa,Jamie_McMurray,Jamie McMurray,Texaco / Havoline,Chip_Ganassi,Dodge,266,74850,running,0,109
-2005,W,2005_Ford_400,2005_36,19,40,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,266,110358,running,0,106
+2005,W,2005_Ford_400,2005_36,19,40,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,266,110358,running,0,106
 2005,W,2005_Ford_400,2005_36,20,24,4,usa,Todd_Bodine,Todd Bodine,Lucas Oil / Coyote Ugly Saloon,Larry_McClure,Chevrolet,266,68375,running,0,103
 2005,W,2005_Ford_400,2005_36,21,36,97,usa,Kenny_Wallace,Kenny Wallace,Irwin Industrial Tools,Jack_Roush,Ford,266,109950,running,0,100
 2005,W,2005_Ford_400,2005_36,22,34,49,usa,Ken_Schrader,Ken Schrader,Red Baron Frozen Pizza,Beth_Ann_Morgenthau,Dodge,266,65825,running,0,97
@@ -1532,7 +1532,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2005,W,2005_Ford_400,2005_36,26,26,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Chip_Ganassi,Dodge,265,92608,running,3,90
 2005,W,2005_Ford_400,2005_36,27,35,45,usa,Kyle_Petty,Kyle Petty,Checkers / University of Florida,Petty_Enterprises,Dodge,265,76058,running,0,82
 2005,W,2005_Ford_400,2005_36,28,15,09,usa,Reed_Sorenson,Reed Sorenson,Miccosukee Gaming & Resorts,James_Finch,Dodge,265,61100,running,0,79
-2005,W,2005_Ford_400,2005_36,29,41,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,"Dale_Earnhardt,_Inc.",Chevrolet,265,91114,running,0,76
+2005,W,2005_Ford_400,2005_36,29,41,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Auto Parts,Dale_Earnhardt_Inc,Chevrolet,265,91114,running,0,76
 2005,W,2005_Ford_400,2005_36,30,29,43,usa,Jeff_Green,Jeff Green,Chex Party Mix,Petty_Enterprises,Dodge,264,93111,running,0,73
 2005,W,2005_Ford_400,2005_36,31,33,50,usa,Jimmy_Spencer,Jimmy Spencer,Allied Steel Buildings,Don_Arnold,Dodge,263,60475,running,2,75
 2005,W,2005_Ford_400,2005_36,32,30,77,usa,Travis_Kvapil,Travis Kvapil,Kodak / Jasper Engines,Doug_Bawel,Dodge,263,72275,running,0,67

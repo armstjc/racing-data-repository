@@ -9,7 +9,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,B,2008_Camping_World_300_Presented_by_Chevrolet,2008_01,8,8,32,usa,Denny_Hamlin,Denny Hamlin,Hass Avocados from Mexico,Todd_Braun,Toyota,120,50475,running,1,147
 2008,B,2008_Camping_World_300_Presented_by_Chevrolet,2008_01,9,28,6,usa,David_Ragan,David Ragan,Discount Tire,Jack_Roush,Ford,120,49625,running,2,143
 2008,B,2008_Camping_World_300_Presented_by_Chevrolet,2008_01,10,26,60,usa,Carl_Edwards,Carl Edwards,Scotts,Jack_Roush,Ford,120,50700,running,0,134
-2008,B,2008_Camping_World_300_Presented_by_Chevrolet,2008_01,11,10,8,usa,Martin_Truex_Jr,Martin Truex Jr,Freightliner,"Dale_Earnhardt,_Inc.",Chevrolet,120,47175,running,20,135
+2008,B,2008_Camping_World_300_Presented_by_Chevrolet,2008_01,11,10,8,usa,Martin_Truex_Jr,Martin Truex Jr,Freightliner,Dale_Earnhardt_Inc,Chevrolet,120,47175,running,20,135
 2008,B,2008_Camping_World_300_Presented_by_Chevrolet,2008_01,12,31,47,usa,Kelly_Bires,Kelly Bires,Clorox,Tad_Geschickter,Ford,120,54037,running,0,127
 2008,B,2008_Camping_World_300_Presented_by_Chevrolet,2008_01,13,40,1,usa,Johnny_Sauter,Johnny Sauter,Miccosukee Resorts & Gaming,James_Finch,Chevrolet,120,53462,running,0,99
 2008,B,2008_Camping_World_300_Presented_by_Chevrolet,2008_01,14,18,99,usa,David_Reutimann,David Reutimann,Aaron's Dream Machine,Michael_Waltrip,Toyota,120,52762,running,0,121
@@ -70,7 +70,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,B,2008_Stater_Brothers_300,2008_02,26,31,81,canada,DJ_Kennington,D.J. Kennington,Mahindra Tractors / NPPL,Pat_MacDonald,Dodge,146,30088,running,0,85
 2008,B,2008_Stater_Brothers_300,2008_02,27,7,9,usa,Elliott_Sadler,Elliott Sadler,Wisk,George_Gillett_Jr.,Dodge,145,23485,running,0,82
 2008,B,2008_Stater_Brothers_300,2008_02,28,28,24,usa,Eric_McClure,Eric McClure,Hefty Brand,Bob_Jenkins,Chevrolet,142,29833,running,0,79
-2008,B,2008_Stater_Brothers_300,2008_02,29,42,83,usa,Johnny_Borneman_III,"Johnny Borneman, III",Red Line Oil / Twisted X Boots,John_Borneman,Ford,140,23215,suspension,0,76
+2008,B,2008_Stater_Brothers_300,2008_02,29,42,83,usa,Johnny_Borneman_III,Johnny Borneman III,Red Line Oil / Twisted X Boots,John_Borneman,Ford,140,23215,suspension,0,76
 2008,B,2008_Stater_Brothers_300,2008_02,30,24,47,usa,Kelly_Bires,Kelly Bires,Clorox,Tad_Geschickter,Ford,140,30023,running,0,73
 2008,B,2008_Stater_Brothers_300,2008_02,31,30,01,usa,Kertus_Davis,Kertus Davis,RaceGirl,Johnny_Davis,Chevrolet,123,29463,rear end,0,70
 2008,B,2008_Stater_Brothers_300,2008_02,32,15,88,usa,Brad_Keselowski,Brad Keselowski,U.S. Navy,JR_Motorsports,Chevrolet,111,29353,transmission,0,67
@@ -103,7 +103,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,B,2008_Sam%27s_Town_300,2008_03,17,33,61,usa,Kevin_Lepage,Kevin Lepage,Specialty Racing,Charles_Shoffner,Ford,201,23935,running,0,112
 2008,B,2008_Sam%27s_Town_300,2008_03,18,11,11,usa,Jason_Keller,Jason Keller,America's Incredible Pizza Company,Bryan_Mullet,Chevrolet,200,30268,running,0,109
 2008,B,2008_Sam%27s_Town_300,2008_03,19,42,4,usa,Robert_Richardson_Jr,"Robert Richardson, Jr.",JVC,Jay_Robinson,Chevrolet,198,30158,running,1,111
-2008,B,2008_Sam%27s_Town_300,2008_03,20,43,83,usa,Johnny_Borneman_III,"Johnny Borneman, III",Borneman Plastering,John_Borneman,Ford,198,23580,running,0,103
+2008,B,2008_Sam%27s_Town_300,2008_03,20,43,83,usa,Johnny_Borneman_III,Johnny Borneman III,Borneman Plastering,John_Borneman,Ford,198,23580,running,0,103
 2008,B,2008_Sam%27s_Town_300,2008_03,21,40,05,usa,Brett_Rowe,Brett Rowe,CertainTeed / 31-W Insulation,Wayne_Day,Chevrolet,197,30938,running,0,100
 2008,B,2008_Sam%27s_Town_300,2008_03,22,30,24,usa,Eric_McClure,Eric McClure,Hefty Brand,Bob_Jenkins,Chevrolet,197,29803,running,0,97
 2008,B,2008_Sam%27s_Town_300,2008_03,23,15,88,usa,Brad_Keselowski,Brad Keselowski,U.S. Navy,JR_Motorsports,Chevrolet,195,32468,crash,12,99
@@ -331,7 +331,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,B,2008_Bashas%27_Supermarkets_200,2008_08,30,38,4,usa,Robert_Richardson_Jr,"Robert Richardson, Jr.",JVC,Jay_Robinson,Chevrolet,194,21668,running,0,73
 2008,B,2008_Bashas%27_Supermarkets_200,2008_08,31,4,29,usa,Jeff_Burton,Jeff Burton,Holiday Inn,Richard_Childress,Chevrolet,192,14895,crash,4,75
 2008,B,2008_Bashas%27_Supermarkets_200,2008_08,32,7,11,usa,Jason_Keller,Jason Keller,America's Incredible Pizza Company,Bryan_Mullet,Chevrolet,181,21303,engine,0,67
-2008,B,2008_Bashas%27_Supermarkets_200,2008_08,33,34,83,usa,Johnny_Borneman_III,"Johnny Borneman, III",Red Line Oil,John_Borneman,Ford,167,14800,running,0,64
+2008,B,2008_Bashas%27_Supermarkets_200,2008_08,33,34,83,usa,Johnny_Borneman_III,Johnny Borneman III,Red Line Oil,John_Borneman,Ford,167,14800,running,0,64
 2008,B,2008_Bashas%27_Supermarkets_200,2008_08,34,32,89,usa,Morgan_Shepherd,Morgan Shepherd,Victory In Jesus Racing,Morgan_Shepherd,Dodge,127,21233,handling,0,61
 2008,B,2008_Bashas%27_Supermarkets_200,2008_08,35,35,52,usa,Derrike_Cope,Derrike Cope,Best Western Hotels,Jimmy_Means,Chevrolet,55,14735,ignition,0,58
 2008,B,2008_Bashas%27_Supermarkets_200,2008_08,36,9,16,usa,Jamie_McMurray,Jamie McMurray,CitiFinancial,Jack_Roush,Ford,39,14700,crash,0,55
@@ -788,7 +788,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,B,2008_Winn-Dixie_250_Powered_by_Coca-Cola,2008_19,14,12,99,usa,David_Reutimann,David Reutimann,Aaron's Dream Machine,Michael_Waltrip,Toyota,105,23025,running,0,121
 2008,B,2008_Winn-Dixie_250_Powered_by_Coca-Cola,2008_19,15,23,25,usa,Bobby_Hamilton_Jr,"Bobby Hamilton, Jr.",John Morrell,Ed_Rensi,Ford,105,30368,running,0,118
 2008,B,2008_Winn-Dixie_250_Powered_by_Coca-Cola,2008_19,16,24,47,usa,Kelly_Bires,Kelly Bires,Clorox,Tad_Geschickter,Ford,105,29018,running,0,115
-2008,B,2008_Winn-Dixie_250_Powered_by_Coca-Cola,2008_19,17,10,8,usa,Kerry_Earnhardt,Kerry Earnhardt,Bass Pro Shops / Tracker,"Dale_Earnhardt,_Inc.",Chevrolet,105,22425,running,0,0
+2008,B,2008_Winn-Dixie_250_Powered_by_Coca-Cola,2008_19,17,10,8,usa,Kerry_Earnhardt,Kerry Earnhardt,Bass Pro Shops / Tracker,Dale_Earnhardt_Inc,Chevrolet,105,22425,running,0,0
 2008,B,2008_Winn-Dixie_250_Powered_by_Coca-Cola,2008_19,18,27,11,usa,Jason_Keller,Jason Keller,America's Incredible Pizza Company,Bryan_Mullet,Chevrolet,105,29068,running,0,109
 2008,B,2008_Winn-Dixie_250_Powered_by_Coca-Cola,2008_19,19,1,40,usa,Bryan_Clauson,Bryan Clauson,Fastenal,Chip_Ganassi,Dodge,105,33143,running,0,106
 2008,B,2008_Winn-Dixie_250_Powered_by_Coca-Cola,2008_19,20,34,59,australia,Marcos_Ambrose,Marcos Ambrose,Kingsford / Matchlight,Tad_Geschickter,Ford,105,29518,running,0,103
@@ -1144,7 +1144,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,B,2008_Camping_World_RV_Service_300_Presented_by_Coleman,2008_27,26,16,38,usa,Jason_Leffler,Jason Leffler,Great Clips,Todd_Braun,Toyota,146,28768,running,0,85
 2008,B,2008_Camping_World_RV_Service_300_Presented_by_Coleman,2008_27,27,39,01,usa,Danny_Efland,Danny Efland,SponsorDavis.com,Johnny_Davis,Chevrolet,145,28618,running,0,82
 2008,B,2008_Camping_World_RV_Service_300_Presented_by_Coleman,2008_27,28,37,28,usa,Kenny_Wallace,Kenny Wallace,U.S. Border Patrol,Jay_Robinson,Chevrolet,145,28468,running,0,79
-2008,B,2008_Camping_World_RV_Service_300_Presented_by_Coleman,2008_27,29,34,83,usa,Johnny_Borneman_III,"Johnny Borneman, III",Borneman Plastering / Twisted X Boots,John_Borneman,Ford,145,21875,running,0,76
+2008,B,2008_Camping_World_RV_Service_300_Presented_by_Coleman,2008_27,29,34,83,usa,Johnny_Borneman_III,Johnny Borneman III,Borneman Plastering / Twisted X Boots,John_Borneman,Ford,145,21875,running,0,76
 2008,B,2008_Camping_World_RV_Service_300_Presented_by_Coleman,2008_27,30,35,4,usa,Derrike_Cope,Derrike Cope,JVC,Jay_Robinson,Chevrolet,144,28468,running,0,73
 2008,B,2008_Camping_World_RV_Service_300_Presented_by_Coleman,2008_27,31,20,27,usa,David_Gilliland,David Gilliland,Huggies / Stater Brothers,Mike_Curb,Ford,143,21620,running,0,70
 2008,B,2008_Camping_World_RV_Service_300_Presented_by_Coleman,2008_27,32,38,24,usa,Eric_McClure,Eric McClure,Hefty,Bob_Jenkins,Chevrolet,141,27953,running,0,67
@@ -1444,7 +1444,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2008,B,2008_Hefty_Odor_Block_200,2008_34,25,21,38,usa,Jason_Leffler,Jason Leffler,Great Clips,Todd_Braun,Toyota,198,26948,running,0,88
 2008,B,2008_Hefty_Odor_Block_200,2008_34,26,43,30,usa,Stanton_Barrett,Stanton Barrett,Interush.net / Phytter,Chris_Lencheski,Chevrolet,198,26738,running,0,85
 2008,B,2008_Hefty_Odor_Block_200,2008_34,27,37,22,usa,Marc_Davis,Marc Davis,Supercuts / WHUR 96.3,Armando_Fitz,Dodge,198,26703,running,0,82
-2008,B,2008_Hefty_Odor_Block_200,2008_34,28,35,83,usa,Johnny_Borneman_III,"Johnny Borneman, III",Twisted X Boots / Red Line Oil,John_Borneman,Ford,198,20165,running,0,79
+2008,B,2008_Hefty_Odor_Block_200,2008_34,28,35,83,usa,Johnny_Borneman_III,Johnny Borneman III,Twisted X Boots / Red Line Oil,John_Borneman,Ford,198,20165,running,0,79
 2008,B,2008_Hefty_Odor_Block_200,2008_34,29,36,4,usa,Patrick_Sheltra,Patrick Sheltra,QualityTurf / Briggs Construction Equipment,Richard_Sheltra,Dodge,198,26558,running,0,76
 2008,B,2008_Hefty_Odor_Block_200,2008_34,30,38,61,usa,Brandon_Whitt,Brandon Whitt,Specialty Racing,Charles_Shoffner,Ford,198,26773,running,0,73
 2008,B,2008_Hefty_Odor_Block_200,2008_34,31,26,99,usa,David_Reutimann,David Reutimann,Best Western,Michael_Waltrip,Toyota,197,20020,running,0,70

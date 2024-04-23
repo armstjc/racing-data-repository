@@ -9,7 +9,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2006,P,2006_United_Rentals_125,2006_01,8,7,1,usa,Jim_Inglebright,Jim Inglebright,Jelly Belly,,Chevrolet,125,4300,running,0,142
 2006,P,2006_United_Rentals_125,2006_01,9,11,61,usa,Brett_Thompson,Brett Thompson,Thompson Motorsports / Windmill Inns,,Chevrolet,125,4891,running,9,143
 2006,P,2006_United_Rentals_125,2006_01,10,15,00,usa,Scott_Gaylord,Scott Gaylord,Oliver Gravity Separators,,Chevrolet,125,4541,running,0,134
-2006,P,2006_United_Rentals_125,2006_01,11,16,8,usa,Johnny_Borneman_III,"Johnny Borneman, III",Borneman Plastering / Red Line Oil,,Ford,125,3641,running,0,130
+2006,P,2006_United_Rentals_125,2006_01,11,16,8,usa,Johnny_Borneman_III,Johnny Borneman III,Borneman Plastering / Red Line Oil,,Ford,125,3641,running,0,130
 2006,P,2006_United_Rentals_125,2006_01,12,34,66,usa,Justin_Lofton,Justin Lofton,Lofton Cattle Feeding Investments,,Chevrolet,125,3750,running,0,127
 2006,P,2006_United_Rentals_125,2006_01,13,4,9,usa,Mike_Duncan,Mike Duncan,Lucas Oil / Ron's Rear Ends,,Chevrolet,125,3641,running,1,129
 2006,P,2006_United_Rentals_125,2006_01,14,9,2,usa,Mike_David,Mike David,Bennett Lane Winery,,Ford,125,3441,running,0,121
@@ -31,7 +31,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2006,P,2006_United_Rentals_125,2006_01,30,28,90,usa,Bruce_Betts,Bruce Betts,RE/MAX Advantage Colorado,,Chevrolet,56,1300,crash,0,73
 2006,P,2006_United_Rentals_125,2006_01,31,21,55,usa,Ed_Watson,Ed Watson,Creekside Retirement Community,,Ford,56,1741,crash,0,70
 2006,P,2006_United_Rentals_125,2006_01,32,23,11,usa,David_Eshleman,David Eshleman,Spirit of Fontana,,Chevrolet,55,1741,crash,0,67
-2006,P,2006_United_Rentals_125,2006_01,33,32,27,usa,"Bobby_Hillis,_Jr","Bobby Hillis, Jr.",First Impressions Press,,Chevrolet,8,1741,oil leak,0,64
+2006,P,2006_United_Rentals_125,2006_01,33,32,27,usa,"Bobby_Hillis,_Jr.","Bobby Hillis, Jr.",First Impressions Press,,Chevrolet,8,1741,oil leak,0,64
 2006,P,2006_United_Rentals_125,2006_01,34,31,19,usa,Andrew_Lewis,Andrew Lewis,Andrew Lewis Racing,,Chevrolet,5,1741,ignition,0,61
 2006,P,2006_Casino_Arizona_150,2006_02,1,5,44,usa,Andrew_Myers,Andrew Myers,Toyota of Escondido,,Chevrolet,153,14725,running,47,185
 2006,P,2006_Casino_Arizona_150,2006_02,2,2,16,usa,Peyton_Sellers,Peyton Sellers,NAPA / NAPA Belts & Hoses,,Chevrolet,153,11000,running,27,175
@@ -60,15 +60,15 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2006,P,2006_Casino_Arizona_150,2006_02,25,7,29,usa,Nick_Lynch,Nick Lynch,Baja Motorsports,,Dodge,116,2350,crash,0,88
 2006,P,2006_Casino_Arizona_150,2006_02,26,24,55,usa,Ed_Watson,Ed Watson,Creekside Retirement Community,,Ford,115,1925,crash,0,85
 2006,P,2006_Casino_Arizona_150,2006_02,27,13,18,usa,Eric_Hardin,Eric Hardin,DSNTV / Legacy Int. Realty,,Chevrolet,107,2300,crash,0,82
-2006,P,2006_Casino_Arizona_150,2006_02,28,32,15,usa,"Bobby_Hillis,_Jr","Bobby Hillis, Jr.",Aramark,,Pontiac,87,1925,radio,0,79
+2006,P,2006_Casino_Arizona_150,2006_02,28,32,15,usa,"Bobby_Hillis,_Jr.","Bobby Hillis, Jr.",Aramark,,Pontiac,87,1925,radio,0,79
 2006,P,2006_Casino_Arizona_150,2006_02,29,26,6,usa,David_Eshleman,David Eshleman,Spirit of Fontana,,Chevrolet,80,1925,crash,0,76
 2006,P,2006_Casino_Arizona_150,2006_02,30,3,40,usa,Matt_Kobyluck,Matt Kobyluck,Mohegan Sun Resort,,Chevrolet,75,6300,engine,56,83
 2006,P,2006_Casino_Arizona_150,2006_02,31,34,37,usa,Robbie_Brand,Robbie Brand,World Com Financial / Youngren Construction,,Ford,30,1925,engine,0,70
 2006,P,2006_Casino_Arizona_150,2006_02,32,17,00,usa,Scott_Gaylord,Scott Gaylord,Oliver Gravity Separators,,Chevrolet,29,2925,engine,0,67
-2006,P,2006_Casino_Arizona_150,2006_02,33,16,8,usa,Johnny_Borneman_III,"Johnny Borneman, III",Borneman Plastering / Red Line Oil,,Ford,19,1925,engine,0,64
+2006,P,2006_Casino_Arizona_150,2006_02,33,16,8,usa,Johnny_Borneman_III,Johnny Borneman III,Borneman Plastering / Red Line Oil,,Ford,19,1925,engine,0,64
 2006,P,2006_Casino_Arizona_150,2006_02,34,22,04,usa,Andrew_Phipps,Andrew Phipps,Spenser Communications,,Ford,2,1300,engine,0,61
 2006,P,2006_Basalite_150_by_Havoline,2006_03,1,4,2,usa,Mike_David,Mike David,Bennett Lane Winery,,Ford,155,7884,running,94,190
-2006,P,2006_Basalite_150_by_Havoline,2006_03,2,7,8,usa,Johnny_Borneman_III,"Johnny Borneman, III",Borneman Plastering / Red Line Oil,,Ford,155,5384,running,0,170
+2006,P,2006_Basalite_150_by_Havoline,2006_03,2,7,8,usa,Johnny_Borneman_III,Johnny Borneman III,Borneman Plastering / Red Line Oil,,Ford,155,5384,running,0,170
 2006,P,2006_Basalite_150_by_Havoline,2006_03,3,9,77,usa,Steve_Portenga,Steve Portenga,King Taco / Signco,,Ford,155,2584,running,0,165
 2006,P,2006_Basalite_150_by_Havoline,2006_03,4,5,61,usa,Brett_Thompson,Brett Thompson,Thompson Motorsports,,Chevrolet,155,2784,running,0,160
 2006,P,2006_Basalite_150_by_Havoline,2006_03,5,14,1,usa,Jim_Inglebright,Jim Inglebright,Jelly Belly,,Chevrolet,155,1800,running,0,155
@@ -88,7 +88,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2006,P,2006_Basalite_150_by_Havoline,2006_03,19,13,20,usa,Brian_Ickler,Brian Ickler,Basalite Concrete Products,,Chevrolet,152,1000,running,0,106
 2006,P,2006_Basalite_150_by_Havoline,2006_03,20,8,62,usa,Eric_Holmes,Eric Holmes,Sunoco Race Fuels / Paul Oil,,Chevrolet,137,950,running,0,103
 2006,P,2006_Basalite_150_by_Havoline,2006_03,21,22,09,japan,Takuma_Koga,Takuma Koga,Goodyear,,Chevrolet,118,1284,running,0,100
-2006,P,2006_Basalite_150_by_Havoline,2006_03,22,20,15,usa,"Bobby_Hillis,_Jr","Bobby Hillis, Jr.",Aramark,,Pontiac,13,1284,alternator,0,97
+2006,P,2006_Basalite_150_by_Havoline,2006_03,22,20,15,usa,"Bobby_Hillis,_Jr.","Bobby Hillis, Jr.",Aramark,,Pontiac,13,1284,alternator,0,97
 2006,P,2006_King_Taco_200_%28May%29,2006_04,1,12,44,usa,Andrew_Myers,Andrew Myers,Toyota of Escondido,,Chevrolet,200,8063,running,65,190
 2006,P,2006_King_Taco_200_%28May%29,2006_04,2,1,62,usa,Eric_Holmes,Eric Holmes,Sunoco Race Fuels / Paul Oil,,Chevrolet,200,5063,running,16,175
 2006,P,2006_King_Taco_200_%28May%29,2006_04,3,11,00,usa,Scott_Gaylord,Scott Gaylord,Oliver Gravity Separators,,Chevrolet,200,3263,running,0,165
@@ -99,14 +99,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2006,P,2006_King_Taco_200_%28May%29,2006_04,8,8,20,usa,Brian_Ickler,Brian Ickler,NAPA Filters / NAPA Belts & Hoses,,Chevrolet,200,1663,running,28,147
 2006,P,2006_King_Taco_200_%28May%29,2006_04,9,18,31,usa,Daniel_DiGiacomo,Daniel DiGiacomo,Russo's Pet Experience,,Chevrolet,200,1300,running,0,138
 2006,P,2006_King_Taco_200_%28May%29,2006_04,10,13,61,usa,Brett_Thompson,Brett Thompson,Thompson Motorsports / Windmill Inns,,Chevrolet,200,2038,running,0,134
-2006,P,2006_King_Taco_200_%28May%29,2006_04,11,14,8,usa,Johnny_Borneman_III,"Johnny Borneman, III",Borneman Plastering / Red Line Oil,,Ford,200,1513,running,0,130
+2006,P,2006_King_Taco_200_%28May%29,2006_04,11,14,8,usa,Johnny_Borneman_III,Johnny Borneman III,Borneman Plastering / Red Line Oil,,Ford,200,1513,running,0,130
 2006,P,2006_King_Taco_200_%28May%29,2006_04,12,19,4,usa,Barry_Bradshaw,Barry Bradshaw,Puskarich Racing,,Pontiac,200,1175,running,0,127
 2006,P,2006_King_Taco_200_%28May%29,2006_04,13,16,65,usa,Stan_Silva_Jr,"Stan Silva, Jr.",Total Control / Stan Silva Jr Trucking,,Chevrolet,200,1150,running,0,124
 2006,P,2006_King_Taco_200_%28May%29,2006_04,14,15,66,usa,Justin_Lofton,Justin Lofton,Lofton Cattle Feeding Investments,,Chevrolet,200,1363,running,0,121
 2006,P,2006_King_Taco_200_%28May%29,2006_04,15,17,1,usa,Jim_Inglebright,Jim Inglebright,Jelly Belly,,Chevrolet,200,1838,running,0,118
 2006,P,2006_King_Taco_200_%28May%29,2006_04,16,23,75,usa,Jack_Sellers,Jack Sellers,Aramark,,Pontiac,199,1313,running,0,115
 2006,P,2006_King_Taco_200_%28May%29,2006_04,17,20,09,japan,Takuma_Koga,Takuma Koga,Goodyear / UBOC,,Chevrolet,196,1025,running,0,112
-2006,P,2006_King_Taco_200_%28May%29,2006_04,18,25,15,usa,"Bobby_Hillis,_Jr","Bobby Hillis, Jr.",Aramark,,Pontiac,193,1263,running,0,109
+2006,P,2006_King_Taco_200_%28May%29,2006_04,18,25,15,usa,"Bobby_Hillis,_Jr.","Bobby Hillis, Jr.",Aramark,,Pontiac,193,1263,running,0,109
 2006,P,2006_King_Taco_200_%28May%29,2006_04,19,22,38,usa,Brian_Pannone,Brian Pannone,Sports Nuts / LA Dye & Wash,,Ford,190,1263,overheating,0,106
 2006,P,2006_King_Taco_200_%28May%29,2006_04,20,5,18,usa,Eric_Hardin,Eric Hardin,Hardin Buick-Pontiac-GMC / DSNTV,,Chevrolet,180,1763,electrical,0,103
 2006,P,2006_King_Taco_200_%28May%29,2006_04,21,21,42,usa,Rick_Wall,Rick Wall,Rick Wall Racing,,Ford,156,1000,crash,0,100
@@ -141,13 +141,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2006,P,2006_Blue_Lizard_Australian_Suncream_200,2006_05,25,2,35,usa,Eric_Holmes,Eric Holmes,Bollegraaf / Coastal Wire,,Ford,54,1810,running,0,88
 2006,P,2006_Blue_Lizard_Australian_Suncream_200,2006_05,26,32,90,usa,P_J_Abbott,P.J. Abbott,Western Union / Torin Jacks / MSI,,Chevrolet,52,1300,running,0,85
 2006,P,2006_Blue_Lizard_Australian_Suncream_200,2006_05,27,29,61,usa,Brett_Thompson,Brett Thompson,Thompson Motorsports / Windmill Inns,,Chevrolet,48,2790,running,0,82
-2006,P,2006_Blue_Lizard_Australian_Suncream_200,2006_05,28,14,8,usa,Johnny_Borneman_III,"Johnny Borneman, III",Borneman Plastering / Red Line Oil,,Ford,47,1780,engine,0,79
+2006,P,2006_Blue_Lizard_Australian_Suncream_200,2006_05,28,14,8,usa,Johnny_Borneman_III,Johnny Borneman III,Borneman Plastering / Red Line Oil,,Ford,47,1780,engine,0,79
 2006,P,2006_Blue_Lizard_Australian_Suncream_200,2006_05,29,12,2,usa,Mike_David,Mike David,Bennett Lane Winery,,Ford,40,2770,running,0,76
 2006,P,2006_Blue_Lizard_Australian_Suncream_200,2006_05,30,5,22,usa,James_Bruncati,James Bruncati,Sunrise Ford,,Ford,30,1760,transmission,0,73
 2006,P,2006_Blue_Lizard_Australian_Suncream_200,2006_05,31,31,09,japan,Takuma_Koga,Takuma Koga,Goodyear Japan,,Chevrolet,30,1250,engine,0,70
 2006,P,2006_Blue_Lizard_Australian_Suncream_200,2006_05,32,18,39,usa,C_T_Hellmund,C.T. Hellmund,Suzuki Motorcycles & ATVs,,Pontiac,24,1240,fuel pump,0,67
 2006,P,2006_Blue_Lizard_Australian_Suncream_200,2006_05,33,23,77,usa,Steve_Portenga,Steve Portenga,King Taco,,Ford,10,2730,engine,0,64
-2006,P,2006_Blue_Lizard_Australian_Suncream_200,2006_05,34,35,15,usa,"Bobby_Hillis,_Jr","Bobby Hillis, Jr.",Greyhound Adoption Center,,Pontiac,7,1720,transmission,0,61
+2006,P,2006_Blue_Lizard_Australian_Suncream_200,2006_05,34,35,15,usa,"Bobby_Hillis,_Jr.","Bobby Hillis, Jr.",Greyhound Adoption Center,,Pontiac,7,1720,transmission,0,61
 2006,P,2006_Blue_Lizard_Australian_Suncream_200,2006_05,35,34,54,usa,Tim_Woods,Tim Woods,Chino Hills Ford,,Ford,6,1710,engine,0,58
 2006,P,2006_Bi-Mart_150_by_NAPA_Belts_And_Hose,2006_06,1,1,16,usa,Peyton_Sellers,Peyton Sellers,NAPA / NAPA Belts & Hoses,,Chevrolet,150,7795,running,125,190
 2006,P,2006_Bi-Mart_150_by_NAPA_Belts_And_Hose,2006_06,2,7,2,usa,Mike_David,Mike David,Bennett Lane Winery,,Ford,150,5295,running,1,175
@@ -162,14 +162,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2006,P,2006_Bi-Mart_150_by_NAPA_Belts_And_Hose,2006_06,11,10,18,usa,Eric_Hardin,Eric Hardin,Hardin Buick-Pontiac-GMC / DSNTV,,Chevrolet,149,2170,running,0,130
 2006,P,2006_Bi-Mart_150_by_NAPA_Belts_And_Hose,2006_06,12,16,75,usa,Jack_Sellers,Jack Sellers,Aramark,,Chevrolet,148,1645,running,0,127
 2006,P,2006_Bi-Mart_150_by_NAPA_Belts_And_Hose,2006_06,13,9,20,usa,Brian_Ickler,Brian Ickler,NAPA Filters / Bi-Mart,,Chevrolet,145,1620,running,0,124
-2006,P,2006_Bi-Mart_150_by_NAPA_Belts_And_Hose,2006_06,14,18,27,usa,"Bobby_Hillis,_Jr","Bobby Hillis, Jr.",Oregon Tool & Supply,,Ford,140,1225,running,0,121
-2006,P,2006_Bi-Mart_150_by_NAPA_Belts_And_Hose,2006_06,15,13,8,usa,Johnny_Borneman_III,"Johnny Borneman, III",Borneman Plastering / Red Line Oil,,Ford,115,1495,crash,0,118
+2006,P,2006_Bi-Mart_150_by_NAPA_Belts_And_Hose,2006_06,14,18,27,usa,"Bobby_Hillis,_Jr.","Bobby Hillis, Jr.",Oregon Tool & Supply,,Ford,140,1225,running,0,121
+2006,P,2006_Bi-Mart_150_by_NAPA_Belts_And_Hose,2006_06,15,13,8,usa,Johnny_Borneman_III,Johnny Borneman III,Borneman Plastering / Red Line Oil,,Ford,115,1495,crash,0,118
 2006,P,2006_Bi-Mart_150_by_NAPA_Belts_And_Hose,2006_06,16,4,88,usa,Austin_Cameron,Austin Cameron,RaceCarFans.com,,Chevrolet,106,1970,rear end,0,115
 2006,P,2006_Bi-Mart_150_by_NAPA_Belts_And_Hose,2006_06,17,14,15,usa,Rick_Ruzbarsky,Rick Ruzbarsky,Greyhound Adoption Center,,Pontiac,75,1445,electrical,0,112
 2006,P,2006_Bi-Mart_150_by_NAPA_Belts_And_Hose,2006_06,18,15,44,usa,Andrew_Myers,Andrew Myers,Toyota of Escondido,,Chevrolet,32,1895,overheating,0,109
 2006,P,2006_King_Taco_200_%28July%29,2006_07,1,12,88,usa,Austin_Cameron,Austin Cameron,RaceCarFans.com,,Chevrolet,200,7363,running,36,185
 2006,P,2006_King_Taco_200_%28July%29,2006_07,2,2,62,usa,Eric_Holmes,Eric Holmes,Sunoco Race Fuels / Paul Oil,,Chevrolet,200,3763,running,56,175
-2006,P,2006_King_Taco_200_%28July%29,2006_07,3,23,8,usa,Johnny_Borneman_III,"Johnny Borneman, III",Borneman Plastering / Red Line Oil,,Ford,200,4263,running,0,165
+2006,P,2006_King_Taco_200_%28July%29,2006_07,3,23,8,usa,Johnny_Borneman_III,Johnny Borneman III,Borneman Plastering / Red Line Oil,,Ford,200,4263,running,0,165
 2006,P,2006_King_Taco_200_%28July%29,2006_07,4,18,77,usa,Steve_Portenga,Steve Portenga,King Taco / Signco,,Ford,200,2763,running,0,160
 2006,P,2006_King_Taco_200_%28July%29,2006_07,5,6,2,usa,Mike_David,Mike David,Bennett Lane Winery,,Ford,200,2513,running,0,155
 2006,P,2006_King_Taco_200_%28July%29,2006_07,6,14,1,usa,Jim_Inglebright,Jim Inglebright,Jelly Belly,,Chevrolet,200,2413,running,0,150
@@ -180,7 +180,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2006,P,2006_King_Taco_200_%28July%29,2006_07,11,9,61,usa,Brett_Thompson,Brett Thompson,Thompson Motorsports / VaCom Technology,,Chevrolet,199,2013,running,0,130
 2006,P,2006_King_Taco_200_%28July%29,2006_07,12,16,13,usa,Todd_Souza,Todd Souza,Central Coast Manufacturing,,Chevrolet,199,1175,running,0,127
 2006,P,2006_King_Taco_200_%28July%29,2006_07,13,11,98,usa,Brandon_Loverock,Brandon Loverock,Unique Pizza & Subs,,Chevrolet,198,1150,running,0,124
-2006,P,2006_King_Taco_200_%28July%29,2006_07,14,25,27,usa,"Bobby_Hillis,_Jr","Bobby Hillis, Jr.",Country Inn & Suites / Famous Fences,,Ford,198,1363,running,0,121
+2006,P,2006_King_Taco_200_%28July%29,2006_07,14,25,27,usa,"Bobby_Hillis,_Jr.","Bobby Hillis, Jr.",Country Inn & Suites / Famous Fences,,Ford,198,1363,running,0,121
 2006,P,2006_King_Taco_200_%28July%29,2006_07,15,4,9,usa,Mike_Duncan,Mike Duncan,Lucas Oil / Ron's Rear Ends,,Chevrolet,197,1838,running,0,118
 2006,P,2006_King_Taco_200_%28July%29,2006_07,16,1,16,usa,Peyton_Sellers,Peyton Sellers,NAPA / NAPA Belts & Hoses,,Chevrolet,197,2813,running,19,120
 2006,P,2006_King_Taco_200_%28July%29,2006_07,17,5,54,usa,Tim_Woods,Tim Woods,Chino Hills Ford,,Ford,182,1288,running,89,122
@@ -195,7 +195,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2006,P,2006_King_Taco_200_%28July%29,2006_07,26,3,65,usa,Stan_Silva_Jr,"Stan Silva, Jr.",Total Control / A&S Metals,,Chevrolet,14,1263,crash,0,85
 2006,P,2006_King_Taco_200_%28July%29,2006_07,27,8,20,usa,Brian_Ickler,Brian Ickler,NAPAFilters.com,,Chevrolet,14,1263,crash,0,82
 2006,P,2006_King_Taco_200_%28July%29,2006_07,28,28,52,usa,Charles_Price,Charles Price,Stock All Services,,Chevrolet,1,1000,engine,0,79
-2006,P,2006_NAPA_250_Presented_by_AAA,2006_08,1,11,8,usa,Johnny_Borneman_III,"Johnny Borneman, III",Borneman Plastering / Red Line Oil,,Ford,250,9816,running,87,185
+2006,P,2006_NAPA_250_Presented_by_AAA,2006_08,1,11,8,usa,Johnny_Borneman_III,Johnny Borneman III,Borneman Plastering / Red Line Oil,,Ford,250,9816,running,87,185
 2006,P,2006_NAPA_250_Presented_by_AAA,2006_08,2,2,9,usa,Mike_Duncan,Mike Duncan,Lucas Oil / Ron's Rear Ends,,Chevrolet,250,5966,running,2,175
 2006,P,2006_NAPA_250_Presented_by_AAA,2006_08,3,8,77,usa,Steve_Portenga,Steve Portenga,King Taco / Signco,,Ford,250,5066,running,0,165
 2006,P,2006_NAPA_250_Presented_by_AAA,2006_08,4,5,61,usa,Jeff_Jefferson,Jeff Jefferson,Creekside Retirement / Thompson Trucking,,Chevrolet,250,3866,running,10,165
@@ -209,7 +209,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2006,P,2006_NAPA_250_Presented_by_AAA,2006_08,12,15,07,brazil,Giuliano_Losacco,Giuliano Losacco,StockCar Brazil / Inforshop,,Chevrolet,247,1350,running,0,127
 2006,P,2006_NAPA_250_Presented_by_AAA,2006_08,13,14,54,usa,Tim_Woods,Tim Woods,Chino Hills Ford,,Ford,247,1741,running,2,129
 2006,P,2006_NAPA_250_Presented_by_AAA,2006_08,14,16,18,usa,Eric_Hardin,Eric Hardin,Hardin Buick-Pontiac-GMC / DSNTV,,Chevrolet,244,2466,running,0,121
-2006,P,2006_NAPA_250_Presented_by_AAA,2006_08,15,19,27,usa,"Bobby_Hillis,_Jr","Bobby Hillis, Jr.",Country Inn & Suites / Famous Fences,,Ford,224,1691,running,0,118
+2006,P,2006_NAPA_250_Presented_by_AAA,2006_08,15,19,27,usa,"Bobby_Hillis,_Jr.","Bobby Hillis, Jr.",Country Inn & Suites / Famous Fences,,Ford,224,1691,running,0,118
 2006,P,2006_NAPA_250_Presented_by_AAA,2006_08,16,17,75,usa,Jack_Sellers,Jack Sellers,Aramark,,Pontiac,166,1666,crash,0,115
 2006,P,2006_NAPA_250_Presented_by_AAA,2006_08,17,10,20,usa,Brian_Ickler,Brian Ickler,NAPAFilters.com,,Chevrolet,150,1641,crash,0,112
 2006,P,2006_NAPA_250_Presented_by_AAA,2006_08,18,13,44,usa,Andrew_Myers,Andrew Myers,Toyota of Escondido,,Chevrolet,149,2366,crash,0,109
@@ -230,9 +230,9 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2006,P,2006_Dodge_Country_200,2006_09,13,8,1,usa,Jim_Inglebright,Jim Inglebright,Jelly Belly,,Chevrolet,199,2416,running,0,124
 2006,P,2006_Dodge_Country_200,2006_09,14,18,76,usa,Moses_Smith,Moses Smith,Hasa Pool Products,,Pontiac,197,1200,running,0,121
 2006,P,2006_Dodge_Country_200,2006_09,15,19,75,usa,Jack_Sellers,Jack Sellers,Aramark,,Pontiac,193,1616,running,0,118
-2006,P,2006_Dodge_Country_200,2006_09,16,20,27,usa,"Bobby_Hillis,_Jr","Bobby Hillis, Jr.",Country Inn & Suites / Famous Fences,,Ford,136,1591,clutch,0,115
+2006,P,2006_Dodge_Country_200,2006_09,16,20,27,usa,"Bobby_Hillis,_Jr.","Bobby Hillis, Jr.",Country Inn & Suites / Famous Fences,,Ford,136,1591,clutch,0,115
 2006,P,2006_Dodge_Country_200,2006_09,17,11,14,usa,Josh_Bews,Josh Bews,Joseph Bews Construction,,Ford,67,1125,engine,0,112
-2006,P,2006_Dodge_Country_200,2006_09,18,12,8,usa,Johnny_Borneman_III,"Johnny Borneman, III",Borneman Plastering / Red Line Oil,,Ford,26,1541,oil leak,0,109
+2006,P,2006_Dodge_Country_200,2006_09,18,12,8,usa,Johnny_Borneman_III,Johnny Borneman III,Borneman Plastering / Red Line Oil,,Ford,26,1541,oil leak,0,109
 2006,P,2006_Dodge_Country_200,2006_09,19,17,09,japan,Takuma_Koga,Takuma Koga,Goodyear / UBOC,,Chevrolet,1,1516,oil cooler,0,106
 2006,P,2006_Dodge_Country_200,2006_09,20,16,44,usa,Andrew_Myers,Andrew Myers,Toyota of Escondido,,Chevrolet,1,2241,power steering,0,103
 2006,P,2006_Relocate_Here_200_by_San_Bernardino_County,2006_10,1,10,9,usa,Mike_Duncan,Mike Duncan,Lucas Oil / Ron's Rear Ends,,Chevrolet,100,14500,running,2,185
@@ -257,7 +257,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2006,P,2006_Relocate_Here_200_by_San_Bernardino_County,2006_10,20,28,37,usa,Robbie_Brand,Robbie Brand,World Com Financial / H&H Auto Body,,Ford,97,2550,running,0,103
 2006,P,2006_Relocate_Here_200_by_San_Bernardino_County,2006_10,21,4,16,usa,Peyton_Sellers,Peyton Sellers,NAPA / NAPA Belts & Hoses,,Chevrolet,92,4000,crash,24,105
 2006,P,2006_Relocate_Here_200_by_San_Bernardino_County,2006_10,22,24,03,mexico,Rogelio_Lopez,Rogelio Lopez,Lucas Oil / Telmex,,Chevrolet,71,2350,crash,0,97
-2006,P,2006_Relocate_Here_200_by_San_Bernardino_County,2006_10,23,8,8,usa,Johnny_Borneman_III,"Johnny Borneman, III",Borneman Plastering / Red Line Oil,,Ford,71,2800,radiator,0,94
+2006,P,2006_Relocate_Here_200_by_San_Bernardino_County,2006_10,23,8,8,usa,Johnny_Borneman_III,Johnny Borneman III,Borneman Plastering / Red Line Oil,,Ford,71,2800,radiator,0,94
 2006,P,2006_Relocate_Here_200_by_San_Bernardino_County,2006_10,24,19,66,usa,Justin_Lofton,Justin Lofton,Lofton Cattle Feeding Investments,,Chevrolet,71,2750,crash,0,91
 2006,P,2006_Relocate_Here_200_by_San_Bernardino_County,2006_10,25,7,40,usa,Matt_Kobyluck,Matt Kobyluck,Mohegan Sun Resort,,Chevrolet,71,2200,crash,2,93
 2006,P,2006_Relocate_Here_200_by_San_Bernardino_County,2006_10,26,13,46,usa,Jeff_Barkshire,Jeff Barkshire,Centennial Batteries / SPE Race Eng.,,Pontiac,62,2150,transmission,0,85
@@ -267,11 +267,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2006,P,2006_Relocate_Here_200_by_San_Bernardino_County,2006_10,30,31,76,usa,Jerick_Johnson,Jerick Johnson,American Legion,,Chevrolet,28,2000,electrical,0,73
 2006,P,2006_Relocate_Here_200_by_San_Bernardino_County,2006_10,31,22,54,usa,Tim_Woods,Tim Woods,Chino Hills Ford,,Ford,7,2500,crash,0,70
 2006,P,2006_Relocate_Here_200_by_San_Bernardino_County,2006_10,32,30,09,japan,Takuma_Koga,Takuma Koga,Union Bank of California,,Pontiac,0,2500,did not start,0,67
-2006,P,2006_Relocate_Here_200_by_San_Bernardino_County,2006_10,33,33,27,usa,"Bobby_Hillis,_Jr","Bobby Hillis, Jr.",Pepsi / Wal-Mart / Country Inn,,Ford,0,2500,did not start,0,64
+2006,P,2006_Relocate_Here_200_by_San_Bernardino_County,2006_10,33,33,27,usa,"Bobby_Hillis,_Jr.","Bobby Hillis, Jr.",Pepsi / Wal-Mart / Country Inn,,Ford,0,2500,did not start,0,64
 2006,P,2006_Allstate_Texas_Thunder_200,2006_11,1,3,62,usa,Eric_Holmes,Eric Holmes,Sunoco Race Fuels / Paul Oil,,Chevrolet,200,6862,running,87,185
 2006,P,2006_Allstate_Texas_Thunder_200,2006_11,2,9,20,usa,Brian_Ickler,Brian Ickler,McMillin Homes / NAPAFilters.com,,Chevrolet,200,4862,running,0,170
 2006,P,2006_Allstate_Texas_Thunder_200,2006_11,3,11,88,usa,Austin_Cameron,Austin Cameron,RaceCarFans.com,,Chevrolet,200,4412,running,0,165
-2006,P,2006_Allstate_Texas_Thunder_200,2006_11,4,12,8,usa,Johnny_Borneman_III,"Johnny Borneman, III",Borneman Plastering / Red Line Oil,,Ford,200,3462,running,0,160
+2006,P,2006_Allstate_Texas_Thunder_200,2006_11,4,12,8,usa,Johnny_Borneman_III,Johnny Borneman III,Borneman Plastering / Red Line Oil,,Ford,200,3462,running,0,160
 2006,P,2006_Allstate_Texas_Thunder_200,2006_11,5,1,2,usa,Mike_David,Mike David,Bennett Lane Winery,,Ford,200,5112,running,111,165
 2006,P,2006_Allstate_Texas_Thunder_200,2006_11,6,5,77,usa,Steve_Portenga,Steve Portenga,King Taco / Signco,,Ford,200,4012,running,0,150
 2006,P,2006_Allstate_Texas_Thunder_200,2006_11,7,15,54,usa,Tim_Woods,Tim Woods,Chino Hills Ford,,Ford,200,3462,running,0,146
@@ -286,13 +286,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2006,P,2006_Allstate_Texas_Thunder_200,2006_11,16,4,16,usa,Peyton_Sellers,Peyton Sellers,NAPA / NAPA Belts & Hoses,,Chevrolet,96,3012,crash,2,120
 2006,P,2006_Allstate_Texas_Thunder_200,2006_11,17,16,09,usa,Bruce_Betts,Bruce Betts,RE/MAX Advantage Colorado,,Chevrolet,94,1821,engine,0,112
 2006,P,2006_Allstate_Texas_Thunder_200,2006_11,18,7,44,usa,Andrew_Myers,Andrew Myers,Toyota of Escondido,,Chevrolet,65,3012,overheating,0,109
-2006,P,2006_Allstate_Texas_Thunder_200,2006_11,19,20,27,usa,"Bobby_Hillis,_Jr","Bobby Hillis, Jr.",Pepsi / Wal-Mart / Country Inn,,Chevrolet,56,2262,overheating,0,106
+2006,P,2006_Allstate_Texas_Thunder_200,2006_11,19,20,27,usa,"Bobby_Hillis,_Jr.","Bobby Hillis, Jr.",Pepsi / Wal-Mart / Country Inn,,Chevrolet,56,2262,overheating,0,106
 2006,P,2006_Allstate_Texas_Thunder_200,2006_11,20,22,12,usa,Randy_Lynch,Randy Lynch,Bennett Lane Winery,,Ford,27,1400,overheating,0,103
 2006,P,2006_Allstate_Texas_Thunder_200,2006_11,21,6,39,usa,C_T_Hellmund,C.T. Hellmund,Bob West Suzuki Special,,Pontiac,12,1821,rear end,0,100
 2006,P,2006_Allstate_Texas_Thunder_200,2006_11,22,19,61,usa,Brett_Thompson,Brett Thompson,Thompson Motorsports,,Chevrolet,2,2591,engine,0,97
 2006,P,2006_Altamont_200,2006_12,1,5,88,usa,Austin_Cameron,Austin Cameron,RaceCarFans.com,,Chevrolet,200,7191,running,54,185
 2006,P,2006_Altamont_200,2006_12,2,14,00,usa,Scott_Gaylord,Scott Gaylord,Oliver Gravity Separators,,Chevrolet,200,5791,running,0,170
-2006,P,2006_Altamont_200,2006_12,3,15,8,usa,Johnny_Borneman_III,"Johnny Borneman, III",Borneman Plastering / Red Line Oil,,Ford,200,3641,running,0,165
+2006,P,2006_Altamont_200,2006_12,3,15,8,usa,Johnny_Borneman_III,Johnny Borneman III,Borneman Plastering / Red Line Oil,,Ford,200,3641,running,0,165
 2006,P,2006_Altamont_200,2006_12,4,16,54,usa,Tim_Woods,Tim Woods,Chino Hills Ford,,Ford,200,2941,running,0,160
 2006,P,2006_Altamont_200,2006_12,5,1,62,usa,Eric_Holmes,Eric Holmes,Sunoco Race Fuels / Paul Oil,,Chevrolet,200,3891,running,123,165
 2006,P,2006_Altamont_200,2006_12,6,13,1,usa,Jim_Inglebright,Jim Inglebright,Jelly Belly,,Chevrolet,200,3541,running,0,150
@@ -311,5 +311,5 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2006,P,2006_Altamont_200,2006_12,19,6,18,usa,Eric_Hardin,Eric Hardin,Hardin Buick-Pontiac-GMC / DSNTV,,Chevrolet,178,2416,running,0,106
 2006,P,2006_Altamont_200,2006_12,20,2,16,usa,Peyton_Sellers,Peyton Sellers,NAPA / NAPA Belts & Hoses,,Chevrolet,158,2416,engine,20,108
 2006,P,2006_Altamont_200,2006_12,21,8,66,usa,Justin_Lofton,Justin Lofton,Lofton Cattle Feeding Investments,,Chevrolet,156,1666,crash,0,100
-2006,P,2006_Altamont_200,2006_12,22,22,27,usa,"Bobby_Hillis,_Jr","Bobby Hillis, Jr.",Pepsi / Wal-Mart / Country Inn,,Chevrolet,116,1666,handling,0,97
+2006,P,2006_Altamont_200,2006_12,22,22,27,usa,"Bobby_Hillis,_Jr.","Bobby Hillis, Jr.",Pepsi / Wal-Mart / Country Inn,,Chevrolet,116,1666,handling,0,97
 2006,P,2006_Altamont_200,2006_12,23,11,75,usa,Thomas_Martin,Thomas Martin,Aramark,,Pontiac,97,1666,shocks,0,94

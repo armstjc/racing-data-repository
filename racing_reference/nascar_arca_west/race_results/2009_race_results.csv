@@ -63,7 +63,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2009,E,2009_Long_John_Silvers_200,2009_03,7,14,61,usa,Brett_Thompson,Brett Thompson   (West),Rich Thompson Trucking,,Chevrolet,200,3125,running,0,0
 2009,E,2009_Long_John_Silvers_200,2009_03,8,11,28,usa,Jesus_Hernandez,Jesus Hernandez,Chivas / Telmex / Z-Line Designs,,Dodge,200,2400,running,0,155
 2009,E,2009_Long_John_Silvers_200,2009_03,9,8,6,usa,Jason_Bowles,Jason Bowles   (West),Sunrise Ford,,Ford,200,2825,running,3,0
-2009,E,2009_Long_John_Silvers_200,2009_03,10,13,8,usa,Johnny_Borneman_III,"Johnny Borneman, III   (West)",Borneman Plastering / Red Line Oil,,Chevrolet,200,2000,running,0,0
+2009,E,2009_Long_John_Silvers_200,2009_03,10,13,8,usa,Johnny_Borneman_III,Johnny Borneman III   (West),Borneman Plastering / Red Line Oil,,Chevrolet,200,2000,running,0,0
 2009,E,2009_Long_John_Silvers_200,2009_03,11,18,2,usa,Mike_David,Mike David   (West),Bennett Lane Winery,,Toyota,199,2575,running,0,0
 2009,E,2009_Long_John_Silvers_200,2009_03,12,15,10,usa,Jim_Warn,Jim Warn   (West),MJ2 Racing / GPIPerformance.com,,Chevrolet,199,3100,running,0,0
 2009,E,2009_Long_John_Silvers_200,2009_03,13,17,37,usa,Alex_Kennedy,Alex Kennedy,Media Master / Dream Factory,,Chevrolet,199,2400,running,0,150
@@ -182,7 +182,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2009,E,2009_Pepsi_Full_Fender_Frenzy_100,2009_07,16,22,82,usa,Sean_Corr,Sean Corr,The Trans Group,,Chevrolet,99,975,running,0,115
 2009,E,2009_Pepsi_Full_Fender_Frenzy_100,2009_07,17,11,96,usa,Mike_Johnson_(2),Mike Johnson,Johnson Lumber / Martin Intl. Encl.,,Ford,66,950,crash,0,112
 2009,E,2009_Pepsi_Full_Fender_Frenzy_100,2009_07,18,9,53,usa,Derek_Ramstrom,Derek Ramstrom,Bollegraaf,,Chevrolet,66,950,crash,0,109
-2009,E,2009_Pepsi_Full_Fender_Frenzy_100,2009_07,19,7,07,usa,Corey_Lajoie,Corey Lajoie,Bodine Bobsled Project,,Ford,53,925,engine,0,106
+2009,E,2009_Pepsi_Full_Fender_Frenzy_100,2009_07,19,7,07,usa,Corey_LaJoie,Corey LaJoie,Bodine Bobsled Project,,Ford,53,925,engine,0,106
 2009,E,2009_Pepsi_Full_Fender_Frenzy_100,2009_07,20,19,39,usa,Dustin_Delaney,Dustin Delaney,Delaney Infrastructure / CarDaddy.com,,Chevrolet,32,1425,engine,0,103
 2009,E,2009_Pepsi_Full_Fender_Frenzy_100,2009_07,21,21,31,usa,Eric_Curran,Eric Curran,Whelen Engineering / Coca-Cola,,Chevrolet,30,900,crash,0,100
 2009,E,2009_Pepsi_Full_Fender_Frenzy_100,2009_07,22,13,37,usa,Alex_Kennedy,Alex Kennedy,Media Master,,Chevrolet,13,1400,engine,0,97
@@ -259,14 +259,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2009,E,2009_Heluva_Good_Fall_125,2009_10,28,4,61,usa,Joey_Polewarczyk_Jr,"Joey Polewarczyk, Jr.",KDD Auto Parts / Pole's Automotive,,Chevrolet,92,2600,crash,0,79
 2009,E,2009_Heluva_Good_Fall_125,2009_10,29,26,31,usa,Eric_Curran,Eric Curran,Whelen Engineering / Coca-Cola,,Chevrolet,85,2600,crash,0,76
 2009,E,2009_Heluva_Good_Fall_125,2009_10,30,24,17,usa,Jason_Patison,Jason Patison,Lucas Oil / E3 Spark Plugs,,Chevrolet,85,2600,crash,0,73
-2009,E,2009_Heluva_Good_Fall_125,2009_10,31,20,36,usa,Corey_Lajoie,Corey Lajoie,Whelen Engineering / ArmorCoat,,Chevrolet,75,2600,crash,0,70
+2009,E,2009_Heluva_Good_Fall_125,2009_10,31,20,36,usa,Corey_LaJoie,Corey LaJoie,Whelen Engineering / ArmorCoat,,Chevrolet,75,2600,crash,0,70
 2009,E,2009_Heluva_Good_Fall_125,2009_10,32,31,63,usa,John_Salemi,John Salemi,Kustom Vinyl,,Chevrolet,64,3100,running,0,67
 2009,E,2009_Heluva_Good_Fall_125,2009_10,33,33,5,usa,Barney_McRae,Barney McRae,Motion Racing Rent-a-Ride,,Chevrolet,52,2600,handling,0,64
 2009,E,2009_Heluva_Good_Fall_125,2009_10,34,22,81,canada,Jason_Holehouse,Jason Holehouse,Vietnam Veterans Memorial Fund,,Toyota,14,2600,crash,0,61
 2009,E,2009_Heluva_Good_Fall_125,2009_10,35,27,10,usa,Matt_Kurzejewski,Matt Kurzejewski,Costy's Auto Parts,,Ford,0,2600,did not start,0,58
 2009,E,2009_Sunoco_150,2009_11,1,4,44,usa,Brett_Moffitt,Brett Moffitt,Red Line Oil,,Chevrolet,150,14825,running,85,190
 2009,E,2009_Sunoco_150,2009_11,2,14,29,usa,Ryan_Gifford,Ryan Gifford,Shell / Pennzoil,,Chevrolet,150,9870,running,32,175
-2009,E,2009_Sunoco_150,2009_11,3,5,07,usa,Corey_Lajoie,Corey Lajoie,Warrior Spec,,Ford,150,9050,running,0,165
+2009,E,2009_Sunoco_150,2009_11,3,5,07,usa,Corey_LaJoie,Corey LaJoie,Warrior Spec,,Ford,150,9050,running,0,165
 2009,E,2009_Sunoco_150,2009_11,4,10,19,usa,David_Mayhew,David Mayhew,MMI Services / Ron's Rear Ends / KHI,,Chevrolet,150,7500,running,2,165
 2009,E,2009_Sunoco_150,2009_11,5,16,38,usa,Alan_Tardiff,Alan Tardiff,Bestway Disposal / Renton Coil Spring,,Chevrolet,150,7000,running,0,155
 2009,E,2009_Sunoco_150,2009_11,6,15,35,usa,Steve_Park,Steve Park,Waste Management Recycle America,,Chevrolet,150,6600,running,0,150

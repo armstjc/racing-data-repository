@@ -1,5 +1,5 @@
 season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
-2013,T,2013_Pintys_Presents_the_Vortex_200,2013_01,1,2,47,canada,L_P_Dumoulin,L.P. Dumoulin,WeatherTech Canada / Bellemare,,Dodge,51,,running,32,48
+2013,T,2013_Pintys_Presents_the_Vortex_200,2013_01,1,2,47,canada,LP_Dumoulin,L.P. Dumoulin,WeatherTech Canada / Bellemare,,Dodge,51,,running,32,48
 2013,T,2013_Pintys_Presents_the_Vortex_200,2013_01,2,10,76,canada,Jeff_Lapcevich,Jeff Lapcevich,Tim Hortons,,Dodge,51,,running,3,43
 2013,T,2013_Pintys_Presents_the_Vortex_200,2013_01,3,11,3,canada,Jason_Hathaway,Jason Hathaway,Snap-On Tools / Rockstar Energy Drink,,Dodge,51,,running,0,41
 2013,T,2013_Pintys_Presents_the_Vortex_200,2013_01,4,5,17,canada,DJ_Kennington,D.J. Kennington,Castrol Edge / Mahindra Tractors,,Dodge,51,,running,0,40
@@ -45,7 +45,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2013,T,2013_EMCO_200,2013_02,16,17,19,canada,Brad_Graham,Brad Graham,Holmar Plumbing,,Dodge,186,,running,0,28
 2013,T,2013_EMCO_200,2013_02,17,19,09,canada,Ryley_Seibert,Ryley Seibert,Lake Excavating / Marshall's,,Dodge,179,,running,0,27
 2013,T,2013_EMCO_200,2013_02,18,20,69,canada,Trevor_Seibert,Trevor Seibert,Lake Excavating / EMCO Waterworks,,Dodge,172,,crash,0,26
-2013,T,2013_EMCO_200,2013_02,19,12,47,canada,L_P_Dumoulin,L.P. Dumoulin,WeatherTech Canada / Bellemare,,Dodge,160,,running,0,25
+2013,T,2013_EMCO_200,2013_02,19,12,47,canada,LP_Dumoulin,L.P. Dumoulin,WeatherTech Canada / Bellemare,,Dodge,160,,running,0,25
 2013,T,2013_EMCO_200,2013_02,20,13,39,canada,Alex_Guenette,Alex Guenette,Motos Illimitees / DLGL,,Dodge,157,,crash,7,25
 2013,T,2013_EMCO_200,2013_02,21,1,22,canada,Scott_Steckly,Scott Steckly,Canadian Tire,,Dodge,129,,running,70,24
 2013,T,2013_EMCO_200,2013_02,22,7,02,canada,Mark_Dilley,Mark Dilley,Leland / BDI / Dickies,,Ford,66,,running,0,22
@@ -55,7 +55,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2013,T,2013_Clarington_200,2013_03,4,13,3,canada,Jason_Hathaway,Jason Hathaway,Snap-On Tools / Rockstar Energy Drink,,Dodge,200,,running,0,40
 2013,T,2013_Clarington_200,2013_03,5,5,15,canada,Steven_Mathews,Steven Mathews,Bill Mathews Motors,,Ford,200,,running,13,40
 2013,T,2013_Clarington_200,2013_03,6,11,90,canada,Martin_Roy,Martin Roy,Batteries Expert / Veloce,,Dodge,200,,running,0,38
-2013,T,2013_Clarington_200,2013_03,7,9,47,canada,L_P_Dumoulin,L.P. Dumoulin,WeatherTech Canada / Bellemare,,Dodge,200,,running,0,37
+2013,T,2013_Clarington_200,2013_03,7,9,47,canada,LP_Dumoulin,L.P. Dumoulin,WeatherTech Canada / Bellemare,,Dodge,200,,running,0,37
 2013,T,2013_Clarington_200,2013_03,8,8,76,canada,Jeff_Lapcevich,Jeff Lapcevich,Tim Hortons,,Dodge,200,,running,0,36
 2013,T,2013_Clarington_200,2013_03,9,15,97,canada,Hugo_Vannini,Hugo Vannini,VTI Motorsports,,Ford,199,,running,0,35
 2013,T,2013_Clarington_200,2013_03,10,10,17,canada,DJ_Kennington,D.J. Kennington,Castrol Edge / Mahindra Tractors,,Dodge,198,,running,0,34
@@ -72,12 +72,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2013,T,2013_Clarington_200,2013_03,21,14,69,canada,Trevor_Seibert,Trevor Seibert,Lake Excavating / EMCO Waterworks,,Dodge,30,,transmission,0,23
 2013,T,2013_Jiffy_Lube_100_Presented_by_Snap-On,2013_04,1,1,27,canada,Andrew_Ranger,Andrew Ranger,La Cite De Mirabel Inc.,,Dodge,30,,running,30,48
 2013,T,2013_Jiffy_Lube_100_Presented_by_Snap-On,2013_04,2,3,22,canada,Scott_Steckly,Scott Steckly,Canadian Tire,,Dodge,30,,running,0,42
-2013,T,2013_Jiffy_Lube_100_Presented_by_Snap-On,2013_04,3,4,47,canada,L_P_Dumoulin,L.P. Dumoulin,WeatherTech Canada / Bellemare,,Dodge,30,,running,0,41
+2013,T,2013_Jiffy_Lube_100_Presented_by_Snap-On,2013_04,3,4,47,canada,LP_Dumoulin,L.P. Dumoulin,WeatherTech Canada / Bellemare,,Dodge,30,,running,0,41
 2013,T,2013_Jiffy_Lube_100_Presented_by_Snap-On,2013_04,4,6,84,canada,J_R_Fitzpatrick,J.R. Fitzpatrick,Equipment Express,,Chevrolet,30,,running,0,40
 2013,T,2013_Jiffy_Lube_100_Presented_by_Snap-On,2013_04,5,2,76,canada,Jeff_Lapcevich,Jeff Lapcevich,Tim Hortons Coffee,,Dodge,30,,running,0,39
 2013,T,2013_Jiffy_Lube_100_Presented_by_Snap-On,2013_04,6,9,17,canada,DJ_Kennington,D.J. Kennington,Castrol Edge / Mahindra Tractors,,Dodge,30,,running,0,38
 2013,T,2013_Jiffy_Lube_100_Presented_by_Snap-On,2013_04,7,8,02,canada,Kerry_Micks,Kerry Micks,Leland / BDI / Dickies,,Ford,30,,running,0,37
-2013,T,2013_Jiffy_Lube_100_Presented_by_Snap-On,2013_04,8,14,04,canada,J_F_Dumoulin,J.F. Dumoulin,Manac / Bellemare,,Dodge,30,,running,0,36
+2013,T,2013_Jiffy_Lube_100_Presented_by_Snap-On,2013_04,8,14,04,canada,JF_Dumoulin,J.F. Dumoulin,Manac / Bellemare,,Dodge,30,,running,0,36
 2013,T,2013_Jiffy_Lube_100_Presented_by_Snap-On,2013_04,9,12,90,canada,Martin_Roy,Martin Roy,Batteries Expert / Gamache / Veloce,,Dodge,30,,running,0,35
 2013,T,2013_Jiffy_Lube_100_Presented_by_Snap-On,2013_04,10,13,39,canada,Alex_Guenette,Alex Guenette,Motos Illimitees / DLGL,,Dodge,30,,running,0,34
 2013,T,2013_Jiffy_Lube_100_Presented_by_Snap-On,2013_04,11,5,36,canada,Alex_Labbe,Alex Labbe,Dodge / VR Victoriaville,,Dodge,30,,running,0,33
@@ -98,7 +98,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2013,T,2013_A_and_W_Cruisin_the_Dub_300,2013_05,2,10,3,canada,Jason_Hathaway,Jason Hathaway,Snap-On Tools / Rockstar Energy Drink,,Dodge,300,,running,72,43
 2013,T,2013_A_and_W_Cruisin_the_Dub_300,2013_05,3,9,24,canada,Jim_White,Jim White,AW Millwright,,Dodge,300,,running,0,41
 2013,T,2013_A_and_W_Cruisin_the_Dub_300,2013_05,4,5,02,canada,Mark_Dilley,Mark Dilley,Leland / Safeway,,Ford,300,,running,0,40
-2013,T,2013_A_and_W_Cruisin_the_Dub_300,2013_05,5,2,47,canada,L_P_Dumoulin,L.P. Dumoulin,WeatherTech Canada / Bellemare,,Dodge,300,,running,16,40
+2013,T,2013_A_and_W_Cruisin_the_Dub_300,2013_05,5,2,47,canada,LP_Dumoulin,L.P. Dumoulin,WeatherTech Canada / Bellemare,,Dodge,300,,running,16,40
 2013,T,2013_A_and_W_Cruisin_the_Dub_300,2013_05,6,13,60,canada,Ron_Beauchamp_Jr,"Ron Beauchamp, Jr.",Mopar / Exide / Pennzoil,,Dodge,300,,running,0,38
 2013,T,2013_A_and_W_Cruisin_the_Dub_300,2013_05,7,12,28,canada,Cameron_Hayley,Cameron Hayley,Cabinets by Hayley,,Dodge,300,,running,0,37
 2013,T,2013_A_and_W_Cruisin_the_Dub_300,2013_05,8,14,09,canada,Ryley_Seibert,Ryley Seibert,Lake Excavating / EMCO Waterworks,,Dodge,300,,running,0,36
@@ -126,7 +126,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2013,T,2013_Velocity_Prairie_Thunder,2013_06,9,5,28,canada,Cameron_Hayley,Cameron Hayley,Cabinets by Hayley,,Dodge,250,,running,2,36
 2013,T,2013_Velocity_Prairie_Thunder,2013_06,10,11,14,canada,James_Van_Domselaar,James Van Domselaar,Steel-Craft Door Products,,Chevrolet,250,,running,0,34
 2013,T,2013_Velocity_Prairie_Thunder,2013_06,11,8,39,canada,Alex_Guenette,Alex Guenette,Motos Illimitees / DLGL,,Dodge,250,,running,0,33
-2013,T,2013_Velocity_Prairie_Thunder,2013_06,12,3,47,canada,L_P_Dumoulin,L.P. Dumoulin,WeatherTech Canada / Bellemare,,Dodge,250,,running,10,33
+2013,T,2013_Velocity_Prairie_Thunder,2013_06,12,3,47,canada,LP_Dumoulin,L.P. Dumoulin,WeatherTech Canada / Bellemare,,Dodge,250,,running,10,33
 2013,T,2013_Velocity_Prairie_Thunder,2013_06,13,18,24,canada,Jim_White,Jim White,AW Millwright / Sun Ridge Equipment,,Dodge,250,,running,0,31
 2013,T,2013_Velocity_Prairie_Thunder,2013_06,14,2,83,canada,Kelly_Admiraal,Kelly Admiraal,William Scottsman,,Chevrolet,249,,running,0,30
 2013,T,2013_Velocity_Prairie_Thunder,2013_06,15,17,21,canada,Jason_White_(5),Jason White,Rev Energy,,Dodge,246,,running,0,29
@@ -141,7 +141,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2013,T,2013_National_250_Presented_by_Public_Mobile,2013_07,3,4,84,canada,J_R_Fitzpatrick,J.R. Fitzpatrick,Equipment Express,,Chevrolet,250,,running,51,42
 2013,T,2013_National_250_Presented_by_Public_Mobile,2013_07,4,1,60,canada,Ron_Beauchamp_Jr,"Ron Beauchamp, Jr.",Mopar / Exide / Pennzoil,,Dodge,250,,running,50,41
 2013,T,2013_National_250_Presented_by_Public_Mobile,2013_07,5,16,21,canada,Jason_White_(5),Jason White,Bowers & Wilkins,,Dodge,250,,running,0,39
-2013,T,2013_National_250_Presented_by_Public_Mobile,2013_07,6,8,47,canada,L_P_Dumoulin,L.P. Dumoulin,WeatherTech Canada / Bellemare,,Dodge,249,,running,0,38
+2013,T,2013_National_250_Presented_by_Public_Mobile,2013_07,6,8,47,canada,LP_Dumoulin,L.P. Dumoulin,WeatherTech Canada / Bellemare,,Dodge,249,,running,0,38
 2013,T,2013_National_250_Presented_by_Public_Mobile,2013_07,7,3,90,canada,Martin_Roy,Martin Roy,Batteries Expert / Veloce,,Dodge,247,,running,52,38
 2013,T,2013_National_250_Presented_by_Public_Mobile,2013_07,8,11,69,canada,Trevor_Seibert,Trevor Seibert,Lake Excavating / EMCO Waterworks,,Dodge,247,,running,0,36
 2013,T,2013_National_250_Presented_by_Public_Mobile,2013_07,9,15,28,canada,Dave_Connelly,Dave Connelly,Schneider's / Metro,,Dodge,246,,running,0,35
@@ -168,10 +168,10 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2013,T,2013_JuliaWine.com_100,2013_08,11,30,21,canada,Jason_White_(5),Jason White,Bowers & Wilkins / Cathcart Trucking,,Dodge,46,,running,0,33
 2013,T,2013_JuliaWine.com_100,2013_08,12,29,71,canada,Patrice_Brisebois,Patrice Brisebois,Jiffy Lube / Federation Des Oeufs,,Dodge,46,,running,0,32
 2013,T,2013_JuliaWine.com_100,2013_08,13,5,84,canada,J_R_Fitzpatrick,J.R. Fitzpatrick,Equipment Express,,Chevrolet,46,,running,0,31
-2013,T,2013_JuliaWine.com_100,2013_08,14,2,47,canada,L_P_Dumoulin,L.P. Dumoulin,WeatherTech Canada / Bellemare,,Dodge,46,,running,0,30
+2013,T,2013_JuliaWine.com_100,2013_08,14,2,47,canada,LP_Dumoulin,L.P. Dumoulin,WeatherTech Canada / Bellemare,,Dodge,46,,running,0,30
 2013,T,2013_JuliaWine.com_100,2013_08,15,18,09,canada,Ryley_Seibert,Ryley Seibert,Lake Excavating / EMCO Waterworks,,Dodge,46,,running,0,29
 2013,T,2013_JuliaWine.com_100,2013_08,16,20,5,canada,Noel_Dowler,Noel Dowler,EMCO / Praxair / Safety Kleen,,Dodge,46,,running,0,28
-2013,T,2013_JuliaWine.com_100,2013_08,17,11,04,canada,J_F_Dumoulin,J.F. Dumoulin,Bellemare / Bernier Crepeau,,Dodge,46,,running,0,27
+2013,T,2013_JuliaWine.com_100,2013_08,17,11,04,canada,JF_Dumoulin,J.F. Dumoulin,Bellemare / Bernier Crepeau,,Dodge,46,,running,0,27
 2013,T,2013_JuliaWine.com_100,2013_08,18,19,60,canada,Ron_Beauchamp_Jr,"Ron Beauchamp, Jr.",Mopar / Exide / Pennzoil,,Dodge,46,,running,0,26
 2013,T,2013_JuliaWine.com_100,2013_08,19,23,29,canada,"Ray_Courtemanche,_Jr","Ray Courtemanche, Jr.",La Cite De Mirabel Inc.,,Dodge,46,,running,0,25
 2013,T,2013_JuliaWine.com_100,2013_08,20,10,39,canada,Alex_Guenette,Alex Guenette,Motos Illimitees / DLGL / Kawasaki,,Dodge,39,,running,0,24
@@ -201,8 +201,8 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2013,T,2013_Wilson_Equipment_300,2013_09,14,14,21,canada,Jason_White_(5),Jason White,Bowers & Wilkins / Cathcart Trucking,,Dodge,226,,mechanical,0,30
 2013,T,2013_Wilson_Equipment_300,2013_09,15,8,60,canada,Ron_Beauchamp_Jr,"Ron Beauchamp, Jr.",Mopar / Exide / Pennzoil,,Dodge,202,,running,0,29
 2013,T,2013_Wilson_Equipment_300,2013_09,16,4,84,canada,J_R_Fitzpatrick,J.R. Fitzpatrick,Equipment Express,,Chevrolet,167,,engine,72,29
-2013,T,2013_Wilson_Equipment_300,2013_09,17,9,47,canada,L_P_Dumoulin,L.P. Dumoulin,WeatherTech Canada / Bellemare,,Dodge,116,,mechanical,0,27
-2013,T,2013_Pintys_Presents_the_Clarington_200,2013_10,1,3,47,canada,L_P_Dumoulin,L.P. Dumoulin,WeatherTech Canada / Bellemare,,Dodge,42,,running,12,47
+2013,T,2013_Wilson_Equipment_300,2013_09,17,9,47,canada,LP_Dumoulin,L.P. Dumoulin,WeatherTech Canada / Bellemare,,Dodge,116,,mechanical,0,27
+2013,T,2013_Pintys_Presents_the_Clarington_200,2013_10,1,3,47,canada,LP_Dumoulin,L.P. Dumoulin,WeatherTech Canada / Bellemare,,Dodge,42,,running,12,47
 2013,T,2013_Pintys_Presents_the_Clarington_200,2013_10,2,8,90,canada,Martin_Roy,Martin Roy,Batteries Expert / Veloce,,Dodge,42,,running,0,42
 2013,T,2013_Pintys_Presents_the_Clarington_200,2013_10,3,2,28,canada,Andrew_Ranger,Andrew Ranger,La Cite De Mirabel Inc / Plancher2000.ca,,Dodge,42,,running,0,41
 2013,T,2013_Pintys_Presents_the_Clarington_200,2013_10,4,12,17,canada,DJ_Kennington,D.J. Kennington,Castrol Edge / Mahindra Tractors,,Dodge,42,,running,0,40
@@ -216,7 +216,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2013,T,2013_Pintys_Presents_the_Clarington_200,2013_10,12,14,7,usa,Jeb_Burton,Jeb Burton,State Water Heaters,,Dodge,42,,running,0,32
 2013,T,2013_Pintys_Presents_the_Clarington_200,2013_10,13,13,27,usa,Chad_Hackenbracht,Chad Hackenbracht,Jacombs Racing,,Dodge,42,,running,0,31
 2013,T,2013_Pintys_Presents_the_Clarington_200,2013_10,14,9,42,canada,Peter_Klutt,Peter Klutt,Legendary Motorcar,,Chevrolet,42,,running,0,30
-2013,T,2013_Pintys_Presents_the_Clarington_200,2013_10,15,20,04,canada,J_F_Dumoulin,J.F. Dumoulin,Bellemare / Manac,,Dodge,42,,running,0,29
+2013,T,2013_Pintys_Presents_the_Clarington_200,2013_10,15,20,04,canada,JF_Dumoulin,J.F. Dumoulin,Bellemare / Manac,,Dodge,42,,running,0,29
 2013,T,2013_Pintys_Presents_the_Clarington_200,2013_10,16,10,02,canada,Kerry_Micks,Kerry Micks,BDI / Leland / PartSource,,Ford,42,,running,0,28
 2013,T,2013_Pintys_Presents_the_Clarington_200,2013_10,17,26,21,canada,Jason_White_(5),Jason White,Bowers & Wilkins / Thermal Technolgy,,Dodge,42,,running,0,27
 2013,T,2013_Pintys_Presents_the_Clarington_200,2013_10,18,16,39,canada,Alex_Guenette,Alex Guenette,Kawasaki / Motos Illimitees / DLGL,,Dodge,42,,running,4,27
@@ -253,7 +253,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2013,T,2013_Hudco_Electric_Supply_300,2013_11,13,16,21,canada,Jason_White_(5),Jason White,Bowers & Wilkins / Castrol,,Dodge,297,,running,6,32
 2013,T,2013_Hudco_Electric_Supply_300,2013_11,14,19,98,canada,Howie_Scannell_Jr,"Howie Scannell, Jr.",OMVIC / K&B Auto Service,,Dodge,288,,running,0,30
 2013,T,2013_Hudco_Electric_Supply_300,2013_11,15,4,56,canada,Larry_Jackson,Larry Jackson,OMVIC / Touchwood Cabinets,,Dodge,236,,mechanical,0,29
-2013,T,2013_Hudco_Electric_Supply_300,2013_11,16,8,47,canada,L_P_Dumoulin,L.P. Dumoulin,WeatherTech Canada / Bellemare,,Dodge,220,,running,6,29
+2013,T,2013_Hudco_Electric_Supply_300,2013_11,16,8,47,canada,LP_Dumoulin,L.P. Dumoulin,WeatherTech Canada / Bellemare,,Dodge,220,,running,6,29
 2013,T,2013_Hudco_Electric_Supply_300,2013_11,17,15,5,canada,Noel_Dowler,Noel Dowler,EMCO / Rheem / Praxair,,Dodge,182,,electrical,0,27
 2013,T,2013_Hudco_Electric_Supply_300,2013_11,18,12,97,canada,Hugo_Vannini,Hugo Vannini,VTI Motorsports,,Ford,121,,rear end,0,26
 2013,T,2013_Hudco_Electric_Supply_300,2013_11,19,2,7,canada,Peter_Shepherd_III,Peter Shepherd III,National Exhaust / Rama Smoke Shop,,Dodge,41,,ring gear,0,25
@@ -277,7 +277,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2013,T,2013_Pintys_250,2013_12,18,21,98,canada,Matthew_Scannell,Matthew Scannell,OMVIC / K&B Auto Service,,Dodge,254,,running,0,26
 2013,T,2013_Pintys_250,2013_12,19,18,97,canada,Hugo_Vannini,Hugo Vannini,VTI Motorsports,,Ford,253,,running,0,25
 2013,T,2013_Pintys_250,2013_12,20,19,99,canada,Derek_White,Derek White,VIP Poker,,Chevrolet,253,,running,0,24
-2013,T,2013_Pintys_250,2013_12,21,10,47,canada,L_P_Dumoulin,L.P. Dumoulin,WeatherTech Canada / Bellemare,,Dodge,252,,running,0,23
+2013,T,2013_Pintys_250,2013_12,21,10,47,canada,LP_Dumoulin,L.P. Dumoulin,WeatherTech Canada / Bellemare,,Dodge,252,,running,0,23
 2013,T,2013_Pintys_250,2013_12,22,24,29,canada,"Ray_Courtemanche,_Jr","Ray Courtemanche, Jr.",La Cite De Mirabel Inc.,,Dodge,251,,running,0,22
 2013,T,2013_Pintys_250,2013_12,23,23,13,canada,Trevor_Monaghan,Trevor Monaghan,Hal-Nor Plumbing & Heating,,Dodge,249,,running,0,21
 2013,T,2013_Pintys_250,2013_12,24,26,71,canada,Jason_Hankewich,Jason Hankewich,Call Us Oilfield / Prairie Storm Constr.,,Dodge,236,,running,0,20

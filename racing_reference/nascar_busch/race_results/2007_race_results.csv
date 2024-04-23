@@ -4,8 +4,8 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2007,B,2007_Orbitz_300,2007_01,3,6,60,usa,Carl_Edwards,Carl Edwards,Scott's,Jack_Roush,Ford,120,77450,running,10,170
 2007,B,2007_Orbitz_300,2007_01,4,26,2,usa,Clint_Bowyer,Clint Bowyer,BB&T,Richard_Childress,Chevrolet,120,62550,running,3,165
 2007,B,2007_Orbitz_300,2007_01,5,8,06,usa,Mark_Martin,Mark Martin,Dish Network,Jack_Roush,Ford,120,58000,running,0,155
-2007,B,2007_Orbitz_300,2007_01,6,4,11,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker,"Dale_Earnhardt,_Inc.",Chevrolet,120,53450,running,5,155
-2007,B,2007_Orbitz_300,2007_01,7,20,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Menards / Johns Manville,"Dale_Earnhardt,_Inc.",Chevrolet,120,56575,running,8,151
+2007,B,2007_Orbitz_300,2007_01,6,4,11,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker,Dale_Earnhardt_Inc,Chevrolet,120,53450,running,5,155
+2007,B,2007_Orbitz_300,2007_01,7,20,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Menards / Johns Manville,Dale_Earnhardt_Inc,Chevrolet,120,56575,running,8,151
 2007,B,2007_Orbitz_300,2007_01,8,38,33,usa,Tony_Stewart,Tony Stewart,Old Spice,Kevin_Harvick,Chevrolet,120,50300,running,0,142
 2007,B,2007_Orbitz_300,2007_01,9,15,20,usa,Denny_Hamlin,Denny Hamlin,Rockwell Automation,Joe_Gibbs,Chevrolet,120,54250,running,0,138
 2007,B,2007_Orbitz_300,2007_01,10,9,26,usa,Greg_Biffle,Greg Biffle,Oreo Double Stuf,Jack_Roush,Ford,120,49025,running,0,134
@@ -15,7 +15,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2007,B,2007_Orbitz_300,2007_01,14,18,16,usa,Todd_Kluever,Todd Kluever,3M,Jack_Roush,Ford,120,55770,running,0,121
 2007,B,2007_Orbitz_300,2007_01,15,3,47,usa,Jon_Wood,Jon Wood,Clorox / American Red Cross,Tad_Geschickter,Ford,120,57395,running,0,118
 2007,B,2007_Orbitz_300,2007_01,16,37,59,australia,Marcos_Ambrose,Marcos Ambrose,Kingsford / Bush's,Tad_Geschickter,Ford,120,47950,running,0,115
-2007,B,2007_Orbitz_300,2007_01,17,12,15,usa,Paul_Menard,Paul Menard,Menards / Peak,"Dale_Earnhardt,_Inc.",Chevrolet,120,52920,running,0,112
+2007,B,2007_Orbitz_300,2007_01,17,12,15,usa,Paul_Menard,Paul Menard,Menards / Peak,Dale_Earnhardt_Inc,Chevrolet,120,52920,running,0,112
 2007,B,2007_Orbitz_300,2007_01,18,42,77,usa,Bobby_Labonte,Bobby Labonte,Dollar General,Kevin_Harvick,Chevrolet,120,44875,running,0,109
 2007,B,2007_Orbitz_300,2007_01,19,1,18,usa,Aric_Almirola,Aric Almirola,Banquet Foods,Joe_Gibbs,Chevrolet,120,51950,running,0,106
 2007,B,2007_Orbitz_300,2007_01,20,35,25,usa,David_Gilliland,David Gilliland,freecreditreport.com,Ed_Rensi,Ford,120,47300,running,0,103
@@ -78,7 +78,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2007,B,2007_Stater_Brothers_300,2007_02,34,21,27,usa,Ward_Burton,Ward Burton,Cottonelle / Stater Brothers,Clarence_Brewer,Ford,137,24590,running,0,61
 2007,B,2007_Stater_Brothers_300,2007_02,35,16,12,usa,Sam_Hornish_Jr,"Sam Hornish, Jr.",Mobil 1,Roger_Penske,Dodge,132,29980,crash,0,58
 2007,B,2007_Stater_Brothers_300,2007_02,36,20,41,usa,Reed_Sorenson,Reed Sorenson,Wrigley's Juicy Fruit,Chip_Ganassi,Dodge,126,22370,running,0,55
-2007,B,2007_Stater_Brothers_300,2007_02,37,26,15,usa,Paul_Menard,Paul Menard,Menards / Quaker State,"Dale_Earnhardt,_Inc.",Chevrolet,122,36285,engine,0,52
+2007,B,2007_Stater_Brothers_300,2007_02,37,26,15,usa,Paul_Menard,Paul Menard,Menards / Quaker State,Dale_Earnhardt_Inc,Chevrolet,122,36285,engine,0,52
 2007,B,2007_Stater_Brothers_300,2007_02,38,30,38,usa,Jason_Leffler,Jason Leffler,Great Clips,Todd_Braun,Toyota,87,30675,crash,0,49
 2007,B,2007_Stater_Brothers_300,2007_02,39,29,42,colombia,Juan_Pablo_Montoya,Juan Pablo Montoya,Texaco / Havoline,Chip_Ganassi,Dodge,87,24115,crash,0,46
 2007,B,2007_Stater_Brothers_300,2007_02,40,39,0,usa,Eric_McClure,Eric McClure,Hefty,Johnny_Davis,Chevrolet,64,24080,running,0,43
@@ -161,7 +161,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2007,B,2007_Sam%27s_Town_300,2007_04,33,18,4,usa,Regan_Smith,Regan Smith,Ginn Resorts,Bobby_Ginn,Chevrolet,172,30425,crash,2,69
 2007,B,2007_Sam%27s_Town_300,2007_04,34,31,23,usa,Brad_Keselowski,Brad Keselowski,Oklahoma Centennial,Keith_Coleman,Chevrolet,171,23790,running,0,61
 2007,B,2007_Sam%27s_Town_300,2007_04,35,27,18,usa,Brad_Coleman,Brad Coleman,Z-Line Designs,Joe_Gibbs,Chevrolet,147,23680,running,0,58
-2007,B,2007_Sam%27s_Town_300,2007_04,36,13,15,usa,Paul_Menard,Paul Menard,Menards / Johns Manville,"Dale_Earnhardt,_Inc.",Chevrolet,132,28170,crash,0,55
+2007,B,2007_Sam%27s_Town_300,2007_04,36,13,15,usa,Paul_Menard,Paul Menard,Menards / Johns Manville,Dale_Earnhardt_Inc,Chevrolet,132,28170,crash,0,55
 2007,B,2007_Sam%27s_Town_300,2007_04,37,28,38,usa,Jason_Leffler,Jason Leffler,Great Clips,Todd_Braun,Toyota,123,30135,crash,0,52
 2007,B,2007_Sam%27s_Town_300,2007_04,38,11,16,usa,Greg_Biffle,Greg Biffle,3M,Jack_Roush,Ford,116,27075,crash,0,49
 2007,B,2007_Sam%27s_Town_300,2007_04,39,21,36,usa,Brent_Sherman,Brent Sherman,BIG LOTS,John_McGill,Chevrolet,63,23540,crash,1,51
@@ -186,7 +186,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2007,B,2007_Nicorette_300,2007_05,15,5,12,usa,Sam_Hornish_Jr,"Sam Hornish, Jr.",Penske Truck Rental,Roger_Penske,Dodge,195,15775,running,0,118
 2007,B,2007_Nicorette_300,2007_05,16,16,10,usa,Dave_Blaney,Dave Blaney,ABF U-Pack Moving,Todd_Braun,Toyota,195,15750,running,1,120
 2007,B,2007_Nicorette_300,2007_05,17,40,7,usa,Mike_Wallace,Mike Wallace,GEICO,James_Finch,Chevrolet,195,29520,running,1,117
-2007,B,2007_Nicorette_300,2007_05,18,26,15,usa,Paul_Menard,Paul Menard,Menards / Quaker State,"Dale_Earnhardt,_Inc.",Chevrolet,194,23620,running,0,109
+2007,B,2007_Nicorette_300,2007_05,18,26,15,usa,Paul_Menard,Paul Menard,Menards / Quaker State,Dale_Earnhardt_Inc,Chevrolet,194,23620,running,0,109
 2007,B,2007_Nicorette_300,2007_05,19,29,88,usa,Shane_Huffman,Shane Huffman,U.S. Navy,JR_Motorsports,Chevrolet,194,16325,running,0,106
 2007,B,2007_Nicorette_300,2007_05,20,18,6,usa,David_Ragan,David Ragan,Discount Tire,Jack_Roush,Ford,194,17000,running,0,103
 2007,B,2007_Nicorette_300,2007_05,21,32,27,usa,Ward_Burton,Ward Burton,Scott Extra Soft / Kroger,Clarence_Brewer,Ford,194,16350,running,0,100
@@ -217,7 +217,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2007,B,2007_Sharpie_Mini_300,2007_06,3,7,5,usa,Kyle_Busch,Kyle Busch,Sta-Green / Lowe's,Rick_Hendrick,Chevrolet,300,33300,running,89,170
 2007,B,2007_Sharpie_Mini_300,2007_06,4,2,12,usa,Ryan_Newman,Ryan Newman,Kodak,Roger_Penske,Dodge,300,27450,running,27,165
 2007,B,2007_Sharpie_Mini_300,2007_06,5,4,2,usa,Clint_Bowyer,Clint Bowyer,BB&T,Richard_Childress,Chevrolet,300,29175,running,1,160
-2007,B,2007_Sharpie_Mini_300,2007_06,6,19,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser / Sharpie,"Dale_Earnhardt,_Inc.",Chevrolet,300,24475,running,0,150
+2007,B,2007_Sharpie_Mini_300,2007_06,6,19,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser / Sharpie,Dale_Earnhardt_Inc,Chevrolet,300,24475,running,0,150
 2007,B,2007_Sharpie_Mini_300,2007_06,7,6,37,usa,Greg_Biffle,Greg Biffle,Cub Cadet,Clarence_Brewer,Ford,300,24935,running,0,146
 2007,B,2007_Sharpie_Mini_300,2007_06,8,9,33,usa,Kevin_Harvick,Kevin Harvick,Bounty,Kevin_Harvick,Chevrolet,300,30395,running,0,142
 2007,B,2007_Sharpie_Mini_300,2007_06,9,22,29,usa,Scott_Wimmer,Scott Wimmer,Holiday Inn,Richard_Childress,Chevrolet,300,31200,running,0,138
@@ -306,7 +306,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2007,B,2007_O%27Reilly_300,2007_08,6,7,99,usa,David_Reutimann,David Reutimann,Aaron's Dream Machine,Michael_Waltrip,Toyota,200,41698,running,0,150
 2007,B,2007_O%27Reilly_300,2007_08,7,3,5,usa,Kyle_Busch,Kyle Busch,Spectracide Fire Ant,Rick_Hendrick,Chevrolet,200,26500,running,113,156
 2007,B,2007_O%27Reilly_300,2007_08,8,18,12,usa,Kurt_Busch,Kurt Busch,Penske Truck Rental,Roger_Penske,Dodge,200,25950,running,0,142
-2007,B,2007_O%27Reilly_300,2007_08,9,15,15,usa,Paul_Menard,Paul Menard,Menards / Energizer,"Dale_Earnhardt,_Inc.",Chevrolet,200,28960,running,0,138
+2007,B,2007_O%27Reilly_300,2007_08,9,15,15,usa,Paul_Menard,Paul Menard,Menards / Energizer,Dale_Earnhardt_Inc,Chevrolet,200,28960,running,0,138
 2007,B,2007_O%27Reilly_300,2007_08,10,9,29,usa,Jeff_Burton,Jeff Burton,Holiday Inn,Richard_Childress,Chevrolet,200,31825,running,1,139
 2007,B,2007_O%27Reilly_300,2007_08,11,23,33,usa,Kevin_Harvick,Kevin Harvick,RoadLoans.com,Kevin_Harvick,Chevrolet,200,30500,running,0,130
 2007,B,2007_O%27Reilly_300,2007_08,12,8,06,usa,Mark_Martin,Mark Martin,Dish Network,Jack_Roush,Ford,200,23750,running,0,127
@@ -412,7 +412,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2007,B,2007_Aaron%27s_312,2007_10,26,28,66,usa,Steve_Wallace,Steve Wallace,HomeLife Communities,Rusty_Wallace,Dodge,109,24605,crash,1,90
 2007,B,2007_Aaron%27s_312,2007_10,27,14,41,usa,Reed_Sorenson,Reed Sorenson,Wrigley's Juicy Fruit,Chip_Ganassi,Dodge,109,18775,crash,0,82
 2007,B,2007_Aaron%27s_312,2007_10,28,27,90,usa,Stephen_Leicht,Stephen Leicht,CitiFinancial,Yates_Racing,Ford,109,23175,crash,0,79
-2007,B,2007_Aaron%27s_312,2007_10,29,26,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Menards / vertis,"Dale_Earnhardt,_Inc.",Chevrolet,94,18525,transmission,2,81
+2007,B,2007_Aaron%27s_312,2007_10,29,26,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Menards / vertis,Dale_Earnhardt_Inc,Chevrolet,94,18525,transmission,2,81
 2007,B,2007_Aaron%27s_312,2007_10,30,17,16,usa,Greg_Biffle,Greg Biffle,3M,Jack_Roush,Ford,89,24050,crash,1,78
 2007,B,2007_Aaron%27s_312,2007_10,31,18,47,usa,Jon_Wood,Jon Wood,Armor All,Tad_Geschickter,Ford,89,22975,crash,0,70
 2007,B,2007_Aaron%27s_312,2007_10,32,2,10,usa,Dave_Blaney,Dave Blaney,Hass Avocados,Todd_Braun,Toyota,87,25250,running,0,67
@@ -424,7 +424,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2007,B,2007_Aaron%27s_312,2007_10,38,42,52,usa,Donnie_Neuenberger,Donnie Neuenberger,Means Racing,Jimmy_Means,Ford,34,19935,overheating,0,49
 2007,B,2007_Aaron%27s_312,2007_10,39,12,5,usa,Kyle_Busch,Kyle Busch,Delphi,Rick_Hendrick,Chevrolet,26,17900,crash,0,46
 2007,B,2007_Aaron%27s_312,2007_10,40,29,70,usa,Justin_Diercks,Justin Diercks,ForeTravel Motorcoach,Mary_Louise_Miller,Chevrolet,17,19840,overheating,0,43
-2007,B,2007_Aaron%27s_312,2007_10,41,13,11,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker,"Dale_Earnhardt,_Inc.",Chevrolet,9,17805,crash,0,40
+2007,B,2007_Aaron%27s_312,2007_10,41,13,11,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops / Tracker,Dale_Earnhardt_Inc,Chevrolet,9,17805,crash,0,40
 2007,B,2007_Aaron%27s_312,2007_10,42,40,01,usa,Morgan_Shepherd,Morgan Shepherd,RaceGirl,Johnny_Davis,Chevrolet,2,19770,handling,0,37
 2007,B,2007_Circuit_City_250_Presented_by_Funai,2007_11,1,8,2,usa,Clint_Bowyer,Clint Bowyer,BB&T,Richard_Childress,Chevrolet,250,46600,running,29,190
 2007,B,2007_Circuit_City_250_Presented_by_Funai,2007_11,2,2,17,usa,Matt_Kenseth,Matt Kenseth,Dish Network,Jack_Roush,Ford,250,32425,running,57,175
@@ -490,7 +490,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2007,B,2007_Diamond_Hill_Plywood_200,2007_12,19,4,59,australia,Marcos_Ambrose,Marcos Ambrose,Kingsford,Tad_Geschickter,Ford,147,17000,running,0,106
 2007,B,2007_Diamond_Hill_Plywood_200,2007_12,20,25,35,usa,Bobby_Hamilton_Jr,"Bobby Hamilton, Jr.",McDonald's,Gary_Weisbaum,Ford,147,17600,running,0,103
 2007,B,2007_Diamond_Hill_Plywood_200,2007_12,21,9,27,usa,Ward_Burton,Ward Burton,Kleenex / Cottonelle,Clarence_Brewer,Ford,147,16575,running,0,100
-2007,B,2007_Diamond_Hill_Plywood_200,2007_12,22,14,15,usa,Paul_Menard,Paul Menard,Menards / NIBCO,"Dale_Earnhardt,_Inc.",Chevrolet,147,16525,running,0,97
+2007,B,2007_Diamond_Hill_Plywood_200,2007_12,22,14,15,usa,Paul_Menard,Paul Menard,Menards / NIBCO,Dale_Earnhardt_Inc,Chevrolet,147,16525,running,0,97
 2007,B,2007_Diamond_Hill_Plywood_200,2007_12,23,31,7,usa,Mike_Wallace,Mike Wallace,GEICO,James_Finch,Chevrolet,147,16850,running,1,99
 2007,B,2007_Diamond_Hill_Plywood_200,2007_12,24,33,99,usa,David_Reutimann,David Reutimann,Aaron's Dream Machine,Michael_Waltrip,Toyota,147,16425,running,0,91
 2007,B,2007_Diamond_Hill_Plywood_200,2007_12,25,39,28,usa,Derrike_Cope,Derrike Cope,U.S. Border Patrol,Jay_Robinson,Chevrolet,147,16525,running,0,88
@@ -817,7 +817,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2007,B,2007_USG_Durock_300,2007_20,3,14,29,usa,Jeff_Burton,Jeff Burton,Holiday Inn,Richard_Childress,Chevrolet,200,56475,running,50,170
 2007,B,2007_USG_Durock_300,2007_20,4,18,2,usa,Clint_Bowyer,Clint Bowyer,Camping World,Richard_Childress,Chevrolet,200,37025,running,0,160
 2007,B,2007_USG_Durock_300,2007_20,5,6,5,usa,Kyle_Busch,Kyle Busch,Delphi,Rick_Hendrick,Chevrolet,200,34475,running,58,165
-2007,B,2007_USG_Durock_300,2007_20,6,21,15,usa,Paul_Menard,Paul Menard,Menards / AKONA,"Dale_Earnhardt,_Inc.",Chevrolet,200,33550,running,0,150
+2007,B,2007_USG_Durock_300,2007_20,6,21,15,usa,Paul_Menard,Paul Menard,Menards / AKONA,Dale_Earnhardt_Inc,Chevrolet,200,33550,running,0,150
 2007,B,2007_USG_Durock_300,2007_20,7,1,20,usa,Denny_Hamlin,Denny Hamlin,Rockwell Automation,Joe_Gibbs,Chevrolet,200,38400,running,22,151
 2007,B,2007_USG_Durock_300,2007_20,8,22,33,usa,Tony_Stewart,Tony Stewart,Old Spice,Kevin_Harvick,Chevrolet,200,32850,running,0,142
 2007,B,2007_USG_Durock_300,2007_20,9,5,10,usa,Dave_Blaney,Dave Blaney,ABF U-Pack Moving,Todd_Braun,Toyota,200,29510,running,0,138
@@ -987,7 +987,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2007,B,2007_Zippo_200_at_the_Glen,2007_24,1,11,21,usa,Kevin_Harvick,Kevin Harvick,AutoZone,Richard_Childress,Chevrolet,82,52125,running,49,195
 2007,B,2007_Zippo_200_at_the_Glen,2007_24,2,6,29,usa,Jeff_Burton,Jeff Burton,Holiday Inn,Richard_Childress,Chevrolet,82,39300,running,0,170
 2007,B,2007_Zippo_200_at_the_Glen,2007_24,3,1,39,usa,Kurt_Busch,Kurt Busch,Penske Truck Rental,Roger_Penske,Dodge,82,26625,running,20,170
-2007,B,2007_Zippo_200_at_the_Glen,2007_24,4,8,15,usa,Paul_Menard,Paul Menard,Menards / Quaker State,"Dale_Earnhardt,_Inc.",Chevrolet,82,27400,running,0,160
+2007,B,2007_Zippo_200_at_the_Glen,2007_24,4,8,15,usa,Paul_Menard,Paul Menard,Menards / Quaker State,Dale_Earnhardt_Inc,Chevrolet,82,27400,running,0,160
 2007,B,2007_Zippo_200_at_the_Glen,2007_24,5,12,18,usa,Brad_Coleman,Brad Coleman,Carino's Italian Grill,Joe_Gibbs,Chevrolet,82,36505,running,0,155
 2007,B,2007_Zippo_200_at_the_Glen,2007_24,6,16,17,usa,Matt_Kenseth,Matt Kenseth,Aflac,Jack_Roush,Ford,82,19450,running,0,150
 2007,B,2007_Zippo_200_at_the_Glen,2007_24,7,18,77,usa,Bobby_Labonte,Bobby Labonte,Dollar General,Kevin_Harvick,Chevrolet,82,23200,running,0,146
@@ -1031,7 +1031,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2007,B,2007_Carfax_250,2007_25,4,16,29,usa,Jeff_Burton,Jeff Burton,Holiday Inn,Richard_Childress,Chevrolet,125,28025,running,0,160
 2007,B,2007_Carfax_250,2007_25,5,1,16,usa,Greg_Biffle,Greg Biffle,3M,Jack_Roush,Ford,125,30450,running,0,155
 2007,B,2007_Carfax_250,2007_25,6,2,10,usa,Brian_Vickers,Brian Vickers,Fan1st.com,Todd_Braun,Toyota,125,27225,running,19,155
-2007,B,2007_Carfax_250,2007_25,7,7,15,usa,Paul_Menard,Paul Menard,Menards / AKONA,"Dale_Earnhardt,_Inc.",Chevrolet,125,23010,running,0,146
+2007,B,2007_Carfax_250,2007_25,7,7,15,usa,Paul_Menard,Paul Menard,Menards / AKONA,Dale_Earnhardt_Inc,Chevrolet,125,23010,running,0,146
 2007,B,2007_Carfax_250,2007_25,8,20,03,usa,Todd_Bodine,Todd Bodine,Germain Toyota,Germain_Racing,Toyota,125,20745,running,0,142
 2007,B,2007_Carfax_250,2007_25,9,13,24,usa,Casey_Mears,Casey Mears,National Guard / 76th Infantry,Rick_Hendrick,Chevrolet,125,18550,running,0,138
 2007,B,2007_Carfax_250,2007_25,10,19,2,usa,Clint_Bowyer,Clint Bowyer,BB&T,Richard_Childress,Chevrolet,125,18350,running,0,134
@@ -1152,7 +1152,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2007,B,2007_Camping_World_300_Presented_by_RVs.com,2007_27,39,32,89,usa,Morgan_Shepherd,Morgan Shepherd,Victory In Jesus,Morgan_Shepherd,Dodge,18,22935,handling,0,46
 2007,B,2007_Camping_World_300_Presented_by_RVs.com,2007_27,40,41,52,usa,Brad_Teague,Brad Teague,Bennett Classics Museum,Jimmy_Means,Ford,15,22910,transmission,0,43
 2007,B,2007_Camping_World_300_Presented_by_RVs.com,2007_27,41,33,14,usa,Kyle_Krisiloff,Kyle Krisiloff,Lilly / Walgreens,Carl_Haas,Ford,3,28100,crash,0,40
-2007,B,2007_Camping_World_300_Presented_by_RVs.com,2007_27,42,42,44,usa,Johnny_Borneman_III,"Johnny Borneman, III",Super Series,Donnie_Richardson,Chevrolet,2,22840,engine,0,37
+2007,B,2007_Camping_World_300_Presented_by_RVs.com,2007_27,42,42,44,usa,Johnny_Borneman_III,Johnny Borneman III,Super Series,Donnie_Richardson,Chevrolet,2,22840,engine,0,37
 2007,B,2007_Emerson_Radio_250,2007_28,1,1,5,usa,Kyle_Busch,Kyle Busch,Sta-Green / Lowe's,Rick_Hendrick,Chevrolet,252,42250,running,227,195
 2007,B,2007_Emerson_Radio_250,2007_28,2,6,60,usa,Carl_Edwards,Carl Edwards,Scotts Winterguard,Jack_Roush,Ford,252,39550,running,0,170
 2007,B,2007_Emerson_Radio_250,2007_28,3,4,12,usa,Ryan_Newman,Ryan Newman,Kodak,Roger_Penske,Dodge,252,20850,running,0,165
@@ -1192,12 +1192,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2007,B,2007_Emerson_Radio_250,2007_28,37,32,28,usa,Derrike_Cope,Derrike Cope,U.S. Border Patrol,Jay_Robinson,Chevrolet,240,16515,engine,0,52
 2007,B,2007_Emerson_Radio_250,2007_28,38,15,88,usa,Brad_Keselowski,Brad Keselowski,U.S. Navy,JR_Motorsports,Chevrolet,221,16440,running,0,49
 2007,B,2007_Emerson_Radio_250,2007_28,39,28,6,usa,David_Ragan,David Ragan,Discount Tire,Jack_Roush,Ford,211,14385,running,0,46
-2007,B,2007_Emerson_Radio_250,2007_28,40,26,15,usa,Paul_Menard,Paul Menard,Menards / NIBCO,"Dale_Earnhardt,_Inc.",Chevrolet,158,16350,crash,0,43
+2007,B,2007_Emerson_Radio_250,2007_28,40,26,15,usa,Paul_Menard,Paul Menard,Menards / NIBCO,Dale_Earnhardt_Inc,Chevrolet,158,16350,crash,0,43
 2007,B,2007_Emerson_Radio_250,2007_28,41,42,37,canada,John_Graham,John Graham,Kick Butt Energy Ballz,Clarence_Brewer,Ford,113,16315,crash,0,40
 2007,B,2007_Emerson_Radio_250,2007_28,42,34,0,usa,Eric_McClure,Eric McClure,Hefty,Johnny_Davis,Chevrolet,45,16275,handling,0,37
 2007,B,2007_Emerson_Radio_250,2007_28,43,39,18,usa,Kevin_Conway,Kevin Conway,Z-Line Designs / Circuit City,Joe_Gibbs,Chevrolet,36,16231,crash,0,34
 2007,B,2007_RoadLoans.com_200,2007_29,1,4,20,usa,Denny_Hamlin,Denny Hamlin,Rockwell Automation,Joe_Gibbs,Chevrolet,200,49875,running,138,195
-2007,B,2007_RoadLoans.com_200,2007_29,2,7,8,usa,Martin_Truex_Jr,Martin Truex Jr,Sea Watch,"Dale_Earnhardt,_Inc.",Chevrolet,200,25025,running,21,175
+2007,B,2007_RoadLoans.com_200,2007_29,2,7,8,usa,Martin_Truex_Jr,Martin Truex Jr,Sea Watch,Dale_Earnhardt_Inc,Chevrolet,200,25025,running,21,175
 2007,B,2007_RoadLoans.com_200,2007_29,3,33,17,usa,Matt_Kenseth,Matt Kenseth,iLevel,Jack_Roush,Ford,200,27625,running,0,165
 2007,B,2007_RoadLoans.com_200,2007_29,4,13,22,usa,Mike_Bliss,Mike Bliss,Supercuts,Armando_Fitz,Dodge,200,35463,running,14,165
 2007,B,2007_RoadLoans.com_200,2007_29,5,6,41,usa,Reed_Sorenson,Reed Sorenson,Imation,Chip_Ganassi,Dodge,200,22525,running,0,155
@@ -1245,7 +1245,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2007,B,2007_Yellow_Transportation_300,2007_30,4,23,2,usa,Clint_Bowyer,Clint Bowyer,BB&T,Richard_Childress,Chevrolet,200,35525,running,0,160
 2007,B,2007_Yellow_Transportation_300,2007_30,5,7,26,usa,Jamie_McMurray,Jamie McMurray,Dish Network,Jack_Roush,Ford,200,31500,running,0,155
 2007,B,2007_Yellow_Transportation_300,2007_30,6,5,20,usa,Denny_Hamlin,Denny Hamlin,Slim Jim / Act II,Joe_Gibbs,Chevrolet,200,39575,running,5,155
-2007,B,2007_Yellow_Transportation_300,2007_30,7,15,15,usa,Paul_Menard,Paul Menard,Super Clean / Menards,"Dale_Earnhardt,_Inc.",Chevrolet,200,29450,running,0,146
+2007,B,2007_Yellow_Transportation_300,2007_30,7,15,15,usa,Paul_Menard,Paul Menard,Super Clean / Menards,Dale_Earnhardt_Inc,Chevrolet,200,29450,running,0,146
 2007,B,2007_Yellow_Transportation_300,2007_30,8,4,29,usa,Jeff_Burton,Jeff Burton,Holiday Inn,Richard_Childress,Chevrolet,200,34550,running,36,147
 2007,B,2007_Yellow_Transportation_300,2007_30,9,10,10,usa,Brian_Vickers,Brian Vickers,Fan1st.com,Todd_Braun,Toyota,200,33960,running,31,143
 2007,B,2007_Yellow_Transportation_300,2007_30,10,2,16,usa,Greg_Biffle,Greg Biffle,3M,Jack_Roush,Ford,200,33675,running,20,139
@@ -1284,7 +1284,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2007,B,2007_Yellow_Transportation_300,2007_30,43,41,01,usa,Kertus_Davis,Kertus Davis,RaceGirl,Johnny_Davis,Chevrolet,17,20988,ignition,0,34
 2007,B,2007_Dollar_General_300,2007_31,1,13,29,usa,Jeff_Burton,Jeff Burton,Holiday Inn,Richard_Childress,Chevrolet,200,74350,running,61,195
 2007,B,2007_Dollar_General_300,2007_31,2,24,5,usa,Kyle_Busch,Kyle Busch,Sta-Green,Rick_Hendrick,Chevrolet,200,53350,running,0,170
-2007,B,2007_Dollar_General_300,2007_31,3,26,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Menards / Super Clean,"Dale_Earnhardt,_Inc.",Chevrolet,200,35900,running,0,165
+2007,B,2007_Dollar_General_300,2007_31,3,26,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Menards / Super Clean,Dale_Earnhardt_Inc,Chevrolet,200,35900,running,0,165
 2007,B,2007_Dollar_General_300,2007_31,4,7,18,usa,Aric_Almirola,Aric Almirola,Slim Jim Monster,Joe_Gibbs,Chevrolet,200,39300,running,0,160
 2007,B,2007_Dollar_General_300,2007_31,5,6,20,usa,Denny_Hamlin,Denny Hamlin,Rockwell Automation,Joe_Gibbs,Chevrolet,200,34125,running,0,155
 2007,B,2007_Dollar_General_300,2007_31,6,10,6,usa,David_Ragan,David Ragan,Discount Tire,Jack_Roush,Ford,200,25450,running,0,150

@@ -1,5 +1,5 @@
 season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
-2004,B,2004_Hershey%27s_Kisses_300,2004_01,1,8,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Oreo / Ritz,"Dale_Earnhardt,_Inc.",Chevrolet,120,96210,running,47,190
+2004,B,2004_Hershey%27s_Kisses_300,2004_01,1,8,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Oreo / Ritz,Dale_Earnhardt_Inc,Chevrolet,120,96210,running,47,190
 2004,B,2004_Hershey%27s_Kisses_300,2004_01,2,22,27,usa,Johnny_Sauter,Johnny Sauter,Kleenex / Winn-Dixie,Clarence_Brewer,Pontiac,120,92470,running,1,175
 2004,B,2004_Hershey%27s_Kisses_300,2004_01,3,5,55,usa,Robby_Gordon,Robby Gordon,Fruit of the Loom,Robby_Gordon,Chevrolet,120,63030,running,9,170
 2004,B,2004_Hershey%27s_Kisses_300,2004_01,4,3,21,usa,Kevin_Harvick,Kevin Harvick,Hershey's Kisses,Richard_Childress,Chevrolet,120,58875,running,46,165
@@ -630,7 +630,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2004,B,2004_Federated_Auto_Parts_300,2004_15,27,37,72,canada,Randy_MacDonald,Randy MacDonald,MacDonald Motorsports,Pat_MacDonald,Chevrolet,218,16060,running,0,82
 2004,B,2004_Federated_Auto_Parts_300,2004_15,28,40,39,usa,Mark_Green,Mark Green,Yahoo!,Jay_Robinson,Ford,217,16030,running,0,79
 2004,B,2004_Federated_Auto_Parts_300,2004_15,29,9,1,usa,Buckshot_Jones,Buckshot Jones,Yellow Transportation,James_Finch,Dodge,209,15990,running,0,76
-2004,B,2004_Federated_Auto_Parts_300,2004_15,30,28,35,usa,Johnny_Borneman_III,"Johnny Borneman, III",Pioneer Financial Services,Sam_Rensi,Ford,193,14025,brakes,0,73
+2004,B,2004_Federated_Auto_Parts_300,2004_15,30,28,35,usa,Johnny_Borneman_III,Johnny Borneman III,Pioneer Financial Services,Sam_Rensi,Ford,193,14025,brakes,0,73
 2004,B,2004_Federated_Auto_Parts_300,2004_15,31,13,27,usa,Johnny_Sauter,Johnny Sauter,Kleenex / Cottonelle,Clarence_Brewer,Pontiac,185,13885,rear end,0,70
 2004,B,2004_Federated_Auto_Parts_300,2004_15,32,36,61,usa,John_Hayden,John Hayden,Spectra Metals / Steve McNair,Wayne_Day,Chevrolet,171,13865,fuel,0,67
 2004,B,2004_Federated_Auto_Parts_300,2004_15,33,7,22,usa,Jason_Keller,Jason Keller,ppc Racing,Greg_Pollex,Ford,153,23365,engine,0,64
@@ -833,7 +833,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2004,B,2004_Siemens_200,2004_20,15,28,72,usa,Kevin_Lepage,Kevin Lepage,Racing Against Cancer,Pat_MacDonald,Chevrolet,200,16810,running,0,118
 2004,B,2004_Siemens_200,2004_20,16,6,87,usa,Joe_Nemechek,Joe Nemechek,Cellular One,Joe_Nemechek,Chevrolet,200,14135,running,16,120
 2004,B,2004_Siemens_200,2004_20,17,18,46,usa,Ashton_Lewis,Ashton Lewis,Brickmill Marketing,Bill_Lewis,Chevrolet,200,19210,running,0,112
-2004,B,2004_Siemens_200,2004_20,18,11,11,usa,Paul_Menard,Paul Menard,Menards / Pittsburgh Paints,"Dale_Earnhardt,_Inc.",Chevrolet,200,16905,running,0,109
+2004,B,2004_Siemens_200,2004_20,18,11,11,usa,Paul_Menard,Paul Menard,Menards / Pittsburgh Paints,Dale_Earnhardt_Inc,Chevrolet,200,16905,running,0,109
 2004,B,2004_Siemens_200,2004_20,19,42,44,usa,Justin_Labonte,Justin Labonte,U.S. Coast Guard,Terry_Labonte,Dodge,200,13835,running,0,106
 2004,B,2004_Siemens_200,2004_20,20,14,1,usa,Casey_Mears,Casey Mears,Yellow Transportation,James_Finch,Dodge,200,14635,running,9,108
 2004,B,2004_Siemens_200,2004_20,21,9,37,usa,David_Green,David Green,Timber Wolf,Clarence_Brewer,Pontiac,200,24255,running,0,100
@@ -870,7 +870,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2004,B,2004_Goulds_Pumps_ITT_Industries_Salute_to_the_Troops_250,2004_21,9,12,14,usa,Casey_Atwood,Casey Atwood,"Navy ""Accelerate Your Life""",Terry_Bradshaw,Chevrolet,250,27075,running,0,138
 2004,B,2004_Goulds_Pumps_ITT_Industries_Salute_to_the_Troops_250,2004_21,10,5,25,usa,Bobby_Hamilton_Jr,"Bobby Hamilton, Jr.",U.S. Marines,Ed_Rensi,Ford,250,32700,running,0,134
 2004,B,2004_Goulds_Pumps_ITT_Industries_Salute_to_the_Troops_250,2004_21,11,11,2,usa,Ron_Hornaday_Jr,"Ron Hornaday, Jr.",AC Delco,Richard_Childress,Chevrolet,250,30925,running,0,130
-2004,B,2004_Goulds_Pumps_ITT_Industries_Salute_to_the_Troops_250,2004_21,12,24,11,usa,Paul_Menard,Paul Menard,Menards / Johns Manville,"Dale_Earnhardt,_Inc.",Chevrolet,250,22925,running,0,127
+2004,B,2004_Goulds_Pumps_ITT_Industries_Salute_to_the_Troops_250,2004_21,12,24,11,usa,Paul_Menard,Paul Menard,Menards / Johns Manville,Dale_Earnhardt_Inc,Chevrolet,250,22925,running,0,127
 2004,B,2004_Goulds_Pumps_ITT_Industries_Salute_to_the_Troops_250,2004_21,13,6,22,usa,Jason_Keller,Jason Keller,Airplus Insoles,Greg_Pollex,Ford,250,30230,running,0,124
 2004,B,2004_Goulds_Pumps_ITT_Industries_Salute_to_the_Troops_250,2004_21,14,9,23,usa,Kenny_Wallace,Kenny Wallace,Stacker 2,Bill_Davis,Chevrolet,250,22695,running,0,121
 2004,B,2004_Goulds_Pumps_ITT_Industries_Salute_to_the_Troops_250,2004_21,15,19,1,usa,Regan_Smith,Regan Smith,Yellow Transportation,James_Finch,Dodge,249,21000,running,0,118
@@ -921,7 +921,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2004,B,2004_Kroger_200_Presented_by_Tom_Raper_RVs,2004_22,17,15,21,usa,Clint_Bowyer,Clint Bowyer,Reese's,Richard_Childress,Chevrolet,200,15440,running,0,112
 2004,B,2004_Kroger_200_Presented_by_Tom_Raper_RVs,2004_22,18,21,59,usa,Stacy_Compton,Stacy Compton,Kingsford / Bush's / Food 4 Less,Tad_Geschickter,Ford,200,15405,running,0,109
 2004,B,2004_Kroger_200_Presented_by_Tom_Raper_RVs,2004_22,19,12,22,usa,Jason_Keller,Jason Keller,Miller High Life Light,Greg_Pollex,Ford,199,20870,running,0,106
-2004,B,2004_Kroger_200_Presented_by_Tom_Raper_RVs,2004_22,20,26,11,usa,Paul_Menard,Paul Menard,Menards / Moen,"Dale_Earnhardt,_Inc.",Chevrolet,199,13585,running,0,103
+2004,B,2004_Kroger_200_Presented_by_Tom_Raper_RVs,2004_22,20,26,11,usa,Paul_Menard,Paul Menard,Menards / Moen,Dale_Earnhardt_Inc,Chevrolet,199,13585,running,0,103
 2004,B,2004_Kroger_200_Presented_by_Tom_Raper_RVs,2004_22,21,30,4,usa,Mike_Wallace,Mike Wallace,GEICO,Fred_Biagi,Ford,199,21075,running,0,100
 2004,B,2004_Kroger_200_Presented_by_Tom_Raper_RVs,2004_22,22,27,47,usa,Robert_Pressley,Robert Pressley,Clorox / Wisk / Kroger,Tad_Geschickter,Ford,199,15215,running,0,97
 2004,B,2004_Kroger_200_Presented_by_Tom_Raper_RVs,2004_22,23,20,43,usa,Aaron_Fike,Aaron Fike,Ollie's Bargain Outlet / Kroger,Mike_Curb,Dodge,198,11775,running,0,94
@@ -1023,7 +1023,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2004,B,2004_Food_City_250,2004_24,33,9,60,usa,Greg_Biffle,Greg Biffle,Charter Communications,Jack_Roush,Ford,214,18285,brakes,0,64
 2004,B,2004_Food_City_250,2004_24,34,6,38,usa,Kasey_Kahne,Kasey Kahne,Great Clips,Brad_Akins,Dodge,213,18265,engine,0,61
 2004,B,2004_Food_City_250,2004_24,35,13,1,usa,Casey_Mears,Casey Mears,Miccosukee Gaming & Resorts,James_Finch,Dodge,186,18225,rear end,0,58
-2004,B,2004_Food_City_250,2004_24,36,15,11,usa,Paul_Menard,Paul Menard,Menards / Turtle Wax,"Dale_Earnhardt,_Inc.",Chevrolet,176,18205,crash,0,55
+2004,B,2004_Food_City_250,2004_24,36,15,11,usa,Paul_Menard,Paul Menard,Menards / Turtle Wax,Dale_Earnhardt_Inc,Chevrolet,176,18205,crash,0,55
 2004,B,2004_Food_City_250,2004_24,37,43,77,usa,Jimmy_Kitchens,Jimmy Kitchens,Moy Racing,Joe_Reilly,Ford,103,20175,crash,0,52
 2004,B,2004_Food_City_250,2004_24,38,41,39,usa,Tina_Gordon,Tina Gordon,Yahoo! / Vassarette / Microtel,Jay_Robinson,Ford,89,20140,crash,0,49
 2004,B,2004_Food_City_250,2004_24,39,20,55,usa,Robby_Gordon,Robby Gordon,Fruit of the Loom,Robby_Gordon,Chevrolet,81,18100,crash,0,46
@@ -1051,7 +1051,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2004,B,2004_Target_House_300,2004_25,18,24,4,usa,Mike_Wallace,Mike Wallace,GEICO / Sportclips,Fred_Biagi,Ford,149,31290,running,0,109
 2004,B,2004_Target_House_300,2004_25,19,27,74,usa,Tony_Raines,Tony Raines,Outdoor Channel,Bill_Baumgardner,Chevrolet,149,27180,running,0,106
 2004,B,2004_Target_House_300,2004_25,20,29,35,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",Mr. Clean AutoDry Carwash,Sam_Rensi,Ford,149,21220,running,0,103
-2004,B,2004_Target_House_300,2004_25,21,19,11,usa,Paul_Menard,Paul Menard,Menards / Pittsburgh Paints,"Dale_Earnhardt,_Inc.",Chevrolet,149,22280,running,0,100
+2004,B,2004_Target_House_300,2004_25,21,19,11,usa,Paul_Menard,Paul Menard,Menards / Pittsburgh Paints,Dale_Earnhardt_Inc,Chevrolet,149,22280,running,0,100
 2004,B,2004_Target_House_300,2004_25,22,21,22,usa,Jason_Keller,Jason Keller,ppc Racing,Greg_Pollex,Ford,149,29690,running,0,97
 2004,B,2004_Target_House_300,2004_25,23,28,46,usa,Ashton_Lewis,Ashton Lewis,Lewis Motorsports,Bill_Lewis,Chevrolet,149,24365,running,0,94
 2004,B,2004_Target_House_300,2004_25,24,31,59,usa,Stacy_Compton,Stacy Compton,Kingsford / Bush's / Pace,Tad_Geschickter,Ford,148,23925,running,0,91
@@ -1086,7 +1086,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2004,B,2004_Emerson_Radio_250,2004_26,10,18,27,usa,Johnny_Sauter,Johnny Sauter,Kleenex / Ukrop's,Clarence_Brewer,Chevrolet,250,20495,running,0,134
 2004,B,2004_Emerson_Radio_250,2004_26,11,15,60,usa,Greg_Biffle,Greg Biffle,Charter Communications / CNN Headline News,Jack_Roush,Ford,250,14010,running,0,130
 2004,B,2004_Emerson_Radio_250,2004_26,12,13,9,usa,Mark_Martin,Mark Martin,Pennzoil,Jack_Roush,Ford,250,13975,running,0,0
-2004,B,2004_Emerson_Radio_250,2004_26,13,10,11,usa,Paul_Menard,Paul Menard,Menards / Energizer,"Dale_Earnhardt,_Inc.",Chevrolet,250,17470,running,0,124
+2004,B,2004_Emerson_Radio_250,2004_26,13,10,11,usa,Paul_Menard,Paul Menard,Menards / Energizer,Dale_Earnhardt_Inc,Chevrolet,250,17470,running,0,124
 2004,B,2004_Emerson_Radio_250,2004_26,14,21,37,usa,David_Green,David Green,Timber Wolf,Clarence_Brewer,Pontiac,250,25605,running,0,121
 2004,B,2004_Emerson_Radio_250,2004_26,15,25,18,usa,J_J_Yeley,J.J. Yeley,Vigoro / Home Depot,Joe_Gibbs,Chevrolet,250,17320,running,0,118
 2004,B,2004_Emerson_Radio_250,2004_26,16,17,6,usa,Mark_McFarland,Mark McFarland,Hellmann's,Tommy_Baldwin,Dodge,250,13810,running,0,115
@@ -1131,7 +1131,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2004,B,2004_Stacker_2_Hundred_Presented_by_YJ_Stinger,2004_27,12,10,22,usa,Jason_Keller,Jason Keller,Nestle Toll House,Greg_Pollex,Ford,199,26235,running,0,127
 2004,B,2004_Stacker_2_Hundred_Presented_by_YJ_Stinger,2004_27,13,13,12,usa,Tim_Fedewa,Tim Fedewa,Supercuts,Armando_Fitz,Chevrolet,199,19480,running,0,124
 2004,B,2004_Stacker_2_Hundred_Presented_by_YJ_Stinger,2004_27,14,21,60,usa,Greg_Biffle,Greg Biffle,Charter Communications,Jack_Roush,Ford,199,13840,running,0,121
-2004,B,2004_Stacker_2_Hundred_Presented_by_YJ_Stinger,2004_27,15,16,11,usa,Paul_Menard,Paul Menard,Menards / Pittsburgh Paints,"Dale_Earnhardt,_Inc.",Chevrolet,199,17380,running,0,118
+2004,B,2004_Stacker_2_Hundred_Presented_by_YJ_Stinger,2004_27,15,16,11,usa,Paul_Menard,Paul Menard,Menards / Pittsburgh Paints,Dale_Earnhardt_Inc,Chevrolet,199,17380,running,0,118
 2004,B,2004_Stacker_2_Hundred_Presented_by_YJ_Stinger,2004_27,16,11,32,usa,David_Stremme,David Stremme,Trim Spa,Todd_Braun,Dodge,199,19070,running,0,115
 2004,B,2004_Stacker_2_Hundred_Presented_by_YJ_Stinger,2004_27,17,23,43,usa,Aaron_Fike,Aaron Fike,Ollie's Bargain Outlet,Mike_Curb,Dodge,199,13660,running,0,112
 2004,B,2004_Stacker_2_Hundred_Presented_by_YJ_Stinger,2004_27,18,12,20,usa,Mike_Bliss,Mike Bliss,Rockwell Automation,Joe_Gibbs,Chevrolet,198,17645,running,0,109
@@ -1176,7 +1176,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2004,B,2004_Mr._Goodcents_300,2004_28,14,3,55,usa,Robby_Gordon,Robby Gordon,Fruit of the Loom / Duckwall / Alco,Robby_Gordon,Chevrolet,204,21365,running,33,126
 2004,B,2004_Mr._Goodcents_300,2004_28,15,12,23,usa,Kenny_Wallace,Kenny Wallace,Stacker 2,Bill_Davis,Chevrolet,204,25580,running,0,118
 2004,B,2004_Mr._Goodcents_300,2004_28,16,17,29,usa,Brandon_Miller,Brandon Miller,GM Card / Sylvania,Richard_Childress,Chevrolet,203,19720,running,0,115
-2004,B,2004_Mr._Goodcents_300,2004_28,17,1,11,usa,Paul_Menard,Paul Menard,Menards / Energizer,"Dale_Earnhardt,_Inc.",Chevrolet,202,26130,running,0,112
+2004,B,2004_Mr._Goodcents_300,2004_28,17,1,11,usa,Paul_Menard,Paul Menard,Menards / Energizer,Dale_Earnhardt_Inc,Chevrolet,202,26130,running,0,112
 2004,B,2004_Mr._Goodcents_300,2004_28,18,31,4,usa,Mike_Wallace,Mike Wallace,GEICO / Sportclips,Fred_Biagi,Ford,202,29875,running,0,109
 2004,B,2004_Mr._Goodcents_300,2004_28,19,8,20,usa,Mike_Bliss,Mike Bliss,Rockwell Automation,Joe_Gibbs,Chevrolet,202,24165,running,1,111
 2004,B,2004_Mr._Goodcents_300,2004_28,20,29,47,usa,Robert_Pressley,Robert Pressley,Clorox / Wisk / Country Mart,Tad_Geschickter,Ford,202,23325,running,0,103
@@ -1256,7 +1256,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2004,B,2004_Sam%27s_Town_250_Benefiting_St._Jude_Childrens_Hospital,2004_30,8,17,27,usa,Johnny_Sauter,Johnny Sauter,Kleenex Anti-Viral,Clarence_Brewer,Pontiac,255,24185,running,0,142
 2004,B,2004_Sam%27s_Town_250_Benefiting_St._Jude_Childrens_Hospital,2004_30,9,28,46,usa,Ashton_Lewis,Ashton Lewis,Lewis Motorsports,Bill_Lewis,Chevrolet,255,23310,running,0,138
 2004,B,2004_Sam%27s_Town_250_Benefiting_St._Jude_Childrens_Hospital,2004_30,10,15,1,usa,Reed_Sorenson,Reed Sorenson,Yellow Transportation,James_Finch,Dodge,255,20985,running,0,134
-2004,B,2004_Sam%27s_Town_250_Benefiting_St._Jude_Childrens_Hospital,2004_30,11,7,11,usa,Paul_Menard,Paul Menard,Menards / Quaker State,"Dale_Earnhardt,_Inc.",Chevrolet,255,20810,running,0,130
+2004,B,2004_Sam%27s_Town_250_Benefiting_St._Jude_Childrens_Hospital,2004_30,11,7,11,usa,Paul_Menard,Paul Menard,Menards / Quaker State,Dale_Earnhardt_Inc,Chevrolet,255,20810,running,0,130
 2004,B,2004_Sam%27s_Town_250_Benefiting_St._Jude_Childrens_Hospital,2004_30,12,39,38,usa,Tyler_Walker,Tyler Walker,Great Clips,Brad_Akins,Dodge,255,19485,running,0,127
 2004,B,2004_Sam%27s_Town_250_Benefiting_St._Jude_Childrens_Hospital,2004_30,13,6,23,usa,Kenny_Wallace,Kenny Wallace,Stacker 2,Bill_Davis,Chevrolet,255,22890,running,0,124
 2004,B,2004_Sam%27s_Town_250_Benefiting_St._Jude_Childrens_Hospital,2004_30,14,11,5,usa,Kyle_Busch,Kyle Busch,Lowe's / Shop-Vac,Rick_Hendrick,Chevrolet,255,26755,running,59,126
@@ -1307,7 +1307,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2004,B,2004_Aaron%27s_312_%28October%29,2004_31,16,13,37,usa,David_Green,David Green,Timber Wolf,Clarence_Brewer,Chevrolet,206,24500,running,0,115
 2004,B,2004_Aaron%27s_312_%28October%29,2004_31,17,39,59,usa,Stacy_Compton,Stacy Compton,Kingsford / Bush's Beans,Tad_Geschickter,Ford,206,17625,running,0,112
 2004,B,2004_Aaron%27s_312_%28October%29,2004_31,18,30,35,usa,Shelby_Howard,Shelby Howard,Volvo Trucks,Sam_Rensi,Ford,206,13850,running,0,109
-2004,B,2004_Aaron%27s_312_%28October%29,2004_31,19,14,11,usa,Paul_Menard,Paul Menard,Menards / Pittsburgh Paints,"Dale_Earnhardt,_Inc.",Chevrolet,206,14295,running,0,106
+2004,B,2004_Aaron%27s_312_%28October%29,2004_31,19,14,11,usa,Paul_Menard,Paul Menard,Menards / Pittsburgh Paints,Dale_Earnhardt_Inc,Chevrolet,206,14295,running,0,106
 2004,B,2004_Aaron%27s_312_%28October%29,2004_31,20,17,21,usa,Clint_Bowyer,Clint Bowyer,Reese's,Richard_Childress,Chevrolet,205,16845,running,0,103
 2004,B,2004_Aaron%27s_312_%28October%29,2004_31,21,34,4,usa,Mike_Wallace,Mike Wallace,GEICO / Sportclips,Fred_Biagi,Ford,205,21820,running,0,100
 2004,B,2004_Aaron%27s_312_%28October%29,2004_31,22,18,99,usa,Michael_Waltrip,Michael Waltrip,Aaron's / Mad Magazine,Michael_Waltrip,Chevrolet,205,12025,running,0,97
@@ -1345,7 +1345,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2004,B,2004_Bashas%27_Supermarkets_200,2004_32,11,13,38,usa,Kasey_Kahne,Kasey Kahne,Great Clips,Brad_Akins,Dodge,205,19625,running,0,130
 2004,B,2004_Bashas%27_Supermarkets_200,2004_32,12,21,20,usa,Mike_Bliss,Mike Bliss,Rockwell Automation,Joe_Gibbs,Chevrolet,205,32675,running,0,127
 2004,B,2004_Bashas%27_Supermarkets_200,2004_32,13,6,21,usa,Kevin_Harvick,Kevin Harvick,Reese's,Richard_Childress,Chevrolet,205,19655,running,0,124
-2004,B,2004_Bashas%27_Supermarkets_200,2004_32,14,22,11,usa,Paul_Menard,Paul Menard,Menards / Peak,"Dale_Earnhardt,_Inc.",Chevrolet,205,22415,running,0,121
+2004,B,2004_Bashas%27_Supermarkets_200,2004_32,14,22,11,usa,Paul_Menard,Paul Menard,Menards / Peak,Dale_Earnhardt_Inc,Chevrolet,205,22415,running,0,121
 2004,B,2004_Bashas%27_Supermarkets_200,2004_32,15,33,18,usa,J_J_Yeley,J.J. Yeley,Vigoro / Home Depot,Joe_Gibbs,Chevrolet,205,24530,running,0,118
 2004,B,2004_Bashas%27_Supermarkets_200,2004_32,16,12,37,usa,David_Green,David Green,Timber Wolf,Clarence_Brewer,Pontiac,205,30970,running,0,115
 2004,B,2004_Bashas%27_Supermarkets_200,2004_32,17,36,47,usa,Robert_Pressley,Robert Pressley,Clorox / Wisk,Tad_Geschickter,Ford,205,23985,running,0,112
@@ -1386,7 +1386,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2004,B,2004_Bi-Lo_200,2004_33,9,36,41,usa,Reed_Sorenson,Reed Sorenson,Discount Tire,Chip_Ganassi,Dodge,147,13380,running,0,138
 2004,B,2004_Bi-Lo_200,2004_33,10,18,99,usa,Michael_Waltrip,Michael Waltrip,Aaron's,Michael_Waltrip,Chevrolet,147,14520,running,0,134
 2004,B,2004_Bi-Lo_200,2004_33,11,7,38,usa,Kasey_Kahne,Kasey Kahne,Great Clips,Brad_Akins,Dodge,147,13160,running,0,130
-2004,B,2004_Bi-Lo_200,2004_33,12,43,11,usa,Paul_Menard,Paul Menard,Menards / Moen,"Dale_Earnhardt,_Inc.",Chevrolet,147,17325,running,0,127
+2004,B,2004_Bi-Lo_200,2004_33,12,43,11,usa,Paul_Menard,Paul Menard,Menards / Moen,Dale_Earnhardt_Inc,Chevrolet,147,17325,running,0,127
 2004,B,2004_Bi-Lo_200,2004_33,13,17,47,usa,Robert_Pressley,Robert Pressley,Clorox / Wisk,Tad_Geschickter,Ford,147,18625,running,0,124
 2004,B,2004_Bi-Lo_200,2004_33,14,22,12,usa,Tim_Fedewa,Tim Fedewa,Hot Tamales,Armando_Fitz,Chevrolet,147,18260,running,0,121
 2004,B,2004_Bi-Lo_200,2004_33,15,31,33,usa,Clint_Bowyer,Clint Bowyer,Snap-On,Kevin_Harvick,Chevrolet,147,16675,running,0,118
@@ -1451,7 +1451,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2004,B,2004_Ford_300,2004_34,31,36,95,usa,David_Ragan,David Ragan,Sadler & Sons,Sadler_Brothers,Ford,199,16855,running,0,70
 2004,B,2004_Ford_300,2004_34,32,40,72,usa,Stan_Boyd,Stan Boyd,National Bible Week,Pat_MacDonald,Chevrolet,199,18740,running,0,67
 2004,B,2004_Ford_300,2004_34,33,21,43,usa,Aaron_Fike,Aaron Fike,Ollie's Bargain Outlet / Curb Records,Mike_Curb,Dodge,187,16685,running,0,64
-2004,B,2004_Ford_300,2004_34,34,3,11,usa,Paul_Menard,Paul Menard,Menards / Pittsburgh Paints,"Dale_Earnhardt,_Inc.",Chevrolet,180,21345,ignition,0,61
+2004,B,2004_Ford_300,2004_34,34,3,11,usa,Paul_Menard,Paul Menard,Menards / Pittsburgh Paints,Dale_Earnhardt_Inc,Chevrolet,180,21345,ignition,0,61
 2004,B,2004_Ford_300,2004_34,35,32,33,usa,Tony_Raines,Tony Raines,Kevin Harvick Racing,Kevin_Harvick,Chevrolet,172,20610,crash,0,58
 2004,B,2004_Ford_300,2004_34,36,43,24,usa,Steve_Grissom,Steve Grissom,Jani-King,Gregg_Mixon,Chevrolet,162,20575,running,0,55
 2004,B,2004_Ford_300,2004_34,37,8,55,usa,Robby_Gordon,Robby Gordon,Fruit of the Loom,Robby_Gordon,Chevrolet,158,16720,crash,0,52

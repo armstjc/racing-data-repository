@@ -1,5 +1,5 @@
 season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
-2003,W,2003_Daytona_500,2003_01,1,4,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,109,1400406,running,68,185
+2003,W,2003_Daytona_500,2003_01,1,4,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,109,1400406,running,68,185
 2003,W,2003_Daytona_500,2003_01,2,36,97,usa,Kurt_Busch,Kurt Busch,Rubbermaid / Sharpie,Jack_Roush,Ford,109,1027101,running,0,170
 2003,W,2003_Daytona_500,2003_01,3,10,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,109,717526,running,8,170
 2003,W,2003_Daytona_500,2003_01,4,31,29,usa,Kevin_Harvick,Kevin Harvick,GM Goodwrench,Richard_Childress,Chevrolet,109,569630,running,0,160
@@ -27,14 +27,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Daytona_500,2003_01,26,25,32,usa,Ricky_Craven,Ricky Craven,Tide,Cal_Wells,Pontiac,109,185870,running,1,90
 2003,W,2003_Daytona_500,2003_01,27,29,41,usa,Casey_Mears,Casey Mears,Target,Chip_Ganassi,Dodge,109,194920,running,1,87
 2003,W,2003_Daytona_500,2003_01,28,42,01,usa,Jerry_Nadeau,Jerry Nadeau,U.S. Army,Nelson_Bowers,Pontiac,109,184915,running,0,79
-2003,W,2003_Daytona_500,2003_01,29,32,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,109,196645,running,0,76
+2003,W,2003_Daytona_500,2003_01,29,32,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,109,196645,running,0,76
 2003,W,2003_Daytona_500,2003_01,30,41,5,usa,Terry_Labonte,Terry Labonte,Kellogg's / got milk?,Rick_Hendrick,Chevrolet,109,203353,running,0,73
 2003,W,2003_Daytona_500,2003_01,31,19,42,usa,Jamie_McMurray,Jamie McMurray,Havoline,Chip_Ganassi,Dodge,109,171195,running,0,70
 2003,W,2003_Daytona_500,2003_01,32,14,9,usa,Bill_Elliott,Bill Elliott,Dodge Power Days,Ray_Evernham,Dodge,109,208707,running,0,67
 2003,W,2003_Daytona_500,2003_01,33,33,74,usa,Tony_Raines,Tony Raines,Staff America,Bill_Baumgardner,Chevrolet,109,171851,running,0,64
 2003,W,2003_Daytona_500,2003_01,34,12,43,usa,John_Andretti,John Andretti,Cheerios / Betty Crocker,Petty_Enterprises,Dodge,108,207814,running,0,61
 2003,W,2003_Daytona_500,2003_01,35,34,33,brazil,Christian_Fittipaldi,Christian Fittipaldi,Monaco Coaches,Andy_Petree,Chevrolet,108,177856,running,0,58
-2003,W,2003_Daytona_500,2003_01,36,2,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,108,220626,running,22,60
+2003,W,2003_Daytona_500,2003_01,36,2,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,108,220626,running,22,60
 2003,W,2003_Daytona_500,2003_01,37,43,4,usa,Mike_Skinner,Mike Skinner,Kodak,Larry_McClure,Pontiac,108,167870,running,0,52
 2003,W,2003_Daytona_500,2003_01,38,17,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Dodge,105,210695,crash,0,49
 2003,W,2003_Daytona_500,2003_01,39,1,30,usa,Jeff_Green,Jeff Green,AOL Broadband,Richard_Childress,Chevrolet,94,202720,crash,0,46
@@ -60,9 +60,9 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Subway_400,2003_02,16,10,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Chevrolet,392,89438,running,4,120
 2003,W,2003_Subway_400,2003_02,17,20,4,usa,Mike_Skinner,Mike Skinner,Kodak,Larry_McClure,Pontiac,392,61649,running,0,112
 2003,W,2003_Subway_400,2003_02,18,15,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Dodge,392,92260,running,0,109
-2003,W,2003_Subway_400,2003_02,19,22,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,392,66910,running,0,106
+2003,W,2003_Subway_400,2003_02,19,22,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,392,66910,running,0,106
 2003,W,2003_Subway_400,2003_02,20,33,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Chevrolet,392,103538,running,0,103
-2003,W,2003_Subway_400,2003_02,21,25,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,392,73885,running,0,100
+2003,W,2003_Subway_400,2003_02,21,25,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,392,73885,running,0,100
 2003,W,2003_Subway_400,2003_02,22,13,16,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,392,48210,running,0,97
 2003,W,2003_Subway_400,2003_02,23,14,25,usa,Joe_Nemechek,Joe Nemechek,UAW-Delphi,Rick_Hendrick,Chevrolet,392,52360,running,0,94
 2003,W,2003_Subway_400,2003_02,24,35,49,usa,Ken_Schrader,Ken Schrader,BAM Racing,Beth_Ann_Morgenthau,Dodge,392,47760,running,0,91
@@ -74,7 +74,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Subway_400,2003_02,30,16,41,usa,Casey_Mears,Casey Mears,Target,Chip_Ganassi,Dodge,390,58100,running,0,73
 2003,W,2003_Subway_400,2003_02,31,39,30,usa,Jeff_Green,Jeff Green,America Online,Richard_Childress,Chevrolet,390,56975,running,0,70
 2003,W,2003_Subway_400,2003_02,32,5,9,usa,Bill_Elliott,Bill Elliott,Dodge Dealers / UAW,Ray_Evernham,Dodge,390,82506,running,0,67
-2003,W,2003_Subway_400,2003_02,33,12,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,390,64225,running,0,64
+2003,W,2003_Subway_400,2003_02,33,12,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,390,64225,running,0,64
 2003,W,2003_Subway_400,2003_02,34,34,0,usa,Jack_Sprague,Jack Sprague,NetZero,Gene_Haas,Pontiac,390,47050,running,0,61
 2003,W,2003_Subway_400,2003_02,35,30,45,usa,Kyle_Petty,Kyle Petty,Georgia-Pacific,Petty_Enterprises,Dodge,389,54000,running,1,63
 2003,W,2003_Subway_400,2003_02,36,41,14,usa,Larry_Foyt,Larry Foyt,Harrah's,A.J._Foyt,Dodge,388,45950,running,0,55
@@ -86,15 +86,15 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Subway_400,2003_02,42,40,54,usa,Todd_Bodine,Todd Bodine,National Guard,Travis_Carter,Ford,85,45615,crash,0,37
 2003,W,2003_Subway_400,2003_02,43,43,37,usa,Derrike_Cope,Derrike Cope,Friendly's Ice Cream,Derrike_Cope,Chevrolet,34,44922,clutch,0,34
 2003,W,2003_UAW-Daimler_Chrysler_400,2003_03,1,17,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,267,365875,running,88,180
-2003,W,2003_UAW-Daimler_Chrysler_400,2003_03,2,4,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,267,267167,running,97,180
-2003,W,2003_UAW-Daimler_Chrysler_400,2003_03,3,9,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,267,190550,running,17,170
+2003,W,2003_UAW-Daimler_Chrysler_400,2003_03,2,4,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,267,267167,running,97,180
+2003,W,2003_UAW-Daimler_Chrysler_400,2003_03,3,9,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,267,190550,running,17,170
 2003,W,2003_UAW-Daimler_Chrysler_400,2003_03,4,1,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Chevrolet,267,178908,running,1,165
 2003,W,2003_UAW-Daimler_Chrysler_400,2003_03,5,8,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Chevrolet,267,164503,running,0,155
 2003,W,2003_UAW-Daimler_Chrysler_400,2003_03,6,7,99,usa,Jeff_Burton,Jeff Burton,Citgo,Jack_Roush,Ford,267,127067,running,0,150
 2003,W,2003_UAW-Daimler_Chrysler_400,2003_03,7,3,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,267,128025,running,3,151
 2003,W,2003_UAW-Daimler_Chrysler_400,2003_03,8,34,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Chip_Ganassi,Dodge,267,136000,running,0,142
 2003,W,2003_UAW-Daimler_Chrysler_400,2003_03,9,26,25,usa,Joe_Nemechek,Joe Nemechek,UAW-Delphi,Rick_Hendrick,Chevrolet,267,87200,running,0,138
-2003,W,2003_UAW-Daimler_Chrysler_400,2003_03,10,39,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,267,112662,running,0,134
+2003,W,2003_UAW-Daimler_Chrysler_400,2003_03,10,39,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,267,112662,running,0,134
 2003,W,2003_UAW-Daimler_Chrysler_400,2003_03,11,10,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,267,97675,running,2,135
 2003,W,2003_UAW-Daimler_Chrysler_400,2003_03,12,16,10,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Valvoline,James_Rocco,Pontiac,266,107725,running,0,127
 2003,W,2003_UAW-Daimler_Chrysler_400,2003_03,13,22,29,usa,Kevin_Harvick,Kevin Harvick,GM Goodwrench Service,Richard_Childress,Chevrolet,266,116553,running,0,124
@@ -130,7 +130,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_UAW-Daimler_Chrysler_400,2003_03,43,29,6,usa,Mark_Martin,Mark Martin,Pfizer / Viagra,Jack_Roush,Ford,114,91542,engine,0,34
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28March%29,2003_04,1,4,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries / Advair,Joe_Gibbs,Chevrolet,325,209233,running,172,185
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28March%29,2003_04,2,30,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,325,142778,running,68,175
-2003,W,2003_Bass_Pro_Shops_MBNA_500_%28March%29,2003_04,3,37,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,325,113917,running,23,170
+2003,W,2003_Bass_Pro_Shops_MBNA_500_%28March%29,2003_04,3,37,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,325,113917,running,23,170
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28March%29,2003_04,4,24,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,325,91850,running,0,160
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28March%29,2003_04,5,8,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Chevrolet,325,113328,running,17,160
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28March%29,2003_04,6,3,38,usa,Elliott_Sadler,Elliott Sadler,M&M's,Yates_Racing,Ford,325,94450,running,1,155
@@ -143,7 +143,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28March%29,2003_04,13,20,16,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,324,51775,running,0,124
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28March%29,2003_04,14,34,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Chip_Ganassi,Dodge,324,93675,running,0,121
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28March%29,2003_04,15,7,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,324,88392,running,0,118
-2003,W,2003_Bass_Pro_Shops_MBNA_500_%28March%29,2003_04,16,15,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,324,75512,running,0,115
+2003,W,2003_Bass_Pro_Shops_MBNA_500_%28March%29,2003_04,16,15,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,324,75512,running,0,115
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28March%29,2003_04,17,18,31,usa,Robby_Gordon,Robby Gordon,Cingular Wireless,Richard_Childress,Chevrolet,323,77912,running,0,112
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28March%29,2003_04,18,12,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Dodge,323,84871,running,0,109
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28March%29,2003_04,19,17,29,usa,Kevin_Harvick,Kevin Harvick,GM Goodwrench Service,Richard_Childress,Chevrolet,323,87968,running,0,106
@@ -154,7 +154,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28March%29,2003_04,24,36,74,usa,Tony_Raines,Tony Raines,BACE Motorsports,Bill_Baumgardner,Chevrolet,322,47635,running,0,91
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28March%29,2003_04,25,28,30,usa,Jeff_Green,Jeff Green,America Online,Richard_Childress,Chevrolet,322,59035,running,0,88
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28March%29,2003_04,26,40,23,usa,Kenny_Wallace,Kenny Wallace,Stacker 2,Bill_Davis,Dodge,322,58774,running,0,85
-2003,W,2003_Bass_Pro_Shops_MBNA_500_%28March%29,2003_04,27,6,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,321,68070,running,0,82
+2003,W,2003_Bass_Pro_Shops_MBNA_500_%28March%29,2003_04,27,6,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,321,68070,running,0,82
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28March%29,2003_04,28,35,54,usa,Todd_Bodine,Todd Bodine,National Guard,Travis_Carter,Ford,321,49920,running,0,79
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28March%29,2003_04,29,19,43,usa,John_Andretti,John Andretti,Cheerios,Petty_Enterprises,Dodge,320,84988,running,0,76
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28March%29,2003_04,30,32,4,usa,Mike_Skinner,Mike Skinner,Kodak,Larry_McClure,Pontiac,318,47085,running,0,73
@@ -175,8 +175,8 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Carolina_Dodge_Dealers_400,2003_05,2,6,97,usa,Kurt_Busch,Kurt Busch,Rubbermaid,Jack_Roush,Ford,293,103725,running,23,175
 2003,W,2003_Carolina_Dodge_Dealers_400,2003_05,3,18,77,usa,Dave_Blaney,Dave Blaney,Jasper Engines & Transmissions,Doug_Bawel,Ford,293,91945,running,0,165
 2003,W,2003_Carolina_Dodge_Dealers_400,2003_05,4,27,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,293,114813,running,71,165
-2003,W,2003_Carolina_Dodge_Dealers_400,2003_05,5,9,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,293,74450,running,0,155
-2003,W,2003_Carolina_Dodge_Dealers_400,2003_05,6,16,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,293,98392,running,91,160
+2003,W,2003_Carolina_Dodge_Dealers_400,2003_05,5,9,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,293,74450,running,0,155
+2003,W,2003_Carolina_Dodge_Dealers_400,2003_05,6,16,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,293,98392,running,91,160
 2003,W,2003_Carolina_Dodge_Dealers_400,2003_05,7,1,38,usa,Elliott_Sadler,Elliott Sadler,M&M's,Yates_Racing,Ford,293,94470,running,12,151
 2003,W,2003_Carolina_Dodge_Dealers_400,2003_05,8,12,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,293,69440,running,0,142
 2003,W,2003_Carolina_Dodge_Dealers_400,2003_05,9,25,9,usa,Bill_Elliott,Bill Elliott,Dodge Dealers / UAW,Ray_Evernham,Dodge,293,86743,running,0,138
@@ -190,7 +190,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Carolina_Dodge_Dealers_400,2003_05,17,15,49,usa,Ken_Schrader,Ken Schrader,1-800-Call-ATT,Beth_Ann_Morgenthau,Dodge,291,45715,running,0,112
 2003,W,2003_Carolina_Dodge_Dealers_400,2003_05,18,36,88,usa,Dale_Jarrett,Dale Jarrett,UPS,Yates_Racing,Ford,291,90673,running,7,114
 2003,W,2003_Carolina_Dodge_Dealers_400,2003_05,19,32,30,usa,Jeff_Green,Jeff Green,America Online,Richard_Childress,Chevrolet,291,56365,running,0,106
-2003,W,2003_Carolina_Dodge_Dealers_400,2003_05,20,35,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,291,74982,running,0,103
+2003,W,2003_Carolina_Dodge_Dealers_400,2003_05,20,35,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,291,74982,running,0,103
 2003,W,2003_Carolina_Dodge_Dealers_400,2003_05,21,4,7,usa,Jimmy_Spencer,Jimmy Spencer,Sirius Satellite Radio,Jim_Smith,Dodge,291,56569,running,4,105
 2003,W,2003_Carolina_Dodge_Dealers_400,2003_05,22,19,42,usa,Jamie_McMurray,Jamie McMurray,Havoline,Chip_Ganassi,Dodge,291,43965,running,0,97
 2003,W,2003_Carolina_Dodge_Dealers_400,2003_05,23,21,23,usa,Kenny_Wallace,Kenny Wallace,Stacker 2,Bill_Davis,Dodge,291,48050,running,0,94
@@ -229,7 +229,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Food_City_500,2003_06,13,29,99,usa,Jeff_Burton,Jeff Burton,Citgo,Jack_Roush,Ford,498,99807,running,0,124
 2003,W,2003_Food_City_500,2003_06,14,4,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,498,99882,running,5,126
 2003,W,2003_Food_City_500,2003_06,15,14,32,usa,Ricky_Craven,Ricky Craven,Tide,Cal_Wells,Pontiac,498,84815,running,0,118
-2003,W,2003_Food_City_500,2003_06,16,8,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,498,101407,running,0,115
+2003,W,2003_Food_City_500,2003_06,16,8,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,498,101407,running,0,115
 2003,W,2003_Food_City_500,2003_06,17,36,31,usa,Robby_Gordon,Robby Gordon,Cingular Wireless,Richard_Childress,Chevrolet,498,89527,running,0,112
 2003,W,2003_Food_City_500,2003_06,18,5,9,usa,Bill_Elliott,Bill Elliott,Dodge Dealers / UAW,Ray_Evernham,Dodge,497,99023,running,0,109
 2003,W,2003_Food_City_500,2003_06,19,20,10,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Valvoline,James_Rocco,Pontiac,497,90630,running,0,106
@@ -238,12 +238,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Food_City_500,2003_06,22,1,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,496,97940,running,0,97
 2003,W,2003_Food_City_500,2003_06,23,18,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,494,72045,running,0,94
 2003,W,2003_Food_City_500,2003_06,24,33,11,usa,Brett_Bodine,Brett Bodine,"Hooters ""We race in their memory""",Brett_Bodine,Ford,494,62515,running,0,91
-2003,W,2003_Food_City_500,2003_06,25,28,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,488,77470,running,0,88
+2003,W,2003_Food_City_500,2003_06,25,28,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,488,77470,running,0,88
 2003,W,2003_Food_City_500,2003_06,26,10,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Chevrolet,487,111518,crash,0,85
 2003,W,2003_Food_City_500,2003_06,27,25,25,usa,Joe_Nemechek,Joe Nemechek,UAW-Delphi,Rick_Hendrick,Chevrolet,469,62005,crash,0,82
 2003,W,2003_Food_City_500,2003_06,28,13,01,usa,Jerry_Nadeau,Jerry Nadeau,U.S. Army,Nelson_Bowers,Pontiac,456,70139,running,0,79
 2003,W,2003_Food_City_500,2003_06,29,19,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,451,95368,running,0,76
-2003,W,2003_Food_City_500,2003_06,30,35,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,446,83872,running,0,73
+2003,W,2003_Food_City_500,2003_06,30,35,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,446,83872,running,0,73
 2003,W,2003_Food_City_500,2003_06,31,43,43,usa,John_Andretti,John Andretti,Cheerios,Petty_Enterprises,Dodge,440,96168,running,0,70
 2003,W,2003_Food_City_500,2003_06,32,39,41,usa,Casey_Mears,Casey Mears,Target,Chip_Ganassi,Dodge,423,67845,running,0,67
 2003,W,2003_Food_City_500,2003_06,33,11,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Dodge,422,94256,crash,0,64
@@ -258,7 +258,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Food_City_500,2003_06,42,22,74,usa,Tony_Raines,Tony Raines,BACE Motorsports,Bill_Baumgardner,Chevrolet,52,56860,engine,0,37
 2003,W,2003_Food_City_500,2003_06,43,24,37,usa,Derrike_Cope,Derrike Cope,Friendly's Ice Cream,Derrike_Cope,Chevrolet,31,56178,engine,0,34
 2003,W,2003_Samsung_Radio_Shack_500,2003_07,1,3,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,334,406500,running,77,180
-2003,W,2003_Samsung_Radio_Shack_500,2003_07,2,11,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,334,299667,running,35,175
+2003,W,2003_Samsung_Radio_Shack_500,2003_07,2,11,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,334,299667,running,35,175
 2003,W,2003_Samsung_Radio_Shack_500,2003_07,3,7,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,334,249753,running,16,170
 2003,W,2003_Samsung_Radio_Shack_500,2003_07,4,5,01,usa,Jerry_Nadeau,Jerry Nadeau,U.S. Army,Nelson_Bowers,Pontiac,334,187725,running,0,160
 2003,W,2003_Samsung_Radio_Shack_500,2003_07,5,32,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,334,173058,running,0,155
@@ -273,7 +273,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Samsung_Radio_Shack_500,2003_07,14,10,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,333,126692,running,0,121
 2003,W,2003_Samsung_Radio_Shack_500,2003_07,15,8,29,usa,Kevin_Harvick,Kevin Harvick,GM Goodwrench,Richard_Childress,Chevrolet,333,128128,running,0,118
 2003,W,2003_Samsung_Radio_Shack_500,2003_07,16,12,5,usa,Terry_Labonte,Terry Labonte,Kellogg's / got milk?,Rick_Hendrick,Chevrolet,333,115656,running,0,115
-2003,W,2003_Samsung_Radio_Shack_500,2003_07,17,37,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,333,102500,running,0,112
+2003,W,2003_Samsung_Radio_Shack_500,2003_07,17,37,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,333,102500,running,0,112
 2003,W,2003_Samsung_Radio_Shack_500,2003_07,18,21,31,usa,Robby_Gordon,Robby Gordon,Cingular Wireless,Richard_Childress,Chevrolet,333,112387,running,0,109
 2003,W,2003_Samsung_Radio_Shack_500,2003_07,19,43,43,usa,John_Andretti,John Andretti,Cheerios,Petty_Enterprises,Dodge,333,121753,running,0,106
 2003,W,2003_Samsung_Radio_Shack_500,2003_07,20,29,99,usa,Jeff_Burton,Jeff Burton,Citgo,Jack_Roush,Ford,333,120492,running,0,103
@@ -295,12 +295,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Samsung_Radio_Shack_500,2003_07,36,39,77,usa,Dave_Blaney,Dave Blaney,Jasper Engines & Transmissions,Doug_Bawel,Ford,268,67075,engine,0,55
 2003,W,2003_Samsung_Radio_Shack_500,2003_07,37,1,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Chevrolet,260,117108,crash,0,52
 2003,W,2003_Samsung_Radio_Shack_500,2003_07,38,28,45,brazil,Christian_Fittipaldi,Christian Fittipaldi,Georgia-Pacific,Petty_Enterprises,Dodge,240,64950,crash,0,49
-2003,W,2003_Samsung_Radio_Shack_500,2003_07,39,15,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,234,82087,crash,1,51
+2003,W,2003_Samsung_Radio_Shack_500,2003_07,39,15,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,234,82087,crash,1,51
 2003,W,2003_Samsung_Radio_Shack_500,2003_07,40,41,4,usa,Mike_Skinner,Mike Skinner,Kodak,Larry_McClure,Pontiac,233,56850,crash,0,43
 2003,W,2003_Samsung_Radio_Shack_500,2003_07,41,2,38,usa,Elliott_Sadler,Elliott Sadler,M&M's,Yates_Racing,Ford,167,92060,crash,91,50
 2003,W,2003_Samsung_Radio_Shack_500,2003_07,42,34,74,usa,Tony_Raines,Tony Raines,BACE Motorsports,Bill_Baumgardner,Chevrolet,152,56765,engine,0,37
 2003,W,2003_Samsung_Radio_Shack_500,2003_07,43,6,9,usa,Bill_Elliott,Bill Elliott,Dodge Dealers / UAW,Ray_Evernham,Dodge,46,100781,engine,43,39
-2003,W,2003_Aaron%27s_499,2003_08,1,13,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,188,204367,running,34,180
+2003,W,2003_Aaron%27s_499,2003_08,1,13,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,188,204367,running,34,180
 2003,W,2003_Aaron%27s_499,2003_08,2,2,29,usa,Kevin_Harvick,Kevin Harvick,GM Goodwrench,Richard_Childress,Chevrolet,188,179233,running,12,175
 2003,W,2003_Aaron%27s_499,2003_08,3,3,38,usa,Elliott_Sadler,Elliott Sadler,M&M's,Yates_Racing,Ford,188,162955,running,1,170
 2003,W,2003_Aaron%27s_499,2003_08,4,15,32,usa,Ricky_Craven,Ricky Craven,Tide With Bleach,Cal_Wells,Pontiac,188,139575,running,0,160
@@ -319,11 +319,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Aaron%27s_499,2003_08,17,25,23,usa,Kenny_Wallace,Kenny Wallace,Stacker 2,Bill_Davis,Dodge,188,86825,running,0,112
 2003,W,2003_Aaron%27s_499,2003_08,18,1,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,187,84285,running,19,114
 2003,W,2003_Aaron%27s_499,2003_08,19,26,97,usa,Kurt_Busch,Kurt Busch,Rubbermaid,Jack_Roush,Ford,186,87195,running,1,111
-2003,W,2003_Aaron%27s_499,2003_08,20,12,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,184,97302,running,1,108
+2003,W,2003_Aaron%27s_499,2003_08,20,12,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,184,97302,running,1,108
 2003,W,2003_Aaron%27s_499,2003_08,21,29,25,usa,Joe_Nemechek,Joe Nemechek,UAW-Delphi,Rick_Hendrick,Chevrolet,182,70695,engine,0,100
 2003,W,2003_Aaron%27s_499,2003_08,22,33,16,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,178,66375,running,0,97
 2003,W,2003_Aaron%27s_499,2003_08,23,39,77,usa,Dave_Blaney,Dave Blaney,Jasper Engines & Transmissions,Doug_Bawel,Ford,178,91565,running,0,94
-2003,W,2003_Aaron%27s_499,2003_08,24,16,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,177,83935,running,10,96
+2003,W,2003_Aaron%27s_499,2003_08,24,16,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,177,83935,running,10,96
 2003,W,2003_Aaron%27s_499,2003_08,25,19,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Chevrolet,156,118708,running,0,88
 2003,W,2003_Aaron%27s_499,2003_08,26,9,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,154,102783,running,0,85
 2003,W,2003_Aaron%27s_499,2003_08,27,14,42,usa,Jamie_McMurray,Jamie McMurray,Havoline,Chip_Ganassi,Dodge,154,65395,running,0,82
@@ -345,7 +345,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Aaron%27s_499,2003_08,43,32,02,usa,Hermie_Sadler,Hermie Sadler,Aaron's Dream Machine / 1-800-4-Autism,Hermie_Sadler,Chevrolet,3,62746,crash,0,34
 2003,W,2003_Virginia_500,2003_09,1,1,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,500,219143,running,190,180
 2003,W,2003_Virginia_500,2003_09,2,39,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Chevrolet,500,138348,running,49,175
-2003,W,2003_Virginia_500,2003_09,3,2,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,500,112542,running,195,175
+2003,W,2003_Virginia_500,2003_09,3,2,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,500,112542,running,195,175
 2003,W,2003_Virginia_500,2003_09,4,10,99,usa,Jeff_Burton,Jeff Burton,Citgo,Jack_Roush,Ford,500,101592,running,0,160
 2003,W,2003_Virginia_500,2003_09,5,18,38,usa,Elliott_Sadler,Elliott Sadler,M&M's,Yates_Racing,Ford,500,98950,running,5,160
 2003,W,2003_Virginia_500,2003_09,6,8,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Chevrolet,500,105953,running,11,155
@@ -365,8 +365,8 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Virginia_500,2003_09,20,37,88,usa,Dale_Jarrett,Dale Jarrett,UPS,Yates_Racing,Ford,499,94303,running,0,103
 2003,W,2003_Virginia_500,2003_09,21,38,31,usa,Robby_Gordon,Robby Gordon,Cingular Wireless,Richard_Childress,Chevrolet,499,75262,running,0,100
 2003,W,2003_Virginia_500,2003_09,22,34,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,499,66725,running,0,97
-2003,W,2003_Virginia_500,2003_09,23,30,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,499,63975,running,0,94
-2003,W,2003_Virginia_500,2003_09,24,32,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,499,74562,running,0,91
+2003,W,2003_Virginia_500,2003_09,23,30,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,499,63975,running,0,94
+2003,W,2003_Virginia_500,2003_09,24,32,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,499,74562,running,0,91
 2003,W,2003_Virginia_500,2003_09,25,12,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Dodge,499,82931,running,0,88
 2003,W,2003_Virginia_500,2003_09,26,35,30,usa,Jeff_Green,Jeff Green,America Online,Richard_Childress,Chevrolet,498,56825,running,0,85
 2003,W,2003_Virginia_500,2003_09,27,17,32,usa,Ricky_Craven,Ricky Craven,Tide With Bleach,Cal_Wells,Pontiac,498,67010,running,0,82
@@ -391,8 +391,8 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Auto_Club_500,2003_10,3,7,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,250,146917,running,54,170
 2003,W,2003_Auto_Club_500,2003_10,4,2,9,usa,Bill_Elliott,Bill Elliott,Dodge Dealers / UAW,Ray_Evernham,Dodge,250,148683,running,12,165
 2003,W,2003_Auto_Club_500,2003_10,5,25,42,usa,Jamie_McMurray,Jamie McMurray,Havoline,Chip_Ganassi,Dodge,250,101575,running,41,160
-2003,W,2003_Auto_Club_500,2003_10,6,8,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,250,120217,running,0,150
-2003,W,2003_Auto_Club_500,2003_10,7,27,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,250,95025,running,0,146
+2003,W,2003_Auto_Club_500,2003_10,6,8,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,250,120217,running,0,150
+2003,W,2003_Auto_Club_500,2003_10,7,27,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,250,95025,running,0,146
 2003,W,2003_Auto_Club_500,2003_10,8,13,43,usa,John_Andretti,John Andretti,Cheerios Literacy,Petty_Enterprises,Dodge,250,117003,running,0,142
 2003,W,2003_Auto_Club_500,2003_10,9,23,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,250,95425,running,2,143
 2003,W,2003_Auto_Club_500,2003_10,10,30,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Chip_Ganassi,Dodge,250,121125,running,0,134
@@ -425,13 +425,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Auto_Club_500,2003_10,37,38,88,usa,Dale_Jarrett,Dale Jarrett,UPS,Yates_Racing,Ford,228,111253,crash,0,52
 2003,W,2003_Auto_Club_500,2003_10,38,42,14,usa,Larry_Foyt,Larry Foyt,Harrah's,A.J._Foyt,Dodge,226,65300,crash,0,49
 2003,W,2003_Auto_Club_500,2003_10,39,12,0,usa,Jack_Sprague,Jack Sprague,NetZero,Gene_Haas,Pontiac,199,65255,crash,0,46
-2003,W,2003_Auto_Club_500,2003_10,40,1,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,138,100367,crash,0,43
+2003,W,2003_Auto_Club_500,2003_10,40,1,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,138,100367,crash,0,43
 2003,W,2003_Auto_Club_500,2003_10,41,3,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Chevrolet,128,117708,engine,100,50
 2003,W,2003_Auto_Club_500,2003_10,42,4,12,usa,Ryan_Newman,Ryan Newman,Mobil1 / Alltel,Roger_Penske,Dodge,34,94960,crash,0,37
 2003,W,2003_Auto_Club_500,2003_10,43,43,37,usa,Derrike_Cope,Derrike Cope,GBROnline.com,Derrike_Cope,Chevrolet,9,65281,engine,0,34
 2003,W,2003_Pontiac_Excitement_400,2003_11,1,2,25,usa,Joe_Nemechek,Joe Nemechek,UAW-Delphi,Rick_Hendrick,Chevrolet,393,159375,running,156,185
 2003,W,2003_Pontiac_Excitement_400,2003_11,2,4,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Chevrolet,393,157758,running,62,175
-2003,W,2003_Pontiac_Excitement_400,2003_11,3,3,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,393,121867,running,5,170
+2003,W,2003_Pontiac_Excitement_400,2003_11,3,3,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,393,121867,running,5,170
 2003,W,2003_Pontiac_Excitement_400,2003_11,4,32,31,usa,Robby_Gordon,Robby Gordon,Cingular Wireless,Richard_Childress,Chevrolet,393,101212,running,29,165
 2003,W,2003_Pontiac_Excitement_400,2003_11,5,30,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,393,102533,running,10,160
 2003,W,2003_Pontiac_Excitement_400,2003_11,6,36,29,usa,Kevin_Harvick,Kevin Harvick,GM Goodwrench,Richard_Childress,Chevrolet,393,100928,running,12,155
@@ -440,7 +440,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Pontiac_Excitement_400,2003_11,9,16,99,usa,Jeff_Burton,Jeff Burton,Citgo,Jack_Roush,Ford,393,90342,running,0,138
 2003,W,2003_Pontiac_Excitement_400,2003_11,10,17,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,393,91942,running,0,134
 2003,W,2003_Pontiac_Excitement_400,2003_11,11,20,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Dodge,393,90781,running,0,130
-2003,W,2003_Pontiac_Excitement_400,2003_11,12,37,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,393,69910,running,0,127
+2003,W,2003_Pontiac_Excitement_400,2003_11,12,37,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,393,69910,running,0,127
 2003,W,2003_Pontiac_Excitement_400,2003_11,13,21,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Chip_Ganassi,Dodge,393,95425,running,0,124
 2003,W,2003_Pontiac_Excitement_400,2003_11,14,35,74,usa,Tony_Raines,Tony Raines,Special Olympics Virginia / Logo Capital,Bill_Baumgardner,Chevrolet,393,51325,running,0,121
 2003,W,2003_Pontiac_Excitement_400,2003_11,15,13,10,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Eagle One / Valvoline,James_Rocco,Pontiac,393,82435,running,0,118
@@ -471,13 +471,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Pontiac_Excitement_400,2003_11,40,41,30,usa,Jeff_Green,Jeff Green,America Online,Richard_Childress,Chevrolet,267,54230,crash,0,43
 2003,W,2003_Pontiac_Excitement_400,2003_11,41,9,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Chevrolet,223,98748,crash,0,40
 2003,W,2003_Pontiac_Excitement_400,2003_11,42,25,7,usa,Jimmy_Spencer,Jimmy Spencer,Sirius Satellite Radio,Jim_Smith,Dodge,139,46110,crash,0,37
-2003,W,2003_Pontiac_Excitement_400,2003_11,43,23,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,42,71502,crash,0,34
+2003,W,2003_Pontiac_Excitement_400,2003_11,43,23,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,42,71502,crash,0,34
 2003,W,2003_Coca-Cola_600,2003_12,1,37,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's / Power of Pride,Rick_Hendrick,Chevrolet,276,271900,running,34,180
 2003,W,2003_Coca-Cola_600,2003_12,2,18,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,276,206500,running,82,180
 2003,W,2003_Coca-Cola_600,2003_12,3,11,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Chevrolet,276,184633,running,39,170
 2003,W,2003_Coca-Cola_600,2003_12,4,14,7,usa,Jimmy_Spencer,Jimmy Spencer,Sirius Satellite Radio,Jim_Smith,Dodge,276,137350,running,0,160
 2003,W,2003_Coca-Cola_600,2003_12,5,1,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,276,186850,running,50,160
-2003,W,2003_Coca-Cola_600,2003_12,6,9,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,276,112875,running,0,150
+2003,W,2003_Coca-Cola_600,2003_12,6,9,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,276,112875,running,0,150
 2003,W,2003_Coca-Cola_600,2003_12,7,36,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Chip_Ganassi,Dodge,276,132225,running,0,146
 2003,W,2003_Coca-Cola_600,2003_12,8,4,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,276,135103,running,0,142
 2003,W,2003_Coca-Cola_600,2003_12,9,23,88,usa,Dale_Jarrett,Dale Jarrett,UPS,Yates_Racing,Ford,275,129153,running,0,138
@@ -490,7 +490,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Coca-Cola_600,2003_12,16,26,16,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,275,76500,running,0,115
 2003,W,2003_Coca-Cola_600,2003_12,17,38,31,usa,Robby_Gordon,Robby Gordon,Cingular Wireless,Richard_Childress,Chevrolet,275,104087,running,0,112
 2003,W,2003_Coca-Cola_600,2003_12,18,35,99,usa,Jeff_Burton,Jeff Burton,"Citgo Peelout, Reel in and Win",Jack_Roush,Ford,275,111522,running,0,109
-2003,W,2003_Coca-Cola_600,2003_12,19,15,1,usa,Jeff_Green,Jeff Green,Pennzoil Synthetic,"Dale_Earnhardt,_Inc.",Chevrolet,274,98512,running,0,106
+2003,W,2003_Coca-Cola_600,2003_12,19,15,1,usa,Jeff_Green,Jeff Green,Pennzoil Synthetic,Dale_Earnhardt_Inc,Chevrolet,274,98512,running,0,106
 2003,W,2003_Coca-Cola_600,2003_12,20,3,4,usa,Mike_Skinner,Mike Skinner,Kodak,Larry_McClure,Pontiac,274,92900,running,0,103
 2003,W,2003_Coca-Cola_600,2003_12,21,39,5,usa,Terry_Labonte,Terry Labonte,Kellogg's / got milk?,Rick_Hendrick,Chevrolet,274,102031,running,0,100
 2003,W,2003_Coca-Cola_600,2003_12,22,5,0,usa,Jack_Sprague,Jack Sprague,NetZero,Gene_Haas,Pontiac,274,73350,running,0,97
@@ -512,7 +512,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Coca-Cola_600,2003_12,38,33,32,usa,Ricky_Craven,Ricky Craven,Tide,Cal_Wells,Pontiac,259,76860,engine,0,49
 2003,W,2003_Coca-Cola_600,2003_12,39,42,43,usa,John_Andretti,John Andretti,Cheerios,Petty_Enterprises,Dodge,259,104538,crash,0,46
 2003,W,2003_Coca-Cola_600,2003_12,40,6,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Chevrolet,245,140528,running,68,48
-2003,W,2003_Coca-Cola_600,2003_12,41,24,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,240,109457,brakes,0,40
+2003,W,2003_Coca-Cola_600,2003_12,41,24,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,240,109457,brakes,0,40
 2003,W,2003_Coca-Cola_600,2003_12,42,28,23,usa,Kenny_Wallace,Kenny Wallace,Stacker 2,Bill_Davis,Dodge,216,68435,engine,0,37
 2003,W,2003_Coca-Cola_600,2003_12,43,22,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,123,76590,crash,0,34
 2003,W,2003_MBNA_Armed_Forces_Family_400,2003_13,1,1,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,400,199325,running,162,185
@@ -525,12 +525,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_MBNA_Armed_Forces_Family_400,2003_13,8,20,32,usa,Ricky_Craven,Ricky Craven,Tide,Cal_Wells,Pontiac,400,95565,running,0,142
 2003,W,2003_MBNA_Armed_Forces_Family_400,2003_13,9,38,31,usa,Robby_Gordon,Robby Gordon,Cingular Wireless,Richard_Childress,Chevrolet,400,99747,running,3,143
 2003,W,2003_MBNA_Armed_Forces_Family_400,2003_13,10,8,5,usa,Terry_Labonte,Terry Labonte,Kellogg's / got milk? / Finding Nemo,Rick_Hendrick,Chevrolet,400,97641,running,0,134
-2003,W,2003_MBNA_Armed_Forces_Family_400,2003_13,11,12,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,400,106692,running,2,135
+2003,W,2003_MBNA_Armed_Forces_Family_400,2003_13,11,12,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,400,106692,running,2,135
 2003,W,2003_MBNA_Armed_Forces_Family_400,2003_13,12,21,54,usa,Todd_Bodine,Todd Bodine,National Guard,Travis_Carter,Ford,400,83110,running,0,127
 2003,W,2003_MBNA_Armed_Forces_Family_400,2003_13,13,19,42,usa,Jamie_McMurray,Jamie McMurray,Havoline,Chip_Ganassi,Dodge,400,68970,running,0,124
 2003,W,2003_MBNA_Armed_Forces_Family_400,2003_13,14,28,99,usa,Jeff_Burton,Jeff Burton,"Citgo Peelout, Reel in and Win",Jack_Roush,Ford,399,98652,running,0,121
 2003,W,2003_MBNA_Armed_Forces_Family_400,2003_13,15,7,97,usa,Kurt_Busch,Kurt Busch,Blue Ice / Rubbermaid,Jack_Roush,Ford,399,95685,running,1,123
-2003,W,2003_MBNA_Armed_Forces_Family_400,2003_13,16,16,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,399,78935,running,1,120
+2003,W,2003_MBNA_Armed_Forces_Family_400,2003_13,16,16,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,399,78935,running,1,120
 2003,W,2003_MBNA_Armed_Forces_Family_400,2003_13,17,24,21,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Wood_Brothers,Ford,399,82950,running,0,112
 2003,W,2003_MBNA_Armed_Forces_Family_400,2003_13,18,32,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,399,97968,running,0,109
 2003,W,2003_MBNA_Armed_Forces_Family_400,2003_13,19,18,01,usa,Mike_Wallace,Mike Wallace,U.S. Army,Nelson_Bowers,Pontiac,398,72199,running,0,106
@@ -539,7 +539,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_MBNA_Armed_Forces_Family_400,2003_13,22,14,9,usa,Bill_Elliott,Bill Elliott,Dodge Dealers / UAW,Ray_Evernham,Dodge,398,98668,running,0,97
 2003,W,2003_MBNA_Armed_Forces_Family_400,2003_13,23,36,23,usa,Kenny_Wallace,Kenny Wallace,Stacker 2,Bill_Davis,Dodge,398,63785,running,0,94
 2003,W,2003_MBNA_Armed_Forces_Family_400,2003_13,24,37,25,usa,Joe_Nemechek,Joe Nemechek,UAW-Delphi,Rick_Hendrick,Chevrolet,397,62630,running,0,91
-2003,W,2003_MBNA_Armed_Forces_Family_400,2003_13,25,33,1,usa,Jeff_Green,Jeff Green,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,396,84942,running,0,88
+2003,W,2003_MBNA_Armed_Forces_Family_400,2003_13,25,33,1,usa,Jeff_Green,Jeff Green,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,396,84942,running,0,88
 2003,W,2003_MBNA_Armed_Forces_Family_400,2003_13,26,25,49,usa,Ken_Schrader,Ken Schrader,BAM Racing,Beth_Ann_Morgenthau,Dodge,396,62205,running,0,85
 2003,W,2003_MBNA_Armed_Forces_Family_400,2003_13,27,23,29,usa,Kevin_Harvick,Kevin Harvick,GM Goodwrench,Richard_Childress,Chevrolet,395,97833,running,0,82
 2003,W,2003_MBNA_Armed_Forces_Family_400,2003_13,28,43,14,usa,Larry_Foyt,Larry Foyt,Harrah's,A.J._Foyt,Dodge,394,58880,running,0,79
@@ -561,7 +561,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Pocono_500,2003_14,1,4,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Chevrolet,200,214253,running,37,180
 2003,W,2003_Pocono_500,2003_14,2,6,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,200,152278,running,7,175
 2003,W,2003_Pocono_500,2003_14,3,25,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,200,109870,running,10,170
-2003,W,2003_Pocono_500,2003_14,4,5,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,200,116272,running,22,165
+2003,W,2003_Pocono_500,2003_14,4,5,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,200,116272,running,22,165
 2003,W,2003_Pocono_500,2003_14,5,2,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,200,98700,running,1,160
 2003,W,2003_Pocono_500,2003_14,6,23,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Chip_Ganassi,Dodge,200,104490,running,44,160
 2003,W,2003_Pocono_500,2003_14,7,11,5,usa,Terry_Labonte,Terry Labonte,Kellogg's / got milk?,Rick_Hendrick,Chevrolet,200,87946,running,1,151
@@ -575,7 +575,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Pocono_500,2003_14,15,33,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,200,59640,running,0,118
 2003,W,2003_Pocono_500,2003_14,16,27,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,200,84957,running,0,115
 2003,W,2003_Pocono_500,2003_14,17,3,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Chevrolet,200,91973,running,0,112
-2003,W,2003_Pocono_500,2003_14,18,13,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,200,64090,running,1,114
+2003,W,2003_Pocono_500,2003_14,18,13,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,200,64090,running,1,114
 2003,W,2003_Pocono_500,2003_14,19,8,9,usa,Bill_Elliott,Bill Elliott,Dodge Dealers / UAW,Ray_Evernham,Dodge,200,84673,running,2,111
 2003,W,2003_Pocono_500,2003_14,20,26,16,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,199,52615,crash,0,103
 2003,W,2003_Pocono_500,2003_14,21,19,41,usa,Casey_Mears,Casey Mears,Target,Chip_Ganassi,Dodge,199,69990,running,0,100
@@ -590,7 +590,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Pocono_500,2003_14,30,42,74,usa,Tony_Raines,Tony Raines,BACE Motorsports,Bill_Baumgardner,Chevrolet,199,44365,running,0,73
 2003,W,2003_Pocono_500,2003_14,31,31,01,usa,Mike_Wallace,Mike Wallace,U.S. Army,Nelson_Bowers,Pontiac,198,43715,running,0,70
 2003,W,2003_Pocono_500,2003_14,32,28,42,usa,Jamie_McMurray,Jamie McMurray,Havoline,Chip_Ganassi,Dodge,198,43565,running,0,67
-2003,W,2003_Pocono_500,2003_14,33,35,1,usa,Jeff_Green,Jeff Green,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,197,68552,crash,1,69
+2003,W,2003_Pocono_500,2003_14,33,35,1,usa,Jeff_Green,Jeff Green,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,197,68552,crash,1,69
 2003,W,2003_Pocono_500,2003_14,34,41,4,usa,Mike_Skinner,Mike Skinner,Kodak,Larry_McClure,Pontiac,197,44065,crash,0,61
 2003,W,2003_Pocono_500,2003_14,35,36,30,usa,Steve_Park,Steve Park,America Online,Richard_Childress,Chevrolet,195,50990,running,0,58
 2003,W,2003_Pocono_500,2003_14,36,10,97,usa,Kurt_Busch,Kurt Busch,Rubbermaid,Jack_Roush,Ford,193,62790,crash,0,55
@@ -605,9 +605,9 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Sirius_400,2003_15,2,1,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries / The Hulk,Joe_Gibbs,Chevrolet,200,142858,running,0,170
 2003,W,2003_Sirius_400,2003_15,3,6,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,200,126228,running,17,170
 2003,W,2003_Sirius_400,2003_15,4,21,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,200,93275,running,0,160
-2003,W,2003_Sirius_400,2003_15,5,9,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,200,81475,running,0,155
+2003,W,2003_Sirius_400,2003_15,5,9,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,200,81475,running,0,155
 2003,W,2003_Sirius_400,2003_15,6,30,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Chip_Ganassi,Dodge,200,114540,running,102,160
-2003,W,2003_Sirius_400,2003_15,7,3,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,200,100607,running,1,151
+2003,W,2003_Sirius_400,2003_15,7,3,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,200,100607,running,1,151
 2003,W,2003_Sirius_400,2003_15,8,2,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Chevrolet,200,110843,running,51,147
 2003,W,2003_Sirius_400,2003_15,9,15,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,200,96248,running,0,138
 2003,W,2003_Sirius_400,2003_15,10,5,5,usa,Terry_Labonte,Terry Labonte,Kellogg's / got milk?,Rick_Hendrick,Chevrolet,200,89571,running,0,134
@@ -628,7 +628,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Sirius_400,2003_15,25,24,23,usa,Kenny_Wallace,Kenny Wallace,Stacker 2,Bill_Davis,Dodge,199,64290,running,0,88
 2003,W,2003_Sirius_400,2003_15,26,26,10,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Valvoline,James_Rocco,Pontiac,199,79790,running,0,85
 2003,W,2003_Sirius_400,2003_15,27,33,30,usa,Steve_Park,Steve Park,America Online,Richard_Childress,Chevrolet,199,60775,running,0,82
-2003,W,2003_Sirius_400,2003_15,28,13,1,usa,Jeff_Green,Jeff Green,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,199,77812,running,0,79
+2003,W,2003_Sirius_400,2003_15,28,13,1,usa,Jeff_Green,Jeff Green,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,199,77812,running,0,79
 2003,W,2003_Sirius_400,2003_15,29,40,7,usa,Jimmy_Spencer,Jimmy Spencer,Sirius Satellite Radio,Jim_Smith,Dodge,199,60304,running,0,76
 2003,W,2003_Sirius_400,2003_15,30,31,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Dodge,199,85896,running,0,73
 2003,W,2003_Sirius_400,2003_15,31,29,16,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,199,49190,running,1,75
@@ -650,13 +650,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Dodge_Save_Mart_350,2003_16,4,12,9,usa,Bill_Elliott,Bill Elliott,Dodge Dealers / UAW,Ray_Evernham,Dodge,110,119748,running,0,160
 2003,W,2003_Dodge_Save_Mart_350,2003_16,5,13,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,110,101140,running,0,155
 2003,W,2003_Dodge_Save_Mart_350,2003_16,6,1,01,usa,Boris_Said,Boris Said,U.S. Army,Nelson_Bowers,Pontiac,110,90990,running,1,155
-2003,W,2003_Dodge_Save_Mart_350,2003_16,7,3,1,canada,Ron_Fellows,Ron Fellows,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,110,92927,running,21,151
+2003,W,2003_Dodge_Save_Mart_350,2003_16,7,3,1,canada,Ron_Fellows,Ron Fellows,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,110,92927,running,21,151
 2003,W,2003_Dodge_Save_Mart_350,2003_16,8,7,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,110,99482,running,0,142
 2003,W,2003_Dodge_Save_Mart_350,2003_16,9,14,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Chevrolet,110,105223,running,0,138
 2003,W,2003_Dodge_Save_Mart_350,2003_16,10,31,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,110,80335,running,0,134
-2003,W,2003_Dodge_Save_Mart_350,2003_16,11,11,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,110,100292,running,0,130
+2003,W,2003_Dodge_Save_Mart_350,2003_16,11,11,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,110,100292,running,0,130
 2003,W,2003_Dodge_Save_Mart_350,2003_16,12,10,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Chevrolet,110,110988,running,0,127
-2003,W,2003_Dodge_Save_Mart_350,2003_16,13,20,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,110,75950,running,0,124
+2003,W,2003_Dodge_Save_Mart_350,2003_16,13,20,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,110,75950,running,0,124
 2003,W,2003_Dodge_Save_Mart_350,2003_16,14,4,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,110,78975,running,0,121
 2003,W,2003_Dodge_Save_Mart_350,2003_16,15,9,21,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Wood_Brothers,Ford,110,84825,running,0,118
 2003,W,2003_Dodge_Save_Mart_350,2003_16,16,19,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Dodge,110,93406,running,0,115
@@ -693,11 +693,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Pepsi_400,2003_17,4,25,5,usa,Terry_Labonte,Terry Labonte,Kellogg's / got milk?,Rick_Hendrick,Chevrolet,160,128806,running,0,160
 2003,W,2003_Pepsi_400,2003_17,5,15,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Chevrolet,160,129283,running,11,160
 2003,W,2003_Pepsi_400,2003_17,6,37,17,usa,Matt_Kenseth,Matt Kenseth,Smirnoff Ice Triple Black / DeWalt,Jack_Roush,Ford,160,98475,running,10,155
-2003,W,2003_Pepsi_400,2003_17,7,5,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,160,133067,running,43,151
+2003,W,2003_Pepsi_400,2003_17,7,5,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,160,133067,running,43,151
 2003,W,2003_Pepsi_400,2003_17,8,10,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,160,87175,running,0,142
 2003,W,2003_Pepsi_400,2003_17,9,2,29,usa,Kevin_Harvick,Kevin Harvick,GM Goodwrench,Richard_Childress,Chevrolet,160,113553,running,54,148
 2003,W,2003_Pepsi_400,2003_17,10,16,88,usa,Dale_Jarrett,Dale Jarrett,UPS,Yates_Racing,Ford,160,120203,running,0,134
-2003,W,2003_Pepsi_400,2003_17,11,6,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Stars & Stripes,"Dale_Earnhardt,_Inc.",Chevrolet,160,90275,running,9,110
+2003,W,2003_Pepsi_400,2003_17,11,6,15,usa,Michael_Waltrip,Michael Waltrip,NAPA Stars & Stripes,Dale_Earnhardt_Inc,Chevrolet,160,90275,running,9,110
 2003,W,2003_Pepsi_400,2003_17,12,40,7,usa,Jimmy_Spencer,Jimmy Spencer,Sirius Satellite Radio,Jim_Smith,Dodge,160,89175,running,0,127
 2003,W,2003_Pepsi_400,2003_17,13,41,54,usa,Todd_Bodine,Todd Bodine,National Guard,Travis_Carter,Ford,160,87450,running,0,124
 2003,W,2003_Pepsi_400,2003_17,14,3,24,usa,Jeff_Gordon,Jeff Gordon,DuPont / Pepsi Play for a Billion,Rick_Hendrick,Chevrolet,160,117303,running,1,126
@@ -715,7 +715,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Pepsi_400,2003_17,26,32,80,usa,Mike_Bliss,Mike Bliss,Advair,Joe_Gibbs,Chevrolet,159,65300,running,0,85
 2003,W,2003_Pepsi_400,2003_17,27,22,10,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Valvoline,James_Rocco,Pontiac,159,95000,running,0,82
 2003,W,2003_Pepsi_400,2003_17,28,38,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,159,102592,running,0,79
-2003,W,2003_Pepsi_400,2003_17,29,34,1,usa,Jeff_Green,Jeff Green,Pennzoil Synthetic,"Dale_Earnhardt,_Inc.",Chevrolet,159,92969,running,0,76
+2003,W,2003_Pepsi_400,2003_17,29,34,1,usa,Jeff_Green,Jeff Green,Pennzoil Synthetic,Dale_Earnhardt_Inc,Chevrolet,159,92969,running,0,76
 2003,W,2003_Pepsi_400,2003_17,30,28,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Dodge,159,100991,running,3,78
 2003,W,2003_Pepsi_400,2003_17,31,35,0,usa,Jack_Sprague,Jack Sprague,NetZero Hi Speed,Gene_Haas,Pontiac,159,67250,running,0,70
 2003,W,2003_Pepsi_400,2003_17,32,21,60,usa,David_Green,David Green,Haas Automation,Rick_Hendrick,Chevrolet,157,64125,running,0,67
@@ -734,7 +734,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Tropicana_400,2003_18,2,1,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Chevrolet,267,213468,running,80,180
 2003,W,2003_Tropicana_400,2003_18,3,6,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,267,134575,running,25,170
 2003,W,2003_Tropicana_400,2003_18,4,2,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,267,158178,running,47,165
-2003,W,2003_Tropicana_400,2003_18,5,12,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,267,100975,running,1,160
+2003,W,2003_Tropicana_400,2003_18,5,12,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,267,100975,running,1,160
 2003,W,2003_Tropicana_400,2003_18,6,27,99,usa,Jeff_Burton,Jeff Burton,Citgo,Jack_Roush,Ford,267,114092,running,0,150
 2003,W,2003_Tropicana_400,2003_18,7,35,31,usa,Robby_Gordon,Robby Gordon,Cingular Wireless,Richard_Childress,Chevrolet,267,106812,running,0,146
 2003,W,2003_Tropicana_400,2003_18,8,10,42,usa,Jamie_McMurray,Jamie McMurray,Havoline,Chip_Ganassi,Dodge,267,77375,running,1,147
@@ -745,7 +745,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Tropicana_400,2003_18,13,37,21,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Wood_Brothers,Ford,266,94475,running,0,124
 2003,W,2003_Tropicana_400,2003_18,14,13,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,266,103883,running,0,121
 2003,W,2003_Tropicana_400,2003_18,15,28,5,usa,Terry_Labonte,Terry Labonte,got milk? / Kellogg's,Rick_Hendrick,Chevrolet,266,96356,running,0,118
-2003,W,2003_Tropicana_400,2003_18,16,15,1,usa,Jeff_Green,Jeff Green,Pennzoil Synthetic,"Dale_Earnhardt,_Inc.",Chevrolet,266,89937,running,0,115
+2003,W,2003_Tropicana_400,2003_18,16,15,1,usa,Jeff_Green,Jeff Green,Pennzoil Synthetic,Dale_Earnhardt_Inc,Chevrolet,266,89937,running,0,115
 2003,W,2003_Tropicana_400,2003_18,17,11,29,usa,Kevin_Harvick,Kevin Harvick,GM Goodwrench,Richard_Childress,Chevrolet,266,104028,running,46,92
 2003,W,2003_Tropicana_400,2003_18,18,36,10,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Valvoline,James_Rocco,Pontiac,265,94700,running,0,109
 2003,W,2003_Tropicana_400,2003_18,19,30,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Dodge,265,100106,running,0,106
@@ -767,7 +767,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Tropicana_400,2003_18,35,20,4,usa,Johnny_Sauter,Johnny Sauter,Kodak,Larry_McClure,Pontiac,213,60775,running,0,58
 2003,W,2003_Tropicana_400,2003_18,36,18,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries / Advair,Joe_Gibbs,Chevrolet,212,105658,crash,0,55
 2003,W,2003_Tropicana_400,2003_18,37,40,01,usa,Mike_Wallace,Mike Wallace,USG Sheetrock,Nelson_Bowers,Pontiac,211,60375,crash,0,52
-2003,W,2003_Tropicana_400,2003_18,38,16,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser / MLB All-Star Game,"Dale_Earnhardt,_Inc.",Chevrolet,206,101092,crash,0,49
+2003,W,2003_Tropicana_400,2003_18,38,16,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser / MLB All-Star Game,Dale_Earnhardt_Inc,Chevrolet,206,101092,crash,0,49
 2003,W,2003_Tropicana_400,2003_18,39,32,97,usa,Kurt_Busch,Kurt Busch,Irwin / Lennox / Rubbermaid,Jack_Roush,Ford,124,79985,engine,0,46
 2003,W,2003_Tropicana_400,2003_18,40,34,0,usa,Jack_Sprague,Jack Sprague,NetZero Hi Speed,Gene_Haas,Pontiac,117,59785,engine,0,43
 2003,W,2003_Tropicana_400,2003_18,41,31,14,usa,Larry_Foyt,Larry Foyt,Harrah's,A.J._Foyt,Dodge,88,59590,crash,0,40
@@ -778,7 +778,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_New_England_300,2003_19,3,1,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,300,124030,running,1,170
 2003,W,2003_New_England_300,2003_19,4,16,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,300,114425,running,29,165
 2003,W,2003_New_England_300,2003_19,5,15,31,usa,Robby_Gordon,Robby Gordon,Cingular Wireless,Richard_Childress,Chevrolet,300,101912,running,0,155
-2003,W,2003_New_England_300,2003_19,6,3,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,300,104492,running,2,155
+2003,W,2003_New_England_300,2003_19,6,3,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,300,104492,running,2,155
 2003,W,2003_New_England_300,2003_19,7,29,88,usa,Dale_Jarrett,Dale Jarrett,UPS,Yates_Racing,Ford,300,107228,running,0,146
 2003,W,2003_New_England_300,2003_19,8,34,30,usa,Steve_Park,Steve Park,America Online,Richard_Childress,Chevrolet,300,76450,running,0,142
 2003,W,2003_New_England_300,2003_19,9,13,99,usa,Jeff_Burton,Jeff Burton,Citgo / Bassmaster Classic,Jack_Roush,Ford,300,96167,running,10,143
@@ -800,9 +800,9 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_New_England_300,2003_19,25,21,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Dodge,299,87806,running,0,88
 2003,W,2003_New_England_300,2003_19,26,26,10,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Valvoline,James_Rocco,Pontiac,299,80900,running,0,85
 2003,W,2003_New_England_300,2003_19,27,18,38,usa,Elliott_Sadler,Elliott Sadler,M&M's,Yates_Racing,Ford,299,88175,running,0,82
-2003,W,2003_New_England_300,2003_19,28,5,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,299,68750,running,0,79
+2003,W,2003_New_England_300,2003_19,28,5,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,299,68750,running,0,79
 2003,W,2003_New_England_300,2003_19,29,24,25,usa,Joe_Nemechek,Joe Nemechek,UAW-Delphi,Rick_Hendrick,Chevrolet,299,52965,running,0,76
-2003,W,2003_New_England_300,2003_19,30,30,1,usa,Jeff_Green,Jeff Green,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,299,75912,running,0,73
+2003,W,2003_New_England_300,2003_19,30,30,1,usa,Jeff_Green,Jeff Green,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,299,75912,running,0,73
 2003,W,2003_New_England_300,2003_19,31,19,9,usa,Bill_Elliott,Bill Elliott,Dodge Dealers / UAW,Ray_Evernham,Dodge,299,88858,running,0,70
 2003,W,2003_New_England_300,2003_19,32,36,45,usa,Kyle_Petty,Kyle Petty,Georgia-Pacific / Brawny,Petty_Enterprises,Dodge,299,57825,running,0,67
 2003,W,2003_New_England_300,2003_19,33,40,74,usa,Tony_Raines,Tony Raines,BACE Motorsports,Bill_Baumgardner,Chevrolet,297,50530,running,0,64
@@ -818,8 +818,8 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_New_England_300,2003_19,43,43,89,usa,Morgan_Shepherd,Morgan Shepherd,Racing With Jesus / Red Line Oil,Morgan_Shepherd,Ford,43,48560,brakes,0,34
 2003,W,2003_Pennsylvania_500,2003_20,1,1,12,usa,Ryan_Newman,Ryan Newman,Mobil 1 / Alltel,Roger_Penske,Dodge,200,180575,running,88,185
 2003,W,2003_Pennsylvania_500,2003_20,2,13,97,usa,Kurt_Busch,Kurt Busch,Rubbermaid,Jack_Roush,Ford,200,152695,running,1,175
-2003,W,2003_Pennsylvania_500,2003_20,3,18,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,200,131037,running,25,170
-2003,W,2003_Pennsylvania_500,2003_20,4,17,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,200,94355,running,18,165
+2003,W,2003_Pennsylvania_500,2003_20,3,18,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,200,131037,running,25,170
+2003,W,2003_Pennsylvania_500,2003_20,4,17,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,200,94355,running,18,165
 2003,W,2003_Pennsylvania_500,2003_20,5,6,5,usa,Terry_Labonte,Terry Labonte,Kellogg's / got milk?,Rick_Hendrick,Chevrolet,200,100581,running,0,155
 2003,W,2003_Pennsylvania_500,2003_20,6,19,99,usa,Jeff_Burton,Jeff Burton,Citgo,Jack_Roush,Ford,200,97107,running,17,155
 2003,W,2003_Pennsylvania_500,2003_20,7,26,25,usa,Joe_Nemechek,Joe Nemechek,UAW-Delphi,Rick_Hendrick,Chevrolet,200,65190,running,0,146
@@ -846,7 +846,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Pennsylvania_500,2003_20,28,12,42,usa,Jamie_McMurray,Jamie McMurray,Havoline,Chip_Ganassi,Dodge,195,47190,running,0,79
 2003,W,2003_Pennsylvania_500,2003_20,29,43,50,usa,Larry_Foyt,Larry Foyt,Harrah's,A.J._Foyt,Dodge,188,44015,running,0,76
 2003,W,2003_Pennsylvania_500,2003_20,30,4,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Chevrolet,180,89448,engine,0,73
-2003,W,2003_Pennsylvania_500,2003_20,31,39,1,usa,Jeff_Green,Jeff Green,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,180,71402,running,0,70
+2003,W,2003_Pennsylvania_500,2003_20,31,39,1,usa,Jeff_Green,Jeff Green,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,180,71402,running,0,70
 2003,W,2003_Pennsylvania_500,2003_20,32,28,23,usa,Kenny_Wallace,Kenny Wallace,Stacker 2,Bill_Davis,Dodge,178,51954,running,0,67
 2003,W,2003_Pennsylvania_500,2003_20,33,5,0,usa,John_Andretti,John Andretti,NetZero Hi Speed,Gene_Haas,Pontiac,176,44265,running,0,64
 2003,W,2003_Pennsylvania_500,2003_20,34,35,45,usa,Kyle_Petty,Kyle Petty,Georgia-Pacific,Petty_Enterprises,Dodge,170,51165,running,0,61
@@ -872,13 +872,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Brickyard_400,2003_21,11,2,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,160,172750,running,11,135
 2003,W,2003_Brickyard_400,2003_21,12,15,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Chevrolet,160,224728,running,60,137
 2003,W,2003_Brickyard_400,2003_21,13,40,10,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Valvoline,James_Rocco,Pontiac,160,157500,running,0,124
-2003,W,2003_Brickyard_400,2003_21,14,36,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,160,161967,running,0,121
+2003,W,2003_Brickyard_400,2003_21,14,36,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,160,161967,running,0,121
 2003,W,2003_Brickyard_400,2003_21,15,23,30,usa,Steve_Park,Steve Park,America Online,Richard_Childress,Chevrolet,160,131750,running,0,118
-2003,W,2003_Brickyard_400,2003_21,16,5,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,160,137450,running,0,115
+2003,W,2003_Brickyard_400,2003_21,16,5,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,160,137450,running,0,115
 2003,W,2003_Brickyard_400,2003_21,17,35,32,usa,Ricky_Craven,Ricky Craven,Tide,Cal_Wells,Pontiac,160,141525,running,0,112
 2003,W,2003_Brickyard_400,2003_21,18,9,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,160,135225,running,0,109
 2003,W,2003_Brickyard_400,2003_21,19,38,5,usa,Terry_Labonte,Terry Labonte,Kellogg's / got milk?,Rick_Hendrick,Chevrolet,160,144481,running,0,106
-2003,W,2003_Brickyard_400,2003_21,20,30,1,usa,Jeff_Green,Jeff Green,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,160,141212,running,1,108
+2003,W,2003_Brickyard_400,2003_21,20,30,1,usa,Jeff_Green,Jeff Green,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,160,141212,running,1,108
 2003,W,2003_Brickyard_400,2003_21,21,18,16,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,160,121825,running,0,100
 2003,W,2003_Brickyard_400,2003_21,22,8,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Chevrolet,159,156913,running,0,97
 2003,W,2003_Brickyard_400,2003_21,23,31,54,usa,Todd_Bodine,Todd Bodine,National Guard,Travis_Carter,Ford,159,125605,running,0,94
@@ -901,10 +901,10 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Brickyard_400,2003_21,40,41,45,usa,Kyle_Petty,Kyle Petty,Georgia-Pacific,Petty_Enterprises,Dodge,141,110475,running,0,43
 2003,W,2003_Brickyard_400,2003_21,41,10,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,122,113703,running,0,40
 2003,W,2003_Brickyard_400,2003_21,42,16,38,usa,Elliott_Sadler,Elliott Sadler,Pedigree,Yates_Racing,Ford,108,136515,engine,0,37
-2003,W,2003_Brickyard_400,2003_21,43,11,81,usa,John_Andretti,John Andretti,Kraft 100th Anniversary,"Dale_Earnhardt,_Inc.",Chevrolet,46,102400,crash,0,34
+2003,W,2003_Brickyard_400,2003_21,43,11,81,usa,John_Andretti,John Andretti,Kraft 100th Anniversary,Dale_Earnhardt_Inc,Chevrolet,46,102400,crash,0,34
 2003,W,2003_Sirius_Satellite_Radio_at_the_Glen,2003_22,1,14,31,usa,Robby_Gordon,Robby Gordon,Cingular / FDNY / USA Special Olympics,Richard_Childress,Chevrolet,90,156272,running,30,185
 2003,W,2003_Sirius_Satellite_Radio_at_the_Glen,2003_22,2,28,39,usa,Scott_Pruett,Scott Pruett,Target,Chip_Ganassi,Dodge,90,88210,running,9,175
-2003,W,2003_Sirius_Satellite_Radio_at_the_Glen,2003_22,3,6,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,90,127202,running,11,170
+2003,W,2003_Sirius_Satellite_Radio_at_the_Glen,2003_22,3,6,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,90,127202,running,11,170
 2003,W,2003_Sirius_Satellite_Radio_at_the_Glen,2003_22,4,20,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,90,86850,running,0,160
 2003,W,2003_Sirius_Satellite_Radio_at_the_Glen,2003_22,5,11,29,usa,Kevin_Harvick,Kevin Harvick,GM Goodwrench,Richard_Childress,Chevrolet,90,96408,running,0,155
 2003,W,2003_Sirius_Satellite_Radio_at_the_Glen,2003_22,6,22,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Dodge,90,94046,running,0,150
@@ -914,7 +914,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Sirius_Satellite_Radio_at_the_Glen,2003_22,10,3,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,90,90598,running,0,134
 2003,W,2003_Sirius_Satellite_Radio_at_the_Glen,2003_22,11,4,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Chevrolet,90,101233,running,0,130
 2003,W,2003_Sirius_Satellite_Radio_at_the_Glen,2003_22,12,8,97,usa,Kurt_Busch,Kurt Busch,Rubbermaid / Sharpie,Jack_Roush,Ford,90,85100,running,0,127
-2003,W,2003_Sirius_Satellite_Radio_at_the_Glen,2003_22,13,34,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,90,65800,running,0,124
+2003,W,2003_Sirius_Satellite_Radio_at_the_Glen,2003_22,13,34,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,90,65800,running,0,124
 2003,W,2003_Sirius_Satellite_Radio_at_the_Glen,2003_22,14,9,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Chevrolet,90,93443,running,5,126
 2003,W,2003_Sirius_Satellite_Radio_at_the_Glen,2003_22,15,24,38,usa,Elliott_Sadler,Elliott Sadler,M&M's,Yates_Racing,Ford,90,86820,running,0,118
 2003,W,2003_Sirius_Satellite_Radio_at_the_Glen,2003_22,16,40,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Summer Sales Drive / UAW,Ray_Evernham,Dodge,90,59600,running,0,115
@@ -939,7 +939,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Sirius_Satellite_Radio_at_the_Glen,2003_22,35,17,54,usa,Todd_Bodine,Todd Bodine,National Guard / Subway,Travis_Carter,Ford,89,43950,running,0,58
 2003,W,2003_Sirius_Satellite_Radio_at_the_Glen,2003_22,36,32,04,usa,Johnny_Miller_(2),Johnny Miller,Kodak Easy Share,Larry_McClure,Pontiac,89,43875,running,0,55
 2003,W,2003_Sirius_Satellite_Radio_at_the_Glen,2003_22,37,5,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,84,78492,running,0,52
-2003,W,2003_Sirius_Satellite_Radio_at_the_Glen,2003_22,38,18,1,canada,Ron_Fellows,Ron Fellows,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,82,68927,handling,0,49
+2003,W,2003_Sirius_Satellite_Radio_at_the_Glen,2003_22,38,18,1,canada,Ron_Fellows,Ron Fellows,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,82,68927,handling,0,49
 2003,W,2003_Sirius_Satellite_Radio_at_the_Glen,2003_22,39,10,01,usa,Boris_Said,Boris Said,USG Sheetrock,Nelson_Bowers,Pontiac,80,43690,running,0,46
 2003,W,2003_Sirius_Satellite_Radio_at_the_Glen,2003_22,40,36,44,brazil,Christian_Fittipaldi,Christian Fittipaldi,New York Yankees,Petty_Enterprises,Dodge,80,43615,running,0,43
 2003,W,2003_Sirius_Satellite_Radio_at_the_Glen,2003_22,41,42,74,usa,Tony_Raines,Tony Raines,BACE Motorsports,Bill_Baumgardner,Chevrolet,78,43555,running,0,40
@@ -951,7 +951,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_GFS_Marketplace_400,2003_23,4,12,16,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,200,85670,running,19,165
 2003,W,2003_GFS_Marketplace_400,2003_23,5,18,30,usa,Steve_Park,Steve Park,America Online,Richard_Childress,Chevrolet,200,76980,running,0,155
 2003,W,2003_GFS_Marketplace_400,2003_23,6,3,31,usa,Robby_Gordon,Robby Gordon,Cingular Wireless,Richard_Childress,Chevrolet,200,89402,running,0,150
-2003,W,2003_GFS_Marketplace_400,2003_23,7,13,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,200,77915,running,0,146
+2003,W,2003_GFS_Marketplace_400,2003_23,7,13,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,200,77915,running,0,146
 2003,W,2003_GFS_Marketplace_400,2003_23,8,30,49,usa,Ken_Schrader,Ken Schrader,SEM Products / Color Horizons,Beth_Ann_Morgenthau,Dodge,200,79790,running,0,142
 2003,W,2003_GFS_Marketplace_400,2003_23,9,33,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,200,76540,running,0,138
 2003,W,2003_GFS_Marketplace_400,2003_23,10,35,10,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Valvoline,James_Rocco,Pontiac,200,94690,running,0,134
@@ -965,7 +965,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_GFS_Marketplace_400,2003_23,18,20,97,usa,Kurt_Busch,Kurt Busch,Rubbermaid,Jack_Roush,Ford,200,96690,running,43,114
 2003,W,2003_GFS_Marketplace_400,2003_23,19,38,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Chip_Ganassi,Dodge,200,95390,running,0,106
 2003,W,2003_GFS_Marketplace_400,2003_23,20,25,25,usa,Joe_Nemechek,Joe Nemechek,UAW-Delphi,Rick_Hendrick,Chevrolet,200,56750,running,0,103
-2003,W,2003_GFS_Marketplace_400,2003_23,21,34,1,usa,Jeff_Green,Jeff Green,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,200,76027,running,0,100
+2003,W,2003_GFS_Marketplace_400,2003_23,21,34,1,usa,Jeff_Green,Jeff Green,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,200,76027,running,0,100
 2003,W,2003_GFS_Marketplace_400,2003_23,22,42,01,usa,Mike_Skinner,Mike Skinner,U.S. Army,Nelson_Bowers,Pontiac,200,66940,running,0,97
 2003,W,2003_GFS_Marketplace_400,2003_23,23,29,88,usa,Dale_Jarrett,Dale Jarrett,UPS,Yates_Racing,Ford,200,97093,running,5,99
 2003,W,2003_GFS_Marketplace_400,2003_23,24,24,74,usa,Tony_Raines,Tony Raines,GFS Marketplace,Bill_Baumgardner,Chevrolet,200,50215,running,0,91
@@ -976,7 +976,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_GFS_Marketplace_400,2003_23,29,27,21,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Wood_Brothers,Ford,199,60140,running,0,76
 2003,W,2003_GFS_Marketplace_400,2003_23,30,21,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,198,96943,running,0,73
 2003,W,2003_GFS_Marketplace_400,2003_23,31,4,57,usa,Kevin_Lepage,Kevin Lepage,CLR,Ted_Campbell,Ford,197,49065,running,0,70
-2003,W,2003_GFS_Marketplace_400,2003_23,32,19,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,192,89782,crash,0,67
+2003,W,2003_GFS_Marketplace_400,2003_23,32,19,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,192,89782,crash,0,67
 2003,W,2003_GFS_Marketplace_400,2003_23,33,7,43,brazil,Christian_Fittipaldi,Christian Fittipaldi,Cheerios,Petty_Enterprises,Dodge,176,87068,engine,0,64
 2003,W,2003_GFS_Marketplace_400,2003_23,34,43,37,usa,Derrike_Cope,Derrike Cope,Friendly's Ice Cream,Derrike_Cope,Chevrolet,173,49585,running,0,61
 2003,W,2003_GFS_Marketplace_400,2003_23,35,6,0,usa,Jason_Leffler,Jason Leffler,NetZero Hi Speed,Gene_Haas,Pontiac,166,48540,running,0,58
@@ -996,7 +996,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Sharpie_500,2003_24,6,6,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,500,111940,running,30,155
 2003,W,2003_Sharpie_500,2003_24,7,27,88,usa,Dale_Jarrett,Dale Jarrett,UPS,Yates_Racing,Ford,500,122418,running,0,146
 2003,W,2003_Sharpie_500,2003_24,8,14,32,usa,Ricky_Craven,Ricky Craven,Tide,Cal_Wells,Pontiac,500,102740,running,0,142
-2003,W,2003_Sharpie_500,2003_24,9,9,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,500,116107,running,0,138
+2003,W,2003_Sharpie_500,2003_24,9,9,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,500,116107,running,0,138
 2003,W,2003_Sharpie_500,2003_24,10,29,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,500,88740,running,0,134
 2003,W,2003_Sharpie_500,2003_24,11,13,5,usa,Terry_Labonte,Terry Labonte,Kellogg's / got milk?,Rick_Hendrick,Chevrolet,500,102346,running,0,130
 2003,W,2003_Sharpie_500,2003_24,12,26,49,usa,Ken_Schrader,Ken Schrader,SEM Products,Beth_Ann_Morgenthau,Dodge,500,74090,running,0,127
@@ -1027,9 +1027,9 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Sharpie_500,2003_24,37,40,54,usa,Todd_Bodine,Todd Bodine,National Guard,Travis_Carter,Ford,315,60420,running,0,52
 2003,W,2003_Sharpie_500,2003_24,38,17,38,usa,Elliott_Sadler,Elliott Sadler,Combos,Yates_Racing,Ford,305,94600,crash,0,49
 2003,W,2003_Sharpie_500,2003_24,39,33,50,usa,Larry_Foyt,Larry Foyt,Harrah's,A.J._Foyt,Dodge,273,60300,crash,0,46
-2003,W,2003_Sharpie_500,2003_24,40,39,1,usa,Jeff_Green,Jeff Green,Pennzoil Synthetic,"Dale_Earnhardt,_Inc.",Chevrolet,193,85412,engine,16,48
+2003,W,2003_Sharpie_500,2003_24,40,39,1,usa,Jeff_Green,Jeff Green,Pennzoil Synthetic,Dale_Earnhardt_Inc,Chevrolet,193,85412,engine,16,48
 2003,W,2003_Sharpie_500,2003_24,41,43,43,brazil,Christian_Fittipaldi,Christian Fittipaldi,Cheerios Heart Health,Petty_Enterprises,Dodge,175,95953,crash,0,40
-2003,W,2003_Sharpie_500,2003_24,42,3,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,87,78430,crash,0,37
+2003,W,2003_Sharpie_500,2003_24,42,3,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,87,78430,crash,0,37
 2003,W,2003_Sharpie_500,2003_24,43,20,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite / Winston Cup Victory Lap,Roger_Penske,Dodge,87,94737,crash,0,34
 2003,W,2003_Mountain_Dew_Southern_500,2003_25,1,3,5,usa,Terry_Labonte,Terry Labonte,Kellogg's / got milk?,Rick_Hendrick,Chevrolet,367,204736,running,33,180
 2003,W,2003_Mountain_Dew_Southern_500,2003_25,2,18,29,usa,Kevin_Harvick,Kevin Harvick,GM Goodwrench Service,Richard_Childress,Chevrolet,367,149063,running,14,175
@@ -1048,14 +1048,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Mountain_Dew_Southern_500,2003_25,15,41,4,usa,Kevin_Lepage,Kevin Lepage,Kodak,Larry_McClure,Pontiac,367,74780,running,9,123
 2003,W,2003_Mountain_Dew_Southern_500,2003_25,16,30,21,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Wood_Brothers,Ford,367,77235,running,1,120
 2003,W,2003_Mountain_Dew_Southern_500,2003_25,17,27,54,usa,Todd_Bodine,Todd Bodine,National Guard,Travis_Carter,Ford,366,66754,running,0,112
-2003,W,2003_Mountain_Dew_Southern_500,2003_25,18,35,1,usa,Jeff_Green,Jeff Green,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,365,79577,running,0,109
+2003,W,2003_Mountain_Dew_Southern_500,2003_25,18,35,1,usa,Jeff_Green,Jeff Green,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,365,79577,running,0,109
 2003,W,2003_Mountain_Dew_Southern_500,2003_25,19,29,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Dodge,364,90166,running,0,106
 2003,W,2003_Mountain_Dew_Southern_500,2003_25,20,32,30,usa,Steve_Park,Steve Park,America Online,Richard_Childress,Chevrolet,364,67390,running,0,103
 2003,W,2003_Mountain_Dew_Southern_500,2003_25,21,26,25,usa,Joe_Nemechek,Joe Nemechek,UAW-Delphi,Rick_Hendrick,Chevrolet,363,57415,running,0,100
 2003,W,2003_Mountain_Dew_Southern_500,2003_25,22,38,7,usa,Jimmy_Spencer,Jimmy Spencer,Sirius Satellite Radio,Jim_Smith,Dodge,361,56745,running,1,102
 2003,W,2003_Mountain_Dew_Southern_500,2003_25,23,1,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,359,101775,running,120,104
 2003,W,2003_Mountain_Dew_Southern_500,2003_25,24,24,23,usa,Kenny_Wallace,Kenny Wallace,Stacker 2,Bill_Davis,Dodge,358,56925,running,0,91
-2003,W,2003_Mountain_Dew_Southern_500,2003_25,25,12,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,358,93932,running,0,88
+2003,W,2003_Mountain_Dew_Southern_500,2003_25,25,12,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,358,93932,running,0,88
 2003,W,2003_Mountain_Dew_Southern_500,2003_25,26,36,0,usa,Jason_Leffler,Jason Leffler,NetZero Hi Speed,Gene_Haas,Pontiac,356,55455,running,0,85
 2003,W,2003_Mountain_Dew_Southern_500,2003_25,27,40,45,usa,Kyle_Petty,Kyle Petty,Georgia-Pacific,Petty_Enterprises,Dodge,345,63095,engine,1,87
 2003,W,2003_Mountain_Dew_Southern_500,2003_25,28,25,31,usa,Robby_Gordon,Robby Gordon,Cingular Wireless,Richard_Childress,Chevrolet,336,80072,crash,0,79
@@ -1067,7 +1067,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Mountain_Dew_Southern_500,2003_25,34,19,88,usa,Dale_Jarrett,Dale Jarrett,UPS,Yates_Racing,Ford,302,96543,running,0,61
 2003,W,2003_Mountain_Dew_Southern_500,2003_25,35,21,41,usa,Casey_Mears,Casey Mears,Target,Chip_Ganassi,Dodge,266,58580,running,0,58
 2003,W,2003_Mountain_Dew_Southern_500,2003_25,36,34,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,258,85172,running,0,55
-2003,W,2003_Mountain_Dew_Southern_500,2003_25,37,37,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,251,68325,running,0,52
+2003,W,2003_Mountain_Dew_Southern_500,2003_25,37,37,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,251,68325,running,0,52
 2003,W,2003_Mountain_Dew_Southern_500,2003_25,38,39,49,usa,Ken_Schrader,Ken Schrader,1-800-Call-ATT,Beth_Ann_Morgenthau,Dodge,184,50160,crash,0,49
 2003,W,2003_Mountain_Dew_Southern_500,2003_25,39,42,37,usa,Derrike_Cope,Derrike Cope,Friendly's / SP Films,Derrike_Cope,Chevrolet,168,50125,crash,0,46
 2003,W,2003_Mountain_Dew_Southern_500,2003_25,40,11,10,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Valvoline,James_Rocco,Pontiac,165,76800,crash,0,43
@@ -1087,10 +1087,10 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Chevy_Rock_and_Roll_400,2003_26,11,26,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,400,70605,running,0,130
 2003,W,2003_Chevy_Rock_and_Roll_400,2003_26,12,42,09,usa,Mike_Wallace,Mike Wallace,Miccosukee Indian Gaming,James_Finch,Dodge,400,56290,running,7,132
 2003,W,2003_Chevy_Rock_and_Roll_400,2003_26,13,3,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,400,89463,running,1,129
-2003,W,2003_Chevy_Rock_and_Roll_400,2003_26,14,24,1,usa,John_Andretti,John Andretti,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,400,76917,running,0,121
+2003,W,2003_Chevy_Rock_and_Roll_400,2003_26,14,24,1,usa,John_Andretti,John Andretti,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,400,76917,running,0,121
 2003,W,2003_Chevy_Rock_and_Roll_400,2003_26,15,8,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Dodge,400,88811,running,0,118
 2003,W,2003_Chevy_Rock_and_Roll_400,2003_26,16,28,29,usa,Kevin_Harvick,Kevin Harvick,GM Goodwrench Service / Sugar Ray,Richard_Childress,Chevrolet,400,89383,running,23,120
-2003,W,2003_Chevy_Rock_and_Roll_400,2003_26,17,13,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser True Music / Staind,"Dale_Earnhardt,_Inc.",Chevrolet,399,105522,running,76,117
+2003,W,2003_Chevy_Rock_and_Roll_400,2003_26,17,13,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser True Music / Staind,Dale_Earnhardt_Inc,Chevrolet,399,105522,running,76,117
 2003,W,2003_Chevy_Rock_and_Roll_400,2003_26,18,1,01,usa,Mike_Skinner,Mike Skinner,U.S. Army,Nelson_Bowers,Pontiac,399,73155,running,0,109
 2003,W,2003_Chevy_Rock_and_Roll_400,2003_26,19,29,42,usa,Jamie_McMurray,Jamie McMurray,Havoline,Chip_Ganassi,Dodge,399,53930,running,0,106
 2003,W,2003_Chevy_Rock_and_Roll_400,2003_26,20,2,16,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,399,54680,running,2,108
@@ -1105,7 +1105,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Chevy_Rock_and_Roll_400,2003_26,29,21,31,usa,Robby_Gordon,Robby Gordon,Cingular Wireless / Trapt,Richard_Childress,Chevrolet,397,75647,running,0,76
 2003,W,2003_Chevy_Rock_and_Roll_400,2003_26,30,35,32,usa,Ricky_Craven,Ricky Craven,Tide,Cal_Wells,Pontiac,396,67189,running,0,73
 2003,W,2003_Chevy_Rock_and_Roll_400,2003_26,31,39,30,usa,Steve_Park,Steve Park,America Online / Third Eye Blind,Richard_Childress,Chevrolet,394,57765,running,0,70
-2003,W,2003_Chevy_Rock_and_Roll_400,2003_26,32,33,15,usa,Michael_Waltrip,Michael Waltrip,NAPA / Hootie & the Blowfish,"Dale_Earnhardt,_Inc.",Chevrolet,388,65230,running,0,67
+2003,W,2003_Chevy_Rock_and_Roll_400,2003_26,32,33,15,usa,Michael_Waltrip,Michael Waltrip,NAPA / Hootie & the Blowfish,Dale_Earnhardt_Inc,Chevrolet,388,65230,running,0,67
 2003,W,2003_Chevy_Rock_and_Roll_400,2003_26,33,38,77,usa,Dave_Blaney,Dave Blaney,Jasper Engines & Transmissions,Doug_Bawel,Ford,377,56100,running,0,64
 2003,W,2003_Chevy_Rock_and_Roll_400,2003_26,34,10,45,usa,Kyle_Petty,Kyle Petty,Georgia-Pacific,Petty_Enterprises,Dodge,373,55135,running,0,61
 2003,W,2003_Chevy_Rock_and_Roll_400,2003_26,35,20,74,usa,Tony_Raines,Tony Raines,BACE Motorsports,Bill_Baumgardner,Chevrolet,360,47100,running,0,58
@@ -1121,14 +1121,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Sylvania_300,2003_27,2,31,21,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Wood_Brothers,Ford,300,145055,running,26,175
 2003,W,2003_Sylvania_300,2003_27,3,25,25,usa,Joe_Nemechek,Joe Nemechek,UAW-Delphi,Rick_Hendrick,Chevrolet,300,101980,running,0,165
 2003,W,2003_Sylvania_300,2003_27,4,12,9,usa,Bill_Elliott,Bill Elliott,Dodge Dealers / UAW,Ray_Evernham,Dodge,300,144108,running,55,165
-2003,W,2003_Sylvania_300,2003_27,5,6,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,300,111992,running,120,165
+2003,W,2003_Sylvania_300,2003_27,5,6,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,300,111992,running,120,165
 2003,W,2003_Sylvania_300,2003_27,6,11,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,300,106317,running,0,150
 2003,W,2003_Sylvania_300,2003_27,7,19,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,300,80750,running,7,151
 2003,W,2003_Sylvania_300,2003_27,8,24,38,usa,Elliott_Sadler,Elliott Sadler,M&M's,Yates_Racing,Ford,300,97700,running,0,142
 2003,W,2003_Sylvania_300,2003_27,9,1,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,300,98925,running,47,143
 2003,W,2003_Sylvania_300,2003_27,10,3,42,usa,Jamie_McMurray,Jamie McMurray,Havoline,Chip_Ganassi,Dodge,300,68650,running,0,134
 2003,W,2003_Sylvania_300,2003_27,11,10,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,300,69750,running,0,130
-2003,W,2003_Sylvania_300,2003_27,12,16,1,usa,John_Andretti,John Andretti,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,300,85637,running,0,127
+2003,W,2003_Sylvania_300,2003_27,12,16,1,usa,John_Andretti,John Andretti,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,300,85637,running,0,127
 2003,W,2003_Sylvania_300,2003_27,13,13,29,usa,Kevin_Harvick,Kevin Harvick,GM Goodwrench,Richard_Childress,Chevrolet,300,96528,running,9,129
 2003,W,2003_Sylvania_300,2003_27,14,26,77,usa,Dave_Blaney,Dave Blaney,Jasper Engines & Transmissions,Doug_Bawel,Ford,299,81950,running,0,121
 2003,W,2003_Sylvania_300,2003_27,15,28,97,usa,Kurt_Busch,Kurt Busch,Rubbermaid,Jack_Roush,Ford,299,89375,running,0,118
@@ -1142,7 +1142,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Sylvania_300,2003_27,23,34,7,usa,Jimmy_Spencer,Jimmy Spencer,Sirius Satellite Radio,Jim_Smith,Dodge,299,55850,running,0,94
 2003,W,2003_Sylvania_300,2003_27,24,35,27,usa,Scott_Wimmer,Scott Wimmer,YJ Stinger,Bill_Davis,Chevrolet,299,51550,running,0,91
 2003,W,2003_Sylvania_300,2003_27,25,22,10,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Valvoline,James_Rocco,Pontiac,299,81600,running,0,88
-2003,W,2003_Sylvania_300,2003_27,26,5,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,299,69150,running,18,90
+2003,W,2003_Sylvania_300,2003_27,26,5,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,299,69150,running,18,90
 2003,W,2003_Sylvania_300,2003_27,27,41,0,usa,Jason_Leffler,Jason Leffler,NetZero,Gene_Haas,Pontiac,298,53925,running,0,82
 2003,W,2003_Sylvania_300,2003_27,28,33,6,usa,Mark_Martin,Mark Martin,Viagra / 500 Consecutive Starts,Jack_Roush,Ford,298,87583,running,0,79
 2003,W,2003_Sylvania_300,2003_27,29,9,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Chip_Ganassi,Dodge,298,94465,running,0,76
@@ -1193,18 +1193,18 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_MBNA_America_400,2003_28,31,8,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries / 3M,Joe_Gibbs,Chevrolet,395,97948,running,0,70
 2003,W,2003_MBNA_America_400,2003_28,32,36,45,usa,Kyle_Petty,Kyle Petty,Georgia-Pacific,Petty_Enterprises,Dodge,394,60705,running,0,67
 2003,W,2003_MBNA_America_400,2003_28,33,38,49,usa,Ken_Schrader,Ken Schrader,BAM Racing,Beth_Ann_Morgenthau,Dodge,393,53455,running,0,64
-2003,W,2003_MBNA_America_400,2003_28,34,30,1,usa,John_Andretti,John Andretti,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,393,77532,running,0,61
+2003,W,2003_MBNA_America_400,2003_28,34,30,1,usa,John_Andretti,John Andretti,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,393,77532,running,0,61
 2003,W,2003_MBNA_America_400,2003_28,35,42,37,usa,Derrike_Cope,Derrike Cope,Friendly's,Derrike_Cope,Chevrolet,393,52130,running,0,58
 2003,W,2003_MBNA_America_400,2003_28,36,35,41,usa,Casey_Mears,Casey Mears,Target,Chip_Ganassi,Dodge,392,60000,running,0,55
-2003,W,2003_MBNA_America_400,2003_28,37,2,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,362,97792,crash,48,57
+2003,W,2003_MBNA_America_400,2003_28,37,2,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,362,97792,crash,48,57
 2003,W,2003_MBNA_America_400,2003_28,38,7,97,usa,Kurt_Busch,Kurt Busch,Brute / Rubbermaid,Jack_Roush,Ford,347,71750,engine,0,49
 2003,W,2003_MBNA_America_400,2003_28,39,43,02,usa,Hermie_Sadler,Hermie Sadler,VCU Rams / Dollar Tree,Hermie_Sadler,Pontiac,257,51635,engine,0,46
 2003,W,2003_MBNA_America_400,2003_28,40,22,32,usa,Ricky_Craven,Ricky Craven,Tide,Cal_Wells,Pontiac,249,59465,engine,0,43
 2003,W,2003_MBNA_America_400,2003_28,41,34,01,usa,Mike_Skinner,Mike Skinner,U.S. Army,Nelson_Bowers,Pontiac,195,51325,engine,0,40
-2003,W,2003_MBNA_America_400,2003_28,42,10,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,171,69200,engine,0,37
+2003,W,2003_MBNA_America_400,2003_28,42,10,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,171,69200,engine,0,37
 2003,W,2003_MBNA_America_400,2003_28,43,24,25,usa,Joe_Nemechek,Joe Nemechek,UAW-Delphi,Rick_Hendrick,Chevrolet,78,51330,crash,0,34
-2003,W,2003_EA_Sports_500,2003_29,1,18,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,188,157090,running,16,180
-2003,W,2003_EA_Sports_500,2003_29,2,38,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,188,146772,running,3,175
+2003,W,2003_EA_Sports_500,2003_29,1,18,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,188,157090,running,16,180
+2003,W,2003_EA_Sports_500,2003_29,2,38,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,188,146772,running,3,175
 2003,W,2003_EA_Sports_500,2003_29,3,11,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Chevrolet,188,163333,running,0,165
 2003,W,2003_EA_Sports_500,2003_29,4,12,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,188,113165,running,0,160
 2003,W,2003_EA_Sports_500,2003_29,5,5,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,188,138193,running,47,165
@@ -1228,7 +1228,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_EA_Sports_500,2003_29,23,15,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,188,92103,running,0,94
 2003,W,2003_EA_Sports_500,2003_29,24,36,16,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,187,56975,running,0,91
 2003,W,2003_EA_Sports_500,2003_29,25,27,25,usa,Joe_Nemechek,Joe Nemechek,UAW-Delphi,Rick_Hendrick,Chevrolet,187,57005,running,0,88
-2003,W,2003_EA_Sports_500,2003_29,26,43,1,usa,Jason_Keller,Jason Keller,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,187,78332,running,0,85
+2003,W,2003_EA_Sports_500,2003_29,26,43,1,usa,Jason_Keller,Jason Keller,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,187,78332,running,0,85
 2003,W,2003_EA_Sports_500,2003_29,27,28,01,usa,Mike_Skinner,Mike Skinner,USG Sheetrock,Nelson_Bowers,Pontiac,186,64549,running,0,82
 2003,W,2003_EA_Sports_500,2003_29,28,26,44,brazil,Christian_Fittipaldi,Christian Fittipaldi,Bugles,Petty_Enterprises,Dodge,186,52800,running,0,79
 2003,W,2003_EA_Sports_500,2003_29,29,25,98,usa,Jason_Jarrett,Jason Jarrett,C.H.I. Overhead Doors,Yates_Racing,Ford,184,52640,running,0,76
@@ -1263,8 +1263,8 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Banquet_400_Presented_by_ConAgra_Foods,2003_30,15,27,7,usa,Jimmy_Spencer,Jimmy Spencer,Sirius Satellite Radio,Jim_Smith,Dodge,267,83200,running,0,118
 2003,W,2003_Banquet_400_Presented_by_ConAgra_Foods,2003_30,16,34,5,usa,Terry_Labonte,Terry Labonte,Kellogg's / got milk?,Rick_Hendrick,Chevrolet,267,94406,running,0,115
 2003,W,2003_Banquet_400_Presented_by_ConAgra_Foods,2003_30,17,4,18,usa,Bobby_Labonte,Bobby Labonte,Banquet / Interstate Batteries,Joe_Gibbs,Chevrolet,267,109633,running,2,117
-2003,W,2003_Banquet_400_Presented_by_ConAgra_Foods,2003_30,18,3,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,267,110267,running,9,114
-2003,W,2003_Banquet_400_Presented_by_ConAgra_Foods,2003_30,19,40,1,usa,John_Andretti,John Andretti,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,267,89237,running,0,106
+2003,W,2003_Banquet_400_Presented_by_ConAgra_Foods,2003_30,18,3,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,267,110267,running,9,114
+2003,W,2003_Banquet_400_Presented_by_ConAgra_Foods,2003_30,19,40,1,usa,John_Andretti,John Andretti,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,267,89237,running,0,106
 2003,W,2003_Banquet_400_Presented_by_ConAgra_Foods,2003_30,20,38,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,267,103483,running,0,103
 2003,W,2003_Banquet_400_Presented_by_ConAgra_Foods,2003_30,21,39,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Dodge,267,99706,running,0,100
 2003,W,2003_Banquet_400_Presented_by_ConAgra_Foods,2003_30,22,17,30,usa,Steve_Park,Steve Park,America Online,Richard_Childress,Chevrolet,267,74850,running,0,97
@@ -1284,7 +1284,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Banquet_400_Presented_by_ConAgra_Foods,2003_30,36,37,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,220,68575,running,0,55
 2003,W,2003_Banquet_400_Presented_by_ConAgra_Foods,2003_30,37,30,25,usa,Joe_Nemechek,Joe Nemechek,UAW-Delphi,Rick_Hendrick,Chevrolet,211,60375,running,0,52
 2003,W,2003_Banquet_400_Presented_by_ConAgra_Foods,2003_30,38,41,37,usa,Derrike_Cope,Derrike Cope,GBROnline.com,Derrike_Cope,Chevrolet,199,60175,engine,0,49
-2003,W,2003_Banquet_400_Presented_by_ConAgra_Foods,2003_30,39,31,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,197,77985,crash,0,46
+2003,W,2003_Banquet_400_Presented_by_ConAgra_Foods,2003_30,39,31,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,197,77985,crash,0,46
 2003,W,2003_Banquet_400_Presented_by_ConAgra_Foods,2003_30,40,21,97,usa,Kurt_Busch,Kurt Busch,Rubbermaid,Jack_Roush,Ford,181,79785,engine,2,48
 2003,W,2003_Banquet_400_Presented_by_ConAgra_Foods,2003_30,41,32,32,usa,Ricky_Craven,Ricky Craven,Tide,Cal_Wells,Pontiac,174,67590,engine,0,40
 2003,W,2003_Banquet_400_Presented_by_ConAgra_Foods,2003_30,42,10,38,usa,Elliott_Sadler,Elliott Sadler,Pedigree,Yates_Racing,Ford,104,93645,crash,0,37
@@ -1297,12 +1297,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_UAW-GM_Quality_500,2003_31,6,12,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Chevrolet,334,110258,running,4,155
 2003,W,2003_UAW-GM_Quality_500,2003_31,7,19,42,usa,Jamie_McMurray,Jamie McMurray,Havoline,Chip_Ganassi,Dodge,334,67225,running,1,151
 2003,W,2003_UAW-GM_Quality_500,2003_31,8,29,17,usa,Matt_Kenseth,Matt Kenseth,Carhartt / DeWalt Power Tools,Jack_Roush,Ford,334,82425,running,0,142
-2003,W,2003_UAW-GM_Quality_500,2003_31,9,11,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,334,98217,running,2,143
+2003,W,2003_UAW-GM_Quality_500,2003_31,9,11,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,334,98217,running,2,143
 2003,W,2003_UAW-GM_Quality_500,2003_31,10,9,29,usa,Kevin_Harvick,Kevin Harvick,GM Goodwrench,Richard_Childress,Chevrolet,334,97853,running,0,134
 2003,W,2003_UAW-GM_Quality_500,2003_31,11,27,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,334,93108,running,0,130
 2003,W,2003_UAW-GM_Quality_500,2003_31,12,32,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,334,65125,running,0,127
 2003,W,2003_UAW-GM_Quality_500,2003_31,13,14,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,334,90842,running,0,124
-2003,W,2003_UAW-GM_Quality_500,2003_31,14,30,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,334,65950,running,0,121
+2003,W,2003_UAW-GM_Quality_500,2003_31,14,30,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,334,65950,running,0,121
 2003,W,2003_UAW-GM_Quality_500,2003_31,15,33,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Chip_Ganassi,Dodge,334,96600,running,0,118
 2003,W,2003_UAW-GM_Quality_500,2003_31,16,23,10,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Zerex / Valvoline,James_Rocco,Pontiac,333,80400,running,0,115
 2003,W,2003_UAW-GM_Quality_500,2003_31,17,22,16,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,333,53000,running,0,112
@@ -1318,7 +1318,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_UAW-GM_Quality_500,2003_31,27,36,43,usa,Jeff_Green,Jeff Green,Betty Crocker / Dinner Made Easy,Petty_Enterprises,Dodge,331,84963,running,0,82
 2003,W,2003_UAW-GM_Quality_500,2003_31,28,38,22,usa,Ward_Burton,Ward Burton,Cat Rental Stores,Bill_Davis,Dodge,331,81941,running,0,79
 2003,W,2003_UAW-GM_Quality_500,2003_31,29,8,54,usa,Todd_Bodine,Todd Bodine,National Guard,Travis_Carter,Ford,331,49200,running,0,76
-2003,W,2003_UAW-GM_Quality_500,2003_31,30,41,1,usa,John_Andretti,John Andretti,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,331,74262,running,0,73
+2003,W,2003_UAW-GM_Quality_500,2003_31,30,41,1,usa,John_Andretti,John Andretti,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,331,74262,running,0,73
 2003,W,2003_UAW-GM_Quality_500,2003_31,31,40,25,usa,Joe_Nemechek,Joe Nemechek,UAW-Delphi,Rick_Hendrick,Chevrolet,330,47950,running,0,70
 2003,W,2003_UAW-GM_Quality_500,2003_31,32,18,23,usa,Kenny_Wallace,Kenny Wallace,Stacker 2,Bill_Davis,Dodge,330,45325,running,0,67
 2003,W,2003_UAW-GM_Quality_500,2003_31,33,20,60,usa,Brian_Vickers,Brian Vickers,Haas Automation,Rick_Hendrick,Chevrolet,329,46175,running,0,64
@@ -1335,7 +1335,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Subway_500,2003_32,1,1,24,usa,Jeff_Gordon,Jeff Gordon,DuPont,Rick_Hendrick,Chevrolet,500,183018,running,313,185
 2003,W,2003_Subway_500,2003_32,2,26,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,500,100250,running,0,170
 2003,W,2003_Subway_500,2003_32,3,16,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Chevrolet,500,129478,running,2,170
-2003,W,2003_Subway_500,2003_32,4,3,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,500,115937,running,61,165
+2003,W,2003_Subway_500,2003_32,4,3,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,500,115937,running,61,165
 2003,W,2003_Subway_500,2003_32,5,8,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,500,90225,running,0,155
 2003,W,2003_Subway_500,2003_32,6,31,5,usa,Terry_Labonte,Terry Labonte,Kellogg's / got milk?,Rick_Hendrick,Chevrolet,500,85456,running,40,155
 2003,W,2003_Subway_500,2003_32,7,5,29,usa,Kevin_Harvick,Kevin Harvick,GM Goodwrench,Richard_Childress,Chevrolet,500,92228,running,10,151
@@ -1357,12 +1357,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Subway_500,2003_32,23,33,74,usa,Tony_Raines,Tony Raines,BACE Motorsports,Bill_Baumgardner,Chevrolet,499,48725,running,0,94
 2003,W,2003_Subway_500,2003_32,24,10,43,usa,Jeff_Green,Jeff Green,Cheerios / Betty Crocker,Petty_Enterprises,Dodge,498,83353,running,0,91
 2003,W,2003_Subway_500,2003_32,25,32,45,usa,Kyle_Petty,Kyle Petty,Georgia-Pacific,Petty_Enterprises,Dodge,498,55725,running,0,88
-2003,W,2003_Subway_500,2003_32,26,15,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,498,62175,running,0,85
+2003,W,2003_Subway_500,2003_32,26,15,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,498,62175,running,0,85
 2003,W,2003_Subway_500,2003_32,27,34,0,usa,Jason_Leffler,Jason Leffler,NetZero,Gene_Haas,Pontiac,498,47010,running,0,82
 2003,W,2003_Subway_500,2003_32,28,38,38,usa,Elliott_Sadler,Elliott Sadler,M&M's,Yates_Racing,Ford,497,80610,running,0,79
 2003,W,2003_Subway_500,2003_32,29,7,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,497,78392,running,18,81
 2003,W,2003_Subway_500,2003_32,30,43,02,usa,Hermie_Sadler,Hermie Sadler,James Madison University,Hermie_Sadler,Pontiac,495,44150,running,0,73
-2003,W,2003_Subway_500,2003_32,31,40,1,usa,John_Andretti,John Andretti,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,495,68762,running,0,70
+2003,W,2003_Subway_500,2003_32,31,40,1,usa,John_Andretti,John Andretti,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,495,68762,running,0,70
 2003,W,2003_Subway_500,2003_32,32,27,32,usa,Ricky_Craven,Ricky Craven,Tide,Cal_Wells,Pontiac,495,59889,running,0,67
 2003,W,2003_Subway_500,2003_32,33,30,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,490,52270,running,0,64
 2003,W,2003_Subway_500,2003_32,34,29,10,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Valvoline,James_Rocco,Pontiac,488,70070,running,0,61
@@ -1380,7 +1380,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,3,9,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,325,122800,running,1,170
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,4,5,9,usa,Bill_Elliott,Bill Elliott,Dodge Dealers / UAW / Winston Cup Victory Lap,Ray_Evernham,Dodge,325,133833,running,0,160
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,5,2,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Chevrolet,325,133383,running,66,160
-2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,6,3,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,325,121692,running,32,155
+2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,6,3,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,325,121692,running,32,155
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,7,15,19,usa,Jeremy_Mayfield,Jeremy Mayfield,Dodge Dealers / UAW,Ray_Evernham,Dodge,325,89200,running,0,146
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,8,17,97,usa,Kurt_Busch,Kurt Busch,Rubbermaid / Sharpie / BRUTE,Jack_Roush,Ford,325,110475,running,3,147
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,9,22,7,usa,Jimmy_Spencer,Jimmy Spencer,Sirius Satellite Radio,Jim_Smith,Dodge,325,92450,running,2,143
@@ -1396,7 +1396,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,19,21,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,324,104692,running,0,106
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,20,10,29,usa,Kevin_Harvick,Kevin Harvick,GM Goodwrench,Richard_Childress,Chevrolet,324,110753,running,41,108
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,21,16,31,usa,Robby_Gordon,Robby Gordon,Cingular Wireless,Richard_Childress,Chevrolet,324,94712,running,0,100
-2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,22,11,1,usa,John_Andretti,John Andretti,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,324,94062,running,0,97
+2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,22,11,1,usa,John_Andretti,John Andretti,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,324,94062,running,0,97
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,23,38,99,usa,Jeff_Burton,Jeff Burton,Citgo,Jack_Roush,Ford,324,102442,running,0,94
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,24,30,10,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Valvoline,James_Rocco,Pontiac,323,94475,running,0,91
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,25,25,45,usa,Kyle_Petty,Kyle Petty,Georgia-Pacific,Petty_Enterprises,Dodge,323,75725,running,0,88
@@ -1412,17 +1412,17 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,35,26,32,usa,Ricky_Craven,Ricky Craven,Tide,Cal_Wells,Pontiac,222,70300,crash,0,58
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,36,20,30,usa,Steve_Park,Steve Park,GM Card / America Online,Richard_Childress,Chevrolet,221,70225,crash,0,55
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,37,35,77,usa,Dave_Blaney,Dave Blaney,Jasper Engines & Transmissions / Lipton Sides,Doug_Bawel,Ford,201,70100,crash,0,52
-2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,38,13,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,170,80050,engine,0,49
+2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,38,13,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,170,80050,engine,0,49
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,39,39,6,usa,Mark_Martin,Mark Martin,Viagra,Jack_Roush,Ford,159,95833,engine,0,46
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,40,23,37,usa,Derrike_Cope,Derrike Cope,PHM / Friendly's,Derrike_Cope,Chevrolet,132,61950,engine,0,43
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,41,34,02,usa,Hermie_Sadler,Hermie Sadler,Zapf Creations,Hermie_Sadler,Chevrolet,77,61900,crash,0,40
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,42,7,54,usa,Todd_Bodine,Todd Bodine,National Guard,Travis_Carter,Ford,44,61850,crash,0,37
 2003,W,2003_Bass_Pro_Shops_MBNA_500_%28October%29,2003_33,43,4,25,usa,Brian_Vickers,Brian Vickers,UAW-Delphi,Rick_Hendrick,Chevrolet,18,62059,overheating,0,34
-2003,W,2003_Checker_Auto_Parts_500_Presented_by_Havoline,2003_34,1,11,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,312,203017,running,87,180
+2003,W,2003_Checker_Auto_Parts_500_Presented_by_Havoline,2003_34,1,11,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,312,203017,running,87,180
 2003,W,2003_Checker_Auto_Parts_500_Presented_by_Havoline,2003_34,2,3,48,usa,Jimmie_Johnson,Jimmie Johnson,Lowe's,Rick_Hendrick,Chevrolet,312,173625,running,84,175
 2003,W,2003_Checker_Auto_Parts_500_Presented_by_Havoline,2003_34,3,1,12,usa,Ryan_Newman,Ryan Newman,Alltel,Roger_Penske,Dodge,312,152625,running,41,170
 2003,W,2003_Checker_Auto_Parts_500_Presented_by_Havoline,2003_34,4,7,97,usa,Kurt_Busch,Kurt Busch,Rubbermaid / Sharpie,Jack_Roush,Ford,312,142585,running,98,170
-2003,W,2003_Checker_Auto_Parts_500_Presented_by_Havoline,2003_34,5,17,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,312,100925,running,0,155
+2003,W,2003_Checker_Auto_Parts_500_Presented_by_Havoline,2003_34,5,17,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,312,100925,running,0,155
 2003,W,2003_Checker_Auto_Parts_500_Presented_by_Havoline,2003_34,6,37,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,312,86000,running,0,150
 2003,W,2003_Checker_Auto_Parts_500_Presented_by_Havoline,2003_34,7,4,24,usa,Jeff_Gordon,Jeff Gordon,DuPont / Looney Tunes: Back in Action,Rick_Hendrick,Chevrolet,312,111778,running,0,146
 2003,W,2003_Checker_Auto_Parts_500_Presented_by_Havoline,2003_34,8,27,99,usa,Jeff_Burton,Jeff Burton,Citgo,Jack_Roush,Ford,312,98917,running,0,142
@@ -1433,7 +1433,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Checker_Auto_Parts_500_Presented_by_Havoline,2003_34,13,2,25,usa,Brian_Vickers,Brian Vickers,UAW-Delphi / Looney Tunes: Back in Action,Rick_Hendrick,Chevrolet,312,58900,running,0,124
 2003,W,2003_Checker_Auto_Parts_500_Presented_by_Havoline,2003_34,14,18,9,usa,Bill_Elliott,Bill Elliott,Dodge Dealers / UAW,Ray_Evernham,Dodge,312,90633,running,0,121
 2003,W,2003_Checker_Auto_Parts_500_Presented_by_Havoline,2003_34,15,25,16,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,312,56130,running,0,118
-2003,W,2003_Checker_Auto_Parts_500_Presented_by_Havoline,2003_34,16,33,1,usa,John_Andretti,John Andretti,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,312,75162,running,0,115
+2003,W,2003_Checker_Auto_Parts_500_Presented_by_Havoline,2003_34,16,33,1,usa,John_Andretti,John Andretti,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,312,75162,running,0,115
 2003,W,2003_Checker_Auto_Parts_500_Presented_by_Havoline,2003_34,17,30,21,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Wood_Brothers,Ford,312,76875,running,0,112
 2003,W,2003_Checker_Auto_Parts_500_Presented_by_Havoline,2003_34,18,6,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Chevrolet,312,102128,running,0,109
 2003,W,2003_Checker_Auto_Parts_500_Presented_by_Havoline,2003_34,19,41,74,usa,Tony_Raines,Tony Raines,BACE Motorsports,Bill_Baumgardner,Chevrolet,312,53350,running,0,106
@@ -1473,7 +1473,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Pop-Secret_Microwave_Popcorn_400,2003_35,10,31,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Chip_Ganassi,Dodge,393,99425,running,0,134
 2003,W,2003_Pop-Secret_Microwave_Popcorn_400,2003_35,11,10,16,usa,Greg_Biffle,Greg Biffle,Grainger,Jack_Roush,Ford,392,56675,running,0,130
 2003,W,2003_Pop-Secret_Microwave_Popcorn_400,2003_35,12,20,5,usa,Terry_Labonte,Terry Labonte,Kellogg's / got milk?,Rick_Hendrick,Chevrolet,392,81681,running,0,127
-2003,W,2003_Pop-Secret_Microwave_Popcorn_400,2003_35,13,26,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,391,92042,running,0,124
+2003,W,2003_Pop-Secret_Microwave_Popcorn_400,2003_35,13,26,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,391,92042,running,0,124
 2003,W,2003_Pop-Secret_Microwave_Popcorn_400,2003_35,14,8,7,usa,Jimmy_Spencer,Jimmy Spencer,Sirius Satellite Radio,Jim_Smith,Dodge,391,72825,running,0,121
 2003,W,2003_Pop-Secret_Microwave_Popcorn_400,2003_35,15,34,29,usa,Kevin_Harvick,Kevin Harvick,GM Goodwrench,Richard_Childress,Chevrolet,391,91403,running,0,118
 2003,W,2003_Pop-Secret_Microwave_Popcorn_400,2003_35,16,27,54,usa,Todd_Bodine,Todd Bodine,National Guard,Travis_Carter,Ford,391,69475,running,0,115
@@ -1490,14 +1490,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Pop-Secret_Microwave_Popcorn_400,2003_35,27,22,77,usa,Dave_Blaney,Dave Blaney,Jasper Engines & Transmissions,Doug_Bawel,Ford,389,66849,running,0,82
 2003,W,2003_Pop-Secret_Microwave_Popcorn_400,2003_35,28,42,14,usa,Larry_Foyt,Larry Foyt,Harrah's,A.J._Foyt,Dodge,389,47260,running,0,79
 2003,W,2003_Pop-Secret_Microwave_Popcorn_400,2003_35,29,25,10,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Valvoline,James_Rocco,Pontiac,388,76825,running,0,76
-2003,W,2003_Pop-Secret_Microwave_Popcorn_400,2003_35,30,36,1,usa,John_Andretti,John Andretti,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,388,75142,running,0,73
+2003,W,2003_Pop-Secret_Microwave_Popcorn_400,2003_35,30,36,1,usa,John_Andretti,John Andretti,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,388,75142,running,0,73
 2003,W,2003_Pop-Secret_Microwave_Popcorn_400,2003_35,31,35,23,usa,Kenny_Wallace,Kenny Wallace,Stacker 2,Bill_Davis,Dodge,387,46800,running,0,70
 2003,W,2003_Pop-Secret_Microwave_Popcorn_400,2003_35,32,33,45,usa,Kyle_Petty,Kyle Petty,Georgia-Pacific / Brawny,Petty_Enterprises,Dodge,387,54675,running,0,67
 2003,W,2003_Pop-Secret_Microwave_Popcorn_400,2003_35,33,39,41,usa,Casey_Mears,Casey Mears,Target House,Chip_Ganassi,Dodge,386,55450,running,0,64
 2003,W,2003_Pop-Secret_Microwave_Popcorn_400,2003_35,34,38,30,usa,Steve_Park,Steve Park,America Online,Richard_Childress,Chevrolet,386,54425,running,0,61
 2003,W,2003_Pop-Secret_Microwave_Popcorn_400,2003_35,35,21,42,usa,Jamie_McMurray,Jamie McMurray,Havoline,Chip_Ganassi,Dodge,375,46300,running,0,58
 2003,W,2003_Pop-Secret_Microwave_Popcorn_400,2003_35,36,28,49,usa,Ken_Schrader,Ken Schrader,BAM Racing,Beth_Ann_Morgenthau,Dodge,374,46255,crash,0,55
-2003,W,2003_Pop-Secret_Microwave_Popcorn_400,2003_35,37,11,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,343,64200,engine,0,52
+2003,W,2003_Pop-Secret_Microwave_Popcorn_400,2003_35,37,11,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,343,64200,engine,0,52
 2003,W,2003_Pop-Secret_Microwave_Popcorn_400,2003_35,38,32,88,usa,Dale_Jarrett,Dale Jarrett,UPS,Yates_Racing,Ford,339,91923,engine,0,49
 2003,W,2003_Pop-Secret_Microwave_Popcorn_400,2003_35,39,30,32,usa,Ricky_Craven,Ricky Craven,Tide,Cal_Wells,Pontiac,325,54090,crash,0,46
 2003,W,2003_Pop-Secret_Microwave_Popcorn_400,2003_35,40,24,21,usa,Ricky_Rudd,Ricky Rudd,Motorcraft,Wood_Brothers,Ford,325,54015,crash,0,43
@@ -1527,7 +1527,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Ford_400,2003_36,21,29,38,usa,Elliott_Sadler,Elliott Sadler,M&M's,Yates_Racing,Ford,267,84650,running,0,100
 2003,W,2003_Ford_400,2003_36,22,43,23,usa,Kenny_Wallace,Kenny Wallace,Stacker 2,Bill_Davis,Dodge,266,60950,running,0,97
 2003,W,2003_Ford_400,2003_36,23,11,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Dodge,265,84467,running,9,99
-2003,W,2003_Ford_400,2003_36,24,38,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,265,87117,running,0,91
+2003,W,2003_Ford_400,2003_36,24,38,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,265,87117,running,0,91
 2003,W,2003_Ford_400,2003_36,25,16,7,usa,Jimmy_Spencer,Jimmy Spencer,Sirius Satellite Radio,Jim_Smith,Dodge,265,58989,running,9,93
 2003,W,2003_Ford_400,2003_36,26,32,88,usa,Dale_Jarrett,Dale Jarrett,UPS,Yates_Racing,Ford,265,91578,running,0,85
 2003,W,2003_Ford_400,2003_36,27,15,41,usa,Casey_Mears,Casey Mears,Target,Chip_Ganassi,Dodge,264,56800,running,0,82
@@ -1544,6 +1544,6 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2003,W,2003_Ford_400,2003_36,38,33,02,usa,Hermie_Sadler,Hermie Sadler,Sadler GM,Hermie_Sadler,Chevrolet,121,43350,overheating,0,0
 2003,W,2003_Ford_400,2003_36,39,17,00,usa,Mike_Skinner,Mike Skinner,Bacardi Silver / Raz,Michael_Waltrip,Chevrolet,89,43150,crash,0,46
 2003,W,2003_Ford_400,2003_36,40,26,43,usa,Jeff_Green,Jeff Green,Chex by Petty,Petty_Enterprises,Dodge,81,78703,engine,0,43
-2003,W,2003_Ford_400,2003_36,41,23,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,"Dale_Earnhardt,_Inc.",Chevrolet,72,60735,crash,0,40
-2003,W,2003_Ford_400,2003_36,42,22,1,usa,John_Andretti,John Andretti,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,57,67612,engine,0,37
+2003,W,2003_Ford_400,2003_36,41,23,15,usa,Michael_Waltrip,Michael Waltrip,NAPA,Dale_Earnhardt_Inc,Chevrolet,72,60735,crash,0,40
+2003,W,2003_Ford_400,2003_36,42,22,1,usa,John_Andretti,John Andretti,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,57,67612,engine,0,37
 2003,W,2003_Ford_400,2003_36,43,37,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Power Tools,Jack_Roush,Ford,28,62665,engine,0,34

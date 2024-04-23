@@ -11,7 +11,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Daytona_500,2000_01,10,24,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Tools,Jack_Roush,Ford,200,182875,running,0,134
 2000,W,2000_Daytona_500,2000_01,11,19,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,200,129075,running,0,130
 2000,W,2000_Daytona_500,2000_01,12,27,10,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Lycos.com,Tim_Beverley,Pontiac,200,119975,running,39,132
-2000,W,2000_Daytona_500,2000_01,13,8,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,200,107775,running,0,124
+2000,W,2000_Daytona_500,2000_01,13,8,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,200,107775,running,0,124
 2000,W,2000_Daytona_500,2000_01,14,18,42,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",BellSouth,Felix_Sabates,Chevrolet,200,120025,running,0,121
 2000,W,2000_Daytona_500,2000_01,15,2,28,usa,Ricky_Rudd,Ricky Rudd,Texaco / Havoline,Yates_Racing,Ford,200,119475,running,1,123
 2000,W,2000_Daytona_500,2000_01,16,4,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,200,112225,running,3,120
@@ -29,7 +29,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Daytona_500,2000_01,28,28,41,usa,Rick_Mast,Rick Mast,Big Daddy's BBQ Sauce,Larry_Hedrick,Chevrolet,199,92075,running,0,79
 2000,W,2000_Daytona_500,2000_01,29,39,55,usa,Kenny_Wallace,Kenny Wallace,Square D,Andy_Petree,Chevrolet,199,99275,running,0,76
 2000,W,2000_Daytona_500,2000_01,30,22,26,usa,Jimmy_Spencer,Jimmy Spencer,Big Kmart,Travis_Carter,Ford,197,99225,running,0,73
-2000,W,2000_Daytona_500,2000_01,31,36,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,197,98275,running,0,70
+2000,W,2000_Daytona_500,2000_01,31,36,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,197,98275,running,0,70
 2000,W,2000_Daytona_500,2000_01,32,43,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart / Route 66,Travis_Carter,Ford,197,89325,running,0,67
 2000,W,2000_Daytona_500,2000_01,33,35,14,usa,Mike_Bliss,Mike Bliss,Conseco,A.J._Foyt,Pontiac,197,88875,running,0,64
 2000,W,2000_Daytona_500,2000_01,34,11,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes / NASCAR 2000,Rick_Hendrick,Chevrolet,195,106100,running,0,61
@@ -50,7 +50,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Dura_Lube_Kmart_400,2000_02,6,2,28,usa,Ricky_Rudd,Ricky Rudd,Texaco / Havoline,Yates_Racing,Ford,392,47010,running,0,150
 2000,W,2000_Dura_Lube_Kmart_400,2000_02,7,27,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,392,42710,running,0,146
 2000,W,2000_Dura_Lube_Kmart_400,2000_02,8,33,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,392,52285,running,26,147
-2000,W,2000_Dura_Lube_Kmart_400,2000_02,9,18,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,392,42010,running,34,143
+2000,W,2000_Dura_Lube_Kmart_400,2000_02,9,18,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,392,42010,running,34,143
 2000,W,2000_Dura_Lube_Kmart_400,2000_02,10,5,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,392,61510,running,16,139
 2000,W,2000_Dura_Lube_Kmart_400,2000_02,11,1,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,391,52185,running,37,135
 2000,W,2000_Dura_Lube_Kmart_400,2000_02,12,20,43,usa,John_Andretti,John Andretti,STP,Petty_Enterprises,Pontiac,391,50860,running,0,127
@@ -60,7 +60,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Dura_Lube_Kmart_400,2000_02,16,39,60,usa,Ted_Musgrave,Ted Musgrave,Power Team,Joe_Bessey,Chevrolet,390,39960,running,0,115
 2000,W,2000_Dura_Lube_Kmart_400,2000_02,17,17,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,390,44760,running,0,112
 2000,W,2000_Dura_Lube_Kmart_400,2000_02,18,38,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,390,38260,running,0,109
-2000,W,2000_Dura_Lube_Kmart_400,2000_02,19,7,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,390,27110,running,0,106
+2000,W,2000_Dura_Lube_Kmart_400,2000_02,19,7,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,390,27110,running,0,106
 2000,W,2000_Dura_Lube_Kmart_400,2000_02,20,40,75,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",RotoZip Tools,Darwin_Oordt,Ford,390,33960,running,0,103
 2000,W,2000_Dura_Lube_Kmart_400,2000_02,21,12,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,390,37210,running,0,100
 2000,W,2000_Dura_Lube_Kmart_400,2000_02,22,31,42,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",BellSouth,Felix_Sabates,Chevrolet,389,36910,running,0,97
@@ -94,7 +94,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_CarsDirect.com_400,2000_03,7,6,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,148,105200,running,0,146
 2000,W,2000_CarsDirect.com_400,2000_03,8,33,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service,Richard_Childress,Chevrolet,148,94900,running,0,142
 2000,W,2000_CarsDirect.com_400,2000_03,9,18,33,usa,Joe_Nemechek,Joe Nemechek,Oakwood Homes,Andy_Petree,Chevrolet,148,94300,running,0,138
-2000,W,2000_CarsDirect.com_400,2000_03,10,3,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,148,76275,running,42,139
+2000,W,2000_CarsDirect.com_400,2000_03,10,3,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,148,76275,running,42,139
 2000,W,2000_CarsDirect.com_400,2000_03,11,14,16,usa,Kevin_Lepage,Kevin Lepage,FamilyClick.com,Jack_Roush,Ford,148,87375,running,0,130
 2000,W,2000_CarsDirect.com_400,2000_03,12,1,28,usa,Ricky_Rudd,Ricky Rudd,Texaco / Havoline,Yates_Racing,Ford,148,83975,running,1,132
 2000,W,2000_CarsDirect.com_400,2000_03,13,12,13,usa,Robby_Gordon,Robby Gordon,Menards / Duracell,John_Menard,Ford,148,65675,running,8,129
@@ -127,11 +127,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_CarsDirect.com_400,2000_03,40,29,50,usa,Ricky_Craven,Ricky Craven,Midwest Transit,Hal_Hicks_Mike_Witters,Chevrolet,145,48225,running,0,43
 2000,W,2000_CarsDirect.com_400,2000_03,41,17,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,145,56025,running,0,40
 2000,W,2000_CarsDirect.com_400,2000_03,42,2,32,usa,Scott_Pruett,Scott Pruett,Tide,Cal_Wells,Ford,143,47825,running,0,37
-2000,W,2000_CarsDirect.com_400,2000_03,43,23,1,usa,Steve_Park,Steve Park,Pennzoil / Mission to Mars,"Dale_Earnhardt,_Inc.",Chevrolet,92,55875,engine,0,34
+2000,W,2000_CarsDirect.com_400,2000_03,43,23,1,usa,Steve_Park,Steve Park,Pennzoil / Mission to Mars,Dale_Earnhardt_Inc,Chevrolet,92,55875,engine,0,34
 2000,W,2000_Cracker_Barrel_Old_Country_Store_500,2000_04,1,35,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service,Richard_Childress,Chevrolet,325,123100,running,34,180
 2000,W,2000_Cracker_Barrel_Old_Country_Store_500,2000_04,2,22,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries / MBNA,Joe_Gibbs,Pontiac,325,88200,running,46,175
 2000,W,2000_Cracker_Barrel_Old_Country_Store_500,2000_04,3,11,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,325,67900,running,7,170
-2000,W,2000_Cracker_Barrel_Old_Country_Store_500,2000_04,4,3,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,325,60250,running,1,165
+2000,W,2000_Cracker_Barrel_Old_Country_Store_500,2000_04,4,3,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,325,60250,running,1,165
 2000,W,2000_Cracker_Barrel_Old_Country_Store_500,2000_04,5,8,33,usa,Joe_Nemechek,Joe Nemechek,Oakwood Homes,Andy_Petree,Chevrolet,325,60050,running,0,155
 2000,W,2000_Cracker_Barrel_Old_Country_Store_500,2000_04,6,13,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,325,48145,running,2,155
 2000,W,2000_Cracker_Barrel_Old_Country_Store_500,2000_04,7,24,91,usa,Todd_Bodine,Todd Bodine,KMC Telecom,Joe_Falk,Chevrolet,325,29745,running,0,146
@@ -156,7 +156,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Cracker_Barrel_Old_Country_Store_500,2000_04,26,40,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,319,36530,running,0,85
 2000,W,2000_Cracker_Barrel_Old_Country_Store_500,2000_04,27,41,60,usa,Ted_Musgrave,Ted Musgrave,Power Team,Joe_Bessey,Chevrolet,318,36420,running,1,87
 2000,W,2000_Cracker_Barrel_Old_Country_Store_500,2000_04,28,33,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,310,36145,running,0,79
-2000,W,2000_Cracker_Barrel_Old_Country_Store_500,2000_04,29,2,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,307,25805,running,8,81
+2000,W,2000_Cracker_Barrel_Old_Country_Store_500,2000_04,29,2,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,307,25805,running,8,81
 2000,W,2000_Cracker_Barrel_Old_Country_Store_500,2000_04,30,14,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,305,50545,engine,191,83
 2000,W,2000_Cracker_Barrel_Old_Country_Store_500,2000_04,31,43,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart / Route 66,Travis_Carter,Ford,298,27285,running,0,70
 2000,W,2000_Cracker_Barrel_Old_Country_Store_500,2000_04,32,30,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,274,42725,crash,0,67
@@ -209,8 +209,8 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Mall.com_400,2000_05,36,14,27,usa,Jeff_Fuller,Jeff Fuller,Pfizer / Viagra,Jack_Birmingham,Pontiac,232,23905,running,0,55
 2000,W,2000_Mall.com_400,2000_05,37,19,25,usa,Jerry_Nadeau,Jerry Nadeau,Michael Holigan.com,Rick_Hendrick,Chevrolet,232,31800,running,0,52
 2000,W,2000_Mall.com_400,2000_05,38,18,42,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",BellSouth,Felix_Sabates,Chevrolet,219,31675,running,0,49
-2000,W,2000_Mall.com_400,2000_05,39,31,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,218,31550,engine,0,46
-2000,W,2000_Mall.com_400,2000_05,40,10,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,213,23375,crash,0,43
+2000,W,2000_Mall.com_400,2000_05,39,31,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,218,31550,engine,0,46
+2000,W,2000_Mall.com_400,2000_05,40,10,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,213,23375,crash,0,43
 2000,W,2000_Mall.com_400,2000_05,41,30,33,usa,Joe_Nemechek,Joe Nemechek,Oakwood Homes,Andy_Petree,Chevrolet,186,31250,running,0,40
 2000,W,2000_Mall.com_400,2000_05,42,39,60,usa,Ted_Musgrave,Ted Musgrave,Power Team,Joe_Bessey,Chevrolet,135,31125,engine,0,37
 2000,W,2000_Mall.com_400,2000_05,43,43,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart / Route 66,Travis_Carter,Ford,116,23271,handling,0,34
@@ -220,7 +220,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Food_City_500,2000_06,4,17,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,500,49795,running,124,165
 2000,W,2000_Food_City_500,2000_06,5,7,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,500,60745,running,0,155
 2000,W,2000_Food_City_500,2000_06,6,10,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,500,57695,running,0,150
-2000,W,2000_Food_City_500,2000_06,7,1,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,500,49995,running,40,151
+2000,W,2000_Food_City_500,2000_06,7,1,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,500,49995,running,40,151
 2000,W,2000_Food_City_500,2000_06,8,3,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,500,51295,running,225,152
 2000,W,2000_Food_City_500,2000_06,9,15,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,500,49990,running,0,138
 2000,W,2000_Food_City_500,2000_06,10,28,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,500,52540,running,0,134
@@ -251,13 +251,13 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Food_City_500,2000_06,35,26,93,usa,Dave_Blaney,Dave Blaney,Amoco,Bill_Davis,Pontiac,457,26765,crash,0,58
 2000,W,2000_Food_City_500,2000_06,36,37,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,457,34245,crash,0,55
 2000,W,2000_Food_City_500,2000_06,37,43,27,usa,Jeff_Fuller,Jeff Fuller,Pfizer / Viagra,Jack_Birmingham,Pontiac,414,26235,crash,1,57
-2000,W,2000_Food_City_500,2000_06,38,12,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,401,26225,crash,0,49
+2000,W,2000_Food_City_500,2000_06,38,12,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,401,26225,crash,0,49
 2000,W,2000_Food_City_500,2000_06,39,11,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service,Richard_Childress,Chevrolet,346,45215,running,2,51
 2000,W,2000_Food_City_500,2000_06,40,39,42,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",BellSouth,Felix_Sabates,Chevrolet,335,34175,running,0,43
 2000,W,2000_Food_City_500,2000_06,41,9,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,325,34150,running,0,40
 2000,W,2000_Food_City_500,2000_06,42,19,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,73,45525,engine,0,37
 2000,W,2000_Food_City_500,2000_06,43,36,60,usa,Ted_Musgrave,Ted Musgrave,Power Team,Joe_Bessey,Chevrolet,22,34111,engine,0,34
-2000,W,2000_DirecTV_500,2000_07,1,4,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,334,374675,running,106,185
+2000,W,2000_DirecTV_500,2000_07,1,4,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,334,374675,running,106,185
 2000,W,2000_DirecTV_500,2000_07,2,37,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,334,259550,running,37,175
 2000,W,2000_DirecTV_500,2000_07,3,14,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,334,186500,running,40,170
 2000,W,2000_DirecTV_500,2000_07,4,19,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,334,155450,running,58,165
@@ -275,7 +275,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_DirecTV_500,2000_07,16,42,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,332,73200,running,1,120
 2000,W,2000_DirecTV_500,2000_07,17,27,42,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",BellSouth,Felix_Sabates,Chevrolet,332,78500,running,1,117
 2000,W,2000_DirecTV_500,2000_07,18,36,36,usa,Ken_Schrader,Ken Schrader,M&M's,Nelson_Bowers,Pontiac,332,68800,running,0,109
-2000,W,2000_DirecTV_500,2000_07,19,6,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,332,75600,running,6,111
+2000,W,2000_DirecTV_500,2000_07,19,6,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,332,75600,running,6,111
 2000,W,2000_DirecTV_500,2000_07,20,34,14,usa,Rick_Mast,Rick Mast,Conseco,A.J._Foyt,Pontiac,331,66200,running,0,103
 2000,W,2000_DirecTV_500,2000_07,21,32,55,usa,Kenny_Wallace,Kenny Wallace,Square D / Cooper Lighting,Andy_Petree,Chevrolet,331,75400,running,0,100
 2000,W,2000_DirecTV_500,2000_07,22,24,93,usa,Dave_Blaney,Dave Blaney,Amoco,Bill_Davis,Pontiac,331,60700,running,0,97
@@ -324,8 +324,8 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Goody%27s_Body_Pain_500,2000_08,22,7,28,usa,Ricky_Rudd,Ricky Rudd,Texaco / Havoline,Yates_Racing,Ford,497,36325,running,0,97
 2000,W,2000_Goody%27s_Body_Pain_500,2000_08,23,27,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,497,42625,running,0,94
 2000,W,2000_Goody%27s_Body_Pain_500,2000_08,24,8,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,497,35825,running,0,91
-2000,W,2000_Goody%27s_Body_Pain_500,2000_08,25,19,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,497,35925,running,0,88
-2000,W,2000_Goody%27s_Body_Pain_500,2000_08,26,22,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,496,33975,running,0,85
+2000,W,2000_Goody%27s_Body_Pain_500,2000_08,25,19,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,497,35925,running,0,88
+2000,W,2000_Goody%27s_Body_Pain_500,2000_08,26,22,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,496,33975,running,0,85
 2000,W,2000_Goody%27s_Body_Pain_500,2000_08,27,38,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,496,34975,running,0,82
 2000,W,2000_Goody%27s_Body_Pain_500,2000_08,28,40,26,usa,Jimmy_Spencer,Jimmy Spencer,Big Kmart / Route 66,Travis_Carter,Ford,494,34675,running,0,79
 2000,W,2000_Goody%27s_Body_Pain_500,2000_08,29,41,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,493,35275,running,0,76
@@ -374,7 +374,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_DieHard_500,2000_09,29,32,50,usa,Ricky_Craven,Ricky Craven,Midwest Transit,Hal_Hicks_Mike_Witters,Chevrolet,173,35160,engine,0,76
 2000,W,2000_DieHard_500,2000_09,30,16,93,usa,Dave_Blaney,Dave Blaney,Amoco,Bill_Davis,Pontiac,151,35005,crash,0,73
 2000,W,2000_DieHard_500,2000_09,31,11,7,usa,Michael_Waltrip,Michael Waltrip,NationsRent,Jim_Mattei,Chevrolet,148,46350,running,0,70
-2000,W,2000_DieHard_500,2000_09,32,41,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,145,45695,running,0,67
+2000,W,2000_DieHard_500,2000_09,32,41,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,145,45695,running,0,67
 2000,W,2000_DieHard_500,2000_09,33,22,9,usa,Stacy_Compton,Stacy Compton,Kodiak / Cougar,Mark_Melling,Ford,140,37665,crash,0,64
 2000,W,2000_DieHard_500,2000_09,34,39,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,138,53835,crash,0,61
 2000,W,2000_DieHard_500,2000_09,35,29,15,usa,Ted_Musgrave,Ted Musgrave,Fenley-Moore Motorsports,Bud_Moore,Ford,137,34305,crash,0,58
@@ -384,7 +384,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_DieHard_500,2000_09,39,31,60,usa,Dick_Trickle,Dick Trickle,Power Team,Joe_Bessey,Chevrolet,135,41475,crash,0,46
 2000,W,2000_DieHard_500,2000_09,40,26,55,usa,Kenny_Wallace,Kenny Wallace,Square D / Cooper Lighting,Andy_Petree,Chevrolet,130,41750,engine,0,43
 2000,W,2000_DieHard_500,2000_09,41,17,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,116,51050,engine,1,45
-2000,W,2000_DieHard_500,2000_09,42,6,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,113,42850,engine,0,37
+2000,W,2000_DieHard_500,2000_09,42,6,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,113,42850,engine,0,37
 2000,W,2000_DieHard_500,2000_09,43,28,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,110,40656,engine,0,34
 2000,W,2000_NAPA_Auto_Parts_500,2000_10,1,24,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,250,125925,running,26,180
 2000,W,2000_NAPA_Auto_Parts_500,2000_10,2,36,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,250,135300,running,0,170
@@ -397,11 +397,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_NAPA_Auto_Parts_500,2000_10,9,33,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,250,70650,running,0,138
 2000,W,2000_NAPA_Auto_Parts_500,2000_10,10,32,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,250,75950,running,0,134
 2000,W,2000_NAPA_Auto_Parts_500,2000_10,11,26,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,250,64475,running,0,130
-2000,W,2000_NAPA_Auto_Parts_500,2000_10,12,20,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,250,52375,running,0,127
+2000,W,2000_NAPA_Auto_Parts_500,2000_10,12,20,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,250,52375,running,0,127
 2000,W,2000_NAPA_Auto_Parts_500,2000_10,13,25,25,usa,Jerry_Nadeau,Jerry Nadeau,Michael Holigan.com,Rick_Hendrick,Chevrolet,250,53475,running,0,124
 2000,W,2000_NAPA_Auto_Parts_500,2000_10,14,5,6,usa,Mark_Martin,Mark Martin,Eagle One / Cummins,Jack_Roush,Ford,250,58175,running,7,126
 2000,W,2000_NAPA_Auto_Parts_500,2000_10,15,38,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,250,59275,running,1,123
-2000,W,2000_NAPA_Auto_Parts_500,2000_10,16,9,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,250,51875,running,2,120
+2000,W,2000_NAPA_Auto_Parts_500,2000_10,16,9,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,250,51875,running,2,120
 2000,W,2000_NAPA_Auto_Parts_500,2000_10,17,35,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service,Richard_Childress,Chevrolet,250,59075,running,0,112
 2000,W,2000_NAPA_Auto_Parts_500,2000_10,18,12,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,250,53975,running,0,109
 2000,W,2000_NAPA_Auto_Parts_500,2000_10,19,27,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,250,50975,running,1,111
@@ -429,7 +429,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_NAPA_Auto_Parts_500,2000_10,41,31,11,usa,Brett_Bodine,Brett Bodine,Ralph's Supermarkets,Brett_Bodine,Ford,187,35350,running,0,40
 2000,W,2000_NAPA_Auto_Parts_500,2000_10,42,39,42,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",BellSouth,Felix_Sabates,Chevrolet,99,43300,crash,0,37
 2000,W,2000_NAPA_Auto_Parts_500,2000_10,43,19,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,94,43250,engine,0,34
-2000,W,2000_Pontiac_Excitement_400,2000_11,1,5,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,400,118850,running,31,180
+2000,W,2000_Pontiac_Excitement_400,2000_11,1,5,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,400,118850,running,31,180
 2000,W,2000_Pontiac_Excitement_400,2000_11,2,30,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,400,85925,running,27,175
 2000,W,2000_Pontiac_Excitement_400,2000_11,3,18,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,400,78525,running,0,165
 2000,W,2000_Pontiac_Excitement_400,2000_11,4,6,28,usa,Ricky_Rudd,Ricky Rudd,Texaco / Havoline,Yates_Racing,Ford,400,63025,running,0,160
@@ -439,7 +439,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Pontiac_Excitement_400,2000_11,8,7,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,400,49350,running,69,147
 2000,W,2000_Pontiac_Excitement_400,2000_11,9,10,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,400,42450,running,0,138
 2000,W,2000_Pontiac_Excitement_400,2000_11,10,31,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service,Richard_Childress,Chevrolet,400,52800,running,19,139
-2000,W,2000_Pontiac_Excitement_400,2000_11,11,2,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,400,41050,running,0,130
+2000,W,2000_Pontiac_Excitement_400,2000_11,11,2,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,400,41050,running,0,130
 2000,W,2000_Pontiac_Excitement_400,2000_11,12,34,36,usa,Ken_Schrader,Ken Schrader,M&M's,Nelson_Bowers,Pontiac,400,41525,running,0,127
 2000,W,2000_Pontiac_Excitement_400,2000_11,13,4,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,400,41750,running,0,124
 2000,W,2000_Pontiac_Excitement_400,2000_11,14,15,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,400,46850,running,0,121
@@ -475,12 +475,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Coca-Cola_600,2000_12,1,21,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt,Jack_Roush,Ford,400,200950,running,32,180
 2000,W,2000_Coca-Cola_600,2000_12,2,7,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,400,138600,running,35,175
 2000,W,2000_Coca-Cola_600,2000_12,3,15,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service / Peter Max,Richard_Childress,Chevrolet,400,103250,running,23,170
-2000,W,2000_Coca-Cola_600,2000_12,4,1,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,400,110900,running,175,170
+2000,W,2000_Coca-Cola_600,2000_12,4,1,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,400,110900,running,175,170
 2000,W,2000_Coca-Cola_600,2000_12,5,8,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit / U.S. Air Force,Yates_Racing,Ford,400,95000,running,2,160
 2000,W,2000_Coca-Cola_600,2000_12,6,4,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,400,71850,running,7,155
 2000,W,2000_Coca-Cola_600,2000_12,7,5,31,usa,Mike_Skinner,Mike Skinner,Lowe's / U.S. Army,Richard_Childress,Chevrolet,400,70850,running,3,151
 2000,W,2000_Coca-Cola_600,2000_12,8,16,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,400,64350,running,0,142
-2000,W,2000_Coca-Cola_600,2000_12,9,18,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,400,59950,running,0,138
+2000,W,2000_Coca-Cola_600,2000_12,9,18,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,400,59950,running,0,138
 2000,W,2000_Coca-Cola_600,2000_12,10,14,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes/End of the Rainbow,Rick_Hendrick,Chevrolet,400,78950,running,4,139
 2000,W,2000_Coca-Cola_600,2000_12,11,28,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,400,67100,running,0,130
 2000,W,2000_Coca-Cola_600,2000_12,12,19,6,usa,Mark_Martin,Mark Martin,Valvoline MaxLife / Cummins,Jack_Roush,Ford,399,62100,running,0,127
@@ -524,7 +524,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_MBNA_Platinum_400,2000_13,7,10,33,usa,Joe_Nemechek,Joe Nemechek,Oakwood Homes,Andy_Petree,Chevrolet,398,71885,running,0,146
 2000,W,2000_MBNA_Platinum_400,2000_13,8,23,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,398,74685,running,0,142
 2000,W,2000_MBNA_Platinum_400,2000_13,9,8,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,398,63085,running,43,143
-2000,W,2000_MBNA_Platinum_400,2000_13,10,6,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,398,54785,running,2,139
+2000,W,2000_MBNA_Platinum_400,2000_13,10,6,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,398,54785,running,2,139
 2000,W,2000_MBNA_Platinum_400,2000_13,11,37,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,398,73160,running,0,130
 2000,W,2000_MBNA_Platinum_400,2000_13,12,2,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,398,59910,running,0,127
 2000,W,2000_MBNA_Platinum_400,2000_13,13,33,43,usa,John_Andretti,John Andretti,STP / Cheerios,Petty_Enterprises,Pontiac,398,65970,running,1,129
@@ -533,7 +533,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_MBNA_Platinum_400,2000_13,16,32,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,397,58460,running,1,120
 2000,W,2000_MBNA_Platinum_400,2000_13,17,11,42,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",BellSouth,Felix_Sabates,Chevrolet,397,57975,running,0,112
 2000,W,2000_MBNA_Platinum_400,2000_13,18,3,55,usa,Kenny_Wallace,Kenny Wallace,Square D / Cooper Lighting,Andy_Petree,Chevrolet,396,57260,running,0,109
-2000,W,2000_MBNA_Platinum_400,2000_13,19,17,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,396,56835,running,0,106
+2000,W,2000_MBNA_Platinum_400,2000_13,19,17,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,396,56835,running,0,106
 2000,W,2000_MBNA_Platinum_400,2000_13,20,38,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,396,60985,running,0,103
 2000,W,2000_MBNA_Platinum_400,2000_13,21,20,16,usa,Kevin_Lepage,Kevin Lepage,FamilyClick.com,Jack_Roush,Ford,396,56335,running,0,100
 2000,W,2000_MBNA_Platinum_400,2000_13,22,39,26,usa,Jimmy_Spencer,Jimmy Spencer,Big Kmart / Route 66,Travis_Carter,Ford,396,56085,running,0,97
@@ -570,7 +570,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Kmart_400,2000_14,10,39,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light / Brooks & Dunn,Felix_Sabates,Chevrolet,194,48100,running,0,134
 2000,W,2000_Kmart_400,2000_14,11,7,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,194,54750,running,1,135
 2000,W,2000_Kmart_400,2000_14,12,2,28,usa,Ricky_Rudd,Ricky Rudd,Texaco / Havoline,Yates_Racing,Ford,194,41050,running,40,132
-2000,W,2000_Kmart_400,2000_14,13,6,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,193,38200,running,0,124
+2000,W,2000_Kmart_400,2000_14,13,6,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,193,38200,running,0,124
 2000,W,2000_Kmart_400,2000_14,14,3,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,193,47250,running,2,126
 2000,W,2000_Kmart_400,2000_14,15,40,26,usa,Jimmy_Spencer,Jimmy Spencer,Big Kmart / Route 66,Travis_Carter,Ford,193,41650,running,0,118
 2000,W,2000_Kmart_400,2000_14,16,20,36,usa,Ken_Schrader,Ken Schrader,Pedigree,Nelson_Bowers,Pontiac,193,30375,running,0,115
@@ -586,7 +586,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Kmart_400,2000_14,26,37,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,193,41960,running,0,85
 2000,W,2000_Kmart_400,2000_14,27,21,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,193,36200,running,0,82
 2000,W,2000_Kmart_400,2000_14,28,25,13,usa,Robby_Gordon,Robby Gordon,Burger King / Turtle Wax,John_Menard,Ford,193,23840,running,0,79
-2000,W,2000_Kmart_400,2000_14,29,14,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,193,34905,running,0,76
+2000,W,2000_Kmart_400,2000_14,29,14,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,193,34905,running,0,76
 2000,W,2000_Kmart_400,2000_14,30,29,14,usa,Rick_Mast,Rick Mast,Conseco,A.J._Foyt,Pontiac,192,23640,running,0,73
 2000,W,2000_Kmart_400,2000_14,31,34,55,usa,Kenny_Wallace,Kenny Wallace,Square D / Cooper Lighting,Andy_Petree,Chevrolet,192,35110,running,0,70
 2000,W,2000_Kmart_400,2000_14,32,38,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,192,34440,running,0,67
@@ -615,11 +615,11 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Pocono_500,2000_15,12,14,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,200,55415,running,0,127
 2000,W,2000_Pocono_500,2000_15,13,11,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,200,55965,running,0,124
 2000,W,2000_Pocono_500,2000_15,14,29,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Tools,Jack_Roush,Ford,200,48665,running,0,121
-2000,W,2000_Pocono_500,2000_15,15,27,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,200,48765,running,0,118
+2000,W,2000_Pocono_500,2000_15,15,27,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,200,48765,running,0,118
 2000,W,2000_Pocono_500,2000_15,16,30,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,200,49065,running,0,115
 2000,W,2000_Pocono_500,2000_15,17,37,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,200,46465,running,0,112
 2000,W,2000_Pocono_500,2000_15,18,19,36,usa,Ken_Schrader,Ken Schrader,M&M's,Nelson_Bowers,Pontiac,200,38065,running,0,109
-2000,W,2000_Pocono_500,2000_15,19,15,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,200,44015,running,0,106
+2000,W,2000_Pocono_500,2000_15,19,15,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,200,44015,running,0,106
 2000,W,2000_Pocono_500,2000_15,20,26,25,usa,Jerry_Nadeau,Jerry Nadeau,Michael Holigan.com,Rick_Hendrick,Chevrolet,200,48890,running,1,108
 2000,W,2000_Pocono_500,2000_15,21,2,43,usa,John_Andretti,John Andretti,STP / Cheerios,Petty_Enterprises,Pontiac,199,55365,running,0,100
 2000,W,2000_Pocono_500,2000_15,22,31,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,199,46665,running,0,97
@@ -660,14 +660,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Save_Mart_Kragen_350,2000_16,14,14,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,112,51775,running,0,121
 2000,W,2000_Save_Mart_Kragen_350,2000_16,15,21,36,usa,Ken_Schrader,Ken Schrader,M&M's,Nelson_Bowers,Pontiac,112,45775,running,0,118
 2000,W,2000_Save_Mart_Kragen_350,2000_16,16,30,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,112,59225,running,0,115
-2000,W,2000_Save_Mart_Kragen_350,2000_16,17,15,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,112,50200,running,0,112
+2000,W,2000_Save_Mart_Kragen_350,2000_16,17,15,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,112,50200,running,0,112
 2000,W,2000_Save_Mart_Kragen_350,2000_16,18,35,10,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Lycos.com,Tim_Beverley,Pontiac,112,45775,running,0,109
 2000,W,2000_Save_Mart_Kragen_350,2000_16,19,2,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels / Kyle Petty Charity Ride,Petty_Enterprises,Pontiac,112,50420,running,0,106
 2000,W,2000_Save_Mart_Kragen_350,2000_16,20,13,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,112,53685,running,0,103
 2000,W,2000_Save_Mart_Kragen_350,2000_16,21,37,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,112,55725,running,0,100
 2000,W,2000_Save_Mart_Kragen_350,2000_16,22,27,27,usa,Mike_Bliss,Mike Bliss,Pfizer / Viagra,Jack_Birmingham,Pontiac,112,38665,running,0,97
 2000,W,2000_Save_Mart_Kragen_350,2000_16,23,42,42,usa,Kenny_Irwin_Jr,"Kenny Irwin, Jr.",BellSouth,Felix_Sabates,Chevrolet,112,49030,running,0,94
-2000,W,2000_Save_Mart_Kragen_350,2000_16,24,31,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,112,47550,running,0,91
+2000,W,2000_Save_Mart_Kragen_350,2000_16,24,31,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,112,47550,running,0,91
 2000,W,2000_Save_Mart_Kragen_350,2000_16,25,40,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,112,49230,running,0,88
 2000,W,2000_Save_Mart_Kragen_350,2000_16,26,1,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,112,61500,running,11,90
 2000,W,2000_Save_Mart_Kragen_350,2000_16,27,25,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,112,55465,running,0,82
@@ -719,9 +719,9 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Pepsi_400,2000_17,30,16,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,160,47055,running,0,73
 2000,W,2000_Pepsi_400,2000_17,31,25,14,usa,Rick_Mast,Rick Mast,Conseco,A.J._Foyt,Pontiac,160,35800,running,0,70
 2000,W,2000_Pepsi_400,2000_17,32,17,26,usa,Jimmy_Spencer,Jimmy Spencer,Big Kmart / Route 66,Travis_Carter,Ford,160,47170,running,0,67
-2000,W,2000_Pepsi_400,2000_17,33,27,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,159,46540,running,0,64
+2000,W,2000_Pepsi_400,2000_17,33,27,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,159,46540,running,0,64
 2000,W,2000_Pepsi_400,2000_17,34,43,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,159,45960,running,0,61
-2000,W,2000_Pepsi_400,2000_17,35,31,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,159,45330,running,0,58
+2000,W,2000_Pepsi_400,2000_17,35,31,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,159,45330,running,0,58
 2000,W,2000_Pepsi_400,2000_17,36,42,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,158,43200,running,0,55
 2000,W,2000_Pepsi_400,2000_17,37,30,16,usa,Kevin_Lepage,Kevin Lepage,FamilyClick.com / TV Guide,Jack_Roush,Ford,135,43071,running,0,52
 2000,W,2000_Pepsi_400,2000_17,38,3,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,113,43875,crash,42,54
@@ -750,14 +750,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_thatlook.com_300,2000_18,18,12,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,272,59550,running,0,109
 2000,W,2000_thatlook.com_300,2000_18,19,22,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Tools,Jack_Roush,Ford,272,54400,running,0,106
 2000,W,2000_thatlook.com_300,2000_18,20,13,11,usa,Brett_Bodine,Brett Bodine,Ralph's Supermarkets,Brett_Bodine,Ford,272,45650,running,0,103
-2000,W,2000_thatlook.com_300,2000_18,21,26,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,272,51075,running,0,100
+2000,W,2000_thatlook.com_300,2000_18,21,26,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,272,51075,running,0,100
 2000,W,2000_thatlook.com_300,2000_18,22,36,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,272,52725,running,0,97
 2000,W,2000_thatlook.com_300,2000_18,23,7,36,usa,Ken_Schrader,Ken Schrader,M&M's,Nelson_Bowers,Pontiac,272,44475,running,0,94
 2000,W,2000_thatlook.com_300,2000_18,24,15,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,272,52225,running,0,91
 2000,W,2000_thatlook.com_300,2000_18,25,37,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,272,52375,running,0,88
 2000,W,2000_thatlook.com_300,2000_18,26,19,55,usa,Kenny_Wallace,Kenny Wallace,Square D / Cooper Lighting,Andy_Petree,Chevrolet,272,51725,running,0,85
 2000,W,2000_thatlook.com_300,2000_18,27,41,75,usa,Wally_Dallenbach_Jr,"Wally Dallenbach, Jr.",America Online,Darwin_Oordt,Ford,271,43450,running,0,82
-2000,W,2000_thatlook.com_300,2000_18,28,23,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,271,51200,running,0,79
+2000,W,2000_thatlook.com_300,2000_18,28,23,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,271,51200,running,0,79
 2000,W,2000_thatlook.com_300,2000_18,29,42,9,usa,Stacy_Compton,Stacy Compton,Kodiak / Cougar,Mark_Melling,Ford,271,42950,running,0,76
 2000,W,2000_thatlook.com_300,2000_18,30,35,32,usa,Scott_Pruett,Scott Pruett,Tide,Cal_Wells,Ford,271,40225,running,0,73
 2000,W,2000_thatlook.com_300,2000_18,31,28,16,usa,Kevin_Lepage,Kevin Lepage,FamilyClick.com / TV Guide,Jack_Roush,Ford,271,50600,running,0,70
@@ -785,9 +785,9 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Pennsylvania_500,2000_19,10,4,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,200,49615,running,31,139
 2000,W,2000_Pennsylvania_500,2000_19,11,22,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,200,60565,running,0,130
 2000,W,2000_Pennsylvania_500,2000_19,12,9,10,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",MB2 Motorsports,Nelson_Bowers,Pontiac,200,38915,running,4,132
-2000,W,2000_Pennsylvania_500,2000_19,13,15,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,200,43015,running,0,124
+2000,W,2000_Pennsylvania_500,2000_19,13,15,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,200,43015,running,0,124
 2000,W,2000_Pennsylvania_500,2000_19,14,20,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,200,36015,running,0,121
-2000,W,2000_Pennsylvania_500,2000_19,15,10,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,200,45390,running,0,118
+2000,W,2000_Pennsylvania_500,2000_19,15,10,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,200,45390,running,0,118
 2000,W,2000_Pennsylvania_500,2000_19,16,26,01,usa,Ted_Musgrave,Ted Musgrave,BellSouth,Felix_Sabates,Chevrolet,200,46590,running,0,115
 2000,W,2000_Pennsylvania_500,2000_19,17,21,7,usa,Michael_Waltrip,Michael Waltrip,NationsRent,Jim_Smith,Chevrolet,200,44090,running,0,112
 2000,W,2000_Pennsylvania_500,2000_19,18,18,93,usa,Dave_Blaney,Dave Blaney,Amoco,Bill_Davis,Pontiac,200,30990,running,0,109
@@ -828,10 +828,10 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Brickyard_400,2000_20,10,11,32,usa,Scott_Pruett,Scott Pruett,Tide,Cal_Wells,Ford,160,123310,running,0,134
 2000,W,2000_Brickyard_400,2000_20,11,2,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart / Route 66,Travis_Carter,Ford,160,131285,running,0,130
 2000,W,2000_Brickyard_400,2000_20,12,27,60,usa,Geoffrey_Bodine,Geoffrey Bodine,Power Team,Joe_Bessey,Chevrolet,160,117760,running,0,127
-2000,W,2000_Brickyard_400,2000_20,13,6,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,160,124260,running,0,124
+2000,W,2000_Brickyard_400,2000_20,13,6,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,160,124260,running,0,124
 2000,W,2000_Brickyard_400,2000_20,14,36,90,usa,Hut_Stricklin,Hut Stricklin,Hills Brothers Coffee,Junie_Donlavey,Ford,160,98260,running,0,121
 2000,W,2000_Brickyard_400,2000_20,15,25,5,usa,Todd_Bodine,Todd Bodine,Kellogg's,Rick_Hendrick,Chevrolet,159,117260,running,0,118
-2000,W,2000_Brickyard_400,2000_20,16,22,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,159,109560,running,0,115
+2000,W,2000_Brickyard_400,2000_20,16,22,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,159,109560,running,0,115
 2000,W,2000_Brickyard_400,2000_20,17,21,26,usa,Jimmy_Spencer,Jimmy Spencer,Big Kmart / Route 66,Travis_Carter,Ford,159,107860,running,0,112
 2000,W,2000_Brickyard_400,2000_20,18,35,33,usa,Joe_Nemechek,Joe Nemechek,Oakwood Homes,Andy_Petree,Chevrolet,159,106260,running,0,109
 2000,W,2000_Brickyard_400,2000_20,19,39,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,159,105060,running,0,106
@@ -859,7 +859,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Brickyard_400,2000_20,41,30,50,usa,Ricky_Craven,Ricky Craven,Midwest Transit,Hal_Hicks_Mike_Witters,Chevrolet,59,80860,steering,0,40
 2000,W,2000_Brickyard_400,2000_20,42,15,43,usa,John_Andretti,John Andretti,Cheerios,Petty_Enterprises,Pontiac,41,98760,crash,0,37
 2000,W,2000_Brickyard_400,2000_20,43,12,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,15,98655,crash,0,34
-2000,W,2000_Global_Crossing_At_The_Glen,2000_21,1,18,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,90,124870,running,53,185
+2000,W,2000_Global_Crossing_At_The_Glen,2000_21,1,18,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,90,124870,running,53,185
 2000,W,2000_Global_Crossing_At_The_Glen,2000_21,2,10,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,90,73870,running,2,175
 2000,W,2000_Global_Crossing_At_The_Glen,2000_21,3,4,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,90,75685,running,14,170
 2000,W,2000_Global_Crossing_At_The_Glen,2000_21,4,42,13,usa,Robby_Gordon,Robby Gordon,Sony / Team Menard,John_Menard,Ford,90,52600,running,1,165
@@ -898,7 +898,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Global_Crossing_At_The_Glen,2000_21,37,26,43,usa,John_Andretti,John Andretti,Cheerios,Petty_Enterprises,Pontiac,86,42985,running,0,52
 2000,W,2000_Global_Crossing_At_The_Glen,2000_21,38,25,25,usa,Jerry_Nadeau,Jerry Nadeau,Michael Holigan.com,Rick_Hendrick,Chevrolet,67,32925,handling,0,49
 2000,W,2000_Global_Crossing_At_The_Glen,2000_21,39,37,27,usa,Mike_Bliss,Mike Bliss,Pfizer / Viagra,Jack_Birmingham,Pontiac,61,24890,engine,0,46
-2000,W,2000_Global_Crossing_At_The_Glen,2000_21,40,14,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,60,34830,transmission,0,43
+2000,W,2000_Global_Crossing_At_The_Glen,2000_21,40,14,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,60,34830,transmission,0,43
 2000,W,2000_Global_Crossing_At_The_Glen,2000_21,41,38,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,38,32795,crash,0,40
 2000,W,2000_Global_Crossing_At_The_Glen,2000_21,42,43,34,usa,Todd_Bodine,Todd Bodine,I Love New York,Frank_Cicci,Chevrolet,31,24760,clutch,0,37
 2000,W,2000_Global_Crossing_At_The_Glen,2000_21,43,40,87,canada,Ron_Fellows,Ron Fellows,Bully Hill Vineyards,Joe_Nemechek,Chevrolet,21,24725,engine,0,34
@@ -932,9 +932,9 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Pepsi_400_Presented_by_Meijer,2000_22,28,31,27,usa,Mike_Bliss,Mike Bliss,Pfizer / Viagra,Jack_Birmingham,Pontiac,199,22565,running,0,79
 2000,W,2000_Pepsi_400_Presented_by_Meijer,2000_22,29,3,14,usa,Rick_Mast,Rick Mast,Conseco,A.J._Foyt,Pontiac,199,23240,running,0,76
 2000,W,2000_Pepsi_400_Presented_by_Meijer,2000_22,30,34,55,usa,Kenny_Wallace,Kenny Wallace,Square D / Cooper Lighting,Andy_Petree,Chevrolet,199,33915,running,0,73
-2000,W,2000_Pepsi_400_Presented_by_Meijer,2000_22,31,1,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,199,37730,running,13,75
+2000,W,2000_Pepsi_400_Presented_by_Meijer,2000_22,31,1,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,199,37730,running,13,75
 2000,W,2000_Pepsi_400_Presented_by_Meijer,2000_22,32,38,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,188,25180,engine,0,67
-2000,W,2000_Pepsi_400_Presented_by_Meijer,2000_22,33,15,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,179,32630,engine,0,64
+2000,W,2000_Pepsi_400_Presented_by_Meijer,2000_22,33,15,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,179,32630,engine,0,64
 2000,W,2000_Pepsi_400_Presented_by_Meijer,2000_22,34,43,13,usa,Robby_Gordon,Robby Gordon,Turtle Wax / Team Menard,John_Menard,Ford,177,22080,crash,0,61
 2000,W,2000_Pepsi_400_Presented_by_Meijer,2000_22,35,35,96,usa,Andy_Houston,Andy Houston,Ronald McDonald House Charities,Cal_Wells,Ford,156,22030,engine,0,58
 2000,W,2000_Pepsi_400_Presented_by_Meijer,2000_22,36,16,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,141,42205,crash,0,55
@@ -949,7 +949,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_goracing.com_500,2000_23,2,6,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,500,92540,running,133,175
 2000,W,2000_goracing.com_500,2000_23,3,7,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,500,61890,running,46,170
 2000,W,2000_goracing.com_500,2000_23,4,17,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service,Richard_Childress,Chevrolet,500,62980,running,2,165
-2000,W,2000_goracing.com_500,2000_23,5,3,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,500,53525,running,0,155
+2000,W,2000_goracing.com_500,2000_23,5,3,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,500,53525,running,0,155
 2000,W,2000_goracing.com_500,2000_23,6,35,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,500,61615,running,2,155
 2000,W,2000_goracing.com_500,2000_23,7,11,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,500,49540,running,1,151
 2000,W,2000_goracing.com_500,2000_23,8,8,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,500,48040,running,6,147
@@ -965,7 +965,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_goracing.com_500,2000_23,18,10,16,usa,Kevin_Lepage,Kevin Lepage,FamilyClick.com / TV Guide,Jack_Roush,Ford,499,40525,running,2,114
 2000,W,2000_goracing.com_500,2000_23,19,19,7,usa,Michael_Waltrip,Michael Waltrip,NationsRent,Jim_Smith,Chevrolet,499,40900,running,0,106
 2000,W,2000_goracing.com_500,2000_23,20,28,43,usa,John_Andretti,John Andretti,Cheerios,Petty_Enterprises,Pontiac,499,48560,running,0,103
-2000,W,2000_goracing.com_500,2000_23,21,12,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser / 2000 Summer Olympics,"Dale_Earnhardt,_Inc.",Chevrolet,499,40885,running,0,100
+2000,W,2000_goracing.com_500,2000_23,21,12,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser / 2000 Summer Olympics,Dale_Earnhardt_Inc,Chevrolet,499,40885,running,0,100
 2000,W,2000_goracing.com_500,2000_23,22,25,44,usa,Kyle_Petty,Kyle Petty,Hot Wheels,Petty_Enterprises,Pontiac,499,39935,running,0,97
 2000,W,2000_goracing.com_500,2000_23,23,2,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,499,49985,running,0,94
 2000,W,2000_goracing.com_500,2000_23,24,39,26,usa,Jimmy_Spencer,Jimmy Spencer,Big Kmart / Route 66,Travis_Carter,Ford,498,39710,running,5,96
@@ -997,8 +997,8 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Pepsi_Southern_500,2000_24,7,30,16,usa,Kevin_Lepage,Kevin Lepage,FamilyClick.com / TV Guide,Jack_Roush,Ford,328,55535,running,0,146
 2000,W,2000_Pepsi_Southern_500,2000_24,8,17,28,usa,Ricky_Rudd,Ricky Rudd,Texaco / Havoline,Yates_Racing,Ford,328,52475,running,0,142
 2000,W,2000_Pepsi_Southern_500,2000_24,9,29,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,328,55735,running,0,138
-2000,W,2000_Pepsi_Southern_500,2000_24,10,39,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,328,55330,running,0,134
-2000,W,2000_Pepsi_Southern_500,2000_24,11,13,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,328,46345,running,16,135
+2000,W,2000_Pepsi_Southern_500,2000_24,10,39,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,328,55330,running,0,134
+2000,W,2000_Pepsi_Southern_500,2000_24,11,13,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,328,46345,running,16,135
 2000,W,2000_Pepsi_Southern_500,2000_24,12,31,14,usa,Rick_Mast,Rick Mast,Conseco,A.J._Foyt,Pontiac,328,39750,running,1,132
 2000,W,2000_Pepsi_Southern_500,2000_24,13,27,01,usa,Ted_Musgrave,Ted Musgrave,BellSouth,Felix_Sabates,Chevrolet,328,48860,running,0,124
 2000,W,2000_Pepsi_Southern_500,2000_24,14,5,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,328,56970,running,29,126
@@ -1034,7 +1034,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Chevrolet_Monte_Carlo_400,2000_25,1,13,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,400,130220,running,15,80
 2000,W,2000_Chevrolet_Monte_Carlo_400,2000_25,2,22,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench Service,Richard_Childress,Chevrolet,400,81190,running,0,170
 2000,W,2000_Chevrolet_Monte_Carlo_400,2000_25,3,10,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,400,69130,running,0,165
-2000,W,2000_Chevrolet_Monte_Carlo_400,2000_25,4,12,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,400,60610,running,130,165
+2000,W,2000_Chevrolet_Monte_Carlo_400,2000_25,4,12,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,400,60610,running,130,165
 2000,W,2000_Chevrolet_Monte_Carlo_400,2000_25,5,1,99,usa,Jeff_Burton,Jeff Burton,Exide Batteries,Jack_Roush,Ford,400,79780,running,152,165
 2000,W,2000_Chevrolet_Monte_Carlo_400,2000_25,6,14,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,400,55130,running,5,155
 2000,W,2000_Chevrolet_Monte_Carlo_400,2000_25,7,8,10,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Aaron's Rents / RCA,Nelson_Bowers,Pontiac,400,34730,running,0,146
@@ -1043,7 +1043,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Chevrolet_Monte_Carlo_400,2000_25,10,3,25,usa,Jerry_Nadeau,Jerry Nadeau,Michael Holigan.com,Rick_Hendrick,Chevrolet,400,52230,running,0,134
 2000,W,2000_Chevrolet_Monte_Carlo_400,2000_25,11,27,43,usa,John_Andretti,John Andretti,Cheerios,Petty_Enterprises,Pontiac,400,50080,running,0,130
 2000,W,2000_Chevrolet_Monte_Carlo_400,2000_25,12,7,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,400,39855,running,0,127
-2000,W,2000_Chevrolet_Monte_Carlo_400,2000_25,13,31,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,399,37905,running,5,129
+2000,W,2000_Chevrolet_Monte_Carlo_400,2000_25,13,31,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,399,37905,running,5,129
 2000,W,2000_Chevrolet_Monte_Carlo_400,2000_25,14,11,55,usa,Kenny_Wallace,Kenny Wallace,"Square D ""Lightning""",Andy_Petree,Chevrolet,399,41005,running,0,121
 2000,W,2000_Chevrolet_Monte_Carlo_400,2000_25,15,2,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,399,49280,running,3,123
 2000,W,2000_Chevrolet_Monte_Carlo_400,2000_25,16,43,32,usa,Scott_Pruett,Scott Pruett,Tide,Cal_Wells,Ford,399,30805,running,0,115
@@ -1104,10 +1104,10 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Dura_Lube_300_Sponsored_by_Kmart,2000_26,28,43,90,usa,Hut_Stricklin,Hut Stricklin,Hills Brothers Coffee,Junie_Donlavey,Ford,297,37200,running,0,79
 2000,W,2000_Dura_Lube_300_Sponsored_by_Kmart,2000_26,29,36,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart / Route 66,Travis_Carter,Ford,293,40100,running,0,76
 2000,W,2000_Dura_Lube_300_Sponsored_by_Kmart,2000_26,30,28,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,291,54800,crash,0,73
-2000,W,2000_Dura_Lube_300_Sponsored_by_Kmart,2000_26,31,20,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,288,47100,crash,0,70
+2000,W,2000_Dura_Lube_300_Sponsored_by_Kmart,2000_26,31,20,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,288,47100,crash,0,70
 2000,W,2000_Dura_Lube_300_Sponsored_by_Kmart,2000_26,32,26,14,usa,Rick_Mast,Rick Mast,Conseco,A.J._Foyt,Pontiac,287,36400,crash,0,67
 2000,W,2000_Dura_Lube_300_Sponsored_by_Kmart,2000_26,33,35,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,275,47200,crash,0,64
-2000,W,2000_Dura_Lube_300_Sponsored_by_Kmart,2000_26,34,6,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,275,46975,crash,0,61
+2000,W,2000_Dura_Lube_300_Sponsored_by_Kmart,2000_26,34,6,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,275,46975,crash,0,61
 2000,W,2000_Dura_Lube_300_Sponsored_by_Kmart,2000_26,35,14,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,260,46275,running,0,58
 2000,W,2000_Dura_Lube_300_Sponsored_by_Kmart,2000_26,36,12,50,usa,Ricky_Craven,Ricky Craven,Midwest Transit,Hal_Hicks_Mike_Witters,Chevrolet,249,35575,transmission,0,55
 2000,W,2000_Dura_Lube_300_Sponsored_by_Kmart,2000_26,37,21,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,244,43375,crash,0,52
@@ -1120,7 +1120,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_MBNA.com_400,2000_27,1,27,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,400,158535,running,163,185
 2000,W,2000_MBNA.com_400,2000_27,2,3,10,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Aaron's Rents / RCA,Nelson_Bowers,Pontiac,400,99710,running,7,175
 2000,W,2000_MBNA.com_400,2000_27,3,14,28,usa,Ricky_Rudd,Ricky Rudd,Texaco / Havoline,Yates_Racing,Ford,400,93160,running,1,170
-2000,W,2000_MBNA.com_400,2000_27,4,28,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,400,81010,running,0,160
+2000,W,2000_MBNA.com_400,2000_27,4,28,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,400,81010,running,0,160
 2000,W,2000_MBNA.com_400,2000_27,5,17,18,usa,Bobby_Labonte,Bobby Labonte,MBNA / Interstate Batteries,Joe_Gibbs,Pontiac,400,82670,running,1,160
 2000,W,2000_MBNA.com_400,2000_27,6,5,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,400,71965,running,60,155
 2000,W,2000_MBNA.com_400,2000_27,7,12,33,usa,Joe_Nemechek,Joe Nemechek,Oakwood Homes,Andy_Petree,Chevrolet,400,70590,running,3,151
@@ -1132,7 +1132,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_MBNA.com_400,2000_27,13,25,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,399,63490,running,0,124
 2000,W,2000_MBNA.com_400,2000_27,14,15,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,399,49190,running,0,121
 2000,W,2000_MBNA.com_400,2000_27,15,23,55,usa,Kenny_Wallace,Kenny Wallace,Square D / Cooper Lighting,Andy_Petree,Chevrolet,399,61090,running,0,118
-2000,W,2000_MBNA.com_400,2000_27,16,13,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,399,55190,running,0,115
+2000,W,2000_MBNA.com_400,2000_27,16,13,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,399,55190,running,0,115
 2000,W,2000_MBNA.com_400,2000_27,17,37,3,usa,Dale_Earnhardt,Dale Earnhardt,GM Goodwrench,Richard_Childress,Chevrolet,398,63390,running,0,112
 2000,W,2000_MBNA.com_400,2000_27,18,10,97,usa,Kurt_Busch,Kurt Busch,John Deere,Jack_Roush,Ford,398,55975,running,0,109
 2000,W,2000_MBNA.com_400,2000_27,19,7,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,398,55690,running,9,111
@@ -1170,7 +1170,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_NAPA_Autocare_500,2000_28,8,8,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,500,42750,running,0,142
 2000,W,2000_NAPA_Autocare_500,2000_28,9,34,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,500,42550,running,27,143
 2000,W,2000_NAPA_Autocare_500,2000_28,10,14,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,500,60100,running,0,134
-2000,W,2000_NAPA_Autocare_500,2000_28,11,10,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,500,39185,running,0,130
+2000,W,2000_NAPA_Autocare_500,2000_28,11,10,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,500,39185,running,0,130
 2000,W,2000_NAPA_Autocare_500,2000_28,12,13,25,usa,Jerry_Nadeau,Jerry Nadeau,Michael Holigan.com,Rick_Hendrick,Chevrolet,500,38975,running,0,127
 2000,W,2000_NAPA_Autocare_500,2000_28,13,28,43,usa,John_Andretti,John Andretti,Cheerios,Petty_Enterprises,Pontiac,500,44450,running,0,124
 2000,W,2000_NAPA_Autocare_500,2000_28,14,24,33,usa,Joe_Nemechek,Joe Nemechek,Oakwood Homes,Andy_Petree,Chevrolet,500,37825,running,0,121
@@ -1195,7 +1195,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_NAPA_Autocare_500,2000_28,33,16,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,458,24825,crash,0,64
 2000,W,2000_NAPA_Autocare_500,2000_28,34,37,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt Tools,Jack_Roush,Ford,447,32700,running,0,61
 2000,W,2000_NAPA_Autocare_500,2000_28,35,7,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,444,32075,running,0,58
-2000,W,2000_NAPA_Autocare_500,2000_28,36,32,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,406,31500,crash,0,55
+2000,W,2000_NAPA_Autocare_500,2000_28,36,32,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,406,31500,crash,0,55
 2000,W,2000_NAPA_Autocare_500,2000_28,37,40,97,usa,Kurt_Busch,Kurt Busch,John Deere,Jack_Roush,Ford,396,29375,running,0,52
 2000,W,2000_NAPA_Autocare_500,2000_28,38,35,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,393,29250,overheating,0,49
 2000,W,2000_NAPA_Autocare_500,2000_28,39,30,9,usa,Stacy_Compton,Stacy Compton,Kodiak / Cougar,Mark_Melling,Ford,333,21125,crash,0,46
@@ -1209,7 +1209,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_UAW-GM_Quality_500,2000_29,4,17,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,334,84650,running,30,165
 2000,W,2000_UAW-GM_Quality_500,2000_29,5,8,6,usa,Mark_Martin,Mark Martin,Valvoline MaxLife,Jack_Roush,Ford,334,70250,running,0,155
 2000,W,2000_UAW-GM_Quality_500,2000_29,6,38,99,usa,Jeff_Burton,Jeff Burton,Citgo Supergard,Jack_Roush,Ford,334,75300,running,6,155
-2000,W,2000_UAW-GM_Quality_500,2000_29,7,39,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,334,55350,running,0,146
+2000,W,2000_UAW-GM_Quality_500,2000_29,7,39,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,334,55350,running,0,146
 2000,W,2000_UAW-GM_Quality_500,2000_29,8,9,10,usa,Johnny_Benson_Jr,"Johnny Benson, Jr.",Aaron's Rents / RCA,Nelson_Bowers,Pontiac,334,43000,running,0,142
 2000,W,2000_UAW-GM_Quality_500,2000_29,9,26,17,usa,Matt_Kenseth,Matt Kenseth,DeWalt,Jack_Roush,Ford,334,50100,running,1,143
 2000,W,2000_UAW-GM_Quality_500,2000_29,10,12,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,334,68100,running,0,134
@@ -1221,7 +1221,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_UAW-GM_Quality_500,2000_29,16,23,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,334,40500,running,0,115
 2000,W,2000_UAW-GM_Quality_500,2000_29,17,11,14,usa,Rick_Mast,Rick Mast,Conseco,A.J._Foyt,Pontiac,334,27000,running,0,112
 2000,W,2000_UAW-GM_Quality_500,2000_29,18,28,43,usa,John_Andretti,John Andretti,Cheerios,Petty_Enterprises,Pontiac,334,43000,running,0,109
-2000,W,2000_UAW-GM_Quality_500,2000_29,19,13,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,334,34390,running,0,106
+2000,W,2000_UAW-GM_Quality_500,2000_29,19,13,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,334,34390,running,0,106
 2000,W,2000_UAW-GM_Quality_500,2000_29,20,18,31,usa,Mike_Skinner,Mike Skinner,Lowe's,Richard_Childress,Chevrolet,333,39885,running,0,103
 2000,W,2000_UAW-GM_Quality_500,2000_29,21,22,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,333,44420,running,21,105
 2000,W,2000_UAW-GM_Quality_500,2000_29,22,14,7,usa,Michael_Waltrip,Michael Waltrip,NationsRent,Jim_Smith,Chevrolet,333,34925,running,0,97
@@ -1259,12 +1259,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Winston_500,2000_30,11,11,28,usa,Ricky_Rudd,Ricky Rudd,Texaco / Havoline,Yates_Racing,Ford,188,52930,running,0,130
 2000,W,2000_Winston_500,2000_30,12,6,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,188,59450,running,7,132
 2000,W,2000_Winston_500,2000_30,13,4,25,usa,Jerry_Nadeau,Jerry Nadeau,Michael Holigan.com,Rick_Hendrick,Chevrolet,188,51730,running,3,129
-2000,W,2000_Winston_500,2000_30,14,3,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,188,49260,running,28,126
+2000,W,2000_Winston_500,2000_30,14,3,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,188,49260,running,28,126
 2000,W,2000_Winston_500,2000_30,15,12,88,usa,Dale_Jarrett,Dale Jarrett,Quality Care / Ford Credit,Yates_Racing,Ford,188,66185,running,0,118
 2000,W,2000_Winston_500,2000_30,16,31,44,usa,Steve_Grissom,Steve Grissom,Hot Wheels,Petty_Enterprises,Pontiac,188,51250,running,0,115
 2000,W,2000_Winston_500,2000_30,17,25,21,usa,Elliott_Sadler,Elliott Sadler,Citgo Supergard Retro 1987,Wood_Brothers,Ford,188,51185,running,0,112
 2000,W,2000_Winston_500,2000_30,18,39,97,usa,Chad_Little,Chad Little,John Deere,Jack_Roush,Ford,188,50280,running,0,109
-2000,W,2000_Winston_500,2000_30,19,10,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,188,50000,running,0,106
+2000,W,2000_Winston_500,2000_30,19,10,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,188,50000,running,0,106
 2000,W,2000_Winston_500,2000_30,20,15,43,usa,John_Andretti,John Andretti,Cheerios,Petty_Enterprises,Pontiac,188,57960,running,1,108
 2000,W,2000_Winston_500,2000_30,21,28,60,usa,Rich_Bickle,Rich Bickle,Power Team,Joe_Bessey,Chevrolet,188,51260,running,0,100
 2000,W,2000_Winston_500,2000_30,22,21,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,188,55750,running,1,102
@@ -1294,7 +1294,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Pop_Secret_Microwave_Popcorn_400,2000_31,3,13,28,usa,Ricky_Rudd,Ricky Rudd,Texaco / Havoline,Yates_Racing,Ford,393,65300,running,13,170
 2000,W,2000_Pop_Secret_Microwave_Popcorn_400,2000_31,4,6,99,usa,Jeff_Burton,Jeff Burton,Citgo Supergard,Jack_Roush,Ford,393,62925,running,115,165
 2000,W,2000_Pop_Secret_Microwave_Popcorn_400,2000_31,5,15,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,393,50875,running,43,160
-2000,W,2000_Pop_Secret_Microwave_Popcorn_400,2000_31,6,17,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,393,47050,running,2,155
+2000,W,2000_Pop_Secret_Microwave_Popcorn_400,2000_31,6,17,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,393,47050,running,2,155
 2000,W,2000_Pop_Secret_Microwave_Popcorn_400,2000_31,7,18,20,usa,Tony_Stewart,Tony Stewart,Home Depot,Joe_Gibbs,Pontiac,393,53200,running,0,146
 2000,W,2000_Pop_Secret_Microwave_Popcorn_400,2000_31,8,9,22,usa,Ward_Burton,Ward Burton,Caterpillar,Bill_Davis,Pontiac,393,50900,running,0,142
 2000,W,2000_Pop_Secret_Microwave_Popcorn_400,2000_31,9,35,4,usa,Bobby_Hamilton,Bobby Hamilton,Kodak,Larry_McClure,Chevrolet,393,45600,running,0,138
@@ -1322,7 +1322,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Pop_Secret_Microwave_Popcorn_400,2000_31,31,42,71,usa,Dave_Marcis,Dave Marcis,RealTree Camouflage,Dave_Marcis,Chevrolet,370,23925,engine,0,70
 2000,W,2000_Pop_Secret_Microwave_Popcorn_400,2000_31,32,43,85,usa,Carl_Long,Carl Long,S.T. Wooten,Thee_Dixon,Ford,341,26900,running,0,67
 2000,W,2000_Pop_Secret_Microwave_Popcorn_400,2000_31,33,23,40,usa,Sterling_Marlin,Sterling Marlin,Coors Light,Felix_Sabates,Chevrolet,328,34675,running,0,64
-2000,W,2000_Pop_Secret_Microwave_Popcorn_400,2000_31,34,37,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,301,33550,crash,0,61
+2000,W,2000_Pop_Secret_Microwave_Popcorn_400,2000_31,34,37,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,301,33550,crash,0,61
 2000,W,2000_Pop_Secret_Microwave_Popcorn_400,2000_31,35,20,7,usa,Michael_Waltrip,Michael Waltrip,NationsRent,Jim_Smith,Chevrolet,295,34425,engine,0,58
 2000,W,2000_Pop_Secret_Microwave_Popcorn_400,2000_31,36,16,16,usa,Kevin_Lepage,Kevin Lepage,FamilyClick.com / TV Guide,Jack_Roush,Ford,253,33875,crash,0,55
 2000,W,2000_Pop_Secret_Microwave_Popcorn_400,2000_31,37,31,66,usa,Darrell_Waltrip,Darrell Waltrip,Big Kmart / Route 66,Travis_Carter,Ford,193,23325,engine,0,52
@@ -1334,7 +1334,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Pop_Secret_Microwave_Popcorn_400,2000_31,43,10,55,usa,Kenny_Wallace,Kenny Wallace,Square D / Cooper Lighting,Andy_Petree,Chevrolet,14,30994,engine,0,34
 2000,W,2000_Checker_Auto_Parts_Dura_Lube_500k,2000_32,1,2,99,usa,Jeff_Burton,Jeff Burton,Citgo Supergard,Jack_Roush,Ford,312,197345,running,105,185
 2000,W,2000_Checker_Auto_Parts_Dura_Lube_500k,2000_32,2,25,12,usa,Jeremy_Mayfield,Jeremy Mayfield,Mobil 1,Michael_Kranefuss,Ford,312,124925,running,46,175
-2000,W,2000_Checker_Auto_Parts_Dura_Lube_500k,2000_32,3,5,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,312,112250,running,11,170
+2000,W,2000_Checker_Auto_Parts_Dura_Lube_500k,2000_32,3,5,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,312,112250,running,11,170
 2000,W,2000_Checker_Auto_Parts_Dura_Lube_500k,2000_32,4,1,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,312,98660,running,86,165
 2000,W,2000_Checker_Auto_Parts_Dura_Lube_500k,2000_32,5,9,18,usa,Bobby_Labonte,Bobby Labonte,Interstate Batteries,Joe_Gibbs,Pontiac,312,100250,running,1,160
 2000,W,2000_Checker_Auto_Parts_Dura_Lube_500k,2000_32,6,8,6,usa,Mark_Martin,Mark Martin,Valvoline / Cummins,Jack_Roush,Ford,312,80400,running,12,155
@@ -1358,7 +1358,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Checker_Auto_Parts_Dura_Lube_500k,2000_32,24,39,33,usa,Joe_Nemechek,Joe Nemechek,Oakwood Homes,Andy_Petree,Chevrolet,311,51600,running,0,91
 2000,W,2000_Checker_Auto_Parts_Dura_Lube_500k,2000_32,25,41,01,usa,Ted_Musgrave,Ted Musgrave,BellSouth,Felix_Sabates,Chevrolet,311,52275,running,2,93
 2000,W,2000_Checker_Auto_Parts_Dura_Lube_500k,2000_32,26,35,94,usa,Bill_Elliott,Bill Elliott,McDonald's,Bill_Elliott,Ford,311,51150,running,0,85
-2000,W,2000_Checker_Auto_Parts_Dura_Lube_500k,2000_32,27,18,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,311,49625,running,0,82
+2000,W,2000_Checker_Auto_Parts_Dura_Lube_500k,2000_32,27,18,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,311,49625,running,0,82
 2000,W,2000_Checker_Auto_Parts_Dura_Lube_500k,2000_32,28,29,43,usa,John_Andretti,John Andretti,Cheerios,Petty_Enterprises,Pontiac,311,57500,running,0,79
 2000,W,2000_Checker_Auto_Parts_Dura_Lube_500k,2000_32,29,26,97,usa,Kurt_Busch,Kurt Busch,John Deere,Jack_Roush,Ford,311,50675,running,0,76
 2000,W,2000_Checker_Auto_Parts_Dura_Lube_500k,2000_32,30,33,21,usa,Elliott_Sadler,Elliott Sadler,Citgo,Wood_Brothers,Ford,311,51550,running,0,73
@@ -1382,12 +1382,12 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_Pennzoil_400_Presented_by_Discount_Auto_Parts,2000_33,5,4,26,usa,Jimmy_Spencer,Jimmy Spencer,Big Kmart / Route 66,Travis_Carter,Ford,267,105575,running,15,160
 2000,W,2000_Pennzoil_400_Presented_by_Discount_Auto_Parts,2000_33,6,2,28,usa,Ricky_Rudd,Ricky Rudd,Texaco / Havoline,Yates_Racing,Ford,267,86375,running,49,155
 2000,W,2000_Pennzoil_400_Presented_by_Discount_Auto_Parts,2000_33,7,28,24,usa,Jeff_Gordon,Jeff Gordon,DuPont Automotive Finishes,Rick_Hendrick,Chevrolet,266,83725,running,0,146
-2000,W,2000_Pennzoil_400_Presented_by_Discount_Auto_Parts,2000_33,8,1,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,266,70375,running,9,147
+2000,W,2000_Pennzoil_400_Presented_by_Discount_Auto_Parts,2000_33,8,1,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,266,70375,running,9,147
 2000,W,2000_Pennzoil_400_Presented_by_Discount_Auto_Parts,2000_33,9,19,93,usa,Dave_Blaney,Dave Blaney,Amoco Ultimate,Bill_Davis,Pontiac,265,48625,running,0,138
 2000,W,2000_Pennzoil_400_Presented_by_Discount_Auto_Parts,2000_33,10,5,19,usa,Casey_Atwood,Casey Atwood,Motorola,Ray_Evernham,Ford,265,47925,running,0,134
 2000,W,2000_Pennzoil_400_Presented_by_Discount_Auto_Parts,2000_33,11,31,99,usa,Jeff_Burton,Jeff Burton,Citgo Supergard,Jack_Roush,Ford,265,61225,running,0,130
 2000,W,2000_Pennzoil_400_Presented_by_Discount_Auto_Parts,2000_33,12,21,25,usa,Jerry_Nadeau,Jerry Nadeau,Michael Holigan.com,Rick_Hendrick,Chevrolet,265,52825,running,0,127
-2000,W,2000_Pennzoil_400_Presented_by_Discount_Auto_Parts,2000_33,13,12,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,265,49525,running,0,124
+2000,W,2000_Pennzoil_400_Presented_by_Discount_Auto_Parts,2000_33,13,12,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,265,49525,running,0,124
 2000,W,2000_Pennzoil_400_Presented_by_Discount_Auto_Parts,2000_33,14,9,11,usa,Brett_Bodine,Brett Bodine,Ralph's Supermarkets,Brett_Bodine,Ford,265,39325,running,0,121
 2000,W,2000_Pennzoil_400_Presented_by_Discount_Auto_Parts,2000_33,15,17,2,usa,Rusty_Wallace,Rusty Wallace,Miller Lite,Roger_Penske,Ford,265,57500,running,0,118
 2000,W,2000_Pennzoil_400_Presented_by_Discount_Auto_Parts,2000_33,16,26,77,usa,Robert_Pressley,Robert Pressley,Jasper Engines,Doug_Bawel,Ford,265,45800,running,0,115
@@ -1437,8 +1437,8 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2000,W,2000_NAPA_500,2000_34,17,14,5,usa,Terry_Labonte,Terry Labonte,Kellogg's,Rick_Hendrick,Chevrolet,323,56280,running,0,112
 2000,W,2000_NAPA_500,2000_34,18,4,93,usa,Dave_Blaney,Dave Blaney,Amoco Ultimate,Bill_Davis,Pontiac,323,37965,running,0,109
 2000,W,2000_NAPA_500,2000_34,19,41,43,usa,John_Andretti,John Andretti,STP / Cheerios,Petty_Enterprises,Pontiac,323,56225,running,0,106
-2000,W,2000_NAPA_500,2000_34,20,40,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,"Dale_Earnhardt,_Inc.",Chevrolet,322,50810,running,0,103
-2000,W,2000_NAPA_500,2000_34,21,18,1,usa,Steve_Park,Steve Park,Pennzoil,"Dale_Earnhardt,_Inc.",Chevrolet,322,49095,running,1,105
+2000,W,2000_NAPA_500,2000_34,20,40,8,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Budweiser,Dale_Earnhardt_Inc,Chevrolet,322,50810,running,0,103
+2000,W,2000_NAPA_500,2000_34,21,18,1,usa,Steve_Park,Steve Park,Pennzoil,Dale_Earnhardt_Inc,Chevrolet,322,49095,running,1,105
 2000,W,2000_NAPA_500,2000_34,22,31,23,usa,Scott_Wimmer,Scott Wimmer,AT&T / TDS,Bill_Davis,Pontiac,322,37780,running,9,
 2000,W,2000_NAPA_500,2000_34,23,35,55,usa,Kenny_Wallace,Kenny Wallace,Square D / Cooper Lighting,Andy_Petree,Chevrolet,322,50365,running,1,99
 2000,W,2000_NAPA_500,2000_34,24,38,28,usa,Ricky_Rudd,Ricky Rudd,Texaco / Havoline,Yates_Racing,Ford,321,48050,running,0,91

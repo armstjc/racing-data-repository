@@ -21,7 +21,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2011,T,2011_Grand_Prix_ICAR,2011_02,1,7,66,canada,Robin_Buck,Robin Buck,Quaker State,,Dodge,33,,running,2,185
 2011,T,2011_Grand_Prix_ICAR,2011_02,2,2,22,canada,Scott_Steckly,Scott Steckly,Canadian Tire / MotoMaster,,Dodge,33,,running,0,170
 2011,T,2011_Grand_Prix_ICAR,2011_02,3,8,8,canada,Don_Thomson_Jr,"Don Thomson, Jr.",Farmers Feed Families,,Dodge,33,,running,0,165
-2011,T,2011_Grand_Prix_ICAR,2011_02,4,9,47,canada,L_P_Dumoulin,L.P. Dumoulin,Maskimo / Somavrac,,Dodge,33,,running,0,160
+2011,T,2011_Grand_Prix_ICAR,2011_02,4,9,47,canada,LP_Dumoulin,L.P. Dumoulin,Maskimo / Somavrac,,Dodge,33,,running,0,160
 2011,T,2011_Grand_Prix_ICAR,2011_02,5,13,9,canada,Mark_Dilley,Mark Dilley,Rheem / Sylvania,,Dodge,33,,running,0,155
 2011,T,2011_Grand_Prix_ICAR,2011_02,6,27,23,canada,Jeff_Lapcevich,Jeff Lapcevich,Tim Hortons,,Dodge,33,,running,0,150
 2011,T,2011_Grand_Prix_ICAR,2011_02,7,5,84,canada,J_R_Fitzpatrick,J.R. Fitzpatrick,Schick Hydro,,Chevrolet,33,,running,3,151
@@ -39,7 +39,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2011,T,2011_Grand_Prix_ICAR,2011_02,19,4,02,canada,Kerry_Micks,Kerry Micks,Dickies / Beyond Digital Imaging,,Ford,33,,running,0,106
 2011,T,2011_Grand_Prix_ICAR,2011_02,20,3,17,canada,DJ_Kennington,D.J. Kennington,Castrol Edge / Mahindra Tractors,,Dodge,33,,running,0,103
 2011,T,2011_Grand_Prix_ICAR,2011_02,21,26,27,canada,Andrew_Ranger,Andrew Ranger,PNH Solutions / Lou's BBQ,,Dodge,33,,running,4,105
-2011,T,2011_Grand_Prix_ICAR,2011_02,22,11,04,canada,J_F_Dumoulin,J.F. Dumoulin,Group Bellemare / GP3R,,Dodge,31,,running,0,97
+2011,T,2011_Grand_Prix_ICAR,2011_02,22,11,04,canada,JF_Dumoulin,J.F. Dumoulin,Group Bellemare / GP3R,,Dodge,31,,running,0,97
 2011,T,2011_Grand_Prix_ICAR,2011_02,23,24,55,canada,Dexter_Stacey,Dexter Stacey,WJS Motorsports / Bully Ttruck Stop,,Chevrolet,29,,running,0,94
 2011,T,2011_Grand_Prix_ICAR,2011_02,24,25,85,canada,Michel_Pilon,Michel Pilon,Aquacoupe Technologie / OKOIK / TRIK,,Chevrolet,19,,running,0,91
 2011,T,2011_Grand_Prix_ICAR,2011_02,25,22,07,canada,Isabelle_Tremblay,Isabelle Tremblay,Groupe Beton Brunet / ADF Diesel,,Ford,13,,driveshaft,0,88
@@ -86,8 +86,8 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2011,T,2011_Vortex_Brake_Pads_200,2011_04,19,26,69,canada,Trevor_Seibert,Trevor Seibert,Lake Excavating / EMCO Waterworks,,Ford,46,,crash,0,106
 2011,T,2011_Vortex_Brake_Pads_200,2011_04,20,9,9,canada,Mark_Dilley,Mark Dilley,Rheem / PartSource,,Dodge,42,,running,0,103
 2011,T,2011_Vortex_Brake_Pads_200,2011_04,21,6,3,canada,Jason_Hathaway,Jason Hathaway,Snap-on Tools / Vortex Brake Pads,,Dodge,41,,crash,0,100
-2011,T,2011_Vortex_Brake_Pads_200,2011_04,22,20,04,canada,J_F_Dumoulin,J.F. Dumoulin,Group Bellemare / GP3R,,Dodge,37,,transmission,0,97
-2011,T,2011_Vortex_Brake_Pads_200,2011_04,23,16,47,canada,L_P_Dumoulin,L.P. Dumoulin,Maskimo / Somavrac,,Dodge,36,,crash,0,94
+2011,T,2011_Vortex_Brake_Pads_200,2011_04,22,20,04,canada,JF_Dumoulin,J.F. Dumoulin,Group Bellemare / GP3R,,Dodge,37,,transmission,0,97
+2011,T,2011_Vortex_Brake_Pads_200,2011_04,23,16,47,canada,LP_Dumoulin,L.P. Dumoulin,Maskimo / Somavrac,,Dodge,36,,crash,0,94
 2011,T,2011_Vortex_Brake_Pads_200,2011_04,24,17,59,canada,John_Farano,John Farano,Tower Motorsports,,Chevrolet,29,,transmission,0,91
 2011,T,2011_Vortex_Brake_Pads_200,2011_04,25,7,15,canada,Steven_Mathews,Steven Mathews,Bill Mathews Motors,,Ford,17,,crash,0,88
 2011,T,2011_Vortex_Brake_Pads_200,2011_04,26,2,8,canada,Don_Thomson_Jr,"Don Thomson, Jr.",Farmers Feed Families,,Dodge,10,,engine,0,85
@@ -97,7 +97,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2011,T,2011_Streets_of_Toronto_100,2011_05,4,4,02,canada,Kerry_Micks,Kerry Micks,Dickies / Beyond Digital Imaging,,Ford,37,,running,0,160
 2011,T,2011_Streets_of_Toronto_100,2011_05,5,6,17,canada,DJ_Kennington,D.J. Kennington,Castrol Edge,,Dodge,37,,running,0,155
 2011,T,2011_Streets_of_Toronto_100,2011_05,6,14,9,canada,Mark_Dilley,Mark Dilley,Rheem / PartSource,,Dodge,37,,running,0,150
-2011,T,2011_Streets_of_Toronto_100,2011_05,7,11,47,canada,L_P_Dumoulin,L.P. Dumoulin,Super 8 / Maskimo,,Dodge,37,,running,0,146
+2011,T,2011_Streets_of_Toronto_100,2011_05,7,11,47,canada,LP_Dumoulin,L.P. Dumoulin,Super 8 / Maskimo,,Dodge,37,,running,0,146
 2011,T,2011_Streets_of_Toronto_100,2011_05,8,5,8,canada,Don_Thomson_Jr,"Don Thomson, Jr.",Farmers Feed Families,,Dodge,37,,running,0,142
 2011,T,2011_Streets_of_Toronto_100,2011_05,9,8,42,canada,Peter_Klutt,Peter Klutt,Legendary Motorcar,,Chevrolet,37,,running,0,138
 2011,T,2011_Streets_of_Toronto_100,2011_05,10,27,19,canada,Brad_Graham,Brad Graham,Holmar Plumbing,,Ford,37,,running,0,134
@@ -107,7 +107,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2011,T,2011_Streets_of_Toronto_100,2011_05,14,24,44,canada,Jarrad_Whissell,Jarrad Whissell,SMS Equipment / Komatsu,,Ford,37,,running,0,121
 2011,T,2011_Streets_of_Toronto_100,2011_05,15,28,82,canada,Dave_Connelly,Dave Connelly,Orville Redenbacher / Metro,,Dodge,37,,running,0,118
 2011,T,2011_Streets_of_Toronto_100,2011_05,16,23,99,canada,Derek_White,Derek White,Mohawk Market / MultiConcept.ca,,Chevrolet,37,,running,0,115
-2011,T,2011_Streets_of_Toronto_100,2011_05,17,20,04,canada,J_F_Dumoulin,J.F. Dumoulin,Super 8 / Group Bellemare,,Dodge,37,,running,0,112
+2011,T,2011_Streets_of_Toronto_100,2011_05,17,20,04,canada,JF_Dumoulin,J.F. Dumoulin,Super 8 / Group Bellemare,,Dodge,37,,running,0,112
 2011,T,2011_Streets_of_Toronto_100,2011_05,18,31,59,canada,John_Farano,John Farano,Tower Motorsports,,Chevrolet,37,,running,0,109
 2011,T,2011_Streets_of_Toronto_100,2011_05,19,9,84,canada,J_R_Fitzpatrick,J.R. Fitzpatrick,Schick / Energizer,,Chevrolet,37,,running,0,106
 2011,T,2011_Streets_of_Toronto_100,2011_05,20,22,3,canada,Jason_Hathaway,Jason Hathaway,Rockstar Energy Drink / Snap-on Tools,,Dodge,37,,running,0,103
@@ -170,14 +170,14 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2011,T,2011_GP3R_100,2011_08,2,1,27,canada,Andrew_Ranger,Andrew Ranger,Dodge Dealers of Quebec / PNH Solutions,,Dodge,44,,running,1,175
 2011,T,2011_GP3R_100,2011_08,3,2,22,canada,Scott_Steckly,Scott Steckly,Canadian Tire / MotoMaster,,Dodge,44,,running,0,165
 2011,T,2011_GP3R_100,2011_08,4,13,23,canada,Jeff_Lapcevich,Jeff Lapcevich,Tim Hortons,,Dodge,44,,running,0,160
-2011,T,2011_GP3R_100,2011_08,5,4,47,canada,L_P_Dumoulin,L.P. Dumoulin,Maskimo / Somavrac,,Dodge,44,,running,5,160
+2011,T,2011_GP3R_100,2011_08,5,4,47,canada,LP_Dumoulin,L.P. Dumoulin,Maskimo / Somavrac,,Dodge,44,,running,5,160
 2011,T,2011_GP3R_100,2011_08,6,14,21,canada,Jason_White_(5),Jason White,A&W Cruisin' The Dub,,Dodge,44,,running,0,150
 2011,T,2011_GP3R_100,2011_08,7,21,99,canada,Derek_White,Derek White,Three Feathers Casino,,Chevrolet,44,,running,0,146
 2011,T,2011_GP3R_100,2011_08,8,18,59,canada,John_Farano,John Farano,Tower Motorsports,,Chevrolet,44,,running,0,142
 2011,T,2011_GP3R_100,2011_08,9,3,17,canada,DJ_Kennington,D.J. Kennington,Castrol Edge,,Dodge,44,,running,0,138
 2011,T,2011_GP3R_100,2011_08,10,29,82,canada,Dave_Connelly,Dave Connelly,Schneider's / Metro Hot Rod,,Dodge,44,,running,0,134
 2011,T,2011_GP3R_100,2011_08,11,20,56,canada,Howie_Scannell_Jr,"Howie Scannell, Jr.",RC Trailers / B&B Decals,,Dodge,43,,running,0,130
-2011,T,2011_GP3R_100,2011_08,12,10,04,canada,J_F_Dumoulin,J.F. Dumoulin,Group Bellemare / Cogeco,,Dodge,43,,running,0,127
+2011,T,2011_GP3R_100,2011_08,12,10,04,canada,JF_Dumoulin,J.F. Dumoulin,Group Bellemare / Cogeco,,Dodge,43,,running,0,127
 2011,T,2011_GP3R_100,2011_08,13,28,90,canada,Martin_Roy,Martin Roy,Veloce,,Dodge,43,,running,0,124
 2011,T,2011_GP3R_100,2011_08,14,15,60,canada,Ron_Beauchamp_Jr,"Ron Beauchamp, Jr.",Mopar / Mobil 1,,Dodge,43,,running,0,121
 2011,T,2011_GP3R_100,2011_08,15,5,84,canada,J_R_Fitzpatrick,J.R. Fitzpatrick,Equipment Express,,Chevrolet,42,,running,0,118
@@ -207,8 +207,8 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2011,T,2011_NAPA_Autopro_100,2011_09,6,5,84,canada,J_R_Fitzpatrick,J.R. Fitzpatrick,Equipment Express,,Chevrolet,23,,running,0,150
 2011,T,2011_NAPA_Autopro_100,2011_09,7,9,22,canada,Scott_Steckly,Scott Steckly,Canadian Tire / MotoMaster,,Dodge,23,,running,0,146
 2011,T,2011_NAPA_Autopro_100,2011_09,8,6,59,canada,John_Farano,John Farano,Tower Motorsports,,Chevrolet,23,,running,0,142
-2011,T,2011_NAPA_Autopro_100,2011_09,9,7,04,canada,J_F_Dumoulin,J.F. Dumoulin,Group Bellemare / Cogeco,,Dodge,23,,running,0,138
-2011,T,2011_NAPA_Autopro_100,2011_09,10,8,47,canada,L_P_Dumoulin,L.P. Dumoulin,Maskimo / Somavrac,,Dodge,23,,running,0,134
+2011,T,2011_NAPA_Autopro_100,2011_09,9,7,04,canada,JF_Dumoulin,J.F. Dumoulin,Group Bellemare / Cogeco,,Dodge,23,,running,0,138
+2011,T,2011_NAPA_Autopro_100,2011_09,10,8,47,canada,LP_Dumoulin,L.P. Dumoulin,Maskimo / Somavrac,,Dodge,23,,running,0,134
 2011,T,2011_NAPA_Autopro_100,2011_09,11,13,69,canada,Trevor_Seibert,Trevor Seibert,Lake Excavating / Cleanwerx,,Dodge,23,,running,0,130
 2011,T,2011_NAPA_Autopro_100,2011_09,12,19,60,canada,Ron_Beauchamp_Jr,"Ron Beauchamp, Jr.",Mopar / Mobil 1,,Dodge,23,,running,0,127
 2011,T,2011_NAPA_Autopro_100,2011_09,13,11,66,canada,Robin_Buck,Robin Buck,Quaker State / Durabody,,Dodge,23,,running,0,124
@@ -248,7 +248,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2011,T,2011_Wild_Wing_300,2011_10,10,15,01,canada,Chris_Raabe,Chris Raabe,Canadian Tire / MotoMaster / Sylvania,,Dodge,309,,running,0,134
 2011,T,2011_Wild_Wing_300,2011_10,11,18,07,canada,Isabelle_Tremblay,Isabelle Tremblay,Groupe Beton Brunet / ADF Diesel,,Ford,307,,running,0,130
 2011,T,2011_Wild_Wing_300,2011_10,12,17,55,canada,Dexter_Stacey,Dexter Stacey,Bully's Truck Stop,,Dodge,302,,running,0,127
-2011,T,2011_Wild_Wing_300,2011_10,13,19,47,canada,L_P_Dumoulin,L.P. Dumoulin,Maskimo / Somavrac,,Dodge,302,,running,0,124
+2011,T,2011_Wild_Wing_300,2011_10,13,19,47,canada,LP_Dumoulin,L.P. Dumoulin,Maskimo / Somavrac,,Dodge,302,,running,0,124
 2011,T,2011_Wild_Wing_300,2011_10,14,1,22,canada,Scott_Steckly,Scott Steckly,Canadian Tire / MotoMaster,,Dodge,285,,running,147,131
 2011,T,2011_Wild_Wing_300,2011_10,15,10,60,canada,Ron_Beauchamp_Jr,"Ron Beauchamp, Jr.",Mopar / Mobil 1,,Dodge,267,,running,0,118
 2011,T,2011_Wild_Wing_300,2011_10,16,3,15,canada,Steven_Mathews,Steven Mathews,Bill Mathews Motors,,Ford,231,,crash,0,115
@@ -274,7 +274,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2011,T,2011_Komatsu_300_Presented_by_Wilson_Equipment,2011_11,14,15,99,canada,Derek_White,Derek White,Leavitt,,Chevrolet,293,,running,0,121
 2011,T,2011_Komatsu_300_Presented_by_Wilson_Equipment,2011_11,15,4,8,canada,Don_Thomson_Jr,"Don Thomson, Jr.",Farmers Feed Families,,Dodge,220,,running,0,118
 2011,T,2011_Komatsu_300_Presented_by_Wilson_Equipment,2011_11,16,13,21,canada,Jason_White_(5),Jason White,A&W Cruisin' The Dub,,Dodge,182,,suspension,0,115
-2011,T,2011_Komatsu_300_Presented_by_Wilson_Equipment,2011_11,17,17,47,canada,L_P_Dumoulin,L.P. Dumoulin,Maskimo / Somavrac,,Dodge,126,,engine,0,112
+2011,T,2011_Komatsu_300_Presented_by_Wilson_Equipment,2011_11,17,17,47,canada,LP_Dumoulin,L.P. Dumoulin,Maskimo / Somavrac,,Dodge,126,,engine,0,112
 2011,T,2011_Komatsu_300_Presented_by_Wilson_Equipment,2011_11,18,19,55,canada,Dexter_Stacey,Dexter Stacey,Playground Poker Club / Bull's Truck Stop,,Dodge,126,,axle,0,109
 2011,T,2011_Komatsu_300_Presented_by_Wilson_Equipment,2011_11,19,18,97,canada,Hugo_Vannini,Hugo Vannini,Vannini Motorsports,,Ford,19,,electrical,0,106
 2011,T,2011_Kawartha_250,2011_12,1,10,17,canada,DJ_Kennington,D.J. Kennington,Castrol Edge,,Dodge,253,,running,108,190
@@ -292,7 +292,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2011,T,2011_Kawartha_250,2011_12,13,21,50,canada,Joey_McColm,Joey McColm,Espar,,Dodge,253,,running,0,124
 2011,T,2011_Kawartha_250,2011_12,14,26,10,canada,Brandon_White,Brandon White,OCR Gaz Bar,,Chevrolet,251,,running,0,121
 2011,T,2011_Kawartha_250,2011_12,15,25,51,canada,Nick_Jewell,Nick Jewell,Twin Motors,,Dodge,251,,running,0,118
-2011,T,2011_Kawartha_250,2011_12,16,20,47,canada,L_P_Dumoulin,L.P. Dumoulin,Maskimo / Somavrac,,Dodge,251,,running,0,115
+2011,T,2011_Kawartha_250,2011_12,16,20,47,canada,LP_Dumoulin,L.P. Dumoulin,Maskimo / Somavrac,,Dodge,251,,running,0,115
 2011,T,2011_Kawartha_250,2011_12,17,11,60,canada,Ron_Beauchamp_Jr,"Ron Beauchamp, Jr.",Mopar / Mobil 1,,Dodge,251,,running,0,112
 2011,T,2011_Kawartha_250,2011_12,18,18,13,canada,Trevor_Monaghan,Trevor Monaghan,Canadian Heroes,,Chevrolet,247,,running,0,109
 2011,T,2011_Kawartha_250,2011_12,19,23,97,canada,Hugo_Vannini,Hugo Vannini,Vannini Motorsports,,Ford,246,,running,0,106
