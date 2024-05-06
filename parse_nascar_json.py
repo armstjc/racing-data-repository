@@ -310,7 +310,7 @@ def parse_basic_race_results(season: int):
             time.sleep(3)
             has_race_data = False
 
-        if has_race_data == True:
+        if has_race_data is True and json_data["weekend_race"] is not None:
             for j in json_data['weekend_race']:
                 row_df = pd.DataFrame(columns=['race_id'], data=[race_id])
                 row_df['series_id'] = race_level
