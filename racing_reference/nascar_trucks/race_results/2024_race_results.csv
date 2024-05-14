@@ -1,6 +1,6 @@
 season,series_id,race_id,race_id_short,finish_position,starting_position,driver_number,driver_nationality,driver_id,driver_name,sponsor,owner_id,car,race_laps_run,race_status,race_laps_lead,points_earned,playoff_points_earned
 2024,C,2024_Fresh_From_Florida_250,2024_01,1,6,2,usa,Nick_Sanchez,Nick Sanchez,Gainbridge,Max_Siegel,Chevrolet,101,running,26,42,5
-2024,C,2024_Fresh_From_Florida_250,2024_01,2,26,11,usa,Corey_Heim,Corey Heim,Safelite,David_Gilliland,Toyota,101,running,0,36,0
+2024,C,2024_Fresh_From_Florida_250,2024_01,2,26,11,usa,Corey_Heim,Corey Heim,Safelite,David_Gilliland,Toyota,101,running,0,37,0
 2024,C,2024_Fresh_From_Florida_250,2024_01,3,20,71,usa,Rajah_Caruth,Rajah Caruth,HendrickCars.com,Spire_Motorsports,Chevrolet,101,running,1,35,0
 2024,C,2024_Fresh_From_Florida_250,2024_01,4,19,32,usa,Bret_Holmes,Bret Holmes,Precision Garage Door,Stacy_Holmes,Chevrolet,101,running,13,38,0
 2024,C,2024_Fresh_From_Florida_250,2024_01,5,31,76,usa,Spencer_Boyd,Spencer Boyd,Tibbetts Lumber,,Chevrolet,101,running,0,32,0
@@ -9,15 +9,15 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2024,C,2024_Fresh_From_Florida_250,2024_01,8,33,56,usa,Timmy_Hill,Timmy Hill,Coble Enterprises/UNITS,Timmy_Hill,Toyota,101,running,0,29,0
 2024,C,2024_Fresh_From_Florida_250,2024_01,9,29,28,usa,Bryan_Dauzat,Bryan Dauzat,FDNY Racing/OB Builders,Jim_Rosenblum,Chevrolet,101,running,0,28,0
 2024,C,2024_Fresh_From_Florida_250,2024_01,10,25,19,usa,Christian_Eckes,Christian Eckes,NAPA AUTOCARE,Bill_McAnally,Chevrolet,101,running,1,39,0
-2024,C,2024_Fresh_From_Florida_250,2024_01,11,5,18,usa,Tyler_Ankrum,Tyler Ankrum,LiUNA!,Bill_McAnally,Chevrolet,101,running,16,43,1
+2024,C,2024_Fresh_From_Florida_250,2024_01,11,5,18,usa,Tyler_Ankrum,Tyler Ankrum,LiUNA!,Bill_McAnally,Chevrolet,101,running,16,42,1
 2024,C,2024_Fresh_From_Florida_250,2024_01,12,34,22,canada,Jason_White_(5),Jason White,powder ventures excavations,Kevin_Cywinski,Ford,101,running,0,25,0
 2024,C,2024_Fresh_From_Florida_250,2024_01,13,9,41,usa,Bayley_Currey,Bayley Currey,AutoVentive/Precision,Al_Niece,Chevrolet,101,running,0,32,0
 2024,C,2024_Fresh_From_Florida_250,2024_01,14,17,52,canada,Stewart_Friesen,Stewart Friesen,Halmar International,Chris_Larsen,Toyota,101,running,0,23,0
-2024,C,2024_Fresh_From_Florida_250,2024_01,15,1,98,usa,Ty_Majeski,Ty Majeski,Road Ranger 50th Store,Mike_Curb,Ford,101,running,6,36,0
-2024,C,2024_Fresh_From_Florida_250,2024_01,16,8,15,usa,Tanner_Gray,Tanner Gray,Dead On Tools,David_Gilliland,Toyota,101,running,1,21,0
+2024,C,2024_Fresh_From_Florida_250,2024_01,15,1,98,usa,Ty_Majeski,Ty Majeski,Road Ranger 50th Store,Mike_Curb,Ford,101,running,6,35,0
+2024,C,2024_Fresh_From_Florida_250,2024_01,16,8,15,usa,Tanner_Gray,Tanner Gray,Dead On Tools,David_Gilliland,Toyota,101,running,1,22,0
 2024,C,2024_Fresh_From_Florida_250,2024_01,17,22,9,usa,Grant_Enfinger,Grant Enfinger,Grant County Mulch,Codie_Rohrbaugh,Chevrolet,101,running,2,23,0
 2024,C,2024_Fresh_From_Florida_250,2024_01,18,23,91,usa,Jack_Wood,Jack Wood,Klotz Synthetics,Bill_McAnally,Chevrolet,101,running,0,23,0
-2024,C,2024_Fresh_From_Florida_250,2024_01,19,12,17,usa,Taylor_Gray,Taylor Gray,JBL,David_Gilliland,Toyota,100,crash,0,0,0
+2024,C,2024_Fresh_From_Florida_250,2024_01,19,12,17,usa,Taylor_Gray,Taylor Gray,JBL,David_Gilliland,Toyota,100,crash,0,24,0
 2024,C,2024_Fresh_From_Florida_250,2024_01,20,3,7,usa,Corey_LaJoie,Corey LaJoie,BlueGreen Vacations,Spire_Motorsports,Chevrolet,100,crash,5,0,0
 2024,C,2024_Fresh_From_Florida_250,2024_01,21,7,43,usa,Daniel_Dye,Daniel Dye,Champion Container,Bill_McAnally,Chevrolet,100,crash,0,23,0
 2024,C,2024_Fresh_From_Florida_250,2024_01,22,30,04,usa,Cory_Roper,Cory Roper,Fly Alliance/CarQuest,Roper_Racing,Chevrolet,100,crash,0,15,0
@@ -272,3 +272,35 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2024,C,2024_Heart_of_America_200,2024_08,31,27,76,usa,Spencer_Boyd,Spencer Boyd,FR8 Factory,,Chevrolet,129,running,0,6,0
 2024,C,2024_Heart_of_America_200,2024_08,32,30,10,usa,Jennifer_Jo_Cobb,Jennifer Jo Cobb,Driven2Honor.org,Jennifer_Jo_Cobb,Chevrolet,128,running,0,5,0
 2024,C,2024_Heart_of_America_200,2024_08,33,2,98,usa,Ty_Majeski,Ty Majeski,Road Ranger,Mike_Curb,Ford,10,dvp,0,4,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,1,6,45,usa,Ross_Chastain,Ross Chastain,Buckle Up South Carolina,Al_Niece,Chevrolet,150,running,3,0,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,2,1,2,usa,Nick_Sanchez,Nick Sanchez,Drive for Diversity 20 Anniv.,Max_Siegel,Chevrolet,150,running,0,35,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,3,12,99,usa,Ben_Rhodes,Ben Rhodes,Campers Inn RV,Duke_Thorson,Ford,150,running,0,37,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,4,7,19,usa,Christian_Eckes,Christian Eckes,Gates Hydraulics,Bill_McAnally,Chevrolet,150,running,15,50,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,5,16,98,usa,Ty_Majeski,Ty Majeski,Soda Sense/Curb Records,Mike_Curb,Ford,150,running,36,47,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,6,19,77,usa,Chase_Purdy,Chase Purdy,Bama Buggies,Spire_Motorsports,Chevrolet,150,running,0,31,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,7,18,1,usa,Colby_Howard,Colby Howard,Coastal Sports Cards,David_Gilliland,Toyota,150,running,0,30,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,8,3,17,usa,Taylor_Gray,Taylor Gray,ShopTRICON.com,David_Gilliland,Toyota,150,running,16,38,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,9,15,25,usa,Ty_Dillon,Ty Dillon,Rackley Roofing,Rackley_WAR,Chevrolet,150,running,0,28,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,10,5,15,usa,Tanner_Gray,Tanner Gray,Dead On Tools,David_Gilliland,Toyota,150,running,0,27,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,11,25,42,usa,Matt_Mills,Matt Mills,J.F. Electric/Utilitra,Al_Niece,Chevrolet,150,running,0,26,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,12,22,33,usa,Lawless_Alan,Lawless Alan,AUTOParkIt,Josh_Reaume,Ford,150,running,0,25,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,13,27,56,usa,Timmy_Hill,Timmy Hill,UNITS Storage,Timmy_Hill,Toyota,150,running,0,24,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,14,11,52,canada,Stewart_Friesen,Stewart Friesen,Halmar International,Chris_Larsen,Toyota,150,running,0,25,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,15,29,02,usa,Mason_Massey,Mason Massey,RandCo,Randy_Young,Chevrolet,150,running,0,22,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,16,9,9,usa,Grant_Enfinger,Grant Enfinger,Champion Power Equipment,Codie_Rohrbaugh,Chevrolet,150,running,3,28,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,17,28,32,usa,Bret_Holmes,Bret Holmes,GOLDEN EAGLE,Stacy_Holmes,Chevrolet,150,running,0,20,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,18,32,46,usa,Thad_Moffitt,Thad Moffitt,Petty 75th,Lane_Moore,Chevrolet,150,running,0,19,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,19,30,76,usa,Spencer_Boyd,Spencer Boyd,Freedom Warranty,,Chevrolet,150,running,0,18,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,20,14,13,usa,Jake_Garcia,Jake Garcia,Quanta Services,Duke_Thorson,Ford,150,running,0,18,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,21,8,38,usa,Layne_Riggs,Layne Riggs,Infinity Communications Group,Bob_Jenkins,Ford,148,running,0,26,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,22,17,41,usa,Bayley_Currey,Bayley Currey,AutoVentive/Precision,Al_Niece,Chevrolet,148,running,0,15,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,23,10,43,usa,Daniel_Dye,Daniel Dye,PEAK,Bill_McAnally,Chevrolet,148,running,0,14,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,24,21,66,usa,Conner_Jones,Conner Jones,TSport,Duke_Thorson,Ford,145,running,0,13,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,25,23,91,usa,Jack_Wood,Jack Wood,RTIC Outdoors,Bill_McAnally,Chevrolet,139,crash,0,12,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,26,24,18,usa,Tyler_Ankrum,Tyler Ankrum,LiUNA!,Bill_McAnally,Chevrolet,136,running,0,11,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,27,31,22,usa,Mason_Maggio,Mason Maggio,Crawford Garage Doors,Kevin_Cywinski,Ford,121,brakes,0,10,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,28,2,11,usa,Corey_Heim,Corey Heim,Safelite,David_Gilliland,Toyota,105,crash,77,29,2
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,29,13,5,usa,Dean_Thompson,Dean Thompson,Thompson Pipe Group,David_Gilliland,Toyota,97,crash,0,12,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,30,26,71,usa,Rajah_Caruth,Rajah Caruth,HendrickCars.com,Spire_Motorsports,Chevrolet,97,crash,0,16,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,31,20,88,usa,Matt_Crafton,Matt Crafton,Chi Chis/ Menards,Duke_Thorson,Ford,97,crash,0,11,0
+2024,C,2024_Buckle_Up_South_Carolina_200,2024_09,32,4,7,usa,Kyle_Busch,Kyle Busch,BAMF Enterprises,Spire_Motorsports,Chevrolet,6,crash,0,0,0
