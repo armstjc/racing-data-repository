@@ -94,6 +94,12 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5401,164,169,Accident,#71 Incident Frontstretch,21,2
 5401,187,193,Competition,Stage 2 Conclusion,42,2
 5401,255,260,Accident,#5 Incident Turn 3,47,2
+5404,52,57,Competition,Competition Break,31,2
+5404,60,64,Accident,"#2, 10 Incident Frontstretch",66,2
+5405,3,10,Accident,"#47, 8 Incident Turn 2",None,2
+5405,102,108,Competition,Competition Break,34,2
+5405,119,123,Accident,"#54, 8 Incident Turn 1",None,2
+5405,152,158,Competition,Competition Break,None,2
 5429,24,29,Accident,"#1, 14, 15, 91 Incident Turn 1",None,2
 5429,32,35,Competition,Stage 1 Conclusion,None,2
 5429,38,42,Accident,"#21, 16, 97, 48, 2, 20, 10, 5, 11, 35, 51 Incident Backstretch",None,2
@@ -218,3 +224,10 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5470,92,97,Competition,Stage 2 Conclusion,43,2
 5470,99,105,Accident,"#5, 11, 71, 91, 38, 88 Incident Turn 2",43,2
 5470,143,148,Accident,#91 Incident Turn 1,02,2
+5471,59,67,Unknown,Precipitation,02,2
+5471,72,86,Competition,Stage 1 Conclusion [Red Flag 21:06:14],7,2
+5471,93,98,Accident,"#71, 98 Incident Turn 2",75,2
+5471,117,123,Accident,#33 Incident Turn 2,56,2
+5471,140,146,Accident,#32 Incident Turn 2 / Stage 2 Conclusion,2,2
+5471,178,185,Accident,#66 Incident Turn 4,26,2
+5471,213,218,Accident,"#2, 5 Incident Turn 2",25,2
