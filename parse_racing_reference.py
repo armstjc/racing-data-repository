@@ -1,11 +1,10 @@
 import time
-from datetime import datetime
-
 import pandas as pd
-import requests
+# import requests
 from bs4 import BeautifulSoup
-# from selenium import webdriver
 from tqdm import tqdm
+from datetime import datetime
+from selenium import webdriver
 
 
 def get_racing_reference_schedule(season: int, series_id: str) -> pd.DataFrame:
@@ -294,19 +293,19 @@ def get_racing_reference_standings(season: int, series_id="W") -> pd.DataFrame:
     url = f"https://www.racing-reference.info/season-stats/{
         season}/{series_id}/"
     # driver.get(url)
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) " +
-        "AppleWebKit/537.36 (KHTML, like Gecko) " +
-        "Chrome/123.0.0.0 Safari/537.36"
-    }
-    response = requests.get(url, headers=headers)
-    soup = BeautifulSoup(response.text, features='lxml')
+    # headers = {
+    #     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) " +
+    #     "AppleWebKit/537.36 (KHTML, like Gecko) " +
+    #     "Chrome/102.0.0.0 Safari/537.36"
+    # }
+    # response = requests.get(url, headers=headers)
+    # soup = BeautifulSoup(response.text, features='lxml')
 
-    # driver = webdriver.Chrome()
-    # driver.get(url)
+    driver = webdriver.Chrome()
+    driver.get(url)
     time.sleep(5)
 
-    # soup = BeautifulSoup(driver.page_source, features='lxml')
+    soup = BeautifulSoup(driver.page_source, features='lxml')
 
     table_rows = soup.find_all(
         "div", {"itemprop": "SportsEvent", "class": "table-row", "role": "row"})
@@ -402,21 +401,21 @@ def get_racing_reference_race_results(season: int, series_id="W"):
     # main_df = pd.DataFrame()
     race_results_df = pd.DataFrame()
     row_df = pd.DataFrame()
-    # driver = webdriver.Chrome()
+    driver = webdriver.Chrome()
 
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) " +
-        "AppleWebKit/537.36 (KHTML, like Gecko) " +
-        "Chrome/123.0.0.0 Safari/537.36"
-    }
+    # headers = {
+    #     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) " +
+    #     "AppleWebKit/537.36 (KHTML, like Gecko) " +
+    #     "Chrome/102.0.0.0 Safari/537.36"
+    # }
     for i in tqdm(range(0, len(race_url_arr))):
         race_results_url = race_url_arr[i]
-        response = requests.get(race_results_url, headers=headers)
-        soup = BeautifulSoup(response.text, features='lxml')
-        # driver.get(race_results_url)
-        # time.sleep(5)
+        # response = requests.get(race_results_url, headers=headers)
+        # soup = BeautifulSoup(response.text, features='lxml')
+        driver.get(race_results_url)
+        time.sleep(5)
 
-        # soup = BeautifulSoup(driver.page_source, features='lxml')
+        soup = BeautifulSoup(driver.page_source, features='lxml')
 
         # table 0: Race info table.
         # table 1: Header table (links to stuff like race results, loop data, and pit stop data).
@@ -451,7 +450,7 @@ def get_racing_reference_race_results(season: int, series_id="W"):
                     row_df['driver_id'] = None
                 row_df['driver_name'] = row[3].text.strip()
                 sponsor_owner = row[4].text.strip()
-                row_df['sponsor'] = sponsor_owner.split('   ')[0]
+                row_df['sponsor'] = sponsor_owner.split('   ')[0]
                 try:
                     row_df['owner_id'] = str(row[4].find("a").get("href")).replace(
                         'https://www.racing-reference.info/owner/', '')
@@ -539,7 +538,7 @@ def main():
     # current_month = now.month
     # current_day = now.day
 
-    for i in range(current_year-1, current_year+1):
+    for i in range(current_year, current_year+1):
         # Cup Series
         if i >= 1949:
             sched_df = get_racing_reference_standings(season=i, series_id="W")
@@ -1046,4 +1045,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    # print(get_racing_reference_race_results(2024))
