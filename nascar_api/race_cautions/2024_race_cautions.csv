@@ -100,6 +100,13 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5405,102,108,Competition,Competition Break,34,2
 5405,119,123,Accident,"#54, 8 Incident Turn 1",None,2
 5405,152,158,Competition,Competition Break,None,2
+5406,88,93,Spin,#66 spin turn 4,84,2
+5406,102,110,Competition,Stage 1 Conclusion,71,2
+5406,159,164,Unknown,#12 stopped on pit road,15,2
+5406,172,176,Accident,"#10 , 47 incident backstretch",15,2
+5406,197,206,Spin,#21 spin backstretch / Stage 2 Conclusion,7,2
+5406,230,235,Accident,#7 incident turn 2,21,2
+5406,246,249,Unknown,Precipitation,7,2
 5429,24,29,Accident,"#1, 14, 15, 91 Incident Turn 1",None,2
 5429,32,35,Competition,Stage 1 Conclusion,None,2
 5429,38,42,Accident,"#21, 16, 97, 48, 2, 20, 10, 5, 11, 35, 51 Incident Backstretch",None,2
