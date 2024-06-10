@@ -772,6 +772,39 @@ def parse_lap_times(race_id, race_level, race_season):
     return lap_times_df
 
 
+def parse_pit_data(season: int):
+    """ """
+    pit_df = pd.DataFrame()
+    pit_df_arr = []
+    schedule_df = pd.read_csv(f"nascar_api/schedule/{season}_schedule.csv")
+    schedule_df = schedule_df[schedule_df["margin_of_victory"] != None]
+
+    levels_arr = schedule_df["series_id"]
+    race_ids_arr = schedule_df["race_id"]
+
+    for i in tqdm(range(0, len(levels_arr))):
+        series_id = levels_arr[i]
+        race_id = race_ids_arr[i]
+        url = "https://cf.nascar.com/cacher/live/" +\
+            f"series_{series_id}/{race_id}/live-pit-data.json"
+
+        try:
+            response = urlopen(url)
+            has_data = True
+        except:
+            has_data = False
+
+        if has_data is True:
+            json_data = json.loads(response.read())
+            temp_df = pd.json_normalize(json_data)
+            pit_df_arr.append(temp_df)
+            del temp_df
+
+        time.sleep(1)
+
+    pit_df = pd.concat(pit_df_arr, ignore_index=True)
+    return pit_df
+
 def main():
     # current_year = datetime.now().year
     now = datetime.now()
@@ -793,6 +826,7 @@ def main():
             stage_df, infractions_df, \
             pitstops_df, = parse_basic_race_results(i)
 
+        pitstops_df = parse_pit_data(i)
         info_df.to_csv(
             f"nascar_api/race_info/{i}_race_info.csv", index=False
         )
