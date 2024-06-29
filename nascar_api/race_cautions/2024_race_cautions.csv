@@ -319,3 +319,10 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5473,47,54,Accident,No. 1 Incident Turn 3 ,None,2
 5473,72,77,Competition,Stage 2 Conclusion,None,2
 5473,130,137,Accident,No. 91 Incident Turn 4,43,2
+5474,2,7,Accident,"Incident Turn 3 Nos. 5, 32, 02, 21, 56, 20",None,2
+5474,10,14,Accident,Incident Turn 2 No. 32,None,2
+5474,47,52,Competition,Stage 1 Conclusion,15,2
+5474,54,59,Accident,"Incident Turn 1 Nos. 17, 99",76,2
+5474,61,65,Accident,"Incident Frontstretch No. 33, 46",2,2
+5474,94,102,Accident,"Incident Turn 4 Nos. 38, 75 / Stage 2 Conclusion",76,2
+5474,114,118,Accident,"Incident Turn 4 Nos. 66, 91",46,2
