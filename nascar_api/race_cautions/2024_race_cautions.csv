@@ -239,6 +239,9 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5446,183,188,Accident,"#1, 8, 9, 16, 17, 19, 21, 44, 91, 97 Incident Turn 2",29,2
 5446,190,194,Accident,"#15, 92 Incident Turn 4",31,2
 5446,197,201,Spin,#14 Spin Turn 2,35,2
+5443,47,51,Competition,Stage 1 Conclusion,91,2
+5443,92,97,Competition,Stage 2 Conclusion,15,2
+5443,137,142,Accident,"Nos. 19, 7, 81, Incident Turn 4",38,2
 5462,7,12,Accident,"#15, 71, 42, 9, 46, 88, 33, 25, 27, 13, 52, 38, 2 Incident Backstretch",None,2
 5462,17,19,Accident,"#33, 27 Incident Turn 2",15,2
 5462,22,26,Competition,Stage 1 Conclusion,52,2
