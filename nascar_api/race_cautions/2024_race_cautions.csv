@@ -142,6 +142,21 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5412,285,292,Spin,#77 Spin Turn 3,99,2
 5412,294,297,Accident,"#34, 12 Incident Turn 2",10,2
 5412,301,303,Spin,#6 Spins Turn 2,71,2
+5409,92,97,Competition,Stage 1 Conclusion,41,2
+5409,117,122,Spin,No. 42 Spin Turn 4,16,2
+5409,127,130,Spin,"No. 54, 48 Spin Frontstretch",43,2
+5409,137,140,Weather,Weather [Red flag 1:21:20],8,2
+5409,187,192,Competition,Stage 2 Conclusion,42,2
+5409,203,208,Accident,No. 15 Incident Turn 2,42,2
+5409,210,213,Accident,No. 43 Incident Turn 2,42,2
+5409,220,225,Accident,No. 9 Incident Frontstetch,43,2
+5409,229,234,Accident,No. 20 Incident Turn 2,43,2
+5409,244,248,Accident,No. 6 Incident Turn 2,None,2
+5409,300,304,Accident,"No. 2, 10 Incident Backstretch",12,2
+5409,306,312,Unknown,"No. 5, 1, 54, 8, 3, 24 Turn 1",16,2
+5409,314,319,Accident,"No. 41, 50, 6, 47, 4, 51 Incident Backstretch",2,2
+5409,321,324,Accident,"No. 8, 9, 5 Incident Turn 1",6,2
+5409,326,329,Accident,No. 4 Incident Turn 4,6,2
 5429,24,29,Accident,"#1, 14, 15, 91 Incident Turn 1",None,2
 5429,32,35,Competition,Stage 1 Conclusion,None,2
 5429,38,42,Accident,"#21, 16, 97, 48, 2, 20, 10, 5, 11, 35, 51 Incident Backstretch",None,2
