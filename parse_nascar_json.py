@@ -1,3 +1,4 @@
+import logging
 import pandas as pd
 import json
 from datetime import datetime
@@ -791,14 +792,20 @@ def parse_pit_data(season: int):
         try:
             response = urlopen(url)
             has_data = True
-        except:
+        except Exception:
             has_data = False
 
         if has_data is True:
-            json_data = json.loads(response.read())
-            temp_df = pd.json_normalize(json_data)
-            pit_df_arr.append(temp_df)
-            del temp_df
+            try:
+                json_data = json.loads(response.read())
+                temp_df = pd.json_normalize(json_data)
+                temp_df["race_id"] = race_id
+                pit_df_arr.append(temp_df)
+                del temp_df
+            except Exception:
+                logging.warning(
+                    f"\nCould not parse race ID {race_id}"
+                )
 
         time.sleep(1)
 
@@ -819,7 +826,7 @@ def main():
         del df
 
     # parse_basic_race_results(current_year)
-    for i in range(current_year, current_year+1):
+    for i in range(2022, current_year+1):
         print(f'\nGetting the NASCAR race info for the {i} season.')
         info_df, results_df, \
             cautions_df, leaders_df, \
