@@ -685,7 +685,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2024,W,2024_Ally_400,2024_19,13,33,51,usa,Justin_Haley,Justin Haley,Pinnacle Home Improvement   (Rick Ware),Rick_Ware,Ford,331,running,0,24,0
 2024,W,2024_Ally_400,2024_19,14,12,48,usa,Alex_Bowman,Alex Bowman,Ally   (Rick Hendrick),Rick_Hendrick,Chevrolet,331,running,0,23,0
 2024,W,2024_Ally_400,2024_19,15,10,2,usa,Austin_Cindric,Austin Cindric,Discount Tire   (Roger Penske),Roger_Penske,Ford,331,running,0,22,0
-2024,W,2024_Ally_400,2024_19,16,15,77,usa,Carson_Hocevar,Carson Hocevar,Zeigler Auto Group   (Spire Motorsports),Spire_Motorsports,Chevrolet,331,running,0,21,0
+2024,W,2024_Ally_400,2024_19,16,15,77,usa,Carson_Hocevar,Carson Hocevar,Zeigler Auto Group   (Spire Motorsports),Spire_Motorsports,Chevrolet,331,running,0,-4,0
 2024,W,2024_Ally_400,2024_19,17,32,38,usa,Todd_Gilliland,Todd Gilliland,gener8tor   (Bob Jenkins),Bob_Jenkins,Ford,331,running,0,20,0
 2024,W,2024_Ally_400,2024_19,18,13,9,usa,Chase_Elliott,Chase Elliott,NAPA Auto Parts   (Rick Hendrick),Rick_Hendrick,Chevrolet,331,running,0,24,0
 2024,W,2024_Ally_400,2024_19,19,7,24,usa,William_Byron,William Byron,Valvoline   (Rick Hendrick),Rick_Hendrick,Chevrolet,331,running,0,22,0
@@ -708,3 +708,43 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2024,W,2024_Ally_400,2024_19,36,3,20,usa,Christopher_Bell,Christopher Bell,DEWALT   (Joe Gibbs),Joe_Gibbs,Toyota,227,crash,131,21,2
 2024,W,2024_Ally_400,2024_19,37,30,15,usa,Riley_Herbst,Riley Herbst,Monster Energy Zero Sugar   (Rick Ware),Rick_Ware,Ford,201,crash,0,0,0
 2024,W,2024_Ally_400,2024_19,38,38,66,usa,Chad_Finchum,Chad Finchum,Cooper&Hunter   (Carl Long),Carl_Long,Ford,132,electrical,0,0,0
+2024,W,2024_Grant_Park_165,2024_20,1,8,48,usa,Alex_Bowman,Alex Bowman,Ally   (Rick Hendrick),Rick_Hendrick,Chevrolet,58,running,8,54,5
+2024,W,2024_Grant_Park_165,2024_20,2,4,45,usa,Tyler_Reddick,Tyler Reddick,Jordan Brand   (23XI Racing),23XI_Racing,Toyota,58,running,0,37,0
+2024,W,2024_Grant_Park_165,2024_20,3,2,54,usa,Ty_Gibbs,Ty Gibbs,Monster Energy   (Joe Gibbs),Joe_Gibbs,Toyota,58,running,17,42,0
+2024,W,2024_Grant_Park_165,2024_20,4,38,60,usa,Joey_Hand,Joey Hand,BuildSubmarines.com   (Jack Roush),Jack_Roush,Ford,58,running,7,43,1
+2024,W,2024_Grant_Park_165,2024_20,5,3,34,usa,Michael_McDowell,Michael McDowell,Chicago White Sox   (Bob Jenkins),Bob_Jenkins,Ford,58,running,0,32,0
+2024,W,2024_Grant_Park_165,2024_20,6,33,47,usa,Ricky_Stenhouse_Jr,Ricky Stenhouse Jr,Mariano's/Colgate Optic White   (JTG-Daugherty Racing),JTG-Daugherty_Racing,Chevrolet,58,running,0,34,0
+2024,W,2024_Grant_Park_165,2024_20,7,26,38,usa,Todd_Gilliland,Todd Gilliland,gener8tor   (Bob Jenkins),Bob_Jenkins,Ford,58,running,0,33,0
+2024,W,2024_Grant_Park_165,2024_20,8,27,24,usa,William_Byron,William Byron,Relay Payments   (Rick Hendrick),Rick_Hendrick,Chevrolet,58,running,0,29,0
+2024,W,2024_Grant_Park_165,2024_20,9,19,8,usa,Kyle_Busch,Kyle Busch,Zone   (Richard Childress),Richard_Childress,Chevrolet,58,running,0,28,0
+2024,W,2024_Grant_Park_165,2024_20,10,17,12,usa,Ryan_Blaney,Ryan Blaney,Menards Dutch Boy   (Roger Penske),Roger_Penske,Ford,58,running,0,27,0
+2024,W,2024_Grant_Park_165,2024_20,11,9,99,mexico,Daniel_Suarez,Daniel Suarez,Jockey x Folds of Honor   (Trackhouse Racing),Trackhouse_Racing,Chevrolet,58,running,0,27,0
+2024,W,2024_Grant_Park_165,2024_20,12,35,31,usa,Daniel_Hemric,Daniel Hemric,Cirkul   (Matthew Kaulig),Matt_Kaulig,Chevrolet,58,running,0,29,0
+2024,W,2024_Grant_Park_165,2024_20,13,6,23,usa,Bubba_Wallace,Bubba Wallace,McDonald's   (23XI Racing),23XI_Racing,Toyota,58,running,0,28,0
+2024,W,2024_Grant_Park_165,2024_20,14,28,10,usa,Noah_Gragson,Noah Gragson,Bass Pro Shops Winchester   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,58,running,0,28,0
+2024,W,2024_Grant_Park_165,2024_20,15,21,2,usa,Austin_Cindric,Austin Cindric,Discount Tire   (Roger Penske),Roger_Penske,Ford,58,running,0,22,0
+2024,W,2024_Grant_Park_165,2024_20,16,23,51,usa,Justin_Haley,Justin Haley,Pinnacle Home Improvement   (Rick Ware),Rick_Ware,Ford,58,running,0,21,0
+2024,W,2024_Grant_Park_165,2024_20,17,30,71,usa,Zane_Smith,Zane Smith,Focused Health   (Spire Motorsports),Spire_Motorsports,Chevrolet,58,running,3,20,0
+2024,W,2024_Grant_Park_165,2024_20,18,10,6,usa,Brad_Keselowski,Brad Keselowski,Elk Grove Village   (Jack Roush),Jack_Roush,Ford,58,running,0,27,0
+2024,W,2024_Grant_Park_165,2024_20,19,15,3,usa,Austin_Dillon,Austin Dillon,Get Bioethanol   (Richard Childress),Richard_Childress,Chevrolet,58,running,0,18,0
+2024,W,2024_Grant_Park_165,2024_20,20,16,17,usa,Chris_Buescher,Chris Buescher,Fastenal   (Jack Roush),Jack_Roush,Ford,58,running,0,17,0
+2024,W,2024_Grant_Park_165,2024_20,21,18,9,usa,Chase_Elliott,Chase Elliott,NAPA Auto Parts   (Rick Hendrick),Rick_Hendrick,Chevrolet,58,running,0,16,0
+2024,W,2024_Grant_Park_165,2024_20,22,14,1,usa,Ross_Chastain,Ross Chastain,Busch Light Peach   (Trackhouse Racing),Trackhouse_Racing,Chevrolet,58,running,0,15,0
+2024,W,2024_Grant_Park_165,2024_20,23,32,22,usa,Joey_Logano,Joey Logano,Shell Pennzoil   (Roger Penske),Roger_Penske,Ford,58,running,0,14,0
+2024,W,2024_Grant_Park_165,2024_20,24,13,77,usa,Carson_Hocevar,Carson Hocevar,Zeigler Auto Group   (Spire Motorsports),Spire_Motorsports,Chevrolet,58,running,0,20,0
+2024,W,2024_Grant_Park_165,2024_20,25,31,21,usa,Harrison_Burton,Harrison Burton,Motorcraft Quick Lane   (Wood Brothers),Wood_Brothers,Ford,58,running,0,14,0
+2024,W,2024_Grant_Park_165,2024_20,26,40,15,usa,Kaz_Grala,Kaz Grala,Remixers.comMeat n' Bone   (Rick Ware),Rick_Ware,Ford,58,running,0,11,0
+2024,W,2024_Grant_Park_165,2024_20,27,20,7,usa,Corey_LaJoie,Corey LaJoie,Celsius   (Spire Motorsports),Spire_Motorsports,Chevrolet,58,running,0,10,0
+2024,W,2024_Grant_Park_165,2024_20,28,39,66,usa,Josh_Bilicki,Josh Bilicki,Purekick Hydration   (Carl Long),Carl_Long,Ford,58,running,0,0,0
+2024,W,2024_Grant_Park_165,2024_20,29,25,43,usa,Erik_Jones,Erik Jones,AdventHealth   (Legacy Motor Club),Legacy_Motor_Club,Toyota,58,running,0,8,0
+2024,W,2024_Grant_Park_165,2024_20,30,11,11,usa,Denny_Hamlin,Denny Hamlin,SportClips Haircuts   (Joe Gibbs),Joe_Gibbs,Toyota,58,running,0,8,0
+2024,W,2024_Grant_Park_165,2024_20,31,34,33,usa,Austin_Hill,Austin Hill,United Rentals   (Richard Childress),Richard_Childress,Chevrolet,58,running,0,0,0
+2024,W,2024_Grant_Park_165,2024_20,32,22,14,usa,Chase_Briscoe,Chase Briscoe,Mahindra Compact Tractors   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,58,running,0,12,0
+2024,W,2024_Grant_Park_165,2024_20,33,24,19,usa,Martin_Truex_Jr,Martin Truex Jr,Bass Pro Shops   (Joe Gibbs),Joe_Gibbs,Toyota,58,running,0,10,0
+2024,W,2024_Grant_Park_165,2024_20,34,29,41,usa,Ryan_Preece,Ryan Preece,HaasTooling.com   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,58,running,0,3,0
+2024,W,2024_Grant_Park_165,2024_20,35,12,42,usa,John_H._Nemechek,John H. Nemechek,Dollar Tree   (Legacy Motor Club),Legacy_Motor_Club,Toyota,57,running,0,2,0
+2024,W,2024_Grant_Park_165,2024_20,36,36,4,usa,Josh_Berry,Josh Berry,Overstock.com   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,57,running,0,1,0
+2024,W,2024_Grant_Park_165,2024_20,37,7,20,usa,Christopher_Bell,Christopher Bell,CRAFTSMAN Racing for a Miracle   (Joe Gibbs),Joe_Gibbs,Toyota,55,crash,14,10,0
+2024,W,2024_Grant_Park_165,2024_20,38,37,13,usa,A_J_Allmendinger,A.J. Allmendinger,Benesch   (Matthew Kaulig),Matt_Kaulig,Chevrolet,48,crash,0,0,0
+2024,W,2024_Grant_Park_165,2024_20,39,1,5,usa,Kyle_Larson,Kyle Larson,Valvoline   (Rick Hendrick),Rick_Hendrick,Chevrolet,33,crash,0,7,0
+2024,W,2024_Grant_Park_165,2024_20,40,5,16,new_zealand,Shane_Van_Gisbergen,Shane Van Gisbergen,Wendy's Saucy Nuggs   (Matthew Kaulig),Matt_Kaulig,Chevrolet,24,crash,9,0,0
