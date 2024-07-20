@@ -376,3 +376,7 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5476,32,36,Competition,Stage 2 Conclusion,38,2
 5476,46,48,Accident,"Nos. 7, 71 Incident Turn 1",13,2
 5476,63,67,Weather,Weather - Precipitation [Red Flag 1 00:10:30] [Red Flag 2 00:23:50],91,2
+5478,44,49,Spin,#25 Spin Turn 3,56,2
+5478,62,68,Competition,Stage 1 Conclusion,16,2
+5478,87,92,Accident,#44 Incident Turn 1,None,2
+5478,122,129,Competition,Stage 2 Conclusion,04,2
