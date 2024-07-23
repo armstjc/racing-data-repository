@@ -812,6 +812,7 @@ def parse_pit_data(season: int):
     pit_df = pd.concat(pit_df_arr, ignore_index=True)
     return pit_df
 
+
 def main():
     # current_year = datetime.now().year
     now = datetime.now()

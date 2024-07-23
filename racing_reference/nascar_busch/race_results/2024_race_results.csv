@@ -422,7 +422,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2024,B,2024_BetMGM_300,2024_12,3,16,8,usa,Sammy_Smith,Sammy Smith,Pilot Flying J   (JR Motorsports),JR_Motorsports,Chevrolet,200,running,0,39,0
 2024,B,2024_BetMGM_300,2024_12,4,13,1,usa,Sam_Mayer,Sam Mayer,Tire Pros   (JR Motorsports),JR_Motorsports,Chevrolet,200,running,44,40,0
 2024,B,2024_BetMGM_300,2024_12,5,11,16,usa,A_J_Allmendinger,A.J. Allmendinger,LeafFilter Gutter Protection   (Matthew Kaulig),Matt_Kaulig,Chevrolet,200,running,0,38,0
-2024,B,2024_BetMGM_300,2024_12,6,2,33,usa,Kyle_Busch,Kyle Busch,BetMGM / Rebel Bourbon   (Josh Reaume),Josh_Reaume,Chevrolet,200,running,34,0,0
+2024,B,2024_BetMGM_300,2024_12,6,2,33,usa,Kyle_Busch,Kyle Busch,BetMGM / Rebel Bourbon   (Richard Childress),Richard_Childress,Chevrolet,200,running,34,0,0
 2024,B,2024_BetMGM_300,2024_12,7,21,39,usa,Ryan_Sieg,Ryan Sieg,Sci Aps   (Rod Sieg),Rod_Sieg,Ford,200,running,0,36,0
 2024,B,2024_BetMGM_300,2024_12,8,36,11,usa,Josh_Williams,Josh Williams,Alloy Employer Services   (Matthew Kaulig),Matt_Kaulig,Chevrolet,200,running,0,29,0
 2024,B,2024_BetMGM_300,2024_12,9,1,20,usa,Ty_Gibbs,Ty Gibbs,He Gets Us   (Joe Gibbs),Joe_Gibbs,Toyota,200,running,27,0,0
@@ -531,3 +531,231 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2024,B,2024_Zip_Buy_Now_Pay_Later_250,2024_14,36,20,27,usa,Jeb_Burton,Jeb Burton,FVP / Bommarito Auto Group   (Jordan Anderson),Jordan_Anderson,Chevrolet,49,crash,0,1,0
 2024,B,2024_Zip_Buy_Now_Pay_Later_250,2024_14,37,28,11,usa,Josh_Williams,Josh Williams,Alloy Employer Services   (Matthew Kaulig),Matt_Kaulig,Chevrolet,49,crash,0,1,0
 2024,B,2024_Zip_Buy_Now_Pay_Later_250,2024_14,38,27,9,usa,Brandon_Jones,Brandon Jones,Menards/Jeld-Wen   (JR Motorsports),JR_Motorsports,Chevrolet,49,crash,0,1,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,1,5,1,usa,Sam_Mayer,Sam Mayer,Roto-Rooter   (JR Motorsports),JR_Motorsports,Chevrolet,253,running,47,57,5
+2024,B,2024_Hy_Vee_Perks_250,2024_15,2,12,98,usa,Riley_Herbst,Riley Herbst,Monster Energy   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,253,running,7,38,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,3,22,26,usa,Corey_Heim,Corey Heim,Yahoo!   (Sam Hunt),Sam_Hunt,Toyota,253,running,0,0,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,4,17,8,usa,Sammy_Smith,Sammy Smith,TMC Transportation   (JR Motorsports),JR_Motorsports,Chevrolet,253,running,0,45,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,5,3,18,usa,Sheldon_Creed,Sheldon Creed,Friends of Jaclyn Foundation   (Joe Gibbs),Joe_Gibbs,Toyota,253,running,0,46,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,6,7,00,usa,Cole_Custer,Cole Custer,Haas Automation   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,253,running,0,38,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,7,24,38,usa,Matt_DiBenedetto,Matt DiBenedetto,Rema   (Rod Sieg),Rod_Sieg,Ford,253,running,0,30,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,8,6,81,usa,Chandler_Smith,Chandler Smith,Mobil 1   (Joe Gibbs),Joe_Gibbs,Toyota,253,running,131,49,2
+2024,B,2024_Hy_Vee_Perks_250,2024_15,9,28,92,usa,Ross_Chastain,Ross Chastain,Rich Mar Florist   (Mario Gosselin),Mario_Gosselin,Chevrolet,253,running,0,0,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,10,37,10,usa,Daniel_Dye,Daniel Dye,Race to stop Suicide   (Matthew Kaulig),Matt_Kaulig,Chevrolet,253,running,0,0,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,11,10,48,usa,Parker_Kligerman,Parker Kligerman,Spiked Lite Coolers   (Scott Borchetta),Scott_Borchetta,Chevrolet,253,running,0,26,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,12,15,39,usa,Ryan_Sieg,Ryan Sieg,Sci Aps   (Rod Sieg),Rod_Sieg,Ford,253,running,8,25,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,13,25,42,usa,Leland_Honeyman,Leland Honeyman,Randco Industries   (Randy Young),Randy_Young,Chevrolet,253,running,0,24,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,14,20,43,usa,Ryan_Ellis,Ryan Ellis,Shine Water   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,253,running,0,23,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,15,19,5,usa,Anthony_Alfredo,Anthony Alfredo,Ferguson   (Chris Our),Chris_Our,Chevrolet,253,running,0,22,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,16,36,35,usa,Joey_Gase,Joey Gase,Iowa Donor Network   (Emerling-Gase Motorsports),Emerling-Gase_Motorsports,Chevrolet,253,running,0,21,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,17,31,14,usa,David_Starr,David Starr,TBD   (Bobby Dotter),Bobby_Dotter,Chevrolet,253,running,0,20,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,18,29,19,usa,Brett_Moffitt,Brett Moffitt,Destiny Homes   (Joe Gibbs),Joe_Gibbs,Toyota,252,running,0,0,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,19,21,28,usa,Kyle_Sieg,Kyle Sieg,RSS Racing   (Rod Sieg),Rod_Sieg,Ford,252,running,0,18,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,20,27,11,usa,Josh_Williams,Josh Williams,Alloy Employer Services   (Matthew Kaulig),Matt_Kaulig,Chevrolet,252,running,4,17,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,21,16,51,usa,Jeremy_Clements,Jeremy Clements,Whitetail Smokeless   (Jeremy Clements),Jeremy_Clements,Chevrolet,252,running,7,16,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,22,34,4,usa,Dawson_Cram,Dawson Cram,TeamJDMotorsports.com   (Johnny Davis),Johnny_Davis,Chevrolet,252,running,0,15,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,23,32,07,usa,Patrick_Emerling,Patrick Emerling,Hoker Trucking LLC   (Bobby Dotter),Bobby_Dotter,Chevrolet,252,running,0,14,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,24,30,27,usa,Jeb_Burton,Jeb Burton,State Water Heaters   (Jordan Anderson),Jordan_Anderson,Chevrolet,250,running,0,13,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,25,33,15,usa,Hailie_Deegan,Hailie Deegan,AirBox   (Kevin Cywinski),Kevin_Cywinski,Ford,250,running,0,12,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,26,35,6,usa,Garrett_Smithley,Garrett Smithley,TeamJDMotorsports.com   (Johnny Davis),Johnny_Davis,Chevrolet,250,running,0,11,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,27,8,20,usa,John_H._Nemechek,John H. Nemechek,Daisy Brands   (Joe Gibbs),Joe_Gibbs,Toyota,244,crash,35,0,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,28,14,44,usa,Brennan_Poole,Brennan Poole,Macc Door Systems   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,218,oil line,0,9,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,29,1,21,usa,Austin_Hill,Austin Hill,Bennett Transportation   (Richard Childress),Richard_Childress,Chevrolet,217,crash,0,9,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,30,4,7,usa,Justin_Allgaier,Justin Allgaier,BRANDT/Precision Build   (JR Motorsports),JR_Motorsports,Chevrolet,200,crash,14,18,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,31,9,2,usa,Jesse_Love,Jesse Love,Whelen   (Richard Childress),Richard_Childress,Chevrolet,149,crash,0,7,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,32,13,31,usa,Parker_Retzlaff,Parker Retzlaff,FVP Verified. Proven.   (Jordan Anderson),Jordan_Anderson,Chevrolet,103,electrical,0,5,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,33,23,91,usa,Kyle_Weatherman,Kyle Weatherman,DriveSmartWarranty.com   (Mario Gosselin),Mario_Gosselin,Chevrolet,87,crash,0,4,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,34,2,97,new_zealand,Shane_Van_Gisbergen,Shane Van Gisbergen,Kubota   (Matthew Kaulig),Matt_Kaulig,Chevrolet,86,crash,0,3,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,35,18,29,usa,Blaine_Perkins,Blaine Perkins,AUTOPARKIT.com   (Rod Sieg),Rod_Sieg,Ford,86,crash,0,2,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,36,26,9,usa,Brandon_Jones,Brandon Jones,Menards/Pelonis   (JR Motorsports),JR_Motorsports,Chevrolet,38,engine,0,1,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,37,11,16,usa,A_J_Allmendinger,A.J. Allmendinger,Cirkul   (Matthew Kaulig),Matt_Kaulig,Chevrolet,32,crash,0,1,0
+2024,B,2024_Hy_Vee_Perks_250,2024_15,38,38,53,usa,Glen_Reen,Glen Reen,Eternal Fan/Save-A-Lot Food Stores   (Emerling-Gase Motorsports),Emerling-Gase_Motorsports,Chevrolet,20,carburetor,0,1,0
+2024,B,2024_Sci_Aps_200,2024_16,1,23,20,usa,Christopher_Bell,Christopher Bell,Mobil 1   (Joe Gibbs),Joe_Gibbs,Toyota,203,running,43,0,0
+2024,B,2024_Sci_Aps_200,2024_16,2,5,18,usa,Sheldon_Creed,Sheldon Creed,Friends of Jaclyn Foundation   (Joe Gibbs),Joe_Gibbs,Toyota,203,running,1,42,0
+2024,B,2024_Sci_Aps_200,2024_16,3,1,00,usa,Cole_Custer,Cole Custer,Haas Automation   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,203,running,114,42,0
+2024,B,2024_Sci_Aps_200,2024_16,4,12,7,usa,Justin_Allgaier,Justin Allgaier,BRANDT   (JR Motorsports),JR_Motorsports,Chevrolet,203,running,0,44,0
+2024,B,2024_Sci_Aps_200,2024_16,5,38,88,usa,Carson_Kvapil,Carson Kvapil,Clarience Technologies   (JR Motorsports),JR_Motorsports,Chevrolet,203,running,24,36,0
+2024,B,2024_Sci_Aps_200,2024_16,6,9,39,usa,Ryan_Sieg,Ryan Sieg,Sci Aps   (Rod Sieg),Rod_Sieg,Ford,203,running,0,34,0
+2024,B,2024_Sci_Aps_200,2024_16,7,8,48,usa,Parker_Kligerman,Parker Kligerman,Spiked Lite Coolers   (Scott Borchetta),Scott_Borchetta,Chevrolet,203,running,0,31,0
+2024,B,2024_Sci_Aps_200,2024_16,8,4,98,usa,Riley_Herbst,Riley Herbst,Monster Energy   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,203,running,0,37,0
+2024,B,2024_Sci_Aps_200,2024_16,9,37,17,usa,Alex_Bowman,Alex Bowman,HendrickCars.com   (Rick Hendrick),Rick_Hendrick,Chevrolet,203,running,0,0,0
+2024,B,2024_Sci_Aps_200,2024_16,10,7,26,usa,Corey_Heim,Corey Heim,Yahoo!   (Sam Hunt),Sam_Hunt,Toyota,203,running,0,0,0
+2024,B,2024_Sci_Aps_200,2024_16,11,22,16,usa,A_J_Allmendinger,A.J. Allmendinger,Campers Inn RV   (Matthew Kaulig),Matt_Kaulig,Chevrolet,203,running,0,33,0
+2024,B,2024_Sci_Aps_200,2024_16,12,6,8,usa,Sammy_Smith,Sammy Smith,Pilot Flying J   (JR Motorsports),JR_Motorsports,Chevrolet,203,running,3,34,0
+2024,B,2024_Sci_Aps_200,2024_16,13,15,2,usa,Jesse_Love,Jesse Love,Whelen   (Richard Childress),Richard_Childress,Chevrolet,203,running,3,24,0
+2024,B,2024_Sci_Aps_200,2024_16,14,29,9,usa,Brandon_Jones,Brandon Jones,Menards / Watts   (JR Motorsports),JR_Motorsports,Chevrolet,203,running,0,26,0
+2024,B,2024_Sci_Aps_200,2024_16,15,2,81,usa,Chandler_Smith,Chandler Smith,Smith General Contracting   (Joe Gibbs),Joe_Gibbs,Toyota,203,running,1,28,0
+2024,B,2024_Sci_Aps_200,2024_16,16,21,44,usa,Brennan_Poole,Brennan Poole,Frontline Fire Protection   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,203,running,0,21,0
+2024,B,2024_Sci_Aps_200,2024_16,17,20,27,usa,Jeb_Burton,Jeb Burton,Bommarito.com   (Jordan Anderson),Jordan_Anderson,Chevrolet,203,running,0,22,0
+2024,B,2024_Sci_Aps_200,2024_16,18,28,97,new_zealand,Shane_Van_Gisbergen,Shane Van Gisbergen,WeatherTech   (Matthew Kaulig),Matt_Kaulig,Chevrolet,203,running,0,19,0
+2024,B,2024_Sci_Aps_200,2024_16,19,3,1,usa,Sam_Mayer,Sam Mayer,10X Health   (JR Motorsports),JR_Motorsports,Chevrolet,203,running,9,28,1
+2024,B,2024_Sci_Aps_200,2024_16,20,11,5,usa,Anthony_Alfredo,Anthony Alfredo,Steele Group/Anchor Advisors   (Chris Our),Chris_Our,Chevrolet,203,running,0,17,0
+2024,B,2024_Sci_Aps_200,2024_16,21,18,51,usa,Jeremy_Clements,Jeremy Clements,Impel Union   (Jeremy Clements),Jeremy_Clements,Chevrolet,203,running,0,16,0
+2024,B,2024_Sci_Aps_200,2024_16,22,25,19,usa,Justin_Bonsignore,Justin Bonsignore,M3 Technology's   (Joe Gibbs),Joe_Gibbs,Toyota,203,running,3,25,0
+2024,B,2024_Sci_Aps_200,2024_16,23,17,11,usa,Josh_Williams,Josh Williams,Alloy Employer Services   (Matthew Kaulig),Matt_Kaulig,Chevrolet,203,running,0,14,0
+2024,B,2024_Sci_Aps_200,2024_16,24,13,21,usa,Austin_Hill,Austin Hill,Bennett Transportation   (Richard Childress),Richard_Childress,Chevrolet,203,running,2,15,0
+2024,B,2024_Sci_Aps_200,2024_16,25,32,91,usa,Kyle_Weatherman,Kyle Weatherman,DriveSmartWarranty.com   (Mario Gosselin),Mario_Gosselin,Chevrolet,203,running,0,12,0
+2024,B,2024_Sci_Aps_200,2024_16,26,24,31,usa,Parker_Retzlaff,Parker Retzlaff,FUNKAWAY   (Jordan Anderson),Jordan_Anderson,Chevrolet,203,running,0,11,0
+2024,B,2024_Sci_Aps_200,2024_16,27,33,29,usa,Blaine_Perkins,Blaine Perkins,AUTOPARKIT.com   (Rod Sieg),Rod_Sieg,Ford,203,running,0,10,0
+2024,B,2024_Sci_Aps_200,2024_16,28,35,35,usa,Glen_Reen,Glen Reen,New Wave Bath   (Emerling-Gase Motorsports),Emerling-Gase_Motorsports,Chevrolet,203,running,0,9,0
+2024,B,2024_Sci_Aps_200,2024_16,29,34,4,usa,Garrett_Smithley,Garrett Smithley,Trophy Tractor   (Johnny Davis),Johnny_Davis,Chevrolet,202,running,0,8,0
+2024,B,2024_Sci_Aps_200,2024_16,30,31,14,usa,Mason_Massey,Mason Massey,BRUNT Workwear   (Bobby Dotter),Bobby_Dotter,Chevrolet,202,running,0,0,0
+2024,B,2024_Sci_Aps_200,2024_16,31,19,28,usa,Kyle_Sieg,Kyle Sieg,Onsite Power Academy   (Rod Sieg),Rod_Sieg,Ford,201,running,0,6,0
+2024,B,2024_Sci_Aps_200,2024_16,32,30,15,usa,Hailie_Deegan,Hailie Deegan,VIVA Tequila Seltzer   (Kevin Cywinski),Kevin_Cywinski,Ford,201,running,0,5,0
+2024,B,2024_Sci_Aps_200,2024_16,33,36,6,usa,Armani_Williams,Armani Williams,Doug Flutie Jr Fdn for Autism   (Johnny Davis),Johnny_Davis,Ford,198,running,0,4,0
+2024,B,2024_Sci_Aps_200,2024_16,34,27,07,usa,Patrick_Emerling,Patrick Emerling,Laquerre's Power Sports   (Bobby Dotter),Bobby_Dotter,Chevrolet,197,running,0,3,0
+2024,B,2024_Sci_Aps_200,2024_16,35,16,43,usa,Ryan_Ellis,Ryan Ellis,United Construction & Forestry   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,196,dvp,0,2,0
+2024,B,2024_Sci_Aps_200,2024_16,36,26,92,usa,Nathan_Byrd,Nathan Byrd,CleanCore Solutions   (Mario Gosselin),Mario_Gosselin,Chevrolet,185,crash,0,1,0
+2024,B,2024_Sci_Aps_200,2024_16,37,14,42,usa,Leland_Honeyman,Leland Honeyman,Randco Industries   (Randy Young),Randy_Young,Chevrolet,95,crash,0,1,0
+2024,B,2024_Sci_Aps_200,2024_16,38,10,38,usa,Matt_DiBenedetto,Matt DiBenedetto,Sci Aps   (Rod Sieg),Rod_Sieg,Ford,203,running,0,1,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,1,15,20,usa,John_H._Nemechek,John H. Nemechek,Pye Barker Fire & Safety   (Joe Gibbs),Joe_Gibbs,Toyota,188,running,76,0,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,2,8,81,usa,Chandler_Smith,Chandler Smith,Barger Precast   (Joe Gibbs),Joe_Gibbs,Toyota,188,running,0,43,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,3,38,2,usa,Jesse_Love,Jesse Love,C4 Ultimate Energy   (Richard Childress),Richard_Childress,Chevrolet,188,running,0,38,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,4,5,21,usa,Austin_Hill,Austin Hill,Global Industrial   (Richard Childress),Richard_Childress,Chevrolet,188,running,0,33,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,5,7,30,usa,Noah_Gragson,Noah Gragson,Priestly Demolition,,Ford,188,running,0,0,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,6,9,98,usa,Riley_Herbst,Riley Herbst,Monster Energy   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,188,running,0,36,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,7,4,16,usa,A_J_Allmendinger,A.J. Allmendinger,Celsius   (Matthew Kaulig),Matt_Kaulig,Chevrolet,188,running,0,48,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,8,6,7,usa,Justin_Allgaier,Justin Allgaier,Hellmann's/On Track to Read   (JR Motorsports),JR_Motorsports,Chevrolet,188,running,0,37,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,9,2,00,usa,Cole_Custer,Cole Custer,Haas Automation   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,188,running,64,43,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,10,24,1,usa,Sam_Mayer,Sam Mayer,Huck's Market   (JR Motorsports),JR_Motorsports,Chevrolet,188,running,0,27,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,11,3,39,usa,Ryan_Sieg,Ryan Sieg,Sci Aps   (Rod Sieg),Rod_Sieg,Ford,188,running,0,27,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,12,30,88,usa,Carson_Kvapil,Carson Kvapil,Clarience Technologies   (JR Motorsports),JR_Motorsports,Chevrolet,188,running,0,25,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,13,13,9,usa,Brandon_Jones,Brandon Jones,Menards/Best Air   (JR Motorsports),JR_Motorsports,Chevrolet,188,running,0,35,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,14,11,26,usa,Tyler_Reddick,Tyler Reddick,Yahoo!   (Sam Hunt),Sam_Hunt,Toyota,188,running,0,0,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,15,28,97,new_zealand,Shane_Van_Gisbergen,Shane Van Gisbergen,WeatherTech   (Matthew Kaulig),Matt_Kaulig,Chevrolet,188,running,0,22,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,16,10,48,usa,Parker_Kligerman,Parker Kligerman,Spiked Lite Coolers   (Scott Borchetta),Scott_Borchetta,Chevrolet,188,running,0,21,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,17,21,31,usa,Parker_Retzlaff,Parker Retzlaff,FUNKAWAY   (Jordan Anderson),Jordan_Anderson,Chevrolet,188,running,0,20,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,18,17,5,usa,Anthony_Alfredo,Anthony Alfredo,Dude Mint Chill   (Chris Our),Chris_Our,Chevrolet,188,running,0,19,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,19,19,27,usa,Jeb_Burton,Jeb Burton,Hawkins Homes/Screaming Eagle   (Jordan Anderson),Jordan_Anderson,Chevrolet,188,running,0,18,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,20,1,19,usa,Ty_Gibbs,Ty Gibbs,He Gets Us   (Joe Gibbs),Joe_Gibbs,Toyota,188,running,48,0,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,21,18,44,usa,Brennan_Poole,Brennan Poole,Macc Door Systems   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,188,running,0,16,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,22,16,51,usa,Jeremy_Clements,Jeremy Clements,All South Electric / One Stop   (Jeremy Clements),Jeremy_Clements,Chevrolet,188,running,0,15,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,23,23,43,usa,Ryan_Ellis,Ryan Ellis,Classic Collision   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,188,running,0,14,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,24,26,11,usa,Josh_Williams,Josh Williams,Alloy Employer Services   (Matthew Kaulig),Matt_Kaulig,Chevrolet,187,running,0,13,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,25,25,42,usa,Leland_Honeyman,Leland Honeyman,Hardscape Contractors   (Randy Young),Randy_Young,Chevrolet,187,running,0,12,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,26,27,28,usa,Kyle_Sieg,Kyle Sieg,Reliable RV Parts and Service   (Rod Sieg),Rod_Sieg,Ford,187,running,0,11,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,27,20,92,usa,Ross_Chastain,Ross Chastain,Use Your Melon   (Mario Gosselin),Mario_Gosselin,Chevrolet,187,running,0,0,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,28,31,15,usa,Hailie_Deegan,Hailie Deegan,AirBox   (Kevin Cywinski),Kevin_Cywinski,Ford,187,running,0,9,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,29,22,38,usa,Matt_DiBenedetto,Matt DiBenedetto,Rema   (Rod Sieg),Rod_Sieg,Ford,187,running,0,8,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,30,12,8,usa,Sammy_Smith,Sammy Smith,Pilot Flying J   (JR Motorsports),JR_Motorsports,Chevrolet,187,running,0,7,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,31,29,91,usa,Kyle_Weatherman,Kyle Weatherman,DriveSmartWarranty.com   (Mario Gosselin),Mario_Gosselin,Chevrolet,186,running,0,6,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,32,37,35,usa,Logan_Bearden,Logan Bearden,Key Heating and Cooling   (Emerling-Gase Motorsports),Emerling-Gase_Motorsports,Chevrolet,185,running,0,5,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,33,14,18,usa,Sheldon_Creed,Sheldon Creed,Friends of Jaclyn Foundation   (Joe Gibbs),Joe_Gibbs,Toyota,185,running,0,4,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,34,35,14,usa,Chad_Finchum,Chad Finchum,Ted Russell Ford of Knoxville   (Bobby Dotter),Bobby_Dotter,Ford,184,running,0,3,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,35,34,29,usa,Blaine_Perkins,Blaine Perkins,AUTOPARKIT.com   (Rod Sieg),Rod_Sieg,Ford,184,running,0,2,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,36,36,6,usa,Garrett_Smithley,Garrett Smithley,TeamJDMotorsports.com   (Johnny Davis),Johnny_Davis,Chevrolet,183,running,0,1,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,37,32,4,usa,Dawson_Cram,Dawson Cram,TeamJDMotorsports.com   (Johnny Davis),Johnny_Davis,Chevrolet,183,running,0,0,0
+2024,B,2024_Tennessee_Lottery_250,2024_17,38,33,07,usa,Patrick_Emerling,Patrick Emerling,70 Acre Farm Motorsports   (Bobby Dotter),Bobby_Dotter,Chevrolet,183,running,0,1,0
+2024,B,2024_The_Loop_110,2024_18,1,1,97,new_zealand,Shane_Van_Gisbergen,Shane Van Gisbergen,WeatherTech   (Matthew Kaulig),Matt_Kaulig,Chevrolet,50,running,14,51,6
+2024,B,2024_The_Loop_110,2024_18,2,4,19,usa,Ty_Gibbs,Ty Gibbs,He Gets Us   (Joe Gibbs),Joe_Gibbs,Toyota,50,running,0,0,0
+2024,B,2024_The_Loop_110,2024_18,3,2,17,usa,Kyle_Larson,Kyle Larson,HendrickCars.com   (Rick Hendrick),Rick_Hendrick,Chevrolet,50,running,12,0,0
+2024,B,2024_The_Loop_110,2024_18,4,7,48,usa,Parker_Kligerman,Parker Kligerman,Spiked Lite Tropical Coolers   (Scott Borchetta),Scott_Borchetta,Chevrolet,50,running,0,38,0
+2024,B,2024_The_Loop_110,2024_18,5,8,2,usa,Jesse_Love,Jesse Love,WAT   (Richard Childress),Richard_Childress,Chevrolet,50,running,14,44,0
+2024,B,2024_The_Loop_110,2024_18,6,3,88,usa,Connor_Mosack,Connor Mosack,Porter Pipe & Supply   (JR Motorsports),JR_Motorsports,Chevrolet,50,running,0,0,0
+2024,B,2024_The_Loop_110,2024_18,7,13,21,usa,Austin_Hill,Austin Hill,Dow Coatings   (Richard Childress),Richard_Childress,Chevrolet,50,running,8,43,1
+2024,B,2024_The_Loop_110,2024_18,8,15,15,usa,Joey_Logano,Joey Logano,Klutch Vodka   (Kevin Cywinski),Kevin_Cywinski,Ford,50,running,0,0,0
+2024,B,2024_The_Loop_110,2024_18,9,36,7,usa,Justin_Allgaier,Justin Allgaier,BRANDT   (JR Motorsports),JR_Motorsports,Chevrolet,50,running,0,35,0
+2024,B,2024_The_Loop_110,2024_18,10,19,32,usa,Austin_Green,Austin Green,3Dimensional.com   (Jordan Anderson),Jordan_Anderson,Chevrolet,50,running,0,27,0
+2024,B,2024_The_Loop_110,2024_18,11,11,16,usa,A_J_Allmendinger,A.J. Allmendinger,Celsius   (Matthew Kaulig),Matt_Kaulig,Chevrolet,50,running,0,31,0
+2024,B,2024_The_Loop_110,2024_18,12,30,11,usa,Josh_Williams,Josh Williams,Alloy Employer Services   (Matthew Kaulig),Matt_Kaulig,Chevrolet,50,running,0,25,0
+2024,B,2024_The_Loop_110,2024_18,13,14,8,usa,Sammy_Smith,Sammy Smith,Allstate Peterbilt Group   (JR Motorsports),JR_Motorsports,Chevrolet,50,running,2,33,0
+2024,B,2024_The_Loop_110,2024_18,14,28,91,usa,Kyle_Weatherman,Kyle Weatherman,Beard Guyz   (Mario Gosselin),Mario_Gosselin,Chevrolet,50,running,0,23,0
+2024,B,2024_The_Loop_110,2024_18,15,23,27,usa,Jeb_Burton,Jeb Burton,NORMA Ammunition/Grand Springs   (Jordan Anderson),Jordan_Anderson,Chevrolet,50,running,0,22,0
+2024,B,2024_The_Loop_110,2024_18,16,22,39,usa,Ryan_Sieg,Ryan Sieg,Sci Aps   (Rod Sieg),Rod_Sieg,Ford,50,running,0,21,0
+2024,B,2024_The_Loop_110,2024_18,17,32,9,usa,Brandon_Jones,Brandon Jones,Menards/Fisher Nuts   (JR Motorsports),JR_Motorsports,Chevrolet,50,running,0,20,0
+2024,B,2024_The_Loop_110,2024_18,18,10,00,usa,Cole_Custer,Cole Custer,Andy's Frozen Custard   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,50,running,0,25,0
+2024,B,2024_The_Loop_110,2024_18,19,5,1,usa,Sam_Mayer,Sam Mayer,PCI Pharma Services   (JR Motorsports),JR_Motorsports,Chevrolet,50,running,0,23,0
+2024,B,2024_The_Loop_110,2024_18,20,25,44,usa,Brennan_Poole,Brennan Poole,Toxic Waste Energy Drink   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,50,running,0,17,0
+2024,B,2024_The_Loop_110,2024_18,21,27,43,usa,Ryan_Ellis,Ryan Ellis,Snapchat Less Likes More Love   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,50,running,0,16,0
+2024,B,2024_The_Loop_110,2024_18,22,35,28,usa,Kyle_Sieg,Kyle Sieg,RSS Racing   (Rod Sieg),Rod_Sieg,Ford,50,running,0,15,0
+2024,B,2024_The_Loop_110,2024_18,23,26,38,usa,Matt_DiBenedetto,Matt DiBenedetto,Rema   (Rod Sieg),Rod_Sieg,Ford,50,running,0,14,0
+2024,B,2024_The_Loop_110,2024_18,24,29,29,usa,Blaine_Perkins,Blaine Perkins,Crocodile Cloth   (Rod Sieg),Rod_Sieg,Ford,50,running,0,13,0
+2024,B,2024_The_Loop_110,2024_18,25,6,20,usa,John_H._Nemechek,John H. Nemechek,Jewel Osco   (Joe Gibbs),Joe_Gibbs,Toyota,50,running,0,0,0
+2024,B,2024_The_Loop_110,2024_18,26,37,18,usa,Sheldon_Creed,Sheldon Creed,Friends of Jaclyn Foundation   (Joe Gibbs),Joe_Gibbs,Toyota,50,running,0,17,0
+2024,B,2024_The_Loop_110,2024_18,27,31,36,mexico,Daniel_Suarez,Daniel Suarez,Van Der Hagen   (Mario Gosselin),Mario_Gosselin,Chevrolet,50,running,0,0,0
+2024,B,2024_The_Loop_110,2024_18,28,20,98,usa,Riley_Herbst,Riley Herbst,Monster Energy   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,47,overheating,0,9,0
+2024,B,2024_The_Loop_110,2024_18,29,16,07,canada,Alex_Labbe,Alex Labbe,Flood Brothers   (Bobby Dotter),Bobby_Dotter,Chevrolet,45,running,0,8,0
+2024,B,2024_The_Loop_110,2024_18,30,18,5,usa,Anthony_Alfredo,Anthony Alfredo,Dude Wipes   (Chris Our),Chris_Our,Chevrolet,45,running,0,7,0
+2024,B,2024_The_Loop_110,2024_18,31,21,42,usa,Leland_Honeyman,Leland Honeyman,Klean Freak   (Randy Young),Randy_Young,Chevrolet,44,crash,0,6,0
+2024,B,2024_The_Loop_110,2024_18,32,17,50,usa,Preston_Pardus,Preston Pardus,Chinchor Electric Inc.,,Chevrolet,38,electrical,0,5,0
+2024,B,2024_The_Loop_110,2024_18,33,38,26,usa,Sage_Karam,Sage Karam,COLTURE Sports   (Sam Hunt),Sam_Hunt,Toyota,37,crash,0,4,0
+2024,B,2024_The_Loop_110,2024_18,34,12,31,usa,Parker_Retzlaff,Parker Retzlaff,FUNKAWAY   (Jordan Anderson),Jordan_Anderson,Chevrolet,36,crash,0,3,0
+2024,B,2024_The_Loop_110,2024_18,35,33,14,usa,Andre_Castro,Andre Castro,eRacing Association   (Bobby Dotter),Bobby_Dotter,Chevrolet,34,crash,0,2,0
+2024,B,2024_The_Loop_110,2024_18,36,24,92,usa,Josh_Bilicki,Josh Bilicki,Insurance King   (Mario Gosselin),Mario_Gosselin,Chevrolet,34,crash,0,1,0
+2024,B,2024_The_Loop_110,2024_18,37,34,51,usa,Jeremy_Clements,Jeremy Clements,Impel Union   (Jeremy Clements),Jeremy_Clements,Chevrolet,15,crash,0,1,0
+2024,B,2024_The_Loop_110,2024_18,38,9,81,usa,Chandler_Smith,Chandler Smith,Smith General Contracting   (Joe Gibbs),Joe_Gibbs,Toyota,5,engine,0,1,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,1,8,00,usa,Cole_Custer,Cole Custer,Haas Automation   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,90,running,25,59,6
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,2,3,7,usa,Justin_Allgaier,Justin Allgaier,Carolina Carports   (JR Motorsports),JR_Motorsports,Chevrolet,90,running,30,46,1
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,3,6,17,usa,William_Byron,William Byron,HendrickCars.com   (Rick Hendrick),Rick_Hendrick,Chevrolet,90,running,16,0,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,4,1,18,usa,Sheldon_Creed,Sheldon Creed,Friends of Jaclyn Foundation   (Joe Gibbs),Joe_Gibbs,Toyota,90,running,7,38,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,5,4,19,usa,Taylor_Gray,Taylor Gray,Operation 300   (Joe Gibbs),Joe_Gibbs,Toyota,90,running,0,0,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,6,10,16,usa,A_J_Allmendinger,A.J. Allmendinger,Celsius   (Matthew Kaulig),Matt_Kaulig,Chevrolet,90,running,0,42,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,7,11,21,usa,Austin_Hill,Austin Hill,Global Industrial   (Richard Childress),Richard_Childress,Chevrolet,90,running,1,43,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,8,15,48,usa,Parker_Kligerman,Parker Kligerman,Spiked Lite Tropical Coolers   (Scott Borchetta),Scott_Borchetta,Chevrolet,90,running,0,29,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,9,9,8,usa,Sammy_Smith,Sammy Smith,Pilot Flying J   (JR Motorsports),JR_Motorsports,Chevrolet,90,running,0,33,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,10,12,1,usa,Sam_Mayer,Sam Mayer,RTIC Outdoors   (JR Motorsports),JR_Motorsports,Chevrolet,90,running,0,27,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,11,18,98,usa,Riley_Herbst,Riley Herbst,Monster Energy   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,90,running,0,37,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,12,7,39,usa,Ryan_Sieg,Ryan Sieg,Sci Aps   (Rod Sieg),Rod_Sieg,Ford,90,running,4,34,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,13,2,9,usa,Brandon_Jones,Brandon Jones,Menards / Cheez-It   (JR Motorsports),JR_Motorsports,Chevrolet,90,running,0,24,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,14,16,5,usa,Anthony_Alfredo,Anthony Alfredo,Botticelli/Shop Rite   (Chris Our),Chris_Our,Chevrolet,90,running,0,23,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,15,5,81,usa,Chandler_Smith,Chandler Smith,Smith General Contracting   (Joe Gibbs),Joe_Gibbs,Toyota,90,running,0,39,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,16,25,26,usa,Corey_Heim,Corey Heim,Lehigh Valley Phantoms   (Sam Hunt),Sam_Hunt,Toyota,90,running,0,0,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,17,20,10,usa,Daniel_Dye,Daniel Dye,Champion Container   (Matthew Kaulig),Matt_Kaulig,Chevrolet,90,running,0,0,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,18,22,11,usa,Josh_Williams,Josh Williams,Alloy Employer Services   (Matthew Kaulig),Matt_Kaulig,Chevrolet,90,running,0,19,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,19,34,20,usa,Ryan_Truex,Ryan Truex,Certified Collision Center   (Joe Gibbs),Joe_Gibbs,Toyota,90,running,0,18,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,20,33,28,usa,Kyle_Sieg,Kyle Sieg,US Hydrations   (Rod Sieg),Rod_Sieg,Ford,90,running,0,17,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,21,17,27,usa,Jeb_Burton,Jeb Burton,PurYear Tank Lines   (Jordan Anderson),Jordan_Anderson,Chevrolet,90,running,0,16,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,22,19,2,usa,Jesse_Love,Jesse Love,Whelen   (Richard Childress),Richard_Childress,Chevrolet,90,running,7,15,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,23,21,91,usa,Kyle_Weatherman,Kyle Weatherman,DriveSmartWarranty.com   (Mario Gosselin),Mario_Gosselin,Chevrolet,90,running,0,14,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,24,23,38,usa,Matt_DiBenedetto,Matt DiBenedetto,Rema   (Rod Sieg),Rod_Sieg,Ford,90,running,0,13,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,25,28,42,usa,Leland_Honeyman,Leland Honeyman,Randco Industries   (Randy Young),Randy_Young,Chevrolet,90,running,0,12,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,26,27,44,usa,Brennan_Poole,Brennan Poole,Members 1st   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,90,running,0,11,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,27,14,15,usa,Josh_Berry,Josh Berry,VIVA Tequila Seltzer   (Kevin Cywinski),Kevin_Cywinski,Ford,90,running,0,0,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,28,37,4,usa,Thomas_Annunziata,Thomas Annunziata,TeamJDMotorsports.com   (Johnny Davis),Johnny_Davis,Chevrolet,90,running,0,9,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,29,31,14,usa,Mason_Massey,Mason Massey,Real American Beer   (Bobby Dotter),Bobby_Dotter,Ford,90,running,0,0,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,30,24,51,usa,Jeremy_Clements,Jeremy Clements,"Spartan Waste, Fox Sports 98.3   (Jeremy Clements)",Jeremy_Clements,Chevrolet,90,running,0,7,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,31,26,97,new_zealand,Shane_Van_Gisbergen,Shane Van Gisbergen,WeatherTech   (Matthew Kaulig),Matt_Kaulig,Chevrolet,90,running,0,6,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,32,13,31,usa,Parker_Retzlaff,Parker Retzlaff,FUNKAWAY   (Jordan Anderson),Jordan_Anderson,Chevrolet,89,running,0,5,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,33,32,07,usa,Patrick_Emerling,Patrick Emerling,Camelback Resort   (Bobby Dotter),Bobby_Dotter,Chevrolet,89,running,0,4,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,34,35,29,usa,Blaine_Perkins,Blaine Perkins,AUTOPARKIT.com   (Rod Sieg),Rod_Sieg,Ford,72,suspension,0,3,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,35,38,35,usa,Stephen_Mallozzi,Stephen Mallozzi,Emerling-Gase Motorsports,Emerling-Gase_Motorsports,Chevrolet,68,engine,0,0,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,36,30,43,usa,Ryan_Ellis,Ryan Ellis,Sweetwater Construction Corp   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,47,crash,0,1,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,37,29,92,usa,Josh_Bilicki,Josh Bilicki,Rita’s Ice   (Mario Gosselin),Mario_Gosselin,Chevrolet,8,electrical,0,1,0
+2024,B,2024_Explore_The_Pocono_Mountains_225,2024_19,38,36,74,usa,Dawson_Cram,Dawson Cram,10 Mil Brewing Co.   (Mike Harmon),Mike_Harmon,Chevrolet,1,crash,0,0,0
+2024,B,2024_Pennzoil_250,2024_20,1,2,98,usa,Riley_Herbst,Riley Herbst,Monster Energy   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,100,running,30,58,6
+2024,B,2024_Pennzoil_250,2024_20,2,1,00,usa,Cole_Custer,Cole Custer,Haas Automation   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,100,running,47,45,0
+2024,B,2024_Pennzoil_250,2024_20,3,3,20,usa,Aric_Almirola,Aric Almirola,He Gets Us   (Joe Gibbs),Joe_Gibbs,Toyota,100,running,5,46,0
+2024,B,2024_Pennzoil_250,2024_20,4,23,97,new_zealand,Shane_Van_Gisbergen,Shane Van Gisbergen,WeatherTech   (Matthew Kaulig),Matt_Kaulig,Chevrolet,100,running,0,37,0
+2024,B,2024_Pennzoil_250,2024_20,5,12,18,usa,Sheldon_Creed,Sheldon Creed,Friends of Jaclyn Foundation   (Joe Gibbs),Joe_Gibbs,Toyota,100,running,0,33,0
+2024,B,2024_Pennzoil_250,2024_20,6,14,21,usa,Austin_Hill,Austin Hill,Bennett Transportation   (Richard Childress),Richard_Childress,Chevrolet,100,running,0,34,0
+2024,B,2024_Pennzoil_250,2024_20,7,22,10,usa,Daniel_Dye,Daniel Dye,Black Widow Trucks   (Matthew Kaulig),Matt_Kaulig,Chevrolet,100,running,0,0,0
+2024,B,2024_Pennzoil_250,2024_20,8,8,16,usa,A_J_Allmendinger,A.J. Allmendinger,Celsius   (Matthew Kaulig),Matt_Kaulig,Chevrolet,100,running,4,45,0
+2024,B,2024_Pennzoil_250,2024_20,9,9,7,usa,Justin_Allgaier,Justin Allgaier,Jarrett Logistics   (JR Motorsports),JR_Motorsports,Chevrolet,100,running,0,40,0
+2024,B,2024_Pennzoil_250,2024_20,10,7,88,usa,Carson_Kvapil,Carson Kvapil,Clarience Technologies   (JR Motorsports),JR_Motorsports,Chevrolet,100,running,0,29,0
+2024,B,2024_Pennzoil_250,2024_20,11,27,39,usa,Ryan_Sieg,Ryan Sieg,Sci Aps   (Rod Sieg),Rod_Sieg,Ford,100,running,4,44,1
+2024,B,2024_Pennzoil_250,2024_20,12,38,48,usa,Parker_Kligerman,Parker Kligerman,Spiked Lite Tropical Coolers   (Scott Borchetta),Scott_Borchetta,Chevrolet,100,running,0,29,0
+2024,B,2024_Pennzoil_250,2024_20,13,15,2,usa,Jesse_Love,Jesse Love,Whelen / NLEOMF   (Richard Childress),Richard_Childress,Chevrolet,100,running,0,24,0
+2024,B,2024_Pennzoil_250,2024_20,14,16,26,usa,Conor_Daly,Conor Daly,Polkadot   (Sam Hunt),Sam_Hunt,Toyota,100,running,0,23,0
+2024,B,2024_Pennzoil_250,2024_20,15,6,9,usa,Brandon_Jones,Brandon Jones,Menards/Pennington   (JR Motorsports),JR_Motorsports,Chevrolet,100,running,10,29,0
+2024,B,2024_Pennzoil_250,2024_20,16,29,38,usa,Matt_DiBenedetto,Matt DiBenedetto,Rema   (Rod Sieg),Rod_Sieg,Ford,100,running,0,22,0
+2024,B,2024_Pennzoil_250,2024_20,17,17,19,usa,Joe_Graf_Jr,Joe Graf Jr,Toyota Gazoo Racing   (Joe Gibbs),Joe_Gibbs,Toyota,100,running,0,20,0
+2024,B,2024_Pennzoil_250,2024_20,18,21,8,usa,Sammy_Smith,Sammy Smith,TMC Transportation   (JR Motorsports),JR_Motorsports,Chevrolet,100,running,0,19,0
+2024,B,2024_Pennzoil_250,2024_20,19,11,27,usa,Jeb_Burton,Jeb Burton,iHeart Media / Q95 Rocks   (Jordan Anderson),Jordan_Anderson,Chevrolet,100,running,0,18,0
+2024,B,2024_Pennzoil_250,2024_20,20,25,42,usa,Leland_Honeyman,Leland Honeyman,Distributor Wire & Cable Co   (Randy Young),Randy_Young,Chevrolet,100,running,0,19,0
+2024,B,2024_Pennzoil_250,2024_20,21,30,44,usa,Brennan_Poole,Brennan Poole,Macc Door Systems   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,100,running,0,16,0
+2024,B,2024_Pennzoil_250,2024_20,22,31,28,usa,Kyle_Sieg,Kyle Sieg,Night Owl   (Rod Sieg),Rod_Sieg,Ford,100,running,0,15,0
+2024,B,2024_Pennzoil_250,2024_20,23,34,43,usa,Ryan_Ellis,Ryan Ellis,Renascent Demolition   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,100,running,0,14,0
+2024,B,2024_Pennzoil_250,2024_20,24,35,35,usa,Joey_Gase,Joey Gase,Bell Helmets   (Emerling-Gase Motorsports),Emerling-Gase_Motorsports,Chevrolet,100,running,0,13,0
+2024,B,2024_Pennzoil_250,2024_20,25,28,91,usa,Kyle_Weatherman,Kyle Weatherman,DriveSmartWarranty.com   (Mario Gosselin),Mario_Gosselin,Chevrolet,100,running,0,12,0
+2024,B,2024_Pennzoil_250,2024_20,26,36,14,usa,David_Starr,David Starr,SHAR   (Bobby Dotter),Bobby_Dotter,Ford,100,running,0,11,0
+2024,B,2024_Pennzoil_250,2024_20,27,32,92,usa,Josh_Bilicki,Josh Bilicki,Rita’s Ice   (Mario Gosselin),Mario_Gosselin,Chevrolet,100,running,0,10,0
+2024,B,2024_Pennzoil_250,2024_20,28,33,13,usa,B_J_McLeod,B.J. McLeod,Falling In Reverse   (Carl Long),Carl_Long,Chevrolet,100,running,0,9,0
+2024,B,2024_Pennzoil_250,2024_20,29,24,29,usa,Blaine_Perkins,Blaine Perkins,AUTOPARKIT.com   (Rod Sieg),Rod_Sieg,Ford,100,running,0,8,0
+2024,B,2024_Pennzoil_250,2024_20,30,18,51,usa,Jeremy_Clements,Jeremy Clements,Wings Etc Grill & Pub   (Jeremy Clements),Jeremy_Clements,Chevrolet,99,running,0,7,0
+2024,B,2024_Pennzoil_250,2024_20,31,26,45,usa,Garrett_Smithley,Garrett Smithley,Trophy Tractor/RichMar Florist   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,97,running,0,6,0
+2024,B,2024_Pennzoil_250,2024_20,32,37,07,usa,Greg_Van_Alst,Greg Van Alst,CB Fabricating   (Bobby Dotter),Bobby_Dotter,Chevrolet,91,ignition,0,5,0
+2024,B,2024_Pennzoil_250,2024_20,33,13,81,usa,Chandler_Smith,Chandler Smith,QuickTie   (Joe Gibbs),Joe_Gibbs,Toyota,86,running,0,4,0
+2024,B,2024_Pennzoil_250,2024_20,34,5,5,usa,Anthony_Alfredo,Anthony Alfredo,Dude Mint Chill   (Chris Our),Chris_Our,Chevrolet,83,crash,0,3,0
+2024,B,2024_Pennzoil_250,2024_20,35,20,31,usa,Parker_Retzlaff,Parker Retzlaff,FUNKAWAY   (Jordan Anderson),Jordan_Anderson,Chevrolet,83,crash,0,2,0
+2024,B,2024_Pennzoil_250,2024_20,36,19,11,usa,Josh_Williams,Josh Williams,Alloy Employer Services   (Matthew Kaulig),Matt_Kaulig,Chevrolet,83,crash,0,1,0
+2024,B,2024_Pennzoil_250,2024_20,37,4,1,usa,Sam_Mayer,Sam Mayer,Huck's Market   (JR Motorsports),JR_Motorsports,Chevrolet,0,crash,0,1,0
+2024,B,2024_Pennzoil_250,2024_20,38,10,15,usa,Josh_Berry,Josh Berry,Klutch Vodka   (Kevin Cywinski),Kevin_Cywinski,Ford,0,crash,0,0,0

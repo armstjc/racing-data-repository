@@ -29,7 +29,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2024,C,2024_Fresh_From_Florida_250,2024_01,28,18,77,usa,Chase_Purdy,Chase Purdy,Bama Buggies   (Spire Motorsports),Spire_Motorsports,Chevrolet,93,crash,1,9,0
 2024,C,2024_Fresh_From_Florida_250,2024_01,29,2,45,usa,Johnny_Sauter,Johnny Sauter,Niece/IEDA   (Al Niece),Al_Niece,Chevrolet,79,crash,24,18,1
 2024,C,2024_Fresh_From_Florida_250,2024_01,30,24,99,usa,Ben_Rhodes,Ben Rhodes,Ranch Fuel Energy Drink   (Duke Thorson),Duke_Thorson,Ford,71,crash,5,13,0
-2024,C,2024_Fresh_From_Florida_250,2024_01,31,36,27,usa,Keith_McGee,Keith McGee,More Core   (Rackley W.A.R.),Rackley_WAR,Ford,44,crash,0,6,0
+2024,C,2024_Fresh_From_Florida_250,2024_01,31,36,27,usa,Keith_McGee,Keith McGee,More Core   (Josh Reaume),Josh_Reaume,Ford,44,crash,0,6,0
 2024,C,2024_Fresh_From_Florida_250,2024_01,32,35,33,usa,Lawless_Alan,Lawless Alan,AUTOChargit Mobile   (Josh Reaume),Josh_Reaume,Ford,27,overheating,0,5,0
 2024,C,2024_Fresh_From_Florida_250,2024_01,33,21,38,usa,Layne_Riggs,Layne Riggs,Love's RV Stops   (Bob Jenkins),Bob_Jenkins,Ford,13,dvp,0,4,0
 2024,C,2024_Fresh_From_Florida_250,2024_01,34,16,13,usa,Jake_Garcia,Jake Garcia,Quanta Services   (Duke Thorson),Duke_Thorson,Ford,6,crash,0,3,0
@@ -237,7 +237,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2024,C,2024_SpeedyCash_com_250,2024_07,30,26,1,usa,Kris_Wright,Kris Wright,America's Auto Auction/Esmark   (David Gilliland),David_Gilliland,Toyota,145,crash,0,7,0
 2024,C,2024_SpeedyCash_com_250,2024_07,31,7,38,usa,Layne_Riggs,Layne Riggs,Infinity Communications Group   (Bob Jenkins),Bob_Jenkins,Ford,135,crash,0,15,0
 2024,C,2024_SpeedyCash_com_250,2024_07,32,23,46,usa,Thad_Moffitt,Thad Moffitt,Safety-Kleen   (Lane Moore),Lane_Moore,Chevrolet,1,crash,0,5,0
-2024,C,2024_SpeedyCash_com_250,2024_07,33,31,20,none,Memphis_Villarreal,Memphis Villarreal,Laredo Trailer Supply   (Randy Young),Randy_Young,Chevrolet,1,crash,0,4,0
+2024,C,2024_SpeedyCash_com_250,2024_07,33,31,20,usa,Memphis_Villarreal,Memphis Villarreal,Laredo Trailer Supply   (Randy Young),Randy_Young,Chevrolet,1,crash,0,4,0
 2024,C,2024_SpeedyCash_com_250,2024_07,34,33,18,usa,Tyler_Ankrum,Tyler Ankrum,LiUNA!   (Bill McAnally),Bill_McAnally,Chevrolet,1,crash,0,3,0
 2024,C,2024_Heart_of_America_200,2024_08,1,13,11,usa,Corey_Heim,Corey Heim,Safelite   (David Gilliland),David_Gilliland,Toyota,134,running,79,59,6
 2024,C,2024_Heart_of_America_200,2024_08,2,9,91,usa,Zane_Smith,Zane Smith,Instacoat Premium Products   (Bill McAnally),Bill_McAnally,Chevrolet,134,running,29,0,0
@@ -368,7 +368,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2024,C,2024_North_Carolina_Education_Lottery_200,2024_11,26,10,41,usa,Bayley_Currey,Bayley Currey,Foundation for Pops   (Al Niece),Al_Niece,Chevrolet,134,running,0,12,0
 2024,C,2024_North_Carolina_Education_Lottery_200,2024_11,27,24,21,usa,Mason_Maggio,Mason Maggio,US Off Market Real Estate Deals   (Scott Osteen),Scott_Osteen,Ford,134,running,0,10,0
 2024,C,2024_North_Carolina_Education_Lottery_200,2024_11,28,5,38,usa,Layne_Riggs,Layne Riggs,Infinity Communications Group   (Bob Jenkins),Bob_Jenkins,Ford,133,running,0,20,0
-2024,C,2024_North_Carolina_Education_Lottery_200,2024_11,29,28,20,none,Memphis_Villarreal,Memphis Villarreal,Laredo Trailer Supply   (Randy Young),Randy_Young,Chevrolet,131,running,0,8,0
+2024,C,2024_North_Carolina_Education_Lottery_200,2024_11,29,28,20,usa,Memphis_Villarreal,Memphis Villarreal,Laredo Trailer Supply   (Randy Young),Randy_Young,Chevrolet,131,running,0,8,0
 2024,C,2024_North_Carolina_Education_Lottery_200,2024_11,30,21,33,usa,Lawless_Alan,Lawless Alan,AUTOChargit   (Josh Reaume),Josh_Reaume,Ford,120,brakes,0,7,0
 2024,C,2024_North_Carolina_Education_Lottery_200,2024_11,31,22,88,usa,Matt_Crafton,Matt Crafton,Chi Chis/ Menards   (Duke Thorson),Duke_Thorson,Ford,119,running,0,6,0
 2024,C,2024_North_Carolina_Education_Lottery_200,2024_11,32,34,18,usa,Tyler_Ankrum,Tyler Ankrum,LiUNA!   (Bill McAnally),Bill_McAnally,Chevrolet,67,crash,0,5,0
@@ -478,5 +478,40 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2024,C,2024_CRC_Brakleen_175,2024_14,32,24,33,usa,Lawless_Alan,Lawless Alan,AUTODockit   (Josh Reaume),Josh_Reaume,Ford,68,running,0,5,0
 2024,C,2024_CRC_Brakleen_175,2024_14,33,33,21,usa,Sage_Karam,Sage Karam,CRC Brakleen   (Scott Osteen),Scott_Osteen,Ford,67,running,0,0,0
 2024,C,2024_CRC_Brakleen_175,2024_14,34,34,28,usa,Bryan_Dauzat,Bryan Dauzat,FDNY Racing   (Jim Rosenblum),Jim_Rosenblum,Chevrolet,65,running,0,3,0
-2024,C,2024_CRC_Brakleen_175,2024_14,35,35,27,usa,Stephen_Mallozzi,Stephen Mallozzi,NUGGETTRAP.COM   (Rackley W.A.R.),Rackley_WAR,Ford,22,transmission,0,2,0
+2024,C,2024_CRC_Brakleen_175,2024_14,35,35,27,usa,Stephen_Mallozzi,Stephen Mallozzi,NUGGETTRAP.COM   (Josh Reaume),Josh_Reaume,Ford,22,transmission,0,2,0
 2024,C,2024_CRC_Brakleen_175,2024_14,36,23,76,usa,Spencer_Boyd,Spencer Boyd,Erickson Manufacturing,,Chevrolet,5,hub,0,1,0
+2024,C,2024_Tsport_200,2024_15,1,4,98,usa,Ty_Majeski,Ty Majeski,Road Ranger   (Mike Curb),Mike_Curb,Ford,200,running,56,48,5
+2024,C,2024_Tsport_200,2024_15,2,6,19,usa,Christian_Eckes,Christian Eckes,NAPA AUTOCARE   (Bill McAnally),Bill_McAnally,Chevrolet,200,running,73,55,2
+2024,C,2024_Tsport_200,2024_15,3,2,9,usa,Grant_Enfinger,Grant Enfinger,Champion Power Equipment   (Codie Rohrbaugh),Codie_Rohrbaugh,Chevrolet,200,running,71,43,0
+2024,C,2024_Tsport_200,2024_15,4,3,18,usa,Tyler_Ankrum,Tyler Ankrum,LiUNA!   (Bill McAnally),Bill_McAnally,Chevrolet,200,running,0,46,0
+2024,C,2024_Tsport_200,2024_15,5,17,38,usa,Layne_Riggs,Layne Riggs,LONG JOHN SILVER'S   (Bob Jenkins),Bob_Jenkins,Ford,200,running,0,36,0
+2024,C,2024_Tsport_200,2024_15,6,12,7,usa,Sammy_Smith,Sammy Smith,Golden Harvest   (Spire Motorsports),Spire_Motorsports,Chevrolet,200,running,0,0,0
+2024,C,2024_Tsport_200,2024_15,7,14,66,usa,Luke_Fenhaus,Luke Fenhaus,Soda Sense   (Duke Thorson),Duke_Thorson,Ford,200,running,0,30,0
+2024,C,2024_Tsport_200,2024_15,8,1,71,usa,Rajah_Caruth,Rajah Caruth,HendrickCars.com   (Spire Motorsports),Spire_Motorsports,Chevrolet,200,running,0,37,0
+2024,C,2024_Tsport_200,2024_15,9,19,5,usa,Dean_Thompson,Dean Thompson,Thompson Pipe Group   (David Gilliland),David_Gilliland,Toyota,200,running,0,34,0
+2024,C,2024_Tsport_200,2024_15,10,11,2,usa,Nick_Sanchez,Nick Sanchez,Gainbridge   (Max Siegel),Max_Siegel,Chevrolet,200,running,0,32,0
+2024,C,2024_Tsport_200,2024_15,11,16,45,usa,Ross_Chastain,Ross Chastain,Alliance Highway Safety   (Al Niece),Al_Niece,Chevrolet,200,running,0,0,0
+2024,C,2024_Tsport_200,2024_15,12,26,1,usa,William_Sawalich,William Sawalich,Starkey/Soundgear   (David Gilliland),David_Gilliland,Toyota,200,running,0,25,0
+2024,C,2024_Tsport_200,2024_15,13,10,77,usa,Chase_Purdy,Chase Purdy,Bama Buggies   (Spire Motorsports),Spire_Motorsports,Chevrolet,200,running,0,24,0
+2024,C,2024_Tsport_200,2024_15,14,22,41,usa,Bayley_Currey,Bayley Currey,Niece   (Al Niece),Al_Niece,Chevrolet,199,running,0,23,0
+2024,C,2024_Tsport_200,2024_15,15,23,91,usa,Jack_Wood,Jack Wood,Children's Museum Indianapolis   (Bill McAnally),Bill_McAnally,Chevrolet,199,running,0,22,0
+2024,C,2024_Tsport_200,2024_15,16,13,17,usa,Taylor_Gray,Taylor Gray,JBL   (David Gilliland),David_Gilliland,Toyota,199,running,0,21,0
+2024,C,2024_Tsport_200,2024_15,17,9,11,usa,Corey_Heim,Corey Heim,Safelite   (David Gilliland),David_Gilliland,Toyota,199,running,0,37,0
+2024,C,2024_Tsport_200,2024_15,18,20,25,usa,Ty_Dillon,Ty Dillon,Rackley Roofing   (Rackley W.A.R.),Rackley_WAR,Chevrolet,199,running,0,19,0
+2024,C,2024_Tsport_200,2024_15,19,25,56,usa,Timmy_Hill,Timmy Hill,UNITS Storage   (Timmy Hill),Timmy_Hill,Toyota,199,running,0,18,0
+2024,C,2024_Tsport_200,2024_15,20,21,15,usa,Tanner_Gray,Tanner Gray,Bucket Boss   (David Gilliland),David_Gilliland,Toyota,199,running,0,17,0
+2024,C,2024_Tsport_200,2024_15,21,15,99,usa,Ben_Rhodes,Ben Rhodes,Campers Inn RV   (Duke Thorson),Duke_Thorson,Ford,199,running,0,16,0
+2024,C,2024_Tsport_200,2024_15,22,34,42,usa,Matt_Mills,Matt Mills,J.F. Electric/Utilitra   (Al Niece),Al_Niece,Chevrolet,199,running,0,15,0
+2024,C,2024_Tsport_200,2024_15,23,28,16,usa,Johnny_Sauter,Johnny Sauter,Aisin   (Shigeaki Hattori),Shigeaki_Hattori,Toyota,199,running,0,14,0
+2024,C,2024_Tsport_200,2024_15,24,5,88,usa,Matt_Crafton,Matt Crafton,Dutch Boy / Menards   (Duke Thorson),Duke_Thorson,Ford,199,running,0,20,0
+2024,C,2024_Tsport_200,2024_15,25,29,04,usa,Marco_Andretti,Marco Andretti,Group1001   (Roper Racing),Roper_Racing,Chevrolet,199,running,0,12,0
+2024,C,2024_Tsport_200,2024_15,26,30,32,usa,Bret_Holmes,Bret Holmes,Best Value Carriers   (Stacy Holmes),Stacy_Holmes,Chevrolet,199,running,0,11,0
+2024,C,2024_Tsport_200,2024_15,27,7,43,usa,Daniel_Dye,Daniel Dye,Bettenhausen Automotive   (Bill McAnally),Bill_McAnally,Chevrolet,198,running,0,11,0
+2024,C,2024_Tsport_200,2024_15,28,24,33,usa,Lawless_Alan,Lawless Alan,AUTOChargit   (Josh Reaume),Josh_Reaume,Ford,198,running,0,9,0
+2024,C,2024_Tsport_200,2024_15,29,35,44,usa,Conor_Daly,Conor Daly,Power Plus   (Al Niece),Al_Niece,Chevrolet,197,running,0,0,0
+2024,C,2024_Tsport_200,2024_15,30,18,13,usa,Jake_Garcia,Jake Garcia,Quanta Services   (Duke Thorson),Duke_Thorson,Ford,197,running,0,7,0
+2024,C,2024_Tsport_200,2024_15,31,31,22,usa,Tyler_Tomassi,Tyler Tomassi,Levrack   (Kevin Cywinski),Kevin_Cywinski,Ford,197,running,0,6,0
+2024,C,2024_Tsport_200,2024_15,32,33,46,usa,Thad_Moffitt,Thad Moffitt,Tasty Duck   (Lane Moore),Lane_Moore,Chevrolet,195,running,0,5,0
+2024,C,2024_Tsport_200,2024_15,33,8,52,canada,Stewart_Friesen,Stewart Friesen,Halmar International   (Chris Larsen),Chris_Larsen,Toyota,194,running,0,4,0
+2024,C,2024_Tsport_200,2024_15,34,32,76,usa,Spencer_Boyd,Spencer Boyd,KIR Ammo.com,,Chevrolet,164,running,0,3,0
+2024,C,2024_Tsport_200,2024_15,35,27,02,usa,Mason_Massey,Mason Massey,Brunt   (Randy Young),Randy_Young,Chevrolet,44,crash,0,2,0
