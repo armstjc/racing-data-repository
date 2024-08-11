@@ -397,3 +397,12 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5478,62,68,Competition,Stage 1 Conclusion,16,2
 5478,87,92,Accident,#44 Incident Turn 1,None,2
 5478,122,129,Competition,Stage 2 Conclusion,04,2
+5477,57,63,Accident,#42 incident turn 4,25,2
+5477,72,79,Competition,Stage 1 Conclusion,32,2
+5477,129,134,Accident,#88 incident turn 4,13,2
+5477,142,149,Competition,Stage 2 Conclusion,15,2
+5477,151,165,Accident,"#46, 22, 5, 25, 02, 75, 88, 1 incident turn 4",77,2
+5477,169,177,Spin,#33 spin turn 3,75,2
+5477,183,187,Unknown,#66 slow on track,None,2
+5477,225,230,Accident,"#25, 45 incident turn 4",56,2
+5477,238,242,Accident,"#7, 32 incident turn 2",45,2
