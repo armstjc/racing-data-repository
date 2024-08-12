@@ -180,6 +180,10 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5416,159,161,Accident,"#8, 11 Incident Turn 3",17,2
 5416,163,165,Accident,"#11, 42, 14, 48, 31 Incident Turn 1 [Red Flag 00:17:08]",17,2
 5416,167,167,Unknown,,None,2
+5414,72,80,Competition,Stage 1 Conclusion,34,2
+5414,232,240,Competition,Stage 2 Conclusion,4,2
+5414,400,406,Accident,"#41, 47 incident turn 2",8,2
+5414,408,408,Unknown,,None,2
 5429,24,29,Accident,"#1, 14, 15, 91 Incident Turn 1",None,2
 5429,32,35,Competition,Stage 1 Conclusion,None,2
 5429,38,42,Accident,"#21, 16, 97, 48, 2, 20, 10, 5, 11, 35, 51 Incident Backstretch",None,2
