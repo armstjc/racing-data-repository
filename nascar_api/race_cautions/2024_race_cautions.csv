@@ -322,6 +322,13 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5449,67,71,Accident,"#10, 15, 27 Incident Turn 2",None,2
 5449,117,126,Weather,Weather (Red Flag: 00:14:10),97,2
 5449,128,128,Accident,"#81, 28, 88 Incident Backstretch",None,2
+5452,2,9,Accident,"#21, 43, 14, 51, 35, 29, 15, 26, 7 Incident Turn 3",None,2
+5452,32,36,Competition,Stage 1 Conclusion,None,2
+5452,60,65,Accident,"#1, 2, 5 Incident Turn 4 / Stage 2 Conclusion",00,2
+5452,70,73,Spin,#9 Spin Backstretch,21,2
+5452,78,82,Accident,"#2, 00, 27, 31, 8, 9, 38, 45, 28 Incident Frontstretch",21,2
+5452,96,100,Accident,"#26, 51, 45, 92, 5, 97 Incident Turn 4 [Red Flag: 00:12:12]",8,2
+5452,102,102,Accident,"#16, 51 Incident Turn 1",None,2
 5462,7,12,Accident,"#15, 71, 42, 9, 46, 88, 33, 25, 27, 13, 52, 38, 2 Incident Backstretch",None,2
 5462,17,19,Accident,"#33, 27 Incident Turn 2",15,2
 5462,22,26,Competition,Stage 1 Conclusion,52,2
