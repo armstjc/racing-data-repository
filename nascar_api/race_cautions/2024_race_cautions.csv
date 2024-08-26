@@ -440,3 +440,5 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5477,183,187,Unknown,#66 slow on track,None,2
 5477,225,230,Accident,"#25, 45 incident turn 4",56,2
 5477,238,242,Accident,"#7, 32 incident turn 2",45,2
+5479,49,62,Accident,#21 Incident Turn 3 / Stage 1 Conclusion,32,2
+5479,112,119,Competition,Stage 2 Conclusion,52,2
