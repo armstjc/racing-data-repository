@@ -1,10 +1,12 @@
 import time
+from datetime import datetime
+
 import pandas as pd
+
 # import requests
 from bs4 import BeautifulSoup
-from tqdm import tqdm
-from datetime import datetime
 from selenium import webdriver
+from tqdm import tqdm
 
 
 def get_racing_reference_schedule(season: int, series_id: str) -> pd.DataFrame:

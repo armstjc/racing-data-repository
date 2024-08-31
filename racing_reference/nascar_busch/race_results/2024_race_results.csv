@@ -491,7 +491,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2024,B,2024_Pacific_Automation_147,2024_13,34,14,26,usa,Sage_Karam,Sage Karam,Synergy Modular   (Sam Hunt),Sam_Hunt,Toyota,69,running,0,7,0
 2024,B,2024_Pacific_Automation_147,2024_13,35,11,81,usa,Chandler_Smith,Chandler Smith,QuickTie   (Joe Gibbs),Joe_Gibbs,Toyota,66,crash,0,7,0
 2024,B,2024_Pacific_Automation_147,2024_13,36,20,9,usa,Brandon_Jones,Brandon Jones,Menards/MagickWoods Vanities   (JR Motorsports),JR_Motorsports,Chevrolet,66,crash,0,1,0
-2024,B,2024_Pacific_Automation_147,2024_13,37,16,27,usa,Jeb_Burton,Jeb Burton,Timber Creek Outdoors   (Jordan Anderson),Jordan_Anderson,Chevrolet,61,running,0,1,0
+2024,B,2024_Pacific_Automation_147,2024_13,37,16,27,usa,Jeb_Burton,Jeb Burton,Timber Creek Outdoors   (Jordan Anderson),Jordan_Anderson,Chevrolet,61,running,0,15,0
 2024,B,2024_Pacific_Automation_147,2024_13,38,21,36,usa,Preston_Pardus,Preston Pardus,Danus Utilities Inc.   (Mario Gosselin),Mario_Gosselin,Chevrolet,9,track bar,0,1,0
 2024,B,2024_Zip_Buy_Now_Pay_Later_250,2024_14,1,1,97,new_zealand,Shane_Van_Gisbergen,Shane Van Gisbergen,WeatherTech   (Matthew Kaulig),Matt_Kaulig,Chevrolet,79,running,32,59,6
 2024,B,2024_Zip_Buy_Now_Pay_Later_250,2024_14,2,9,18,usa,Sheldon_Creed,Sheldon Creed,MRC Construction   (Joe Gibbs),Joe_Gibbs,Toyota,79,running,0,42,0
@@ -585,7 +585,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2024,B,2024_Sci_Aps_200,2024_16,14,29,9,usa,Brandon_Jones,Brandon Jones,Menards / Watts   (JR Motorsports),JR_Motorsports,Chevrolet,203,running,0,26,0
 2024,B,2024_Sci_Aps_200,2024_16,15,2,81,usa,Chandler_Smith,Chandler Smith,Smith General Contracting   (Joe Gibbs),Joe_Gibbs,Toyota,203,running,1,28,0
 2024,B,2024_Sci_Aps_200,2024_16,16,21,44,usa,Brennan_Poole,Brennan Poole,Frontline Fire Protection   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,203,running,0,21,0
-2024,B,2024_Sci_Aps_200,2024_16,17,20,27,usa,Jeb_Burton,Jeb Burton,Bommarito.com   (Jordan Anderson),Jordan_Anderson,Chevrolet,203,running,0,22,0
+2024,B,2024_Sci_Aps_200,2024_16,17,20,27,usa,Jeb_Burton,Jeb Burton,Bommarito.com   (Jordan Anderson),Jordan_Anderson,Chevrolet,203,running,0,25,0
 2024,B,2024_Sci_Aps_200,2024_16,18,28,97,new_zealand,Shane_Van_Gisbergen,Shane Van Gisbergen,WeatherTech   (Matthew Kaulig),Matt_Kaulig,Chevrolet,203,running,0,19,0
 2024,B,2024_Sci_Aps_200,2024_16,19,3,1,usa,Sam_Mayer,Sam Mayer,10X Health   (JR Motorsports),JR_Motorsports,Chevrolet,203,running,9,28,1
 2024,B,2024_Sci_Aps_200,2024_16,20,11,5,usa,Anthony_Alfredo,Anthony Alfredo,Steele Group/Anchor Advisors   (Chris Our),Chris_Our,Chevrolet,203,running,0,17,0
@@ -769,7 +769,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2024,B,2024_Cabo_Wabo_250,2024_21,8,3,19,usa,Taylor_Gray,Taylor Gray,Operation 300   (Joe Gibbs),Joe_Gibbs,Toyota,128,running,0,0,0
 2024,B,2024_Cabo_Wabo_250,2024_21,9,25,45,usa,Caesar_Bacarella,Caesar Bacarella,Prime Bites Brownie   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,128,running,0,28,0
 2024,B,2024_Cabo_Wabo_250,2024_21,10,13,16,usa,A_J_Allmendinger,A.J. Allmendinger,Campers Inn RV   (Matthew Kaulig),Matt_Kaulig,Chevrolet,128,running,0,37,0
-2024,B,2024_Cabo_Wabo_250,2024_21,11,22,48,usa,Parker_Kligerman,Parker Kligerman,Spiked Lite Tropical Coolers   (Scott Borchetta),Scott_Borchetta,Chevrolet,128,running,0,27,0
+2024,B,2024_Cabo_Wabo_250,2024_21,11,22,48,usa,Parker_Kligerman,Parker Kligerman,Spiked Lite Tropical Coolers   (Scott Borchetta),Scott_Borchetta,Chevrolet,128,running,0,7,0
 2024,B,2024_Cabo_Wabo_250,2024_21,12,33,42,usa,Leland_Honeyman,Leland Honeyman,Randco Industries   (Randy Young),Randy_Young,Chevrolet,128,running,0,25,0
 2024,B,2024_Cabo_Wabo_250,2024_21,13,7,39,usa,Ryan_Sieg,Ryan Sieg,Sci Aps   (Rod Sieg),Rod_Sieg,Ford,128,running,7,34,1
 2024,B,2024_Cabo_Wabo_250,2024_21,14,37,43,usa,Ryan_Ellis,Ryan Ellis,ABC Warehouse/Icon LLC   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,128,running,0,23,0
@@ -797,3 +797,41 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2024,B,2024_Cabo_Wabo_250,2024_21,36,6,9,usa,Brandon_Jones,Brandon Jones,Menards / Nibco   (JR Motorsports),JR_Motorsports,Chevrolet,50,crash,0,10,0
 2024,B,2024_Cabo_Wabo_250,2024_21,37,11,1,usa,Sam_Mayer,Sam Mayer,10X Health   (JR Motorsports),JR_Motorsports,Chevrolet,49,crash,0,1,0
 2024,B,2024_Cabo_Wabo_250,2024_21,38,2,98,usa,Riley_Herbst,Riley Herbst,Monster Energy   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,48,crash,4,5,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,1,6,20,usa,Ryan_Truex,Ryan Truex,Certified Collision Center   (Joe Gibbs),Joe_Gibbs,Toyota,102,running,28,53,5
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,2,1,81,usa,Chandler_Smith,Chandler Smith,QuickTie   (Joe Gibbs),Joe_Gibbs,Toyota,102,running,15,47,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,3,12,48,usa,Parker_Kligerman,Parker Kligerman,Big Machine Spiked Coolers   (Scott Borchetta),Scott_Borchetta,Chevrolet,102,running,0,45,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,4,8,98,usa,Riley_Herbst,Riley Herbst,Monster Energy   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,102,running,1,42,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,5,26,39,usa,Ryan_Sieg,Ryan Sieg,Sci Aps   (Rod Sieg),Rod_Sieg,Ford,102,running,0,32,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,6,25,32,usa,Jordan_Anderson,Jordan Anderson,Volpi Foods   (Jordan Anderson),Jordan_Anderson,Chevrolet,102,running,0,31,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,7,11,7,usa,Justin_Allgaier,Justin Allgaier,Hellmann's/Sam's Club   (JR Motorsports),JR_Motorsports,Chevrolet,102,running,16,50,2
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,8,7,18,usa,Sheldon_Creed,Sheldon Creed,Friends of Jaclyn Foundation   (Joe Gibbs),Joe_Gibbs,Toyota,102,running,0,40,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,9,20,42,usa,Leland_Honeyman,Leland Honeyman,Cornerstone Produce   (Randy Young),Randy_Young,Chevrolet,102,running,0,28,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,10,18,91,usa,Kyle_Weatherman,Kyle Weatherman,Wawa   (Mario Gosselin),Mario_Gosselin,Chevrolet,102,running,0,27,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,11,10,11,usa,Josh_Williams,Josh Williams,Alloy Employer Services   (Matthew Kaulig),Matt_Kaulig,Chevrolet,102,running,0,27,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,12,4,19,usa,Joe_Graf_Jr,Joe Graf Jr,REAGAN The Movie   (Joe Gibbs),Joe_Gibbs,Toyota,102,running,0,28,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,13,38,1,usa,Sam_Mayer,Sam Mayer,Carolina Carports   (JR Motorsports),JR_Motorsports,Chevrolet,102,running,7,24,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,14,29,29,usa,Blaine_Perkins,Blaine Perkins,Crocodile Cloth   (Rod Sieg),Rod_Sieg,Ford,102,running,0,23,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,15,34,28,usa,Kyle_Sieg,Kyle Sieg,North Country Ford   (Rod Sieg),Rod_Sieg,Ford,102,running,0,2,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,16,31,44,usa,Brennan_Poole,Brennan Poole,CW & Sons / Clark's   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,102,running,0,21,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,17,21,27,usa,Jeb_Burton,Jeb Burton,State Water Heaters   (Jordan Anderson),Jordan_Anderson,Chevrolet,102,running,0,6,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,18,23,07,usa,Patrick_Emerling,Patrick Emerling,Flood Brothers   (Bobby Dotter),Bobby_Dotter,Chevrolet,102,running,0,19,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,19,30,14,usa,C_J_McLaughlin,C.J. McLaughlin,Main Street Auto   (Bobby Dotter),Bobby_Dotter,Chevrolet,102,running,0,18,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,20,35,53,usa,Joey_Gase,Joey Gase,Emerling-Gase Motorsports,Emerling-Gase_Motorsports,Ford,102,running,0,17,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,21,5,2,usa,Jesse_Love,Jesse Love,Whelen - NFFF   (Richard Childress),Richard_Childress,Chevrolet,102,running,0,16,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,22,16,9,usa,Brandon_Jones,Brandon Jones,Menards / Turtlewax   (JR Motorsports),JR_Motorsports,Chevrolet,102,running,0,17,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,23,24,8,usa,Sammy_Smith,Sammy Smith,Pilot Flying J   (JR Motorsports),JR_Motorsports,Chevrolet,102,running,0,16,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,24,3,16,usa,A_J_Allmendinger,A.J. Allmendinger,Campers Inn RV   (Matthew Kaulig),Matt_Kaulig,Chevrolet,102,running,35,28,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,25,19,97,new_zealand,Shane_Van_Gisbergen,Shane Van Gisbergen,Safety Culture   (Matthew Kaulig),Matt_Kaulig,Chevrolet,101,running,0,12,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,26,9,5,usa,Anthony_Alfredo,Anthony Alfredo,Dude Wipes   (Chris Our),Chris_Our,Chevrolet,101,running,0,15,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,27,13,51,usa,Jeremy_Clements,Jeremy Clements,One Stop / All South Electric   (Jeremy Clements),Jeremy_Clements,Chevrolet,101,running,0,11,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,28,22,26,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,ForeverLawn / Big Studios   (Sam Hunt),Sam_Hunt,Toyota,99,running,0,0,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,29,17,45,usa,Caesar_Bacarella,Caesar Bacarella,Prime Bites Brownie    (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,94,crash,0,-12,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,30,33,92,usa,Josh_Bilicki,Josh Bilicki,Wawa   (Mario Gosselin),Mario_Gosselin,Chevrolet,94,crash,0,7,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,31,2,21,usa,Austin_Hill,Austin Hill,Bennett/Global Industrial   (Richard Childress),Richard_Childress,Chevrolet,79,running,0,6,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,32,14,00,usa,Cole_Custer,Cole Custer,Fanttik   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,77,dvp,0,5,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,33,28,38,usa,Matt_DiBenedetto,Matt DiBenedetto,Rema   (Rod Sieg),Rod_Sieg,Ford,76,crash,0,4,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,34,15,31,usa,Parker_Retzlaff,Parker Retzlaff,FUNKAWAY   (Jordan Anderson),Jordan_Anderson,Chevrolet,76,crash,0,3,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,35,37,74,usa,Tim_Viens,Tim Viens,AWS Roofing/Brand X Marine   (Mike Harmon),Mike_Harmon,Chevrolet,15,engine,0,2,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,36,27,15,usa,Gus_Dean,Gus Dean,AirBox   (Kevin Cywinski),Kevin_Cywinski,Ford,4,crash,0,1,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,37,36,43,usa,Ryan_Ellis,Ryan Ellis,Classic Collision   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,1,crash,0,1,0
+2024,B,2024_Wawa_250_Powered_by_Coca-Cola,2024_22,38,32,35,japan,Akinori_Ogata,Akinori Ogata,YKK   (Emerling-Gase Motorsports),Emerling-Gase_Motorsports,Chevrolet,0,crash,0,0,0

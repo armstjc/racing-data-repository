@@ -1,10 +1,12 @@
-import logging
-import pandas as pd
 import json
-from datetime import datetime
+import logging
 import time
+from datetime import datetime
 from urllib.request import urlopen
+
+import pandas as pd
 from tqdm import tqdm
+
 # import numpy as np
 
 
