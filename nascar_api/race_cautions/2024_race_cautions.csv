@@ -483,3 +483,7 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5477,238,242,Accident,"#7, 32 incident turn 2",45,2
 5479,49,62,Accident,#21 Incident Turn 3 / Stage 1 Conclusion,32,2
 5479,112,119,Competition,Stage 2 Conclusion,52,2
+5481,57,65,Competition,Stage 1 Conclusion,32,2
+5481,110,120,Accident,No. 7 Incident Turn 4 / Stage 2 Conclusion,33,2
+5481,158,171,Accident,"Nos. 43, 45 Incident Frontstretch",41,2
+5481,183,187,Accident,"Nos. 91, 99 Incident Turn 4",7,2
