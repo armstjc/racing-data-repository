@@ -389,6 +389,12 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5455,154,161,Accident,#7. 18 incident backstretch,15,2
 5455,172,179,Competition,Stage 2 Conclusion,29,2
 5455,200,206,Spin,#7 spin turn 2,26,2
+5454,7,10,Spin,#8 Spin Backstretch,51,2
+5454,46,53,Competition,Fluid on track / Stage 1 Conclusion,91,2
+5454,66,69,Unknown,#45 Stopped on Track,8,2
+5454,71,75,Accident,"#7, 18 Incident Backstretch",42,2
+5454,92,97,Accident,"#21, 98 Incident Turn 4 / Stage 2 Conclusion",43,2
+5454,146,151,Debris,Debris on Track,39,2
 5462,7,12,Accident,"#15, 71, 42, 9, 46, 88, 33, 25, 27, 13, 52, 38, 2 Incident Backstretch",None,2
 5462,17,19,Accident,"#33, 27 Incident Turn 2",15,2
 5462,22,26,Competition,Stage 1 Conclusion,52,2
