@@ -151,43 +151,44 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2024,B,2024_Call_811_Every_Dig_Every_Time_200,2024_04,36,17,27,usa,Jeb_Burton,Jeb Burton,NORMA Ammunition   (Jordan Anderson),Jordan_Anderson,Chevrolet,143,crash,0,1,0
 2024,B,2024_Call_811_Every_Dig_Every_Time_200,2024_04,37,37,32,usa,Ryan_Vargas,Ryan Vargas,Easy Care   (Jordan Anderson),Jordan_Anderson,Chevrolet,17,suspension,0,1,0
 2024,B,2024_Call_811_Every_Dig_Every_Time_200,2024_04,38,36,07,usa,Patrick_Emerling,Patrick Emerling,MMI Services   (Bobby Dotter),Bobby_Dotter,Chevrolet,5,crash,0,1,0
-2024,B,2024_Focused_Health_250,2024_05,1,4,21,usa,Austin_Hill,Austin Hill,Bennett Transportation   (Richard Childress),Richard_Childress,Chevrolet,163,running,12,50,5
-2024,B,2024_Focused_Health_250,2024_05,2,16,48,usa,Parker_Kligerman,Parker Kligerman,Big Machine Spiked Coolers   (Scott Borchetta),Scott_Borchetta,Chevrolet,163,running,0,35,0
-2024,B,2024_Focused_Health_250,2024_05,3,6,16,usa,A_J_Allmendinger,A.J. Allmendinger,Campers Inn RV   (Matthew Kaulig),Matt_Kaulig,Chevrolet,163,running,40,44,1
-2024,B,2024_Focused_Health_250,2024_05,4,8,81,usa,Chandler_Smith,Chandler Smith,Wheelers   (Joe Gibbs),Joe_Gibbs,Toyota,163,running,28,38,0
-2024,B,2024_Focused_Health_250,2024_05,5,21,26,usa,Corey_Heim,Corey Heim,Toyota Racing Development   (Sam Hunt),Sam_Hunt,Toyota,163,running,0,0,0
-2024,B,2024_Focused_Health_250,2024_05,6,1,2,usa,Jesse_Love,Jesse Love,Samsara   (Richard Childress),Richard_Childress,Chevrolet,163,running,23,42,0
-2024,B,2024_Focused_Health_250,2024_05,7,19,8,usa,Sammy_Smith,Sammy Smith,Pilot Flying J   (JR Motorsports),JR_Motorsports,Chevrolet,163,running,0,39,0
-2024,B,2024_Focused_Health_250,2024_05,8,13,11,usa,Josh_Williams,Josh Williams,Alloy Employer Services   (Matthew Kaulig),Matt_Kaulig,Chevrolet,163,running,0,29,0
-2024,B,2024_Focused_Health_250,2024_05,9,18,9,usa,Brandon_Jones,Brandon Jones,Menards/Jeld-Wen   (JR Motorsports),JR_Motorsports,Chevrolet,163,running,0,32,0
-2024,B,2024_Focused_Health_250,2024_05,10,7,20,usa,Ryan_Truex,Ryan Truex,The Toyota Gazoo Racing   (Joe Gibbs),Joe_Gibbs,Toyota,163,running,0,27,0
-2024,B,2024_Focused_Health_250,2024_05,11,37,91,usa,Kyle_Weatherman,Kyle Weatherman,Brand South Africa   (Mario Gosselin),Mario_Gosselin,Chevrolet,163,running,0,26,0
-2024,B,2024_Focused_Health_250,2024_05,12,17,31,usa,Parker_Retzlaff,Parker Retzlaff,FUNKAWAY   (Jordan Anderson),Jordan_Anderson,Chevrolet,163,running,0,25,0
-2024,B,2024_Focused_Health_250,2024_05,13,22,15,usa,Lawless_Alan,Lawless Alan,Deal Badger   (Kevin Cywinski),Kevin_Cywinski,Ford,163,running,0,0,0
-2024,B,2024_Focused_Health_250,2024_05,14,15,5,usa,Anthony_Alfredo,Anthony Alfredo,Beyond Type 1   (Chris Our),Chris_Our,Chevrolet,163,running,0,23,0
-2024,B,2024_Focused_Health_250,2024_05,15,26,44,usa,Brennan_Poole,Brennan Poole,Hackett Truck Sales   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,163,running,0,22,0
-2024,B,2024_Focused_Health_250,2024_05,16,28,28,usa,Kyle_Sieg,Kyle Sieg,North Country Ford   (Rod Sieg),Rod_Sieg,Ford,163,running,0,21,0
-2024,B,2024_Focused_Health_250,2024_05,17,35,42,usa,Leland_Honeyman,Leland Honeyman,Randco Industries   (Randy Young),Randy_Young,Chevrolet,163,running,1,20,0
-2024,B,2024_Focused_Health_250,2024_05,18,27,35,usa,Mason_Maggio,Mason Maggio,Emerling-Gase Motorsports,Emerling-Gase_Motorsports,Chevrolet,163,running,0,0,0
-2024,B,2024_Focused_Health_250,2024_05,19,24,29,usa,Blaine_Perkins,Blaine Perkins,Pritchard Injury Firm   (Rod Sieg),Rod_Sieg,Ford,163,running,0,18,0
-2024,B,2024_Focused_Health_250,2024_05,20,25,92,usa,Nick_Leitz,Nick Leitz,"Precision Measurements, Inc.   (Mario Gosselin)",Mario_Gosselin,Chevrolet,163,running,0,17,0
-2024,B,2024_Focused_Health_250,2024_05,21,34,43,usa,Ryan_Ellis,Ryan Ellis,Pella Windows & Doors   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,163,running,0,16,0
-2024,B,2024_Focused_Health_250,2024_05,22,33,14,usa,David_Starr,David Starr,Saniserv/Byron Superstore   (Bobby Dotter),Bobby_Dotter,Chevrolet,163,running,0,15,0
-2024,B,2024_Focused_Health_250,2024_05,23,30,45,usa,Garrett_Smithley,Garrett Smithley,Vet The Vote   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,163,running,0,14,0
-2024,B,2024_Focused_Health_250,2024_05,24,20,27,usa,Jeb_Burton,Jeb Burton,NORMA Precision Ammunition   (Jordan Anderson),Jordan_Anderson,Chevrolet,162,running,0,13,0
-2024,B,2024_Focused_Health_250,2024_05,25,5,18,usa,Sheldon_Creed,Sheldon Creed,CW Sports   (Joe Gibbs),Joe_Gibbs,Toyota,160,running,1,19,0
-2024,B,2024_Focused_Health_250,2024_05,26,9,98,usa,Riley_Herbst,Riley Herbst,Monster Energy   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,158,running,0,26,0
-2024,B,2024_Focused_Health_250,2024_05,27,12,97,new_zealand,Shane_Van_Gisbergen,Shane Van Gisbergen,Quad Lock   (Matthew Kaulig),Matt_Kaulig,Chevrolet,157,running,0,12,0
-2024,B,2024_Focused_Health_250,2024_05,28,2,19,usa,Taylor_Gray,Taylor Gray,Operation 300   (Joe Gibbs),Joe_Gibbs,Toyota,154,suspension,12,0,0
-2024,B,2024_Focused_Health_250,2024_05,29,36,51,usa,Jeremy_Clements,Jeremy Clements,Fly and Form Structures   (Jeremy Clements),Jeremy_Clements,Chevrolet,149,suspension,0,8,0
-2024,B,2024_Focused_Health_250,2024_05,30,10,7,usa,Justin_Allgaier,Justin Allgaier,Hellmann's   (JR Motorsports),JR_Motorsports,Chevrolet,146,crash,19,23,1
-2024,B,2024_Focused_Health_250,2024_05,31,3,00,usa,Cole_Custer,Cole Custer,Autodesk/Haas Automation   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,144,crash,27,17,0
-2024,B,2024_Focused_Health_250,2024_05,32,14,39,usa,Ryan_Sieg,Ryan Sieg,Sci Aps   (Rod Sieg),Rod_Sieg,Ford,144,crash,0,5,0
-2024,B,2024_Focused_Health_250,2024_05,33,32,53,usa,Morgen_Baird,Morgen Baird,Alro Steel   (Emerling-Gase Motorsports),Emerling-Gase_Motorsports,Ford,142,running,0,4,0
-2024,B,2024_Focused_Health_250,2024_05,34,23,07,usa,C_J_McLaughlin,C.J. McLaughlin,Main Street Auto   (Bobby Dotter),Bobby_Dotter,Chevrolet,112,engine,0,3,0
-2024,B,2024_Focused_Health_250,2024_05,35,29,38,usa,Matt_DiBenedetto,Matt DiBenedetto,Rema   (Rod Sieg),Rod_Sieg,Ford,80,oil line,0,2,0
-2024,B,2024_Focused_Health_250,2024_05,36,11,1,usa,Sam_Mayer,Sam Mayer,High Rock Vodka   (JR Motorsports),JR_Motorsports,Chevrolet,77,crash,0,6,0
-2024,B,2024_Focused_Health_250,2024_05,37,31,74,usa,Dawson_Cram,Dawson Cram,Mike Harmon Racing   (Mike Harmon),Mike_Harmon,Chevrolet,18,engine,0,0,0
+2024,B,2024_Focused_Health_250,2024_05,1,1,17,usa,Kyle_Larson,Kyle Larson,HendrickCars.com   (Rick Hendrick),Rick_Hendrick,Chevrolet,50,running,1,0,0
+2024,B,2024_Focused_Health_250,2024_05,2,11,21,usa,Austin_Hill,Austin Hill,Bennett Transportation   (Richard Childress),Richard_Childress,Chevrolet,50,running,1,40,0
+2024,B,2024_Focused_Health_250,2024_05,3,20,20,usa,John_H._Nemechek,John H. Nemechek,Dial   (Joe Gibbs),Joe_Gibbs,Toyota,50,running,0,0,0
+2024,B,2024_Focused_Health_250,2024_05,4,8,00,usa,Cole_Custer,Cole Custer,Haas Automation   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,50,running,0,42,0
+2024,B,2024_Focused_Health_250,2024_05,5,12,48,usa,Parker_Kligerman,Parker Kligerman,Spiked Lite Coolers   (Scott Borchetta),Scott_Borchetta,Chevrolet,50,running,4,42,1
+2024,B,2024_Focused_Health_250,2024_05,6,14,2,usa,Jesse_Love,Jesse Love,Whelen   (Richard Childress),Richard_Childress,Chevrolet,50,running,0,31,0
+2024,B,2024_Focused_Health_250,2024_05,7,25,32,usa,Austin_Green,Austin Green,3Dimensional.com   (Jordan Anderson),Jordan_Anderson,Chevrolet,50,running,0,30,0
+2024,B,2024_Focused_Health_250,2024_05,8,4,81,usa,Chandler_Smith,Chandler Smith,Mobil 1   (Joe Gibbs),Joe_Gibbs,Toyota,50,running,0,30,0
+2024,B,2024_Focused_Health_250,2024_05,9,10,1,usa,Sam_Mayer,Sam Mayer,Roto-Rooter   (JR Motorsports),JR_Motorsports,Chevrolet,50,running,0,28,0
+2024,B,2024_Focused_Health_250,2024_05,10,5,16,usa,A_J_Allmendinger,A.J. Allmendinger,Celsius   (Matthew Kaulig),Matt_Kaulig,Chevrolet,50,running,20,38,0
+2024,B,2024_Focused_Health_250,2024_05,11,17,31,usa,Parker_Retzlaff,Parker Retzlaff,Bommarito.com/ Crest   (Jordan Anderson),Jordan_Anderson,Chevrolet,50,running,0,33,0
+2024,B,2024_Focused_Health_250,2024_05,12,30,5,usa,Anthony_Alfredo,Anthony Alfredo,Dude Wipes   (Chris Our),Chris_Our,Chevrolet,50,running,0,25,0
+2024,B,2024_Focused_Health_250,2024_05,13,15,7,usa,Justin_Allgaier,Justin Allgaier,BRANDT/Rev1 Energy   (JR Motorsports),JR_Motorsports,Chevrolet,50,running,0,24,0
+2024,B,2024_Focused_Health_250,2024_05,14,27,39,usa,Ryan_Sieg,Ryan Sieg,Sci Aps   (Rod Sieg),Rod_Sieg,Ford,50,running,0,27,0
+2024,B,2024_Focused_Health_250,2024_05,15,29,44,usa,Brennan_Poole,Brennan Poole,Finance Pro Plus   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,50,running,0,22,0
+2024,B,2024_Focused_Health_250,2024_05,16,18,9,usa,Brandon_Jones,Brandon Jones,Menards/Spectracide   (JR Motorsports),JR_Motorsports,Chevrolet,50,running,1,21,0
+2024,B,2024_Focused_Health_250,2024_05,17,6,26,usa,Sage_Karam,Sage Karam,CRC Brakleen   (Sam Hunt),Sam_Hunt,Toyota,50,running,0,28,0
+2024,B,2024_Focused_Health_250,2024_05,18,31,45,usa,Brad_Perez,Brad Perez,WEISS Sand & Clay / Sendero   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,50,running,0,19,0
+2024,B,2024_Focused_Health_250,2024_05,19,24,51,usa,Jeremy_Clements,Jeremy Clements,Impel Union   (Jeremy Clements),Jeremy_Clements,Chevrolet,50,running,0,18,0
+2024,B,2024_Focused_Health_250,2024_05,20,34,42,usa,Leland_Honeyman,Leland Honeyman,Austin Gamblers   (Randy Young),Randy_Young,Chevrolet,50,running,0,17,0
+2024,B,2024_Focused_Health_250,2024_05,21,22,07,russia,Daniil_Kvyat,Daniil Kvyat,GOTRAX    (Bobby Dotter),Bobby_Dotter,Chevrolet,50,running,0,16,0
+2024,B,2024_Focused_Health_250,2024_05,22,36,29,usa,Blaine_Perkins,Blaine Perkins,AUTOPARKIT.com   (Rod Sieg),Rod_Sieg,Ford,50,running,0,15,0
+2024,B,2024_Focused_Health_250,2024_05,23,35,15,usa,Hailie_Deegan,Hailie Deegan,Cody Jinks - Change The Game   (Kevin Cywinski),Kevin_Cywinski,Ford,50,running,0,14,0
+2024,B,2024_Focused_Health_250,2024_05,24,3,19,usa,Ty_Gibbs,Ty Gibbs,He Gets Us   (Joe Gibbs),Joe_Gibbs,Toyota,50,running,1,0,0
+2024,B,2024_Focused_Health_250,2024_05,25,33,4,usa,Patrick_Gallagher,Patrick Gallagher,TeamJDMotorsports.com   (Johnny Davis),Johnny_Davis,Chevrolet,50,running,0,12,0
+2024,B,2024_Focused_Health_250,2024_05,26,26,35,canada,Alex_Labbe,Alex Labbe,Emerling-Gase Motorsports,Emerling-Gase_Motorsports,Toyota,50,running,0,20,0
+2024,B,2024_Focused_Health_250,2024_05,27,2,97,new_zealand,Shane_Van_Gisbergen,Shane Van Gisbergen,WeatherTech   (Matthew Kaulig),Matt_Kaulig,Chevrolet,50,running,20,17,0
+2024,B,2024_Focused_Health_250,2024_05,28,37,14,usa,R_C_Enerson,R.C. Enerson,Lucas Oil School of Racing   (Bobby Dotter),Bobby_Dotter,Chevrolet,50,running,0,9,0
+2024,B,2024_Focused_Health_250,2024_05,29,32,91,usa,Kyle_Weatherman,Kyle Weatherman,myradar/DriveSmartWarranty.com   (Mario Gosselin),Mario_Gosselin,Chevrolet,50,running,0,8,0
+2024,B,2024_Focused_Health_250,2024_05,30,21,27,usa,Jeb_Burton,Jeb Burton,Golden Corral   (Jordan Anderson),Jordan_Anderson,Chevrolet,49,running,0,7,0
+2024,B,2024_Focused_Health_250,2024_05,31,23,92,usa,Josh_Bilicki,Josh Bilicki,Halford Mobile Services   (Mario Gosselin),Mario_Gosselin,Chevrolet,48,suspension,0,11,0
+2024,B,2024_Focused_Health_250,2024_05,32,7,18,usa,Sheldon_Creed,Sheldon Creed,Friends of Jaclyn Foundation   (Joe Gibbs),Joe_Gibbs,Toyota,47,running,0,5,0
+2024,B,2024_Focused_Health_250,2024_05,33,38,43,usa,Ryan_Ellis,Ryan Ellis,Classic Collision   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,45,crash,0,4,0
+2024,B,2024_Focused_Health_250,2024_05,34,19,98,usa,Riley_Herbst,Riley Herbst,Monster Energy   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,45,crash,2,19,1
+2024,B,2024_Focused_Health_250,2024_05,35,16,24,uae,Ed_Jones,Ed Jones,CRC Industries   (Sam Hunt),Sam_Hunt,Toyota,42,crash,0,2,0
+2024,B,2024_Focused_Health_250,2024_05,36,13,8,usa,Sammy_Smith,Sammy Smith,Pilot Flying J   (JR Motorsports),JR_Motorsports,Chevrolet,36,crash,0,10,0
+2024,B,2024_Focused_Health_250,2024_05,37,28,6,usa,Ty_Dillon,Ty Dillon,Johnny Davis,Johnny_Davis,Chevrolet,33,suspension,0,0,0
+2024,B,2024_Focused_Health_250,2024_05,38,9,11,usa,Josh_Williams,Josh Williams,Alloy Employer Services   (Matthew Kaulig),Matt_Kaulig,Chevrolet,24,overheating,0,1,0
 2024,B,2024_Toyota_Care_250,2024_06,1,4,81,usa,Chandler_Smith,Chandler Smith,Mobil 1   (Joe Gibbs),Joe_Gibbs,Toyota,250,running,76,52,5
 2024,B,2024_Toyota_Care_250,2024_06,2,10,20,usa,Aric_Almirola,Aric Almirola,He Gets Us   (Joe Gibbs),Joe_Gibbs,Toyota,250,running,95,55,2
 2024,B,2024_Toyota_Care_250,2024_06,3,27,19,usa,Taylor_Gray,Taylor Gray,Place of Hope   (Joe Gibbs),Joe_Gibbs,Toyota,250,running,0,0,0
@@ -872,43 +873,43 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2024,B,2024_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2024_23,36,9,31,usa,Parker_Retzlaff,Parker Retzlaff,Capital City Towing   (Jordan Anderson),Jordan_Anderson,Chevrolet,125,running,0,1,0
 2024,B,2024_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2024_23,37,19,91,usa,Kyle_Weatherman,Kyle Weatherman,Mainline Fleet Maintenance    (Mario Gosselin),Mario_Gosselin,Chevrolet,54,crash,0,1,0
 2024,B,2024_Sport_Clips_Haircuts_VFW_Help_A_Hero_200,2024_23,38,18,15,usa,Joey_Logano,Joey Logano,PANINI   (Kevin Cywinski),Kevin_Cywinski,Ford,12,engine,0,0,0
-2024,B,2024_Focused_Health_250,2024_24,1,4,21,usa,Austin_Hill,Austin Hill,Bennett Transportation   (Richard Childress),Richard_Childress,Chevrolet,163,running,12,50,5
-2024,B,2024_Focused_Health_250,2024_24,2,16,48,usa,Parker_Kligerman,Parker Kligerman,Big Machine Spiked Coolers   (Scott Borchetta),Scott_Borchetta,Chevrolet,163,running,0,35,0
-2024,B,2024_Focused_Health_250,2024_24,3,6,16,usa,A_J_Allmendinger,A.J. Allmendinger,Campers Inn RV   (Matthew Kaulig),Matt_Kaulig,Chevrolet,163,running,40,44,1
-2024,B,2024_Focused_Health_250,2024_24,4,8,81,usa,Chandler_Smith,Chandler Smith,Wheelers   (Joe Gibbs),Joe_Gibbs,Toyota,163,running,28,38,0
-2024,B,2024_Focused_Health_250,2024_24,5,21,26,usa,Corey_Heim,Corey Heim,Toyota Racing Development   (Sam Hunt),Sam_Hunt,Toyota,163,running,0,0,0
-2024,B,2024_Focused_Health_250,2024_24,6,1,2,usa,Jesse_Love,Jesse Love,Samsara   (Richard Childress),Richard_Childress,Chevrolet,163,running,23,42,0
-2024,B,2024_Focused_Health_250,2024_24,7,19,8,usa,Sammy_Smith,Sammy Smith,Pilot Flying J   (JR Motorsports),JR_Motorsports,Chevrolet,163,running,0,39,0
-2024,B,2024_Focused_Health_250,2024_24,8,13,11,usa,Josh_Williams,Josh Williams,Alloy Employer Services   (Matthew Kaulig),Matt_Kaulig,Chevrolet,163,running,0,29,0
-2024,B,2024_Focused_Health_250,2024_24,9,18,9,usa,Brandon_Jones,Brandon Jones,Menards/Jeld-Wen   (JR Motorsports),JR_Motorsports,Chevrolet,163,running,0,32,0
-2024,B,2024_Focused_Health_250,2024_24,10,7,20,usa,Ryan_Truex,Ryan Truex,The Toyota Gazoo Racing   (Joe Gibbs),Joe_Gibbs,Toyota,163,running,0,27,0
-2024,B,2024_Focused_Health_250,2024_24,11,37,91,usa,Kyle_Weatherman,Kyle Weatherman,Brand South Africa   (Mario Gosselin),Mario_Gosselin,Chevrolet,163,running,0,26,0
-2024,B,2024_Focused_Health_250,2024_24,12,17,31,usa,Parker_Retzlaff,Parker Retzlaff,FUNKAWAY   (Jordan Anderson),Jordan_Anderson,Chevrolet,163,running,0,25,0
-2024,B,2024_Focused_Health_250,2024_24,13,22,15,usa,Lawless_Alan,Lawless Alan,Deal Badger   (Kevin Cywinski),Kevin_Cywinski,Ford,163,running,0,0,0
-2024,B,2024_Focused_Health_250,2024_24,14,15,5,usa,Anthony_Alfredo,Anthony Alfredo,Beyond Type 1   (Chris Our),Chris_Our,Chevrolet,163,running,0,23,0
-2024,B,2024_Focused_Health_250,2024_24,15,26,44,usa,Brennan_Poole,Brennan Poole,Hackett Truck Sales   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,163,running,0,22,0
-2024,B,2024_Focused_Health_250,2024_24,16,28,28,usa,Kyle_Sieg,Kyle Sieg,North Country Ford   (Rod Sieg),Rod_Sieg,Ford,163,running,0,21,0
-2024,B,2024_Focused_Health_250,2024_24,17,35,42,usa,Leland_Honeyman,Leland Honeyman,Randco Industries   (Randy Young),Randy_Young,Chevrolet,163,running,1,20,0
-2024,B,2024_Focused_Health_250,2024_24,18,27,35,usa,Mason_Maggio,Mason Maggio,Emerling-Gase Motorsports,Emerling-Gase_Motorsports,Chevrolet,163,running,0,0,0
-2024,B,2024_Focused_Health_250,2024_24,19,24,29,usa,Blaine_Perkins,Blaine Perkins,Pritchard Injury Firm   (Rod Sieg),Rod_Sieg,Ford,163,running,0,18,0
-2024,B,2024_Focused_Health_250,2024_24,20,25,92,usa,Nick_Leitz,Nick Leitz,"Precision Measurements, Inc.   (Mario Gosselin)",Mario_Gosselin,Chevrolet,163,running,0,17,0
-2024,B,2024_Focused_Health_250,2024_24,21,34,43,usa,Ryan_Ellis,Ryan Ellis,Pella Windows & Doors   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,163,running,0,16,0
-2024,B,2024_Focused_Health_250,2024_24,22,33,14,usa,David_Starr,David Starr,Saniserv/Byron Superstore   (Bobby Dotter),Bobby_Dotter,Chevrolet,163,running,0,15,0
-2024,B,2024_Focused_Health_250,2024_24,23,30,45,usa,Garrett_Smithley,Garrett Smithley,Vet The Vote   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,163,running,0,14,0
-2024,B,2024_Focused_Health_250,2024_24,24,20,27,usa,Jeb_Burton,Jeb Burton,NORMA Precision Ammunition   (Jordan Anderson),Jordan_Anderson,Chevrolet,162,running,0,13,0
-2024,B,2024_Focused_Health_250,2024_24,25,5,18,usa,Sheldon_Creed,Sheldon Creed,CW Sports   (Joe Gibbs),Joe_Gibbs,Toyota,160,running,1,19,0
-2024,B,2024_Focused_Health_250,2024_24,26,9,98,usa,Riley_Herbst,Riley Herbst,Monster Energy   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,158,running,0,26,0
-2024,B,2024_Focused_Health_250,2024_24,27,12,97,new_zealand,Shane_Van_Gisbergen,Shane Van Gisbergen,Quad Lock   (Matthew Kaulig),Matt_Kaulig,Chevrolet,157,running,0,12,0
-2024,B,2024_Focused_Health_250,2024_24,28,2,19,usa,Taylor_Gray,Taylor Gray,Operation 300   (Joe Gibbs),Joe_Gibbs,Toyota,154,suspension,12,0,0
-2024,B,2024_Focused_Health_250,2024_24,29,36,51,usa,Jeremy_Clements,Jeremy Clements,Fly and Form Structures   (Jeremy Clements),Jeremy_Clements,Chevrolet,149,suspension,0,8,0
-2024,B,2024_Focused_Health_250,2024_24,30,10,7,usa,Justin_Allgaier,Justin Allgaier,Hellmann's   (JR Motorsports),JR_Motorsports,Chevrolet,146,crash,19,23,1
-2024,B,2024_Focused_Health_250,2024_24,31,3,00,usa,Cole_Custer,Cole Custer,Autodesk/Haas Automation   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,144,crash,27,17,0
-2024,B,2024_Focused_Health_250,2024_24,32,14,39,usa,Ryan_Sieg,Ryan Sieg,Sci Aps   (Rod Sieg),Rod_Sieg,Ford,144,crash,0,5,0
-2024,B,2024_Focused_Health_250,2024_24,33,32,53,usa,Morgen_Baird,Morgen Baird,Alro Steel   (Emerling-Gase Motorsports),Emerling-Gase_Motorsports,Ford,142,running,0,4,0
-2024,B,2024_Focused_Health_250,2024_24,34,23,07,usa,C_J_McLaughlin,C.J. McLaughlin,Main Street Auto   (Bobby Dotter),Bobby_Dotter,Chevrolet,112,engine,0,3,0
-2024,B,2024_Focused_Health_250,2024_24,35,29,38,usa,Matt_DiBenedetto,Matt DiBenedetto,Rema   (Rod Sieg),Rod_Sieg,Ford,80,oil line,0,2,0
-2024,B,2024_Focused_Health_250,2024_24,36,11,1,usa,Sam_Mayer,Sam Mayer,High Rock Vodka   (JR Motorsports),JR_Motorsports,Chevrolet,77,crash,0,6,0
-2024,B,2024_Focused_Health_250,2024_24,37,31,74,usa,Dawson_Cram,Dawson Cram,Mike Harmon Racing   (Mike Harmon),Mike_Harmon,Chevrolet,18,engine,0,0,0
+2024,B,2024_Focused_Health_250_2,2024_24,1,4,21,usa,Austin_Hill,Austin Hill,Bennett Transportation   (Richard Childress),Richard_Childress,Chevrolet,163,running,12,50,5
+2024,B,2024_Focused_Health_250_2,2024_24,2,16,48,usa,Parker_Kligerman,Parker Kligerman,Big Machine Spiked Coolers   (Scott Borchetta),Scott_Borchetta,Chevrolet,163,running,0,35,0
+2024,B,2024_Focused_Health_250_2,2024_24,3,6,16,usa,A_J_Allmendinger,A.J. Allmendinger,Campers Inn RV   (Matthew Kaulig),Matt_Kaulig,Chevrolet,163,running,40,44,1
+2024,B,2024_Focused_Health_250_2,2024_24,4,8,81,usa,Chandler_Smith,Chandler Smith,Wheelers   (Joe Gibbs),Joe_Gibbs,Toyota,163,running,28,38,0
+2024,B,2024_Focused_Health_250_2,2024_24,5,21,26,usa,Corey_Heim,Corey Heim,Toyota Racing Development   (Sam Hunt),Sam_Hunt,Toyota,163,running,0,0,0
+2024,B,2024_Focused_Health_250_2,2024_24,6,1,2,usa,Jesse_Love,Jesse Love,Samsara   (Richard Childress),Richard_Childress,Chevrolet,163,running,23,42,0
+2024,B,2024_Focused_Health_250_2,2024_24,7,19,8,usa,Sammy_Smith,Sammy Smith,Pilot Flying J   (JR Motorsports),JR_Motorsports,Chevrolet,163,running,0,39,0
+2024,B,2024_Focused_Health_250_2,2024_24,8,13,11,usa,Josh_Williams,Josh Williams,Alloy Employer Services   (Matthew Kaulig),Matt_Kaulig,Chevrolet,163,running,0,29,0
+2024,B,2024_Focused_Health_250_2,2024_24,9,18,9,usa,Brandon_Jones,Brandon Jones,Menards/Jeld-Wen   (JR Motorsports),JR_Motorsports,Chevrolet,163,running,0,32,0
+2024,B,2024_Focused_Health_250_2,2024_24,10,7,20,usa,Ryan_Truex,Ryan Truex,The Toyota Gazoo Racing   (Joe Gibbs),Joe_Gibbs,Toyota,163,running,0,27,0
+2024,B,2024_Focused_Health_250_2,2024_24,11,37,91,usa,Kyle_Weatherman,Kyle Weatherman,Brand South Africa   (Mario Gosselin),Mario_Gosselin,Chevrolet,163,running,0,26,0
+2024,B,2024_Focused_Health_250_2,2024_24,12,17,31,usa,Parker_Retzlaff,Parker Retzlaff,FUNKAWAY   (Jordan Anderson),Jordan_Anderson,Chevrolet,163,running,0,25,0
+2024,B,2024_Focused_Health_250_2,2024_24,13,22,15,usa,Lawless_Alan,Lawless Alan,Deal Badger   (Kevin Cywinski),Kevin_Cywinski,Ford,163,running,0,0,0
+2024,B,2024_Focused_Health_250_2,2024_24,14,15,5,usa,Anthony_Alfredo,Anthony Alfredo,Beyond Type 1   (Chris Our),Chris_Our,Chevrolet,163,running,0,23,0
+2024,B,2024_Focused_Health_250_2,2024_24,15,26,44,usa,Brennan_Poole,Brennan Poole,Hackett Truck Sales   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,163,running,0,22,0
+2024,B,2024_Focused_Health_250_2,2024_24,16,28,28,usa,Kyle_Sieg,Kyle Sieg,North Country Ford   (Rod Sieg),Rod_Sieg,Ford,163,running,0,21,0
+2024,B,2024_Focused_Health_250_2,2024_24,17,35,42,usa,Leland_Honeyman,Leland Honeyman,Randco Industries   (Randy Young),Randy_Young,Chevrolet,163,running,1,20,0
+2024,B,2024_Focused_Health_250_2,2024_24,18,27,35,usa,Mason_Maggio,Mason Maggio,Emerling-Gase Motorsports,Emerling-Gase_Motorsports,Chevrolet,163,running,0,0,0
+2024,B,2024_Focused_Health_250_2,2024_24,19,24,29,usa,Blaine_Perkins,Blaine Perkins,Pritchard Injury Firm   (Rod Sieg),Rod_Sieg,Ford,163,running,0,18,0
+2024,B,2024_Focused_Health_250_2,2024_24,20,25,92,usa,Nick_Leitz,Nick Leitz,"Precision Measurements, Inc.   (Mario Gosselin)",Mario_Gosselin,Chevrolet,163,running,0,17,0
+2024,B,2024_Focused_Health_250_2,2024_24,21,34,43,usa,Ryan_Ellis,Ryan Ellis,Pella Windows & Doors   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,163,running,0,16,0
+2024,B,2024_Focused_Health_250_2,2024_24,22,33,14,usa,David_Starr,David Starr,Saniserv/Byron Superstore   (Bobby Dotter),Bobby_Dotter,Chevrolet,163,running,0,15,0
+2024,B,2024_Focused_Health_250_2,2024_24,23,30,45,usa,Garrett_Smithley,Garrett Smithley,Vet The Vote   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,163,running,0,14,0
+2024,B,2024_Focused_Health_250_2,2024_24,24,20,27,usa,Jeb_Burton,Jeb Burton,NORMA Precision Ammunition   (Jordan Anderson),Jordan_Anderson,Chevrolet,162,running,0,13,0
+2024,B,2024_Focused_Health_250_2,2024_24,25,5,18,usa,Sheldon_Creed,Sheldon Creed,CW Sports   (Joe Gibbs),Joe_Gibbs,Toyota,160,running,1,19,0
+2024,B,2024_Focused_Health_250_2,2024_24,26,9,98,usa,Riley_Herbst,Riley Herbst,Monster Energy   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,158,running,0,26,0
+2024,B,2024_Focused_Health_250_2,2024_24,27,12,97,new_zealand,Shane_Van_Gisbergen,Shane Van Gisbergen,Quad Lock   (Matthew Kaulig),Matt_Kaulig,Chevrolet,157,running,0,12,0
+2024,B,2024_Focused_Health_250_2,2024_24,28,2,19,usa,Taylor_Gray,Taylor Gray,Operation 300   (Joe Gibbs),Joe_Gibbs,Toyota,154,suspension,12,0,0
+2024,B,2024_Focused_Health_250_2,2024_24,29,36,51,usa,Jeremy_Clements,Jeremy Clements,Fly and Form Structures   (Jeremy Clements),Jeremy_Clements,Chevrolet,149,suspension,0,8,0
+2024,B,2024_Focused_Health_250_2,2024_24,30,10,7,usa,Justin_Allgaier,Justin Allgaier,Hellmann's   (JR Motorsports),JR_Motorsports,Chevrolet,146,crash,19,23,1
+2024,B,2024_Focused_Health_250_2,2024_24,31,3,00,usa,Cole_Custer,Cole Custer,Autodesk/Haas Automation   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,144,crash,27,17,0
+2024,B,2024_Focused_Health_250_2,2024_24,32,14,39,usa,Ryan_Sieg,Ryan Sieg,Sci Aps   (Rod Sieg),Rod_Sieg,Ford,144,crash,0,5,0
+2024,B,2024_Focused_Health_250_2,2024_24,33,32,53,usa,Morgen_Baird,Morgen Baird,Alro Steel   (Emerling-Gase Motorsports),Emerling-Gase_Motorsports,Ford,142,running,0,4,0
+2024,B,2024_Focused_Health_250_2,2024_24,34,23,07,usa,C_J_McLaughlin,C.J. McLaughlin,Main Street Auto   (Bobby Dotter),Bobby_Dotter,Chevrolet,112,engine,0,3,0
+2024,B,2024_Focused_Health_250_2,2024_24,35,29,38,usa,Matt_DiBenedetto,Matt DiBenedetto,Rema   (Rod Sieg),Rod_Sieg,Ford,80,oil line,0,2,0
+2024,B,2024_Focused_Health_250_2,2024_24,36,11,1,usa,Sam_Mayer,Sam Mayer,High Rock Vodka   (JR Motorsports),JR_Motorsports,Chevrolet,77,crash,0,6,0
+2024,B,2024_Focused_Health_250_2,2024_24,37,31,74,usa,Dawson_Cram,Dawson Cram,Mike Harmon Racing   (Mike Harmon),Mike_Harmon,Chevrolet,18,engine,0,0,0
 2024,B,2024_Mission_200_at_the_Glen,2024_25,1,1,88,usa,Connor_Zilisch,Connor Zilisch,Carolina Carports   (JR Motorsports),JR_Motorsports,Chevrolet,90,running,45,58,6
 2024,B,2024_Mission_200_at_the_Glen,2024_25,2,9,18,usa,Sheldon_Creed,Sheldon Creed,Friends of Jaclyn Foundation   (Joe Gibbs),Joe_Gibbs,Toyota,90,running,0,41,0
 2024,B,2024_Mission_200_at_the_Glen,2024_25,3,3,16,usa,A_J_Allmendinger,A.J. Allmendinger,Celsius   (Matthew Kaulig),Matt_Kaulig,Chevrolet,90,running,5,34,0
@@ -947,3 +948,155 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2024,B,2024_Mission_200_at_the_Glen,2024_25,36,22,45,israel,Alon_Day,Alon Day,JSSI   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,57,brakes,0,1,0
 2024,B,2024_Mission_200_at_the_Glen,2024_25,37,36,28,usa,Kyle_Sieg,Kyle Sieg,Lotze   (Rod Sieg),Rod_Sieg,Ford,54,axle,0,1,0
 2024,B,2024_Mission_200_at_the_Glen,2024_25,38,29,36,usa,Kyle_Weatherman,Kyle Weatherman,DGM Racing   (Mario Gosselin),Mario_Gosselin,Chevrolet,15,rear end,0,1,0
+2024,B,2024_Food_City_300,2024_26,1,2,00,usa,Cole_Custer,Cole Custer,HighPoint.com   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,300,running,104,53,5
+2024,B,2024_Food_City_300,2024_26,2,14,18,usa,Sheldon_Creed,Sheldon Creed,Friends of Jaclyn Foundation   (Joe Gibbs),Joe_Gibbs,Toyota,300,running,28,50,0
+2024,B,2024_Food_City_300,2024_26,3,1,81,usa,Chandler_Smith,Chandler Smith,Mobil 1   (Joe Gibbs),Joe_Gibbs,Toyota,300,running,29,50,1
+2024,B,2024_Food_City_300,2024_26,4,10,2,usa,Jesse_Love,Jesse Love,Whelen   (Richard Childress),Richard_Childress,Chevrolet,300,running,1,47,0
+2024,B,2024_Food_City_300,2024_26,5,16,20,usa,Ryan_Truex,Ryan Truex,Toyota Genuine Parts   (Joe Gibbs),Joe_Gibbs,Toyota,300,running,0,42,0
+2024,B,2024_Food_City_300,2024_26,6,8,9,usa,Brandon_Jones,Brandon Jones,Menards/Pelonis   (JR Motorsports),JR_Motorsports,Chevrolet,300,running,0,31,0
+2024,B,2024_Food_City_300,2024_26,7,13,88,usa,Dale_Earnhardt_Jr,"Dale Earnhardt, Jr.",Hellmann's   (JR Motorsports),JR_Motorsports,Chevrolet,300,running,1,32,0
+2024,B,2024_Food_City_300,2024_26,8,12,39,usa,Ryan_Sieg,Ryan Sieg,Sci Aps   (Rod Sieg),Rod_Sieg,Ford,300,running,5,29,0
+2024,B,2024_Food_City_300,2024_26,9,20,1,usa,Sam_Mayer,Sam Mayer,Carolina Carports   (JR Motorsports),JR_Motorsports,Chevrolet,300,running,55,31,0
+2024,B,2024_Food_City_300,2024_26,10,5,16,usa,A_J_Allmendinger,A.J. Allmendinger,Barger Precast   (Matthew Kaulig),Matt_Kaulig,Chevrolet,300,running,0,34,0
+2024,B,2024_Food_City_300,2024_26,11,3,5,usa,Anthony_Alfredo,Anthony Alfredo,Dumpkin Spice Dude Wipes   (Chris Our),Chris_Our,Chevrolet,300,running,0,32,0
+2024,B,2024_Food_City_300,2024_26,12,7,51,usa,Jeremy_Clements,Jeremy Clements,One Stop / All South Electric   (Jeremy Clements),Jeremy_Clements,Chevrolet,300,running,17,40,1
+2024,B,2024_Food_City_300,2024_26,13,15,98,usa,Riley_Herbst,Riley Herbst,Monster Energy   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,300,running,0,28,0
+2024,B,2024_Food_City_300,2024_26,14,17,21,usa,Austin_Hill,Austin Hill,Bennett Transportation   (Richard Childress),Richard_Childress,Chevrolet,300,running,0,23,0
+2024,B,2024_Food_City_300,2024_26,15,21,8,usa,Sammy_Smith,Sammy Smith,Pilot Flying J   (JR Motorsports),JR_Motorsports,Chevrolet,300,running,0,22,0
+2024,B,2024_Food_City_300,2024_26,16,11,48,usa,Parker_Kligerman,Parker Kligerman,Big Machine Spiked Coolers   (Scott Borchetta),Scott_Borchetta,Chevrolet,300,running,0,22,0
+2024,B,2024_Food_City_300,2024_26,17,29,44,usa,Brennan_Poole,Brennan Poole,Cliff Bowman   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,299,running,0,20,0
+2024,B,2024_Food_City_300,2024_26,18,34,97,new_zealand,Shane_Van_Gisbergen,Shane Van Gisbergen,WeatherTech   (Matthew Kaulig),Matt_Kaulig,Chevrolet,299,running,0,19,0
+2024,B,2024_Food_City_300,2024_26,19,19,19,usa,Joe_Graf_Jr,Joe Graf Jr,CoverSeal   (Joe Gibbs),Joe_Gibbs,Toyota,299,running,0,19,0
+2024,B,2024_Food_City_300,2024_26,20,22,92,usa,Josh_Bilicki,Josh Bilicki,Rita's Ice   (Mario Gosselin),Mario_Gosselin,Chevrolet,299,running,0,17,0
+2024,B,2024_Food_City_300,2024_26,21,32,11,usa,Josh_Williams,Josh Williams,Alloy Employer Services   (Matthew Kaulig),Matt_Kaulig,Chevrolet,299,running,0,16,0
+2024,B,2024_Food_City_300,2024_26,22,33,29,usa,Blaine_Perkins,Blaine Perkins,Caliber Steel   (Rod Sieg),Rod_Sieg,Ford,299,running,0,15,0
+2024,B,2024_Food_City_300,2024_26,23,36,28,usa,Kyle_Sieg,Kyle Sieg,ReliableRVParts.Shop   (Rod Sieg),Rod_Sieg,Ford,299,running,0,14,0
+2024,B,2024_Food_City_300,2024_26,24,26,43,usa,Ryan_Ellis,Ryan Ellis,Sweetwater Construction Corp   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,299,running,0,13,0
+2024,B,2024_Food_City_300,2024_26,25,25,27,usa,Jeb_Burton,Jeb Burton,Fly Alliance / State   (Jordan Anderson),Jordan_Anderson,Chevrolet,299,running,0,12,0
+2024,B,2024_Food_City_300,2024_26,26,9,91,usa,Kyle_Weatherman,Kyle Weatherman,Crav'n Flavor   (Mario Gosselin),Mario_Gosselin,Chevrolet,298,running,0,11,0
+2024,B,2024_Food_City_300,2024_26,27,35,15,usa,Logan_Bearden,Logan Bearden,Mullis Construction Group   (Kevin Cywinski),Kevin_Cywinski,Ford,298,running,0,10,0
+2024,B,2024_Food_City_300,2024_26,28,30,35,usa,Carson_Ware,Carson Ware,Key Heating and Cooling   (Emerling-Gase Motorsports),Emerling-Gase_Motorsports,Chevrolet,295,running,0,9,0
+2024,B,2024_Food_City_300,2024_26,29,38,07,usa,Greg_Van_Alst,Greg Van Alst,CB Fabricating   (Bobby Dotter),Bobby_Dotter,Ford,292,running,0,8,0
+2024,B,2024_Food_City_300,2024_26,30,4,7,usa,Justin_Allgaier,Justin Allgaier,BRANDT   (JR Motorsports),JR_Motorsports,Chevrolet,290,running,60,7,0
+2024,B,2024_Food_City_300,2024_26,31,31,42,usa,Leland_Honeyman,Leland Honeyman,Ohio Logistics   (Randy Young),Randy_Young,Chevrolet,290,running,0,6,0
+2024,B,2024_Food_City_300,2024_26,32,18,14,usa,Chad_Finchum,Chad Finchum,Elite Petroleum   (Bobby Dotter),Bobby_Dotter,Chevrolet,280,running,0,5,0
+2024,B,2024_Food_City_300,2024_26,33,23,45,usa,Stefan_Parsons,Stefan Parsons,TruShine Car Wash   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,276,running,0,0,0
+2024,B,2024_Food_City_300,2024_26,34,24,38,usa,Matt_DiBenedetto,Matt DiBenedetto,Rema   (Rod Sieg),Rod_Sieg,Ford,275,running,0,3,0
+2024,B,2024_Food_City_300,2024_26,35,6,26,usa,Jeffrey_Earnhardt,Jeffrey Earnhardt,K9Grass by ForeverLawn   (Sam Hunt),Sam_Hunt,Toyota,205,crash,0,0,0
+2024,B,2024_Food_City_300,2024_26,36,37,53,usa,Garrett_Smithley,Garrett Smithley,TBD   (Emerling-Gase Motorsports),Emerling-Gase_Motorsports,Ford,113,rear gear,0,1,0
+2024,B,2024_Food_City_300,2024_26,37,27,31,usa,Parker_Retzlaff,Parker Retzlaff,The Visual Pak Companies   (Jordan Anderson),Jordan_Anderson,Chevrolet,51,crash,0,1,0
+2024,B,2024_Food_City_300,2024_26,38,28,32,usa,Austin_Green,Austin Green,3Dimensional.com   (Jordan Anderson),Jordan_Anderson,Chevrolet,50,crash,0,1,0
+2024,B,2024_Kansas_Lottery_300,2024_27,1,6,20,usa,Aric_Almirola,Aric Almirola,He Gets Us   (Joe Gibbs),Joe_Gibbs,Toyota,200,running,16,59,6
+2024,B,2024_Kansas_Lottery_300,2024_27,2,3,00,usa,Cole_Custer,Cole Custer,CW on NXT   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,200,running,48,51,0
+2024,B,2024_Kansas_Lottery_300,2024_27,3,2,81,usa,Chandler_Smith,Chandler Smith,QuickTie   (Joe Gibbs),Joe_Gibbs,Toyota,200,running,114,50,0
+2024,B,2024_Kansas_Lottery_300,2024_27,4,4,88,usa,Connor_Zilisch,Connor Zilisch,KOA / RTIC   (JR Motorsports),JR_Motorsports,Chevrolet,200,running,0,39,0
+2024,B,2024_Kansas_Lottery_300,2024_27,5,15,18,usa,Sheldon_Creed,Sheldon Creed,Friends of Jaclyn Foundation   (Joe Gibbs),Joe_Gibbs,Toyota,200,running,0,41,0
+2024,B,2024_Kansas_Lottery_300,2024_27,6,1,9,usa,Brandon_Jones,Brandon Jones,Menards/Schultz   (JR Motorsports),JR_Motorsports,Chevrolet,200,running,4,41,0
+2024,B,2024_Kansas_Lottery_300,2024_27,7,10,21,usa,Austin_Hill,Austin Hill,Bennett Transportation   (Richard Childress),Richard_Childress,Chevrolet,200,running,0,39,0
+2024,B,2024_Kansas_Lottery_300,2024_27,8,22,97,new_zealand,Shane_Van_Gisbergen,Shane Van Gisbergen,Safety Culture   (Matthew Kaulig),Matt_Kaulig,Chevrolet,200,running,0,29,0
+2024,B,2024_Kansas_Lottery_300,2024_27,9,7,2,usa,Jesse_Love,Jesse Love,Whelen   (Richard Childress),Richard_Childress,Chevrolet,200,running,0,28,0
+2024,B,2024_Kansas_Lottery_300,2024_27,10,16,98,usa,Riley_Herbst,Riley Herbst,Monster Energy   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,200,running,0,29,0
+2024,B,2024_Kansas_Lottery_300,2024_27,11,18,11,usa,Josh_Williams,Josh Williams,Call 811   (Matthew Kaulig),Matt_Kaulig,Chevrolet,200,running,0,26,0
+2024,B,2024_Kansas_Lottery_300,2024_27,12,8,48,usa,Parker_Kligerman,Parker Kligerman,Big Machine Spiked Coolers   (Scott Borchetta),Scott_Borchetta,Chevrolet,200,running,0,26,0
+2024,B,2024_Kansas_Lottery_300,2024_27,13,5,1,usa,Sam_Mayer,Sam Mayer,QPS Employment Group   (JR Motorsports),JR_Motorsports,Chevrolet,200,running,18,40,1
+2024,B,2024_Kansas_Lottery_300,2024_27,14,24,38,usa,Matt_DiBenedetto,Matt DiBenedetto,Rema   (Rod Sieg),Rod_Sieg,Ford,200,running,0,25,0
+2024,B,2024_Kansas_Lottery_300,2024_27,15,20,5,usa,Anthony_Alfredo,Anthony Alfredo,Ferguson   (Chris Our),Chris_Our,Chevrolet,200,running,0,22,0
+2024,B,2024_Kansas_Lottery_300,2024_27,16,12,39,usa,Ryan_Sieg,Ryan Sieg,Sci Aps   (Rod Sieg),Rod_Sieg,Ford,200,running,0,22,0
+2024,B,2024_Kansas_Lottery_300,2024_27,17,14,16,usa,A_J_Allmendinger,A.J. Allmendinger,"Morris-Shea Bridge Co., Inc.   (Matthew Kaulig)",Matt_Kaulig,Chevrolet,199,running,0,20,0
+2024,B,2024_Kansas_Lottery_300,2024_27,18,28,44,usa,Brennan_Poole,Brennan Poole,Macc door/DoorLink   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,199,running,0,19,0
+2024,B,2024_Kansas_Lottery_300,2024_27,19,29,43,usa,Ryan_Ellis,Ryan Ellis,Snapchat   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,199,running,0,18,0
+2024,B,2024_Kansas_Lottery_300,2024_27,20,25,14,usa,J_J_Yeley,J.J. Yeley,MPV Express   (Bobby Dotter),Bobby_Dotter,Ford,199,running,0,17,0
+2024,B,2024_Kansas_Lottery_300,2024_27,21,23,31,usa,Parker_Retzlaff,Parker Retzlaff,Easy Care   (Jordan Anderson),Jordan_Anderson,Chevrolet,199,running,0,16,0
+2024,B,2024_Kansas_Lottery_300,2024_27,22,13,8,usa,Sammy_Smith,Sammy Smith,TMC Transportation   (JR Motorsports),JR_Motorsports,Chevrolet,199,running,0,15,0
+2024,B,2024_Kansas_Lottery_300,2024_27,23,19,27,usa,Jeb_Burton,Jeb Burton,BG Products   (Jordan Anderson),Jordan_Anderson,Chevrolet,198,running,0,14,0
+2024,B,2024_Kansas_Lottery_300,2024_27,24,21,28,usa,Kyle_Sieg,Kyle Sieg,RSS Racing   (Rod Sieg),Rod_Sieg,Ford,198,running,0,13,0
+2024,B,2024_Kansas_Lottery_300,2024_27,25,38,42,usa,Leland_Honeyman,Leland Honeyman,Hardscape Contractors   (Randy Young),Randy_Young,Chevrolet,198,running,0,12,0
+2024,B,2024_Kansas_Lottery_300,2024_27,26,33,91,usa,Kyle_Weatherman,Kyle Weatherman,Crav'n Flavor   (Mario Gosselin),Mario_Gosselin,Chevrolet,197,running,0,11,0
+2024,B,2024_Kansas_Lottery_300,2024_27,27,26,51,usa,Jeremy_Clements,Jeremy Clements,Impel Union   (Jeremy Clements),Jeremy_Clements,Chevrolet,197,running,0,10,0
+2024,B,2024_Kansas_Lottery_300,2024_27,28,32,29,usa,Blaine_Perkins,Blaine Perkins,AUTOPARKIT.com   (Rod Sieg),Rod_Sieg,Ford,197,running,0,9,0
+2024,B,2024_Kansas_Lottery_300,2024_27,29,36,74,usa,Ryan_Vargas,Ryan Vargas,Mike Harmon Racing   (Mike Harmon),Mike_Harmon,Chevrolet,196,running,0,8,0
+2024,B,2024_Kansas_Lottery_300,2024_27,30,35,07,usa,Patrick_Emerling,Patrick Emerling,BB Roofing   (Bobby Dotter),Bobby_Dotter,Chevrolet,196,running,0,7,0
+2024,B,2024_Kansas_Lottery_300,2024_27,31,17,26,usa,Corey_Heim,Corey Heim,Endava   (Sam Hunt),Sam_Hunt,Toyota,195,running,0,0,0
+2024,B,2024_Kansas_Lottery_300,2024_27,32,34,35,usa,Joey_Gase,Joey Gase,Branson.com   (Emerling-Gase Motorsports),Emerling-Gase_Motorsports,Chevrolet,194,running,0,5,0
+2024,B,2024_Kansas_Lottery_300,2024_27,33,31,15,usa,Logan_Bearden,Logan Bearden,AirBox   (Kevin Cywinski),Kevin_Cywinski,Ford,190,running,0,4,0
+2024,B,2024_Kansas_Lottery_300,2024_27,34,30,10,usa,Daniel_Dye,Daniel Dye,Race to stop Suicide   (Matthew Kaulig),Matt_Kaulig,Chevrolet,189,running,0,0,0
+2024,B,2024_Kansas_Lottery_300,2024_27,35,27,92,usa,Dawson_Cram,Dawson Cram,Trade With the Pros   (Mario Gosselin),Mario_Gosselin,Chevrolet,174,fuel pressure,0,0,0
+2024,B,2024_Kansas_Lottery_300,2024_27,36,9,7,usa,Justin_Allgaier,Justin Allgaier,BRANDT   (JR Motorsports),JR_Motorsports,Chevrolet,73,crash,0,4,0
+2024,B,2024_Kansas_Lottery_300,2024_27,37,37,45,usa,Brad_Perez,Brad Perez,APEX Coffee Roasters   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,61,oil pump,0,1,0
+2024,B,2024_Kansas_Lottery_300,2024_27,38,11,19,usa,Taylor_Gray,Taylor Gray,Operation 300   (Joe Gibbs),Joe_Gibbs,Toyota,45,engine,0,0,0
+2024,B,2024_United_Rentals_250,2024_28,1,27,8,usa,Sammy_Smith,Sammy Smith,TMC Transportation   (JR Motorsports),JR_Motorsports,Chevrolet,98,running,5,50,5
+2024,B,2024_United_Rentals_250,2024_28,2,15,39,usa,Ryan_Sieg,Ryan Sieg,Sci Aps   (Rod Sieg),Rod_Sieg,Ford,98,running,1,35,0
+2024,B,2024_United_Rentals_250,2024_28,3,7,98,usa,Riley_Herbst,Riley Herbst,Monster Energy   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,98,running,22,39,0
+2024,B,2024_United_Rentals_250,2024_28,4,4,18,usa,Sheldon_Creed,Sheldon Creed,Friends of Jaclyn Foundation   (Joe Gibbs),Joe_Gibbs,Toyota,98,running,0,42,0
+2024,B,2024_United_Rentals_250,2024_28,5,3,81,usa,Chandler_Smith,Chandler Smith,Wheelers   (Joe Gibbs),Joe_Gibbs,Toyota,98,running,11,48,1
+2024,B,2024_United_Rentals_250,2024_28,6,1,2,usa,Jesse_Love,Jesse Love,Whelen   (Richard Childress),Richard_Childress,Chevrolet,98,running,28,39,0
+2024,B,2024_United_Rentals_250,2024_28,7,16,27,usa,Jeb_Burton,Jeb Burton,Golden Corral   (Jordan Anderson),Jordan_Anderson,Chevrolet,98,running,0,30,0
+2024,B,2024_United_Rentals_250,2024_28,8,23,14,usa,David_Starr,David Starr,Holt St.   (Bobby Dotter),Bobby_Dotter,Chevrolet,98,running,1,29,0
+2024,B,2024_United_Rentals_250,2024_28,9,30,44,usa,Brennan_Poole,Brennan Poole,Macc Door Systems   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,98,running,0,28,0
+2024,B,2024_United_Rentals_250,2024_28,10,34,28,usa,Kyle_Sieg,Kyle Sieg,Onsite Power Academy   (Rod Sieg),Rod_Sieg,Ford,98,running,0,27,0
+2024,B,2024_United_Rentals_250,2024_28,11,5,16,usa,A_J_Allmendinger,A.J. Allmendinger,"Morris-Shea Bridge Co., Inc.   (Matthew Kaulig)",Matt_Kaulig,Chevrolet,98,running,13,39,0
+2024,B,2024_United_Rentals_250,2024_28,12,6,48,usa,Parker_Kligerman,Parker Kligerman,Big Machine Spiked Coolers   (Scott Borchetta),Scott_Borchetta,Chevrolet,98,running,0,25,0
+2024,B,2024_United_Rentals_250,2024_28,13,38,45,usa,Tommy_Joe_Martins,Tommy Joe Martins,Prime Bites Brownie   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,98,running,0,24,0
+2024,B,2024_United_Rentals_250,2024_28,14,19,42,usa,Leland_Honeyman,Leland Honeyman,Mezrano Injury Lawyers   (Randy Young),Randy_Young,Chevrolet,98,running,0,23,0
+2024,B,2024_United_Rentals_250,2024_28,15,32,43,usa,Ryan_Ellis,Ryan Ellis,Classic Collision   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,98,running,0,22,0
+2024,B,2024_United_Rentals_250,2024_28,16,33,38,usa,Matt_DiBenedetto,Matt DiBenedetto,Malvern Panalytical   (Rod Sieg),Rod_Sieg,Ford,98,running,0,21,0
+2024,B,2024_United_Rentals_250,2024_28,17,21,07,usa,C_J_McLaughlin,C.J. McLaughlin,Main Street Auto   (Bobby Dotter),Bobby_Dotter,Chevrolet,98,running,0,20,0
+2024,B,2024_United_Rentals_250,2024_28,18,31,29,usa,Blaine_Perkins,Blaine Perkins,UAB Medicine   (Rod Sieg),Rod_Sieg,Ford,98,running,1,19,0
+2024,B,2024_United_Rentals_250,2024_28,19,9,20,usa,Aric_Almirola,Aric Almirola,He Gets Us   (Joe Gibbs),Joe_Gibbs,Toyota,98,running,0,18,0
+2024,B,2024_United_Rentals_250,2024_28,20,22,26,usa,Dean_Thompson,Dean Thompson,Thompson Pipe Group   (Sam Hunt),Sam_Hunt,Toyota,98,running,0,0,0
+2024,B,2024_United_Rentals_250,2024_28,21,29,35,usa,Joey_Gase,Joey Gase,Donate Life AL/ NFPA   (Emerling-Gase Motorsports),Emerling-Gase_Motorsports,Chevrolet,98,running,0,16,0
+2024,B,2024_United_Rentals_250,2024_28,22,37,53,usa,Carson_Ware,Carson Ware,TWR Wheel Repair   (Emerling-Gase Motorsports),Emerling-Gase_Motorsports,Ford,98,running,0,15,0
+2024,B,2024_United_Rentals_250,2024_28,23,2,21,usa,Austin_Hill,Austin Hill,Bennett Transportation   (Richard Childress),Richard_Childress,Chevrolet,98,running,7,31,1
+2024,B,2024_United_Rentals_250,2024_28,24,36,15,usa,Dylan_Lupton,Dylan Lupton,N.C. Hurricane Relief    (Kevin Cywinski),Kevin_Cywinski,Ford,97,running,0,13,0
+2024,B,2024_United_Rentals_250,2024_28,25,14,7,usa,Justin_Allgaier,Justin Allgaier,Brandt / Trademark Nitrogen   (JR Motorsports),JR_Motorsports,Chevrolet,97,running,8,20,0
+2024,B,2024_United_Rentals_250,2024_28,26,10,00,usa,Cole_Custer,Cole Custer,Haas Automation   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,97,running,0,16,0
+2024,B,2024_United_Rentals_250,2024_28,27,18,88,usa,Carson_Kvapil,Carson Kvapil,Clarience Technologies   (JR Motorsports),JR_Motorsports,Chevrolet,91,crash,0,10,0
+2024,B,2024_United_Rentals_250,2024_28,28,20,9,usa,Brandon_Jones,Brandon Jones,Menards/Little Hug   (JR Motorsports),JR_Motorsports,Chevrolet,91,crash,0,10,0
+2024,B,2024_United_Rentals_250,2024_28,29,13,5,usa,Anthony_Alfredo,Anthony Alfredo,Dead On Tools   (Chris Our),Chris_Our,Chevrolet,91,crash,0,13,0
+2024,B,2024_United_Rentals_250,2024_28,30,24,31,usa,Parker_Retzlaff,Parker Retzlaff,FUNKAWAY   (Jordan Anderson),Jordan_Anderson,Chevrolet,91,crash,0,7,0
+2024,B,2024_United_Rentals_250,2024_28,31,35,91,usa,Kyle_Weatherman,Kyle Weatherman,DGM Racing   (Mario Gosselin),Mario_Gosselin,Chevrolet,87,running,0,6,0
+2024,B,2024_United_Rentals_250,2024_28,32,11,19,usa,Taylor_Gray,Taylor Gray,Operation 300   (Joe Gibbs),Joe_Gibbs,Toyota,75,crash,0,0,0
+2024,B,2024_United_Rentals_250,2024_28,33,26,32,usa,Jordan_Anderson,Jordan Anderson,Volpi Foods   (Jordan Anderson),Jordan_Anderson,Chevrolet,75,crash,0,4,0
+2024,B,2024_United_Rentals_250,2024_28,34,17,11,usa,Josh_Williams,Josh Williams,Alloy Employer Services   (Matthew Kaulig),Matt_Kaulig,Chevrolet,75,crash,0,3,0
+2024,B,2024_United_Rentals_250,2024_28,35,8,97,new_zealand,Shane_Van_Gisbergen,Shane Van Gisbergen,WeatherTech   (Matthew Kaulig),Matt_Kaulig,Chevrolet,75,crash,0,9,0
+2024,B,2024_United_Rentals_250,2024_28,36,28,51,usa,Jeremy_Clements,Jeremy Clements,One Stop / All South Electric   (Jeremy Clements),Jeremy_Clements,Chevrolet,60,brakes,0,1,0
+2024,B,2024_United_Rentals_250,2024_28,37,25,92,usa,Nick_Leitz,Nick Leitz,"Precision Measurements, Inc.   (Mario Gosselin)",Mario_Gosselin,Chevrolet,41,crash,0,1,0
+2024,B,2024_United_Rentals_250,2024_28,38,12,1,usa,Sam_Mayer,Sam Mayer,First Bank of Alabama   (JR Motorsports),JR_Motorsports,Chevrolet,98,running,1,1,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,1,2,1,usa,Sam_Mayer,Sam Mayer,QPS Employment Group   (JR Motorsports),JR_Motorsports,Chevrolet,72,running,13,48,5
+2024,B,2024_Drive_for_the_Cure_250,2024_29,2,3,16,usa,A_J_Allmendinger,A.J. Allmendinger,Campers Inn RV   (Matthew Kaulig),Matt_Kaulig,Chevrolet,72,running,18,50,1
+2024,B,2024_Drive_for_the_Cure_250,2024_29,3,1,97,new_zealand,Shane_Van_Gisbergen,Shane Van Gisbergen,WeatherTech   (Matthew Kaulig),Matt_Kaulig,Chevrolet,72,running,7,47,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,4,6,21,usa,Austin_Hill,Austin Hill,Bennett Transportation   (Richard Childress),Richard_Childress,Chevrolet,72,running,0,40,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,5,7,81,usa,Chandler_Smith,Chandler Smith,Wheelers   (Joe Gibbs),Joe_Gibbs,Toyota,72,running,1,36,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,6,22,48,usa,Parker_Kligerman,Parker Kligerman,Big Machine Spiked Coolers   (Scott Borchetta),Scott_Borchetta,Chevrolet,72,running,12,31,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,7,9,7,usa,Justin_Allgaier,Justin Allgaier,Jarrett Logistics   (JR Motorsports),JR_Motorsports,Chevrolet,72,running,6,48,1
+2024,B,2024_Drive_for_the_Cure_250,2024_29,8,4,19,usa,Josh_Bilicki,Josh Bilicki,Insurance King   (Joe Gibbs),Joe_Gibbs,Toyota,72,running,10,32,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,9,13,20,usa,Aric_Almirola,Aric Almirola,Samaritan's Purse   (Joe Gibbs),Joe_Gibbs,Toyota,72,running,0,35,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,10,16,8,usa,Sammy_Smith,Sammy Smith,Pilot Flying J   (JR Motorsports),JR_Motorsports,Chevrolet,72,running,0,27,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,11,15,9,usa,Brandon_Jones,Brandon Jones,Menards / Delta Faucets   (JR Motorsports),JR_Motorsports,Chevrolet,72,running,0,26,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,12,20,31,usa,Parker_Retzlaff,Parker Retzlaff,Carolina Cowboys   (Jordan Anderson),Jordan_Anderson,Chevrolet,72,running,0,25,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,13,14,00,usa,Cole_Custer,Cole Custer,Andy's Frozen Custard   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,72,running,0,24,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,14,19,91,canada,Alex_Labbe,Alex Labbe,DGM Racing   (Mario Gosselin),Mario_Gosselin,Chevrolet,72,running,0,23,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,15,27,27,usa,Jeb_Burton,Jeb Burton,BG Products   (Jordan Anderson),Jordan_Anderson,Chevrolet,72,running,0,22,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,16,11,5,usa,Anthony_Alfredo,Anthony Alfredo,Our Motorsports   (Chris Our),Chris_Our,Chevrolet,72,running,0,21,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,17,25,28,usa,Ryan_Sieg,Ryan Sieg,Sci Aps   (Rod Sieg),Rod_Sieg,Ford,72,running,0,20,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,18,10,88,usa,Connor_Mosack,Connor Mosack,Apollo Pex   (JR Motorsports),JR_Motorsports,Chevrolet,72,running,5,0,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,19,8,2,usa,Jesse_Love,Jesse Love,Whelen   (Richard Childress),Richard_Childress,Chevrolet,72,running,0,24,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,20,21,51,usa,Jeremy_Clements,Jeremy Clements,Kevin Whitaker Chevrolet   (Jeremy Clements),Jeremy_Clements,Chevrolet,72,running,0,17,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,21,29,50,usa,Preston_Pardus,Preston Pardus,Chinchor Electric Inc.,,Chevrolet,72,running,0,16,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,22,26,38,usa,Matt_DiBenedetto,Matt DiBenedetto,Rema   (Rod Sieg),Rod_Sieg,Ford,72,running,0,15,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,23,35,39,usa,Kyle_Sieg,Kyle Sieg,RSS Racing   (Rod Sieg),Rod_Sieg,Ford,72,running,0,14,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,24,37,92,usa,Dawson_Cram,Dawson Cram,Trade With the Pros   (Mario Gosselin),Mario_Gosselin,Chevrolet,72,running,0,0,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,25,38,14,usa,Nathan_Byrd,Nathan Byrd,ASAP Commercial Doors   (Bobby Dotter),Bobby_Dotter,Chevrolet,72,running,0,12,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,26,31,45,usa,Brad_Perez,Brad Perez,KSDT - Loose Is Fast Podcast   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,72,running,0,11,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,27,36,15,usa,Dylan_Lupton,Dylan Lupton,Lupton Excavation   (Kevin Cywinski),Kevin_Cywinski,Ford,71,running,0,10,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,28,33,42,usa,Leland_Honeyman,Leland Honeyman,DPR Construction   (Randy Young),Randy_Young,Chevrolet,65,crash,0,15,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,29,28,07,usa,Sage_Karam,Sage Karam,Kellum Law Firm   (Bobby Dotter),Bobby_Dotter,Chevrolet,63,brakes,0,10,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,30,17,32,usa,Austin_Green,Austin Green,3Dimensional.com   (Jordan Anderson),Jordan_Anderson,Chevrolet,58,engine,0,7,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,31,30,43,usa,Ryan_Ellis,Ryan Ellis,Classic Collision   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,58,running,0,6,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,32,12,98,usa,Riley_Herbst,Riley Herbst,Monster Energy   (Stewart Haas Racing),Stewart_Haas_Racing,Ford,57,driveshaft,0,8,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,33,34,29,usa,Blaine_Perkins,Blaine Perkins,To The Point   (Rod Sieg),Rod_Sieg,Ford,56,running,0,4,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,34,32,35,usa,Thomas_Annunziata,Thomas Annunziata,NFPA   (Emerling-Gase Motorsports),Emerling-Gase_Motorsports,Toyota,52,crash,0,3,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,35,5,18,usa,Sheldon_Creed,Sheldon Creed,Friends of Jaclyn Foundation   (Joe Gibbs),Joe_Gibbs,Toyota,38,crash,0,7,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,36,23,11,usa,Josh_Williams,Josh Williams,Alloy Employer Services   (Matthew Kaulig),Matt_Kaulig,Chevrolet,32,crash,0,1,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,37,18,26,uae,Ed_Jones,Ed Jones,Toyota Racing Development   (Sam Hunt),Sam_Hunt,Toyota,32,crash,0,1,0
+2024,B,2024_Drive_for_the_Cure_250,2024_29,38,24,44,usa,Brennan_Poole,Brennan Poole,Macc Door Systems   (Tommy Joe Martins),Tommy_Joe_Martins,Chevrolet,32,crash,0,1,0
