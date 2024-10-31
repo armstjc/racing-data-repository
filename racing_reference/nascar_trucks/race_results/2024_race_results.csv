@@ -90,7 +90,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2024,C,2024_Victorias_Voice_Foundation_200,2024_03,20,24,15,usa,Tanner_Gray,Tanner Gray,Dead On Tools   (David Gilliland),David_Gilliland,Toyota,133,running,0,17,0
 2024,C,2024_Victorias_Voice_Foundation_200,2024_03,21,29,02,usa,Mason_Massey,Mason Massey,Anderson Power Services   (Randy Young),Randy_Young,Chevrolet,133,running,6,16,0
 2024,C,2024_Victorias_Voice_Foundation_200,2024_03,22,21,38,usa,Layne_Riggs,Layne Riggs,Love's RV Stops   (Bob Jenkins),Bob_Jenkins,Ford,133,running,0,15,0
-2024,C,2024_Victorias_Voice_Foundation_200,2024_03,23,28,33,usa,Lawless_Alan,Lawless Alan,AUTOChargit Mobile    (Josh Reaume),Josh_Reaume,Ford,133,running,0,14,0
+2024,C,2024_Victorias_Voice_Foundation_200,2024_03,23,28,33,usa,Lawless_Alan,Lawless Alan,AUTOChargit Mobile	   (Josh Reaume),Josh_Reaume,Ford,133,running,0,14,0
 2024,C,2024_Victorias_Voice_Foundation_200,2024_03,24,9,43,usa,Daniel_Dye,Daniel Dye,NAPA Nightvision   (Bill McAnally),Bill_McAnally,Chevrolet,132,running,0,13,0
 2024,C,2024_Victorias_Voice_Foundation_200,2024_03,25,30,46,usa,Thad_Moffitt,Thad Moffitt,South Point Hotel & Casino   (Lane Moore),Lane_Moore,Chevrolet,132,running,0,12,0
 2024,C,2024_Victorias_Voice_Foundation_200,2024_03,26,16,25,usa,Ty_Dillon,Ty Dillon,Rackley Roofing   (Rackley W.A.R.),Rackley_WAR,Chevrolet,132,running,0,11,0
@@ -559,7 +559,7 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2024,C,2024_LiUNA%21_175,2024_17,6,9,18,usa,Tyler_Ankrum,Tyler Ankrum,LiUNA!   (Bill McAnally),Bill_McAnally,Chevrolet,175,running,0,36,0
 2024,C,2024_LiUNA%21_175,2024_17,7,4,11,usa,Corey_Heim,Corey Heim,Safelite   (David Gilliland),David_Gilliland,Toyota,175,running,0,30,0
 2024,C,2024_LiUNA%21_175,2024_17,8,10,43,usa,Daniel_Dye,Daniel Dye,Champion Container   (Bill McAnally),Bill_McAnally,Chevrolet,175,running,0,38,0
-2024,C,2024_LiUNA%21_175,2024_17,9,18,99,usa,Ben_Rhodes,Ben Rhodes,Bommarito Automotive Group    (Duke Thorson),Duke_Thorson,Ford,175,running,0,28,0
+2024,C,2024_LiUNA%21_175,2024_17,9,18,99,usa,Ben_Rhodes,Ben Rhodes,Bommarito Automotive Group	   (Duke Thorson),Duke_Thorson,Ford,175,running,0,28,0
 2024,C,2024_LiUNA%21_175,2024_17,10,14,88,usa,Matt_Crafton,Matt Crafton,Ideal Door/Menards   (Duke Thorson),Duke_Thorson,Ford,175,running,0,30,0
 2024,C,2024_LiUNA%21_175,2024_17,11,2,15,usa,Tanner_Gray,Tanner Gray,Dead On Tools   (David Gilliland),David_Gilliland,Toyota,175,running,0,29,0
 2024,C,2024_LiUNA%21_175,2024_17,12,7,45,usa,Kaden_Honeycutt,Kaden Honeycutt,Moore's Venture Foods   (Al Niece),Al_Niece,Chevrolet,175,running,0,27,0
@@ -693,3 +693,37 @@ season,series_id,race_id,race_id_short,finish_position,starting_position,driver_
 2024,C,2024_Loves_RV_Stop_225,2024_20,34,36,16,usa,Johnny_Sauter,Johnny Sauter,Aflac Toyota Tsusho   (Shigeaki Hattori),Shigeaki_Hattori,Toyota,42,dvp,0,3,0
 2024,C,2024_Loves_RV_Stop_225,2024_20,35,2,99,usa,Ben_Rhodes,Ben Rhodes,Kubota   (Duke Thorson),Duke_Thorson,Ford,38,crash,0,2,0
 2024,C,2024_Loves_RV_Stop_225,2024_20,36,32,41,usa,Bayley_Currey,Bayley Currey,DQS   (Al Niece),Al_Niece,Chevrolet,17,rear gear,0,1,0
+2024,C,2024_Baptist_Health_200,2024_21,1,9,9,usa,Grant_Enfinger,Grant Enfinger,Champion Power Equipment   (Codie Rohrbaugh),Codie_Rohrbaugh,Chevrolet,134,running,32,55,6
+2024,C,2024_Baptist_Health_200,2024_21,2,5,98,usa,Ty_Majeski,Ty Majeski,Road Ranger/Poppi   (Mike Curb),Mike_Curb,Ford,134,running,0,50,0
+2024,C,2024_Baptist_Health_200,2024_21,3,10,7,usa,Connor_Mosack,Connor Mosack,Friends of Jaclyn Foundation   (Spire Motorsports),Spire_Motorsports,Chevrolet,134,running,0,41,0
+2024,C,2024_Baptist_Health_200,2024_21,4,1,11,usa,Corey_Heim,Corey Heim,Safelite   (David Gilliland),David_Gilliland,Toyota,134,running,68,52,1
+2024,C,2024_Baptist_Health_200,2024_21,5,15,18,usa,Tyler_Ankrum,Tyler Ankrum,LiUNA!   (Bill McAnally),Bill_McAnally,Chevrolet,134,running,0,32,0
+2024,C,2024_Baptist_Health_200,2024_21,6,12,52,canada,Stewart_Friesen,Stewart Friesen,Halmar International   (Chris Larsen),Chris_Larsen,Toyota,134,running,0,31,0
+2024,C,2024_Baptist_Health_200,2024_21,7,7,43,usa,Daniel_Dye,Daniel Dye,Giuseppe's Pizza   (Bill McAnally),Bill_McAnally,Chevrolet,134,running,0,34,0
+2024,C,2024_Baptist_Health_200,2024_21,8,3,71,usa,Rajah_Caruth,Rajah Caruth,HendrickCars.com   (Spire Motorsports),Spire_Motorsports,Chevrolet,134,running,0,33,0
+2024,C,2024_Baptist_Health_200,2024_21,9,8,19,usa,Christian_Eckes,Christian Eckes,NAPA AUTOCARE   (Bill McAnally),Bill_McAnally,Chevrolet,134,running,3,42,0
+2024,C,2024_Baptist_Health_200,2024_21,10,2,17,usa,Taylor_Gray,Taylor Gray,Place of Hope   (David Gilliland),David_Gilliland,Toyota,134,running,4,39,0
+2024,C,2024_Baptist_Health_200,2024_21,11,22,88,usa,Matt_Crafton,Matt Crafton,Denali Aire/ Menards   (Duke Thorson),Duke_Thorson,Ford,134,running,0,27,0
+2024,C,2024_Baptist_Health_200,2024_21,12,19,99,usa,Ben_Rhodes,Ben Rhodes,Campers Inn RV   (Duke Thorson),Duke_Thorson,Ford,134,running,0,25,0
+2024,C,2024_Baptist_Health_200,2024_21,13,4,2,usa,Nick_Sanchez,Nick Sanchez,Gainbridge   (Max Siegel),Max_Siegel,Chevrolet,134,running,0,27,0
+2024,C,2024_Baptist_Health_200,2024_21,14,6,45,usa,Kaden_Honeycutt,Kaden Honeycutt,Moore's Venture Foods   (Al Niece),Al_Niece,Chevrolet,133,running,0,38,0
+2024,C,2024_Baptist_Health_200,2024_21,15,18,5,usa,Dean_Thompson,Dean Thompson,Thompson Pipe Group   (David Gilliland),David_Gilliland,Toyota,133,running,0,23,0
+2024,C,2024_Baptist_Health_200,2024_21,16,21,91,usa,Corey_Day,Corey Day,HendrickCars.com   (Bill McAnally),Bill_McAnally,Chevrolet,133,running,0,21,0
+2024,C,2024_Baptist_Health_200,2024_21,17,20,1,usa,William_Sawalich,William Sawalich,Starkey/Soundgear   (David Gilliland),David_Gilliland,Toyota,133,running,0,20,0
+2024,C,2024_Baptist_Health_200,2024_21,18,16,75,usa,Connor_Zilisch,Connor Zilisch,Team Silver Hare   (Charlie Henderson),Charlie_Henderson,Chevrolet,133,running,0,0,0
+2024,C,2024_Baptist_Health_200,2024_21,19,14,25,usa,Dawson_Sutton,Dawson Sutton,Rackley Roofing   (Rackley W.A.R.),Rackley_WAR,Chevrolet,133,running,0,18,0
+2024,C,2024_Baptist_Health_200,2024_21,20,33,15,usa,Tanner_Gray,Tanner Gray,Dead On Tools   (David Gilliland),David_Gilliland,Toyota,133,running,0,17,0
+2024,C,2024_Baptist_Health_200,2024_21,21,27,33,usa,Lawless_Alan,Lawless Alan,AUTOChargit   (Josh Reaume),Josh_Reaume,Ford,133,running,0,16,0
+2024,C,2024_Baptist_Health_200,2024_21,22,13,38,usa,Layne_Riggs,Layne Riggs,Love's RV Stops   (Bob Jenkins),Bob_Jenkins,Ford,133,running,27,15,0
+2024,C,2024_Baptist_Health_200,2024_21,23,25,56,usa,Timmy_Hill,Timmy Hill,Coble Enterprises   (Timmy Hill),Timmy_Hill,Toyota,132,running,0,14,0
+2024,C,2024_Baptist_Health_200,2024_21,24,26,13,usa,Jake_Garcia,Jake Garcia,Quanta Services   (Duke Thorson),Duke_Thorson,Ford,132,running,0,13,0
+2024,C,2024_Baptist_Health_200,2024_21,25,23,66,usa,Conner_Jones,Conner Jones,TSPORT/Breast Cancer Awareness   (Duke Thorson),Duke_Thorson,Ford,132,running,0,12,0
+2024,C,2024_Baptist_Health_200,2024_21,26,17,77,usa,Chase_Purdy,Chase Purdy,Bama Buggies   (Spire Motorsports),Spire_Motorsports,Chevrolet,131,running,0,11,0
+2024,C,2024_Baptist_Health_200,2024_21,27,34,76,usa,Spencer_Boyd,Spencer Boyd,Tenikle,,Chevrolet,131,running,0,10,0
+2024,C,2024_Baptist_Health_200,2024_21,28,28,44,usa,Conor_Daly,Conor Daly,Polkadot   (Al Niece),Al_Niece,Chevrolet,131,running,0,0,0
+2024,C,2024_Baptist_Health_200,2024_21,29,29,02,usa,Nathan_Byrd,Nathan Byrd,FARA   (Randy Young),Randy_Young,Chevrolet,130,running,0,0,0
+2024,C,2024_Baptist_Health_200,2024_21,30,30,04,usa,Marco_Andretti,Marco Andretti,Group 1001 / CarQuest   (Roper Racing),Roper_Racing,Chevrolet,127,running,0,7,0
+2024,C,2024_Baptist_Health_200,2024_21,31,11,41,usa,Bayley_Currey,Bayley Currey,Masked Owl Technologies   (Al Niece),Al_Niece,Chevrolet,125,running,0,6,0
+2024,C,2024_Baptist_Health_200,2024_21,32,32,46,usa,Justin_Mondeik,Justin Mondeik,El Bandido Yankee Tequila   (Lane Moore),Lane_Moore,Chevrolet,114,running,0,5,0
+2024,C,2024_Baptist_Health_200,2024_21,33,31,22,usa,Frankie_Muniz,Frankie Muniz,More Core   (Kevin Cywinski),Kevin_Cywinski,Ford,105,running,0,4,0
+2024,C,2024_Baptist_Health_200,2024_21,34,24,42,usa,Matt_Mills,Matt Mills,Utilitra/J.F. Electric   (Al Niece),Al_Niece,Chevrolet,74,crash,0,3,0
