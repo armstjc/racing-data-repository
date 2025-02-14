@@ -1,0 +1,14 @@
+race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
+5543,20,20,Accident,"#99, 4, 8 Incident Turn 3",None,2
+5543,78,78,Accident,"#24, 34 Incident Frontstretch",4,2
+5543,100,100,Unknown,Halfway Break,24,2
+5543,102,102,Accident,"#2, 5, 19 Incident Turn 1",8,2
+5543,108,108,Accident,"#77, 20, 22 Incident Turn 3",8,2
+5543,115,115,Accident,"#24, 5, 77, 19 Incident Turn 2",None,2
+5543,120,120,Accident,"#23, 6 Incident Turn 1",None,2
+5544,4,7,Accident,#38 Incident Turn 4,None,2
+5544,15,19,Accident,"#66,, 7, 54, 91 Incident Turn 2",None,2
+5544,26,28,Debris,Debris Turn 4,None,2
+5544,44,46,Debris,Debris Backstretch,None,2
+5545,49,53,Accident,"#6, 48, 99 Incident Backstretch",None,2
+5545,60,60,Accident,"#5, 88, 35, 62, 51 Incident Frontstretch",None,2
