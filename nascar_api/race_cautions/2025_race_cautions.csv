@@ -55,6 +55,12 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5514,19,24,Competition,No. 35 stalled on track / Stage 1 Conclusion,32,2
 5514,30,31,Unknown,Tire pack repair,None,2
 5514,42,45,Competition,Stage 2 Conclusion,None,2
+5513,47,54,Competition,Stage 1 Conclusion,42,2
+5513,57,61,Unknown,#42 Stopped On Pit Road,5,2
+5513,63,71,Accident,"#21, 26, 00 Incident Turn 3",91,2
+5513,92,99,Competition,Stage 2 Conclusion,31,2
+5513,148,154,Accident,#74 Incident Turn 1,28,2
+5513,198,206,Accident,#07 Incident Turn 4,45,2
 5485,5,9,Accident,"#45, 38 Incident Frontstretch",None,2
 5485,17,19,Accident,"#5, 17 Incident Frontstretch",None,2
 5485,22,25,Competition,Stage 1 Conclusion,88,2
