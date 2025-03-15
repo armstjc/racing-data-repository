@@ -83,3 +83,7 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5486,62,67,Competition,Stage 2 Conclusion,76,2
 5486,75,85,Accident,"#02, 1, 18, 19, 71, 77 Incident Frontstretch [Red Flag: 00:12:55]",98,2
 5486,108,112,Debris,Debris Turn 1,34,2
+5487,27,37,Competition,"Precipitation / Stage 1 Conclusion [Red Flag: Lap 34, 55:51]",22,2
+5487,62,71,Competition,"Stage 2 Conclusion [Red Flag: Lap 70, 19:42]",22,2
+5487,85,90,Spin,#45 spin turn 4,1,2
+5487,94,100,Accident,#91 incident turn 4,33,2
