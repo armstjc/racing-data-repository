@@ -99,3 +99,7 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5487,62,71,Competition,"Stage 2 Conclusion [Red Flag: Lap 70, 19:42]",22,2
 5487,85,90,Spin,#45 spin turn 4,1,2
 5487,94,100,Accident,#91 incident turn 4,33,2
+5489,2,6,Accident,"#17, 99 Incident Turn 2",None,2
+5489,32,37,Competition,Stage 1 Conclusion,76,2
+5489,62,67,Competition,Stage 2 Conclusion,76,2
+5489,91,95,Accident,"#07, 34 Incident Turn 2",26,2
