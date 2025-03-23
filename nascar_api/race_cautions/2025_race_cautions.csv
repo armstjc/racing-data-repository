@@ -83,6 +83,12 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5512,2,5,Accident,"#4, 18 incident backstretch",None,2
 5512,47,53,Competition,Stage 1 Conclusion,44,2
 5512,92,98,Competition,Stage 2 Conclusion,21,2
+5540,18,23,Unknown,Possible Fluid On Track,None,2
+5540,31,33,Spin,#5 Spin Turn 4,None,2
+5540,38,41,Spin,#19 Spin Turn 4,5,2
+5540,47,53,Competition,Stage 1 Conclusion,None,2
+5540,92,96,Competition,Stage 2 Conclusion,71,2
+5540,194,199,Spin,#54 Spin Frontstretch,2,2
 5485,5,9,Accident,"#45, 38 Incident Frontstretch",None,2
 5485,17,19,Accident,"#5, 17 Incident Frontstretch",None,2
 5485,22,25,Competition,Stage 1 Conclusion,88,2
