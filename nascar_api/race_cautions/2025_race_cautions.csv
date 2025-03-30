@@ -93,6 +93,20 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5540,47,53,Competition,Stage 1 Conclusion,None,2
 5540,92,96,Competition,Stage 2 Conclusion,71,2
 5540,194,199,Spin,#54 Spin Frontstretch,2,2
+5516,55,67,Accident,"Nos. 17, 25 Incident Turn 2 / Stage 1 Conclusion",31,2
+5516,82,88,Spin,No. 14 Spin Frontstretch,99,2
+5516,96,101,Spin,No. 26 Spin Turn 1,70,2
+5516,122,132,Competition,Stage 2 Conclusion,24,2
+5516,141,147,Accident,"Nos. 25, 70 Incident Turn 2",14,2
+5516,155,160,Accident,"Nos. 1, 41 Incident Frontstretch",53,2
+5516,177,183,Spin,No. 88 Spin Turn 2,28,2
+5516,192,197,Spin,No. 07 Spin Turn 2,35,2
+5516,201,208,Spin,No. 25 Spin Turn 4,71,2
+5516,211,215,Spin,No. 26 Spin Turn 2,71,2
+5516,218,228,Accident,"Nos. 1, 2 Incident Turn 1",17,2
+5516,233,238,Accident,"Nos. 48, 16, 91, 28, 11, 25 Incident Backstretch [Red Flag: 00:11:27]",17,2
+5516,243,248,Accident,"No. 18, 88, 51 Incident Turn 4",07,2
+5516,250,254,Spin,No. 99 Spin Turn 2,88,2
 5485,5,9,Accident,"#45, 38 Incident Frontstretch",None,2
 5485,17,19,Accident,"#5, 17 Incident Frontstretch",None,2
 5485,22,25,Competition,Stage 1 Conclusion,88,2
