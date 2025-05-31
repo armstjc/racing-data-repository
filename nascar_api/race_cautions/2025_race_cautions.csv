@@ -288,3 +288,7 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5495,32,38,Competition,Stage 1 Conclusion,22,2
 5495,62,68,Competition,Stage 2 Conclusion,2,2
 5495,72,77,Accident,"#38, 98, 17, 81 incident frontstretch",2,2
+5497,3,10,Unknown,Fluid on Track,None,2
+5497,47,53,Competition,Stage 1 Conclusion,2,2
+5497,56,60,Accident,"No. 63, 91 Incident Turn 4",76,2
+5497,97,103,Competition,Stage 2 Conlcusion,88,2
