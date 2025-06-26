@@ -131,19 +131,6 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5573,110,113,Accident,#12 Incident Turn 4,20,2
 5573,122,126,Competition,Stage 2 Conclusion,12,2
 5573,147,151,Accident,#34 Incident Turn 2,12,2
-5552,2,4,Unknown,Precipitation,None,2
-5552,8,9,Accident,"#7, 19, 38, 9, 8, 5, 16, 34 incident turn 1",None,2
-5552,22,24,Competition,Stage 1 Conclusion,19,2
-5552,33,34,Accident,#11 incident turn 10,19,2
-5552,47,49,Competition,Stage 2 Conclusion,7,2
-5552,66,68,Unknown,#77 stalled on track,38,2
-5570,32,35,Competition,Stage 1 Conclusion,51,2
-5570,43,48,Accident,#35 Incident Turn 1,44,2
-5570,56,60,Debris,Debris Turn 2,None,2
-5570,78,80,Debris,Debris Frontstretch,None,2
-5570,84,87,Accident,"#20, 88, 10, 8 Incident Turn 2",None,2
-5570,97,100,Competition,Stage 2 Conclusion,20,2
-5570,126,130,Spin,#88 Spin Turn 1,None,2
 5510,7,11,Accident,"#20, 1, 10, 25, 44, 88 Incident Backstretch",None,2
 5510,21,25,Debris,Debris,44,2
 5510,32,36,Competition,Stage 1 Conclusion,None,2
@@ -256,16 +243,6 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5525,42,46,Competition,Stage 2 Conclusion,70,2
 5525,48,51,Accident,"#00, 1, 4, 8, 18, 19, 20, 28, 35, 39, 41, 70, 88 incident turn 3",42,2
 5525,60,61,Accident,#2 incident turn 15,71,2
-5528,5,7,Spin,#10 Spin Turn 3,None,2
-5528,9,13,Unknown,Possible Fluid On Track From #19,None,2
-5528,27,31,Competition,Stage 1 Conclusion,07,2
-5528,34,37,Accident,"#18, 21, 20, 10, 07 Incident Turn 2",None,2
-5528,42,45,Spin,#70 Spin Turn 1,00,2
-5528,52,56,Competition,Stage 2 Conclusion,10,2
-5528,72,75,Spin,#14 Spin Turn 2,10,2
-5528,80,83,Accident,"#71, 26 Incident Turn 2",14,2
-5528,85,87,Accident,"#48, 54, 00 Incident Turn 2",21,2
-5528,91,94,Spin,#28 Spin Turn 2,48,2
 5485,5,9,Accident,"#45, 38 Incident Frontstretch",None,2
 5485,17,19,Accident,"#5, 17 Incident Frontstretch",None,2
 5485,22,25,Competition,Stage 1 Conclusion,88,2
@@ -349,7 +326,3 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5501,122,126,Accident,"#11, 13, 15, 17, 19, 26, 33, 38, 44, 77, 81, 99 Incident Frontstretch",5,2
 5501,128,132,Accident,#19 Incident Turn 3,81,2
 5501,134,137,Accident,"#5, 42, 77, 91 Incident Backstretch",81,2
-5498,20,26,Debris,Debris Turn 2 / Stage 1 Conclusion,71,2
-5498,42,46,Competition,Stage 2 Conclusion,9,2
-5498,49,55,Accident,"#18, 9, 99, 22, 44, 26 Incident Turn 2",None,2
-5498,57,61,Accident,"#13, 98 Incident Turn 1",9,2
