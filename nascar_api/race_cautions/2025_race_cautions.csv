@@ -154,6 +154,13 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5576,196,200,Spin,No. 43 Spin Turn 4,47,2
 5576,204,207,Spin,No. 66 Spin Frontstretch,71,2
 5576,228,232,Accident,No. 7 Incident Turn 3,71,2
+5569,4,6,Unknown,"#77, 6, 99, 34, 3, 13, 35, 16 turn 11 [Red Flag: Lap 4, 14:42]",None,2
+5569,22,24,Competition,Stage 1 Conclusion,17,2
+5569,32,33,Unknown,#21 stalled on track,None,2
+5569,47,48,Competition,Stage 2 Conclusion,None,2
+5569,61,62,Unknown,Spectator medical emergency,10,2
+5569,65,66,Unknown,#2 stalled on track,12,2
+5569,75,75,Accident,#51 incident turn 6,None,2
 5510,7,11,Accident,"#20, 1, 10, 25, 44, 88 Incident Backstretch",None,2
 5510,21,25,Debris,Debris,44,2
 5510,32,36,Competition,Stage 1 Conclusion,None,2
