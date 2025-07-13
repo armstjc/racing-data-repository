@@ -298,6 +298,8 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5527,32,34,Competition,Stage 2 Conclusion,99,2
 5527,36,37,Debris,Debris turn 2,99,2
 5527,46,48,Accident,#35 incident turn 6,99,2
+5523,22,24,Competition,Stage 1 Conclusion,91,2
+5523,47,50,Competition,Stage 2 Conclusion,None,2
 5485,5,9,Accident,"#45, 38 Incident Frontstretch",None,2
 5485,17,19,Accident,"#5, 17 Incident Frontstretch",None,2
 5485,22,25,Competition,Stage 1 Conclusion,88,2
