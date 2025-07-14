@@ -161,6 +161,12 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5569,61,62,Unknown,Spectator medical emergency,10,2
 5569,65,66,Unknown,#2 stalled on track,12,2
 5569,75,75,Accident,#51 incident turn 6,None,2
+5565,27,29,Competition,Stage 1 Conclusion,None,2
+5565,57,59,Competition,Stage 2 Conclusion,77,2
+5565,63,65,Unknown,#12 Stopped On Track,None,2
+5565,97,99,Debris,Debris Turn 4,None,2
+5565,101,103,Unknown,#4 Stopped Turn 7,12,2
+5565,105,106,Accident,#47 Incident Turn 8,51,2
 5510,7,11,Accident,"#20, 1, 10, 25, 44, 88 Incident Backstretch",None,2
 5510,21,25,Debris,Debris,44,2
 5510,32,36,Competition,Stage 1 Conclusion,None,2
