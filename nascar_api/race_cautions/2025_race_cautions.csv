@@ -407,3 +407,6 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5509,37,39,Competition,Stage 1 Conclusion,91,2
 5509,72,76,Competition,Stage 2 Conclusion/Fluid On Track [Red Flag: 00:04:54],02,2
 5509,91,95,Unknown,No. 42 Stopped Off Track Turn 1,88,2
+5499,62,70,Competition,Stage 1 Conclusion,88,2
+5499,100,106,Accident,Incident No. 22 Turn 3,44,2
+5499,122,129,Competition,Stage 2 Conclusion,42,2
