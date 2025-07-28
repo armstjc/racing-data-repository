@@ -175,6 +175,12 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5556,385,392,Accident,No. 1 Incident Backstretch / Rain [Red Flag: 00:56:23],22,2
 5556,395,399,Accident,"No. 4, 20, 24 Incident Frontstretch",7,2
 5556,401,405,Accident,"No. 38, 60 Incident Backstretch",10,2
+5571,19,22,Accident,Incident No. 1 Turn 3,None,2
+5571,52,55,Competition,Stage 1 Conclusion ,66,2
+5571,91,96,Accident,Incident No. 43 Turn 3,34,2
+5571,102,105,Competition,Stage 2 Conclusion,2,2
+5571,156,161,Weather,Weather - Precipitation,78,2
+5571,163,166,Accident,"Incident No. 38, 20, 45, 22 & 62 Backstretch",41,2
 5510,7,11,Accident,"#20, 1, 10, 25, 44, 88 Incident Backstretch",None,2
 5510,21,25,Debris,Debris,44,2
 5510,32,36,Competition,Stage 1 Conclusion,None,2
