@@ -443,3 +443,12 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5499,62,70,Competition,Stage 1 Conclusion,88,2
 5499,100,106,Accident,Incident No. 22 Turn 3,44,2
 5499,122,129,Competition,Stage 2 Conclusion,42,2
+5503,13,15,Unknown,#2 stalled on track,None,2
+5503,22,24,Competition,Stage 1 Conclusion,69,2
+5503,37,39,Accident,#91 incident turn 2,69,2
+5503,42,44,Competition,Stage 2 Conclusion,62,2
+5503,61,63,Debris,Debris turn 7,76,2
+5503,66,68,Accident,"#98, 15 incident turn 4",45,2
+5503,70,72,Accident,#99 incident turn 7,62,2
+5503,74,76,Accident,#77 incident innerloop,69,2
+5503,78,79,Accident,"#9, 81, 98, 13 incident innerloop",56,2
