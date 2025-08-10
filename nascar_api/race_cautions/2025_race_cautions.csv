@@ -350,6 +350,13 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5524,215,220,Spin,#7 Spin Turn 2,21,2
 5524,224,233,Accident,#20 Incident Turn 2,51,2
 5524,250,250,Spin,#14 Spin Turn 2,None,2
+5534,6,7,Unknown,#91 stopped on track,None,2
+5534,22,24,Competition,Stage 1 Conclusion,91,2
+5534,42,44,Competition,Stage 2 Conclusion,31,2
+5534,53,55,Accident,#00 incident turn 6,10,2
+5534,66,68,Accident,"#9, 88 incident turn 7",31,2
+5534,70,71,Debris,Debris,31,2
+5534,75,78,Accident,"#11, 39, 15, 54, 2, 18, 21, 91, 28, 27, 71 incident turn 6 [Red Flag: Lap 74, 45:05]",31,2
 5485,5,9,Accident,"#45, 38 Incident Frontstretch",None,2
 5485,17,19,Accident,"#5, 17 Incident Frontstretch",None,2
 5485,22,25,Competition,Stage 1 Conclusion,88,2
