@@ -462,3 +462,8 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5503,70,72,Accident,#99 incident turn 7,62,2
 5503,74,76,Accident,#77 incident innerloop,69,2
 5503,78,79,Accident,"#9, 81, 98, 13 incident innerloop",56,2
+5500,72,80,Competition,Stage 1 Conclusion,18,2
+5500,91,96,Accident,"#66, 76 Incident Turn 2",71,2
+5500,109,117,Unknown,#26 Stopped at Pit Entry,17,2
+5500,142,150,Competition,Stage 2 Conclusion,77,2
+5500,201,215,Accident,"#88, 98 Incident Turn 4",13,2
