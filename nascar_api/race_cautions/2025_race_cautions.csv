@@ -201,6 +201,14 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5572,192,196,Spin,#51 Spin Turn 2,88,2
 5572,199,213,Accident,"#1, 6, 7, 8, 9, 10, 11, 19, 24, 41, 43 Incident Turn 3",54,2
 5572,232,240,Competition,Stage 2 Conclusion,16,2
+5574,12,15,Accident,#66 Incident Turn 4,24,2
+5574,19,23,Accident,"#34, 45 Incident Frontstretch",66,2
+5574,28,33,Accident,"#8, 38, 11, 47, 2, 4, 22, 23, 48, 35, 33, 77 Incident Frontstretch [Red Flag 8:30]",66,2
+5574,37,41,Competition,Stage 1 Conclusion,11,2
+5574,84,87,Unknown,#77 Stopped On Backstretch,11,2
+5574,97,101,Competition,Stage 2 Conclusion,11,2
+5574,109,115,Unknown,#11 Slow On Track,None,2
+5574,150,152,Spin,#22 Spin Frontstretch,11,2
 5510,7,11,Accident,"#20, 1, 10, 25, 44, 88 Incident Backstretch",None,2
 5510,21,25,Debris,Debris,44,2
 5510,32,36,Competition,Stage 1 Conclusion,None,2
