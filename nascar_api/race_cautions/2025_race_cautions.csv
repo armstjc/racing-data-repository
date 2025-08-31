@@ -380,6 +380,10 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5531,90,94,Accident,"#54, 51, 5, 91 Incident Turn 4",1,2
 5531,98,102,Accident,"#71, 16, 27, 39, 10, 19, 25, 48, 99, 45, 00 Incident Frontstretch",1,2
 5531,104,104,Accident,"#00, 07, 44, 35, 53, 48, 25, 11, 21, 70, 28, 1, 91 Incident Turn 4",None,2
+5522,26,28,Competition,#99 Stopped On Track Turn 9/Stage 1 Conclusion,53,2
+5522,52,54,Competition,Stage 2 Conclusion,14,2
+5522,65,68,Unknown,#42 STopped On Track Turn 2,None,2
+5522,73,76,Unknown,#19 Stopped On Track Turn 12,00,2
 5485,5,9,Accident,"#45, 38 Incident Frontstretch",None,2
 5485,17,19,Accident,"#5, 17 Incident Frontstretch",None,2
 5485,22,25,Competition,Stage 1 Conclusion,88,2
@@ -487,3 +491,6 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5500,109,117,Unknown,#26 Stopped at Pit Entry,17,2
 5500,142,150,Competition,Stage 2 Conclusion,77,2
 5500,201,215,Accident,"#88, 98 Incident Turn 4",13,2
+5493,47,53,Competition,Stage 1 Conclusion,81,2
+5493,92,98,Competition,Stage 2 Conclusion,52,2
+5493,129,133,Accident,"#44, 52 incident frontstretch",26,2
