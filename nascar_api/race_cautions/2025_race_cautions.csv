@@ -391,6 +391,12 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5522,52,54,Competition,Stage 2 Conclusion,14,2
 5522,65,68,Unknown,#42 STopped On Track Turn 2,None,2
 5522,73,76,Unknown,#19 Stopped On Track Turn 12,00,2
+5532,36,43,Accident,No. 32 Incident Turn 2 / Stage 1 Conclusion,07,2
+5532,72,79,Competition,Stage 2 Conclusion,07,2
+5532,111,119,Accident,No. 27 Incident Backstretch,91,2
+5532,130,134,Accident,"Nos. 25, 44 Incident Turn 2",53,2
+5532,136,142,Accident,"Nos. 00, 7, 8, 17, 26, 28, 39, 41, 48, 51, 54 Incident Turn 1",53,2
+5532,144,148,Debris,Debris Frontstretch,7,2
 5485,5,9,Accident,"#45, 38 Incident Frontstretch",None,2
 5485,17,19,Accident,"#5, 17 Incident Frontstretch",None,2
 5485,22,25,Competition,Stage 1 Conclusion,88,2
