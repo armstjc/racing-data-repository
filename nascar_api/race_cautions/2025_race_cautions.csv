@@ -226,6 +226,20 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5564,151,155,Debris,Debris Turn 3,None,2
 5564,157,161,Accident,No. 88 Incident Turn 4,None,2
 5564,210,215,Accident,No. 10 Incident Turn 1,1,2
+5578,81,94,Debris,Debris pit road,42,2
+5578,101,107,Accident,"#35, 48 incident turn 2",19,2
+5578,127,137,Competition,Stage 1 Conclusion,43,2
+5578,148,155,Accident,"#47, 88, 43, 71 incident frontstretch",20,2
+5578,239,246,Accident,"#24, 88 incident turn 4",None,2
+5578,252,265,Competition,Stage 2 Conclusion,24,2
+5578,270,276,Accident,"#10, 88 incident turn 1",71,2
+5578,282,288,Accident,"#10, 41 incident turn 1",16,2
+5578,294,300,Accident,"#10, 4, incident backstretch",1,2
+5578,312,329,Accident,"#9, 42 incident turn 3",45,2
+5578,355,361,Accident,"#23, 47 incident turn 1",7,2
+5578,366,373,Spin,#5 spin turn 4,47,2
+5578,385,397,Accident,"#11, 24, 16 incident turn 4",8,2
+5578,489,496,Accident,"#23, 41 incident turn 2",24,2
 5510,7,11,Accident,"#20, 1, 10, 25, 44, 88 Incident Backstretch",None,2
 5510,21,25,Debris,Debris,44,2
 5510,32,36,Competition,Stage 1 Conclusion,None,2
