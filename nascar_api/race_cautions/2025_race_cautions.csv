@@ -542,3 +542,11 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5502,67,76,Competition,Stage 1 Conclusion,75,2
 5502,91,96,Spin,#18 Spin Turn 2,62,2
 5502,132,141,Competition,Stage 2 Conclusion,02,2
+5508,2,5,Accident,"#1, 15, 81 Incident Turn 2",None,2
+5508,34,41,Accident,"#02, 74, 19 Incident Turn 1",76,2
+5508,44,48,Accident,"#41, 16 Incident Turn 4",22,2
+5508,51,60,Accident,#69 Incident Turn 3 / Stage 1 Conclusion,5,2
+5508,102,107,Accident,#7 Incident Turn 1,5,2
+5508,112,118,Competition,Stage 2 Conclusion,20,2
+5508,128,132,Accident,"#33, 76 Incident Turn 1",None,2
+5508,134,142,Accident,"#5, 88, 44, 99 Incident Turn 3",44,2
