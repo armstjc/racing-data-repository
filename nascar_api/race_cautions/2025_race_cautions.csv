@@ -571,3 +571,7 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5508,112,118,Competition,Stage 2 Conclusion,20,2
 5508,128,132,Accident,"#33, 76 Incident Turn 1",None,2
 5508,134,142,Accident,"#5, 88, 44, 99 Incident Turn 3",44,2
+5505,4,6,Accident,No. 99 Incident Turn 8,None,2
+5505,22,24,Competition,Stage 1 Conclusion,None,2
+5505,42,44,Competition,Stage 2 Conclusion,33,2
+5505,66,68,Unknown,No. 5 Turn 5 Stalled,76,2
