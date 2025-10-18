@@ -593,3 +593,10 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5505,22,24,Competition,Stage 1 Conclusion,None,2
 5505,42,44,Competition,Stage 2 Conclusion,33,2
 5505,66,68,Unknown,No. 5 Turn 5 Stalled,76,2
+5504,5,8,Accident,"#9, 98, 13, 38, 99 incident frontstretch",None,2
+5504,11,13,Accident,"#34, 38, 81 incident turn 1",6,2
+5504,22,26,Competition,Stage 1 Conclusion,13,2
+5504,33,35,Accident,#1 incident backstretch,13,2
+5504,42,46,Competition,Stage 2 Conclusion,6,2
+5504,66,70,Oil on Track,Oil on track from the #6,76,2
+5504,85,88,Accident,"#66, 99, 15 incident backstretch",2,2
