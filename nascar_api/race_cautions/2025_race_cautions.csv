@@ -611,3 +611,14 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5504,42,46,Competition,Stage 2 Conclusion,6,2
 5504,66,70,Oil on Track,Oil on track from the #6,76,2
 5504,85,88,Accident,"#66, 99, 15 incident backstretch",2,2
+5506,8,12,Accident,"#44, 88 incident turn 4",None,2
+5506,22,28,Unknown,Fluid on track,44,2
+5506,42,46,Accident,"#6, 7, 19 incident turn 1",None,2
+5506,52,61,Competition,Stage 1 Conclusion,19,2
+5506,74,80,Accident,"#71, 52 incident turn 1",19,2
+5506,102,111,Competition,Stage 2 Conclusion,33,2
+5506,141,148,Accident,#22 incident turn 4,90,2
+5506,156,162,Accident,"#5, 77, 84 incident turn 2",33,2
+5506,180,185,Accident,"#17, 81 incident turn 4",45,2
+5506,188,191,Spin,#45 spin turn 4,None,2
+5506,196,201,Accident,"#13, 41, 44, 26, 99 incident backstretch",45,2
