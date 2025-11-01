@@ -20733,183 +20733,606 @@ vehicle_number,driver_name,vehicle_manufacturer,leader_lap,lap_count,pit_in_flag
 4,* Noah Gragson,Frd,500,497,4,4,12896.952,-1.0,-1.0,12895.952,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,30,30,0,5584
 77,Carson Hocevar,Chv,500,497,4,4,12900.104,-1.0,-1.0,12899.104,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,31,31,0,5584
 47,Ricky Stenhouse Jr.,Chv,500,498,4,4,12903.547,-1.0,-1.0,12902.547,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,27,27,0,5584
-1,Brent Crews,Tyt,0,0,1,1,48.889,83.895,35.006,47.889,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,8,11,-3,5507
-17,Giovanni Ruggiero #,Tyt,0,0,1,1,69.338,100.045,30.707,68.338,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,6,16,-10,5507
-5,Toni Breidinger #,Tyt,0,0,1,1,71.519,104.95,33.431,70.519,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,6,16,-10,5507
-34,Layne Riggs (P),Frd,0,0,1,1,78.258,110.792,32.534,77.258,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,16,-11,5507
-77,Corey LaJoie,Chv,0,0,1,1,86.091,118.742,32.651,85.091,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,6,19,-13,5507
-1,Brent Crews,Tyt,0,0,1,1,106.665,258.755,152.09,105.665,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,25,-13,5507
-38,Chandler Smith,Frd,0,0,1,1,107.261,330.911,223.65,106.261,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,26,-14,5507
-19,Daniel Hemric,Chv,0,0,1,1,143.475,175.116,31.641,142.475,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,8,16,-8,5507
-15,Tanner Gray,Tyt,0,0,1,1,158.278,190.88,32.602,157.278,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,9,19,-10,5507
-18,Tyler Ankrum (P),Chv,0,0,1,1,163.381,244.303,80.922,162.381,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,13,21,-8,5507
-98,Ty Majeski (P),Frd,0,2,1,1,173.786,606.468,432.682,172.786,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,31,-30,5507
-19,Daniel Hemric,Chv,0,0,1,1,198.481,230.258,31.777,197.481,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,18,21,-3,5507
-66,Luke Baldwin,Frd,0,4,1,1,236.135,479.656,243.521,235.135,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,24,-21,5507
-91,Jack Wood,Chv,0,2,1,1,250.749,502.628,251.879,249.749,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,14,29,-15,5507
-99,Ben Rhodes,Frd,0,5,1,1,257.923,569.527,311.604,256.923,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,23,-22,5507
-88,Matt Crafton,Frd,0,5,1,1,266.318,479.111,212.793,265.318,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,20,-17,5507
-13,Jake Garcia,Frd,0,5,1,1,323.124,731.547,408.423,322.124,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,8,29,-21,5507
-34,Layne Riggs (P),Frd,0,6,1,1,332.26,601.28,269.02,331.26,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,22,-19,5507
-77,Corey LaJoie,Chv,0,6,1,1,335.045,791.883,456.838,334.045,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,29,-25,5507
-9,Grant Enfinger,Chv,0,6,1,1,355.132,741.627,386.495,354.132,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,6,27,-21,5507
-76,Spencer Boyd,Chv,0,6,1,1,365.625,876.599,510.974,364.625,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,8,30,-22,5507
-17,Giovanni Ruggiero #,Tyt,0,8,1,1,370.132,728.398,358.266,369.132,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,21,-19,5507
-81,Connor Mosack #,Chv,0,7,1,1,389.034,1030.82,641.786,388.034,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,31,-27,5507
-42,Matt Mills,Chv,0,4,1,1,415.168,817.961,402.793,414.168,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,20,32,-12,5507
-33,Frankie Muniz #,Frd,0,4,1,1,457.937,721.127,263.19,456.937,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,22,31,-9,5507
-62,Cole Butcher,Tyt,0,12,1,1,461.767,946.74,484.973,460.767,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,9,-8,5507
-26,Dawson Sutton #,Chv,0,8,1,1,489.905,1712.239,1222.334,488.905,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,33,-28,5507
-52,Kaden Honeycutt (P),Tyt,0,7,1,1,500.23,885.455,385.225,499.23,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,11,27,-16,5507
-15,Tanner Gray,Tyt,0,10,1,1,522.055,939.824,417.769,521.055,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,20,-17,5507
-2,Clayton Green,Frd,0,8,1,1,526.102,856.691,330.589,525.102,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,9,25,-16,5507
-18,Tyler Ankrum (P),Chv,0,10,1,1,575.872,1292.133,716.261,574.872,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,6,28,-22,5507
-88,Matt Crafton,Frd,0,8,1,1,579.18,855.093,275.913,578.18,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,24,-12,5507
-22,Mason Maggio,Frd,0,5,1,1,612.127,940.461,328.334,611.127,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,27,33,-6,5507
-11,Corey Heim (P),Tyt,0,12,1,1,614.372,1124.692,510.32,613.372,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,17,-14,5507
-1,Brent Crews,Tyt,0,11,1,1,618.663,1072.666,454.003,617.663,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,21,-16,5507
-19,Daniel Hemric,Chv,0,12,1,1,629.034,1187.892,558.858,628.034,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,18,-14,5507
-02,Nathan Byrd,Chv,0,1,1,1,660.306,712.337,52.031,659.306,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,32,32,0,5507
-5,Toni Breidinger #,Tyt,0,17,1,1,662.177,1284.872,622.695,661.177,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,9,-8,5507
-66,Luke Baldwin,Frd,0,10,1,1,671.982,1038.243,366.261,670.982,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,11,24,-13,5507
-99,Ben Rhodes,Frd,0,8,1,1,675.851,1125.856,450.005,674.851,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,18,31,-13,5507
-71,Rajah Caruth,Chv,0,12,1,1,686.998,1058.433,371.435,685.998,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,13,-8,5507
-44,Andres Perez De Lara #,Chv,0,9,1,1,700.972,968.63,267.658,699.972,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,23,-11,5507
-45,Bayley Currey,Chv,0,8,1,1,704.379,1145.708,441.329,703.379,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,21,31,-10,5507
-98,Ty Majeski (P),Frd,0,6,1,1,740.989,1295.964,554.975,739.989,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,26,33,-7,5507
-91,Jack Wood,Chv,0,10,1,1,749.71,1079.796,330.086,748.71,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,14,24,-10,5507
-7,Stefan Parsons,Chv,0,13,1,1,752.732,1003.185,250.453,751.732,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,6,-3,5507
-41,Tyler Reif,Chv,0,11,1,1,759.704,1442.493,682.789,758.704,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,9,28,-19,5507
-38,Chandler Smith,Frd,0,14,1,1,773.557,1390.636,617.079,772.557,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,21,-19,5507
-34,Layne Riggs (P),Frd,0,12,1,1,794.058,1207.353,413.295,793.058,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,8,18,-10,5507
-13,Jake Garcia,Frd,0,9,1,1,867.133,1313.893,446.76,866.133,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,18,29,-11,5507
-02,Nathan Byrd,Chv,0,6,1,1,886.434,1306.599,420.165,885.434,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,29,33,-4,5507
-9,Grant Enfinger,Chv,0,11,1,1,903.751,1205.062,301.311,902.751,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,23,-11,5507
-17,Giovanni Ruggiero #,Tyt,0,14,1,1,921.928,1647.268,725.34,920.928,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,28,-25,5507
-77,Corey LaJoie,Chv,0,10,1,1,922.788,1488.123,565.335,921.788,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,18,31,-13,5507
-42,Matt Mills,Chv,0,8,1,1,950.488,1450.953,500.465,949.488,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,27,33,-6,5507
-88,Matt Crafton,Frd,0,11,1,1,955.53,986.799,31.269,954.53,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,14,16,-2,5507
-88,Matt Crafton,Frd,0,11,1,1,1004.949,1247.475,242.526,1003.949,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,16,25,-9,5507
-52,Kaden Honeycutt (P),Tyt,0,11,1,1,1024.447,1270.129,245.682,1023.447,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,17,25,-8,5507
-33,Frankie Muniz #,Frd,0,15,1,1,1062.474,1320.73,258.256,1061.474,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,14,-11,5507
-2,Clayton Green,Frd,0,16,1,1,1114.626,1976.923,862.297,1113.626,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,28,-24,5507
-22,Mason Maggio,Frd,0,10,1,1,1115.101,1281.842,166.741,1114.101,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,25,28,-3,5507
-74,Caleb Costner,Chv,0,13,1,1,1125.519,1978.712,853.193,1124.519,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,33,-21,5507
-76,Spencer Boyd,Chv,0,14,1,1,1129.258,1596.303,467.045,1128.258,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,9,26,-17,5507
-81,Connor Mosack #,Chv,0,11,1,1,1167.742,1358.107,190.365,1166.742,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,23,27,-4,5507
-7,Stefan Parsons,Chv,0,19,1,1,1197.517,1434.051,236.534,1196.517,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,9,-7,5507
-62,Cole Butcher,Tyt,0,20,1,1,1199.593,1648.232,448.639,1198.593,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,11,-10,5507
-44,Andres Perez De Lara #,Chv,0,17,1,1,1222.055,1524.655,302.6,1221.055,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,6,17,-11,5507
-15,Tanner Gray,Tyt,0,21,1,1,1272.743,1769.936,497.193,1271.743,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,12,-11,5507
-66,Luke Baldwin,Frd,0,18,1,1,1285.674,1611.8,326.126,1284.674,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,16,-11,5507
-99,Ben Rhodes,Frd,0,13,1,1,1287.4,1890.808,603.408,1286.4,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,20,33,-13,5507
-9,Grant Enfinger,Chv,0,14,1,1,1310.319,1671.432,361.113,1309.319,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,18,29,-11,5507
-1,Brent Crews,Tyt,0,19,1,1,1320.052,1692.545,372.493,1319.052,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,15,-10,5507
-88,Matt Crafton,Frd,0,14,1,1,1350.848,1707.716,356.868,1349.848,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,20,29,-9,5507
-35,Greg Van Alst,Tyt,0,2,1,1,1363.82,2303.281,939.461,1362.82,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,34,34,0,5507
-71,Rajah Caruth,Chv,0,22,1,1,1365.748,1401.595,35.847,1364.748,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5507
-19,Daniel Hemric,Chv,0,18,1,1,1378.437,1884.463,506.026,1377.437,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,10,23,-13,5507
-91,Jack Wood,Chv,0,20,1,1,1388.12,1779.278,391.158,1387.12,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,15,-10,5507
-22,Mason Maggio,Frd,0,13,1,1,1393.143,1569.732,176.589,1392.143,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,24,29,-5,5507
-71,Rajah Caruth,Chv,0,22,1,1,1423.573,1754.878,331.305,1422.573,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,8,-7,5507
-34,Layne Riggs (P),Frd,0,19,1,1,1427.19,1778.879,351.689,1426.19,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,9,16,-7,5507
-11,Corey Heim (P),Tyt,0,22,1,1,1428.657,1794.896,366.239,1427.657,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,10,-8,5507
-98,Ty Majeski (P),Frd,0,10,1,1,1431.52,1611.187,179.667,1430.52,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,30,32,-2,5507
-45,Bayley Currey,Chv,0,17,1,1,1433.969,1935.233,501.264,1432.969,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,14,26,-12,5507
-52,Kaden Honeycutt (P),Tyt,0,17,1,1,1464.024,2146.379,682.355,1463.024,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,15,31,-16,5507
-33,Frankie Muniz #,Frd,0,20,1,1,1492.602,1785.133,292.531,1491.602,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,8,15,-7,5507
-13,Jake Garcia,Frd,0,15,1,1,1513.719,2028.216,514.497,1512.719,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,20,32,-12,5507
-77,Corey LaJoie,Chv,0,12,1,1,1562.433,1596.924,34.491,1561.433,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,30,31,-1,5507
-81,Connor Mosack #,Chv,0,18,1,1,1580.87,2022.484,441.614,1579.87,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,16,24,-8,5507
-5,Toni Breidinger #,Tyt,0,27,1,1,1607.176,2096.11,488.934,1606.176,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,10,-9,5507
-18,Tyler Ankrum (P),Chv,0,21,1,1,1630.775,1930.473,299.698,1629.775,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,7,16,-9,5507
-7,Stefan Parsons,Chv,0,25,1,1,1632.58,1845.065,212.485,1631.58,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,3,-1,5507
-02,Nathan Byrd,Chv,0,16,1,1,1633.778,2173.893,540.115,1632.778,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,21,32,-11,5507
-42,Matt Mills,Chv,0,15,1,1,1674.56,2054.594,380.034,1673.56,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,25,33,-8,5507
-38,Chandler Smith,Frd,0,24,1,1,1698.159,2027.085,328.926,1697.159,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,15,-12,5507
-22,Mason Maggio,Frd,0,18,1,1,1739.96,2076.025,336.065,1738.96,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,19,26,-7,5507
-44,Andres Perez De Lara #,Chv,0,24,1,1,1748.75,1961.148,212.398,1747.75,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,14,-10,5507
-15,Tanner Gray,Tyt,0,21,1,1,1792.036,1826.266,34.23,1791.036,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,14,-2,5507
-66,Luke Baldwin,Frd,0,24,1,1,1813.657,2115.222,301.565,1812.657,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,6,16,-10,5507
-62,Cole Butcher,Tyt,0,25,1,1,1819.487,2576.696,757.209,1818.487,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,23,-20,5507
-77,Corey LaJoie,Chv,0,19,1,1,1821.518,2211.357,389.839,1820.518,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,18,29,-11,5507
-98,Ty Majeski (P),Frd,0,17,1,1,1836.375,2267.511,431.136,1835.375,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,26,33,-7,5507
-9,Grant Enfinger,Chv,0,19,1,1,1837.446,2289.312,451.866,1836.446,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,19,30,-11,5507
-17,Giovanni Ruggiero #,Tyt,0,20,1,1,1844.2,2705.996,861.796,1843.2,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,17,33,-16,5507
-76,Spencer Boyd,Chv,0,22,1,1,1854.633,2149.146,294.513,1853.633,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,11,20,-9,5507
-88,Matt Crafton,Frd,0,20,1,1,1896.999,2075.597,178.598,1895.999,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,18,20,-2,5507
-26,Dawson Sutton #,Chv,0,15,1,1,1940.209,2185.557,245.348,1939.209,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,31,33,-2,5507
-34,Layne Riggs (P),Frd,0,25,1,1,1973.585,2410.534,436.949,1972.585,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,11,21,-10,5507
-91,Jack Wood,Chv,0,28,1,1,2033.912,2545.955,512.043,2032.912,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,6,15,-9,5507
-41,Tyler Reif,Chv,0,31,1,1,2044.744,2443.347,398.603,2043.744,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,9,-6,5507
-15,Tanner Gray,Tyt,0,28,1,1,2047.032,2567.073,520.041,2046.032,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,7,15,-8,5507
-99,Ben Rhodes,Frd,0,18,1,1,2053.066,2345.76,292.694,2052.066,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,25,33,-8,5507
-1,Brent Crews,Tyt,0,31,1,1,2056.579,2885.907,829.328,2055.579,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,14,-10,5507
-18,Tyler Ankrum (P),Chv,0,26,1,1,2095.639,2803.501,707.862,2094.639,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,11,22,-11,5507
-7,Stefan Parsons,Chv,0,33,1,1,2097.535,2216.465,118.93,2096.535,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,4,-2,5507
-2,Clayton Green,Frd,0,20,1,1,2118.518,2604.729,486.211,2117.518,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,22,33,-11,5507
-22,Mason Maggio,Frd,0,20,1,1,2157.127,2430.971,273.844,2156.127,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,23,33,-10,5507
-11,Corey Heim (P),Tyt,0,34,1,1,2159.024,2495.938,336.914,2158.024,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,5,-3,5507
-19,Daniel Hemric,Chv,0,27,1,1,2164.578,2771.498,606.92,2163.578,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,20,-8,5507
-88,Matt Crafton,Frd,0,23,1,1,2178.695,2579.362,400.667,2177.695,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,18,28,-10,5507
-38,Chandler Smith,Frd,0,29,1,1,2190.97,2501.503,310.533,2189.97,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,9,10,-1,5507
-13,Jake Garcia,Frd,0,20,1,1,2196.217,2817.799,621.582,2195.217,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,24,33,-9,5507
-71,Rajah Caruth,Chv,0,37,1,1,2207.036,2733.876,526.84,2206.036,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,3,-2,5507
-44,Andres Perez De Lara #,Chv,0,32,1,1,2212.598,2715.91,503.312,2211.598,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,8,-3,5507
-81,Connor Mosack #,Chv,0,24,1,1,2216.52,2671.222,454.702,2215.52,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,18,26,-8,5507
-33,Frankie Muniz #,Frd,0,34,1,1,2230.149,2752.995,522.846,2229.149,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,7,-4,5507
-45,Bayley Currey,Chv,0,27,1,1,2245.619,2733.865,488.246,2244.619,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,14,18,-4,5507
-66,Luke Baldwin,Frd,0,28,1,1,2254.69,2630.178,375.488,2253.69,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,15,-3,5507
-5,Toni Breidinger #,Tyt,0,34,1,1,2327.761,2974.737,646.976,2326.761,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,10,-5,5507
-7,Stefan Parsons,Chv,0,36,1,1,2329.763,2859.503,529.74,2328.763,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,5,-3,5507
-42,Matt Mills,Chv,0,25,1,1,2362.647,-1.0,-1.0,2361.647,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,19,19,0,5507
-77,Corey LaJoie,Chv,0,24,1,1,2377.344,2896.043,518.699,2376.344,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,23,28,-5,5507
-74,Caleb Costner,Chv,0,26,1,1,2395.81,-1.0,-1.0,2394.81,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,17,17,0,5507
-26,Dawson Sutton #,Chv,0,22,1,1,2410.943,2884.383,473.44,2409.943,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,27,33,-6,5507
-76,Spencer Boyd,Chv,0,31,1,1,2436.034,2954.188,518.154,2435.034,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,9,14,-5,5507
-98,Ty Majeski (P),Frd,0,23,1,1,2454.807,2952.39,497.583,2453.807,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,27,31,-4,5507
-99,Ben Rhodes,Frd,0,21,1,1,2458.786,2763.227,304.441,2457.786,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,29,32,-3,5507
-02,Nathan Byrd,Chv,0,25,1,1,2463.923,-1.0,-1.0,2462.923,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,22,22,0,5507
-9,Grant Enfinger,Chv,0,25,1,1,2479.656,2861.38,381.724,2478.656,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,23,26,-3,5507
-52,Kaden Honeycutt (P),Tyt,0,28,1,1,2483.165,2958.923,475.758,2482.165,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,14,21,-7,5507
-35,Greg Van Alst,Tyt,0,8,1,1,2510.019,-1.0,-1.0,2509.019,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,34,34,0,5507
-22,Mason Maggio,Frd,0,23,1,1,2540.353,-1.0,-1.0,2539.353,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,28,28,0,5507
-34,Layne Riggs (P),Frd,0,31,1,1,2603.196,2951.983,348.787,2602.196,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,11,13,-2,5507
-91,Jack Wood,Chv,0,30,1,1,2620.491,2773.36,152.869,2619.491,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,14,-2,5507
-11,Corey Heim (P),Tyt,0,38,1,1,2628.457,-1.0,-1.0,2627.457,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5507
-15,Tanner Gray,Tyt,0,30,1,1,2647.487,-1.0,-1.0,2646.487,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,13,13,0,5507
-62,Cole Butcher,Tyt,0,27,1,1,2655.875,-1.0,-1.0,2654.875,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,18,18,0,5507
-2,Clayton Green,Frd,0,21,1,1,2658.355,2693.037,34.682,2657.355,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,31,31,0,5507
-38,Chandler Smith,Frd,0,34,1,1,2664.003,2876.526,212.523,2663.003,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,7,8,-1,5507
-66,Luke Baldwin,Frd,0,31,1,1,2741.187,2945.266,204.079,2740.187,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,13,-1,5507
-81,Connor Mosack #,Chv,0,27,1,1,2778.591,-1.0,-1.0,2777.591,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,19,19,0,5507
-17,Giovanni Ruggiero #,Tyt,0,22,1,1,2783.172,-1.0,-1.0,2782.172,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,31,31,0,5507
-44,Andres Perez De Lara #,Chv,0,34,1,1,2791.319,-1.0,-1.0,2790.319,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,8,8,0,5507
-91,Jack Wood,Chv,0,30,1,1,2794.864,2827.588,32.724,2793.864,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,14,16,-2,5507
-71,Rajah Caruth,Chv,0,39,1,1,2814.86,-1.0,-1.0,2813.86,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,2,0,5507
-19,Daniel Hemric,Chv,0,29,1,1,2849.568,-1.0,-1.0,2848.568,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,17,17,0,5507
-91,Jack Wood,Chv,0,30,1,1,2850.633,-1.0,-1.0,2849.633,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,16,16,0,5507
-41,Tyler Reif,Chv,0,45,1,1,2874.749,2918.355,43.606,2873.749,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5507
-18,Tyler Ankrum (P),Chv,0,28,1,1,2880.851,-1.0,-1.0,2879.851,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,19,19,0,5507
-99,Ben Rhodes,Frd,0,25,1,1,2897.232,2929.706,32.474,2896.232,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,27,27,0,5507
-13,Jake Garcia,Frd,0,22,1,1,2898.866,-1.0,-1.0,2897.866,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,32,32,0,5507
-2,Clayton Green,Frd,0,28,1,1,2927.089,-1.0,-1.0,2926.089,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,20,20,0,5507
-7,Stefan Parsons,Chv,0,38,1,1,2938.47,-1.0,-1.0,2937.47,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,5,0,5507
-41,Tyler Reif,Chv,0,45,1,1,2940.436,2981.165,40.729,2939.436,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5507
-88,Matt Crafton,Frd,0,35,1,1,2942.71,-1.0,-1.0,2941.71,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,7,7,0,5507
-26,Dawson Sutton #,Chv,0,24,1,1,2961.489,-1.0,-1.0,2960.489,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,29,29,0,5507
-1,Brent Crews,Tyt,0,33,1,1,2963.728,-1.0,-1.0,2962.728,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,11,11,0,5507
-77,Corey LaJoie,Chv,0,26,1,1,2972.658,-1.0,-1.0,2971.658,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,25,25,0,5507
-99,Ben Rhodes,Frd,0,26,1,2,2975.792,3008.145,32.353,2974.792,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,26,26,0,5507
-45,Bayley Currey,Chv,0,35,1,1,2988.057,-1.0,-1.0,2987.057,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,8,8,0,5507
-41,Tyler Reif,Chv,0,45,2,2,3003.639,-1.0,-1.0,3002.639,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5507
-33,Frankie Muniz #,Frd,0,42,2,2,3014.148,-1.0,-1.0,3013.148,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,2,0,5507
-66,Luke Baldwin,Frd,0,33,2,2,3022.941,-1.0,-1.0,3021.941,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,12,0,5507
-9,Grant Enfinger,Chv,0,30,2,2,3025.492,-1.0,-1.0,3024.492,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,17,17,0,5507
-99,Ben Rhodes,Frd,0,26,2,2,3027.109,-1.0,-1.0,3026.109,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,26,26,0,5507
-34,Layne Riggs (P),Frd,0,33,2,2,3029.726,-1.0,-1.0,3028.726,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,13,13,0,5507
-98,Ty Majeski (P),Frd,0,25,2,2,3037.767,-1.0,-1.0,3036.767,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,29,29,0,5507
-52,Kaden Honeycutt (P),Tyt,0,30,2,2,3042.012,-1.0,-1.0,3041.012,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,18,18,0,5507
-76,Spencer Boyd,Chv,0,33,2,2,3043.782,-1.0,-1.0,3042.782,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,14,14,0,5507
-38,Chandler Smith,Frd,0,39,2,2,3046.459,-1.0,-1.0,3045.459,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,4,0,5507
-5,Toni Breidinger #,Tyt,0,36,2,2,3056.435,-1.0,-1.0,3055.435,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,7,7,0,5507
+52,Kaden Honeycutt (P),Tyt,0,0,8,8,0.0,0.0,32.812,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+11,Corey Heim (P),Tyt,0,0,8,8,0.0,0.0,32.231,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+98,Ty Majeski (P),Frd,0,0,8,8,0.0,0.0,32.553,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+18,Tyler Ankrum (P),Chv,0,0,8,8,0.0,0.0,32.586,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+34,Layne Riggs (P),Frd,0,0,8,8,0.0,0.0,32.426,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+38,Chandler Smith,Frd,0,0,8,8,0.0,0.0,32.716,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+1,Brent Crews,Tyt,0,0,8,8,0.0,0.0,33.078,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+15,Tanner Gray,Tyt,0,0,8,8,0.0,0.0,32.819,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+71,Rajah Caruth,Chv,0,0,8,8,0.0,0.0,32.561,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+17,Giovanni Ruggiero #,Tyt,0,0,8,8,0.0,0.0,32.299,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+99,Ben Rhodes,Frd,0,0,8,8,0.0,0.0,32.448,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+7,Stefan Parsons,Chv,0,0,8,8,0.0,0.0,32.997,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+77,Corey LaJoie,Chv,0,0,8,8,0.0,0.0,32.712,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+41,Tyler Reif,Chv,0,0,8,8,0.0,0.0,33.167,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+13,Jake Garcia,Frd,0,0,8,8,0.0,0.0,32.567,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+91,Jack Wood,Chv,0,0,8,8,0.0,0.0,32.82,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+44,Andres Perez De Lara #,Chv,0,0,8,8,0.0,0.0,33.16,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+45,Bayley Currey,Chv,0,0,8,8,0.0,0.0,32.999,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+62,Cole Butcher,Tyt,0,0,8,8,0.0,0.0,32.752,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+19,Daniel Hemric,Chv,0,0,8,8,0.0,0.0,31.986,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+81,Connor Mosack #,Chv,0,0,8,8,0.0,0.0,32.407,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+26,Dawson Sutton #,Chv,0,0,8,8,0.0,0.0,32.747,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+66,Luke Baldwin,Frd,0,0,8,8,0.0,0.0,32.966,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+9,Grant Enfinger,Chv,0,0,8,8,0.0,0.0,32.437,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+88,Matt Crafton,Frd,0,0,8,8,0.0,0.0,32.114,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+5,Toni Breidinger #,Tyt,0,0,8,8,0.0,0.0,32.613,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+76,Spencer Boyd,Chv,0,0,8,8,0.0,0.0,34.417,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+33,Frankie Muniz #,Frd,0,0,8,8,0.0,0.0,36.16,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+02,Nathan Byrd,Chv,0,0,8,8,0.0,0.0,34.937,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+2,Clayton Green,Frd,0,0,8,8,0.0,0.0,35.143,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+35,Greg Van Alst,Tyt,0,0,8,8,0.0,0.0,35.198,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+22,Mason Maggio,Frd,0,0,8,8,0.0,0.0,34.996,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+42,Matt Mills,Chv,0,0,8,8,0.0,0.0,33.294,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+74,Caleb Costner,Chv,0,0,8,8,0.0,0.0,32.938,-1.0,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+42,Matt Mills,Chv,0,0,2,2,18.694,18.694,0.0,17.694,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,0,0,0,5507
+19,Daniel Hemric,Chv,1,1,2,2,74.739,277.843,203.104,102.175,267.515,165.34,27.436,10.328,OTHER,False,False,False,False,0,0,3,33,-30,5507
+26,Dawson Sutton #,Chv,2,0,2,2,172.214,-1.0,-1.0,171.214,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,34,34,0,5507
+19,Daniel Hemric,Chv,4,2,2,2,303.881,-1.0,-1.0,302.881,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,33,33,0,5507
+34,Layne Riggs (P),Frd,6,6,1,1,414.485,447.738,33.253,413.485,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,18,32,-14,5507
+38,Chandler Smith,Frd,26,26,1,1,986.338,1031.681,45.343,1010.435,1019.275,8.84,24.097,12.406,TWO_WHEEL_CHANGE_RIGHT,False,False,True,True,0,0,3,30,-27,5507
+11,Corey Heim (P),Tyt,49,49,2,2,1810.227,1863.305,53.078,1843.835,1859.535,15.7,33.608,3.77,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,1,2,-1,5507
+1,Brent Crews,Tyt,49,49,2,2,1810.664,1863.919,53.255,1819.315,1835.575,16.26,8.651,28.344,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,2,3,-1,5507
+98,Ty Majeski (P),Frd,49,49,2,2,1811.524,1864.729,53.205,1824.335,1840.255,15.92,12.811,24.474,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,3,4,-1,5507
+71,Rajah Caruth,Chv,49,49,2,2,1811.994,1863.282,51.288,1834.495,1848.955,14.46,22.501,14.327,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,4,1,3,5507
+15,Tanner Gray,Tyt,49,49,2,2,1812.747,1865.59,52.843,1841.555,1856.495,14.94,28.808,9.095,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,5,5,0,5507
+77,Corey LaJoie,Chv,49,49,2,2,1813.043,1870.864,57.821,1824.195,1846.215,22.02,11.152,24.649,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,6,15,-9,5507
+52,Kaden Honeycutt (P),Tyt,49,49,2,2,1813.377,1869.117,55.74,1843.855,1862.335,18.48,30.478,6.782,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,7,9,-2,5507
+7,Stefan Parsons,Chv,49,49,2,2,1813.84,1869.381,55.541,1828.755,1847.355,18.6,14.915,22.026,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,8,10,-2,5507
+13,Jake Garcia,Frd,49,49,2,2,1814.182,1869.097,54.915,1824.235,1841.535,17.3,10.053,27.562,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,9,8,1,5507
+17,Giovanni Ruggiero #,Tyt,49,49,2,2,1814.617,1868.106,53.489,1848.175,1863.615,15.44,33.558,4.491,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,10,6,4,5507
+44,Andres Perez De Lara #,Chv,49,49,2,2,1814.993,1869.424,54.431,1832.895,1850.235,17.34,17.902,19.189,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,11,11,0,5507
+81,Connor Mosack #,Chv,49,49,2,2,1815.364,1869.03,53.666,1834.495,1850.955,16.46,19.131,18.075,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,12,7,5,5507
+45,Bayley Currey,Chv,49,49,2,2,1815.911,1870.043,54.132,1837.575,1854.395,16.82,21.664,15.648,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,13,13,0,5507
+18,Tyler Ankrum (P),Chv,49,49,2,2,1816.257,1872.01,55.753,1826.675,1845.555,18.88,10.418,26.455,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,14,16,-2,5507
+88,Matt Crafton,Frd,49,49,2,2,1816.719,1869.958,53.239,1832.695,1849.115,16.42,15.976,20.843,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,15,12,3,5507
+99,Ben Rhodes,Frd,49,49,2,2,1817.144,1873.377,56.233,1825.535,1844.895,19.36,8.391,28.482,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,16,18,-2,5507
+34,Layne Riggs (P),Frd,49,49,2,2,1817.504,1873.488,55.984,1848.655,1868.075,19.42,31.151,5.413,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,17,19,-2,5507
+91,Jack Wood,Chv,49,49,2,2,1818.147,1879.349,61.202,1844.895,1868.455,23.56,26.748,10.894,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,18,21,-3,5507
+41,Tyler Reif,Chv,49,49,2,2,1818.68,1874.905,56.225,1848.575,1867.455,18.88,29.895,7.45,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,19,20,-1,5507
+9,Grant Enfinger,Chv,49,49,2,2,1819.029,1872.593,53.564,1839.615,1855.995,16.38,20.586,16.598,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,20,17,3,5507
+62,Cole Butcher,Tyt,49,49,2,2,1819.834,1894.281,74.447,1840.875,1875.075,34.2,21.041,19.206,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,21,22,-1,5507
+22,Mason Maggio,Frd,50,48,2,2,1884.024,1962.641,78.617,1915.155,1951.455,36.3,31.131,11.186,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,31,31,0,5507
+66,Luke Baldwin,Frd,50,49,2,2,1884.434,1949.973,65.539,1899.235,1927.135,27.9,14.801,22.838,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,23,26,-3,5507
+38,Chandler Smith,Frd,50,49,2,2,1884.799,1950.571,65.772,1910.955,1937.955,27.0,26.156,12.616,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,24,27,-3,5507
+02,Nathan Byrd,Chv,50,49,2,2,1885.704,1942.935,57.231,1903.835,1921.755,17.92,18.131,21.18,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,25,24,1,5507
+76,Spencer Boyd,Chv,50,49,2,2,1886.608,1947.804,61.196,1906.915,1926.055,19.14,20.307,21.749,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,26,25,1,5507
+33,Frankie Muniz #,Frd,50,49,2,2,1887.082,1956.817,69.735,1923.335,1951.695,28.36,36.253,5.122,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,27,29,-2,5507
+2,Clayton Green,Frd,50,49,2,2,1887.672,1977.005,89.333,1922.835,1969.075,46.24,35.163,7.93,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,28,30,-2,5507
+74,Caleb Costner,Chv,50,48,2,2,1888.349,1969.349,81.0,1905.235,1944.295,39.06,16.886,25.054,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,32,32,0,5507
+35,Greg Van Alst,Tyt,50,49,2,2,1889.036,1930.324,41.288,1888.036,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,29,23,6,5507
+5,Toni Breidinger #,Tyt,50,49,2,2,1889.529,1951.935,62.406,1902.615,1926.455,23.84,13.086,25.48,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,30,28,2,5507
+42,Matt Mills,Chv,50,50,2,2,1890.174,1950.779,60.605,1919.195,1937.955,18.76,29.021,12.824,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,1,22,-21,5507
+35,Greg Van Alst,Tyt,51,50,2,2,1973.274,2045.722,72.448,2000.795,2027.195,26.4,27.521,18.527,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,23,30,-7,5507
+22,Mason Maggio,Frd,51,49,2,2,1986.172,2063.782,77.61,2016.555,2053.075,36.52,30.383,10.707,OTHER,False,False,False,False,0,0,31,32,-1,5507
+11,Corey Heim (P),Tyt,94,94,2,2,3458.34,3511.006,52.666,3491.755,3507.135,15.38,33.415,3.871,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,1,2,-1,5507
+98,Ty Majeski (P),Frd,94,94,2,2,3458.801,3510.638,51.837,3471.395,3486.355,14.96,12.594,24.283,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,2,1,1,5507
+1,Brent Crews,Tyt,94,94,2,2,3459.343,3511.424,52.081,3467.935,3483.415,15.48,8.592,28.009,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,3,3,0,5507
+52,Kaden Honeycutt (P),Tyt,94,94,2,2,3459.895,3515.147,55.252,3490.075,3508.095,18.02,30.18,7.052,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,4,6,-2,5507
+71,Rajah Caruth,Chv,94,94,2,2,3460.289,3513.61,53.321,3482.995,3499.375,16.38,22.706,14.235,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,5,4,1,5507
+15,Tanner Gray,Tyt,94,94,2,2,3460.783,3513.775,52.992,3489.295,3505.495,16.2,28.512,8.28,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,6,5,1,5507
+34,Layne Riggs (P),Frd,94,94,2,2,3461.084,3516.932,55.848,3492.635,3511.455,18.82,31.551,5.477,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,7,7,0,5507
+13,Jake Garcia,Frd,94,94,2,2,3461.544,3517.3,55.756,3471.575,3490.015,18.44,10.031,27.285,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,8,8,0,5507
+7,Stefan Parsons,Chv,94,94,2,2,3464.142,3523.878,59.736,3479.295,3502.275,22.98,15.153,21.603,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,9,17,-8,5507
+17,Giovanni Ruggiero #,Tyt,94,94,2,2,3464.477,3518.275,53.798,3498.215,3513.995,15.78,33.738,4.28,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,10,9,1,5507
+44,Andres Perez De Lara #,Chv,94,94,2,2,3464.801,3520.611,55.81,3482.555,3501.515,18.96,17.754,19.096,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,11,15,-4,5507
+77,Corey LaJoie,Chv,94,94,2,2,3465.09,3519.524,54.434,3476.375,3494.455,18.08,11.285,25.069,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,12,11,1,5507
+45,Bayley Currey,Chv,94,94,2,2,3465.542,3519.201,53.659,3487.175,3503.435,16.26,21.633,15.766,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,13,10,3,5507
+99,Ben Rhodes,Frd,94,94,2,2,3465.861,3543.384,77.523,3473.935,3508.475,34.54,8.074,34.909,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,14,21,-7,5507
+81,Connor Mosack #,Chv,94,94,2,2,3466.532,3519.562,53.03,3485.455,3501.595,16.14,18.923,17.967,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,15,12,3,5507
+9,Grant Enfinger,Chv,94,94,2,2,3466.897,3520.526,53.629,3487.295,3504.375,17.08,20.398,16.151,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,16,14,2,5507
+18,Tyler Ankrum (P),Chv,94,94,2,2,3467.284,3524.872,57.588,3477.375,3498.135,20.76,10.091,26.737,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,17,19,-2,5507
+41,Tyler Reif,Chv,94,94,2,2,3467.73,3522.507,54.777,3497.495,3515.035,17.54,29.765,7.472,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,18,16,2,5507
+88,Matt Crafton,Frd,94,94,2,2,3468.075,3524.369,56.294,3484.155,3503.735,19.58,16.08,20.634,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,19,18,1,5507
+62,Cole Butcher,Tyt,94,94,2,2,3469.232,3533.116,63.884,3489.895,3514.515,24.62,20.663,18.601,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,20,20,0,5507
+42,Matt Mills,Chv,95,94,2,2,3530.966,3589.673,58.707,3555.795,3577.335,21.54,24.829,12.338,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,22,22,0,5507
+66,Luke Baldwin,Frd,95,93,2,2,3531.314,3593.033,61.719,3545.715,3570.015,24.3,14.401,23.018,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,24,25,-1,5507
+5,Toni Breidinger #,Tyt,95,92,2,2,3531.807,3600.311,68.504,3544.735,3573.795,29.06,12.928,26.516,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,30,30,0,5507
+74,Caleb Costner,Chv,95,91,2,2,3532.563,3599.268,66.705,3548.575,3573.835,25.26,16.012,25.433,TWO_WHEEL_CHANGE_RIGHT,False,False,True,True,0,0,32,32,0,5507
+2,Clayton Green,Frd,95,93,2,2,3533.269,3610.225,76.956,3565.075,3601.775,36.7,31.806,8.45,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,25,28,-3,5507
+33,Frankie Muniz #,Frd,95,93,2,2,3533.774,3598.458,64.684,3568.635,3592.015,23.38,34.861,6.443,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,26,27,-1,5507
+76,Spencer Boyd,Chv,95,93,2,2,3534.65,3598.171,63.521,3554.815,3576.875,22.06,20.165,21.296,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,27,26,1,5507
+38,Chandler Smith,Frd,95,94,2,2,3535.068,3604.094,69.026,3562.015,3591.535,29.52,26.947,12.559,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,23,23,0,5507
+22,Mason Maggio,Frd,95,92,2,2,3535.613,3619.704,84.091,3567.695,3607.895,40.2,32.082,11.809,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,31,31,0,5507
+35,Greg Van Alst,Tyt,95,93,2,2,3536.263,3617.515,81.252,3562.395,3599.515,37.12,26.132,18.0,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,28,29,-1,5507
+91,Jack Wood,Chv,95,95,2,2,3536.794,3604.509,67.715,3568.695,3593.255,24.56,31.901,11.254,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,1,21,-20,5507
+22,Mason Maggio,Frd,97,93,2,2,3642.87,3705.796,62.926,3673.095,3695.095,22.0,30.225,10.701,OTHER,False,False,False,False,0,0,31,31,0,5507
+22,Mason Maggio,Frd,111,107,2,2,4142.208,-1.0,-1.0,4172.295,4363.035,190.74,30.087,-1.0,OTHER,False,False,False,False,0,0,29,32,-3,5507
+34,Layne Riggs (P),Frd,112,112,2,2,4234.856,4287.843,52.987,4266.015,4282.315,16.3,31.159,5.528,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,1,9,-8,5507
+71,Rajah Caruth,Chv,112,112,2,2,4235.187,4287.966,52.779,4257.895,4273.355,15.46,22.708,14.611,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,2,10,-8,5507
+17,Giovanni Ruggiero #,Tyt,112,112,2,2,4236.563,4298.538,61.975,4270.015,4294.875,24.86,33.452,3.663,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,3,19,-16,5507
+77,Corey LaJoie,Chv,112,112,2,2,4237.032,4290.871,53.839,4248.255,4265.895,17.64,11.223,24.976,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,4,11,-7,5507
+7,Stefan Parsons,Chv,112,112,2,2,4238.305,4292.683,54.378,4260.255,4270.855,10.6,21.95,21.828,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,5,14,-9,5507
+45,Bayley Currey,Chv,112,112,2,2,4238.357,4294.601,56.244,4260.255,4278.895,18.64,21.898,15.706,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,6,15,-9,5507
+9,Grant Enfinger,Chv,112,112,2,2,4238.7,4291.704,53.004,4259.435,4275.295,15.86,20.735,16.409,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,7,12,-5,5507
+99,Ben Rhodes,Frd,112,112,2,2,4239.089,4296.21,57.121,4254.635,4267.455,12.82,15.546,28.755,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,8,17,-9,5507
+41,Tyler Reif,Chv,112,112,2,2,4239.799,4292.296,52.497,4269.515,4285.215,15.7,29.716,7.081,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,9,13,-4,5507
+44,Andres Perez De Lara #,Chv,112,112,2,2,4240.362,4296.805,56.443,4258.095,4277.715,19.62,17.733,19.09,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,10,18,-8,5507
+81,Connor Mosack #,Chv,112,112,2,2,4241.434,4295.005,53.571,4259.995,4277.455,17.46,18.561,17.55,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,11,16,-5,5507
+91,Jack Wood,Chv,112,112,2,2,4243.09,4299.316,56.226,4270.215,4287.755,17.54,27.125,11.561,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,14,21,-7,5507
+88,Matt Crafton,Frd,112,112,2,2,4243.445,4328.501,85.056,4259.415,4306.415,47.0,15.97,22.086,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,16,22,-6,5507
+42,Matt Mills,Chv,113,112,2,2,4311.865,4366.093,54.228,4337.015,4352.775,15.76,25.15,13.318,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,23,23,0,5507
+66,Luke Baldwin,Frd,113,111,2,2,4312.161,4392.035,79.874,4326.675,4369.075,42.4,14.514,22.96,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,25,28,-3,5507
+2,Clayton Green,Frd,113,110,2,2,4316.517,4388.233,71.716,4351.335,4378.715,27.38,34.818,9.518,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,29,30,-1,5507
+5,Toni Breidinger #,Tyt,113,110,2,2,4316.901,4378.451,61.55,4330.155,4350.975,20.82,13.254,27.476,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,30,29,1,5507
+02,Nathan Byrd,Chv,113,112,2,2,4317.419,4405.036,87.617,4336.275,4378.295,42.02,18.856,26.741,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,24,24,0,5507
+74,Caleb Costner,Chv,113,109,2,2,4318.335,4390.926,72.591,4334.855,4364.455,29.6,16.52,26.471,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,31,31,0,5507
+38,Chandler Smith,Frd,113,113,2,2,4321.258,4387.987,66.729,4345.215,4375.055,29.84,23.957,12.932,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,9,22,-13,5507
+1,Brent Crews,Tyt,117,117,1,1,4581.087,-1.0,-1.0,4593.635,5348.255,754.62,12.548,-1.0,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,21,22,-1,5507
+45,Bayley Currey,Chv,118,118,2,2,4627.399,-1.0,-1.0,4626.399,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,16,18,-2,5507
+15,Tanner Gray,Tyt,119,119,2,2,4763.307,4817.708,54.401,4792.297,4808.737,16.44,28.99,8.971,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,1,14,-13,5507
+62,Cole Butcher,Tyt,119,119,2,2,4766.331,4827.454,61.123,4787.137,4809.077,21.94,20.806,18.377,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,2,16,-14,5507
+18,Tyler Ankrum (P),Chv,119,119,2,2,4766.75,4830.353,63.603,4777.337,4801.757,24.42,10.587,28.596,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,3,17,-14,5507
+35,Greg Van Alst,Tyt,120,118,2,2,4851.074,4928.915,77.841,4877.657,4909.777,32.12,26.583,19.138,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,21,23,-2,5507
+42,Matt Mills,Chv,120,120,2,2,4854.847,4901.214,46.367,4882.217,4887.677,5.46,27.37,13.537,OTHER,False,False,False,False,0,0,13,18,-5,5507
+5,Toni Breidinger #,Tyt,137,133,1,1,5429.691,5486.808,57.117,5443.357,5459.857,16.5,13.666,26.951,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,25,26,-1,5507
+5,Toni Breidinger #,Tyt,142,136,1,1,5569.347,5662.031,92.684,5582.217,5634.037,51.82,12.87,27.994,OTHER,False,False,False,False,0,0,26,26,0,5507
+81,Connor Mosack #,Chv,148,147,2,2,5752.365,-1.0,-1.0,5751.365,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,18,18,0,5507
+34,Layne Riggs (P),Frd,149,149,2,2,5843.245,5893.488,50.243,5874.377,5887.777,13.4,31.132,5.711,TWO_WHEEL_CHANGE_RIGHT,False,False,True,True,0,0,1,9,-8,5507
+11,Corey Heim (P),Tyt,149,149,2,2,5843.522,5894.984,51.462,5876.597,5891.197,14.6,33.075,3.787,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,2,10,-8,5507
+98,Ty Majeski (P),Frd,149,149,2,2,5843.874,5888.738,44.864,5856.357,5862.297,5.94,12.483,26.441,TWO_WHEEL_CHANGE_RIGHT,False,False,True,True,0,0,3,1,2,5507
+38,Chandler Smith,Frd,149,149,2,2,5844.176,5897.347,53.171,5868.377,5884.817,16.44,24.201,12.53,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,4,11,-7,5507
+52,Kaden Honeycutt (P),Tyt,149,149,2,2,5844.601,5889.308,44.707,5874.477,5882.697,8.22,29.876,6.611,TWO_WHEEL_CHANGE_RIGHT,False,False,True,True,0,0,5,3,2,5507
+77,Corey LaJoie,Chv,149,149,2,2,5845.03,5897.725,52.695,5856.077,5872.977,16.9,11.047,24.748,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,6,12,-6,5507
+71,Rajah Caruth,Chv,149,149,2,2,5845.495,5889.204,43.709,5867.997,5876.937,8.94,22.502,12.267,TWO_WHEEL_CHANGE_RIGHT,False,False,True,True,0,0,7,2,5,5507
+9,Grant Enfinger,Chv,149,149,2,2,5845.799,5890.61,44.811,5865.617,5874.057,8.44,19.818,16.553,TWO_WHEEL_CHANGE_RIGHT,False,False,True,True,0,0,8,4,4,5507
+18,Tyler Ankrum (P),Chv,149,149,2,2,5846.263,5891.473,45.21,5856.517,5865.077,8.56,10.254,26.396,TWO_WHEEL_CHANGE_RIGHT,False,False,True,True,0,0,9,7,2,5507
+13,Jake Garcia,Frd,149,149,2,2,5846.683,5905.647,58.964,5856.757,5878.077,21.32,10.074,27.57,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,10,16,-6,5507
+15,Tanner Gray,Tyt,149,149,2,2,5847.208,5891.407,44.199,5875.737,5883.097,7.36,28.529,8.31,TWO_WHEEL_CHANGE_RIGHT,False,False,True,True,0,0,11,6,5,5507
+41,Tyler Reif,Chv,149,149,2,2,5847.606,5906.292,58.686,5876.997,5898.777,21.78,29.391,7.515,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,12,17,-5,5507
+91,Jack Wood,Chv,149,149,2,2,5849.529,5904.574,55.045,5876.157,5894.037,17.88,26.628,10.537,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,13,14,-1,5507
+88,Matt Crafton,Frd,149,149,2,2,5849.907,5903.89,53.983,5865.777,5883.157,17.38,15.87,20.733,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,14,13,1,5507
+42,Matt Mills,Chv,149,149,2,2,5850.289,5904.915,54.626,5875.757,5893.157,17.4,25.468,11.758,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,15,15,0,5507
+66,Luke Baldwin,Frd,150,148,2,2,5918.797,5974.63,55.833,5933.157,5933.877,0.72,14.36,40.753,TWO_WHEEL_CHANGE_RIGHT,False,False,True,True,0,0,19,19,0,5507
+18,Tyler Ankrum (P),Chv,155,155,2,2,6236.712,6385.33,436.905,6248.137,6641.237,393.1,11.425,32.38,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,15,15,0,5507
+15,Tanner Gray,Tyt,155,155,2,2,6275.782,6432.531,445.036,6318.717,6710.417,391.7,42.935,10.401,TWO_WHEEL_CHANGE_LEFT,True,True,False,False,0,0,16,16,0,5507
+7,Stefan Parsons,Chv,156,156,2,2,6393.838,6449.603,55.765,6409.11,6427.05,17.94,15.272,22.553,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,1,14,-13,5507
+76,Spencer Boyd,Chv,156,154,2,2,6401.225,6464.653,63.428,6421.43,6440.63,19.2,20.205,24.023,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,18,20,-2,5507
+02,Nathan Byrd,Chv,156,156,2,2,6402.686,6465.461,62.775,6423.55,6437.63,14.08,20.864,27.831,OTHER,False,False,False,False,0,0,5,15,-10,5507
+66,Luke Baldwin,Frd,156,155,2,2,6406.619,6455.602,48.983,6422.41,6431.41,9.0,15.791,24.192,TWO_WHEEL_CHANGE_LEFT,True,True,False,False,0,0,17,17,0,5507
+33,Frankie Muniz #,Frd,157,155,2,2,6473.39,6537.012,63.622,6508.75,6531.95,23.2,35.36,5.062,FOUR_WHEEL_CHANGE,True,True,True,True,0,0,18,20,-2,5507
+15,Tanner Gray,Tyt,158,157,2,2,6553.143,-1.0,-1.0,6586.07,-1.0,-1.0,32.927,-1.0,OTHER,False,False,False,False,0,0,16,17,-1,5507
+98,Ty Majeski (P),Frd,161,161,4,4,6699.131,-1.0,-1.0,6698.131,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,13,-10,5507
+52,Kaden Honeycutt (P),Tyt,161,161,4,4,6700.103,-1.0,-1.0,6699.103,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,13,-10,5507
+34,Layne Riggs (P),Frd,161,161,4,4,6701.07,-1.0,-1.0,6700.07,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,14,-10,5507
+71,Rajah Caruth,Chv,161,161,4,4,6704.206,-1.0,-1.0,6703.206,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,4,1,5507
+77,Corey LaJoie,Chv,161,161,4,4,6704.617,-1.0,-1.0,6703.617,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,6,6,0,5507
+38,Chandler Smith,Frd,161,161,4,4,6705.669,-1.0,-1.0,6704.669,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,7,7,0,5507
+41,Tyler Reif,Chv,161,161,4,4,6707.189,-1.0,-1.0,6706.189,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,8,8,0,5507
+13,Jake Garcia,Frd,161,161,4,4,6708.676,-1.0,-1.0,6707.676,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,9,9,0,5507
+91,Jack Wood,Chv,161,161,4,4,6709.387,-1.0,-1.0,6708.387,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,10,10,0,5507
+42,Matt Mills,Chv,161,161,4,4,6710.584,-1.0,-1.0,6709.584,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,11,11,0,5507
+7,Stefan Parsons,Chv,161,161,4,4,6713.601,-1.0,-1.0,6712.601,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,12,0,5507
+66,Luke Baldwin,Frd,161,160,4,4,6715.647,-1.0,-1.0,6714.647,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,16,16,0,5507
+76,Spencer Boyd,Chv,161,159,4,4,6716.777,-1.0,-1.0,6715.777,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,17,17,0,5507
+88,Matt Crafton,Frd,161,161,4,4,6718.317,-1.0,-1.0,6717.317,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,13,13,0,5507
+35,Greg Van Alst,Tyt,161,159,4,4,6720.186,-1.0,-1.0,6719.186,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,18,18,0,5507
+33,Frankie Muniz #,Frd,161,159,4,4,6721.13,-1.0,-1.0,6720.13,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,19,19,0,5507
+18,Tyler Ankrum (P),Chv,161,161,4,4,6722.46,-1.0,-1.0,6721.46,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,14,1,13,5507
+5,Toni Breidinger #,Tyt,161,153,4,4,6724.382,-1.0,-1.0,6723.382,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,25,25,0,5507
+2,Clayton Green,Frd,161,158,4,4,6728.234,-1.0,-1.0,6727.234,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,20,20,0,5507
+74,Caleb Costner,Chv,161,157,4,4,6734.29,-1.0,-1.0,6733.29,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,22,22,0,5507
+02,Nathan Byrd,Chv,161,161,4,4,6746.932,-1.0,-1.0,6745.932,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,15,11,4,5507
+99,Connor Mosack(i),Chv,0,0,1,1,63.34,96.269,32.929,62.34,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,11,23,-12,5542
+19,Aric Almirola (P),Tyt,0,0,1,1,65.949,98.043,32.094,64.949,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,24,-12,5542
+18,Justin Bonsignore,Tyt,0,0,1,1,79.531,114.45,34.919,78.531,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,16,25,-9,5542
+19,Aric Almirola (P),Tyt,0,0,1,1,124.388,156.502,32.114,123.388,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,23,27,-4,5542
+18,Justin Bonsignore,Tyt,0,0,1,1,136.633,169.243,32.61,135.633,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,22,26,-4,5542
+51,Jeremy Clements,Chv,0,2,1,1,140.992,681.025,540.033,139.992,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,14,17,-3,5542
+25,Harrison Burton,Frd,0,3,1,1,153.199,516.472,363.273,152.199,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,6,10,-4,5542
+44,Brennan Poole,Chv,0,3,1,1,163.239,609.977,446.738,162.239,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,11,16,-5,5542
+19,Aric Almirola (P),Tyt,0,0,1,1,181.473,266.059,84.586,180.473,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,23,34,-11,5542
+16,Christian Eckes #,Chv,0,4,1,1,201.666,648.537,446.871,200.666,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,14,14,0,5542
+11,Brenden Queen,Chv,0,5,1,1,226.844,538.824,311.98,225.844,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,11,13,-2,5542
+54,Taylor Gray #,Tyt,0,0,1,1,241.263,273.64,32.377,240.263,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,33,33,0,5542
+07,Patrick Emerling(i),Chv,0,2,1,1,255.65,556.024,300.374,254.65,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,23,24,-1,5542
+53,Joey Gase,Chv,0,4,1,1,273.068,632.66,359.592,272.068,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,17,17,0,5542
+70,Leland Honeyman,Chv,0,0,1,1,302.754,409.738,106.984,301.754,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,30,27,3,5542
+00,Sheldon Creed,Frd,0,0,1,1,311.521,344.938,33.417,310.521,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,29,32,-3,5542
+27,Jeb Burton,Chv,0,9,1,1,322.773,1119.611,796.838,321.773,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,12,-7,5542
+42,Anthony Alfredo,Chv,0,9,1,1,346.228,1158.509,812.281,345.228,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,11,1,5542
+45,Josh Williams,Chv,0,6,1,1,353.21,912.74,559.53,352.21,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,15,15,0,5542
+31,Blaine Perkins,Chv,0,10,1,1,362.662,1118.131,755.469,361.662,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,7,9,-2,5542
+8,Sammy Smith,Chv,0,11,1,1,372.092,1007.004,634.912,371.092,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,4,-2,5542
+99,Connor Mosack(i),Chv,0,8,1,1,383.355,1043.055,659.7,382.355,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,14,14,0,5542
+26,Dean Thompson #,Tyt,0,11,1,1,398.098,972.243,574.145,397.098,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,8,9,-1,5542
+48,Nick Sanchez #,Chv,0,12,1,1,405.979,684.343,278.364,404.979,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,3,0,5542
+20,Brandon Jones,Tyt,0,12,1,1,413.352,1370.639,957.287,412.352,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,6,-2,5542
+41,Ryan Sieg,Frd,0,10,1,1,442.149,837.512,395.363,441.149,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,11,11,0,5542
+21,Austin Hill (P),Chv,0,14,1,1,461.717,1405.191,943.474,460.717,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,2,0,5542
+14,Garrett Smithley,Chv,0,5,1,1,478.001,876.605,398.604,477.001,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,23,23,0,5542
+10,Daniel Dye #,Chv,0,14,1,1,488.332,1609.32,1120.988,487.332,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,5,0,5542
+17,Corey Day,Chv,0,15,1,1,505.527,1167.631,662.104,504.527,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,2,0,5542
+39,Kyle Sieg,Frd,0,15,1,1,512.429,981.326,468.897,511.429,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,3,0,5542
+91,Josh Bilicki,Chv,0,6,1,1,538.042,1669.952,1131.91,537.042,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,23,23,0,5542
+2,Jesse Love (P),Chv,0,17,1,1,542.79,1464.833,922.043,541.79,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5542
+4,Parker Retzlaff,Chv,0,12,1,1,551.851,848.387,296.536,550.851,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,9,9,0,5542
+54,Taylor Gray #,Tyt,0,8,1,1,557.845,1217.26,659.415,556.845,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,20,20,0,5542
+35,Stefan Parsons(i),Chv,0,4,1,1,562.056,921.928,359.872,561.056,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,31,32,-1,5542
+71,Ryan Ellis,Chv,0,6,1,1,583.114,1393.407,810.293,582.114,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,26,29,-3,5542
+88,Connor Zilisch # (P),Chv,0,15,1,1,652.871,1216.437,563.566,651.871,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,6,-1,5542
+11,Brenden Queen,Chv,0,9,1,1,678.019,1152.791,474.772,677.019,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,22,22,0,5542
+00,Sheldon Creed,Frd,0,10,1,1,686.116,1198.671,512.555,685.116,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,19,19,0,5542
+28,Nick Leitz,Frd,0,17,1,1,690.23,1382.268,692.038,689.23,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,2,0,5542
+5,Glen Reen,Frd,0,4,1,1,693.423,1074.629,381.206,692.423,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,36,36,0,5542
+70,Leland Honeyman,Chv,0,8,1,1,700.249,1025.245,324.996,699.249,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,26,26,0,5542
+74,Dawson Cram,Chv,0,3,1,1,710.2,1155.311,445.111,709.2,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,37,37,0,5542
+18,Justin Bonsignore,Tyt,0,18,1,1,744.429,1311.16,566.731,743.429,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5542
+07,Patrick Emerling(i),Chv,0,8,1,1,756.832,1112.32,355.488,755.832,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,27,27,0,5542
+16,Christian Eckes #,Chv,0,7,1,1,758.88,1351.504,592.624,757.88,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,30,30,0,5542
+53,Joey Gase,Chv,0,8,1,1,770.76,1199.606,428.846,769.76,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,28,28,0,5542
+25,Harrison Burton,Frd,0,11,1,1,771.644,1239.282,467.638,770.644,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,17,17,0,5542
+44,Brennan Poole,Chv,0,8,1,1,777.434,1214.952,437.518,776.434,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,29,29,0,5542
+51,Jeremy Clements,Chv,0,5,1,1,785.946,2229.948,1444.002,784.946,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,35,35,0,5542
+1,Carson Kvapil # (P),Chv,0,16,1,1,822.928,1584.476,761.548,821.928,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,6,6,0,5542
+7,Justin Allgaier (P),Chv,0,18,1,1,905.788,1723.365,817.577,904.788,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,4,0,5542
+48,Nick Sanchez #,Chv,0,20,1,1,935.774,1390.283,454.509,934.774,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,2,0,5542
+14,Garrett Smithley,Chv,0,10,1,1,1043.783,1516.103,472.32,1042.783,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,21,22,-1,5542
+35,Stefan Parsons(i),Chv,0,8,1,1,1062.004,1096.822,34.818,1061.004,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,31,32,-1,5542
+35,Stefan Parsons(i),Chv,0,8,1,1,1120.4,1600.367,479.967,1119.4,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,31,31,0,5542
+4,Parker Retzlaff,Chv,0,21,1,1,1131.407,1708.61,577.203,1130.407,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,2,0,5542
+45,Josh Williams,Chv,0,13,1,1,1140.772,1893.646,752.874,1139.772,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,17,17,0,5542
+19,Aric Almirola (P),Tyt,0,29,1,1,1156.602,1188.664,32.062,1155.602,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5542
+41,Ryan Sieg,Frd,0,21,1,1,1176.429,1485.084,308.655,1175.429,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,4,-1,5542
+39,Kyle Sieg,Frd,0,22,1,1,1207.014,1989.963,782.949,1206.014,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,2,0,5542
+99,Connor Mosack(i),Chv,0,13,1,1,1208.212,1431.388,223.176,1207.212,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,19,19,0,5542
+19,Aric Almirola (P),Tyt,0,29,1,1,1217.415,2067.546,850.131,1216.415,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5542
+07,Patrick Emerling(i),Chv,0,11,1,1,1218.921,1447.851,228.93,1217.921,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,24,25,-1,5542
+70,Leland Honeyman,Chv,0,14,1,1,1223.948,1514.57,290.622,1222.948,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,17,17,0,5542
+27,Jeb Burton,Chv,0,12,1,1,1226.402,2450.045,1223.643,1225.402,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,22,22,0,5542
+88,Connor Zilisch # (P),Chv,0,15,1,1,1240.546,1355.128,114.582,1239.546,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,14,14,0,5542
+5,Glen Reen,Frd,0,9,1,1,1248.638,1671.464,422.826,1247.638,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,29,30,-1,5542
+31,Blaine Perkins,Chv,0,14,1,1,1259.111,2068.268,809.157,1258.111,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,18,18,0,5542
+74,Dawson Cram,Chv,0,6,1,1,1263.847,2051.414,787.567,1262.847,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,37,37,0,5542
+42,Anthony Alfredo,Chv,0,12,1,1,1267.176,1739.367,472.191,1266.176,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,24,24,0,5542
+53,Joey Gase,Chv,0,12,1,1,1341.196,2149.436,808.24,1340.196,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,27,28,-1,5542
+26,Dean Thompson #,Tyt,0,23,1,1,1344.85,1770.809,425.959,1343.85,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,2,0,5542
+44,Brennan Poole,Chv,0,13,1,1,1379.762,1799.577,419.815,1378.762,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,24,25,-1,5542
+54,Taylor Gray #,Tyt,0,16,1,1,1472.558,2096.585,624.027,1471.558,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,18,18,0,5542
+17,Corey Day,Chv,0,25,1,1,1478.443,2090.5,612.057,1477.443,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,3,0,5542
+16,Christian Eckes #,Chv,0,12,1,1,1515.864,1985.485,469.621,1514.864,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,31,31,0,5542
+28,Nick Leitz,Frd,0,21,1,1,1521.332,2017.564,496.232,1520.332,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,10,11,-1,5542
+71,Ryan Ellis,Chv,0,12,1,1,1595.142,2122.357,527.215,1594.142,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,32,33,-1,5542
+11,Brenden Queen,Chv,0,24,1,1,1613.44,1646.282,32.842,1612.44,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,7,10,-3,5542
+14,Garrett Smithley,Chv,0,13,1,1,1625.82,1857.374,231.554,1624.82,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,28,28,0,5542
+18,Justin Bonsignore,Tyt,0,28,1,1,1630.55,2195.354,564.804,1629.55,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,3,0,5542
+48,Nick Sanchez #,Chv,0,28,1,1,1642.775,1675.913,33.138,1641.775,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,4,0,5542
+00,Sheldon Creed,Frd,0,25,1,1,1659.751,2222.708,562.957,1658.751,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,7,8,-1,5542
+11,Brenden Queen,Chv,0,24,1,1,1667.848,2171.052,503.204,1666.848,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,10,10,0,5542
+48,Nick Sanchez #,Chv,0,28,1,1,1696.824,1974.268,277.444,1695.824,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,4,0,5542
+35,Stefan Parsons(i),Chv,0,12,1,1,1739.919,2011.623,271.704,1738.919,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,33,33,0,5542
+07,Patrick Emerling(i),Chv,0,20,1,1,1742.27,1938.459,196.189,1741.27,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,21,21,0,5542
+20,Brandon Jones,Tyt,0,24,1,1,1746.016,2399.277,653.261,1745.016,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,13,13,0,5542
+5,Glen Reen,Frd,0,11,1,1,1756.41,2193.501,437.091,1755.41,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,35,35,0,5542
+88,Connor Zilisch # (P),Chv,0,28,1,1,1757.914,2295.344,537.43,1756.914,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,7,7,0,5542
+41,Ryan Sieg,Frd,0,30,1,1,1769.572,2199.116,429.544,1768.572,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,2,0,5542
+2,Jesse Love (P),Chv,0,27,1,1,1777.698,2312.19,534.492,1776.698,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,8,10,-2,5542
+70,Leland Honeyman,Chv,0,23,1,1,1797.417,2168.781,371.364,1796.417,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,17,19,-2,5542
+91,Josh Bilicki,Chv,0,10,1,1,1810.699,2218.149,407.45,1809.699,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,36,36,0,5542
+21,Austin Hill (P),Chv,0,29,1,1,1863.557,2436.07,572.513,1862.557,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,5,0,5542
+99,Connor Mosack(i),Chv,0,30,1,1,1953.102,2172.333,219.231,1952.102,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,4,0,5542
+10,Daniel Dye #,Chv,0,25,1,1,1958.248,2211.018,252.77,1957.248,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,17,17,0,5542
+14,Garrett Smithley,Chv,0,16,1,1,1965.773,2267.406,301.633,1964.773,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,27,27,0,5542
+4,Parker Retzlaff,Chv,0,30,1,1,1995.185,2348.644,353.459,1994.185,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,6,-1,5542
+44,Brennan Poole,Chv,0,20,1,1,2023.172,2482.801,459.629,2089.163,2103.203,14.04,65.991,379.598,OTHER,False,False,False,False,0,0,25,25,0,5542
+42,Anthony Alfredo,Chv,0,23,1,1,2091.751,2665.499,573.748,2107.163,2172.123,64.96,15.412,493.376,OTHER,False,False,False,False,0,0,23,23,0,5542
+26,Dean Thompson #,Tyt,0,34,1,1,2121.045,2633.379,512.334,2120.045,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,3,0,5542
+35,Stefan Parsons(i),Chv,0,16,1,1,2149.935,2741.559,591.624,2148.935,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,31,31,0,5542
+8,Sammy Smith,Chv,0,49,1,1,2152.103,2184.544,32.441,2151.103,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5542
+07,Patrick Emerling(i),Chv,0,27,1,1,2175.103,-1.0,-1.0,2174.103,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,17,17,0,5542
+25,Harrison Burton,Frd,0,42,1,1,2175.999,-1.0,-1.0,2174.999,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,2,0,5542
+45,Josh Williams,Chv,0,22,1,1,2182.158,2824.044,641.886,2197.283,2249.923,52.64,15.125,574.121,OTHER,False,False,False,False,0,0,25,25,0,5542
+39,Kyle Sieg,Frd,0,28,1,1,2188.448,2729.894,541.446,2187.448,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,14,13,1,5542
+48,Nick Sanchez #,Chv,0,35,1,1,2198.773,2790.534,591.761,2197.773,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,4,0,5542
+8,Sammy Smith,Chv,0,49,1,1,2204.063,-1.0,-1.0,2203.063,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5542
+7,Justin Allgaier (P),Chv,0,34,1,1,2213.004,2478.812,265.808,2212.004,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,6,6,0,5542
+71,Ryan Ellis,Chv,0,15,1,1,2230.855,2542.816,311.961,2229.855,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,32,32,0,5542
+74,Dawson Cram,Chv,0,12,1,1,2254.31,2650.403,396.093,2253.31,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,36,36,0,5542
+53,Joey Gase,Chv,0,16,1,1,2289.414,2810.308,520.894,2288.414,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,31,32,-1,5542
+31,Blaine Perkins,Chv,0,21,1,1,2296.654,2463.868,167.214,2295.654,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,28,28,0,5542
+91,Josh Bilicki,Chv,0,14,1,1,2354.185,2632.576,278.391,2353.185,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,35,35,0,5542
+1,Carson Kvapil # (P),Chv,0,42,1,1,2371.796,2404.418,32.622,2370.796,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,3,0,5542
+10,Daniel Dye #,Chv,0,30,1,1,2387.493,2608.875,221.382,2386.493,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,16,17,-1,5542
+16,Christian Eckes #,Chv,0,25,1,1,2390.426,2919.568,529.142,2389.426,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,24,24,0,5542
+14,Garrett Smithley,Chv,0,20,1,1,2408.739,2622.293,213.554,2407.739,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,30,30,0,5542
+1,Carson Kvapil # (P),Chv,0,42,1,1,2426.828,-1.0,-1.0,2425.828,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,3,0,5542
+17,Corey Day,Chv,0,36,1,1,2435.63,2575.851,140.221,2451.983,2550.363,98.38,16.353,25.488,OTHER,False,False,False,False,0,0,7,13,-6,5542
+5,Glen Reen,Frd,0,19,1,1,2457.314,2615.5,158.186,2456.314,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,31,31,0,5542
+41,Ryan Sieg,Frd,0,38,1,1,2458.738,-1.0,-1.0,2457.738,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,6,6,0,5542
+2,Jesse Love (P),Chv,0,32,1,1,2477.104,2635.557,158.453,2476.104,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,18,18,0,5542
+51,Jeremy Clements,Chv,0,13,1,1,2483.352,2846.238,362.886,2482.352,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,36,37,-1,5542
+28,Nick Leitz,Frd,0,36,1,1,2485.49,-1.0,-1.0,2484.49,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,9,12,-3,5542
+18,Justin Bonsignore,Tyt,0,38,1,1,2511.226,2735.806,224.58,2510.226,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,7,7,0,5542
+70,Leland Honeyman,Chv,0,34,1,1,2517.232,2549.357,32.125,2516.232,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,17,17,0,5542
+11,Brenden Queen,Chv,0,35,1,1,2520.731,2776.075,255.344,2519.731,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,13,-1,5542
+19,Aric Almirola (P),Tyt,0,45,1,1,2560.88,2656.624,95.744,2559.88,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,2,0,5542
+70,Leland Honeyman,Chv,0,34,1,1,2568.969,2602.708,33.739,2567.969,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,17,18,-1,5542
+31,Blaine Perkins,Chv,0,24,1,2,2570.693,2976.954,406.261,2569.693,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,26,26,0,5542
+88,Connor Zilisch # (P),Chv,0,37,1,1,2579.911,2612.536,32.625,2578.911,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,9,11,-2,5542
+00,Sheldon Creed,Frd,0,37,1,1,2596.731,2792.12,195.389,2595.731,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,11,11,0,5542
+17,Corey Day,Chv,0,36,1,1,2601.206,2634.436,33.23,2600.206,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,13,13,0,5542
+4,Parker Retzlaff,Chv,0,38,1,1,2608.425,-1.0,-1.0,2607.425,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,8,8,0,5542
+99,Connor Mosack(i),Chv,0,44,1,1,2613.238,2645.976,32.738,2612.238,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,3,0,5542
+70,Leland Honeyman,Chv,0,34,1,1,2622.629,-1.0,-1.0,2621.629,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,18,17,1,5542
+88,Connor Zilisch # (P),Chv,0,37,1,1,2634.428,2666.805,32.377,2633.428,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,11,11,0,5542
+17,Corey Day,Chv,0,36,1,1,2656.138,2688.403,32.265,2655.138,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,13,14,-1,5542
+99,Connor Mosack(i),Chv,0,44,1,1,2667.837,-1.0,-1.0,2666.837,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,3,0,5542
+54,Taylor Gray #,Tyt,0,35,1,1,2676.164,2708.279,32.115,2675.164,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,17,18,-1,5542
+71,Ryan Ellis,Chv,0,19,1,1,2682.603,-1.0,-1.0,2681.603,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,33,33,0,5542
+2,Jesse Love (P),Chv,0,33,1,1,2684.442,2716.722,32.28,2683.442,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,21,22,-1,5542
+88,Connor Zilisch # (P),Chv,0,37,1,1,2685.928,2725.724,39.796,2717.223,2720.163,2.94,31.295,5.561,OTHER,False,False,False,False,0,0,11,12,-1,5542
+27,Jeb Burton,Chv,0,20,1,1,2701.455,2817.982,116.527,2700.455,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,32,32,0,5542
+17,Corey Day,Chv,0,36,1,1,2711.236,-1.0,-1.0,2710.236,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,14,15,-1,5542
+14,Garrett Smithley,Chv,0,23,1,1,2731.894,2836.268,104.374,2730.894,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,29,29,0,5542
+54,Taylor Gray #,Tyt,0,35,1,1,2735.303,2767.204,31.901,2734.303,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,18,19,-1,5542
+88,Connor Zilisch # (P),Chv,0,37,1,1,2746.352,2779.047,32.695,2745.352,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,13,13,0,5542
+19,Aric Almirola (P),Tyt,0,48,1,1,2763.85,2796.356,32.506,2762.85,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,2,0,5542
+2,Jesse Love (P),Chv,0,34,1,1,2764.925,2797.145,32.22,2763.925,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,22,22,0,5542
+42,Anthony Alfredo,Chv,0,26,1,1,2784.638,-1.0,-1.0,2783.638,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,26,26,0,5542
+54,Taylor Gray #,Tyt,0,35,1,1,2793.552,-1.0,-1.0,2792.552,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,18,19,-1,5542
+88,Connor Zilisch # (P),Chv,0,37,1,1,2802.502,-1.0,-1.0,2801.502,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,13,13,0,5542
+39,Kyle Sieg,Frd,0,30,1,1,2809.149,-1.0,-1.0,2808.149,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,24,24,0,5542
+2,Jesse Love (P),Chv,0,34,1,1,2816.022,-1.0,-1.0,2815.022,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,22,22,0,5542
+35,Stefan Parsons(i),Chv,0,18,1,1,2822.288,-1.0,-1.0,2821.288,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,35,35,0,5542
+91,Josh Bilicki,Chv,0,20,1,2,2827.848,2939.83,111.982,2826.848,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,32,32,0,5542
+19,Aric Almirola (P),Tyt,0,49,1,1,2846.214,2878.295,32.081,2845.214,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,2,0,5542
+5,Glen Reen,Frd,0,26,1,1,2848.353,-1.0,-1.0,2899.763,2968.543,68.78,51.41,-1.0,OTHER,False,False,False,False,0,0,27,27,0,5542
+7,Justin Allgaier (P),Chv,0,46,1,2,2857.533,2942.218,84.685,2856.533,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,3,0,5542
+20,Brandon Jones,Tyt,0,39,1,1,2859.836,2892.725,32.889,2858.836,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,10,12,-2,5542
+48,Nick Sanchez #,Chv,0,37,1,1,2868.911,-1.0,-1.0,2867.911,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,17,17,0,5542
+00,Sheldon Creed,Frd,0,39,1,1,2869.905,2902.198,32.293,2868.905,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,11,12,-1,5542
+74,Dawson Cram,Chv,0,19,1,1,2879.647,-1.0,-1.0,2878.647,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,35,35,0,5542
+11,Brenden Queen,Chv,0,38,1,1,2889.934,2922.939,33.005,2888.934,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,15,15,0,5542
+26,Dean Thompson #,Tyt,0,42,1,1,2892.161,2925.627,33.466,2891.161,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,9,9,0,5542
+20,Brandon Jones,Tyt,0,39,1,1,2915.57,-1.0,-1.0,2914.57,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,11,11,0,5542
+00,Sheldon Creed,Frd,0,39,2,2,2928.506,-1.0,-1.0,2927.506,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,12,0,5542
+19,Aric Almirola (P),Tyt,0,50,2,2,2928.78,-1.0,-1.0,2927.78,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5542
+45,Josh Williams,Chv,0,25,2,2,2931.983,-1.0,-1.0,2930.983,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,29,29,0,5542
+18,Justin Bonsignore,Tyt,0,44,2,2,2936.711,-1.0,-1.0,2968.723,2973.483,4.76,32.012,-1.0,OTHER,False,False,False,False,0,0,6,5,1,5542
+16,Christian Eckes #,Chv,0,25,2,2,2940.157,-1.0,-1.0,2939.157,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,30,30,0,5542
+11,Brenden Queen,Chv,0,38,2,2,2944.113,-1.0,-1.0,2943.113,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,15,15,0,5542
+14,Garrett Smithley,Chv,0,26,2,2,2945.712,-1.0,-1.0,2944.712,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,28,28,0,5542
+26,Dean Thompson #,Tyt,0,42,2,2,2948.209,-1.0,-1.0,2962.483,3040.683,78.2,14.274,-1.0,OTHER,False,False,False,False,0,0,9,9,0,5542
+44,Brennan Poole,Chv,0,35,2,2,2950.856,-1.0,-1.0,2949.856,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,21,21,0,5542
+53,Joey Gase,Chv,0,20,2,2,2953.482,-1.0,-1.0,2952.482,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,33,33,0,5542
+51,Jeremy Clements,Chv,0,16,2,2,2955.301,-1.0,-1.0,2954.301,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,38,38,0,5542
+27,Jeb Burton,Chv,0,24,2,2,2958.312,-1.0,-1.0,2957.312,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,31,31,0,5542
+10,Daniel Dye #,Chv,0,40,2,2,2964.789,-1.0,-1.0,2963.789,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,10,10,0,5542
+7,Justin Allgaier (P),Chv,0,46,2,2,2972.965,-1.0,-1.0,2971.965,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,3,0,5542
+21,Austin Hill (P),Chv,0,46,2,2,2974.007,-1.0,-1.0,2973.007,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,4,0,5542
+54,Ty Gibbs,Tyt,0,0,1,1,74.492,106.332,31.84,73.492,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,31,-19,5585
+60,Ryan Preece,Frd,0,3,1,2,198.079,676.394,478.315,197.079,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,21,35,-14,5585
+19,Chase Briscoe (P),Tyt,0,5,2,1,234.227,1300.231,1066.004,233.227,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,28,-25,5585
+20,Christopher Bell,Tyt,0,5,2,1,234.954,437.412,202.458,233.954,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,29,-25,5585
+12,Ryan Blaney,Frd,0,5,2,1,235.693,439.462,203.769,234.693,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,29,-24,5585
+22,Joey Logano,Frd,0,5,2,1,236.495,858.449,621.954,235.495,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,6,7,-1,5585
+45,* Tyler Reddick,Tyt,0,5,2,1,237.317,441.19,203.873,236.317,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,7,30,-23,5585
+4,* Noah Gragson,Frd,0,4,2,1,238.765,441.998,203.233,237.765,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,31,33,-2,5585
+99,Daniel Suarez,Chv,0,4,2,1,239.022,444.104,205.082,238.022,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,33,34,-1,5585
+54,Ty Gibbs,Tyt,0,3,2,1,240.712,528.282,287.57,239.712,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,36,36,0,5585
+1,Ross Chastain,Chv,0,5,2,1,241.745,445.705,203.96,240.745,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,9,28,-19,5585
+88,Shane Van Gisbergen #,Chv,0,5,2,1,245.821,871.405,625.584,244.821,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,10,13,-3,5585
+48,Alex Bowman,Chv,0,5,2,1,247.137,446.333,199.196,246.137,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,29,-17,5585
+2,Austin Cindric,Frd,0,5,2,1,250.138,608.16,358.022,249.138,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,14,11,3,5585
+3,Austin Dillon,Chv,0,5,2,1,251.146,634.501,383.355,250.146,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,15,12,3,5585
+21,Josh Berry,Frd,0,5,2,1,252.721,623.72,370.999,251.721,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,16,12,4,5585
+17,Chris Buescher,Frd,0,5,2,1,254.893,630.416,375.523,253.893,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,17,13,4,5585
+6,Brad Keselowski,Frd,0,5,2,1,256.339,633.107,376.768,255.339,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,18,14,4,5585
+34,* Todd Gilliland,Frd,0,5,2,1,257.472,448.497,191.025,256.472,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,19,31,-12,5585
+77,Carson Hocevar,Chv,0,5,2,1,260.75,447.309,186.559,259.75,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,20,30,-10,5585
+8,Kyle Busch,Chv,0,5,2,1,263.422,856.379,592.957,262.422,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,21,17,4,5585
+66,* Casey Mears(i),Frd,0,0,2,1,265.013,449.373,184.36,264.013,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,37,38,-1,5585
+71,Michael McDowell,Chv,0,5,2,1,266.54,441.239,174.699,265.54,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,22,31,-9,5585
+38,* Zane Smith,Frd,0,5,2,1,267.257,445.903,178.646,266.257,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,23,29,-6,5585
+42,John Hunter Nemechek,Tyt,0,5,2,1,268.137,451.854,183.717,267.137,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,24,31,-7,5585
+43,Erik Jones,Tyt,0,5,2,1,269.251,622.441,353.19,268.251,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,25,21,4,5585
+7,Justin Haley,Chv,0,5,2,1,271.074,623.773,352.699,270.074,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,26,22,4,5585
+10,Ty Dillon,Chv,0,5,2,1,272.411,620.148,347.737,271.411,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,26,23,3,5585
+24,William Byron (P),Chv,0,6,2,1,273.604,561.434,287.83,272.604,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5585
+9,Chase Elliott,Chv,0,6,2,1,275.493,453.423,177.93,274.493,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,5,-3,5585
+47,Ricky Stenhouse Jr.,Chv,0,5,2,1,277.731,454.757,177.026,276.731,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,26,31,-5,5585
+35,* Riley Herbst #,Tyt,0,5,2,1,279.563,549.478,269.915,278.563,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,27,25,2,5585
+51,Cody Ware,Frd,0,5,2,1,280.934,563.282,282.348,279.934,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,27,26,1,5585
+41,Cole Custer,Frd,0,5,2,1,282.168,579.556,297.388,281.168,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,28,27,1,5585
+5,Kyle Larson (P),Chv,0,6,2,1,283.439,643.654,360.215,282.439,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,3,0,5585
+23,* Bubba Wallace,Tyt,0,6,2,1,292.588,459.059,166.471,291.588,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,5,-1,5585
+11,Denny Hamlin (P),Tyt,0,6,2,1,327.484,534.024,206.54,326.484,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,5,0,5585
+16,AJ Allmendinger,Chv,0,4,2,1,392.429,947.718,555.289,391.429,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,34,34,0,5585
+12,Ryan Blaney,Frd,0,9,1,1,573.82,1142.922,569.102,572.82,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,11,-6,5585
+20,Christopher Bell,Tyt,0,10,1,1,607.277,1635.518,1028.241,606.277,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,12,-7,5585
+71,Michael McDowell,Chv,0,11,1,2,627.25,658.9,31.65,626.25,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,12,-9,5585
+41,Cole Custer,Frd,0,7,2,1,655.165,1012.455,357.29,654.165,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,20,20,0,5585
+45,* Tyler Reddick,Tyt,0,12,2,1,656.434,1090.627,434.193,655.434,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,3,0,5585
+4,* Noah Gragson,Frd,0,11,2,1,657.693,1025.804,368.111,656.693,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,11,11,0,5585
+5,Kyle Larson (P),Chv,0,6,2,1,662.246,907.706,245.46,671.405,725.865,54.46,9.159,181.841,OTHER,False,False,False,False,0,0,23,29,-6,5585
+1,Ross Chastain,Chv,0,12,2,1,663.526,1257.447,593.921,662.526,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,4,0,5585
+54,Ty Gibbs,Tyt,0,7,2,1,664.558,859.953,195.395,663.558,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,21,22,-1,5585
+48,Alex Bowman,Chv,0,12,2,1,666.594,1219.732,553.138,665.594,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,5,0,5585
+38,* Zane Smith,Frd,0,12,2,1,667.458,1134.975,467.517,666.458,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,6,6,0,5585
+77,Carson Hocevar,Chv,0,12,2,1,669.349,1255.157,585.808,668.349,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,7,7,0,5585
+24,William Byron (P),Chv,0,9,2,1,670.737,963.155,292.418,669.737,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,17,17,0,5585
+51,Cody Ware,Frd,0,8,2,1,671.863,981.098,309.235,670.863,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,19,19,0,5585
+34,* Todd Gilliland,Frd,0,12,2,1,672.701,1623.353,950.652,671.701,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,8,8,0,5585
+43,Erik Jones,Tyt,0,6,2,1,674.362,860.808,186.446,673.362,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,24,29,-5,5585
+10,Ty Dillon,Chv,0,6,2,1,676.306,862.586,186.28,675.306,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,25,29,-4,5585
+9,Chase Elliott,Chv,0,13,2,1,676.984,1206.852,529.868,675.984,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5585
+42,John Hunter Nemechek,Tyt,0,12,2,1,677.683,1630.916,953.233,676.683,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,9,9,0,5585
+7,Justin Haley,Chv,0,6,2,1,678.833,863.236,184.403,677.833,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,26,30,-4,5585
+47,Ricky Stenhouse Jr.,Chv,0,12,2,1,679.333,974.442,295.109,678.333,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,10,10,0,5585
+66,* Casey Mears(i),Frd,0,6,2,1,681.053,1018.304,337.251,680.053,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,27,26,1,5585
+71,Michael McDowell,Chv,0,11,2,1,682.412,1634.567,952.155,681.412,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,12,0,5585
+44,* JJ Yeley(i),Chv,0,6,2,1,684.109,865.067,180.958,683.109,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,28,30,-2,5585
+23,* Bubba Wallace,Tyt,0,13,2,1,685.192,1229.231,544.039,684.192,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,2,0,5585
+11,Denny Hamlin (P),Tyt,0,10,2,1,687.284,1137.312,450.028,686.284,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,15,14,1,5585
+21,Josh Berry,Frd,0,6,2,1,689.843,866.199,176.356,688.843,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,29,30,-1,5585
+17,Chris Buescher,Frd,0,6,2,1,692.114,867.196,175.082,691.114,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,30,30,0,5585
+6,Brad Keselowski,Frd,0,6,2,1,694.612,868.508,173.896,693.612,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,31,31,0,5585
+35,* Riley Herbst #,Tyt,0,9,2,1,697.048,864.724,167.676,696.048,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,18,18,0,5585
+3,Austin Dillon,Chv,0,6,2,1,698.742,869.705,170.963,697.742,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,32,32,0,5585
+2,Austin Cindric,Frd,0,7,2,1,711.328,874.495,163.167,710.328,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,21,22,-1,5585
+7,Justin Haley,Chv,0,9,1,1,970.454,2070.087,1099.633,969.454,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,22,27,-5,5585
+44,* JJ Yeley(i),Chv,0,12,1,1,1063.787,1867.358,803.571,1062.787,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,20,23,-3,5585
+22,Joey Logano,Frd,0,12,1,1,1077.311,1644.399,567.088,1076.311,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,24,23,1,5585
+51,Cody Ware,Frd,0,12,1,1,1113.058,1645.366,532.308,1112.058,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,26,27,-1,5585
+17,Chris Buescher,Frd,0,14,1,1,1113.833,1640.776,526.943,1112.833,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,8,10,-2,5585
+6,Brad Keselowski,Frd,0,14,1,1,1117.018,2486.182,1369.164,1116.018,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,9,11,-2,5585
+35,* Riley Herbst #,Tyt,0,17,1,1,1117.343,-1.0,-1.0,1116.343,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,2,-1,5585
+10,Ty Dillon,Chv,0,15,1,1,1137.204,2087.245,950.041,1136.204,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,7,-2,5585
+24,William Byron (P),Chv,0,15,1,1,1149.056,1649.734,500.678,1148.056,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,9,10,-1,5585
+8,Kyle Busch,Chv,0,15,1,1,1160.306,1642.958,482.652,1159.306,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,11,11,0,5585
+5,Kyle Larson (P),Chv,0,15,1,1,1179.112,1670.74,491.628,1178.112,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,13,-1,5585
+66,* Casey Mears(i),Frd,0,11,1,1,1182.496,1638.309,455.813,1181.496,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,32,33,-1,5585
+60,Ryan Preece,Frd,0,13,1,1,1188.223,1639.147,450.924,1187.223,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,20,19,1,5585
+43,Erik Jones,Tyt,0,17,1,1,1192.902,1647.862,454.96,1191.902,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,6,-1,5585
+3,Austin Dillon,Chv,0,17,1,1,1206.023,2005.326,799.303,1205.023,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,7,8,-1,5585
+47,Ricky Stenhouse Jr.,Chv,0,20,1,1,1220.28,1637.333,417.053,1219.28,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5585
+4,* Noah Gragson,Frd,0,18,1,1,1241.078,1641.586,400.508,1240.078,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,5,0,5585
+54,Ty Gibbs,Tyt,0,20,1,1,1249.62,2107.523,857.903,1248.62,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,2,0,5585
+41,Cole Custer,Frd,0,16,1,1,1290.341,1828.767,538.426,1289.341,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,12,0,5585
+48,Alex Bowman,Chv,0,15,2,1,1322.112,1744.742,422.63,1321.112,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,21,21,0,5585
+38,* Zane Smith,Frd,0,18,2,1,1324.587,2354.666,1030.079,1323.587,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,8,8,0,5585
+11,Denny Hamlin (P),Tyt,0,16,2,1,1326.047,1681.7,355.653,1325.047,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,15,15,0,5585
+23,* Bubba Wallace,Tyt,0,16,2,1,1331.383,1714.661,383.278,1330.383,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,16,16,0,5585
+12,Ryan Blaney,Frd,0,15,2,1,1332.454,1776.894,444.44,1331.454,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,22,22,0,5585
+77,Carson Hocevar,Chv,0,14,2,1,1338.476,1620.814,282.338,1337.476,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,25,26,-1,5585
+1,Ross Chastain,Chv,0,14,2,1,1344.54,1626.554,282.014,1343.54,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,26,26,0,5585
+21,Josh Berry,Frd,0,22,2,1,1347.281,1739.234,391.953,1346.281,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,2,0,5585
+9,Chase Elliott,Chv,0,17,2,1,1353.068,1627.984,274.916,1352.068,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,12,0,5585
+45,* Tyler Reddick,Tyt,0,20,2,1,1354.343,2129.164,774.821,1353.343,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,6,6,0,5585
+19,Chase Briscoe (P),Tyt,0,6,2,1,1373.17,1632.015,258.845,1372.17,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,38,38,0,5585
+2,Austin Cindric,Frd,0,23,2,1,1374.954,1633.224,258.27,1373.954,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5585
+88,Shane Van Gisbergen #,Chv,0,21,2,1,1376.085,2004.532,628.447,1375.085,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,3,0,5585
+4,* Noah Gragson,Frd,0,22,1,1,1779.718,2187.414,407.696,1778.718,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,4,0,5585
+8,Kyle Busch,Chv,0,20,1,1,1810.515,2393.669,583.154,1809.515,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,11,13,-2,5585
+51,Cody Ware,Frd,0,18,1,1,1841.634,2083.71,242.076,1840.634,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,23,24,-1,5585
+66,* Casey Mears(i),Frd,0,19,1,1,1891.882,2185.368,293.486,1890.882,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,24,24,0,5585
+19,Chase Briscoe (P),Tyt,0,15,1,1,1907.916,3003.607,1095.691,1906.916,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,35,35,0,5585
+77,Carson Hocevar,Chv,0,24,1,1,1920.662,2677.118,756.456,1919.662,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,6,8,-2,5585
+2,Austin Cindric,Frd,0,33,1,1,1946.05,1978.166,32.116,1945.05,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5585
+42,John Hunter Nemechek,Tyt,0,23,1,1,1962.78,2346.051,383.271,1961.78,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,15,15,0,5585
+71,Michael McDowell,Chv,0,22,1,1,1968.822,2001.042,32.22,1967.822,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,19,22,-3,5585
+34,* Todd Gilliland,Frd,0,24,1,1,1980.691,-1.0,-1.0,1979.691,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,14,14,0,5585
+21,Josh Berry,Frd,0,30,1,1,1988.971,2558.867,569.896,1987.971,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,3,0,5585
+2,Austin Cindric,Frd,0,33,1,1,1996.921,2552.588,555.667,1995.921,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5585
+9,Chase Elliott,Chv,0,30,1,1,2020.592,2968.86,948.268,2019.592,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,4,0,5585
+20,Christopher Bell,Tyt,0,23,1,1,2025.264,2382.565,357.301,2024.264,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,19,19,0,5585
+71,Michael McDowell,Chv,0,23,1,1,2048.613,2547.239,498.626,2047.613,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,22,22,0,5585
+1,Ross Chastain,Chv,0,29,1,2,2068.661,2718.874,650.213,2067.661,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,7,14,-7,5585
+44,* JJ Yeley(i),Chv,0,19,1,1,2089.339,2384.128,294.789,2088.339,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,30,30,0,5585
+24,William Byron (P),Chv,0,30,1,1,2094.044,2640.717,546.673,2093.044,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,6,8,-2,5585
+60,Ryan Preece,Frd,0,29,1,1,2117.273,2483.647,366.374,2116.273,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,11,1,5585
+11,Denny Hamlin (P),Tyt,0,31,1,1,2133.822,2166.077,32.255,2132.822,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,7,-3,5585
+45,* Tyler Reddick,Tyt,0,20,1,1,2150.401,2182.398,31.997,2149.401,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,28,29,-1,5585
+23,* Bubba Wallace,Tyt,0,31,1,1,2157.914,2189.881,31.967,2156.914,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,7,7,0,5585
+11,Denny Hamlin (P),Tyt,0,31,1,1,2186.283,2593.355,407.072,2185.283,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,7,6,1,5585
+23,* Bubba Wallace,Tyt,0,31,1,1,2212.356,2660.72,448.364,2211.356,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,8,8,0,5585
+48,Alex Bowman,Chv,0,31,1,1,2216.321,2256.558,40.237,2215.321,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,9,11,-2,5585
+3,Austin Dillon,Chv,0,24,1,1,2223.28,2608.764,385.484,2222.28,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,21,21,0,5585
+43,Erik Jones,Tyt,0,37,1,1,2238.026,2657.155,419.129,2237.026,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,2,0,5585
+47,Ricky Stenhouse Jr.,Chv,0,41,1,1,2255.642,2287.933,32.291,2254.642,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5585
+17,Chris Buescher,Frd,0,35,1,1,2260.257,3073.689,813.432,2259.257,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,4,0,5585
+22,Joey Logano,Frd,0,33,1,1,2263.701,2618.427,354.726,2262.701,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,6,6,0,5585
+99,Daniel Suarez,Chv,0,31,1,1,2268.009,2957.646,689.637,2267.009,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,10,10,0,5585
+41,Cole Custer,Frd,0,31,1,1,2275.334,2307.39,32.056,2274.334,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,11,13,-2,5585
+48,Alex Bowman,Chv,0,31,1,1,2276.88,2981.426,704.546,2275.88,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,12,0,5585
+10,Ty Dillon,Chv,0,21,1,1,2278.152,2681.316,403.164,2277.152,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,30,30,0,5585
+66,* Casey Mears(i),Frd,0,22,1,1,2290.61,2609.949,319.339,2289.61,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,29,29,0,5585
+47,Ricky Stenhouse Jr.,Chv,0,41,1,1,2306.315,2589.965,283.65,2305.315,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5585
+51,Cody Ware,Frd,0,25,1,1,2308.598,2866.848,558.25,2307.598,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,21,21,0,5585
+41,Cole Custer,Frd,0,31,1,1,2327.493,2885.874,558.381,2326.493,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,13,13,0,5585
+12,Ryan Blaney,Frd,0,36,1,1,2388.369,2999.128,610.759,2387.369,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,4,0,5585
+38,* Zane Smith,Frd,0,20,1,1,2432.624,3333.381,900.757,2431.624,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,33,34,-1,5585
+7,Justin Haley,Chv,0,22,1,1,2455.197,3076.832,621.635,2454.197,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,30,30,0,5585
+5,Kyle Larson (P),Chv,0,43,1,1,2480.462,2512.536,32.074,2479.462,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5585
+5,Kyle Larson (P),Chv,0,43,1,1,2530.117,3063.079,532.962,2529.117,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5585
+20,Christopher Bell,Tyt,0,28,1,1,2541.466,3178.35,636.884,2540.466,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,24,24,0,5585
+44,* JJ Yeley(i),Chv,0,26,1,1,2607.177,3375.359,768.182,2606.177,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,26,26,0,5585
+34,* Todd Gilliland,Frd,0,32,1,1,2614.367,2645.779,31.412,2613.367,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,13,16,-3,5585
+88,Shane Van Gisbergen #,Chv,0,42,1,1,2622.512,3284.013,661.501,2637.545,2702.965,65.42,15.033,581.048,OTHER,False,False,False,False,0,0,2,3,-1,5585
+34,* Todd Gilliland,Frd,0,32,1,1,2664.307,2901.748,237.441,2663.307,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,16,16,0,5585
+42,John Hunter Nemechek,Tyt,0,34,1,1,2679.511,3108.855,429.344,2678.511,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,13,13,0,5585
+66,* Casey Mears(i),Frd,0,24,1,1,2687.959,3115.085,427.126,2686.959,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,30,30,0,5585
+47,Ricky Stenhouse Jr.,Chv,0,45,2,1,2722.947,2844.883,121.936,2721.947,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5585
+54,Ty Gibbs,Tyt,0,41,2,1,2723.999,2938.06,214.061,2722.999,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,4,0,5585
+22,Joey Logano,Frd,0,36,2,2,2725.736,2774.257,48.521,2724.736,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,11,12,-1,5585
+10,Ty Dillon,Chv,0,22,2,1,2728.587,2846.749,118.162,2727.587,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,33,34,-1,5585
+6,Brad Keselowski,Frd,0,22,2,1,2729.609,3151.501,421.892,2728.609,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,34,34,0,5585
+77,Carson Hocevar,Chv,0,25,2,1,2730.607,2841.702,111.095,2729.607,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,30,29,1,5585
+11,Denny Hamlin (P),Tyt,0,35,2,1,2733.364,2850.59,117.226,2732.364,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,14,14,0,5585
+43,Erik Jones,Tyt,0,39,2,1,2734.889,2851.905,117.016,2733.889,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,6,8,-2,5585
+45,* Tyler Reddick,Tyt,0,39,2,1,2736.976,3053.952,316.976,2735.976,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,7,7,0,5585
+23,* Bubba Wallace,Tyt,0,33,2,1,2739.522,2855.759,116.237,2738.522,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,16,17,-1,5585
+60,Ryan Preece,Frd,0,37,2,1,2742.681,2857.067,114.386,2741.681,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,9,9,0,5585
+3,Austin Dillon,Chv,0,28,2,1,2743.449,3336.223,592.774,2742.449,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,27,27,0,5585
+71,Michael McDowell,Chv,0,29,2,1,2745.238,2858.49,113.252,2744.238,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,24,25,-1,5585
+2,Austin Cindric,Frd,0,39,2,1,2751.327,2860.337,109.01,2750.327,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,8,8,0,5585
+4,* Noah Gragson,Frd,0,41,2,1,2752.178,3173.67,421.492,2751.178,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,5,0,5585
+24,William Byron (P),Chv,0,33,2,1,2755.009,2862.192,107.183,2754.009,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,17,17,0,5585
+21,Josh Berry,Frd,0,36,2,1,2758.063,2863.853,105.79,2757.063,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,12,12,0,5585
+8,Kyle Busch,Chv,0,31,2,1,2820.817,3443.459,622.642,2819.817,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,22,25,-3,5585
+51,Cody Ware,Frd,0,27,1,1,2951.198,3291.432,340.234,2950.198,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,29,29,0,5585
+9,Chase Elliott,Chv,0,30,1,1,2990.895,3022.872,31.977,2989.895,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,25,26,-1,5585
+10,Ty Dillon,Chv,0,27,1,1,3017.8,3624.714,606.914,3016.8,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,30,30,0,5585
+71,Michael McDowell,Chv,0,34,1,1,3026.231,3058.555,32.324,3025.231,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,21,22,-1,5585
+34,* Todd Gilliland,Frd,0,36,1,1,3036.669,3680.157,643.488,3035.669,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,16,17,-1,5585
+71,Michael McDowell,Chv,0,35,1,1,3108.479,3684.574,576.095,3107.479,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,21,22,-1,5585
+60,Ryan Preece,Frd,0,45,1,1,3110.537,-1.0,-1.0,3109.537,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,9,-4,5585
+66,* Casey Mears(i),Frd,0,26,1,1,3193.086,3412.685,219.599,3192.086,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,32,32,0,5585
+19,Chase Briscoe (P),Tyt,0,24,1,1,3275.309,3508.47,233.161,3274.309,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,35,35,0,5585
+47,Ricky Stenhouse Jr.,Chv,0,60,1,1,3302.831,-1.0,-1.0,3301.831,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5585
+51,Cody Ware,Frd,0,29,1,1,3367.774,3573.596,205.822,3366.774,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,29,30,-1,5585
+77,Carson Hocevar,Chv,0,43,1,1,3386.529,-1.0,-1.0,3385.529,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,22,22,0,5585
+43,Erik Jones,Tyt,0,57,1,1,3391.97,3423.207,31.237,3390.97,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,4,-2,5585
+38,* Zane Smith,Frd,0,22,1,1,3415.806,-1.0,-1.0,3414.806,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,36,36,0,5585
+21,Josh Berry,Frd,0,55,1,1,3433.426,3465.913,32.487,3432.426,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,7,8,-1,5585
+43,Erik Jones,Tyt,0,57,1,1,3443.045,3475.085,32.04,3442.045,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,6,-2,5585
+22,Joey Logano,Frd,0,57,1,1,3469.813,3501.862,32.049,3468.813,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,7,-2,5585
+21,Josh Berry,Frd,0,55,1,1,3486.691,-1.0,-1.0,3485.691,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,8,8,0,5585
+66,* Casey Mears(i),Frd,0,28,1,1,3488.386,-1.0,-1.0,3487.386,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,33,33,0,5585
+43,Erik Jones,Tyt,0,57,1,1,3493.595,-1.0,-1.0,3492.595,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,6,6,0,5585
+54,Ty Gibbs,Tyt,0,60,1,1,3496.531,3534.38,37.849,3495.531,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,3,0,5585
+22,Joey Logano,Frd,0,57,1,1,3522.665,3554.776,32.111,3521.665,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,7,8,-1,5585
+19,Chase Briscoe (P),Tyt,0,24,1,1,3528.925,3561.2,32.275,3527.925,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,35,35,0,5585
+99,Daniel Suarez,Chv,0,50,1,1,3552.699,-1.0,-1.0,3551.699,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,19,19,0,5585
+54,Ty Gibbs,Tyt,0,60,1,1,3553.684,-1.0,-1.0,3552.684,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,3,4,-1,5585
+41,Cole Custer,Frd,0,54,1,1,3562.843,3594.734,31.891,3561.843,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,13,15,-2,5585
+22,Joey Logano,Frd,0,57,1,1,3575.523,-1.0,-1.0,3574.523,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,9,9,0,5585
+19,Chase Briscoe (P),Tyt,0,24,1,1,3581.476,3613.652,32.176,3580.476,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,35,35,0,5585
+2,Austin Cindric,Frd,0,64,1,1,3602.213,3634.18,31.967,3601.213,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5585
+41,Cole Custer,Frd,0,54,1,1,3617.247,-1.0,-1.0,3616.247,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,15,15,0,5585
+19,Chase Briscoe (P),Tyt,0,24,1,1,3634.615,3672.938,38.323,3647.765,3649.805,2.04,13.15,23.133,OTHER,False,False,False,False,0,0,35,35,0,5585
+2,Austin Cindric,Frd,0,64,1,1,3652.737,-1.0,-1.0,3651.737,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5585
+45,* Tyler Reddick,Tyt,0,59,1,1,3656.566,3688.657,32.091,3655.566,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,8,9,-1,5585
+19,Chase Briscoe (P),Tyt,0,24,1,1,3693.484,-1.0,-1.0,3692.484,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,35,35,0,5585
+7,Justin Haley,Chv,0,43,1,1,3695.503,3727.789,32.286,3694.503,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,25,25,0,5585
+12,Ryan Blaney,Frd,0,60,1,1,3697.289,-1.0,-1.0,3696.289,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,8,8,0,5585
+51,Cody Ware,Frd,0,33,1,1,3705.996,-1.0,-1.0,3704.996,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,32,32,0,5585
+45,* Tyler Reddick,Tyt,0,59,1,1,3706.56,-1.0,-1.0,3705.56,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,9,10,-1,5585
+10,Ty Dillon,Chv,0,30,1,1,3728.453,-1.0,-1.0,3727.453,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,33,33,0,5585
+11,Denny Hamlin (P),Tyt,0,65,1,1,3733.412,3777.386,43.974,3765.545,3773.725,8.18,32.133,3.661,OTHER,False,False,False,False,0,0,2,2,0,5585
+88,Shane Van Gisbergen #,Chv,0,57,1,1,3736.436,3768.645,32.209,3735.436,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,15,16,-1,5585
+20,Christopher Bell,Tyt,0,47,1,1,3744.535,3776.543,32.008,3743.535,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,22,22,0,5585
+7,Justin Haley,Chv,0,43,1,1,3747.257,-1.0,-1.0,3756.725,3762.065,5.34,9.468,-1.0,OTHER,False,False,False,False,0,0,25,25,0,5585
+9,Chase Elliott,Chv,0,55,1,2,3753.792,3785.778,31.986,3752.792,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,19,19,0,5585
+42,John Hunter Nemechek,Tyt,0,56,1,2,3757.001,3788.91,31.909,3756.001,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,17,17,0,5585
+34,* Todd Gilliland,Frd,0,38,1,1,3759.741,-1.0,-1.0,3758.741,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,30,30,0,5585
+1,Ross Chastain,Chv,0,60,1,1,3762.494,-1.0,-1.0,3771.425,3773.145,1.72,8.931,-1.0,OTHER,False,False,False,False,0,0,10,10,0,5585
+23,* Bubba Wallace,Tyt,0,64,1,1,3766.879,-1.0,-1.0,3765.879,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,4,4,0,5585
+24,William Byron (P),Chv,0,64,1,2,3770.862,3802.96,32.098,3769.862,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,5,0,5585
+88,Shane Van Gisbergen #,Chv,0,57,2,2,3789.218,-1.0,-1.0,3788.218,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,16,16,0,5585
+4,* Noah Gragson,Frd,0,62,2,2,3792.976,-1.0,-1.0,3791.976,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,6,6,0,5585
+20,Christopher Bell,Tyt,0,47,2,2,3794.602,-1.0,-1.0,3793.602,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,22,22,0,5585
+44,* JJ Yeley(i),Chv,0,40,2,2,3797.523,-1.0,-1.0,3796.523,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,29,29,0,5585
+6,Brad Keselowski,Frd,0,44,2,2,3798.591,-1.0,-1.0,3797.591,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,24,24,0,5585
+11,Denny Hamlin (P),Tyt,0,65,2,2,3803.35,-1.0,-1.0,3802.35,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,2,2,0,5585
+48,Alex Bowman,Chv,0,59,2,2,3804.641,-1.0,-1.0,3803.641,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,13,13,0,5585
+17,Chris Buescher,Frd,0,60,2,2,3806.108,-1.0,-1.0,3805.108,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,11,10,1,5585
+3,Austin Dillon,Chv,0,44,2,2,3809.936,-1.0,-1.0,3808.936,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,25,25,0,5585
+9,Chase Elliott,Chv,0,55,2,2,3810.195,-1.0,-1.0,3809.195,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,19,19,0,5585
+42,John Hunter Nemechek,Tyt,0,56,2,2,3812.295,-1.0,-1.0,3811.295,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,17,17,0,5585
+8,Kyle Busch,Chv,0,43,2,2,3816.252,-1.0,-1.0,3815.252,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,28,28,0,5585
+71,Michael McDowell,Chv,0,39,2,2,3817.752,-1.0,-1.0,3816.752,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,30,30,0,5585
+5,Kyle Larson (P),Chv,0,69,2,2,3820.116,-1.0,-1.0,3819.116,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,1,1,0,5585
+24,William Byron (P),Chv,0,64,2,2,3822.46,-1.0,-1.0,3821.46,-1.0,-1.0,-1.0,-1.0,OTHER,False,False,False,False,0,0,5,5,0,5585
